@@ -4,6 +4,7 @@ import { DirectoryPage } from './pages/Directory'
 import { EntryPage } from './pages/Entry'
 import { TierSystemPage } from './pages/TierSystem'
 import { HowItWorksPage } from './pages/HowItWorks'
+import { MatchPage } from './pages/Match'
 import { AskPage } from './pages/Ask'
 import { RaiseHandPage } from './pages/RaiseHand'
 import { TemplatesPage } from './pages/Templates'
@@ -13,6 +14,7 @@ import { NavbarShapePrototypesPage } from './pages/NavbarShapePrototypes'
 import { HomePrototypesPage } from './pages/HomePrototypes'
 import { HomePrototypeFullPage } from './pages/HomePrototypeFull'
 import { PageTransitionProvider } from './lib/page-transitions'
+import { SearchOverlayProvider } from './components/SearchOverlay'
 
 function AppRoutes() {
   return (
@@ -24,6 +26,7 @@ function AppRoutes() {
           <Route path="/entry/:source/:slug" element={<EntryPage />} />
           <Route path="/tier-system" element={<TierSystemPage />} />
           <Route path="/how-it-works" element={<HowItWorksPage />} />
+          <Route path="/match/:slug" element={<MatchPage />} />
           <Route path="/ask" element={<AskPage />} />
           <Route path="/raise-hand" element={<RaiseHandPage />} />
           <Route path="/templates" element={<TemplatesPage />} />
@@ -53,7 +56,9 @@ function AppRoutes() {
 export default function App() {
   return (
     <BrowserRouter>
-      <AppRoutes />
+      <SearchOverlayProvider>
+        <AppRoutes />
+      </SearchOverlayProvider>
     </BrowserRouter>
   )
 }

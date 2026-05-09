@@ -74,6 +74,7 @@ export function EntryPage() {
             {entry.domain}
             {entry.source === 'great_work' ? ' · history' : ''}
             {entry.source === 'people' ? ' · people' : ''}
+            {entry.source === 'resources' ? ' · resources' : ''}
           </p>
           <div className="flex items-start justify-between gap-6 mt-2">
             <h1 className="font-display text-4xl sm:text-5xl text-ink leading-tight">

@@ -7,7 +7,7 @@ import type { Tier } from '../lib/types'
 
 const VISIBLE_TIERS: Tier[] = ['S', 'A', 'B', 'C', 'D', 'F', 'unknown']
 
-type SourceFilter = 'places_you_can_work' | 'great_work' | 'people' | 'all'
+type SourceFilter = 'places_you_can_work' | 'great_work' | 'people' | 'resources' | 'all'
 
 /**
  * /directory — the back-of-the-book.
@@ -52,6 +52,7 @@ export function DirectoryPage() {
           [
             { id: 'places_you_can_work', label: 'Places you can work' },
             { id: 'people', label: 'People' },
+            { id: 'resources', label: 'Resources' },
             { id: 'great_work', label: 'Historical great work' },
             { id: 'all', label: 'All' },
           ] as Array<{ id: SourceFilter; label: string }>

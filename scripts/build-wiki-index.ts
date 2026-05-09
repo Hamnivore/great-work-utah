@@ -11,7 +11,7 @@ import path from 'node:path'
 // ---------- Types ----------
 
 type Tier = 'S' | 'A' | 'B' | 'C' | 'D' | 'F' | 'P-A' | 'P-B' | 'P-C' | 'unknown'
-type Source = 'great_work' | 'places_you_can_work' | 'people'
+type Source = 'great_work' | 'places_you_can_work' | 'people' | 'resources'
 type LegacySource = 'great_work' | 'places_you_can_work'
 
 interface Section {
@@ -43,7 +43,7 @@ const OUT_DIR = path.join(REPO_ROOT, 'src/data/generated')
 const OUT_FILE = path.join(OUT_DIR, 'all.json')
 
 const LEGACY_SOURCES: LegacySource[] = ['great_work', 'places_you_can_work']
-const PUBLIC_SOURCE_DIRS: Source[] = ['people']
+const PUBLIC_SOURCE_DIRS: Source[] = ['people', 'resources']
 
 /**
  * Editorial fields the new prose-first wiki at `wiki/` carries that the

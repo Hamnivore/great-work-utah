@@ -1,15 +1,11 @@
-import {
-  useEffect,
-  useRef,
-  useState,
-  type FormEvent,
-} from 'react'
-import { Link, useNavigate } from 'react-router-dom'
+import type React from 'react'
+import { Link } from 'react-router-dom'
 import {
   SUGGESTED_QUESTIONS,
   getFeaturedEntries,
 } from './_shared'
 import { TierGlyph } from './parts/IssueShared'
+import { useSearchOverlay } from '../SearchOverlay'
 
 /**
  * SEARCH · THE DESERT MOON
@@ -29,45 +25,10 @@ import { TierGlyph } from './parts/IssueShared'
  * what to do — there's only one bright thing on the page.
  */
 export function SearchOrb() {
-  const navigate = useNavigate()
-  const [open, setOpen] = useState(false)
-  const [value, setValue] = useState('')
-  const inputRef = useRef<HTMLInputElement>(null)
+  const { openSearch } = useSearchOverlay()
 
   const featured = getFeaturedEntries(6)
   const suggestions = SUGGESTED_QUESTIONS.slice(0, 5)
-
-  useEffect(() => {
-    if (!open) return
-    const id = window.requestAnimationFrame(() => inputRef.current?.focus())
-    function onKey(e: KeyboardEvent) {
-      if (e.key === 'Escape') {
-        e.preventDefault()
-        setOpen(false)
-      }
-    }
-    document.addEventListener('keydown', onKey)
-    const prev = document.body.style.overflow
-    document.body.style.overflow = 'hidden'
-    return () => {
-      document.removeEventListener('keydown', onKey)
-      document.body.style.overflow = prev
-      window.cancelAnimationFrame(id)
-    }
-  }, [open])
-
-  function submit(e: FormEvent) {
-    e.preventDefault()
-    const q = value.trim()
-    if (!q) return
-    setOpen(false)
-    navigate(`/ask?q=${encodeURIComponent(q)}`)
-  }
-
-  function pickSuggestion(q: string) {
-    setOpen(false)
-    navigate(`/ask?q=${encodeURIComponent(q)}`)
-  }
 
   return (
     <div
@@ -96,7 +57,7 @@ export function SearchOrb() {
       <main className="relative flex flex-col items-center pt-16 sm:pt-20 pb-12">
         <button
           type="button"
-          onClick={() => setOpen(true)}
+          onClick={() => openSearch()}
           aria-label="Open search"
           className="relative group transition-transform duration-500 hover:scale-[1.025] active:scale-[0.99]"
         >
@@ -119,7 +80,7 @@ export function SearchOrb() {
             <li key={q}>
               <button
                 type="button"
-                onClick={() => pickSuggestion(q)}
+                onClick={() => openSearch(q)}
                 className="font-serif italic text-paper/85 hover:text-paper rounded-full border border-paper/20 hover:border-paper/60 hover:bg-paper/5 px-4 py-1.5 text-sm transition-colors"
               >
                 {q}
@@ -158,19 +119,6 @@ export function SearchOrb() {
           ))}
         </ul>
       </section>
-
-      {/* The open panel — the moon doubles in size, input across its face */}
-      {open && (
-        <OrbPanel
-          value={value}
-          setValue={setValue}
-          inputRef={inputRef}
-          onSubmit={submit}
-          onClose={() => setOpen(false)}
-          onPickSuggestion={pickSuggestion}
-          suggestions={SUGGESTED_QUESTIONS.slice(0, 8)}
-        />
-      )}
     </div>
   )
 }
@@ -260,101 +208,6 @@ function Moon({
     </div>
   )
   return orb
-}
-
-/* ---------- The fullscreen "deep night" panel ---------- */
-
-function OrbPanel({
-  value,
-  setValue,
-  inputRef,
-  onSubmit,
-  onClose,
-  onPickSuggestion,
-  suggestions,
-}: {
-  value: string
-  setValue: (s: string) => void
-  inputRef: React.RefObject<HTMLInputElement | null>
-  onSubmit: (e: FormEvent) => void
-  onClose: () => void
-  onPickSuggestion: (q: string) => void
-  suggestions: string[]
-}) {
-  return (
-    <div
-      role="dialog"
-      aria-modal="true"
-      aria-label="Search the guide"
-      className="fixed inset-0 z-50 text-paper flex flex-col"
-      style={{
-        background:
-          'radial-gradient(ellipse at 50% 45%, #3a5a6c 0%, #182a36 60%, #050a0e 100%)',
-        animation: 'orbFadeIn 220ms ease-out both',
-      }}
-    >
-      <style>{`
-        @keyframes orbFadeIn {
-          from { opacity: 0; }
-          to   { opacity: 1; }
-        }
-        @keyframes orbRise {
-          from { transform: translateY(20px) scale(0.92); opacity: 0; }
-          to   { transform: translateY(0) scale(1); opacity: 1; }
-        }
-      `}</style>
-
-      <Stars dim />
-
-      <header className="relative px-5 sm:px-8 pt-6 flex items-center justify-between">
-        <button
-          type="button"
-          onClick={onClose}
-          className="smallcaps !text-paper/60 hover:!text-paper rounded-full border border-paper/20 hover:border-paper/55 px-4 py-2 transition-colors flex items-center gap-1.5"
-        >
-          <span aria-hidden>←</span>
-          Back to the dark
-        </button>
-        <p className="smallcaps !text-paper/35 hidden sm:block">esc to close</p>
-      </header>
-
-      <main className="relative flex-1 flex flex-col items-center justify-center px-5 sm:px-8 pt-2">
-        <form
-          onSubmit={onSubmit}
-          style={{ animation: 'orbRise 360ms ease-out both' }}
-        >
-          <Moon
-            size={Math.min(420, typeof window !== 'undefined' ? Math.min(window.innerWidth * 0.72, window.innerHeight * 0.55) : 420)}
-            inputRef={inputRef}
-            inputProps={{
-              type: 'text',
-              value,
-              onChange: (e) => setValue(e.target.value),
-              placeholder: 'ask the moon',
-              autoFocus: true,
-            }}
-          />
-          <p className="smallcaps text-center !text-paper/45 mt-6">
-            enter to ask
-          </p>
-        </form>
-
-        <ul className="mt-10 flex flex-wrap justify-center gap-2 max-w-3xl">
-          {suggestions.map((q) => (
-            <li key={q}>
-              <button
-                type="button"
-                onClick={() => onPickSuggestion(q)}
-                className="font-serif italic text-paper/80 hover:text-paper rounded-full border border-paper/15 hover:border-paper/55 hover:bg-paper/5 px-4 py-1.5 text-sm transition-colors"
-              >
-                {q}
-              </button>
-            </li>
-          ))}
-        </ul>
-      </main>
-    </div>
-  )
 }
 
 /* ---------- A handful of stars in the sky (no library, no canvas) ---------- */

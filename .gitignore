@@ -1,0 +1,42 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+*.local
+.env
+
+# Generated data artifacts (rebuild via `npm run build:wiki`)
+src/data/generated
+
+# Local Trigger.dev runtime/build artifacts
+.trigger
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Agent identity / state files (local only)
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+.openclaw/
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

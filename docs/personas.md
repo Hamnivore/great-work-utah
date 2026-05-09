@@ -77,7 +77,7 @@ She knows hiring is the most important thing she does — Bezos, Jobs, and every
 
 **Situation:** Ex-FAANG engineering manager (Meta, then Stripe). Moved to Park City two years ago for the skiing. Has 2-3 years of FU money. Currently consulting part-time, deeply bored. Reads Hacker News every morning and feels nothing. Wants to find Something That Matters — preferably in Utah so he doesn't have to leave the mountains.
 
-**What success looks like:** He stumbles onto the app, spends 20 minutes browsing S-tier organizations he's never heard of, and finds two that genuinely excite him. He raises his hand. Within 48 hours, Sam Lin's COO emails him about a Head of Eng role.
+**What success looks like:** He stumbles onto the app, spends 20 minutes browsing high-confidence places to do meaningful work, and finds two that genuinely excite him. He raises his hand. Within 48 hours, Sam Lin's COO emails him about a Head of Eng role.
 
 **Prototype question:** "Does this give Ben a reason to be excited again?"
 

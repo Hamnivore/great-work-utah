@@ -50,7 +50,7 @@ Active Utah organizations — Fervo, Zanskar, Recursion, Hexcel, Merit Medical, 
 | **F** | Placeholder stub. | Hidden by default |
 | **P-A / P-B / P-C** | Speculative watchlist. Promising but unproven. | Separate "watchlist" view |
 
-The inclusion philosophy: **"Be generous. Tier is the visibility control, not the filter."** Anything plausible goes in; the tier tells you how seriously to take it. This is gold for our UI — we can show everything and let the user dial intensity via a tier slider.
+The inclusion philosophy: **"Be generous. Tier is the visibility control, not the filter."** Anything plausible goes in; the tier tells you how seriously to take it. This remains useful seed material, but the new hackathon schema moves universal rankings out of entity pages and into contextual guides.
 
 Many entries also include a **"Why this is not ⭐"** note explaining what would have to change for the tier to upgrade. This is *exactly* the kind of explainability the Nucleus brief asks for.
 
@@ -100,11 +100,11 @@ Then narrative sections (consistent across all entries):
 
 ## Implications for Our App
 
-1. **The data layer is essentially built.** Phase 5 (scrape & ingest) is now mostly *optional polish* for the hackathon — we can lean on what Sam has and only scrape `startup.utah.gov` if we have time.
-2. **We need a parser for Sam's bold-prefix header format.** Not YAML frontmatter — it's `**Field:** value` lines we'll need to extract. Cleaner than rewriting his content.
-3. **The two wikis become two distinct app modes.** "Browse Utah's great work" (museum) vs. "Find a place to do great work" (job hunt). The same component library renders both.
-4. **The UI needs a `people/` layer that the existing wikis don't have.** This is where hand-raises live. New folder: `people/` (or attached to each wiki separately).
-5. **The tier slider is a killer UI element.** Demo moment: "Show me only S-tier defense companies in Utah" → instant filtered grid. Better than any LinkedIn filter.
+1. **The existing wiki is seed material, not the final schema.** It gives us substance, examples, and editorial taste; the new hackathon wiki is a separate prose-first field guide.
+2. **Bold-prefix headers are the right human-readable pattern.** Not YAML frontmatter — use `**Field:** value` lines for the few things scripts absolutely need.
+3. **The new wiki should separate fact pages from judgment pages.** Existing entries can inform `ventures/`, `work/`, and `resources/`; contextual rankings belong in `guides/`.
+4. **The UI needs a `people/` and `helpers/` layer that the existing wikis don't have.** This is where hand-raises, operators, advisors, mentors, and business-service providers become first-class.
+5. **The old tier system becomes guide material.** Its spirit is useful for confident recommendations, but the new product should rank things by audience and criteria rather than stamping one universal tier on every item.
 
 ## Next Step
 

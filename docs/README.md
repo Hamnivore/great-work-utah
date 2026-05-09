@@ -10,8 +10,12 @@
 | [`personas.md`](./personas.md) | Named cast we imagine being while prototyping; priority hierarchy for tradeoffs |
 | [`design-direction.md`](./design-direction.md) | Visual North Star — Atlas Obscura / travel-guide soul, Caslon, desert palette, Direction D locked in |
 | [`design-direction-renders/`](./design-direction-renders/) | The four explored visual directions; **D-hybrid is chosen** |
-| [`wiki-architecture.md`](./wiki-architecture.md) | The Karpathy-style LLM wiki that powers the data layer (UX is greenfield) |
-| [`mini-wiki-inventory.md`](./mini-wiki-inventory.md) | Sam's existing ~280-entry wiki at `~/coding/research/cool_companies` (this is our data layer) |
+| [`wiki-architecture.md`](./wiki-architecture.md) | The Karpathy-style LLM wiki: fact pages plus derivative guides, matches, and answers |
+| [`../wiki/agent_ops/agents.md`](../wiki/agent_ops/agents.md) | The single-agent prompt: mission, operating loop, success criteria |
+| [`../wiki/agent_ops/schema.md`](../wiki/agent_ops/schema.md) | The wiki schema: page types, headers, layouts, parser contract, validation |
+| [`../wiki/agent_ops/index.md`](../wiki/agent_ops/index.md) | Inventory of every page currently in the wiki, kept in sync by the agent |
+| [`wiki-seed-worklist.md`](./wiki-seed-worklist.md) | Agent-editable backlog of source and category work for the wiki |
+| [`mini-wiki-inventory.md`](./mini-wiki-inventory.md) | Sam's existing ~280-entry wiki at `~/coding/research/cool_companies` (seed material and inspiration) |
 | [`plan.md`](./plan.md) | Phased build plan with locked-in decisions (both hackathons, React + Vite stack) |
 
 ## Background
@@ -44,6 +48,6 @@ Great Work is the same product framed two ways:
 
 ## The Architecture, in One Sentence
 
-A **React + Vite** web app that beautifully renders an [LLM-maintained markdown wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) about Utah's innovation ecosystem, with a "raise your hand" form that feeds back into the wiki via ingest agents.
+A **React + Vite** web app that beautifully renders an [LLM-maintained markdown wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) about Utah's innovation ecosystem, with fact pages for entities and derivative guides, matches, and answers that explain what to do next.
 
-No user auth, no traditional database — just markdown files, git, and a few agents doing the bookkeeping. The wiki itself (~280 entries with a tier system and consistent page anatomy) is already built — see [`mini-wiki-inventory.md`](./mini-wiki-inventory.md).
+No user auth, no traditional database — just markdown files, git, and a few agents doing the bookkeeping. Sam's existing wiki gives us seed material, but the public wiki is prose-first: minimal headers, rich body text, and contextual recommendations instead of universal item scores.

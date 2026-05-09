@@ -1,164 +1,196 @@
 # Build Plan
 
-A phased plan, in order, designed to get to a demoable thing fast and only add depth where it pays off.
+A phased plan designed to get a polished hackathon demo quickly, while keeping the wiki architecture honest and maintainable.
 
 ## Decisions Locked In
 
 | Decision | Choice |
 |---|---|
-| Hackathons | **Both** — building one product that serves the market well; tilts slightly toward Nucleus's "matching" framing but takes inspiration from both |
-| Tech stack | **React + Vite** + (recommended additions below) |
-| Mini-wiki location | `~/coding/research/cool_companies` — see [`mini-wiki-inventory.md`](./mini-wiki-inventory.md) |
-| Wiki wiring | **Symlink** `~/coding/research/cool_companies` into `wiki/` for fast local dev |
-| Content source of truth | Sam's wiki content + tier judgments + inclusion philosophy |
-| **UX is greenfield** | We do **not** have to render Sam's wiki as a wiki. LLMs can reshape, deconstruct, and recompose entries on the fly to fit any UX surface we design. |
-| Tier judgments | **Public.** Show all tiers (S → F + speculative). The fact that we publicly tier organizations is part of the bit. |
-| Primary audience | **Founders building world-changing things.** When in doubt, serve them. See [`personas.md`](./personas.md). |
-| Domain name | Deferred — doesn't matter to our users at this stage |
-| Visual direction | **Direction D (Hybrid)** — see [`design-direction.md`](./design-direction.md) and renders in [`design-direction-renders/`](./design-direction-renders/) |
-| Ask interaction | **Article generation, not chat.** Streaming, browser-back is history, every answer has a URL, articles file back into the wiki. |
-| Tier explainer | **A wiki page** at `wiki/tier-system.md`. Every tier mark in the app hyperlinks to it. |
-| Navigation | **Slim header, no tab bar.** Back chevron only when relevant. "Related" exit ramps at bottom of articles. |
-| Tier slider | **Deferred** to v1.5 — show all tiers by default, let the explainer carry the explanation |
-| Desktop | **In scope.** Same content; more density per screen; right rail for citations / related / suggestions. |
+| Hackathons | **Both**, with demo tilt toward Nucleus matching and GOEO resource/navigation usefulness |
+| Tech stack | **React + Vite** |
+| Wiki model | **Human-readable markdown wiki**, maintained by agents |
+| Page structure | **Thin bold-prefix headers + rich prose sections** |
+| Structured data | Keep minimal; no YAML frontmatter and no structured matching profile block |
+| Fact vs judgment | Separate `ventures/`, `people/`, `helpers/`, `resources/`, `work/`, `sources/` from `guides/`, `matches/`, `answers/` |
+| Rankings | No universal item-level tiers; contextual rankings live in guides, matches, and answers |
+| Helpers | First-class pages for advisors, mentors, investors, business-service providers, firms, and programs |
+| Primary audience | **Founders building ambitious things**, then researchers, operators, and helpers |
+| Ask interaction | **Article generation, not chat**; saved answers can file back into the wiki |
+| Visual direction | **Direction D (Hybrid)** — see [`design-direction.md`](./design-direction.md) |
+| Navigation | Slim header, persistent Ask, related exits; no bottom tab bar |
+| Desktop | In scope; same content with more density and a right rail |
 
-### Recommended Stack on Top of React + Vite
+## Recommended Stack
 
-These are starting suggestions; pick what fits as we go.
+- **React + Vite** — already in place
+- **Tailwind CSS** — visual system
+- **react-markdown**, **remark-gfm**, **rehype-raw** — markdown rendering
+- **Custom parser** — parse bold-prefix headers and `##` sections
+- **Fuse.js** or **FlexSearch** — client-side search over generated wiki index
+- **Vercel** — easiest demo deploy
+- **Trigger.dev** or **Inngest** — simplest post-demo agent runner if we need durable background jobs
 
-- **Tailwind CSS** + **shadcn/ui** — battle-tested for fast, beautiful, accessible UI; copy-paste components mean no library lock-in
-- **Framer Motion** — page transitions and micro-interactions (the "feels alive" beat)
-- **TanStack Router** *or* React Router — TanStack is more modern; either works
-- **react-markdown** + **remark-gfm** + **rehype-raw** — render Sam's markdown
-- **gray-matter** *(node-side at build time)* — parse the bold-prefix headers into JSON
-- **fuse.js** *or* **flexsearch** — client-side fuzzy search over the wiki index
-- **Vercel** for deployment — zero config, instant preview URLs for demos
-
-## Phase 0 — Lock the Concept ✅
+## Phase 0 — Lock the Concept
 
 - [x] Capture the vision in [`vision.md`](./vision.md)
+- [x] Capture personas in [`personas.md`](./personas.md)
 - [x] Capture the wiki pattern in [`wiki-architecture.md`](./wiki-architecture.md)
+- [x] Create the new prose-first schema (now lives at [`../wiki/agent_ops/schema.md`](../wiki/agent_ops/schema.md))
+- [x] Create the single-agent prompt (now lives at [`../wiki/agent_ops/agents.md`](../wiki/agent_ops/agents.md))
 - [x] Cross-link with hackathon briefs in [`README.md`](./README.md)
-- [x] Inventory the existing mini-wiki ([`mini-wiki-inventory.md`](./mini-wiki-inventory.md))
-- [x] Decisions locked (see table above)
 
-## Phase 1 — Wire the Wiki Into the Repo
+## Phase 1 — Build the New Wiki Skeleton
 
-Goal: the React app can read Sam's existing 280 entries.
+Goal: create a small, coherent wiki that demonstrates the model.
 
-- [x] Decision: **symlink** `~/coding/research/cool_companies` → `wiki/`
-- [ ] Create the symlink
-- [ ] Write a parser for the bold-prefix header format → JSON
-- [ ] Build a `wiki/index.json` artifact at build time (one row per entry: title, tier, domain, slug, summary, path)
-- [ ] Smoke-test: render one entry as a stub React page
+- [ ] Create directories:
+  - `ventures/`
+  - `people/`
+  - `helpers/`
+  - `resources/`
+  - `work/`
+  - `sources/`
+  - `guides/`
+  - `matches/`
+  - `answers/`
+  - `agent_ops/`
+- [ ] Create `wiki/README.md` as a map, not a folder dump
+- [ ] Create default guides:
+  - `guides/nucleus-demo-matches.md`
+  - `guides/find-a-cofounder.md`
+  - `guides/find-an-advisor.md`
+  - `guides/find-business-services.md`
+  - `guides/find-meaningful-work.md`
+  - `guides/commercialize-research.md`
+  - `guides/startup-capital-in-utah.md`
+  - `guides/utah-deep-tech-map.md`
+- [ ] Create `agent_ops/PROMPT.md`, `RUN_LOG.md`, `LEADS.md`, `DECISIONS.md`, `SUGGESTIONS.md`, and `PLAYBOOK.md`
 
-## Phase 2 — Design the UI (no production code yet)
+## Phase 2 — Parser and Index
 
-Goal: a clear picture of what the user sees before we commit to a frontend implementation.
+Goal: the React app can browse the public wiki format.
 
-> **Run every prototype through the persona test in [`personas.md`](./personas.md).** Priya, Sam, Dr. Amir first; everyone else second.
+- [ ] Infer page type from folder
+- [ ] Infer slug from filename
+- [ ] Parse H1 title
+- [ ] Parse bold-prefix header lines until the first `##`
+- [ ] Parse sections by `## Heading`
+- [ ] Build `src/data/generated/all.json`
+- [ ] Index title, type, slug, status, confidence, focus, location, audience, updated, and section headings
+- [ ] Validate missing H1s, missing required headers, duplicate inferred IDs, stale pages, and broken links
 
-### Must-have for the demo
+## Phase 3 — Seed Demo Content
 
-- [ ] **Home / Discover** — masthead + ask bar + suggestions + featured spread + directory with tier-keyed rows. The wow + the front door.
-- [ ] **Ask interface (the hero)** — article generation, streaming. Empty state, mid-stream state, completed-article state with citations + related exits. *This is the demo moment.*
-- [ ] **Entry page (photographic spread)** — Spiral Jetty as the canonical example. Confirms the photographic treatment.
-- [ ] **Entry page (typographic spread)** — Recursion as the canonical example. Confirms the same template works without a photo.
-- [ ] **Person page** — Ben Whitlock. Rich enough that Priya can answer hard questions about him without scheduling a call.
-- [ ] **Tier explainer** — `wiki/tier-system.md` rendered in the same template as any entry. Linked from every tier mark.
-- [ ] **Hand-raise form** — single page, three flavors (Seeker / Researcher / Helper). Captures enough depth that the resulting `people/` entry is askable.
+Goal: a few excellent examples, not hundreds of thin pages.
 
-### Nice-to-have
+- [ ] 2-3 `ventures/` pages
+- [ ] 2-3 `people/` pages
+- [ ] 3-5 `helpers/` pages, including business-service providers
+- [ ] 3-5 `resources/` pages
+- [ ] 2-3 `work/` pages for inspiration and pattern-matching
+- [ ] 5-8 `sources/` pages
+- [ ] 2-3 `matches/` pages with clear evidence and next steps
+- [ ] 1 polished `guides/nucleus-demo-matches.md`
+- [ ] 1 polished `guides/find-business-services.md`
 
-- [ ] **Sector page** — "Energy in Utah," tier-ranked grid (the Direction C middle phone)
-- [ ] **About / how it works** — the LLM-wiki story; an editor's note in the same Caslon as everything else
+The demo content should support:
 
-### Process
+1. Executive or operator to deep-tech venture.
+2. Researcher or first-time founder to commercialization resources.
+3. Helper or business-service provider to founder.
 
-- [ ] Sketch each in low-fidelity (paper, Figma, or generated mockups)
-- [ ] **Hero screen is the Ask interface.** That's the demo moment for both judging panels.
+## Phase 4 — Design the UI
 
-## Phase 3 — Walk Through User Flows
+Goal: a clear, beautiful, mobile-first experience before adding more infrastructure.
 
-For each archetype from `vision.md`, write the literal click-by-click flow:
+Must-have:
 
-- [ ] **Seeker flow** — lands → browses by sector → sorts by tier → finds a company that excites them → reads "what kind of contributor thrives here" → raises hand to that company
-- [ ] **Researcher flow** — lands → finds executors in their sector → posts an opportunity (creates a `places_you_can_work/` entry?) → raises hand asking for an operator
-- [ ] **Helper flow** — lands → "I want to help" → quick form → wiki ingests them as a `people/` entry tagged `available: true`
-- [ ] **Investor / outsider flow** — opens it on a phone after seeing it on a screen → "wow, Utah is really doing this stuff"
-- [ ] **GOEO test personas** — run the 6 named personas (Jordan, Maria, Marcus, Priya, David, Dr. Amir) through the flow; the result should be meaningfully different for each
+- [ ] **Home / Discover** — Ask bar, featured guide, recent matches, useful starting points
+- [ ] **Ask interface** — article generation, streaming states, citations, related exits
+- [ ] **Entity page** — fact-layer dossier with impact, evidence, open questions
+- [ ] **Guide page** — recommendation layer with contextual rankings and criteria
+- [ ] **Match page** — "why these people should talk" artifact
+- [ ] **Helper page** — business-service provider/advisor page that feels first-class
+- [ ] **Hand-raise form** — Seeker / Researcher / Helper variants
 
-## Phase 4 — Build the Beautiful UI
+Nice-to-have:
 
-- [ ] Mobile-first layouts (thumbs before mouse), with desktop in scope from day one
-- [ ] Visual identity per [`design-direction.md`](./design-direction.md) — Caslon, desert palette, magazine layout grammar
-- [ ] Render entry pages with rich visuals (hero photo when earned; typographic spread when not; "why it matters" pull-quote; tier mark hyperlinked to explainer)
-- [ ] Implement Ask article generation with streaming
-- [ ] Implement persistent search bar + suggestions
-- [ ] "Related" exit ramps at the bottom of every article and entry
-- [ ] Page transitions, loading states, accessibility pass
+- [ ] Visual "Utah deep-tech map" guide
+- [ ] About / how it works
+- [ ] Live agent activity feed for the demo
 
-## Phase 5 — Real Data Polish
+## Phase 5 — Walk Through User Flows
 
-- [ ] Fix any parser edge cases discovered when rendering the full 280-entry wiki
-- [ ] Pull `agent_ops/PLAN.md` into our schema understanding; mirror as repo-root `AGENTS.md`
-- [ ] Cross-link work between the two wikis where it makes sense (e.g., a `great_work/` historical entry → a `places_you_can_work/` modern descendant)
-- [ ] (Optional) Pull faces / logos / hero images per entry — even a few high-quality ones lift the whole feel
+Validate with the personas in [`personas.md`](./personas.md).
 
-## Phase 6 — Hand-Raise Surface
+- [ ] **Priya flow** — asks for senior operators or advisors, reads a match, decides who to contact
+- [ ] **Sam flow** — sees her company represented well and discoverable outside her network
+- [ ] **Dr. Amir flow** — finds commercialization resources, first-call helpers, and examples of similar work
+- [ ] **Marcus flow** — sees an approachable path for a manufacturing founder
+- [ ] **Ben flow** — finds meaningful work and raises his hand
+- [ ] **Helen flow** — finds a founder worth helping within five minutes
 
-The "raise your hand" feature, with no auth, no DB.
+## Phase 6 — Ask and Agent Demo
 
-- [ ] Single-page form: Seeker / Researcher / Helper variants, common fields (name, contact, what they're looking for, what they offer, sector interests)
-- [ ] On submit: write a markdown file to `wiki/hand-raises/YYYY-MM-DD-slug.md` (via a tiny serverless function — e.g., a Vercel API route that commits to git, or a Formspree-style hosted form for v1)
-- [ ] Display recent hand-raises on a public "available now" page (with consent toggle)
+Goal: show the wiki being built or used in real time.
 
-> Trade-off: a true "writes back to the repo" flow needs a small server. If that's too much for the demo, fall back to a Formspree / Tally form that just emails Sam — and he files the entry by hand. Either way, the *story* is the same.
+- [ ] Implement a local/manual "agent run" path for the hackathon
+- [ ] Stream an Ask answer into the UI
+- [ ] File a saved answer into `answers/`
+- [ ] Create or update a guide from a repeated/high-value question
+- [ ] Create a match page from an intake submission or seeded demo profile
+- [ ] Append to `agent_ops/RUN_LOG.md`
 
-## Phase 7 — Scrape & Ingest (Optional Polish)
+For the hackathon, manual triggers are fine. Sell the always-on version, but demo the core loop.
 
-(See [`utah-data-sources.md`](./utah-data-sources.md).)
+## Phase 7 — Hand-Raise Surface
 
-Lower priority now that we have 280 entries already. Use only if time allows or if a specific demo moment needs it.
+The "raise your hand" feature, with no auth and minimal backend.
 
-- [ ] Quick scraper for `startup.utah.gov` Resource List (this is the GOEO data ask — could land us additional credibility points)
-- [ ] Quick scraper for `business.utah.gov` programs
-- [ ] Quick scraper for `nucleusutah.org` programs + newsroom
-- [ ] One-shot agent run to integrate scraped sources into the wiki
+- [ ] Single-page form with Seeker / Researcher / Helper variants
+- [ ] Capture public-safe summary, contact preference, what they offer, what they are looking for, sectors, location, and consent
+- [ ] For demo: write or simulate a markdown page in `people/`, `helpers/`, or `sources/`
+- [ ] Agent suggests relevant guides or matches
 
-## Phase 8 — The 24/7 Agents
+Fallback: Tally/Formspree/email is acceptable if it preserves the story.
 
-The "magic" the demo will sell hardest. These are the agents that make the wiki feel alive.
+## Phase 8 — Scrape and Ingest
 
-- [ ] **Ingest agent** — accepts new sources (URL paste, hand-raise submission, scraped batch) and integrates them per `wiki-architecture.md`
-- [ ] **Lint agent** — extends Sam's existing scripts; flags contradictions, stale claims, orphans, missing pages
-- [ ] **Hand-raise matchmaker** — when a new person is added, scans the wiki for plausible matches and writes them to a `matches/` markdown queue
-- [ ] **Suggestion agent** — surfaces "questions worth asking" and "sources worth adding" to keep the wiki growing
-- [ ] Decide on hosting: do they actually run 24/7, or do we fake it for the demo with manual triggers? **For hackathon: probably manual triggers + a story about what the always-on version looks like.**
+Lower priority than polished demo content.
+
+- [ ] Scrape or manually seed `startup.utah.gov` resources
+- [ ] Add Nucleus programs
+- [ ] Add a few GOEO resources
+- [ ] Convert the best sources into `resources/`, `helpers/`, and `guides/`
 
 ## Phase 9 — Demo Polish
 
-- [ ] Pick the **3 demo moments** that sell the story:
-  1. **Browse** — investor moment: open it, scroll, "look at all of this." Featured spread, tier-keyed directory.
-  2. **Ask** — Priya types *"Senior engineers who'd join a hard-tech team in Utah,"* the article streams in with three cited candidates, she clicks one and dives into Ben's page. *This is the creativity + utility beat.*
-  3. **Hand-raise → article** — submit a hand-raise, watch it land in the wiki, ask the guide about the new person, get an article that includes them.
-- [ ] Pre-stage the wiki so those moments shine
-- [ ] Record a fallback video in case live demo fails
-- [ ] Write the pitch — emphasize the *compounding wiki*, the *Ask = article paradigm*, the *tier system*, and *explainability* — not just the UI
+Pick three moments:
 
-## What We're Explicitly NOT Building (v1)
+1. **Guide** — "Business Services for Utah Founders" shows helpers are first-class.
+2. **Ask** — Priya asks who a hard-tech founder should talk to; answer streams with citations.
+3. **Match** — a specific founder/helper match explains evidence, risks, and next step.
 
-- User accounts / auth
-- A real database (markdown + git is the database)
-- Direct messaging / inbox
-- CRM integration (Affinity, etc.) — Nucleus told us this is optional
-- Complex permission models
+Before demo:
+
+- [ ] Pre-stage content so every clicked page is credible
+- [ ] Record a fallback video
+- [ ] Write the pitch around the living wiki, not a database
+- [ ] Emphasize explainability, human-readable maintenance, and contextual recommendations
+
+## Not Building in v1
+
+- User accounts
+- Direct messaging
+- Full CRM integration
+- Fully automated matching in Python
+- Embeddings-first search
+- Complex permission model
 - Multi-tenant anything
-- Editing the wiki from the web UI (read-only for v1; agents write, Sam edits via Obsidian)
-
-If any of these turns out to be \<2 hours of work and meaningfully strengthens the demo, revisit. Otherwise, skip.
+- Public claims based on private data
 
 ## Open Questions
 
-1. **Hand-raise submission backend** — Formspree (zero infra) vs. Vercel function that commits to git (cooler story)? (Phase 6)
-2. **Hosting** — Vercel is the default; any reason not to?
+1. How should the public wiki index coexist with the legacy generated bundle during the transition?
+2. Which guide labels best surface hidden gems, rare fits, and caveated opportunities without becoming gimmicky?
+3. What is the minimum hand-raise backend that still makes the demo feel real?

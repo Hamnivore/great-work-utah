@@ -14,9 +14,9 @@ Locked in after exploring four directions. See renders in [`design-direction-ren
 - **`direction-d-hybrid.png`** ← chosen
 - `ask-interface-mobile.png` — Ask interface, three states (empty / streaming / complete)
 - `ask-interface-desktop.png` — Ask interface, desktop two-column layout
-- `app-flow.png` — End-to-end mobile flow (Discover → Ask → Entry → Person → Hand-raise → Tier explainer) with the LLM-wiki agent layer underneath
+- `app-flow.png` — End-to-end mobile flow (Discover → Ask → Entry → Person → Hand-raise → Guide / Match) with the LLM-wiki agent layer underneath
 
-**Direction D = B as default + A as featured treatment.** Same card grammar everywhere; the visual fill adapts to the content. The ~10–15 entries that earn a great photograph get the full editorial spread (Direction A); the other ~265 entries get the typographic spread (Direction B). Same masthead, same tier marks, same color palette, same Caslon — judges shouldn't be able to tell which entry was "the one we had a good photo for."
+**Direction D = B as default + A as featured treatment.** Same card grammar everywhere; the visual fill adapts to the content. The ~10–15 entries that earn a great photograph get the full editorial spread (Direction A); the rest get the typographic spread (Direction B). Same masthead, same recommendation voice, same color palette, same Caslon — judges shouldn't be able to tell which entry was "the one we had a good photo for."
 
 ## The Three-Word Test
 
@@ -35,7 +35,7 @@ If a screen fails any of the three, redesign.
 3. **The Obscura magazine cover** in our refs (Voices of the Contemporary, Winter 2012) — masthead-led, a single human portrait, pull-quote subtitle, restrained.
 4. **Gospel Library reading view** — useful as a typography reference for *long-form on mobile done well*: generous line height, calm dark surface, headings that breathe. We're borrowing the typographic discipline, not the tone.
 5. **Stripe Press, Are.na, Field Mag** — modern editorial that doesn't try to look like an app.
-6. **Smash Bros / Tekken tier lists** — for the spirit of the tier system. Confident, plainly-stated rankings of real things that people care about. Opinionated, slightly playful, fun to argue with.
+6. **Smash Bros / Tekken tier lists** — for the spirit of contextual guide rankings. Confident, plainly-stated judgments for a specific audience. Opinionated, slightly playful, fun to argue with.
 
 What we're explicitly *not* shopping for: Notion-clones, Vercel-clone landing pages, generic SaaS dashboards, LinkedIn / Wellfound / Indeed.
 
@@ -93,9 +93,9 @@ Design-system bones we apply consistently:
 - **Strong vertical rhythm.** Type sets on a baseline grid; headings don't float arbitrarily.
 - **Editorial hierarchy:** Display Caslon (entry titles) → Caslon italic pull-quote → body Caslon → small sans caption / metadata.
 - **One image per "spread"** when imagery is used. No image walls. The image earns its placement.
-- **Tier marks are confident, not coy.** A clear S / A / B / C / D / F set in Caslon — visible, opinionated, fun to argue with. Smash Bros tier list energy: *here's our ranking, fight us in the comments*. Not an apologetic small badge in the corner.
+- **Recommendations are confident, not coy.** When a guide ranks options, the criteria should be visible and the judgment should be plainly stated. Smash Bros tier list energy belongs in contextual guides, not as a universal score stamped on every entity.
 - **"Why it matters" is the pull-quote slot** on every entry — set big, italic, in a warmer color.
-- **Citations are first-class typography**, not footnotes in 10pt grey. Every tier judgment, every claim — visibly sourced. (Especially important since we're publicly tier-ranking real organizations.)
+- **Citations are first-class typography**, not footnotes in 10pt grey. Every recommendation, every claim — visibly sourced. (Especially important since guides and matches make real judgments about real organizations and people.)
 
 ## Voice (copywriting)
 
@@ -103,7 +103,7 @@ A travel guide written by someone who lives here, knows everyone, and is genuine
 
 - **Curious.** The voice of someone who finds this stuff actually interesting and wants you to find it interesting too. Atlas Obscura entries always sound like the writer just discovered the thing themselves.
 - **Specific.** Names, places, dates. ("Founded in a basement in Lehi, 2017.") Not "innovative startup."
-- **Confident enough to tier in public.** "We rank this B because the science is real but the deployment is years out." No corporate hedging, no apology for having an opinion.
+- **Confident enough to recommend in public.** "For first-time medical-device founders, start here because..." No corporate hedging, no apology for having an opinion, but always name the audience and evidence.
 - **Inviting.** "Worth knowing" beats "world-class." Bring people in, don't gate-keep.
 - **Local-knowing without insidery.** A first-time visitor should feel welcomed; a longtime local should feel *seen*.
 - **Calm, not muted.** Personality is welcome — wit is welcome — superlatives are not. We don't have to whisper to be calming.
@@ -117,7 +117,7 @@ The voice for Priya's `Ask` answer should feel like a knowledgeable friend writi
 - **Suggestions under the search** — a row of italic-Caslon prompts (desktop) or stacked italic-Caslon questions (mobile). See *Suggested Questions* below.
 - **Showcase** — the *cover and contents* of this issue of the guide. One large photographic / typographic spread of a single piece of great work, with a contents-page rhythm of more below. Same card grammar throughout; different visual fill (photo when one earns it, typography otherwise).
 
-> **Deferred:** Tier slider. Worth keeping in our back pocket for v1.5 if we want a kinetic way to widen the field. For the demo, we show all tiers by default and let the tier explainer (below) carry the explanation.
+> **Deferred:** Ranking controls. Worth keeping in our back pocket for v1.5 if we want a kinetic way to widen or narrow a guide. For the demo, guides explain their own criteria.
 
 ## The Ask Interface
 
@@ -140,14 +140,14 @@ These came out of the Ask interface renders and should apply universally to any 
 - **Inline citations:** entity mentions are inline hyperlinks in twilight blue Caslon italic underlined. No `[1]` superscripts.
 - **Citation block:** small-caps `CITATIONS` heading, then italic Caslon source links — same typography as inline citations, just listed at the foot of the article.
 
-## Tier Explainer (as a Wiki Page)
+## Guide Rankings
 
-The tier system needs explaining for people who haven't seen Smash Bros tier lists. Solution: **the explainer itself is just another wiki page.**
+Rankings live in guides, not on every entity page. A guide can be a map, playbook, contextual tier list, or journey page.
 
-- One canonical document at `wiki/tier-system.md`. Written warmly, in the same voice as the rest of the guide.
-- **Every "S" / "A" / "B" / "C" / "D" / "F" tier mark anywhere in the app is a hyperlink** to that page.
-- The page itself can link onward to "see all S-tier entries" or "see why we ranked Recursion S," keeping the wandering momentum.
-- Inline on entry pages, every tier judgment also surfaces a "Why this tier" callout box (Sam's existing wiki has this as the "Why this is not ⭐" section — we render it as a pull-quote-style block).
+- Criteria should be visible near the ranking.
+- Labels can be playful when useful, but warm labels like `First Call`, `Strong Fit`, and `Useful But Situational` will often be clearer than S/A/B.
+- Every ranked recommendation should cite the fact pages or sources behind it.
+- Entity pages should focus on impact, evidence, needs, offers, caveats, and open questions.
 
 ## Suggested Questions (under the search bar)
 
@@ -184,7 +184,7 @@ In scope from day one. Not just "the mobile design stretched."
 ## Directory / List Conventions
 
 - **Same row height** whether or not an entry has a thumbnail. Rhythm > completeness.
-- **Tier mark** sits to the right of each entry name in Caslon, hyperlinked to the tier explainer.
+- **Guide/context label** can sit to the right of each entry name when the list is explicitly ranked.
 - **One italic sentence** as the entry summary. No two-line descriptions.
 
 ## Open Questions
@@ -199,3 +199,7 @@ In scope from day one. Not just "the mobile design stretched."
 ## Sam's Pinterest
 
 The full collection is in `docs/pinterest-a-love-letter-to-utah/`. Anyone designing should spend 10 minutes scrolling it before opening Figma — it's the source of truth for the vibe more than this doc is.
+
+## Acknowledgements
+
+Thanks to **Cambree Bernkopf** for design tips that shaped the direction of this work.

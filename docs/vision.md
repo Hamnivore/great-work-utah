@@ -2,18 +2,32 @@
 
 ## The One-Liner
 
-**A phenomenal, mobile-first UI for browsing the great work being done in Utah — backed by an LLM-maintained wiki that compounds knowledge over time and lets people raise their hand to get involved.**
+**A beautiful, searchable wiki of Utah's rare opportunities — maintained by agents, grounded in evidence, and built to help the right people find the right work, helpers, resources, and next steps.**
+
+## The North Star
+
+Great Work should feel like opening a living map of Utah's hidden possibility.
+
+Not a job board. Not a CRM. Not a resource directory with better styling.
+
+The wiki should help a founder, researcher, operator, student, or helper see what is unusually worth paying attention to, why it matters, who might fit, what evidence supports the claim, and what still needs to be verified.
+
+The taste lives in the wiki. The precision happens at search time.
+
+Static pages should not try to predict every user's path. They should preserve rich facts, needs, offers, caveats, and context so that when someone asks, "Where could I matter?", the search agent has something real to reason from.
 
 ## Why This Exists
 
 Both hackathon briefs are saying the same thing: *Utah has world-class talent, research, and resources — but the discovery layer is broken.* Founders can't find resources. Researchers can't find executors. Operators can't find meaningful work. Nucleus matches by hand. `startup.utah.gov` reads like a library card catalog.
 
-The problem isn't a missing database. It's a missing **storyteller** — something that turns the scattered ecosystem into a navigable, inspiring picture of what's actually being built here.
+The problem isn't a missing database. It's a missing **map with taste** — something that turns the scattered ecosystem into a navigable, inspiring picture of what's actually being built here, where the hidden leverage is, and why a specific person might be a rare fit.
 
 ## Goals
 
 1. **Inspire the next generation of builders and creators.** Make Utah's deep tech, startups, and research feel alive, not bureaucratic.
 2. **Help people find great connections in Utah.** Surface the right person, project, or program at the right moment.
+3. **Make recommendations explainable.** Every strong match should show its evidence, caveats, and next step.
+4. **Preserve discovery.** The wiki should reveal hidden gems and rare-fit opportunities, not only route people to obvious institutions.
 
 ## Why Hiring Is the Core
 
@@ -58,7 +72,7 @@ Mentors, fractional execs, board members, attorneys, accountants — the people 
 
 | It is | It isn't |
 |---|---|
-| A storytelling browse experience for Utah's ecosystem | A job board |
+| A searchable wiki of rare Utah opportunities | A job board |
 | An LLM-maintained wiki that gets richer over time | A static directory |
 | A "raise your hand" surface for opting into opportunities | A login-gated app with profiles and DMs |
 | Mobile-first | Desktop-only |

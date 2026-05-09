@@ -14,6 +14,7 @@ Locked in after exploring four directions. See renders in [`design-direction-ren
 - **`direction-d-hybrid.png`** ← chosen
 - `ask-interface-mobile.png` — Ask interface, three states (empty / streaming / complete)
 - `ask-interface-desktop.png` — Ask interface, desktop two-column layout
+- `app-flow.png` — End-to-end mobile flow (Discover → Ask → Entry → Person → Hand-raise → Tier explainer) with the LLM-wiki agent layer underneath
 
 **Direction D = B as default + A as featured treatment.** Same card grammar everywhere; the visual fill adapts to the content. The ~10–15 entries that earn a great photograph get the full editorial spread (Direction A); the other ~265 entries get the typographic spread (Direction B). Same masthead, same tier marks, same color palette, same Caslon — judges shouldn't be able to tell which entry was "the one we had a good photo for."
 

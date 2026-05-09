@@ -1,5 +1,6 @@
 import { useState, type FormEvent } from 'react'
 import { Layout } from '../components/Layout'
+import { logRaiseHand } from '../lib/supabase'
 
 type Flavor = 'Seeker' | 'Researcher' | 'Helper'
 
@@ -13,8 +14,17 @@ export function RaiseHandPage() {
   const [flavor, setFlavor] = useState<Flavor>('Seeker')
   const [submitted, setSubmitted] = useState(false)
 
-  function onSubmit(e: FormEvent) {
+  async function onSubmit(e: FormEvent) {
     e.preventDefault()
+    const form = e.currentTarget as HTMLFormElement
+    const data = Object.fromEntries(new FormData(form)) as Record<string, string>
+    await logRaiseHand({
+      flavor,
+      name: data.name ?? '',
+      email: data.email ?? '',
+      want: data.want ?? '',
+      offer: data.offer ?? '',
+    })
     setSubmitted(true)
   }
 

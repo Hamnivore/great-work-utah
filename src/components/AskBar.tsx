@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { SearchIcon, useSearchOverlay } from './SearchOverlay'
 
 interface AskBarProps {
   initialValue?: string
@@ -12,14 +12,12 @@ export function AskBar({
   autoFocus = false,
   variant = 'default',
 }: AskBarProps) {
-  const navigate = useNavigate()
+  const { openSearch } = useSearchOverlay()
   const [value, setValue] = useState(initialValue)
 
   function onSubmit(e: FormEvent) {
     e.preventDefault()
-    const q = value.trim()
-    if (!q) return
-    navigate(`/ask?q=${encodeURIComponent(q)}`)
+    openSearch(value.trim())
   }
 
   const wrapClass =
@@ -40,6 +38,8 @@ export function AskBar({
           type="text"
           value={value}
           onChange={(e) => setValue(e.target.value)}
+          onFocus={() => openSearch(value)}
+          onClick={() => openSearch(value)}
           placeholder="Ask the guide anything"
           autoFocus={autoFocus}
           aria-label="Ask the guide anything"
@@ -47,23 +47,5 @@ export function AskBar({
         />
       </div>
     </form>
-  )
-}
-
-function SearchIcon({ className = '' }: { className?: string }) {
-  return (
-    <svg
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="1.6"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      className={className}
-      aria-hidden
-    >
-      <circle cx="11" cy="11" r="7" />
-      <line x1="16.5" y1="16.5" x2="21" y2="21" />
-    </svg>
   )
 }

@@ -28,7 +28,6 @@ const FEATURED_IDS: Array<{ source: Source; slug: string }> = [
   { source: 'places_you_can_work', slug: 'space-dynamics-laboratory' },
   { source: 'places_you_can_work', slug: 'intactis-bio' },
   { source: 'great_work', slug: 'telescope-array-ultra-high-energy-cosmic-rays' },
-  { source: 'great_work', slug: 'jarvik-7-artificial-heart' },
   // Next-up rotation when we publish the next issue:
   //   { source: 'places_you_can_work', slug: 'familysearch' },
   //   { source: 'great_work', slug: 'spiral-jetty' },

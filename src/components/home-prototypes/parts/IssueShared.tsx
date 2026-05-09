@@ -66,6 +66,7 @@ export function TierGlyph({
   tier: Entry['tier']
   className?: string
 }) {
+  if (tier === 'unknown') return null
   return (
     <span
       className={`font-display ${TIER_GLYPH_CLASS[tier] ?? ''} ${className}`}

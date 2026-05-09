@@ -2,7 +2,6 @@ import {
   useEffect,
   useRef,
   useState,
-  type FormEvent,
   type KeyboardEvent as ReactKeyboardEvent,
   type MouseEvent as ReactMouseEvent,
 } from 'react'
@@ -10,10 +9,10 @@ import { Link, useNavigate } from 'react-router-dom'
 import { getAllEntries } from '../../lib/data'
 import type { Entry } from '../../lib/types'
 import { usePageTransition } from '../../lib/page-transitions'
+import { useSearchOverlay } from '../SearchOverlay'
 import { TierGlyph } from './parts/IssueShared'
 import { WhosReading } from './parts/WhosReading'
 import {
-  SUGGESTED_QUESTIONS,
   categoryImageFor,
   getCoverQuote,
   getFeaturedEntries,
@@ -68,8 +67,6 @@ export function SearchSticky() {
   return (
     <StickySearchShell
       slides={slides}
-      suggestions={SUGGESTED_QUESTIONS.slice(0, 8)}
-      recommendations={browseRecs}
     >
       {/* ===== WHO'S READING THIS ===== */}
       <WhosReading recommendations={browseRecs} />
@@ -121,6 +118,7 @@ function AboutTheGuide() {
 
 const CATEGORY_ORDER = [
   'People',
+  'Resources',
   'Medicine and Biology',
   'Industry and Infrastructure',
   'Defense and Security',
@@ -133,6 +131,7 @@ const CATEGORY_ORDER = [
 
 const CATEGORY_DECKS: Record<string, string> = {
   People: 'Operators, researchers, advisors, and hand-raises entering the map.',
+  Resources: 'Programs, funds, workspaces, training, and founder support paths.',
   'Medicine and Biology': 'Biotech, devices, health, and the science of living systems.',
   'Industry and Infrastructure': 'Rail, roads, factories, materials, and useful heavy things.',
   'Defense and Security': 'Hard problems in autonomy, sensing, safety, and national defense.',
@@ -286,7 +285,12 @@ function getCategoryGroups(): CategoryGroup[] {
   const byDomain = new Map<string, Entry[]>()
 
   for (const entry of all) {
-    const domain = entry.source === 'people' ? 'People' : entry.domain
+    const domain =
+      entry.source === 'people'
+        ? 'People'
+        : entry.source === 'resources'
+          ? 'Resources'
+          : entry.domain
     const existing = byDomain.get(domain) ?? []
     existing.push(entry)
     byDomain.set(domain, existing)
@@ -337,20 +341,14 @@ function compareEntriesForCategory(a: Entry, b: Entry): number {
 function StickySearchShell({
   children,
   slides,
-  suggestions,
-  recommendations,
 }: {
   children: React.ReactNode
   slides: Entry[]
-  suggestions: string[]
-  recommendations: Entry[]
 }) {
   const navigate = useNavigate()
   const { markNextNavAs } = usePageTransition()
+  const { isOpen: searchOpen, openSearch } = useSearchOverlay()
   const rootRef = useRef<HTMLDivElement>(null)
-  const expandedInputRef = useRef<HTMLInputElement>(null)
-  const [open, setOpen] = useState(false)
-  const [value, setValue] = useState('')
   const [scrolled, setScrolled] = useState(false)
   const [activeSlide, setActiveSlide] = useState(0)
   const [coverHover, setCoverHover] = useState(false)
@@ -408,46 +406,11 @@ function StickySearchShell({
     }
   }, [])
 
-  /* --------- panel: scroll lock + esc + autofocus --------- */
-  useEffect(() => {
-    if (!open) return
-    const id = window.requestAnimationFrame(() =>
-      expandedInputRef.current?.focus(),
-    )
-    function onKey(e: KeyboardEvent) {
-      if (e.key === 'Escape') {
-        e.preventDefault()
-        setOpen(false)
-      }
-    }
-    document.addEventListener('keydown', onKey)
-    const prev = document.body.style.overflow
-    document.body.style.overflow = 'hidden'
-    return () => {
-      document.removeEventListener('keydown', onKey)
-      document.body.style.overflow = prev
-      window.cancelAnimationFrame(id)
-    }
-  }, [open])
-
-  /* --------- ⌘K global shortcut --------- */
-  useEffect(() => {
-    function onKey(e: KeyboardEvent) {
-      const k = (e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k'
-      if (k) {
-        e.preventDefault()
-        setOpen(true)
-      }
-    }
-    document.addEventListener('keydown', onKey)
-    return () => document.removeEventListener('keydown', onKey)
-  }, [])
-
   /* --------- carousel auto-rotation (paused on hover or open) ---------
    * We hold the timer in a ref so the touchstart handler can cancel it
    * imperatively when a drag begins (otherwise the auto-advance could
    * fire mid-drag and clobber the imperatively-set transform). */
-  const carouselPaused = open || coverHover
+  const carouselPaused = searchOpen || coverHover
   useEffect(() => {
     if (carouselPaused || slides.length < 2) return
     autoRotateTimerRef.current = window.setTimeout(() => {
@@ -691,19 +654,6 @@ function StickySearchShell({
     }
   }, [slides.length])
 
-  function submit(e: FormEvent) {
-    e.preventDefault()
-    const q = value.trim()
-    if (!q) return
-    setOpen(false)
-    navigate(`/ask?q=${encodeURIComponent(q)}`)
-  }
-
-  function pickSuggestion(q: string) {
-    setOpen(false)
-    navigate(`/ask?q=${encodeURIComponent(q)}`)
-  }
-
   return (
     <div ref={rootRef} className="min-h-screen bg-paper text-ink">
       {/* ===== Slim sticky chrome =====
@@ -734,13 +684,13 @@ function StickySearchShell({
 
           <button
             type="button"
-            onClick={() => setOpen(true)}
+            onClick={() => openSearch()}
             onKeyDown={(e: ReactKeyboardEvent<HTMLButtonElement>) => {
               const isPrintable =
                 e.key.length === 1 && !e.metaKey && !e.ctrlKey
               if (isPrintable || e.key === '/') {
                 e.preventDefault()
-                setOpen(true)
+                openSearch(isPrintable ? e.key : '')
               }
             }}
             aria-label="Open search"
@@ -972,13 +922,13 @@ function StickySearchShell({
 
             <button
               type="button"
-              onClick={() => setOpen(true)}
+              onClick={() => openSearch()}
               onKeyDown={(e: ReactKeyboardEvent<HTMLButtonElement>) => {
                 const isPrintable =
                   e.key.length === 1 && !e.metaKey && !e.ctrlKey
                 if (isPrintable || e.key === '/') {
                   e.preventDefault()
-                  setOpen(true)
+                  openSearch(isPrintable ? e.key : '')
                 }
               }}
               aria-label="Open search"
@@ -1055,19 +1005,6 @@ function StickySearchShell({
 
       {children}
 
-      {open && (
-        <SearchPanel
-          value={value}
-          setValue={setValue}
-          inputRef={expandedInputRef}
-          onSubmit={submit}
-          onClose={() => setOpen(false)}
-          onPickSuggestion={pickSuggestion}
-          suggestions={suggestions}
-          recommendations={recommendations}
-        />
-      )}
-
       <style>{`
         @media (max-height: 680px) {
           .cover-masthead-search {
@@ -1075,181 +1012,6 @@ function StickySearchShell({
           }
         }
       `}</style>
-    </div>
-  )
-}
-
-/* ----------------------------------------------------------------------
- * SearchPanel — the polished fullscreen panel from the Search iteration.
- * No header chrome; back button on the same baseline as the input;
- * suggestions render as pill chips; featured entries as paper cards.
- * ---------------------------------------------------------------------- */
-
-function SearchPanel({
-  value,
-  setValue,
-  inputRef,
-  onSubmit,
-  onClose,
-  onPickSuggestion,
-  suggestions,
-  recommendations,
-}: {
-  value: string
-  setValue: (s: string) => void
-  inputRef: React.RefObject<HTMLInputElement | null>
-  onSubmit: (e: FormEvent) => void
-  onClose: () => void
-  onPickSuggestion: (q: string) => void
-  suggestions: string[]
-  recommendations: Entry[]
-}) {
-  return (
-    <div
-      role="dialog"
-      aria-modal="true"
-      aria-label="Search the guide"
-      className="fixed inset-0 z-50 bg-paper text-ink flex flex-col"
-      style={{ animation: 'stickyFadeIn 140ms ease-out both' }}
-    >
-      <style>{`
-        @keyframes stickyFadeIn {
-          from { opacity: 0; transform: translateY(-4px); }
-          to   { opacity: 1; transform: translateY(0); }
-        }
-      `}</style>
-
-      <section className="max-w-3xl w-full mx-auto px-5 sm:px-8 pt-6 sm:pt-8">
-        <div className="flex items-stretch gap-3">
-          <button
-            type="button"
-            onClick={onClose}
-            aria-label="Close search"
-            className="shrink-0 smallcaps !text-twilight-soft hover:!text-twilight rounded-full border border-sandstone/60 hover:border-twilight/40 px-4 transition-colors flex items-center gap-1.5"
-          >
-            <span aria-hidden className="text-base leading-none">←</span>
-            <span className="hidden sm:inline">Back</span>
-          </button>
-
-          <form onSubmit={onSubmit} className="flex-1 min-w-0">
-            <div className="flex items-center gap-3 rounded-full bg-pale-sky/50 border border-twilight/15 focus-within:border-twilight/45 focus-within:bg-pale-sky/80 px-5 py-3 transition-colors">
-              <SearchIcon className="w-5 h-5 sm:w-6 sm:h-6 text-twilight-soft shrink-0" />
-              <input
-                ref={inputRef}
-                type="text"
-                value={value}
-                onChange={(e) => setValue(e.target.value)}
-                placeholder="ask the guide anything"
-                className="flex-1 min-w-0 bg-transparent border-0 outline-none italic font-serif text-twilight placeholder:text-twilight/40 placeholder:italic px-0 py-0 text-lg sm:text-xl"
-              />
-              <button
-                type="submit"
-                aria-label="Ask"
-                className="shrink-0 italic font-serif text-twilight/55 hover:text-orange transition-colors text-xl sm:text-2xl"
-              >
-                →
-              </button>
-            </div>
-          </form>
-        </div>
-        <p className="smallcaps mt-3 ml-1 text-twilight-soft/70">
-          enter to ask · esc to close
-        </p>
-      </section>
-
-      <section className="flex-1 overflow-y-auto">
-        <div className="max-w-3xl w-full mx-auto px-5 sm:px-8 py-10 sm:py-12 grid grid-cols-1 sm:grid-cols-[1.6fr_1fr] gap-x-10 gap-y-10">
-          <div>
-            <p className="smallcaps mb-4">Try asking</p>
-            <ul className="flex flex-wrap gap-2">
-              {suggestions.map((q) => (
-                <li key={q}>
-                  <button
-                    type="button"
-                    onClick={() => onPickSuggestion(q)}
-                    className="font-serif italic text-twilight hover:text-orange hover:border-orange/40 hover:bg-paper-deep/50 transition-colors text-left text-base leading-snug rounded-full border border-twilight/15 px-4 py-2"
-                  >
-                    {q}
-                  </button>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          <div>
-            {recommendations.length > 0 && (
-              <>
-                <p className="smallcaps mb-4">Or browse</p>
-                <ul className="space-y-2">
-                  {recommendations.map((entry) => (
-                    <li key={`${entry.source}/${entry.slug}`}>
-                      <Link
-                        to={`/entry/${entry.source}/${entry.slug}`}
-                        onClick={onClose}
-                        className="block group rounded-2xl border border-sandstone/40 hover:border-twilight/40 hover:bg-paper-deep/40 px-4 py-3 transition-colors"
-                      >
-                        <p className="font-display text-ink leading-snug group-hover:text-twilight transition-colors">
-                          {entry.title}
-                        </p>
-                        <p className="smallcaps !text-[0.6rem] !tracking-[0.18em] text-twilight-soft/80 mt-0.5">
-                          {entry.domain}
-                        </p>
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </>
-            )}
-
-            {/* About-the-guide rail. Always visible inside the panel
-                so a first-time visitor reaching for the search box
-                can also find the meta pages from /. */}
-            <div
-              className={
-                recommendations.length > 0
-                  ? 'mt-7 pt-5 border-t border-sandstone/40'
-                  : ''
-              }
-            >
-              <p className="smallcaps mb-3">About the guide</p>
-              <ul className="space-y-1.5">
-                {[
-                  {
-                    to: '/how-it-works',
-                    title: 'How it works',
-                    blurb: 'The wiki, the agent, the AI approach.',
-                  },
-                  {
-                    to: '/tier-system',
-                    title: 'The tier system',
-                    blurb: 'How we rank great work — in public.',
-                  },
-                  {
-                    to: '/raise-hand',
-                    title: 'Raise your hand',
-                    blurb: 'Tell the guide who you are.',
-                  },
-                ].map((item) => (
-                  <li key={item.to}>
-                    <Link
-                      to={item.to}
-                      onClick={onClose}
-                      className="block group rounded-2xl px-4 py-2.5 hover:bg-paper-deep/40 transition-colors"
-                    >
-                      <p className="font-display italic text-ink leading-snug group-hover:text-twilight transition-colors">
-                        {item.title}
-                      </p>
-                      <p className="font-serif italic text-ink-soft text-sm leading-snug mt-0.5">
-                        {item.blurb}
-                      </p>
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
     </div>
   )
 }

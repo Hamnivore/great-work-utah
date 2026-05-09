@@ -1,5 +1,34 @@
 import { Link } from 'react-router-dom'
 import { Layout } from '../components/Layout'
+import { getAllMatches, formatParties } from '../lib/matches'
+
+function SampleMatches() {
+  const matches = getAllMatches()
+  return (
+    <ul className="not-prose my-6">
+      {matches.map((m) => {
+        const parties = formatParties(m.meta.Parties)
+        return (
+          <li key={m.slug} className="border-b border-sandstone/30 last:border-b-0 group">
+            <Link to={`/match/${m.slug}`} className="block py-3">
+              <div className="flex items-baseline justify-between gap-4">
+                <span className="font-display text-lg text-ink group-hover:text-twilight transition-colors">
+                  {m.title}
+                </span>
+                {m.meta.Strength && (
+                  <span className="smallcaps shrink-0">{m.meta.Strength}</span>
+                )}
+              </div>
+              {parties && (
+                <p className="font-serif italic text-ink-soft text-sm mt-0.5">{parties}</p>
+              )}
+            </Link>
+          </li>
+        )
+      })}
+    </ul>
+  )
+}
 
 /**
  * /how-it-works — a note from the editors on what this thing actually is.
@@ -197,26 +226,11 @@ export function HowItWorksPage() {
         </ul>
 
         <p>
-          You can read three end-to-end examples in the wiki&rsquo;s match
-          set: an{' '}
-          <em>
-            executive paired with{' '}
-            <Link to="/entry/places_you_can_work/fortem-technologies">
-              Fortem Technologies
-            </Link>
-          </em>{' '}
-          on counter-UAS commercialization, an{' '}
-          <em>
-            operator paired with{' '}
-            <Link to="/entry/places_you_can_work/fervo-energy">
-              Fervo Energy
-            </Link>
-          </em>{' '}
-          on enhanced geothermal field execution, and a{' '}
-          <em>student paired with a synthetic university spinout</em> for the
-          research-commercialization case. Same structure each time. That
-          structure is the product.
+          Three end-to-end examples are in the wiki now &mdash; same structure
+          each time. That structure is the product.
         </p>
+
+        <SampleMatches />
 
         <h2>Built for Utah specifically</h2>
 
@@ -376,7 +390,7 @@ export function HowItWorksPage() {
           </li>
         </ul>
 
-        <p className="ornament">&mdash; &#x2766; &mdash;</p>
+        <p className="ornament mt-16">&mdash; &#x2766; &mdash;</p>
 
         <p className="font-serif italic text-ink-soft text-center">
           If you find a fact that&rsquo;s wrong, or a person we should

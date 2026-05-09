@@ -23,6 +23,12 @@ export function EntryRow({ entry }: EntryRowProps) {
                 {entry.summary}
               </p>
             )}
+            {entry.meta['Hand raised'] && (
+              <p className="smallcaps !text-[0.6rem] !tracking-[0.18em] text-twilight-soft mt-2">
+                Hand raised: {entry.meta['Hand raised']}
+                {entry.meta.Availability ? ` · ${entry.meta.Availability}` : ''}
+              </p>
+            )}
           </Link>
         </div>
         <div className="shrink-0 pt-1">

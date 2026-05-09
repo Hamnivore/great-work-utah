@@ -14,6 +14,7 @@ import { TierGlyph } from './parts/IssueShared'
 import { WhosReading } from './parts/WhosReading'
 import {
   SUGGESTED_QUESTIONS,
+  categoryImageFor,
   getCoverQuote,
   getFeaturedEntries,
   heroCaptionFor,
@@ -36,7 +37,7 @@ import {
  * Two structural moves:
  *
  *   1. The masthead becomes a *real* magazine masthead band — big
- *      tracked-Caslon GREAT WORK, italic tagline beneath, UTAH, USA
+ *      tracked-Caslon GREAT WORK, roman tagline beneath, UTAH, USA
  *      smallcaps, and a search pill. It lives on the photograph
  *      (glass treatment), centered, generous, and scrolls away
  *      with the cover. The wordmark is now at parity with the
@@ -56,7 +57,12 @@ import {
  * clicks, and touch dragging behave exactly as before.
  */
 export function SearchSticky() {
-  const slides = getFeaturedEntries(5)
+  // Show the full 8-card cover stack on the carousel. The list lives
+  // in FEATURED_IDS in `_shared.ts`; bumping this number wider only
+  // makes sense once we've curated more entries with real, hand-
+  // picked heroes. The carousel auto-rotates with hover-pause, dots,
+  // edge clicks, and touch.
+  const slides = getFeaturedEntries(8)
   const browseRecs = slides.slice(0, 5)
 
   return (
@@ -70,11 +76,51 @@ export function SearchSticky() {
 
       {/* ===== BROWSE BY CATEGORY ===== */}
       <BrowseByCategory />
+
+      {/* ===== ABOUT THE GUIDE — quiet meta footer ===== */}
+      <AboutTheGuide />
     </StickySearchShell>
   )
 }
 
+/**
+ * AboutTheGuide
+ *
+ * A small, calm footer band that closes the home page. Three meta
+ * links — How it works, The tier system, Raise your hand — set in
+ * the same smallcaps vocabulary as the rest of the chrome, plus the
+ * standing one-line description we use on inner pages. The home
+ * doesn't render <Layout/>, so without this rail a first-time visitor
+ * on / can't find these pages.
+ */
+function AboutTheGuide() {
+  return (
+    <section className="max-w-3xl mx-auto px-5 sm:px-8 pt-6 sm:pt-8 pb-16 mt-4 border-t border-sandstone/40">
+      <p className="smallcaps text-center mb-3">About the guide</p>
+      <p className="smallcaps text-center !tracking-[0.18em] flex flex-wrap items-center justify-center gap-x-3 gap-y-1">
+        <Link to="/how-it-works" className="hover:text-twilight transition-colors">
+          How it works
+        </Link>
+        <span aria-hidden className="text-twilight-soft/45">·</span>
+        <Link to="/tier-system" className="hover:text-twilight transition-colors">
+          The tier system
+        </Link>
+        <span aria-hidden className="text-twilight-soft/45">·</span>
+        <Link to="/raise-hand" className="hover:text-twilight transition-colors">
+          Raise your hand
+        </Link>
+      </p>
+      <p className="font-serif italic text-sm text-ink-soft text-center leading-relaxed mt-5 max-w-xl mx-auto">
+        A travel guide to the great work being done in Utah.
+        <br />
+        Built on an LLM-maintained wiki that compounds knowledge over time.
+      </p>
+    </section>
+  )
+}
+
 const CATEGORY_ORDER = [
+  'People',
   'Medicine and Biology',
   'Industry and Infrastructure',
   'Defense and Security',
@@ -86,6 +132,7 @@ const CATEGORY_ORDER = [
 ]
 
 const CATEGORY_DECKS: Record<string, string> = {
+  People: 'Operators, researchers, advisors, and hand-raises entering the map.',
   'Medicine and Biology': 'Biotech, devices, health, and the science of living systems.',
   'Industry and Infrastructure': 'Rail, roads, factories, materials, and useful heavy things.',
   'Defense and Security': 'Hard problems in autonomy, sensing, safety, and national defense.',
@@ -98,6 +145,7 @@ const CATEGORY_DECKS: Record<string, string> = {
 
 function BrowseByCategory() {
   const categories = getCategoryGroups()
+  const [openCategory, setOpenCategory] = useState<string | null>(null)
 
   return (
     <section className="max-w-5xl mx-auto px-4 sm:px-6 pt-14 sm:pt-18 mb-16">
@@ -105,7 +153,7 @@ function BrowseByCategory() {
         <div>
           <p className="smallcaps">Browse the guide</p>
           <h2
-            className="font-display italic text-twilight leading-none mt-2"
+            className="font-display text-twilight leading-none mt-2"
             style={{ fontSize: 'clamp(2rem, 9vw, 2.8rem)' }}
           >
             Choose a category
@@ -121,7 +169,12 @@ function BrowseByCategory() {
 
       <div className="bg-paper shadow-[0_1px_0_rgba(42,31,24,0.06),0_24px_60px_-30px_rgba(42,31,24,0.25)] border border-sandstone/50 rounded-md overflow-hidden">
         <div className="border-b border-sandstone/60 bg-pale-sky/30 px-4 sm:px-5 py-3 flex items-baseline justify-between gap-4">
-          <p className="smallcaps">Field index</p>
+          <div>
+            <p className="smallcaps">Field index</p>
+            <p className="font-serif italic text-ink-soft text-sm leading-snug mt-1">
+              Open a category to see its entries. Use the header search for the guide.
+            </p>
+          </div>
           <p className="smallcaps !text-[0.6rem] !tracking-[0.2em] text-twilight-soft/75">
             {getAllEntries().length} entries
           </p>
@@ -133,6 +186,12 @@ function BrowseByCategory() {
               key={category.name}
               category={category}
               index={i}
+              open={openCategory === category.name}
+              onToggle={() =>
+                setOpenCategory((current) =>
+                  current === category.name ? null : category.name,
+                )
+              }
             />
           ))}
         </div>
@@ -144,11 +203,16 @@ function BrowseByCategory() {
 function CategoryPanel({
   category,
   index,
+  open,
+  onToggle,
 }: {
   category: CategoryGroup
   index: number
+  open: boolean
+  onToggle: () => void
 }) {
   const feature = category.entries[0]
+  const visibleEntries = open ? category.entries : category.entries.slice(0, 3)
 
   return (
     <section className="border-b md:odd:border-r border-sandstone/45 last:border-b-0 md:[&:nth-last-child(2)]:border-b-0">
@@ -160,7 +224,7 @@ function CategoryPanel({
         >
           <div className="aspect-[3/4] bg-sandstone/25 overflow-hidden rounded-sm border border-sandstone/45">
             <img
-              src={heroImageFor(feature, 420, 560)}
+              src={categoryImageFor(category.name, feature, 420, 560)}
               alt=""
               className="w-full h-full object-cover editorial-img transition-transform duration-500 group-hover:scale-[1.03]"
             />
@@ -174,7 +238,7 @@ function CategoryPanel({
             </p>
             <TierGlyph tier={feature.tier} className="text-base shrink-0" />
           </div>
-          <h3 className="font-display italic text-ink text-2xl leading-tight mt-1">
+          <h3 className="font-display text-ink text-2xl leading-tight mt-1">
             {category.name}
           </h3>
           <p className="font-serif italic text-ink-soft text-sm leading-snug mt-2">
@@ -182,13 +246,13 @@ function CategoryPanel({
           </p>
 
           <ul className="mt-4 divide-y divide-sandstone/30">
-            {category.entries.slice(0, 3).map((entry) => (
+            {visibleEntries.map((entry) => (
               <li key={`${entry.source}/${entry.slug}`} className="py-2 first:pt-0 last:pb-0">
                 <Link
                   to={`/entry/${entry.source}/${entry.slug}`}
                   className="group flex items-baseline gap-3"
                 >
-                  <p className="font-display italic text-ink leading-tight group-hover:text-twilight transition-colors flex-1 min-w-0 truncate">
+                  <p className="font-display text-ink leading-tight group-hover:text-twilight transition-colors flex-1 min-w-0 truncate">
                     {entry.title}
                   </p>
                   <TierGlyph tier={entry.tier} className="text-sm shrink-0" />
@@ -197,12 +261,14 @@ function CategoryPanel({
             ))}
           </ul>
 
-          <Link
-            to={`/ask?q=${encodeURIComponent(`Show me the best ${category.name.toLowerCase()} entries in Great Work Utah`)}`}
+          <button
+            type="button"
+            onClick={onToggle}
+            aria-expanded={open}
             className="smallcaps inline-block mt-4 hover:text-orange transition-colors"
           >
-            Browse this category →
-          </Link>
+            {open ? 'Show fewer ↑' : `Show all ${category.count} entries ↓`}
+          </button>
         </div>
       </div>
     </section>
@@ -216,13 +282,14 @@ interface CategoryGroup {
 }
 
 function getCategoryGroups(): CategoryGroup[] {
-  const all = getAllEntries().filter((entry) => entry.tier !== 'unknown')
+  const all = getAllEntries()
   const byDomain = new Map<string, Entry[]>()
 
   for (const entry of all) {
-    const existing = byDomain.get(entry.domain) ?? []
+    const domain = entry.source === 'people' ? 'People' : entry.domain
+    const existing = byDomain.get(domain) ?? []
     existing.push(entry)
-    byDomain.set(entry.domain, existing)
+    byDomain.set(domain, existing)
   }
 
   return CATEGORY_ORDER.map((name) => {
@@ -677,11 +744,11 @@ function StickySearchShell({
               }
             }}
             aria-label="Open search"
-            className="group flex-1 min-w-0 flex items-center gap-2.5 rounded-full px-4 py-1.5 sm:py-2 italic font-serif text-sm sm:text-base bg-pale-sky/55 border border-twilight/15 hover:border-twilight/40 transition-colors"
+            className="group flex-1 min-w-0 flex items-center gap-2.5 rounded-full px-3.5 py-1.5 italic font-serif text-sm sm:text-base bg-pale-sky/50 border border-twilight/15 hover:border-twilight/45 focus:outline-none focus:border-twilight/45 focus:ring-2 focus:ring-twilight/20 transition-colors"
           >
             <SearchIcon className="w-4 h-4 shrink-0 text-twilight-soft" />
-            <span className="flex-1 min-w-0 text-left text-twilight/55 truncate">
-              look around
+            <span className="flex-1 min-w-0 text-left text-twilight/45 truncate">
+              Ask the guide anything
             </span>
             <kbd className="smallcaps !text-[0.55rem] !tracking-[0.18em] hidden sm:inline text-twilight-soft/55">
               ⌘K
@@ -715,7 +782,7 @@ function StickySearchShell({
         onClick={onCoverClick}
         className="relative isolate text-paper -mt-[60px] sm:-mt-[64px] overflow-hidden select-none touch-pan-y"
         style={{
-          /* 86vh — *not* 96vh — so the top of "Also worth reading" peeks
+          /* 86vh — *not* 96vh — so the top of "Browse by category" peeks
              above the fold. The peek IS the scroll cue, the same way a
              magazine's cover sits on the page above the contents page —
              readers' eyes get the implication without a chrome chevron
@@ -804,7 +871,7 @@ function StickySearchShell({
                       }}
                     >
                       <h1
-                        className="font-display italic leading-[1] text-paper group-hover:text-sky transition-colors"
+                        className="font-display leading-[1] text-paper group-hover:text-sky transition-colors"
                         style={{ fontSize: 'clamp(1.4rem, 4.6vw, 2.1rem)' }}
                       >
                         {slide.title}.
@@ -893,7 +960,7 @@ function StickySearchShell({
                 Great Work
               </p>
               <p
-                className="font-display italic text-paper/85 mt-4 leading-snug"
+                className="font-display text-paper/85 mt-4 leading-snug"
                 style={{ fontSize: 'clamp(0.85rem, 2.4vw, 1.05rem)' }}
               >
                 A travel guide to Utah’s great work
@@ -915,11 +982,11 @@ function StickySearchShell({
                 }
               }}
               aria-label="Open search"
-              className="cover-masthead-search pointer-events-auto group w-full max-w-md flex items-center gap-2.5 rounded-full bg-paper/15 backdrop-blur-md border border-paper/30 hover:border-paper px-4 py-2 italic font-serif text-sm sm:text-base transition-colors"
+              className="cover-masthead-search pointer-events-auto group w-full max-w-md flex items-center gap-2.5 rounded-full bg-paper/15 backdrop-blur-md border border-paper/30 hover:border-paper focus:outline-none focus:border-paper focus:ring-2 focus:ring-paper/25 px-3.5 py-1.5 italic font-serif text-sm sm:text-base transition-colors"
             >
               <SearchIcon className="w-4 h-4 shrink-0 text-paper/70" />
               <span className="flex-1 min-w-0 text-left text-paper/70 truncate">
-                look around
+                Ask the guide anything
               </span>
               <kbd className="smallcaps !text-[0.55rem] !tracking-[0.18em] hidden sm:inline text-paper/55">
                 ⌘K
@@ -1109,29 +1176,78 @@ function SearchPanel({
             </ul>
           </div>
 
-          {recommendations.length > 0 && (
-            <div>
-              <p className="smallcaps mb-4">Or browse</p>
-              <ul className="space-y-2">
-                {recommendations.map((entry) => (
-                  <li key={`${entry.source}/${entry.slug}`}>
+          <div>
+            {recommendations.length > 0 && (
+              <>
+                <p className="smallcaps mb-4">Or browse</p>
+                <ul className="space-y-2">
+                  {recommendations.map((entry) => (
+                    <li key={`${entry.source}/${entry.slug}`}>
+                      <Link
+                        to={`/entry/${entry.source}/${entry.slug}`}
+                        onClick={onClose}
+                        className="block group rounded-2xl border border-sandstone/40 hover:border-twilight/40 hover:bg-paper-deep/40 px-4 py-3 transition-colors"
+                      >
+                        <p className="font-display text-ink leading-snug group-hover:text-twilight transition-colors">
+                          {entry.title}
+                        </p>
+                        <p className="smallcaps !text-[0.6rem] !tracking-[0.18em] text-twilight-soft/80 mt-0.5">
+                          {entry.domain}
+                        </p>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
+
+            {/* About-the-guide rail. Always visible inside the panel
+                so a first-time visitor reaching for the search box
+                can also find the meta pages from /. */}
+            <div
+              className={
+                recommendations.length > 0
+                  ? 'mt-7 pt-5 border-t border-sandstone/40'
+                  : ''
+              }
+            >
+              <p className="smallcaps mb-3">About the guide</p>
+              <ul className="space-y-1.5">
+                {[
+                  {
+                    to: '/how-it-works',
+                    title: 'How it works',
+                    blurb: 'The wiki, the agent, the AI approach.',
+                  },
+                  {
+                    to: '/tier-system',
+                    title: 'The tier system',
+                    blurb: 'How we rank great work — in public.',
+                  },
+                  {
+                    to: '/raise-hand',
+                    title: 'Raise your hand',
+                    blurb: 'Tell the guide who you are.',
+                  },
+                ].map((item) => (
+                  <li key={item.to}>
                     <Link
-                      to={`/entry/${entry.source}/${entry.slug}`}
+                      to={item.to}
                       onClick={onClose}
-                      className="block group rounded-2xl border border-sandstone/40 hover:border-twilight/40 hover:bg-paper-deep/40 px-4 py-3 transition-colors"
+                      className="block group rounded-2xl px-4 py-2.5 hover:bg-paper-deep/40 transition-colors"
                     >
                       <p className="font-display italic text-ink leading-snug group-hover:text-twilight transition-colors">
-                        {entry.title}
+                        {item.title}
                       </p>
-                      <p className="smallcaps !text-[0.6rem] !tracking-[0.18em] text-twilight-soft/80 mt-0.5">
-                        {entry.domain}
+                      <p className="font-serif italic text-ink-soft text-sm leading-snug mt-0.5">
+                        {item.blurb}
                       </p>
                     </Link>
                   </li>
                 ))}
               </ul>
             </div>
-          )}
+          </div>
         </div>
       </section>
     </div>

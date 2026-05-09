@@ -1,6 +1,7 @@
 import { Link, useNavigate } from 'react-router-dom'
 import type { ReactNode } from 'react'
 import { usePageTransition } from '../lib/page-transitions'
+import { AskBar } from './AskBar'
 
 interface LayoutProps {
   children: ReactNode
@@ -33,24 +34,26 @@ export function Layout({ children, backLabel, backTo, hideHeader = false }: Layo
   return (
     <div className="min-h-screen bg-paper text-ink">
       {!hideHeader && (
-        <header className="sticky top-0 z-10 backdrop-blur-sm bg-paper/85 border-b border-sandstone/30">
-          <div className="max-w-3xl mx-auto px-5 sm:px-8 py-3 flex items-center gap-3">
+        <header className="sticky top-0 z-10 backdrop-blur-sm bg-paper/90 border-b border-sandstone/30">
+          <div className="max-w-3xl mx-auto px-5 sm:px-8 py-2.5 flex items-center gap-3">
             {backLabel ? (
               <button
                 type="button"
                 onClick={handleBack}
-                className="text-twilight hover:text-orange font-serif italic text-sm transition-colors"
+                className="text-twilight hover:text-orange font-serif italic text-sm transition-colors shrink-0"
               >
                 ← {backLabel}
               </button>
             ) : (
-              <Link to="/" className="block">
+              <Link to="/" className="block shrink-0">
                 <div className="font-display italic text-twilight text-xl leading-none">
                   Great Work
                 </div>
-                <div className="smallcaps mt-0.5">Utah, USA</div>
               </Link>
             )}
+            <div className="flex-1 min-w-0">
+              <AskBar variant="slim" />
+            </div>
           </div>
         </header>
       )}
@@ -64,6 +67,10 @@ export function Layout({ children, backLabel, backTo, hideHeader = false }: Layo
           Built on an LLM-maintained wiki that compounds knowledge over time.
         </p>
         <p className="smallcaps mt-4">
+          <Link to="/how-it-works" className="hover:text-twilight">
+            How it works
+          </Link>
+          {' · '}
           <Link to="/tier-system" className="hover:text-twilight">
             The tier system
           </Link>

@@ -125,9 +125,9 @@ This is the clearest judge-facing source for the matching problem. It gives the 
 
 ## 3. GOEO Startup State Brief and Provided Data Packs
 
-**Status:** blocked  
+**Status:** first_pass  
 **Priority:** high  
-**Source status:** brief is local; actual resource spreadsheet and map data are referenced but not found in this repo  
+**Source status:** brief is local; `docs/resouces-list.csv` is now available and bulk-ingested; map data still not found in this repo  
 **Source docs:** [`startup-state-brief.md`](./startup-state-brief.md)
 
 **Why This Is Useful**
@@ -158,6 +158,7 @@ The GOEO brief says a complete spreadsheet of every state resource and map data 
 **Progress / Notes**
 
 - 2026-05-09: Marked blocked because the brief references provided data packs, but they are not visible in the repo.
+- 2026-05-09: Bulk-ingested `docs/resouces-list.csv` into `wiki/resources/`. The CSV contains 213 parsed resource records; all are now represented either by existing curated pages or imported stub pages. Resource pages still need provider-by-provider source verification and stronger fit language before they should drive high-confidence recommendations. Map data remains missing.
 
 ## 4. Nucleus Institute Programs
 

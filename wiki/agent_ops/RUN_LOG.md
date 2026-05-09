@@ -1,5 +1,62 @@
 # Great Work Utah Wiki Agent Run Log
 
+## Run: 2026-05-09 13:12 MDT - Bulk Startup State CSV resource ingest
+
+### Seed Worklist Item
+
+- item: 3. GOEO Startup State Brief and Provided Data Packs
+- starting status: blocked
+- ending status: first_pass
+
+### Goal
+
+Bulk ingest `docs/resouces-list.csv` into the prose-first wiki so Startup State resources are discoverable as `wiki/resources/` pages.
+
+### Files Read
+
+- `wiki/agent_ops/agents.md`
+- `wiki/agent_ops/schema.md`
+- `wiki/agent_ops/index.md`
+- `docs/wiki-seed-worklist.md`
+- `docs/resouces-list.csv`
+- Existing curated Startup State resource/source pages
+
+### Files Created
+
+- `scripts/ingest-resource-csv.mjs`
+- `wiki/agent_ops/locks/2026-05-09-bulk-resource-csv-ingest.md`
+- 204 imported resource stub pages under `wiki/resources/`
+
+### Files Updated
+
+- `docs/wiki-seed-worklist.md`
+- `wiki/agent_ops/index.md`
+- `wiki/agent_ops/RUN_LOG.md`
+- `wiki/agent_ops/locks/2026-05-09-bulk-resource-csv-ingest.md`
+
+### Key Findings
+
+- The CSV parsed into 213 resource records.
+- All 213 parsed CSV records are represented after ingest: either by a curated existing resource page or a low-confidence imported stub.
+- Near-duplicate CSV titles were mapped to curated pages for SBDC, SBA, SCORE, Startup State, APEX, and USBCI.
+
+### Validation
+
+- Re-ran the importer and confirmed it is idempotent: 0 new pages created on the second pass.
+- Validated that all 218 resource pages have H1, `Status`, `Confidence`, and `Updated` header lines.
+
+### Problems / Uncertainty
+
+- The CSV is directory data, not verified source evidence. Imported pages are intentionally `Status: Stub` and `Confidence: Low`.
+- Some imported rows appear date-sensitive or event-like and may be stale; these need provider-page verification before recommendations rely on them.
+- The map data referenced in the GOEO brief is still not present in the repo.
+
+### Next Best Tasks
+
+- Prioritize the most useful imported resources for editorial verification and promote them to `Draft` or `Useful`.
+- Split clear business-service organizations into `helpers/` where the next user action is relational outreach rather than applying to a program.
+- Build persona-specific `answers/` pages from the verified subset.
+
 ## Run: 2026-05-09 06:05 MDT - Startup State resource-navigation first pass
 
 ### Seed Worklist Item

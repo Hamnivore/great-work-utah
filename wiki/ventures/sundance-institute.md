@@ -6,8 +6,8 @@
 **Stage:** Established 501(c)(3) nonprofit; founded 1981
 **Location:** Park City, UT (administrative HQ); Sundance Resort, UT (Artist Labs)
 **Updated:** 2026-05-09
-**Hero:** https://upload.wikimedia.org/wikipedia/commons/7/79/Sundance_Film_Festival.jpg
-**Hero caption:** *Sundance Film Festival, Main Street, Park City — photograph by Travis Wise (Wikimedia Commons, CC BY 2.0).*
+**Hero:** https://upload.wikimedia.org/wikipedia/commons/9/94/Egyptian_Theatre_%282024%29-L1004366.jpg
+**Hero caption:** *The Mary G. Steiner Egyptian Theatre on Main Street, Park City, on the eve of the 2024 Sundance Film Festival — photograph by Frank Schulenburg via WikiPortraits (Wikimedia Commons, CC BY-SA 4.0).*
 **Pull:** *Forty years of artist labs, in a mountain town, that quietly underwrote much of American independent cinema.*
 
 ## Summary
@@ -46,4 +46,4 @@ Sundance has been a defining Park City institution for four decades. The Festiva
 
 - The 2027 relocation of the Festival to Boulder will redistribute revenue and visibility; how the Institute reorganizes Utah-based programming as a result is the most consequential open question for the wiki.
 - New Frontier's audience is still small; its eventual influence depends on whether immersive-media adoption catches up to its bet.
-- The current hero is the public-domain Sundance Film Festival sign on Main Street (Travis Wise, CC BY 2.0); a license-clean Sundance Resort or Lab image would better represent the year-round Institute work.
+- The current hero is the Egyptian Theatre on Main Street the night before the 2024 festival (Frank Schulenburg via WikiPortraits, CC BY-SA 4.0); a license-clean Sundance Resort or Artist Lab image would better represent the year-round Institute work.

@@ -3,11 +3,14 @@ import OpenAI from "openai";
 import fs from "node:fs/promises";
 import { execFileSync } from "node:child_process";
 import path from "node:path";
+import { ghReadFile, ghWriteFile } from "./github-wiki";
 
-const client = new OpenAI({
-  baseURL: "https://api.deepseek.com",
-  apiKey: process.env.DEEPSEEK_API_KEY,
-});
+function getClient() {
+  return new OpenAI({
+    baseURL: "https://api.deepseek.com",
+    apiKey: process.env.DEEPSEEK_API_KEY,
+  });
+}
 
 const WIKI_ROOT = path.resolve(process.cwd(), "wiki");
 const LEGACY_WIKI_ROOT = path.resolve(process.cwd(), "legacy_wiki/great_work");
@@ -47,17 +50,29 @@ async function readFile(filePath: string): Promise<string> {
   const resolved = path.resolve(
     filePath.startsWith("/") ? filePath : path.join(WIKI_ROOT, filePath)
   );
-  const inNew = resolved.startsWith(WIKI_ROOT);
-  const inLegacy = resolved.startsWith(LEGACY_WIKI_ROOT);
-  if (!inNew && !inLegacy) return "Error: path is outside wiki directory";
-  try {
-    return await fs.readFile(resolved, "utf8");
-  } catch {
-    return `Error: could not read ${filePath}`;
+
+  // New wiki: read via GitHub API so agents always see the latest content,
+  // including pages written after the last Trigger.dev deploy.
+  if (resolved.startsWith(WIKI_ROOT)) {
+    const repoRelative = "wiki/" + path.relative(WIKI_ROOT, resolved);
+    return ghReadFile(repoRelative);
   }
+
+  // Legacy wiki: bundled at deploy time; local read is fine (these don't change).
+  if (resolved.startsWith(LEGACY_WIKI_ROOT)) {
+    try {
+      return await fs.readFile(resolved, "utf8");
+    } catch {
+      return `Error: could not read ${filePath}`;
+    }
+  }
+
+  return "Error: path is outside wiki directories";
 }
 
-const SYSTEM_PROMPT = `You are the Great Work Utah wiki agent — a field guide for Utah's startup, research, and talent ecosystem.
+const SYSTEM_PROMPT = `You are the Great Work Utah wiki agent — a field guide for Utah's startup, research, and talent ecosystem. You can also write back to the wiki.
+
+When answering a question reveals a clear gap — a company, person, or topic that deserves a wiki page but doesn't have one yet — use write_file to save it. Keep new pages concise and factual. Use the same markdown style as existing wiki entries.
 
 You have access to two wiki corpora:
 
@@ -120,6 +135,32 @@ const tools: OpenAI.Chat.Completions.ChatCompletionTool[] = [
       },
     },
   },
+  {
+    type: "function",
+    function: {
+      name: "write_file",
+      description:
+        "Write or update a wiki page. Use when you've synthesized something valuable enough to persist for future queries. Path is relative to wiki/, e.g. 'ventures/new-company.md' or 'guides/utah-vc-landscape.md'.",
+      parameters: {
+        type: "object",
+        properties: {
+          path: {
+            type: "string",
+            description: "Wiki-relative path, e.g. 'ventures/new-company.md'",
+          },
+          content: {
+            type: "string",
+            description: "Full markdown content of the page",
+          },
+          commit_message: {
+            type: "string",
+            description: "Short git commit message, e.g. 'search-agent: add XYZ entry'",
+          },
+        },
+        required: ["path", "content", "commit_message"],
+      },
+    },
+  },
 ];
 
 type FunctionToolCall = {
@@ -138,7 +179,7 @@ async function runToolCallRound(
   textContent: string;
   reasoningContent: string;
 }> {
-  const stream = await client.chat.completions.create({
+  const stream = await getClient().chat.completions.create({
     model: "deepseek-v4-flash",
     max_tokens: 1024,
     messages,
@@ -236,6 +277,15 @@ export const searchAgent = task({
           thinkingAcc += line;
           await metadata.set("thinking", thinkingAcc);
           result = await readFile(args.path);
+        } else if (toolCall.function.name === "write_file") {
+          const line = `\n\n💾 write_file("${args.path}")\n`;
+          thinkingAcc += line;
+          await metadata.set("thinking", thinkingAcc);
+          result = await ghWriteFile(
+            `wiki/${args.path}`,
+            args.content,
+            args.commit_message ?? `search-agent: update ${args.path}`,
+          );
         } else {
           result = "Unknown tool";
         }
@@ -248,7 +298,7 @@ export const searchAgent = task({
     thinkingAcc += "\n\n✍️ Writing response…\n";
     await metadata.set("thinking", thinkingAcc);
 
-    const finalStream = await client.chat.completions.create({
+    const finalStream = await getClient().chat.completions.create({
       model: "deepseek-v4-flash",
       max_tokens: 2048,
       messages: [

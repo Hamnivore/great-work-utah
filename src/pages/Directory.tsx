@@ -5,9 +5,9 @@ import { EntryRow } from '../components/EntryRow'
 import { getAllEntries } from '../lib/data'
 import type { Tier } from '../lib/types'
 
-const VISIBLE_TIERS: Tier[] = ['S', 'A', 'B', 'C', 'D', 'F']
+const VISIBLE_TIERS: Tier[] = ['S', 'A', 'B', 'C', 'D', 'F', 'unknown']
 
-type Source = 'places_you_can_work' | 'great_work' | 'all'
+type SourceFilter = 'places_you_can_work' | 'great_work' | 'people' | 'all'
 
 /**
  * /directory — the back-of-the-book.
@@ -17,7 +17,7 @@ type Source = 'places_you_can_work' | 'great_work' | 'all'
  * it lives now. Honest browsing, calm typography, no hero.
  */
 export function DirectoryPage() {
-  const [source, setSource] = useState<Source>('places_you_can_work')
+  const [source, setSource] = useState<SourceFilter>('places_you_can_work')
 
   const entries = getAllEntries().filter((e) => {
     if (!VISIBLE_TIERS.includes(e.tier)) return false
@@ -51,9 +51,10 @@ export function DirectoryPage() {
         {(
           [
             { id: 'places_you_can_work', label: 'Places you can work' },
+            { id: 'people', label: 'People' },
             { id: 'great_work', label: 'Historical great work' },
             { id: 'all', label: 'All' },
-          ] as Array<{ id: Source; label: string }>
+          ] as Array<{ id: SourceFilter; label: string }>
         ).map((s) => (
           <button
             key={s.id}

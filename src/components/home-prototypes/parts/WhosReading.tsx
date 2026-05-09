@@ -75,7 +75,7 @@ export function WhosReading({
           <div>
             <p className="smallcaps">Get matched</p>
             <h2
-              className="font-display italic text-twilight leading-none mt-2"
+              className="font-display text-twilight leading-none mt-2"
               style={{ fontSize: 'clamp(1.9rem, 8vw, 2.6rem)' }}
             >
               What are you looking for?
@@ -354,7 +354,7 @@ function FiledStage({
                     />
                   </div>
                   <div>
-                    <p className="font-display italic text-ink leading-tight group-hover:text-twilight transition-colors">
+                    <p className="font-display text-ink leading-tight group-hover:text-twilight transition-colors">
                       {entry.title}
                     </p>
                     <p className="font-serif italic text-ink-soft text-sm leading-snug mt-1">
@@ -382,7 +382,7 @@ function FiledStage({
                       className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03] editorial-img"
                     />
                   </div>
-                  <p className="font-display italic text-ink leading-tight group-hover:text-twilight transition-colors">
+                  <p className="font-display text-ink leading-tight group-hover:text-twilight transition-colors">
                     {entry.title}
                   </p>
                 </Link>

@@ -19,17 +19,22 @@ import type { Entry, Source } from '../../lib/types'
  * ---------------------------------------------------------------------- */
 
 const FEATURED_IDS: Array<{ source: Source; slug: string }> = [
-  // Real Wikimedia photographs (CC0 / CC BY 2.0 / CC BY-SA 4.0).
-  { source: 'places_you_can_work', slug: 'familysearch' },
+  // Cover stack for the current issue. Three "you've heard of these,"
+  // three "you should have heard of these," two "wait, that's Utah?"
   { source: 'places_you_can_work', slug: 'sundance-institute' },
-  { source: 'places_you_can_work', slug: 'space-dynamics-laboratory' },
-  // Picsum-thematic placeholders, kept so the carousel still feels like
-  // an issue rather than a triptych. Drop these as real photos arrive.
   { source: 'places_you_can_work', slug: 'recursion-pharmaceuticals' },
   { source: 'places_you_can_work', slug: 'fervo-energy' },
   { source: 'places_you_can_work', slug: 'blackrock-neurotech' },
-  { source: 'great_work', slug: 'spiral-jetty' },
-  { source: 'great_work', slug: 'capecchi-gene-targeting' },
+  { source: 'places_you_can_work', slug: 'space-dynamics-laboratory' },
+  { source: 'places_you_can_work', slug: 'intactis-bio' },
+  { source: 'great_work', slug: 'telescope-array-ultra-high-energy-cosmic-rays' },
+  { source: 'great_work', slug: 'jarvik-7-artificial-heart' },
+  // Next-up rotation when we publish the next issue:
+  //   { source: 'places_you_can_work', slug: 'familysearch' },
+  //   { source: 'great_work', slug: 'spiral-jetty' },
+  //   { source: 'great_work', slug: 'capecchi-gene-targeting' },
+  //   { source: 'great_work', slug: 'arpanet-fourth-node' },
+  //   { source: 'great_work', slug: 'moxie-solid-oxide-electrolysis-stack' },
 ]
 
 /** Resolve the editor's picks to real entries, falling back to top S-tier. */
@@ -134,6 +139,88 @@ export function heroImageFor(entry: Entry, w = 1600, h = 1100): string {
 export function hasRealHero(entry: Entry): boolean {
   const hero = entry.meta.Hero?.trim()
   return !!hero && !hero.includes('picsum.photos')
+}
+
+/* ----------------------------------------------------------------------
+ * Category-level imagery.
+ *
+ * `BrowseByCategory` (in SearchSticky.tsx) uses each category's top-tier
+ * entry as the visual feature. When that top entry has a real, hand-
+ * curated hero photograph, we use it (the entry's image *is* the
+ * category's image). When it doesn't — most categories today, since
+ * Jarvik-7 and Sundance are the only S-tier entries with real heroes —
+ * we fall back to one of these category-level images so the panel
+ * doesn't render a deterministic-but-arbitrary picsum landscape.
+ *
+ * Pick one iconic Utah image per category. Wikimedia Commons / NASA
+ * public-domain photographs win when they exist; locally generated
+ * editorial images live under /public/img/categories/ for the rest.
+ * ---------------------------------------------------------------------- */
+
+export const CATEGORY_IMAGES: Record<string, string> = {
+  // NIH archival photograph of the Jarvik-7 (NHLBI image 3559) — public
+  // domain via Wikimedia Commons. Same image as the Jarvik-7 venture
+  // hero. The Medicine and Biology category is anchored by Utah's
+  // medical-device lineage; the Jarvik-7 is its single most iconic
+  // artifact. Wikimedia Commons hotlinks reliably; the Smithsonian's
+  // IDS service was tried first but rejects browser referrers.
+  'Medicine and Biology':
+    'https://upload.wikimedia.org/wikipedia/commons/b/ba/Jarvik-7_Artificial_Heart_Image_3559-OT.jpg',
+  // Bingham Canyon Mine, Salt Lake County (David Ratledge, CC BY 4.0).
+  // The largest open-pit mine in the world, the deepest single industrial
+  // hole in Utah's landscape — a one-image summary of the category.
+  'Industry and Infrastructure':
+    'https://upload.wikimedia.org/wikipedia/commons/0/0e/Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg',
+  // AI-generated editorial illustration of a reconnaissance drone over
+  // the Utah West Desert at golden hour. Synthetic, not a photograph;
+  // the PNG carries explicit AI-generation metadata. Replace with a
+  // license-clean photograph before production use.
+  'Defense and Security': '/img/categories/defense-and-security.png',
+  // Bonneville Salt Flats during the seasonal flood, with mountains
+  // mirrored in the thin water layer (m01229, CC BY-SA 2.0). The most
+  // recognizable Utah landscape photograph that isn't a national park.
+  'Environment and Earth':
+    'https://upload.wikimedia.org/wikipedia/commons/8/85/Looks_like_a_mirror%21_Bonneville_Salt_Flats%2C_flooded_%2828983556772%29.jpg',
+  // The Utah Teapot (Finlay McWalter / POV-Ray render, public domain).
+  // Modeled by Martin Newell at the University of Utah in 1975, the
+  // single most-referenced object in computer graphics history. Low
+  // resolution (300×243) but iconic enough to carry the category card.
+  'Computing and Software':
+    'https://upload.wikimedia.org/wikipedia/commons/a/ad/Utah_teapot.png',
+  // AI-generated editorial illustration of a geothermal-style drilling
+  // rig at twilight in a Utah high-desert basin. Synthetic, not a
+  // photograph; the PNG carries explicit AI-generation metadata.
+  // Replace with a license-clean photograph before production use.
+  Energy: '/img/categories/energy.png',
+  // SLS Flight Support Booster-2 ground test at Northrop Grumman's
+  // Promontory, Utah facility, July 2022 (NASA Marshall, public domain).
+  // Direct line of descent from Thiokol shuttle motors to Artemis.
+  'Aerospace and Propulsion':
+    'https://upload.wikimedia.org/wikipedia/commons/4/44/NASA%2C_Northrop_Grumman_Conduct_Flight_Support_Booster-2_Test_%2820220721_FSB2_1%29.jpeg',
+  // Spiral Jetty from above (Retis via Flickr, CC BY 2.0). Robert
+  // Smithson's earthwork on the north arm of the Great Salt Lake.
+  'Culture and Arts':
+    'https://upload.wikimedia.org/wikipedia/commons/a/a1/Robert_Smithson%2C_Spiral_Jetty%2C_1970_%2821237412439%29.jpg',
+}
+
+/**
+ * Image to render on a category card. Prefers the top entry's real
+ * hand-curated hero (so individual editorial decisions still win), then
+ * falls back to the category-level image, then to a deterministic
+ * picsum so prototypes never break.
+ */
+export function categoryImageFor(
+  categoryName: string,
+  feature: Entry | undefined,
+  w = 420,
+  h = 560,
+): string {
+  if (feature && hasRealHero(feature)) {
+    return heroImageFor(feature, w, h)
+  }
+  const override = CATEGORY_IMAGES[categoryName]
+  if (override) return override
+  return `https://picsum.photos/seed/gw-cat-${categoryName.toLowerCase().replace(/\s+/g, '-')}/${w}/${h}`
 }
 
 /* ----------------------------------------------------------------------

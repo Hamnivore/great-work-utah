@@ -11,7 +11,8 @@ import path from 'node:path'
 // ---------- Types ----------
 
 type Tier = 'S' | 'A' | 'B' | 'C' | 'D' | 'F' | 'P-A' | 'P-B' | 'P-C' | 'unknown'
-type Source = 'great_work' | 'places_you_can_work'
+type Source = 'great_work' | 'places_you_can_work' | 'people'
+type LegacySource = 'great_work' | 'places_you_can_work'
 
 interface Section {
   heading: string
@@ -41,7 +42,8 @@ const NEW_WIKI_ROOT = path.join(REPO_ROOT, 'wiki')
 const OUT_DIR = path.join(REPO_ROOT, 'src/data/generated')
 const OUT_FILE = path.join(OUT_DIR, 'all.json')
 
-const SOURCES: Source[] = ['great_work', 'places_you_can_work']
+const LEGACY_SOURCES: LegacySource[] = ['great_work', 'places_you_can_work']
+const PUBLIC_SOURCE_DIRS: Source[] = ['people']
 
 /**
  * Editorial fields the new prose-first wiki at `wiki/` carries that the
@@ -81,6 +83,7 @@ function slugify(filename: string): string {
 }
 
 function humanizeDomain(domainSlug: string): string {
+  if (domainSlug === 'talent') return 'Talent'
   return domainSlug
     .split('-')
     .map((word) => {
@@ -168,7 +171,7 @@ function parseEntry(content: string, opts: { rawPath: string; source: Source; do
   const isWatchlist = tier.startsWith('P-')
 
   // Summary: first sentence of mission-shaped section, fall back to Domain field
-  const missionSection = sections.find((s) => /^(Mission|What it was|Overview)$/i.test(s.heading))
+  const missionSection = sections.find((s) => /^(Summary|Mission|What it was|Overview)$/i.test(s.heading))
   let summary = ''
   if (missionSection?.body) {
     summary = firstSentence(missionSection.body).replace(/\*\*/g, '')
@@ -269,7 +272,7 @@ async function build(): Promise<void> {
 
   const allEntries: Entry[] = []
 
-  for (const source of SOURCES) {
+  for (const source of LEGACY_SOURCES) {
     const sourceRoot = path.join(LEGACY_WIKI_ROOT, source)
     let exists = true
     try {
@@ -289,6 +292,27 @@ async function build(): Promise<void> {
       const domainSlug = segments.length > 1 ? segments[0] : 'other'
       const content = await fs.readFile(filePath, 'utf8')
       const entry = parseEntry(content, { rawPath: filePath, source, domainSlug })
+      if (entry) allEntries.push(entry)
+    }
+  }
+
+  for (const source of PUBLIC_SOURCE_DIRS) {
+    const sourceRoot = path.join(NEW_WIKI_ROOT, source)
+    let exists = true
+    try {
+      await fs.access(sourceRoot)
+    } catch {
+      exists = false
+    }
+    if (!exists) continue
+
+    for await (const filePath of walk(sourceRoot)) {
+      const content = await fs.readFile(filePath, 'utf8')
+      const entry = parseEntry(content, {
+        rawPath: filePath,
+        source,
+        domainSlug: source === 'people' ? 'talent' : source,
+      })
       if (entry) allEntries.push(entry)
     }
   }

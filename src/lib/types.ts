@@ -10,7 +10,7 @@ export type Tier =
   | 'P-C'
   | 'unknown'
 
-export type Source = 'great_work' | 'places_you_can_work'
+export type Source = 'great_work' | 'places_you_can_work' | 'people'
 
 export interface Section {
   heading: string

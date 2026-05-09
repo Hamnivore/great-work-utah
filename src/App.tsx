@@ -3,6 +3,7 @@ import { HomePage } from './pages/Home'
 import { DirectoryPage } from './pages/Directory'
 import { EntryPage } from './pages/Entry'
 import { TierSystemPage } from './pages/TierSystem'
+import { HowItWorksPage } from './pages/HowItWorks'
 import { AskPage } from './pages/Ask'
 import { RaiseHandPage } from './pages/RaiseHand'
 import { TemplatesPage } from './pages/Templates'
@@ -22,6 +23,7 @@ function AppRoutes() {
           <Route path="/directory" element={<DirectoryPage />} />
           <Route path="/entry/:source/:slug" element={<EntryPage />} />
           <Route path="/tier-system" element={<TierSystemPage />} />
+          <Route path="/how-it-works" element={<HowItWorksPage />} />
           <Route path="/ask" element={<AskPage />} />
           <Route path="/raise-hand" element={<RaiseHandPage />} />
           <Route path="/templates" element={<TemplatesPage />} />

@@ -22,6 +22,14 @@ const META_DISPLAY_KEYS = [
   'Domain',
   'Type',
   'Stage',
+  'Status',
+  'Confidence',
+  'Focus',
+  'Hand raised',
+  'Availability',
+  'Seeking',
+  'Offering',
+  'Synthetic',
   'Era',
   'HQ',
   'Location',
@@ -65,6 +73,7 @@ export function EntryPage() {
           <p className="smallcaps">
             {entry.domain}
             {entry.source === 'great_work' ? ' · history' : ''}
+            {entry.source === 'people' ? ' · people' : ''}
           </p>
           <div className="flex items-start justify-between gap-6 mt-2">
             <h1 className="font-display text-4xl sm:text-5xl text-ink leading-tight">

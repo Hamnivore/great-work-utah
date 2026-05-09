@@ -6,7 +6,8 @@
 **Stage:** Public company, clinical-stage TechBio
 **Location:** Salt Lake City, UT
 **Updated:** 2026-05-09
-**Hero:** https://picsum.photos/seed/recursion-biohive-laboratory-2026/1600/1100
+**Hero:** https://cdn.prod.website-files.com/604197abb43603652c167bfa/67845eda85cc7b8dbf9fbccb_Fly_Kylie_RecursionEdits-187%20(1)%20(1).png
+**Hero caption:** *Recursion scientists in the company's automated wet-lab, Salt Lake City — image hotlinked from Recursion's website for demo purposes; image rights have not yet been cleared.*
 **Pull:** *Industrializing drug discovery on more than fifty petabytes of multimodal biological and chemical data.*
 
 ## Summary
@@ -51,4 +52,4 @@ Recursion is headquartered in downtown Salt Lake City and is a visible anchor fo
 
 - Which Recursion programs are currently the strongest evidence that platform discovery is translating into clinical value?
 - How much of Recursion's current impact will come from internal pipeline assets versus partner use of the platform?
-- The current placeholder hero should be swapped for a license-clean Recursion lab, BioHive-2, or approved company image before this page is rendered as a magazine cover.
+- The current hero is hotlinked from Recursion's marketing site for the demo only — image rights have not been cleared. Replace with a Recursion-approved or independently licensed image before any production use.

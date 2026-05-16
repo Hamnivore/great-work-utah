@@ -16,5 +16,6 @@ export async function logRaiseHand(data: {
   want: string
   offer: string
 }) {
-  await supabase.from('raise_hand_submissions').insert(data)
+  const { error } = await supabase.from('raise_hand_submissions').insert(data)
+  if (error) throw new Error(error.message)
 }

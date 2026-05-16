@@ -13,19 +13,25 @@ const FLAVOR_DESCRIPTIONS: Record<Flavor, string> = {
 export function RaiseHandPage() {
   const [flavor, setFlavor] = useState<Flavor>('Seeker')
   const [submitted, setSubmitted] = useState(false)
+  const [error, setError] = useState<string | null>(null)
 
   async function onSubmit(e: FormEvent) {
     e.preventDefault()
+    setError(null)
     const form = e.currentTarget as HTMLFormElement
     const data = Object.fromEntries(new FormData(form)) as Record<string, string>
-    await logRaiseHand({
-      flavor,
-      name: data.name ?? '',
-      email: data.email ?? '',
-      want: data.want ?? '',
-      offer: data.offer ?? '',
-    })
-    setSubmitted(true)
+    try {
+      await logRaiseHand({
+        flavor,
+        name: data.name ?? '',
+        email: data.email ?? '',
+        want: data.want ?? '',
+        offer: data.offer ?? '',
+      })
+      setSubmitted(true)
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Something went wrong. Please try again.')
+    }
   }
 
   return (
@@ -81,6 +87,9 @@ export function RaiseHandPage() {
             <Field label="What you're looking for" name="want" multiline />
             <Field label="What you offer" name="offer" multiline />
 
+            {error && (
+              <p className="font-serif text-sm text-orange">{error}</p>
+            )}
             <button
               type="submit"
               className="px-6 py-2.5 bg-twilight text-paper font-serif italic rounded-md hover:bg-ink transition-colors"

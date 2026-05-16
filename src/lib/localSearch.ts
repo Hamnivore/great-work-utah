@@ -48,6 +48,13 @@ export interface LocalSearchResult {
   entry: Entry
   score: number
   matchedTerms: string[]
+  preview?: LocalSearchPreview
+}
+
+export interface LocalSearchPreview {
+  label: string
+  text: string
+  term: string
 }
 
 export function localSearch(query: string, limit = 8): LocalSearchResult[] {
@@ -114,7 +121,12 @@ function scoreEntry(entry: Entry, tokens: string[]): LocalSearchResult | null {
   if (entry.isStarred) score += 3
   if (entry.isWatchlist) score += 1
 
-  return { entry, score, matchedTerms }
+  return {
+    entry,
+    score,
+    matchedTerms,
+    preview: findPreview(entry, tokens),
+  }
 }
 
 function entrySearchText(entry: Entry): string {
@@ -127,6 +139,54 @@ function entrySearchText(entry: Entry): string {
   ]
     .join(' ')
     .toLowerCase()
+}
+
+function findPreview(entry: Entry, tokens: string[]): LocalSearchPreview | undefined {
+  const fields = [
+    { label: 'Summary', text: entry.summary },
+    ...entry.sections.map((section) => ({
+      label: section.heading || 'Body',
+      text: section.body,
+    })),
+    ...Object.entries(entry.meta).map(([label, text]) => ({ label, text })),
+    { label: 'Title', text: entry.title },
+    { label: 'Domain', text: entry.domain },
+  ]
+
+  for (const field of fields) {
+    const text = cleanPreviewText(field.text)
+    if (!text) continue
+
+    const term = tokens.find((token) => text.toLowerCase().includes(token))
+    if (term) {
+      return {
+        label: field.label,
+        text: excerptAround(text, term),
+        term,
+      }
+    }
+  }
+
+  return undefined
+}
+
+function cleanPreviewText(text: string): string {
+  return text
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/[`*_>#-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function excerptAround(text: string, term: string): string {
+  const index = text.toLowerCase().indexOf(term)
+  if (index < 0 || text.length <= 170) return text
+
+  const start = Math.max(0, index - 58)
+  const end = Math.min(text.length, index + term.length + 96)
+  const left = start > 0 ? text.slice(start).replace(/^\S+\s*/, '') : text
+  const excerpt = left.slice(0, end - start).replace(/\s+\S*$/, '')
+  return `${start > 0 ? '...' : ''}${excerpt}${end < text.length ? '...' : ''}`
 }
 
 function tokenize(text: string): string[] {

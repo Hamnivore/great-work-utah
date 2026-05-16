@@ -7,7 +7,7 @@
 **Location:** Salt Lake City, UT
 **Updated:** 2026-05-09
 **Hero:** https://media.wired.com/photos/62fc335e3787a50a7ae8c996/3:2/w_1920,c_limit/BCI_PortableSystem_Nathan_April2022-3689-top.jpg
-**Hero caption:** *Nathan Copeland, who has lived with a Utah Electrode Array implant in his motor and somatosensory cortex since 2014 — photograph from the University of Pittsburgh / Rehab Neural Engineering Labs, hotlinked from WIRED for demo purposes; image rights have not yet been cleared.*
+**Hero caption:** *Nathan Copeland, who has lived with a Utah Electrode Array implant in his motor and somatosensory cortex since 2014 — temporary hotlinked photograph from the University of Pittsburgh / Rehab Neural Engineering Labs via WIRED; image rights have not yet been cleared.*
 **Pull:** *The Utah Electrode Array is the most-implanted, most-studied intracortical BCI electrode in history.*
 
 ## Summary
@@ -49,4 +49,4 @@ Blackrock is part of a small but globally outsized Utah neuroengineering cluster
 
 - The Tether majority stake reshapes the company's capital base and governance; observers should watch which Neuralace and BCI roadmap items get prioritized, and whether the unusual ownership structure helps or constrains FDA-track work.
 - Competitors (Neuralink, Synchron, Precision Neuroscience) are pursuing related goals with very different funding and architecture; Blackrock's institutional advantage is its 30,000-patient-day track record, but the field is intensifying.
-- The current hero is hotlinked from WIRED's CDN for the demo only — it shows Nathan Copeland (a University of Pittsburgh BCI patient with a Utah Electrode Array implant) rather than a Blackrock employee or facility, and image rights have not been cleared. Replace with a Blackrock-approved photograph or an independently licensed neural-engineering image before any production use.
+- The current hero is hotlinked from WIRED's CDN. It shows Nathan Copeland (a University of Pittsburgh BCI patient with a Utah Electrode Array implant) rather than a Blackrock employee or facility, and image rights have not been cleared. Replace with a Blackrock-approved photograph or an independently licensed neural-engineering image before any production use.

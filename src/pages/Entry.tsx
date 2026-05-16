@@ -4,8 +4,8 @@ import remarkGfm from 'remark-gfm'
 import { Layout } from '../components/Layout'
 import { TierMark } from '../components/TierMark'
 import { AskBar } from '../components/AskBar'
-import { getEntry, getRelated } from '../lib/data'
-import type { Source, Section } from '../lib/types'
+import { getEntry, getRelated, getSectorNavigation } from '../lib/data'
+import type { Entry, SectorNavigation, Source, Section } from '../lib/types'
 
 const PULL_QUOTE_HEADINGS = ['Why it matters', 'Why it mattered', 'Mission', 'What it was']
 
@@ -64,6 +64,7 @@ export function EntryPage() {
   const pullQuote = pickPullQuote(entry.sections)
   const otherSections = entry.sections.filter((s) => s !== pullQuote)
   const related = getRelated(entry)
+  const sectorNav = getSectorNavigation(entry)
 
   return (
     <Layout backLabel="Back" backTo="/">
@@ -99,6 +100,8 @@ export function EntryPage() {
           ))}
         </dl>
 
+        <SectorReaderNav entry={entry} nav={sectorNav} compact />
+
         {/* Pull quote (Why it matters) — saturated cool inset */}
         {pullQuote && (
           <blockquote className="my-10 bg-sky/60 border-l-4 border-twilight rounded-r-md px-6 py-5">
@@ -124,6 +127,8 @@ export function EntryPage() {
           </section>
         ))}
       </article>
+
+      <SectorReaderNav entry={entry} nav={sectorNav} />
 
       {/* Ask refinement */}
       <section className="mt-16 pt-8 border-t border-sandstone/40">
@@ -156,6 +161,125 @@ export function EntryPage() {
       )}
     </Layout>
   )
+}
+
+function SectorReaderNav({
+  entry,
+  nav,
+  compact = false,
+}: {
+  entry: Entry
+  nav: SectorNavigation
+  compact?: boolean
+}) {
+  const nextTarget = nav.nextEntry
+    ? {
+        label: 'Next article',
+        title: nav.nextEntry.title,
+        to: entryPath(nav.nextEntry),
+      }
+    : nav.nextSector
+      ? {
+          label: 'Next sector',
+          title: nav.nextSector.name,
+          detail: `${nav.nextSector.count} articles`,
+          to: entryPath(nav.nextSector.firstEntry),
+        }
+      : undefined
+
+  const previousTarget = nav.previousEntry
+    ? {
+        label: 'Previous article',
+        title: nav.previousEntry.title,
+        to: entryPath(nav.previousEntry),
+      }
+    : nav.previousSector
+      ? {
+          label: 'Previous sector',
+          title: nav.previousSector.name,
+          detail: `${nav.previousSector.count} articles`,
+          to: entryPath(nav.previousSector.firstEntry),
+        }
+      : undefined
+
+  if (compact) {
+    return (
+      <nav
+        aria-label={`Reading position in ${entry.domain}`}
+        className="mb-10 flex flex-col gap-3 border-y border-sandstone/30 py-3 sm:flex-row sm:items-center sm:justify-between"
+      >
+        <p className="smallcaps">
+          {nav.currentIndex}/{nav.totalInSector} articles in {entry.domain}
+        </p>
+        <div className="flex items-center gap-4 text-sm">
+          {previousTarget && (
+            <Link
+              to={previousTarget.to}
+              className="font-serif italic text-twilight hover:text-orange transition-colors"
+            >
+              ← {previousTarget.label}
+            </Link>
+          )}
+          {nextTarget && (
+            <Link
+              to={nextTarget.to}
+              className="font-serif italic text-twilight hover:text-orange transition-colors"
+            >
+              {nextTarget.label} →
+            </Link>
+          )}
+        </div>
+      </nav>
+    )
+  }
+
+  return (
+    <nav aria-label="Continue reading the sector" className="mt-14 border-t border-sandstone/40 pt-6">
+      <p className="smallcaps mb-3">
+        {nav.currentIndex}/{nav.totalInSector} articles in {entry.domain}
+      </p>
+      <div className="grid gap-3 sm:grid-cols-2">
+        {previousTarget ? (
+          <ReaderNavLink direction="previous" target={previousTarget} />
+        ) : (
+          <div aria-hidden="true" />
+        )}
+        {nextTarget && <ReaderNavLink direction="next" target={nextTarget} />}
+      </div>
+    </nav>
+  )
+}
+
+function ReaderNavLink({
+  direction,
+  target,
+}: {
+  direction: 'previous' | 'next'
+  target: { label: string; title: string; detail?: string; to: string }
+}) {
+  const isNext = direction === 'next'
+  return (
+    <Link
+      to={target.to}
+      className={`group block rounded-md border border-sandstone/40 bg-pale-sky/45 px-4 py-3 transition-colors hover:border-twilight/50 hover:bg-pale-sky ${
+        isNext ? 'sm:text-right' : ''
+      }`}
+    >
+      <p className="smallcaps">
+        {isNext ? `${target.label} →` : `← ${target.label}`}
+      </p>
+      <p className="mt-1 font-display text-xl leading-tight text-ink group-hover:text-twilight">
+        {target.title}
+      </p>
+      {target.detail && (
+        <p className="mt-1 font-serif italic text-sm text-ink-soft">{target.detail}</p>
+      )}
+    </Link>
+  )
+}
+
+function entryPath(entry: Entry): string {
+  return `/entry/${entry.source}/${entry.slug}`
 }
 
 function firstSentence(text: string): string {

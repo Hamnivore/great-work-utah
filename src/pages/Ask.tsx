@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { Layout } from '../components/Layout'
 import { AskBar } from '../components/AskBar'
+import { localSearchMarkdown } from '../lib/localSearch'
 import type { searchAgent } from '../trigger/search-agent'
 
 async function fetchTriggerToken(): Promise<string> {
@@ -17,7 +18,7 @@ async function fetchTriggerToken(): Promise<string> {
 // Separate component so the hook only mounts when we have a valid token.
 // key={query} on this component ensures it remounts (fresh hook state) on new queries.
 function SearchResult({ query, accessToken }: { query: string; accessToken: string }) {
-  const { submit, run } = useRealtimeTaskTrigger<typeof searchAgent>('search-agent', {
+  const { submit, run, error } = useRealtimeTaskTrigger<typeof searchAgent>('search-agent', {
     accessToken,
   })
 
@@ -34,6 +35,15 @@ function SearchResult({ query, accessToken }: { query: string; accessToken: stri
   const thinking = (run?.metadata?.thinking as string | undefined) ?? ''
   const isRunning = run?.status === 'EXECUTING' || run?.status === 'QUEUED' || run?.status === 'DEQUEUED'
   const isDone = run?.status === 'COMPLETED'
+  const failed =
+    Boolean(error) ||
+    run?.status === 'FAILED' ||
+    run?.status === 'CRASHED' ||
+    run?.status === 'SYSTEM_FAILURE' ||
+    run?.status === 'TIMED_OUT' ||
+    run?.status === 'CANCELED'
+  const fallbackResponse = failed && !response ? localSearchMarkdown(query) : ''
+  const displayedResponse = response || fallbackResponse
 
   return (
     <>
@@ -52,15 +62,15 @@ function SearchResult({ query, accessToken }: { query: string; accessToken: stri
         </details>
       )}
 
-      {!thinking && !response && (
+      {!thinking && !displayedResponse && (
         <p className="font-serif italic text-ink-soft animate-pulse">
           The guide is sharpening her pen…
         </p>
       )}
 
-      {response && (
+      {displayedResponse && (
         <div className="prose prose-stone max-w-none font-serif">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>{response}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{displayedResponse}</ReactMarkdown>
           {isRunning && (
             <span className="inline-block w-1.5 h-4 bg-twilight ml-0.5 animate-pulse rounded-sm" />
           )}
@@ -75,16 +85,21 @@ export function AskPage() {
   const q = params.get('q') ?? ''
 
   const [tokenState, setTokenState] = useState<{ query: string; token: string } | null>(null)
+  const [tokenErrorQuery, setTokenErrorQuery] = useState<string>('')
   const fetchingRef = useRef<string>('')
 
   useEffect(() => {
     if (!q || fetchingRef.current === q) return
     fetchingRef.current = q
     setTokenState(null)
+    setTokenErrorQuery('')
 
     fetchTriggerToken()
       .then((token) => setTokenState({ query: q, token }))
-      .catch(console.error)
+      .catch((err) => {
+        console.error(err)
+        setTokenErrorQuery(q)
+      })
   }, [q])
 
   return (
@@ -101,6 +116,12 @@ export function AskPage() {
           </h1>
           {tokenState?.query === q ? (
             <SearchResult key={q} query={q} accessToken={tokenState.token} />
+          ) : tokenErrorQuery === q ? (
+            <div className="prose prose-stone max-w-none font-serif">
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                {localSearchMarkdown(q)}
+              </ReactMarkdown>
+            </div>
           ) : (
             <p className="font-serif italic text-ink-soft animate-pulse">
               The guide is sharpening her pen…

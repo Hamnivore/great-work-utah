@@ -32,6 +32,23 @@ export interface Entry {
   rawPath: string
 }
 
+export interface SectorNavigation {
+  currentIndex: number
+  totalInSector: number
+  previousEntry?: Entry
+  nextEntry?: Entry
+  previousSector?: {
+    name: string
+    count: number
+    firstEntry: Entry
+  }
+  nextSector?: {
+    name: string
+    count: number
+    firstEntry: Entry
+  }
+}
+
 export interface WikiPayload {
   builtAt: string
   counts: Record<string, number>

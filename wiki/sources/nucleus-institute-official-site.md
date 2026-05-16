@@ -26,5 +26,3 @@ This is an official institutional source, so it is useful for describing Nucleus
 ## Related Pages
 
 - [Nucleus Institute](../helpers/nucleus-institute.md)
-- [Nucleus Demo Matches](../guides/nucleus-demo-matches.md)
-

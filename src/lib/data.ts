@@ -1,4 +1,4 @@
-import type { Entry, Source, Tier, WikiPayload } from './types'
+import type { Entry, SectorNavigation, Source, Tier, WikiPayload } from './types'
 import payload from '../data/generated/all.json'
 
 const data = payload as unknown as WikiPayload
@@ -33,6 +33,78 @@ export function getRelated(entry: Entry, limit = 4): Entry[] {
       (e.tier === 'S' || e.tier === 'A' || e.tier === 'B'),
   )
   return sameDomain.slice(0, limit)
+}
+
+function byTitle(a: Entry, b: Entry): number {
+  return a.title.localeCompare(b.title, undefined, { sensitivity: 'base' })
+}
+
+export function getSectorNavigation(entry: Entry): SectorNavigation {
+  const sourceEntries = data.entries.filter((e) => e.source === entry.source)
+  const sectorEntries = sourceEntries
+    .filter((e) => e.domainSlug === entry.domainSlug)
+    .sort(byTitle)
+  const currentIndex = Math.max(
+    0,
+    sectorEntries.findIndex((e) => e.slug === entry.slug),
+  )
+
+  const sectorMap = new Map<string, Entry[]>()
+  for (const candidate of sourceEntries) {
+    const existing = sectorMap.get(candidate.domainSlug)
+    if (existing) {
+      existing.push(candidate)
+    } else {
+      sectorMap.set(candidate.domainSlug, [candidate])
+    }
+  }
+
+  const sectors = Array.from(sectorMap.entries())
+    .map(([slug, entries]) => {
+      const sortedEntries = [...entries].sort(byTitle)
+      return {
+        slug,
+        name: sortedEntries[0]?.domain ?? slug,
+        count: sortedEntries.length,
+        firstEntry: sortedEntries[0],
+      }
+    })
+    .filter((sector): sector is {
+      slug: string
+      name: string
+      count: number
+      firstEntry: Entry
+    } => Boolean(sector.firstEntry))
+    .sort((a, b) => a.name.localeCompare(b.name, undefined, { sensitivity: 'base' }))
+
+  const sectorIndex = sectors.findIndex((sector) => sector.slug === entry.domainSlug)
+  const previousSector = sectorIndex > 0 ? sectors[sectorIndex - 1] : undefined
+  const nextSector =
+    sectorIndex >= 0 && sectorIndex < sectors.length - 1 ? sectors[sectorIndex + 1] : undefined
+
+  return {
+    currentIndex: currentIndex + 1,
+    totalInSector: sectorEntries.length,
+    previousEntry: currentIndex > 0 ? sectorEntries[currentIndex - 1] : undefined,
+    nextEntry:
+      currentIndex >= 0 && currentIndex < sectorEntries.length - 1
+        ? sectorEntries[currentIndex + 1]
+        : undefined,
+    previousSector: previousSector
+      ? {
+          name: previousSector.name,
+          count: previousSector.count,
+          firstEntry: previousSector.firstEntry,
+        }
+      : undefined,
+    nextSector: nextSector
+      ? {
+          name: nextSector.name,
+          count: nextSector.count,
+          firstEntry: nextSector.firstEntry,
+        }
+      : undefined,
+  }
 }
 
 const TIER_LABELS: Record<Tier, string> = {

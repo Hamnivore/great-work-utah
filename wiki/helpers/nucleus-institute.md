@@ -46,7 +46,7 @@ Nucleus's own site describes the institute as a hub that brings together Utah un
 
 ## Good Matches
 
-Nucleus is a strong public-infrastructure helper for the synthetic Nucleus demo scenarios where a researcher, student, operator, or executive needs a credible path into Utah innovation work. In particular, Nucleus can sit upstream of match briefs by helping qualify whether the need is commercialization education, non-dilutive funding, equity capital, policy help, student project talent, or operator introductions.
+Nucleus is a strong public-infrastructure helper when a researcher, student, operator, or executive needs a credible path into Utah innovation work. In particular, Nucleus can help qualify whether the need is commercialization education, non-dilutive funding, equity capital, policy help, student project talent, or operator introductions.
 
 ## Cautions
 
@@ -68,4 +68,3 @@ Program details are changing quickly. Application windows, funding amounts, and 
 - Which Nucleus intake questions should map directly to wiki match explanations?
 - Which programs should be represented as resources versus helper pathways as the wiki grows?
 - Is there a public, stable page for Nucleus ProLab, Catalyst, Global, or Quantum that should be turned into separate resource pages?
-

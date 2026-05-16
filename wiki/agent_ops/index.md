@@ -2,7 +2,7 @@
 
 **Status:** Draft
 **Confidence:** High
-**Updated:** 2026-05-09 (bulk-ingested Startup State CSV resources; resources now cover the full imported list)
+**Updated:** 2026-05-16 (added first historical `work/` anchors and the Utah deep-tech map guide)
 
 Inventory of every page currently in the wiki. The agent reads this before creating anything new — to avoid duplicates, find pages to improve, and see what coverage gaps exist.
 
@@ -16,15 +16,15 @@ When you add, rename, retire, or substantially repurpose a page, update this ind
 | `people/` | 5 |
 | `helpers/` | 1 |
 | `resources/` | 218 |
-| `work/` | 0 |
+| `work/` | 5 |
 | `sources/` | 31 |
-| `guides/` | 5 |
+| `guides/` | 6 |
 | `matches/` | 3 |
 | `answers/` | 0 |
 
 Visible gaps as of the latest snapshot:
 
-- `people/` now has synthetic demo profiles, including hand-raised talent. Real founder/operator pages are still needed before production use. `work/` is still empty — no public historical Utah work pages yet.
+- `people/` now has synthetic demo profiles, including hand-raised talent. Real founder/operator pages are still needed before production use. `work/` now has first historical anchors, but coverage is still thin outside five marquee examples.
 - `answers/` is empty — no saved Ask articles yet.
 - `helpers/` has only Nucleus Institute. Business-service providers (legal, IP, accounting, fractional CFO) are not yet represented as helpers; some live as resources and should be reconsidered.
 - `ventures/` now covers all eleven legacy S-tier anchors plus the cover-stack additions Intactis Bio, Telescope Array, and Jarvik-7. Hero imagery status: Sundance (Egyptian Theatre, CC BY-SA 4.0), Space Dynamics Laboratory (auditorium, CC BY-SA 4.0), FamilySearch (existing), Telescope Array (BRM-FD site, CC BY-SA 3.0), and Jarvik-7 (Smithsonian) carry real, license-clean photographs. Recursion and Blackrock Neurotech use hotlinked stand-ins flagged for rights clearance. Intactis Bio uses a generated illustration. License-clean photographs are still needed for Fervo, Fortem, Hexcel, Merit Medical, SCI Institute, and Zanskar Geothermal.
@@ -287,7 +287,13 @@ Grants, accelerators, state programs, labs, facilities, capital sources, courses
 
 ## Work
 
-_(empty — no historical or current Utah great-work pages yet.)_
+Historical or current examples of Utah work that changed a field, built infrastructure, or explains the state's credibility.
+
+- `work/capecchi-gene-targeting.md` — **Capecchi Gene Targeting and the Knockout Mouse** — gene targeting, knockout mice, biomedical research, genetics.
+- `work/golden-spike-transcontinental-railroad.md` — **Golden Spike and the First Transcontinental Railroad** — rail infrastructure, American West, logistics, national integration.
+- `work/spiral-jetty.md` — **Spiral Jetty** — Land art, Great Salt Lake, site-specific sculpture, contemporary art.
+- `work/thiokol-solid-rocket-motors.md` — **Thiokol Solid Rocket Motors** — solid rocket motors, aerospace manufacturing, launch systems, defense industrial base.
+- `work/utah-computer-graphics-program.md` — **University of Utah Computer Graphics Program** — computer graphics, rendering, human-computer interaction, software history.
 
 ## Sources
 
@@ -334,6 +340,7 @@ Maps, playbooks, contextual rankings, and journey pages.
 - `guides/find-meaningful-work.md` — **Find Meaningful Work in Utah** — career matching, Utah deep tech, mission-driven work.
 - `guides/nucleus-demo-matches.md` — **Nucleus Demo Matches** — explainable matching, Utah innovation, demo scenarios.
 - `guides/startup-capital-in-utah.md` — **Startup Capital in Utah** — startup capital, non-dilutive funding, SBIR/STTR, deep tech.
+- `guides/utah-deep-tech-map.md` — **Utah Deep-Tech Map** — Utah deep tech, historical anchors, current ventures, ecosystem navigation.
 
 ## Matches
 

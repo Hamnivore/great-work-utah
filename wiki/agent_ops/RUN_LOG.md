@@ -1,5 +1,76 @@
 # Great Work Utah Wiki Agent Run Log
 
+## Run: 2026-05-16 MDT - Historical work anchors migration
+
+### Seed Worklist Item
+
+- item: 1. Legacy Research Wikis
+- starting status: first_pass
+- ending status: first_pass
+
+### Goal
+
+Add the first public `wiki/work/` entries from the legacy `great_work` corpus and create a guide that connects those historical anchors to the current venture map.
+
+### Files Read
+
+- `docs/wiki-seed-worklist.md`
+- `wiki/agent_ops/PLAYBOOK.md`
+- `wiki/agent_ops/schema.md`
+- `wiki/agent_ops/index.md`
+- `legacy_wiki/great_work/README.md`
+- `legacy_wiki/great_work/computing-and-software/⭐utah-computer-graphics-program.md`
+- `legacy_wiki/great_work/medicine-and-biology/⭐capecchi-gene-targeting.md`
+- `legacy_wiki/great_work/aerospace-and-propulsion/⭐thiokol-solid-rocket-motors.md`
+- `legacy_wiki/great_work/industry-and-infrastructure/⭐golden-spike-transcontinental-railroad.md`
+- `legacy_wiki/great_work/culture-and-arts/⭐spiral-jetty.md`
+
+### Files Created
+
+- `wiki/agent_ops/locks/2026-05-16-historical-work-anchors.md`
+- `wiki/work/utah-computer-graphics-program.md`
+- `wiki/work/capecchi-gene-targeting.md`
+- `wiki/work/thiokol-solid-rocket-motors.md`
+- `wiki/work/golden-spike-transcontinental-railroad.md`
+- `wiki/work/spiral-jetty.md`
+- `wiki/guides/utah-deep-tech-map.md`
+
+### Files Updated
+
+- `docs/wiki-seed-worklist.md`
+- `wiki/agent_ops/index.md`
+- `wiki/agent_ops/RUN_LOG.md`
+- `wiki/agent_ops/locks/2026-05-16-historical-work-anchors.md`
+
+### Key Findings
+
+- `wiki/work/` was empty before this pass, even though the legacy `great_work` corpus has strong S-tier historical anchors.
+- The first useful public slice is cross-domain rather than exhaustive: computing, biomedical research, aerospace manufacturing, rail infrastructure, and Land art.
+- The new deep-tech map is more useful when it pairs historical anchors with current venture pages instead of treating history as a separate museum shelf.
+
+### Decisions Made
+
+- Kept source links directly in each first-pass work page rather than creating a source-record page for every historical link in this run.
+- Avoided public references to legacy provenance; provenance is recorded here and in the worklist.
+- Left all pages as `Status: Draft` and `Confidence: Medium` because they need a source-record pass and imagery pass before becoming strong public references.
+
+### Validation
+
+- `npm run build:wiki` succeeded after sandbox escalation for `tsx` IPC permissions: 469 entries built into `src/data/generated/all.json`.
+- `npm run build` succeeded after sandbox escalation. Vite emitted only the existing large-chunk warning.
+
+### Problems / Uncertainty
+
+- Several unrelated local changes and deletions were present after validation; they were not reverted or coordinated in this run.
+- The new work pages still need dedicated source records for the strongest evidence and license-clean hero images.
+- Some claims, especially around Utah computer-graphics alumni lineage and Thiokol program lineage, should receive a tighter primary-source pass before promotion.
+
+### Next Best Tasks
+
+- Add source records for Nobel Prize 2007, University of Utah computing history, NPS Golden Spike, Dia/UMFA Spiral Jetty, NASA Shuttle boosters, and Rogers Commission material.
+- Continue `work/` migration with Utah FORGE, Browning firearms designs, Fly's Eye / HiRes, Utah Population Database, HELP clinical decision support, and Golden Spike labor-history context.
+- Link the deep-tech map into the UI or search affordances if it becomes a demo navigation surface.
+
 ## Run: 2026-05-09 13:12 MDT - Bulk Startup State CSV resource ingest
 
 ### Seed Worklist Item

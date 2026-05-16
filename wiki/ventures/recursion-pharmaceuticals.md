@@ -6,7 +6,7 @@
 **Stage:** Public company, clinical-stage TechBio
 **Location:** Salt Lake City, UT
 **Updated:** 2026-05-09
-**Hero:** https://cdn.prod.website-files.com/604197abb43603652c167bfa/67845eda85cc7b8dbf9fbccb_Fly_Kylie_RecursionEdits-187%20(1)%20(1).png
+**Hero:** /img/heroes/front/recursion-1600.webp
 **Hero caption:** *Recursion scientists in the company's automated wet-lab, Salt Lake City — temporary hotlinked image from Recursion's website; image rights have not yet been cleared.*
 **Pull:** *Industrializing drug discovery on more than fifty petabytes of multimodal biological and chemical data.*
 

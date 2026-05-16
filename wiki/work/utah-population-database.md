@@ -30,7 +30,7 @@ That required record-linkage methods, privacy controls, researcher access proces
 
 The Utah claim is unusually strong. The database exists because of Utah's combination of genealogical record-keeping, a relatively stable multigenerational population, the University of Utah's genetics and medical-informatics strengths, and institutional willingness to treat linked records as research infrastructure.
 
-The database also connects to Utah's broader life-sciences story, including hereditary cancer research, Myriad Genetics, and the state's wider genetics ecosystem. A future Myriad or BRCA page would give this thread a more precise public cross-link.
+The database also connects to Utah's broader life-sciences story, including hereditary cancer research, [Myriad Genetics BRCA Sequencing and Testing](myriad-genetics-brca.md), and the state's wider genetics ecosystem.
 
 ## Caveats
 
@@ -45,4 +45,4 @@ The population is not representative of global human diversity, and findings may
 ## Open Questions
 
 - Add source records for the official UPDB page and a stronger peer-reviewed overview.
-- Create or migrate a Myriad Genetics / BRCA work page, then add a precise genetics-ecosystem cross-link.
+- Add source records connecting UPDB to the BRCA research lineage.

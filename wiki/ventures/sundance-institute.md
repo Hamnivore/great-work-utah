@@ -6,7 +6,7 @@
 **Stage:** Established 501(c)(3) nonprofit; founded 1981
 **Location:** Park City, UT (administrative HQ); Sundance Resort, UT (Artist Labs)
 **Updated:** 2026-05-09
-**Hero:** https://upload.wikimedia.org/wikipedia/commons/9/94/Egyptian_Theatre_%282024%29-L1004366.jpg
+**Hero:** /img/heroes/front/sundance-1600.webp
 **Hero caption:** *The Mary G. Steiner Egyptian Theatre on Main Street, Park City, on the eve of the 2024 Sundance Film Festival — photograph by Frank Schulenburg via WikiPortraits (Wikimedia Commons, CC BY-SA 4.0).*
 **Pull:** *Forty years of artist labs, in a mountain town, that quietly underwrote much of American independent cinema.*
 

@@ -1,5 +1,88 @@
 # Great Work Utah Wiki Agent Run Log
 
+## Run: 2026-05-16 MDT - Work layer continuation pass
+
+### Seed Worklist Item
+
+- item: 1. Legacy Research Wikis
+- starting status: first_pass
+- ending status: first_pass
+
+### Goal
+
+Continue the public `wiki/work/` migration from the legacy `great_work` corpus and broaden the Utah deep-tech map beyond the first historical anchors.
+
+### Files Read
+
+- `docs/wiki-seed-worklist.md`
+- `wiki/agent_ops/schema.md`
+- `wiki/agent_ops/index.md`
+- `wiki/work/utah-computer-graphics-program.md`
+- `wiki/guides/utah-deep-tech-map.md`
+- `legacy_wiki/great_work/README.md`
+- `legacy_wiki/great_work/industry-and-infrastructure/utah-forge.md`
+- `legacy_wiki/great_work/defense-and-security/⭐browning-firearms-designs.md`
+- `legacy_wiki/great_work/physics-and-materials/flys-eye-and-hires-cosmic-rays.md`
+- `legacy_wiki/great_work/medicine-and-biology/utah-population-database.md`
+- `legacy_wiki/great_work/medicine-and-biology/help-clinical-decision-support-system.md`
+- `legacy_wiki/great_work/computing-and-software/⭐arpanet-fourth-node.md`
+- `legacy_wiki/great_work/computing-and-software/evans-and-sutherland.md`
+- `legacy_wiki/great_work/medicine-and-biology/myriad-genetics-brca.md`
+- `legacy_wiki/great_work/defense-and-security/utah-test-and-training-range.md`
+- `legacy_wiki/great_work/defense-and-security/dugway-proving-ground.md`
+
+### Files Created
+
+- `wiki/agent_ops/locks/2026-05-16-work-layer-second-pass.md`
+- `wiki/work/utah-forge.md`
+- `wiki/work/browning-firearms-designs.md`
+- `wiki/work/flys-eye-hires-cosmic-rays.md`
+- `wiki/work/utah-population-database.md`
+- `wiki/work/help-clinical-decision-support-system.md`
+- `wiki/work/arpanet-fourth-node.md`
+- `wiki/work/evans-and-sutherland.md`
+- `wiki/work/myriad-genetics-brca.md`
+- `wiki/work/utah-test-and-training-range.md`
+- `wiki/work/dugway-proving-ground.md`
+
+### Files Updated
+
+- `docs/wiki-seed-worklist.md`
+- `wiki/agent_ops/index.md`
+- `wiki/agent_ops/RUN_LOG.md`
+- `wiki/agent_ops/locks/2026-05-16-work-layer-second-pass.md`
+- `wiki/guides/utah-deep-tech-map.md`
+
+### Key Findings
+
+- The best next `work/` slice was not more of the same; it broadened the map into geothermal field infrastructure, defense/mechanical design, astroparticle physics, population-scale medical data, clinical informatics, early internet history, graphics commercialization, clinical genomics, and defense test infrastructure.
+- The filesystem no longer contains the synthetic `people/`, `matches/`, old demo guide, or two demo source pages that the ops index still listed. The inventory was refreshed to match the current tree, without restoring or deleting those pages.
+- `work/` now has fifteen public entries, enough to make the deep-tech map feel like a real navigation layer rather than a one-off historical appendix.
+
+### Decisions Made
+
+- Kept the new work pages at `Status: Draft` and `Confidence: Medium` because they still need source-record pages and, in some cases, stronger primary-source citation.
+- Did not add hero imagery in this pass; imagery remains a separate rights-clearance task.
+- Added a clear caveat to Browning's page and guide mention because the impact is inseparable from weapons and organized violence.
+
+### Validation
+
+- Checked the new pages for required `Status`, `Confidence`, and `Updated` header lines.
+- Checked local wiki markdown links in the touched guide and work pages.
+- `npm run build:wiki` succeeded after sandbox escalation for `tsx` IPC permissions: 469 entries built into `src/data/generated/all.json`, with editorial overlays applied to 30 entries from `wiki/`.
+- `npm run build` succeeded after sandbox escalation. Vite emitted only the existing large-chunk warning.
+
+### Problems / Uncertainty
+
+- Several unrelated local changes and deletions were already present in the worktree. This run worked with the resulting wiki tree and did not revert them.
+- Source-record pages for the new work entries are still missing.
+
+### Next Best Tasks
+
+- Migrate Utah labor-history context for Golden Spike, WordPerfect / Novell, Soundstream, Intermountain clinical quality improvement, and Conotoxins / Prialt.
+- Add source records for DOE FORGE, ASME Browning, U of U Oh-My-God particle, UPDB official page, the core HELP papers, Node 4 history, Evans & Sutherland records, the Myriad Supreme Court case, Hill AFB UTTR, and Dugway exposure documentation.
+- Add license-clean hero images for the fifteen `work/` entries.
+
 ## Run: 2026-05-16 MDT - Historical work anchors migration
 
 ### Seed Worklist Item

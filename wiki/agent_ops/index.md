@@ -2,7 +2,7 @@
 
 **Status:** Draft
 **Confidence:** High
-**Updated:** 2026-05-16 (added first historical `work/` anchors and the Utah deep-tech map guide)
+**Updated:** 2026-05-16 (continued historical `work/` migration and refreshed demo-page inventory)
 
 Inventory of every page currently in the wiki. The agent reads this before creating anything new — to avoid duplicates, find pages to improve, and see what coverage gaps exist.
 
@@ -13,18 +13,18 @@ When you add, rename, retire, or substantially repurpose a page, update this ind
 | Folder | Pages |
 |---|---|
 | `ventures/` | 14 |
-| `people/` | 5 |
+| `people/` | 0 |
 | `helpers/` | 1 |
 | `resources/` | 218 |
-| `work/` | 5 |
-| `sources/` | 31 |
-| `guides/` | 6 |
-| `matches/` | 3 |
+| `work/` | 15 |
+| `sources/` | 29 |
+| `guides/` | 5 |
+| `matches/` | 0 |
 | `answers/` | 0 |
 
 Visible gaps as of the latest snapshot:
 
-- `people/` now has synthetic demo profiles, including hand-raised talent. Real founder/operator pages are still needed before production use. `work/` now has first historical anchors, but coverage is still thin outside five marquee examples.
+- `people/` and `matches/` are currently empty after retiring the synthetic demo pages. Real founder/operator pages and real match artifacts are still needed before production use. `work/` now has fifteen historical and infrastructure anchors, but coverage is still thin relative to the legacy corpus.
 - `answers/` is empty — no saved Ask articles yet.
 - `helpers/` has only Nucleus Institute. Business-service providers (legal, IP, accounting, fractional CFO) are not yet represented as helpers; some live as resources and should be reconsidered.
 - `ventures/` now covers all eleven legacy S-tier anchors plus the cover-stack additions Intactis Bio, Telescope Array, and Jarvik-7. Hero imagery status: Sundance (Egyptian Theatre, CC BY-SA 4.0), Space Dynamics Laboratory (auditorium, CC BY-SA 4.0), FamilySearch (existing), Telescope Array (BRM-FD site, CC BY-SA 3.0), and Jarvik-7 (Smithsonian) carry real, license-clean photographs. Recursion and Blackrock Neurotech use hotlinked stand-ins flagged for rights clearance. Intactis Bio uses a generated illustration. License-clean photographs are still needed for Fervo, Fortem, Hexcel, Merit Medical, SCI Institute, and Zanskar Geothermal.
@@ -50,11 +50,7 @@ Startups, labs, spinouts, companies, nonprofits, and serious initiatives.
 
 ## People
 
-- `people/ava-morales.md` — **Ava Morales** — geothermal operations, field deployment, energy infrastructure, hard-tech teams. Synthetic demo profile; hand raised.
-- `people/eli-sorensen.md` — **Eli Sorensen** — aerospace manufacturing, composite materials, supplier quality, defense programs. Synthetic scout profile; hand not raised.
-- `people/june-callister.md` — **June Callister** — commercialization, customer discovery, university spinouts, technical storytelling. Synthetic scout profile; hand not raised.
-- `people/mira-desai.md` — **Mira Desai** — FDA quality systems, medical devices, regulatory operations, design controls. Synthetic demo profile; hand raised.
-- `people/noah-kim.md` — **Noah Kim** — machine learning, scientific software, computational biology, applied research. Synthetic demo profile; hand raised.
+_(empty — synthetic demo profiles have been retired; real founder, operator, researcher, and candidate pages are still needed.)_
 
 ## Helpers
 
@@ -289,11 +285,21 @@ Grants, accelerators, state programs, labs, facilities, capital sources, courses
 
 Historical or current examples of Utah work that changed a field, built infrastructure, or explains the state's credibility.
 
+- `work/arpanet-fourth-node.md` — **University of Utah ARPANET Fourth Node** — internet history, packet switching, computer science, ARPA research.
+- `work/browning-firearms-designs.md` — **Browning Firearms Designs** — firearms design, mechanical engineering, defense history, Ogden manufacturing.
 - `work/capecchi-gene-targeting.md` — **Capecchi Gene Targeting and the Knockout Mouse** — gene targeting, knockout mice, biomedical research, genetics.
+- `work/dugway-proving-ground.md` — **Dugway Proving Ground** — military test infrastructure, chemical and biological defense, West Desert, defense ethics.
+- `work/evans-and-sutherland.md` — **Evans & Sutherland** — computer graphics, flight simulation, real-time 3D, graphics hardware.
+- `work/flys-eye-hires-cosmic-rays.md` — **Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays** — astroparticle physics, cosmic rays, observatories, desert science.
 - `work/golden-spike-transcontinental-railroad.md` — **Golden Spike and the First Transcontinental Railroad** — rail infrastructure, American West, logistics, national integration.
+- `work/help-clinical-decision-support-system.md` — **HELP Clinical Decision Support System** — clinical decision support, medical informatics, electronic health records, hospital systems.
+- `work/myriad-genetics-brca.md` — **Myriad Genetics BRCA Sequencing and Testing** — hereditary cancer genetics, BRCA testing, gene patents, clinical genomics.
 - `work/spiral-jetty.md` — **Spiral Jetty** — Land art, Great Salt Lake, site-specific sculpture, contemporary art.
 - `work/thiokol-solid-rocket-motors.md` — **Thiokol Solid Rocket Motors** — solid rocket motors, aerospace manufacturing, launch systems, defense industrial base.
 - `work/utah-computer-graphics-program.md` — **University of Utah Computer Graphics Program** — computer graphics, rendering, human-computer interaction, software history.
+- `work/utah-forge.md` — **Utah FORGE** — enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering.
+- `work/utah-population-database.md` — **Utah Population Database** — genetic epidemiology, genealogy, medical records, population health infrastructure.
+- `work/utah-test-and-training-range.md` — **Utah Test and Training Range** — military test ranges, aerospace and defense, restricted airspace, weapons evaluation.
 
 ## Sources
 
@@ -301,7 +307,6 @@ Source records and raw intake notes.
 
 - `sources/blackrock-tether-strategic-stake.md` — **Source: Tether Strategic Stake in Blackrock Neurotech** — April 2024 Tether Evo press release on its $200M majority investment in Blackrock Neurotech.
 - `sources/blackrock-utah-array-medical-design.md` — **Source: Blackrock Neurotech and the Utah Array** — Industry Press coverage of the Utah Electrode Array, MoveAgain, and Neuralace.
-- `sources/demo-synthetic-data-note.md` — **Source Note: Synthetic Demo Profiles** — Demo Data Note explaining the synthetic talent and founder profiles used in match pages.
 - `sources/familysearch-official-site.md` — **Source: FamilySearch Official Site and Library Statistics** — Official Website with the genealogy collection's scale and the 1894 Genealogical Society of Utah origin.
 - `sources/fervo-cape-station-groundbreaking.md` — **Official Source: Fervo Cape Station Groundbreaking** — Press Release announcing the Cape Station enhanced-geothermal project in Beaver County.
 - `sources/fortem-official-website.md` — **Official Website: Fortem Technologies** — Fortem's product families: TrueView radar, DroneHunter interceptors, SkyDome.
@@ -312,7 +317,6 @@ Source records and raw intake notes.
 - `sources/goeo-usbci-page.md` — **GOEO USBCI Page** — Official Program Page for Utah's federal SSBCI implementation.
 - `sources/hexcel-official-website.md` — **Official Website: Hexcel** — Hexcel's positioning as a global advanced-composites leader.
 - `sources/merit-medical-pentax-cryoballoon-acquisition.md` — **Source: Pentax C2 CryoBalloon Acquisition Announcement** — October 2025 Press Release covering Merit Medical's South Jordan integration of the C2 CryoBalloon line.
-- `sources/nucleus-bounty-brief.md` — **Competition Brief: Nucleus Utah Innovation Connections Hub** — the hackathon prompt the wiki is built against.
 - `sources/nucleus-fund-website.md` — **Nucleus Fund Website** — Official Fund Website for Utah deep-tech early-stage capital.
 - `sources/nucleus-grow-page.md` — **Nucleus Grow Page** — Official Program Page for SBIR/STTR support.
 - `sources/nucleus-institute-official-site.md` — **Nucleus Institute Official Site** — five-pillar overview: talent, commercialization, capital, solutions, place.
@@ -338,17 +342,12 @@ Maps, playbooks, contextual rankings, and journey pages.
 - `guides/commercialize-research.md` — **Commercialize Research in Utah** — research translation, SBIR/STTR, university spinouts, Nucleus programs.
 - `guides/find-business-services.md` — **Find Business Services In Utah** — business services, procurement, regulation, capital, workforce, international expansion.
 - `guides/find-meaningful-work.md` — **Find Meaningful Work in Utah** — career matching, Utah deep tech, mission-driven work.
-- `guides/nucleus-demo-matches.md` — **Nucleus Demo Matches** — explainable matching, Utah innovation, demo scenarios.
 - `guides/startup-capital-in-utah.md` — **Startup Capital in Utah** — startup capital, non-dilutive funding, SBIR/STTR, deep tech.
 - `guides/utah-deep-tech-map.md` — **Utah Deep-Tech Map** — Utah deep tech, historical anchors, current ventures, ecosystem navigation.
 
 ## Matches
 
-Specific "these people should talk" recommendation artifacts.
-
-- `matches/executive-to-fortem-counter-uas.md` — **Executive to Fortem Counter-UAS** — synthetic defense commercialization executive ↔ Fortem Technologies.
-- `matches/operator-to-fervo-cape-station.md` — **Operator to Fervo Cape Station** — synthetic heavy-industry operator ↔ Fervo Energy.
-- `matches/student-to-university-research-spinout.md` — **Student to University Research Spinout** — synthetic engineering student ↔ synthetic university research spinout.
+_(empty — synthetic demo matches have been retired; future match pages should use real parties or explicitly approved demo artifacts.)_
 
 ## Answers
 

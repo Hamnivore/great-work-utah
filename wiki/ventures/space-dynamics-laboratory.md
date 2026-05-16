@@ -6,7 +6,7 @@
 **Stage:** Established university-affiliated research center
 **Location:** North Logan, UT
 **Updated:** 2026-05-09
-**Hero:** https://upload.wikimedia.org/wikipedia/commons/f/f8/Space_Dynamics_Laboratory_-_Auditorium_morning.jpg
+**Hero:** /img/heroes/front/space-dynamics-1600.webp
 **Hero caption:** *The SDL auditorium building at sunrise, North Logan, Utah — photograph by Jacobkhed (Wikimedia Commons, CC BY-SA 4.0).*
 **Pull:** *Utah State University's UARC, with more than four hundred space missions and the moon visible above the auditorium.*
 

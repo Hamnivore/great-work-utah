@@ -64,7 +64,7 @@ export function Layout({ children, backLabel, backTo, hideHeader = false }: Layo
         <p className="font-serif italic text-sm text-ink-soft leading-relaxed">
           A travel guide to the great work being done in Utah.
           <br />
-          Built on an LLM-maintained wiki that compounds knowledge over time.
+          Built on wikis accumulated by LLMs; entries may contain hallucinations.
         </p>
         <p className="smallcaps mt-4">
           <Link to="/how-it-works" className="hover:text-twilight">

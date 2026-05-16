@@ -6,7 +6,7 @@
 **Stage:** Private growth company; majority stake held by Tether (via Tether Evo) since April 2024
 **Location:** Salt Lake City, UT
 **Updated:** 2026-05-09
-**Hero:** https://media.wired.com/photos/62fc335e3787a50a7ae8c996/3:2/w_1920,c_limit/BCI_PortableSystem_Nathan_April2022-3689-top.jpg
+**Hero:** /img/heroes/front/blackrock-1600.webp
 **Hero caption:** *Nathan Copeland, who has lived with a Utah Electrode Array implant in his motor and somatosensory cortex since 2014 — temporary hotlinked photograph from the University of Pittsburgh / Rehab Neural Engineering Labs via WIRED; image rights have not yet been cleared.*
 **Pull:** *The Utah Electrode Array is the most-implanted, most-studied intracortical BCI electrode in history.*
 

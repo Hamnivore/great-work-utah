@@ -6,7 +6,7 @@
 **Stage:** Established international collaboration; operating since 2008
 **Location:** West of Delta, UT (Millard County)
 **Updated:** 2026-05-09
-**Hero:** https://upload.wikimedia.org/wikipedia/commons/b/b5/BRM-FD-open.jpg
+**Hero:** /img/heroes/front/telescope-array-1600.webp
 **Hero caption:** *The Black Rock Mesa fluorescence-detector site of the Telescope Array, west of Delta, Utah — photograph by John N. Matthews / telescopearray.org (Wikimedia Commons, CC BY-SA 3.0).*
 **Pull:** *Hundreds of square kilometers of Utah desert, listening for the most energetic particles ever measured.*
 

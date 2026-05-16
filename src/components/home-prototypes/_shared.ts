@@ -128,10 +128,87 @@ export function firstSentence(text: string): string {
  * are served at their natural size and constrained by the layout.
  * ---------------------------------------------------------------------- */
 
+function optimizedRemoteImage(src: string, w: number, h: number): string {
+  const localVariant = src.match(/^(\/img\/heroes\/front\/.+)-\d+\.webp$/)
+  if (localVariant) {
+    return `${localVariant[1]}-${w}.webp`
+  }
+
+  try {
+    const url = new URL(src, 'https://great-work.local')
+
+    if (url.hostname === 'picsum.photos') {
+      const parts = url.pathname.split('/').filter(Boolean)
+      if (parts[0] === 'seed' && parts.length >= 4) {
+        parts[parts.length - 2] = String(w)
+        parts[parts.length - 1] = String(h)
+        url.pathname = `/${parts.join('/')}`
+        return url.toString()
+      }
+      return `https://picsum.photos/${w}/${h}`
+    }
+
+    if (
+      url.hostname === 'upload.wikimedia.org' &&
+      url.pathname.startsWith('/wikipedia/commons/') &&
+      !url.pathname.startsWith('/wikipedia/commons/thumb/')
+    ) {
+      const parts = url.pathname.split('/').filter(Boolean)
+      const file = parts.at(-1)
+      const hash = parts.at(-3)
+      const bucket = parts.at(-2)
+      if (file && hash && bucket) {
+        return `${url.origin}/wikipedia/commons/thumb/${hash}/${bucket}/${file}/${w}px-${file}`
+      }
+    }
+  } catch {
+    return src
+  }
+
+  return src
+}
+
+export function responsiveImageSrcSet(
+  src: string,
+  widths: number[],
+  aspectRatio: number,
+): string {
+  return widths
+    .map((width) => {
+      const height = Math.max(1, Math.round(width / aspectRatio))
+      return `${optimizedRemoteImage(src, width, height)} ${width}w`
+    })
+    .join(', ')
+}
+
 export function heroImageFor(entry: Entry, w = 1600, h = 1100): string {
   const hero = entry.meta.Hero?.trim()
-  if (hero) return hero
-  return `https://picsum.photos/seed/gw-${entry.slug}/${w}/${h}`
+  if (hero) return optimizedRemoteImage(hero, w, h)
+  return optimizedRemoteImage(`https://picsum.photos/seed/gw-${entry.slug}/${w}/${h}`, w, h)
+}
+
+export function heroImageSrcSetFor(
+  entry: Entry,
+  widths: number[],
+  aspectRatio: number,
+): string {
+  const hero = entry.meta.Hero?.trim() || `https://picsum.photos/seed/gw-${entry.slug}/1600/1100`
+  return responsiveImageSrcSet(hero, widths, aspectRatio)
+}
+
+const HERO_FOCAL_POINTS: Record<string, string> = {
+  'blackrock-neurotech': '68% 44%',
+  'fervo-energy': '38% 58%',
+  'intactis-bio': '34% 67%',
+  'recursion-pharmaceuticals': '62% 42%',
+  'space-dynamics-laboratory': '58% 66%',
+  'sundance-institute': '50% 48%',
+  'telescope-array-ultra-high-energy-cosmic-rays': '58% 57%',
+}
+
+export function heroObjectPositionFor(entry: Entry | undefined): string {
+  if (!entry) return '50% 50%'
+  return HERO_FOCAL_POINTS[entry.slug] ?? '50% 50%'
 }
 
 /** True when the entry has a real, hand-curated hero (not a picsum seed). */
@@ -218,8 +295,27 @@ export function categoryImageFor(
     return heroImageFor(feature, w, h)
   }
   const override = CATEGORY_IMAGES[categoryName]
-  if (override) return override
-  return `https://picsum.photos/seed/gw-cat-${categoryName.toLowerCase().replace(/\s+/g, '-')}/${w}/${h}`
+  if (override) return optimizedRemoteImage(override, w, h)
+  return optimizedRemoteImage(
+    `https://picsum.photos/seed/gw-cat-${categoryName.toLowerCase().replace(/\s+/g, '-')}/${w}/${h}`,
+    w,
+    h,
+  )
+}
+
+export function categoryImageSrcSetFor(
+  categoryName: string,
+  feature: Entry | undefined,
+  widths: number[],
+  aspectRatio: number,
+): string {
+  if (feature && hasRealHero(feature)) {
+    return heroImageSrcSetFor(feature, widths, aspectRatio)
+  }
+  const override =
+    CATEGORY_IMAGES[categoryName] ||
+    `https://picsum.photos/seed/gw-cat-${categoryName.toLowerCase().replace(/\s+/g, '-')}/420/560`
+  return responsiveImageSrcSet(override, widths, aspectRatio)
 }
 
 /* ----------------------------------------------------------------------

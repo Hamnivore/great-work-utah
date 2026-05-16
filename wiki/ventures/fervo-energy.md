@@ -6,7 +6,7 @@
 **Stage:** Growth stage, S-1 publicly filed April 2026 (S-1/A May 4, 2026)
 **Location:** Beaver County, UT project; Houston, TX headquarters
 **Updated:** 2026-05-09
-**Hero:** https://fervoenergy.com/wp-content/uploads/2023/11/Fervo_Cape-Station_2023-web-edit-2048x1365.jpg
+**Hero:** /img/heroes/front/fervo-1600.webp
 **Hero caption:** *Cape Station drill site, Beaver County, Utah, 2023. Hotlinked from Fervo Energy's own press release on the groundbreaking; image rights with Fervo and not yet cleared for the wiki — replace with a license-clean photograph before any production use.*
 **Pull:** *Drilling-industry tools repurposed for clean, firm geothermal — at four hundred megawatts in southwest Utah.*
 

@@ -14,6 +14,8 @@ Utah's deep-tech story is easier to trust when the current companies are placed 
 
 [University of Utah Computer Graphics Program](../work/utah-computer-graphics-program.md) is the historical anchor. It explains why Utah belongs in any serious history of rendering, human-computer interaction, simulation, Adobe, Pixar, SGI, and visual computing.
 
+[University of Utah ARPANET Fourth Node](../work/arpanet-fourth-node.md) and [Evans & Sutherland](../work/evans-and-sutherland.md) make the same era feel more complete. One is the network layer: Utah as part of the first four-node packet-switched research network. The other is the commercialization layer: Utah graphics ideas becoming real-time 3D hardware and flight-simulation systems.
+
 The live thread is [SCI Institute](../ventures/sci-institute.md): scientific computing, visualization, biomedical software, open-source research tools, and a student pipeline that still turns abstract computation into instruments other scientists use.
 
 ## Biology and Medical Devices
@@ -22,7 +24,7 @@ The live thread is [SCI Institute](../ventures/sci-institute.md): scientific com
 
 The live thread runs through [Recursion Pharmaceuticals](../ventures/recursion-pharmaceuticals.md), [Merit Medical Systems](../ventures/merit-medical.md), and [Blackrock Neurotech](../ventures/blackrock-neurotech.md). They represent three very different Utah modes: AI-biology scale, FDA-regulated interventional manufacturing, and long-horizon neural hardware.
 
-[Utah Population Database](../work/utah-population-database.md) and [HELP Clinical Decision Support System](../work/help-clinical-decision-support-system.md) add the data-infrastructure layer. They show a different Utah advantage: linked records, medical informatics, and health systems willing to turn data into research or clinical workflow.
+[Utah Population Database](../work/utah-population-database.md), [Myriad Genetics BRCA Sequencing and Testing](../work/myriad-genetics-brca.md), and [HELP Clinical Decision Support System](../work/help-clinical-decision-support-system.md) add the data-infrastructure layer. They show a different Utah advantage: linked records, hereditary-cancer research, medical informatics, and health systems willing to turn data into research or clinical workflow.
 
 ## Aerospace, Defense, and Field Hardware
 
@@ -46,6 +48,8 @@ This thread is useful for students and operators who like field instrumentation:
 
 [Browning Firearms Designs](../work/browning-firearms-designs.md) is the older mechanical-design anchor. It belongs here with heavy caveats because its impact is inseparable from weapons and organized violence, but it is also one of Utah's clearest examples of durable mechanical invention.
 
+[Utah Test and Training Range](../work/utah-test-and-training-range.md) and [Dugway Proving Ground](../work/dugway-proving-ground.md) are the test-infrastructure anchors. They belong in the map because aerospace and defense work needs places to test, measure, and train, but both pages need environmental, public-health, and community-impact caveats.
+
 The modern defense thread should not flatten into "defense tech." [Fortem Technologies](../ventures/fortem-technologies.md), [Space Dynamics Laboratory](../ventures/space-dynamics-laboratory.md), and [Hexcel Corporation](../ventures/hexcel.md) sit in different parts of the stack: sensing and autonomy, mission hardware, and materials/manufacturing.
 
 ## Culture, Place, and Institutions
@@ -66,10 +70,20 @@ Helpers should use the map to avoid generic advice. A propulsion company, a biom
 
 - [Find Meaningful Work in Utah](find-meaningful-work.md)
 - [University of Utah Computer Graphics Program](../work/utah-computer-graphics-program.md)
+- [University of Utah ARPANET Fourth Node](../work/arpanet-fourth-node.md)
+- [Evans & Sutherland](../work/evans-and-sutherland.md)
 - [Capecchi Gene Targeting and the Knockout Mouse](../work/capecchi-gene-targeting.md)
 - [Thiokol Solid Rocket Motors](../work/thiokol-solid-rocket-motors.md)
 - [Golden Spike and the First Transcontinental Railroad](../work/golden-spike-transcontinental-railroad.md)
 - [Spiral Jetty](../work/spiral-jetty.md)
+- [Utah FORGE](../work/utah-forge.md)
+- [Browning Firearms Designs](../work/browning-firearms-designs.md)
+- [Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](../work/flys-eye-hires-cosmic-rays.md)
+- [Utah Population Database](../work/utah-population-database.md)
+- [Myriad Genetics BRCA Sequencing and Testing](../work/myriad-genetics-brca.md)
+- [HELP Clinical Decision Support System](../work/help-clinical-decision-support-system.md)
+- [Utah Test and Training Range](../work/utah-test-and-training-range.md)
+- [Dugway Proving Ground](../work/dugway-proving-ground.md)
 
 ## Open Questions
 

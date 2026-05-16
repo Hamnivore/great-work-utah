@@ -6,7 +6,7 @@
 **Stage:** Pre-seed; biocomputation alpha platform live (2025); $250K Nucleus Fund + $100K RPV
 **Location:** Salt Lake City, UT (resident at Altitude Lab)
 **Updated:** 2026-05-09
-**Hero:** /img/heroes/intactis-bio.png
+**Hero:** /img/heroes/front/intactis-bio-1600.webp
 **Hero caption:** *AI-generated illustration of a microfluidic biochip cradling living neural tissue, wired to a silicon microelectrode array — temporary synthetic placeholder, not a photograph of the actual Intactis Bio device. Replace with a license-cleared Intactis Bio image before any production use.*
 **Pull:** *3D-printed living neurons, wired to silicon, asked to do matrix math.*
 

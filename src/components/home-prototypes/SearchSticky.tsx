@@ -14,10 +14,13 @@ import { TierGlyph } from './parts/IssueShared'
 import { WhosReading } from './parts/WhosReading'
 import {
   categoryImageFor,
+  categoryImageSrcSetFor,
   getCoverQuote,
   getFeaturedEntries,
   heroCaptionFor,
   heroImageFor,
+  heroImageSrcSetFor,
+  heroObjectPositionFor,
 } from './_shared'
 
 /**
@@ -216,19 +219,18 @@ function CategoryPanel({
   return (
     <section className="border-b md:odd:border-r border-sandstone/45 last:border-b-0 md:[&:nth-last-child(2)]:border-b-0">
       <div className="grid grid-cols-[5.5rem_1fr] sm:grid-cols-[7rem_1fr] gap-4 p-4 sm:p-5">
-        <Link
-          to={`/entry/${feature.source}/${feature.slug}`}
-          className="group block"
-          aria-label={feature.title}
-        >
-          <div className="aspect-[3/4] bg-sandstone/25 overflow-hidden rounded-sm border border-sandstone/45">
-            <img
-              src={categoryImageFor(category.name, feature, 420, 560)}
-              alt=""
-              className="w-full h-full object-cover editorial-img transition-transform duration-500 group-hover:scale-[1.03]"
-            />
-          </div>
-        </Link>
+        <div className="aspect-[3/4] bg-sandstone/25 overflow-hidden rounded-sm border border-sandstone/45">
+          <img
+            src={categoryImageFor(category.name, feature, 420, 560)}
+            srcSet={categoryImageSrcSetFor(category.name, feature, [180, 280, 420, 560], 3 / 4)}
+            sizes="(min-width: 640px) 7rem, 5.5rem"
+            alt=""
+            loading="lazy"
+            decoding="async"
+            style={{ objectPosition: heroObjectPositionFor(feature) }}
+            className="w-full h-full object-cover editorial-img"
+          />
+        </div>
 
         <div className="min-w-0">
           <div className="flex items-baseline justify-between gap-3">
@@ -430,10 +432,10 @@ function StickySearchShell({
    * band:
    *   - left third (x < 35%):  go to previous slide
    *   - right third (x > 65%): go to next slide
-   *   - middle third:          open the active slide's entry
-   * Outside the band (the photo above the band, the title content
-   * below it), a click also opens the active entry — the Link
-   * around the title catches its own clicks first. Confining
+   *   - middle third:          no-op; the image itself is not a link
+   * Outside the band (the photo above the band), bare-photo clicks
+   * are also no-ops. The text Link below is the only way to open the
+   * active entry from the cover. Confining
    * left/right paging to a band keeps the chevrons from feeling
    * like they belong to the masthead, and avoids the situation
    * where someone reaches up to click "Great Work" and accidentally
@@ -491,8 +493,6 @@ function StickySearchShell({
       goNext()
       return
     }
-    const slide = slides[activeSlideRef.current]
-    if (slide) navigate(`/entry/${slide.source}/${slide.slug}`)
   }
 
   /* --------- native touch listeners — live finger tracking ---------
@@ -715,9 +715,9 @@ function StickySearchShell({
           Click & hover navigation is concentrated in a horizontal
           band below the masthead (see NAV_BAND_TOP/BOTTOM); the
           chevron overlays live in that same band so the visible
-          affordance and the live click target stay aligned. Click
-          anywhere outside the band — including on the photo above
-          it — and you go straight to the active entry.
+          affordance and the live click target stay aligned. Bare
+          photo clicks in the center or outside the band are inert;
+          the cover text is the entry link.
 
           Touch is handled via native listeners attached in a
           useEffect (so we can call preventDefault on a non-passive
@@ -739,7 +739,7 @@ function StickySearchShell({
              yelling "scroll!" Capped at 820px so the cover doesn't grow
              beyond its compositional sweet spot on tall monitors. */
           minHeight: 'min(820px, 86vh)',
-          cursor: hoverSide ? 'pointer' : 'default',
+          cursor: hoverSide === 'left' || hoverSide === 'right' ? 'pointer' : 'default',
         }}
         aria-roledescription="carousel"
         aria-label="Featured entries"
@@ -769,8 +769,14 @@ function StickySearchShell({
                 aria-hidden={i !== activeSlide}
               >
                 <img
-                  src={heroImageFor(slide, 1800, 2400)}
+                  src={heroImageFor(slide, i === 0 ? 1600 : 1200, i === 0 ? 2133 : 1600)}
+                  srcSet={heroImageSrcSetFor(slide, [800, 1200, 1600], 3 / 4)}
+                  sizes="100vw"
                   alt=""
+                  loading={i === 0 ? 'eager' : 'lazy'}
+                  fetchPriority={i === 0 ? 'high' : 'low'}
+                  decoding="async"
+                  style={{ objectPosition: heroObjectPositionFor(slide) }}
                   className="absolute inset-0 w-full h-full object-cover"
                   draggable={false}
                 />

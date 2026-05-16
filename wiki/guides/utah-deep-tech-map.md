@@ -22,6 +22,8 @@ The live thread is [SCI Institute](../ventures/sci-institute.md): scientific com
 
 The live thread runs through [Recursion Pharmaceuticals](../ventures/recursion-pharmaceuticals.md), [Merit Medical Systems](../ventures/merit-medical.md), and [Blackrock Neurotech](../ventures/blackrock-neurotech.md). They represent three very different Utah modes: AI-biology scale, FDA-regulated interventional manufacturing, and long-horizon neural hardware.
 
+[Utah Population Database](../work/utah-population-database.md) and [HELP Clinical Decision Support System](../work/help-clinical-decision-support-system.md) add the data-infrastructure layer. They show a different Utah advantage: linked records, medical informatics, and health systems willing to turn data into research or clinical workflow.
+
 ## Aerospace, Defense, and Field Hardware
 
 [Thiokol Solid Rocket Motors](../work/thiokol-solid-rocket-motors.md) is the manufacturing anchor: remote, dangerous, high-consequence propulsion work done at national scale. [Space Dynamics Laboratory](../ventures/space-dynamics-laboratory.md) is the research-and-mission-hardware anchor.
@@ -32,7 +34,19 @@ The current map includes [Fortem Technologies](../ventures/fortem-technologies.m
 
 [Golden Spike and the First Transcontinental Railroad](../work/golden-spike-transcontinental-railroad.md) is the infrastructure anchor: the moment a national logistics system became continuous at Promontory Summit. The modern analog is not one-to-one, but the pattern is familiar: Utah as a place where geography and infrastructure collide.
 
-The live energy thread runs through [Fervo Energy](../ventures/fervo-energy.md), [Zanskar Geothermal](../ventures/zanskar-geothermal.md), and the wider geothermal cluster around Utah FORGE and Great Basin geology. These opportunities need more than climate enthusiasm; they need drilling, grid, permitting, project finance, data, and field execution.
+The live energy thread runs through [Utah FORGE](../work/utah-forge.md), [Fervo Energy](../ventures/fervo-energy.md), [Zanskar Geothermal](../ventures/zanskar-geothermal.md), and the wider geothermal cluster around Great Basin geology. These opportunities need more than climate enthusiasm; they need drilling, grid, permitting, project finance, data, and field execution.
+
+## Physics and Desert Instruments
+
+[Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](../work/flys-eye-hires-cosmic-rays.md) is the desert-science anchor. It turns the West Desert from empty-looking land into an instrument for particle astrophysics, and it connects directly to the later [Telescope Array](../ventures/telescope-array-ultra-high-energy-cosmic-rays.md).
+
+This thread is useful for students and operators who like field instrumentation: sensors, calibration, harsh environments, long-running collaborations, and data pipelines where the physical site is part of the machine.
+
+## Defense and Mechanical Systems
+
+[Browning Firearms Designs](../work/browning-firearms-designs.md) is the older mechanical-design anchor. It belongs here with heavy caveats because its impact is inseparable from weapons and organized violence, but it is also one of Utah's clearest examples of durable mechanical invention.
+
+The modern defense thread should not flatten into "defense tech." [Fortem Technologies](../ventures/fortem-technologies.md), [Space Dynamics Laboratory](../ventures/space-dynamics-laboratory.md), and [Hexcel Corporation](../ventures/hexcel.md) sit in different parts of the stack: sensing and autonomy, mission hardware, and materials/manufacturing.
 
 ## Culture, Place, and Institutions
 
@@ -59,6 +73,6 @@ Helpers should use the map to avoid generic advice. A propulsion company, a biom
 
 ## Open Questions
 
-- Add Utah FORGE and more environmental-science work pages before this guide claims to represent the energy and earth-science map well.
+- Add more environmental-science work pages before this guide claims to represent the earth-science map well.
 - Add a real aerospace/defense source pass for Hill AFB, Dugway, Utah Test and Training Range, and the 47G cluster.
 - Add current hiring or collaboration evidence before using this guide as a matchmaking surface.

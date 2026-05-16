@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom'
 import { getAllEntries } from '../../../lib/data'
 import type { Entry } from '../../../lib/types'
 import type { searchAgent } from '../../../trigger/search-agent'
+import { logRaiseHand } from '../../../lib/supabase'
 import { heroImageFor } from '../_shared'
 
 type HandChoice = 'public' | 'private'
@@ -54,6 +55,15 @@ export function WhosReading({
     e.preventDefault()
     setSubmitted(true)
     setTokenState(null)
+    if (hand === 'public') {
+      logRaiseHand({
+        flavor: 'Seeker',
+        name: extractFirstName(prose),
+        email,
+        want: prose,
+        offer: '',
+      }).catch(console.error)
+    }
     fetchTriggerToken()
       .then((token) => setTokenState({ profile: prose.trim(), token }))
       .catch(console.error)
@@ -222,13 +232,15 @@ function ProfileForm({
         <div className="mt-4">
           <label htmlFor="whos-reading-email" className="smallcaps mb-1 block">
             Email
+            {hand === 'public' && <span className="text-orange ml-1">*</span>}
           </label>
           <input
             id="whos-reading-email"
             type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            placeholder="optional"
+            required={hand === 'public'}
+            placeholder={hand === 'public' ? 'required' : 'optional'}
             className="w-full bg-paper border border-sandstone/55 rounded-md px-3 py-2 font-serif text-ink focus:outline-none focus:border-twilight focus:ring-1 focus:ring-twilight/30 placeholder:italic placeholder:text-ink-soft/45 transition-colors"
           />
         </div>
@@ -341,27 +353,29 @@ function FiledStage({
             <p className="smallcaps mb-3">Closest leads</p>
             <div className="grid gap-3">
               {matches.map(({ entry, reason }) => (
-                <Link
+                <div
                   key={`${entry.source}/${entry.slug}`}
-                  to={`/entry/${entry.source}/${entry.slug}`}
-                  className="group grid grid-cols-[4.25rem_1fr] gap-3 items-center"
+                  className="grid grid-cols-[4.25rem_1fr] gap-3 items-center"
                 >
                   <div className="aspect-square overflow-hidden rounded-md bg-sandstone/30">
                     <img
                       src={heroImageFor(entry, 200, 200)}
                       alt=""
-                      className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03] editorial-img"
+                      className="w-full h-full object-cover editorial-img"
                     />
                   </div>
                   <div>
-                    <p className="font-display text-ink leading-tight group-hover:text-twilight transition-colors">
+                    <Link
+                      to={`/entry/${entry.source}/${entry.slug}`}
+                      className="font-display text-ink leading-tight hover:text-twilight transition-colors"
+                    >
                       {entry.title}
-                    </p>
+                    </Link>
                     <p className="font-serif italic text-ink-soft text-sm leading-snug mt-1">
                       {reason}
                     </p>
                   </div>
-                </Link>
+                </div>
               ))}
             </div>
           </div>
@@ -370,22 +384,24 @@ function FiledStage({
             <p className="smallcaps mb-3">Nothing close yet</p>
             <div className="grid gap-3">
               {fallbackCards.map((entry) => (
-                <Link
+                <div
                   key={`${entry.source}/${entry.slug}`}
-                  to={`/entry/${entry.source}/${entry.slug}`}
-                  className="group grid grid-cols-[4.25rem_1fr] gap-3 items-center"
+                  className="grid grid-cols-[4.25rem_1fr] gap-3 items-center"
                 >
                   <div className="aspect-square overflow-hidden rounded-md bg-sandstone/30">
                     <img
                       src={heroImageFor(entry, 200, 200)}
                       alt=""
-                      className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03] editorial-img"
+                      className="w-full h-full object-cover editorial-img"
                     />
                   </div>
-                  <p className="font-display text-ink leading-tight group-hover:text-twilight transition-colors">
+                  <Link
+                    to={`/entry/${entry.source}/${entry.slug}`}
+                    className="font-display text-ink leading-tight hover:text-twilight transition-colors"
+                  >
                     {entry.title}
-                  </p>
-                </Link>
+                  </Link>
+                </div>
               ))}
             </div>
           </div>

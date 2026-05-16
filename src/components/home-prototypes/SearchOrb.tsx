@@ -5,7 +5,7 @@ import {
   getFeaturedEntries,
 } from './_shared'
 import { TierGlyph } from './parts/IssueShared'
-import { useSearchOverlay } from '../SearchOverlay'
+import { useSearchOverlay } from '../searchOverlayContext'
 
 /**
  * SEARCH · THE DESERT MOON

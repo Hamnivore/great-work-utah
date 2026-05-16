@@ -9,7 +9,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import { getAllEntries } from '../../lib/data'
 import type { Entry } from '../../lib/types'
 import { usePageTransition } from '../../lib/page-transitions'
-import { useSearchOverlay } from '../SearchOverlay'
+import { useSearchOverlay } from '../searchOverlayContext'
 import { TierGlyph } from './parts/IssueShared'
 import { WhosReading } from './parts/WhosReading'
 import {

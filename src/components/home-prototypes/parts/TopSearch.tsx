@@ -1,7 +1,8 @@
 import {
   type KeyboardEvent as ReactKeyboardEvent,
 } from 'react'
-import { SearchIcon, useSearchOverlay } from '../../SearchOverlay'
+import { SearchIcon } from '../../SearchOverlay'
+import { useSearchOverlay } from '../../searchOverlayContext'
 import type { Entry } from '../../../lib/types'
 
 interface TopSearchProps {
@@ -39,8 +40,6 @@ interface TopSearchProps {
  * suggestion submits it; pressing Enter in the input goes to /ask.
  */
 export function TopSearch({
-  suggestions: _suggestions,
-  recommendations: _recommendations = [],
   tone = 'photo',
 }: TopSearchProps) {
   const { openSearch } = useSearchOverlay()

@@ -1,5 +1,6 @@
 import { useState, type FormEvent } from 'react'
-import { SearchIcon, useSearchOverlay } from './SearchOverlay'
+import { SearchIcon } from './SearchOverlay'
+import { useSearchOverlay } from './searchOverlayContext'
 
 interface AskBarProps {
   initialValue?: string

@@ -1,6 +1,4 @@
 import {
-  createContext,
-  useContext,
   useEffect,
   useRef,
   useState,
@@ -11,14 +9,8 @@ import { Link, useNavigate } from 'react-router-dom'
 import type { Entry } from '../lib/types'
 import { getFeaturedEntries, SUGGESTED_QUESTIONS } from './home-prototypes/_shared'
 import { logQuery } from '../lib/supabase'
-
-interface SearchOverlayContextValue {
-  isOpen: boolean
-  openSearch: (initialValue?: string) => void
-  closeSearch: () => void
-}
-
-const SearchOverlayContext = createContext<SearchOverlayContextValue | null>(null)
+import { localSearch, type LocalSearchResult } from '../lib/localSearch'
+import { SearchOverlayContext } from './searchOverlayContext'
 
 export function SearchOverlayProvider({ children }: { children: ReactNode }) {
   const navigate = useNavigate()
@@ -74,7 +66,12 @@ export function SearchOverlayProvider({ children }: { children: ReactNode }) {
     if (!q) return
     setOpen(false)
     logQuery(q)
-    navigate(`/ask?q=${encodeURIComponent(q)}`)
+    const topMatch = localSearch(q, 1)[0]?.entry
+    if (topMatch) {
+      navigate(`/entry/${topMatch.source}/${topMatch.slug}`)
+    } else {
+      navigate(`/ask?q=${encodeURIComponent(q)}`)
+    }
   }
 
   function pickSuggestion(q: string) {
@@ -98,18 +95,11 @@ export function SearchOverlayProvider({ children }: { children: ReactNode }) {
           onPickSuggestion={pickSuggestion}
           suggestions={suggestions}
           recommendations={recommendations}
+          searchResults={localSearch(value, 8)}
         />
       )}
     </SearchOverlayContext.Provider>
   )
-}
-
-export function useSearchOverlay() {
-  const ctx = useContext(SearchOverlayContext)
-  if (!ctx) {
-    throw new Error('useSearchOverlay must be used inside SearchOverlayProvider')
-  }
-  return ctx
 }
 
 function LargeSearchPanel({
@@ -121,6 +111,7 @@ function LargeSearchPanel({
   onPickSuggestion,
   suggestions,
   recommendations,
+  searchResults,
 }: {
   value: string
   setValue: (s: string) => void
@@ -130,7 +121,10 @@ function LargeSearchPanel({
   onPickSuggestion: (q: string) => void
   suggestions: string[]
   recommendations: Entry[]
+  searchResults: LocalSearchResult[]
 }) {
+  const hasQuery = value.trim().length > 0
+
   return (
     <div
       role="dialog"
@@ -180,27 +174,75 @@ function LargeSearchPanel({
           </form>
         </div>
         <p className="smallcaps mt-3 ml-1 text-twilight-soft/70">
-          enter to ask · esc to close
+          {hasQuery && searchResults.length > 0
+            ? 'enter to open top match · esc to close'
+            : 'enter to ask · esc to close'}
         </p>
       </section>
 
       <section className="flex-1 overflow-y-auto">
         <div className="max-w-3xl w-full mx-auto px-5 sm:px-8 py-10 sm:py-12 grid grid-cols-1 sm:grid-cols-[1.6fr_1fr] gap-x-10 gap-y-10">
           <div>
-            <p className="smallcaps mb-4">Try asking</p>
-            <ul className="flex flex-wrap gap-2">
-              {suggestions.map((q) => (
-                <li key={q}>
-                  <button
-                    type="button"
-                    onClick={() => onPickSuggestion(q)}
-                    className="font-serif italic text-twilight hover:text-orange hover:border-orange/40 hover:bg-paper-deep/50 transition-colors text-left text-base leading-snug rounded-full border border-twilight/15 px-4 py-2"
-                  >
-                    {q}
-                  </button>
-                </li>
-              ))}
-            </ul>
+            {hasQuery ? (
+              <>
+                <p className="smallcaps mb-4">Matching articles</p>
+                {searchResults.length > 0 ? (
+                  <ul className="space-y-2">
+                    {searchResults.map(({ entry, matchedTerms }, index) => (
+                      <li key={`${entry.source}/${entry.slug}`}>
+                        <Link
+                          to={`/entry/${entry.source}/${entry.slug}`}
+                          onClick={onClose}
+                          className={`block group rounded-md border px-4 py-3 transition-colors ${
+                            index === 0
+                              ? 'border-twilight/35 bg-pale-sky/45 hover:border-orange/45'
+                              : 'border-sandstone/45 hover:border-twilight/40 hover:bg-paper-deep/40'
+                          }`}
+                        >
+                          <p className="font-display text-ink leading-snug group-hover:text-twilight transition-colors">
+                            {entry.title}
+                          </p>
+                          {entry.summary && (
+                            <p className="font-serif italic text-ink-soft text-sm leading-snug mt-1 line-clamp-2">
+                              {entry.summary}
+                            </p>
+                          )}
+                          <p className="smallcaps !text-[0.6rem] !tracking-[0.18em] text-twilight-soft/80 mt-2">
+                            {entry.domain}
+                            {matchedTerms.length > 0
+                              ? ` · ${matchedTerms.slice(0, 3).join(' · ')}`
+                              : ''}
+                          </p>
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                ) : (
+                  <div className="rounded-md border border-sandstone/45 bg-paper-deep/35 px-4 py-3">
+                    <p className="font-serif italic text-ink-soft leading-snug">
+                      No article matches yet. Press enter to ask the guide.
+                    </p>
+                  </div>
+                )}
+              </>
+            ) : (
+              <>
+                <p className="smallcaps mb-4">Try asking</p>
+                <ul className="flex flex-wrap gap-2">
+                  {suggestions.map((q) => (
+                    <li key={q}>
+                      <button
+                        type="button"
+                        onClick={() => onPickSuggestion(q)}
+                        className="font-serif italic text-twilight hover:text-orange hover:border-orange/40 hover:bg-paper-deep/50 transition-colors text-left text-base leading-snug rounded-full border border-twilight/15 px-4 py-2"
+                      >
+                        {q}
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
           </div>
 
           <div>

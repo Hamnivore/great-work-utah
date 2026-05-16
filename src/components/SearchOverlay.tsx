@@ -8,7 +8,7 @@ import {
 import { Link, useNavigate } from 'react-router-dom'
 import type { Entry } from '../lib/types'
 import { getFeaturedEntries, SUGGESTED_QUESTIONS } from './home-prototypes/_shared'
-import { logQuery } from '../lib/supabase'
+import { logQuery, logRaiseHand } from '../lib/supabase'
 import { localSearch, type LocalSearchResult } from '../lib/localSearch'
 import { SearchOverlayContext } from './searchOverlayContext'
 
@@ -124,6 +124,28 @@ function LargeSearchPanel({
   searchResults: LocalSearchResult[]
 }) {
   const hasQuery = value.trim().length > 0
+  const [rhOpen, setRhOpen] = useState(false)
+  const [rhSubmitted, setRhSubmitted] = useState(false)
+  const [rhError, setRhError] = useState<string | null>(null)
+
+  async function submitRaiseHand(e: FormEvent) {
+    e.preventDefault()
+    setRhError(null)
+    const form = e.currentTarget as HTMLFormElement
+    const data = Object.fromEntries(new FormData(form)) as Record<string, string>
+    try {
+      await logRaiseHand({
+        flavor: 'Seeker',
+        name: data.name ?? '',
+        email: data.email ?? '',
+        want: '',
+        offer: '',
+      })
+      setRhSubmitted(true)
+    } catch (err) {
+      setRhError(err instanceof Error ? err.message : 'Something went wrong.')
+    }
+  }
 
   return (
     <div
@@ -188,7 +210,7 @@ function LargeSearchPanel({
                 <p className="smallcaps mb-4">Matching articles</p>
                 {searchResults.length > 0 ? (
                   <ul className="space-y-2">
-                    {searchResults.map(({ entry, matchedTerms }, index) => (
+                    {searchResults.map(({ entry, matchedTerms, preview }, index) => (
                       <li key={`${entry.source}/${entry.slug}`}>
                         <Link
                           to={`/entry/${entry.source}/${entry.slug}`}
@@ -202,8 +224,23 @@ function LargeSearchPanel({
                           <p className="font-display text-ink leading-snug group-hover:text-twilight transition-colors">
                             {entry.title}
                           </p>
-                          {entry.summary && (
+                          {preview ? (
+                            <p className="font-serif italic text-ink-soft text-sm leading-snug mt-1 line-clamp-3">
+                              <span className="not-italic smallcaps !text-[0.58rem] !tracking-[0.16em] text-twilight-soft/80 mr-1.5">
+                                {preview.label}
+                              </span>
+                              <HighlightedMatch
+                                text={preview.text}
+                                term={preview.term}
+                              />
+                            </p>
+                          ) : entry.summary ? (
                             <p className="font-serif italic text-ink-soft text-sm leading-snug mt-1 line-clamp-2">
+                              {entry.summary}
+                            </p>
+                          ) : null}
+                          {preview && entry.summary && preview.text !== entry.summary && (
+                            <p className="font-serif italic text-ink-soft/75 text-xs leading-snug mt-1 line-clamp-1">
                               {entry.summary}
                             </p>
                           )}
@@ -290,11 +327,6 @@ function LargeSearchPanel({
                     title: 'The tier system',
                     blurb: 'How we rank great work — in public.',
                   },
-                  {
-                    to: '/raise-hand',
-                    title: 'Raise your hand',
-                    blurb: 'Tell the guide who you are.',
-                  },
                 ].map((item) => (
                   <li key={item.to}>
                     <Link
@@ -311,6 +343,65 @@ function LargeSearchPanel({
                     </Link>
                   </li>
                 ))}
+
+                <li>
+                  {rhSubmitted ? (
+                    <div className="rounded-2xl px-4 py-2.5 bg-pale-sky/60">
+                      <p className="font-display italic text-twilight leading-snug">Got it.</p>
+                      <p className="font-serif italic text-ink-soft text-sm leading-snug mt-0.5">
+                        You're on the map.
+                      </p>
+                    </div>
+                  ) : rhOpen ? (
+                    <form onSubmit={submitRaiseHand} className="rounded-2xl border border-twilight/25 px-4 py-3 space-y-2">
+                      <p className="font-display italic text-ink text-sm leading-snug">Raise your hand</p>
+                      <input
+                        name="name"
+                        type="text"
+                        required
+                        placeholder="Name"
+                        autoFocus
+                        className="w-full bg-pale-sky/50 border border-sandstone/60 rounded px-2.5 py-1.5 font-serif text-sm text-ink placeholder:text-ink-soft/50 focus:outline-none focus:border-twilight/50 transition-colors"
+                      />
+                      <input
+                        name="email"
+                        type="email"
+                        required
+                        placeholder="Email *"
+                        className="w-full bg-pale-sky/50 border border-sandstone/60 rounded px-2.5 py-1.5 font-serif text-sm text-ink placeholder:text-ink-soft/50 focus:outline-none focus:border-twilight/50 transition-colors"
+                      />
+                      {rhError && <p className="font-serif text-xs text-orange">{rhError}</p>}
+                      <div className="flex items-center gap-3 pt-0.5">
+                        <button
+                          type="submit"
+                          className="font-serif italic text-sm text-paper bg-twilight hover:bg-ink px-3 py-1 rounded transition-colors"
+                        >
+                          Send it in
+                        </button>
+                        <Link
+                          to="/raise-hand"
+                          onClick={onClose}
+                          className="font-serif italic text-sm text-twilight hover:text-orange transition-colors"
+                        >
+                          Full form →
+                        </Link>
+                      </div>
+                    </form>
+                  ) : (
+                    <button
+                      type="button"
+                      onClick={() => setRhOpen(true)}
+                      className="w-full text-left block group rounded-2xl px-4 py-2.5 hover:bg-paper-deep/40 transition-colors"
+                    >
+                      <p className="font-display italic text-ink leading-snug group-hover:text-twilight transition-colors">
+                        Raise your hand
+                      </p>
+                      <p className="font-serif italic text-ink-soft text-sm leading-snug mt-0.5">
+                        Tell the guide who you are.
+                      </p>
+                    </button>
+                  )}
+                </li>
               </ul>
             </div>
           </div>
@@ -318,6 +409,32 @@ function LargeSearchPanel({
       </section>
     </div>
   )
+}
+
+function HighlightedMatch({ text, term }: { text: string; term: string }) {
+  if (!term) return <>{text}</>
+
+  const parts = text.split(new RegExp(`(${escapeRegExp(term)})`, 'ig'))
+  return (
+    <>
+      {parts.map((part, index) =>
+        part.toLowerCase() === term.toLowerCase() ? (
+          <mark
+            key={`${part}-${index}`}
+            className="bg-orange/20 text-ink rounded-sm px-0.5"
+          >
+            {part}
+          </mark>
+        ) : (
+          <span key={`${part}-${index}`}>{part}</span>
+        ),
+      )}
+    </>
+  )
+}
+
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 }
 
 export function SearchIcon({ className = '' }: { className?: string }) {

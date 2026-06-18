@@ -36,6 +36,7 @@ Myriad's patent strategy is an ethical and scientific caveat, not a side note. M
 
 ## Evidence
 
+- [Source record: Association for Molecular Pathology v. Myriad Genetics](../sources/myriad-brca-supreme-court-or-official.md)
 - [Supreme Court opinion: Association for Molecular Pathology v. Myriad Genetics](https://supreme.justia.com/cases/federal/us/569/576/)
 - [AMA Journal of Ethics: The Supreme Court on Myriad Genetics](https://journalofethics.ama-assn.org/article/supreme-court-myriad-genetics-synthetic-dna-patentable-isolated-genes-are-not/2015-09)
 - [PMC: Gene Patenting — The Supreme Court Finally Speaks](https://pmc.ncbi.nlm.nih.gov/articles/PMC3777541/)
@@ -44,4 +45,4 @@ Myriad's patent strategy is an ethical and scientific caveat, not a side note. M
 ## Open Questions
 
 - Add a primary source for the original BRCA1 and BRCA2 sequencing announcements or papers.
-- Add a source record for the Supreme Court opinion and a public explainer of post-2013 BRCA test competition.
+- Add a public explainer source record for post-2013 BRCA test competition.

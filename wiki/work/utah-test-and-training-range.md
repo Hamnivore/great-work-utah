@@ -36,6 +36,7 @@ This entry is about national test capability, not approval of the weapons tested
 
 ## Evidence
 
+- [Source record: Hill AFB Utah Test and Training Range Fact Sheet](../sources/utah-test-training-range-source.md)
 - [Hill AFB: Utah Test and Training Range fact sheet](https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/)
 - [Air Force Historical Research Agency: Utah Test and Training Range](https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/3377124/utah-test-and-training-range-acc/)
 - [Utah DEQ: UTTR facility overview](https://deq.utah.gov/businesses-facilities/utah-test-and-training-facility-overview)
@@ -43,5 +44,5 @@ This entry is about national test capability, not approval of the weapons tested
 
 ## Open Questions
 
-- Add source records for Hill AFB and Utah DEQ pages.
+- Add a source record for the Utah DEQ page.
 - Add a stronger environmental and Indigenous/community context pass before promotion.

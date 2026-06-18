@@ -36,11 +36,12 @@ The company's primary revenue was military simulation, which complicates the leg
 
 ## Evidence
 
+- [Source record: Evans & Sutherland Corporate Records and History](../sources/evans-and-sutherland-source.md)
 - [History of CG: Evans & Sutherland](https://www.historyofcg.com/pages/evans-sutherland-/)
 - [U of U ArchivesSpace: Evans & Sutherland corporate records](https://archivespace.lib.utah.edu/agents/corporate_entities/2243)
 - [Wikipedia: Evans & Sutherland](https://en.wikipedia.org/wiki/Evans_&_Sutherland)
 
 ## Open Questions
 
-- Add a stronger primary source for product dates and flight-simulator claims.
+- Add stronger primary sources for product dates and flight-simulator claims.
 - Consider whether Evans & Sutherland belongs in `ventures/` too, or whether `work/` is enough for the current demo.

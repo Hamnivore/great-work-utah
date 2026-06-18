@@ -36,11 +36,12 @@ This is not a celebratory page. Dugway's history includes open-air chemical and 
 
 ## Evidence
 
+- [Source record: U.S. Army Dugway Proving Ground Official Page](../sources/dugway-proving-ground-source.md)
 - [U.S. Army: Dugway Proving Ground](https://www.army.mil/dugway)
 - [U.S. Army Dugway history](https://home.army.mil/dugway/my-dugway-proving-ground)
 - [Health.mil: Dugway Proving Ground environmental exposures](https://www.health.mil/Military-Health-Topics/Environmental-Exposures-Hub/Environmental-Exposures-Topics/Dugway-Proving-Ground)
 
 ## Open Questions
 
-- Add source records for official Dugway pages and environmental-exposure documentation.
+- Add source records for environmental-exposure documentation and a fuller official history page if available.
 - Add a careful pass on the Skull Valley sheep incident and local community impacts.

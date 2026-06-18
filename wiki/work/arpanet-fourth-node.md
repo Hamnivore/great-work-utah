@@ -36,6 +36,7 @@ The node reinforces why the [University of Utah Computer Graphics Program](utah-
 
 ## Evidence
 
+- [Source record: University of Utah Node 4 History](../sources/arpanet-fourth-node-source.md)
 - [U of U IT: Node 4 history](https://it.utah.edu/node4/posts/2017/august/node4-history.php)
 - [University of Utah Price College of Engineering: Birth of the Internet](https://www.price.utah.edu/2019/09/09/birth-of-the-internet)
 - [History of Information: The First Four Nodes](https://www.historyofinformation.com/detail.php?id=3368)
@@ -43,5 +44,4 @@ The node reinforces why the [University of Utah Computer Graphics Program](utah-
 
 ## Open Questions
 
-- Add a source record for the U of U Node 4 history page.
 - Add a more primary ARPA or BBN source before promoting this page beyond Draft.

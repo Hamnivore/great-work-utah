@@ -36,11 +36,11 @@ FORGE is not proof that enhanced geothermal is already broadly commercial. The w
 
 ## Evidence
 
+- [Source record: DOE and Utah FORGE Official Pages](../sources/utah-forge-official.md)
 - [DOE: FORGE](https://www.energy.gov/eere/geothermal/forge)
 - [DOE: Enhanced geothermal systems demonstration projects](https://www.energy.gov/hgeo/geothermal/enhanced-geothermal-systems-demonstration-projects)
 - [Utah FORGE official site](https://utahforge.com/)
 
 ## Open Questions
 
-- Add source records for the DOE FORGE page and Utah FORGE official site.
 - Add a concise link to public FORGE data access if this becomes a technical guide for researchers or geothermal founders.

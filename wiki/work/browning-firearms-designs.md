@@ -36,6 +36,7 @@ This work's impact is inseparable from organized violence. Browning designs help
 
 ## Evidence
 
+- [Source record: ASME Browning Firearms Collection](../sources/browning-firearms-asme-or-official.md)
 - [ASME: Browning Firearms Collection](https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection)
 - [National Inventors Hall of Fame: John Moses Browning](https://www.invent.org/inductees/john-moses-browning)
 - [Ogden City: Browning Firearms Museum](https://www.ogdencity.gov/1333/Browning-Firearms)
@@ -44,5 +45,5 @@ This work's impact is inseparable from organized violence. Browning designs help
 
 ## Open Questions
 
-- Add a source record for the ASME landmark page and Ogden museum page.
+- Add a source record for the Ogden museum page.
 - Decide whether this page should receive a stronger public-safety caveat before it is promoted beyond Draft.

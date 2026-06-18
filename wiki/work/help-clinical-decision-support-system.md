@@ -38,6 +38,7 @@ HELP was a pioneering system, but it was part of a broader national movement. Re
 
 ## Evidence
 
+- [Source record: HELP Hospital Information System Papers](../sources/help-clinical-decision-support-source.md)
 - [Pryor, Warner, and Gardner: HELP--A Total Hospital Information System](https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/)
 - [PubMed: The HELP hospital information system: update 1998](https://pubmed.ncbi.nlm.nih.gov/10405877/)
 - [PMC: Clinical Decision Support: a 25 Year Retrospective and a 25 Year Vision](https://pmc.ncbi.nlm.nih.gov/articles/PMC5171504/)
@@ -45,5 +46,4 @@ HELP was a pioneering system, but it was part of a broader national movement. Re
 
 ## Open Questions
 
-- Add a source record for the 1980 HELP paper and the 1998 update.
 - Consider a future `people/homer-warner.md` page if the wiki starts adding real Utah informatics biographies.

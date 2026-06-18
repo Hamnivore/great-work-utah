@@ -36,6 +36,7 @@ The experiments did not identify the sources of ultra-high-energy cosmic rays; t
 
 ## Evidence
 
+- [Source record: Fly's Eye and HiRes Cosmic-Ray Records](../sources/flys-eye-hires-cosmic-rays.md)
 - [University of Utah College of Science: the Oh-My-God particle](https://science.utah.edu/faculty/why-scientists-havent-solved-the-mystery-of-the-oh-my-god-particle/)
 - [D. J. Bird et al.: Detection of a cosmic ray beyond the expected spectral cutoff](https://digital.library.adelaide.edu.au/items/88ebd0a2-2159-410d-bbaf-382b94cbc66a)
 - [Physical Review Letters: First observation of the Greisen-Zatsepin-Kuzmin suppression](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.101101)
@@ -44,5 +45,5 @@ The experiments did not identify the sources of ultra-high-energy cosmic rays; t
 
 ## Open Questions
 
-- Add a source record for the Oh-My-God particle explainer and the HiRes PRL paper.
+- Add a source record for the original 1995 Astrophysical Journal Oh-My-God particle paper.
 - Add a cleaner short explanation of energy units for general readers if this page becomes a public front-door science page.

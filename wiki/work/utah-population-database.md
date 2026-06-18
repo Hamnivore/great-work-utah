@@ -38,11 +38,12 @@ The population is not representative of global human diversity, and findings may
 
 ## Evidence
 
+- [Source record: Utah Population Database Official Page](../sources/utah-population-database-official.md)
 - [Utah Population Database — U of U Health](https://uofuhealth.utah.edu/huntsman/utah-population-database)
 - [Learn.Genetics: Genetics in Utah](https://learn.genetics.utah.edu/content/science/utah/)
 - [C&EN: Streamlining Utah's Population Database](https://cen.acs.org/articles/83/i41/Streamlining-Utahs-Population-Database.html)
 
 ## Open Questions
 
-- Add source records for the official UPDB page and a stronger peer-reviewed overview.
+- Add a stronger peer-reviewed UPDB overview source record.
 - Add source records connecting UPDB to the BRCA research lineage.

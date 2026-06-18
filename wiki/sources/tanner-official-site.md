@@ -26,4 +26,4 @@ This is an official firm source and is reliable for Tanner's stated services and
 
 ## Related Pages
 
-- [Tanner](../helpers/tanner.md)
+- [Tanner LLC](../helpers/tanner-llc.md)

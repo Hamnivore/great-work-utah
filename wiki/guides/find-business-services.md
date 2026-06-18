@@ -35,19 +35,19 @@ Use it for: founders comparing loans with equity, veteran-owned or manufacturing
 
 The wiki now has first-class helper pages for firms founders hire directly. Match the bottleneck before the brand.
 
-**Startup counsel and venture financings:** [Wilson Sonsini (Salt Lake City)](../helpers/wilson-sonsini-salt-lake-city.md) for life-sciences and venture-backed companies that need corporate, financing, and governance help.
+**Startup counsel and venture financings:** [Kirton McConkie](../helpers/kirton-mcconkie.md) for Utah corporate formation, venture financing, and securities work. [Parsons Behle & Latimer](../helpers/parsons-behle-latimer.md) for technology transactions, licensing, and emerging-company securities. [Wilson Sonsini (Salt Lake City)](../helpers/wilson-sonsini-salt-lake-city.md) for life-sciences and venture-backed companies that need national venture counsel.
 
-**Patents and technology transactions:** [Maschoff Brennan](../helpers/maschoff-brennan.md) for Utah deep-tech teams that need patent prosecution, licensing, or software/biotech IP strategy.
+**Patents and technology transactions:** [Workman Nydegger](../helpers/workman-nydegger.md) for patent prosecution and IP litigation. [Maschoff Brennan](../helpers/maschoff-brennan.md) for Utah deep-tech teams that need licensing, software/biotech IP strategy, or technology transactions.
 
-**Accounting, tax, and audit:** [Tanner](../helpers/tanner.md) for growth-stage companies that need audit readiness, R&D tax credits, SOC/ISO support, or transaction advisory — not just annual tax prep.
+**Accounting, tax, and audit:** [Tanner LLC](../helpers/tanner-llc.md) for growth-stage companies that need audit readiness, R&D tax credits, SOC/ISO support, or transaction advisory — not just annual tax prep. [Eide Bailly (Utah)](../helpers/eide-bailly-utah.md) when a national CPA footprint with fractional CFO/controller and R&D credit support is a better fit.
 
-**Fractional CFO and finance operations:** [NOW CFO](../helpers/now-cfo.md) when the company needs controller-level or CFO-level help before a full-time hire.
+**Fractional CFO and finance operations:** [Preferred CFO](../helpers/preferred-cfo.md) or [NOW CFO](../helpers/now-cfo.md) when the company needs controller-level or CFO-level help before a full-time hire.
 
 **FDA / medtech regulatory:** [RQM+](../helpers/rqm-plus.md) for medical-device and diagnostic founders navigating quality systems, clinical strategy, and reimbursement.
 
 **SBIR/STTR and grant consulting:** [BBCetc](../helpers/bbcetc.md) when the bottleneck is federal nondilutive funding proposals, not equity capital.
 
-Use [Nucleus Institute](../helpers/nucleus-institute.md) when the founder is still deciding whether the work should become a company at all, or needs Utah-specific commercialization routing before hiring outside counsel.
+Use [Nucleus Institute](../helpers/nucleus-institute.md) when the founder is still deciding whether the work should become a company at all, or needs Utah-specific commercialization routing before hiring outside counsel. For mentor-style help before hiring firms, see [Find An Advisor In Utah](find-an-advisor.md).
 
 ## If The Bottleneck Is Women-Founder Support
 

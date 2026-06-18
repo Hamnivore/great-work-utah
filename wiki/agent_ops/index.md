@@ -14,7 +14,7 @@ When you add, rename, retire, or substantially repurpose a page, update this ind
 |---|---|
 | `ventures/` | 36 |
 | `people/` | 0 |
-| `helpers/` | 13 |
+| `helpers/` | 12 |
 | `resources/` | 218 |
 | `work/` | 26 |
 | `sources/` | 97 |
@@ -90,8 +90,7 @@ Mentors, advisors, fractional executives, investors, attorneys, accountants, rec
 - `helpers/parsons-behle-latimer.md` — **Parsons Behle & Latimer** — technology law, IP transactions, licensing, securities, emerging companies, venture financing.
 - `helpers/preferred-cfo.md` — **Preferred CFO** — fractional CFO, outsourced controllers, financial systems, outsourced HR, cash-flow forecasting.
 - `helpers/rqm-plus.md` — **RQM+** — medical devices, regulatory affairs, quality systems, clinical trials, medtech startups.
-- `helpers/tanner-llc.md` — **Tanner LLC** — accounting, audit/assurance, tax, M&A due diligence, SEC reporting, advisory.
-- `helpers/tanner.md` — **Tanner** — accounting, tax, audit, R&D tax credits, SOC, ISO, transaction advisory.
+- `helpers/tanner-llc.md` — **Tanner LLC** — accounting, audit/assurance, tax, M&A due diligence, SEC reporting, R&D tax credits, advisory.
 - `helpers/wilson-sonsini-salt-lake-city.md` — **Wilson Sonsini (Salt Lake City)** — startup counsel, venture financings, life sciences, corporate governance.
 - `helpers/workman-nydegger.md` — **Workman Nydegger** — patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation.
 

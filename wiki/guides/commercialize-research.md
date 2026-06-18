@@ -59,7 +59,11 @@ Nucleus can still be the connective tissue, but the recommendation should name t
 
 Not every commercialization question is a deep-tech funding question. A researcher may also need business-plan counseling, lender-readiness help, or a mentor who can explain basic founder operations.
 
-[Utah SBDC](../resources/utah-sbdc.md), [SCORE Utah](../resources/score-utah.md), and [Women's Business Center of Utah](../resources/womens-business-center-of-utah.md) can be useful companion resources when the obstacle is practical business formation rather than technology validation or grant strategy.
+[Utah SBDC](../resources/utah-sbdc.md), [SCORE Utah](../resources/score-utah.md), and [Women's Business Center of Utah](../resources/womens-business-center-of-utah.md) can be useful companion resources when the obstacle is practical business formation rather than technology validation or grant strategy. See also [Find An Advisor In Utah](find-an-advisor.md).
+
+## If The Invention Needs IP Protection Before Disclosure
+
+[Workman Nydegger](../helpers/workman-nydegger.md) is a Utah IP boutique for patent strategy before public disclosure. [Maschoff Brennan](../helpers/maschoff-brennan.md) fits software, biotech, and university spinouts that need licensing or technology-transaction counsel alongside prosecution.
 
 ## Evidence
 

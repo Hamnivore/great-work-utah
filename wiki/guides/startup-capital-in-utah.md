@@ -49,6 +49,10 @@ Use this path for revenue-generating or asset-backed small businesses, rural ope
 
 Use this path when the company has a business plan, intended use of funds, projections, tax returns, collateral or credit context, and a reason conventional credit is not sufficient. It may be especially relevant for underserved, rural, asset-heavy, or Main Street-style companies that need debt capital rather than a pitch-deck circuit.
 
+## Capital-Readiness Helpers
+
+Before investors or lenders will engage seriously, many founders need reviewed financials, a credible model, and clean corporate documents. [Preferred CFO](../helpers/preferred-cfo.md) and [Eide Bailly (Utah)](../helpers/eide-bailly-utah.md) are public Utah options for fractional CFO/controller support and raise-prep finance. [Kirton McConkie](../helpers/kirton-mcconkie.md) and [Parsons Behle & Latimer](../helpers/parsons-behle-latimer.md) are common next steps when the capital conversation requires financing documents, securities compliance, or diligence-ready corporate records.
+
 ## Common Mismatches
 
 Do not send a pure services company to SBIR/STTR unless there is real technical R&D. Do not send a professor directly to equity capital when customer discovery and formation are still unresolved. Do not send a founder to UTIF before they have an eligible open SBIR/STTR opportunity and enough application timing.

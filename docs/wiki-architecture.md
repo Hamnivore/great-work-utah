@@ -3,6 +3,8 @@
 The data layer behind Great Work is a **Karpathy-style LLM wiki**: a persistent, compounding collection of markdown files that agents read, write, and maintain. The web UI is a beautiful read-view over that wiki.
 
 > Reference: [Andrej Karpathy — `llm-wiki.md`](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+>
+> See also [wiki-skill-v0.2.0-addendum.md](wiki-skill-v0.2.0-addendum.md): which Great Work conventions to keep as product extensions, and which gaps to migrate onto the shared wiki skill v0.2.0 (size caps, index sharding, BM25 search, relational matching graph).
 
 ## Core Idea
 

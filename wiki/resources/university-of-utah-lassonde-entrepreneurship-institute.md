@@ -1,83 +1,61 @@
 # University of Utah Lassonde Entrepreneurship Institute
 
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
-**Location:** Davis, Morgan, Salt Lake, Tooele, Weber
-**Updated:** 2026-05-09
+**Status:** Useful
+**Confidence:** High
+**Focus:** student entrepreneurship, university entrepreneurship, startups, seed funding, venture creation
+**Location:** Salt Lake City, UT
+**Updated:** 2026-06-18
 **Layout:** field-guide
 
 ## Summary
 
-The Lassonde Entrepreneur Institute at the University of Utah is a nationally recognized hub for entrepreneurship and innovation. It offers a wide range of programs, including workshops, grants, competitions, and residential experiences at Lassonde Studios, supporting students from any discipline to learn, innovate, and launch businesses.
+The Lassonde Entrepreneurship Institute is the University of Utah's hub for student entrepreneurs and innovators. Its official site frames the institute around "Live. Create. Launch." and says it offers something for all students who want to become founders, creators, or change-makers.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+For the wiki, Lassonde is a priority university entrepreneurship resource because it combines student community, residential entrepreneurship, workshops, seed funding, competitions, startup launch support, and academic pathways.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
+Lassonde helps University of Utah students from any discipline who want to explore entrepreneurship, join a founder community, form a team, test an idea, build a product, apply for seed funding, compete, live in an entrepreneurship environment, or launch a venture.
 
-- Student
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+It can also be relevant to alumni and community partners, but the core public positioning is student-facing.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site points to Lassonde Studios, programs and academics, events, launch stories, workshops, Get Seeded, Make Program, Lassonde DevLab, Hours with Experts, Tim Draper Utah Entrepreneur Challenge, Bench to Bedside, meetups, Entrepreneur Club, student leadership and scholarship opportunities, entrepreneurship classes and degrees, Master of Business Creation, Lassonde+X, and related startup pathways.
 
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
+The page also highlights student startup examples and current events, which makes it useful for seeing the active program surface.
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official site, then choose the path that matches the student's stage: tours and info sessions, events, workshops, Get Seeded, Lassonde Studios, competitions, classes, or launch programs.
 
-- [Official website](https://lassonde.utah.edu/)
-- Email: [lassonde@utah.edu](mailto:lassonde@utah.edu)
+Students with a venture idea should likely begin with a low-commitment program or event, then move toward funding, mentoring, competitions, or company-launch support once the idea becomes concrete.
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Eligibility is primarily tied to University of Utah students. Public pages indicate many opportunities are student-facing, but costs and eligibility differ by program, housing, class enrollment, competition, or funding opportunity. Verify details on the specific program page before recommending a next step.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Lassonde is an excellent fit for a University of Utah student or student team that wants a campus-based entrepreneurship ecosystem rather than a single advising appointment.
 
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
-- Student
+It is less direct for nonstudent founders, established companies, or researchers whose main need is SBIR/STTR strategy, though Lassonde can still be a useful ecosystem door for student talent and venture education.
 
 ## Imported Coverage
 
 - Startup State CSV ID: 2582
-- Counties or regions: Davis, Morgan, Salt Lake, Tooele, Weber
+- Counties or regions: Davis, Morgan, Salt Lake, Tooele, Weber in the import
 - Communities: Student
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Industries: broad industry coverage in the import
 - Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 
 ## Evidence
 
-- [Startup State Resource Filter](./startup-state-resource-list.md)
+- [Lassonde Entrepreneurship Institute Official Site](../sources/lassonde-entrepreneurship-institute-official-site.md)
 - [Startup State Resource List source note](../sources/startup-utah-resource-list.md)
-- [Official website](https://lassonde.utah.edu/)
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which Lassonde programs are open to non-University of Utah participants?
+- Which programs are best for deep-tech or university-research commercialization versus ordinary student ventures?
+- What are the current award sizes and deadlines for specific competitions and seed-funding programs?

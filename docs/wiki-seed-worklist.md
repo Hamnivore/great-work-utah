@@ -88,6 +88,7 @@ This is the biggest immediate content asset. It has current organizations, histo
 - 2026-05-09: Completed S-tier backfill so the new wiki matches the legacy README's eleven category-defining entries. Added venture pages for Zanskar Geothermal, Merit Medical Systems, Blackrock Neurotech, SCI Institute, Sundance Institute, and FamilySearch; added a Hero image (real Wikimedia Commons photo where available, otherwise a deterministic `picsum.photos` placeholder) and a Pull subtitle to every S-tier venture page so the magazine layout becomes available; added six matching source records; rewrote `guides/find-meaningful-work.md` to map all eleven anchors. Open follow-ups: source approved company photographs for the eight ventures still on placeholders; sweep A-tier legacy entries (Ripple Neuro, Intan Technologies, Strider Technologies, IMSAR, Vector, Energy Fuels White Mesa); reconcile the legacy `sci-institute.md` tier-line discrepancy.
 - 2026-05-16: Added the first public `work/` layer pass from the legacy `great_work` wiki. Created work pages for the University of Utah Computer Graphics Program, Capecchi gene targeting / knockout mouse, Thiokol solid rocket motors, Golden Spike / the first transcontinental railroad, and Spiral Jetty. Added `guides/utah-deep-tech-map.md` to connect those historical anchors to current venture pages. Open follow-ups: add source-record pages for the strongest historical evidence, add license-clean hero images, and continue work coverage with Utah FORGE, Browning firearms designs, Fly's Eye / HiRes, Utah Population Database, and Golden Spike adjacent labor-history sources.
 - 2026-05-16: Continued the public `work/` layer with Utah FORGE, Browning firearms designs, Fly's Eye / HiRes cosmic rays, Utah Population Database, HELP clinical decision support, ARPANET fourth node, Evans & Sutherland, Myriad Genetics / BRCA, Utah Test and Training Range, and Dugway Proving Ground. Expanded `guides/utah-deep-tech-map.md` with computing-network, graphics-commercialization, geothermal, desert instrumentation, defense/mechanical systems, defense test-infrastructure, and medical data-infrastructure sections. Refreshed `wiki/agent_ops/index.md` to reflect the retired synthetic people/match/demo pages already absent from the tree. Open follow-ups: migrate Utah labor-history context for Golden Spike, WordPerfect / Novell, Soundstream, Intermountain clinical quality improvement, Conotoxins / Prialt, and source-record pages for the strongest `work/` evidence.
+- 2026-06-18: Parallel expansion pass across eight agent batches. Added twelve new venture pages (BioFire, Halia, Huntsman, IMSAR, Strider, PassiveLogic, Torus, Wavetronix, Teal, Palladyne, Energy Fuels, plus worker overlap), six new work pages (WordPerfect/Novell, Omniture, Soundstream, Conotoxins/Prialt, Intermountain QI), six business-service helper pages (Wilson Sonsini, Maschoff Brennan, Tanner, NOW CFO, RQM+, BBCetc), four answer pages, and dozens of source records. Updated `guides/find-meaningful-work.md`, `guides/utah-deep-tech-map.md`, and `guides/find-business-services.md` with cross-links. Retired duplicate work pages (`wordperfect-novell.md`, `conotoxins-prialt.md`). Open follow-ups: convert malformed `ventures/*-md` stubs; complete remaining A-tier ventures (Weave, Varda, Hypercraft, etc.); finish physics/medicine work pages and persona answers; add `find-an-advisor` and `find-a-cofounder` guides.
 
 ## 2. Nucleus Bounty Brief
 
@@ -355,6 +356,7 @@ These are literal judging test cases. The wiki should be able to give meaningful
 **Progress / Notes**
 
 - 2026-05-09: Created backlog item from GOEO brief.
+- 2026-06-18: Partial first pass. Created four thematic answers (`resources-for-a-deep-tech-professor`, `resources-for-a-student-founder`, `where-to-find-sbir-help-in-utah`, `who-helps-with-government-contracting-in-utah`). Named GOEO persona answers (Jordan, Maria, Marcus, Priya, Dr. Amir) still in progress.
 
 ## 10. Internal Great Work Personas
 
@@ -414,6 +416,7 @@ Business-service providers may be especially interesting to judges. The wiki sho
 **Progress / Notes**
 
 - 2026-05-09: Created backlog item.
+- 2026-06-18: First pass on business-service helpers. Created helper pages for Wilson Sonsini (SLC), Maschoff Brennan, Tanner, NOW CFO, RQM+, and BBCetc with matching source records. Linked into `guides/find-business-services.md`. Open follow-ups: `guides/find-an-advisor.md`, `guides/find-a-cofounder.md`, generalist startup attorneys, recruiters, immigration counsel.
 
 ## 12. Constitution and Editorial Heuristics
 

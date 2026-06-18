@@ -1,70 +1,59 @@
 # Utah Manufacturers Association
 
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Any, Manufacturing
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** manufacturing, membership, workforce, safety, advocacy, networking
 **Location:** Utah
-**Updated:** 2026-05-09
+**Updated:** 2026-06-18
 **Layout:** field-guide
 
 ## Summary
 
-The Utah Manufacturers Association (UMA) is the leading alliance for Utah's manufacturing community, representing over 1,200 manufacturing and service providers statewide. UMA offers its members a range of benefits, including networking opportunities, legislative advocacy, safety training, and access to industry-specific resources. The association is committed to addressing the unique challenges faced by manufacturers, providing support from internal operations to representation at the Utah State Capitol.
+The Utah Manufacturers Association is a long-running statewide manufacturing association. Its official site says UMA has served Utah manufacturing since 1905 and represents more than 1,200 manufacturing and service-provider companies across the state.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+For founders and operators, UMA is best understood as a membership, advocacy, workforce, safety, and networking path for manufacturing companies, not as a startup accelerator.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
+UMA helps Utah manufacturers and manufacturing-service providers that want industry connections, training, advocacy, workforce support, safety resources, and member benefits.
 
-- Any
-
-It also maps the resource to these industries:
-
-- Manufacturing
+It is especially relevant for companies that already operate in manufacturing or are entering a Utah manufacturing supply chain and need peers, policy visibility, safety support, workforce programs, or member-only benefits.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site highlights workforce programs, safety offerings, advocacy, membership benefits, networking, events, consulting, healthcare plans, 401(k) options, workers' compensation discounts, awards, and partner/service-provider relationships.
 
-- Entrepreneurship Communities
-- Late Stage Growth
+UMA also runs current manufacturing events and publishes manufacturing-community news. Program details are broad on the public site, so specific services should be verified before making a referral.
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
-
-- [Official website](https://manufacturingutah.com/)
-- Email: [info@manufacturingutah.com](mailto:info@manufacturingutah.com)
+Start with the official site and membership/contact paths. A founder should approach UMA with a manufacturing-specific ask: workforce pipeline, safety training, member benefits, policy/advocacy issue, peer network, or service-provider referral.
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The public homepage does not provide a simple universal price. Access to many benefits likely depends on membership or program-specific registration. Verify membership levels, event fees, safety-program costs, and eligibility before recommending a paid step.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+UMA is a good fit for established or scaling manufacturers that need an industry association rather than hands-on operational consulting. It is also useful for hardware startups moving into production who need to understand Utah's manufacturing community.
 
-- Entrepreneurship Communities
-- Late Stage Growth
-- Any
+For plant-level performance improvement, [Utah MEP](./utah-mep.md) may be the more direct first call. For government-market access, pair UMA with [Utah APEX Accelerator](./apex-accelerator.md) or [47G](./47g-utah-aerospace-and-defense-association.md) depending on the customer path.
 
 ## Imported Coverage
 
 - Startup State CSV ID: 2615
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Counties or regions: statewide Utah coverage in the import
 - Communities: Any
 - Industries: Manufacturing
 - Topics: Entrepreneurship Communities, Late Stage Growth
 
 ## Evidence
 
-- [Startup State Resource Filter](./startup-state-resource-list.md)
+- [Utah Manufacturers Association Official Site](../sources/utah-manufacturers-association-official-site.md)
 - [Startup State Resource List source note](../sources/startup-utah-resource-list.md)
-- [Official website](https://manufacturingutah.com/)
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are the current membership tiers and dues?
+- Which benefits are available to nonmembers versus members?
+- Which UMA programs are most useful for startups entering manufacturing for the first time?

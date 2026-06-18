@@ -1,70 +1,59 @@
 # 47G - Utah Aerospace & Defense Association
 
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Any, Aerospace and Defense
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** aerospace, defense, hard tech, dual-use, government navigation, supply chain
 **Location:** Utah
-**Updated:** 2026-05-09
+**Updated:** 2026-06-18
 **Layout:** field-guide
 
 ## Summary
 
-47G is a collaborative organization based in Utah focused on advancing innovation in the aerospace and defense industries. Through initiatives like the 47G Impact Center, it offers tailored resources to help companies enhance manufacturing processes, improve efficiency, and boost profitability, ultimately supporting job creation and economic growth in Utah's vibrant aerospace ecosystem​.
+47G is Utah's aerospace, defense, and hard-tech ecosystem organization. Its official site positions 47G around building a premier hard-tech and dual-use ecosystem and helping companies move from innovation to deployment.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+For the wiki, 47G is a high-value resource for companies whose path runs through defense customers, aerospace primes, hard-tech partners, supply-chain integration, demonstrations, capital readiness, or talent pipelines.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
+47G helps aerospace, defense, dual-use, hard-tech, space, drone, advanced-air-mobility, and national-security technology companies that need ecosystem access rather than generic startup programming.
 
-- Any
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
+Strong fits include founders seeking government-customer navigation, strategic industry relationships, capital readiness, supply-chain integration, testbeds, demonstrations, validation opportunities, policy context, or talent connections.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site lists an integrated accelerator platform with access to government customers, capital partners, strategic industry relationships, and talent. Its service areas include market access and government navigation, capital access and investment readiness, strategic positioning, partnerships and supply-chain integration, testbeds/demonstrations/validation, talent and workforce, policy and advocacy, and convening/community.
 
-- Entrepreneurship Communities
-- Late Stage Growth
+It also points to initiatives such as Project Alta, hard-tech events, a sector jobs board, business resources, and the Zero Gravity Summit.
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
-
-- [Official website](https://www.47g.org/)
-- Email: [contact@47g.org](mailto:contact@47g.org)
+Start through the official 47G site, membership path, services page, events, or business resources. A founder should be precise about the defense or hard-tech bottleneck: buyer access, demonstration site, prime/supplier integration, capital readiness, workforce, or regulatory/policy navigation.
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The public homepage does not provide a universal cost model. Some access appears tied to membership, events, initiatives, or service-specific engagement. Verify current membership terms, service availability, event costs, and eligibility before making a live referral.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+47G is a strong fit for hard-tech and dual-use companies that can plausibly sell to, partner with, or support aerospace/defense markets.
 
-- Entrepreneurship Communities
-- Late Stage Growth
-- Any
+It is a weaker fit for founders with no aerospace, defense, national-security, space, drone, or advanced-manufacturing angle. For procurement mechanics alone, [Utah APEX Accelerator](./apex-accelerator.md) is likely the cleaner first step.
 
 ## Imported Coverage
 
 - Startup State CSV ID: 2586
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Counties or regions: statewide Utah coverage in the import
 - Communities: Any
 - Industries: Aerospace and Defense
 - Topics: Entrepreneurship Communities, Late Stage Growth
 
 ## Evidence
 
-- [Startup State Resource Filter](./startup-state-resource-list.md)
+- [47G Official Site](../sources/47g-official-site.md)
 - [Startup State Resource List source note](../sources/startup-utah-resource-list.md)
-- [Official website](https://www.47g.org/)
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which 47G services require membership?
+- How does 47G triage companies across government navigation, capital readiness, demonstrations, and supply-chain integration?
+- Which 47G resources should be paired with APEX for small businesses pursuing contracts?

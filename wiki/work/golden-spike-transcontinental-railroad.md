@@ -36,7 +36,7 @@ The standard ceremony photograph tells an incomplete story. Executives, official
 
 ## Evidence
 
-- [Golden Spike National Historical Park](https://www.nps.gov/gosp/)
+- [Official Source: NPS Golden Spike](../sources/nps-golden-spike.md)
 - [Library of Congress: Golden Spike primary sources](https://guides.loc.gov/chronicling-america-golden-spike)
 - [National Park Service: Chinese railroad workers and Golden Spike](https://www.nps.gov/gosp/learn/historyculture/chinese-railroad-workers.htm)
 - [Wikipedia: First transcontinental railroad](https://en.wikipedia.org/wiki/First_transcontinental_railroad)

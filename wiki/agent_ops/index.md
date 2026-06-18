@@ -2,7 +2,7 @@
 
 **Status:** Draft
 **Confidence:** High
-**Updated:** 2026-05-16 (continued historical `work/` migration and refreshed demo-page inventory)
+**Updated:** 2026-06-18 (parallel expansion pass: ventures, work, helpers, answers, sources)
 
 Inventory of every page currently in the wiki. The agent reads this before creating anything new — to avoid duplicates, find pages to improve, and see what coverage gaps exist.
 
@@ -12,22 +12,25 @@ When you add, rename, retire, or substantially repurpose a page, update this ind
 
 | Folder | Pages |
 |---|---|
-| `ventures/` | 14 |
+| `ventures/` | 36 |
 | `people/` | 0 |
-| `helpers/` | 1 |
+| `helpers/` | 13 |
 | `resources/` | 218 |
-| `work/` | 15 |
-| `sources/` | 29 |
-| `guides/` | 5 |
+| `work/` | 26 |
+| `sources/` | 97 |
+| `guides/` | 7 |
 | `matches/` | 0 |
-| `answers/` | 0 |
+| `answers/` | 10 |
 
 Visible gaps as of the latest snapshot:
 
-- `people/` and `matches/` are currently empty after retiring the synthetic demo pages. Real founder/operator pages and real match artifacts are still needed before production use. `work/` now has fifteen historical and infrastructure anchors, but coverage is still thin relative to the legacy corpus.
-- `answers/` is empty — no saved Ask articles yet.
-- `helpers/` has only Nucleus Institute. Business-service providers (legal, IP, accounting, fractional CFO) are not yet represented as helpers; some live as resources and should be reconsidered.
-- `ventures/` now covers all eleven legacy S-tier anchors plus the cover-stack additions Intactis Bio, Telescope Array, and Jarvik-7. Hero imagery status: Sundance (Egyptian Theatre, CC BY-SA 4.0), Space Dynamics Laboratory (auditorium, CC BY-SA 4.0), FamilySearch (existing), Telescope Array (BRM-FD site, CC BY-SA 3.0), and Jarvik-7 (Smithsonian) carry real, license-clean photographs. Recursion and Blackrock Neurotech use hotlinked stand-ins flagged for rights clearance. Intactis Bio uses a generated illustration. License-clean photographs are still needed for Fervo, Fortem, Hexcel, Merit Medical, SCI Institute, and Zanskar Geothermal.
+- `people/` and `matches/` are still empty. Real founder/operator pages and match artifacts are needed before production use.
+- `answers/` has ten saved Ask articles including GOEO personas (Dr. Amir, Jordan, Marcus, Maria, Priya), thematic navigation answers, and a positioning answer for why the wiki is better than LinkedIn-style search.
+- `helpers/` now has twelve business-service pages plus Nucleus Institute. Recruiters and immigration counsel are still missing.
+- `ventures/` has thirty-six proper `.md` venture pages covering S-tier anchors plus A-tier and emerging bets. Fourteen malformed `*-md` files without `.md` extension remain and need conversion or retirement.
+- `work/` has twenty-six historical anchors including software history, BCI foundations, physics (Fletcher, Hall, cold fusion), and clinical delivery.
+- `guides/find-a-cofounder.md` and `guides/find-an-advisor.md` are now present as first-pass judgment-layer pages.
+- Hero imagery: license-clean photographs still needed for many new venture pages; picsum placeholders used where no cleared image exists.
 
 ## Ventures
 
@@ -47,6 +50,28 @@ Startups, labs, spinouts, companies, nonprofits, and serious initiatives.
 - `ventures/sundance-institute.md` — **Sundance Institute** — independent film, immersive storytelling, artist development, film festivals, nonprofit arts.
 - `ventures/telescope-array-ultra-high-energy-cosmic-rays.md` — **Telescope Array** — astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infrastructure.
 - `ventures/zanskar-geothermal.md` — **Zanskar Geothermal** — geothermal exploration, AI for earth sciences, climate, firm clean power.
+- `ventures/biofire-diagnostics.md` — **BioFire Diagnostics** — infectious disease diagnostics, multiplex PCR, syndromic testing, in vitro diagnostics.
+- `ventures/energy-fuels-white-mesa.md` — **Energy Fuels / White Mesa** — uranium, rare earths, critical minerals, nuclear energy, vanadium.
+- `ventures/halia-therapeutics.md` — **Halia Therapeutics** — inflammation drug discovery, NLRP3 inflammasome, clinical-stage biopharma.
+- `ventures/huntsman-cancer-institute.md` — **Huntsman Cancer Institute** — NCI comprehensive cancer center, hereditary cancer genetics, clinical trials.
+- `ventures/imsar.md` — **IMSAR** — synthetic aperture radar, UAS, defense, aerospace, intelligence.
+- `ventures/palladyne-ai.md` — **Palladyne AI** — embodied AI, collaborative autonomy, edge inference, defense robotics.
+- `ventures/passivelogic.md` — **PassiveLogic** — autonomous buildings, edge AI, digital twins, building controls.
+- `ventures/strider-technologies.md` — **Strider Technologies** — strategic intelligence, geopolitical risk, economic security, AI.
+- `ventures/teal-drones.md` — **Teal Drones** — small unmanned aircraft, ISR, defense, domestic drone manufacturing.
+- `ventures/torus.md` — **Torus** — flywheel energy storage, grid resilience, manufacturing, data centers.
+- `ventures/wavetronix.md` — **Wavetronix** — intelligent transportation systems, radar, traffic safety, infrastructure.
+- `ventures/weave.md` — **Weave** — applied AI, healthcare communications, voice AI, vertical SaaS.
+- `ventures/utahquantum.md` — **Utah Quantum** — quantum systems integration, post-quantum security, government adoption.
+- `ventures/utah-neurorobotics-lab.md` — **Utah Neurorobotics Lab** — neural interfaces, bidirectional prosthetics, embodied AI.
+- `ventures/liveview-technologies.md` — **LiveView Technologies** — mobile surveillance, AI video analytics, public safety.
+- `ventures/baxter-aerospace.md` — **Baxter Aerospace** — unmanned aircraft, deployable communications, ISR, defense.
+- `ventures/techcyte.md` — **Techcyte** — digital pathology, AI diagnostics, clinical and veterinary pathology.
+- `ventures/nusano.md` — **Nusano** — medical radioisotopes, radiopharmaceuticals, accelerator physics, oncology.
+- `ventures/varda-space.md` — **Varda Space Industries** — in-space manufacturing, microgravity pharmaceuticals, reentry.
+- `ventures/us-magnesium.md` — **US Magnesium** — primary magnesium production, critical minerals, Great Salt Lake brine.
+- `ventures/autonomous-solutions-inc.md` — **Autonomous Solutions Inc** — off-road vehicle autonomy, mining, agriculture, construction.
+- `ventures/hypercraft.md` — **Hypercraft** — hybrid-electric powertrains, defense mobility, power electronics.
 
 ## People
 
@@ -57,6 +82,18 @@ _(empty — synthetic demo profiles have been retired; real founder, operator, r
 Mentors, advisors, fractional executives, investors, attorneys, accountants, recruiters, grant writers, regulatory consultants, and other service providers.
 
 - `helpers/nucleus-institute.md` — **Nucleus Institute** — commercialization, talent matching, early-stage capital, research translation.
+- `helpers/bbcetc.md` — **BBCetc** — SBIR, STTR, nondilutive funding, proposal support, grant training.
+- `helpers/eide-bailly-utah.md` — **Eide Bailly (Utah)** — accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory.
+- `helpers/kirton-mcconkie.md` — **Kirton McConkie** — startup law, corporate formation, venture financing, M&A, securities, IP, general counsel.
+- `helpers/maschoff-brennan.md` — **Maschoff Brennan** — IP, patents, technology transactions, software, biotech, medical devices.
+- `helpers/now-cfo.md` — **NOW CFO** — fractional CFO, outsourced accounting, controller services, FP&A.
+- `helpers/parsons-behle-latimer.md` — **Parsons Behle & Latimer** — technology law, IP transactions, licensing, securities, emerging companies, venture financing.
+- `helpers/preferred-cfo.md` — **Preferred CFO** — fractional CFO, outsourced controllers, financial systems, outsourced HR, cash-flow forecasting.
+- `helpers/rqm-plus.md` — **RQM+** — medical devices, regulatory affairs, quality systems, clinical trials, medtech startups.
+- `helpers/tanner-llc.md` — **Tanner LLC** — accounting, audit/assurance, tax, M&A due diligence, SEC reporting, advisory.
+- `helpers/tanner.md` — **Tanner** — accounting, tax, audit, R&D tax credits, SOC, ISO, transaction advisory.
+- `helpers/wilson-sonsini-salt-lake-city.md` — **Wilson Sonsini (Salt Lake City)** — startup counsel, venture financings, life sciences, corporate governance.
+- `helpers/workman-nydegger.md` — **Workman Nydegger** — patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation.
 
 ## Resources
 
@@ -300,6 +337,17 @@ Historical or current examples of Utah work that changed a field, built infrastr
 - `work/utah-forge.md` — **Utah FORGE** — enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering.
 - `work/utah-population-database.md` — **Utah Population Database** — genetic epidemiology, genealogy, medical records, population health infrastructure.
 - `work/utah-test-and-training-range.md` — **Utah Test and Training Range** — military test ranges, aerospace and defense, restricted airspace, weapons evaluation.
+- `work/conotoxins-and-prialt.md` — **Conotoxins and Prialt** — venom-peptide drug discovery, non-opioid pain, ion channels, Olivera lab.
+- `work/intermountain-clinical-quality-improvement.md` — **Intermountain Clinical Quality Improvement** — healthcare delivery, quality improvement, clinical protocols.
+- `work/omniture-web-analytics.md` — **Omniture Web Analytics** — enterprise SaaS, web analytics, digital marketing, Utah software history.
+- `work/soundstream-digital-audio-recording.md` — **Soundstream and Commercial Digital Audio Recording** — audio engineering, signal processing, digital recording, music technology, university spinout.
+- `work/wordperfect-and-novell.md` — **WordPerfect and Novell** — word processing, office networking, Utah Valley software dominance.
+- `work/iomega-zip-drive.md` — **Iomega Zip Drive** — consumer storage hardware, 1990s PC peripherals, Roy, Utah.
+- `work/philo-farnsworth-television.md` — **Philo Farnsworth Television** — electronic television invention, Utah-born inventor.
+- `work/utah-array-bci-platform.md` — **Utah Array BCI Platform** — intracortical electrodes, foundational BCI research, Blackrock lineage.
+- `work/pons-fleischmann-cold-fusion.md` — **Pons-Fleischmann Cold Fusion** — scientific controversy, replication ethics, University of Utah 1989.
+- `work/harvey-fletcher-stereophonic-sound.md` — **Harvey Fletcher Stereophonic Sound** — acoustics, psychoacoustics, Bell Labs and BYU legacy.
+- `work/h-tracy-hall-diamond-presses.md` — **H. Tracy Hall Diamond Presses** — synthetic diamond, high-pressure apparatus, GE and US Synthetic.
 
 ## Sources
 
@@ -334,12 +382,82 @@ Source records and raw intake notes.
 - `sources/utah-sbdc-official-site.md` — **Utah SBDC Official Site** — Official Program Website for the Utah Small Business Development Center network.
 - `sources/womens-business-center-of-utah-page.md` — **Women's Business Center of Utah Page** — Official Nonprofit Program Website for advising, training, and growth support.
 - `sources/zanskar-mit-technology-review.md` — **Source: MIT Technology Review on AI Geothermal Discovery** — Technology Press coverage of Zanskar's blind-system discovery as the first such confirmation in over thirty years.
+- `sources/47g-official-site.md` — **47G Official Site** — The 47G official site presents the organization as Utah's aerospace, defense, and hard-tech ecosystem association, with a focus on helping companies move from innovation to deployment.
+- `sources/arpanet-fourth-node-source.md` — **Source: University of Utah Node 4 History** — The University of Utah UIT "Node 4" article explains the name of the university's IT news channel by recounting the University's role as the fourth ARPANET node.
+- `sources/asi-construction-softbank.md` — **Source: ASI Construction Launch with SoftBank and Lehi Office** — ASI's May 5, 2025 announcement launching ASI Construction with SoftBank Group Corp., and the related June 12, 2025 opening of a Lehi, Utah office.
+- `sources/autonomous-solutions-inc-official-website.md` — **Official Website: Autonomous Solutions, Inc.** — ASI's official website describes a Utah company providing OEM-agnostic autonomous vehicle technology for off-road industrial fleets.
+- `sources/baxter-aerospace-dod-accelerator-series-a.md` — **Press Release: DoD Accelerator $6M Series A in Baxter Aerospace** — A July 24, 2025 Business Wire release announces a $6M Series A investment in Baxter Aerospace.
+- `sources/bbcetc-official-site.md` — **BBCetc Official Site** — BBCetc's official site describes a consulting and training firm that helps companies navigate federal nondilutive R&D funding, especially SBIR/STTR.
+- `sources/biofire-diagnostics-official-website.md` — **Source: BioFire Diagnostics Official Website and Product Labeling** — Official BioFire and bioMerieux pages describe FilmArray syndromic-testing platform and panel menu.
+- `sources/browning-firearms-asme-or-official.md` — **Source: ASME Browning Firearms Collection** — ASME recognizes John Moses Browning's firearms designs as a mechanical-engineering landmark housed at Ogden Union Station Museum.
+- `sources/conotoxins-prialt-sources.md` — **Source: Conotoxins and Prialt Sources** — First-pass evidence for University of Utah conotoxin research and the approved ziconotide pain drug.
+- `sources/dia-spiral-jetty.md` — **Official Source: Dia Spiral Jetty** — Dia Art Foundation's collection record describes Robert Smithson's 1970 site-specific sculpture at Rozel Point.
+- `sources/dugway-proving-ground-source.md` — **Source: U.S. Army Dugway Proving Ground Official Page** — The U.S. Army page describes Dugway's mission, leadership, location, visitor context, and testing role.
+- `sources/eide-bailly-official-website.md` — **Eide Bailly Official Website (Salt Lake City)** — Official site for the national CPA and business-advisory firm with a Salt Lake City office.
+- `sources/energy-fuels-official-website.md` — **Official Website: Energy Fuels** — Energy Fuels' official website describes uranium, rare earths, vanadium, titanium, zirconium minerals, and medical isotope work centered partly on White Mesa.
+- `sources/evans-and-sutherland-source.md` — **Source: Evans & Sutherland Corporate Records and History** — University of Utah ArchivesSpace and computer-graphics history sources for Evans & Sutherland.
+- `sources/flys-eye-hires-cosmic-rays.md` — **Source: Fly's Eye and HiRes Cosmic-Ray Records** — University of Utah and HiRes collaboration sources for ultra-high-energy cosmic-ray work.
+- `sources/halia-therapeutics-official-website.md` — **Source: Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure** — Official and clinical sources on Halia's inflammasome drug-development work.
+- `sources/help-clinical-decision-support-source.md` — **Source: HELP Hospital Information System Papers** — Early HELP system papers as primary records for LDS Hospital clinical decision support.
+- `sources/huntsman-cancer-institute-official-website.md` — **Source: Huntsman Cancer Institute Official Pages** — Official University of Utah Health and NCI pages on Huntsman Cancer Institute.
+- `sources/hypercraft-series-a-2025.md` — **Source: Hypercraft $26M Series A** — Hypercraft's June 3, 2025 announcement of a $26 million Series A round.
+- `sources/impact-utah-official-site-access-attempt.md` — **iMpact Utah Official Site Access Attempt** — Verification note documenting the official site access failure and stale-risk.
+- `sources/imsar-official-website.md` — **Official Website: IMSAR** — IMSAR's official website describes low-SWaP, multimode airborne radar systems for manned and unmanned platforms.
+- `sources/intermountain-clinical-quality-improvement-sources.md` — **Source: Intermountain Clinical Quality Improvement Sources** — First-pass evidence for Intermountain's clinical quality-improvement work.
+- `sources/kinect-capital-official-site.md` — **Kinect Capital Official Site** — Official site for a Salt Lake City nonprofit and mentor-driven accelerator connecting founders and investors.
+- `sources/kirton-mcconkie-official-website.md` — **Kirton McConkie Official Website** — Official site for the Utah- and Idaho-based law firm and its practice pages.
+- `sources/lassonde-entrepreneurship-institute-official-site.md` — **Lassonde Entrepreneurship Institute Official Site** — Official University of Utah student-entrepreneurship hub source.
+- `sources/liveview-technologies-official-website.md` — **Official Website: LiveView Technologies** — LVT's official site describes mobile surveillance units and AI video analytics.
+- `sources/maschoff-brennan-official-site.md` — **Maschoff Brennan Official Site** — Official site for IP, technology-transaction, privacy, data-security, litigation, and regulatory counseling work.
+- `sources/myriad-brca-supreme-court-or-official.md` — **Source: Association for Molecular Pathology v. Myriad Genetics** — Supreme Court source for the 2013 gene-patent ruling.
+- `sources/nasa-thiokol-solid-rocket-boosters.md` — **Official Source: NASA Thiokol Solid Rocket Boosters** — Rogers Commission record for the Space Shuttle Challenger accident and Morton Thiokol's role.
+- `sources/nobel-prize-capecchi-gene-targeting.md` — **Official Source: Nobel Prize Capecchi Gene Targeting** — Nobel Prize press release for the 2007 Physiology or Medicine prize.
+- `sources/now-cfo-official-site.md` — **NOW CFO Official Site** — Official site for fractional CFO, controller, accounting, bookkeeping, and finance operations services.
+- `sources/nps-golden-spike.md` — **Official Source: NPS Golden Spike** — National Park Service page for Golden Spike National Historical Park.
+- `sources/nusano-official-website.md` — **Official Website: Nusano** — Official website for accelerator-based radioisotope production in West Valley City.
+- `sources/palladyne-ai-official-website.md` — **Official Website: Palladyne AI** — Official web presence for embodied AI, collaborative autonomy, avionics, UAVs, and aerospace engineering.
+- `sources/parsons-behle-latimer-official-website.md` — **Parsons Behle & Latimer Official Website** — Official site for the regional law firm and its technology, IP, securities, and emerging-company capabilities.
+- `sources/passivelogic-official-website.md` — **Official Website: PassiveLogic** — Official site for generalized autonomy, autonomous buildings, edge hardware, digital twins, and building-control software.
+- `sources/preferred-cfo-official-website.md` — **Preferred CFO Official Website** — Official site for a Utah-based fractional CFO and outsourced finance firm.
+- `sources/rqm-plus-official-site.md` — **RQM+ Official Site** — Official medtech CRO site for regulatory, quality, clinical, lab, material-science, and reimbursement support.
+- `sources/soundstream-digital-recording-sources.md` — **Source: Soundstream Digital Recording Sources** — First-pass evidence for Soundstream, Thomas Stockham, and early commercial digital recording.
+- `sources/strider-official-website.md` — **Official Website: Strider Technologies** — Official site for geopolitical and nation-state risk intelligence.
+- `sources/strider-technologies-official-website.md` — **Official Website: Strider Technologies** — Official site and newsroom describing Strider's AI-driven strategic-intelligence work.
+- `sources/tanner-llc-official-website.md` — **Tanner LLC Official Website** — Official site for Salt Lake City-headquartered accounting, tax, assurance, and advisory firm.
+- `sources/tanner-official-site.md` — **Tanner Official Site** — Official site for audit, tax, advisory, outsourced accounting, transaction, cybersecurity, SOC, ISO, and startup consulting services.
+- `sources/teal-drones-official-website.md` — **Official Website: Teal Drones** — Teal and Red Cat-hosted source for Salt Lake City sUAS and Black Widow reconnaissance drone claims.
+- `sources/techcyte-official-website.md` — **Official Website: Techcyte** — Official site for Fusion digital-pathology platform and AI-assisted diagnostic workflows.
+- `sources/torus-magnetar-raise.md` — **Source: Torus $200M Magnetar Investment** — Torus's September 9, 2025 investment announcement.
+- `sources/torus-official-website.md` — **Official Website: Torus** — Official site for energy storage, software, cybersecurity, monitoring, flywheel storage, and deployment services.
+- `sources/torus-trinity-equipment-financing.md` — **Source: Trinity Capital Equipment Financing for Torus** — Trinity Capital's April 30, 2026 equipment-financing announcement.
+- `sources/university-of-utah-computer-graphics-history.md` — **Official Source: University of Utah Computer Graphics History** — University source for early computing, graphics, ARPA support, and ARPANET node history.
+- `sources/us-magnesium-bankruptcy.md` — **Source: US Magnesium Chapter 11 Bankruptcy and Asset Sale** — Source note on 2025 Chapter 11 filing, EPA context, and 2026 asset auction.
+- `sources/us-magnesium-official-website.md` — **Official Website: US Magnesium** — Official site for primary magnesium production from Great Salt Lake brine.
+- `sources/usu-center-for-entrepreneurship-page.md` — **USU Center for Entrepreneurship Page** — Utah State University source for classes, internships, competitions, mentoring, and student resources.
+- `sources/utah-forge-official.md` — **Source: DOE and Utah FORGE Official Pages** — DOE and Utah FORGE sources for the enhanced-geothermal field laboratory near Milford.
+- `sources/utah-manufacturers-association-official-site.md` — **Utah Manufacturers Association Official Site** — Official source for Utah manufacturing membership, training, benefits, networking, advocacy, workforce, and safety programs.
+- `sources/utah-mep-official-site.md` — **Utah MEP Official Site** — Official source for statewide manufacturing-extension support.
+- `sources/utah-neurorobotics-lab-official-site.md` — **Official Website: Utah NeuroRobotics Lab** — University of Utah ECE source on bidirectional neural interfaces, LUKE Arm work, and BIOS partnership.
+- `sources/utah-neurorobotics-lab-official-website.md` — **Official Website: Utah Neurorobotics Lab** — University of Utah source on bidirectional prosthetic neural interfaces.
+- `sources/utah-population-database-official.md` — **Source: Utah Population Database Official Page** — Official UPDB source for linked family, demographic, medical, and registry data.
+- `sources/utah-test-training-range-source.md` — **Source: Hill AFB Utah Test and Training Range Fact Sheet** — Hill Air Force Base source for UTTR mission, airspace, land footprint, history, and capabilities.
+- `sources/utahquantum-official-website.md` — **Official Website: Utah Quantum** — Official site for quantum systems integration, readiness, and adoption frameworks.
+- `sources/uvu-baugh-entrepreneurship-institute-page.md` — **UVU Baugh Entrepreneurship Institute Page** — UVU source for student entrepreneurship, mentoring, workshops, competitions, and seed funding.
+- `sources/varda-space-official-website.md` — **Official Website: Varda Space Industries** — Official source for in-space manufacturing and reentry-capsule platform.
+- `sources/varda-uttr-landing.md` — **Source: Varda W-1 Capsule Landing at UTTR** — SpaceNews and TechCrunch coverage of Varda's February 21, 2024 UTTR landing.
+- `sources/wavetronix-official-website.md` — **Official Website: Wavetronix** — Official source for intelligent transportation systems, vehicle detection, signal timing, and roadway data.
+- `sources/weave-official-website.md` — **Official Website: Weave** — Official and investor sources for healthcare communications, engagement, payments, and AI features.
+- `sources/wilson-sonsini-salt-lake-city-office.md` — **Wilson Sonsini Salt Lake City Office** — Official office page and related firm practice evidence.
+- `sources/wordperfect-novell-historical-sources.md` — **Source: WordPerfect and Novell Historical Sources** — First-pass evidence for WordPerfect's Utah origins and Novell's 1994 acquisition.
+- `sources/workman-nydegger-official-website.md` — **Workman Nydegger Official Website** — Official source for Salt Lake City IP prosecution and litigation firm.
 
 ## Guides
 
 Maps, playbooks, contextual rankings, and journey pages.
 
 - `guides/commercialize-research.md` — **Commercialize Research in Utah** — research translation, SBIR/STTR, university spinouts, Nucleus programs.
+- `guides/find-a-cofounder.md` — **Find A Cofounder In Utah** — cofounder search, startup teams, university spinouts, trust-building, Utah ecosystem.
+- `guides/find-an-advisor.md` — **Find An Advisor In Utah** — mentorship, advising, commercialization, ecosystem navigation for founders.
 - `guides/find-business-services.md` — **Find Business Services In Utah** — business services, procurement, regulation, capital, workforce, international expansion.
 - `guides/find-meaningful-work.md` — **Find Meaningful Work in Utah** — career matching, Utah deep tech, mission-driven work.
 - `guides/startup-capital-in-utah.md` — **Startup Capital in Utah** — startup capital, non-dilutive funding, SBIR/STTR, deep tech.
@@ -351,7 +469,18 @@ _(empty — synthetic demo matches have been retired; future match pages should 
 
 ## Answers
 
-_(empty — no saved Ask articles or one-off syntheses yet.)_
+Saved Ask articles and one-off syntheses.
+
+- `answers/resources-for-a-deep-tech-professor.md` — **Resources For A Deep-Tech Professor** — research commercialization, SBIR/STTR, MarketEdge, Utah professors and postdocs.
+- `answers/resources-for-a-student-founder.md` — **Resources For A Student Founder** — student entrepreneurship, Lassonde, university programs, early-stage capital.
+- `answers/where-to-find-sbir-help-in-utah.md` — **Where To Find SBIR Help In Utah** — nondilutive federal funding, Nucleus Grow, UTIF, grant consultants.
+- `answers/who-helps-with-government-contracting-in-utah.md` — **Who Helps With Government Contracting In Utah** — APEX Accelerator, defense procurement, veteran-owned businesses.
+- `answers/resources-for-dr-amir.md` — **Resources For Dr. Amir** — university researcher commercializing deep-tech, SBIR/STTR, Nucleus programs.
+- `answers/resources-for-jordan.md` — **Resources For Jordan** — aspiring founders, students, pre-revenue builders, Startup State navigation.
+- `answers/resources-for-marcus.md` — **Resources For Marcus** — veteran founders, manufacturing operators, rural Weber County builders.
+- `answers/resources-for-maria.md` — **Resources For Maria** — women founders, rural entrepreneurs, Washington County builders.
+- `answers/resources-for-priya.md` — **Resources For Priya** — senior operators seeking meaningful Utah deep-tech work.
+- `answers/why-this-is-better-than-linkedin.md` — **Why This Is Better Than LinkedIn** — explainable matching, evidence-backed recommendations, private-context-aware founder support.
 
 ## How to keep this file honest
 

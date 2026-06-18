@@ -36,7 +36,7 @@ The story is easy to overstate. Many techniques had parallel contributors, and c
 
 ## Evidence
 
-- [University of Utah School of Computing history](https://www.cs.utah.edu/about/history/)
+- [Official Source: University of Utah Computer Graphics History](../sources/university-of-utah-computer-graphics-history.md)
 - [ACM SIGGRAPH oral history program](https://www.siggraph.org/oral-history-program/)
 - [Wikipedia: University of Utah School of Computing](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing)
 - [Wikipedia: Utah teapot](https://en.wikipedia.org/wiki/Utah_teapot)

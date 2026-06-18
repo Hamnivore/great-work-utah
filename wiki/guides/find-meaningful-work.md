@@ -4,7 +4,7 @@
 **Confidence:** Medium
 **Audience:** operators, students, researchers, executives, helpers
 **Focus:** career matching, Utah deep tech, mission-driven work
-**Updated:** 2026-05-09
+**Updated:** 2026-06-18
 
 ## Overview
 
@@ -40,9 +40,33 @@ This guide is for people who want their working hours to matter and are trying t
 
 [FamilySearch](../ventures/familysearch.md) operates a real, large engineering organization in Utah that rarely surfaces in tech-press circles, working on civilization-scale OCR, record linkage, and privacy-preserving data infrastructure. Its records underwrite work as varied as the BRCA1 and BRCA2 cancer-genetics discoveries via the Utah Population Database.
 
+### Emerging Bets
+
+[PassiveLogic](../ventures/passivelogic.md) is building autonomous building controls and digital-twin infrastructure at the edge — a rare fit for controls engineers, building-science researchers, and climate-hardware operators who want software that ships into physical buildings, not just dashboards.
+
+[Palladyne AI](../ventures/palladyne-ai.md) applies collaborative autonomy and edge inference to defense and robotics problems. It rewards people who have shipped embedded systems in regulated or field environments.
+
+[Torus](../ventures/torus.md) makes grid-scale flywheel energy storage — meaningful work for power-electronics engineers, grid operators, and manufacturing talent who want climate infrastructure with a Utah manufacturing footprint.
+
+[Teal Drones](../ventures/teal-drones.md) is a domestic small-UAS manufacturer with defense and ISR exposure. Useful for autonomy, RF, manufacturing, and program-management talent who understand export control and field deployment.
+
+[Hypercraft](../ventures/hypercraft.md) is an emerging bet in hybrid-electric defense mobility — useful for power-electronics and vehicle-integration engineers, with caveats around strategic investors and export control.
+
+### Hidden Gems (Second Pass)
+
+[Strider Technologies](../ventures/strider-technologies.md) turns open-source and commercial data into strategic-intelligence products. A strong fit for analysts, data engineers, and national-security researchers who want their work to inform real decisions — not just dashboards.
+
+[IMSAR](../ventures/imsar.md) builds compact synthetic-aperture radar for small UAS. Easy to miss next to louder defense primes, but unusually compelling for radar, signal-processing, and field-hardware engineers.
+
+[Wavetronix](../ventures/wavetronix.md) builds intelligent-transportation radar from Springville. A durable Utah hardware company for people who want traffic safety and infrastructure instrumentation rather than consumer apps.
+
+[BioFire Diagnostics](../ventures/biofire-diagnostics.md) and [Halia Therapeutics](../ventures/halia-therapeutics.md) extend Utah's life-sciences map beyond Recursion and Merit — one in multiplex infectious-disease diagnostics, the other in inflammation drug discovery.
+
+[Energy Fuels / White Mesa](../ventures/energy-fuels-white-mesa.md) sits at the intersection of uranium, rare earths, and critical minerals. Caveated but real for people who understand mining, nuclear fuel cycles, and permitting-heavy industrial work.
+
 ### Watchlist
 
-This pass focuses on category-defining anchors, rare fits, and hidden gems with strong public evidence. The next sweep should add less-visible Utah organizations where one unusually well-matched person could have outsized leverage — including Ripple Neuro, Intan Technologies, the Utah Arch Research Group, Strider Technologies, IMSAR, Vector, and emerging spinouts from the U of U TLO and BYU TTO.
+Ripple Neuro, Intan Technologies, the Utah Arch Research Group, Vector, and emerging spinouts from the U of U TLO and BYU TTO still need stronger public evidence or dedicated venture pages. [LiveView Technologies](../ventures/liveview-technologies.md) has a venture page but belongs on the map only with explicit surveillance caveats; [Varda Space](../ventures/varda-space.md) is a UTTR infrastructure case study, not a Utah employer.
 
 ## By Situation
 

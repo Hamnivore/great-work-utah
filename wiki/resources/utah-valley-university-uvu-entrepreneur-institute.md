@@ -1,83 +1,61 @@
-# Utah Valley University (UVU) Entrepreneur Institute
+# Utah Valley University Baugh Entrepreneurship Institute
 
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
-**Location:** Summit, Utah, Wasatch
-**Updated:** 2026-05-09
+**Status:** Useful
+**Confidence:** High
+**Focus:** student entrepreneurship, university entrepreneurship, mentoring, seed funding, competitions
+**Location:** Orem, UT
+**Updated:** 2026-06-18
 **Layout:** field-guide
 
 ## Summary
 
-The Entrepreneurship Institute at Utah Valley University's Woodbury School of Business empowers students to become revenue-generating entrepreneurs by graduation. It connects students with expert mentors and offers hands-on, industry-specific programming, including competitions, workshops, seed funding, and mentoring. The institute also provides resources like the Entrepreneurship Lecture Series and the We Lift program, which supports women entrepreneurs.
+UVU's entrepreneurship resource is now presented publicly as the Chelsea & Casey Baugh Entrepreneurship Institute. Its official page describes opportunities for students, mentors, and community members, with programs that include coursework, workshops, mentoring appointments, events, pitch practice, competitions, VentureCon, ZinnStarter, seed funding, and We Lift.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page updates the older imported title while keeping the existing filename to avoid creating a duplicate resource.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
+The institute primarily helps UVU students who want to launch or grow a business while in school. It also has pathways for mentors, sponsors, and community members who want to support student entrepreneurs.
 
-- Student
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+It is particularly relevant for student founders in Utah County who want hands-on classes, mentoring, workshops, pitch opportunities, competitions, or early non-dilutive funding.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official page describes entrepreneurship coursework, lecture series, workshops, conferences, mentoring appointments, pitch events, student business tradeshows, ZinnStarter, VentureCon, We Lift, seed funding, and community involvement through programs such as WolverINC and WINGS Society.
 
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
+It also reports program-level metrics such as funding awarded, students served, active mentors, and current student businesses; treat those as provider-reported.
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official Baugh Entrepreneurship Institute page and choose the program path that matches the student need: programs, events, mentoring, funding, or We Lift.
 
-- [Official website](https://www.uvu.edu/woodbury/entrepreneurship/)
-- Email: [einstitute@uvu.edu](mailto:einstitute@uvu.edu)
+Students with an active business idea should likely book mentoring or join an event/competition cycle. Community mentors or sponsors should use the institute's engagement paths rather than cold-starting with individual students.
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The page does not give one universal price because offerings vary across courses, workshops, mentoring, competitions, and funding. Most resource pathways appear tied to UVU students or the UVU entrepreneurship community, but event and mentor participation may include broader community roles. Verify program-specific rules before referral.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best fits are UVU students who want to become revenue-generating entrepreneurs, validate a business idea, practice selling, earn class credit while building, compete for equity-free seed funding, or connect with mentors.
 
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
-- Student
+It is less direct for nonstudent companies unless they are mentoring, sponsoring, hiring, or otherwise engaging with the UVU entrepreneurship community.
 
 ## Imported Coverage
 
 - Startup State CSV ID: 2554
-- Counties or regions: Summit, Utah, Wasatch
+- Counties or regions: Summit, Utah, Wasatch in the import
 - Communities: Student
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Industries: broad industry coverage in the import
 - Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 
 ## Evidence
 
-- [Startup State Resource Filter](./startup-state-resource-list.md)
+- [UVU Baugh Entrepreneurship Institute Page](../sources/uvu-baugh-entrepreneurship-institute-page.md)
 - [Startup State Resource List source note](../sources/startup-utah-resource-list.md)
-- [Official website](https://www.uvu.edu/woodbury/entrepreneurship/)
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which programs are open to non-UVU students?
+- What are current ZinnStarter and VentureCon deadlines, award amounts, and eligibility rules?
+- Which UVU pathways best serve women entrepreneurs through We Lift?

@@ -4,7 +4,7 @@
 **Confidence:** Medium
 **Audience:** founders, operators, researchers, service providers, helpers
 **Focus:** business services, procurement, regulation, capital, workforce, international expansion
-**Updated:** 2026-05-09
+**Updated:** 2026-06-18
 **Layout:** field-guide
 
 ## Overview
@@ -30,6 +30,24 @@ Use it for: founders with broad questions, owners who want ongoing guidance, and
 [SBA Utah District Office](../resources/sba-utah-district-office.md) belongs in the path when the question touches SBA funding programs, federal contracting certifications, disaster recovery, lenders, or SBA partner organizations.
 
 Use it for: founders comparing loans with equity, veteran-owned or manufacturing businesses considering government contracting, and companies that need the federal small-business doorway rather than a generic advisor.
+
+## If The Bottleneck Is Professional Services (Legal, IP, Finance, Regulatory)
+
+The wiki now has first-class helper pages for firms founders hire directly. Match the bottleneck before the brand.
+
+**Startup counsel and venture financings:** [Wilson Sonsini (Salt Lake City)](../helpers/wilson-sonsini-salt-lake-city.md) for life-sciences and venture-backed companies that need corporate, financing, and governance help.
+
+**Patents and technology transactions:** [Maschoff Brennan](../helpers/maschoff-brennan.md) for Utah deep-tech teams that need patent prosecution, licensing, or software/biotech IP strategy.
+
+**Accounting, tax, and audit:** [Tanner](../helpers/tanner.md) for growth-stage companies that need audit readiness, R&D tax credits, SOC/ISO support, or transaction advisory — not just annual tax prep.
+
+**Fractional CFO and finance operations:** [NOW CFO](../helpers/now-cfo.md) when the company needs controller-level or CFO-level help before a full-time hire.
+
+**FDA / medtech regulatory:** [RQM+](../helpers/rqm-plus.md) for medical-device and diagnostic founders navigating quality systems, clinical strategy, and reimbursement.
+
+**SBIR/STTR and grant consulting:** [BBCetc](../helpers/bbcetc.md) when the bottleneck is federal nondilutive funding proposals, not equity capital.
+
+Use [Nucleus Institute](../helpers/nucleus-institute.md) when the founder is still deciding whether the work should become a company at all, or needs Utah-specific commercialization routing before hiring outside counsel.
 
 ## If The Bottleneck Is Women-Founder Support
 
@@ -88,6 +106,6 @@ The wiki should name the founder's bottleneck before naming the resource.
 
 ## Open Questions
 
-- Which real attorneys, accountants, grant writers, FDA consultants, fractional CFOs, recruiters, and immigration counsel should become helper pages?
+- Which real attorneys, accountants, grant writers, FDA consultants, fractional CFOs, recruiters, and immigration counsel should become helper pages? Partial progress: Wilson Sonsini, Maschoff Brennan, Tanner, NOW CFO, RQM+, and BBCetc now have helper pages; immigration counsel and generalist startup attorneys still missing.
 - Which services should be routed through public programs first versus private providers?
 - What intake questions best distinguish "I need a business service" from "I need capital," "I need a customer," or "I need a cofounder"?

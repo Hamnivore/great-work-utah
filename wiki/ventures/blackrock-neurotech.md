@@ -43,6 +43,7 @@ Blackrock is part of a small but globally outsized Utah neuroengineering cluster
 ## Evidence
 
 - [Source: Blackrock Neurotech and the Utah Array](../sources/blackrock-utah-array-medical-design.md)
+- [Utah Array BCI Platform](../work/utah-array-bci-platform.md) — foundational University of Utah research behind the commercial electrode
 - [Source: Tether Strategic Stake in Blackrock Neurotech](../sources/blackrock-tether-strategic-stake.md)
 
 ## Open Questions

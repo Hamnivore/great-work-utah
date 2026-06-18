@@ -36,7 +36,7 @@ The Nobel was shared for good reason. Evans's embryonic stem-cell work and Smith
 
 ## Evidence
 
-- [Nobel Prize press release: Physiology or Medicine 2007](https://www.nobelprize.org/prizes/medicine/2007/press-release/)
+- [Official Source: Nobel Prize Capecchi Gene Targeting](../sources/nobel-prize-capecchi-gene-targeting.md)
 - [University of Utah Health: Mario Capecchi profile](https://healthcare.utah.edu/capecchi)
 - [The first transgenic mice: interview with Mario Capecchi](https://pmc.ncbi.nlm.nih.gov/articles/PMC2590805/)
 - [Learn.Genetics: transgenic mice](https://learn.genetics.utah.edu/content/science/transgenic/)

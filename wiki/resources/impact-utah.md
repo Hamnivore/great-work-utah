@@ -2,69 +2,60 @@
 
 **Status:** Stub
 **Confidence:** Low
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Any, Manufacturing
+**Focus:** manufacturing, operational improvement, training, Utah
 **Location:** Utah
-**Updated:** 2026-05-09
+**Updated:** 2026-06-18
 **Layout:** field-guide
 
 ## Summary
 
-iMpact Utah is a nonprofit organization dedicated to enhancing the performance and profitability of Utah's manufacturing sector. They offer comprehensive consulting and training services in areas such as operations optimization, leadership development, sales, marketing, automation, and cybersecurity. By working closely with businesses, iMpact Utah aims to drive measurable improvements, contributing to the state's economic growth and the creation of high-quality jobs.
+iMpact Utah appears in the Startup State resource import as a manufacturing-support nonprofit focused on performance, profitability, training, automation, cybersecurity, and operational improvement for Utah manufacturers.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was checked again on 2026-06-18, but the official `impactutah.org` site could not be reliably read: the HTTP endpoint redirected to HTTPS and the HTTPS endpoint failed with a TLS internal error from the verification environment. Because the provider page was not available for content verification, this resource should not yet be used as a strong recommendation.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
+The imported record points to Utah manufacturing companies and operators, especially later-stage manufacturers that need help improving operations, sales, leadership, automation, cybersecurity, or productivity.
 
-- Any
-
-It also maps the resource to these industries:
-
-- Manufacturing
+The exact audience needs confirmation. It may overlap with, partner with, or have been superseded by Utah-MEP and related manufacturing-support programs, so route urgent founder recommendations through verified pages until this page is refreshed.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The CSV import describes consulting and training services for manufacturers, including operations optimization, leadership development, sales, marketing, automation, and cybersecurity.
 
-- Entrepreneurship Communities
-- Late Stage Growth
+Treat those claims as unverified until an official provider page, archive, or current partner page confirms the active program model.
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+The imported official site is `https://www.impactutah.org/`, and the imported email is `info@impactutah.org`. The domain check did not return readable public content during this pass.
 
-- [Official website](https://www.impactutah.org/)
-- Email: [info@impactutah.org](mailto:info@impactutah.org)
+For now, a founder should first use verified manufacturing resources such as [Utah MEP](./utah-mep.md) or the [Utah Manufacturers Association](./utah-manufacturers-association.md), then ask those providers whether iMpact Utah is still active or folded into another offering.
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Not verified. The Startup State import did not state current cost, application requirements, or eligibility rules.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Potential best fits are Utah manufacturers with a concrete operational bottleneck: production throughput, quality, leadership bench, sales process, automation, cybersecurity, or workforce systems.
 
-- Entrepreneurship Communities
-- Late Stage Growth
-- Any
+Because the provider page could not be verified, use this as a watchlist lead rather than a recommended next step.
 
 ## Imported Coverage
 
 - Startup State CSV ID: 2621
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Counties or regions: statewide Utah coverage in the import
 - Communities: Any
 - Industries: Manufacturing
 - Topics: Entrepreneurship Communities, Late Stage Growth
 
 ## Evidence
 
-- [Startup State Resource Filter](./startup-state-resource-list.md)
+- [iMpact Utah Official Site Access Attempt](../sources/impact-utah-official-site-access-attempt.md)
 - [Startup State Resource List source note](../sources/startup-utah-resource-list.md)
-- [Official website](https://www.impactutah.org/)
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is iMpact Utah currently active under this name and domain?
+- Did its programming merge with Utah-MEP, UMA, or another manufacturing-support organization?
+- What are the current services, costs, intake path, and eligibility rules?

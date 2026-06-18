@@ -37,7 +37,7 @@ The Challenger disaster is part of this page, not an aside. The Shuttle's O-ring
 ## Evidence
 
 - [Northrop Grumman: Promontory and solid rocket motors](https://www.northropgrumman.com/space/solid-rocket-boosters)
-- [NASA: Space Shuttle solid rocket boosters](https://www.nasa.gov/reference/space-shuttle-solid-rocket-boosters/)
+- [Official Source: NASA Thiokol Solid Rocket Boosters](../sources/nasa-thiokol-solid-rocket-boosters.md)
 - [Rogers Commission Report on the Space Shuttle Challenger accident](https://history.nasa.gov/rogersrep/genindex.htm)
 - [Wikipedia: Thiokol](https://en.wikipedia.org/wiki/Thiokol)
 

@@ -34,7 +34,7 @@ Smithson was not a Utah-based artist, and much of the work's fame was mediated t
 
 ## Evidence
 
-- [Dia Art Foundation: Spiral Jetty](https://diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014/)
+- [Official Source: Dia Spiral Jetty](../sources/dia-spiral-jetty.md)
 - [Utah Museum of Fine Arts: Spiral Jetty](https://umfa.utah.edu/spiral-jetty)
 - [Holt/Smithson Foundation: Spiral Jetty](https://holtsmithsonfoundation.org/spiral-jetty)
 - [Getty Conservation Institute: Documenting Spiral Jetty](https://www.getty.edu/projects/documenting-spiral-jetty)

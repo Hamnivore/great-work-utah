@@ -1,5 +1,56 @@
 # Great Work Utah Wiki Agent Run Log
 
+## Run: 2026-06-18 MDT — Parallel wiki expansion (coordinator merge)
+
+### Seed Worklist Item
+
+- item: 1. Legacy Research Wikis; 9. GOEO Test Personas; 11. Business-Service Provider Categories
+- starting status: first_pass / ready
+- ending status: first_pass
+
+### Goal
+
+Continue expanding the public wiki via parallel subagents, then merge coordination files, cross-link guides, and retire duplicate pages.
+
+### Files Created (by subagents; partial list)
+
+- 20+ venture pages: BioFire, Halia, Huntsman Cancer Institute, IMSAR, Strider, PassiveLogic, Torus, Wavetronix, Teal, Palladyne AI, Energy Fuels / White Mesa, Weave, Varda, Nusano, Utah Quantum, Utah NeuroRobotics Lab, and others
+- 11 work pages: WordPerfect and Novell, Omniture Web Analytics, Soundstream and Commercial Digital Audio Recording, Conotoxins and Prialt, Intermountain Clinical Quality Improvement, H. Tracy Hall diamond presses, Harvey Fletcher stereophonic sound, Iomega Zip Drive, Philo Farnsworth television, Pons-Fleischmann cold fusion, and Utah Array BCI Platform
+- 12 helper pages: BBCetc, Maschoff Brennan, NOW CFO, RQM+, Tanner, Wilson Sonsini Salt Lake City, Eide Bailly, Kirton McConkie, Parsons Behle & Latimer, Preferred CFO, Tanner LLC, and Workman Nydegger
+- 10 answer pages: GOEO persona answers, thematic founder-navigation answers, and why-this-is-better-than-linkedin
+- 68 new source records for ventures, work, helpers, and resource-verification passes
+
+### Files Updated (coordinator)
+
+- `wiki/agent_ops/index.md` — refreshed coverage snapshot and inventory
+- `wiki/guides/find-meaningful-work.md` — Emerging Bets and second-pass Hidden Gems
+- `wiki/guides/utah-deep-tech-map.md` — software history, defense, energy, medical delivery anchors
+- `wiki/guides/find-business-services.md` — professional-services helper routing
+- `docs/wiki-seed-worklist.md` — progress notes on items 1, 9, 11
+
+### Files Deleted
+
+- `wiki/work/wordperfect-novell.md` (duplicate of wordperfect-and-novell)
+- `wiki/work/conotoxins-prialt.md` (duplicate of conotoxins-and-prialt)
+- `wiki/work/soundstream-digital-recording.md` (duplicate merged into soundstream-digital-audio-recording)
+
+### Key Findings
+
+- Eight parallel agent batches produced substantial overlap (Worker E and defense/MI batches both touched IMSAR, Strider, PassiveLogic, Torus). Coordinator deduplicated at index level; no venture file collisions observed.
+- Fourteen malformed `ventures/*-md` files (no `.md` extension, old schema) remain and should be converted or removed in a dedicated pass.
+- Gap-fill agents launched for remaining ventures (Weave, Varda, Hypercraft, etc.), physics/medicine work pages, advisor/cofounder guides, and named GOEO persona answers.
+
+### Next Best Tasks
+
+- Convert or retire `ventures/*-md` malformed stubs (Qualtrics, Domo, Novell, etc.)
+- Add license-clean hero images for new venture pages
+- Decide whether overlapping source records such as `utah-neurorobotics-lab-official-site.md` / `utah-neurorobotics-lab-official-website.md` should be compacted.
+
+### Index Update
+
+- coverage snapshot refreshed: yes (ventures 14→36, work 15→26, helpers 1→13, answers 0→10, sources 29→97, guides 5→7)
+- entries added: see index.md Ventures, Helpers, Work, Answers sections
+
 ## Run: 2026-05-16 MDT - Work layer continuation pass
 
 ### Seed Worklist Item

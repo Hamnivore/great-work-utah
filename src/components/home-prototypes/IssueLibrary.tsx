@@ -138,7 +138,7 @@ function CatalogCard({ kind, entry, quote, seq }: CardProps) {
           {callNumber}
         </p>
         <p className="font-mono text-[0.65rem] tracking-[0.08em] text-twilight-soft/70 uppercase">
-          {entry.source === 'great_work' ? 'historical' : 'active'}
+          {entry.source === 'work' ? 'historical' : 'active'}
         </p>
       </div>
 
@@ -186,7 +186,7 @@ function CatalogCard({ kind, entry, quote, seq }: CardProps) {
  * vibes only — not a real classification scheme.
  */
 function makeCallNumber(entry: Entry, seq?: number): string {
-  const prefix = entry.source === 'great_work' ? 'GW' : 'PYW'
+  const prefix = entry.source === 'work' ? 'GW' : entry.source.slice(0, 3).toUpperCase()
   const code = entry.domain
     .split(/\s+/)
     .map((w) => w[0])

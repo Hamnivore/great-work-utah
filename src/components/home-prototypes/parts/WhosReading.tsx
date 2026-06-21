@@ -546,7 +546,7 @@ function findProfileMatches(prose: string): ProfileMatch[] {
   if (tokens.length === 0) return []
 
   return getAllEntries()
-    .filter((entry) => entry.source === 'places_you_can_work')
+    .filter((entry) => entry.source === 'ventures')
     .map((entry) => ({
       entry,
       score: scoreEntry(entry, tokens, prose),

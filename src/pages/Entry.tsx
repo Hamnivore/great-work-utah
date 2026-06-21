@@ -73,7 +73,7 @@ export function EntryPage() {
         <header className="mb-6">
           <p className="smallcaps">
             {entry.domain}
-            {entry.source === 'great_work' ? ' · history' : ''}
+            {entry.source === 'work' ? ' · history' : ''}
             {entry.source === 'people' ? ' · people' : ''}
             {entry.source === 'resources' ? ' · resources' : ''}
           </p>

@@ -8,6 +8,7 @@
 **Hero:** https://picsum.photos/seed/tim-latimer-2026/1600/1100
 **Pull:** *Co-founder and CEO of Fervo Energy — repurposing oil-and-gas drilling to unlock firm, carbon-free geothermal power.*
 **Relates:** helps [Fervo Energy](../ventures/fervo-energy.md)
+**Relates:** cites [Profile: Tim Latimer — Fervo Energy](../sources/tim-latimer-fervo-bio.md)
 
 ## Summary
 
@@ -51,6 +52,7 @@ Fervo Energy official channels; energy conference circuit (CERAWeek, Clean Energ
 
 ## Evidence
 
+- [Profile: Tim Latimer — Fervo Energy](../sources/tim-latimer-fervo-bio.md)
 - [Fervo Energy](../ventures/fervo-energy.md) — company he co-founded and leads
 
 ## See Also

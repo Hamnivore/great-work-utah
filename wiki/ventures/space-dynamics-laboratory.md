@@ -9,6 +9,7 @@
 **Hero:** /img/heroes/front/space-dynamics-1600.webp
 **Hero caption:** *The SDL auditorium building at sunrise, North Logan, Utah — photograph by Jacobkhed (Wikimedia Commons, CC BY-SA 4.0).*
 **Pull:** *Utah State University's UARC, with more than four hundred space missions and the moon visible above the auditorium.*
+**Relates:** cites [Official Website: Space Dynamics Laboratory](../sources/space-dynamics-laboratory-official-website.md)
 
 ## Summary
 
@@ -44,6 +45,7 @@ SDL is headquartered in North Logan and is tied to Utah State University. Its hi
 
 ## Evidence
 
+- [Official Website: Space Dynamics Laboratory](../sources/space-dynamics-laboratory-official-website.md)
 - [Official Source: Space Dynamics Laboratory About Page](../sources/sdl-about.md)
 
 ## Open Questions

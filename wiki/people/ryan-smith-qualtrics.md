@@ -5,6 +5,7 @@
 **Focus:** enterprise software, experience management, Utah tech ecosystem, civic leadership
 **Location:** Salt Lake City, UT
 **Updated:** 2026-06-19
+**Relates:** cites [Profile: Ryan Smith — Qualtrics Co-Founder](../sources/ryan-smith-qualtrics-bio.md)
 
 ## Summary
 
@@ -38,6 +39,7 @@ Silicon Slopes events and Utah civic venues; Utah Jazz organization channels. No
 
 ## Evidence
 
+- [Profile: Ryan Smith — Qualtrics Co-Founder](../sources/ryan-smith-qualtrics-bio.md)
 - [Qualtrics](../ventures/qualtrics.md)
 
 ## See Also

@@ -21,19 +21,19 @@ import type { Entry, Source } from '../../lib/types'
 const FEATURED_IDS: Array<{ source: Source; slug: string }> = [
   // Cover stack for the current issue. Three "you've heard of these,"
   // three "you should have heard of these," two "wait, that's Utah?"
-  { source: 'places_you_can_work', slug: 'sundance-institute' },
-  { source: 'places_you_can_work', slug: 'recursion-pharmaceuticals' },
-  { source: 'places_you_can_work', slug: 'fervo-energy' },
-  { source: 'places_you_can_work', slug: 'blackrock-neurotech' },
-  { source: 'places_you_can_work', slug: 'space-dynamics-laboratory' },
-  { source: 'places_you_can_work', slug: 'intactis-bio' },
-  { source: 'great_work', slug: 'telescope-array-ultra-high-energy-cosmic-rays' },
+  { source: 'ventures', slug: 'sundance-institute' },
+  { source: 'ventures', slug: 'recursion-pharmaceuticals' },
+  { source: 'ventures', slug: 'fervo-energy' },
+  { source: 'ventures', slug: 'blackrock-neurotech' },
+  { source: 'ventures', slug: 'space-dynamics-laboratory' },
+  { source: 'ventures', slug: 'intactis-bio' },
+  { source: 'work', slug: 'telescope-array-ultra-high-energy-cosmic-rays' },
   // Next-up rotation when we publish the next issue:
-  //   { source: 'places_you_can_work', slug: 'familysearch' },
-  //   { source: 'great_work', slug: 'spiral-jetty' },
-  //   { source: 'great_work', slug: 'capecchi-gene-targeting' },
-  //   { source: 'great_work', slug: 'arpanet-fourth-node' },
-  //   { source: 'great_work', slug: 'moxie-solid-oxide-electrolysis-stack' },
+  //   { source: 'ventures', slug: 'familysearch' },
+  //   { source: 'work', slug: 'spiral-jetty' },
+  //   { source: 'work', slug: 'capecchi-gene-targeting' },
+  //   { source: 'work', slug: 'arpanet-fourth-node' },
+  //   { source: 'work', slug: 'moxie-solid-oxide-electrolysis-stack' },
 ]
 
 /** Resolve the editor's picks to real entries, falling back to top S-tier. */

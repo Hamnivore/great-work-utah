@@ -5,7 +5,19 @@ import { Layout } from '../components/Layout'
 import { TierMark } from '../components/TierMark'
 import { AskBar } from '../components/AskBar'
 import { getEntry, getRelated, getSectorNavigation } from '../lib/data'
-import type { Entry, SectorNavigation, Source, Section } from '../lib/types'
+import type { Entry, PublicWikiSource, SectorNavigation, Source, Section } from '../lib/types'
+
+const SOURCE_LABELS: Partial<Record<PublicWikiSource, string>> = {
+  ventures: 'venture',
+  people: 'people',
+  helpers: 'helper',
+  resources: 'resource',
+  work: 'history',
+  guides: 'guide',
+  matches: 'match',
+  answers: 'answer',
+  sources: 'source',
+}
 
 const PULL_QUOTE_HEADINGS = ['Why it matters', 'Why it mattered', 'Mission', 'What it was']
 
@@ -73,9 +85,7 @@ export function EntryPage() {
         <header className="mb-6">
           <p className="smallcaps">
             {entry.domain}
-            {entry.source === 'work' ? ' · history' : ''}
-            {entry.source === 'people' ? ' · people' : ''}
-            {entry.source === 'resources' ? ' · resources' : ''}
+            {SOURCE_LABELS[entry.source] ? ` · ${SOURCE_LABELS[entry.source]}` : ''}
           </p>
           <div className="flex items-start justify-between gap-6 mt-2">
             <h1 className="font-display text-4xl sm:text-5xl text-ink leading-tight">

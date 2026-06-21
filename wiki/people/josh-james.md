@@ -5,6 +5,7 @@
 **Focus:** enterprise SaaS, web analytics, business intelligence, Utah tech ecosystem
 **Location:** Utah Valley, UT
 **Updated:** 2026-06-19
+**Relates:** cites [Profile: Josh James — Omniture and Domo](../sources/josh-james-domo-bio.md)
 
 ## Summary
 
@@ -38,6 +39,7 @@ Domo investor relations and public speaking venues. Not known to have an open in
 
 ## Evidence
 
+- [Profile: Josh James — Omniture and Domo](../sources/josh-james-domo-bio.md)
 - [Omniture Web Analytics](../work/omniture-web-analytics.md)
 - [Domo](../ventures/domo.md)
 

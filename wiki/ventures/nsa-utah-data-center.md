@@ -8,6 +8,7 @@
 **Updated:** 2026-06-19
 **Hero:** https://picsum.photos/seed/nsa-utah-bluffdale/1600/1100
 **Pull:** *The largest publicly known data center in Utah, classified, contractor-staffed, and the site of documented mass surveillance infrastructure — included here because any honest map of Utah's technical landscape includes it.*
+**Relates:** cites [Official Website: NSA Utah Data Center](../sources/nsa-utah-data-center-official-website.md)
 
 ## Summary
 
@@ -35,6 +36,7 @@ The facility's construction required major infrastructure upgrades to Bluffdale'
 
 ## Evidence
 
+- [Official Website: NSA Utah Data Center](../sources/nsa-utah-data-center-official-website.md)
 - [Wikipedia: Utah Data Center](https://en.wikipedia.org/wiki/Utah_Data_Center)
 - [Wired: The NSA Is Building the Country's Biggest Spy Center (2012)](https://www.wired.com/2012/03/ff-nsadatacenter/)
 

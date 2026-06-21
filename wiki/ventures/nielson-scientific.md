@@ -9,6 +9,7 @@
 **Hero:** https://picsum.photos/seed/nielson-scientific-2026/1600/1100
 **Pull:** *A DOE SBIR awardee from the Utah Innovation Center cohort — domain unknown, but the signal is worth following.*
 **Relates:** cites [DOE SBIR Award Database: Nielson Scientific](../sources/nielson-scientific-doe-sbir.md)
+**Relates:** cites [Official Website: Nielson Scientific](../sources/nielson-scientific-official-website.md)
 
 ## Summary
 
@@ -39,6 +40,7 @@ The Utah Innovation Center is a state-supported program that helps Utah companie
 ## Evidence
 
 - [DOE SBIR Award Database: Nielson Scientific](../sources/nielson-scientific-doe-sbir.md)
+- [Official Website: Nielson Scientific](../sources/nielson-scientific-official-website.md)
 
 ## See Also
 

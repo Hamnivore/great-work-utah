@@ -1,6 +1,6 @@
 # Work Claim: Application Data Contract
 
-**Status:** active
+**Status:** done
 **Agent:** Codex boss agent
 **Started:** 2026-06-19 11:16 MDT
 **Updated:** 2026-06-19 11:16 MDT

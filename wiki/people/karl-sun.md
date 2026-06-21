@@ -8,6 +8,7 @@
 **Hero:** https://picsum.photos/seed/karl-sun-2026/1600/1100
 **Pull:** *BYU graduate who co-founded Lucidchart and built one of Utah's largest private SaaS companies.*
 **Relates:** helps [Lucid Software](../ventures/lucid-software.md)
+**Relates:** cites [Profile: Karl Sun — Lucid Software](../sources/karl-sun-lucid-bio.md)
 
 ## Summary
 
@@ -51,6 +52,7 @@ LinkedIn; Lucid Software official channels; BYU alumni networks; Silicon Slopes 
 
 ## Evidence
 
+- [Profile: Karl Sun — Lucid Software](../sources/karl-sun-lucid-bio.md)
 - [Lucid Software](../ventures/lucid-software.md) — company he co-founded and leads
 
 ## See Also

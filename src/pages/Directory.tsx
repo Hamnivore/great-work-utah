@@ -3,21 +3,27 @@ import { Layout } from '../components/Layout'
 import { AskBar } from '../components/AskBar'
 import { EntryRow } from '../components/EntryRow'
 import { getAllEntries } from '../lib/data'
-import type { Tier } from '../lib/types'
+import type { PublicWikiSource, Tier } from '../lib/types'
 
 const VISIBLE_TIERS: Tier[] = ['S', 'A', 'B', 'C', 'D', 'F', 'unknown']
 
-type SourceFilter = 'places_you_can_work' | 'great_work' | 'people' | 'resources' | 'all'
+type SourceFilter = PublicWikiSource | 'all'
 
-/**
- * /directory — the back-of-the-book.
- *
- * The front page used to live in this layout: a long alphabetised
- * list of every entry. We've moved that off the cover; this is where
- * it lives now. Honest browsing, calm typography, no hero.
- */
+const SOURCE_FILTERS: Array<{ id: SourceFilter; label: string }> = [
+  { id: 'ventures', label: 'Ventures' },
+  { id: 'people', label: 'People' },
+  { id: 'helpers', label: 'Helpers' },
+  { id: 'resources', label: 'Resources' },
+  { id: 'work', label: 'Great work' },
+  { id: 'guides', label: 'Guides' },
+  { id: 'matches', label: 'Matches' },
+  { id: 'answers', label: 'Answers' },
+  { id: 'sources', label: 'Sources' },
+  { id: 'all', label: 'All' },
+]
+
 export function DirectoryPage() {
-  const [source, setSource] = useState<SourceFilter>('places_you_can_work')
+  const [source, setSource] = useState<SourceFilter>('ventures')
 
   const entries = getAllEntries().filter((e) => {
     if (!VISIBLE_TIERS.includes(e.tier)) return false
@@ -48,15 +54,7 @@ export function DirectoryPage() {
 
       {/* Filter chips */}
       <nav aria-label="Filter directory" className="flex flex-wrap gap-x-4 gap-y-1 mb-6">
-        {(
-          [
-            { id: 'places_you_can_work', label: 'Places you can work' },
-            { id: 'people', label: 'People' },
-            { id: 'resources', label: 'Resources' },
-            { id: 'great_work', label: 'Historical great work' },
-            { id: 'all', label: 'All' },
-          ] as Array<{ id: SourceFilter; label: string }>
-        ).map((s) => (
+        {SOURCE_FILTERS.map((s) => (
           <button
             key={s.id}
             type="button"

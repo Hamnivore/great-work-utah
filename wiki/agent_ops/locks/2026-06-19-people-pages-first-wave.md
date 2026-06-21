@@ -1,6 +1,6 @@
 # Work Claim: People Pages — First Wave
 
-**Status:** active
+**Status:** done
 **Agent:** Claude Sonnet 4.6 boss
 **Started:** 2026-06-19 MDT
 **Updated:** 2026-06-19 MDT
@@ -50,12 +50,18 @@ Additional high-value pages:
 
 ## Progress
 
-- Claimed slice; launched 3 parallel subagents; boss writing jared-rutter and davis-smith directly.
+- Claimed slice; launched 3 parallel subagents; discovered 10 people pages already existed from prior runs; boss wrote jared-rutter and davis-smith; cleared all 39 lint errors (source stubs + legacy-provenance fix) that appeared when prior-wave venture pages were added without their sources.
 
 ## Files Changed
 
-- Pending.
+- `wiki/people/`: jared-rutter.md, davis-smith.md (new); dave-bearss, fred-lampropoulos, florian-solzbacher, ryan-smith-imsar, aaron-skonnard, chad-testa, josh-james, karl-sun, ryan-smith-qualtrics, tim-latimer (confirmed existing) — 12 total
+- `wiki/indexes/people.md`: all 12 entries present
+- `wiki/indexes/sources.md`: added 2 missing rows (tellus-networked-sensor-solutions, wave-wireless-vehicle-electrification)
+- `wiki/sources/`: iris-biomedical-official-website.md, nielson-scientific-doe-sbir.md, tellus-networked-sensor-solutions-official-website.md, wave-wireless-vehicle-electrification-official-website.md (new); jump-aero-official-website.md (legacy-provenance fix)
+- `wiki/log.md`: operation appended
 
 ## Handoff / Next Step
 
-- After completion: people↔helper match pages (e.g. dave-bearss↔huntsman-cancer-institute, florian-solzbacher↔maschoff-brennan)
+- People↔helper match pages: dave-bearss↔huntsman-cancer-institute, florian-solzbacher↔maschoff-brennan, ryan-smith-qualtrics↔wilson-sonsini
+- Venture↔resource matches for SBIR-eligible ventures using person pages as evidence nodes
+- Checks: lint 0 errors 0 warnings, build 604 entries, people=12, ventures=108

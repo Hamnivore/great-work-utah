@@ -3,7 +3,7 @@
 **Status:** done
 **Agent:** Claude Sonnet boss agent
 **Started:** 2026-06-19 ~18:00 MDT
-**Updated:** 2026-06-21
+**Updated:** 2026-06-21 ~10:00 MDT
 
 ## Goal
 
@@ -77,7 +77,7 @@ Migrate the remaining ~44 legacy `places_you_can_work` entries into `wiki/ventur
 
 ## Handoff / Next Step
 
-- **People pages** — 12 pages now in `wiki/people/`; growing but sparse. Key figures still missing.
+- **People pages** — Wave 2 run added 9 people pages: josh-james, dave-bearss, florian-solzbacher, ryan-smith-qualtrics, ryan-smith-imsar, aaron-skonnard, karl-sun, tim-latimer, chad-testa. 12 total in wiki/people/; all broken people links resolved.
 - **Guides source coverage** — 7 guides lack `Relates: cites` edges; editorial pass needed.
 - **Remaining legacy categories** — education (all done), tools-for-thought (all done), art-and-meaning (cosm/music-ai/film/deseret-book done, sundance already existed).
 - **Source coverage audit** — run `node scripts/wiki-source-coverage.mjs` to measure current cites coverage across the enlarged wiki.

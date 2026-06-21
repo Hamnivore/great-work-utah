@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-06-19] people | first wave — 12 people pages, 7 source stubs, lint clean
+
+- Created `wiki/people/` first wave: dave-bearss, fred-lampropoulos, florian-solzbacher, ryan-smith-imsar, aaron-skonnard, chad-testa, josh-james, karl-sun, ryan-smith-qualtrics, tim-latimer, jared-rutter, davis-smith (12 total).
+- Resolved 5 broken See Also links from venture pages (halia-therapeutics, imsar, curza, pluralsight, blackrock-neurotech) that pre-existed without targets.
+- Created 7 new source stub pages to clear 39→0 lint errors: iris-biomedical-official-website, nielson-scientific-doe-sbir, tellus-networked-sensor-solutions-official-website, wave-wireless-vehicle-electrification-official-website, great-salt-lake-usgs, nsa-utah-data-center-official-website (pre-existed), + jump-aero legacy-provenance fix.
+- Updated `wiki/indexes/people.md` (12 entries) and `wiki/indexes/sources.md` (2 new rows).
+- Checks: lint 0 errors 0 warnings, build 604 entries, people=12, ventures=108, sources=194.
+
 ## [2026-06-19] migrate | energy, transportation, and education venture batch (9 companies)
 
 - Migrated legacy `places_you_can_work/` entries to source-first venture pages: OxEon Energy, Rodatherm Energy, Valar Atomics, Electric Power Systems, Jump Aero, WAVE, BYU-Pathway Worldwide, Sandbox, SchoolAI.

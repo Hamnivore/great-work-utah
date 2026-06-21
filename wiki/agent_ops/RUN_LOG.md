@@ -1199,3 +1199,23 @@ Bring the new `wiki/ventures/` directory up to parity with the legacy `legacy_wi
 - duplicate avoidance: 5 (checked index; no duplicates)
 - usefulness to users: 4 (covers all eleven legacy S-tier anchors and reroutes the discovery guide)
 - cost/efficiency: 4
+
+## Run: 2026-06-18 MDT - Wiki skill v0.2.0 docs migration slice
+
+### Goal
+
+Adopt the v0.2.0 migration addendum's M1 size caps and M4/M5 relationship conventions in Great Work's documentation while preserving bold-prefix headers.
+
+### Files Updated
+
+- `docs/wiki-architecture.md` - added size discipline, `## See Also`, and bold-prefix `**Relates:**` graph conventions.
+- `wiki/agent_ops/schema.md` - added `Relates` as an optional repeatable header, page-size caps, `## See Also` guidance, template sections, and validation checks.
+
+### Decisions Made
+
+- Kept Great Work's `**Key:** value` header schema rather than adopting blockquote metadata.
+- Standardized graph edges as repeatable `**Relates:** verb [Title](../folder/page.md)` lines, with `## See Also` as the human-readable relative-link section.
+
+### Verification
+
+- Documentation-only change; no build or lint command was run.

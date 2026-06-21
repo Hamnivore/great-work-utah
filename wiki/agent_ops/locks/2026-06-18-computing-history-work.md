@@ -1,9 +1,9 @@
 # Work Claim: Computing & Software History Work Pages
 
-**Status:** active
+**Status:** done
 **Agent:** worker-computing-history
 **Started:** 2026-06-18 06:57 MST
-**Updated:** 2026-06-18 06:57 MST
+**Updated:** 2026-06-19 (status correction by Command Center — work complete per Files Changed)
 
 ## Goal
 

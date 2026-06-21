@@ -1,4 +1,4 @@
-import { schedules, logger } from "@trigger.dev/sdk/v3";
+import { schedules, logger } from "@trigger.dev/sdk";
 import OpenAI from "openai";
 import { ghListDir, ghWriteFile } from "./github-wiki";
 

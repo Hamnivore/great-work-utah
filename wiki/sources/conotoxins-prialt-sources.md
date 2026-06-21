@@ -25,4 +25,4 @@ The FDA label is authoritative for the approved drug, indication, warnings, and 
 
 ## Related Pages
 
-- [Conotoxins and Prialt](../work/conotoxins-prialt.md)
+- [Conotoxins and Prialt](../work/conotoxins-and-prialt.md)

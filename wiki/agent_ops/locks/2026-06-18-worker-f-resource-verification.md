@@ -61,8 +61,8 @@ Verify and promote eight existing Stub/Low resource pages tied to commercializat
 - `wiki/sources/utah-manufacturers-association-official-site.md`
 - `wiki/sources/47g-official-site.md`
 - `wiki/sources/lassonde-entrepreneurship-institute-official-site.md`
-- `wiki/sources/uvu-baugh-entrepreneurship-institute-page.md`
-- `wiki/sources/usu-center-for-entrepreneurship-page.md`
+- `wiki/sources/uvu-baugh-entrepreneurship-institute.md`
+- `wiki/sources/usu-center-for-entrepreneurship.md`
 - `wiki/sources/kinect-capital-official-site.md`
 
 ## Handoff / Next Step

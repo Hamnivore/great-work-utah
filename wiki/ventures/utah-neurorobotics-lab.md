@@ -8,6 +8,7 @@
 **Updated:** 2026-06-18
 **Hero:** https://picsum.photos/seed/utah-neurorobotics-prosthetics-lab-2026/1600/1100
 **Pull:** *AI-driven prosthetic limbs that restore movement and sensation — closing the loop between nerve, machine, and touch.*
+**Relates:** cites [Official Website: Utah NeuroRobotics Lab](../sources/utah-neurorobotics-lab-official-site.md)
 
 ## Summary
 
@@ -47,6 +48,7 @@ The lab continues a deep University of Utah tradition in neural engineering and 
 ## Evidence
 
 - [Official Website: Utah Neurorobotics Lab](../sources/utah-neurorobotics-lab-official-website.md)
+- [Official Website: Utah NeuroRobotics Lab (ECE)](../sources/utah-neurorobotics-lab-official-site.md)
 
 ## Open Questions
 

@@ -1,9 +1,9 @@
 /**
- * Reads Sam's legacy mini-wiki (symlinked at ./legacy_wiki) and emits a single normalized
+ * Reads the public markdown wiki at ./wiki and emits a single normalized
  * JSON artifact at src/data/generated/all.json that the React app consumes.
  *
  * Parses the bold-prefix header convention documented in
- * docs/wiki-architecture.md (NOT YAML frontmatter).
+ * WIKI.md (NOT YAML frontmatter).
  */
 import fs from 'node:fs/promises'
 import path from 'node:path'
@@ -11,8 +11,16 @@ import path from 'node:path'
 // ---------- Types ----------
 
 type Tier = 'S' | 'A' | 'B' | 'C' | 'D' | 'F' | 'P-A' | 'P-B' | 'P-C' | 'unknown'
-type Source = 'great_work' | 'places_you_can_work' | 'people' | 'resources'
-type LegacySource = 'great_work' | 'places_you_can_work'
+type Source =
+  | 'ventures'
+  | 'people'
+  | 'helpers'
+  | 'resources'
+  | 'work'
+  | 'guides'
+  | 'matches'
+  | 'answers'
+  | 'sources'
 
 interface Section {
   heading: string
@@ -37,22 +45,33 @@ interface Entry {
 // ---------- Constants ----------
 
 const REPO_ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..')
-const LEGACY_WIKI_ROOT = path.join(REPO_ROOT, 'legacy_wiki')
 const NEW_WIKI_ROOT = path.join(REPO_ROOT, 'wiki')
 const OUT_DIR = path.join(REPO_ROOT, 'src/data/generated')
 const OUT_FILE = path.join(OUT_DIR, 'all.json')
 
-const LEGACY_SOURCES: LegacySource[] = ['great_work', 'places_you_can_work']
-const PUBLIC_SOURCE_DIRS: Source[] = ['people', 'resources']
+const PUBLIC_SOURCE_DIRS: Source[] = [
+  'ventures',
+  'people',
+  'helpers',
+  'resources',
+  'work',
+  'guides',
+  'matches',
+  'answers',
+  'sources',
+]
 
-/**
- * Editorial fields the new prose-first wiki at `wiki/` carries that the
- * legacy research wiki does not (yet). When a slug exists in both trees,
- * we copy these onto the legacy entry so the magazine layout can render
- * a real hero image with attribution and a hand-picked pull-quote.
- */
-const OVERLAY_FIELDS = ['Hero', 'Hero caption', 'Pull'] as const
-const OVERLAY_DIRS = ['ventures', 'work'] as const
+const SOURCE_DOMAIN_LABELS: Record<Source, string> = {
+  ventures: 'Ventures',
+  people: 'People',
+  helpers: 'Helpers',
+  resources: 'Resources',
+  work: 'Historical Work',
+  guides: 'Guides',
+  matches: 'Matches',
+  answers: 'Answers',
+  sources: 'Sources',
+}
 
 // Folders we never read content from
 const SKIP_FOLDERS = new Set([
@@ -92,6 +111,35 @@ function humanizeDomain(domainSlug: string): string {
       return word[0]?.toUpperCase() + word.slice(1)
     })
     .join(' ')
+}
+
+function domainSlugFor(source: Source, meta: Record<string, string>): string {
+  const candidate =
+    meta.Focus ??
+    meta.Domain ??
+    meta['Source Type'] ??
+    meta.Type ??
+    SOURCE_DOMAIN_LABELS[source]
+  return slugifyLabel(candidate)
+}
+
+function domainFor(source: Source, meta: Record<string, string>): string {
+  return (
+    meta.Focus ??
+    meta.Domain ??
+    meta['Source Type'] ??
+    meta.Type ??
+    SOURCE_DOMAIN_LABELS[source]
+  )
+}
+
+function slugifyLabel(label: string): string {
+  return label
+    .toLowerCase()
+    .replace(/\[[^\]]+\]\([^)]+\)/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 72) || 'other'
 }
 
 function parseTier(tierLine: string): Tier {
@@ -171,15 +219,18 @@ function parseEntry(content: string, opts: { rawPath: string; source: Source; do
   const isWatchlist = tier.startsWith('P-')
 
   // Summary: first sentence of mission-shaped section, fall back to Domain field
-  const missionSection = sections.find((s) => /^(Summary|Mission|What it was|Overview)$/i.test(s.heading))
+  const missionSection = sections.find((s) =>
+    /^(Summary|Mission|What it was|Overview|Description|Evidence|Why it matters)$/i.test(s.heading),
+  )
   let summary = ''
   if (missionSection?.body) {
     summary = firstSentence(missionSection.body).replace(/\*\*/g, '')
-  } else if (meta['Domain']) {
-    summary = meta['Domain']
+  } else if (meta.Focus || meta.Domain || meta['Source Type']) {
+    summary = meta.Focus ?? meta.Domain ?? meta['Source Type'] ?? ''
   }
 
   const slug = slugify(path.basename(opts.rawPath))
+  const domainSlug = opts.domainSlug || domainSlugFor(opts.source, meta)
   return {
     slug,
     source: opts.source,
@@ -187,8 +238,8 @@ function parseEntry(content: string, opts: { rawPath: string; source: Source; do
     tier,
     isStarred,
     isWatchlist,
-    domainSlug: opts.domainSlug,
-    domain: humanizeDomain(opts.domainSlug),
+    domainSlug,
+    domain: opts.domainSlug ? humanizeDomain(opts.domainSlug) : domainFor(opts.source, meta),
     summary,
     meta,
     sections,
@@ -196,105 +247,17 @@ function parseEntry(content: string, opts: { rawPath: string; source: Source; do
   }
 }
 
-// ---------- New-wiki overlay ----------
-
-/**
- * Walk `wiki/{ventures,work}/*.md` and build a `slug -> { Hero, Pull, ... }`
- * map. The new prose-first wiki uses the same bold-prefix header convention
- * as the legacy wiki, so we re-use the same parser shape rather than YAML.
- */
-async function loadNewWikiOverlay(): Promise<Map<string, Record<string, string>>> {
-  const overlay = new Map<string, Record<string, string>>()
-  let exists = true
-  try {
-    await fs.access(NEW_WIKI_ROOT)
-  } catch {
-    exists = false
-  }
-  if (!exists) return overlay
-
-  for (const dir of OVERLAY_DIRS) {
-    const root = path.join(NEW_WIKI_ROOT, dir)
-    let dirExists = true
-    try {
-      await fs.access(root)
-    } catch {
-      dirExists = false
-    }
-    if (!dirExists) continue
-
-    const entries = await fs.readdir(root, { withFileTypes: true })
-    for (const entry of entries) {
-      if (!entry.isFile() || !entry.name.endsWith('.md')) continue
-      if (SKIP_FILE_PATTERNS.some((re) => re.test(entry.name))) continue
-      const full = path.join(root, entry.name)
-      const content = await fs.readFile(full, 'utf8')
-      const fields = parseBoldPrefixHeader(content)
-      const picked: Record<string, string> = {}
-      for (const key of OVERLAY_FIELDS) {
-        const v = fields[key]
-        if (v) picked[key] = v
-      }
-      if (Object.keys(picked).length === 0) continue
-      const slug = slugify(entry.name)
-      overlay.set(slug, picked)
-    }
-  }
-  return overlay
-}
-
-function parseBoldPrefixHeader(content: string): Record<string, string> {
-  const lines = content.split('\n')
-  const h1 = lines.findIndex((l) => l.startsWith('# '))
-  if (h1 === -1) return {}
-  const out: Record<string, string> = {}
-  for (let i = h1 + 1; i < lines.length; i++) {
-    const line = lines[i]
-    if (line.startsWith('## ')) break
-    const m = line.match(/^\*\*([^:]+):\*\*\s*(.*)$/)
-    if (m) out[m[1].trim()] = m[2].trim()
-  }
-  return out
-}
-
 // ---------- Build ----------
 
 async function build(): Promise<void> {
-  // Verify legacy wiki symlink
   try {
-    await fs.access(LEGACY_WIKI_ROOT)
+    await fs.access(NEW_WIKI_ROOT)
   } catch {
-    console.error(
-      `legacy_wiki/ not found at ${LEGACY_WIKI_ROOT}. Symlink it first:\n  ln -s ~/coding/research/cool_companies legacy_wiki`,
-    )
+    console.error(`wiki/ not found at ${NEW_WIKI_ROOT}`)
     process.exit(1)
   }
 
   const allEntries: Entry[] = []
-
-  for (const source of LEGACY_SOURCES) {
-    const sourceRoot = path.join(LEGACY_WIKI_ROOT, source)
-    let exists = true
-    try {
-      await fs.access(sourceRoot)
-    } catch {
-      exists = false
-    }
-    if (!exists) {
-      console.warn(`skipping ${source} (not present)`)
-      continue
-    }
-
-    for await (const filePath of walk(sourceRoot)) {
-      const rel = path.relative(sourceRoot, filePath)
-      const segments = rel.split(path.sep)
-      // Domain folder is the first segment under the source root.
-      const domainSlug = segments.length > 1 ? segments[0] : 'other'
-      const content = await fs.readFile(filePath, 'utf8')
-      const entry = parseEntry(content, { rawPath: filePath, source, domainSlug })
-      if (entry) allEntries.push(entry)
-    }
-  }
 
   for (const source of PUBLIC_SOURCE_DIRS) {
     const sourceRoot = path.join(NEW_WIKI_ROOT, source)
@@ -311,46 +274,38 @@ async function build(): Promise<void> {
       const entry = parseEntry(content, {
         rawPath: filePath,
         source,
-        domainSlug: source === 'people' ? 'talent' : source,
+        domainSlug: '',
       })
       if (entry) allEntries.push(entry)
     }
   }
 
-  // Editorial overlay from the new prose-first wiki at `wiki/`. We merge
-  // by slug so an entry like Recursion Pharmaceuticals (which exists in
-  // both trees) picks up the hand-edited Hero / Pull from `wiki/ventures/`.
-  const overlay = await loadNewWikiOverlay()
-  let overlaid = 0
-  for (const e of allEntries) {
-    const fields = overlay.get(e.slug)
-    if (!fields) continue
-    for (const [k, v] of Object.entries(fields)) {
-      e.meta[k] = v
-    }
-    overlaid++
-  }
-
-  // Sort: tier order, then starred first, then alphabetical
+  // Sort: tier order, then source order, then starred first, then alphabetical.
   const tierOrder: Tier[] = ['S', 'A', 'B', 'C', 'D', 'F', 'P-A', 'P-B', 'P-C', 'unknown']
   const tierRank = new Map(tierOrder.map((t, i) => [t, i]))
+  const sourceRank = new Map(PUBLIC_SOURCE_DIRS.map((s, i) => [s, i]))
   allEntries.sort((a, b) => {
     const ta = tierRank.get(a.tier) ?? 99
     const tb = tierRank.get(b.tier) ?? 99
     if (ta !== tb) return ta - tb
+    const sa = sourceRank.get(a.source) ?? 99
+    const sb = sourceRank.get(b.source) ?? 99
+    if (sa !== sb) return sa - sb
     if (a.isStarred !== b.isStarred) return a.isStarred ? -1 : 1
     return a.title.localeCompare(b.title)
   })
 
-  // Tier counts (for the masthead "as of" line, eventually)
   const counts: Record<string, number> = {}
+  const sourceCounts: Partial<Record<Source, number>> = {}
   for (const e of allEntries) {
     counts[e.tier] = (counts[e.tier] ?? 0) + 1
+    sourceCounts[e.source] = (sourceCounts[e.source] ?? 0) + 1
   }
 
   const payload = {
     builtAt: new Date().toISOString(),
     counts,
+    sourceCounts,
     entries: allEntries,
   }
 
@@ -366,7 +321,11 @@ async function build(): Promise<void> {
       .map((t) => `${t}=${counts[t]}`)
       .join(' · ')}`,
   )
-  console.log(`overlaid editorial fields onto ${overlaid} entries from wiki/`)
+  console.log(
+    `sources: ${PUBLIC_SOURCE_DIRS.filter((s) => sourceCounts[s])
+      .map((s) => `${s}=${sourceCounts[s]}`)
+      .join(' · ')}`,
+  )
 }
 
 build().catch((err) => {

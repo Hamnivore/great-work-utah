@@ -47,3 +47,16 @@
 - Added repository-level `WIKI.md` registry and `wiki/WIKI.md` root marker.
 - Added sharded skill index at `wiki/index.md` plus `wiki/indexes/*.md` for 406 public pages.
 - Preserved Great Work's bold-prefix page schema and fact-layer / judgment-layer ontology.
+
+## [2026-06-19] sdk-migration | trigger.dev v3 → v4 imports + write safety
+
+- Fixed `@trigger.dev/sdk/v3` imports to `@trigger.dev/sdk` in: `trigger.config.ts`, `src/trigger/wiki-agent.ts`, `src/trigger/search-agent.ts`, `api/trigger-token.ts`. SDK already installed at ^4.4.5; only import paths were stale.
+- Added write-safety guard to `search-agent.ts` write_file handler: blocks overwrite of existing pages; returns a read-first instruction instead.
+- Lint: 0 warnings (pre-existing venture broken-source errors unrelated to this change).
+
+## [2026-06-19] judgment-layer | people pilot — 5 people pages + 4 source records
+
+- Created: `wiki/people/josh-james.md`, `ryan-smith-qualtrics.md`, `tim-latimer.md`, `karl-sun.md`. Aaron Skonnard already existed.
+- Created 4 source records: `josh-james-domo-bio.md`, `ryan-smith-qualtrics-bio.md`, `tim-latimer-fervo-bio.md`, `karl-sun-lucid-bio.md`.
+- Added `Relates: helps` back-links from `ventures/domo.md`, `ventures/qualtrics.md`, `ventures/fervo-energy.md`, `ventures/lucid-software.md`, and `work/omniture-web-analytics.md`.
+- Build: 588 entries, people=10, sources=180. Lint: 0 warnings, 23 pre-existing errors (unrelated broken-source links from migration batches).

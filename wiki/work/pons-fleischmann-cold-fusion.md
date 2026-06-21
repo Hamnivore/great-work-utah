@@ -7,6 +7,7 @@
 **Location:** University of Utah, Salt Lake City, UT
 **Updated:** 2026-06-18
 **Pull:** *A press conference before peer review turned the University of Utah into the center of a global controversy — and a lasting lesson in how not to announce a discovery.*
+**Relates:** cites [Source: Axios Salt Lake City — Cold Fusion 35 Years Later](../sources/axios-cold-fusion-35-years.md)
 
 ## Summary
 
@@ -63,6 +64,7 @@ Utah should claim the episode honestly: as a local institutional lesson, not as 
 
 ## Evidence
 
+- [Axios Salt Lake City: Cold fusion 35 years later](https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann) — [source record](../sources/axios-cold-fusion-35-years.md)
 - [Wikipedia: Cold fusion](https://en.wikipedia.org/wiki/Cold_fusion)
 - [Axios Salt Lake City: Cold fusion 35 years later](https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann)
 - [UC Berkeley Understanding Science: Cold fusion as a case study in scientific behavior](https://undsci.berkeley.edu/cold-fusion-a-case-study-for-scientific-behavior/)

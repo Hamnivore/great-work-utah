@@ -1,6 +1,6 @@
 # Work Claim: Short Name
 
-**Status:** active
+**Status:** choose-one(active | done | paused | blocked | superseded)
 **Agent:** unknown
 **Started:** YYYY-MM-DD HH:MM timezone
 **Updated:** YYYY-MM-DD HH:MM timezone
@@ -9,7 +9,7 @@
 
 What this agent is trying to finish in this run.
 
-## Owned Files / Folders
+## Broad Edit Zone
 
 - `wiki/...`
 

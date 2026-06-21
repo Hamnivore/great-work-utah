@@ -144,6 +144,8 @@ Every page is ordinary markdown with a small bold-prefix header:
 
 ## Evidence
 
+## See Also
+
 ## Open Questions
 ```
 
@@ -156,6 +158,37 @@ Python scripts parse:
 5. `##` sections -> body structure
 
 Agents read the prose for meaning. Scripts should not need to understand matching logic.
+
+## Size Discipline
+
+Pages should stay focused enough for humans, agents, and renderers to read cheaply.
+
+- One page should cover one concept: one venture, one person, one helper, one resource, one work, one source, one guide question, one match, or one saved answer.
+- Soft cap: 400 lines. When a page crosses this, summarize, split subtopics into their own pages, and link them from `## See Also`.
+- Hard cap: 800 lines. Do not let public pages grow past this; split before adding more evidence or long-running commentary.
+- Long source trails belong in `wiki/sources/`; fact and judgment pages should carry the claim, the synthesis, and the link to evidence.
+
+Splits should preserve continuity: leave a concise summary on the original page, move the detailed subtopic into a new page with a clear H1, and add reciprocal relative links in `## See Also`.
+
+## Links and Relations
+
+Cross-links are part of the data model, not decorative prose. Use ordinary relative markdown links in a `## See Also` section when a reader should navigate between pages:
+
+```markdown
+## See Also
+
+- [Nucleus Grow](../resources/nucleus-grow.md)
+- [Business Services for Utah Founders](../guides/find-business-services.md)
+```
+
+Use `**Relates:**` bold-prefix header lines when the relationship should be harvested as a graph edge. Keep the Great Work header convention; do not switch to blockquote metadata.
+
+```markdown
+**Relates:** helps [Example Biotech](../ventures/example-biotech.md)
+**Relates:** cites [Official Website: Example Biotech](../sources/example-biotech-official-site.md)
+```
+
+Allowed relation verbs for now are `helps`, `suited-for`, `recommends`, and `cites`. The relation target must be a relative markdown link into `wiki/`. `## See Also` is for navigable context; `**Relates:**` is for explainable matching and graph extraction. Use both when both are true.
 
 ## Layout
 
@@ -246,6 +279,8 @@ Python scripts and/or agents check:
 - broken wiki links
 - orphan fact pages
 - derivative pages without cited sources or fact pages
+- pages above the 400-line soft cap or 800-line hard cap
+- malformed `**Relates:**` links or unknown relation verbs
 - accidental private contact information
 
 ### Evolve

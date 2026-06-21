@@ -8,6 +8,7 @@
 **Updated:** 2026-05-09
 **Hero:** https://picsum.photos/seed/zanskar-blind-geothermal-discovery-2026/1600/1100
 **Pull:** *AI applied to seismic, geophysical, and historical drilling data — the first new blind-system geothermal discovery in three decades.*
+**Relates:** cites [Official Website: Zanskar Geothermal](../sources/zanskar-geothermal-official-website.md)
 
 ## Summary
 
@@ -43,7 +44,14 @@ Zanskar is headquartered in Salt Lake City and sits inside the same Utah geother
 
 ## Evidence
 
+- [Official Website: Zanskar Geothermal](../sources/zanskar-geothermal-official-website.md)
 - [Source: MIT Technology Review on AI Geothermal Discovery](../sources/zanskar-mit-technology-review.md)
+
+## See Also
+
+- [Fervo Energy](fervo-energy.md) — Utah EGS developer deploying the firm-power plants that Zanskar's exploration could de-risk for future developers
+- [Rodatherm Energy](rodatherm-energy.md) — closed-loop geothermal pilot in Utah's Great Basin; a different approach to the same resource constraint
+- [Torus](torus.md) — Utah grid-edge storage; complementary firm-power infrastructure for the same baseload clean-energy stack
 
 ## Open Questions
 

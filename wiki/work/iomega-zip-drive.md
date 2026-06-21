@@ -5,6 +5,9 @@
 **Focus:** hardware, storage, consumer computing, peripherals, 1990s PC era
 **Era:** Iomega founded 1980; Zip era 1995-early 2000s
 **Location:** Roy, UT
+**Updated:** 2026-06-19
+**Relates:** cites [Iomega Corp. 10-K Filing (March 1995)](../sources/iomega-sec-10k-1995.md)
+**Relates:** cites [Standard-Examiner — Iomega Still Around in Roy (2012)](../sources/iomega-standard-examiner-2012.md)
 **Pull:** *The "superfloppy" from Weber County that carried everyone's files through the gap between the floppy and the flash drive.*
 
 ## Summary
@@ -53,8 +56,8 @@ Iomega broadens the Utah computing story beyond software (the [WordPerfect/Novel
 
 ## Evidence
 
-- [Iomega Corp. 10-K (filed March 1995, via SEC/EDGAR mirror)](http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm) — primary filing describing the Zip product, March 1995 shipping date, and the parallel/SCSI versions.
-- [Standard-Examiner: Iomega still around in Roy but not like it once was (2012)](https://www.standard.net/news/business/2012/mar/09/iomega-still-around-in-roy-but-not-like-it-once-was/) — Roy origin, 1980 founding, $1.7B 1997 sales, ~2,000 Utah employees, EMC acquisition.
+- [Iomega Corp. 10-K (filed March 1995, via SEC/EDGAR mirror)](http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm) — primary filing describing the Zip product, March 1995 shipping date, and the parallel/SCSI versions. — [source record](../sources/iomega-sec-10k-1995.md)
+- [Standard-Examiner: Iomega still around in Roy but not like it once was (2012)](https://www.standard.net/news/business/2012/mar/09/iomega-still-around-in-roy-but-not-like-it-once-was/) — Roy origin, 1980 founding, $1.7B 1997 sales, ~2,000 Utah employees, EMC acquisition. — [source record](../sources/iomega-standard-examiner-2012.md)
 - [Hackaday: From Zip to Nought — the rise and fall of Iomega](https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/) — revenue trajectory, ~$7B peak valuation, OEM adoption, click-of-death history.
 - [Washington Post (1995): Iomega's Zip drive takes the pain out of backing up, moving files](https://www.washingtonpost.com/archive/business/1995/05/15/iomegas-zip-drive-takes-the-pain-out-of-backing-up-moving-files/64cec1f8-6817-495a-b8f2-fd9a1baf7cf9/) — contemporary mainstream coverage at launch.
 

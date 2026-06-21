@@ -43,8 +43,8 @@ The best fit is a technical founder who can name a research uncertainty but cann
 
 ## Evidence
 
-- [Nucleus Grow Page](../sources/nucleus-grow-page.md)
-- [Nucleus Programs Page](../sources/nucleus-programs-page.md)
+- [Nucleus Grow Page](../sources/nucleus-grow.md)
+- [Nucleus Programs Page](../sources/nucleus-programs.md)
 - [Utah Technology Innovation Funding](./utif.md)
 
 ## Open Questions

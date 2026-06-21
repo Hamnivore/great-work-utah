@@ -2,72 +2,51 @@
 
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** edtech, technology skills training, workforce upskilling, enterprise L&D, Utah tech ecosystem
-**Location:** Utah
+**Focus:** developer education, technical training, SaaS, Utah tech ecosystem
+**Location:** Utah (Draper area)
 **Updated:** 2026-06-19
-**Hero:** https://picsum.photos/seed/aaron-skonnard-pluralsight/1600/1100
-**Relates:** helps [Pluralsight](../ventures/pluralsight.md)
-**Relates:** cites [Official Website: Pluralsight](../sources/pluralsight-official-website.md)
 
 ## Summary
 
-Aaron Skonnard is publicly identified as a co-founder of [Pluralsight](../ventures/pluralsight.md), the Utah-founded online technology skills training company headquartered in Farmington, Utah. The venture page lists him alongside co-founders Keith Brown, Fritz Onion, and Bill Williams; the company was founded in 2004 and became one of the larger edtech employers rooted in Utah's Silicon Slopes cluster.
-
-Pluralsight went public in 2018, was acquired by Vista Equity Partners in a 2021 take-private transaction, and today operates as a Vista portfolio company. Public reporting and company announcements identify David Zucker as CEO (appointed 2023); Skonnard's current operating role at Pluralsight is not detailed in the wiki sources reviewed here.
+Aaron Skonnard co-founded [Pluralsight](../ventures/pluralsight.md) in 2004 with Keith Brown, Fritz Onion, and Bill Williams. Pluralsight grew into one of Utah's largest SaaS companies — a developer and technology skills training platform that serves enterprise customers. The company went public on NASDAQ in 2018 and was taken private by Vista Equity Partners in 2021. Skonnard served as CEO through the public company phase; David Zucker was appointed CEO in 2023.
 
 ## Impact
 
-Pluralsight's model — on-demand video courses, skill assessments, hands-on labs, and enterprise learning paths across cloud, security, data, software development, and AI — addressed a persistent gap between what teams need on the job and what traditional education supplies. At peak scale the company reported tens of thousands of enterprise accounts and millions of learners, helping establish Utah as a credible hub for technology training ventures, not only enterprise SaaS.
-
-As a co-founder, Skonnard is part of that multi-decade Utah tech story even as ownership and leadership have shifted under private-equity control.
+Pluralsight became one of the clearest examples of a Utah company scaling a B2B SaaS product to global enterprise markets while staying headquartered in the state. Alongside Qualtrics and Domo, Pluralsight is part of the trio that defined Silicon Slopes as a credible enterprise SaaS destination in the 2010s. Skonnard's co-founder lineage — four technical founders from a training and developer-education background — is also an instructive origin story for founders building education-adjacent software products.
 
 ## What They Offer
 
-Based on the founding role and company trajectory described in public wiki material, Skonnard likely brings:
-
-- Deep experience building and scaling a technology education platform
-- Relationships across Utah's long-tenured software and edtech community
-- Perspective on enterprise L&D, skills assessment, and catalog operations at scale
-
-Specific current advisory, investing, or board roles are not established from the Pluralsight venture page or official-website source reviewed here.
+Experience building a developer-education and technical-skills platform to IPO scale; enterprise SaaS go-to-market expertise; Utah tech ecosystem seniority from the Silicon Slopes founding generation.
 
 ## What They Are Looking For
 
-No public statements of Skonnard's personal interests or needs appear in the wiki sources cited here. Pluralsight's venture page describes company-level needs — instructional designers, subject-matter experts, engineers, enterprise sales — under Vista ownership, but those are organizational rather than personal.
+Not known from public sources. Post-CEO transition, Skonnard's current public profile and availability are less well documented; confirm before expecting ecosystem engagement.
 
 ## Proof of Work
 
-- Co-founder of Pluralsight (founded 2004, Farmington, UT headquarters)
-- Helped build a subscription learning platform that reached public markets (2018 IPO) and a reported ~$3.5B take-private acquisition (2021)
-- Part of a founding team that scaled enterprise technology upskilling across cloud, security, data, and AI content categories
+- Co-founded Pluralsight (2004); NASDAQ IPO (2018); Vista Equity take-private (2021)
+- Served as CEO through the public company phase
+- Part of the founding generation of Silicon Slopes enterprise SaaS companies
 
 ## Good Fits
 
-- Edtech founders and operators seeking perspective from a long-running Utah training platform
-- Enterprise L&D leaders evaluating skills-assessment and upskilling vendors
-- Utah ecosystem builders tracing Silicon Slopes company formation stories
-- Engineers interested in applied education technology at scale
+Founders building developer-education or technical-skills products; Utah enterprise SaaS founders looking to understand the IPO and PE take-private path; Silicon Slopes ecosystem historians and researchers.
 
 ## Public Connection Path
 
-- Pluralsight corporate website, press releases, and public company history
-- Utah tech and edtech conference networks
-- Vista Equity Partners portfolio communications (for company-level context)
-
-No direct personal email, phone, or unverified social profiles are listed here. The official Pluralsight website source documents product positioning but does not name individual founders; the co-founder attribution comes from the [Pluralsight](../ventures/pluralsight.md) venture page.
+Silicon Slopes events and Utah tech community venues. Confirm current availability before assuming active intake.
 
 ## Evidence
 
 - [Pluralsight](../ventures/pluralsight.md)
-- [Official Website: Pluralsight](../sources/pluralsight-official-website.md)
 
 ## See Also
 
 - [Pluralsight](../ventures/pluralsight.md)
+- [Ryan Smith (Qualtrics)](ryan-smith-qualtrics.md) — Qualtrics co-founder; peer in Utah's defining SaaS exits
+- [Josh James](josh-james.md) — Omniture/Domo founder; same Silicon Slopes generation
 
 ## Open Questions
 
-- What is Skonnard's current title, equity, and operating involvement at Pluralsight under Vista ownership?
-- Has he taken on visible post-founder roles — investing, nonprofit leadership, new ventures — that warrant separate wiki coverage?
-- Are there primary-source interviews or university profiles that confirm biographical details beyond the co-founder listing?
-- The placeholder hero should be replaced with a cleared portrait or event photograph.
+- What is Skonnard's current role and public availability after stepping down as CEO?
+- Is there a public intake path for founder conversations?

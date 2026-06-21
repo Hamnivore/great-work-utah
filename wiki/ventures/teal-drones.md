@@ -43,7 +43,7 @@ Useful helpers include defense-procurement and DoD program advisors, ITAR/export
 
 ## Utah Context
 
-Teal is part of the Wasatch Front defense-and-autonomy cluster alongside [Fortem Technologies](fortem-technologies.md), [IMSAR](imsar.md), and [Baxter Aerospace](baxter-aerospace.md). Utah's governor has visited the Salt Lake City facility to signal state support. Teal is one of the more visible expressions of Utah's bid to be a serious node in American drone manufacturing, though strategic and financial control sits with Puerto Rico-headquartered Red Cat Holdings.
+Teal is part of the Wasatch Front defense-and-autonomy cluster alongside [Fortem Technologies](fortem-technologies.md), [Vector](vector.md), [IMSAR](imsar.md), and [Baxter Aerospace](baxter-aerospace.md). Utah's governor has visited the Salt Lake City facility to signal state support. Teal is one of the more visible expressions of Utah's bid to be a serious node in American drone manufacturing, though strategic and financial control sits with Puerto Rico-headquartered Red Cat Holdings.
 
 ## Evidence
 

@@ -43,7 +43,7 @@ Best fits are founders who can show a real Utah customer need, a clear state reg
 
 ## Evidence
 
-- [GOEO Regulatory Relief Page](../sources/goeo-regulatory-relief-page.md)
+- [GOEO Regulatory Relief Page](../sources/goeo-regulatory-relief.md)
 
 ## Open Questions
 

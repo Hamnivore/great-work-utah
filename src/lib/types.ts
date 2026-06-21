@@ -10,7 +10,21 @@ export type Tier =
   | 'P-C'
   | 'unknown'
 
-export type Source = 'great_work' | 'places_you_can_work' | 'people' | 'resources'
+export const PUBLIC_WIKI_SOURCES = [
+  'ventures',
+  'people',
+  'helpers',
+  'resources',
+  'work',
+  'guides',
+  'matches',
+  'answers',
+  'sources',
+] as const
+
+export type PublicWikiSource = (typeof PUBLIC_WIKI_SOURCES)[number]
+export type LegacySourceAlias = 'great_work' | 'places_you_can_work'
+export type Source = PublicWikiSource | LegacySourceAlias
 
 export interface Section {
   heading: string
@@ -19,7 +33,7 @@ export interface Section {
 
 export interface Entry {
   slug: string
-  source: Source
+  source: PublicWikiSource
   title: string
   tier: Tier
   isStarred: boolean
@@ -52,5 +66,6 @@ export interface SectorNavigation {
 export interface WikiPayload {
   builtAt: string
   counts: Record<string, number>
+  sourceCounts: Partial<Record<PublicWikiSource, number>>
   entries: Entry[]
 }

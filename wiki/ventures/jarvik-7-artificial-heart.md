@@ -9,6 +9,8 @@
 **Hero:** https://upload.wikimedia.org/wikipedia/commons/b/ba/Jarvik-7_Artificial_Heart_Image_3559-OT.jpg
 **Hero caption:** *The Jarvik-7 total artificial heart, photographed for the U.S. National Institutes of Health (NHLBI image 3559) — public domain via Wikimedia Commons.*
 **Pull:** *On December 2, 1982, a 61-year-old dentist became the first person to live with a mechanical heart.*
+**Relates:** cites [University of Utah — Cardiology Artificial Heart History](../sources/jarvik-7-utah-history.md)
+**Relates:** cites [Smithsonian — Dr. Jarvik Presents Artificial Hearts to National Museum of American History](../sources/jarvik-7-smithsonian.md)
 
 ## Summary
 
@@ -44,8 +46,8 @@ The Jarvik-7 is the foundational story of the University of Utah's medical-devic
 - [Wikipedia: Robert Jarvik](https://en.wikipedia.org/wiki/Robert_Jarvik)
 - [Wikipedia: Barney Clark](https://en.wikipedia.org/wiki/Barney_Clark)
 - [Wikipedia: Willem Johan Kolff](https://en.wikipedia.org/wiki/Willem_Johan_Kolff)
-- [University of Utah artificial-heart history](https://medicine.utah.edu/cardiology/about/history/artificial-heart)
-- [Smithsonian press release: Jarvik artificial hearts at the National Museum of American History](https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history)
+- [University of Utah artificial-heart history](https://medicine.utah.edu/cardiology/about/history/artificial-heart) — [source record](../sources/jarvik-7-utah-history.md)
+- [Smithsonian press release: Jarvik artificial hearts at the National Museum of American History](https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history) — [source record](../sources/jarvik-7-smithsonian.md)
 
 ## Open Questions
 

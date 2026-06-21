@@ -45,7 +45,7 @@ It is a weaker fit for a consumer app, lifestyle business, or venture-backed Saa
 
 ## Evidence
 
-- [GOEO APEX Accelerator Page](../sources/goeo-apex-accelerator-page.md)
+- [GOEO APEX Accelerator Page](../sources/goeo-apex-accelerator.md)
 
 ## Open Questions
 

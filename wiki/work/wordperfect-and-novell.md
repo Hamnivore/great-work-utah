@@ -5,6 +5,7 @@
 **Focus:** software, word processing, networking, personal computing, Utah Valley
 **Era:** WordPerfect 1979-1996; Novell 1979/1983-2014; peak influence late 1980s to mid-1990s
 **Location:** Orem and Provo, UT
+**Updated:** 2026-06-19
 **Pull:** *For about a decade, the world's most-used word processor and its most-used office network both shipped from Utah Valley.*
 
 ## Summary
@@ -64,8 +65,11 @@ The human and financial legacy is direct. When Novell bought WordPerfect in 1994
 - [Network World: Novell through the years](https://www.networkworld.com/article/716525/data-center-novell-through-the-years.html) — 1979/1983 timeline, 70% share, WordPerfect acquisition.
 - [Computerworld: "Mr. NetWare" leaves with Volera](https://www.computerworld.com/article/1572250/mr-netware-leaves-with-volera.html) — the Major/Powell/Neibaur BYU origin of NetWare.
 
+## See Also
+
+- [WordPerfect and Novell Historical Sources](../sources/wordperfect-novell-historical-sources.md)
+
 ## Open Questions
 
 - Exact peak WordPerfect market-share figures vary by survey and by "DOS vs. Windows vs. legal vertical" framing; the page uses ranges rather than a single number. A primary market-research citation would tighten this.
-- Whether WordPerfect and Novell each deserve their own `work/` pages (or `ventures/` entries) rather than a combined page; combined here because the Utah-Valley software story is strongest told together.
 - A stronger primary source (annual report or SEC filing) for Novell's installed-base and revenue peak would raise confidence on specific numbers.

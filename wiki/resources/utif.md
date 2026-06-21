@@ -42,8 +42,8 @@ UTIF is best for a technical Utah company that already has a target SBIR/STTR to
 
 ## Evidence
 
-- [Nucleus UTIF Page](../sources/nucleus-utif-page.md)
-- [Nucleus Grow Page](../sources/nucleus-grow-page.md)
+- [Nucleus UTIF Page](../sources/nucleus-utif.md)
+- [Nucleus Grow Page](../sources/nucleus-grow.md)
 
 ## Open Questions
 

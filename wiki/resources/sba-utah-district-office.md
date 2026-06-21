@@ -39,7 +39,7 @@ It is probably not the first answer for a university researcher validating wheth
 
 ## Evidence
 
-- [SBA Utah District Office Page](../sources/sba-utah-district-office-page.md)
+- [SBA Utah District Office Page](../sources/sba-utah-district-office.md)
 - [Startup State Resource Filter](./startup-state-resource-list.md)
 
 ## Open Questions

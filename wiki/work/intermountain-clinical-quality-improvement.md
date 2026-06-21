@@ -5,7 +5,9 @@
 **Focus:** healthcare delivery science, clinical quality improvement, learning health system, process control
 **Era:** late 1980s-present; clinical-process "active management" initiative began 1996
 **Location:** Intermountain Healthcare / Intermountain Health, Salt Lake City, UT
+**Updated:** 2026-06-19
 **Pull:** *A Utah health system treated care delivery itself as something to measure, engineer, and improve — without flattening clinical judgment.*
+**Relates:** cites [Source: Intermountain Clinical Quality Improvement Sources](../sources/intermountain-clinical-quality-improvement-sources.md)
 
 ## Summary
 
@@ -51,6 +53,7 @@ Utah is an unusually good place for this kind of work because Intermountain is a
 
 ## Evidence
 
+- [Source: Intermountain Clinical Quality Improvement Sources](../sources/intermountain-clinical-quality-improvement-sources.md)
 - [Intermountain Health: Advanced Training Program (ATP)](https://intermountainhealthcare.org/for-professionals/hdi/atp)
 - [AcademyHealth: Brent James, M.D., M.Stat. bio](https://academyhealth.org/about/people/brent-james-md-mstat)
 - [AHRQ PSNet: In Conversation with Brent C. James](https://psnet.ahrq.gov/perspective/conversation-withbrent-c-james-md-mstat)

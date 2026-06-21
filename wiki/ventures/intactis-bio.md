@@ -9,6 +9,7 @@
 **Hero:** /img/heroes/front/intactis-bio-1600.webp
 **Hero caption:** *AI-generated illustration of a microfluidic biochip cradling living neural tissue, wired to a silicon microelectrode array — temporary synthetic placeholder, not a photograph of the actual Intactis Bio device. Replace with a license-cleared Intactis Bio image before any production use.*
 **Pull:** *3D-printed living neurons, wired to silicon, asked to do matrix math.*
+**Relates:** cites [PR Newswire — Lab-Grown Neurons "Hello World" and $250K Raise](../sources/intactis-bio-prnewswire.md)
 
 ## Summary
 
@@ -44,7 +45,7 @@ Intactis is a resident of [Altitude Lab](https://altitudelab.org/), the Recursio
 
 - [Intactis Bio website](https://www.intactis.bio/)
 - [Intactis Bio biocomputation alpha](https://www.intactis.bio/biocomputation-alpha)
-- [PR Newswire: lab-grown neurons say "Hello, World"](https://www.prnewswire.com/news-releases/lab-grown-neurons-say-hello-world-and-perform-matrix-math-on-automated-platform-intactis-bio-corp-raises-250k-from-nucleus-fund-302724652.html)
+- [PR Newswire: lab-grown neurons say "Hello, World"](https://www.prnewswire.com/news-releases/lab-grown-neurons-say-hello-world-and-perform-matrix-math-on-automated-platform-intactis-bio-corp-raises-250k-from-nucleus-fund-302724652.html) — [source record](../sources/intactis-bio-prnewswire.md)
 - [TechBuzz News: Intactis Bio and living neural tissue](https://www.techbuzznews.com/intactis-bio-pioneering-energy-efficient-ai-with-living-neural-tissue/)
 - [Utah Business: Utah AI momentum and Intactis Bio](https://www.utahbusiness.com/deal-dispatch/2026/03/03/deal-dispatch-utah-ai-momentum-deep-tech-jump-intactis-bio-nucleus-fund/)
 

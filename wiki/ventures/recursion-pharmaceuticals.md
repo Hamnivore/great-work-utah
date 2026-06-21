@@ -46,7 +46,7 @@ Recursion is headquartered in downtown Salt Lake City and is a visible anchor fo
 
 ## Evidence
 
-- [Official Website: Recursion Mission Page](../sources/recursion-mission-page.md)
+- [Official Website: Recursion Mission Page](../sources/recursion-mission.md)
 
 ## Open Questions
 

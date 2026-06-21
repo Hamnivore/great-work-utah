@@ -1,4 +1,4 @@
-import { task, metadata } from "@trigger.dev/sdk/v3";
+import { task, metadata } from "@trigger.dev/sdk";
 import OpenAI from "openai";
 import fs from "node:fs/promises";
 import { execFileSync } from "node:child_process";
@@ -281,11 +281,18 @@ export const searchAgent = task({
           const line = `\n\n💾 write_file("${args.path}")\n`;
           thinkingAcc += line;
           await metadata.set("thinking", thinkingAcc);
-          result = await ghWriteFile(
-            `wiki/${args.path}`,
-            args.content,
-            args.commit_message ?? `search-agent: update ${args.path}`,
-          );
+          // Safety: read first so we don't blindly overwrite existing wiki pages.
+          const existing = await readFile(args.path);
+          const exists = !existing.startsWith("Error");
+          if (exists) {
+            result = `Write blocked: wiki/${args.path} already exists (${existing.length} chars). Call read_file("${args.path}") to review it, then decide whether an update is needed. If you want to update, call write_file again with the full merged content.`;
+          } else {
+            result = await ghWriteFile(
+              `wiki/${args.path}`,
+              args.content,
+              args.commit_message ?? `search-agent: add ${args.path}`,
+            );
+          }
         } else {
           result = "Unknown tool";
         }

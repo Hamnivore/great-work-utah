@@ -37,7 +37,7 @@ Best fits include a woman founder at the idea, startup, or growth stage who need
 
 ## Evidence
 
-- [Women's Business Center of Utah Page](../sources/womens-business-center-of-utah-page.md)
+- [Women's Business Center of Utah Page](../sources/womens-business-center-of-utah.md)
 - [Startup State Resource Filter](./startup-state-resource-list.md)
 
 ## Open Questions

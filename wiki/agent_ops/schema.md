@@ -148,9 +148,28 @@ Hero            landscape image for the layout
 Hero caption    optional caption for the hero
 Portrait        tall image for cover-story
 Pull            italicized pull-quote subtitle
+Relates         repeatable graph relation: verb + relative markdown link
 ```
 
 Headers are for navigation and maintenance. **Judgment belongs in the prose.**
+
+Use `Relates` only for relationships that should become graph edges. Keep it as a bold-prefix line, and repeat it once per edge:
+
+```markdown
+**Relates:** helps [Example Biotech](../ventures/example-biotech.md)
+**Relates:** cites [Official Website: Example Biotech](../sources/example-biotech-official-site.md)
+```
+
+Allowed relation verbs are:
+
+```txt
+helps          helper/resource/person -> venture/person/work
+suited-for     person/helper/resource -> venture/work/guide audience
+recommends     guide/match/answer -> fact page
+cites          any public page -> source/fact page
+```
+
+The target must be a relative markdown link into the public `wiki/` tree. Do not use wiki IDs, bare slugs, or absolute URLs in `Relates`.
 
 ### Allowed values
 
@@ -161,6 +180,35 @@ Strength:   Weak | Plausible | Strong | Exceptional | Unknown
 ```
 
 Use ordinary comma-separated text for `Focus`, `Location`, and `Audience`. Don't force controlled vocabularies until a real validation need emerges.
+
+## Page Size
+
+Keep public pages compact enough for repeated human and agent reads.
+
+- One page, one concept. A page should be about one entity, one source, one guide question, one match, or one saved answer.
+- Soft cap: 400 lines. Past this point, split the page unless the extra length clearly improves decisions.
+- Hard cap: 800 lines. Do not keep adding to a page above this cap.
+- When splitting, leave a short summary on the original page, move detailed subtopics into focused pages, and add reciprocal `## See Also` links.
+- Long evidence trails belong in `sources/`; fact and judgment pages should synthesize the claims and link to the evidence.
+
+## Links, See Also, and Relations
+
+Use relative markdown links for public wiki navigation. Prefer links that would still work if the page is read on GitHub:
+
+```markdown
+[Nucleus Grow](../resources/nucleus-grow.md)
+```
+
+Every page may include a `## See Also` section near the end. Use it for navigable context, split-page continuity, and related pages a reader should inspect next:
+
+```markdown
+## See Also
+
+- [Example IP Firm](../helpers/example-ip-firm.md)
+- [Business Services for Utah Founders](../guides/find-business-services.md)
+```
+
+`## See Also` is a human-readable link structure. `**Relates:**` is the machine-harvestable relation structure for explainable matching. Use both when both are true.
 
 ## Layouts and Imagery
 
@@ -272,6 +320,7 @@ Startups, labs, spinouts, companies, nonprofits, serious initiatives.
 ## Who Could Help
 ## Utah Context
 ## Evidence
+## See Also
 ## Open Questions
 ```
 
@@ -296,6 +345,7 @@ Founders, operators, researchers, students, executives, candidates, contributors
 ## Good Fits
 ## Public Connection Path
 ## Evidence
+## See Also
 ## Open Questions
 ```
 
@@ -323,6 +373,7 @@ Mentors, advisors, fractional executives, angel investors, venture funds, attorn
 ## Good Matches
 ## Cautions
 ## Evidence
+## See Also
 ## Open Questions
 ```
 
@@ -358,6 +409,7 @@ Reusable support paths: grants, accelerators, state programs, labs, facilities, 
 ## Cost / Eligibility
 ## Best Fits
 ## Evidence
+## See Also
 ## Open Questions
 ```
 
@@ -382,6 +434,7 @@ Examples of great Utah work, historical or current.
 ## People and Institutions
 ## Lessons for Builders
 ## Evidence
+## See Also
 ## Open Questions
 ```
 
@@ -404,6 +457,7 @@ Source records and raw intake notes.
 ## Useful Claims
 ## Reliability Notes
 ## Related Pages
+## See Also
 ```
 
 Source pages use `Confidence` to describe source reliability, not the truth of every claim inside.
@@ -435,6 +489,7 @@ Maps, playbooks, contextual tier lists, journey pages.
 ### Useful But Situational
 ## Caveats
 ## Sources
+## See Also
 ## Open Questions
 ```
 
@@ -475,6 +530,7 @@ Specific recommendation artifacts.
 ## Risks and Unknowns
 ## Suggested Next Step
 ## Evidence
+## See Also
 ```
 
 Never imply private willingness, availability, endorsement, or a relationship unless it is sourced or came from an explicit intake submission.
@@ -499,6 +555,7 @@ Saved Ask articles and one-off syntheses.
 ## What To Read Next
 ## Caveats
 ## Sources
+## See Also
 ```
 
 If an answer is durable and broadly useful, later promote or summarize it into a guide.
@@ -523,7 +580,7 @@ Create or update source pages for:
 Use inline wiki IDs when useful:
 
 ```markdown
-The program appears designed for research-backed ventures moving toward commercialization. [source:nucleus-grow-page]
+The program appears designed for research-backed ventures moving toward commercialization. [source:nucleus-grow]
 ```
 
 Use cautious language when source quality is weak:
@@ -585,4 +642,8 @@ Minimum validation:
 - no duplicate inferred IDs
 - derivative pages cite or name their source pages in `Derived From`, `Parties`, `Evidence`, or body text
 - source pages include either `URL` or a clear explanation of the source origin
+- relative wiki links in `## See Also` resolve
+- `Relates` lines use an allowed verb and a relative markdown link into `wiki/`
+- pages above 400 lines are flagged for review
+- pages above 800 lines fail validation until split
 - private contact information is not present in public pages

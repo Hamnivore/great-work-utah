@@ -46,7 +46,7 @@ USBCI is a better fit for revenue-generating or asset-backed businesses than for
 
 ## Evidence
 
-- [GOEO USBCI Page](../sources/goeo-usbci-page.md)
+- [GOEO USBCI Page](../sources/goeo-usbci.md)
 
 ## Open Questions
 

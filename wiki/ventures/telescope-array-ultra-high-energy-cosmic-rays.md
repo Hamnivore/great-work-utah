@@ -9,6 +9,7 @@
 **Hero:** /img/heroes/front/telescope-array-1600.webp
 **Hero caption:** *The Black Rock Mesa fluorescence-detector site of the Telescope Array, west of Delta, Utah — photograph by John N. Matthews / telescopearray.org (Wikimedia Commons, CC BY-SA 3.0).*
 **Pull:** *Hundreds of square kilometers of Utah desert, listening for the most energetic particles ever measured.*
+**Relates:** cites [Official Website: Telescope Array Project](../sources/telescope-array-official-website.md)
 
 ## Summary
 
@@ -42,7 +43,7 @@ The Telescope Array sits in the West Desert of Millard County, west of Delta, on
 
 ## Evidence
 
-- [Telescope Array Project — official site](https://www.telescopearray.org/)
+- [Telescope Array Project — official site](https://www.telescopearray.org/) — [source record](../sources/telescope-array-official-website.md)
 - [University of Utah cosmic-ray group](https://www.cosmic.utah.edu/)
 - [University of Tokyo ICRR Telescope Array group](https://www.icrr.u-tokyo.ac.jp/en/research/cosmic-ray/telescope-array/)
 - [Wikipedia: Telescope Array Project](https://en.wikipedia.org/wiki/Telescope_Array_Project)

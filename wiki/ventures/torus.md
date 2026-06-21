@@ -9,6 +9,7 @@
 **Hero:** https://picsum.photos/seed/torus-flywheel-slc/1600/1100
 **Hero caption:** *Placeholder image. A license-clean photograph of a Torus flywheel unit or the GigaOne campus is still needed — see Open Questions.*
 **Pull:** *Spinning steel plus batteries, built in Utah, aimed at the grid's hardest short-duration problems.*
+**Relates:** cites [Official Website: Torus](../sources/torus-official-website.md)
 
 ## Summary
 
@@ -44,6 +45,7 @@ Torus is a genuinely Utah-rooted hard-tech company: founded in the state, protot
 
 ## Evidence
 
+- [Official Website: Torus](../sources/torus-official-website.md)
 - [Source: Torus $200M Magnetar Investment](../sources/torus-magnetar-raise.md)
 - [Source: Trinity Capital Equipment Financing for Torus](../sources/torus-trinity-equipment-financing.md)
 

@@ -44,7 +44,7 @@ SDL is headquartered in North Logan and is tied to Utah State University. Its hi
 
 ## Evidence
 
-- [Official Source: Space Dynamics Laboratory About Page](../sources/sdl-about-page.md)
+- [Official Source: Space Dynamics Laboratory About Page](../sources/sdl-about.md)
 
 ## Open Questions
 

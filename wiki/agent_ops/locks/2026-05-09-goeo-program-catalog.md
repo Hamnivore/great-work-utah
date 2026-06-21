@@ -29,11 +29,11 @@ Create a first pass for five official GOEO program resources: APEX Accelerator, 
 - `wiki/resources/utah-small-business-credit-initiative.md`
 - `wiki/resources/utah-center-for-global-talent.md`
 - `wiki/resources/international-trade-and-diplomacy.md`
-- `wiki/sources/goeo-apex-accelerator-page.md`
-- `wiki/sources/goeo-regulatory-relief-page.md`
-- `wiki/sources/goeo-usbci-page.md`
-- `wiki/sources/goeo-global-talent-page.md`
-- `wiki/sources/goeo-international-trade-diplomacy-page.md`
+- `wiki/sources/goeo-apex-accelerator.md`
+- `wiki/sources/goeo-regulatory-relief.md`
+- `wiki/sources/goeo-usbci.md`
+- `wiki/sources/goeo-global-talent.md`
+- `wiki/sources/goeo-international-trade-diplomacy.md`
 - `wiki/guides/find-business-services.md`
 - `wiki/guides/startup-capital-in-utah.md`
 - `wiki/guides/commercialize-research.md`

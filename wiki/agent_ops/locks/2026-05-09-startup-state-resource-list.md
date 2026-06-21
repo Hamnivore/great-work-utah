@@ -20,9 +20,9 @@ Complete a scoped first pass on the `startup.utah.gov` resource-list seed item b
 - `wiki/sources/startup-utah-official-site.md`
 - `wiki/sources/startup-utah-resource-list.md`
 - `wiki/sources/utah-sbdc-official-site.md`
-- `wiki/sources/sba-utah-district-office-page.md`
-- `wiki/sources/score-utah-page.md`
-- `wiki/sources/womens-business-center-of-utah-page.md`
+- `wiki/sources/sba-utah-district-office.md`
+- `wiki/sources/score-utah.md`
+- `wiki/sources/womens-business-center-of-utah.md`
 - `wiki/guides/find-business-services.md`
 - `wiki/guides/startup-capital-in-utah.md`
 - `wiki/guides/commercialize-research.md`
@@ -68,9 +68,9 @@ Complete a scoped first pass on the `startup.utah.gov` resource-list seed item b
 - `wiki/sources/startup-utah-official-site.md`
 - `wiki/sources/startup-utah-resource-list.md`
 - `wiki/sources/utah-sbdc-official-site.md`
-- `wiki/sources/sba-utah-district-office-page.md`
-- `wiki/sources/score-utah-page.md`
-- `wiki/sources/womens-business-center-of-utah-page.md`
+- `wiki/sources/sba-utah-district-office.md`
+- `wiki/sources/score-utah.md`
+- `wiki/sources/womens-business-center-of-utah.md`
 - `wiki/guides/find-business-services.md`
 - `wiki/guides/startup-capital-in-utah.md`
 - `wiki/guides/commercialize-research.md`

@@ -51,7 +51,7 @@ It is less direct for nonstudent companies unless they are mentoring, sponsoring
 
 ## Evidence
 
-- [UVU Baugh Entrepreneurship Institute Page](../sources/uvu-baugh-entrepreneurship-institute-page.md)
+- [UVU Baugh Entrepreneurship Institute Page](../sources/uvu-baugh-entrepreneurship-institute.md)
 - [Startup State Resource List source note](../sources/startup-utah-resource-list.md)
 
 ## Open Questions

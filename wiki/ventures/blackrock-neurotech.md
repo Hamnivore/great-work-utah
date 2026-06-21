@@ -51,3 +51,8 @@ Blackrock is part of a small but globally outsized Utah neuroengineering cluster
 - The Tether majority stake reshapes the company's capital base and governance; observers should watch which Neuralace and BCI roadmap items get prioritized, and whether the unusual ownership structure helps or constrains FDA-track work.
 - Competitors (Neuralink, Synchron, Precision Neuroscience) are pursuing related goals with very different funding and architecture; Blackrock's institutional advantage is its 30,000-patient-day track record, but the field is intensifying.
 - The current hero is hotlinked from WIRED's CDN. It shows Nathan Copeland (a University of Pittsburgh BCI patient with a Utah Electrode Array implant) rather than a Blackrock employee or facility, and image rights have not been cleared. Replace with a Blackrock-approved photograph or an independently licensed neural-engineering image before any production use.
+
+## See Also
+
+- [Florian Solzbacher](../people/florian-solzbacher.md)
+- [Blackrock Neurotech ↔ Nucleus Fund](../matches/blackrock-neurotech-x-nucleus-fund.md)

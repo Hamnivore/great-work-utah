@@ -8,6 +8,7 @@
 **Updated:** 2026-05-09
 **Hero:** https://picsum.photos/seed/merit-medical-interventional-catheter-2026/1600/1100
 **Pull:** *Quietly making the disposable devices that interventional cardiologists, radiologists, and oncologists use every day.*
+**Relates:** cites [Official Website: Merit Medical Systems](../sources/merit-medical-official-website.md)
 
 ## Summary
 
@@ -43,6 +44,7 @@ Merit is the largest medical-device employer in the Mountain West. South Jordan 
 
 ## Evidence
 
+- [Official Website: Merit Medical Systems](../sources/merit-medical-official-website.md)
 - [Source: Pentax C2 CryoBalloon Acquisition Announcement](../sources/merit-medical-pentax-cryoballoon-acquisition.md)
 
 ## Open Questions

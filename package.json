@@ -5,6 +5,9 @@
   "type": "module",
   "scripts": {
     "build:wiki": "tsx scripts/build-wiki-index.ts",
+    "build:wiki:skill-index": "node scripts/build-wiki-skill-index.mjs",
+    "lint:wiki": "node scripts/wiki-lint.mjs",
+    "report:source-coverage": "node scripts/wiki-source-coverage.mjs",
     "dev": "npm run build:wiki && vite",
     "build": "npm run build:wiki && tsc -b && vite build",
     "lint": "eslint .",

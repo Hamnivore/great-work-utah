@@ -33,11 +33,11 @@ For Utah talent, the more realistic connection is through UTTR operations, range
 
 ## Who Could Help
 
-Useful helpers include FAA commercial space licensing advisors, Air Force range-access facilitators, pharmaceutical partners validating microgravity-grown products, and Utah economic-development staff positioning the state for reentry and recovery services. [Utah Test and Training Range](../work/utah-test-and-training-range.md) context is essential background.
+Useful helpers include FAA commercial space licensing advisors, Air Force range-access facilitators, pharmaceutical partners validating microgravity-grown products, and Utah economic-development staff positioning the state for reentry and recovery services. [Utah Test and Training Range (UTTR)](uttr.md) and the deeper institutional history at [Utah Test and Training Range](../work/utah-test-and-training-range.md) are essential background.
 
 ## Utah Context
 
-Varda is the notable non-military commercial user of UTTR reentry infrastructure documented in public reporting. That makes it a reference point when thinking about Utah's space-and-defense assets beyond Hill Air Force Base and Northrop Grumman's solid-rocket work. The Utah connection appears to be diminishing as landings move to Australia, but the 2024 W-1 landing remains a landmark data point for what commercial space can do in the state.
+Varda is the notable non-military commercial user of [UTTR](uttr.md) reentry infrastructure documented in public reporting. That makes it a reference point when thinking about Utah's space-and-defense assets beyond Hill Air Force Base and Northrop Grumman's solid-rocket work. The Utah connection appears to be diminishing as landings move to Australia, but the 2024 W-1 landing remains a landmark data point for what commercial space can do in the state.
 
 ## Evidence
 

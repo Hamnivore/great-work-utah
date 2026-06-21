@@ -9,6 +9,7 @@
 **Hero:** /img/heroes/front/fervo-1600.webp
 **Hero caption:** *Cape Station drill site, Beaver County, Utah, 2023. Hotlinked from Fervo Energy's own press release on the groundbreaking; image rights with Fervo and not yet cleared for the wiki — replace with a license-clean photograph before any production use.*
 **Pull:** *Drilling-industry tools repurposed for clean, firm geothermal — at four hundred megawatts in southwest Utah.*
+**Relates:** helps [Tim Latimer](../people/tim-latimer.md); cites [Official Website: Fervo Energy](../sources/fervo-energy-official-website.md)
 
 ## Summary
 
@@ -48,7 +49,14 @@ One important caveat: Fervo's corporate headquarters are not in Utah. The Utah p
 
 ## Evidence
 
+- [Official Website: Fervo Energy](../sources/fervo-energy-official-website.md)
 - [Official Source: Fervo Cape Station Groundbreaking](../sources/fervo-cape-station-groundbreaking.md)
+
+## See Also
+
+- [Rodatherm Energy](rodatherm-energy.md) — closed-loop geothermal pilot in Utah's Great Basin (sedimentary basins vs. Fervo's fracture-based EGS)
+- [Zanskar Geothermal](zanskar-geothermal.md) — AI-driven geothermal exploration platform, Salt Lake City
+- [Torus](torus.md) — Utah grid-edge storage; complementary firm-power infrastructure
 
 ## Open Questions
 

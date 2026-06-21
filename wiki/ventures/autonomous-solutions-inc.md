@@ -8,6 +8,7 @@
 **Updated:** 2026-06-18
 **Hero:** https://picsum.photos/seed/asi-mobius-off-road-autonomy-2026/1600/1100
 **Pull:** *Twenty-five years of OEM-agnostic autonomy for tractors, haul trucks, and industrial fleets — Mobius at industrial scale.*
+**Relates:** cites [Source: ASI Construction Launch with SoftBank and Lehi Office](../sources/asi-construction-softbank.md)
 
 ## Summary
 
@@ -49,6 +50,7 @@ ASI is a flagship Utah robotics story: USU spinout, Mendon roots, growing Wasatc
 ## Evidence
 
 - [Official Website: Autonomous Solutions, Inc.](../sources/autonomous-solutions-inc-official-website.md)
+- [Source: ASI Construction Launch with SoftBank and Lehi Office](../sources/asi-construction-softbank.md)
 
 ## Open Questions
 

@@ -45,7 +45,7 @@ The strongest fit is a company with paying customers or validated demand that ca
 
 ## Evidence
 
-- [GOEO International Trade And Diplomacy Page](../sources/goeo-international-trade-diplomacy-page.md)
+- [GOEO International Trade And Diplomacy Page](../sources/goeo-international-trade-diplomacy.md)
 
 ## Open Questions
 

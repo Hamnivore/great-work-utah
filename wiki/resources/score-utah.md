@@ -39,7 +39,7 @@ Avoid implying a specific mentor is available unless the founder has used the SC
 
 ## Evidence
 
-- [SCORE Utah Page](../sources/score-utah-page.md)
+- [SCORE Utah Page](../sources/score-utah.md)
 - [Startup State Resource Filter](./startup-state-resource-list.md)
 
 ## Open Questions

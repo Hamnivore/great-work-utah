@@ -5,6 +5,10 @@
 **Focus:** software, SaaS, web analytics, digital marketing, enterprise software
 **Era:** 1996-2009 as an independent company; continued inside Adobe
 **Location:** Orem and Lehi, UT
+**Updated:** 2026-06-19
+**Relates:** cites [SEC/EDGAR — Adobe Acquisition of Omniture (14D-9, 2009)](../sources/omniture-adobe-sec-14d9-2009.md)
+**Relates:** cites [Deseret News — Adobe Buys Orem's Omniture for $1.8B (2009)](../sources/omniture-deseret-news-2009.md)
+**Relates:** helps [Josh James](../people/josh-james.md)
 **Pull:** *Utah's biggest software exit of its era taught the web to measure itself.*
 
 ## Summary
@@ -53,8 +57,8 @@ Omniture sits in the same Utah Valley software lineage as [WordPerfect and Novel
 
 ## Evidence
 
-- [SEC / EDGAR: Adobe to Acquire Omniture (Schedule 14D-9, Sept. 15, 2009)](https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm) — primary filing: $1.8B value, $21.50/share, Orem HQ, James to become Adobe SVP.
-- [Deseret News (2009): Software giant Adobe buys Orem's Omniture for $1.8B](https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/) — ~600 Orem employees, local impact, retention.
+- [SEC / EDGAR: Adobe to Acquire Omniture (Schedule 14D-9, Sept. 15, 2009)](https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm) — primary filing: $1.8B value, $21.50/share, Orem HQ, James to become Adobe SVP. — [source record](../sources/omniture-adobe-sec-14d9-2009.md)
+- [Deseret News (2009): Software giant Adobe buys Orem's Omniture for $1.8B](https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/) — ~600 Orem employees, local impact, retention. — [source record](../sources/omniture-deseret-news-2009.md)
 - [Wikipedia: Omniture](https://en.wikipedia.org/wiki/Omniture) — founding (1996), products, Oct. 23, 2009 close, integration into Adobe Marketing Cloud.
 - [CNNMoney: Adobe buying Omniture for $1.8 billion](https://money.cnn.com/2009/09/15/technology/adobe_omniture/) — national coverage of the deal.
 

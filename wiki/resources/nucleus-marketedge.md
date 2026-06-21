@@ -37,8 +37,8 @@ MarketEdge is a strong fit for a researcher who has promising work but has not y
 
 ## Evidence
 
-- [Nucleus MarketEdge Page](../sources/nucleus-marketedge-page.md)
-- [Nucleus Programs Page](../sources/nucleus-programs-page.md)
+- [Nucleus MarketEdge Page](../sources/nucleus-marketedge.md)
+- [Nucleus Programs Page](../sources/nucleus-programs.md)
 
 ## Open Questions
 

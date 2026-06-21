@@ -52,3 +52,8 @@ Halia anchors a small but serious clinical-stage drug-discovery presence in the 
 - Current headcount, named investors, and whether founders retain control are not confirmed here.
 - Press-release and conference-abstract data are leads, not independent proof; peer-reviewed, fuller datasets would strengthen the efficacy claims.
 - Imagery is a deterministic placeholder. A license-cleared lab, team, or molecular-graphic image approved by the company should replace it before this renders as a marquee page.
+
+## See Also
+
+- [Dave Bearss](../people/dave-bearss.md)
+- [Huntsman Cancer Institute](huntsman-cancer-institute.md)

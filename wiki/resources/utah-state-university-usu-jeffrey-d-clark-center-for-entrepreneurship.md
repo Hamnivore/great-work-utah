@@ -51,7 +51,7 @@ It is less direct for a nonstudent founder who only needs capital, manufacturing
 
 ## Evidence
 
-- [USU Center for Entrepreneurship Page](../sources/usu-center-for-entrepreneurship-page.md)
+- [USU Center for Entrepreneurship Page](../sources/usu-center-for-entrepreneurship.md)
 - [Startup State Resource List source note](../sources/startup-utah-resource-list.md)
 
 ## Open Questions

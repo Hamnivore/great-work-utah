@@ -41,7 +41,7 @@ Best fits are employers with a real workforce bottleneck and an interest in resp
 
 ## Evidence
 
-- [GOEO Utah Center For Global Talent Page](../sources/goeo-global-talent-page.md)
+- [GOEO Utah Center For Global Talent Page](../sources/goeo-global-talent.md)
 
 ## Open Questions
 

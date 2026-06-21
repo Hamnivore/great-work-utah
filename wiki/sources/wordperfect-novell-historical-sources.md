@@ -26,4 +26,4 @@ The current official product site is reliable for modern product ownership and p
 
 ## Related Pages
 
-- [WordPerfect and Novell's Utah Software Ambition](../work/wordperfect-novell.md)
+- [WordPerfect and Novell's Utah Software Ambition](../work/wordperfect-and-novell.md)

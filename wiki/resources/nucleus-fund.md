@@ -44,7 +44,7 @@ It may be premature for a professor who is still deciding whether a company shou
 ## Evidence
 
 - [Nucleus Fund Website](../sources/nucleus-fund-website.md)
-- [Nucleus Programs Page](../sources/nucleus-programs-page.md)
+- [Nucleus Programs Page](../sources/nucleus-programs.md)
 
 ## Open Questions
 

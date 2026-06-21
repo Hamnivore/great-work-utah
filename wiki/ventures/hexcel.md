@@ -8,6 +8,7 @@
 **Updated:** 2026-05-09
 **Hero:** https://picsum.photos/seed/hexcel-aerospace-carbon-fiber-2026/1600/1100
 **Pull:** *The world's largest producer of aerospace carbon fiber, with much of the work happening on the Wasatch Front.*
+**Relates:** cites [Official Website: Hexcel](../sources/hexcel-official-website.md)
 
 ## Summary
 

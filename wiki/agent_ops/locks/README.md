@@ -12,7 +12,7 @@ It is not a real lock. It is a visible "hey, I am working on this" claim so agen
 
 ## How To Claim Work
 
-Before editing wiki pages, create a file in this folder:
+Before editing wiki pages, create a file in this folder. Timestamped filenames are preferred for crowded runs, but older date-only claims are valid history:
 
 ```txt
 wiki/agent_ops/locks/YYYY-MM-DD-HHMM-agent-slug.md
@@ -40,11 +40,13 @@ At the start of a run:
 
 At the end of a run:
 
-1. Update your claim status to `done`, `paused`, or `blocked`.
+1. Update your claim status to `done`, `paused`, `blocked`, or `superseded`.
 2. List files changed and files that still need attention.
 3. Leave the file in place as a handoff note.
 
 ## Active Versus Stale
+
+A claim with `Status: done`, `Status: complete`, `Status: completed`, or `Status: superseded` is historical. Prefer `done` for finished claims and `superseded` when a later boss completed or replaced the slice.
 
 A claim is probably stale if:
 
@@ -52,7 +54,7 @@ A claim is probably stale if:
 - it has no recent update,
 - and the agent is not actively running.
 
-If you take over stale work, create a new claim and mention the old claim you are superseding.
+If a file has contradictory statuses, read its handoff before treating it as active. If you take over stale work, create a new claim and mention the old claim you are superseding. Do not leave broad active claims open after narrower bosses finish the work; mark the old broad claim `superseded` or `paused`.
 
 ## Shared Files
 

@@ -357,29 +357,29 @@ Source records and raw intake notes.
 - `sources/familysearch-official-site.md` — **Source: FamilySearch Official Site and Library Statistics** — Official Website with the genealogy collection's scale and the 1894 Genealogical Society of Utah origin.
 - `sources/fervo-cape-station-groundbreaking.md` — **Official Source: Fervo Cape Station Groundbreaking** — Press Release announcing the Cape Station enhanced-geothermal project in Beaver County.
 - `sources/fortem-official-website.md` — **Official Website: Fortem Technologies** — Fortem's product families: TrueView radar, DroneHunter interceptors, SkyDome.
-- `sources/goeo-apex-accelerator-page.md` — **GOEO APEX Accelerator Page** — Official Program Page for Utah's procurement-assistance program.
-- `sources/goeo-global-talent-page.md` — **GOEO Utah Center For Global Talent Page** — Official Program Page for global talent recruitment and retention.
-- `sources/goeo-international-trade-diplomacy-page.md` — **GOEO International Trade And Diplomacy Page** — Official Program Page for Utah's international business promotion work.
-- `sources/goeo-regulatory-relief-page.md` — **GOEO Regulatory Relief Page** — Official Program Page describing Utah's general regulatory sandbox.
-- `sources/goeo-usbci-page.md` — **GOEO USBCI Page** — Official Program Page for Utah's federal SSBCI implementation.
+- `sources/goeo-apex-accelerator.md` — **GOEO APEX Accelerator Page** — Official Program Page for Utah's procurement-assistance program.
+- `sources/goeo-global-talent.md` — **GOEO Utah Center For Global Talent Page** — Official Program Page for global talent recruitment and retention.
+- `sources/goeo-international-trade-diplomacy.md` — **GOEO International Trade And Diplomacy Page** — Official Program Page for Utah's international business promotion work.
+- `sources/goeo-regulatory-relief.md` — **GOEO Regulatory Relief Page** — Official Program Page describing Utah's general regulatory sandbox.
+- `sources/goeo-usbci.md` — **GOEO USBCI Page** — Official Program Page for Utah's federal SSBCI implementation.
 - `sources/hexcel-official-website.md` — **Official Website: Hexcel** — Hexcel's positioning as a global advanced-composites leader.
 - `sources/merit-medical-pentax-cryoballoon-acquisition.md` — **Source: Pentax C2 CryoBalloon Acquisition Announcement** — October 2025 Press Release covering Merit Medical's South Jordan integration of the C2 CryoBalloon line.
 - `sources/nucleus-fund-website.md` — **Nucleus Fund Website** — Official Fund Website for Utah deep-tech early-stage capital.
-- `sources/nucleus-grow-page.md` — **Nucleus Grow Page** — Official Program Page for SBIR/STTR support.
+- `sources/nucleus-grow.md` — **Nucleus Grow Page** — Official Program Page for SBIR/STTR support.
 - `sources/nucleus-institute-official-site.md` — **Nucleus Institute Official Site** — five-pillar overview: talent, commercialization, capital, solutions, place.
-- `sources/nucleus-marketedge-page.md` — **Nucleus MarketEdge Page** — Official Program Page for the cohort-based commercialization program for academics.
-- `sources/nucleus-programs-page.md` — **Nucleus Programs Page** — Official Program Page listing Grow, Fund, ProLab, MarketEdge, Catalyst, Global, and Quantum.
-- `sources/nucleus-utif-page.md` — **Nucleus UTIF Page** — Official Program Page for SBIR/STTR-tied state funding support.
-- `sources/recursion-mission-page.md` — **Official Website: Recursion Mission Page** — Recursion OS, multimodal data, BioHive-2 supercomputer, SLC HQ.
-- `sources/sba-utah-district-office-page.md` — **SBA Utah District Office Page** — Official Federal Agency Page for the SBA office serving all 29 Utah counties.
+- `sources/nucleus-marketedge.md` — **Nucleus MarketEdge Page** — Official Program Page for the cohort-based commercialization program for academics.
+- `sources/nucleus-programs.md` — **Nucleus Programs Page** — Official Program Page listing Grow, Fund, ProLab, MarketEdge, Catalyst, Global, and Quantum.
+- `sources/nucleus-utif.md` — **Nucleus UTIF Page** — Official Program Page for SBIR/STTR-tied state funding support.
+- `sources/recursion-mission.md` — **Official Website: Recursion Mission Page** — Recursion OS, multimodal data, BioHive-2 supercomputer, SLC HQ.
+- `sources/sba-utah-district-office.md` — **SBA Utah District Office Page** — Official Federal Agency Page for the SBA office serving all 29 Utah counties.
 - `sources/sci-institute-official-site.md` — **Source: SCI Institute Official Site** — Official Website covering SCIRun, ShapeWorks, Seg3D, and FluoRender open-source releases at the University of Utah.
-- `sources/score-utah-page.md` — **SCORE Utah Page** — Official Resource Partner Page for free mentoring and education.
-- `sources/sdl-about-page.md` — **Official Source: Space Dynamics Laboratory About Page** — Official Website with UARC status, 1,300+ employees, sensor and payload competencies.
+- `sources/score-utah.md` — **SCORE Utah Page** — Official Resource Partner Page for free mentoring and education.
+- `sources/sdl-about.md` — **Official Source: Space Dynamics Laboratory About Page** — Official Website with UARC status, 1,300+ employees, sensor and payload competencies.
 - `sources/startup-utah-official-site.md` — **Startup State Official Site** — Official Government Portal for Utah entrepreneurs.
 - `sources/startup-utah-resource-list.md` — **Startup State Resource List** — Official Government Resource Directory with topic/stage/community filters.
 - `sources/sundance-institute-official-site.md` — **Source: Sundance Institute Official Site** — Official Website covering Artist Labs, Festival, New Frontier, and the 2027 Boulder relocation.
 - `sources/utah-sbdc-official-site.md` — **Utah SBDC Official Site** — Official Program Website for the Utah Small Business Development Center network.
-- `sources/womens-business-center-of-utah-page.md` — **Women's Business Center of Utah Page** — Official Nonprofit Program Website for advising, training, and growth support.
+- `sources/womens-business-center-of-utah.md` — **Women's Business Center of Utah Page** — Official Nonprofit Program Website for advising, training, and growth support.
 - `sources/zanskar-mit-technology-review.md` — **Source: MIT Technology Review on AI Geothermal Discovery** — Technology Press coverage of Zanskar's blind-system discovery as the first such confirmation in over thirty years.
 - `sources/47g-official-site.md` — **47G Official Site** — The 47G official site presents the organization as Utah's aerospace, defense, and hard-tech ecosystem association, with a focus on helping companies move from innovation to deployment.
 - `sources/arpanet-fourth-node-source.md` — **Source: University of Utah Node 4 History** — The University of Utah UIT "Node 4" article explains the name of the university's IT news channel by recounting the University's role as the fourth ARPANET node.
@@ -432,7 +432,7 @@ Source records and raw intake notes.
 - `sources/university-of-utah-computer-graphics-history.md` — **Official Source: University of Utah Computer Graphics History** — University source for early computing, graphics, ARPA support, and ARPANET node history.
 - `sources/us-magnesium-bankruptcy.md` — **Source: US Magnesium Chapter 11 Bankruptcy and Asset Sale** — Source note on 2025 Chapter 11 filing, EPA context, and 2026 asset auction.
 - `sources/us-magnesium-official-website.md` — **Official Website: US Magnesium** — Official site for primary magnesium production from Great Salt Lake brine.
-- `sources/usu-center-for-entrepreneurship-page.md` — **USU Center for Entrepreneurship Page** — Utah State University source for classes, internships, competitions, mentoring, and student resources.
+- `sources/usu-center-for-entrepreneurship.md` — **USU Center for Entrepreneurship Page** — Utah State University source for classes, internships, competitions, mentoring, and student resources.
 - `sources/utah-forge-official.md` — **Source: DOE and Utah FORGE Official Pages** — DOE and Utah FORGE sources for the enhanced-geothermal field laboratory near Milford.
 - `sources/utah-manufacturers-association-official-site.md` — **Utah Manufacturers Association Official Site** — Official source for Utah manufacturing membership, training, benefits, networking, advocacy, workforce, and safety programs.
 - `sources/utah-mep-official-site.md` — **Utah MEP Official Site** — Official source for statewide manufacturing-extension support.
@@ -441,7 +441,7 @@ Source records and raw intake notes.
 - `sources/utah-population-database-official.md` — **Source: Utah Population Database Official Page** — Official UPDB source for linked family, demographic, medical, and registry data.
 - `sources/utah-test-training-range-source.md` — **Source: Hill AFB Utah Test and Training Range Fact Sheet** — Hill Air Force Base source for UTTR mission, airspace, land footprint, history, and capabilities.
 - `sources/utahquantum-official-website.md` — **Official Website: Utah Quantum** — Official site for quantum systems integration, readiness, and adoption frameworks.
-- `sources/uvu-baugh-entrepreneurship-institute-page.md` — **UVU Baugh Entrepreneurship Institute Page** — UVU source for student entrepreneurship, mentoring, workshops, competitions, and seed funding.
+- `sources/uvu-baugh-entrepreneurship-institute.md` — **UVU Baugh Entrepreneurship Institute Page** — UVU source for student entrepreneurship, mentoring, workshops, competitions, and seed funding.
 - `sources/varda-space-official-website.md` — **Official Website: Varda Space Industries** — Official source for in-space manufacturing and reentry-capsule platform.
 - `sources/varda-uttr-landing.md` — **Source: Varda W-1 Capsule Landing at UTTR** — SpaceNews and TechCrunch coverage of Varda's February 21, 2024 UTTR landing.
 - `sources/wavetronix-official-website.md` — **Official Website: Wavetronix** — Official source for intelligent transportation systems, vehicle detection, signal timing, and roadway data.

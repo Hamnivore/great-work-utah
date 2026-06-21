@@ -55,3 +55,7 @@ IMSAR belongs near [Fortem Technologies](fortem-technologies.md), [Space Dynamic
 - What share of revenue is defense, homeland security, commercial, environmental, or law enforcement?
 - Which performance claims have independent test or procurement documentation?
 - The placeholder hero should be replaced with a cleared product, aircraft-integration, or facility image.
+
+## See Also
+
+- [Ryan Smith (IMSAR)](../people/ryan-smith-imsar.md)

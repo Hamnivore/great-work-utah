@@ -5,6 +5,10 @@
 **Focus:** materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation
 **Era:** first diamond synthesis 1954 (at GE); Utah press work 1955-1970s
 **Location:** Brigham Young University and Provo, UT
+**Updated:** 2026-06-19
+**Relates:** cites [National Inventors Hall of Fame — H. Tracy Hall](../sources/nihf-h-tracy-hall.md)
+**Relates:** cites [Chemical & Engineering News — First Diamond Synthesis, 50 Years Later](../sources/cen-first-diamond-synthesis.md)
+**Relates:** cites [BYU Special Collections — H. Tracy Hall Biography](../sources/byu-archives-h-tracy-hall.md)
 **Pull:** *After making the first reproducible synthetic diamond, an Ogden-born chemist came home and reinvented the machines that make extreme pressure.*
 
 ## Summary
@@ -51,9 +55,9 @@ Hall's Utah connection is direct and durable: a University of Utah Ph.D. who bui
 
 ## Evidence
 
-- [National Inventors Hall of Fame: H. Tracy Hall](https://www.invent.org/inductees/h-tracy-hall)
-- [Chemical & Engineering News: First Diamond Synthesis, 50 Years Later — a Murky Picture of Who Deserves Credit](https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html)
-- [BYU Special Collections: H. Tracy Hall biography](https://archives.lib.byu.edu/agents/people/2364)
+- [National Inventors Hall of Fame: H. Tracy Hall](https://www.invent.org/inductees/h-tracy-hall) — [source record](../sources/nihf-h-tracy-hall.md)
+- [Chemical & Engineering News: First Diamond Synthesis, 50 Years Later — a Murky Picture of Who Deserves Credit](https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html) — [source record](../sources/cen-first-diamond-synthesis.md)
+- [BYU Special Collections: H. Tracy Hall biography](https://archives.lib.byu.edu/agents/people/2364) — [source record](../sources/byu-archives-h-tracy-hall.md)
 - [Wikipedia: H. Tracy Hall](https://en.wikipedia.org/wiki/H_Tracy_Hall)
 - [H. Tracy Hall Foundation](https://www.htracyhall.org/)
 

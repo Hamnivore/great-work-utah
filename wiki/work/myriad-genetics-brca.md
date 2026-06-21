@@ -5,7 +5,7 @@
 **Focus:** hereditary cancer genetics, BRCA testing, gene patents, clinical genomics
 **Era:** 1991-present; core BRCA sequencing and commercialization in the 1990s
 **Location:** Salt Lake City, UT
-**Updated:** 2026-05-16
+**Updated:** 2026-06-19
 **Pull:** *Utah's genealogy-powered cancer genetics helped create, and then legally reshape, the clinical market for inherited-risk testing.*
 
 ## Summary
@@ -41,6 +41,11 @@ Myriad's patent strategy is an ethical and scientific caveat, not a side note. M
 - [AMA Journal of Ethics: The Supreme Court on Myriad Genetics](https://journalofethics.ama-assn.org/article/supreme-court-myriad-genetics-synthetic-dna-patentable-isolated-genes-are-not/2015-09)
 - [PMC: Gene Patenting — The Supreme Court Finally Speaks](https://pmc.ncbi.nlm.nih.gov/articles/PMC3777541/)
 - [New York Times: My Medical Choice](https://www.nytimes.com/2013/05/14/opinion/my-medical-choice.html)
+
+## See Also
+
+- [Myriad Genetics](../ventures/myriad-genetics.md)
+- [Utah Population Database](utah-population-database.md)
 
 ## Open Questions
 

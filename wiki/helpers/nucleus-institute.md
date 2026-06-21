@@ -57,11 +57,11 @@ Program details are changing quickly. Application windows, funding amounts, and 
 ## Evidence
 
 - [Nucleus Institute Official Site](../sources/nucleus-institute-official-site.md)
-- [Nucleus Programs Page](../sources/nucleus-programs-page.md)
-- [Nucleus Grow Page](../sources/nucleus-grow-page.md)
+- [Nucleus Programs Page](../sources/nucleus-programs.md)
+- [Nucleus Grow Page](../sources/nucleus-grow.md)
 - [Nucleus Fund Website](../sources/nucleus-fund-website.md)
-- [Nucleus MarketEdge Page](../sources/nucleus-marketedge-page.md)
-- [Nucleus UTIF Page](../sources/nucleus-utif-page.md)
+- [Nucleus MarketEdge Page](../sources/nucleus-marketedge.md)
+- [Nucleus UTIF Page](../sources/nucleus-utif.md)
 
 ## Open Questions
 

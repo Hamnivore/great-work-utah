@@ -41,7 +41,7 @@ Business-service providers could be relevant here if they understand government 
 
 ## Utah Context
 
-Fortem is based in Lindon, Utah. That makes it part of a Wasatch Front defense-and-hardware cluster that includes aerospace suppliers, autonomy companies, Hill Air Force Base adjacency, and advanced manufacturing talent.
+Fortem is based in Lindon, Utah. That makes it part of a Wasatch Front defense-and-hardware cluster that includes [Teal Drones](teal-drones.md), [Vector](vector.md), [Palladyne AI](palladyne-ai.md), aerospace suppliers, autonomy companies, Hill Air Force Base adjacency, and advanced manufacturing talent.
 
 ## Evidence
 

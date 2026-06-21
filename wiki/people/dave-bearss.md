@@ -2,80 +2,53 @@
 
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** drug discovery, inflammation, inflammaging, NLRP3 inflammasome, oncology, clinical-stage biopharma, university commercialization
-**Location:** Utah
+**Focus:** drug discovery, oncology, inflammation, university translational programs, Utah life sciences
+**Location:** Salt Lake City, UT
 **Updated:** 2026-06-19
-**Hero:** https://picsum.photos/seed/dave-bearss/1600/1100
-**Relates:** helps [Halia Therapeutics](../ventures/halia-therapeutics.md)
-**Relates:** helps [Huntsman Cancer Institute](../ventures/huntsman-cancer-institute.md)
-**Relates:** cites [Source: Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure](../sources/halia-therapeutics-official-website.md)
-**Relates:** cites [Source: Huntsman Cancer Institute Official Pages (Leadership, NCI Designation, U2TAH)](../sources/huntsman-cancer-institute-official-website.md)
 
 ## Summary
 
-Dave Bearss (also listed as David Bearss in University of Utah material) is the founder of [Halia Therapeutics](../ventures/halia-therapeutics.md), a Lehi, Utah clinical-stage biopharmaceutical company developing drugs that target chronic inflammation through the NLRP3 inflammasome pathway. Public sources describe him as an academic drug-discovery scientist leading Halia's work on ofirnoflast (HT-6184), a first-in-class oral allosteric NEK7 inhibitor.
-
-He is also publicly identified as senior managing director of the University of Utah Therapeutic Accelerator Hub (U2TAH), a partnership of the [Huntsman Cancer Institute](../ventures/huntsman-cancer-institute.md), the College of Pharmacy, and the university's PIVOT Center. U2TAH was described in public University of Utah material as established in October 2020 with a $22.5M commitment to bridge laboratory drug discoveries and clinical development, with all disease areas eligible even though cancer is a central focus.
+Dave Bearss is a Utah drug-discovery scientist and entrepreneur who spans academic translational programs and venture-backed clinical-stage companies. He serves as senior managing director of the University of Utah Therapeutic Accelerator Hub (U2TAH) — a $22.5M initiative bridging laboratory discoveries to clinical development across HCI, the College of Pharmacy, and the PIVOT Center — and is the founder and driving scientific figure behind [Halia Therapeutics](../ventures/halia-therapeutics.md), a Lehi-based company targeting the NLRP3 inflammasome in aging and inflammatory disease.
 
 ## Impact
 
-Bearss's most visible contribution to date is founding and leading the scientific direction of Halia Therapeutics. Halia reported Phase 2a results for ofirnoflast in lower-risk myelodysplastic syndrome at ASH 2025: a 72% hematologic improvement–erythroid (HI-E) response rate in 18 evaluable patients, with no treatment-related serious adverse events at Grade 3 or above reported in the sponsor's disclosure.
-
-Through U2TAH, he also sits at a translational node between University of Utah and HCI research and venture-backed drug development — the same ecosystem that produced Halia. That dual role makes him a visible example of how Utah academic science connects to clinical-stage biopharma outside the software cluster.
+Bearss represents a connective tissue role in Utah life sciences: he works in the academic-to-venture translation layer that most ecosystems lack. U2TAH's mandate covers all disease areas, giving Bearss broad influence over which early university discoveries become venture-backed programs. Halia Therapeutics's lead candidate, ofirnoflast (HT-6184), is a first-in-class allosteric NEK7 inhibitor in clinical development — a tangible output of his scientific drug-discovery work.
 
 ## What They Offer
 
-Based on public roles and company trajectory, Bearss appears to bring:
-
-- Small-molecule drug discovery focused on the NLRP3 inflammasome and NEK7 biology
-- Leadership of a clinical-stage program from discovery through Phase 2a
-- Institutional knowledge of Utah's therapeutics-accelerator and HCI translational networks
-- Experience bridging academic drug discovery and company formation
-
-Specific advisory, mentoring, or consulting availability beyond these public roles is not established from sources reviewed here.
+Deep experience in academic drug discovery at the University of Utah, oncology and inflammation expertise, and network connections across Utah's life-sciences ecosystem — particularly the HCI, PIVOT Center, and U2TAH triangle. For therapeutics founders, Bearss represents a potential pathway into U of U resources, collaboration, and commercialization infrastructure.
 
 ## What They Are Looking For
 
-No public statements of personal interests outside Halia and U2TAH have been identified. Based on Halia's stage, the company likely needs capital and talent to advance ofirnoflast toward confirmatory studies, expand pipeline programs in obesity/metabolic disease and neuroinflammation, and build clinical and regulatory depth. U2TAH's public mission suggests interest in researchers and operators who want to turn university discoveries into companies with institutional support.
+Not known from public sources. Inference: most likely interested in scientifically credible drug programs with university roots, particularly those targeting chronic inflammation, aging biology, or cancer.
 
 ## Proof of Work
 
-- Founder of Halia Therapeutics (Lehi, UT), with ofirnoflast (HT-6184) in clinical development
-- Phase 2a MDS data disclosed at ASH 2025 (NCT07052006)
-- Senior managing director of U2TAH at Huntsman Cancer Institute / University of Utah
-- Public association with University of Utah therapeutics-accelerator work cited across Halia and HCI pages
+- Senior Managing Director, U2TAH (University of Utah Therapeutic Accelerator Hub, $22.5M commitment)
+- Founder, [Halia Therapeutics](../ventures/halia-therapeutics.md) — lead program ofirnoflast (HT-6184), first-in-class allosteric NEK7 inhibitor in clinical trials
+- Publicly affiliated with [Huntsman Cancer Institute](../ventures/huntsman-cancer-institute.md) translational work
 
 ## Good Fits
 
-- Life-sciences investors evaluating clinical-stage Utah companies with aging-biology and inflammasome angles
-- Scientists in inflammasome, NLRP3, or innate-immunity fields seeking Utah translational connections
-- University researchers exploring commercialization paths through U2TAH
-- Utah entrepreneurship communities highlighting deep-tech life-sciences founders
+Early-stage U of U therapeutics spinout founders seeking translational guidance; founders in inflammation, oncology, or aging biology looking for academic-ecosystem connections; researchers translating laboratory programs into IND-enabling studies.
 
 ## Public Connection Path
 
-- Halia Therapeutics official website and ASH 2025 disclosures
-- University of Utah and Huntsman Cancer Institute public pages describing U2TAH
-- Utah life-sciences conference and speaker networks
-
-No direct personal email, phone, or unverified social profiles are listed here.
+University of Utah Therapeutic Accelerator Hub and Halia Therapeutics public channels; conference appearances at Utah life-sciences venues.
 
 ## Evidence
 
 - [Halia Therapeutics](../ventures/halia-therapeutics.md)
 - [Huntsman Cancer Institute](../ventures/huntsman-cancer-institute.md)
-- [Source: Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure](../sources/halia-therapeutics-official-website.md)
-- [Source: Huntsman Cancer Institute Official Pages (Leadership, NCI Designation, U2TAH)](../sources/huntsman-cancer-institute-official-website.md)
 
 ## See Also
 
 - [Halia Therapeutics](../ventures/halia-therapeutics.md)
 - [Huntsman Cancer Institute](../ventures/huntsman-cancer-institute.md)
+- [Curza](../ventures/curza.md) — another U of U therapeutics spinout
 
 ## Open Questions
 
-- What are Bearss's specific academic affiliations and roles before founding Halia?
-- How much time is split between Halia CEO duties and U2TAH leadership today?
-- What is his personal publication record in the inflammasome / NEK7 space?
-- Total capital raised and current investor roster at Halia remain unconfirmed from primary sources in the wiki.
-- The placeholder hero should be replaced with a cleared portrait or lab image.
+- What is Bearss's current primary affiliation balance between U2TAH leadership and Halia operations?
+- Is there a public intake path for founders seeking U2TAH support?
+- What are the current criteria and stage requirements for U2TAH engagement?

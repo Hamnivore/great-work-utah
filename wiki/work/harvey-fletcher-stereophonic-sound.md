@@ -5,6 +5,10 @@
 **Focus:** acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering
 **Era:** 1884-1981 (life); landmark stereo work 1931-1933; posthumous Grammy 2016
 **Location:** Born Provo, UT; BYU undergraduate and later dean; Bell Labs (New Jersey)
+**Updated:** 2026-06-19
+**Relates:** cites [BYU News — Harvey Fletcher Posthumous Grammy Award](../sources/byu-news-harvey-fletcher-grammy.md)
+**Relates:** cites [Utah History to Go — Harvey Fletcher](../sources/utah-history-to-go-harvey-fletcher.md)
+**Relates:** cites [Engineering and Technology History Wiki — Stokowski and Bell Labs Stereo](../sources/ethw-stokowski-bell-labs-stereo.md)
 **Pull:** *The Provo-born physicist who turned how humans hear into a science — and gave the world stereo sound.*
 
 ## Summary
@@ -51,9 +55,9 @@ Fletcher's Utah claim is strong but should be stated carefully. He was born in P
 
 ## Evidence
 
-- [BYU News: BYU's first physics grad earns posthumous Grammy Award](https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award)
-- [Utah History to Go: Harvey Fletcher](https://historytogo.utah.gov/fletcher-harvey/)
-- [Engineering and Technology History Wiki: Leopold Stokowski and Bell Labs, a Sound Collaboration](https://ethw.org/Leopold_Stokowski_and_Bell_Labs,_a_Sound_Collaboration)
+- [BYU News: BYU's first physics grad earns posthumous Grammy Award](https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award) — [source record](../sources/byu-news-harvey-fletcher-grammy.md)
+- [Utah History to Go: Harvey Fletcher](https://historytogo.utah.gov/fletcher-harvey/) — [source record](../sources/utah-history-to-go-harvey-fletcher.md)
+- [Engineering and Technology History Wiki: Leopold Stokowski and Bell Labs, a Sound Collaboration](https://ethw.org/Leopold_Stokowski_and_Bell_Labs,_a_Sound_Collaboration) — [source record](../sources/ethw-stokowski-bell-labs-stereo.md)
 - [Wikipedia: Harvey Fletcher](https://en.wikipedia.org/wiki/Harvey_Fletcher)
 - [Britannica: Harvey Fletcher](https://www.britannica.com/biography/Harvey-Fletcher)
 

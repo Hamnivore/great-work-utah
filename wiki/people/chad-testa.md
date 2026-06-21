@@ -2,78 +2,66 @@
 
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** antibiotics, antimicrobial resistance, Gram-negative bacteria, university spinouts, grant-funded biotech
-**Location:** Utah
-**Updated:** 2026-06-19
+**Focus:** antibiotics, antimicrobial resistance, biotech CEO, mission-driven pharma, Gram-negative bacteria
+**Location:** Salt Lake City, UT
+**Updated:** 2026-06-21
+**Hero:** https://picsum.photos/seed/chad-testa-2026/1600/1100
+**Pull:** *CEO leading Curza's first-in-class antibiotic program against drug-resistant Gram-negative bacteria — filling a gap no new class has addressed in nearly 50 years.*
 **Relates:** helps [Curza](../ventures/curza.md)
-**Relates:** cites [Official Website: Curza](../sources/curza-official-website.md)
 
 ## Summary
 
-Chad Testa is identified on the [Curza](../ventures/curza.md) venture page as CEO of the University of Utah College of Science spinout developing novel antibiotics for drug-resistant Gram-negative bacteria. Curza is headquartered in Salt Lake City and positions its lead program, CZ-02, as a first-in-class ribosome mechanism aimed at ESKAPE pathogens — a gap public materials describe as unfilled by any new antibiotic class against Gram-negative bacteria in roughly 50 years.
+Chad Testa is the CEO of Curza, a University of Utah spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. He leads a mission-driven company funded primarily through government grants and impact investors — including NIH, the Defense Threat Reduction Agency (DTRA), CARB-X, and Novo Holdings' REPAIR Fund — rather than traditional pharma venture capital.
 
-The company operates in a mission-driven, grant-heavy funding model (government grants and impact investors rather than traditional pharma venture capital, per the venture page). For the wiki, Testa represents executive leadership at a Utah life-sciences company tackling a problem markets have largely abandoned.
+Testa runs Curza at the intersection of academic spinout commercialization, biodefense, and antimicrobial resistance (AMR), an area where standard pharma market incentives have largely failed. The company's lead compound, CZ-02, targets a conserved and clinically unexploited ribosome binding site that bacteria cannot easily mutate away from, representing the first genuinely new Gram-negative antibiotic mechanism class in roughly half a century.
 
 ## Impact
 
-Through Curza, Testa's public footprint connects to antimicrobial-resistance impact at global scale. The venture page cites an estimated 700,000 deaths per year from antibiotic-resistant infections, with projections reaching 10 million annually by 2050 if unchecked. A successfully approved Gram-negative antibiotic would address both public-health and biodefense priorities — the venture page notes Defense Threat Reduction Agency involvement in a reported $75M award with University of Florida partners.
+Antimicrobial resistance kills an estimated 700,000 people per year globally; projections reach 10 million by 2050 without new drug classes. Testa leads the only Utah-based company with a clinical-stage program directly targeting that gap for the hardest-to-treat Gram-negative pathogens (ESKAPE organisms: E. coli, Klebsiella, Acinetobacter, Pseudomonas).
 
-CZ-02 targets a clinically undrugged, highly conserved bacterial ribosome site that Curza argues bacteria cannot easily mutate without disrupting core function — a resistance-resilience thesis that distinguishes the program from incremental scaffold improvements.
+The DTRA partnership — a reported $75M award with University of Florida collaborators over a multi-year horizon — signals that ESKAPE pathogens are not merely a public-health problem but a biodefense priority, which gives Curza unusual access to non-dilutive government funding that private AMR startups rarely secure.
 
 ## What They Offer
 
-Based on public evidence about Curza, a connection to Testa likely means leadership perspective on:
-
-- Building and leading a grant- and impact-investor-funded antibiotic company outside traditional pharma VC norms
-- Advancing small-molecule programs from University of Utah–licensed chemistry toward IND preparation
-- Ribosome-targeting antibiotic discovery against Gram-negative ESKAPE pathogens, plus adjacent program areas in ribosomal antibiotics and antibiofilm therapeutics described on the official website
-- Operating a Salt Lake City biotech with address listed publicly at 650 Komas Drive, Suite 202
-
-Specifics of Testa's personal mentorship, advisory availability, or hiring authority are not documented in the cited sources.
+- Direct operational experience running a grant-funded biotech spinout through preclinical and IND-preparation stages
+- Deep familiarity with DTRA, NIH, CARB-X, and impact-investment funding for AMR programs
+- University of Utah technology-transfer and licensing navigation experience
+- Mission-driven leadership model for pharma work where standard commercial incentives are absent
 
 ## What They Are Looking For
 
-Public materials about Curza suggest the company benefits from contributors motivated by antimicrobial-resistance and biodefense impact rather than typical VC pharma timelines. Likely needs inferred from the venture page include medicinal chemists, microbiologists, and structural biologists focused on ribosome biochemistry, plus regulatory and CMC support for IND preparation.
-
-These are company-level inferences from the venture page, not a personal statement from Testa. Phase 1 IND submission status was open as of the venture page's last update.
+Testa and Curza need medicinal chemists, microbiologists, and ribosome biochemists for the lead program; CMC and regulatory support for IND preparation; and additional government and impact grant connections to fund through Phase 1 and beyond. Operators motivated by AMR mission and biodefense relevance rather than typical VC pharma return timelines tend to fit best.
 
 ## Proof of Work
 
-- Leads Curza as CEO through late preclinical work on CZ-02 and adjacent antibiotic programs, per the venture page. [venture:curza]
-- Curza's official website documents a structured pipeline — lead CZ-02 program, additional ribosomal antibiotics, and antibiofilm antibiotics — under a small-molecule infectious-disease thesis. [source:curza-official-website]
+- CEO of Curza since founding; guided company through $40M+ in grant and impact-investment raises
+- Led DTRA partnership (~$75M with University of Florida)
+- Managed CARB-X and Novo Holdings REPAIR Fund relationships
+- University of Utah spinout commercialization in a notoriously difficult market
 
 ## Good Fits
 
-People likely to find a conversation useful, based on Curza's public profile:
-
-- Medicinal chemists, microbiologists, or structural biologists focused on ribosome biochemistry and Gram-negative penetration
-- Operators experienced in grant-funded and mission-driven biotech rather than traditional pharma VC pacing
-- AMR funders, biodefense program managers, or university commercialization contacts aligned with Utah spinout licensing
-- Policy or reimbursement advocates working on broken antibiotic commercialization economics, if Curza reaches later clinical stages
+- AMR-focused researchers looking for a clinical-stage Utah biotech where their work connects directly to ESKAPE pathogen treatment
+- Grant-writers and government-relations advisors with DTRA or NIH biodefense experience
+- Impact investors and family offices interested in AMR as a mission-aligned portfolio area
 
 ## Public Connection Path
 
-No private contact details are recorded in the wiki sources. Reasonable public paths:
-
-- [Official Website: Curza](https://curza.com) — company site with public address at 650 Komas Drive, Suite 202, Salt Lake City, UT 84108 [source:curza-official-website]
-- [Curza](../ventures/curza.md) venture page for program context before outreach
-
-The official website capture in the wiki does not name executive leadership; treat CEO identification as venture-page sourced until corroborated by a primary company page or press release added to `sources/`.
+Curza official channels; University of Utah Research and Innovation or licensing contacts; CARB-X and Novo REPAIR Fund networks; AMR conference circuit (ASM Microbe, ID Week).
 
 ## Evidence
 
-- [Curza](../ventures/curza.md) — CEO identification, funding model, CZ-02 mechanism, Utah spinout context, stated needs
-- [Official Website: Curza](../sources/curza-official-website.md) — pipeline structure, CZ-02 positioning, program areas, public address
+- [Curza](../ventures/curza.md) — company he leads
 
 ## See Also
 
-- [Curza](../ventures/curza.md)
-- [Official Website: Curza](../sources/curza-official-website.md)
+- [Curza](../ventures/curza.md) — venture page with full program detail
+- [Atavistik Bio](../ventures/atavistik-bio.md) — another U of U spinout pushing into underdrugged mechanism space
+- [Dave Bearss](dave-bearss.md) — U of U-adjacent life-science leader and U2TAH senior managing director
 
 ## Open Questions
 
-- Can Chad Testa's CEO title be corroborated on Curza's official website, LinkedIn, or a press release added to the wiki?
-- Has Curza submitted a Phase 1 IND for CZ-02 since legacy intake noted on the venture page?
-- What is Testa's background before Curza — academic, prior operating roles, or other Utah biotech experience?
-- Are there public interviews, conference appearances, or funder announcements that quote Testa directly?
-- A cleared portrait or headshot has not been sourced; add one only with confirmed rights.
+- Has CZ-02 entered Phase 1 clinical trials since legacy intake, and what are the initial safety and PK results?
+- What reimbursement or pull-incentive model does Testa plan if Phase 3 succeeds, given broken antibiotic commercialization economics?
+- How does the DTRA nine-year partnership timeline map against Curza's near-term fundraising and operating runway?
+- The placeholder hero should be replaced with a cleared headshot or lab image when rights are confirmed.

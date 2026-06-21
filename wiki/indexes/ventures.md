@@ -37,7 +37,7 @@ Startups, labs, spinouts, companies, nonprofits, and serious initiatives.
 | [FamilySearch](../ventures/familysearch.md) | FamilySearch is a Salt Lake City–based nonprofit and the largest genealogy organization in the world. | 2026-05-09 |
 | [Fervo Energy](../ventures/fervo-energy.md) | Fervo Energy develops nextgeneration geothermal power using modern drilling, reservoir engineering, and subsurface analytics. | 2026-05-09 |
 | [Fortem Technologies](../ventures/fortem-technologies.md) | Fortem Technologies is a Utah defense and airspacesecurity company best known for TrueView radar, DroneHunter interceptors, and the SkyDome system. | 2026-05-09 |
-| [Great Salt Lake](../ventures/great-salt-lake.md) | The Great Salt Lake is the largest saline lake in the Western Hemisphere and the terminal lake of the Great Basin — a body of water with no outlet, meaning everything that flows in stays until it evaporates. | 2026-06-19 |
+| [Great Salt Lake](../ventures/great-salt-lake.md) | The Great Salt Lake is not an organization, and no single company is responsible for it. | 2026-06-19 |
 | [Halia Therapeutics](../ventures/halia-therapeutics.md) | drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life sciences | 2026-06-18 |
 | [Hexcel Corporation](../ventures/hexcel.md) | Hexcel is a global advancedcomposites company with significant Utah operations. | 2026-05-09 |
 | [Huntsman Cancer Institute](../ventures/huntsman-cancer-institute.md) | Huntsman Cancer Institute (HCI) is the cancer research institute and hospital of University of Utah Health, founded in 1995 through a gift from Jon M. | 2026-06-18 |
@@ -49,18 +49,19 @@ Startups, labs, spinouts, companies, nonprofits, and serious initiatives.
 | [Intactis Bio](../ventures/intactis-bio.md) | biological computing, hybrid biosilicon AI, neuromorphic compute, deep tech | 2026-05-09 |
 | [Intan Technologies](../ventures/intan-technologies.md) | Intan Technologies makes highchannelcount, lownoise integrated circuits for neural recording and stimulation. | 2026-06-19 |
 | [Ionic Mineral Technologies (Ionic MT)](../ventures/ionic-mt.md) | Ionic Mineral Technologies (Ionic MT) is a Provo, Utah company founded around 2020 that processes halloysite clay — a naturally occurring tubular clay mineral — into nanosilicon anode material for lithiumion batteries. | 2026-06-19 |
+| [Iris Biomedical](../ventures/iris-biomedical.md) | neural interfaces, BCI hardware, implantable devices, medical device manufacturing, neurotech supply chain | 2026-06-19 |
 | [Jarvik-7 Artificial Heart](../ventures/jarvik-7-artificial-heart.md) | The Jarvik7 was the first total artificial heart to sustain a human patient. | 2026-05-09 |
 | [Jump Aero](../ventures/jump-aero.md) | eVTOL, emergency medical services, air ambulance, remote access | 2026-06-19 |
 | [L3Harris Salt Lake City](../ventures/l3harris-salt-lake.md) | L3Harris Technologies is a major U.S. | 2026-06-19 |
 | [LiveView Technologies (LVT)](../ventures/liveview-technologies.md) | physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription | 2026-06-18 |
 | [Lucid Software](../ventures/lucid-software.md) | Lucid Software is a Utahbased B2B SaaS company behind Lucidchart, a cloud diagramming application, and Lucidspark, a virtual whiteboard for team collaboration. | 2026-06-19 |
 | [Merit Medical Systems](../ventures/merit-medical.md) | interventional medical devices, catheters, manufacturing, FDA regulated, life sciences | 2026-05-09 |
-| [Music AI (Moises)](../ventures/music-ai.md) | Music AI (operating under the Moises brand for its flagship product) is a Salt Lake City–based company building AI tools for musicians, producers, and creators. | 2026-06-19 |
+| [Music AI (Moises)](../ventures/music-ai.md) | AI music tools, audio source separation, voice cloning, music generation, creative technology | 2026-06-19 |
 | [Myriad Genetics](../ventures/myriad-genetics.md) | Myriad Genetics is a publicly traded molecular diagnostics company headquartered in Salt Lake City, Utah. | 2026-06-19 |
 | [NephroNovus](../ventures/nephronovus.md) | NephroNovus is a therapeutics company listed on Altitude Lab's portfolio with an estimated 2023 founding year and Alumni status. | 2026-06-19 |
-| [Nielson Scientific](../ventures/nielson-scientific.md) | Nielson Scientific is a Utah company that received support from the Utah Innovation Center for a Department of Energy (DOE) SBIR submission. | 2026-06-19 |
-| [Northrop Grumman — Promontory Facility](../ventures/northrop-grumman-promontory.md) | solid rocket propulsion, space launch, defense, nuclear deterrent, aerospace manufacturing | 2026-06-19 |
-| [NSA Utah Data Center](../ventures/nsa-utah-data-center.md) | The NSA Utah Data Center — occasionally referred to by the nickname "Bumblehive" — is a largescale federal intelligence facility operated by the National Security Agency under the Department of Defense. | 2026-06-19 |
+| [Nielson Scientific](../ventures/nielson-scientific.md) | Nielson Scientific is a Utah company that received Utah Innovation Center support for a DOE SBIR submission. | 2026-06-19 |
+| [Northrop Grumman — Promontory Facility](../ventures/northrop-grumman-promontory.md) | The Northrop Grumman facility at Promontory, Utah is the primary US manufacturing and test site for large segmented solid rocket motors. | 2026-06-19 |
+| [NSA Utah Data Center](../ventures/nsa-utah-data-center.md) | The NSA Utah Data Center (officially the Intelligence Community Comprehensive National Cybersecurity Initiative Data Center) is a classified federal facility at Camp Williams in Bluffdale, Utah. | 2026-06-19 |
 | [Nusano](../ventures/nusano.md) | Nusano is a physics company building a new way to produce medical and industrial radioisotopes. | 2026-06-18 |
 | [Overstock.com](../ventures/overstock-com.md) | Overstock.com is the retail brand and historical name for a Utah ecommerce company that began in 1999 as an online liquidation marketplace and grew into one of the largest U.S. | 2026-06-19 |
 | [Owlet Baby Care](../ventures/owlet-baby-care.md) | Owlet Baby Care is a Lehi, Utah–based company that designs and sells connected nursery products for infant monitoring. | 2026-06-19 |
@@ -73,7 +74,7 @@ Startups, labs, spinouts, companies, nonprofits, and serious initiatives.
 | [RAM Aviation, Space & Defense](../ventures/ram-aviation-space-defense.md) | RAM Aviation, Space & Defense is a St. | 2026-06-19 |
 | [Rebel Medicine](../ventures/rebel-medicine.md) | Rebel Medicine is a Salt Lake City biotechnology company developing nonopioid pain therapeutics built on proprietary extendedrelease injectable delivery systems. | 2026-06-19 |
 | [Recursion Pharmaceuticals](../ventures/recursion-pharmaceuticals.md) | Recursion is a Salt Lake City TechBio company trying to industrialize drug discovery through largescale biological data, automated experiments, machine learning, and clinical development. | 2026-05-09 |
-| [Renaissance Ag](../ventures/renaissance-ag.md) | hydroponic fodder, livestock feed, water conservation, ag-tech hardware, Great Salt Lake | 2026-06-19 |
+| [Renaissance Ag](../ventures/renaissance-ag.md) | Renaissance Ag builds PastureBox — a fully automated, climatecontrolled, 40foot containerformat hydroponic sprouting system that produces fresh sproutedgrain livestock feed from seed (typically wheat or barley). | 2026-06-19 |
 | [Ripple Neuro](../ventures/ripple-neuro.md) | Ripple Neuro is a Salt Lake Citybased neuroscience instrumentation company founded in 2004 as a spinout from the University of Utah. | 2026-06-19 |
 | [Rodatherm Energy](../ventures/rodatherm-energy.md) | geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project development | 2026-06-19 |
 | [Sandbox](../ventures/sandbox.md) | Sandbox is a private program (Sandbox LLC, CEO Chris Crittenden) that embeds a fulltime startupbuilding experience inside accredited university degrees. | 2026-06-19 |
@@ -90,7 +91,6 @@ Startups, labs, spinouts, companies, nonprofits, and serious initiatives.
 | [Teal Drones](../ventures/teal-drones.md) | Teal Drones is a Salt Lake City company, founded in 2015 by George Matus, that builds small unmanned aircraft systems (sUAS) for U.S. | 2026-06-18 |
 | [Techcyte](../ventures/techcyte.md) | Techcyte is an Orem, Utah company building AIpowered digitalpathology software. | 2026-06-18 |
 | [Telescope Array](../ventures/telescope-array-ultra-high-energy-cosmic-rays.md) | The Telescope Array is the largest ultrahighenergy cosmicray observatory in the Northern Hemisphere, spread across the high desert west of Delta, Utah. | 2026-05-09 |
-| [TELLUS Networked Sensor Solutions](../ventures/tellus-networked-sensor-solutions.md) | TELLUS Networked Sensor Solutions is a Salt Lake City company that builds lowcost, calibrated air quality sensor networks for communities, governments, and researchers. | 2026-06-19 |
 | [TELLUS Networked Sensor Solutions](../ventures/tellus.md) | air quality monitoring, environmental sensing, low-cost sensors, calibration, public health infrastructure | 2026-06-19 |
 | [Thera-T Pharmaceutics](../ventures/thera-t-pharmaceutics.md) | immuno-oncology, blood cancer, T-cell therapy, multi-antigen targeting, university spinout | 2026-06-19 |
 | [Torus](../ventures/torus.md) | Torus builds modular energy infrastructure that pairs mechanical flywheels with batteries to deliver fast, reliable power at the edge of the grid and on industrial sites. | 2026-06-18 |

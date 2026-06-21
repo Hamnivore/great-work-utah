@@ -22,7 +22,7 @@ Jump Aero's official website describes the company's JA1 Pulse single-seat eVTOL
 
 ## Reliability Notes
 
-This is an official company source for a development-stage product. Claims about vehicle performance, EMS operational integration, and certification timelines should be treated as aspirational rather than verified until independent flight test or regulatory documentation is available. The URL above is inferred from the company name; the legacy wiki entry listed the website as unknown. Verify the actual URL before citing.
+This is an official company source for a development-stage product. Claims about vehicle performance, EMS operational integration, and certification timelines should be treated as aspirational rather than verified until independent flight test or regulatory documentation is available. Verify the URL against the current company website before citing.
 
 ## Related Pages
 

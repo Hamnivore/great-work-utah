@@ -14,9 +14,16 @@ function triggerApiPlugin(env: Record<string, string>): Plugin {
           return
         }
         try {
-          process.env.TRIGGER_SECRET_KEY = env.TRIGGER_SECRET_KEY
-          const { auth } = await import('@trigger.dev/sdk/v3')
-          const token = await auth.createTriggerPublicToken('search-agent')
+          if (env.TRIGGER_SECRET_KEY) {
+            process.env.TRIGGER_SECRET_KEY = env.TRIGGER_SECRET_KEY
+          }
+          if (!process.env.TRIGGER_SECRET_KEY) {
+            throw new Error('TRIGGER_SECRET_KEY is required')
+          }
+          const { auth } = await import('@trigger.dev/sdk')
+          const token = await auth.createTriggerPublicToken('search-agent', {
+            expirationTime: '15m',
+          })
           res.setHeader('Content-Type', 'application/json')
           res.end(JSON.stringify({ token }))
         } catch (err) {

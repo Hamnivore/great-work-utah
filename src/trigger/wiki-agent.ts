@@ -1,8 +1,17 @@
 import { schedules, logger } from "@trigger.dev/sdk";
 import OpenAI from "openai";
-import { ghListDir, ghWriteFile } from "./github-wiki";
+import { ghListDir, ghReadFile, ghWriteFile } from "./github-wiki";
 
 const WIKI_CATEGORIES = ["ventures", "people", "helpers", "resources", "guides"] as const;
+
+function normalizeWikiFilename(input: string): string {
+  const withoutExtension = input.trim().toLowerCase().replace(/\.md$/i, "");
+  const slug = withoutExtension
+    .replace(/[^a-z0-9-]/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
+  return `${slug || "untitled"}.md`;
+}
 
 export const wikiAgent = schedules.task({
   id: "wiki-agent",
@@ -10,6 +19,11 @@ export const wikiAgent = schedules.task({
   cron: "0 */2 * * *",
   maxDuration: 120,
   run: async () => {
+    if (process.env.WIKI_AGENT_WRITES_ENABLED !== "true") {
+      logger.log("Wiki agent writes disabled", { env: "WIKI_AGENT_WRITES_ENABLED" });
+      return { status: "skipped", reason: "WIKI_AGENT_WRITES_ENABLED is not true" };
+    }
+
     const client = new OpenAI({
       baseURL: "https://api.deepseek.com",
       apiKey: process.env.DEEPSEEK_API_KEY,
@@ -50,8 +64,13 @@ export const wikiAgent = schedules.task({
       const parsed = JSON.parse(planRaw);
       topic = parsed.topic?.trim();
       category = parsed.category?.trim().toLowerCase();
-      filename = parsed.filename?.trim().toLowerCase().replace(/[^a-z0-9-]/g, "-").replace(/-+/g, "-") + (parsed.filename?.endsWith(".md") ? "" : ".md");
-      if (!topic || !category || !WIKI_CATEGORIES.includes(category as typeof WIKI_CATEGORIES[number])) {
+      filename = normalizeWikiFilename(parsed.filename ?? "");
+      if (
+        !topic ||
+        !category ||
+        !WIKI_CATEGORIES.includes(category as typeof WIKI_CATEGORIES[number]) ||
+        !/^[a-z0-9]+(?:-[a-z0-9]+)*\.md$/.test(filename)
+      ) {
         throw new Error("missing or invalid fields");
       }
     } catch (e) {
@@ -62,6 +81,12 @@ export const wikiAgent = schedules.task({
     const repoPath = `wiki/${category}/${filename}`;
 
     logger.log("Writing wiki page", { topic, repoPath });
+
+    const existing = await ghReadFile(repoPath);
+    if (!existing.startsWith("Error")) {
+      logger.log("Wiki page already exists; skipping write", { topic, repoPath });
+      return { status: "skipped", reason: "page already exists", topic, repoPath };
+    }
 
     // 3. Write the entry
     const writeRes = await client.chat.completions.create({
@@ -95,6 +120,10 @@ export const wikiAgent = schedules.task({
 
     const content = writeRes.choices[0].message.content ?? "";
     const result = await ghWriteFile(repoPath, content, `wiki-agent: add ${topic}`);
+    if (result.startsWith("Error") || result.startsWith("Write blocked")) {
+      logger.error("Wiki agent write failed", { topic, repoPath, result });
+      return { status: "error", reason: result, topic, repoPath };
+    }
 
     logger.log("Wiki agent done", { topic, repoPath, result });
     return { status: "ok", topic, repoPath, result };

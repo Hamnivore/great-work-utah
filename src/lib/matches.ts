@@ -79,7 +79,7 @@ export function rewriteWikiLinks(markdown: string): string {
     (_match, label: string, target: string) => {
       const [folder, name] = target.split('/')
       if (folder === 'ventures') {
-        return `[${label}](/entry/places_you_can_work/${name})`
+        return `[${label}](/entry/ventures/${name})`
       }
       if (folder === 'people') {
         return `[${label}](/entry/people/${name})`
@@ -91,7 +91,7 @@ export function rewriteWikiLinks(markdown: string): string {
 
 /**
  * Turn the `Parties:` line into a display string. The convention is
- * comma-separated, with venture refs spelled `venture:slug`.
+ * comma-separated typed refs like `person:slug` or `venture:slug`.
  */
 export function formatParties(raw: string | undefined): string {
   if (!raw) return ''
@@ -100,8 +100,8 @@ export function formatParties(raw: string | undefined): string {
     .map((p) => p.trim())
     .filter(Boolean)
     .map((p) => {
-      const m = p.match(/^venture:(.+)$/)
-      if (m) return humanizeSlug(m[1])
+      const m = p.match(/^(person|venture|helper|resource|work):(.+)$/)
+      if (m) return humanizeSlug(m[2])
       return p
     })
     .join(' \u00b7 ')

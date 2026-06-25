@@ -1,6 +1,6 @@
 # Work Claim: Frontend Wiki UX
 
-**Status:** active
+**Status:** done
 **Agent:** Claude boss (Sonnet 4.6)
 **Started:** 2026-06-21 MDT
 **Updated:** 2026-06-21 MDT
@@ -29,11 +29,16 @@ Make the app's Directory and Entry pages properly render the new wiki ontology (
 
 ## Progress
 
-- Claimed slice. Executing directly (bounded frontend changes, no subagents needed).
+- Executed directly (bounded frontend changes, no subagents needed).
+- `src/pages/Directory.tsx`: replaced legacy filter type + chips with `SOURCE_FILTERS` array covering all 9 `PublicWikiSource` values + `all`. Default is `ventures`.
+- `src/pages/Entry.tsx`: added `SOURCE_LABELS` map; replaced 3-condition chain with single lookup.
+- Checks: tsc clean, lint 0 errors 0 warnings, build 604 entries, `npm run build` clean (2.47s).
 
 ## Files Changed
 
-- Pending.
+- `src/pages/Directory.tsx` — filters updated
+- `src/pages/Entry.tsx` — source labels updated
+- `wiki/log.md` — entry appended
 
 ## Handoff / Next Step
 

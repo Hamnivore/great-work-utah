@@ -1,5 +1,47 @@
 # Wiki Log
 
+## [2026-06-25] runtime | Ask / Trigger.dev write-safety hardening
+
+- Removed remaining Trigger.dev v3 imports from runtime tasks and kept v4 `@trigger.dev/sdk` usage.
+- Hardened public Ask runtime: trigger token TTL is 15 minutes; public search-agent writes are disabled unless explicitly enabled; GitHub wiki writes validate `wiki/<category>/<slug>.md` paths and refuse overwrites by default; scheduled wiki-agent writes are gated behind an explicit env flag.
+- Added missing source records for Sarcos/Palladyne AI and Sword Health while resolving final wiki-lint failures from the concurrent venture/match wave.
+- Checks: runtime-targeted ESLint clean; `npm run lint:wiki` 0 errors/0 warnings; `npm run build` built 636 entries; `npm run report:source-coverage` 0 errors and all 197 source records cited.
+
+## [2026-06-25] boss-pass | schema upgrades, index rebuild, log split
+
+- Rewrote 5 ventures pages from old `## Overview` schema to current schema (Summary, Impact, What They Are Building, What They Need Now, Who Could Help, Utah Context, Evidence, Open Questions): `oc-tanner.md`, `podium.md`, `sarcos-technology-and-robotics.md`, `sword-health.md`, `wordperfect.md`.
+- Rebuilt `wiki/indexes/ventures.md` from current page content — 117 entries with prose summaries rather than stale focus-tag entries. Fixed 19 entries that had truncated summaries due to abbreviation periods (U.S., Inc., St., Dr.).
+- Split `wiki/agent_ops/RUN_LOG.md`: archived 995 lines of 2026-05-09 initial build runs to `wiki/agent_ops/RUN_LOG-archive-2026-05-09.md`; main log reduced from 1221 lines (hard cap violation) to 236 lines.
+
+## [2026-06-25] judgment-layer | person↔venture matches (Josh James, Aaron Skonnard, Ryan Smith/Qualtrics)
+
+- Added 3 person↔venture match pages completing coverage for the three Silicon Slopes SaaS founders who had no match pages: `josh-james-x-domo.md`, `aaron-skonnard-x-pluralsight.md`, `ryan-smith-qualtrics-x-qualtrics.md`.
+- Command Center pass: committed accumulated clean working-tree changes from prior agents (venture filename fixes, 16+ person-centered match pages, Frontend Wiki UX src fixes, log/index updates).
+- Superseded stale claims `2026-06-25-person-centered-matches.md` and `2026-06-25-person-venture-matches.md`; their work had been completed but not formally closed.
+- Updated `wiki/indexes/matches.md` to 37 entries (3 new rows added); updated root match count in `wiki/index.md` from 34 to 37.
+- Checks: `npm run lint:wiki` 0 errors/0 warnings; `npm run build:wiki` built 636 entries, matches=37, sources=197.
+
+## [2026-06-25] judgment-layer | person-helper matches — 3 pages
+
+- Added person-helper match pages: Chad Testa↔BBCetc, Dave Bearss↔Nucleus Institute, Florian Solzbacher↔RQM+.
+- Integrated alongside the concurrent person-centered match wave; `wiki/indexes/matches.md` and root match count now cover all 37 match files.
+- Repaired adjacent broken links surfaced by final lint: retargeted a Josh James See Also link and added missing Podium, Sarcos, and Sword Health official-source records.
+- Checks: `npm run lint:wiki` 0 errors/0 warnings; `npm run build:wiki` built 636 entries with matches=37 and sources=197; `npm run report:source-coverage` 0 errors, all 197 source records cited.
+
+## [2026-06-25] judgment-layer | person-centered matches — 17 pages indexed
+
+- Integrated 17 person-centered match pages spanning biotech, neurotechnology, geothermal, SaaS, defense, accounting/legal helpers, and mission-led consumer work.
+- Boss-added pages in this pass include Tim Latimer↔Zanskar Geothermal, Florian Solzbacher↔Ripple Neuro, and Fred Lampropoulos↔Ripple Neuro.
+- Reconciled `wiki/indexes/matches.md` to all 34 files in `wiki/matches/` and updated the sharded root match count to 34.
+- Checks: `npm run lint:wiki` 0 errors/0 warnings; `npm run build:wiki` built 630 entries with matches=34; `npm run report:source-coverage` 0 errors, 524 warnings, all 194 source records cited.
+
+## [2026-06-21] frontend | wiki UX — Directory + Entry labels cover all 9 wiki types
+
+- Updated `src/pages/Directory.tsx`: replaced legacy `places_you_can_work`/`great_work` filter chips with full `PUBLIC_WIKI_SOURCES` set (ventures, people, helpers, resources, work, guides, matches, answers, sources, all). Default filter is now `ventures`.
+- Updated `src/pages/Entry.tsx`: replaced per-type `if` chain with a `SOURCE_LABELS` map covering all 9 public wiki types; imported `PublicWikiSource` type.
+- Closed stale active claims: `migration-factory-final-wave` (all 30 pages existed), `application-data-contract` (build script was already correct), `people-pages-first-wave` (all 8 pages existed).
+- Checks: tsc clean, lint 0 errors 0 warnings, build 604 entries, app build clean (2.47s).
+
 ## [2026-06-19] people | first wave — 12 people pages, 7 source stubs, lint clean
 
 - Created `wiki/people/` first wave: dave-bearss, fred-lampropoulos, florian-solzbacher, ryan-smith-imsar, aaron-skonnard, chad-testa, josh-james, karl-sun, ryan-smith-qualtrics, tim-latimer, jared-rutter, davis-smith (12 total).

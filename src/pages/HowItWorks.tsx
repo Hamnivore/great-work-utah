@@ -86,12 +86,12 @@ export function HowItWorksPage() {
             <strong>Ventures</strong> &mdash; Utah companies, labs, spinouts, and
             historically important work.{' '}
             <em>
-              <Link to="/entry/places_you_can_work/recursion-pharmaceuticals">
+              <Link to="/entry/ventures/recursion-pharmaceuticals">
                 Recursion
               </Link>
               ,{' '}
-              <Link to="/entry/places_you_can_work/fervo-energy">Fervo</Link>,{' '}
-              <Link to="/entry/places_you_can_work/blackrock-neurotech">
+              <Link to="/entry/ventures/fervo-energy">Fervo</Link>,{' '}
+              <Link to="/entry/ventures/blackrock-neurotech">
                 Blackrock Neurotech
               </Link>
               , and a dozen more.

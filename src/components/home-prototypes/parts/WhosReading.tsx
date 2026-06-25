@@ -18,7 +18,8 @@ interface ProfileMatch {
 
 async function fetchTriggerToken(): Promise<string> {
   const res = await fetch('/api/trigger-token', { method: 'POST' })
-  const data = await res.json()
+  const data = await res.json().catch(() => ({}))
+  if (!res.ok) throw new Error(data.error ?? `Trigger token request failed (${res.status})`)
   if (!data.token) throw new Error(data.error ?? 'No token returned')
   return data.token
 }
@@ -50,11 +51,13 @@ export function WhosReading({
     profile: string
     token: string
   } | null>(null)
+  const [tokenError, setTokenError] = useState('')
 
   function submitProfile(e: FormEvent) {
     e.preventDefault()
     setSubmitted(true)
     setTokenState(null)
+    setTokenError('')
     if (hand === 'public') {
       logRaiseHand({
         flavor: 'Seeker',
@@ -66,7 +69,10 @@ export function WhosReading({
     }
     fetchTriggerToken()
       .then((token) => setTokenState({ profile: prose.trim(), token }))
-      .catch(console.error)
+      .catch((error) => {
+        console.error(error)
+        setTokenError(error instanceof Error ? error.message : String(error))
+      })
   }
 
   function startOver() {
@@ -76,6 +82,7 @@ export function WhosReading({
     setNotifyDomain(true)
     setSubmitted(false)
     setTokenState(null)
+    setTokenError('')
   }
 
   return (
@@ -106,6 +113,7 @@ export function WhosReading({
               agentToken={
                 tokenState?.profile === prose.trim() ? tokenState.token : null
               }
+              agentError={tokenError}
               onStartOver={startOver}
             />
           ) : (
@@ -310,6 +318,7 @@ function FiledStage({
   email,
   recommendations,
   agentToken,
+  agentError,
   onStartOver,
 }: {
   prose: string
@@ -317,6 +326,7 @@ function FiledStage({
   email: string
   recommendations: Entry[]
   agentToken: string | null
+  agentError: string
   onStartOver: () => void
 }) {
   const name = extractFirstName(prose)
@@ -426,6 +436,10 @@ function FiledStage({
             matches={matches}
             accessToken={agentToken}
           />
+        ) : agentError ? (
+          <p className="font-serif italic text-ink-soft px-4 py-4">
+            The live guide could not start, so use the closest leads above for now.
+          </p>
         ) : (
           <p className="font-serif italic text-ink-soft animate-pulse px-4 py-4">
             Starting the guide…
@@ -449,7 +463,7 @@ function ProfileAgentResult({
     () => buildProfileAgentQuery(profile, matches),
     [profile, matches],
   )
-  const { submit, run } = useRealtimeTaskTrigger<typeof searchAgent>('search-agent', {
+  const { submit, run, error } = useRealtimeTaskTrigger<typeof searchAgent>('search-agent', {
     accessToken,
   })
   const submitted = useRef(false)
@@ -465,13 +479,24 @@ function ProfileAgentResult({
   const response = finalResponse || streamingResponse
   const thinking = (run?.metadata?.thinking as string | undefined) ?? ''
   const isRunning =
+    run?.status === 'PENDING_VERSION' ||
     run?.status === 'EXECUTING' ||
     run?.status === 'QUEUED' ||
-    run?.status === 'DEQUEUED'
+    run?.status === 'DEQUEUED' ||
+    run?.status === 'WAITING' ||
+    run?.status === 'DELAYED'
+  const failed =
+    Boolean(error) ||
+    run?.status === 'FAILED' ||
+    run?.status === 'CRASHED' ||
+    run?.status === 'SYSTEM_FAILURE' ||
+    run?.status === 'TIMED_OUT' ||
+    run?.status === 'CANCELED' ||
+    run?.status === 'EXPIRED'
 
   return (
     <div className="px-4 py-4">
-      {!response && (
+      {!response && !failed && (
         <div className="flex items-start gap-3">
           <span className="mt-2 block w-2 h-2 rounded-full bg-twilight animate-pulse shrink-0" />
           <div>
@@ -483,6 +508,12 @@ function ProfileAgentResult({
             </p>
           </div>
         </div>
+      )}
+
+      {!response && failed && (
+        <p className="font-serif italic text-ink-soft leading-snug">
+          The live guide could not finish, so use the closest leads above for now.
+        </p>
       )}
 
       {response && (

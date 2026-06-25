@@ -8,7 +8,9 @@ export default async function handler(req: IncomingMessage, res: ServerResponse)
     return
   }
   try {
-    const token = await auth.createTriggerPublicToken('search-agent')
+    const token = await auth.createTriggerPublicToken('search-agent', {
+      expirationTime: '15m',
+    })
     res.writeHead(200, { 'Content-Type': 'application/json' })
     res.end(JSON.stringify({ token }))
   } catch (err) {

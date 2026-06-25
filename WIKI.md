@@ -4,7 +4,7 @@ This repository contains one public wiki instance plus an internal legacy seed c
 
 | Wiki | Path | Scope | Article count | Index |
 |------|------|-------|---------------|-------|
-| Great Work Utah | `wiki/` | Utah ventures, helpers, resources, historical work, sources, guides, matches, and answers for meaningful-work discovery. | 588 public pages | [index](wiki/index.md) |
+| Great Work Utah | `wiki/` | Utah ventures, helpers, resources, historical work, sources, guides, matches, and answers for meaningful-work discovery. | 636 public pages | [index](wiki/index.md) |
 
 `legacy_wiki/` is internal seed material only. Do not cite or link legacy provenance from public pages.
 

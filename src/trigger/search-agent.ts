@@ -14,6 +14,53 @@ function getClient() {
 
 const WIKI_ROOT = path.resolve(process.cwd(), "wiki");
 const LEGACY_WIKI_ROOT = path.resolve(process.cwd(), "legacy_wiki/great_work");
+const WRITABLE_WIKI_DIRS = new Set([
+  "answers",
+  "guides",
+  "helpers",
+  "matches",
+  "people",
+  "resources",
+  "sources",
+  "ventures",
+  "work",
+]);
+
+function isInside(root: string, target: string): boolean {
+  const relative = path.relative(root, target);
+  return relative === "" || (!relative.startsWith("..") && !path.isAbsolute(relative));
+}
+
+function normalizeWikiToolPath(input: unknown): { ok: true; path: string } | { ok: false; error: string } {
+  if (typeof input !== "string" || !input.trim()) {
+    return { ok: false, error: "path must be a non-empty string" };
+  }
+
+  const normalized = input.replaceAll("\\", "/").replace(/^wiki\//, "");
+  const parts = normalized.split("/").filter(Boolean);
+
+  if (
+    path.posix.isAbsolute(normalized) ||
+    parts.length !== 2 ||
+    parts.some((part) => part === "." || part === "..")
+  ) {
+    return { ok: false, error: "path must look like 'category/slug.md'" };
+  }
+
+  const [category, filename] = parts;
+  if (!WRITABLE_WIKI_DIRS.has(category)) {
+    return {
+      ok: false,
+      error: `category must be one of: ${Array.from(WRITABLE_WIKI_DIRS).sort().join(", ")}`,
+    };
+  }
+
+  if (!/^[a-z0-9]+(?:-[a-z0-9]+)*\.md$/.test(filename)) {
+    return { ok: false, error: "filename must be a lowercase slug ending in .md" };
+  }
+
+  return { ok: true, path: `${category}/${filename}` };
+}
 
 function searchWiki(query: string): string {
   const roots = [WIKI_ROOT, LEGACY_WIKI_ROOT];
@@ -22,7 +69,7 @@ function searchWiki(query: string): string {
 
   for (const root of roots) {
     try {
-      const files = execFileSync("grep", ["-r", "-i", "-l", "--include=*.md", query, root], {
+      const files = execFileSync("grep", ["-F", "-r", "-i", "-l", "--include=*.md", query, root], {
         encoding: "utf8",
         timeout: 5000,
       })
@@ -33,7 +80,7 @@ function searchWiki(query: string): string {
 
       const snippets = execFileSync(
         "grep",
-        ["-r", "-i", "-n", "--include=*.md", "-m", "15", query, root],
+        ["-F", "-r", "-i", "-n", "--include=*.md", "-m", "15", query, root],
         { encoding: "utf8", timeout: 5000 }
       );
       allSnippets.push(snippets);
@@ -47,19 +94,24 @@ function searchWiki(query: string): string {
 }
 
 async function readFile(filePath: string): Promise<string> {
+  const wikiToolPath = normalizeWikiToolPath(filePath);
+  if (wikiToolPath.ok) {
+    return ghReadFile(`wiki/${wikiToolPath.path}`);
+  }
+
   const resolved = path.resolve(
     filePath.startsWith("/") ? filePath : path.join(WIKI_ROOT, filePath)
   );
 
   // New wiki: read via GitHub API so agents always see the latest content,
   // including pages written after the last Trigger.dev deploy.
-  if (resolved.startsWith(WIKI_ROOT)) {
+  if (isInside(WIKI_ROOT, resolved)) {
     const repoRelative = "wiki/" + path.relative(WIKI_ROOT, resolved);
     return ghReadFile(repoRelative);
   }
 
   // Legacy wiki: bundled at deploy time; local read is fine (these don't change).
-  if (resolved.startsWith(LEGACY_WIKI_ROOT)) {
+  if (isInside(LEGACY_WIKI_ROOT, resolved)) {
     try {
       return await fs.readFile(resolved, "utf8");
     } catch {
@@ -70,9 +122,9 @@ async function readFile(filePath: string): Promise<string> {
   return "Error: path is outside wiki directories";
 }
 
-const SYSTEM_PROMPT = `You are the Great Work Utah wiki agent — a field guide for Utah's startup, research, and talent ecosystem. You can also write back to the wiki.
+const SYSTEM_PROMPT = `You are the Great Work Utah wiki agent — a field guide for Utah's startup, research, and talent ecosystem.
 
-When answering a question reveals a clear gap — a company, person, or topic that deserves a wiki page but doesn't have one yet — use write_file to save it. Keep new pages concise and factual. Use the same markdown style as existing wiki entries.
+When answering a question reveals a clear gap — a company, person, or topic that deserves a wiki page but doesn't have one yet — mention the gap in the answer. Only use write_file when runtime configuration explicitly allows writes. Keep new pages concise and factual. Use the same markdown style as existing wiki entries.
 
 You have access to two wiki corpora:
 
@@ -140,7 +192,7 @@ const tools: OpenAI.Chat.Completions.ChatCompletionTool[] = [
     function: {
       name: "write_file",
       description:
-        "Write or update a wiki page. Use when you've synthesized something valuable enough to persist for future queries. Path is relative to wiki/, e.g. 'ventures/new-company.md' or 'guides/utah-vc-landscape.md'.",
+        "Create a new wiki page only when writes are enabled by runtime configuration. Path is relative to wiki/, e.g. 'ventures/new-company.md' or 'guides/utah-vc-landscape.md'. Existing pages are never overwritten.",
       parameters: {
         type: "object",
         properties: {
@@ -169,6 +221,24 @@ type FunctionToolCall = {
   function: { name: string; arguments: string };
 };
 
+type StreamDelta = {
+  content?: string | null;
+  reasoning_content?: string;
+  tool_calls?: Array<{
+    index: number;
+    id?: string;
+    function?: {
+      name?: string;
+      arguments?: string;
+    };
+  }>;
+};
+
+function stringArg(args: Record<string, unknown>, key: string): string {
+  const value = args[key];
+  return typeof value === "string" ? value : "";
+}
+
 async function runToolCallRound(
   messages: OpenAI.Chat.Completions.ChatCompletionMessageParam[],
   thinkingAcc: string
@@ -193,19 +263,12 @@ async function runToolCallRound(
   let finishReason: string | null = null;
   const toolCallsMap: Record<number, { id: string; name: string; arguments: string }> = {};
 
-  let updateCount = 0;
   for await (const chunk of stream) {
-    const delta = chunk.choices[0]?.delta as any;
+    const delta = chunk.choices[0]?.delta as StreamDelta | undefined;
     finishReason = chunk.choices[0]?.finish_reason ?? finishReason;
 
-    // DeepSeek streams reasoning tokens separately — this is the real CoT
     if (delta?.reasoning_content) {
       reasoningContent += delta.reasoning_content;
-      thinkingAcc += delta.reasoning_content;
-      updateCount++;
-      if (updateCount === 1 || updateCount % 8 === 0) {
-        await metadata.set("thinking", thinkingAcc);
-      }
     }
 
     if (delta?.content) {
@@ -245,7 +308,7 @@ export const searchAgent = task({
       { role: "user", content: payload.query },
     ];
 
-    let thinkingAcc = "";
+    let thinkingAcc = "Reading the wiki and preparing a sourced answer.";
 
     // Phase 1: tool call loop with streamed reasoning
     for (let round = 0; round < 8; round++) {
@@ -264,34 +327,55 @@ export const searchAgent = task({
       if (done) break;
 
       for (const toolCall of toolCalls) {
-        const args = JSON.parse(toolCall.function.arguments);
+        let args: Record<string, unknown>;
+        try {
+          args = JSON.parse(toolCall.function.arguments);
+        } catch (error) {
+          messages.push({
+            role: "tool",
+            tool_call_id: toolCall.id,
+            content: `Tool call failed: invalid JSON arguments (${String(error)})`,
+          });
+          continue;
+        }
         let result: string;
 
         if (toolCall.function.name === "search_wiki") {
-          const line = `\n\n🔍 search_wiki("${args.query}")\n`;
+          const line = `\n\nSearching the wiki for "${stringArg(args, "query")}".`;
           thinkingAcc += line;
           await metadata.set("thinking", thinkingAcc);
-          result = searchWiki(args.query);
+          result = typeof args.query === "string" ? searchWiki(args.query) : "Search failed: query must be a string.";
         } else if (toolCall.function.name === "read_file") {
-          const line = `\n\n📖 read_file("${path.basename(args.path)}")\n`;
+          const line = `\n\nReading ${typeof args.path === "string" ? path.basename(args.path) : "the requested file"}.`;
           thinkingAcc += line;
           await metadata.set("thinking", thinkingAcc);
-          result = await readFile(args.path);
+          result = typeof args.path === "string" ? await readFile(args.path) : "Read failed: path must be a string.";
         } else if (toolCall.function.name === "write_file") {
-          const line = `\n\n💾 write_file("${args.path}")\n`;
+          const safePath = normalizeWikiToolPath(args.path);
+          const line = `\n\nConsidering a new wiki page at ${safePath.ok ? safePath.path : String(args.path)}.`;
           thinkingAcc += line;
           await metadata.set("thinking", thinkingAcc);
-          // Safety: read first so we don't blindly overwrite existing wiki pages.
-          const existing = await readFile(args.path);
-          const exists = !existing.startsWith("Error");
-          if (exists) {
-            result = `Write blocked: wiki/${args.path} already exists (${existing.length} chars). Call read_file("${args.path}") to review it, then decide whether an update is needed. If you want to update, call write_file again with the full merged content.`;
+          if (!safePath.ok) {
+            result = `Write blocked: ${safePath.error}.`;
+          } else if (process.env.SEARCH_AGENT_WRITE_ENABLED !== "true") {
+            result = `Write blocked: SEARCH_AGENT_WRITE_ENABLED is not true. Draft the proposed wiki/${safePath.path} content in your final answer instead.`;
+          } else if (typeof args.content !== "string" || !args.content.trim()) {
+            result = "Write blocked: content must be a non-empty string.";
           } else {
-            result = await ghWriteFile(
-              `wiki/${args.path}`,
-              args.content,
-              args.commit_message ?? `search-agent: add ${args.path}`,
-            );
+            // Safety: read first so we don't blindly overwrite existing wiki pages.
+            const existing = await readFile(safePath.path);
+            const exists = !existing.startsWith("Error");
+            if (exists) {
+              result = `Write blocked: wiki/${safePath.path} already exists (${existing.length} chars). Return a proposed patch in your final answer instead of overwriting it.`;
+            } else {
+              result = await ghWriteFile(
+                `wiki/${safePath.path}`,
+                args.content,
+                typeof args.commit_message === "string" && args.commit_message.trim()
+                  ? args.commit_message
+                  : `search-agent: add ${safePath.path}`,
+              );
+            }
           }
         } else {
           result = "Unknown tool";
@@ -302,7 +386,7 @@ export const searchAgent = task({
     }
 
     // Phase 2: stream the final response
-    thinkingAcc += "\n\n✍️ Writing response…\n";
+    thinkingAcc += "\n\nWriting the final response.";
     await metadata.set("thinking", thinkingAcc);
 
     const finalStream = await getClient().chat.completions.create({

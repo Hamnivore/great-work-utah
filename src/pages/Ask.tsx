@@ -10,7 +10,8 @@ import type { searchAgent } from '../trigger/search-agent'
 
 async function fetchTriggerToken(): Promise<string> {
   const res = await fetch('/api/trigger-token', { method: 'POST' })
-  const data = await res.json()
+  const data = await res.json().catch(() => ({}))
+  if (!res.ok) throw new Error(data.error ?? `Trigger token request failed (${res.status})`)
   if (!data.token) throw new Error(data.error ?? 'No token returned')
   return data.token
 }
@@ -33,7 +34,13 @@ function SearchResult({ query, accessToken }: { query: string; accessToken: stri
   const finalResponse = (run?.output as { response?: string } | undefined)?.response ?? ''
   const response = finalResponse || streamingResponse
   const thinking = (run?.metadata?.thinking as string | undefined) ?? ''
-  const isRunning = run?.status === 'EXECUTING' || run?.status === 'QUEUED' || run?.status === 'DEQUEUED'
+  const isRunning =
+    run?.status === 'PENDING_VERSION' ||
+    run?.status === 'QUEUED' ||
+    run?.status === 'DEQUEUED' ||
+    run?.status === 'EXECUTING' ||
+    run?.status === 'WAITING' ||
+    run?.status === 'DELAYED'
   const isDone = run?.status === 'COMPLETED'
   const failed =
     Boolean(error) ||

@@ -3,10 +3,11 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
+const CHECK = process.argv.includes('--check') // verify committed views are fresh, don't write
 const WIKI = new URL('../wiki', import.meta.url).pathname
 const PAGES = path.join(WIKI, 'pages')
-const VIEWS = path.join(WIKI, 'views')
-fs.rmSync(VIEWS, { recursive: true, force: true })
+const VIEWS = CHECK ? fs.mkdtempSync('/tmp/views-check-') : path.join(WIKI, 'views')
+if (!CHECK) fs.rmSync(VIEWS, { recursive: true, force: true })
 fs.mkdirSync(VIEWS, { recursive: true })
 
 const meta = (raw, key) => (raw.match(new RegExp(`^\\*\\*${key}:\\*\\* (.+)$`, 'm')) || [])[1] || ''
@@ -117,4 +118,18 @@ All pages live flat in [pages/](../pages/); every view below is generated from p
 - Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md)`).join(' · ')}
 `)
 
-console.log(`views: ${fs.readdirSync(VIEWS).length} files from ${pages.length} pages (${attributed.length} attributed)`)
+if (CHECK) {
+  const real = path.join(WIKI, 'views')
+  let stale = 0
+  const names = new Set([...fs.readdirSync(VIEWS), ...(fs.existsSync(real) ? fs.readdirSync(real) : [])])
+  for (const n of names) {
+    const a = fs.existsSync(path.join(VIEWS, n)) ? fs.readFileSync(path.join(VIEWS, n), 'utf8') : null
+    const b = fs.existsSync(path.join(real, n)) ? fs.readFileSync(path.join(real, n), 'utf8') : null
+    if (a !== b) { console.log(`stale view: ${n}`); stale++ }
+  }
+  fs.rmSync(VIEWS, { recursive: true, force: true })
+  console.log(stale ? `views are STALE (${stale}) — run: node scripts/build-views.mjs` : 'views are fresh')
+  process.exitCode = stale ? 1 : 0
+} else {
+  console.log(`views: ${fs.readdirSync(VIEWS).length} files from ${pages.length} pages (${attributed.length} attributed)`)
+}

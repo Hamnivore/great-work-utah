@@ -1,0 +1,260 @@
+# domain: space-science
+
+- [ACT Aerospace](/wiki/ventures/act-aerospace.md) · aerospace composites, carbon fiber structures, composite manufacturing, aerostructures, defense supply chain
+- [Araknitek](/wiki/ventures/araknitek.md) · synthetic spider silk, biomaterials, advanced materials, university spinout
+- [Batu Biologics](/wiki/ventures/batu-biologics.md) · immuno-oncology, tumor vasculature, anti-angiogenesis, university spinout
+- [Baxter Aerospace](/wiki/ventures/baxter-aerospace.md) · unmanned aircraft, deployable communications, ISR, defense, emergency response, advanced manufacturing
+- [BioEnergenix](/wiki/ventures/bioenergenix.md) · metabolic syndrome, PASK inhibition, diabetes, obesity, NAFLD/NASH, University of Utah spinout
+- [BioFire Diagnostics](/wiki/ventures/biofire-diagnostics.md) · infectious disease diagnostics, multiplex PCR, syndromic testing, in vitro diagnostics, life sciences
+- [Bioparin](/wiki/ventures/bioparin.md) · synthetic heparin, biomanufacturing, anticoagulants, supply chain resilience, university spinout
+- [Blackrock Neurotech](/wiki/ventures/blackrock-neurotech.md) · brain-computer interfaces, neural engineering, medical devices, restoration of motor and speech function
+- [CaLycia Biosciences](/wiki/ventures/calycia-biosciences.md) · macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology
+- [CleanJoule](/wiki/ventures/cleanjoule.md) · sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
+- [Curza](/wiki/ventures/curza.md) · antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens
+- [EnduraCure](/wiki/ventures/enduracure.md) · degradable polymers, flexible electronics, e-waste, materials science, recyclable substrates
+- [Fortem Technologies](/wiki/ventures/fortem-technologies.md) · counter-UAS, radar, autonomous systems, defense, critical infrastructure
+- [Halia Therapeutics](/wiki/ventures/halia-therapeutics.md) · drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life sciences
+- [Hexcel Corporation](/wiki/ventures/hexcel.md) · advanced materials, aerospace composites, carbon fiber, manufacturing
+- [Huntsman Cancer Institute](/wiki/ventures/huntsman-cancer-institute.md) · cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, translational …
+- [IMSAR](/wiki/ventures/imsar.md) · synthetic aperture radar, UAS, defense, aerospace, intelligence, manufacturing
+- [Inherent Biosciences](/wiki/ventures/inherent-biosciences.md) · epigenetic diagnostics, male fertility, sperm function, reproductive health, AI biomarkers
+- [Intan Technologies](/wiki/ventures/intan-technologies.md) · neural recording, electrophysiology, integrated circuits, neuroscience infrastructure, brain-computer interfa…
+- [Jarvik-7 Artificial Heart](/wiki/ventures/jarvik-7-artificial-heart.md) · medical devices, cardiac surgery, mechanical circulatory support, Utah medical history
+- [Merit Medical Systems](/wiki/ventures/merit-medical.md) · interventional medical devices, catheters, manufacturing, FDA regulated, life sciences
+- [Northrop Grumman — Promontory Facility](/wiki/ventures/northrop-grumman-promontory.md) · solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense
+- [Nusano](/wiki/ventures/nusano.md) · medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, advanced ma…
+- [OxEon Energy](/wiki/ventures/oxeon-energy.md) · solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry
+- [RAM Aviation, Space & Defense](/wiki/ventures/ram-aviation-space-defense.md) · propulsion valves, precision manufacturing, spacecraft components, fluid control, aerospace supply chain
+- [Recursion Pharmaceuticals](/wiki/ventures/recursion-pharmaceuticals.md) · AI drug discovery, life sciences, computational biology
+- [Ripple Neuro](/wiki/ventures/ripple-neuro.md) · neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology
+- [Sandbox](/wiki/ventures/sandbox.md) · entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum
+- [SCI Institute](/wiki/ventures/sci-institute.md) · scientific computing, scientific visualization, biomedical computing, open-source research software
+- [Sethera Therapeutics](/wiki/ventures/sethera-therapeutics.md) · peptide therapeutics, enzymatic cross-linking, polymacrocyclic peptides, drug discovery platform
+- [Space Dynamics Laboratory](/wiki/ventures/space-dynamics-laboratory.md) · space systems, sensors, satellites, defense, student workforce
+- [Techcyte](/wiki/ventures/techcyte.md) · digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, …
+- [Telescope Array](/wiki/ventures/telescope-array-ultra-high-energy-cosmic-rays.md) · astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infrastructure
+- [Thera-T Pharmaceutics](/wiki/ventures/thera-t-pharmaceutics.md) · immuno-oncology, blood cancer, T-cell therapy, multi-antigen targeting, university spinout
+- [Trace AQ](/wiki/ventures/trace-aq.md) · air quality forecasting, wildfire smoke, physics-based AI, atmospheric science, public health alerts
+- [US Magnesium](/wiki/ventures/us-magnesium.md) · primary magnesium production, critical minerals, Great Salt Lake brine, aerospace and defense metals, industr…
+- [USU Center for Integrated BioSystems](/wiki/ventures/usu-integrated-biosystems.md) · agricultural genomics, bioinformatics, land-grant research, arid-land crops, livestock genetics
+- [Utah Arch Research Group](/wiki/ventures/utah-arch.md) · hardware architecture, ML accelerators, fully homomorphic encryption, privacy-preserving ML, 3D nanofabric, c…
+- [Utah Neurorobotics Lab](/wiki/ventures/utah-neurorobotics-lab.md) · neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation
+- [Utah Test and Training Range (UTTR)](/wiki/ventures/uttr.md) · DoD test ranges, weapons evaluation, hypersonics, cruise missiles, space reentry, restricted airspace
+- [Varda Space Industries](/wiki/ventures/varda-space.md) · in-space manufacturing, microgravity pharmaceuticals, reentry capsules, space logistics
+- [WAVE (Wireless Advanced Vehicle Electrification)](/wiki/ventures/wave-inc.md) · wireless charging, fleet electrification, inductive power transfer, transit, logistics
+- [WordPerfect](/wiki/ventures/wordperfect.md) · software, word processing, Utah software history, Silicon Slopes origins
+- [Zanskar Geothermal](/wiki/ventures/zanskar-geothermal.md) · geothermal exploration, AI for earth sciences, climate, firm clean power
+- [Chad Testa](/wiki/people/chad-testa.md) · antibiotics, antimicrobial resistance, biotech CEO, mission-driven pharma, Gram-negative bacteria
+- [Dave Bearss](/wiki/people/dave-bearss.md) · drug discovery, oncology, inflammation, university translational programs, Utah life sciences
+- [Florian Solzbacher](/wiki/people/florian-solzbacher.md) · neuroengineering, brain-computer interfaces, medical devices, university spinouts
+- [Jared Rutter](/wiki/people/jared-rutter.md) · biochemistry, metabolomics, allosteric drug discovery, university commercialization, life sciences
+- [Nucleus Institute](/wiki/helpers/nucleus-institute.md) · commercialization, talent matching, early-stage capital, research translation, Utah innovation
+- [RQM+](/wiki/helpers/rqm-plus.md) · medical devices, diagnostics, regulatory affairs, quality systems, clinical trials, reimbursement, medtech st…
+- [Wilson Sonsini Salt Lake City](/wiki/helpers/wilson-sonsini-salt-lake-city.md) · startup counsel, venture financings, life sciences, medical devices, IP, corporate governance
+- [1 Million Cups (Orem)](/wiki/resources/1-million-cups-orem.md) · Entrepreneurship Communities, Start a Business, Aerospace and Defense, Agriculture
+- [1 Million Cups (Salt Lake)](/wiki/resources/1-million-cups-salt-lake.md) · Entrepreneurship Communities, Start a Business, Aerospace and Defense, Agriculture
+- [1MC Salt Lake](/wiki/resources/1mc-salt-lake.md) · Entrepreneurship Communities, Funding, Other, Start a Business, Any, Aerospace and Defense, Agriculture
+- [47G - Utah Aerospace & Defense Association](/wiki/resources/47g-utah-aerospace-and-defense-association.md) · aerospace, defense, hard tech, dual-use, government navigation, supply chain
+- [A Bolder Way Forward](/wiki/resources/a-bolder-way-forward.md) · Other, Women, Aerospace and Defense, Agriculture
+- [Acceler8 Wasatch](/wiki/resources/acceler8-wasatch.md) · Entrepreneurship Communities, Late Stage Growth, Any, Aerospace and Defense
+- [Ai Seminar for Small Businesses & Non-Profits](/wiki/resources/ai-seminar-for-small-businesses-and-non-profits.md) · Other, Any, Aerospace and Defense, Agriculture
+- [Album](/wiki/resources/album.md) · Funding, Aerospace and Defense, Agriculture
+- [Altitude Labs](/wiki/resources/altitude-labs.md) · Entrepreneurship Communities, Relocate a Business to Utah, Life Sciences and Healthcare
+- [Apprenticeship Utah](/wiki/resources/apprenticeship-utah.md) · Late Stage Growth, Aerospace and Defense, Agriculture
+- [Atwood Innovation Plaza](/wiki/resources/atwood-innovation-plaza.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Bear Lake Regional Commission](/wiki/resources/bear-lake-regional-commission.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Arts and Entertainment and Recreation, Life Science…
+- [Bear Lake Valley Chamber of Commerce](/wiki/resources/bear-lake-valley-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Bear River Association of Governments](/wiki/resources/bear-river-association-of-governments.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [BIG Chamber (Beaver, Iron, Garfield)](/wiki/resources/big-chamber-beaver-iron-garfield.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [BIO Utah](/wiki/resources/bio-utah.md) · Entrepreneurship Communities, Late Stage Growth, Any, Life Sciences and Healthcare, Software and Information …
+- [BIOHive Utah](/wiki/resources/biohive-utah.md) · Entrepreneurship Communities, Late Stage Growth, Any, Life Sciences and Healthcare
+- [Box Elder Chamber of Commerce](/wiki/resources/box-elder-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Brigham City Economic Development](/wiki/resources/brigham-city-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Brigham Young University (BYU) - Rollins Center](/wiki/resources/brigham-young-university-byu-rollins-center.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense,…
+- [Business Resource Center - Davis Tech College](/wiki/resources/business-resource-center-davis-tech-college.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Business Resource Center - Utah Tech University](/wiki/resources/business-resource-center-utah-tech-university.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Business Technical Assistance Center](/wiki/resources/business-technical-assistance-center.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Cache Valley Chamber of Commerce](/wiki/resources/cache-valley-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Carbon County Chamber of Commerce](/wiki/resources/carbon-county-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Carbon County Economic Development](/wiki/resources/carbon-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Cedar City Area Chamber of Commerce](/wiki/resources/cedar-city-area-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Church and State](/wiki/resources/church-and-state.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [Clearfield Job Corps](/wiki/resources/clearfield-job-corps.md) · Late Stage Growth, Aerospace and Defense, Agriculture
+- [Convoi Ventures](/wiki/resources/convoi-ventures.md) · Funding, Aerospace and Defense, Agriculture
+- [Coworking Space in Salt Lake City - Offices.net](/wiki/resources/coworking-space-in-salt-lake-city-offices-net.md) · Entrepreneurship Communities, Any, Multicultural, Aerospace and Defense, Agriculture
+- [Cross Creek](/wiki/resources/cross-creek.md) · Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Custom Fit Training](/wiki/resources/custom-fit-training.md) · Late Stage Growth, Aerospace and Defense, Agriculture
+- [Cynosure](/wiki/resources/cynosure.md) · Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Davis Chamber of Commerce](/wiki/resources/davis-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Davis County Economic Development](/wiki/resources/davis-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Delta Area Chamber of Commerce](/wiki/resources/delta-area-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [EDCUtah - Economic Development Corporation of Utah](/wiki/resources/edcutah-economic-development-corporation-of-utah.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Emery County Economic Development](/wiki/resources/emery-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Epic Ventures](/wiki/resources/epic-ventures.md) · Funding, Aerospace and Defense, Agriculture
+- [Escalante City Innovation Center](/wiki/resources/escalante-city-innovation-center.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [EVENT: Business Forward](/wiki/resources/event-business-forward.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [EVENT: Grand Summit Moab](/wiki/resources/event-grand-summit-moab.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and De…
+- [EVENT: Mountain West Capital Network](/wiki/resources/event-mountain-west-capital-network.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [EVENT: One Utah Summit](/wiki/resources/event-one-utah-summit.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [EVENT: Raising Kane Business Summit](/wiki/resources/event-raising-kane-business-summit.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and De…
+- [EVENT: Silicon Slopes Tech Summit](/wiki/resources/event-silicon-slopes-tech-summit.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [EVENT: Utah Tech Week](/wiki/resources/event-utah-tech-week.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [EVENT: What's Up Down South - Economic Summit](/wiki/resources/event-what-s-up-down-south-economic-summit.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and De…
+- [First Step Entrepreneur](/wiki/resources/first-step-entrepreneur.md) · Entrepreneurship Communities, Any, Aerospace and Defense, Agriculture
+- [Five County Association of Governments](/wiki/resources/five-county-association-of-governments.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Flaming Gorge Chamber of Commerce](/wiki/resources/flaming-gorge-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [FSTEP Idea Explorer](/wiki/resources/fstep-idea-explorer.md) · Start a Business, Any, Aerospace and Defense, Agriculture
+- [FutureReady Utah](/wiki/resources/futureready-utah.md) · Other, Rural, Aerospace and Defense, Agriculture
+- [Get Started: Business Idea Challenge](/wiki/resources/get-started-business-idea-challenge.md) · Funding, Start a Business, Multicultural, New American, Aerospace and Defense, Agriculture
+- [Goldman Sachs 1000 Small businesses](/wiki/resources/goldman-sachs-1000-small-businesses.md) · Late Stage Growth, Aerospace and Defense, Agriculture
+- [Grand County Economic Development](/wiki/resources/grand-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Greater Nephi Chamber of Commerce](/wiki/resources/greater-nephi-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Heber City Community Alliance for Main Street](/wiki/resources/heber-city-community-alliance-for-main-street.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Heber Valley Chamber of Commerce](/wiki/resources/heber-valley-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Heber Valley Economic Development](/wiki/resources/heber-valley-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Hurricane Valley Chamber of Commerce](/wiki/resources/hurricane-valley-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [iHub](/wiki/resources/ihub.md) · Entrepreneurship Communities, Funding, Start a Business, Student, Aerospace and Defense, Agriculture
+- [Indie Square](/wiki/resources/indie-square.md) · Entrepreneurship Communities, Other
+- [Iron County Economic Development](/wiki/resources/iron-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Juab County Economic Development](/wiki/resources/juab-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Kem C. Gardner Policy Institute](/wiki/resources/kem-c-gardner-policy-institute.md) · Other, Aerospace and Defense, Agriculture
+- [Kickstart Fund](/wiki/resources/kickstart-fund.md) · Funding, Aerospace and Defense, Agriculture
+- [Kiln](/wiki/resources/kiln.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [LiaLaunch](/wiki/resources/lialaunch.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Women, Aerospace and Defense, Agriculture
+- [Logan City Economic Development](/wiki/resources/logan-city-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Make Salt Lake](/wiki/resources/make-salt-lake.md) · Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing
+- [Make Utah](/wiki/resources/make-utah.md) · Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing
+- [Maven CREATE](/wiki/resources/maven-create.md) · Entrepreneurship Communities, Women, Aerospace and Defense, Agriculture
+- [Mercato Partners](/wiki/resources/mercato-partners.md) · Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Moab Chamber of Commerce](/wiki/resources/moab-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Monarch](/wiki/resources/monarch.md) · Entrepreneurship Communities, Arts and Entertainment and Recreation
+- [Monticello Coworking Space](/wiki/resources/monticello-coworking-space.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [Morgan Chamber of Commerce](/wiki/resources/morgan-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Morgan County Economic Development](/wiki/resources/morgan-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Mountain Land Association of Governments' Revolving Loan Fund (RLF)](/wiki/resources/mountain-land-association-of-governments-revolving-loan-fund-rlf.md) · Funding, Aerospace and Defense, Agriculture
+- [Mountainland Association of Governments](/wiki/resources/mountainland-association-of-governments.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Northern Utah Economic Alliance](/wiki/resources/northern-utah-economic-alliance.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Nucleus Fund](/wiki/resources/nucleus-fund.md) · early-stage capital, deep tech, university spinouts, commercialization
+- [Nucleus Grow](/wiki/resources/nucleus-grow.md) · SBIR, STTR, non-dilutive funding, deep tech, research commercialization
+- [Nucleus MarketEdge](/wiki/resources/nucleus-marketedge.md) · research commercialization, professors, PhDs, postdocs, market discovery
+- [Ogden-Weber Chamber of Commerce](/wiki/resources/ogden-weber-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Pacific Island Chamber of Commerce (PICC)](/wiki/resources/pacific-island-chamber-of-commerce-picc.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Park City Angels](/wiki/resources/park-city-angels.md) · Funding, Aerospace and Defense, Agriculture
+- [Park City Chamber of Commerce](/wiki/resources/park-city-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Pelion Ventures](/wiki/resources/pelion-ventures.md) · Funding, Aerospace and Defense, Agriculture
+- [Peterson Ventures](/wiki/resources/peterson-ventures.md) · Funding, Aerospace and Defense, Agriculture
+- [Portal Warehousing](/wiki/resources/portal-warehousing.md) · Entrepreneurship Communities, Consumer Packaged Goods
+- [R6 Regional Council](/wiki/resources/r6-regional-council.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Red Rock Angels](/wiki/resources/red-rock-angels.md) · Funding, Aerospace and Defense, Agriculture
+- [Renewable Tech Ventures](/wiki/resources/renewable-tech-ventures.md) · Funding, Other, Aerospace and Defense, Agriculture
+- [Revolving Loan Fund Program (RLF) - R6](/wiki/resources/revolving-loan-fund-program-rlf-r6.md) · Funding, Aerospace and Defense, Agriculture
+- [Revolving Loan Fund Program (RLF) - South Eastern Utah](/wiki/resources/revolving-loan-fund-program-rlf-south-eastern-utah.md) · Funding, Aerospace and Defense, Agriculture
+- [RevRoad](/wiki/resources/revroad.md) · Funding, Aerospace and Defense, Agriculture
+- [Richfield Chamber of Commerce](/wiki/resources/richfield-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Rural Utah Chamber Coalition](/wiki/resources/rural-utah-chamber-coalition.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Rural, Aerospace and Defense, Agriculture
+- [Salina Chamber](/wiki/resources/salina-chamber.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Salt Lake Angels](/wiki/resources/salt-lake-angels.md) · Funding, Aerospace and Defense, Agriculture
+- [Salt Lake Chamber](/wiki/resources/salt-lake-chamber.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Salt Lake City Office Space for Rent](/wiki/resources/salt-lake-city-office-space-for-rent.md) · Entrepreneurship Communities, Start a Business, Any, Aerospace and Defense, Agriculture
+- [Salt Lake Community College (SLCC) - The Mill](/wiki/resources/salt-lake-community-college-slcc-the-mill.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense,…
+- [Salt Mine](/wiki/resources/salt-mine.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [San Juan County Chamber of Commerce](/wiki/resources/san-juan-county-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [San Juan County Economic Development](/wiki/resources/san-juan-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Sanpete Chamber of Commerce](/wiki/resources/sanpete-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [SBA Thrive](/wiki/resources/sba-thrive.md) · Late Stage Growth, Multicultural, New American, Aerospace and Defense, Agriculture
+- [Sevier County Economic Development](/wiki/resources/sevier-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Signal Peak Ventures](/wiki/resources/signal-peak-ventures.md) · Funding, Aerospace and Defense, Agriculture
+- [Six County Association of Governments](/wiki/resources/six-county-association-of-governments.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Snow College - GRIT Center](/wiki/resources/snow-college-grit-center.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense,…
+- [Sorenson Impact Fund](/wiki/resources/sorenson-impact-fund.md) · Funding, Other, Aerospace and Defense, Agriculture
+- [SoUtah Economic Alliance](/wiki/resources/soutah-economic-alliance.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Southeastern Association of Local Governments](/wiki/resources/southeastern-association-of-local-governments.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Southeastern Utah Association of Local Governments - Economic Development](/wiki/resources/southeastern-utah-association-of-local-governments-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Southern Utah University Cedar City Business & Innovation Center](/wiki/resources/southern-utah-university-cedar-city-business-and-innovation-center.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship](/wiki/resources/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense,…
+- [St George Area Chamber of Commerce](/wiki/resources/st-george-area-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [St. George City Economic Development](/wiki/resources/st-george-city-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Startup Ogden](/wiki/resources/startup-ogden.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [STOPfakes.gov](/wiki/resources/stopfakes-gov.md) · International Trade, Aerospace and Defense, Agriculture
+- [STRIVE](/wiki/resources/strive.md) · Entrepreneurship Communities, Start a Business, Veteran, Aerospace and Defense, Agriculture
+- [Suazo Business Center](/wiki/resources/suazo-business-center.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Summit County Economic Development](/wiki/resources/summit-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Talent Ready Utah](/wiki/resources/talent-ready-utah.md) · Late Stage Growth, Aerospace and Defense, Agriculture
+- [Tandem Ventures](/wiki/resources/tandem-ventures.md) · Funding, Aerospace and Defense, Agriculture
+- [Tech Ridge](/wiki/resources/tech-ridge.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Teen Entrepreneur Support Center](/wiki/resources/teen-entrepreneur-support-center.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense,…
+- [The Hub at Bridgerland Technical College](/wiki/resources/the-hub-at-bridgerland-technical-college.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [The Mill Entrepreneurship Center](/wiki/resources/the-mill-entrepreneurship-center.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [The Shop](/wiki/resources/the-shop.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [Uinta Basin Association of Governments](/wiki/resources/uinta-basin-association-of-governments.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Uinta Basin Tech - Entrepreneur Center](/wiki/resources/uinta-basin-tech-entrepreneur-center.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense,…
+- [Uintah Basin Economic Development District](/wiki/resources/uintah-basin-economic-development-district.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, Aerospace and Defense, Agriculture
+- [Uintah County Economic Development](/wiki/resources/uintah-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [University of Utah Lassonde Entrepreneurship Institute](/wiki/resources/university-of-utah-lassonde-entrepreneurship-institute.md) · student entrepreneurship, university entrepreneurship, startups, seed funding, venture creation
+- [USU Remote Online Initiative](/wiki/resources/usu-remote-online-initiative.md) · Late Stage Growth, Rural, Aerospace and Defense, Agriculture
+- [Utah Alliance for Economic Development](/wiki/resources/utah-alliance-for-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Utah Asian Chamber of Commerce (UACC)](/wiki/resources/utah-asian-chamber-of-commerce-uacc.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Association of Counties (UAC)](/wiki/resources/utah-association-of-counties-uac.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Utah Black Chamber](/wiki/resources/utah-black-chamber.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Center for Rural Development](/wiki/resources/utah-center-for-rural-development.md) · Entrepreneurship Communities, Late Stage Growth, Other, Rural, Aerospace and Defense, Agriculture
+- [Utah Chinese Association](/wiki/resources/utah-chinese-association.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Defense Alliance](/wiki/resources/utah-defense-alliance.md) · Entrepreneurship Communities, Late Stage Growth, Any, Aerospace and Defense
+- [Utah Department of Workforce Services](/wiki/resources/utah-department-of-workforce-services.md) · Late Stage Growth, Aerospace and Defense, Agriculture
+- [Utah Division of Outdoor Recreation](/wiki/resources/utah-division-of-outdoor-recreation.md) · Entrepreneurship Communities, Arts and Entertainment and Recreation, Hospitality and Food Services
+- [Utah Governor's Office of Economic Opportunity](/wiki/resources/utah-governor-s-office-of-economic-opportunity.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Multicultural, New Amer…
+- [Utah Hispanic Chamber of Commerce](/wiki/resources/utah-hispanic-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Inland Port Authority](/wiki/resources/utah-inland-port-authority.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Utah Innovation Center](/wiki/resources/utah-innovation-center.md) · Funding, Aerospace and Defense, Agriculture
+- [Utah Innovation Fund](/wiki/resources/utah-innovation-fund.md) · Funding, Aerospace and Defense, Agriculture
+- [Utah Korean Chamber of Commerce](/wiki/resources/utah-korean-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah League of Cities & Towns (ULCT)](/wiki/resources/utah-league-of-cities-and-towns-ulct.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Utah LGBTQ+ Chamber of Commerce](/wiki/resources/utah-lgbtq-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Microloan Fund (UMLF)](/wiki/resources/utah-microloan-fund-umlf.md) · Funding, Aerospace and Defense, Agriculture
+- [Utah Muslim Civic League (UMCL)](/wiki/resources/utah-muslim-civic-league-umcl.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Native American Chamber of Commerce](/wiki/resources/utah-native-american-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Pacific Islander Chamber of Commerce](/wiki/resources/utah-pacific-islander-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Multicultural, Aerospace and Defense, Agriculture
+- [Utah Regional Growth Association](/wiki/resources/utah-regional-growth-association.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Utah State University Center for Entrepreneurship](/wiki/resources/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md) · student entrepreneurship, university entrepreneurship, mentoring, internships, competitions
+- [Utah Tech University - Atwood Innovation Center](/wiki/resources/utah-tech-university-atwood-innovation-center.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense,…
+- [Utah Valley University Innovation Center/Academy](/wiki/resources/utah-valley-university-innovation-center-academy.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Utah Valley University Baugh Entrepreneurship Institute](/wiki/resources/utah-valley-university-uvu-entrepreneur-institute.md) · student entrepreneurship, university entrepreneurship, mentoring, seed funding, competitions
+- [UZONA - Hildale Chamber of Commerce](/wiki/resources/uzona-hildale-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Multicultural, Aerospace and Defense, Agriculture
+- [Vernal Area Chamber of Commerce](/wiki/resources/vernal-area-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Vernal Downtown Alliance](/wiki/resources/vernal-downtown-alliance.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Vernal Innovation Hub](/wiki/resources/vernal-innovation-hub.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Veteran Business Resource Center (VBRC) Utah](/wiki/resources/veteran-business-resource-center-vbrc-utah.md) · Entrepreneurship Communities, Marketing and Sales, Start a Business, Veteran, Aerospace and Defense, Agricult…
+- [Veteran-Owned Business Registration Utah](/wiki/resources/veteran-owned-business-registration-utah.md) · Entrepreneurship Communities, Veteran, Aerospace and Defense, Agriculture
+- [Vision Iron County](/wiki/resources/vision-iron-county.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and De…
+- [Wasatch Front Regional Council](/wiki/resources/wasatch-front-regional-council.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Wasatch Women's Business Alliance](/wiki/resources/wasatch-women-s-business-alliance.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Women, Aerospace and Defense, A…
+- [Washington Area Chamber of Commerce](/wiki/resources/washington-area-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Washington City Economic Development](/wiki/resources/washington-city-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Weber Basin Job Corps](/wiki/resources/weber-basin-job-corps.md) · Late Stage Growth, Aerospace and Defense, Agriculture
+- [Weber County Economic Development](/wiki/resources/weber-county-economic-development.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+- [Wildcat MicroFund](/wiki/resources/wildcat-microfund.md) · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, …
+- [Work Hive](/wiki/resources/work-hive.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [Workbox](/wiki/resources/workbox.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [World Trade Center Utah](/wiki/resources/world-trade-center-utah.md) · Entrepreneurship Communities, Late Stage Growth, Any, Aerospace and Defense, Agriculture
+- [University of Utah ARPANET Fourth Node](/wiki/work/arpanet-fourth-node.md) · internet history, packet switching, computer science, ARPA research
+- [Atmospheric Waves Experiment](/wiki/work/atmospheric-waves-experiment.md) · space instrumentation, upper atmosphere, atmospheric physics, Space Dynamics Laboratory, NASA
+- [Kennecott Bingham Canyon Mine](/wiki/work/bingham-canyon-mine.md) · mining, copper, mass-mining, industrial engineering, extractive industry
+- [Capecchi Gene Targeting and the Knockout Mouse](/wiki/work/capecchi-gene-targeting.md) · gene targeting, knockout mice, biomedical research, genetics
+- [Conotoxins and Prialt](/wiki/work/conotoxins-and-prialt.md) · drug discovery, molecular neuroscience, venom peptides, non-opioid pain, ion channels
+- [Evans & Sutherland](/wiki/work/evans-and-sutherland.md) · computer graphics, flight simulation, real-time 3D, graphics hardware
+- [Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](/wiki/work/flys-eye-hires-cosmic-rays.md) · astroparticle physics, cosmic rays, observatories, desert science
+- [H. Tracy Hall's Diamond Presses](/wiki/work/h-tracy-hall-diamond-presses.md) · materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation
+- [Harvey Fletcher and Stereophonic Sound](/wiki/work/harvey-fletcher-stereophonic-sound.md) · acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering
+- [HELP Clinical Decision Support System](/wiki/work/help-clinical-decision-support-system.md) · clinical decision support, medical informatics, electronic health records, hospital systems
+- [High-Density Sustainable Aviation Fuels](/wiki/work/high-density-sustainable-aviation-fuels.md) · sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense
+- [Intermountain Clinical Quality Improvement](/wiki/work/intermountain-clinical-quality-improvement.md) · healthcare delivery science, clinical quality improvement, learning health system, process control
+- [Jarvik-7 Artificial Heart](/wiki/work/jarvik-7-artificial-heart.md) · medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support
+- [MOXIE Solid Oxide Electrolysis Stack](/wiki/work/moxie-solid-oxide-electrolysis-stack.md) · space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy
+- [Myriad Genetics BRCA Sequencing and Testing](/wiki/work/myriad-genetics-brca.md) · hereditary cancer genetics, BRCA testing, gene patents, clinical genomics
+- [Pons and Fleischmann Cold Fusion Announcement](/wiki/work/pons-fleischmann-cold-fusion.md) · scientific ethics, replication, electrochemistry, institutional behavior, science communication
+- [Soundstream and Commercial Digital Audio Recording](/wiki/work/soundstream-digital-audio-recording.md) · audio engineering, signal processing, digital recording, music technology, university spinout
+- [Thiokol Solid Rocket Motors](/wiki/work/thiokol-solid-rocket-motors.md) · solid rocket motors, aerospace manufacturing, launch systems, defense industrial base
+- [Utah Array BCI Platform](/wiki/work/utah-array-bci-platform.md) · brain-computer interfaces, neural engineering, intracortical electrodes, medical devices
+- [University of Utah Computer Graphics Program](/wiki/work/utah-computer-graphics-program.md) · computer graphics, rendering, human-computer interaction, software history
+- [Utah FORGE](/wiki/work/utah-forge.md) · enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering
+- [Utah Population Database](/wiki/work/utah-population-database.md) · genetic epidemiology, genealogy, medical records, population health infrastructure
+- [Utah Test and Training Range](/wiki/work/utah-test-and-training-range.md) · military test ranges, aerospace and defense, restricted airspace, weapons evaluation

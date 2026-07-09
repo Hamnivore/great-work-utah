@@ -1,285 +1,128 @@
 @import "tailwindcss";
 
-/* ----------------------------------------------------------------------
-   Design tokens — Direction 1B (cool primary, warm sparingly)
-   Blue does brand + editorial signal. Orange is reserved for tier marks.
-   The directory and prose live on pale mineral paper, with warmth restrained.
----------------------------------------------------------------------- */
+/* Design tokens — pale mineral paper, cool twilight brand, warmth restrained. */
 @theme {
-  /* Paper & surfaces */
-  --color-paper: #fbfaf6;        /* near-white mineral paper */
-  --color-paper-deep: #f2f0e9;   /* slightly deeper paper for hovers */
-  --color-pale-sky: #e8eef0;     /* soft cool surface — search bar, metadata */
-  --color-sky: #c7d7df;          /* saturated cool surface — pull-quote inset */
-  --color-sandstone: #b9afa1;    /* neutral hairline borders, sparingly */
+  --color-paper: #fbfaf6;
+  --color-paper-deep: #f2f0e9;
+  --color-sandstone: #b9afa1;
+  --color-twilight: #2c5364;
+  --color-twilight-soft: #5a7884;
+  --color-orange: #d37945;
+  --color-ink: #27231f;
+  --color-ink-soft: #585047;
 
-  /* Brand & interactive */
-  --color-twilight: #2c5364;     /* the brand voice — masthead, headlines, links */
-  --color-twilight-soft: #5a7884;/* muted blue for decks, captions, secondary */
-
-  /* The single warm — only for ranking */
-  --color-orange: #d37945;       /* tier marks, ⭐ */
-
-  /* Type */
-  --color-ink: #27231f;          /* body prose — near-black for readability */
-  --color-ink-soft: #585047;     /* muted captions */
-
-  /* Typography stacks */
-  --font-serif: "Libre Caslon Text", "Adobe Caslon Pro", Georgia, "Times New Roman", serif;
+  --font-serif: "Libre Caslon Text", Georgia, "Times New Roman", serif;
   --font-display: "Libre Caslon Display", "Big Caslon", Georgia, serif;
   --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
 }
 
-/* ---------- Base ---------- */
-html,
 body {
-  background-color: var(--color-paper);
+  background: var(--color-paper);
   color: var(--color-ink);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-body {
   font-family: var(--font-serif);
-  font-size: 17px;
-  line-height: 1.6;
 }
 
-::selection {
-  background-color: var(--color-sky);
-  color: var(--color-twilight);
+/* Rendered wiki markdown */
+.doc {
+  line-height: 1.65;
+  font-size: 1rem;
 }
-
-/* Magazine prose defaults inside .prose-editorial */
-.prose-editorial p {
-  margin-bottom: 1.1em;
-}
-.prose-editorial a {
-  color: var(--color-twilight);
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
-  font-style: italic;
-}
-.prose-editorial a:hover {
-  color: var(--color-orange);
-}
-.prose-editorial h2,
-.prose-editorial h3 {
+.doc h1 {
   font-family: var(--font-display);
+  font-size: 1.75rem;
+  line-height: 1.2;
   color: var(--color-twilight);
-  margin-top: 2em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.75rem;
 }
-.prose-editorial ul {
-  list-style: disc;
-  padding-left: 1.4em;
-  margin-bottom: 1.1em;
-}
-.prose-editorial li {
-  margin-bottom: 0.4em;
-}
-
-/* Tracked small caps for captions / metadata */
-.smallcaps {
+.doc h2 {
   font-family: var(--font-sans);
-  font-size: 0.72rem;
-  letter-spacing: 0.16em;
+  font-weight: 600;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--color-twilight-soft);
-  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
 }
-
-/* ----------------------------------------------------------------------
-   Editorial utilities — quiet defaults that only activate inside a
-   .editorial container (or on classed elements). Templates opt in.
----------------------------------------------------------------------- */
-
-/* A unified warm cast for placeholder/Picsum imagery so different photos
-   feel like they came from the same press. Subtle — under 10% sepia. */
-.editorial img,
-img.editorial-img {
-  filter: contrast(0.97) saturate(0.92) sepia(0.06);
-}
-
-/* Newsprint double rule (top thick, bottom thin or vice versa) */
-.rule-double-top {
-  border-top: 2px solid var(--color-twilight);
-  border-bottom: 1px solid var(--color-twilight);
-  height: 6px;
-}
-.rule-double-bottom {
-  border-top: 1px solid var(--color-twilight);
-  border-bottom: 2px solid var(--color-twilight);
-  height: 6px;
-}
-
-/* Ornamental section break used between scenes (❦) */
-.ornament {
-  text-align: center;
+.doc h3 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.95rem;
   color: var(--color-twilight);
-  letter-spacing: 0.6em;
-  font-family: var(--font-display);
+  margin-top: 1.25rem;
+  margin-bottom: 0.4rem;
+}
+.doc p {
+  margin-bottom: 0.9rem;
+}
+.doc a,
+.doc-meta-value a {
+  color: var(--color-twilight);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--color-twilight) 35%, transparent);
+  text-underline-offset: 2px;
+}
+.doc a:hover,
+.doc-meta-value a:hover {
+  text-decoration-color: var(--color-twilight);
+}
+.doc ul,
+.doc ol {
+  margin: 0 0 0.9rem 1.25rem;
+}
+.doc ul {
+  list-style: disc;
+}
+.doc ol {
+  list-style: decimal;
+}
+.doc li {
+  margin-bottom: 0.35rem;
+}
+.doc blockquote {
+  border-left: 2px solid var(--color-sandstone);
+  padding-left: 1rem;
+  color: var(--color-ink-soft);
   font-style: italic;
-  margin: 1.75rem 0;
+  margin-bottom: 0.9rem;
 }
-
-/* Tracked all-caps display headline (broadside / nameplate) */
-.tracked-display {
-  font-family: var(--font-display);
-  letter-spacing: 0.24em;
-  text-transform: uppercase;
-  font-feature-settings: "smcp";
-  line-height: 1;
+.doc code {
+  font-size: 0.85em;
+  background: var(--color-paper-deep);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
 }
-
-/* Slightly skewed scrap — for postcard / dispatch / clipping vibes */
-.scrap-tilt-left {
-  transform: rotate(-1.2deg);
-  transform-origin: 30% 50%;
+.doc pre {
+  background: var(--color-paper-deep);
+  padding: 0.75rem 1rem;
+  overflow-x: auto;
+  margin-bottom: 0.9rem;
+  border-radius: 4px;
 }
-.scrap-tilt-right {
-  transform: rotate(1.4deg);
-  transform-origin: 70% 50%;
+.doc pre code {
+  background: none;
+  padding: 0;
 }
-
-/* Phone-frame for the template showroom */
-.phone-frame {
-  width: 100%;
-  max-width: 390px;
-  border-radius: 36px;
-  background: var(--color-paper);
-  box-shadow:
-    0 1px 0 0 rgba(42, 31, 24, 0.06),
-    0 22px 48px -16px rgba(42, 31, 24, 0.22),
-    0 0 0 8px var(--color-ink),
-    0 0 0 9px rgba(255, 255, 255, 0.04);
-  overflow: hidden;
-  position: relative;
-  isolation: isolate;
+.doc table {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  border-collapse: collapse;
+  margin-bottom: 0.9rem;
+  display: block;
+  overflow-x: auto;
 }
-.phone-frame::before {
-  /* dynamic island */
-  content: '';
-  position: absolute;
-  top: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 96px;
-  height: 26px;
-  background: var(--color-ink);
-  border-radius: 999px;
-  z-index: 2;
+.doc th,
+.doc td {
+  border: 1px solid color-mix(in srgb, var(--color-sandstone) 50%, transparent);
+  padding: 0.35rem 0.6rem;
+  text-align: left;
 }
-.phone-frame .phone-scroll {
-  height: 760px;
-  overflow-y: auto;
-  overflow-x: hidden;
-  padding: 56px 20px 40px;
-  scroll-behavior: smooth;
+.doc th {
+  background: var(--color-paper-deep);
+  font-weight: 600;
 }
-.phone-frame .phone-scroll::-webkit-scrollbar {
-  width: 0;
-  display: none;
-}
-
-/* On real phones, lose the bezel — content fills the screen */
-@media (max-width: 640px) {
-  .phone-frame {
-    max-width: 100%;
-    border-radius: 14px;
-    box-shadow: 0 1px 0 0 rgba(42, 31, 24, 0.06);
-  }
-  .phone-frame::before {
-    display: none;
-  }
-  .phone-frame .phone-scroll {
-    height: auto;
-    padding: 28px 16px 36px;
-  }
-}
-
-/* ----------------------------------------------------------------------
-   View Transitions — iOS-style "push" / "pop" page slide
-
-   Driven by `PageTransitionProvider` (src/lib/page-transitions.tsx):
-   the provider toggles either `vt-slide-next` or `vt-slide-back` on
-   <html> for the duration of one `document.startViewTransition()` call,
-   then removes the class. The keyframes here only fire while the
-   class is present.
-
-   Push (forward, e.g. "Read the entry"):
-     - old: eases left ~25% and fades — recedes underneath
-     - new: slides in from the right, on top, with a soft leading shadow
-
-   Pop (back, e.g. the chrome's "← Back" button or browser back):
-     - old: slides off to the right, on top, with a soft trailing shadow
-     - new: emerges from the left ~25% with fade — was hidden under it
-
-   The same easing and duration on both directions so the gestures feel
-   like inverses of each other.
----------------------------------------------------------------------- */
-
-@keyframes vt-slide-out-left {
-  from {
-    transform: translateX(0);
-    opacity: 1;
-  }
-  to {
-    transform: translateX(-25%);
-    opacity: 0.6;
-  }
-}
-@keyframes vt-slide-in-right {
-  from {
-    transform: translateX(100%);
-  }
-  to {
-    transform: translateX(0);
-  }
-}
-@keyframes vt-slide-out-right {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(100%);
-  }
-}
-@keyframes vt-slide-in-left {
-  from {
-    transform: translateX(-25%);
-    opacity: 0.6;
-  }
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-
-.vt-slide-next::view-transition-old(root) {
-  animation: vt-slide-out-left 420ms cubic-bezier(0.32, 0.72, 0, 1) both;
-}
-.vt-slide-next::view-transition-new(root) {
-  animation: vt-slide-in-right 420ms cubic-bezier(0.32, 0.72, 0, 1) both;
-  z-index: 1;
-  box-shadow: -16px 0 32px -12px rgba(20, 14, 10, 0.35);
-}
-
-.vt-slide-back::view-transition-old(root) {
-  animation: vt-slide-out-right 420ms cubic-bezier(0.32, 0.72, 0, 1) both;
-  z-index: 1;
-  box-shadow: -16px 0 32px -12px rgba(20, 14, 10, 0.35);
-}
-.vt-slide-back::view-transition-new(root) {
-  animation: vt-slide-in-left 420ms cubic-bezier(0.32, 0.72, 0, 1) both;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .vt-slide-next::view-transition-old(root),
-  .vt-slide-next::view-transition-new(root),
-  .vt-slide-back::view-transition-old(root),
-  .vt-slide-back::view-transition-new(root) {
-    animation: none;
-  }
+.doc hr {
+  border: 0;
+  border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 50%, transparent);
+  margin: 1.5rem 0;
 }

@@ -1,0 +1,58 @@
+# domain: energy
+
+- [Blackrock Neurotech](/wiki/ventures/blackrock-neurotech.md) · brain-computer interfaces, neural engineering, medical devices, restoration of motor and speech function
+- [CleanJoule](/wiki/ventures/cleanjoule.md) · sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
+- [Electric Power Systems (EPS)](/wiki/ventures/electric-power-systems.md) · electric aviation, battery propulsion, eVTOL, FAA certification, power electronics
+- [EnduraCure](/wiki/ventures/enduracure.md) · degradable polymers, flexible electronics, e-waste, materials science, recyclable substrates
+- [Energy Fuels / White Mesa](/wiki/ventures/energy-fuels-white-mesa.md) · uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes
+- [EnergySolutions](/wiki/ventures/energy-solutions.md) · nuclear waste management, radioactive waste disposal, decommissioning, environmental services
+- [Epitel](/wiki/ventures/epitel.md) · ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monitoring
+- [Fervo Energy](/wiki/ventures/fervo-energy.md) · geothermal energy, grid infrastructure, climate, drilling
+- [Hypercraft](/wiki/ventures/hypercraft.md) · hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles
+- [IMSAR](/wiki/ventures/imsar.md) · synthetic aperture radar, UAS, defense, aerospace, intelligence, manufacturing
+- [Intan Technologies](/wiki/ventures/intan-technologies.md) · neural recording, electrophysiology, integrated circuits, neuroscience infrastructure, brain-computer interfa…
+- [Ionic Mineral Technologies (Ionic MT)](/wiki/ventures/ionic-mt.md) · battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain
+- [Iris Biomedical](/wiki/ventures/iris-biomedical.md) · neural interfaces, BCI hardware, implantable devices, medical device manufacturing, neurotech supply chain
+- [Jump Aero](/wiki/ventures/jump-aero.md) · eVTOL, emergency medical services, air ambulance, remote access
+- [L3Harris Salt Lake City](/wiki/ventures/l3harris-salt-lake.md) · military communications, electronic warfare, ISR payloads, tactical radios, SATCOM, contested-environment net…
+- [LiveView Technologies (LVT)](/wiki/ventures/liveview-technologies.md) · physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription
+- [Music AI (Moises)](/wiki/ventures/music-ai.md) · AI music tools, audio source separation, voice cloning, music generation, creative technology
+- [Northrop Grumman — Promontory Facility](/wiki/ventures/northrop-grumman-promontory.md) · solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense
+- [NSA Utah Data Center](/wiki/ventures/nsa-utah-data-center.md) · intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security
+- [OxEon Energy](/wiki/ventures/oxeon-energy.md) · solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry
+- [Ripple Neuro](/wiki/ventures/ripple-neuro.md) · neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology
+- [Rodatherm Energy](/wiki/ventures/rodatherm-energy.md) · geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project development
+- [Sky Quarry](/wiki/ventures/sky-quarry.md) · asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen recovery
+- [Sword Health](/wiki/ventures/sword-health.md) · digital health, musculoskeletal care, physical therapy, remote care, AI-powered rehabilitation
+- [Techcyte](/wiki/ventures/techcyte.md) · digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, …
+- [Telescope Array](/wiki/ventures/telescope-array-ultra-high-energy-cosmic-rays.md) · astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infrastructure
+- [Torus](/wiki/ventures/torus.md) · energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing
+- [Utah Neurorobotics Lab](/wiki/ventures/utah-neurorobotics-lab.md) · neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation
+- [Valar Atomics](/wiki/ventures/valar-atomics.md) · microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power
+- [Vector](/wiki/ventures/vector.md) · attritable drones, special operations, fiber-optic FPV, electronic warfare resilience, modern warfare as a se…
+- [Wasatch Ionics](/wiki/ventures/wasatch-ionics.md) · lithium-oxygen batteries, reserve batteries, chemical oxygen generation, Army obstacle systems, energy density
+- [WAVE (Wireless Advanced Vehicle Electrification)](/wiki/ventures/wave-inc.md) · wireless charging, fleet electrification, inductive power transfer, transit, logistics
+- [Weave](/wiki/ventures/weave.md) · applied AI, vertical SaaS, healthcare communications, voice AI, payments
+- [Zanskar Geothermal](/wiki/ventures/zanskar-geothermal.md) · geothermal exploration, AI for earth sciences, climate, firm clean power
+- [Florian Solzbacher](/wiki/people/florian-solzbacher.md) · neuroengineering, brain-computer interfaces, medical devices, university spinouts
+- [Tim Latimer](/wiki/people/tim-latimer.md) · geothermal energy, enhanced geothermal systems, climate infrastructure, energy transition
+- [Church and State](/wiki/resources/church-and-state.md) · Entrepreneurship Communities, Aerospace and Defense, Agriculture
+- [Renewable Tech Ventures](/wiki/resources/renewable-tech-ventures.md) · Funding, Other, Aerospace and Defense, Agriculture
+- [Sillicon Slopes](/wiki/resources/sillicon-slopes.md) · Entrepreneurship Communities, Late Stage Growth, Any, Software and Information Technology
+- [Teen Entrepreneur Support Center](/wiki/resources/teen-entrepreneur-support-center.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense,…
+- [Utah Hispanic Chamber of Commerce](/wiki/resources/utah-hispanic-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Microloan Fund (UMLF)](/wiki/resources/utah-microloan-fund-umlf.md) · Funding, Aerospace and Defense, Agriculture
+- [Utah Muslim Civic League (UMCL)](/wiki/resources/utah-muslim-civic-league-umcl.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Native American Chamber of Commerce](/wiki/resources/utah-native-american-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and De…
+- [Utah Pacific Islander Chamber of Commerce](/wiki/resources/utah-pacific-islander-chamber-of-commerce.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Multicultural, Aerospace and Defense, Agriculture
+- [Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](/wiki/work/flys-eye-hires-cosmic-rays.md) · astroparticle physics, cosmic rays, observatories, desert science
+- [H. Tracy Hall's Diamond Presses](/wiki/work/h-tracy-hall-diamond-presses.md) · materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation
+- [HELP Clinical Decision Support System](/wiki/work/help-clinical-decision-support-system.md) · clinical decision support, medical informatics, electronic health records, hospital systems
+- [High-Density Sustainable Aviation Fuels](/wiki/work/high-density-sustainable-aviation-fuels.md) · sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense
+- [Iomega Zip Drive](/wiki/work/iomega-zip-drive.md) · hardware, storage, consumer computing, peripherals, 1990s PC era
+- [MOXIE Solid Oxide Electrolysis Stack](/wiki/work/moxie-solid-oxide-electrolysis-stack.md) · space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy
+- [Philo Farnsworth and Electronic Television](/wiki/work/philo-farnsworth-television.md) · invention, television, electronics, signal scanning, Utah-born inventors
+- [Pons and Fleischmann Cold Fusion Announcement](/wiki/work/pons-fleischmann-cold-fusion.md) · scientific ethics, replication, electrochemistry, institutional behavior, science communication
+- [Soundstream and Commercial Digital Audio Recording](/wiki/work/soundstream-digital-audio-recording.md) · audio engineering, signal processing, digital recording, music technology, university spinout
+- [Utah Array BCI Platform](/wiki/work/utah-array-bci-platform.md) · brain-computer interfaces, neural engineering, intracortical electrodes, medical devices
+- [Utah FORGE](/wiki/work/utah-forge.md) · enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering

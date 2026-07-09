@@ -1,43 +1,28 @@
-import { defineConfig, loadEnv } from 'vite'
+import fs from 'node:fs'
+import path from 'node:path'
+import { defineConfig, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
-import type { Plugin } from 'vite'
 
-function triggerApiPlugin(env: Record<string, string>): Plugin {
+// In production the build copies wiki/{pages,views,meta} into dist/ and Vercel
+// serves them as static files. In dev, serve them straight from wiki/.
+function serveWiki(): Plugin {
   return {
-    name: 'trigger-api',
+    name: 'serve-wiki',
     configureServer(server) {
-      server.middlewares.use('/api/trigger-token', async (req, res) => {
-        if (req.method !== 'POST') {
-          res.statusCode = 405
-          res.end()
-          return
-        }
-        try {
-          if (env.TRIGGER_SECRET_KEY) {
-            process.env.TRIGGER_SECRET_KEY = env.TRIGGER_SECRET_KEY
-          }
-          if (!process.env.TRIGGER_SECRET_KEY) {
-            throw new Error('TRIGGER_SECRET_KEY is required')
-          }
-          const { auth } = await import('@trigger.dev/sdk')
-          const token = await auth.createTriggerPublicToken('search-agent', {
-            expirationTime: '15m',
-          })
-          res.setHeader('Content-Type', 'application/json')
-          res.end(JSON.stringify({ token }))
-        } catch (err) {
-          res.statusCode = 500
-          res.end(JSON.stringify({ error: String(err) }))
-        }
+      server.middlewares.use((req, res, next) => {
+        const url = (req.url || '').split('?')[0]
+        const m = url.match(/^\/(pages|views|meta)\/([a-z0-9-]+\.md)$/)
+        if (!m) return next()
+        const file = path.join(import.meta.dirname, 'wiki', m[1], m[2])
+        if (!fs.existsSync(file)) return next()
+        res.setHeader('Content-Type', 'text/markdown; charset=utf-8')
+        res.end(fs.readFileSync(file))
       })
     },
   }
 }
 
-export default defineConfig(({ mode }) => {
-  const env = loadEnv(mode, process.cwd(), '')
-  return {
-    plugins: [react(), tailwindcss(), triggerApiPlugin(env)],
-  }
+export default defineConfig({
+  plugins: [react(), tailwindcss(), serveWiki()],
 })

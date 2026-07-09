@@ -1,0 +1,75 @@
+# domain: health-bio
+
+- [3Helix](/wiki/ventures/3helix.md) · collagen hybridizing peptides, diagnostics, drug delivery, histopathology, collagen damage
+- [Ancestry](/wiki/ventures/ancestry.md) · genealogy, family history, consumer genomics, historical records, digitization
+- [Araknitek](/wiki/ventures/araknitek.md) · synthetic spider silk, biomaterials, advanced materials, university spinout
+- [Atavistik Bio](/wiki/ventures/atavistik-bio.md) · allosteric drug discovery, oncology, precision medicine, structural biology, metabolite-protein interactions
+- [Batu Biologics](/wiki/ventures/batu-biologics.md) · immuno-oncology, tumor vasculature, anti-angiogenesis, university spinout
+- [BioEnergenix](/wiki/ventures/bioenergenix.md) · metabolic syndrome, PASK inhibition, diabetes, obesity, NAFLD/NASH, University of Utah spinout
+- [BioFire Diagnostics](/wiki/ventures/biofire-diagnostics.md) · infectious disease diagnostics, multiplex PCR, syndromic testing, in vitro diagnostics, life sciences
+- [Bioparin](/wiki/ventures/bioparin.md) · synthetic heparin, biomanufacturing, anticoagulants, supply chain resilience, university spinout
+- [Blackrock Neurotech](/wiki/ventures/blackrock-neurotech.md) · brain-computer interfaces, neural engineering, medical devices, restoration of motor and speech function
+- [CaLycia Biosciences](/wiki/ventures/calycia-biosciences.md) · macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology
+- [CleanJoule](/wiki/ventures/cleanjoule.md) · sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
+- [Culmination Bio](/wiki/ventures/culmination-bio.md) · clinical data platform, longitudinal patient data, drug discovery, diagnostics, biotech spinout
+- [Curza](/wiki/ventures/curza.md) · antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens
+- [Energy Fuels / White Mesa](/wiki/ventures/energy-fuels-white-mesa.md) · uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes
+- [Epitel](/wiki/ventures/epitel.md) · ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monitoring
+- [Evolution Bio](/wiki/ventures/evolution-bio.md) · directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell screening
+- [Halia Therapeutics](/wiki/ventures/halia-therapeutics.md) · drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life sciences
+- [Health Catalyst](/wiki/ventures/health-catalyst.md) · healthcare data analytics, population health, value-based care, clinical data integration
+- [Huntsman Cancer Institute](/wiki/ventures/huntsman-cancer-institute.md) · cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, translational …
+- [Inherent Biosciences](/wiki/ventures/inherent-biosciences.md) · epigenetic diagnostics, male fertility, sperm function, reproductive health, AI biomarkers
+- [Intactis Bio](/wiki/ventures/intactis-bio.md) · biological computing, hybrid biosilicon AI, neuromorphic compute, deep tech
+- [Intan Technologies](/wiki/ventures/intan-technologies.md) · neural recording, electrophysiology, integrated circuits, neuroscience infrastructure, brain-computer interfa…
+- [Iris Biomedical](/wiki/ventures/iris-biomedical.md) · neural interfaces, BCI hardware, implantable devices, medical device manufacturing, neurotech supply chain
+- [Jarvik-7 Artificial Heart](/wiki/ventures/jarvik-7-artificial-heart.md) · medical devices, cardiac surgery, mechanical circulatory support, Utah medical history
+- [Jump Aero](/wiki/ventures/jump-aero.md) · eVTOL, emergency medical services, air ambulance, remote access
+- [Merit Medical Systems](/wiki/ventures/merit-medical.md) · interventional medical devices, catheters, manufacturing, FDA regulated, life sciences
+- [Myriad Genetics](/wiki/ventures/myriad-genetics.md) · molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine
+- [NephroNovus](/wiki/ventures/nephronovus.md) · chronic kidney disease, renal fibrosis, drug discovery, computational biology, Altitude Lab alumni
+- [Nusano](/wiki/ventures/nusano.md) · medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, advanced ma…
+- [Owlet Baby Care](/wiki/ventures/owlet-baby-care.md) · infant health monitoring, connected nursery, consumer medtech, wearables, FDA-regulated devices
+- [PhotoPharmics](/wiki/ventures/photopharmics.md) · phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology
+- [Rebel Medicine](/wiki/ventures/rebel-medicine.md) · non-opioid pain, postoperative analgesia, extended-release drug delivery, bupivacaine formulation, opioid-spa…
+- [Recursion Pharmaceuticals](/wiki/ventures/recursion-pharmaceuticals.md) · AI drug discovery, life sciences, computational biology
+- [Ripple Neuro](/wiki/ventures/ripple-neuro.md) · neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology
+- [SCI Institute](/wiki/ventures/sci-institute.md) · scientific computing, scientific visualization, biomedical computing, open-source research software
+- [Sethera Therapeutics](/wiki/ventures/sethera-therapeutics.md) · peptide therapeutics, enzymatic cross-linking, polymacrocyclic peptides, drug discovery platform
+- [Spire Therapeutics](/wiki/ventures/spire-therapeutic.md) · focused ultrasound neuromodulation, LIFU, chronic pain, treatment-resistant depression, non-invasive brain th…
+- [Sword Health](/wiki/ventures/sword-health.md) · digital health, musculoskeletal care, physical therapy, remote care, AI-powered rehabilitation
+- [SymbioCellTech](/wiki/ventures/symbiocelltech.md) · Type 1 diabetes, cell therapy, Neo-Islets, mesenchymal stem cells, islet transplantation, regenerative medici…
+- [Techcyte](/wiki/ventures/techcyte.md) · digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, …
+- [TELLUS Networked Sensor Solutions](/wiki/ventures/tellus.md) · air quality monitoring, environmental sensing, low-cost sensors, calibration, public health infrastructure
+- [Thera-T Pharmaceutics](/wiki/ventures/thera-t-pharmaceutics.md) · immuno-oncology, blood cancer, T-cell therapy, multi-antigen targeting, university spinout
+- [Trace AQ](/wiki/ventures/trace-aq.md) · air quality forecasting, wildfire smoke, physics-based AI, atmospheric science, public health alerts
+- [USU Center for Integrated BioSystems](/wiki/ventures/usu-integrated-biosystems.md) · agricultural genomics, bioinformatics, land-grant research, arid-land crops, livestock genetics
+- [Utah Neurorobotics Lab](/wiki/ventures/utah-neurorobotics-lab.md) · neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation
+- [Varda Space Industries](/wiki/ventures/varda-space.md) · in-space manufacturing, microgravity pharmaceuticals, reentry capsules, space logistics
+- [Weave](/wiki/ventures/weave.md) · applied AI, vertical SaaS, healthcare communications, voice AI, payments
+- [Chad Testa](/wiki/people/chad-testa.md) · antibiotics, antimicrobial resistance, biotech CEO, mission-driven pharma, Gram-negative bacteria
+- [Dave Bearss](/wiki/people/dave-bearss.md) · drug discovery, oncology, inflammation, university translational programs, Utah life sciences
+- [Florian Solzbacher](/wiki/people/florian-solzbacher.md) · neuroengineering, brain-computer interfaces, medical devices, university spinouts
+- [Fred Lampropoulos](/wiki/people/fred-lampropoulos.md) · medical devices, interventional cardiology, manufacturing, founder-operator, public company leadership
+- [Jared Rutter](/wiki/people/jared-rutter.md) · biochemistry, metabolomics, allosteric drug discovery, university commercialization, life sciences
+- [Maschoff Brennan](/wiki/helpers/maschoff-brennan.md) · IP, patents, technology transactions, software, biotech, medical devices, deep tech
+- [RQM+](/wiki/helpers/rqm-plus.md) · medical devices, diagnostics, regulatory affairs, quality systems, clinical trials, reimbursement, medtech st…
+- [Wilson Sonsini Salt Lake City](/wiki/helpers/wilson-sonsini-salt-lake-city.md) · startup counsel, venture financings, life sciences, medical devices, IP, corporate governance
+- [Altitude Labs](/wiki/resources/altitude-labs.md) · Entrepreneurship Communities, Relocate a Business to Utah, Life Sciences and Healthcare
+- [Apprenticeship Utah](/wiki/resources/apprenticeship-utah.md) · Late Stage Growth, Aerospace and Defense, Agriculture
+- [Bear Lake Regional Commission](/wiki/resources/bear-lake-regional-commission.md) · Entrepreneurship Communities, Funding, Late Stage Growth, Arts and Entertainment and Recreation, Life Science…
+- [BIO Utah](/wiki/resources/bio-utah.md) · Entrepreneurship Communities, Late Stage Growth, Any, Life Sciences and Healthcare, Software and Information …
+- [BIOHive Utah](/wiki/resources/biohive-utah.md) · Entrepreneurship Communities, Late Stage Growth, Any, Life Sciences and Healthcare
+- [Epic Ventures](/wiki/resources/epic-ventures.md) · Funding, Aerospace and Defense, Agriculture
+- [Peterson Ventures](/wiki/resources/peterson-ventures.md) · Funding, Aerospace and Defense, Agriculture
+- [Utah Division of Outdoor Recreation](/wiki/resources/utah-division-of-outdoor-recreation.md) · Entrepreneurship Communities, Arts and Entertainment and Recreation, Hospitality and Food Services
+- [Capecchi Gene Targeting and the Knockout Mouse](/wiki/work/capecchi-gene-targeting.md) · gene targeting, knockout mice, biomedical research, genetics
+- [Conotoxins and Prialt](/wiki/work/conotoxins-and-prialt.md) · drug discovery, molecular neuroscience, venom peptides, non-opioid pain, ion channels
+- [Dugway Proving Ground](/wiki/work/dugway-proving-ground.md) · military test infrastructure, chemical and biological defense, West Desert, defense ethics
+- [HELP Clinical Decision Support System](/wiki/work/help-clinical-decision-support-system.md) · clinical decision support, medical informatics, electronic health records, hospital systems
+- [High-Density Sustainable Aviation Fuels](/wiki/work/high-density-sustainable-aviation-fuels.md) · sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense
+- [Intermountain Clinical Quality Improvement](/wiki/work/intermountain-clinical-quality-improvement.md) · healthcare delivery science, clinical quality improvement, learning health system, process control
+- [Jarvik-7 Artificial Heart](/wiki/work/jarvik-7-artificial-heart.md) · medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support
+- [Myriad Genetics BRCA Sequencing and Testing](/wiki/work/myriad-genetics-brca.md) · hereditary cancer genetics, BRCA testing, gene patents, clinical genomics
+- [Utah Array BCI Platform](/wiki/work/utah-array-bci-platform.md) · brain-computer interfaces, neural engineering, intracortical electrodes, medical devices
+- [Utah Population Database](/wiki/work/utah-population-database.md) · genetic epidemiology, genealogy, medical records, population health infrastructure

@@ -1,0 +1,36 @@
+# The history map
+
+- [Army Short-Range Reconnaissance UAS](/wiki/work/army-short-range-reconnaissance-uas.md) · defense manufacturing, small drones, ISR, battlefield reconnaissance, domestic industrial base
+- [University of Utah ARPANET Fourth Node](/wiki/work/arpanet-fourth-node.md) · internet history, packet switching, computer science, ARPA research
+- [Atmospheric Waves Experiment](/wiki/work/atmospheric-waves-experiment.md) · space instrumentation, upper atmosphere, atmospheric physics, Space Dynamics Laboratory, NASA
+- [Autonomous Low-Collateral Counter-UAS Interception](/wiki/work/autonomous-low-collateral-counter-uas-interception.md) · defense, counter-drone, autonomous systems, air defense, critical infrastructure protection
+- [Kennecott Bingham Canyon Mine](/wiki/work/bingham-canyon-mine.md) · mining, copper, mass-mining, industrial engineering, extractive industry
+- [Browning Firearms Designs](/wiki/work/browning-firearms-designs.md) · firearms design, mechanical engineering, defense history, Ogden manufacturing
+- [Capecchi Gene Targeting and the Knockout Mouse](/wiki/work/capecchi-gene-targeting.md) · gene targeting, knockout mice, biomedical research, genetics
+- [Conotoxins and Prialt](/wiki/work/conotoxins-and-prialt.md) · drug discovery, molecular neuroscience, venom peptides, non-opioid pain, ion channels
+- [Dugway Proving Ground](/wiki/work/dugway-proving-ground.md) · military test infrastructure, chemical and biological defense, West Desert, defense ethics
+- [EIMCO Rocker Shovel Loader](/wiki/work/eimco-rocker-shovel-loader.md) · mining equipment, mechanical engineering, underground mining, industrialization, Salt Lake City manufacturing
+- [Evans & Sutherland](/wiki/work/evans-and-sutherland.md) · computer graphics, flight simulation, real-time 3D, graphics hardware
+- [Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](/wiki/work/flys-eye-hires-cosmic-rays.md) · astroparticle physics, cosmic rays, observatories, desert science
+- [Golden Spike and the First Transcontinental Railroad](/wiki/work/golden-spike-transcontinental-railroad.md) · rail infrastructure, American West, logistics, national integration
+- [H. Tracy Hall's Diamond Presses](/wiki/work/h-tracy-hall-diamond-presses.md) · materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation
+- [Harvey Fletcher and Stereophonic Sound](/wiki/work/harvey-fletcher-stereophonic-sound.md) · acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering
+- [HELP Clinical Decision Support System](/wiki/work/help-clinical-decision-support-system.md) · clinical decision support, medical informatics, electronic health records, hospital systems
+- [High-Density Sustainable Aviation Fuels](/wiki/work/high-density-sustainable-aviation-fuels.md) · sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense
+- [Intermountain Clinical Quality Improvement](/wiki/work/intermountain-clinical-quality-improvement.md) · healthcare delivery science, clinical quality improvement, learning health system, process control
+- [Iomega Zip Drive](/wiki/work/iomega-zip-drive.md) · hardware, storage, consumer computing, peripherals, 1990s PC era
+- [Jarvik-7 Artificial Heart](/wiki/work/jarvik-7-artificial-heart.md) · medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support
+- [MOXIE Solid Oxide Electrolysis Stack](/wiki/work/moxie-solid-oxide-electrolysis-stack.md) · space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy
+- [Myriad Genetics BRCA Sequencing and Testing](/wiki/work/myriad-genetics-brca.md) · hereditary cancer genetics, BRCA testing, gene patents, clinical genomics
+- [Omniture Web Analytics](/wiki/work/omniture-web-analytics.md) · software, SaaS, web analytics, digital marketing, enterprise software
+- [Philo Farnsworth and Electronic Television](/wiki/work/philo-farnsworth-television.md) · invention, television, electronics, signal scanning, Utah-born inventors
+- [Pons and Fleischmann Cold Fusion Announcement](/wiki/work/pons-fleischmann-cold-fusion.md) · scientific ethics, replication, electrochemistry, institutional behavior, science communication
+- [Soundstream and Commercial Digital Audio Recording](/wiki/work/soundstream-digital-audio-recording.md) · audio engineering, signal processing, digital recording, music technology, university spinout
+- [Spiral Jetty](/wiki/work/spiral-jetty.md) · Land art, Great Salt Lake, site-specific sculpture, contemporary art
+- [Thiokol Solid Rocket Motors](/wiki/work/thiokol-solid-rocket-motors.md) · solid rocket motors, aerospace manufacturing, launch systems, defense industrial base
+- [Utah Array BCI Platform](/wiki/work/utah-array-bci-platform.md) · brain-computer interfaces, neural engineering, intracortical electrodes, medical devices
+- [University of Utah Computer Graphics Program](/wiki/work/utah-computer-graphics-program.md) · computer graphics, rendering, human-computer interaction, software history
+- [Utah FORGE](/wiki/work/utah-forge.md) · enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering
+- [Utah Population Database](/wiki/work/utah-population-database.md) · genetic epidemiology, genealogy, medical records, population health infrastructure
+- [Utah Test and Training Range](/wiki/work/utah-test-and-training-range.md) · military test ranges, aerospace and defense, restricted airspace, weapons evaluation
+- [WordPerfect and Novell](/wiki/work/wordperfect-and-novell.md) · software, word processing, networking, personal computing, Utah Valley

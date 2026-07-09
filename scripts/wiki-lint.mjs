@@ -1,47 +1,80 @@
 #!/usr/bin/env node
+// Lints wiki/pages/*.md against wiki/meta/attributes.md and wiki/meta/conventions.md.
+// Views (wiki/views/) are generated, never hand-edited — this script does not lint
+// their content, it only checks that wiki/views/index.md exists (a reminder that
+// `node scripts/build-views.mjs` needs to be (re)run). See wiki/WIKI.md.
 import fs from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 
 const REPO_ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const WIKI_ROOT = path.join(REPO_ROOT, "wiki");
-const REQUIRED_HEADERS = ["Status", "Confidence", "Updated"];
-const SOFT_LINE_CAP = 400;
-const HARD_LINE_CAP = 800;
-const PUBLIC_CONTENT_DIRS = ["answers", "guides", "helpers", "matches", "people", "resources", "sources", "ventures", "work"];
-const CONTENT_FILE_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*\.md$/;
-const DISCOURAGED_SUFFIX_RE = /-(?:profile|page|new|copy|final|v\d+|[2-9])\.md$/;
+const PAGES_DIR = path.join(WIKI_ROOT, "pages");
+const VIEWS_DIR = path.join(WIKI_ROOT, "views");
+
+// Closed vocabularies from wiki/meta/attributes.md.
+const TYPE_VOCAB = ["venture", "person", "helper", "resource", "work", "guide", "source"];
+const DOMAIN_VOCAB = [
+  "energy",
+  "health-bio",
+  "aerospace-defense",
+  "computing",
+  "materials-mfg",
+  "space-science",
+  "capital-programs",
+  "culture-place",
+];
+
+// Required section headers by Type, from meta/conventions.md "Page templates".
+// guide is free-form and source's requirement is prose-shaped (not a fixed header
+// list), so neither is checked here.
+const TEMPLATE_SECTIONS = {
+  venture: ["Summary", "Impact", "Utah Context", "What They Need Now", "Open Questions", "Evidence"],
+  work: ["Summary", "Impact", "Utah Context", "What It Took", "Open Questions", "Evidence"],
+  resource: ["Summary", "Who It's For", "How To Use It", "Open Questions", "Evidence"],
+  person: ["Summary", "Track Record", "What They're Looking For", "Evidence"],
+  helper: ["Summary", "Who They Help", "Evidence"],
+};
+
+const NEEDS_SECTION_RE = /^## What They Need Now\s*$/m;
+const SECTION_HEADER_RE = /^## (.+?)\s*$/gm;
 const MARKDOWN_LINK_RE = /(?<!!)\[[^\]]+\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g;
-const LEGACY_PROVENANCE_RE = /\blegacy[_ -]?wiki\b|\blegacy provenance\b|\binternal seed\b/i;
+const OLD_STYLE_LINK_RE = /\]\((\.\.\/|\/wiki\/)/g;
+const STALE_MS = 183 * 24 * 3600 * 1000; // ~6 months, matches build-views.mjs
 
 const args = new Set(process.argv.slice(2));
 const json = args.has("--json");
-const fix = args.has("--fix");
 const help = args.has("--help") || args.has("-h");
 
 if (help) {
-  console.log(`Usage: node scripts/wiki-lint.mjs [--json] [--fix]
+  console.log(`Usage: node scripts/wiki-lint.mjs [--json]
 
-Checks public wiki markdown pages for required Great Work conventions.
+Lints wiki/pages/*.md against wiki/meta/attributes.md and wiki/meta/conventions.md.
 
 Options:
-  --json   Print machine-readable JSON.
-  --fix    Apply conservative formatting fixes only: CRLF normalization and final newline.
+  --json   Print machine-readable JSON instead of plain text.
 `);
   process.exit(0);
 }
 
 const findings = [];
-const fixedFiles = [];
-
 function addFinding(severity, code, filePath, message, line = null) {
   findings.push({
     severity,
     code,
-    path: path.relative(REPO_ROOT, filePath),
+    path: filePath ? path.relative(REPO_ROOT, filePath) : null,
     line,
     message,
   });
+}
+
+async function pathExists(p) {
+  try {
+    await fs.access(p);
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 function splitLines(content) {
@@ -49,60 +82,40 @@ function splitLines(content) {
   return normalized.endsWith("\n") ? normalized.slice(0, -1).split("\n") : normalized.split("\n");
 }
 
-function parseBoldPrefixHeaders(lines, h1Index) {
+function lineForIndex(content, index) {
+  return content.slice(0, index).split("\n").length;
+}
+
+// Bold-prefix attribute headers appear between the H1 and the first `## ` section.
+function parseAttributeHeaders(lines, h1Index) {
   const headers = new Map();
   if (h1Index === -1) return headers;
-
-  for (let index = h1Index + 1; index < lines.length; index += 1) {
-    const line = lines[index];
+  for (let i = h1Index + 1; i < lines.length; i += 1) {
+    const line = lines[i];
     if (line.startsWith("## ")) break;
-
     const match = line.match(/^\*\*([^:]+):\*\*\s*(.*)$/);
     if (match) {
-      headers.set(match[1].trim(), {
-        value: match[2].trim(),
-        line: index + 1,
-      });
+      headers.set(match[1].trim(), { value: match[2].trim(), line: i + 1 });
     }
   }
-
   return headers;
 }
 
-async function pathExists(filePath) {
-  try {
-    await fs.access(filePath);
-    return true;
-  } catch {
-    return false;
+function parseSectionHeaders(content) {
+  const sections = new Set();
+  for (const match of content.matchAll(SECTION_HEADER_RE)) {
+    sections.add(match[1].trim());
   }
-}
-
-async function listPublicMarkdownFiles() {
-  const files = [];
-
-  for (const dir of PUBLIC_CONTENT_DIRS) {
-    const dirPath = path.join(WIKI_ROOT, dir);
-    if (!(await pathExists(dirPath))) continue;
-    const entries = await fs.readdir(dirPath, { withFileTypes: true });
-    for (const entry of entries) {
-      if (entry.isFile() && entry.name.endsWith(".md")) {
-        files.push(path.join(dirPath, entry.name));
-      }
-    }
-  }
-
-  return files.sort((a, b) => a.localeCompare(b));
+  return sections;
 }
 
 function localMarkdownTarget(rawTarget) {
   if (!rawTarget || rawTarget.startsWith("#")) return null;
-  if (/^[a-z][a-z0-9+.-]*:/i.test(rawTarget)) return null;
-
+  if (/^[a-z][a-z0-9+.-]*:/i.test(rawTarget)) return null; // scheme (http:, mailto:, ...)
+  if (rawTarget.startsWith("../") || rawTarget.startsWith("/wiki/")) return null; // caught by old-style-link check
   const withoutAnchor = rawTarget.split("#")[0];
   const withoutQuery = withoutAnchor.split("?")[0];
   if (!withoutQuery.endsWith(".md")) return null;
-
   try {
     return decodeURIComponent(withoutQuery);
   } catch {
@@ -110,122 +123,264 @@ function localMarkdownTarget(rawTarget) {
   }
 }
 
-async function checkLinks(filePath, content) {
+async function listPages() {
+  if (!(await pathExists(PAGES_DIR))) return [];
+  const entries = await fs.readdir(PAGES_DIR, { withFileTypes: true });
+  return entries
+    .filter((e) => e.isFile() && e.name.endsWith(".md"))
+    .map((e) => e.name)
+    .sort((a, b) => a.localeCompare(b));
+}
+
+// -- collected stats -------------------------------------------------------
+const stats = {
+  totalPages: 0,
+  domainAttributed: 0,
+  regionAttributed: 0,
+  domainFlagged: 0,
+  needsSectionCount: 0,
+  needsReviewedCount: 0,
+};
+const wanted = new Map(); // target filename -> Set of referencing pages
+
+async function lintPage(filename) {
+  const filePath = path.join(PAGES_DIR, filename);
+  const content = await fs.readFile(filePath, "utf8");
   const lines = splitLines(content);
-  const lineStarts = [];
-  let offset = 0;
-  for (const line of lines) {
-    lineStarts.push(offset);
-    offset += line.length + 1;
+  const h1Index = lines.findIndex((line) => line.startsWith("# "));
+  const headers = parseAttributeHeaders(lines, h1Index);
+  const sections = parseSectionHeaders(content);
+  const hasNeedsSection = NEEDS_SECTION_RE.test(content);
+
+  // -- Type ------------------------------------------------------------
+  const typeHeader = headers.get("Type");
+  let type = null;
+  if (!typeHeader || !typeHeader.value) {
+    addFinding("error", "missing-attribute", filePath, "Missing required **Type:** attribute.");
+  } else {
+    type = typeHeader.value;
+    if (!TYPE_VOCAB.includes(type)) {
+      addFinding(
+        "error",
+        "invalid-type",
+        filePath,
+        `**Type:** "${type}" is outside the closed vocabulary (${TYPE_VOCAB.join(" · ")}).`,
+        typeHeader.line
+      );
+    }
   }
 
+  // -- Status / Updated (required on every page) ------------------------
+  if (!headers.has("Status") || !headers.get("Status").value) {
+    addFinding("error", "missing-attribute", filePath, "Missing required **Status:** attribute.");
+  }
+  const updatedHeader = headers.get("Updated");
+  if (!updatedHeader || !updatedHeader.value) {
+    addFinding("error", "missing-attribute", filePath, "Missing required **Updated:** attribute.");
+  }
+
+  // -- Confidence (required except Type: guide) --------------------------
+  if (type !== "guide") {
+    if (!headers.has("Confidence") || !headers.get("Confidence").value) {
+      addFinding("error", "missing-attribute", filePath, "Missing required **Confidence:** attribute (required for all Types except guide).");
+    }
+  }
+
+  // -- Focus (required except Type: source) ------------------------------
+  if (type !== "source") {
+    if (!headers.has("Focus") || !headers.get("Focus").value) {
+      addFinding("error", "missing-attribute", filePath, "Missing required **Focus:** attribute (required for all Types except source).");
+    }
+  }
+
+  // -- Needs-reviewed iff "## What They Need Now" -------------------------
+  const needsReviewedHeader = headers.get("Needs-reviewed");
+  if (hasNeedsSection) {
+    stats.needsSectionCount += 1;
+    if (!needsReviewedHeader || !needsReviewedHeader.value) {
+      addFinding(
+        "error",
+        "missing-needs-reviewed",
+        filePath,
+        "Page has a `## What They Need Now` section but no **Needs-reviewed:** date."
+      );
+    }
+  } else if (needsReviewedHeader) {
+    addFinding(
+      "error",
+      "unexpected-needs-reviewed",
+      filePath,
+      "Page has a **Needs-reviewed:** attribute but no `## What They Need Now` section.",
+      needsReviewedHeader.line
+    );
+  }
+  if (needsReviewedHeader && needsReviewedHeader.value) {
+    stats.needsReviewedCount += 1;
+    const parsed = new Date(needsReviewedHeader.value);
+    if (!Number.isNaN(parsed.getTime())) {
+      if (Date.now() - parsed.getTime() > STALE_MS) {
+        addFinding(
+          "warning",
+          "stale-needs-reviewed",
+          filePath,
+          `**Needs-reviewed:** ${needsReviewedHeader.value} is older than ~6 months.`,
+          needsReviewedHeader.line
+        );
+      }
+    } else {
+      addFinding("warning", "unparseable-needs-reviewed", filePath, `**Needs-reviewed:** "${needsReviewedHeader.value}" is not a parseable date.`, needsReviewedHeader.line);
+    }
+  }
+
+  // -- Domain vocabulary + coverage ---------------------------------------
+  const domainHeader = headers.get("Domain");
+  if (domainHeader && domainHeader.value) {
+    stats.domainAttributed += 1;
+    const tokens = domainHeader.value.split(",").map((t) => t.trim()).filter(Boolean);
+    for (const token of tokens) {
+      if (!DOMAIN_VOCAB.includes(token)) {
+        addFinding(
+          "error",
+          "invalid-domain",
+          filePath,
+          `**Domain:** value "${token}" is outside the closed vocabulary (${DOMAIN_VOCAB.join(" · ")}).`,
+          domainHeader.line
+        );
+      }
+    }
+  }
+
+  // -- Region coverage (no vocabulary check requested) ---------------------
+  const regionHeader = headers.get("Region");
+  if (regionHeader && regionHeader.value) {
+    stats.regionAttributed += 1;
+  }
+
+  // -- Domain-flagged adjudication queue -----------------------------------
+  const flaggedHeader = headers.get("Domain-flagged");
+  if (flaggedHeader && flaggedHeader.value) {
+    stats.domainFlagged += 1;
+    addFinding("warning", "domain-flagged", filePath, `Flagged for domain adjudication: "${flaggedHeader.value}".`, flaggedHeader.line);
+  }
+
+  // -- Old-style links (error) ----------------------------------------------
+  for (const match of content.matchAll(OLD_STYLE_LINK_RE)) {
+    const line = lineForIndex(content, match.index);
+    addFinding("error", "old-style-link", filePath, `Old-style link target "${match[1]}..." — links must be same-directory relative (see conventions.md Links).`, line);
+  }
+
+  // -- Template sections (warning) -------------------------------------------
+  if (type && TEMPLATE_SECTIONS[type]) {
+    const missing = TEMPLATE_SECTIONS[type].filter((required) => !sections.has(required));
+    if (missing.length > 0) {
+      addFinding(
+        "warning",
+        "missing-template-sections",
+        filePath,
+        `Missing template section(s) for Type: ${type} — ${missing.map((s) => `## ${s}`).join(", ")}.`
+      );
+    }
+  }
+
+  // -- Dangling internal links (warning; feeds wanted-pages list) -------------
   for (const match of content.matchAll(MARKDOWN_LINK_RE)) {
     const target = localMarkdownTarget(match[1]);
     if (!target) continue;
-
-    const resolved = path.resolve(path.dirname(filePath), target);
-    const relativeResolved = path.relative(REPO_ROOT, resolved);
-    const line = lineStarts.findLastIndex((start) => start <= match.index) + 1;
-
-    if (relativeResolved.startsWith("..") || path.isAbsolute(relativeResolved)) {
-      addFinding("error", "link-outside-repo", filePath, `Relative markdown link points outside the repo: ${match[1]}`, line);
-      continue;
-    }
-
-    if (!(await pathExists(resolved))) {
-      addFinding("error", "broken-md-link", filePath, `Broken relative markdown link: ${match[1]}`, line);
-    }
+    if (target.includes("/")) continue; // not same-directory relative; not our concern here
+    if (!wanted.has(target)) wanted.set(target, new Set());
+    wanted.get(target).add(filename);
   }
 }
 
-async function maybeFixFormatting(filePath, content) {
-  const normalized = content.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
-  const fixed = normalized.endsWith("\n") ? normalized : `${normalized}\n`;
-  if (fixed !== content) {
-    await fs.writeFile(filePath, fixed, "utf8");
-    fixedFiles.push(path.relative(REPO_ROOT, filePath));
-  }
-  return fixed;
+// -- run ---------------------------------------------------------------------
+const pageFiles = await listPages();
+stats.totalPages = pageFiles.length;
+
+for (const filename of pageFiles) {
+  await lintPage(filename);
 }
 
-async function lintFile(filePath) {
-  let content = await fs.readFile(filePath, "utf8");
-  if (fix) content = await maybeFixFormatting(filePath, content);
-
-  const lines = splitLines(content);
-  const filename = path.basename(filePath);
-  const h1Index = lines.findIndex((line) => line.startsWith("# "));
-  const headers = parseBoldPrefixHeaders(lines, h1Index);
-
-  if (!CONTENT_FILE_RE.test(filename)) {
-    addFinding("error", "bad-filename", filePath, "Filename must be lowercase kebab-case ending in .md.");
-  } else if (DISCOURAGED_SUFFIX_RE.test(filename)) {
-    addFinding("warning", "discouraged-filename-suffix", filePath, "Filename uses a discouraged suffix like -profile, -page, -new, or a version/copy marker.");
+// Resolve dangling links against the actual page set.
+const pageSet = new Set(pageFiles);
+const wantedPages = [];
+for (const [target, referrers] of wanted) {
+  if (!pageSet.has(target)) {
+    wantedPages.push({ target, referrers: [...referrers].sort() });
   }
-
-  if (h1Index === -1) {
-    addFinding("error", "missing-h1", filePath, "Missing first-level markdown heading.");
-  }
-
-  for (const header of REQUIRED_HEADERS) {
-    if (!headers.has(header)) {
-      addFinding("error", "missing-required-header", filePath, `Missing required bold-prefix header: **${header}:**`);
-    }
-  }
-
-  if (LEGACY_PROVENANCE_RE.test(content)) {
-    const line = lines.findIndex((candidate) => LEGACY_PROVENANCE_RE.test(candidate));
-    addFinding("error", "legacy-provenance", filePath, "Public page mentions legacy/internal provenance.", line + 1);
-  }
-
-  if (lines.length > HARD_LINE_CAP) {
-    addFinding("error", "hard-line-cap", filePath, `Page has ${lines.length} lines; hard cap is ${HARD_LINE_CAP}.`);
-  } else if (lines.length > SOFT_LINE_CAP) {
-    addFinding("warning", "soft-line-cap", filePath, `Page has ${lines.length} lines; soft cap is ${SOFT_LINE_CAP}.`);
-  }
-
-  await checkLinks(filePath, content);
+}
+wantedPages.sort((a, b) => a.target.localeCompare(b.target));
+for (const { target, referrers } of wantedPages) {
+  addFinding(
+    "warning",
+    "wanted-page",
+    null,
+    `${target} does not exist — referenced by ${referrers.length} page(s): ${referrers.slice(0, 5).join(", ")}${referrers.length > 5 ? ", ..." : ""}`
+  );
 }
 
-const files = await listPublicMarkdownFiles();
-for (const file of files) {
-  await lintFile(file);
+// views/index.md must exist (reminder to run build-views.mjs); we do not otherwise scan views/.
+const viewsIndexPath = path.join(VIEWS_DIR, "index.md");
+if (!(await pathExists(viewsIndexPath))) {
+  addFinding("error", "missing-views-index", viewsIndexPath, "wiki/views/index.md is missing — run `node scripts/build-views.mjs`.");
 }
 
 findings.sort((a, b) => {
-  const pathCompare = a.path.localeCompare(b.path);
+  const pathCompare = (a.path ?? "").localeCompare(b.path ?? "");
   if (pathCompare !== 0) return pathCompare;
   return (a.line ?? 0) - (b.line ?? 0);
 });
 
-const errors = findings.filter((finding) => finding.severity === "error").length;
-const warnings = findings.filter((finding) => finding.severity === "warning").length;
+const errors = findings.filter((f) => f.severity === "error");
+const warnings = findings.filter((f) => f.severity === "warning");
+
+const countByCode = (list) => {
+  const counts = {};
+  for (const f of list) counts[f.code] = (counts[f.code] ?? 0) + 1;
+  return counts;
+};
+
+const summary = {
+  ok: errors.length === 0,
+  checkedPages: pageFiles.length,
+  errors: errors.length,
+  warnings: warnings.length,
+  errorsByCode: countByCode(errors),
+  warningsByCode: countByCode(warnings),
+  coverage: {
+    domain: `${stats.domainAttributed}/${stats.totalPages}`,
+    region: `${stats.regionAttributed}/${stats.totalPages}`,
+  },
+  needsReviewed: {
+    pagesWithNeedsSection: stats.needsSectionCount,
+    pagesWithNeedsReviewed: stats.needsReviewedCount,
+  },
+  domainFlagged: stats.domainFlagged,
+  wantedPagesCount: wantedPages.length,
+};
 
 if (json) {
-  console.log(
-    JSON.stringify(
-      {
-        ok: errors === 0,
-        checkedFiles: files.length,
-        errors,
-        warnings,
-        fixedFiles,
-        findings,
-      },
-      null,
-      2
-    )
-  );
+  console.log(JSON.stringify({ ...summary, findings }, null, 2));
 } else {
-  console.log(`wiki-lint: checked ${files.length} files, ${errors} errors, ${warnings} warnings`);
-  if (fixedFiles.length > 0) {
-    console.log(`fixed formatting in ${fixedFiles.length} file${fixedFiles.length === 1 ? "" : "s"}:`);
-    for (const file of fixedFiles) console.log(`  ${file}`);
-  }
+  console.log(`wiki-lint: checked ${pageFiles.length} pages in wiki/pages/`);
+  console.log(`  errors:   ${errors.length}`);
+  for (const [code, count] of Object.entries(summary.errorsByCode).sort()) console.log(`    ${code}: ${count}`);
+  console.log(`  warnings: ${warnings.length}`);
+  for (const [code, count] of Object.entries(summary.warningsByCode).sort()) console.log(`    ${code}: ${count}`);
+  console.log(`  Domain attribution coverage: ${summary.coverage.domain}`);
+  console.log(`  Region attribution coverage: ${summary.coverage.region}`);
+  console.log(`  Domain-flagged (adjudication queue): ${stats.domainFlagged}`);
+  console.log(
+    `  Needs-reviewed: ${stats.needsReviewedCount} present / ${stats.needsSectionCount} pages have a "What They Need Now" section`
+  );
+  console.log(`  Wanted pages (dangling links): ${wantedPages.length}`);
+  console.log("");
+  console.log("-- details --");
   for (const finding of findings) {
-    const location = finding.line ? `${finding.path}:${finding.line}` : finding.path;
+    const location = finding.path ? (finding.line ? `${finding.path}:${finding.line}` : finding.path) : "(cross-page)";
     console.log(`${finding.severity.toUpperCase()} ${finding.code} ${location} - ${finding.message}`);
   }
 }
 
-process.exit(errors > 0 ? 1 : 0);
+// Use exitCode (not exit()) so buffered stdout fully flushes when piped —
+// process.exit() can truncate output on non-TTY/piped stdout in Node.
+process.exitCode = errors.length > 0 ? 1 : 0;

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://greatutah.work/sitemap.xml
+
+# AI agents: the site manual is at /llms.txt — raw markdown, built for you.

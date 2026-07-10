@@ -131,5 +131,14 @@ if (CHECK) {
   console.log(stale ? `views are STALE (${stale}) — run: node scripts/build-views.mjs` : 'views are fresh')
   process.exitCode = stale ? 1 : 0
 } else {
-  console.log(`views: ${fs.readdirSync(VIEWS).length} files from ${pages.length} pages (${attributed.length} attributed)`)
+  // sitemap for crawlers (human pages + raw markdown), written alongside the app's static assets
+  const BASE = 'https://greatutah.work'
+  const urls = [
+    `${BASE}/`, `${BASE}/llms.txt`,
+    ...fs.readdirSync(VIEWS).map((f) => `${BASE}/views/${f}`),
+    ...pages.flatMap((p) => [`${BASE}/p/${p.file.replace('.md', '')}`, `${BASE}/pages/${p.file}`]),
+  ]
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `  <url><loc>${u}</loc></url>`).join('\n')}\n</urlset>\n`
+  fs.writeFileSync(new URL('../public/sitemap.xml', import.meta.url).pathname, xml)
+  console.log(`views: ${fs.readdirSync(VIEWS).length} files from ${pages.length} pages (${attributed.length} attributed); sitemap: ${urls.length} urls`)
 }

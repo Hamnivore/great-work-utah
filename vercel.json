@@ -1,6 +1,12 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
+  "redirects": [
+    { "source": "/index.md", "destination": "/views/index.md", "statusCode": 308 },
+    { "source": "/wiki/pages/:slug*", "destination": "/pages/:slug*", "statusCode": 308 },
+    { "source": "/wiki/views/:view*", "destination": "/views/:view*", "statusCode": 308 },
+    { "source": "/wiki/meta/:doc*", "destination": "/meta/:doc*", "statusCode": 308 }
+  ],
   "rewrites": [
     {
       "source": "/((?!api/|pages/|views/|meta/|llms\\.txt|assets/|favicon\\.svg).*)",

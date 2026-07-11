@@ -24,30 +24,32 @@ type Res = {
   end(): void
 }
 
+// Reports every problem in one pass so a confused agent converges in one round trip.
 function validate(body: Body): { error?: string; kind?: 'note' | 'page' } {
   const { kind, path, type, content } = body
+  const errors: string[] = []
   if (kind !== 'note' && kind !== 'page') {
-    return { error: '"kind" must be "note" or "page".' }
+    errors.push('"kind" must be "note" or "page".')
   }
   if (typeof path !== 'string' || !PATH_RE.test(path)) {
-    return { error: '"path" must match pages/<slug>.md (lowercase letters, digits, hyphens).' }
+    errors.push('"path" must match pages/<slug>.md (lowercase letters, digits, hyphens).')
   }
   if (typeof content !== 'string') {
-    return { error: '"content" must be a string.' }
-  }
-  if (kind === 'note') {
+    errors.push('"content" must be a string.')
+  } else if (kind === 'note') {
     if (content.length < 15 || content.length > 2000) {
-      return { error: `Note content must be 15–2000 characters (got ${content.length}).` }
+      errors.push(`Note content must be 15–2000 characters (got ${content.length}).`)
     }
-  } else {
+  } else if (kind === 'page') {
     if (content.length <= 200) {
-      return { error: `Page content must be over 200 characters (got ${content.length}) — send a full page, or send a note instead.` }
-    }
-    if (typeof type !== 'string' || !VALID_TYPES.includes(type)) {
-      return { error: `"type" must be one of: ${VALID_TYPES.join(', ')}.` }
+      errors.push(`Page content must be over 200 characters (got ${content.length}) — send a full page, or send a note instead.`)
     }
   }
-  return { kind }
+  if (kind === 'page' && (typeof type !== 'string' || !VALID_TYPES.includes(type))) {
+    errors.push(`"type" must be one of: ${VALID_TYPES.join(', ')} (required for pages; ignored for notes).`)
+  }
+  if (errors.length) return { error: errors.join(' ') }
+  return { kind: kind as 'note' | 'page' }
 }
 
 async function gh(token: string, method: string, url: string, payload?: unknown) {
@@ -131,18 +133,27 @@ export default async function handler(req: Req, res: Res) {
     return
   }
 
+  // req.body is a getter that throws before we run if the JSON is malformed —
+  // access it inside try/catch so agents get a real error body, not an empty 400.
+  let raw: unknown
+  try {
+    raw = req.body
+  } catch {
+    res.status(400).json({ ok: false, error: 'Body must be valid JSON: { "kind": "note"|"page", "path": "pages/<slug>.md", ... }' })
+    return
+  }
   let body: Body
-  if (typeof req.body === 'string') {
+  if (typeof raw === 'string') {
     try {
-      body = JSON.parse(req.body) as Body
+      body = JSON.parse(raw) as Body
     } catch {
-      res.status(400).json({ ok: false, error: 'Body must be valid JSON.' })
+      res.status(400).json({ ok: false, error: 'Body must be valid JSON: { "kind": "note"|"page", "path": "pages/<slug>.md", ... }' })
       return
     }
-  } else if (req.body && typeof req.body === 'object') {
-    body = req.body as Body
+  } else if (raw && typeof raw === 'object') {
+    body = raw as Body
   } else {
-    res.status(400).json({ ok: false, error: 'Body must be a JSON object.' })
+    res.status(400).json({ ok: false, error: 'Body must be a JSON object: { "kind": "note"|"page", "path": "pages/<slug>.md", ... }' })
     return
   }
 

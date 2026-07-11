@@ -44,3 +44,4 @@ USER.md
 # local safety backup from the 2026-07-09 flatten (delete when confident)
 wiki-backup-preflatten.tar.gz
 public/sitemap.xml
+.vercel

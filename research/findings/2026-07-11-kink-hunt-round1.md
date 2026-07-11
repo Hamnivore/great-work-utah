@@ -27,9 +27,13 @@ Also: `GET /views/` serves the master index while `/pages/` 404s (inconsistent d
 
 The inspiration probe reported a "dead link in a generated view" (utah-quantum). Reproduction showed the generated view is correct — **the probe guessed the slug itself, then attributed its own typo to the site.** Generated-view integrity holds. Rule: reproduce every reported kink before coding; agent self-reports misattribute.
 
-## Open (blocked or queued)
+## Write path: verified live (same day)
 
-1. **GITHUB_TOKEN invalid** — 401 from GitHub even locally; needs a fresh fine-grained PAT (Contents/Issues/PRs RW on the repo), then .env + Vercel env + redeploy, then the write path gets its live E2E test (note→issue, page→PR).
+After token rotation (first PAT dead at GitHub; second initially missing Contents:write — 403 on branch create; fixed by editing the fine-grained PAT's permissions in place, no redeploy needed since the token value is unchanged): **page→PR produced PR #1** (branch `contrib/<slug>-<ts>`, file at `wiki/pages/`, correct title/body; test artifact closed after verification) and **note→issue produced issue #2** — a *real* note flagging the TVC gap the researcher probe validated, left open as the first genuine entry in the wanted queue. The entire contribution pipeline is now proven in production. Ops note for the runbook: fine-grained PAT permission errors present as 401 (bad token) vs 403 (missing permission) — diagnose locally against api.github.com before touching deploys.
+
+## Open (queued)
+
+1. ~~GITHUB_TOKEN~~ ✅ resolved as above.
 2. Domain flip to bare-canonical (dashboard).
 3. E10 attribution rollout — now demonstrably the navigation-quality bottleneck (empty materials hub, hubs missing star members, 37KB resources monolith wanting domain slices).
 4. Wanted page validated by real usage: University of Utah TVC / tech-transfer.

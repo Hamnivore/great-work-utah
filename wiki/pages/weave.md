@@ -14,6 +14,7 @@
 **Location Source:** https://www.getweave.com/legal/terms/
 **Careers:** https://www.getweave.com/careers/
 **Website:** https://www.getweave.com
+**Domain:** health-bio, computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/weave-lehi-hq/1600/1100

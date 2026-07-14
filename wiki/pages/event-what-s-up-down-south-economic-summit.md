@@ -10,7 +10,7 @@
 **Map Location:** 1835 S Convention Center Dr, St. George, UT 84790
 **Coordinates:** 37.077325, -113.582639
 **Location Precision:** exact
-**Location Source:** https://whatsupdownsouth.org/event/whats-up-down-south-2026/
+**Location Source:** https://whatsupdownsouth.org/
 **Website:** https://whatsupdownsouth.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide
@@ -25,7 +25,7 @@ Southern Utah business owners, executives, and community leaders — especially 
 
 ## What It Provides
 
-The official site schedules the summit at the Dixie Convention Center (1835 S Convention Center Dr, St. George). The January 14, 2027 edition includes breakfast and lunch, exhibit hall, keynotes (listed speakers include Kem C. Gardner Policy Institute economist Phil Dean and SBA advocate Trent Staggs), two breakout blocks, and an optional Rural Utah Data Symposium add-on (listed at $25 for January 15, 2026 post-conference session). General admission is listed at $200.
+The official site schedules the summit at the Dixie Convention Center (1835 S Convention Center Dr, St. George). The January 14, 2027 edition includes breakfast and lunch, an exhibit hall, keynotes (listed speakers include Kem C. Gardner Policy Institute economist Phil Dean and SBA advocate Trent Staggs), and two breakout blocks. General admission is listed at $200. The site also retains a separate Rural Utah Data Symposium ticket dated January 15, 2026; do not treat that legacy listing as a 2027 add-on without confirmation.
 
 ## How To Access
 
@@ -35,7 +35,7 @@ The official site schedules the summit at the Dixie Convention Center (1835 S Co
 
 ## Cost
 
-General admission listed at $200 (includes breakfast, lunch, and networking). Rural Utah Data Symposium listed at $25 as a post-conference add-on. Verify current prices before purchase.
+General admission is listed at $200 and includes breakfast, lunch, and networking. Verify current pricing before purchase; the separate $25 Rural Utah Data Symposium listing is still dated January 15, 2026 and is not confirmed for the 2027 summit.
 
 ## Best Fits
 
@@ -52,4 +52,4 @@ Weaker fit for pre-revenue founders outside southern Utah unless they are evalua
 ## Open Questions
 
 - Which breakout tracks are most relevant for founders vs. established operators?
-- Does the RUDS add-on repeat annually on the same schedule?
+- Will the Rural Utah Data Symposium return after the 2027 summit? The official site still displays a legacy January 15, 2026 ticket listing.

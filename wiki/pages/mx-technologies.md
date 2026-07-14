@@ -13,6 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.mx.com/
 **Careers:** https://www.mx.com/careers/
+**Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-21
 **Pull:** *One of Silicon Slopes' leading private fintech companies — open banking infrastructure for banks, credit unions, and fintech developers.*

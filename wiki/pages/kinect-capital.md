@@ -12,6 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://utahfounders.org/resource/kinect-capital/
 **Website:** https://kinectcapital.org/
+**Domain:** capital-programs
 **Updated:** 2026-07-14
 **Layout:** field-guide
 

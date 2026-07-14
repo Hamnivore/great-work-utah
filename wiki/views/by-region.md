@@ -4,7 +4,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 
 ## American Fork
 
-- [Domo](/pages/domo.md) · `/pages/domo.md` · venture
+- [Domo](/pages/domo.md) · `/pages/domo.md` · computing
 - [LiveView Technologies (LVT)](/pages/liveview-technologies.md) · `/pages/liveview-technologies.md` · venture
 
 ## Bear River region
@@ -80,7 +80,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 
 ## Draper
 
-- [BambooHR](/pages/bamboohr.md) · `/pages/bamboohr.md` · venture
+- [BambooHR](/pages/bamboohr.md) · `/pages/bamboohr.md` · computing
 
 ## Emery County
 
@@ -118,7 +118,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 
 ## Gunnison
 
-- [ACT Aerospace](/pages/act-aerospace.md) · `/pages/act-aerospace.md` · venture
+- [ACT Aerospace](/pages/act-aerospace.md) · `/pages/act-aerospace.md` · aerospace-defense, materials-mfg
 
 ## Heber City
 
@@ -135,7 +135,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 
 ## Hill Air Force Base
 
-- [309th Software Engineering Group](/pages/309th-software-engineering-group.md) · `/pages/309th-software-engineering-group.md` · venture
+- [309th Software Engineering Group](/pages/309th-software-engineering-group.md) · `/pages/309th-software-engineering-group.md` · aerospace-defense
 
 ## Hurricane
 
@@ -166,13 +166,13 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [Album](/pages/album.md) · `/pages/album.md` · resource
 - [Ancestry](/pages/ancestry.md) · `/pages/ancestry.md` · venture
 - [Halia Therapeutics](/pages/halia-therapeutics.md) · `/pages/halia-therapeutics.md` · health-bio
-- [MX Technologies](/pages/mx-technologies.md) · `/pages/mx-technologies.md` · venture
+- [MX Technologies](/pages/mx-technologies.md) · `/pages/mx-technologies.md` · computing
 - [Owlet Baby Care](/pages/owlet-baby-care.md) · `/pages/owlet-baby-care.md` · venture
 - [PhotoPharmics](/pages/photopharmics.md) · `/pages/photopharmics.md` · venture
-- [Podium](/pages/podium.md) · `/pages/podium.md` · venture
+- [Podium](/pages/podium.md) · `/pages/podium.md` · computing
 - [Savory Fund](/pages/savory-fund.md) · `/pages/savory-fund.md` · resource
 - [SchoolAI](/pages/schoolai.md) · `/pages/schoolai.md` · venture
-- [Weave](/pages/weave.md) · `/pages/weave.md` · venture
+- [Weave](/pages/weave.md) · `/pages/weave.md` · health-bio, computing
 
 ## Lindon
 
@@ -246,15 +246,15 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 ## Orem
 
 - [1 Million Cups (Orem)](/pages/1-million-cups-orem.md) · `/pages/1-million-cups-orem.md` · resource
-- [Coreform](/pages/coreform.md) · `/pages/coreform.md` · venture
-- [Techcyte](/pages/techcyte.md) · `/pages/techcyte.md` · venture
+- [Coreform](/pages/coreform.md) · `/pages/coreform.md` · computing
+- [Techcyte](/pages/techcyte.md) · `/pages/techcyte.md` · health-bio, computing
 - [Utah Valley University Innovation Center/Academy](/pages/utah-valley-university-innovation-center-academy.md) · `/pages/utah-valley-university-innovation-center-academy.md` · resource
 - [Utah Valley University Baugh Entrepreneurship Institute](/pages/utah-valley-university-uvu-entrepreneur-institute.md) · `/pages/utah-valley-university-uvu-entrepreneur-institute.md` · resource
 - [WordPerfect](/pages/wordperfect.md) · `/pages/wordperfect.md` · venture
 
 ## Park City
 
-- [Park City Angels](/pages/park-city-angels.md) · `/pages/park-city-angels.md` · resource
+- [Park City Angels](/pages/park-city-angels.md) · `/pages/park-city-angels.md` · capital-programs
 - [Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md) · `/pages/park-city-chamber-of-commerce.md` · resource
 - [Skullcandy](/pages/skullcandy.md) · `/pages/skullcandy.md` · venture
 
@@ -341,7 +341,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [Cotopaxi](/pages/cotopaxi.md) · `/pages/cotopaxi.md` · venture
 - [Coworking Space in Salt Lake City - Offices.net](/pages/coworking-space-in-salt-lake-city-offices-net.md) · `/pages/coworking-space-in-salt-lake-city-offices-net.md` · resource
 - [Cross Creek](/pages/cross-creek.md) · `/pages/cross-creek.md` · resource
-- [Curza](/pages/curza.md) · `/pages/curza.md` · venture
+- [Curza](/pages/curza.md) · `/pages/curza.md` · health-bio
 - [Cynosure](/pages/cynosure.md) · `/pages/cynosure.md` · resource
 - [Dave Bearss](/pages/dave-bearss.md) · `/pages/dave-bearss.md` · person
 - [Davis Smith](/pages/davis-smith.md) · `/pages/davis-smith.md` · person
@@ -355,7 +355,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [Evolution Bio](/pages/evolution-bio.md) · `/pages/evolution-bio.md` · venture
 - [FamilySearch](/pages/familysearch.md) · `/pages/familysearch.md` · computing
 - [Florian Solzbacher](/pages/florian-solzbacher.md) · `/pages/florian-solzbacher.md` · person
-- [Health Catalyst](/pages/health-catalyst.md) · `/pages/health-catalyst.md` · venture
+- [Health Catalyst](/pages/health-catalyst.md) · `/pages/health-catalyst.md` · health-bio
 - [HELP Clinical Decision Support System](/pages/help-clinical-decision-support-system.md) · `/pages/help-clinical-decision-support-system.md` · work
 - [High-Density Sustainable Aviation Fuels](/pages/high-density-sustainable-aviation-fuels.md) · `/pages/high-density-sustainable-aviation-fuels.md` · aerospace-defense, energy
 - [Huntsman Cancer Institute](/pages/huntsman-cancer-institute.md) · `/pages/huntsman-cancer-institute.md` · venture
@@ -366,17 +366,17 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [Iris Biomedical](/pages/iris-biomedical.md) · `/pages/iris-biomedical.md` · venture
 - [Jared Rutter](/pages/jared-rutter.md) · `/pages/jared-rutter.md` · person
 - [Jarvik-7 Artificial Heart](/pages/jarvik-7-artificial-heart.md) · `/pages/jarvik-7-artificial-heart.md` · work
-- [Kinect Capital](/pages/kinect-capital.md) · `/pages/kinect-capital.md` · resource
+- [Kinect Capital](/pages/kinect-capital.md) · `/pages/kinect-capital.md` · capital-programs
 - [L3Harris Salt Lake City](/pages/l3harris-salt-lake.md) · `/pages/l3harris-salt-lake.md` · aerospace-defense
 - [Make Salt Lake](/pages/make-salt-lake.md) · `/pages/make-salt-lake.md` · resource
 - [Maven CREATE](/pages/maven-create.md) · `/pages/maven-create.md` · resource
 - [Music AI (Moises)](/pages/music-ai.md) · `/pages/music-ai.md` · venture
 - [Myriad Genetics BRCA Sequencing and Testing](/pages/myriad-genetics-brca.md) · `/pages/myriad-genetics-brca.md` · work
-- [Myriad Genetics](/pages/myriad-genetics.md) · `/pages/myriad-genetics.md` · venture
+- [Myriad Genetics](/pages/myriad-genetics.md) · `/pages/myriad-genetics.md` · health-bio
 - [NephroNovus](/pages/nephronovus.md) · `/pages/nephronovus.md` · venture
 - [NOW CFO](/pages/now-cfo.md) · `/pages/now-cfo.md` · helper
 - [O.C. Tanner](/pages/oc-tanner.md) · `/pages/oc-tanner.md` · venture
-- [Palladyne AI](/pages/palladyne-ai.md) · `/pages/palladyne-ai.md` · venture
+- [Palladyne AI](/pages/palladyne-ai.md) · `/pages/palladyne-ai.md` · aerospace-defense, computing
 - [Parsons Behle & Latimer](/pages/parsons-behle-latimer.md) · `/pages/parsons-behle-latimer.md` · helper
 - [PassiveLogic](/pages/passivelogic.md) · `/pages/passivelogic.md` · energy, computing
 - [Pelion Ventures](/pages/pelion-ventures.md) · `/pages/pelion-ventures.md` · resource
@@ -388,17 +388,17 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `/pages/renewable-tech-ventures.md` · resource
 - [Ripple Neuro](/pages/ripple-neuro.md) · `/pages/ripple-neuro.md` · venture
 - [Ryan Smith (Qualtrics)](/pages/ryan-smith-qualtrics.md) · `/pages/ryan-smith-qualtrics.md` · person
-- [Salt Lake Angels](/pages/salt-lake-angels.md) · `/pages/salt-lake-angels.md` · resource
+- [Salt Lake Angels](/pages/salt-lake-angels.md) · `/pages/salt-lake-angels.md` · capital-programs
 - [Salt Lake Chamber](/pages/salt-lake-chamber.md) · `/pages/salt-lake-chamber.md` · resource
 - [Salt Lake City Office Space for Rent](/pages/salt-lake-city-office-space-for-rent.md) · `/pages/salt-lake-city-office-space-for-rent.md` · resource
-- [Sarcos Technology and Robotics Corporation](/pages/sarcos-technology-and-robotics.md) · `/pages/sarcos-technology-and-robotics.md` · venture
+- [Sarcos Technology and Robotics Corporation](/pages/sarcos-technology-and-robotics.md) · `/pages/sarcos-technology-and-robotics.md` · materials-mfg, aerospace-defense
 - [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md` · computing, health-bio
 - [Sethera Therapeutics](/pages/sethera-therapeutics.md) · `/pages/sethera-therapeutics.md` · venture
 - [Signal Peak Ventures](/pages/signal-peak-ventures.md) · `/pages/signal-peak-ventures.md` · resource
 - [Sorenson Impact Fund](/pages/sorenson-impact-fund.md) · `/pages/sorenson-impact-fund.md` · resource
 - [Soundstream and Commercial Digital Audio Recording](/pages/soundstream-digital-audio-recording.md) · `/pages/soundstream-digital-audio-recording.md` · work
 - [Spire Therapeutics](/pages/spire-therapeutic.md) · `/pages/spire-therapeutic.md` · venture
-- [Strider Technologies](/pages/strider-technologies.md) · `/pages/strider-technologies.md` · venture
+- [Strider Technologies](/pages/strider-technologies.md) · `/pages/strider-technologies.md` · aerospace-defense
 - [Sword Health](/pages/sword-health.md) · `/pages/sword-health.md` · venture
 - [SymbioCellTech](/pages/symbiocelltech.md) · `/pages/symbiocelltech.md` · venture
 - [Tanner LLC](/pages/tanner-llc.md) · `/pages/tanner-llc.md` · helper
@@ -457,7 +457,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 
 - [Fred Lampropoulos](/pages/fred-lampropoulos.md) · `/pages/fred-lampropoulos.md` · person
 - [Karl Sun](/pages/karl-sun.md) · `/pages/karl-sun.md` · person
-- [Lucid Software](/pages/lucid-software.md) · `/pages/lucid-software.md` · venture
+- [Lucid Software](/pages/lucid-software.md) · `/pages/lucid-software.md` · computing
 - [Merit Medical Systems](/pages/merit-medical.md) · `/pages/merit-medical.md` · health-bio
 
 ## Southeastern Utah
@@ -468,7 +468,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 
 ## Springville
 
-- [Wavetronix](/pages/wavetronix.md) · `/pages/wavetronix.md` · aerospace-defense, computing
+- [Wavetronix](/pages/wavetronix.md) · `/pages/wavetronix.md` · computing
 
 ## St. George, UT
 
@@ -482,7 +482,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [Culmination Bio](/pages/culmination-bio.md) · `/pages/culmination-bio.md` · venture
 - [Eden Technologies](/pages/eden-technologies.md) · `/pages/eden-technologies.md` · venture
 - [EVENT: What's Up Down South - Economic Summit](/pages/event-what-s-up-down-south-economic-summit.md) · `/pages/event-what-s-up-down-south-economic-summit.md` · resource
-- [RAM Aviation, Space & Defense](/pages/ram-aviation-space-defense.md) · `/pages/ram-aviation-space-defense.md` · venture
+- [RAM Aviation, Space & Defense](/pages/ram-aviation-space-defense.md) · `/pages/ram-aviation-space-defense.md` · aerospace-defense
 - [Red Rock Angels](/pages/red-rock-angels.md) · `/pages/red-rock-angels.md` · resource
 - [St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md) · `/pages/st-george-area-chamber-of-commerce.md` · resource
 - [St. George City Economic Development](/pages/st-george-city-economic-development.md) · `/pages/st-george-city-economic-development.md` · resource
@@ -557,7 +557,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 
 ## West Desert
 
-- [Utah Test and Training Range](/pages/utah-test-and-training-range.md) · `/pages/utah-test-and-training-range.md` · work
+- [Utah Test and Training Range](/pages/utah-test-and-training-range.md) · `/pages/utah-test-and-training-range.md` · aerospace-defense
 - [Utah Test and Training Range (UTTR)](/pages/uttr.md) · `/pages/uttr.md` · venture
 - [Varda Space Industries](/pages/varda-space.md) · `/pages/varda-space.md` · venture
 
@@ -612,8 +612,8 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [LiaLaunch](/pages/lialaunch.md) · `/pages/lialaunch.md` · resource
 - [Maschoff Brennan](/pages/maschoff-brennan.md) · `/pages/maschoff-brennan.md` · helper
 - [Mercato Partners](/pages/mercato-partners.md) · `/pages/mercato-partners.md` · resource
-- [Nucleus Fund](/pages/nucleus-fund.md) · `/pages/nucleus-fund.md` · resource
-- [Nucleus Grow](/pages/nucleus-grow.md) · `/pages/nucleus-grow.md` · resource
+- [Nucleus Fund](/pages/nucleus-fund.md) · `/pages/nucleus-fund.md` · capital-programs
+- [Nucleus Grow](/pages/nucleus-grow.md) · `/pages/nucleus-grow.md` · capital-programs
 - [Nucleus Institute](/pages/nucleus-institute.md) · `/pages/nucleus-institute.md` · helper
 - [Nucleus MarketEdge](/pages/nucleus-marketedge.md) · `/pages/nucleus-marketedge.md` · resource
 - [Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md) · `/pages/rural-utah-chamber-coalition.md` · resource
@@ -666,7 +666,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md) · `/pages/utah-small-business-credit-initiative-usbci.md` · resource
 - [Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md) · `/pages/utah-small-business-credit-initiative.md` · resource
 - [Utah Tourism Association](/pages/utah-tourism-association.md) · `/pages/utah-tourism-association.md` · resource
-- [Utah Technology Innovation Funding](/pages/utif.md) · `/pages/utif.md` · resource
+- [Utah Technology Innovation Funding](/pages/utif.md) · `/pages/utif.md` · capital-programs
 - [Veteran Business Resource Center (VBRC) Utah](/pages/veteran-business-resource-center-vbrc-utah.md) · `/pages/veteran-business-resource-center-vbrc-utah.md` · resource
 - [Veteran-Owned Business Registration Utah](/pages/veteran-owned-business-registration-utah.md) · `/pages/veteran-owned-business-registration-utah.md` · resource
 - [Visit Utah](/pages/visit-utah.md) · `/pages/visit-utah.md` · resource

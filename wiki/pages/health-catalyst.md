@@ -13,6 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://ir.healthcatalyst.com/static-files/df3c1cda-c41b-4490-885a-3c8e09216361
 **Careers:** https://www.healthcatalyst.com/who-we-are/careers
+**Domain:** health-bio
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-21
 **Pull:** *Utah's flagship healthcare-analytics public company — a full data-platform play for health systems trying to make value-based care work.*

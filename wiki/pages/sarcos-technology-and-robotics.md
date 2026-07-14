@@ -14,6 +14,7 @@
 **Location Source:** https://investor.palladyneai.com/static-files/eac7bc9d-c483-4411-bd8f-486146791517
 **Careers:** https://www.palladyneai.com/careers/
 **Website:** https://palladyneai.com/
+**Domain:** materials-mfg, aerospace-defense
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/sarcos-guardian-xo-exoskeleton-2026/1600/1100

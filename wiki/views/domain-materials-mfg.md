@@ -1,13 +1,22 @@
 # materials-mfg — sector hub
 
-Generated from `**Domain:**` metadata (68/615 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (92/615 pages attributed so far — coverage grows with the attribution rollout).
+
+## Players
+
+- [Sarcos Technology and Robotics Corporation](/pages/sarcos-technology-and-robotics.md) · `/pages/sarcos-technology-and-robotics.md` · Salt Lake City · robotics, industrial automation, defense, exoskeletons, teleoperation
 
 ## Proof it can be done here
 
 - [Kennecott Bingham Canyon Mine](/pages/bingham-canyon-mine.md) · `/pages/bingham-canyon-mine.md` · Salt Lake County · mining, copper, mass-mining, industrial engineering, extractive industry
 
+## Who they need right now
+
+- [Sarcos Technology and Robotics Corporation](/pages/sarcos-technology-and-robotics.md) · `/pages/sarcos-technology-and-robotics.md`: Robotics software engineers, controls and dynamics specialists, human-factors and ergonomics researchers, defense and government sales teams, field-deployment engineers, and operations leaders who understand industrial-safety certification. Given the company's challenging public-market history and transition back to private ownership, operational discipline and commercial-deployment execution wou… *(reviewed 2026-06-25)*
+
 ## Also relevant (primary elsewhere)
 
+- [ACT Aerospace](/pages/act-aerospace.md) · `/pages/act-aerospace.md` — primary: aerospace-defense
 - [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `/pages/energy-fuels-white-mesa.md` — primary: energy
 - [Hexcel Corporation](/pages/hexcel.md) · `/pages/hexcel.md` — primary: aerospace-defense
 - [Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md) · `/pages/ionic-mt.md` — primary: energy

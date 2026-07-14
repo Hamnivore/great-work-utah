@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Audience:** founders, researchers, helpers, investors
 **Focus:** startup capital, non-dilutive funding, SBIR/STTR, deep tech, Utah
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Overview
@@ -52,7 +52,9 @@ Use this path when the company has a business plan, intended use of funds, proje
 
 ## Capital-Readiness Helpers
 
-Before investors or lenders will engage seriously, many founders need reviewed financials, a credible model, and clean corporate documents. [Preferred CFO](preferred-cfo.md) and [Eide Bailly (Utah)](eide-bailly-utah.md) are public Utah options for fractional CFO/controller support and raise-prep finance. [Kirton McConkie](kirton-mcconkie.md) and [Parsons Behle & Latimer](parsons-behle-latimer.md) are common next steps when the capital conversation requires financing documents, securities compliance, or diligence-ready corporate records.
+Before investors or lenders will engage seriously, many founders need reviewed financials, a credible model, and clean corporate documents. [Preferred CFO](preferred-cfo.md) and [Eide Bailly (Utah)](eide-bailly-utah.md) are public Utah options for fractional CFO/controller support and raise-prep finance. [NOW CFO](now-cfo.md) is another route for seed or Series A companies that need cash forecasting, close discipline, accounting cleanup, and board or investor reporting before hiring a full-time finance leader; it is not a CPA firm, so tax, audit, and attest work still require the appropriate provider.
+
+[Kirton McConkie](kirton-mcconkie.md) and [Parsons Behle & Latimer](parsons-behle-latimer.md) are common next steps when the capital conversation requires financing documents, securities compliance, or diligence-ready corporate records. [Wilson Sonsini Salt Lake City](wilson-sonsini-salt-lake-city.md) is a more specifically venture-oriented option for technical or life-sciences companies expecting institutional financing and complex governance. Its public pricing is not stated: verify conflicts, partner fit, scope, and whether the legal budget matches the company's stage before treating it as the default.
 
 ## Common Mismatches
 
@@ -72,6 +74,8 @@ Good capital recommendations should explain the instrument, the stage, the evide
 - [SBA Utah District Office](sba-utah-district-office.md) · https://greatutah.work/pages/sba-utah-district-office.md
 - [Utah SBDC](utah-sbdc.md) · https://greatutah.work/pages/utah-sbdc.md
 - [Utah Small Business Credit Initiative](utah-small-business-credit-initiative.md) · https://greatutah.work/pages/utah-small-business-credit-initiative.md
+- [NOW CFO](now-cfo.md) · https://greatutah.work/pages/now-cfo.md
+- [Wilson Sonsini Salt Lake City](wilson-sonsini-salt-lake-city.md) · https://greatutah.work/pages/wilson-sonsini-salt-lake-city.md
 
 ## Open Questions
 

@@ -9,6 +9,7 @@
 **Utah Location:** Utah West Desert
 **Region:** West Desert
 **Website:** https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
+**Domain:** aerospace-defense
 **Updated:** 2026-05-16
 **Pull:** *Utah's West Desert became national-scale infrastructure for testing aircraft, weapons, and the systems around them.*
 

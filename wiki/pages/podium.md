@@ -14,6 +14,7 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Podium+1650+W+Digital+Dr+Lehi+UT+84043
 **Careers:** https://job-boards.greenhouse.io/podium81
 **Website:** https://www.podium.com
+**Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/podium-local-business-platform-2026/1600/1100

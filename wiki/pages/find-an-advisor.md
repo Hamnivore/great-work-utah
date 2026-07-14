@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Audience:** Utah founders, researchers, first-time CEOs, operators raising or commercializing
 **Focus:** mentors, professional advisors, legal counsel, accounting, fractional CFO, IP, commercialization
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Overview
@@ -43,6 +43,7 @@ Match the firm to the legal problem rather than defaulting to whoever is nearest
 
 - [Kirton McConkie](kirton-mcconkie.md) — full-service corporate counsel for formation, financing, securities, and M&A; fits founders who want one firm across multiple stages.
 - [Parsons Behle & Latimer](parsons-behle-latimer.md) — strong technology/IP-transactions and securities practice; fits IP-centric tech founders doing licensing or IP-sensitive financings.
+- [Wilson Sonsini Salt Lake City](wilson-sonsini-salt-lake-city.md) — startup and venture counsel for companies that expect institutional financing, complex governance, or a life-sciences, medical-device, or other technical-company path. Its public pricing is not stated, so verify partner fit, conflicts, scope, and whether the legal budget makes sense for the stage before engaging.
 - [Workman Nydegger](workman-nydegger.md) — IP boutique for patents, trademarks, and trade secrets; the right call when the company's moat is a defensible invention. Talk to patent counsel *before* any public disclosure.
 - [Maschoff Brennan](maschoff-brennan.md) — another Utah IP boutique often used by tech and life-sciences founders; same rule: talk before public disclosure.
 
@@ -53,6 +54,7 @@ Separate compliance (audit/tax) from strategy (CFO-level forecasting and fundrai
 - [Tanner LLC](tanner-llc.md) — locally owned CPA firm for audit/assurance, tax, and M&A due diligence; fits companies whose financials are about to face outside scrutiny.
 - [Eide Bailly (Utah)](eide-bailly-utah.md) — national firm with a Salt Lake City office offering fractional CFO/controller services plus R&D tax-credit work; fits R&D-heavy startups wanting finance leadership and credit capture from one provider.
 - [Preferred CFO](preferred-cfo.md) — Utah-based fractional-CFO specialist; fits revenue-stage companies that want a dedicated part-time CFO for forecasting, cash discipline, and raise preparation.
+- [NOW CFO](now-cfo.md) — fractional finance operations for seed or Series A companies that need cash forecasts, close discipline, board or investor reporting, and accounting cleanup before a full-time finance hire. NOW CFO is not a CPA firm and should not be treated as a replacement for tax, audit, or attest work; verify that the assigned consultant has relevant startup and industry experience.
 
 ### If You Need Commercialization Or Non-Dilutive Guidance
 
@@ -74,11 +76,11 @@ For research-backed and deep-tech ventures, the highest-leverage early advisor i
 ### Bring In Early (Paid, Prevents Irreversible Mistakes)
 
 - [Workman Nydegger](workman-nydegger.md) if the moat is patentable — before public disclosure.
-- Corporate counsel ([Kirton McConkie](kirton-mcconkie.md) or [Parsons Behle & Latimer](parsons-behle-latimer.md)) when equity, investors, or IP assignment enter the picture.
+- Corporate counsel ([Kirton McConkie](kirton-mcconkie.md), [Parsons Behle & Latimer](parsons-behle-latimer.md), or [Wilson Sonsini Salt Lake City](wilson-sonsini-salt-lake-city.md)) when equity, investors, or IP assignment enter the picture; choose based on stage, technical complexity, conflicts, and budget rather than name recognition.
 
 ### Add When Revenue Or A Raise Arrives
 
-- Fractional CFO support ([Preferred CFO](preferred-cfo.md) or [Eide Bailly](eide-bailly-utah.md)) for investor-ready financials.
+- Fractional CFO support ([Preferred CFO](preferred-cfo.md), [Eide Bailly](eide-bailly-utah.md), or [NOW CFO](now-cfo.md)) for investor-ready reporting and finance operations, while keeping CPA-only work with an appropriate CPA firm.
 - A CPA firm ([Tanner LLC](tanner-llc.md) or Eide Bailly) when reviewed/audited financials or diligence are required.
 
 ## Caveats
@@ -96,6 +98,8 @@ For research-backed and deep-tech ventures, the highest-leverage early advisor i
 - [Tanner LLC](tanner-llc.md)
 - [Eide Bailly (Utah)](eide-bailly-utah.md)
 - [Preferred CFO](preferred-cfo.md)
+- [NOW CFO](now-cfo.md)
+- [Wilson Sonsini Salt Lake City](wilson-sonsini-salt-lake-city.md)
 - [Nucleus Institute](nucleus-institute.md)
 - [Nucleus Grow](nucleus-grow.md)
 - [SCORE Utah](score-utah.md)

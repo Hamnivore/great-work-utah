@@ -12,12 +12,11 @@
 **Coordinates:** 40.3037279, -111.6629020
 **Location Precision:** exact
 **Location Source:** https://www.qualtrics.com/contact/
-**Careers:** https://boards-api.greenhouse.io/v1/boards/qualtrics/jobs
+**Careers:** https://www.qualtrics.com/careers/us/en
 **Website:** https://www.qualtrics.com/
 **Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/qualtrics-xm-provo-2026/1600/1100
 **Pull:** *Experience management at enterprise scale — surveys, sentiment, and applied AI on one of the world's largest feedback datasets.*
 **Relates:** cites [Official Website: Qualtrics](qualtrics-official-website.md) · https://greatutah.work/pages/qualtrics-official-website.md · https://www.qualtrics.com/
 **Relates:** helps [Ryan Smith (Qualtrics)](ryan-smith-qualtrics.md) · https://greatutah.work/pages/ryan-smith-qualtrics.md

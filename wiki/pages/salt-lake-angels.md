@@ -8,6 +8,7 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://slcangels.org/
+**Domain:** capital-programs
 **Updated:** 2026-07-14
 **Layout:** field-guide
 

@@ -65,4 +65,3 @@ L3Harris Salt Lake City is one of Utah's largest defense employers after Hill Ai
 - Defense budget and program-cycle volatility — which comms programs are expanding versus consolidating?
 - Individual leverage in a large prime: what roles offer the most mission autonomy without leaving Utah?
 - The legacy tier note flagged commoditization pressure in tactical comms — how is L3Harris positioning against newer software-defined and mesh-network competitors?
-- The two l3harris.com Evidence links now 404 — what are the current URLs for the Salt Lake City facility page and Communication Systems capability overview, and do the facts above still hold?

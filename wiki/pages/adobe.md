@@ -32,11 +32,12 @@ Standard large-technology hiring: software engineers, product managers, designer
 
 ## Utah Context
 
-Adobe's Utah footprint traces back to its $1.8 billion acquisition of [Omniture](omniture-web-analytics.md) in 2009 — a pivotal moment for Silicon Slopes. The Lehi engineering campus is one of Adobe's key engineering centers outside California and one of the larger private tech employers in Utah County.
+Adobe's Utah footprint traces back to its $1.8 billion acquisition of [Omniture](omniture-web-analytics.md) in 2009 — a pivotal moment for Silicon Slopes. Adobe added another major Utah enterprise-software lineage when it acquired Lehi-based Workfront for $1.5 billion in 2020; Workfront continues as a named Adobe product. The Lehi engineering campus is one of Adobe's key engineering centers outside California and one of the larger private tech employers in Utah County.
 
 ## Evidence
 
 - [Official Website](https://www.adobe.com) · https://www.adobe.com
+- [Adobe Completes Acquisition of Workfront](https://www.adobe.com/cc-shared/assets/investor-relations/pdfs/120720adobecompletesacquisitionofworkfront.pdf) — acquisition price, closing date, and product integration.
 
 ## Open Questions
 

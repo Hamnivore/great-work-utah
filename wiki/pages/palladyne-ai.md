@@ -14,6 +14,7 @@
 **Location Source:** https://www.palladyneai.com/contact-us/
 **Website:** https://www.palladyneai.com
 **Careers:** https://www.palladyneai.com/open-positions/
+**Domain:** aerospace-defense, computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/palladyne-swarmos/1600/1100

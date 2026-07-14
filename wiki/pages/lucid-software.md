@@ -14,6 +14,7 @@
 **Location Source:** https://lucid.co/contact-us
 **Careers:** https://job-boards.greenhouse.io/lucidsoftware
 **Website:** https://www.lucidsoftware.com
+**Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/lucid-visual-collaboration-2026/1600/1100

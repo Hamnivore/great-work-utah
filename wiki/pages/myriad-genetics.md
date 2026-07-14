@@ -14,6 +14,7 @@
 **Location Source:** https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5
 **Careers:** https://myriad.com/careers/
 **Website:** https://www.myriad.com/
+**Domain:** health-bio
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/myriad-genetics-diagnostics-slc-2026/1600/1100

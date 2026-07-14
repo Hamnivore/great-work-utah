@@ -1,6 +1,6 @@
 # energy — sector hub
 
-Generated from `**Domain:**` metadata (68/615 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (92/615 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 

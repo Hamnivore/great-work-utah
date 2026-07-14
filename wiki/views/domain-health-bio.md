@@ -1,6 +1,6 @@
 # health-bio — sector hub
 
-Generated from `**Domain:**` metadata (71/611 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (71/614 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 

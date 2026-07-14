@@ -1,6 +1,6 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (394 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (395 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
@@ -599,6 +599,7 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 - [iMpact Utah](/pages/impact-utah.md) · `/pages/impact-utah.md` · resource
 - [International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md) · `/pages/international-trade-and-diplomacy.md` · resource
 - [Jump Aero](/pages/jump-aero.md) · `/pages/jump-aero.md` · venture
+- [JustBuild](/pages/justbuild.md) · `/pages/justbuild.md` · resource
 - [Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md) · `/pages/kem-c-gardner-policy-institute.md` · resource
 - [Kickstart Fund](/pages/kickstart-fund.md) · `/pages/kickstart-fund.md` · resource
 - [Kiln](/pages/kiln.md) · `/pages/kiln.md` · resource

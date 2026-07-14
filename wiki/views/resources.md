@@ -1,4 +1,4 @@
-# resource — 219 pages
+# resource — 220 pages
 
 Grants, accelerators, facilities, capital paths, programs. One line per page; fetch the page for detail and evidence.
 
@@ -75,6 +75,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md) · `/pages/international-trade-and-diplomacy.md` · exports, international expansion, trade missions, foreign investment, diplomacy · conf:M
 - [Iron County Economic Development](/pages/iron-county-economic-development.md) · `/pages/iron-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Juab County Economic Development](/pages/juab-county-economic-development.md) · `/pages/juab-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [JustBuild](/pages/justbuild.md) · `/pages/justbuild.md` · founder community, AI builders, cofounder discovery, hackathons, coworking, Slack · conf:M
 - [Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md) · `/pages/kem-c-gardner-policy-institute.md` · Other · conf:M
 - [Kickstart Fund](/pages/kickstart-fund.md) · `/pages/kickstart-fund.md` · Funding · conf:M
 - [Kiln](/pages/kiln.md) · `/pages/kiln.md` · Entrepreneurship Communities · conf:M

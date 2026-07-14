@@ -8,6 +8,7 @@
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT
 **Region:** South Jordan
+**Domain:** health-bio
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/merit-medical-interventional-catheter-2026/1600/1100

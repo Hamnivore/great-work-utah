@@ -1,17 +1,23 @@
 # computing — sector hub
 
-Generated from `**Domain:**` metadata (65/610 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (71/610 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
+- [Adobe](/pages/adobe.md) · `/pages/adobe.md` · Lehi · creative software, digital media, cloud subscriptions, digital marketing, document management
+- [FamilySearch](/pages/familysearch.md) · `/pages/familysearch.md` · Salt Lake City · genealogy, civilizational records, OCR, record linkage, population genetics, scientific infrastruct…
 - [Instructure](/pages/instructure.md) · `/pages/instructure.md` · Salt Lake City · edtech, learning management systems, Canvas LMS, AI in education
 - [Qualtrics](/pages/qualtrics.md) · `/pages/qualtrics.md` · Provo · experience management, applied AI, enterprise SaaS, surveys, sentiment analysis
+- [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md` · Salt Lake City · scientific computing, scientific visualization, biomedical computing, open-source research software
 - [Splunk](/pages/splunk.md) · `/pages/splunk.md` · unknown · cybersecurity, observability, machine data, SIEM, AIOps, enterprise software
 
 ## Who they need right now
 
+- [Adobe](/pages/adobe.md) · `/pages/adobe.md`: Standard large-technology hiring: software engineers, product managers, designers, data scientists, enterprise sales, and customer-success roles. Adobe's Utah office is primarily an engineering hub, so technical roles dominate. *(reviewed 2026-06-21)*
+- [FamilySearch](/pages/familysearch.md) · `/pages/familysearch.md`: Likely needs include software and machine-learning engineers who want to work on hard OCR, record linkage, and large-scale data infrastructure problems with mission rather than ad-revenue motives; archivists, historians, and linguists for record curation; privacy and policy specialists for the increasingly difficult question of how to expose historical records responsibly; and infrastructure engi… *(reviewed 2026-05-09)*
 - [Instructure](/pages/instructure.md) · `/pages/instructure.md`: Likely needs include software engineers, applied ML engineers for LLM integration, data engineers at student-count scale, accessibility engineers (a11y is a major edtech constraint), education-domain product managers, and customer-success teams that understand slow higher-ed adoption cycles. Good fit for engineers who want to apply modern AI to a product with enormous real-world reach rather than… *(reviewed 2026-06-19)*
 - [Qualtrics](/pages/qualtrics.md) · `/pages/qualtrics.md`: Likely needs include ML engineers, applied scientists, data engineers, platform engineers, product managers, and enterprise SaaS operators comfortable with scale, compliance, and low-cost-per-item inference. The ML work spans LLM integration, classification, retrieval, and enterprise-grade evaluation within SOC 2, HIPAA, and FedRAMP constraints where applicable. For talent matching, Qualtrics is … *(reviewed 2026-06-19)*
+- [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md`: Likely needs include computer-graphics researchers, numerical-methods engineers, software engineers comfortable maintaining 20-year-old codebases that other scientists depend on, biomedical and clinical collaborators, and HCI researchers who care about the sharp edge between display and interpretation. PhD students who want to build software that is used outside their own dissertations — and who … *(reviewed 2026-05-09)*
 - [Splunk](/pages/splunk.md) · `/pages/splunk.md`: Likely needs include security engineers, detection engineers, SREs, observability specialists, distributed-systems engineers, data-platform engineers, technical support, implementation partners, and enterprise sellers who understand SOC and IT operations buying cycles. For Utah talent, Splunk is most relevant as a skill market and possible Cisco/Splunk remote-employment path unless a Utah office … *(reviewed 2026-07-11)*
 
 ## Also relevant (primary elsewhere)

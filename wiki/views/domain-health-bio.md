@@ -1,6 +1,6 @@
 # health-bio — sector hub
 
-Generated from `**Domain:**` metadata (65/610 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (71/610 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -11,6 +11,7 @@ Generated from `**Domain:**` metadata (65/610 pages attributed so far — covera
 - [CaLycia Biosciences](/pages/calycia-biosciences.md) · `/pages/calycia-biosciences.md` · Salt Lake City · macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology
 - [Epitel](/pages/epitel.md) · `/pages/epitel.md` · Salt Lake City · ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monito…
 - [Halia Therapeutics](/pages/halia-therapeutics.md) · `/pages/halia-therapeutics.md` · Lehi · drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life scie…
+- [Merit Medical Systems](/pages/merit-medical.md) · `/pages/merit-medical.md` · South Jordan · interventional medical devices, catheters, manufacturing, FDA regulated, life sciences
 - [Recursion Pharmaceuticals](/pages/recursion-pharmaceuticals.md) · `/pages/recursion-pharmaceuticals.md` · Salt Lake City · AI drug discovery, life sciences, computational biology
 
 ## Proof it can be done here
@@ -36,8 +37,10 @@ Generated from `**Domain:**` metadata (65/610 pages attributed so far — covera
 - [CaLycia Biosciences](/pages/calycia-biosciences.md) · `/pages/calycia-biosciences.md`: Likely needs include cell-therapy process development engineers, macrophage transfection and expansion specialists, neurosurgical and neuro-oncology clinical advisors, IND-enabling study operators, and seed or strategic capital. Macrophage engineering is technically harder than T-cell CAR workflows — shorter ex vivo lifespan and harder genetic modification — so manufacturing and persistence are c… *(reviewed 2026-06-19)*
 - [Epitel](/pages/epitel.md) · `/pages/epitel.md`: Likely needs include biomedical and electrical engineers, signal-processing and machine-learning engineers for seizure detection, regulatory affairs specialists, clinical-study operations staff, reimbursement and payer-strategy operators, and field clinical trainers. The company is small; individual contributors can have outsized impact. *(reviewed 2026-06-19)*
 - [Halia Therapeutics](/pages/halia-therapeutics.md) · `/pages/halia-therapeutics.md`: Likely needs for a company at this stage include drug-discovery scientists, medicinal chemists, clinical pharmacologists, translational and clinical-operations staff, regulatory leaders experienced in oncology and hematology trials, and the capital to move from Phase 2a toward larger, confirmatory studies. A relatively small team for the scope of the program means individual scientists and operat… *(reviewed 2026-06-18)*
+- [Merit Medical Systems](/pages/merit-medical.md) · `/pages/merit-medical.md`: Likely needs include mechanical engineers, biomedical engineers, materials scientists who understand biocompatible polymers and hydrophilic coatings, regulatory engineers who can navigate FDA 510(k) and PMA pathways, quality engineers, and manufacturing engineers for the precision extrusion and assembly lines. Operations leaders comfortable with both ISO-class cleanroom production and acquisition… *(reviewed 2026-05-09)*
 - [Recursion Pharmaceuticals](/pages/recursion-pharmaceuticals.md) · `/pages/recursion-pharmaceuticals.md`: Likely needs include people who can connect AI systems to biological reality: computational biologists, machine learning infrastructure engineers, assay development scientists, medicinal chemists, clinical operators, and product-minded platform leaders who can serve both internal programs and pharma partners. For a match engine, Recursion is most relevant to candidates who want a scaled organizat… *(reviewed 2026-05-09)*
 
 ## Also relevant (primary elsewhere)
 
 - [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `/pages/energy-fuels-white-mesa.md` — primary: energy
+- [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md` — primary: computing

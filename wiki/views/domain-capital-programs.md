@@ -1,6 +1,6 @@
 # capital-programs — sector hub
 
-Generated from `**Domain:**` metadata (65/610 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (71/610 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Money & programs
 

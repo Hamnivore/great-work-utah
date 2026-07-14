@@ -28,12 +28,12 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **Impact:** Queue noise (also a sign closing-the-loop works).
 - **Next check:** Light rate limit or content hash dedupe.
 
-### Capital / advisor guides incomplete; UIF/UTIF collision; Silicon Slopes gap
+### Capital / advisor guides incomplete; Focus sludge; helpers miss free mentors
 
-- **Seen:** 2026-07-14 (founder / advisor / wrong-slug probes)
-- **Where:** guides, angel/VC stubs, `sillicon-slopes` typo page
-- **What:** Guides omit life-sciences helpers / angels; UIF stub vs UTIF confusion; typo slug alias only.
-- **Next check:** Guide refresh; rename Silicon Slopes; cross-link UIF/Nucleus Fund.
+- **Seen:** 2026-07-14 (founder / advisor / hardware-climate probes) · notes [#69](https://github.com/Hamnivore/great-work-utah/issues/69), [#71](https://github.com/Hamnivore/great-work-utah/issues/71), [#72](https://github.com/Hamnivore/great-work-utah/issues/72)
+- **Where:** guides, angel/VC stubs, `domain-capital-programs`, `helpers` vs `find-an-advisor`, `sillicon-slopes`
+- **What:** Empty capital-programs hub still a dead end for “fund a company”; ~many resource Focus lines are CSV sludge (Aerospace/Agriculture on cleantech); `startup-capital` lags stub inventory; helpers view omits SCORE/SBDC (they’re resources); IP routing incomplete in advisor guide; UIF/UTIF + Silicon Slopes typo remain.
+- **Next check:** Guide refresh; Focus cleanup; helpers cross-link free mentors; rename Silicon Slopes.
 
 ### No full-text search; SPA still agent-leaning for humans
 
@@ -57,7 +57,7 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 
 ### Sector hubs missed RF / bio / SaaS employers
 
-- **Fixed:** 2026-07-14 (partial) — Domain on IMSAR, Fortem, L3Harris, SDL, Recursion, Teal, Wavetronix, Vector, Halia, Epitel, Qualtrics, Instructure.
+- **Fixed:** 2026-07-14 (partial) — Domain on IMSAR, Fortem, L3Harris, SDL, Recursion, Teal, Wavetronix, Vector, Halia, Epitel, Qualtrics, Instructure, plus FamilySearch, SCI, Northrop Promontory, Merit, Hexcel, Adobe.
 
 ### by-region hid non-Domain pages (Cedar / Moab / Iron)
 

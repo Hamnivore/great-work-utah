@@ -8,6 +8,7 @@
 **Primary Location:** Stamford, CT
 **Utah Location:** Salt Lake City, UT; West Valley City, UT
 **Region:** Salt Lake County
+**Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/hexcel-aerospace-carbon-fiber-2026/1600/1100

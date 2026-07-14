@@ -159,7 +159,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 
 ## Lehi
 
-- [Adobe](/pages/adobe.md) · `/pages/adobe.md` · venture
+- [Adobe](/pages/adobe.md) · `/pages/adobe.md` · computing
 - [Album](/pages/album.md) · `/pages/album.md` · resource
 - [Ancestry](/pages/ancestry.md) · `/pages/ancestry.md` · venture
 - [Halia Therapeutics](/pages/halia-therapeutics.md) · `/pages/halia-therapeutics.md` · health-bio
@@ -276,7 +276,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 
 ## Promontory
 
-- [Northrop Grumman — Promontory Facility](/pages/northrop-grumman-promontory.md) · `/pages/northrop-grumman-promontory.md` · venture
+- [Northrop Grumman — Promontory Facility](/pages/northrop-grumman-promontory.md) · `/pages/northrop-grumman-promontory.md` · aerospace-defense, materials-mfg
 
 ## Provo
 
@@ -351,7 +351,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [Epitel](/pages/epitel.md) · `/pages/epitel.md` · health-bio
 - [Evans & Sutherland](/pages/evans-and-sutherland.md) · `/pages/evans-and-sutherland.md` · work
 - [Evolution Bio](/pages/evolution-bio.md) · `/pages/evolution-bio.md` · venture
-- [FamilySearch](/pages/familysearch.md) · `/pages/familysearch.md` · venture
+- [FamilySearch](/pages/familysearch.md) · `/pages/familysearch.md` · computing
 - [Florian Solzbacher](/pages/florian-solzbacher.md) · `/pages/florian-solzbacher.md` · person
 - [Health Catalyst](/pages/health-catalyst.md) · `/pages/health-catalyst.md` · venture
 - [HELP Clinical Decision Support System](/pages/help-clinical-decision-support-system.md) · `/pages/help-clinical-decision-support-system.md` · work
@@ -387,7 +387,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [Salt Lake Chamber](/pages/salt-lake-chamber.md) · `/pages/salt-lake-chamber.md` · resource
 - [Salt Lake City Office Space for Rent](/pages/salt-lake-city-office-space-for-rent.md) · `/pages/salt-lake-city-office-space-for-rent.md` · resource
 - [Sarcos Technology and Robotics Corporation](/pages/sarcos-technology-and-robotics.md) · `/pages/sarcos-technology-and-robotics.md` · venture
-- [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md` · venture
+- [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md` · computing, health-bio
 - [Sethera Therapeutics](/pages/sethera-therapeutics.md) · `/pages/sethera-therapeutics.md` · venture
 - [Signal Peak Ventures](/pages/signal-peak-ventures.md) · `/pages/signal-peak-ventures.md` · resource
 - [Sorenson Impact Fund](/pages/sorenson-impact-fund.md) · `/pages/sorenson-impact-fund.md` · resource
@@ -421,7 +421,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 ## Salt Lake County
 
 - [Kennecott Bingham Canyon Mine](/pages/bingham-canyon-mine.md) · `/pages/bingham-canyon-mine.md` · materials-mfg
-- [Hexcel Corporation](/pages/hexcel.md) · `/pages/hexcel.md` · venture
+- [Hexcel Corporation](/pages/hexcel.md) · `/pages/hexcel.md` · aerospace-defense, materials-mfg
 
 ## Salt Lake County; Utah County
 
@@ -452,7 +452,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [Fred Lampropoulos](/pages/fred-lampropoulos.md) · `/pages/fred-lampropoulos.md` · person
 - [Karl Sun](/pages/karl-sun.md) · `/pages/karl-sun.md` · person
 - [Lucid Software](/pages/lucid-software.md) · `/pages/lucid-software.md` · venture
-- [Merit Medical Systems](/pages/merit-medical.md) · `/pages/merit-medical.md` · venture
+- [Merit Medical Systems](/pages/merit-medical.md) · `/pages/merit-medical.md` · health-bio
 
 ## Southeastern Utah
 

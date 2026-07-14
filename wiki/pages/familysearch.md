@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Domain:** computing
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://upload.wikimedia.org/wikipedia/commons/e/ec/Family_History_Library_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg

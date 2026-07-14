@@ -8,6 +8,7 @@
 **Primary Location:** Promontory, UT
 **Utah Location:** Promontory, UT
 **Region:** Promontory
+**Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/northrop-grumman-promontory-2026/1600/1100

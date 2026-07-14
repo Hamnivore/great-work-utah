@@ -23,7 +23,7 @@ This is a holding pen for ideas that might belong in a future version of the sit
 
 ## Navigation And Views
 
-- **Regional overlays (in progress, 2026-07-14).** The privacy/provenance schema, correction/removal path, generated `/locations.geojson` feed, and initial verified public sites are implemented. Omit residences, private workplaces, and individuals; use approximate anchors only for safe public areas/sites where exactness is unnecessary or unsupported. Remaining: ship and cold-test the agent-first proximity endpoint in production, expand beyond the initial 8/393 region-attributed pages, then build the human map only after the endpoint establishes a stable contract.
+- **Regional overlays (agent layer shipped, 2026-07-14).** The privacy/provenance schema, correction/removal path, generated `/locations.geojson`, and `/api/locations` proximity endpoint are live. Five cold probes discovered and used the endpoint; production verification passed. Omit residences, private workplaces, and individuals; use approximate anchors only for safe public areas/sites where exactness is unnecessary or unsupported. Remaining: expand beyond the initial 8/393 region-attributed pages and ship the human map against the same contract.
 - **Generated opportunity boards.** Views that synthesize talent needs, open problems, capital needs, and collaboration opportunities across pages.
 - **User-intent maps.** Generated pages organized around why someone arrived, not around taxonomy: "I want to work on climate," "I want to fund ambitious Utah companies," "I want to find deep-tech collaborators."
 - **Comparison pages.** Agent-readable views that compare similar ventures, labs, or programs by domain, impact bet, stage, geography, and needs.

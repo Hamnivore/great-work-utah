@@ -1,6 +1,9 @@
+import { lazy, Suspense } from 'react'
 import { BrowserRouter, Link, Route, Routes, useParams } from 'react-router-dom'
 import { MarkdownDoc } from './components/MarkdownDoc'
 import { ContributePage } from './pages/Contribute'
+
+const MapPage = lazy(() => import('./pages/Map').then((module) => ({ default: module.MapPage })))
 
 function PageRoute() {
   const { slug = '' } = useParams()
@@ -64,6 +67,9 @@ export default function App() {
             <Link to="/v/by-region" className="text-twilight-soft hover:text-twilight">
               by place
             </Link>
+            <Link to="/map" className="text-twilight-soft hover:text-twilight">
+              map
+            </Link>
             <Link to="/v/guides" className="text-twilight-soft hover:text-twilight">
               founding
             </Link>
@@ -78,6 +84,7 @@ export default function App() {
             <Route path="/p/:slug" element={<PageRoute />} />
             <Route path="/v/:view" element={<ViewRoute />} />
             <Route path="/contribute" element={<ContributePage />} />
+            <Route path="/map" element={<Suspense fallback={<p className="font-sans text-sm text-ink-soft">Loading map...</p>}><MapPage /></Suspense>} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </main>

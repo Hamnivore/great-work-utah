@@ -49,6 +49,7 @@
   "rewrites": [
     { "source": "/", "destination": "/index.html" },
     { "source": "/contribute", "destination": "/index.html" },
+    { "source": "/map", "destination": "/index.html" },
     { "source": "/p/:slug*", "destination": "/index.html" },
     { "source": "/v/:view*", "destination": "/index.html" }
   ]

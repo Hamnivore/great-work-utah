@@ -48,11 +48,21 @@ Agents received only the local site URL and one realistic user request. Prompts 
 
 ## Production verification
 
-Pending deployment. Record the commit, Vercel deployment, live valid/empty/invalid queries, CORS/cache/content type, manual discovery, static feed count, and regression checks here after the push.
+Commit `de73a1d` deployed through the GitHub/Vercel production integration and reached Ready with aliases for `greatutah.work` and `www.greatutah.work`. Vercel bundled `api/locations` as an 8.35 KB function.
+
+On the canonical host:
+
+- `near=Milford&radius_miles=20&type=venture,work` returned Utah FORGE first at 9.66 miles with an absolute page URL and exact destination precision.
+- `near=St. George&radius_miles=15&type=resource` returned Atwood Innovation Plaza at 0.95 miles.
+- An unknown place returned actionable `400` JSON listing available anchors and the lat/lon fallback.
+- A valid no-match text query returned `200`, zero results, and the non-comprehensive coverage warning.
+- `/locations.geojson` returned a FeatureCollection with the same eight titles.
+- `/llms.txt` exposed both the endpoint and the nearby procedure on the canonical host.
+- Responses had JSON content type, CORS `*`, GET/OPTIONS Allow metadata, and public caching. Root, markdown pages, generated views, and `/api/contribute` retained their expected behavior.
 
 ## Map decision gate
 
-**Local GO, production pending.** The endpoint contract survived cold re-probes and is stable enough for a human map to consume without creating a parallel data system. The map must use the same feed/contract, distinguish exact from approximate points, expose sparse coverage and provenance, support correction/removal, and avoid implying statewide completeness.
+**GO.** The endpoint contract survived cold re-probes and production verification. It is stable enough for a human map to consume without creating a parallel data system. The map must use the same feed/contract, distinguish exact from approximate points, expose sparse coverage and provenance, support correction/removal, and avoid implying statewide completeness.
 
 ## What this establishes and does not
 

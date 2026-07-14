@@ -5,7 +5,14 @@
     { "source": "/index.md", "destination": "/views/index.md", "statusCode": 308 },
     { "source": "/wiki/pages/:slug*", "destination": "/pages/:slug*", "statusCode": 308 },
     { "source": "/wiki/views/:view*", "destination": "/views/:view*", "statusCode": 308 },
-    { "source": "/wiki/meta/:doc*", "destination": "/meta/:doc*", "statusCode": 308 }
+    { "source": "/wiki/meta/:doc*", "destination": "/meta/:doc*", "statusCode": 308 },
+    { "source": "/pages/:path*.md/", "destination": "/pages/:path*.md", "statusCode": 308 },
+    { "source": "/views/:path*.md/", "destination": "/views/:path*.md", "statusCode": 308 },
+    { "source": "/meta/:path*.md/", "destination": "/meta/:path*.md", "statusCode": 308 },
+    { "source": "/llms.txt/", "destination": "/llms.txt", "statusCode": 308 },
+    { "source": "/pages/:slug([^/.]+)", "destination": "/pages/:slug.md", "statusCode": 308 },
+    { "source": "/views/:view([^/.]+)", "destination": "/views/:view.md", "statusCode": 308 },
+    { "source": "/meta/:doc([^/.]+)", "destination": "/meta/:doc.md", "statusCode": 308 }
   ],
   "rewrites": [
     { "source": "/", "destination": "/index.html" },

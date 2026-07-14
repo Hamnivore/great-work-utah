@@ -4,4 +4,4 @@ Generated from `**Domain:**` metadata (23/607 pages attributed so far — covera
 
 ## Also relevant (primary elsewhere)
 
-- [Energy Fuels / White Mesa](../pages/energy-fuels-white-mesa.md) · `/pages/energy-fuels-white-mesa.md` — primary: energy
+- [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `/pages/energy-fuels-white-mesa.md` — primary: energy

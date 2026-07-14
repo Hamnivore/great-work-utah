@@ -3,13 +3,36 @@ import { MarkdownDoc } from './components/MarkdownDoc'
 import { ContributePage } from './pages/Contribute'
 
 function PageRoute() {
-  const { slug } = useParams()
-  return <MarkdownDoc docPath={`pages/${slug}.md`} />
+  const { slug = '' } = useParams()
+  const clean = slug.replace(/\.md$/i, '')
+  return <MarkdownDoc docPath={`pages/${clean}.md`} />
 }
 
 function ViewRoute() {
-  const { view } = useParams()
-  return <MarkdownDoc docPath={`views/${view}.md`} />
+  const { view = '' } = useParams()
+  const clean = view.replace(/\.md$/i, '')
+  return <MarkdownDoc docPath={`views/${clean}.md`} />
+}
+
+function NotFound() {
+  return (
+    <div className="font-sans text-sm text-ink-soft">
+      <p>404 — not found. Don't guess slugs.</p>
+      <p className="mt-2">
+        <a href="/llms.txt" className="text-twilight">
+          /llms.txt
+        </a>
+        {' · '}
+        <a href="/views/index.md" className="text-twilight">
+          /views/index.md
+        </a>
+        {' · '}
+        <Link to="/" className="text-twilight">
+          index
+        </Link>
+      </p>
+    </div>
+  )
 }
 
 export default function App() {
@@ -35,6 +58,7 @@ export default function App() {
             <Route path="/p/:slug" element={<PageRoute />} />
             <Route path="/v/:view" element={<ViewRoute />} />
             <Route path="/contribute" element={<ContributePage />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
         <footer className="border-t border-sandstone/50 py-4 font-sans text-xs text-ink-soft">

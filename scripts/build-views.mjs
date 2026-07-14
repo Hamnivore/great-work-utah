@@ -20,16 +20,16 @@ for (const f of fs.readdirSync(PAGES).sort()) {
   const raw = fs.readFileSync(path.join(PAGES, f), 'utf8')
   const domain = meta(raw, 'Domain')
   pages.push({
-    // Path is repeated in backticks so HTML-sanitizing fetchers (which drop
-    // markdown hrefs) still expose a copyable /pages/{slug}.md URL.
-    file: f, url: `../pages/${f}`, path: `/pages/${f}`,
+    // Root-absolute hrefs so naive joiners and unnormalized `../` fetches work.
+    // Path is also repeated in backticks for HTML-sanitizing fetchers that drop hrefs.
+    file: f, url: `/pages/${f}`, path: `/pages/${f}`,
     title: (raw.match(/^# (.+)$/m) || [, f])[1].trim(),
     type: meta(raw, 'Type'),
     focus: meta(raw, 'Focus'),
     conf: (meta(raw, 'Confidence') || '?')[0],
     region: meta(raw, 'Region'),
     domains: domain ? domain.split(',').map((s) => s.trim().toLowerCase().replace(/\s*\(.*\)$/, '')) : [],
-    needs: clip(section(raw, 'What They Need Now'), 200),
+    needs: clip(section(raw, 'What They Need Now'), 400),
     needsReviewed: meta(raw, 'Needs-reviewed'),
     summary: clip(section(raw, 'Summary'), 150),
   })
@@ -44,13 +44,13 @@ const PLURAL = { venture: 'ventures', resource: 'resources', work: 'work', perso
 for (const [t, desc] of Object.entries(TYPES)) {
   const sel = pages.filter((p) => p.type === t)
   let out = `# ${t} — ${sel.length} pages\n\n${desc}. One line per page; fetch the page for detail and evidence.\n\n`
-  for (const p of sel) out += t === 'venture' && p.needs ? `${line(p).trimEnd()}\n  needs: ${clip(p.needs, 140)}\n` : line(p)
+  for (const p of sel) out += t === 'venture' && p.needs ? `${line(p).trimEnd()}\n  needs: ${clip(p.needs, 280)}\n` : line(p)
   write(`${PLURAL[t]}.md`, out)
 }
 
 // ---- needs board ----
 const needers = pages.filter((p) => p.needs)
-let needs = `# Who needs people right now\n\nEvery page's "What They Need Now," one line each — perfect recall over stated needs. Needs unreviewed for 6+ months are flagged.\n\n`
+let needs = `# Who might need people\n\nEvery page's "What They Need Now," one line each — perfect recall over stated needs. These are inferred assessments from public information, not confirmed job openings; verify directly with the company before treating one as a lead. Needs unreviewed for 6+ months are flagged.\n\n`
 const STALE = Date.now() - 183 * 24 * 3600 * 1000
 for (const p of needers) {
   const stale = p.needsReviewed && new Date(p.needsReviewed).getTime() < STALE
@@ -101,7 +101,7 @@ if (regional.length) {
 const count = (t) => pages.filter((p) => p.type === t).length
 write('index.md', `# greatutah.work — master index
 
-All pages live flat at \`/pages/{slug}.md\`; every view below is generated from page metadata and always current. Each listing repeats its path in backticks so HTML-sanitizing fetchers still expose fetchable URLs. Conventions: [meta/conventions.md](../meta/conventions.md) · attributes: [meta/attributes.md](../meta/attributes.md) · what "great work" means here: [meta/charter.md](../meta/charter.md)
+All pages live flat at \`/pages/{slug}.md\`; every view below is generated from page metadata and always current. Each listing repeats its path in backticks so HTML-sanitizing fetchers still expose fetchable URLs. Conventions: [/meta/conventions.md](/meta/conventions.md) · attributes: [/meta/attributes.md](/meta/attributes.md) · what "great work" means here: [/meta/charter.md](/meta/charter.md)
 
 ## By type
 

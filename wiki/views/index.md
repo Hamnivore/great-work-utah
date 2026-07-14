@@ -1,6 +1,6 @@
 # greatutah.work — master index
 
-All pages live flat at `/pages/{slug}.md`; every view below is generated from page metadata and always current. Each listing repeats its path in backticks so HTML-sanitizing fetchers still expose fetchable URLs. Conventions: [meta/conventions.md](../meta/conventions.md) · attributes: [meta/attributes.md](../meta/attributes.md) · what "great work" means here: [meta/charter.md](../meta/charter.md)
+All pages live flat at `/pages/{slug}.md`; every view below is generated from page metadata and always current. Each listing repeats its path in backticks so HTML-sanitizing fetchers still expose fetchable URLs. Conventions: [/meta/conventions.md](/meta/conventions.md) · attributes: [/meta/attributes.md](/meta/attributes.md) · what "great work" means here: [/meta/charter.md](/meta/charter.md)
 
 ## By type
 

@@ -71,7 +71,7 @@ export function MarkdownDoc({ docPath }: { docPath: string }) {
         return r.text()
       })
       .then((raw) => {
-        // SPA fallback: a missing file returns index.html instead of 404.
+        // Missing files may return the custom 404 HTML page.
         if (raw.trimStart().startsWith('<!doctype') || raw.trimStart().startsWith('<')) {
           throw new Error('not found')
         }
@@ -86,7 +86,22 @@ export function MarkdownDoc({ docPath }: { docPath: string }) {
     }
   }, [docPath])
 
+  useEffect(() => {
+    const current = state && state.docPath === docPath ? state : null
+    if (current?.error) {
+      document.title = '404 — Great Work — Utah'
+      return
+    }
+    if (!current?.raw) return
+    const h1 = current.raw.match(/^# (.+)$/m)?.[1]?.trim()
+    document.title = h1 ? `${h1} — Great Work — Utah` : 'Great Work — Utah'
+    return () => {
+      document.title = 'Great Work — Utah'
+    }
+  }, [state, docPath])
+
   const current = state && state.docPath === docPath ? state : null
+
   if (current?.error) {
     return (
       <div className="font-sans text-sm text-ink-soft">

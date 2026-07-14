@@ -1,0 +1,73 @@
+{
+  "topic": {
+    "280": "Close or Exit a Business",
+    "286": "Entrepreneurship Communities",
+    "288": "Funding",
+    "292": "International Trade",
+    "296": "Late Stage Growth",
+    "299": "Marketing and Sales",
+    "304": "Other",
+    "307": "Relocate a Business to Utah",
+    "314": "Start a Business",
+    "316": "Taxes and Finance"
+  },
+  "stage": {
+    "319": "Idea (pre-revenue)",
+    "320": "Product Built (pre-revenue)",
+    "321": "Product Built (revenue)",
+    "322": "Growing",
+    "323": "Ready to Exit/Sell"
+  },
+  "community": {
+    "274": "Any",
+    "302": "Multicultural",
+    "303": "New American",
+    "309": "Rural",
+    "315": "Student",
+    "317": "Veteran",
+    "318": "Women"
+  },
+  "industry": {
+    "272": "Aerospace and Defense",
+    "273": "Agriculture",
+    "275": "Arts and Entertainment and Recreation",
+    "281": "Consumer Packaged Goods",
+    "287": "Financial Services",
+    "291": "Hospitality and Food Services",
+    "297": "Life Sciences and Healthcare",
+    "298": "Manufacturing",
+    "305": "Other",
+    "313": "Software and Information Technology"
+  },
+  "location": {
+    "257": "Sevier",
+    "261": "Summit",
+    "263": "Tooele",
+    "264": "Uintah",
+    "265": "Utah",
+    "267": "Wasatch",
+    "268": "Washington",
+    "269": "Wayne",
+    "270": "Weber",
+    "276": "Beaver",
+    "277": "Box Elder",
+    "278": "Cache",
+    "279": "Carbon",
+    "282": "Daggett",
+    "283": "Davis",
+    "284": "Duchesne",
+    "285": "Emery",
+    "289": "Garfield",
+    "290": "Grand",
+    "293": "Iron",
+    "294": "Juab",
+    "295": "Kane",
+    "300": "Millard",
+    "301": "Morgan",
+    "306": "Piute",
+    "308": "Rich",
+    "310": "Salt Lake",
+    "311": "San Juan",
+    "312": "Sanpete"
+  }
+}

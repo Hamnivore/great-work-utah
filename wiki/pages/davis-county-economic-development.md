@@ -1,9 +1,9 @@
 # Davis County Economic Development
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Farmington, UT
 **Utah Location:** Davis County, UT
 **Region:** Davis County
@@ -11,7 +11,7 @@
 **Coordinates:** 40.9793744, -111.8875474
 **Location Precision:** exact
 **Location Source:** https://www.co.davis.ut.us/ced/economic-development
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.daviscountyutah.gov/ced
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Davis County Community and Economic Development Department drives economic growth by supporting businesses, fostering community development, and enhancing the region’s quality of life. It provides resources for business expansion, workforce development, and strategic planning to strengthen the local economy. Through its initiatives, the department promotes Davis County as a vibrant hub for business and community opportunities.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,9 +51,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.daviscountyutah.gov/ced)
+- [Official website](https://www.daviscountyutah.gov/ced) · https://www.daviscountyutah.gov/ced
+- Startup State listing: https://startup.utah.gov/business-resource/davis-county-economic-development/
+
 
 ## Cost / Eligibility
 
@@ -68,11 +71,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2686
-- Counties or regions: Davis, Morgan, Salt Lake, Tooele, Weber
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2686 (slug `davis-county-economic-development`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: —
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
+- Listing modified: 2024-12-11T08:07:44
+
 
 ## Evidence
 

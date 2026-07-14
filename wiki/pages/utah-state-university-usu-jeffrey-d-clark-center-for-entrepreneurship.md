@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** student entrepreneurship, university entrepreneurship, mentoring, internships, competitions
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
 **Website:** https://huntsman.usu.edu/ecenter/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -31,9 +31,12 @@ Compared with some other university pages, the public page provides a clear menu
 
 ## How To Access It
 
-Start through the USU Center for Entrepreneurship page, then choose the relevant menu path: entrepreneurship minor, speaker series, student resources, competitions, SEED, Entrepreneurship Club, calendar, or contact.
+Start with the official website, then confirm current programs before recommending.
 
-A student founder should use the center to connect coursework, mentoring, competitions, internships, and peer community rather than treating it as a single funding application.
+- [Official website](https://huntsman.usu.edu/ecenter/) · https://huntsman.usu.edu/ecenter/
+- Email: [entrepreneurship@usu.edu](mailto:entrepreneurship@usu.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship/
+
 
 ## Cost / Eligibility
 
@@ -47,11 +50,14 @@ It is less direct for a nonstudent founder who only needs capital, manufacturing
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2558
-- Counties or regions: Box Elder, Cache, Rich in the import
-- Communities: Student
-- Industries: broad industry coverage in the import
+- Startup State ID: 2558 (slug `utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship`)
 - Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: Student
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Box Elder, Cache, Rich
+- Listing modified: 2024-12-10T09:58:50
+
 
 ## Evidence
 

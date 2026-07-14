@@ -1,21 +1,22 @@
 # Utah Digital Entertainment Network
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Other, Start a Business, Arts and Entertainment and Recreation
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://utahden.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Utah Digital Entertainment Network (UDEN) is a nonprofit, voluntary trade group dedicated to uniting and promoting Utah's digital entertainment industry, encompassing film, gaming, education, and technology sectors. Founded and operated by local industry professionals, UDEN aims to foster a collaborative community by connecting creators, facilitating networking opportunities, and serving as a collective voice to drive economic growth and innovation within the state's digital entertainment landscape.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -39,10 +40,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://utahden.org/)
+- [Official website](https://utahden.org/) · https://utahden.org/
 - Email: [info@utahden.org](mailto:info@utahden.org)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-digital-entertainment-network/
+
 
 ## Cost / Eligibility
 
@@ -59,11 +62,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2748
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Communities: Not specified
-- Industries: Arts and Entertainment and Recreation, Other
+- Startup State ID: 2748 (slug `utah-digital-entertainment-network`)
 - Topics: Entrepreneurship Communities, Funding, Other, Start a Business
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Arts and Entertainment and Recreation, Other
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-13T10:05:05
+
 
 ## Evidence
 

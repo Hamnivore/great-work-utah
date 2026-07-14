@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** High
-**Focus:** SBA programs, lending, counseling, federal contracting, disaster recovery
+**Focus:** Funding, Late Stage Growth, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://www.sba.gov/district/utah
-**Updated:** 2026-05-09
+**Website:** https://www.sba.gov/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -29,7 +29,12 @@ The official page says the office helps with SBA services including funding prog
 
 ## How To Access It
 
-Use the official SBA Utah District Office page for current office locations, hours, and contact routes. The page lists Salt Lake City and St. George locations and a statewide service area.
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.sba.gov/) · https://www.sba.gov/
+- Email: [answerdesk@sba.gov](mailto:answerdesk@sba.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/small-business-administration-sba/
+
 
 ## Cost / Eligibility
 

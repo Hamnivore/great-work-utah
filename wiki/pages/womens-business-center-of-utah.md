@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** women entrepreneurs, business advising, training, startup support, growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://www.wbcutah.org/
-**Updated:** 2026-05-09
+**Website:** https://wbcutah.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -29,7 +29,12 @@ WBCUtah's public pages describe free advising, workshops, trainings, resources, 
 
 ## How To Access It
 
-New clients start by signing up for WBCUtah services, then booking an advising session through the center's system. The organization lists Salt Lake City and Cedar City offices and online routes.
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://wbcutah.org/) · https://wbcutah.org/
+- Email: [info@wbcutah.org](mailto:info@wbcutah.org)
+- Startup State listing: https://startup.utah.gov/business-resource/womens-business-center-of-utah/
+
 
 ## Cost / Eligibility
 

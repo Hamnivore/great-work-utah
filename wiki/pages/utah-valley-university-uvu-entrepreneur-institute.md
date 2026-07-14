@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
-**Focus:** student entrepreneurship, university entrepreneurship, mentoring, seed funding, competitions
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
 **Website:** https://www.uvu.edu/woodbury/entrepreneurship/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -31,9 +31,12 @@ It also reports program-level metrics such as funding awarded, students served, 
 
 ## How To Access It
 
-Start with the official Baugh Entrepreneurship Institute page and choose the program path that matches the student need: programs, events, mentoring, funding, or We Lift.
+Start with the official website, then confirm current programs before recommending.
 
-Students with an active business idea should likely book mentoring or join an event/competition cycle. Community mentors or sponsors should use the institute's engagement paths rather than cold-starting with individual students.
+- [Official website](https://www.uvu.edu/woodbury/entrepreneurship/) · https://www.uvu.edu/woodbury/entrepreneurship/
+- Email: [einstitute@uvu.edu](mailto:einstitute@uvu.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-valley-university-uvu-entrepreneur-institute/
+
 
 ## Cost / Eligibility
 
@@ -47,11 +50,14 @@ It is less direct for nonstudent companies unless they are mentoring, sponsoring
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2554
-- Counties or regions: Summit, Utah, Wasatch in the import
-- Communities: Student
-- Industries: broad industry coverage in the import
+- Startup State ID: 2554 (slug `utah-valley-university-uvu-entrepreneur-institute`)
 - Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: Student
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Summit, Utah, Wasatch
+- Listing modified: 2024-12-10T09:46:13
+
 
 ## Evidence
 

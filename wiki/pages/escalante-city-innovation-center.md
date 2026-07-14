@@ -1,13 +1,13 @@
 # Escalante City Innovation Center
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Escalante, UT
 **Utah Location:** Escalante, UT
 **Region:** Escalante
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.escalantecity-utah.com/services/escalante-city-innovation-center/
 **Map Location:** Escalante City Innovation Center, 67 N 100 W, Escalante, UT 84726
 **Coordinates:** 37.7675074, -111.6023339
 **Location Precision:** exact
@@ -19,7 +19,8 @@
 
 The Escalante City Innovation Center in Utah provides furnished private offices tailored for remote workers, each equipped with dual monitors and laptop docking stations. The center also features a spacious meeting room with a conference table and a wide-screen TV, accommodating collaborative sessions and presentations. Flexible workspace options are available at daily, weekly, and monthly rates to suit various professional needs.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -57,10 +58,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.escalantecity-utah.com/services/escalante-city-innovation-center/)
+- [Official website](https://www.escalantecity-utah.com/services/escalante-city-innovation-center/) · https://www.escalantecity-utah.com/services/escalante-city-innovation-center/
 - Email: [ssteed@escalantecity.com](mailto:ssteed@escalantecity.com)
+- Startup State listing: https://startup.utah.gov/business-resource/escalante-city-innovation-center/
+
 
 ## Cost / Eligibility
 
@@ -83,11 +86,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2584
-- Counties or regions: Beaver, Garfield, Iron, Kane, Washington
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2584 (slug `escalante-city-innovation-center`)
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Garfield, Iron, Kane, Washington
+- Listing modified: 2024-12-10T11:51:19
+
 
 ## Evidence
 

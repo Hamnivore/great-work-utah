@@ -1,9 +1,9 @@
 # Heber City Community Alliance for Main Street
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Heber City, UT
 **Utah Location:** Heber City, UT
 **Region:** Heber City
@@ -11,7 +11,7 @@
 **Coordinates:** 40.5138524, -111.4134749
 **Location Precision:** exact
 **Location Source:** https://www.gohebervalley.com/Contact-Us/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://hebercity-cams.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Community Alliance for Main Street (CAMS) is a grassroots volunteer organization dedicated to revitalizing and enhancing Heber City's Main Street. CAMS focuses on advocacy, public art installations, and fundraising events to foster a vibrant downtown that reflects the community's unique charm and history. By collaborating with local businesses, property owners, and residents, CAMS aims to transform Main Street into a bustling, pedestrian-friendly destination that serves as the economic and social hub of Heber City.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,10 +51,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://hebercity-cams.org/)
+- [Official website](https://hebercity-cams.org/) · https://hebercity-cams.org/
 - Email: [info@hebervalleychamber.com](mailto:info@hebervalleychamber.com)
+- Startup State listing: https://startup.utah.gov/business-resource/heber-city-community-alliance-for-main-street/
+
 
 ## Cost / Eligibility
 
@@ -69,11 +72,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2737
-- Counties or regions: Summit, Utah, Wasatch
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2737 (slug `heber-city-community-alliance-for-main-street`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Summit, Utah, Wasatch
+- Listing modified: 2024-12-11T10:50:24
+
 
 ## Evidence
 

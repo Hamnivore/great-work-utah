@@ -1,21 +1,22 @@
 # Women Tech Counsel
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Women, Software and Information Technology
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.womentechcouncil.com/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Women Tech Council (WTC) is a national organization dedicated to amplifying the economic impact of women in the technology sector by developing programs that support the talent pipeline from high school to executive leadership roles. Serving a community of over 10,000 professionals, WTC offers mentoring, visibility, opportunities, and networking to both women and men in technology. Their initiatives include the SheTech program, which engages high school girls in STEM, and the Women Tech Awards, recognizing outstanding contributions by women in tech.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -36,10 +37,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.womentechcouncil.com/)
+- [Official website](https://www.womentechcouncil.com/) · https://www.womentechcouncil.com/
 - Email: [info@womentechcouncil.org](mailto:info@womentechcouncil.org)
+- Startup State listing: https://startup.utah.gov/business-resource/women-tech-counsel/
+
 
 ## Cost / Eligibility
 
@@ -55,11 +58,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2626
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Startup State ID: 2626 (slug `women-tech-counsel`)
+- Topics: Entrepreneurship Communities, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
 - Communities: Women
 - Industries: Software and Information Technology
-- Topics: Entrepreneurship Communities, Late Stage Growth
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T13:03:30
+
 
 ## Evidence
 

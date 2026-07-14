@@ -1,21 +1,22 @@
 # U.S. Commercial Service
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** International Trade, Any
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** International Trade
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.trade.gov/utah-salt-lake-city
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The U.S. Commercial Service is the export promotion arm of the U.S. Department of Commerce. Their mission is to help companies expand internationally by understanding the export process, selecting export markets, finding and vetting foreign partners, advocating on bids for foreign tenders, and resolving trade barriers. Whether you are looking to make your first export sale or expand to additional markets, we offer the experience and services you need to grow international sales of your U.S. made products and services.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -35,10 +36,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.trade.gov/utah-salt-lake-city)
+- [Official website](https://www.trade.gov/utah-salt-lake-city) · https://www.trade.gov/utah-salt-lake-city
 - Email: [Daniel.Bruner@trade.gov](mailto:Daniel.Bruner@trade.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/u-s-commercial-service/
+
 
 ## Cost / Eligibility
 
@@ -53,11 +56,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 3666
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Startup State ID: 3666 (slug `u-s-commercial-service`)
+- Topics: International Trade
+- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
 - Communities: Any
 - Industries: Other
-- Topics: International Trade
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2025-05-28T10:20:05
+
 
 ## Evidence
 

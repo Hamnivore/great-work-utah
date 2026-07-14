@@ -1,21 +1,22 @@
 # EVENT: Raising Kane Business Summit
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Kane County, UT
 **Utah Location:** Kane County, UT
 **Region:** Kane County
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.raisingkanesummit.com/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Raising Kane Business Summit is Kane County's premier business event, bringing together top leaders and business owners to support the county's economic development. Hosted annually in Kanab, Utah, at the Kanab Event Center, the summit provides a platform for networking, innovation, and discussions on influential topics impacting the local economy.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -53,9 +54,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.raisingkanesummit.com/)
+- [Official website](https://www.raisingkanesummit.com/) · https://www.raisingkanesummit.com/
+- Startup State listing: https://startup.utah.gov/business-resource/event-raising-kane-business-summit/
+
 
 ## Cost / Eligibility
 
@@ -79,11 +82,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2635
-- Counties or regions: Beaver, Garfield, Iron, Kane, Washington
+- Startup State ID: 2635 (slug `event-raising-kane-business-summit`)
+- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
 - Communities: Rural
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Locations: Beaver, Garfield, Iron, Kane, Washington
+- Listing modified: 2024-12-10T13:18:14
+
 
 ## Evidence
 

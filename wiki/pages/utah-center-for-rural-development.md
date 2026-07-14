@@ -1,21 +1,22 @@
 # Utah Center for Rural Development
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Other, Rural, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Late Stage Growth, Other
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Center for Rural Development, part of Utah's Governor's Office of Economic Opportunity, collaborates with the state's rural counties, communities, and businesses to provide economic development resources. It administers programs such as the Rural Communities Opportunity Grant (RCOG), which supports unique economic development projects, and the Rural Employment Development Incentive (REDI), offering grants to businesses creating high-paying jobs in rural areas. Additionally, the center manages initiatives like the Enterprise Zone Tax Credits and the Rural Economic Development Tax Increment Financing (REDTIF) to promote business growth and infrastructure development in Utah's rural regions.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,9 +47,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
 - Email: [business@utah.gov](mailto:business@utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-center-for-rural-development/
+
 
 ## Cost / Eligibility
 
@@ -65,11 +68,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2682
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Startup State ID: 2682 (slug `utah-center-for-rural-development`)
+- Topics: Entrepreneurship Communities, Late Stage Growth, Other
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
 - Communities: Rural
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Entrepreneurship Communities, Late Stage Growth, Other
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-11T08:00:03
+
 
 ## Evidence
 

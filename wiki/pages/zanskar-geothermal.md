@@ -7,11 +7,12 @@
 **Stage:** Series B (Salt Lake City, UT)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** energy, computing
 **Region:** Salt Lake City
+**Careers:** https://jobs.lever.co/Zanskar
 **Website:** https://zanskar.com
-**Needs-reviewed:** 2026-05-09
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/zanskar-blind-geothermal-discovery-2026/1600/1100
 **Pull:** *AI applied to seismic, geophysical, and historical drilling data — the first new blind-system geothermal discovery in three decades.*
 **Relates:** cites [Official Website: Zanskar Geothermal](zanskar-geothermal-official-website.md) · https://greatutah.work/pages/zanskar-geothermal-official-website.md · https://zanskar.com
@@ -36,9 +37,7 @@ The 2025 blind-system discovery is currently the strongest demonstration that th
 
 ## What They Need Now
 
-Likely needs include geoscientists, geophysicists, and machine learning engineers comfortable with messy, high-dimensional, irreplaceable physical data. Subsurface modelers, reservoir engineers, project finance leads, and people who can navigate land access and federal lease processes are also plausibly relevant. For talent matching, Zanskar is a strong candidate for AI engineers who want their predictions to be falsified by drilling, not by leaderboard.
-
-For senior operators, the company's revenue model — license the tech, develop projects, or some hybrid — is still partly an open question, which makes commercialization, business-development, and capital-markets experience valuable.
+Lever openings (as of 2026-07-14, Salt Lake City hybrid / field) include Development Manager, Mechanical and Systems Engineer, Equipment / Geologic Technician, and Platform Engineer (AI Agent Systems) — plus related seismology/software roles as they rotate. That matches the stack: project development and field ops alongside geoscience and ML platform work. For talent matching, Zanskar remains a strong candidate for AI engineers who want predictions falsified by drilling, and for subsurface operators who can navigate land access and federal leases.
 
 ## Who Could Help
 

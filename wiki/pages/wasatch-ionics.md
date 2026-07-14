@@ -7,10 +7,10 @@
 **Stage:** Early-stage company; SBIR Phase II (as of 2025)
 **Primary Location:** unknown
 **Utah Location:** unknown
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Domain:** aerospace-defense, energy
 **Region:** unknown
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Pull:** *Army-validated Li-O₂ reserve batteries with on-board oxygen generation — a frontier chemistry bet on long sleep, high burst power.*
 
 ## Summary

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
-**Focus:** student entrepreneurship, university entrepreneurship, startups, seed funding, venture creation
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -35,9 +35,12 @@ The page also highlights student startup examples and current events, which make
 
 ## How To Access It
 
-Start with the official site, then choose the path that matches the student's stage: tours and info sessions, events, workshops, Get Seeded, Lassonde Studios, competitions, classes, or launch programs.
+Start with the official website, then confirm current programs before recommending.
 
-Students with a venture idea should likely begin with a low-commitment program or event, then move toward funding, mentoring, competitions, or company-launch support once the idea becomes concrete.
+- [Official website](https://lassonde.utah.edu/) · https://lassonde.utah.edu/
+- Email: [lassonde@utah.edu](mailto:lassonde@utah.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/university-of-utah-lassonde-entrepreneurship-institute/
+
 
 ## Cost / Eligibility
 
@@ -51,11 +54,14 @@ It is less direct for nonstudent founders, established companies, or researchers
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2582
-- Counties or regions: Davis, Morgan, Salt Lake, Tooele, Weber in the import
-- Communities: Student
-- Industries: broad industry coverage in the import
+- Startup State ID: 2582 (slug `university-of-utah-lassonde-entrepreneurship-institute`)
 - Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
+- Communities: Student
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
+- Listing modified: 2024-12-10T11:50:06
+
 
 ## Evidence
 

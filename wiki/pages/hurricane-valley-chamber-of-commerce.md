@@ -1,21 +1,22 @@
 # Hurricane Valley Chamber of Commerce
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Hurricane, UT
 **Utah Location:** Hurricane, UT
 **Region:** Hurricane
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://hvchamber.com/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Hurricane Valley Chamber of Commerce serves as a vital resource for local businesses in Hurricane, Utah. It supports the community through networking opportunities, educational events, and business promotion activities, such as ribbon-cutting ceremonies and the annual Small Business Expo. The Chamber's mission focuses on fostering economic growth, enhancing collaboration between businesses and civic leaders, and empowering small enterprises to thrive in a competitive environment​.
+The Hurricane Valley Chamber of Commerce serves as a vital resource for local businesses in Hurricane, Utah. It supports the community through networking opportunities, educational events, and business promotion activities, such as ribbon-cutting ceremonies and the annual Small Business Expo. The Chamber's mission focuses on fostering economic growth, enhancing collaboration between businesses and civic leaders, and empowering small enterprises to thrive in a competitive environment​
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,9 +47,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://hvchamber.com/)
+- [Official website](https://hvchamber.com/) · https://hvchamber.com/
+- Startup State listing: https://startup.utah.gov/business-resource/hurricane-valley-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 
@@ -64,11 +67,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2677
-- Counties or regions: Washington
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2677 (slug `hurricane-valley-chamber-of-commerce`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Washington
+- Listing modified: 2024-12-10T17:29:07
+
 
 ## Evidence
 

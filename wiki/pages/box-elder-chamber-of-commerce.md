@@ -1,9 +1,9 @@
 # Box Elder Chamber of Commerce
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Box Elder County, UT
 **Utah Location:** Box Elder County, UT
 **Updated:** 2026-07-14
@@ -13,14 +13,15 @@
 **Coordinates:** 41.5087080, -112.0156834
 **Location Precision:** exact
 **Location Source:** https://members.boxelderchamber.com/contact
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.boxelderchamber.com/
 **Layout:** field-guide
 
 ## Summary
 
 The Box Elder Chamber of Commerce supports local businesses and promotes economic development throughout Box Elder County. It provides resources, networking opportunities, and community events to help businesses grow and connect. By fostering collaboration and advocating for its members, the Chamber strengthens the local economy and enhances community prosperity.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -51,10 +52,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.boxelderchamber.com/)
+- [Official website](https://www.boxelderchamber.com/) · https://www.boxelderchamber.com/
 - Email: [monica@boxelderchamber.com](mailto:monica@boxelderchamber.com)
+- Startup State listing: https://startup.utah.gov/business-resource/box-elder-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 
@@ -70,11 +73,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2673
-- Counties or regions: Box Elder
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2673 (slug `box-elder-chamber-of-commerce`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Idea (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Box Elder
+- Listing modified: 2024-12-10T17:20:53
+
 
 ## Evidence
 

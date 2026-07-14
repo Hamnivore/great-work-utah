@@ -1,22 +1,23 @@
 # Bear River Association of Governments
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Logan, UT
 **Utah Location:** Box Elder County, UT; Cache County, UT; Rich County, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Bear River region
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://brag.utah.gov/
 **Layout:** field-guide
 
 ## Summary
 
 The Bear River Association of Governments (BRAG) supports local community and economic development by offering technical assistance to cities, towns, and counties in northern Utah. It helps with planning, strategic growth, housing, transportation, and securing funding for vital infrastructure projects to promote regional development and economic success​.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -47,9 +48,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://brag.utah.gov/)
+- [Official website](https://brag.utah.gov/) · https://brag.utah.gov/
+- Startup State listing: https://startup.utah.gov/business-resource/bear-river-association-of-governments/
+
 
 ## Cost / Eligibility
 
@@ -65,11 +68,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2668
-- Counties or regions: Box Elder, Cache, Rich
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2668 (slug `bear-river-association-of-governments`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Box Elder, Cache, Rich
+- Listing modified: 2024-12-10T16:24:06
+
 
 ## Evidence
 

@@ -12,8 +12,9 @@
 **Coordinates:** 40.7280123, -111.889359
 **Location Precision:** exact
 **Location Source:** https://www.octanner.com/en-gb/legal/terms-of-use
+**Careers:** https://www.octanner.com/company/careers
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-25
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/oc-tanner-culture-cloud-2026/1600/1100
 **Pull:** *Nearly a century of making people feel valued at work — now delivered through software.*
 
@@ -35,7 +36,9 @@ The O.C. Tanner Institute publishes the Global Culture Report annually, synthesi
 
 ## What They Need Now
 
-Software and data engineers, product designers, HR technology sales professionals, enterprise customer-success managers, and research analysts with employee-experience or organizational-psychology backgrounds. As a nearly century-old company integrating legacy recognition practices with modern SaaS, they also consistently need change-management practitioners who can help large organizations shift from informal recognition to platform-driven approaches.
+Workday-linked openings via the O.C. Tanner careers page (July 2026) include Salt Lake City HQ roles such as Sr. Applied AI Engineer, Sr. DevOps / Site Reliability Engineer, Manager of Software Test Engineering, Electrical & Automation Engineer, Sales Technology and Vendor Integrations specialists, plus manufacturing and distribution team members. Broader needs still include product designers, HR-tech sales, enterprise customer success, and organizational-psychology / culture research talent.
+
+As a nearly century-old company integrating legacy recognition with modern SaaS, they also need change-management practitioners who can help large organizations shift from informal recognition to platform-driven approaches.
 
 ## Who Could Help
 

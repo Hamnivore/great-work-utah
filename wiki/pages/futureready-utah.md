@@ -1,21 +1,22 @@
 # FutureReady Utah
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Other, Rural, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Other
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** http://futurereadyutah.org
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 Personalized Support from a Targeted Outreach Coordinator (TOC) in your county! Our TOCs offer no-cost, hands-on support for community and business leaders. Whether you need help addressing a specific challenge or are looking for ongoing guidance, your TOC can assist with hiring and retention strategies, training connections, and workplace improvements. This support can be a one-time consultation or part of a long-term partnership—whatever fits your goals.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -44,10 +45,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](http://futurereadyutah.org)
+- [Official website](http://futurereadyutah.org) · http://futurereadyutah.org
 - Email: [futureready@suu.edu](mailto:futureready@suu.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/futureready-utah/
+
 
 ## Cost / Eligibility
 
@@ -62,11 +65,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 3665
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Piute, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Startup State ID: 3665 (slug `futureready-utah`)
+- Topics: Other
+- Stages: Product Built (pre-revenue), Product Built (revenue)
 - Communities: Rural
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Other
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Piute, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2025-05-28T10:17:49
+
 
 ## Evidence
 

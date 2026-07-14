@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
-**Focus:** manufacturing, process improvement, compliance, technology, Utah
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://utah-mep.org/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -31,7 +31,12 @@ Utah MEP emphasizes custom plans and access to professionals who have worked wit
 
 ## How To Access It
 
-Start at the official site and use the contact path or marketplace categories to frame the request. A good first inquiry should name the manufacturing bottleneck clearly: quality, throughput, compliance, ERP/process discipline, leadership, sales, technology, supply chain, or workforce.
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://utah-mep.org/) · https://utah-mep.org/
+- Email: [info@utah-MEP.org](mailto:info@utah-MEP.org)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-mep/
+
 
 ## Cost / Eligibility
 
@@ -45,11 +50,14 @@ It is less useful for an idea-stage software company, a university researcher be
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2619
-- Counties or regions: statewide Utah coverage in the import
+- Startup State ID: 2619 (slug `utah-mep`)
+- Topics: Entrepreneurship Communities, Late Stage Growth
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
 - Communities: Any
 - Industries: Manufacturing
-- Topics: Entrepreneurship Communities, Late Stage Growth
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:53:49
+
 
 ## Evidence
 

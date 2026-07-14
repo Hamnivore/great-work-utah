@@ -7,11 +7,12 @@
 **Stage:** Series A ($26M raised, June 2025; ~$106M post-money valuation)
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
-**Updated:** 2026-06-18
-**Domain:** aerospace-defense, energy
 **Region:** Provo
+**Domain:** aerospace-defense, energy
 **Website:** https://utah.vc/p/hypercraft-raises-26m
-**Needs-reviewed:** 2026-06-18
+**Careers:** https://hypercraftusa.com/careers/
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/hypercraft-powertrain-provo/1600/1100
 **Hero caption:** *Placeholder image. A license-clean photograph of a Hypercraft powertrain or vehicle integration is still needed — see Open Questions.*
 **Pull:** *Standardized hybrid-electric propulsion, pitched as a platform OEMs can build on rather than a bespoke part.*
@@ -36,7 +37,7 @@ A December 2025 co-development agreement with Baker Engineering aims to jointly 
 
 ## What They Need Now
 
-Likely needs include powertrain engineers, power-electronics engineers, embedded and vehicle-control software engineers, systems-integration engineers, and defense program managers who understand military vehicle-modernization procurement. The "software-defined powertrain" positioning requires both deep hardware competence and a credible software platform, so full-stack vehicle-systems people are especially relevant.
+Likely needs include powertrain engineers, power-electronics engineers, embedded and vehicle-control software engineers, systems-integration engineers, and defense program managers who understand military vehicle-modernization procurement. The official careers page (July 2026) routes applications through Hypercraft's Eddy board and emphasizes propulsion, rugged hardware, and defense-mobility talent; third-party listings have recently included embedded systems, battery, and defense business-development roles.
 
 Strong fit for engineers who want defense-relevant hardware work in Utah and are comfortable with the longer sales cycles and compliance demands of military customers.
 

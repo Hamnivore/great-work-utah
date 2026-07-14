@@ -1,21 +1,22 @@
 # EVENT: Business Forward
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://forward.utahbusiness.com/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 Utah Business Forward is a premier conference tailored for executives seeking actionable strategies to advance their businesses. Attendees will benefit from insights shared by industry experts, in areas of acquisitions, AI, branding, entrepreneurship, people & culture, and others.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -53,9 +54,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://forward.utahbusiness.com/)
+- [Official website](https://forward.utahbusiness.com/) · https://forward.utahbusiness.com/
+- Startup State listing: https://startup.utah.gov/business-resource/business-forward/
+
 
 ## Cost / Eligibility
 
@@ -78,11 +81,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2627
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2627 (slug `business-forward`)
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Stages: —
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery
+- Listing modified: 2024-12-10T13:14:21
+
 
 ## Evidence
 

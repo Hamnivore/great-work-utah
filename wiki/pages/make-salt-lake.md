@@ -1,9 +1,9 @@
 # Make Salt Lake
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -11,7 +11,7 @@
 **Coordinates:** 40.7668049, -111.910492
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Make+Salt+Lake+663+West+100+South+Salt+Lake+City+UT
-**Website:** https://startup.utah.gov/resources/
+**Website:** http://makesaltlake.org
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 Make Salt Lake is a nonprofit makerspace in Salt Lake City, Utah, offering members 24/7 access to a variety of tools and workspaces, including 3D printers, laser cutters, CNC mills, woodworking, metalworking, textiles, and electronics labs. It fosters innovation by assisting inventors and entrepreneurs with prototyping, business planning, marketing, patent guidance, and funding opportunities.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -40,10 +41,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](http://makesaltlake.org)
+- [Official website](http://makesaltlake.org) · http://makesaltlake.org
 - Email: [info@makesaltlake.org](mailto:info@makesaltlake.org)
+- Startup State listing: https://startup.utah.gov/business-resource/make-salt-lake/
+
 
 ## Cost / Eligibility
 
@@ -57,11 +60,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2559
-- Counties or regions: Summit, Utah, Wasatch
-- Communities: Not specified
-- Industries: Consumer Packaged Goods, Manufacturing
+- Startup State ID: 2559 (slug `make-salt-lake`)
 - Topics: Entrepreneurship Communities
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
+- Communities: —
+- Industries: Consumer Packaged Goods, Manufacturing
+- Locations: Summit, Utah, Wasatch
+- Listing modified: 2024-12-10T10:40:45
+
 
 ## Evidence
 

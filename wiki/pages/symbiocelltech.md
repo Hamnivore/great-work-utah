@@ -9,8 +9,8 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://symbiocelltech.com/
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/symbiocelltech-neo-islets-diabetes-2026/1600/1100
 **Pull:** *3D islet–MSC clusters that aim to restore insulin without lifetime immunosuppression — if the immune isolation holds in humans.*
 **Relates:** cites [Official Website: SymbioCellTech](symbiocelltech-official-website.md) · https://greatutah.work/pages/symbiocelltech-official-website.md · https://symbiocelltech.com/

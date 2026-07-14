@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** aerospace, defense, hard tech, dual-use, government navigation, supply chain
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.47g.org/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -31,7 +31,12 @@ It also points to initiatives such as Project Alta, hard-tech events, a sector j
 
 ## How To Access It
 
-Start through the official 47G site, membership path, services page, events, or business resources. A founder should be precise about the defense or hard-tech bottleneck: buyer access, demonstration site, prime/supplier integration, capital readiness, workforce, or regulatory/policy navigation.
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.47g.org/) · https://www.47g.org/
+- Email: [contact@47g.org](mailto:contact@47g.org)
+- Startup State listing: https://startup.utah.gov/business-resource/47g-utah-aerospace-defense-association/
+
 
 ## Cost / Eligibility
 
@@ -45,11 +50,14 @@ It is a weaker fit for founders with no aerospace, defense, national-security, s
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2586
-- Counties or regions: statewide Utah coverage in the import
+- Startup State ID: 2586 (slug `47g-utah-aerospace-defense-association`)
+- Topics: Entrepreneurship Communities, Late Stage Growth
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
 - Communities: Any
 - Industries: Aerospace and Defense
-- Topics: Entrepreneurship Communities, Late Stage Growth
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T11:56:58
+
 
 ## Evidence
 

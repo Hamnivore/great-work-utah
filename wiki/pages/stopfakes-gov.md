@@ -1,21 +1,22 @@
 # STOPfakes.gov
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** International Trade, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** International Trade
 **Primary Location:** Washington, DC
 **Utah Location:** no verified Utah presence
 **Region:** no verified Utah presence
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.stopfakes.gov/welcome
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 STOPfakes.gov is a one-stop shop for U.S. government tools and resources on intellectual property rights (IPR). The federal agencies behind STOPfakes.gov have developed a number of resources to educate and assist businesses, particularly small and medium-sized enterprises (SMEs), as well as consumers, government officials, and the general public.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -44,10 +45,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.stopfakes.gov/welcome)
+- [Official website](https://www.stopfakes.gov/welcome) · https://www.stopfakes.gov/welcome
 - Email: [stopfakes@trade.gov](mailto:stopfakes@trade.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/stopfakes-gov/
+
 
 ## Cost / Eligibility
 
@@ -61,11 +64,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 3667
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 3667 (slug `stopfakes-gov`)
 - Topics: International Trade
+- Stages: Product Built (pre-revenue), Product Built (revenue)
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2025-05-28T10:19:14
+
 
 ## Evidence
 

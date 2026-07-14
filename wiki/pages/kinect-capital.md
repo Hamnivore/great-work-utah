@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** capital readiness, founder mentoring, investor introductions, pitch preparation
+**Focus:** Entrepreneurship Communities, Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://kinectcapital.org/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -31,9 +31,12 @@ The site also reports outcomes such as founders raising capital and alumni exits
 
 ## How To Access It
 
-The official site routes founders to an "Apply to Pitch" path hosted through Dealum. A founder should apply when they can explain the company, current traction, funding need, and why outside capital is a realistic next step.
+Start with the official website, then confirm current programs before recommending.
 
-Founders who are not ready to pitch should use Kinect as a readiness path rather than expecting immediate investor introductions.
+- [Official website](https://kinectcapital.org/) · https://kinectcapital.org/
+- Email: [info@kinectcapital.org](mailto:info@kinectcapital.org)
+- Startup State listing: https://startup.utah.gov/business-resource/kinect-capital/
+
 
 ## Cost / Eligibility
 
@@ -47,11 +50,14 @@ It is less useful for a company whose immediate need is non-dilutive SBIR/STTR s
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2641
-- Counties or regions: statewide Utah coverage in the import
-- Communities: not specified in the import
-- Industries: broad industry coverage in the import
+- Startup State ID: 2641 (slug `kinect-capital`)
 - Topics: Entrepreneurship Communities, Funding
+- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T13:23:46
+
 
 ## Evidence
 

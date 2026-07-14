@@ -9,8 +9,9 @@
 **Utah Location:** Altitude Lab, Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://www.prnewswire.com/news-releases/lab-grown-neurons-say-hello-world-and-perform-matrix-math-on-automated-platform-intactis-bio-corp-raises-250k-from-nucleus-fund-302724652.html
-**Updated:** 2026-05-09
-**Needs-reviewed:** 2026-05-09
+**Careers:** https://www.intactis.bio/
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** /img/heroes/front/intactis-bio-1600.webp
 **Hero caption:** *AI-generated illustration of a microfluidic biochip cradling living neural tissue, wired to a silicon microelectrode array — temporary synthetic placeholder, not a photograph of the actual Intactis Bio device. Replace with a license-cleared Intactis Bio image before any production use.*
 **Pull:** *3D-printed living neurons, wired to silicon, asked to do matrix math.*
@@ -36,7 +37,7 @@ For talent, this is a founding-team-plus-a-few-researchers environment: high lev
 
 ## What They Need Now
 
-Likely needs include neuroscientists comfortable with iPSC and 3D-printed tissue work, bioelectronic engineers who can iterate on the electrode and packaging interface, ML researchers willing to work on benchmark design for non-silicon substrates, lab automation engineers, and anyone who can help close the gap between "interesting demonstration" and "reproducible, fairly-benchmarked product."
+The company site (July 2026) explicitly seeks computational neuroscientists, iPSC cell-culture talent, and AI/ML engineers — matching the alpha biocomputation stack. Broader needs still include bioelectronic engineers who can iterate on electrode and packaging interfaces, lab automation engineers, and anyone who can help close the gap between "interesting demonstration" and "reproducible, fairly-benchmarked product."
 
 ## Who Could Help
 

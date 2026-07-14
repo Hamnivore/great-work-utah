@@ -1,21 +1,22 @@
 # EVENT: Silicon Slopes Tech Summit
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.siliconslopes.com/summit
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Silicon Slopes Summit is one of North America's premier tech and business events, bringing together industry leaders, entrepreneurs, and innovators for networking, keynote speeches, and workshops. The upcoming Summit is scheduled for January 13th to 17th, 2025, with events planned at both the UCCU Center at Utah Valley University and the Salt Palace Convention Center in Salt Lake City. Attendees can expect a diverse agenda featuring world-class speakers, networking opportunities, and specialized tracks such as Startup Alley, focusing on emerging businesses and investment opportunities.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -53,9 +54,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.siliconslopes.com/summit)
+- [Official website](https://www.siliconslopes.com/summit) · https://www.siliconslopes.com/summit
+- Startup State listing: https://startup.utah.gov/business-resource/silicon-slopes-tech-summit/
+
 
 ## Cost / Eligibility
 
@@ -78,11 +81,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2630
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2630 (slug `silicon-slopes-tech-summit`)
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T13:13:15
+
 
 ## Evidence
 

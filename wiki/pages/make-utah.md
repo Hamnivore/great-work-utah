@@ -1,9 +1,9 @@
 # Make Utah
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Pleasant Grove, UT
 **Utah Location:** Pleasant Grove, UT
 **Region:** Pleasant Grove
@@ -11,15 +11,16 @@
 **Coordinates:** 40.3562791, -111.7598252
 **Location Precision:** exact
 **Location Source:** https://makeutah.org/space-license-agreement/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://makeutah.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-MAKE Utah is a coworking and research development space in Pleasant Grove, Utah, designed to support technical startups and product-focused entrepreneurs. It offers access to state-of-the-art prototyping equipment, a network of industry experts, and over 50,000 square feet of collaborative work and innovation space, fostering a vibrant ecosystem for innovation and growth​.
+MAKE Utah is a coworking and research development space in Pleasant Grove, Utah, designed to support technical startups and product-focused entrepreneurs. It offers access to state-of-the-art prototyping equipment, a network of industry experts, and over 50,000 square feet of collaborative work and innovation space, fostering a vibrant ecosystem for innovation and growth​
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -40,10 +41,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://makeutah.org/)
+- [Official website](https://makeutah.org/) · https://makeutah.org/
 - Email: [info@makeutah.org](mailto:info@makeutah.org)
+- Startup State listing: https://startup.utah.gov/business-resource/make-utah/
+
 
 ## Cost / Eligibility
 
@@ -57,11 +60,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2571
-- Counties or regions: Summit, Utah, Wasatch
-- Communities: Not specified
-- Industries: Consumer Packaged Goods, Manufacturing
+- Startup State ID: 2571 (slug `make-utah`)
 - Topics: Entrepreneurship Communities
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Consumer Packaged Goods, Manufacturing
+- Locations: Summit, Utah, Wasatch
+- Listing modified: 2024-12-10T11:29:55
+
 
 ## Evidence
 

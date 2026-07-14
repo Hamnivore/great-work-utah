@@ -1,21 +1,22 @@
 # Mountainland Association of Governments
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Orem, UT
 **Utah Location:** Summit, Utah, and Wasatch counties, UT
 **Region:** Mountainland
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://mountainland.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Mountainland Association of Governments (MAG) serves Summit, Utah, and Wasatch counties, focusing on regional collaboration, access to funding and services, and advocating for local issues. MAG's programs include Aging & Family Services, Community & Economic Development, and Planning for Growth, aiming to empower communities to achieve their vision.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,10 +47,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://mountainland.org/)
+- [Official website](https://mountainland.org/) · https://mountainland.org/
 - Email: [mcarroll@magutah.gov](mailto:mcarroll@magutah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/mountainland-association-of-governments/
+
 
 ## Cost / Eligibility
 
@@ -65,11 +68,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2693
-- Counties or regions: Summit, Utah, Wasatch
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2693 (slug `mountainland-association-of-governments`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Summit, Utah, Wasatch
+- Listing modified: 2024-12-11T08:15:08
+
 
 ## Evidence
 

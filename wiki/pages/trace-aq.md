@@ -8,9 +8,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://www.traceaq.com/careers
 **Website:** https://www.traceaq.com/
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/trace-aq-wildfire-smoke-forecast-2026/1600/1100
 **Pull:** *Physics-based AI smoke forecasts that warn communities before public data says the air is dangerous.*
 **Relates:** cites [Official Website: Trace AQ](trace-aq-official-website.md) · https://greatutah.work/pages/trace-aq-official-website.md · https://www.traceaq.com/
@@ -40,7 +41,7 @@ The hard engineering problems are nonlinear coupling of wind fields, emission fa
 
 ## What They Need Now
 
-Likely needs include atmospheric scientists, computational fluid dynamicists, ML engineers focused on physical modeling, API and SaaS infrastructure engineers, healthcare and public-sector sales operators, and customer-success staff for enterprise deployments. Seed-stage capital implies pressure to prove customer acquisition alongside forecast accuracy.
+Open roles on the company careers page (as of 2026-07-14) are software-heavy: Machine Learning Engineer, Front-End Engineer, Full Stack Engineer, and Sr. Engineer (Data & Cloud Infrastructure), plus internships. That aligns with shipping Flow AQ / Aero as products while the underlying physics models stay core IP. Seed-stage capital still implies pressure to prove customer acquisition alongside forecast accuracy — healthcare and public-sector sales operators remain relevant even when not listed.
 
 ## Who Could Help
 

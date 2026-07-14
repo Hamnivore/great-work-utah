@@ -1,13 +1,13 @@
 # Snow College - GRIT Center
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Ephraim, UT
 **Utah Location:** Ephraim, UT
 **Region:** Ephraim
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.snow.edu/offices/grit-center/index.html
 **Map Location:** GRIT Center, 151 S Main St, Ephraim, UT 84627
 **Coordinates:** 39.3571168, -111.5869919
 **Location Precision:** exact
@@ -19,7 +19,8 @@
 
 The GRIT Center for Rural Entrepreneurship at Snow College, established in November 2019 with funding from the Utah State Legislature, provides experiential learning opportunities to help students develop leadership skills and an entrepreneurial mindset. Through diverse programming, including pitch competitions and the Entrepreneurship Seminar Series, students can acquire and practice entrepreneurial skills applicable across various aspects of life. The center is committed to fostering innovation and resourcefulness, encouraging students from all majors to participate in its events and initiatives.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -51,10 +52,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.snow.edu/offices/grit-center/index.html)
+- [Official website](https://www.snow.edu/offices/grit-center/index.html) · https://www.snow.edu/offices/grit-center/index.html
 - Email: [snowcollege@snow.edu](mailto:snowcollege@snow.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/snow-college-grit-center/
+
 
 ## Cost / Eligibility
 
@@ -72,11 +75,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2553
-- Counties or regions: Juab, Millard, Piute, Sanpete, Sevier, Wayne
+- Startup State ID: 2553 (slug `snow-college-grit-center`)
+- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
 - Communities: Student
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Locations: Juab, Millard, Piute, Sanpete, Sevier, Wayne
+- Listing modified: 2024-12-10T09:44:47
+
 
 ## Evidence
 

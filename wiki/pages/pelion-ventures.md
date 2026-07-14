@@ -1,21 +1,25 @@
 # Pelion Ventures
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Funding, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://pelionvp.com/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-Pelion Venture Partners, founded in 1986 and based in Salt Lake City, Utah, is a venture capital firm specializing in early-stage investments in software-based technology companies across the United States. The firm focuses on sectors such as B2B SaaS, fintech, marketplaces, cloud computing, and security, with a portfolio that includes successful companies like Cloudflare, Divvy, and Weave. In October 2021, Pelion closed its seventh fund at $365 million, exceeding its initial target of $250 million, to continue supporting innovative technology founders.
+Pelion Venture Partners, founded in 1986 and based in Salt Lake City, Utah, is a venture capital firm specializing in early-stage investments in software-based technology companies across the United States. The firm focuses on sectors such as B2B SaaS, fintech, marketplaces, cloud computing, and security, with a portfolio that includes successful companies like Cloudflare, Divvy, and Weave. In October 2021, Pelion closed its seventh fund at $365 million, exceeding its initial target of Pelion Venture Partners, founded in 1986 and based in Salt Lake City, Utah, is a venture capital firm specializing in early-stage investments in software-based technology companies across the United States. The firm focuses on sectors such as B2B SaaS, fintech, marketplaces, cloud computing, and security, with a portfolio that includes successful companies like Cloudflare, Divvy, and Weave. In October 2021, Pelion closed its seventh fund at $365 million, exceeding its initial target of $250 million, to continue supporting innovative technology founders.
 
 This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+50 million, to continue supporting innovative technology founders.
+
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -44,10 +48,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://pelionvp.com/)
+- [Official website](https://pelionvp.com/) · https://pelionvp.com/
 - Email: [info@pelionvp.com](mailto:info@pelionvp.com)
+- Startup State listing: https://startup.utah.gov/business-resource/pelion-ventures/
+
 
 ## Cost / Eligibility
 
@@ -61,11 +67,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2606
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2606 (slug `pelion-ventures`)
 - Topics: Funding
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah
+- Listing modified: 2024-12-10T12:41:58
+
 
 ## Evidence
 

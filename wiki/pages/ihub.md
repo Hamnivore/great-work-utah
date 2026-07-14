@@ -1,21 +1,22 @@
 # iHub
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Start a Business, Student, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Start a Business
 **Primary Location:** Pleasant Grove, UT
 **Utah Location:** Utah County, UT
 **Region:** Utah County
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.ihubutah.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Innovation Hub of Utah County (iHub), established in 2023, is a nonprofit incubator dedicated to assisting young entrepreneurs in Utah County. Located at 389 1300 W, Pleasant Grove, UT 84062, iHub serves as a central resource center for early-stage startups, offering a vast network of mentors to help entrepreneurs overcome obstacles and foster growth. The organization provides tangible solutions and expert advice, acting as a launchpad for entrepreneurs with validated business ideas, equipping them with the necessary tools and support to navigate the complexities of launching and scaling their ventures in today's competitive landscape.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,9 +47,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.ihubutah.org/)
+- [Official website](https://www.ihubutah.org/) · https://www.ihubutah.org/
+- Startup State listing: https://startup.utah.gov/business-resource/ihub/
+
 
 ## Cost / Eligibility
 
@@ -65,11 +68,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2620
-- Counties or regions: Utah
+- Startup State ID: 2620 (slug `ihub`)
+- Topics: Entrepreneurship Communities, Funding, Start a Business
+- Stages: Idea (pre-revenue), Product Built (pre-revenue)
 - Communities: Student
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Entrepreneurship Communities, Funding, Start a Business
+- Locations: Utah
+- Listing modified: 2024-12-10T12:57:21
+
 
 ## Evidence
 

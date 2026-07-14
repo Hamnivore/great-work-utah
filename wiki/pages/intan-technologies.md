@@ -9,8 +9,9 @@
 **Utah Location:** no verified Utah presence
 **Region:** no verified Utah presence
 **Website:** https://intantech.com/
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://intantech.com/careers.html
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/intan-technologies-neural-ics-2026/1600/1100
 **Pull:** *Off-the-shelf amplifier chips that let neuroscience labs record from hundreds of neurons without building custom front-end electronics.*
 **Relates:** cites [Official Website: Intan Technologies](intan-technologies-official-website.md) · https://greatutah.work/pages/intan-technologies-official-website.md · https://intantech.com/
@@ -40,7 +41,7 @@ The core engineering problem is low-noise, low-power amplification of microvolt-
 
 ## What They Need Now
 
-Likely needs include analog and mixed-signal IC designers, biomedical electronics engineers, firmware engineers for embedded acquisition systems, and application engineers who can support integrators worldwide. The team is small; individual leverage is high but hiring volume is limited.
+Likely needs include analog and mixed-signal IC designers, biomedical electronics engineers, firmware engineers for embedded acquisition systems, and application engineers who can support integrators worldwide. The official careers page (July 2026) lists no open positions; the team is small, so individual leverage is high but hiring volume is limited when roles do open.
 
 ## Who Could Help
 

@@ -1,21 +1,22 @@
 # Wasatch Front Regional Council
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Davis County, UT; Morgan County, UT; Salt Lake County, UT; Tooele County, UT; Weber County, UT
 **Region:** Wasatch Front
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://wfrc.org/contact/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Wasatch Front Regional Council (WFRC) is an association of governments comprising elected officials from Box Elder, Davis, Morgan, Salt Lake, Tooele, and Weber counties in Utah. As the designated Metropolitan Planning Organization (MPO) for the Salt Lake City-West Valley City and Ogden-Layton urbanized areas, WFRC coordinates transportation planning, regional visioning, and community and economic development efforts. Their mission is to build consensus and enhance quality of life by developing and implementing visions and plans for a well-functioning multi-modal transportation system, livable communities, a strong economy, and a healthy environment.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,9 +47,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://wfrc.org/contact/)
+- [Official website](https://wfrc.org/contact/) · https://wfrc.org/contact/
+- Startup State listing: https://startup.utah.gov/business-resource/wasatch-front-regional-council/
+
 
 ## Cost / Eligibility
 
@@ -64,11 +67,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2691
-- Counties or regions: Davis, Morgan, Salt Lake, Tooele, Weber
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2691 (slug `wasatch-front-regional-council`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
+- Listing modified: 2024-12-11T08:14:14
+
 
 ## Evidence
 

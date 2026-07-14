@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Stub
 **Confidence:** Low
-**Focus:** manufacturing, operational improvement, training, Utah
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.impactutah.org/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -31,9 +31,12 @@ Treat those claims as unverified until an official provider page, archive, or cu
 
 ## How To Access It
 
-The imported official site is `https://www.impactutah.org/`, and the imported email is `info@impactutah.org`. The domain check did not return readable public content during this pass.
+Start with the official website, then confirm current programs before recommending.
 
-For now, a founder should first use verified manufacturing resources such as [Utah MEP](utah-mep.md) or the [Utah Manufacturers Association](utah-manufacturers-association.md), then ask those providers whether iMpact Utah is still active or folded into another offering.
+- [Official website](https://www.impactutah.org/) · https://www.impactutah.org/
+- Email: [info@impactutah.org](mailto:info@impactutah.org)
+- Startup State listing: https://startup.utah.gov/business-resource/impact-utah/
+
 
 ## Cost / Eligibility
 
@@ -47,11 +50,14 @@ Because the provider page could not be verified, use this as a watchlist lead ra
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2621
-- Counties or regions: statewide Utah coverage in the import
+- Startup State ID: 2621 (slug `impact-utah`)
+- Topics: Entrepreneurship Communities, Late Stage Growth
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
 - Communities: Any
 - Industries: Manufacturing
-- Topics: Entrepreneurship Communities, Late Stage Growth
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:56:07
+
 
 ## Evidence
 

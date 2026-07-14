@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** small business advising, startup planning, growth, capital readiness
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://utahsbdc.org/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -29,7 +29,12 @@ Public SBDC pages describe confidential, no-cost consulting and training. Local 
 
 ## How To Access It
 
-Use the Utah SBDC site to find the nearest center or request counseling. For Startup State-style recommendations, route the founder to a local SBDC when the missing piece is basic business planning, viability, cash-flow thinking, or practical growth planning.
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://utahsbdc.org/) · https://utahsbdc.org/
+- Email: [mike.finnerty@usu.edu](mailto:mike.finnerty@usu.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/small-business-development-center-sbdc/
+
 
 ## Cost / Eligibility
 

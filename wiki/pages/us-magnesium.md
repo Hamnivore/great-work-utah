@@ -8,9 +8,10 @@
 **Primary Location:** Rowley, UT
 **Utah Location:** Rowley, UT
 **Region:** Tooele County
+**Careers:** https://usmagnesium.com/careers/
 **Website:** https://usmagnesium.com
-**Updated:** 2026-06-18
-**Needs-reviewed:** 2026-06-18
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/us-magnesium-great-salt-lake-rowley-2026/1600/1100
 **Pull:** *North America's largest primary magnesium producer — strategic metal from Great Salt Lake brine, now in bankruptcy.*
 
@@ -34,7 +35,7 @@ Whether magnesium production continues under new ownership, and on what environm
 
 ## What They Need Now
 
-In a stable scenario, needs would include chemical and electrochemical process engineers, metallurgists, industrial maintenance specialists, and environmental-compliance engineers. During bankruptcy and ownership transition, hiring posture, capital investment, and operational continuity are all uncertain. Anyone evaluating employment or supply relationships should verify current status directly.
+The public careers page does not list named openings (as of 2026-07-14); applications route through company HR email. In a stable operating scenario, needs would include chemical and electrochemical process engineers, metallurgists, industrial maintenance specialists, and environmental-compliance engineers. During bankruptcy and ownership transition, hiring posture, capital investment, and operational continuity are all uncertain — verify current status directly before treating any role as open.
 
 ## Who Could Help
 

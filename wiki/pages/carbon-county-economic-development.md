@@ -1,9 +1,9 @@
 # Carbon County Economic Development
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Carbon County, UT
 **Utah Location:** Carbon County, UT
 **Updated:** 2026-07-14
@@ -13,14 +13,15 @@
 **Coordinates:** 39.6010459, -110.7960889
 **Location Precision:** exact
 **Location Source:** https://www.carbon.utah.gov/department/economic-development/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.carbon.utah.gov/department/economic-development/
 **Layout:** field-guide
 
 ## Summary
 
 The Carbon County Economic Development Department in Utah is dedicated to enhancing the local economy by fostering a business-friendly environment for both existing and new enterprises. They engage in collaborative efforts to promote regional alignment, business development and expansion, workforce development, affordable housing, and tourism. The department also administers programs like the Rural County Grant to support business recruitment, infrastructure improvements, and workforce training.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -51,10 +52,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.carbon.utah.gov/department/economic-development/)
+- [Official website](https://www.carbon.utah.gov/department/economic-development/) · https://www.carbon.utah.gov/department/economic-development/
 - Email: [cced@carbon.utah.gov](mailto:cced@carbon.utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/carbon-county-economic-development/
+
 
 ## Cost / Eligibility
 
@@ -70,11 +73,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2702
-- Counties or regions: Carbon, Emery, Grand, San Juan
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2702 (slug `carbon-county-economic-development`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Carbon, Emery, Grand, San Juan
+- Listing modified: 2024-12-11T08:25:41
+
 
 ## Evidence
 

@@ -7,11 +7,12 @@
 **Stage:** Growth stage, S-1 publicly filed April 2026 (S-1/A May 4, 2026)
 **Primary Location:** Houston, TX
 **Utah Location:** Beaver County, UT
-**Updated:** 2026-05-09
-**Domain:** energy
 **Region:** Beaver County
+**Domain:** energy
 **Website:** https://fervoenergy.com
-**Needs-reviewed:** 2026-05-09
+**Careers:** https://fervoenergy.com/careers/
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** /img/heroes/front/fervo-1600.webp
 **Hero caption:** *Cape Station drill site, Beaver County, Utah, 2023. Hotlinked from Fervo Energy's own press release on the groundbreaking; image rights with Fervo and not yet cleared for the wiki — replace with a license-clean photograph before any production use.*
 **Pull:** *Drilling-industry tools repurposed for clean, firm geothermal — at four hundred megawatts in southwest Utah.*
@@ -37,9 +38,9 @@ Cape Station is the Utah centerpiece. Fervo's official release says southwest Ut
 
 ## What They Need Now
 
-Likely needs include drilling engineers, reservoir engineers, geoscientists, project finance talent, power-market operators, construction leaders, environmental permitting specialists, and community-relations operators.
+Open roles on Fervo's careers board (July 2026) span plant and field engineering (power, electrical, instrumentation & controls, operations, reservoir / data science), supply-chain and category managers for drilling and plant equipment, environmental permitting, software and agentic-AI engineering, and a large finance / accounting / IR bench as the company scales toward public markets. Summer internships are also listed.
 
-The candidate fit is unusually good for people coming out of oil and gas, mining, construction, utilities, or heavy industry who want climate work without abandoning field reality.
+The candidate fit remains strong for people from oil and gas, mining, construction, utilities, or heavy industry who want climate work without abandoning field reality — plus software and data talent comfortable with industrial operations.
 
 ## Who Could Help
 

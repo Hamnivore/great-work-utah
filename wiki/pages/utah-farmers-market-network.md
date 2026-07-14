@@ -1,21 +1,22 @@
 # Utah Farmers Market Network
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Agriculture, Arts and Entertainment and Recreation
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.utahfarmersmarketnetwork.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Utah Farmers Market Network (UFMN) is a collaborative organization that supports and connects farmers markets across Utah, aiming to enhance local food systems and community engagement. It provides resources such as the Farmers Market Manager Handbook, guidance on SNAP & Double Up Food Bucks programs, and initiatives to create welcoming markets, all designed to assist market managers and vendors in operating successful and inclusive markets. UFMN also maintains a directory of farmers markets throughout the state, helping consumers locate markets and access fresh, locally produced goods.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -39,10 +40,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.utahfarmersmarketnetwork.org/)
+- [Official website](https://www.utahfarmersmarketnetwork.org/) · https://www.utahfarmersmarketnetwork.org/
 - Email: [info@utahfarmersmarketnetwork.org](mailto:info@utahfarmersmarketnetwork.org)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-farmers-market-network/
+
 
 ## Cost / Eligibility
 
@@ -57,11 +60,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2684
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Communities: Not specified
-- Industries: Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Hospitality and Food Services
+- Startup State ID: 2684 (slug `utah-farmers-market-network`)
 - Topics: Entrepreneurship Communities, Late Stage Growth
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Hospitality and Food Services
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-11T08:03:03
+
 
 ## Evidence
 

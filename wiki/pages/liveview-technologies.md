@@ -9,8 +9,9 @@
 **Utah Location:** American Fork, UT
 **Region:** American Fork
 **Website:** https://www.lvt.com
-**Updated:** 2026-06-18
-**Needs-reviewed:** 2026-06-18
+**Careers:** https://job-boards.greenhouse.io/liveviewtechnologiesinc
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/lvt-mobile-surveillance-unit-2026/1600/1100
 **Pull:** *Solar-powered, rapidly deployable surveillance trailers and AI video — one of Utah's largest private security-tech companies.*
 
@@ -32,7 +33,7 @@ The core product is a self-contained mobile surveillance trailer: cameras, solar
 
 ## What They Need Now
 
-Likely needs: AI/computer-vision engineers, edge and embedded engineers, cloud/platform software engineers, hardware and manufacturing roles (LVT has a Spanish Fork manufacturing site), and go-to-market staff across enterprise and public-sector channels. The 2026 leadership expansion (President Chris Beckstead from Qualtrics; new CPO, CFO, CLO, and a CTO with Microsoft/Amazon background) signals a scale-up hiring posture.
+Greenhouse (July 2026) shows ~50 open roles spanning applied / agentic AI and MLOps, fullstack and mobile software, cloud / networking / DevOps, embedded and electrical hardware, manufacturing (assembly, welding, warehouse), field and federal GTM, and security / privacy / legal. That matches LVT 2.0: platform software plus physical fleet scale.
 
 For talent matching, LVT fits operators and engineers who want a large, fast-growing, revenue-driven Utah company and applied AI shipped into the field, rather than early-stage equity upside or deep-research work.
 

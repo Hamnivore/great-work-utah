@@ -1,21 +1,22 @@
 # St. George City Economic Development
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://sgcityutah.gov/departments/economic_development/index.php
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Economic Development Department of St. George, Utah, is focused on fostering growth through projects like Tech Ridge, a mixed-use development transforming the former airport site into a hub for tech companies, retail spaces, and recreation. With initiatives to diversify the economy, attract high-paying jobs, and improve community amenities, the city aims to establish itself as a competitive and vibrant center for innovation and lifestyle enhancement.
+The Economic Development Department of St. George, Utah, is focused on fostering growth through projects like Tech Ridge, a mixed-use development transforming the former airport site into a hub for tech companies, retail spaces, and recreation. With initiatives to diversify the economy, attract high-paying jobs, and improve community amenities, the city aims to establish itself as a competitive and vibrant center for innovation and lifestyle enhancement
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,9 +47,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://sgcityutah.gov/departments/economic_development/index.php)
+- [Official website](https://sgcityutah.gov/departments/economic_development/index.php) · https://sgcityutah.gov/departments/economic_development/index.php
+- Startup State listing: https://startup.utah.gov/business-resource/st-george-city-economic-development/
+
 
 ## Cost / Eligibility
 
@@ -64,11 +67,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2739
-- Counties or regions: Beaver, Garfield, Iron, Kane, Washington
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2739 (slug `st-george-city-economic-development`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Garfield, Iron, Kane, Washington
+- Listing modified: 2024-12-11T10:51:16
+
 
 ## Evidence
 

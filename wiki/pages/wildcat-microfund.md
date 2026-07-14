@@ -1,21 +1,22 @@
 # Wildcat MicroFund
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.weber.edu/wildcat-microfund/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Wildcat MicroFund, established in 2018 at Weber State University, provides early-stage entrepreneurs across Utah with grants of up to $3,000 to support the launch and growth of their businesses. Unlike traditional business competitions, the fund emphasizes execution by awarding funding based on the completion of specific milestones, utilizing frameworks like Lean Startup and Business Model Canvas to validate scalable business models. Since its inception, the Wildcat MicroFund has awarded over $780,000 to more than 300 entrepreneurs, fostering high-growth business opportunities throughout the state.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -53,10 +54,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.weber.edu/wildcat-microfund/)
+- [Official website](https://www.weber.edu/wildcat-microfund/) · https://www.weber.edu/wildcat-microfund/
 - Email: [wildcatmicrofund@weber.edu](mailto:wildcatmicrofund@weber.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/wildcat-microfund/
+
 
 ## Cost / Eligibility
 
@@ -79,11 +82,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2618
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2618 (slug `wildcat-microfund`)
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Stages: Idea (pre-revenue), Product Built (pre-revenue)
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:52:26
+
 
 ## Evidence
 

@@ -1,9 +1,9 @@
 # Pitted Ventures
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Funding, Consumer Packaged Goods
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Funding
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
 **Region:** Sandy
@@ -11,7 +11,7 @@
 **Coordinates:** 40.573457, -111.8979501
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Pitted+Ventures+9815+South+Monroe+Street+Sandy+UT
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://pittedventures.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 Pitted Ventures, founded in 2021 and based in Sandy, Utah, is a growth capital investment firm specializing in emerging consumer brands. Pitted Ventures distinguishes itself by offering not only financial capital but also a suite of mission-critical services through its affiliates, Pitted Labs and Pitted Logistics, which provide e-commerce channel management, logistics, fulfillment, and enhanced data analytics.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -39,10 +40,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://pittedventures.com/)
+- [Official website](https://pittedventures.com/) · https://pittedventures.com/
 - Email: [inquiries@pittedventures.com](mailto:inquiries@pittedventures.com)
+- Startup State listing: https://startup.utah.gov/business-resource/pitted-ventures/
+
 
 ## Cost / Eligibility
 
@@ -56,11 +59,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2600
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Communities: Not specified
-- Industries: Consumer Packaged Goods
+- Startup State ID: 2600 (slug `pitted-ventures`)
 - Topics: Funding
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
+- Communities: —
+- Industries: Consumer Packaged Goods
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:36:16
+
 
 ## Evidence
 

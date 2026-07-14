@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** mentoring, workshops, small business education, founder coaching
+**Focus:** Close or Exit a Business, Funding, Marketing and Sales
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://www.score.org/ut/
-**Updated:** 2026-05-09
+**Website:** https://www.score.org/utah
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -29,7 +29,11 @@ SCORE provides mentor matching, business workshops, training, and educational re
 
 ## How To Access It
 
-Use the SCORE Utah page to request a mentor, enter a ZIP code, or register for a workshop. In a wiki recommendation, SCORE is especially useful when the founder's need is broad, human, and operational rather than tied to a specific state incentive or federal grant.
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.score.org/utah) · https://www.score.org/utah
+- Startup State listing: https://startup.utah.gov/business-resource/score/
+
 
 ## Cost / Eligibility
 

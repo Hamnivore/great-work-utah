@@ -1,9 +1,9 @@
 # Uintah County Economic Development
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Uintah County, UT
 **Utah Location:** Uintah County, UT
 **Region:** Uintah County
@@ -11,7 +11,7 @@
 **Coordinates:** 40.4571164, -109.5261855
 **Location Precision:** exact
 **Location Source:** https://business.uintah.gov/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://business.uintah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Uintah County Economic Development Department in Utah fosters sustainable economic growth by supporting local businesses, attracting new enterprises, and enhancing residents' quality of life. It offers resources such as grants, business incentives, and strategic planning to promote a vibrant economy. The department collaborates with public and private partners to provide programs and services that encourage entrepreneurship and job creation within the region.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,10 +51,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://business.uintah.gov/)
+- [Official website](https://business.uintah.gov/) · https://business.uintah.gov/
 - Email: [tcampbell@uintah.utah.gov](mailto:tcampbell@uintah.utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/uintah-county-economic-development/
+
 
 ## Cost / Eligibility
 
@@ -69,11 +72,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2697
-- Counties or regions: Daggett, Duchesne, Uintah
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2697 (slug `uintah-county-economic-development`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Daggett, Duchesne, Uintah
+- Listing modified: 2024-12-11T08:19:17
+
 
 ## Evidence
 

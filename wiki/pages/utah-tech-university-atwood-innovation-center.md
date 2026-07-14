@@ -1,9 +1,9 @@
 # Utah Tech University - Atwood Innovation Center
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -11,7 +11,7 @@
 **Coordinates:** 37.1004513, -113.5705685
 **Location Precision:** exact
 **Location Source:** https://innovation.utahtech.edu/contact-us/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://innovation.utahtech.edu/business-resource-center-at-dsu/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Business Resource Center (BRC) at Utah Tech University, sponsored by Zions Bank, offers complimentary consultations and services to assist entrepreneurs in launching or expanding their businesses. As a comprehensive support hub, the BRC provides guidance on business planning, marketing strategies, LLC formation, government contracting, and global exporting. Additionally, the center is dedicated to fostering entrepreneurship in Southern Utah's rural areas, currently serving Washington and Kane Counties.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -51,10 +52,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://innovation.utahtech.edu/business-resource-center-at-dsu/)
+- [Official website](https://innovation.utahtech.edu/business-resource-center-at-dsu/) · https://innovation.utahtech.edu/business-resource-center-at-dsu/
 - Email: [businesshelp@utahtech.edu](mailto:businesshelp@utahtech.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-tech-university-atwood-innovation-center/
+
 
 ## Cost / Eligibility
 
@@ -72,11 +75,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2556
-- Counties or regions: Beaver, Garfield, Iron, Kane, Washington
+- Startup State ID: 2556 (slug `utah-tech-university-atwood-innovation-center`)
+- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
 - Communities: Student
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Locations: Beaver, Garfield, Iron, Kane, Washington
+- Listing modified: 2024-12-10T09:55:26
+
 
 ## Evidence
 

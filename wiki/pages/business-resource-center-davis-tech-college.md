@@ -1,22 +1,23 @@
 # Business Resource Center - Davis Tech College
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Kaysville, UT
 **Utah Location:** Kaysville, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Kaysville
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://brc.davistech.edu/
 **Layout:** field-guide
 
 ## Summary
 
 The Business Resource Center (BRC) at Davis Technical College is an essential partner for business owners and entrepreneurs striving to succeed. Whether you’re launching a new venture or looking to grow an existing business, we provide the tools, expertise, and connections to drive your success. From crafting a solid business plan to offering workforce training and development, identifying funding sources for your startup, or navigating government contracting opportunities, the Business Resource Center serves as the catalyst to help your business thrive. Here are some of the resources we offer: business consulting and mentoring, assistance with government contracting, open lobby workspace, incubator office and shared membership space rentals, conference room rentals, business financial planning, and much more.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -54,10 +55,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://brc.davistech.edu/)
+- [Official website](https://brc.davistech.edu/) · https://brc.davistech.edu/
 - Email: [brc@davistech.edu](mailto:brc@davistech.edu)
+- Startup State listing: https://startup.utah.gov/business-resource/business-resource-center-davis-tech-college/
+
 
 ## Cost / Eligibility
 
@@ -80,11 +83,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2575
-- Counties or regions: Davis, Morgan, Salt Lake, Tooele, Weber
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2575 (slug `business-resource-center-davis-tech-college`)
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
+- Listing modified: 2025-01-13T12:02:23
+
 
 ## Evidence
 

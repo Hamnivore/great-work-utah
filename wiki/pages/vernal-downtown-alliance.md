@@ -1,21 +1,22 @@
 # Vernal Downtown Alliance
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
 **Region:** Vernal
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.vernaldowntown.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Vernal Downtown Alliance is a nonprofit organization dedicated to revitalizing and promoting Vernal's historic downtown area. It provides networking opportunities for business owners, connects them to essential resources, and collaborates with local agencies to create a prosperous and welcoming downtown environment. Guided by the Main Street Approach, the Alliance focuses on economic vitality, design, promotion, and organization to strengthen the community's core.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,10 +47,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.vernaldowntown.org/)
+- [Official website](https://www.vernaldowntown.org/) · https://www.vernaldowntown.org/
 - Email: [vernaldt@gmail.com](mailto:vernaldt@gmail.com)
+- Startup State listing: https://startup.utah.gov/business-resource/vernal-downtown-alliance/
+
 
 ## Cost / Eligibility
 
@@ -65,11 +68,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2696
-- Counties or regions: Daggett, Duchesne, Uintah
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2696 (slug `vernal-downtown-alliance`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Daggett, Duchesne, Uintah
+- Listing modified: 2024-12-11T08:18:18
+
 
 ## Evidence
 

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** government contracting, procurement, defense industrial base, supplier readiness
+**Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://business.utah.gov/apex/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -33,9 +33,12 @@ The official page describes free statewide one-on-one counseling, group counseli
 
 ## How To Access It
 
-The program page routes businesses through county-specific service links and regional managers. A founder should start by selecting the county where the business is located and requesting APEX services.
+Start with the official website, then confirm current programs before recommending.
 
-For live recommendations, verify the current county link, regional manager, and workshop calendar before sending a founder into the process.
+- [Official website](https://business.utah.gov/apex/) · https://business.utah.gov/apex/
+- Email: [apex@utah.gov](mailto:apex@utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/apex-accelerator/
+
 
 ## Cost / Eligibility
 

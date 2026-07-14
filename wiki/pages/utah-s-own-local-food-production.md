@@ -1,21 +1,22 @@
 # Utah's Own - Local Food Production
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Rural, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://utahsown.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 Utah's Own is a program by the Utah Department of Agriculture and Food designed to connect consumers with local farmers, ranchers, and artisans. It encourages purchasing locally produced goods to support community businesses, enhance product quality, and preserve agricultural spaces. The initiative includes a directory of members, such as farms, specialty food producers, and artisans, and promotes local goods through marketing campaigns and events like farmers' markets and artisan festivals.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -36,10 +37,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://utahsown.org/)
+- [Official website](https://utahsown.org/) · https://utahsown.org/
 - Email: [utahsown@utah.gov](mailto:utahsown@utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/utahs-own-local-food-production/
+
 
 ## Cost / Eligibility
 
@@ -55,11 +58,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2597
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Startup State ID: 2597 (slug `utahs-own-local-food-production`)
+- Topics: Entrepreneurship Communities, Late Stage Growth
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
 - Communities: Rural
 - Industries: Agriculture
-- Topics: Entrepreneurship Communities, Late Stage Growth
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:23:57
+
 
 ## Evidence
 

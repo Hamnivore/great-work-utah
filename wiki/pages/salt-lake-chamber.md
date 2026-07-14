@@ -1,9 +1,9 @@
 # Salt Lake Chamber
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -11,7 +11,7 @@
 **Coordinates:** 40.760903, -111.885813
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Salt+Lake+Chamber+175+East+400+South+Salt+Lake+City+UT
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://slchamber.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Salt Lake Chamber is Utah's largest and longest-standing business association, representing approximately 7,700 businesses and nearly 500,000 jobs across all 29 counties. The Chamber serves as the voice of business, supporting member success and championing community prosperity through advocacy, networking opportunities, and various programs aimed at fostering economic growth and addressing key policy issues.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,10 +51,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://slchamber.com/)
+- [Official website](https://slchamber.com/) · https://slchamber.com/
 - Email: [info@slchamber.com](mailto:info@slchamber.com)
+- Startup State listing: https://startup.utah.gov/business-resource/salt-lake-chamber/
+
 
 ## Cost / Eligibility
 
@@ -69,11 +72,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2676
-- Counties or regions: Salt Lake
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2676 (slug `salt-lake-chamber`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Salt Lake
+- Listing modified: 2024-12-10T17:27:26
+
 
 ## Evidence
 

@@ -1,9 +1,9 @@
 # Park City Chamber of Commerce
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT
 **Region:** Park City
@@ -11,7 +11,7 @@
 **Coordinates:** 40.6641392, -111.4972276
 **Location Precision:** exact
 **Location Source:** https://www.parkcitychamber.com/about-us/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.parkcitychamber.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Park City Chamber of Commerce & Visitors Bureau embodies the spirit of "Mountainkind," a philosophy that highlights the stewardship and community values cherished in the mountains of Park City. It promotes a culture of neighborly support, trail maintenance, volunteerism, and hospitality toward visitors, reflecting the collaborative ethos of its over 1,000 local business partners. The Chamber provides resources such as business services, employee benefits, networking opportunities, and policy advocacy, while encouraging engagement in community life through outdoor activities, volunteering, and cultural appreciation.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,9 +51,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.parkcitychamber.com/)
+- [Official website](https://www.parkcitychamber.com/) · https://www.parkcitychamber.com/
+- Startup State listing: https://startup.utah.gov/business-resource/park-city-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 
@@ -68,11 +71,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2711
-- Counties or regions: Summit
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2711 (slug `park-city-chamber-of-commerce`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Summit
+- Listing modified: 2024-12-11T10:06:30
+
 
 ## Evidence
 

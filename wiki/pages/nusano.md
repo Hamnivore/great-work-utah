@@ -13,8 +13,9 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Nusano+4061+West+Parkway+Boulevard+West+Valley+City+UT
 **Website:** https://nusano.com
+**Careers:** https://nusano.com/careers/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-18
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/nusano-radioisotope-accelerator-2026/1600/1100
 **Pull:** *Building domestic supply for the radioisotopes that next-generation cancer drugs depend on.*
 
@@ -38,7 +39,7 @@ Public coverage indicates Nusano has begun lining up demand and partnerships —
 
 ## What They Need Now
 
-Likely needs include accelerator physicists, radiochemists, nuclear and target engineers, cGMP manufacturing-process engineers, quality and regulatory staff spanning both nuclear and pharmaceutical regimes, and commercial leaders to convert reservations into long-term supply agreements. This is hands-on, heavily regulated, technically demanding work.
+Likely needs include accelerator physicists, radiochemists, nuclear and target engineers, cGMP manufacturing-process engineers, quality and regulatory staff spanning both nuclear and pharmaceutical regimes, and commercial leaders to convert reservations into long-term supply agreements. Apply via the Nusano careers board (July 2026); the company is actively recruiting around the West Valley City production ramp. This is hands-on, heavily regulated, technically demanding work.
 
 For talent matching, Nusano fits physicists, chemists, and engineers who want a direct line from bench work to patient outcomes, and who are drawn to building first-of-its-kind production capability rather than incremental product work.
 

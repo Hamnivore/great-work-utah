@@ -8,9 +8,10 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Careers:** https://www.getweave.com/careers/
 **Website:** https://www.getweave.com
-**Updated:** 2026-06-18
-**Needs-reviewed:** 2026-06-18
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/weave-lehi-hq/1600/1100
 **Hero caption:** *Placeholder image. Weave is headquartered in Lehi, Utah; a license-clean photo of its office or product has not yet been sourced.*
 **Pull:** *Applied AI shipped into tens of thousands of small healthcare practices — voice agents and automated workflows where the receptionist used to be the bottleneck.*
@@ -35,9 +36,9 @@ For talent, this is a good home for ML and product engineers focused on voice AI
 
 ## What They Need Now
 
-Likely needs include voice-AI and conversation-design engineers, ML evaluation and guardrail specialists, healthcare-compliance (HIPAA) engineers, integration engineers for practice-management systems, and product managers with small-business SaaS experience. Because Weave is a mid-cap public company, it also values people comfortable shipping customer-driven roadmaps at a steady, accountable pace.
+Open roles (Ashby board via careers page, as of 2026-07-14) skew Lehi HQ and US remote: product managers (integrations, messaging, payments/RCM), staff/senior platform and backend engineers, payments software, data infrastructure, GenAI/ML engineers, product analysts, payments operations leadership, customer success/education, and go-to-market (SDR, partner sales, medical BD, CMO). HIPAA-compliant voice/AI and practice-management integrations remain the product core.
 
-For a match engine, Weave fits engineers who want to ship applied AI into production with real users on the other end of every interaction, inside an established public company. It is less of a fit for someone seeking early-stage equity upside, model-building research, or startup-scale ambiguity.
+For a match engine, Weave fits engineers who want to ship applied AI into production with real users, inside an established public company — less early-stage equity upside, more accountable mid-cap SaaS pace.
 
 ## Who Could Help
 

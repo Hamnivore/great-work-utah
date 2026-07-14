@@ -1,9 +1,9 @@
 # St George Area Chamber of Commerce
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -11,7 +11,7 @@
 **Coordinates:** 37.1105474, -113.5810923
 **Location Precision:** exact
 **Location Source:** https://stgeorgechamber.com/about/boards/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://stgeorgechamber.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The St. George Area Chamber of Commerce serves as a vital resource for businesses in the region, offering advocacy, networking, and training opportunities to its members. With a focus on fostering economic growth, the chamber supports over 1,000 businesses and nonprofits, aiming to create a thriving local economy and prosperous community. Through collaborations with government leaders and economic partners, it helps reduce barriers to business success and encourages innovation and free-market competition.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,9 +51,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://stgeorgechamber.com/)
+- [Official website](https://stgeorgechamber.com/) · https://stgeorgechamber.com/
+- Startup State listing: https://startup.utah.gov/business-resource/st-george-area-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 
@@ -68,11 +71,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2705
-- Counties or regions: Washington
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2705 (slug `st-george-area-chamber-of-commerce`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Washington
+- Listing modified: 2024-12-11T09:56:27
+
 
 ## Evidence
 

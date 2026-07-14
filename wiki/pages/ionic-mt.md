@@ -7,11 +7,12 @@
 **Stage:** Private; Series B ($29M, oversubscribed, July 2025)
 **Primary Location:** Provo, UT
 **Utah Location:** Juab County, UT (Silicon Ridge / Halloysite Hills deposits); Provo, UT (HQ)
-**Updated:** 2026-06-19
-**Domain:** energy, materials-mfg
 **Region:** Juab County
+**Domain:** energy, materials-mfg
 **Website:** https://ionicmt.com
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://ionicmt.com/company/careers
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/ionic-mt-manufacturing-2026/1600/1100
 **Pull:** *Utah's halloysite clay deposits hold a domestic answer to the EV battery anode problem — nano-silicon from a natural nanostructured mineral, no complex synthesis required.*
 **Relates:** cites [Official Website: Ionic MT](ionic-mt-official-website.md) · https://greatutah.work/pages/ionic-mt-official-website.md · https://ionicmt.com
@@ -36,7 +37,7 @@ Ionic MT is building a vertically integrated operation spanning geology, mining,
 
 ## What They Need Now
 
-Process engineers and electrochemists comfortable working across mining, materials processing, and battery cell development. Supply chain and business development people who understand automotive and defense procurement qualification cycles. The company spans geology, chemistry, and advanced manufacturing — unusual vertical integration that suits engineers who can operate across all three domains.
+Open role on the Ionic MT careers page (July 2026): Chemical Engineer – Hydrometallurgy & Separation Processes (acid leaching, impurity removal, crystallization, solids handling for high-purity materials). Broader needs still include process engineers and electrochemists across mining-to-cell development, plus supply-chain and business-development people who understand automotive and defense procurement qualification cycles.
 
 ## Who Could Help
 

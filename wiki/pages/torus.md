@@ -7,11 +7,12 @@
 **Stage:** Growth ($200M from Magnetar, Sept 2025; ~$267M+ raised to date)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Domain:** energy, materials-mfg
 **Region:** Salt Lake City
+**Careers:** https://www.torus.co/careers
 **Website:** https://www.torus.co/
-**Needs-reviewed:** 2026-06-18
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/torus-flywheel-slc/1600/1100
 **Hero caption:** *Placeholder image. A license-clean photograph of a Torus flywheel unit or the GigaOne campus is still needed — see Open Questions.*
 **Pull:** *Spinning steel plus batteries, built in Utah, aimed at the grid's hardest short-duration problems.*
@@ -37,7 +38,7 @@ The manufacturing story is central. Torus grew from a prototype in Springville, 
 
 ## What They Need Now
 
-Likely needs include mechanical engineers with rotating-machinery or energy-storage backgrounds, power-electronics engineers, grid-systems and interconnection engineers, controls and embedded-software engineers, manufacturing and operations leaders to stand up GigaOne, and field-deployment and O&M technicians. The April 2026 equipment-financing facility from Trinity Capital points to a hardware-heavy capital structure where manufacturing throughput is the bottleneck. [Source: Trinity Capital Equipment Financing for Torus](torus-trinity-equipment-financing.md)
+Open roles (as of 2026-07-14 careers board) concentrate on standing up GigaOne manufacturing and field ops in the Salt Lake area: mechanical engineers through senior/principal and a Director of Mechanical Engineering; manufacturing engineers and leads; CNC fabrication, tube-laser, and waterjet specialists; manufacturing technicians; staff embedded-systems / firmware engineers; electrical testing technicians; journeyman electricians for field operations; and an environmental engineer. The April 2026 equipment-financing facility from Trinity Capital points to a hardware-heavy capital structure where manufacturing throughput is the bottleneck. [Source: Trinity Capital Equipment Financing for Torus](torus-trinity-equipment-financing.md)
 
 The candidate fit is unusually strong for engineers coming from heavy industry, utilities, defense manufacturing, or aerospace who want frontier energy work without leaving Utah.
 

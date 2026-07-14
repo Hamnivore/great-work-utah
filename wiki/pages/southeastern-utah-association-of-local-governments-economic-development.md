@@ -1,21 +1,22 @@
 # Southeastern Utah Association of Local Governments - Economic Development
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County
 **Region:** Southeastern Utah
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://seualg.utah.gov/index.php/economic-development/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Southeastern Utah Association of Local Governments (SEUALG) serves Carbon, Emery, Grand, and San Juan counties, focusing on economic development, community planning, and human services to enhance regional prosperity. Through initiatives like the Comprehensive Economic Development Strategy (CEDS) and the Revolving Loan Fund (RLF), SEUALG supports job creation, infrastructure improvements, and business growth. Additionally, the organization offers programs in housing rehabilitation, transportation planning, food security, and weatherization to improve residents' quality of life.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,10 +47,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://seualg.utah.gov/index.php/economic-development/)
+- [Official website](https://seualg.utah.gov/index.php/economic-development/) · https://seualg.utah.gov/index.php/economic-development/
 - Email: [ggamber@seualg.utah.gov](mailto:ggamber@seualg.utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/southeastern-utah-association-of-local-governments-economic-development/
+
 
 ## Cost / Eligibility
 
@@ -65,11 +68,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2703
-- Counties or regions: Carbon, Emery, Grand, San Juan
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2703 (slug `southeastern-utah-association-of-local-governments-economic-development`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Carbon, Emery, Grand, San Juan
+- Listing modified: 2024-12-11T08:26:50
+
 
 ## Evidence
 

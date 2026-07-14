@@ -8,9 +8,10 @@
 **Primary Location:** El Segundo, CA
 **Utah Location:** Utah Test and Training Range, UT
 **Region:** West Desert
+**Careers:** https://job-boards.greenhouse.io/vardaspace
 **Website:** https://spacenews.com/varda-capsule-lands-in-utah/
-**Updated:** 2026-06-18
-**Needs-reviewed:** 2026-06-18
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/varda-space-capsule-reentry-2026/1600/1100
 **Pull:** *Growing pharmaceutical crystals in orbit and bringing them home — with Utah's test range as an early landing site.*
 
@@ -32,9 +33,7 @@ Varda's model combines orbital manufacturing spacecraft (integrated with partner
 
 ## What They Need Now
 
-Likely needs include aerospace systems engineers, thermal-protection and reentry specialists, pharmaceutical formulation scientists, regulatory and FAA licensing staff, and mission operations people. Utah-based roles are unlikely to be central unless Varda or a partner re-establishes regular UTTR recoveries.
-
-For Utah talent, the more realistic connection is through UTTR operations, range safety, recovery logistics, and the defense-space ecosystem — not Varda headquarters hiring.
+Greenhouse openings (as of 2026-07-14) are California HQ–centric: flight/mission/embedded software, GNC, mechanisms and fluid systems for pharmaceutical payloads, crystallization science, lab technicians, facilities/electrical trades, and many internships. Utah-based roles are not listed; Utah talent connection remains through UTTR operations, range safety, recovery logistics, and the defense-space ecosystem rather than Varda headquarters hiring — unless landings return to Utah at scale.
 
 ## Who Could Help
 

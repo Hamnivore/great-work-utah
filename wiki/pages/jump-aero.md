@@ -9,8 +9,9 @@
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://jumpaero.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://jumpaero.com/careers
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/jump-aero-2026/1600/1100
 **Pull:** *A single-seat eVTOL purpose-built for emergency first response — because minutes matter in places roads can't reach.*
 **Relates:** cites [Official Website: Jump Aero](jump-aero-official-website.md) · https://greatutah.work/pages/jump-aero-official-website.md · https://jumpaero.com
@@ -35,7 +36,7 @@ Dietrich's prior work at Terrafugia (a VTOL-to-fixed-wing transition aircraft) g
 
 ## What They Need Now
 
-As a development-stage company, Jump Aero likely needs aeronautical engineers, flight dynamics and controls specialists, battery and propulsion engineers, and FAA certification specialists. EMS domain expertise — paramedics and EMS system designers who can shape vehicle design around real operational workflows — would also be distinctive contributors.
+The Jump Aero careers page (July 2026) lists concrete openings: embedded systems (DO-160G), control systems (DO-178 desired), power electronics (DO-254), battery systems (DO-311A), mechanical engineering with aviation certification experience, composite fabrication / composites technicians, electrical / wire-harness technicians, business development, and a test pilot (FBW experience desired). That mix matches a development-stage eVTOL program pushing toward certification and hardware build. EMS domain expertise remains a distinctive add.
 
 ## Who Could Help
 

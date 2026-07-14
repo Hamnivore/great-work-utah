@@ -1,9 +1,9 @@
 # Delta Area Chamber of Commerce
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Delta, UT
 **Utah Location:** Delta, UT
 **Region:** Delta
@@ -11,7 +11,7 @@
 **Coordinates:** 39.3523060, -112.5764185
 **Location Precision:** exact
 **Location Source:** https://www.deltautahchamber.com/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.deltautahchamber.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Delta Area Chamber of Commerce (DACC) is dedicated to promoting the economic, civic, and cultural prosperity of Delta, Utah, and its surrounding areas. It offers a variety of services, such as business marketing assistance, networking opportunities, and community-focused events like the Snow Goose Festival, fostering a vibrant and collaborative environment for local businesses and residents to thrive.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,10 +51,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.deltautahchamber.com/)
+- [Official website](https://www.deltautahchamber.com/) · https://www.deltautahchamber.com/
 - Email: [deltautahchamber@gmail.com](mailto:deltautahchamber@gmail.com)
+- Startup State listing: https://startup.utah.gov/business-resource/delta-area-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 
@@ -69,11 +72,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2717
-- Counties or regions: Millard
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2717 (slug `delta-area-chamber-of-commerce`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Millard
+- Listing modified: 2024-12-11T10:16:52
+
 
 ## Evidence
 

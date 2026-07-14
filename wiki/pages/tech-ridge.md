@@ -1,9 +1,9 @@
 # Tech Ridge
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -11,7 +11,7 @@
 **Coordinates:** 37.0972254, -113.5941368
 **Location Precision:** exact
 **Location Source:** https://business.stgeorgechamber.com/members/member/tech-ridge-9578
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://techridge.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 Tech Ridge is a 180-acre mixed-use development in St. George, Utah, transforming the former municipal airport site into a hub for innovative tech companies, residential communities, and recreational spaces. The master plan includes over one million square feet of office space, diverse retail zones, and a variety of housing options, all integrated with 60 acres of trails, parks, and open spaces to promote a dynamic social lifestyle. Current developments feature the Planstin Building, Hangar C, and the Container Park, with companies like Zonos and Intergalactic establishing their presence, contributing to the region's economic growth and technological advancement.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -57,9 +58,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://techridge.com/)
+- [Official website](https://techridge.com/) · https://techridge.com/
+- Startup State listing: https://startup.utah.gov/business-resource/tech-ridge/
+
 
 ## Cost / Eligibility
 
@@ -82,11 +85,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2632
-- Counties or regions: Beaver, Garfield, Iron, Kane, Washington
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2632 (slug `tech-ridge`)
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Garfield, Iron, Kane, Washington
+- Listing modified: 2024-12-10T13:11:05
+
 
 ## Evidence
 

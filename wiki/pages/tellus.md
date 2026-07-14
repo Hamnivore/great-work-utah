@@ -9,8 +9,8 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://tellusensors.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/tellus-2026/1600/1100
 **Pull:** *Twenty years of calibration science turned into a low-cost sensor network that gives communities real-time air quality data at a fraction of what EPA-grade monitors cost.*
 **Relates:** cites [Official Website: TELLUS Networked Sensor Solutions](tellus-official-website.md) · https://greatutah.work/pages/tellus-official-website.md · https://tellusensors.com

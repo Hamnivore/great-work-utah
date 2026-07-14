@@ -1,21 +1,22 @@
 # Startup Ignition Ventures
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Funding, Any, Software and Information Technology
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Funding
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://startupignition.com/ventures
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 Startup Ignition Ventures is an Utah-based early stage pre-seed venture capital firm investing first checks into visionary startups with validated potential. The firm focuses on sectors such as technology, software, and SaaS.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -35,10 +36,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://startupignition.com/ventures)
+- [Official website](https://startupignition.com/ventures) · https://startupignition.com/ventures
 - Email: [ventures@startupignition.com](mailto:ventures@startupignition.com)
+- Startup State listing: https://startup.utah.gov/business-resource/startup-ignition-ventures/
+
 
 ## Cost / Eligibility
 
@@ -53,11 +56,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 3386
-- Counties or regions: Utah
+- Startup State ID: 3386 (slug `startup-ignition-ventures`)
+- Topics: Funding
+- Stages: Idea (pre-revenue)
 - Communities: Any
 - Industries: Software and Information Technology
-- Topics: Funding
+- Locations: Utah
+- Listing modified: 2025-05-28T10:23:44
+
 
 ## Evidence
 

@@ -1,22 +1,23 @@
 # Business Technical Assistance Center
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Price, UT
 **Utah Location:** Price, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Price
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.btac.business/
 **Layout:** field-guide
 
 ## Summary
 
-The Business & Technical Assistance Center (BTAC), located in Price, Utah, offers coworking spaces, business incubation services, and resources for entrepreneurs. With amenities like fiber internet, 24-hour access, commercial kitchen rentals, and flexible office space plans, it aims to foster innovation and economic growth in southeastern Utah through partnerships with local businesses and government initiatives.
+The Business & Technical Assistance Center (BTAC), located in Price, Utah, offers coworking spaces, business incubation services, and resources for entrepreneurs. With amenities like fiber internet, 24-hour access, commercial kitchen rentals, and flexible office space plans, it aims to foster innovation and economic growth in southeastern Utah through partnerships with local businesses and government initiatives
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -54,10 +55,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.btac.business/)
+- [Official website](https://www.btac.business/) · https://www.btac.business/
 - Email: [info@btac.business](mailto:info@btac.business)
+- Startup State listing: https://startup.utah.gov/business-resource/business-technical-assistance-center/
+
 
 ## Cost / Eligibility
 
@@ -80,11 +83,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2580
-- Counties or regions: Carbon, Emery, Grand, San Juan
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2580 (slug `business-technical-assistance-center`)
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Carbon, Emery, Grand, San Juan
+- Listing modified: 2024-12-10T11:46:40
+
 
 ## Evidence
 

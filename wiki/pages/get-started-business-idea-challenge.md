@@ -1,21 +1,22 @@
 # Get Started: Business Idea Challenge
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Funding, Start a Business, Multicultural, New American, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Funding, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://startup.utah.gov/get-started/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Utah Startup State Initiative's "Get Started: Business Idea Challenge" is a milestone grant program designed to help Utah residents validate and develop early-stage business ideas. Participants can receive up to $500 in non-equity funding to achieve specific milestones, such as idea validation, prototyping, or marketing, within 30-90 days. This supportive environment encourages entrepreneurs to present their concepts without the high pressure of traditional pitch competitions.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,10 +51,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://startup.utah.gov/get-started/)
+- [Official website](https://startup.utah.gov/get-started/) · https://startup.utah.gov/get-started/
 - Email: [startup@utah.gov](mailto:startup@utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/get-started-business-idea-challenge/
+
 
 ## Cost / Eligibility
 
@@ -74,11 +77,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2622
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Startup State ID: 2622 (slug `get-started-business-idea-challenge`)
+- Topics: Funding, Start a Business
+- Stages: Idea (pre-revenue), Product Built (pre-revenue)
 - Communities: Multicultural, New American, Rural, Student, Veteran, Women
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Funding, Start a Business
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:56:30
+
 
 ## Evidence
 

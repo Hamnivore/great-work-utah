@@ -1,21 +1,22 @@
 # Utah Division of Outdoor Recreation
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Arts and Entertainment and Recreation, Hospitality and Food Services
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://recreation.utah.gov/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Utah Division of Outdoor Recreation, part of the Department of Natural Resources, promotes healthy, active lifestyles by providing access to outdoor spaces and recreational activities. It oversees programs such as boating safety, off-highway vehicle (OHV) education, and trail development, emphasizing safety, education, stewardship, and sustainable visitation. In addition to these efforts, the division works to recruit outdoor recreation businesses, further enhancing the state's outdoor economy. It also administers grants like the Utah Outdoor Recreation Grant (UORG) to support the development of recreational infrastructure that bolsters local economies.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -36,10 +37,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://recreation.utah.gov/)
+- [Official website](https://recreation.utah.gov/) · https://recreation.utah.gov/
 - Email: [jasoncurry@utah.gov](mailto:jasoncurry@utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-division-of-outdoor-recreation/
+
 
 ## Cost / Eligibility
 
@@ -53,11 +56,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2636
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Communities: Not specified
-- Industries: Arts and Entertainment and Recreation, Hospitality and Food Services
+- Startup State ID: 2636 (slug `utah-division-of-outdoor-recreation`)
 - Topics: Entrepreneurship Communities
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Arts and Entertainment and Recreation, Hospitality and Food Services
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2025-01-07T09:02:11
+
 
 ## Evidence
 

@@ -8,8 +8,8 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Pull:** *A mesh of wireless nodes that detects human motion through walls — serious physics, unclear trajectory.*
 
 ## Summary

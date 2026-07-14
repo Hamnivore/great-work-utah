@@ -13,8 +13,9 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Huntsman+Cancer+Institute+2000+Circle+of+Hope+Salt+Lake+City+UT
 **Website:** https://healthcare.utah.edu/huntsmancancerinstitute
+**Careers:** https://healthcare.utah.edu/huntsmancancerinstitute/about-us/careers
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-18
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/huntsman-cancer-institute-research-2026/1600/1100
 **Pull:** *The Mountain West's only NCI Comprehensive Cancer Center — and the place where more inherited-cancer genes have been found than anywhere else.*
 
@@ -38,7 +39,7 @@ On the translational side, HCI participates in the University of Utah Therapeuti
 
 ## What They Need Now
 
-As an academic medical center, HCI's "needs" are mostly people and translational partners rather than venture capital: cancer biologists, geneticists and genetic counselors, epidemiologists and population scientists, clinical oncologists, computational biologists, data-science and AI researchers, and clinical-trial and research-operations staff. The U2TAH track specifically needs researchers and operators who want to turn discoveries into companies with institutional support, plus the commercialization and capital partners that spinouts require.
+As an academic medical center, HCI's "needs" are mostly people and translational partners rather than venture capital: cancer biologists, geneticists and genetic counselors, epidemiologists and population scientists, clinical oncologists, computational biologists, data-science and AI researchers, and clinical-trial and research-operations staff. Featured openings on the HCI careers page (July 2026) include clinical research and study coordinators plus executive / administrative support to academic leadership; broader research, hospital, and faculty postings route through University of Utah Health hiring. The U2TAH track specifically needs researchers and operators who want to turn discoveries into companies with institutional support, plus the commercialization and capital partners that spinouts require.
 
 For people seeking meaningful work, HCI fits scientists who want to work at the intersection of population-scale data (UPDB) and molecular biology without relocating to a coastal hub, and who are comfortable with academic timelines and grant-dependent funding.
 

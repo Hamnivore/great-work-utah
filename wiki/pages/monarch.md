@@ -1,9 +1,9 @@
 # Monarch
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Arts and Entertainment and Recreation
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
 **Region:** Ogden
@@ -11,7 +11,7 @@
 **Coordinates:** 41.2205743, -111.9683826
 **Location Precision:** exact
 **Location Source:** https://www.themonarchogden.com/about/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://themonarchogden.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Monarch, located in Ogden, Utah, is a vibrant creative hub within the Nine Rails Creative District, offering artist studios, event spaces, and community-focused programming. Situated in a renovated 1920s industrial parking garage, it combines historic charm with modern amenities, providing a unique venue for workshops, markets, and public events. Regular events like Open Studio Nights and specialty markets foster collaboration and engagement between artists and the broader community.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -39,10 +40,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://themonarchogden.com/)
+- [Official website](https://themonarchogden.com/) · https://themonarchogden.com/
 - Email: [info@themonarchogden.com](mailto:info@themonarchogden.com)
+- Startup State listing: https://startup.utah.gov/business-resource/monarch/
+
 
 ## Cost / Eligibility
 
@@ -56,11 +59,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2561
-- Counties or regions: Davis, Morgan, Salt Lake, Tooele, Weber
-- Communities: Not specified
-- Industries: Arts and Entertainment and Recreation
+- Startup State ID: 2561 (slug `monarch`)
 - Topics: Entrepreneurship Communities
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
+- Communities: —
+- Industries: Arts and Entertainment and Recreation
+- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
+- Listing modified: 2024-12-10T10:45:04
+
 
 ## Evidence
 

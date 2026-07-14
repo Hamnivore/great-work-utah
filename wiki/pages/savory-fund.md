@@ -1,9 +1,9 @@
 # Savory Fund
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Funding, Late Stage Growth, Hospitality and Food Services
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Funding, Late Stage Growth
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
@@ -11,15 +11,21 @@
 **Coordinates:** 40.4310990, -111.8757910
 **Location Precision:** exact
 **Location Source:** https://savoryfund.com/privacy-policy/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://savoryfund.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-Savory Fund is a private equity firm specializing in the rapid expansion of emerging restaurant concepts by providing capital investment and operational expertise. Founded by Andrew and Shauna Smith, the Lehi, Utah-based firm manages over $750 million in assets and has successfully closed three funds: two at $100 million each in 2020 and 2021, and a third at $200 million in January 2024. Savory Fund's portfolio includes brands such as Swig, R&R BBQ, and Via 313 Pizzeria, with operations across multiple states.
+Savory Fund is a private equity firm specializing in the rapid expansion of emerging restaurant concepts by providing capital investment and operational expertise. Founded by Andrew and Shauna Smith, the Lehi, Utah-based firm manages over $750 million in assets and has successfully closed three funds: two at ## Summary
+
+00 million each in 2020 and 2021, and a third at Savory Fund is a private equity firm specializing in the rapid expansion of emerging restaurant concepts by providing capital investment and operational expertise. Founded by Andrew and Shauna Smith, the Lehi, Utah-based firm manages over $750 million in assets and has successfully closed three funds: two at $100 million each in 2020 and 2021, and a third at $200 million in January 2024. Savory Fund's portfolio includes brands such as Swig, R&R BBQ, and Via 313 Pizzeria, with operations across multiple states.
 
 This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+00 million in January 2024. Savory Fund's portfolio includes brands such as Swig, R&R BBQ, and Via 313 Pizzeria, with operations across multiple states.
+
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -40,10 +46,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://savoryfund.com/)
+- [Official website](https://savoryfund.com/) · https://savoryfund.com/
 - Email: [info@savoryfund.com](mailto:info@savoryfund.com)
+- Startup State listing: https://startup.utah.gov/business-resource/savory-fund/
+
 
 ## Cost / Eligibility
 
@@ -58,11 +66,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2595
-- Counties or regions: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Communities: Not specified
-- Industries: Hospitality and Food Services
+- Startup State ID: 2595 (slug `savory-fund`)
 - Topics: Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue)
+- Communities: —
+- Industries: Hospitality and Food Services
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:07:47
+
 
 ## Evidence
 

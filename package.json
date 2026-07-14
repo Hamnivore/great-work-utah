@@ -11,7 +11,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "node --test scripts/*.test.mjs",
-    "urls:plaintext": "node scripts/plaintext-urls.mjs"
+    "urls:plaintext": "node scripts/plaintext-urls.mjs",
+    "startup-state:check": "node scripts/check-startup-state-resources.mjs",
+    "startup-state:sync": "node scripts/sync-startup-state-from-api.mjs",
+    "startup-state:check:strict": "node scripts/check-startup-state-resources.mjs --strict"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.21",

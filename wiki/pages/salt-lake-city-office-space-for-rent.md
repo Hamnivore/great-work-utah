@@ -1,21 +1,22 @@
 # Salt Lake City Office Space for Rent
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Start a Business, Any, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://offices.co/usa/salt-lake-city/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 Offices.co offers fully furnished executive suites, professionally equipped office space, and cost-effective shared workspaces and corporate real estate in 143 cities across the USA, including in and around Salt Lake City. The available office space for rent in Utah includes a wide range of essential services, so setting up a business in the Beehive State is faster and easier than ever.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -45,10 +46,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://offices.co/usa/salt-lake-city/)
+- [Official website](https://offices.co/usa/salt-lake-city/) · https://offices.co/usa/salt-lake-city/
 - Email: [info@offices.co](mailto:info@offices.co)
+- Startup State listing: https://startup.utah.gov/business-resource/salt-lake-city-office-space-for-rent/
+
 
 ## Cost / Eligibility
 
@@ -64,11 +67,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 3624
-- Counties or regions: Utah
+- Startup State ID: 3624 (slug `salt-lake-city-office-space-for-rent`)
+- Topics: Entrepreneurship Communities, Start a Business
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
 - Communities: Any
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Entrepreneurship Communities, Start a Business
+- Locations: Utah
+- Listing modified: 2025-05-28T10:21:23
+
 
 ## Evidence
 

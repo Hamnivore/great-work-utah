@@ -7,11 +7,12 @@
 **Stage:** Seed ($19M); test reactor under construction at Utah San Rafael Energy Lab
 **Primary Location:** San Jose, CA
 **Utah Location:** San Rafael Energy Lab, Emery County, UT
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Domain:** energy, aerospace-defense
 **Region:** Emery County
+**Careers:** https://job-boards.greenhouse.io/valaratomics
 **Website:** https://www.valaratomics.com
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/valar-atomics-2026/1600/1100
 **Pull:** *A C-17-airlifttable nuclear reactor with physics-safe TRISO fuel — bringing baseload power to wherever the grid doesn't reach.*
 **Relates:** cites [Official Website: Valar Atomics](valar-atomics-official-website.md) · https://greatutah.work/pages/valar-atomics-official-website.md · https://www.valaratomics.com
@@ -37,7 +38,7 @@ The Ward 250 is a 100 kWt HTGR using TRISO fuel and helium as the working fluid.
 
 ## What They Need Now
 
-Nuclear engineers with HTGR or TRISO experience are the core technical need. Regulatory specialists who have navigated NRC licensing for advanced reactor concepts are scarce nationally and likely a hiring priority. Mechanical engineers for the power-conversion system and materials engineers for high-temperature ceramic components round out the technical team. Logistics and deployment planners for military or remote-site contexts may be relevant as the design matures.
+Greenhouse listings (as of 2026-07-14) show heavy hiring for both Hawthorne, CA engineering and the Orangeville, Utah site build-out: construction quality inspectors/supervisors, Director of Infrastructure, fuel-plant process technicians, health physicists and HPTs, I&C technicians, maintenance technicians, nuclear operations manager, QA laboratory roles, and nuclear supplier-quality engineers — alongside Hawthorne mechanical, manufacturing, I&C/electrical directors, CFD, and fire-protection roles. Utah talent is most relevant for site construction, nuclear operations, health physics, and quality at the pilot plant; HQ/design roles remain California-centered.
 
 ## Who Could Help
 

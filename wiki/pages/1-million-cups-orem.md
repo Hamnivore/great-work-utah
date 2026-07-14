@@ -1,21 +1,22 @@
 # 1 Million Cups (Orem)
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Start a Business, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-1 Million Cups is a national program that supports local entrepreneurs by providing a platform to present their ideas, share feedback, and connect with a community of like-minded individuals. The Orem chapter, hosted weekly at the UVU Business Resource Center, offers a welcoming space for networking, mentoring, and collaboration among startups, investors, and service providers in Utah County.
+1 Million Cups is a national program that supports local entrepreneurs by providing a platform to present their ideas, share feedback, and connect with a community of like-minded individuals. The Orem chapter, hosted weekly at the UVU Business Resource Center, offers a welcoming space for networking, mentoring, and collaboration among startups, investors, and service providers in Utah County
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -45,10 +46,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut)
+- [Official website](https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut) · https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
 - Email: [provo@1millioncups.com](mailto:provo@1millioncups.com)
+- Startup State listing: https://startup.utah.gov/business-resource/1-million-cups-orem/
+
 
 ## Cost / Eligibility
 
@@ -63,11 +66,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2659
-- Counties or regions: Summit, Utah, Wasatch
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2659 (slug `1-million-cups-orem`)
 - Topics: Entrepreneurship Communities, Start a Business
+- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Summit, Utah, Wasatch
+- Listing modified: 2024-12-10T13:57:38
+
 
 ## Evidence
 

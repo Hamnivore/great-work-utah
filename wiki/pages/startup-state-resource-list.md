@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** entrepreneur navigation, state resources, founder journeys, Utah
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://startup.utah.gov/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -35,7 +35,12 @@ The public resource page provides a searchable filter and category dimensions fo
 
 ## How To Access It
 
-Start at the official resources page and use the filter dimensions or keyword search. If the result is a named provider such as SBDC, SCORE, SBA, WBCUtah, APEX, or a GOEO program, verify the next step on that provider's official page before making a recommendation.
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://startup.utah.gov/) · https://startup.utah.gov/
+- Email: [startup@utah.gov](mailto:startup@utah.gov)
+- Startup State listing: https://startup.utah.gov/business-resource/startup-state/
+
 
 ## Cost / Eligibility
 

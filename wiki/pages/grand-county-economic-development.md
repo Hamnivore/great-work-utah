@@ -1,9 +1,9 @@
 # Grand County Economic Development
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Moab, UT
 **Utah Location:** Grand County, UT
 **Region:** Grand County
@@ -11,7 +11,7 @@
 **Coordinates:** 38.5733313, -109.5485389
 **Location Precision:** exact
 **Location Source:** https://business.moabchamber.com/member-directory/Details/grand-county-economic-development-4249447
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://www.co.grand.co.us/1056/Economic-Development
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -19,7 +19,8 @@
 
 The Grand County Economic Development Department in Utah focuses on diversifying the local economy by supporting non-tourism-based activities that promote sustainability, livability, and resilience. They offer resources and assistance to businesses and organizations aiming to establish or expand operations within the county, fostering a diverse mix of industries to withstand economic fluctuations. The department also engages with the community to prioritize the allocation of funds for economic diversification projects, ensuring that development aligns with residents' needs and the county's strategic goals.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -50,10 +51,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.co.grand.co.us/1056/Economic-Development)
+- [Official website](https://www.co.grand.co.us/1056/Economic-Development) · https://www.co.grand.co.us/1056/Economic-Development
 - Email: [bfredregill@grandcountyutah.net](mailto:bfredregill@grandcountyutah.net)
+- Startup State listing: https://startup.utah.gov/business-resource/grand-county-economic-development/
+
 
 ## Cost / Eligibility
 
@@ -69,11 +72,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2701
-- Counties or regions: Carbon, Emery, Grand, San Juan
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2701 (slug `grand-county-economic-development`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Carbon, Emery, Grand, San Juan
+- Listing modified: 2024-12-11T08:24:47
+
 
 ## Evidence
 

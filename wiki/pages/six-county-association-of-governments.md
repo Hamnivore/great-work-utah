@@ -1,21 +1,22 @@
 # Six County Association of Governments
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County
 **Region:** Central Utah
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://r6.utah.gov/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 Region 6 Economic Development focuses on fostering economic growth in Morgan, Tooele, and Weber Counties by supporting local businesses, attracting new investments, and enhancing community development. It provides resources, strategic partnerships, and workforce initiatives to strengthen the region's economy. Through collaboration and innovation, Region 6 aims to create sustainable opportunities for businesses and residents alike.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -46,10 +47,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://r6.utah.gov/)
+- [Official website](https://r6.utah.gov/) · https://r6.utah.gov/
 - Email: [abbyivory@sixcounty.com](mailto:abbyivory@sixcounty.com)
+- Startup State listing: https://startup.utah.gov/business-resource/six-county-association-of-governments/
+
 
 ## Cost / Eligibility
 
@@ -65,11 +68,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2689
-- Counties or regions: Juab, Millard, Piute, Sanpete, Sevier, Wayne
-- Communities: Not specified
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Startup State ID: 2689 (slug `six-county-association-of-governments`)
 - Topics: Entrepreneurship Communities, Funding, Late Stage Growth
+- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
+- Communities: —
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Juab, Millard, Piute, Sanpete, Sevier, Wayne
+- Listing modified: 2024-12-11T08:10:47
+
 
 ## Evidence
 

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** manufacturing, membership, workforce, safety, advocacy, networking
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://manufacturingutah.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -31,7 +31,12 @@ UMA also runs current manufacturing events and publishes manufacturing-community
 
 ## How To Access It
 
-Start with the official site and membership/contact paths. A founder should approach UMA with a manufacturing-specific ask: workforce pipeline, safety training, member benefits, policy/advocacy issue, peer network, or service-provider referral.
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://manufacturingutah.com/) · https://manufacturingutah.com/
+- Email: [info@manufacturingutah.com](mailto:info@manufacturingutah.com)
+- Startup State listing: https://startup.utah.gov/business-resource/utah-manufacturers-association/
+
 
 ## Cost / Eligibility
 
@@ -45,11 +50,14 @@ For plant-level performance improvement, [Utah MEP](utah-mep.md) may be the more
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2615
-- Counties or regions: statewide Utah coverage in the import
+- Startup State ID: 2615 (slug `utah-manufacturers-association`)
+- Topics: Entrepreneurship Communities, Late Stage Growth
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
 - Communities: Any
 - Industries: Manufacturing
-- Topics: Entrepreneurship Communities, Late Stage Growth
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:51:59
+
 
 ## Evidence
 

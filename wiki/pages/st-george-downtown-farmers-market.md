@@ -1,9 +1,9 @@
 # St George Downtown Farmers Market
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Other, Agriculture, Arts and Entertainment and Recreation
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Late Stage Growth, Other
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -11,15 +11,16 @@
 **Coordinates:** 37.1030216, -113.5748844
 **Location Precision:** exact
 **Location Source:** https://downtownfarmerstg.com/
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://downtownfarmerstg.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Downtown Farmers Market in St. George, Utah, is a year-round community event held at Vernon Worthen Park. It features over 60 vendors offering local produce, meats, artisanal products, and live entertainment every Saturday, fostering a vibrant, inclusive space for residents to connect and support local businesses.
+The Downtown Farmers Market in St. George, Utah, is a year-round community event held at Vernon Worthen Park. It features over 60 vendors offering local produce, meats, artisanal products, and live entertainment every Saturday, fostering a vibrant, inclusive space for residents to connect and support local businesses
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -44,9 +45,11 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://downtownfarmerstg.com/)
+- [Official website](https://downtownfarmerstg.com/) · https://downtownfarmerstg.com/
+- Startup State listing: https://startup.utah.gov/business-resource/st-george-downtown-farmers-market/
+
 
 ## Cost / Eligibility
 
@@ -62,11 +65,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2683
-- Counties or regions: Beaver, Garfield, Iron, Kane, Washington
-- Communities: Not specified
-- Industries: Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Hospitality and Food Services
+- Startup State ID: 2683 (slug `st-george-downtown-farmers-market`)
 - Topics: Entrepreneurship Communities, Late Stage Growth, Other
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
+- Communities: —
+- Industries: Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Hospitality and Food Services
+- Locations: Beaver, Garfield, Iron, Kane, Washington
+- Listing modified: 2024-12-11T08:04:57
+
 
 ## Evidence
 

@@ -1,21 +1,22 @@
 # Wasatch Women's Business Alliance
 
 **Type:** resource
-**Status:** Stub
-**Confidence:** Low
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Women, Aerospace and Defense, Agriculture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Wasatch County, UT
 **Utah Location:** Wasatch County, UT
 **Region:** Wasatch County
-**Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Website:** https://thewwba.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
 The Wasatch Women's Business Alliance (WWBA) is a nonprofit organization in Wasatch County, Utah, dedicated to supporting women-owned and operated businesses. It fosters growth through networking events, mentorship programs, and collaborative opportunities, enabling members to share experiences and resources. Regular meetings, such as the monthly networking sessions at the UVU Wasatch Campus, provide platforms for professional development and community engagement.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+
 
 ## Who It Helps
 
@@ -47,10 +48,12 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://thewwba.org/)
+- [Official website](https://thewwba.org/) · https://thewwba.org/
 - Email: [wasatchwomensbusinessalliance@gmail.com](mailto:wasatchwomensbusinessalliance@gmail.com)
+- Startup State listing: https://startup.utah.gov/business-resource/wasatch-womens-business-alliance/
+
 
 ## Cost / Eligibility
 
@@ -68,11 +71,14 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 2665
-- Counties or regions: Wasatch
+- Startup State ID: 2665 (slug `wasatch-womens-business-alliance`)
+- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
 - Communities: Women
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+- Locations: Wasatch
+- Listing modified: 2024-12-10T16:08:06
+
 
 ## Evidence
 

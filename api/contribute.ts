@@ -14,6 +14,41 @@ type Body = {
   type?: unknown
   content?: unknown
   reason?: unknown
+  body?: unknown
+  note?: unknown
+  message?: unknown
+  text?: unknown
+}
+
+/** Agents (and experiment briefs) often send type/body instead of kind/content — accept both. */
+function normalizeContribute(raw: Body): Body {
+  const b: Body = { ...raw }
+
+  // { "type": "note"|"page" } used as kind (page "type" field is venture|person|…)
+  if (b.kind == null && (b.type === 'note' || b.type === 'page')) {
+    b.kind = b.type
+    delete b.type
+  }
+
+  // content aliases
+  if (typeof b.content !== 'string') {
+    for (const key of ['body', 'note', 'message', 'text'] as const) {
+      if (typeof b[key] === 'string') {
+        b.content = b[key]
+        break
+      }
+    }
+  }
+
+  // path: allow pages/foo or /pages/foo.md
+  if (typeof b.path === 'string') {
+    let p = b.path.trim().replace(/^\/+/, '')
+    if (p.startsWith('wiki/')) p = p.slice(5)
+    if (/^(pages|views|meta)\/[a-z0-9-]+$/i.test(p)) p = `${p}.md`
+    b.path = p.toLowerCase()
+  }
+
+  return b
 }
 
 // Minimal request/response shapes for a Vercel Node function (no @vercel/node dep).
@@ -30,7 +65,9 @@ function validate(body: Body): { error?: string; kind?: 'note' | 'page' } {
   const { kind, path, type, content } = body
   const errors: string[] = []
   if (kind !== 'note' && kind !== 'page') {
-    errors.push('"kind" must be "note" or "page".')
+    errors.push(
+      '"kind" must be "note" or "page" (also accepted: "type":"note"|"page" as an alias for kind).',
+    )
   }
   if (kind === 'page') {
     if (typeof path !== 'string' || !PAGE_PATH_RE.test(path)) {
@@ -46,7 +83,9 @@ function validate(body: Body): { error?: string; kind?: 'note' | 'page' } {
     errors.push('"path" must be a string.')
   }
   if (typeof content !== 'string') {
-    errors.push('"content" must be a string.')
+    errors.push(
+      '"content" must be a string (also accepted: "body", "note", "message", or "text").',
+    )
   } else if (kind === 'note') {
     if (content.length < 15 || content.length > 2000) {
       errors.push(`Note content must be 15–2000 characters (got ${content.length}).`)
@@ -180,6 +219,7 @@ export default async function handler(req: Req, res: Res) {
     return
   }
 
+  body = normalizeContribute(body)
   const { error, kind } = validate(body)
   if (error) {
     res.status(400).json({ ok: false, error })

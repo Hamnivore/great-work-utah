@@ -612,7 +612,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [SBA Thrive](/pages/sba-thrive.md) · `/pages/sba-thrive.md` · resource
 - [SBA Utah District Office](/pages/sba-utah-district-office.md) · `/pages/sba-utah-district-office.md` · resource
 - [SCORE Utah](/pages/score-utah.md) · `/pages/score-utah.md` · resource
-- [Sillicon Slopes](/pages/sillicon-slopes.md) · `/pages/sillicon-slopes.md` · resource
+- [Silicon Slopes](/pages/silicon-slopes.md) · `/pages/silicon-slopes.md` · resource
 - [Startup State Resource Filter](/pages/startup-state-resource-list.md) · `/pages/startup-state-resource-list.md` · resource
 - [STRIVE](/pages/strive.md) · `/pages/strive.md` · resource
 - [Suazo Business Center](/pages/suazo-business-center.md) · `/pages/suazo-business-center.md` · resource

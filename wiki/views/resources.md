@@ -127,7 +127,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [SCORE Utah](/pages/score-utah.md) · `/pages/score-utah.md` · mentoring, workshops, small business education, founder coaching · conf:M
 - [Sevier County Economic Development](/pages/sevier-county-economic-development.md) · `/pages/sevier-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture · conf:L
 - [Signal Peak Ventures](/pages/signal-peak-ventures.md) · `/pages/signal-peak-ventures.md` · Funding, Aerospace and Defense, Agriculture · conf:L
-- [Sillicon Slopes](/pages/sillicon-slopes.md) · `/pages/sillicon-slopes.md` · Entrepreneurship Communities, Late Stage Growth, Any, Software and Information Technology · conf:L
+- [Silicon Slopes](/pages/silicon-slopes.md) · `/pages/silicon-slopes.md` · Entrepreneurship Communities, Late Stage Growth, Any, Software and Information Technology · conf:L
 - [Six County Association of Governments](/pages/six-county-association-of-governments.md) · `/pages/six-county-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture · conf:L
 - [Snow College - GRIT Center](/pages/snow-college-grit-center.md) · `/pages/snow-college-grit-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agricultu… · conf:L
 - [Sorenson Impact Fund](/pages/sorenson-impact-fund.md) · `/pages/sorenson-impact-fund.md` · Funding, Other, Aerospace and Defense, Agriculture · conf:L

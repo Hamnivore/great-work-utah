@@ -1,6 +1,36 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
+  "headers": [
+    {
+      "source": "/pages/(.*)",
+      "headers": [
+        { "key": "Content-Type", "value": "text/markdown; charset=utf-8" },
+        { "key": "Cache-Control", "value": "public, max-age=120, stale-while-revalidate=600" }
+      ]
+    },
+    {
+      "source": "/views/(.*)",
+      "headers": [
+        { "key": "Content-Type", "value": "text/markdown; charset=utf-8" },
+        { "key": "Cache-Control", "value": "public, max-age=120, stale-while-revalidate=600" }
+      ]
+    },
+    {
+      "source": "/meta/(.*)",
+      "headers": [
+        { "key": "Content-Type", "value": "text/markdown; charset=utf-8" },
+        { "key": "Cache-Control", "value": "public, max-age=300, stale-while-revalidate=86400" }
+      ]
+    },
+    {
+      "source": "/llms.txt",
+      "headers": [
+        { "key": "Content-Type", "value": "text/plain; charset=utf-8" },
+        { "key": "Cache-Control", "value": "public, max-age=120, stale-while-revalidate=600" }
+      ]
+    }
+  ],
   "redirects": [
     { "source": "/index.md", "destination": "/views/index.md", "statusCode": 308 },
     { "source": "/wiki/pages/:slug*", "destination": "/pages/:slug*", "statusCode": 308 },
@@ -13,8 +43,8 @@
     { "source": "/pages/:slug([^/.]+)", "destination": "/pages/:slug.md", "statusCode": 308 },
     { "source": "/views/:view([^/.]+)", "destination": "/views/:view.md", "statusCode": 308 },
     { "source": "/meta/:doc([^/.]+)", "destination": "/meta/:doc.md", "statusCode": 308 },
-    { "source": "/pages/silicon-slopes.md", "destination": "/pages/sillicon-slopes.md", "statusCode": 308 },
-    { "source": "/p/silicon-slopes", "destination": "/p/sillicon-slopes", "statusCode": 308 }
+    { "source": "/pages/sillicon-slopes.md", "destination": "/pages/silicon-slopes.md", "statusCode": 308 },
+    { "source": "/p/sillicon-slopes", "destination": "/p/silicon-slopes", "statusCode": 308 }
   ],
   "rewrites": [
     { "source": "/", "destination": "/index.html" },

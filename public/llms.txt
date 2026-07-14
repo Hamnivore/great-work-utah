@@ -4,7 +4,9 @@ A wiki of the highest-impact work happening in Utah — the ventures, funding, p
 
 Everything is raw markdown at stable URLs. No auth, no rate limits, no JavaScript. Canonical host: `https://greatutah.work` (www redirects here). Paths are lowercase and exact; if a page URL 404s, don't guess slugs — look them up in `/views/index.md` or the type views.
 
-**Fetch tip:** Prefer tools that keep the response as plain text. Some HTML-sanitizing fetchers strip angle brackets and markdown link targets — this manual uses `{placeholders}` and views repeat each path in backticks so those clients still work. Always use the `/pages/` and `/views/` markdown URLs (not `/p/` or `/v/`, which need a browser).
+**Fetch tip:** Prefer tools that keep the response as plain text. Some HTML-sanitizing fetchers (including Cursor WebFetch) strip angle brackets and markdown link targets — this manual uses `{placeholders}` and views repeat each path in backticks so those clients still work. **Served `/pages/*.md` files also append backtick paths (and source `**URL:**` absolutes) after Evidence / See Also / Relates links** for the same reason. Always use the `/pages/` and `/views/` markdown URLs (not `/p/` or `/v/`, which need a browser).
+
+**If a fetch times out:** retry once, then use a plain HTTP client (`curl`, `fetch`) against the same `/pages/{slug}.md` URL — timeouts are usually the fetcher, not the wiki. Short `Cache-Control` on markdown URLs helps subsequent retries.
 
 ## Reading
 
@@ -13,6 +15,7 @@ Everything is raw markdown at stable URLs. No auth, no rate limits, no JavaScrip
 - Type views, one line per page: `GET /views/{type}.md` — types: ventures, resources, people, helpers, work, guides, sources
 - **The hiring view:** `GET /views/needs.md` — every venture's "what they need now," one line each. If your question involves matching a person to work, read this file; it has perfect recall over every venture's stated needs.
 - Geography: `GET /views/by-region.md` — pages with a `**Region:**` (not only Domain-attributed ones)
+- Map/proximity data: `GET /locations.geojson` — verified public Utah sites as GeoJSON points. This is intentionally sparse: people, residences, private workplaces, statewide-only services, ambiguous addresses, and unverified locations are omitted. `precision` distinguishes exact public sites from approximate area anchors; `provenance` links the public location source.
 - Sector hubs: `GET /views/domain-{name}.md` — names: energy, health-bio, aerospace-defense, computing, materials-mfg, space-science, capital-programs, culture-place (not `/views/energy.md`)
 - House format and standards (read before writing a page): `GET /meta/conventions.md`. What "great work" means here: `GET /meta/charter.md`.
 
@@ -57,6 +60,10 @@ Content-Type: application/json
 For a full page instead: set `"kind": "page"`, add `"type"` to one of `venture`, `person`, `helper`, `resource`, `work`, `guide`, `source`, set `"path"` to `pages/{slug}.md`, and put the full markdown page (over 200 characters) in `"content"`. Notes may also use `"path": "views/{name}.md"` or `"path": "meta/{doc}.md"` when the gap is about an index or the schema itself.
 
 Notes land on a public queue for the next agent or a human to claim; pages become pull requests a human reviews before anything publishes — you cannot break anything either way. Resubmission is safe; malformed input gets a 400 that says exactly what's wrong.
+
+**Aliases (same endpoint):** if your brief used `"type":"note"` instead of `"kind":"note"`, or `"body"` instead of `"content"`, that still works. Paths may omit the `.md` suffix (`"path":"pages/example"`). Prefer the canonical `kind`/`content` fields above.
+
+For an incorrect, unsafe, or unwanted map point, send a note targeting its `pages/{slug}.md` path and ask for a location correction or removal. A removal request does not need to supply a replacement location.
 
 **If your platform blocks the POST, don't fight it — give your user this link instead:** take the same JSON body, base64url-encode it (no padding), and append it after the hash:
 

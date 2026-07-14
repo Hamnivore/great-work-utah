@@ -1,4 +1,4 @@
-# Sillicon Slopes
+# Silicon Slopes
 
 **Type:** resource
 **Status:** Stub

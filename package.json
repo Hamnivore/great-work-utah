@@ -7,9 +7,10 @@
     "build:views": "node scripts/build-views.mjs",
     "lint:wiki": "node scripts/wiki-lint.mjs",
     "dev": "vite",
-    "build": "node scripts/build-views.mjs && tsc -b && vite build && cp -r wiki/pages wiki/views wiki/meta dist/",
+    "build": "node scripts/build-views.mjs && tsc -b && vite build && node scripts/copy-wiki-hardened.mjs",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "node --test scripts/*.test.mjs"
   },
   "dependencies": {
     "react": "^19.2.5",

@@ -4,36 +4,45 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 
 ## Open
 
+### Cursor harness: Anthropic/OpenAI Task API quota blocked cross-model probes
+
+- **Seen:** 2026-07-14 · harness: Cursor Task subagent
+- **Where:** Task launches with `claude-sonnet-5-thinking-high`, `claude-4.5-sonnet-thinking`, `gpt-5.6-sol-medium`, `gpt-5.2-codex`
+- **What:** Immediate fail: `API usage limit reached Switched to composer-2.5 after reaching API limit.` Zero wiki fetches on those models. Grok + Composer Task launches still start.
+- **Impact:** Cannot complete planned 3×3 provider matrix until quota recovers.
+- **Next check:** Re-run Claude/OpenAI legs when quota available; see `research/findings/model-harness-probes-2026-07-14.md`.
+- **Note:** Unrelated harness *wiki* frictions (WebFetch strip, contribute aliases, agent 404) were mitigated 2026-07-14 — see Fixed below.
+
 ### Needs: no careers URLs; synonym / filter gaps remain
 
-- **Seen:** 2026-07-14 (job-seeker probes, round 3) · notes [#80](https://github.com/Hamnivore/great-work-utah/issues/80), [#81](https://github.com/Hamnivore/great-work-utah/issues/81), [#82](https://github.com/Hamnivore/great-work-utah/issues/82)
+- **Seen:** 2026-07-14 (job-seeker probes; **Grok** `cursor-grok-4.5-high-fast` + **Composer** `composer-2.5-fast` · harness: Cursor) · notes [#80](https://github.com/Hamnivore/great-work-utah/issues/80)–[#82](https://github.com/Hamnivore/great-work-utah/issues/82), [#84](https://github.com/Hamnivore/great-work-utah/issues/84), [#85](https://github.com/Hamnivore/great-work-utah/issues/85), [#87](https://github.com/Hamnivore/great-work-utah/issues/87), [#95](https://github.com/Hamnivore/great-work-utah/issues/95)
 - **Where:** `/views/needs.md`, venture pages
-- **What:** Needs are still “Likely needs…” not live openings; most pages lack careers/apply links. Role-string mismatch still requires synonym skim. No role/city filter UI.
-- **Partial fix:** 2026-07-14 — needs lines include Region; intro warns synonyms; nav **by place** → by-region; Qualtrics needs section links careers.
-- **Next check:** Careers URL field on more flagship employers; optional synonym gloss.
+- **What:** No skill filter; most pages lack careers/apply links (agents leave wiki / guess `/careers` → 404). Dead L3Harris Evidence URLs. Both models still shortlisted IMSAR / L3Harris / Fortem.
+- **Partial fix:** Region on needs lines; Qualtrics careers link.
+- **Next check:** Optional `**Careers:**` metadata; fix L3Harris Evidence; defense-software cluster.
 
-### SPA prerender / soft 404s on human routes
+### Capital stubs + Focus sludge; empty capital-programs hub; Silicon Slopes typo
 
-- **Seen:** 2026-07-14 (human job seeker relaunch) · [#83](https://github.com/Hamnivore/great-work-utah/issues/83)
-- **Where:** `/v/*`, `/p/*`
-- **What:** Every human route returns the same `index.html` shell (HTTP 200); unknown slugs soft-404 only after JS. Crawlers/no-JS never see route-specific content or titles.
-- **Partial fix:** Shell CTAs now lead with looking for work / founding (not agent-only pitch).
-- **Next check:** Wishlist SSR/prerender or edge 404 for missing `/p`/`/v`; sitemap `/v/` URLs.
+- **Seen:** 2026-07-14 (**Grok** + **Composer** SaaS-founder / slug probes · harness: Cursor) · [#69](https://github.com/Hamnivore/great-work-utah/issues/69), [#71](https://github.com/Hamnivore/great-work-utah/issues/71), [#86](https://github.com/Hamnivore/great-work-utah/issues/86), [#88](https://github.com/Hamnivore/great-work-utah/issues/88), [#89](https://github.com/Hamnivore/great-work-utah/issues/89), [#93](https://github.com/Hamnivore/great-work-utah/issues/93), [#94](https://github.com/Hamnivore/great-work-utah/issues/94)
+- **Where:** capital guide, stubs, `domain-capital-programs`, Silicon Slopes
+- **What:** Same path break on both models — advisors OK, SaaS equity dead-ends. Typo slug was canonical (fixed 2026-07-14 — see Fixed).
+- **Next check:** Medium Draft Album/Kickstart/Peterson; Focus cleanup; capital-programs attribution.
 
-### Contribute: no rate limit / dedupe; path schema friction for humans
+### Agent 404 recovery points at SPA `/v/*`; soft `/p/*` 200
 
-- **Seen:** 2026-07-14 (notes through ~#80) · founder human [#73](https://github.com/Hamnivore/great-work-utah/issues/73)
-- **Where:** `POST /api/contribute`, `/contribute`
-- **What:** Rapid notes create many GitHub issues; path must look like `pages/….md`; “add my company” not obvious.
-- **Next check:** Light rate limit / content hash; clearer human “missing company” path.
+- **Seen:** 2026-07-14 (**Grok** + **Composer** slug probes · harness: Cursor) · [#91](https://github.com/Hamnivore/great-work-utah/issues/91), [#92](https://github.com/Hamnivore/great-work-utah/issues/92), [#93](https://github.com/Hamnivore/great-work-utah/issues/93)
+- **Where:** `public/404.html`, `/p/*`
+- **What:** Markdown 404 body advertised `/v/needs` / `/v/guides` (HTML). Unknown `/p/` returns 200 SPA.
+- **Partial fix:** 2026-07-14 — `404.html` + SPA NotFound list `/views/*.md` for agents and `/v/*` for humans.
+- **Next check:** Hard 404 or clearer soft-404 for unknown `/p/` (still SPA 200).
 
-### Capital stubs + Focus sludge; empty capital-programs hub
+### Evidence links often unfetchable via HTML sanitizers (Cursor WebFetch)
 
-- **Seen:** 2026-07-14 (hardware / founder human) · [#69](https://github.com/Hamnivore/great-work-utah/issues/69), [#71](https://github.com/Hamnivore/great-work-utah/issues/71)
-- **Where:** angel/VC stubs, `domain-capital-programs`, Focus lines
-- **What:** Empty hub; CSV Focus (Aerospace/Agriculture on cleantech); Low-confidence stubs look like recommendations if skimmed from Resources.
-- **Partial fix:** 2026-07-14 — `startup-capital-in-utah` warns stubs are a watchlist; helpers view points free mentors to `find-an-advisor`.
-- **Next check:** Focus cleanup; attribute or retire capital-programs hub; Silicon Slopes typo rename; UIF/UTIF.
+- **Seen:** 2026-07-14 (**Grok** + **Composer** · harness: Cursor WebFetch)
+- **Where:** page Evidence / See Also; intermittent timeouts on Fortem / advisor / capital
+- **What:** Both models: hrefs stripped; views backticks OK; page bodies often not. Timeouts forced curl fallback.
+- **Partial fix:** 2026-07-14 — served `/pages/*.md` append backtick paths + resolved source URLs after Evidence/See Also/Relates; CDN Cache-Control; llms.txt timeout tip. Source `wiki/pages` stays clean.
+- **Next check:** Re-probe with WebFetch; careers field still separate.
 
 ### Domain attribution still incomplete; Utah Valley geo buckets confusing
 
@@ -50,13 +59,6 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **What:** No search. “Looking for work” / Needs = other orgs’ talent needs — founders trying to hire for *their* company hit a job board for someone else.
 - **Next check:** Wishlist search; optional “hiring?” copy under founding.
 
-### Evidence links often unfetchable via HTML sanitizers
-
-- **Seen:** 2026-07-14
-- **Where:** page Evidence / See Also
-- **What:** WebFetch drops hrefs; page bodies don’t always repeat paths in backticks like views do.
-- **Next check:** Evidence lines include plaintext paths or absolute URLs.
-
 ### Sitemap / SEO skewed to agent paths
 
 - **Seen:** 2026-07-14 (founder human)
@@ -65,6 +67,14 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **Next check:** Emit human view URLs in sitemap.
 
 ## Fixed / closed (selected, round 3)
+
+### Contribute schema aliases for Cursor harness briefs
+
+- **Fixed:** 2026-07-14 — `POST /api/contribute` accepts `type`∈{note,page} as `kind`, and `body`/`note`/`message`/`text` as `content`; paths may omit `.md`.
+
+### Silicon Slopes typo was canonical slug
+
+- **Fixed:** 2026-07-14 — page renamed to `silicon-slopes`; typo slug 308s into correct spelling (was the reverse).
 
 ### Day-1 founder / job-seeker entrypaths unclear
 

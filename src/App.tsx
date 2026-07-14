@@ -30,9 +30,19 @@ function NotFound() {
         <Link to="/v/guides" className="text-twilight">
           founding
         </Link>
-        {' · '}
+      </p>
+      <p className="mt-2 text-xs">
+        Agents:{' '}
         <a href="/llms.txt" className="text-twilight">
           /llms.txt
+        </a>
+        {' · '}
+        <a href="/views/index.md" className="text-twilight">
+          /views/index.md
+        </a>
+        {' · '}
+        <a href="/views/needs.md" className="text-twilight">
+          /views/needs.md
         </a>
       </p>
     </div>

@@ -10487,6 +10487,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Workfront",
+        "type": "venture",
+        "url": "/pages/workfront.md",
+        "siteId": "workfront:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing"
+        ],
+        "focus": "enterprise work management, marketing operations, project management, Adobe Experience Cloud"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.889379,
           40.7692887
         ]

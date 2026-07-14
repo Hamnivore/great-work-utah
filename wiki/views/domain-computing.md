@@ -1,6 +1,6 @@
 # computing — sector hub
 
-Generated from `**Domain:**` metadata (92/615 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (93/616 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -17,6 +17,7 @@ Generated from `**Domain:**` metadata (92/615 pages attributed so far — covera
 - [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md` · Salt Lake City · scientific computing, scientific visualization, biomedical computing, open-source research software
 - [Splunk](/pages/splunk.md) · `/pages/splunk.md` · unknown · cybersecurity, observability, machine data, SIEM, AIOps, enterprise software
 - [Wavetronix](/pages/wavetronix.md) · `/pages/wavetronix.md` · Springville · intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing
+- [Workfront](/pages/workfront.md) · `/pages/workfront.md` · Lehi · enterprise work management, marketing operations, project management, Adobe Experience Cloud
 
 ## Who they need right now
 
@@ -33,6 +34,7 @@ Generated from `**Domain:**` metadata (92/615 pages attributed so far — covera
 - [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md`: Openings cluster in data visualization, computational oncology, and AI for image analysis / computer vision: faculty and staff scientists, research software engineers, and AI/ML engineers who can maintain long-lived scientific codebases — plus postdoctoral fellowships (One-U RAI) and standing graduate RA pathways in CS, Computing, BME, Math, and ECE. *(reviewed 2026-07-14)*
 - [Splunk](/pages/splunk.md) · `/pages/splunk.md`: Likely needs include security engineers, detection engineers, SREs, observability specialists, distributed-systems engineers, data-platform engineers, technical support, implementation partners, and enterprise sellers who understand SOC and IT operations buying cycles. For Utah talent, Splunk is most relevant as a skill market and possible Cisco/Splunk remote-employment path unless a Utah office … *(reviewed 2026-07-14)*
 - [Wavetronix](/pages/wavetronix.md) · `/pages/wavetronix.md`: Hiring spans electrical and electronics engineering (hardware), engineering infrastructure (software/networking), field systems and networking technicians, low-voltage and ITS field technicians, electronics manufacturing operators, and technical sales/support roles across multiple regions. For talent matching, Wavetronix is a good fit for people who like physical products, public infrastructure, … *(reviewed 2026-07-14)*
+- [Workfront](/pages/workfront.md) · `/pages/workfront.md`: Workfront is an Adobe product, so applicants should use Adobe's careers site and filter for Utah or remote roles. Public listings do not reliably identify which Utah positions support Workfront; do not infer a product assignment from an Adobe job's location alone. *(reviewed 2026-07-14)*
 
 ## Also relevant (primary elsewhere)
 

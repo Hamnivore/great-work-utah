@@ -18,7 +18,15 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **Where:** `/views/needs.md`, venture pages
 - **What:** Synonym/filter gaps remain (no skill clustering).
 - **Partial fix:** 2026-07-14 — careers pass complete: `**Careers:**` on 75/114 needs pages (every venture/helper/resource with a real hiring surface; all URLs curl-verified 200). The 40 without carry an Open Questions note saying why (no board exists, domain dead, email-only hiring). Conventions now pin the rules: Careers = the org's general careers page or own ATS board, for the *human* applicant (JS-rendered fine; never a single posting, aggregator, or raw ATS API endpoint), and needs prose stays at role-family level — board-snapshot role lists were rewritten out of ~45 pages. Dead links fixed en route: L3Harris Evidence URLs (post-restructure), Fortem Paylocity board, FamilySearch jobs path, Culmination/ASI/Baxter/Intactis/Hypercraft/Varda `**Website:**` fields that pointed at news articles or dead domains.
-- **Next check:** Skill clustering / synonym gloss; re-probe job-seeker scenario to confirm agents hand out Careers URLs instead of guessing `/careers`.
+- **Verified on prod:** 2026-07-14 — 3 cold Sonnet probes (RF/biotech/machinist), 3/3 pass: zero guessed `/careers`, zero dead links, no-careers notes routed agents to warm outreach. See `findings/2026-07-14-careers-probes.md`.
+- **Next check:** Skill clustering / synonym gloss; multi-model re-run (E6).
+
+### Proximity API rejects real place names outside anchor list
+
+- **Seen:** 2026-07-14 (machinist careers probe · Claude Sonnet subagent)
+- **Where:** `/api/locations?near=Spanish+Fork&radius_miles=40&type=venture`
+- **What:** HTTP 400 `INVALID_QUERY` — only 15 geocoding anchors (beaver…st george). Error text does say "use lat/lon", but the probe abandoned the endpoint instead of retrying. Agents will try real towns.
+- **Next check:** More anchors (Spanish Fork, Springville, Lindon, American Fork…) or geocode fallback; or teach llms.txt the lat/lon form.
 
 ### Capital stubs + Focus sludge; empty capital-programs hub
 

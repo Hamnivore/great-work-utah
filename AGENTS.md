@@ -38,6 +38,18 @@ raw markdown at `/pages/<slug>.md`, `/views/<view>.md`, `/meta/<doc>.md`. A mini
 
 Slug mismatches live in `ALIASES` inside both scripts. See `research/startup-state/README.md`.
 
+## Broken / moved official URLs
+
+Do not call a site dead from a failed `curl`. Use:
+
+- `npm run links:recover` — probe every `**Website:**`, apply `research/link-recovery/url-aliases.json`,
+  suggest Wayback snapshots and fuzzy catalog/wiki matches; writes `research/link-recovery/latest-report.md`.
+- `npm run links:recover:browser` — same with headless Chrome (needs Playwright + Chrome) when WAF
+  blocks plain fetch.
+
+Put the **best live** URL in `**Website:**`. Cite Wayback under Evidence when the live site is gone.
+Add confirmed typo/redirect fixes to `url-aliases.json`. Full playbook: `research/link-recovery/README.md`.
+
 ## Before designing anything
 
 Read `research/README.md`. It holds standing maintainer directives (radical simplicity,

@@ -74,7 +74,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Other, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -301,7 +301,7 @@ export default {
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Relocate a Business to Utah"
+        "focus": "Entrepreneurship Communities, Funding, Relocate a Business to Utah"
       }
     },
     {
@@ -351,7 +351,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -376,7 +376,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -526,7 +526,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Start a Business, Funding"
       }
     },
     {
@@ -678,7 +678,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Other"
       }
     },
     {
@@ -705,7 +705,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -732,7 +732,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth"
       }
     },
     {
@@ -759,7 +759,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -948,7 +948,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -975,7 +975,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Relocate a Business to Utah, Start a Business"
       }
     },
     {
@@ -1002,7 +1002,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business, Funding"
       }
     },
     {
@@ -1053,10 +1053,8 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=Davis+Technical+College+550+E+300+S+Kaysville+UT+84037",
         "anchorKind": "site",
         "region": "Kaysville",
-        "domains": [
-          "culture-place"
-        ],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Start a Business, Funding, Taxes and Finance"
       }
     },
     {
@@ -1080,10 +1078,8 @@ export default {
         "provenance": "https://innovation.utahtech.edu/contact-us/",
         "anchorKind": "site",
         "region": "St. George",
-        "domains": [
-          "culture-place"
-        ],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Start a Business, Funding, International Trade, Taxes and Finance"
       }
     },
     {
@@ -1107,10 +1103,8 @@ export default {
         "provenance": "https://seenutah.org/",
         "anchorKind": "site",
         "region": "Price",
-        "domains": [
-          "culture-place"
-        ],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -1164,7 +1158,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -1245,7 +1239,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -1272,7 +1266,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -1299,7 +1293,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -1350,9 +1344,7 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=Church+and+State+370+South+300+East+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [
-          "culture-place"
-        ],
+        "domains": [],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -1408,7 +1400,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -1620,6 +1612,31 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Cross Creek",
+        "type": "resource",
+        "url": "/pages/cross-creek.md",
+        "siteId": "cross-creek:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.55077,
           37.098317
         ]
@@ -1687,7 +1704,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Other"
       }
     },
     {
@@ -1762,7 +1779,7 @@ export default {
         "anchorKind": "regional",
         "region": "Kaysville",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -1783,11 +1800,11 @@ export default {
         "siteCount": 1,
         "mapLocation": "Davis County Economic Development, Davis County Administration Building, Suite 304, 61 S Main St, Farmington, UT 84025",
         "precision": "exact",
-        "provenance": "https://www.co.davis.ut.us/ced/economic-development",
+        "provenance": "https://www.daviscountyutah.gov/ced/economic-development",
         "anchorKind": "site",
         "region": "Davis County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth, Relocate a Business to Utah, Start a Business"
       }
     },
     {
@@ -1837,7 +1854,7 @@ export default {
         "anchorKind": "site",
         "region": "Delta",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -1937,7 +1954,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Late Stage Growth, Relocate a Business to Utah, Marketing and Sales"
       }
     },
     {
@@ -2140,7 +2157,7 @@ export default {
         "anchorKind": "site",
         "region": "Emery County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -2298,7 +2315,7 @@ export default {
         "anchorKind": "site",
         "region": "Escalante",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -2348,7 +2365,7 @@ export default {
         "anchorKind": "regional",
         "region": "Moab",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Marketing and Sales"
       }
     },
     {
@@ -2373,7 +2390,7 @@ export default {
         "anchorKind": "regional",
         "region": "Kane County",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Marketing and Sales"
       }
     },
     {
@@ -2398,7 +2415,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Late Stage Growth, Funding"
       }
     },
     {
@@ -2423,7 +2440,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Marketing and Sales, Taxes and Finance"
       }
     },
     {
@@ -2552,7 +2569,7 @@ export default {
         "anchorKind": "regional",
         "region": "Daggett County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -2677,7 +2694,7 @@ export default {
         "precision": "exact",
         "provenance": "https://www.futurereadyutah.org/",
         "anchorKind": "site",
-        "region": "statewide",
+        "region": "southwestern Utah",
         "domains": [],
         "focus": "Other"
       }
@@ -2729,7 +2746,7 @@ export default {
         "anchorKind": "site",
         "region": "Grand County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Late Stage Growth, Relocate a Business to Utah"
       }
     },
     {
@@ -2782,7 +2799,7 @@ export default {
         "anchorKind": "regional",
         "region": "Nephi",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -2807,7 +2824,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding"
+        "focus": "Entrepreneurship Communities, Funding, Start a Business"
       }
     },
     {
@@ -2934,7 +2951,7 @@ export default {
         "anchorKind": "site",
         "region": "Heber City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -2959,7 +2976,7 @@ export default {
         "anchorKind": "site",
         "region": "Heber City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -2984,7 +3001,7 @@ export default {
         "anchorKind": "site",
         "region": "Heber Valley",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -3115,7 +3132,7 @@ export default {
         "anchorKind": "regional",
         "region": "Hurricane",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Marketing and Sales"
       }
     },
     {
@@ -3168,7 +3185,7 @@ export default {
         "anchorKind": "site",
         "region": "Provo",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Start a Business"
+        "focus": "Start a Business, Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -3245,7 +3262,7 @@ export default {
         "anchorKind": "regional",
         "region": "Murray",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Other"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -3475,7 +3492,7 @@ export default {
         "anchorKind": "site",
         "region": "Iron County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -3575,7 +3592,7 @@ export default {
         "anchorKind": "site",
         "region": "Juab County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -4052,7 +4069,7 @@ export default {
         "anchorKind": "site",
         "region": "Logan",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Relocate a Business to Utah, Start a Business"
       }
     },
     {
@@ -4102,7 +4119,7 @@ export default {
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -4127,7 +4144,7 @@ export default {
         "anchorKind": "site",
         "region": "Pleasant Grove",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Start a Business, Late Stage Growth"
       }
     },
     {
@@ -4148,11 +4165,11 @@ export default {
         "siteCount": 1,
         "mapLocation": "177 East 900 South, Suite 200, Salt Lake City, UT 84111",
         "precision": "exact",
-        "provenance": "https://mavenslc.com/businesses/maven-create/",
+        "provenance": "https://mavencreateslc.com/",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -4229,7 +4246,7 @@ export default {
         "anchorKind": "site",
         "region": "Grand County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -4250,7 +4267,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "The Monarch, 455 25th St, Ogden, UT 84401",
         "precision": "exact",
-        "provenance": "https://www.themonarchogden.com/about/",
+        "provenance": "https://themonarchogden.com/",
         "anchorKind": "site",
         "region": "Ogden",
         "domains": [],
@@ -4279,7 +4296,7 @@ export default {
         "anchorKind": "regional",
         "region": "Monticello",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -4304,7 +4321,7 @@ export default {
         "anchorKind": "regional",
         "region": "Morgan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -4329,7 +4346,7 @@ export default {
         "anchorKind": "site",
         "region": "Morgan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -4379,7 +4396,7 @@ export default {
         "anchorKind": "site",
         "region": "Mountainland",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth"
       }
     },
     {
@@ -4404,7 +4421,7 @@ export default {
         "anchorKind": "site",
         "region": "Mountainland",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth"
       }
     },
     {
@@ -4608,7 +4625,7 @@ export default {
         "anchorKind": "regional",
         "region": "Northern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Late Stage Growth, Relocate a Business to Utah, Marketing and Sales"
       }
     },
     {
@@ -4861,7 +4878,7 @@ export default {
         "anchorKind": "site",
         "region": "Weber County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -5064,7 +5081,7 @@ export default {
         "anchorKind": "site",
         "region": "Park City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -5343,9 +5360,9 @@ export default {
         "precision": "exact",
         "provenance": "https://www.join-portal.com/location/salt-lake-city",
         "anchorKind": "site",
-        "region": "Northern Utah",
+        "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -5573,9 +5590,9 @@ export default {
         "precision": "exact",
         "provenance": "https://pscdocs.utah.gov/electric/16docs/16035T09/288519UtBusLtrRESched348-9-16.pdf",
         "anchorKind": "site",
-        "region": "unknown",
+        "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Other"
+        "focus": "Funding"
       }
     },
     {
@@ -5675,7 +5692,7 @@ export default {
         "anchorKind": "site",
         "region": "Richfield",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -5802,7 +5819,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salina",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -5852,7 +5869,7 @@ export default {
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth, Marketing and Sales"
       }
     },
     {
@@ -5877,7 +5894,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Start a Business"
       }
     },
     {
@@ -5902,7 +5919,7 @@ export default {
         "anchorKind": "site",
         "region": "Sandy",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business, Funding, Marketing and Sales"
       }
     },
     {
@@ -5925,7 +5942,7 @@ export default {
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Salt+Mine+Productive+Workspace+7984+S+1300+E+Sandy+UT+84094",
         "anchorKind": "site",
-        "region": "Northern Utah",
+        "region": "Sandy",
         "domains": [],
         "focus": "Entrepreneurship Communities"
       }
@@ -5952,7 +5969,7 @@ export default {
         "anchorKind": "site",
         "region": "San Juan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -5977,7 +5994,7 @@ export default {
         "anchorKind": "site",
         "region": "San Juan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -6152,7 +6169,7 @@ export default {
         "anchorKind": "site",
         "region": "Sanpete County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -6330,7 +6347,7 @@ export default {
         "anchorKind": "site",
         "region": "Sevier County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -6405,7 +6422,7 @@ export default {
         "anchorKind": "site",
         "region": "Central Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth"
       }
     },
     {
@@ -6483,7 +6500,7 @@ export default {
         "anchorKind": "site",
         "region": "Ephraim",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business, Funding"
       }
     },
     {
@@ -6508,7 +6525,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Other"
+        "focus": "Funding"
       }
     },
     {
@@ -6541,31 +6558,6 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.51,
-          37.28
-        ]
-      },
-      "properties": {
-        "title": "SoUtah Economic Alliance",
-        "type": "resource",
-        "url": "/pages/soutah-economic-alliance.md",
-        "siteId": "soutah-economic-alliance:37.280000,-113.510000",
-        "siteIndex": 0,
-        "siteCount": 1,
-        "mapLocation": "Washington County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
-        "region": "Washington County",
-        "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -110.8362394,
           39.5957889
         ]
@@ -6583,7 +6575,7 @@ export default {
         "anchorKind": "site",
         "region": "Southeastern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth"
       }
     },
     {
@@ -6608,7 +6600,7 @@ export default {
         "anchorKind": "site",
         "region": "Southeastern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -6633,7 +6625,7 @@ export default {
         "anchorKind": "site",
         "region": "Cedar City",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Start a Business, Funding"
       }
     },
     {
@@ -6658,7 +6650,7 @@ export default {
         "anchorKind": "site",
         "region": "Cedar City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business, Marketing and Sales"
       }
     },
     {
@@ -6761,7 +6753,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -6786,7 +6778,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -6811,7 +6803,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth, Other"
+        "focus": "Entrepreneurship Communities, Marketing and Sales"
       }
     },
     {
@@ -6936,7 +6928,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Funding, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -6961,7 +6953,7 @@ export default {
         "anchorKind": "site",
         "region": "Summit County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -7163,7 +7155,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Relocate a Business to Utah, Start a Business, Entrepreneurship Communities"
       }
     },
     {
@@ -7263,7 +7255,7 @@ export default {
         "anchorKind": "site",
         "region": "Logan",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Start a Business, Funding"
       }
     },
     {
@@ -7288,7 +7280,7 @@ export default {
         "anchorKind": "site",
         "region": "Sandy",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Start a Business, Funding, Marketing and Sales"
       }
     },
     {
@@ -7309,7 +7301,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "350 East 400 South, Salt Lake City, UT 84111",
         "precision": "exact",
-        "provenance": "https://www.google.com/maps/search/?api=1&query=The+Shop+350+East+400+South+Salt+Lake+City+UT",
+        "provenance": "https://shopworkspace.com/location/salt-lake-city/",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
@@ -7521,7 +7513,7 @@ export default {
         "anchorKind": "site",
         "region": "Uinta Basin",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth"
       }
     },
     {
@@ -7546,7 +7538,7 @@ export default {
         "anchorKind": "site",
         "region": "Uinta Basin",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -7571,7 +7563,7 @@ export default {
         "anchorKind": "site",
         "region": "Uinta Basin",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -7596,7 +7588,7 @@ export default {
         "anchorKind": "site",
         "region": "Uintah County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth, Start a Business"
       }
     },
     {
@@ -7746,7 +7738,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Other"
       }
     },
     {
@@ -7771,7 +7763,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -7846,7 +7838,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Entrepreneurship Communities"
       }
     },
     {
@@ -7871,7 +7863,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -7896,7 +7888,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -7921,7 +7913,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -7946,7 +7938,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -7971,7 +7963,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -7996,7 +7988,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8021,7 +8013,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8046,7 +8038,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8071,7 +8063,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8096,7 +8088,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8121,7 +8113,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8146,7 +8138,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8171,7 +8163,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8196,7 +8188,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8221,7 +8213,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8246,7 +8238,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8271,7 +8263,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8296,7 +8288,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8321,7 +8313,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8346,7 +8338,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8371,7 +8363,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8396,7 +8388,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8421,7 +8413,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8446,7 +8438,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8471,7 +8463,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8496,7 +8488,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8521,7 +8513,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8546,7 +8538,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8571,7 +8563,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8596,7 +8588,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8621,7 +8613,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -8646,7 +8638,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -8671,7 +8663,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Marketing and Sales"
       }
     },
     {
@@ -8748,7 +8740,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Funding, Start a Business, Relocate a Business to Utah, Taxes and Finance, International Trade"
       }
     },
     {
@@ -8773,7 +8765,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -8798,7 +8790,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -8823,7 +8815,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Late Stage Growth, Relocate a Business to Utah"
       }
     },
     {
@@ -8898,7 +8890,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -8923,7 +8915,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Other"
       }
     },
     {
@@ -8948,7 +8940,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8973,7 +8965,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8998,7 +8990,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Funding"
+        "focus": "Funding, Start a Business"
       }
     },
     {
@@ -9023,7 +9015,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -9098,7 +9090,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Other"
+        "focus": "Marketing and Sales, Entrepreneurship Communities"
       }
     },
     {
@@ -9123,7 +9115,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Start a Business"
       }
     },
     {
@@ -9523,7 +9515,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business, Marketing and Sales"
       }
     },
     {
@@ -9573,7 +9565,7 @@ export default {
         "anchorKind": "site",
         "region": "Orem",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -9698,7 +9690,7 @@ export default {
         "anchorKind": "regional",
         "region": "Hildale",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -9803,7 +9795,7 @@ export default {
         "anchorKind": "site",
         "region": "Vernal",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -9828,7 +9820,7 @@ export default {
         "anchorKind": "regional",
         "region": "Vernal",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Marketing and Sales"
       }
     },
     {
@@ -9853,7 +9845,7 @@ export default {
         "anchorKind": "site",
         "region": "Vernal",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -9878,7 +9870,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business, Marketing and Sales"
       }
     },
     {
@@ -9903,7 +9895,7 @@ export default {
         "anchorKind": "regional",
         "region": "Iron County",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -9928,7 +9920,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Other"
+        "focus": "Marketing and Sales, Other"
       }
     },
     {
@@ -9978,7 +9970,7 @@ export default {
         "anchorKind": "site",
         "region": "Wasatch Front",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Late Stage Growth, Relocate a Business to Utah"
       }
     },
     {
@@ -10003,7 +9995,7 @@ export default {
         "anchorKind": "regional",
         "region": "Wasatch County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -10028,7 +10020,7 @@ export default {
         "anchorKind": "regional",
         "region": "Washington",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -10053,7 +10045,7 @@ export default {
         "anchorKind": "regional",
         "region": "Washington",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -10187,7 +10179,7 @@ export default {
         "anchorKind": "site",
         "region": "Ogden",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Late Stage Growth, Start a Business"
       }
     },
     {
@@ -10212,7 +10204,7 @@ export default {
         "anchorKind": "site",
         "region": "Weber County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+        "focus": "Funding, Late Stage Growth, Relocate a Business to Utah"
       }
     },
     {
@@ -10406,13 +10398,13 @@ export default {
         "siteId": "work-hive:40.764601,-111.895303",
         "siteIndex": 0,
         "siteCount": 1,
-        "mapLocation": "159 West Broadway, Suite 200, Salt Lake City, UT 84101",
+        "mapLocation": "56 East Broadway, Salt Lake City, UT 84101",
         "precision": "exact",
-        "provenance": "https://www.google.com/maps/search/?api=1&query=Work+Hive+159+West+Broadway+Salt+Lake+City+UT",
+        "provenance": "https://workhiveslc.com/",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -10433,7 +10425,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "132 South State Street, Salt Lake City, UT 84111",
         "precision": "exact",
-        "provenance": "https://www.google.com/maps/search/?api=1&query=Workbox+132+South+State+Street+Salt+Lake+City+UT",
+        "provenance": "https://www.workboxcompany.com/",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
@@ -10487,7 +10479,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "focus": "International Trade, Late Stage Growth"
       }
     },
     {

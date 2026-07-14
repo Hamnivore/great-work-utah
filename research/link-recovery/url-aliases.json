@@ -1,0 +1,40 @@
+{
+  "description": "Known URL corrections for moved, mistyped, or superseded official sites. Keys are normalized (lowercase, no trailing slash). Values are preferred live URLs.",
+  "aliases": {
+    "http://www.1mcslc.com": "https://1mcslc.com/",
+    "http://futurereadyutah.org": "https://futurereadyutah.org/",
+    "http://www.fivecounty.utah.gov": "https://www.fivecounty.utah.gov/",
+    "http://makesaltlake.org": "https://makesaltlake.org/",
+    "https://washingtoncity.org/development/economicdevelopment": "https://washingtonutah.gov/development/economicdevelopment",
+    "https://scedc.com": "https://sevieredc.com/",
+    "https://www.scedc.com": "https://sevieredc.com/",
+    "https://mountainland.org": "https://magutah.gov/",
+    "https://www.mountainland.org": "https://magutah.gov/",
+    "https://morgancountyinfo.com": "https://morgancountyutah.gov/economic-development",
+    "https://www.morgancountyinfo.com": "https://morgancountyutah.gov/economic-development",
+    "https://www.co.grand.co.us/1056/Economic-Development": "https://grandcountyutah.net/",
+    "https://innovation.utahtech.edu/business-resource-center-at-dsu": "https://innovation.utahtech.edu/business-resource-center/",
+    "https://startup.utah.gov/get-started": "https://startup.utah.gov/business-resource/get-started-business-idea-challenge/",
+    "https://startup.utah.gov/business-idea-challenge": "https://startup.utah.gov/business-resource/get-started-business-idea-challenge/",
+    "https://seualg.utah.gov/index.php/economic-development": "https://serda.utah.gov/",
+    "https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf": "https://serda.utah.gov/",
+    "https://www.ulct.org": "https://www.ulct.utah.gov/",
+    "https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined": "https://www.sba.gov/sba-learning-platform/sba-thrive",
+    "https://sanpetechamber.com": "https://sanpetechamber.org/",
+    "https://www.sanpetechamber.com": "https://sanpetechamber.org/"
+  },
+  "wayback_preferred": {
+    "https://www.impactutah.org": "https://web.archive.org/web/20241218094311/https://www.impactutah.org/",
+    "https://pittedventures.com": "https://web.archive.org/web/20241001020111/https://pittedventures.com/",
+    "https://www.morganutahchamber.org": "https://web.archive.org/web/20241220202228/https://www.morganutahchamber.org/",
+    "https://www.acceler8wasatch.com": "https://web.archive.org/web/20241216133901/https://www.acceler8wasatch.com/",
+    "https://visionironcounty.org": null,
+    "https://www.escalantecity-utah.com": null
+  },
+  "notes": {
+    "https://seualg.utah.gov": "Host requires HTTP auth; public face is serda.utah.gov (SERDA / SEUALG).",
+    "https://pittedventures.com": "Returns hard 403 even in headed Chrome; not a Cloudflare interstitial. Prefer Wayback until a live successor appears.",
+    "https://www.impactutah.org": "TLS handshake fails (ERR_SSL_PROTOCOL_ERROR). Overlaps Utah MEP — prefer utah-mep.md for live recommendations.",
+    "https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf": "Dedicated RLF path 404s; org home r6.utah.gov is live — contact staff listed on wiki page."
+  }
+}

@@ -27,6 +27,8 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
 - `npm run startup-state:check` — diff live startup.utah.gov resources vs wiki
   (`research/startup-state/`); use `:check:strict` in CI-style gates.
 - `npm run startup-state:sync` — refresh matching pages from the live WP API.
+- `npm run links:recover` — probe broken/moved `**Website:**` URLs (aliases + Wayback +
+  catalog fuzzy match); `:browser` adds headless Chrome. See `research/link-recovery/`.
 
 Run both wiki commands before finishing any change to `wiki/pages/`.
 

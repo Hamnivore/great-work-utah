@@ -14,7 +14,9 @@
     "urls:plaintext": "node scripts/plaintext-urls.mjs",
     "startup-state:check": "node scripts/check-startup-state-resources.mjs",
     "startup-state:sync": "node scripts/sync-startup-state-from-api.mjs",
-    "startup-state:check:strict": "node scripts/check-startup-state-resources.mjs --strict"
+    "startup-state:check:strict": "node scripts/check-startup-state-resources.mjs --strict",
+    "links:recover": "node scripts/recover-broken-links.mjs --write-report",
+    "links:recover:browser": "node scripts/recover-broken-links.mjs --write-report --browser"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.21",

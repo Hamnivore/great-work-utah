@@ -1,0 +1,25 @@
+[
+  {
+    "stem": "impact-utah",
+    "title": "iMpact Utah",
+    "website": "https://www.impactutah.org/",
+    "verdict": "UNREACHABLE",
+    "note": "TLS handshake fails (ERR_SSL_PROTOCOL_ERROR). Overlaps Utah MEP — prefer utah-mep.md for live recommendations.",
+    "probe": {
+      "status": null,
+      "finalUrl": "https://www.impactutah.org/",
+      "title": "",
+      "error": "fetch failed",
+      "parked": false,
+      "challenge": false
+    },
+    "browser": null,
+    "suggestions": [
+      {
+        "kind": "wayback",
+        "url": "https://web.archive.org/web/20241218094311/https://www.impactutah.org/",
+        "why": "Archive (alias-preferred)"
+      }
+    ]
+  }
+]

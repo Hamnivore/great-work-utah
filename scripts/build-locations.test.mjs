@@ -11,17 +11,21 @@ test('emits GeoJSON longitude first with precision and provenance', () => {
     title: 'Example', type: 'venture', url: '/pages/example.md',
     mapLocation: 'Public lab, Provo', precision: 'exact',
     provenance: 'https://example.org/contact',
+    anchorKind: 'site',
     region: 'Provo', domains: ['energy', 'materials-mfg'], focus: 'energy storage',
   })
 })
 
-test('does not emit person points', () => {
-  const feature = pageToFeature(page(`**Coordinates:** 40, -111`, 'person'), 'person.md')
-  assert.equal(feature, null)
+test('downgrades person coordinates to a coarse regional anchor', () => {
+  const feature = pageToFeature(page(`**Coordinates:** 40.2518, -111.6493`, 'person'), 'person.md')
+  assert.equal(feature.properties.anchorKind, 'regional')
+  assert.equal(feature.properties.precision, 'approximate')
+  assert.deepEqual(feature.geometry.coordinates, [-111.6585, 40.2338])
 })
 
-test('ignores pages without explicit coordinates', () => {
-  assert.equal(pageToFeature(page('**Region:** Provo'), 'example.md'), null)
+test('emits regional anchors for pages without explicit coordinates', () => {
+  const feature = pageToFeature(page(''), 'example.md')
+  assert.equal(feature.properties.anchorKind, 'regional')
 })
 
 test('rejects malformed or incomplete coordinate metadata', () => {

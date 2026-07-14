@@ -2,28 +2,30 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
+import { REGION_ANCHORS, REGION_SOURCE } from './region-anchors.mjs'
 
 const meta = (raw, key) =>
   (raw.match(new RegExp(`^\\*\\*${key}:\\*\\* (.+)$`, 'm')) || [])[1]?.trim() || ''
 
 export function pageToFeature(raw, file) {
   const type = meta(raw, 'Type')
-  // Person locations are never published, even if a page accidentally has coordinates.
-  if (type === 'person') return null
+  if (!['venture', 'person', 'helper', 'resource', 'work'].includes(type)) return null
 
   const coordinates = meta(raw, 'Coordinates')
-  if (!coordinates) return null
+  const region = meta(raw, 'Region')
+  const regionalAnchor = REGION_ANCHORS[region]
+  const useRegionalAnchor = type === 'person' || !coordinates
+  if (useRegionalAnchor && !regionalAnchor) return null
 
   const title = (raw.match(/^# (.+)$/m) || [, file])[1].trim()
-  const label = meta(raw, 'Map Location')
-  const precision = meta(raw, 'Location Precision')
-  const source = meta(raw, 'Location Source')
-  const region = meta(raw, 'Region')
+  const label = useRegionalAnchor ? `${region} regional anchor (not a street address)` : meta(raw, 'Map Location')
+  const precision = useRegionalAnchor ? 'approximate' : meta(raw, 'Location Precision')
+  const source = useRegionalAnchor ? REGION_SOURCE : meta(raw, 'Location Source')
   const focus = meta(raw, 'Focus')
   const domains = meta(raw, 'Domain').split(',').map((value) => value.trim()).filter(Boolean)
   const problems = []
 
-  const parts = coordinates.split(',').map((part) => part.trim())
+  const parts = useRegionalAnchor ? regionalAnchor : coordinates.split(',').map((part) => part.trim())
   const latitude = Number(parts[0])
   const longitude = Number(parts[1])
   if (parts.length !== 2 || !Number.isFinite(latitude) || !Number.isFinite(longitude)) {
@@ -54,6 +56,7 @@ export function pageToFeature(raw, file) {
       mapLocation: label,
       precision,
       provenance: source,
+      anchorKind: useRegionalAnchor ? 'regional' : 'site',
       region,
       domains,
       focus,

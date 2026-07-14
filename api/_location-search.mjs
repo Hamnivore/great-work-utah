@@ -1,10 +1,10 @@
 const EARTH_RADIUS_MILES = 3958.7613
 const MAX_RADIUS_MILES = 500
-const MAX_LIMIT = 50
+const MAX_LIMIT = 500
 import UTAH_PLACES from './_utah-places.mjs'
 
 const ALLOWED_PARAMS = new Set(['q', 'near', 'lat', 'lon', 'radius_miles', 'limit', 'type', 'domain', 'precision'])
-const PAGE_TYPES = new Set(['venture', 'helper', 'resource', 'work'])
+const PAGE_TYPES = new Set(['venture', 'person', 'helper', 'resource', 'work'])
 const DOMAINS = new Set(['energy', 'health-bio', 'aerospace-defense', 'computing', 'materials-mfg', 'space-science', 'capital-programs', 'culture-place'])
 
 const radians = (degrees) => degrees * Math.PI / 180
@@ -87,6 +87,7 @@ export function searchLocations(collection, rawQuery = {}, { baseUrl = '' } = {}
         precision: properties.precision,
         distanceMiles: fullDistance == null ? null : Math.round(fullDistance * 100) / 100,
         provenance: properties.provenance,
+        anchorKind: properties.anchorKind,
       },
       _distance: fullDistance,
     }]
@@ -97,6 +98,8 @@ export function searchLocations(collection, rawQuery = {}, { baseUrl = '' } = {}
     : a.title.toLowerCase().localeCompare(b.title.toLowerCase()))
   const returned = results.slice(0, limit).map(({ _distance, ...result }) => result)
   const hasApproximate = returned.some((result) => result.location.precision === 'approximate')
+  const sitePoints = collection.features.filter((feature) => feature.properties.anchorKind === 'site').length
+  const regionalPoints = collection.features.length - sitePoints
 
   return {
     query: {
@@ -113,11 +116,13 @@ export function searchLocations(collection, rawQuery = {}, { baseUrl = '' } = {}
     },
     coverage: {
       publishedPoints: collection.features.length,
+      sitePoints,
+      regionalPoints,
       matchedPoints: results.length,
       returnedPoints: returned.length,
       truncated: results.length > returned.length,
       comprehensive: false,
-      note: `Sparse, curated public-site coverage only. Absence does not mean an organization or service is absent nearby. People, residences, private workplaces, statewide-only services, ambiguous addresses, and unverified locations are omitted.${hasApproximate ? ' Distances to approximate points are distances to area anchors, not buildings.' : ''}`,
+      note: `Verified public sites use site coordinates. People and entities without a safe public site use coarse regional anchors; those distances are to the named region, not a person or building. Residences, statewide-only services, unknown regions, and unverified Utah locations are omitted.${hasApproximate ? ' Treat approximate distances as regional context.' : ''}`,
     },
     results: returned,
   }

@@ -70,6 +70,12 @@ The map shipped at `/map` in commit `e0dcb49`, consuming `/api/locations` direct
 
 Playwright full-page captures passed locally and on `https://greatutah.work/map` at 1440×1000 and 390×844. Tiles and all eight markers rendered; controls and text fit without overlap; the mobile view stacked the map and scan list cleanly. A production Ogden API regression still returned Startup Ogden then Clearfield Job Corps at 0.22 and 9.64 miles. Dependency audit reported zero vulnerabilities after the map dependency update.
 
+## Regional-anchor expansion
+
+Maintainer follow-up changed the coverage policy: people and private entities should remain visible at region granularity rather than disappearing. The generator now emits verified site points where explicitly sourced and otherwise derives coarse city/county/area anchors from `Region`. Person pages always downgrade to a regional anchor even if exact coordinates are accidentally present; residences remain excluded. Statewide-only, unknown, and unverified Utah locations still have no point.
+
+Coverage increased from 8 verified sites to 288 mapped pages: 8 site points and 280 regional anchors. Shared centroids are not jittered into fake precision; the human map aggregates pages at identical coordinates into count-scaled regional markers. A local Salt Lake City people query returned six people, all labeled `anchorKind: regional`, and the expanded desktop map passed a fresh Playwright render check.
+
 ## What this establishes and does not
 
 The experiment establishes discoverability, useful query ergonomics, correct distance behavior, page follow-through, privacy signaling, and an honest regional fallback. Eight points prove the plumbing, not statewide recall. Expanding verified location coverage remains a corpus task and should be measured separately from endpoint usability.

@@ -14,7 +14,8 @@ test('distance uses miles and is symmetric', () => {
 
 test('proximity results are ordered and radius-filtered', () => {
   const result = searchLocations(locations, { lat: '41.223', lon: '-111.9738', radius_miles: '35' })
-  assert.equal(result.results[0].title, 'Startup Ogden')
+  assert.ok(result.results.some((item) => item.title === 'Startup Ogden'))
+  assert.ok(result.results[0].location.distanceMiles <= result.results.at(-1).location.distanceMiles)
   assert.ok(result.results.every((item) => item.location.distanceMiles <= 35))
 })
 
@@ -33,8 +34,8 @@ test('text, type, and domain filters compose', () => {
 test('invalid parameters return actionable errors', () => {
   assert.throws(() => searchLocations(locations, { lat: '40' }), /provided together/)
   assert.throws(() => searchLocations(locations, { lat: '0', lon: '-111' }), /lat.*36.99.*42.01/)
-  assert.doesNotThrow(() => searchLocations(locations, { type: 'venture' }))
-  assert.throws(() => searchLocations(locations, { type: 'person' }), /unknown value.*Allowed/)
+  assert.doesNotThrow(() => searchLocations(locations, { type: 'venture,person' }))
+  assert.throws(() => searchLocations(locations, { type: 'guide' }), /unknown value.*Allowed/)
   assert.throws(() => searchLocations(locations, { lng: '-111' }), /Unknown parameter/)
   assert.throws(() => searchLocations(locations, { radius_miles: '10' }), /requires/)
   assert.throws(() => searchLocations(locations, { near: 'Atlantis' }), /Unknown.*Available anchors/)

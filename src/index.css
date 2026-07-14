@@ -205,4 +205,5 @@ body {
   .map-canvas { min-height: 52vh; }
   .map-results { max-height: none; border-left: 0; border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 45%, transparent); }
   .map-segments { max-width: 100%; overflow-x: auto; }
+  .map-segments button { padding-inline: 0.45rem; font-size: 0.7rem; }
 }

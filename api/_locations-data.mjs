@@ -7,6 +7,382 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "1 Million Cups (Orem)",
+        "type": "resource",
+        "url": "/pages/1-million-cups-orem.md",
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Start a Business, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "1 Million Cups (Salt Lake)",
+        "type": "resource",
+        "url": "/pages/1-million-cups-salt-lake.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Start a Business, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "1MC Salt Lake",
+        "type": "resource",
+        "url": "/pages/1mc-salt-lake.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Other, Start a Business, Any, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.973,
+          41.1237
+        ]
+      },
+      "properties": {
+        "title": "309th Software Engineering Group",
+        "type": "venture",
+        "url": "/pages/309th-software-engineering-group.md",
+        "mapLocation": "Hill Air Force Base regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Hill Air Force Base",
+        "domains": [],
+        "focus": "flight software, weapons software, mission software, DevSecOps, safety-critical systems, Air Force sustainment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "3Helix",
+        "type": "venture",
+        "url": "/pages/3helix.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "collagen hybridizing peptides, diagnostics, drug delivery, histopathology, collagen damage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11,
+          41.01
+        ]
+      },
+      "properties": {
+        "title": "A-Tech home plans",
+        "type": "resource",
+        "url": "/pages/a-tech-home-plans.md",
+        "mapLocation": "Davis County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Davis County",
+        "domains": [],
+        "focus": "Other, Rural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8183,
+          39.1552
+        ]
+      },
+      "properties": {
+        "title": "ACT Aerospace",
+        "type": "venture",
+        "url": "/pages/act-aerospace.md",
+        "mapLocation": "Gunnison regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Gunnison",
+        "domains": [],
+        "focus": "aerospace composites, carbon fiber structures, composite manufacturing, aerostructures, defense supply chain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Adobe",
+        "type": "venture",
+        "url": "/pages/adobe.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing"
+        ],
+        "focus": "creative software, digital media, cloud subscriptions, digital marketing, document management"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Ai Seminar for Small Businesses & Non-Profits",
+        "type": "resource",
+        "url": "/pages/ai-seminar-for-small-businesses-and-non-profits.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Other, Any, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Album",
+        "type": "resource",
+        "url": "/pages/album.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Altitude Labs",
+        "type": "resource",
+        "url": "/pages/altitude-labs.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Relocate a Business to Utah, Life Sciences and Healthcare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Ancestry",
+        "type": "venture",
+        "url": "/pages/ancestry.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "genealogy, family history, consumer genomics, historical records, digitization"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8338,
+          41.737
+        ]
+      },
+      "properties": {
+        "title": "Araknitek",
+        "type": "venture",
+        "url": "/pages/araknitek.md",
+        "mapLocation": "Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Logan",
+        "domains": [],
+        "focus": "synthetic spider silk, biomaterials, advanced materials, university spinout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Army Short-Range Reconnaissance UAS",
+        "type": "work",
+        "url": "/pages/army-short-range-reconnaissance-uas.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "defense manufacturing, small drones, ISR, battlefield reconnaissance, domestic industrial base"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "University of Utah ARPANET Fourth Node",
+        "type": "work",
+        "url": "/pages/arpanet-fourth-node.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "internet history, packet switching, computer science, ARPA research"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Atavistik Bio",
+        "type": "venture",
+        "url": "/pages/atavistik-bio.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "allosteric drug discovery, oncology, precision medicine, structural biology, metabolite-protein interactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.74,
+          41.73
+        ]
+      },
+      "properties": {
+        "title": "Atmospheric Waves Experiment",
+        "type": "work",
+        "url": "/pages/atmospheric-waves-experiment.md",
+        "mapLocation": "Cache County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Cache County",
+        "domains": [],
+        "focus": "space instrumentation, upper atmosphere, atmospheric physics, Space Dynamics Laboratory, NASA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.5684606,
           37.1103165
         ]
@@ -18,9 +394,745 @@ export default {
         "mapLocation": "Atwood Innovation Plaza, 453 S 700 E, St. George, UT 84770",
         "precision": "exact",
         "provenance": "https://umac.utahtech.edu/art-in-the-city/",
+        "anchorKind": "site",
         "region": "St. George",
         "domains": [],
         "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.67,
+          40.12
+        ]
+      },
+      "properties": {
+        "title": "Autonomous Low-Collateral Counter-UAS Interception",
+        "type": "work",
+        "url": "/pages/autonomous-low-collateral-counter-uas-interception.md",
+        "mapLocation": "Utah County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah County",
+        "domains": [],
+        "focus": "defense, counter-drone, autonomous systems, air defense, critical infrastructure protection"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98,
+          41.71
+        ]
+      },
+      "properties": {
+        "title": "Autonomous Solutions, Inc. (ASI)",
+        "type": "venture",
+        "url": "/pages/autonomous-solutions-inc.md",
+        "mapLocation": "Mendon; Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Mendon; Lehi",
+        "domains": [],
+        "focus": "off-road vehicle autonomy, industrial fleet automation, OEM-agnostic robotics, mining, agriculture, construction, logistics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7208,
+          40.3433
+        ]
+      },
+      "properties": {
+        "title": "BambooHR",
+        "type": "venture",
+        "url": "/pages/bamboohr.md",
+        "mapLocation": "Lindon regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lindon",
+        "domains": [],
+        "focus": "HR software, payroll, benefits, people operations, SMB SaaS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Batu Biologics",
+        "type": "venture",
+        "url": "/pages/batu-biologics.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "immuno-oncology, tumor vasculature, anti-angiogenesis, university spinout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Baxter Aerospace",
+        "type": "venture",
+        "url": "/pages/baxter-aerospace.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "unmanned aircraft, deployable communications, ISR, defense, emergency response, advanced manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.24,
+          41.63
+        ]
+      },
+      "properties": {
+        "title": "Bear Lake Regional Commission",
+        "type": "resource",
+        "url": "/pages/bear-lake-regional-commission.md",
+        "mapLocation": "Rich County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Rich County",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Arts and Entertainment and Recreation, Life Sciences and Healthcare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.24,
+          41.63
+        ]
+      },
+      "properties": {
+        "title": "Bear Lake Valley Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/bear-lake-valley-chamber-of-commerce.md",
+        "mapLocation": "Rich County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Rich County",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112,
+          41.6
+        ]
+      },
+      "properties": {
+        "title": "Bear River Association of Governments",
+        "type": "resource",
+        "url": "/pages/bear-river-association-of-governments.md",
+        "mapLocation": "Bear River region regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Bear River region",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.75,
+          37.75
+        ]
+      },
+      "properties": {
+        "title": "BIG Chamber (Beaver, Iron, Garfield)",
+        "type": "resource",
+        "url": "/pages/big-chamber-beaver-iron-garfield.md",
+        "mapLocation": "Beaver-Iron-Garfield region regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Beaver-Iron-Garfield region",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93,
+          40.67
+        ]
+      },
+      "properties": {
+        "title": "Kennecott Bingham Canyon Mine",
+        "type": "work",
+        "url": "/pages/bingham-canyon-mine.md",
+        "mapLocation": "Salt Lake County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake County",
+        "domains": [
+          "materials-mfg"
+        ],
+        "focus": "mining, copper, mass-mining, industrial engineering, extractive industry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "BioEnergenix",
+        "type": "venture",
+        "url": "/pages/bioenergenix.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "metabolic syndrome, PASK inhibition, diabetes, obesity, NAFLD/NASH, University of Utah spinout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "BioFire Diagnostics",
+        "type": "venture",
+        "url": "/pages/biofire-diagnostics.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "infectious disease diagnostics, multiplex PCR, syndromic testing, in vitro diagnostics, life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Bioparin",
+        "type": "venture",
+        "url": "/pages/bioparin.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "synthetic heparin, biomanufacturing, anticoagulants, supply chain resilience, university spinout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Blackrock Neurotech",
+        "type": "venture",
+        "url": "/pages/blackrock-neurotech.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "brain-computer interfaces, neural engineering, medical devices, restoration of motor and speech function"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.08,
+          41.52
+        ]
+      },
+      "properties": {
+        "title": "Box Elder Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/box-elder-chamber-of-commerce.md",
+        "mapLocation": "Box Elder County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Box Elder County",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0155,
+          41.5102
+        ]
+      },
+      "properties": {
+        "title": "Brigham City Economic Development",
+        "type": "resource",
+        "url": "/pages/brigham-city-economic-development.md",
+        "mapLocation": "Brigham City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Brigham City",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "Brigham Young University (BYU) - Rollins Center",
+        "type": "resource",
+        "url": "/pages/brigham-young-university-byu-rollins-center.md",
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9738,
+          41.223
+        ]
+      },
+      "properties": {
+        "title": "Browning Firearms Designs",
+        "type": "work",
+        "url": "/pages/browning-firearms-designs.md",
+        "mapLocation": "Ogden regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Ogden",
+        "domains": [
+          "aerospace-defense"
+        ],
+        "focus": "firearms design, mechanical engineering, defense history, Ogden manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9386,
+          41.0352
+        ]
+      },
+      "properties": {
+        "title": "Business Resource Center - Davis Tech College",
+        "type": "resource",
+        "url": "/pages/business-resource-center-davis-tech-college.md",
+        "mapLocation": "Kaysville regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Kaysville",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Business Resource Center - Utah Tech University",
+        "type": "resource",
+        "url": "/pages/business-resource-center-utah-tech-university.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8107,
+          39.5994
+        ]
+      },
+      "properties": {
+        "title": "Business Technical Assistance Center",
+        "type": "resource",
+        "url": "/pages/business-technical-assistance-center.md",
+        "mapLocation": "Price regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Price",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "BYU-Pathway Worldwide",
+        "type": "venture",
+        "url": "/pages/byu-pathway.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "online higher education, workforce development, global access, low-cost credentialing, faith-affiliated nonprofit education"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.74,
+          41.73
+        ]
+      },
+      "properties": {
+        "title": "Cache Valley Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/cache-valley-chamber-of-commerce.md",
+        "mapLocation": "Cache County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Cache County",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "CaLycia Biosciences",
+        "type": "venture",
+        "url": "/pages/calycia-biosciences.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Capecchi Gene Targeting and the Knockout Mouse",
+        "type": "work",
+        "url": "/pages/capecchi-gene-targeting.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "gene targeting, knockout mice, biomedical research, genetics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.59,
+          39.65
+        ]
+      },
+      "properties": {
+        "title": "Carbon County Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/carbon-county-chamber-of-commerce.md",
+        "mapLocation": "Carbon County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Carbon County",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.59,
+          39.65
+        ]
+      },
+      "properties": {
+        "title": "Carbon County Economic Development",
+        "type": "resource",
+        "url": "/pages/carbon-county-economic-development.md",
+        "mapLocation": "Carbon County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Carbon County",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0619,
+          37.6775
+        ]
+      },
+      "properties": {
+        "title": "Cedar City Area Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/cedar-city-area-chamber-of-commerce.md",
+        "mapLocation": "Cedar City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Cedar City",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Chad Testa",
+        "type": "person",
+        "url": "/pages/chad-testa.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "antibiotics, antimicrobial resistance, biotech CEO, mission-driven pharma, Gram-negative bacteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Church and State",
+        "type": "resource",
+        "url": "/pages/church-and-state.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "CleanJoule",
+        "type": "venture",
+        "url": "/pages/cleanjoule.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "aerospace-defense",
+          "energy"
+        ],
+        "focus": "sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization"
       }
     },
     {
@@ -39,11 +1151,597 @@ export default {
         "mapLocation": "Clearfield Job Corps Center, 20 W 1700 S, Clearfield, UT 84016",
         "precision": "exact",
         "provenance": "https://clearfield.jobcorps.gov/contact",
+        "anchorKind": "site",
         "region": "Clearfield",
         "domains": [
           "culture-place"
         ],
         "focus": "Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Conotoxins and Prialt",
+        "type": "work",
+        "url": "/pages/conotoxins-and-prialt.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "drug discovery, molecular neuroscience, venom peptides, non-opioid pain, ion channels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "Coreform",
+        "type": "venture",
+        "url": "/pages/coreform.md",
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [],
+        "focus": "engineering simulation, isogeometric analysis, CAD, finite element analysis, CAE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Cosm",
+        "type": "venture",
+        "url": "/pages/cosm.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "shared reality, immersive entertainment, LED dome venues, real-time rendering, Evans & Sutherland heritage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Cotopaxi",
+        "type": "venture",
+        "url": "/pages/cotopaxi.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "outdoor gear, apparel, social enterprise, B Corp, philanthropy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Coworking Space in Salt Lake City - Offices.net",
+        "type": "resource",
+        "url": "/pages/coworking-space-in-salt-lake-city-offices-net.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Any, Multicultural, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Culmination Bio",
+        "type": "venture",
+        "url": "/pages/culmination-bio.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "clinical data platform, longitudinal patient data, drug discovery, diagnostics, biotech spinout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Curza",
+        "type": "venture",
+        "url": "/pages/curza.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Cynosure",
+        "type": "resource",
+        "url": "/pages/cynosure.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Dave Bearss",
+        "type": "person",
+        "url": "/pages/dave-bearss.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "drug discovery, oncology, inflammation, university translational programs, Utah life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9386,
+          41.0352
+        ]
+      },
+      "properties": {
+        "title": "Davis Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/davis-chamber-of-commerce.md",
+        "mapLocation": "Kaysville regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Kaysville",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11,
+          41.01
+        ]
+      },
+      "properties": {
+        "title": "Davis County Economic Development",
+        "type": "resource",
+        "url": "/pages/davis-county-economic-development.md",
+        "mapLocation": "Davis County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Davis County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Davis Smith",
+        "type": "person",
+        "url": "/pages/davis-smith.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "consumer brand, impact entrepreneurship, Latin America, outdoor industry, poverty alleviation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5772,
+          39.3522
+        ]
+      },
+      "properties": {
+        "title": "Delta Area Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/delta-area-chamber-of-commerce.md",
+        "mapLocation": "Delta regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Delta",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Deseret Book / Bonneville International",
+        "type": "venture",
+        "url": "/pages/deseret-book-bonneville.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "religious publishing, broadcasting, faith media, LDS Church, radio, television, journalism"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7958,
+          40.3769
+        ]
+      },
+      "properties": {
+        "title": "Domo",
+        "type": "venture",
+        "url": "/pages/domo.md",
+        "mapLocation": "American Fork regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "American Fork",
+        "domains": [],
+        "focus": "business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.12,
+          40.45
+        ]
+      },
+      "properties": {
+        "title": "Dugway Proving Ground",
+        "type": "work",
+        "url": "/pages/dugway-proving-ground.md",
+        "mapLocation": "Tooele County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Tooele County",
+        "domains": [],
+        "focus": "military test infrastructure, chemical and biological defense, West Desert, defense ethics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Eden Technologies",
+        "type": "venture",
+        "url": "/pages/eden-technologies.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "water desalination, reverse osmosis, centrifuge efficiency, water scarcity, Southwest water"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Eide Bailly (Utah)",
+        "type": "helper",
+        "url": "/pages/eide-bailly-utah.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "EIMCO Rocker Shovel Loader",
+        "type": "work",
+        "url": "/pages/eimco-rocker-shovel-loader.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "mining equipment, mechanical engineering, underground mining, industrialization, Salt Lake City manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8047,
+          41.7694
+        ]
+      },
+      "properties": {
+        "title": "Electric Power Systems (EPS)",
+        "type": "venture",
+        "url": "/pages/electric-power-systems.md",
+        "mapLocation": "North Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "North Logan",
+        "domains": [
+          "aerospace-defense",
+          "energy"
+        ],
+        "focus": "electric aviation, battery propulsion, eVTOL, FAA certification, power electronics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.72,
+          38.99
+        ]
+      },
+      "properties": {
+        "title": "Emery County Economic Development",
+        "type": "resource",
+        "url": "/pages/emery-county-economic-development.md",
+        "mapLocation": "Emery County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Emery County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "EnduraCure",
+        "type": "venture",
+        "url": "/pages/enduracure.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "degradable polymers, flexible electronics, e-waste, materials science, recyclable substrates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8,
+          37.63
+        ]
+      },
+      "properties": {
+        "title": "Energy Fuels / White Mesa",
+        "type": "venture",
+        "url": "/pages/energy-fuels-white-mesa.md",
+        "mapLocation": "San Juan County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "San Juan County",
+        "domains": [
+          "energy",
+          "materials-mfg",
+          "health-bio"
+        ],
+        "focus": "uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.12,
+          40.45
+        ]
+      },
+      "properties": {
+        "title": "EnergySolutions",
+        "type": "venture",
+        "url": "/pages/energy-solutions.md",
+        "mapLocation": "Tooele County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Tooele County",
+        "domains": [
+          "energy"
+        ],
+        "focus": "nuclear waste management, radioactive waste disposal, decommissioning, environmental services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Epic Ventures",
+        "type": "resource",
+        "url": "/pages/epic-ventures.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Epitel",
+        "type": "venture",
+        "url": "/pages/epitel.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monitoring"
       }
     },
     {
@@ -62,9 +1760,302 @@ export default {
         "mapLocation": "Escalante City Innovation Center, 67 N 100 W, Escalante, UT 84726",
         "precision": "exact",
         "provenance": "https://www.escalantecity-utah.com/wp-content/uploads/2024/03/Escalante-General-Plan-.pdf",
+        "anchorKind": "site",
         "region": "Escalante",
         "domains": [],
         "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Evans & Sutherland",
+        "type": "work",
+        "url": "/pages/evans-and-sutherland.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "computer graphics, flight simulation, real-time 3D, graphics hardware"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5498,
+          38.5733
+        ]
+      },
+      "properties": {
+        "title": "EVENT: Grand Summit Moab",
+        "type": "resource",
+        "url": "/pages/event-grand-summit-moab.md",
+        "mapLocation": "Moab regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Moab",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89,
+          37.29
+        ]
+      },
+      "properties": {
+        "title": "EVENT: Raising Kane Business Summit",
+        "type": "resource",
+        "url": "/pages/event-raising-kane-business-summit.md",
+        "mapLocation": "Kane County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Kane County",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "EVENT: What's Up Down South - Economic Summit",
+        "type": "resource",
+        "url": "/pages/event-what-s-up-down-south-economic-summit.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Evolution Bio",
+        "type": "venture",
+        "url": "/pages/evolution-bio.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell screening"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "FamilySearch",
+        "type": "venture",
+        "url": "/pages/familysearch.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "computing"
+        ],
+        "focus": "genealogy, civilizational records, OCR, record linkage, population genetics, scientific infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.24,
+          38.34
+        ]
+      },
+      "properties": {
+        "title": "Fervo Energy",
+        "type": "venture",
+        "url": "/pages/fervo-energy.md",
+        "mapLocation": "Beaver County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Beaver County",
+        "domains": [
+          "energy"
+        ],
+        "focus": "geothermal energy, grid infrastructure, climate, drilling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113,
+          37.35
+        ]
+      },
+      "properties": {
+        "title": "Five County Association of Governments",
+        "type": "resource",
+        "url": "/pages/five-county-association-of-governments.md",
+        "mapLocation": "Five County region regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Five County region",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.51,
+          40.89
+        ]
+      },
+      "properties": {
+        "title": "Flaming Gorge Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/flaming-gorge-chamber-of-commerce.md",
+        "mapLocation": "Daggett County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Daggett County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Florian Solzbacher",
+        "type": "person",
+        "url": "/pages/florian-solzbacher.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "neuroengineering, brain-computer interfaces, medical devices, university spinouts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.12,
+          40.45
+        ]
+      },
+      "properties": {
+        "title": "Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays",
+        "type": "work",
+        "url": "/pages/flys-eye-hires-cosmic-rays.md",
+        "mapLocation": "Tooele County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Tooele County",
+        "domains": [],
+        "focus": "astroparticle physics, cosmic rays, observatories, desert science"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7208,
+          40.3433
+        ]
+      },
+      "properties": {
+        "title": "Fortem Technologies",
+        "type": "venture",
+        "url": "/pages/fortem-technologies.md",
+        "mapLocation": "Lindon regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lindon",
+        "domains": [
+          "aerospace-defense"
+        ],
+        "focus": "counter-UAS, radar, autonomous systems, defense, critical infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9297,
+          40.5622
+        ]
+      },
+      "properties": {
+        "title": "Fred Lampropoulos",
+        "type": "person",
+        "url": "/pages/fred-lampropoulos.md",
+        "mapLocation": "South Jordan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "South Jordan",
+        "domains": [],
+        "focus": "medical devices, interventional cardiology, manufacturing, founder-operator, public company leadership"
       }
     },
     {
@@ -83,9 +2074,2594 @@ export default {
         "mapLocation": "Golden Spike National Historical Park Visitor Center, 6200 N 22300 W, Promontory, UT 84307",
         "precision": "exact",
         "provenance": "https://www.nps.gov/gosp/planyourvisit/directions.htm",
+        "anchorKind": "site",
         "region": "Promontory Summit",
         "domains": [],
         "focus": "rail infrastructure, American West, logistics, national integration"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.57,
+          38.98
+        ]
+      },
+      "properties": {
+        "title": "Grand County Economic Development",
+        "type": "resource",
+        "url": "/pages/grand-county-economic-development.md",
+        "mapLocation": "Grand County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Grand County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6,
+          41.1
+        ]
+      },
+      "properties": {
+        "title": "Great Salt Lake",
+        "type": "venture",
+        "url": "/pages/great-salt-lake.md",
+        "mapLocation": "Great Salt Lake basin regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Great Salt Lake basin",
+        "domains": [
+          "culture-place",
+          "energy"
+        ],
+        "focus": "environmental crisis, water policy, lithium extraction, dust mitigation, ecosystem restoration, Utah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8363,
+          39.7102
+        ]
+      },
+      "properties": {
+        "title": "Greater Nephi Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/greater-nephi-chamber-of-commerce.md",
+        "mapLocation": "Nephi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Nephi",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "H. Tracy Hall's Diamond Presses",
+        "type": "work",
+        "url": "/pages/h-tracy-hall-diamond-presses.md",
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [],
+        "focus": "materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Halia Therapeutics",
+        "type": "venture",
+        "url": "/pages/halia-therapeutics.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "Harvey Fletcher and Stereophonic Sound",
+        "type": "work",
+        "url": "/pages/harvey-fletcher-stereophonic-sound.md",
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [],
+        "focus": "acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Health Catalyst",
+        "type": "venture",
+        "url": "/pages/health-catalyst.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "healthcare data analytics, population health, value-based care, clinical data integration"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4132,
+          40.5069
+        ]
+      },
+      "properties": {
+        "title": "Heber City Community Alliance for Main Street",
+        "type": "resource",
+        "url": "/pages/heber-city-community-alliance-for-main-street.md",
+        "mapLocation": "Heber City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Heber City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4132,
+          40.5069
+        ]
+      },
+      "properties": {
+        "title": "Heber Valley Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/heber-valley-chamber-of-commerce.md",
+        "mapLocation": "Heber City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Heber City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4,
+          40.51
+        ]
+      },
+      "properties": {
+        "title": "Heber Valley Economic Development",
+        "type": "resource",
+        "url": "/pages/heber-valley-economic-development.md",
+        "mapLocation": "Heber Valley regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Heber Valley",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "HELP Clinical Decision Support System",
+        "type": "work",
+        "url": "/pages/help-clinical-decision-support-system.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "clinical decision support, medical informatics, electronic health records, hospital systems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93,
+          40.67
+        ]
+      },
+      "properties": {
+        "title": "Hexcel Corporation",
+        "type": "venture",
+        "url": "/pages/hexcel.md",
+        "mapLocation": "Salt Lake County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake County",
+        "domains": [
+          "aerospace-defense",
+          "materials-mfg"
+        ],
+        "focus": "advanced materials, aerospace composites, carbon fiber, manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "High-Density Sustainable Aviation Fuels",
+        "type": "work",
+        "url": "/pages/high-density-sustainable-aviation-fuels.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "aerospace-defense",
+          "energy"
+        ],
+        "focus": "sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Huntsman Cancer Institute",
+        "type": "venture",
+        "url": "/pages/huntsman-cancer-institute.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, translational medicine, life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2899,
+          37.1753
+        ]
+      },
+      "properties": {
+        "title": "Hurricane Valley Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/hurricane-valley-chamber-of-commerce.md",
+        "mapLocation": "Hurricane regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Hurricane",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "Hypercraft",
+        "type": "venture",
+        "url": "/pages/hypercraft.md",
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [
+          "aerospace-defense",
+          "energy"
+        ],
+        "focus": "hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.67,
+          40.12
+        ]
+      },
+      "properties": {
+        "title": "iHub",
+        "type": "resource",
+        "url": "/pages/ihub.md",
+        "mapLocation": "Utah County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Start a Business, Student, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7,
+          40.25
+        ]
+      },
+      "properties": {
+        "title": "IMSAR",
+        "type": "venture",
+        "url": "/pages/imsar.md",
+        "mapLocation": "Utah Valley regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah Valley",
+        "domains": [
+          "aerospace-defense"
+        ],
+        "focus": "synthetic aperture radar, UAS, defense, aerospace, intelligence, manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8879,
+          40.6669
+        ]
+      },
+      "properties": {
+        "title": "Indie Square",
+        "type": "resource",
+        "url": "/pages/indie-square.md",
+        "mapLocation": "Murray regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Murray",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Inherent Biosciences",
+        "type": "venture",
+        "url": "/pages/inherent-biosciences.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "epigenetic diagnostics, male fertility, sperm function, reproductive health, AI biomarkers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Instructure",
+        "type": "venture",
+        "url": "/pages/instructure.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "computing"
+        ],
+        "focus": "edtech, learning management systems, Canvas LMS, AI in education"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Intactis Bio",
+        "type": "venture",
+        "url": "/pages/intactis-bio.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "biological computing, hybrid biosilicon AI, neuromorphic compute, deep tech"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Intermountain Clinical Quality Improvement",
+        "type": "work",
+        "url": "/pages/intermountain-clinical-quality-improvement.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "healthcare delivery science, clinical quality improvement, learning health system, process control"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0263,
+          41.1616
+        ]
+      },
+      "properties": {
+        "title": "Iomega Zip Drive",
+        "type": "work",
+        "url": "/pages/iomega-zip-drive.md",
+        "mapLocation": "Roy regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Roy",
+        "domains": [],
+        "focus": "hardware, storage, consumer computing, peripherals, 1990s PC era"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.79,
+          39.71
+        ]
+      },
+      "properties": {
+        "title": "Ionic Mineral Technologies (Ionic MT)",
+        "type": "venture",
+        "url": "/pages/ionic-mt.md",
+        "mapLocation": "Juab County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Juab County",
+        "domains": [
+          "energy",
+          "materials-mfg"
+        ],
+        "focus": "battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Iris Biomedical",
+        "type": "venture",
+        "url": "/pages/iris-biomedical.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "neural interfaces, BCI hardware, implantable devices, medical device manufacturing, neurotech supply chain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.29,
+          37.86
+        ]
+      },
+      "properties": {
+        "title": "Iron County Economic Development",
+        "type": "resource",
+        "url": "/pages/iron-county-economic-development.md",
+        "mapLocation": "Iron County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Iron County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Jared Rutter",
+        "type": "person",
+        "url": "/pages/jared-rutter.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "biochemistry, metabolomics, allosteric drug discovery, university commercialization, life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Jarvik-7 Artificial Heart",
+        "type": "work",
+        "url": "/pages/jarvik-7-artificial-heart.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7,
+          40.25
+        ]
+      },
+      "properties": {
+        "title": "Josh James",
+        "type": "person",
+        "url": "/pages/josh-james.md",
+        "mapLocation": "Utah Valley regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah Valley",
+        "domains": [],
+        "focus": "enterprise SaaS, web analytics, business intelligence, Utah tech ecosystem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.79,
+          39.71
+        ]
+      },
+      "properties": {
+        "title": "Juab County Economic Development",
+        "type": "resource",
+        "url": "/pages/juab-county-economic-development.md",
+        "mapLocation": "Juab County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Juab County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9297,
+          40.5622
+        ]
+      },
+      "properties": {
+        "title": "Karl Sun",
+        "type": "person",
+        "url": "/pages/karl-sun.md",
+        "mapLocation": "South Jordan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "South Jordan",
+        "domains": [],
+        "focus": "B2B SaaS, visual collaboration, enterprise software, founder leadership"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Kinect Capital",
+        "type": "resource",
+        "url": "/pages/kinect-capital.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "capital readiness, founder mentoring, investor introductions, pitch preparation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "L3Harris Salt Lake City",
+        "type": "venture",
+        "url": "/pages/l3harris-salt-lake.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "aerospace-defense"
+        ],
+        "focus": "military communications, electronic warfare, ISR payloads, tactical radios, SATCOM, contested-environment networking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7958,
+          40.3769
+        ]
+      },
+      "properties": {
+        "title": "LiveView Technologies (LVT)",
+        "type": "venture",
+        "url": "/pages/liveview-technologies.md",
+        "mapLocation": "American Fork regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "American Fork",
+        "domains": [],
+        "focus": "physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8338,
+          41.737
+        ]
+      },
+      "properties": {
+        "title": "Logan City Economic Development",
+        "type": "resource",
+        "url": "/pages/logan-city-economic-development.md",
+        "mapLocation": "Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Logan",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9297,
+          40.5622
+        ]
+      },
+      "properties": {
+        "title": "Lucid Software",
+        "type": "venture",
+        "url": "/pages/lucid-software.md",
+        "mapLocation": "South Jordan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "South Jordan",
+        "domains": [],
+        "focus": "B2B SaaS, visual collaboration, diagramming, whiteboarding, enterprise software"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Make Salt Lake",
+        "type": "resource",
+        "url": "/pages/make-salt-lake.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7385,
+          40.3641
+        ]
+      },
+      "properties": {
+        "title": "Make Utah",
+        "type": "resource",
+        "url": "/pages/make-utah.md",
+        "mapLocation": "Pleasant Grove regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Pleasant Grove",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Maven CREATE",
+        "type": "resource",
+        "url": "/pages/maven-create.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Women, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9297,
+          40.5622
+        ]
+      },
+      "properties": {
+        "title": "Merit Medical Systems",
+        "type": "venture",
+        "url": "/pages/merit-medical.md",
+        "mapLocation": "South Jordan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "South Jordan",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "interventional medical devices, catheters, manufacturing, FDA regulated, life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.57,
+          38.98
+        ]
+      },
+      "properties": {
+        "title": "Moab Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/moab-chamber-of-commerce.md",
+        "mapLocation": "Grand County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Grand County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9738,
+          41.223
+        ]
+      },
+      "properties": {
+        "title": "Monarch",
+        "type": "resource",
+        "url": "/pages/monarch.md",
+        "mapLocation": "Ogden regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Ogden",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Arts and Entertainment and Recreation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3429,
+          37.8714
+        ]
+      },
+      "properties": {
+        "title": "Monticello Coworking Space",
+        "type": "resource",
+        "url": "/pages/monticello-coworking-space.md",
+        "mapLocation": "Monticello regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Monticello",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.58,
+          41.09
+        ]
+      },
+      "properties": {
+        "title": "Morgan Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/morgan-chamber-of-commerce.md",
+        "mapLocation": "Morgan County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Morgan County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.58,
+          41.09
+        ]
+      },
+      "properties": {
+        "title": "Morgan County Economic Development",
+        "type": "resource",
+        "url": "/pages/morgan-county-economic-development.md",
+        "mapLocation": "Morgan County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Morgan County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65,
+          40.35
+        ]
+      },
+      "properties": {
+        "title": "Mountain Land Association of Governments' Revolving Loan Fund (RLF)",
+        "type": "resource",
+        "url": "/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md",
+        "mapLocation": "Mountainland regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Mountainland",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65,
+          40.35
+        ]
+      },
+      "properties": {
+        "title": "Mountainland Association of Governments",
+        "type": "resource",
+        "url": "/pages/mountainland-association-of-governments.md",
+        "mapLocation": "Mountainland regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Mountainland",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9069,
+          40.8486
+        ]
+      },
+      "properties": {
+        "title": "MOXIE Solid Oxide Electrolysis Stack",
+        "type": "work",
+        "url": "/pages/moxie-solid-oxide-electrolysis-stack.md",
+        "mapLocation": "North Salt Lake regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "North Salt Lake",
+        "domains": [
+          "space-science",
+          "energy",
+          "materials-mfg"
+        ],
+        "focus": "space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Music AI (Moises)",
+        "type": "venture",
+        "url": "/pages/music-ai.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "AI music tools, audio source separation, voice cloning, music generation, creative technology"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "MX Technologies",
+        "type": "venture",
+        "url": "/pages/mx-technologies.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "open banking, financial data, account aggregation, fintech API platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Myriad Genetics BRCA Sequencing and Testing",
+        "type": "work",
+        "url": "/pages/myriad-genetics-brca.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "hereditary cancer genetics, BRCA testing, gene patents, clinical genomics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Myriad Genetics",
+        "type": "venture",
+        "url": "/pages/myriad-genetics.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "NephroNovus",
+        "type": "venture",
+        "url": "/pages/nephronovus.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "chronic kidney disease, renal fibrosis, drug discovery, computational biology, Altitude Lab alumni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112,
+          41.2
+        ]
+      },
+      "properties": {
+        "title": "Northern Utah Economic Alliance",
+        "type": "resource",
+        "url": "/pages/northern-utah-economic-alliance.md",
+        "mapLocation": "Northern Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Northern Utah",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.55,
+          41.62
+        ]
+      },
+      "properties": {
+        "title": "Northrop Grumman — Promontory Facility",
+        "type": "venture",
+        "url": "/pages/northrop-grumman-promontory.md",
+        "mapLocation": "Promontory regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Promontory",
+        "domains": [
+          "aerospace-defense",
+          "materials-mfg"
+        ],
+        "focus": "solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "NOW CFO",
+        "type": "helper",
+        "url": "/pages/now-cfo.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance operations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9388,
+          40.4897
+        ]
+      },
+      "properties": {
+        "title": "NSA Utah Data Center",
+        "type": "venture",
+        "url": "/pages/nsa-utah-data-center.md",
+        "mapLocation": "Bluffdale regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Bluffdale",
+        "domains": [],
+        "focus": "intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0011,
+          40.6916
+        ]
+      },
+      "properties": {
+        "title": "Nusano",
+        "type": "venture",
+        "url": "/pages/nusano.md",
+        "mapLocation": "West Valley City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "West Valley City",
+        "domains": [],
+        "focus": "medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, advanced manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "O.C. Tanner",
+        "type": "venture",
+        "url": "/pages/oc-tanner.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "employee recognition, corporate culture, HR technology, workplace engagement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91,
+          41.27
+        ]
+      },
+      "properties": {
+        "title": "Ogden-Weber Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/ogden-weber-chamber-of-commerce.md",
+        "mapLocation": "Weber County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Weber County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.67,
+          40.12
+        ]
+      },
+      "properties": {
+        "title": "Omniture Web Analytics",
+        "type": "work",
+        "url": "/pages/omniture-web-analytics.md",
+        "mapLocation": "Utah County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah County",
+        "domains": [],
+        "focus": "software, SaaS, web analytics, digital marketing, enterprise software"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8879,
+          40.6669
+        ]
+      },
+      "properties": {
+        "title": "Overstock.com",
+        "type": "venture",
+        "url": "/pages/overstock-com.md",
+        "mapLocation": "Murray regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Murray",
+        "domains": [],
+        "focus": "e-commerce, online retail, home goods, blockchain assets, Utah tech anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Owlet Baby Care",
+        "type": "venture",
+        "url": "/pages/owlet-baby-care.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "infant health monitoring, connected nursery, consumer medtech, wearables, FDA-regulated devices"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9069,
+          40.8486
+        ]
+      },
+      "properties": {
+        "title": "OxEon Energy",
+        "type": "venture",
+        "url": "/pages/oxeon-energy.md",
+        "mapLocation": "North Salt Lake regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "North Salt Lake",
+        "domains": [
+          "energy",
+          "space-science"
+        ],
+        "focus": "solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.85,
+          40.45
+        ]
+      },
+      "properties": {
+        "title": "Pacific Island Chamber of Commerce (PICC)",
+        "type": "resource",
+        "url": "/pages/pacific-island-chamber-of-commerce-picc.md",
+        "mapLocation": "Salt Lake County; Utah County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake County; Utah County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Palladyne AI",
+        "type": "venture",
+        "url": "/pages/palladyne-ai.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "embodied AI, collaborative autonomy, edge inference, defense technology, robotics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.498,
+          40.6461
+        ]
+      },
+      "properties": {
+        "title": "Park City Angels",
+        "type": "resource",
+        "url": "/pages/park-city-angels.md",
+        "mapLocation": "Park City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Park City",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.498,
+          40.6461
+        ]
+      },
+      "properties": {
+        "title": "Park City Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/park-city-chamber-of-commerce.md",
+        "mapLocation": "Park City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Park City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Parsons Behle & Latimer",
+        "type": "helper",
+        "url": "/pages/parsons-behle-latimer.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "technology law, IP transactions, licensing, securities, emerging companies, venture financing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "PassiveLogic",
+        "type": "venture",
+        "url": "/pages/passivelogic.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "energy",
+          "computing"
+        ],
+        "focus": "autonomous buildings, edge AI, digital twins, climate, building controls"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Pelion Ventures",
+        "type": "resource",
+        "url": "/pages/pelion-ventures.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Peterson Ventures",
+        "type": "resource",
+        "url": "/pages/peterson-ventures.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6411,
+          38.2769
+        ]
+      },
+      "properties": {
+        "title": "Philo Farnsworth and Electronic Television",
+        "type": "work",
+        "url": "/pages/philo-farnsworth-television.md",
+        "mapLocation": "Beaver regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Beaver",
+        "domains": [],
+        "focus": "invention, television, electronics, signal scanning, Utah-born inventors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7958,
+          40.3769
+        ]
+      },
+      "properties": {
+        "title": "PhotoPharmics",
+        "type": "venture",
+        "url": "/pages/photopharmics.md",
+        "mapLocation": "American Fork regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "American Fork",
+        "domains": [],
+        "focus": "phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8389,
+          40.5649
+        ]
+      },
+      "properties": {
+        "title": "Pitted Ventures",
+        "type": "resource",
+        "url": "/pages/pitted-ventures.md",
+        "mapLocation": "Sandy regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Sandy",
+        "domains": [],
+        "focus": "Funding, Consumer Packaged Goods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8874,
+          40.9805
+        ]
+      },
+      "properties": {
+        "title": "Pluralsight",
+        "type": "venture",
+        "url": "/pages/pluralsight.md",
+        "mapLocation": "Farmington regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Farmington",
+        "domains": [],
+        "focus": "edtech, skills training, workforce upskilling, AI learning, enterprise L&D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Podium",
+        "type": "venture",
+        "url": "/pages/podium.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "customer communication, SaaS, local business software, SMS, reviews, payments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Pons and Fleischmann Cold Fusion Announcement",
+        "type": "work",
+        "url": "/pages/pons-fleischmann-cold-fusion.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "culture-place",
+          "energy"
+        ],
+        "focus": "scientific ethics, replication, electrochemistry, institutional behavior, science communication"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112,
+          41.2
+        ]
+      },
+      "properties": {
+        "title": "Portal Warehousing",
+        "type": "resource",
+        "url": "/pages/portal-warehousing.md",
+        "mapLocation": "Northern Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Northern Utah",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Consumer Packaged Goods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6735,
+          40.053
+        ]
+      },
+      "properties": {
+        "title": "Preferred CFO",
+        "type": "helper",
+        "url": "/pages/preferred-cfo.md",
+        "mapLocation": "Salem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salem",
+        "domains": [],
+        "focus": "fractional CFO, outsourced finance, forecasting, cash-flow management, fundraising prep, outsourced HR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "Qualtrics",
+        "type": "venture",
+        "url": "/pages/qualtrics.md",
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [
+          "computing"
+        ],
+        "focus": "experience management, applied AI, enterprise SaaS, surveys, sentiment analysis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65,
+          39.15
+        ]
+      },
+      "properties": {
+        "title": "R6 Regional Council",
+        "type": "resource",
+        "url": "/pages/r6-regional-council.md",
+        "mapLocation": "Central Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Central Utah",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "RAM Aviation, Space & Defense",
+        "type": "venture",
+        "url": "/pages/ram-aviation-space-defense.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "propulsion valves, precision manufacturing, spacecraft components, fluid control, aerospace supply chain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Rebel Medicine",
+        "type": "venture",
+        "url": "/pages/rebel-medicine.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "non-opioid pain, postoperative analgesia, extended-release drug delivery, bupivacaine formulation, opioid-sparing surgery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Recursion Pharmaceuticals",
+        "type": "venture",
+        "url": "/pages/recursion-pharmaceuticals.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio",
+          "computing"
+        ],
+        "focus": "AI drug discovery, life sciences, computational biology"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Red Rock Angels",
+        "type": "resource",
+        "url": "/pages/red-rock-angels.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7467,
+          40.297
+        ]
+      },
+      "properties": {
+        "title": "Renaissance Ag",
+        "type": "venture",
+        "url": "/pages/renaissance-ag.md",
+        "mapLocation": "Vineyard regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Vineyard",
+        "domains": [],
+        "focus": "hydroponic livestock feed, water efficiency, arid-land agriculture, climate-smart ag, hardware"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65,
+          39.15
+        ]
+      },
+      "properties": {
+        "title": "Revolving Loan Fund Program (RLF) - R6",
+        "type": "resource",
+        "url": "/pages/revolving-loan-fund-program-rlf-r6.md",
+        "mapLocation": "Central Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Central Utah",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9,
+          38.5
+        ]
+      },
+      "properties": {
+        "title": "Revolving Loan Fund Program (RLF) - South Eastern Utah",
+        "type": "resource",
+        "url": "/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md",
+        "mapLocation": "Southeastern Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Southeastern Utah",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "RevRoad",
+        "type": "resource",
+        "url": "/pages/revroad.md",
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0841,
+          38.7725
+        ]
+      },
+      "properties": {
+        "title": "Richfield Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/richfield-chamber-of-commerce.md",
+        "mapLocation": "Richfield regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Richfield",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Ripple Neuro",
+        "type": "venture",
+        "url": "/pages/ripple-neuro.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4,
+          39.4
+        ]
+      },
+      "properties": {
+        "title": "Rodatherm Energy",
+        "type": "venture",
+        "url": "/pages/rodatherm-energy.md",
+        "mapLocation": "Great Basin regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Great Basin",
+        "domains": [
+          "energy"
+        ],
+        "focus": "geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project development"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7,
+          40.25
+        ]
+      },
+      "properties": {
+        "title": "Ryan Smith (IMSAR)",
+        "type": "person",
+        "url": "/pages/ryan-smith-imsar.md",
+        "mapLocation": "Utah Valley regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah Valley",
+        "domains": [],
+        "focus": "RF engineering, synthetic aperture radar, defense technology, hardware startups"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Ryan Smith (Qualtrics)",
+        "type": "person",
+        "url": "/pages/ryan-smith-qualtrics.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "enterprise software, experience management, Utah tech ecosystem, civic leadership"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8599,
+          38.9577
+        ]
+      },
+      "properties": {
+        "title": "Salina Chamber",
+        "type": "resource",
+        "url": "/pages/salina-chamber.md",
+        "mapLocation": "Salina regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salina",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Salt Lake Angels",
+        "type": "resource",
+        "url": "/pages/salt-lake-angels.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Salt Lake Chamber",
+        "type": "resource",
+        "url": "/pages/salt-lake-chamber.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Salt Lake City Office Space for Rent",
+        "type": "resource",
+        "url": "/pages/salt-lake-city-office-space-for-rent.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Start a Business, Any, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8389,
+          40.5649
+        ]
+      },
+      "properties": {
+        "title": "Salt Lake Community College (SLCC) - The Mill",
+        "type": "resource",
+        "url": "/pages/salt-lake-community-college-slcc-the-mill.md",
+        "mapLocation": "Sandy regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Sandy",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112,
+          41.2
+        ]
+      },
+      "properties": {
+        "title": "Salt Mine",
+        "type": "resource",
+        "url": "/pages/salt-mine.md",
+        "mapLocation": "Northern Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Northern Utah",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8,
+          37.63
+        ]
+      },
+      "properties": {
+        "title": "San Juan County Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/san-juan-county-chamber-of-commerce.md",
+        "mapLocation": "San Juan County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "San Juan County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8,
+          37.63
+        ]
+      },
+      "properties": {
+        "title": "San Juan County Economic Development",
+        "type": "resource",
+        "url": "/pages/san-juan-county-economic-development.md",
+        "mapLocation": "San Juan County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "San Juan County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.58,
+          39.37
+        ]
+      },
+      "properties": {
+        "title": "Sanpete Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/sanpete-chamber-of-commerce.md",
+        "mapLocation": "Sanpete County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Sanpete County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Sarcos Technology and Robotics Corporation",
+        "type": "venture",
+        "url": "/pages/sarcos-technology-and-robotics.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "robotics, industrial automation, defense, exoskeletons, teleoperation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Savory Fund",
+        "type": "resource",
+        "url": "/pages/savory-fund.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "Funding, Late Stage Growth, Hospitality and Food Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "SchoolAI",
+        "type": "venture",
+        "url": "/pages/schoolai.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "AI in education, personalized learning, K-12 edtech, teacher tools, classroom AI safety"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "SCI Institute",
+        "type": "venture",
+        "url": "/pages/sci-institute.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "computing",
+          "health-bio"
+        ],
+        "focus": "scientific computing, scientific visualization, biomedical computing, open-source research software"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Sethera Therapeutics",
+        "type": "venture",
+        "url": "/pages/sethera-therapeutics.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "peptide therapeutics, enzymatic cross-linking, polymacrocyclic peptides, drug discovery platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8,
+          38.75
+        ]
+      },
+      "properties": {
+        "title": "Sevier County Economic Development",
+        "type": "resource",
+        "url": "/pages/sevier-county-economic-development.md",
+        "mapLocation": "Sevier County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Sevier County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Signal Peak Ventures",
+        "type": "resource",
+        "url": "/pages/signal-peak-ventures.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65,
+          39.15
+        ]
+      },
+      "properties": {
+        "title": "Six County Association of Governments",
+        "type": "resource",
+        "url": "/pages/six-county-association-of-governments.md",
+        "mapLocation": "Central Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Central Utah",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.498,
+          40.6461
+        ]
+      },
+      "properties": {
+        "title": "Skullcandy",
+        "type": "venture",
+        "url": "/pages/skullcandy.md",
+        "mapLocation": "Park City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Park City",
+        "domains": [],
+        "focus": "consumer audio, headphones, earbuds, lifestyle brand, action sports"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7,
+          40.5
+        ]
+      },
+      "properties": {
+        "title": "Sky Quarry",
+        "type": "venture",
+        "url": "/pages/sky-quarry.md",
+        "mapLocation": "Uintah County; Woods Cross regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Uintah County; Woods Cross",
+        "domains": [
+          "energy",
+          "materials-mfg"
+        ],
+        "focus": "asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen recovery"
       }
     },
     {
@@ -104,9 +4680,189 @@ export default {
         "mapLocation": "GRIT Center, 151 S Main St, Ephraim, UT 84627",
         "precision": "exact",
         "provenance": "https://omni.snow.edu/offices/grit-center/",
+        "anchorKind": "site",
         "region": "Ephraim",
         "domains": [],
         "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Sorenson Impact Fund",
+        "type": "resource",
+        "url": "/pages/sorenson-impact-fund.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Funding, Other, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Soundstream and Commercial Digital Audio Recording",
+        "type": "work",
+        "url": "/pages/soundstream-digital-audio-recording.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "audio engineering, signal processing, digital recording, music technology, university spinout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.51,
+          37.28
+        ]
+      },
+      "properties": {
+        "title": "SoUtah Economic Alliance",
+        "type": "resource",
+        "url": "/pages/soutah-economic-alliance.md",
+        "mapLocation": "Washington County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Washington County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9,
+          38.5
+        ]
+      },
+      "properties": {
+        "title": "Southeastern Association of Local Governments",
+        "type": "resource",
+        "url": "/pages/southeastern-association-of-local-governments.md",
+        "mapLocation": "Southeastern Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Southeastern Utah",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9,
+          38.5
+        ]
+      },
+      "properties": {
+        "title": "Southeastern Utah Association of Local Governments - Economic Development",
+        "type": "resource",
+        "url": "/pages/southeastern-utah-association-of-local-governments-economic-development.md",
+        "mapLocation": "Southeastern Utah regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Southeastern Utah",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0619,
+          37.6775
+        ]
+      },
+      "properties": {
+        "title": "Southern Utah University Cedar City Business & Innovation Center",
+        "type": "resource",
+        "url": "/pages/southern-utah-university-cedar-city-business-and-innovation-center.md",
+        "mapLocation": "Cedar City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Cedar City",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0619,
+          37.6775
+        ]
+      },
+      "properties": {
+        "title": "Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship",
+        "type": "resource",
+        "url": "/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md",
+        "mapLocation": "Cedar City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Cedar City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8047,
+          41.7694
+        ]
+      },
+      "properties": {
+        "title": "Space Dynamics Laboratory",
+        "type": "venture",
+        "url": "/pages/space-dynamics-laboratory.md",
+        "mapLocation": "North Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "North Logan",
+        "domains": [
+          "space-science",
+          "aerospace-defense"
+        ],
+        "focus": "space systems, sensors, satellites, defense, student workforce"
       }
     },
     {
@@ -125,9 +4881,120 @@ export default {
         "mapLocation": "Spiral Jetty visitor parking and site, Rozel Point, Great Salt Lake, UT",
         "precision": "approximate",
         "provenance": "https://diaart.org/visit/visit-our-locations-sites/robert-smithson-spiral-jetty/main/spiraljetty",
+        "anchorKind": "site",
         "region": "Rozel Point, Great Salt Lake, Box Elder County",
         "domains": [],
         "focus": "Land art, Great Salt Lake, site-specific sculpture, contemporary art"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Spire Therapeutics",
+        "type": "venture",
+        "url": "/pages/spire-therapeutic.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "focused ultrasound neuromodulation, LIFU, chronic pain, treatment-resistant depression, non-invasive brain therapy, Diadem device"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "St George Area Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/st-george-area-chamber-of-commerce.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "St. George City Economic Development",
+        "type": "resource",
+        "url": "/pages/st-george-city-economic-development.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "St George Downtown Farmers Market",
+        "type": "resource",
+        "url": "/pages/st-george-downtown-farmers-market.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth, Other, Agriculture, Arts and Entertainment and Recreation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "Startup Ignition Ventures",
+        "type": "resource",
+        "url": "/pages/startup-ignition-ventures.md",
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [],
+        "focus": "Funding, Any, Software and Information Technology"
       }
     },
     {
@@ -146,9 +5013,655 @@ export default {
         "mapLocation": "Weber State Downtown, 2314 Washington Blvd, Ogden, UT 84401",
         "precision": "exact",
         "provenance": "https://www.weber.edu/maps/locations.html",
+        "anchorKind": "site",
         "region": "Ogden",
         "domains": [],
         "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Strider Technologies",
+        "type": "venture",
+        "url": "/pages/strider-technologies.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "strategic intelligence, geopolitical risk, economic security, AI, national security"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.97,
+          40.87
+        ]
+      },
+      "properties": {
+        "title": "Summit County Economic Development",
+        "type": "resource",
+        "url": "/pages/summit-county-economic-development.md",
+        "mapLocation": "Summit County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Summit County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.55,
+          40.52
+        ]
+      },
+      "properties": {
+        "title": "Sundance Institute",
+        "type": "venture",
+        "url": "/pages/sundance-institute.md",
+        "mapLocation": "Park City; Sundance Resort regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Park City; Sundance Resort",
+        "domains": [],
+        "focus": "independent film, immersive storytelling, artist development, film festivals, nonprofit arts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Sword Health",
+        "type": "venture",
+        "url": "/pages/sword-health.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "digital health, musculoskeletal care, physical therapy, remote care, AI-powered rehabilitation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "SymbioCellTech",
+        "type": "venture",
+        "url": "/pages/symbiocelltech.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Type 1 diabetes, cell therapy, Neo-Islets, mesenchymal stem cells, islet transplantation, regenerative medicine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Tanner LLC",
+        "type": "helper",
+        "url": "/pages/tanner-llc.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "accounting, audit/assurance, tax, M&A due diligence, SEC reporting, advisory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Teal Drones",
+        "type": "venture",
+        "url": "/pages/teal-drones.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "aerospace-defense"
+        ],
+        "focus": "small unmanned aircraft, ISR, defense, autonomous systems, domestic drone manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Tech Ridge",
+        "type": "resource",
+        "url": "/pages/tech-ridge.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "Techcyte",
+        "type": "venture",
+        "url": "/pages/techcyte.md",
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [],
+        "focus": "digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1,
+          39.05
+        ]
+      },
+      "properties": {
+        "title": "Telescope Array",
+        "type": "venture",
+        "url": "/pages/telescope-array-ultra-high-energy-cosmic-rays.md",
+        "mapLocation": "Millard County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Millard County",
+        "domains": [],
+        "focus": "astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "TELLUS Networked Sensor Solutions",
+        "type": "venture",
+        "url": "/pages/tellus.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "air quality monitoring, environmental sensing, low-cost sensors, calibration, public health infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8338,
+          41.737
+        ]
+      },
+      "properties": {
+        "title": "The Hub at Bridgerland Technical College",
+        "type": "resource",
+        "url": "/pages/the-hub-at-bridgerland-technical-college.md",
+        "mapLocation": "Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Logan",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8389,
+          40.5649
+        ]
+      },
+      "properties": {
+        "title": "The Mill Entrepreneurship Center",
+        "type": "resource",
+        "url": "/pages/the-mill-entrepreneurship-center.md",
+        "mapLocation": "Sandy regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Sandy",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "The Shop",
+        "type": "resource",
+        "url": "/pages/the-shop.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Thera-T Pharmaceutics",
+        "type": "venture",
+        "url": "/pages/thera-t-pharmaceutics.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "immuno-oncology, blood cancer, T-cell therapy, multi-antigen targeting, university spinout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.08,
+          41.52
+        ]
+      },
+      "properties": {
+        "title": "Thiokol Solid Rocket Motors",
+        "type": "work",
+        "url": "/pages/thiokol-solid-rocket-motors.md",
+        "mapLocation": "Box Elder County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Box Elder County",
+        "domains": [],
+        "focus": "solid rocket motors, aerospace manufacturing, launch systems, defense industrial base"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.24,
+          38.34
+        ]
+      },
+      "properties": {
+        "title": "Tim Latimer",
+        "type": "person",
+        "url": "/pages/tim-latimer.md",
+        "mapLocation": "Beaver County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Beaver County",
+        "domains": [
+          "energy"
+        ],
+        "focus": "geothermal energy, enhanced geothermal systems, climate infrastructure, energy transition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Torus",
+        "type": "venture",
+        "url": "/pages/torus.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "energy",
+          "materials-mfg"
+        ],
+        "focus": "energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Trace AQ",
+        "type": "venture",
+        "url": "/pages/trace-aq.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "air quality forecasting, wildfire smoke, physics-based AI, atmospheric science, public health alerts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.12,
+          40.22
+        ]
+      },
+      "properties": {
+        "title": "Uinta Basin Association of Governments",
+        "type": "resource",
+        "url": "/pages/uinta-basin-association-of-governments.md",
+        "mapLocation": "Uinta Basin regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Uinta Basin",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.12,
+          40.22
+        ]
+      },
+      "properties": {
+        "title": "Uinta Basin Tech - Entrepreneur Center",
+        "type": "resource",
+        "url": "/pages/uinta-basin-tech-entrepreneur-center.md",
+        "mapLocation": "Uinta Basin regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Uinta Basin",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.12,
+          40.22
+        ]
+      },
+      "properties": {
+        "title": "Uintah Basin Economic Development District",
+        "type": "resource",
+        "url": "/pages/uintah-basin-economic-development-district.md",
+        "mapLocation": "Uinta Basin regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Uinta Basin",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.52,
+          40.13
+        ]
+      },
+      "properties": {
+        "title": "Uintah County Economic Development",
+        "type": "resource",
+        "url": "/pages/uintah-county-economic-development.md",
+        "mapLocation": "Uintah County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Uintah County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "University of Utah Lassonde Entrepreneurship Institute",
+        "type": "resource",
+        "url": "/pages/university-of-utah-lassonde-entrepreneurship-institute.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "student entrepreneurship, university entrepreneurship, startups, seed funding, venture creation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.12,
+          40.45
+        ]
+      },
+      "properties": {
+        "title": "US Magnesium",
+        "type": "venture",
+        "url": "/pages/us-magnesium.md",
+        "mapLocation": "Tooele County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Tooele County",
+        "domains": [],
+        "focus": "primary magnesium production, critical minerals, Great Salt Lake brine, aerospace and defense metals, industrial process engineering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8338,
+          41.737
+        ]
+      },
+      "properties": {
+        "title": "USU Center for Integrated BioSystems",
+        "type": "venture",
+        "url": "/pages/usu-integrated-biosystems.md",
+        "mapLocation": "Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Logan",
+        "domains": [],
+        "focus": "agricultural genomics, bioinformatics, land-grant research, arid-land crops, livestock genetics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Utah Arch Research Group",
+        "type": "venture",
+        "url": "/pages/utah-arch.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "hardware architecture, ML accelerators, fully homomorphic encryption, privacy-preserving ML, 3D nanofabric, computer architecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Utah Array BCI Platform",
+        "type": "work",
+        "url": "/pages/utah-array-bci-platform.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "brain-computer interfaces, neural engineering, intracortical electrodes, medical devices"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "University of Utah Computer Graphics Program",
+        "type": "work",
+        "url": "/pages/utah-computer-graphics-program.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "computer graphics, rendering, human-computer interaction, software history"
       }
     },
     {
@@ -167,11 +5680,818 @@ export default {
         "mapLocation": "Utah FORGE well 16A(78)-32, near Milford, UT",
         "precision": "exact",
         "provenance": "https://utahforge.com/wp-content/uploads/2020/06/DataDash-ProvDrillingOperationsJune2020.pdf",
+        "anchorKind": "site",
         "region": "Beaver County",
         "domains": [
           "energy"
         ],
         "focus": "enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Utah Native American Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/utah-native-american-chamber-of-commerce.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Utah Neurorobotics Lab",
+        "type": "venture",
+        "url": "/pages/utah-neurorobotics-lab.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Utah Population Database",
+        "type": "work",
+        "url": "/pages/utah-population-database.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "genetic epidemiology, genealogy, medical records, population health infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8338,
+          41.737
+        ]
+      },
+      "properties": {
+        "title": "Utah State University Center for Entrepreneurship",
+        "type": "resource",
+        "url": "/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md",
+        "mapLocation": "Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Logan",
+        "domains": [],
+        "focus": "student entrepreneurship, university entrepreneurship, mentoring, internships, competitions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Utah Tech University - Atwood Innovation Center",
+        "type": "resource",
+        "url": "/pages/utah-tech-university-atwood-innovation-center.md",
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4,
+          39.8
+        ]
+      },
+      "properties": {
+        "title": "Utah Test and Training Range",
+        "type": "work",
+        "url": "/pages/utah-test-and-training-range.md",
+        "mapLocation": "West Desert regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "West Desert",
+        "domains": [],
+        "focus": "military test ranges, aerospace and defense, restricted airspace, weapons evaluation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "Utah Valley University Innovation Center/Academy",
+        "type": "resource",
+        "url": "/pages/utah-valley-university-innovation-center-academy.md",
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "Utah Valley University Baugh Entrepreneurship Institute",
+        "type": "resource",
+        "url": "/pages/utah-valley-university-uvu-entrepreneur-institute.md",
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [],
+        "focus": "student entrepreneurship, university entrepreneurship, mentoring, seed funding, competitions"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Utah Quantum (UTQ)",
+        "type": "venture",
+        "url": "/pages/utahquantum.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "quantum systems integration, quantum readiness, post-quantum security, government and industry adoption"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4,
+          39.8
+        ]
+      },
+      "properties": {
+        "title": "Utah Test and Training Range (UTTR)",
+        "type": "venture",
+        "url": "/pages/uttr.md",
+        "mapLocation": "West Desert regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "West Desert",
+        "domains": [],
+        "focus": "DoD test ranges, weapons evaluation, hypersonics, cruise missiles, space reentry, restricted airspace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9669,
+          37.0036
+        ]
+      },
+      "properties": {
+        "title": "UZONA - Hildale Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/uzona-hildale-chamber-of-commerce.md",
+        "mapLocation": "Hildale regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Hildale",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Multicultural, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.72,
+          38.99
+        ]
+      },
+      "properties": {
+        "title": "Valar Atomics",
+        "type": "venture",
+        "url": "/pages/valar-atomics.md",
+        "mapLocation": "Emery County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Emery County",
+        "domains": [
+          "energy",
+          "aerospace-defense"
+        ],
+        "focus": "microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4,
+          39.8
+        ]
+      },
+      "properties": {
+        "title": "Varda Space Industries",
+        "type": "venture",
+        "url": "/pages/varda-space.md",
+        "mapLocation": "West Desert regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "West Desert",
+        "domains": [],
+        "focus": "in-space manufacturing, microgravity pharmaceuticals, reentry capsules, space logistics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9388,
+          40.4897
+        ]
+      },
+      "properties": {
+        "title": "Vector",
+        "type": "venture",
+        "url": "/pages/vector.md",
+        "mapLocation": "Bluffdale regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Bluffdale",
+        "domains": [
+          "aerospace-defense"
+        ],
+        "focus": "attritable drones, special operations, fiber-optic FPV, electronic warfare resilience, modern warfare as a service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5287,
+          40.4555
+        ]
+      },
+      "properties": {
+        "title": "Vernal Area Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/vernal-area-chamber-of-commerce.md",
+        "mapLocation": "Vernal regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Vernal",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5287,
+          40.4555
+        ]
+      },
+      "properties": {
+        "title": "Vernal Downtown Alliance",
+        "type": "resource",
+        "url": "/pages/vernal-downtown-alliance.md",
+        "mapLocation": "Vernal regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Vernal",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5287,
+          40.4555
+        ]
+      },
+      "properties": {
+        "title": "Vernal Innovation Hub",
+        "type": "resource",
+        "url": "/pages/vernal-innovation-hub.md",
+        "mapLocation": "Vernal regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Vernal",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.29,
+          37.86
+        ]
+      },
+      "properties": {
+        "title": "Vision Iron County",
+        "type": "resource",
+        "url": "/pages/vision-iron-county.md",
+        "mapLocation": "Iron County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Iron County",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "Vivint Smart Home",
+        "type": "venture",
+        "url": "/pages/vivint-smart-home.md",
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [],
+        "focus": "smart home, home security, IoT, professional monitoring, consumer hardware"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9,
+          40.8
+        ]
+      },
+      "properties": {
+        "title": "Wasatch Front Regional Council",
+        "type": "resource",
+        "url": "/pages/wasatch-front-regional-council.md",
+        "mapLocation": "Wasatch Front regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Wasatch Front",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.17,
+          40.33
+        ]
+      },
+      "properties": {
+        "title": "Wasatch Women's Business Alliance",
+        "type": "resource",
+        "url": "/pages/wasatch-women-s-business-alliance.md",
+        "mapLocation": "Wasatch County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Wasatch County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Women, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5083,
+          37.1305
+        ]
+      },
+      "properties": {
+        "title": "Washington Area Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/washington-area-chamber-of-commerce.md",
+        "mapLocation": "Washington regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Washington",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5083,
+          37.1305
+        ]
+      },
+      "properties": {
+        "title": "Washington City Economic Development",
+        "type": "resource",
+        "url": "/pages/washington-city-economic-development.md",
+        "mapLocation": "Washington regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Washington",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8338,
+          41.737
+        ]
+      },
+      "properties": {
+        "title": "WAVE (Wireless Advanced Vehicle Electrification)",
+        "type": "venture",
+        "url": "/pages/wave-inc.md",
+        "mapLocation": "Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Logan",
+        "domains": [
+          "energy",
+          "materials-mfg"
+        ],
+        "focus": "wireless charging, fleet electrification, inductive power transfer, transit, logistics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6108,
+          40.1652
+        ]
+      },
+      "properties": {
+        "title": "Wavetronix",
+        "type": "venture",
+        "url": "/pages/wavetronix.md",
+        "mapLocation": "Springville regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Springville",
+        "domains": [
+          "aerospace-defense",
+          "computing"
+        ],
+        "focus": "intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Weave",
+        "type": "venture",
+        "url": "/pages/weave.md",
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [],
+        "focus": "applied AI, vertical SaaS, healthcare communications, voice AI, payments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9738,
+          41.223
+        ]
+      },
+      "properties": {
+        "title": "Weber Basin Job Corps",
+        "type": "resource",
+        "url": "/pages/weber-basin-job-corps.md",
+        "mapLocation": "Ogden regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Ogden",
+        "domains": [],
+        "focus": "Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91,
+          41.27
+        ]
+      },
+      "properties": {
+        "title": "Weber County Economic Development",
+        "type": "resource",
+        "url": "/pages/weber-county-economic-development.md",
+        "mapLocation": "Weber County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Weber County",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Wilson Sonsini Salt Lake City",
+        "type": "helper",
+        "url": "/pages/wilson-sonsini-salt-lake-city.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "startup counsel, venture financings, life sciences, medical devices, IP, corporate governance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7,
+          40.25
+        ]
+      },
+      "properties": {
+        "title": "WordPerfect and Novell",
+        "type": "work",
+        "url": "/pages/wordperfect-and-novell.md",
+        "mapLocation": "Utah Valley regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah Valley",
+        "domains": [],
+        "focus": "software, word processing, networking, personal computing, Utah Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "WordPerfect",
+        "type": "venture",
+        "url": "/pages/wordperfect.md",
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [],
+        "focus": "software, word processing, Utah software history, Silicon Slopes origins"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Work Hive",
+        "type": "resource",
+        "url": "/pages/work-hive.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Workbox",
+        "type": "resource",
+        "url": "/pages/workbox.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Workman Nydegger",
+        "type": "helper",
+        "url": "/pages/workman-nydegger.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Xandem",
+        "type": "venture",
+        "url": "/pages/xandem.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "RF tomographic sensing, through-wall motion detection, ISR, search and rescue, home security"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Zanskar Geothermal",
+        "type": "venture",
+        "url": "/pages/zanskar-geothermal.md",
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "energy",
+          "computing"
+        ],
+        "focus": "geothermal exploration, AI for earth sciences, climate, firm clean power"
       }
     }
   ]

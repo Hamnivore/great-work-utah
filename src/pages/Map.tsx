@@ -17,6 +17,7 @@ type LocationResult = {
     precision: 'exact' | 'approximate'
     distanceMiles: number | null
     provenance: string
+    anchorKind: 'site' | 'regional'
   }
 }
 
@@ -24,6 +25,8 @@ type LocationResponse = {
   ok: boolean
   coverage: {
     publishedPoints: number
+    sitePoints: number
+    regionalPoints: number
     matchedPoints: number
     comprehensive: boolean
     note: string
@@ -32,7 +35,7 @@ type LocationResponse = {
 }
 
 const PLACES = ['All Utah', 'Salt Lake City', 'Provo', 'Ogden', 'St. George', 'Logan', 'Lehi', 'Park City', 'Moab', 'Cedar City', 'Milford']
-const TYPE_LABELS: Record<string, string> = { all: 'All', venture: 'Ventures', resource: 'Resources', helper: 'Helpers', work: 'Work' }
+const TYPE_LABELS: Record<string, string> = { all: 'All', venture: 'Ventures', person: 'People', resource: 'Resources', helper: 'Helpers', work: 'Work' }
 
 function FitResults({ results }: { results: LocationResult[] }) {
   const map = useMap()
@@ -60,7 +63,7 @@ export function MapPage() {
   const load = (query = '') => {
     setLoading(true)
     setError('')
-    fetch(`/api/locations?limit=50${query}`)
+    fetch(`/api/locations?limit=500${query}`)
       .then(async (res) => {
         const body = await res.json()
         if (!res.ok) throw new Error(body.error?.message || `${res.status} ${res.statusText}`)
@@ -73,7 +76,7 @@ export function MapPage() {
 
   useEffect(() => {
     let active = true
-    fetch('/api/locations?limit=50')
+    fetch('/api/locations?limit=500')
       .then(async (res) => {
         const body = await res.json()
         if (!res.ok) throw new Error(body.error?.message || `${res.status} ${res.statusText}`)
@@ -90,6 +93,16 @@ export function MapPage() {
     if (precision !== 'all' && result.location.precision !== precision) return false
     return true
   }), [response, type, precision])
+  const markerGroups = useMemo(() => {
+    const groups = new Map<string, LocationResult[]>()
+    for (const result of results) {
+      const key = `${result.location.latitude},${result.location.longitude}`
+      const group = groups.get(key) || []
+      group.push(result)
+      groups.set(key, group)
+    }
+    return [...groups.values()]
+  }, [results])
 
   const searchPlace = () => {
     if (place === 'All Utah') return load()
@@ -118,7 +131,7 @@ export function MapPage() {
         <div>
           <h1 className="font-display text-3xl text-twilight">Work across Utah</h1>
           <p className="mt-1 text-sm text-ink-soft">
-            {response ? `${response.coverage.publishedPoints} verified public sites` : 'Verified public sites'}
+            {response ? `${response.coverage.publishedPoints} mapped pages · ${response.coverage.sitePoints} public sites · ${response.coverage.regionalPoints} regional anchors` : 'Public sites and regional anchors'}
           </p>
         </div>
         <a href="/contribute" className="text-xs text-twilight underline decoration-twilight/30 underline-offset-2">
@@ -179,33 +192,38 @@ export function MapPage() {
               url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
             <FitResults results={results} />
-            {results.map((result) => (
+            {markerGroups.map((group) => {
+              const result = group[0]
+              const regional = result.location.anchorKind === 'regional'
+              return (
               <CircleMarker
-                key={result.page}
+                key={`${result.location.latitude},${result.location.longitude}`}
                 center={[result.location.latitude, result.location.longitude]}
-                radius={selected === result.page ? 10 : 7}
+                radius={Math.min(18, (selected && group.some((item) => item.page === selected) ? 11 : 7) + Math.log2(group.length) * 1.8)}
                 pathOptions={{
-                  color: result.location.precision === 'exact' ? '#2c5364' : '#d37945',
-                  fillColor: result.location.precision === 'exact' ? '#2c5364' : '#d37945',
+                  color: regional ? '#d37945' : '#2c5364',
+                  fillColor: regional ? '#d37945' : '#2c5364',
                   fillOpacity: 0.82,
                   weight: 2,
                 }}
                 eventHandlers={{ click: () => setSelected(result.page) }}
               >
                 <Popup>
-                  <strong>{result.title}</strong><br />
+                  <strong>{group.length === 1 ? result.title : `${group.length} pages in ${result.region}`}</strong><br />
                   {result.location.label}<br />
-                  <a href={result.page}>Open page</a>
+                  {group.slice(0, 8).map((item) => <span key={item.page}><a href={item.page}>{item.title}</a><br /></span>)}
+                  {group.length > 8 && <span>+ {group.length - 8} more in the list</span>}
                 </Popup>
               </CircleMarker>
-            ))}
+              )
+            })}
           </MapContainer>
         </div>
 
         <div className="map-results" aria-live="polite">
           <div className="mb-3 flex items-center justify-between text-xs text-ink-soft">
             <span>{loading ? 'Loading sites...' : `${results.length} shown`}</span>
-            <span><i className="map-dot exact" /> exact <i className="map-dot approximate ml-2" /> approximate</span>
+            <span><i className="map-dot exact" /> public site <i className="map-dot approximate ml-2" /> regional</span>
           </div>
           {!loading && results.map((result) => (
             <article key={result.page} className={`map-result ${selected === result.page ? 'selected' : ''}`} onMouseEnter={() => setSelected(result.page)}>

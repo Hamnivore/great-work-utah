@@ -137,7 +137,6 @@ All pages live flat at \`/pages/{slug}.md\`; every view below is generated from 
 
 - [needs](needs.md) — every stated "what they need now," one line each: the hiring view
 - [by-region](by-region.md) — attributed pages by Utah location
-- [/locations.geojson](/locations.geojson) — verified public-site points for maps and proximity filtering; intentionally excludes people and unsafe or ambiguous locations
 - Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md)`).join(' · ')}
 `)
 

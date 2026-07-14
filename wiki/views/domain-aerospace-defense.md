@@ -1,13 +1,19 @@
 # aerospace-defense — sector hub
 
-Generated from `**Domain:**` metadata (53/610 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (65/610 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
 - [CleanJoule](/pages/cleanjoule.md) · `/pages/cleanjoule.md` · Salt Lake City · sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
 - [Electric Power Systems (EPS)](/pages/electric-power-systems.md) · `/pages/electric-power-systems.md` · North Logan · electric aviation, battery propulsion, eVTOL, FAA certification, power electronics
+- [Fortem Technologies](/pages/fortem-technologies.md) · `/pages/fortem-technologies.md` · Lindon · counter-UAS, radar, autonomous systems, defense, critical infrastructure
 - [Hypercraft](/pages/hypercraft.md) · `/pages/hypercraft.md` · Provo · hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles
+- [IMSAR](/pages/imsar.md) · `/pages/imsar.md` · Utah Valley · synthetic aperture radar, UAS, defense, aerospace, intelligence, manufacturing
+- [L3Harris Salt Lake City](/pages/l3harris-salt-lake.md) · `/pages/l3harris-salt-lake.md` · Salt Lake City · military communications, electronic warfare, ISR payloads, tactical radios, SATCOM, contested-envir…
+- [Teal Drones](/pages/teal-drones.md) · `/pages/teal-drones.md` · Salt Lake City · small unmanned aircraft, ISR, defense, autonomous systems, domestic drone manufacturing
+- [Vector](/pages/vector.md) · `/pages/vector.md` · Bluffdale · attritable drones, special operations, fiber-optic FPV, electronic warfare resilience, modern warfa…
 - [Wasatch Ionics](/pages/wasatch-ionics.md) · `/pages/wasatch-ionics.md` · unknown · lithium-oxygen batteries, reserve batteries, chemical oxygen generation, Army obstacle systems, ene…
+- [Wavetronix](/pages/wavetronix.md) · `/pages/wavetronix.md` · Springville · intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing
 
 ## Proof it can be done here
 
@@ -18,9 +24,16 @@ Generated from `**Domain:**` metadata (53/610 pages attributed so far — covera
 
 - [CleanJoule](/pages/cleanjoule.md) · `/pages/cleanjoule.md`: Biochemical engineers, process engineers, and catalytic chemists with biofuel scale-up experience are the most relevant technical contributors. A DoD partnership signals interest in defense and government-contract pathways alongside commercial aviation. Manufacturing, quality, and supply chain hires are likely priorities as the company moves toward full-scale production. The airline strategic inv… *(reviewed 2026-06-19)*
 - [Electric Power Systems (EPS)](/pages/electric-power-systems.md) · `/pages/electric-power-systems.md`: Likely needs include aerospace battery electrochemists, power electronics engineers, certification engineers with FAA DER experience, systems engineers familiar with aviation safety standards (DO-178C, DO-254, ARP4754A), and manufacturing engineers capable of building aviation-grade hardware at production scale. The team appears to be Utah-based and smaller than coastal counterparts, making indiv… *(reviewed 2026-06-19)*
+- [Fortem Technologies](/pages/fortem-technologies.md) · `/pages/fortem-technologies.md`: Likely needs include radar engineers, embedded systems engineers, guidance and controls specialists, autonomy engineers, manufacturing engineers, field deployment operators, export-control-aware program managers, and policy people who understand airspace and critical-infrastructure rules. For talent matching, Fortem is a strong candidate for people who want physical AI, defense relevance, and har… *(reviewed 2026-05-09)*
 - [Hypercraft](/pages/hypercraft.md) · `/pages/hypercraft.md`: Likely needs include powertrain engineers, power-electronics engineers, embedded and vehicle-control software engineers, systems-integration engineers, and defense program managers who understand military vehicle-modernization procurement. The "software-defined powertrain" positioning requires both deep hardware competence and a credible software platform, so full-stack vehicle-systems people are… *(reviewed 2026-06-18)*
+- [IMSAR](/pages/imsar.md) · `/pages/imsar.md`: Likely needs include RF engineers, signal-processing engineers, embedded software engineers, aerospace integration specialists, manufacturing and quality leaders, program managers, field operations people, and business-development operators with defense and homeland-security experience. For talent matching, IMSAR fits people who want hard engineering and mission relevance, especially if they can … *(reviewed 2026-06-18)*
+- [L3Harris Salt Lake City](/pages/l3harris-salt-lake.md) · `/pages/l3harris-salt-lake.md`: Likely needs include RF engineers, firmware engineers, systems engineers, cybersecurity specialists, and program managers — most requiring security clearances. Hiring at scale reflects ongoing work across comms, EW, and ISR programs tied to defense budget cycles. Good fit for engineers who want production defense communications with real deployed platforms and a relocation radius that includes Sa… *(reviewed 2026-06-19)*
+- [Teal Drones](/pages/teal-drones.md) · `/pages/teal-drones.md`: Likely needs: mechanical and electrical engineers focused on small UAS, embedded and communications-security software engineers, autonomy and flight-software engineers, manufacturing and production-operations staff (production scaling has been a stated priority), and defense-acquisition and program-management professionals. For talent matching, Teal fits engineers and operators who want defense h… *(reviewed 2026-06-18)*
+- [Vector](/pages/vector.md) · `/pages/vector.md`: Likely needs include robotics, aerospace, embedded systems, and electronic-warfare engineers; manufacturing and production scale-up staff; special operations veterans and defense acquisition professionals who can translate SOF requirements into product; and program managers comfortable with fast-paced DoD integration. For talent matching, Vector fits engineers and operators who want startup pace … *(reviewed 2026-06-19)*
 - [Wasatch Ionics](/pages/wasatch-ionics.md) · `/pages/wasatch-ionics.md`: Likely needs include electrochemistry and battery-materials researchers, systems engineers who understand reserve-battery architectures, Army program and SBIR contracting advisors, and manufacturing scale-up expertise — all at a stage where the team and funding picture are not publicly visible. Strong fit for people who want frontier battery chemistry with a defense application and are comfortabl… *(reviewed 2026-06-19)*
+- [Wavetronix](/pages/wavetronix.md) · `/pages/wavetronix.md`: Likely needs include RF engineers, embedded systems engineers, transportation engineers, manufacturing technicians, field-support specialists, product managers who understand public infrastructure, and sales operators comfortable with transportation agencies and procurement cycles. For talent matching, Wavetronix is a good fit for people who like physical products, public infrastructure, and tech… *(reviewed 2026-06-18)*
 
 ## Also relevant (primary elsewhere)
 
+- [Space Dynamics Laboratory](/pages/space-dynamics-laboratory.md) · `/pages/space-dynamics-laboratory.md` — primary: space-science
 - [Valar Atomics](/pages/valar-atomics.md) · `/pages/valar-atomics.md` — primary: energy

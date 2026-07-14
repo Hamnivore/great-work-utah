@@ -8,6 +8,7 @@
 **Primary Location:** North Logan, UT
 **Utah Location:** North Logan, UT
 **Region:** North Logan
+**Domain:** space-science, aerospace-defense
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/space-dynamics-1600.webp

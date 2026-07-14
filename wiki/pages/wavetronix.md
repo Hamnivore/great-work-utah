@@ -8,6 +8,7 @@
 **Primary Location:** Springville, UT
 **Utah Location:** Springville, UT
 **Region:** Springville
+**Domain:** aerospace-defense, computing
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/wavetronix-springville-traffic-radar-2026/1600/1100

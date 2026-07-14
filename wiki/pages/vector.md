@@ -8,6 +8,7 @@
 **Primary Location:** Bluffdale, UT
 **Utah Location:** Bluffdale, UT
 **Region:** Bluffdale
+**Domain:** aerospace-defense
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *Jamming-immune FPV drones and a subscription model built for SOF — impressive early traction, very young company.*

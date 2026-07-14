@@ -8,6 +8,7 @@
 **Primary Location:** Lindon, UT
 **Utah Location:** Lindon, UT
 **Region:** Lindon
+**Domain:** aerospace-defense
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/fortem-skydome-counter-uas-2026/1600/1100

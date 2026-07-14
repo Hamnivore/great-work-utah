@@ -16,6 +16,10 @@ Generated from normalized `**Region:**` metadata, which is derived from `**Utah 
 
 - [BIG Chamber (Beaver, Iron, Garfield)](/pages/big-chamber-beaver-iron-garfield.md) · `/pages/big-chamber-beaver-iron-garfield.md` · culture-place
 
+## Bluffdale
+
+- [Vector](/pages/vector.md) · `/pages/vector.md` · aerospace-defense
+
 ## Box Elder County
 
 - [Box Elder Chamber of Commerce](/pages/box-elder-chamber-of-commerce.md) · `/pages/box-elder-chamber-of-commerce.md` · culture-place
@@ -61,6 +65,14 @@ Generated from normalized `**Region:**` metadata, which is derived from `**Utah 
 
 - [Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md) · `/pages/business-resource-center-davis-tech-college.md` · culture-place
 
+## Lehi
+
+- [Halia Therapeutics](/pages/halia-therapeutics.md) · `/pages/halia-therapeutics.md` · health-bio
+
+## Lindon
+
+- [Fortem Technologies](/pages/fortem-technologies.md) · `/pages/fortem-technologies.md` · aerospace-defense
+
 ## Logan
 
 - [WAVE (Wireless Advanced Vehicle Electrification)](/pages/wave-inc.md) · `/pages/wave-inc.md` · energy, materials-mfg
@@ -68,6 +80,7 @@ Generated from normalized `**Region:**` metadata, which is derived from `**Utah 
 ## North Logan
 
 - [Electric Power Systems (EPS)](/pages/electric-power-systems.md) · `/pages/electric-power-systems.md` · aerospace-defense, energy
+- [Space Dynamics Laboratory](/pages/space-dynamics-laboratory.md) · `/pages/space-dynamics-laboratory.md` · space-science, aerospace-defense
 
 ## North Salt Lake
 
@@ -86,6 +99,7 @@ Generated from normalized `**Region:**` metadata, which is derived from `**Utah 
 
 - [Brigham Young University (BYU) - Rollins Center](/pages/brigham-young-university-byu-rollins-center.md) · `/pages/brigham-young-university-byu-rollins-center.md` · culture-place
 - [Hypercraft](/pages/hypercraft.md) · `/pages/hypercraft.md` · aerospace-defense, energy
+- [Qualtrics](/pages/qualtrics.md) · `/pages/qualtrics.md` · computing
 
 ## Rich County
 
@@ -105,9 +119,14 @@ Generated from normalized `**Region:**` metadata, which is derived from `**Utah 
 - [Church and State](/pages/church-and-state.md) · `/pages/church-and-state.md` · culture-place
 - [CleanJoule](/pages/cleanjoule.md) · `/pages/cleanjoule.md` · aerospace-defense, energy
 - [Conotoxins and Prialt](/pages/conotoxins-and-prialt.md) · `/pages/conotoxins-and-prialt.md` · health-bio
+- [Epitel](/pages/epitel.md) · `/pages/epitel.md` · health-bio
 - [High-Density Sustainable Aviation Fuels](/pages/high-density-sustainable-aviation-fuels.md) · `/pages/high-density-sustainable-aviation-fuels.md` · aerospace-defense, energy
+- [Instructure](/pages/instructure.md) · `/pages/instructure.md` · computing
+- [L3Harris Salt Lake City](/pages/l3harris-salt-lake.md) · `/pages/l3harris-salt-lake.md` · aerospace-defense
 - [PassiveLogic](/pages/passivelogic.md) · `/pages/passivelogic.md` · energy, computing
 - [Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md) · `/pages/pons-fleischmann-cold-fusion.md` · culture-place, energy
+- [Recursion Pharmaceuticals](/pages/recursion-pharmaceuticals.md) · `/pages/recursion-pharmaceuticals.md` · health-bio, computing
+- [Teal Drones](/pages/teal-drones.md) · `/pages/teal-drones.md` · aerospace-defense
 - [Torus](/pages/torus.md) · `/pages/torus.md` · energy, materials-mfg
 - [Zanskar Geothermal](/pages/zanskar-geothermal.md) · `/pages/zanskar-geothermal.md` · energy, computing
 
@@ -118,6 +137,10 @@ Generated from normalized `**Region:**` metadata, which is derived from `**Utah 
 ## San Juan County
 
 - [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `/pages/energy-fuels-white-mesa.md` · energy, materials-mfg, health-bio
+
+## Springville
+
+- [Wavetronix](/pages/wavetronix.md) · `/pages/wavetronix.md` · aerospace-defense, computing
 
 ## St. George
 
@@ -130,6 +153,10 @@ Generated from normalized `**Region:**` metadata, which is derived from `**Utah 
 ## Uintah County; Woods Cross
 
 - [Sky Quarry](/pages/sky-quarry.md) · `/pages/sky-quarry.md` · energy, materials-mfg
+
+## Utah Valley
+
+- [IMSAR](/pages/imsar.md) · `/pages/imsar.md` · aerospace-defense
 
 ## statewide
 

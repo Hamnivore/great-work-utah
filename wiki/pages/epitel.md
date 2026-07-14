@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Domain:** health-bio
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/epitel-remi-ambulatory-eeg-2026/1600/1100

@@ -43,9 +43,12 @@ export default function App() {
           <Link to="/" className="font-display text-lg text-twilight no-underline">
             Great Work — Utah
           </Link>
-          <nav className="flex gap-4 font-sans text-sm">
+          <nav className="flex flex-wrap gap-4 font-sans text-sm">
             <Link to="/v/needs" className="text-twilight-soft hover:text-twilight">
-              needs
+              looking for work
+            </Link>
+            <Link to="/v/guides" className="text-twilight-soft hover:text-twilight">
+              founding
             </Link>
             <Link to="/contribute" className="text-twilight-soft hover:text-twilight">
               contribute
@@ -62,11 +65,11 @@ export default function App() {
           </Routes>
         </main>
         <footer className="border-t border-sandstone/50 py-4 font-sans text-xs text-ink-soft">
-          Raw markdown at stable URLs. AI agents: fetch{' '}
+          A wiki of high-impact Utah work. Humans: browse above. Agents: fetch{' '}
           <a href="/llms.txt" className="text-twilight">
             /llms.txt
-          </a>{' '}
-          — this site is built for you.
+          </a>
+          .
         </footer>
       </div>
     </BrowserRouter>

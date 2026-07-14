@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Domain:** health-bio, computing
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/recursion-1600.webp

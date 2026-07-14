@@ -8,6 +8,7 @@
 **Primary Location:** Melbourne, FL
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Domain:** aerospace-defense
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *One of the largest U.S. defense comms facilities — Falcon radios, SATCOM terminals, and classified ISR payloads, thousands of engineers deep.*

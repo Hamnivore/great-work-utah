@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Domain:** aerospace-defense
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/teal-black-widow-srr-suas-2026/1600/1100

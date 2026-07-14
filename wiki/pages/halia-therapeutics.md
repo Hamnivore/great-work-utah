@@ -8,6 +8,7 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Domain:** health-bio
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/halia-therapeutics-nek7-inflammasome-2026/1600/1100

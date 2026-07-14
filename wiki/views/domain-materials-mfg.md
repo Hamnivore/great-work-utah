@@ -1,6 +1,6 @@
 # materials-mfg — sector hub
 
-Generated from `**Domain:**` metadata (68/615 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (69/616 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Proof it can be done here
 

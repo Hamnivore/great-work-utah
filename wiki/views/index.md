@@ -7,7 +7,7 @@ All pages live flat at `/pages/{slug}.md`; every view below is generated from pa
 
 ## By type
 
-- [ventures](ventures.md) — 118 companies, labs, initiatives (with needs inline)
+- [ventures](ventures.md) — 119 companies, labs, initiatives (with needs inline)
 - [resources](resources.md) — 220 grants, accelerators, facilities, capital paths
 - [people](people.md) — 12 founders, researchers, operators
 - [helpers](helpers.md) — 12 advisors, funds, service providers

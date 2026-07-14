@@ -4,4 +4,4 @@ Generated from `**Domain:**` metadata (69/616 pages attributed so far — covera
 
 ## Money & programs
 
-- [Convoi Ventures](/pages/convoi-ventures.md) · `/pages/convoi-ventures.md` · statewide · Funding
+- [Convoi Ventures](/pages/convoi-ventures.md) · `https://greatutah.work/pages/convoi-ventures.md` · statewide · Funding

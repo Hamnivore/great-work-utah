@@ -4,6 +4,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 const CHECK = process.argv.includes('--check') // verify committed views are fresh, don't write
+const BASE = 'https://greatutah.work' // copyable URLs must be absolute: some fetchers (claude.ai web_fetch) only follow URLs seen verbatim in the conversation
 const WIKI = new URL('../wiki', import.meta.url).pathname
 const PAGES = path.join(WIKI, 'pages')
 const VIEWS = CHECK ? fs.mkdtempSync('/tmp/views-check-') : path.join(WIKI, 'views')
@@ -21,8 +22,9 @@ for (const f of fs.readdirSync(PAGES).sort()) {
   const domain = meta(raw, 'Domain')
   pages.push({
     // Root-absolute hrefs so naive joiners and unnormalized `../` fetches work.
-    // Path is also repeated in backticks for HTML-sanitizing fetchers that drop hrefs.
-    file: f, url: `/pages/${f}`, path: `/pages/${f}`,
+    // Full URL repeated in backticks for HTML-sanitizing fetchers that drop hrefs
+    // and conversation-whitelist fetchers that can't expand relative paths.
+    file: f, url: `/pages/${f}`, path: `${BASE}/pages/${f}`,
     title: (raw.match(/^# (.+)$/m) || [, f])[1].trim(),
     type: meta(raw, 'Type'),
     focus: meta(raw, 'Focus'),
@@ -46,7 +48,7 @@ const PLURAL = { venture: 'ventures', resource: 'resources', work: 'work', perso
 for (const [t, desc] of Object.entries(TYPES)) {
   const sel = pages.filter((p) => p.type === t)
   let out = `# ${t} — ${sel.length} pages\n\n${desc}. One line per page; fetch the page for detail and evidence.\n`
-  if (t === 'helper') out += `\nFor free mentorship and the full routing map, start at [/pages/find-an-advisor.md](/pages/find-an-advisor.md) — this list is mostly paid specialists, not SCORE/SBDC.\n`
+  if (t === 'helper') out += `\nFor free mentorship and the full routing map, start at [find-an-advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\` — this list is mostly paid specialists, not SCORE/SBDC.\n`
   out += `\n`
   for (const p of sel) out += t === 'venture' && p.needs ? `${line(p).trimEnd()}\n  needs: ${clip(p.needs, 280)}\n` : line(p)
   write(`${PLURAL[t]}.md`, out)
@@ -121,23 +123,23 @@ write('index.md', `# greatutah.work — master index
 **Looking for work?** Start at [needs](needs.md) — who needs people now — then [ventures](ventures.md) or a [sector hub](#derived).
 **Founding or growing?** Start at [guides](guides.md) (capital + advisors), then [resources](resources.md) and [helpers](helpers.md).
 
-All pages live flat at \`/pages/{slug}.md\`; every view below is generated from page metadata and always current. Each listing repeats its path in backticks so HTML-sanitizing fetchers still expose fetchable URLs. Conventions: [/meta/conventions.md](/meta/conventions.md) · attributes: [/meta/attributes.md](/meta/attributes.md) · what "great work" means here: [/meta/charter.md](/meta/charter.md)
+All pages live flat at \`${BASE}/pages/{slug}.md\`; every view below is generated from page metadata and always current. Each listing repeats its full URL in backticks so HTML-sanitizing fetchers still expose fetchable URLs, and so conversation-whitelist fetchers (like claude.ai web_fetch) can follow it. Conventions: ${BASE}/meta/conventions.md · attributes: ${BASE}/meta/attributes.md · what "great work" means here: ${BASE}/meta/charter.md
 
 ## By type
 
-- [ventures](ventures.md) — ${count('venture')} companies, labs, initiatives (with needs inline)
-- [resources](resources.md) — ${count('resource')} grants, accelerators, facilities, capital paths
-- [people](people.md) — ${count('person')} founders, researchers, operators
-- [helpers](helpers.md) — ${count('helper')} advisors, funds, service providers
-- [work](work.md) — ${count('work')} historical proofs of what Utah has built
-- [guides](guides.md) — ${count('guide')} opinionated maps and playbooks
-- [sources](sources.md) — ${count('source')} public evidence records
+- [ventures](ventures.md) · \`${BASE}/views/ventures.md\` — ${count('venture')} companies, labs, initiatives (with needs inline)
+- [resources](resources.md) · \`${BASE}/views/resources.md\` — ${count('resource')} grants, accelerators, facilities, capital paths
+- [people](people.md) · \`${BASE}/views/people.md\` — ${count('person')} founders, researchers, operators
+- [helpers](helpers.md) · \`${BASE}/views/helpers.md\` — ${count('helper')} advisors, funds, service providers
+- [work](work.md) · \`${BASE}/views/work.md\` — ${count('work')} historical proofs of what Utah has built
+- [guides](guides.md) · \`${BASE}/views/guides.md\` — ${count('guide')} opinionated maps and playbooks
+- [sources](sources.md) · \`${BASE}/views/sources.md\` — ${count('source')} public evidence records
 
 ## Derived
 
-- [needs](needs.md) — every stated "what they need now," one line each: the hiring view
-- [by-region](by-region.md) — attributed pages by Utah location
-- Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md)`).join(' · ')}
+- [needs](needs.md) · \`${BASE}/views/needs.md\` — every stated "what they need now," one line each: the hiring view
+- [by-region](by-region.md) · \`${BASE}/views/by-region.md\` — attributed pages by Utah location
+- Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md) \`${BASE}/views/domain-${d}.md\``).join(' · ')}
 `)
 
 if (CHECK) {
@@ -154,7 +156,6 @@ if (CHECK) {
   process.exitCode = stale ? 1 : 0
 } else {
   // sitemap for crawlers (human pages + raw markdown), written alongside the app's static assets
-  const BASE = 'https://greatutah.work'
   const urls = [
     `${BASE}/`, `${BASE}/llms.txt`,
     ...fs.readdirSync(VIEWS).map((f) => `${BASE}/views/${f}`),

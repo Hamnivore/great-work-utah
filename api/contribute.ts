@@ -5,7 +5,8 @@
 const REPO = 'Hamnivore/great-work-utah'
 const API = 'https://api.github.com'
 const VALID_TYPES = ['venture', 'person', 'helper', 'resource', 'work', 'guide', 'source']
-const PATH_RE = /^pages\/[a-z0-9-]+\.md$/
+const PAGE_PATH_RE = /^pages\/[a-z0-9-]+\.md$/
+const NOTE_PATH_RE = /^(pages|views|meta)\/[a-z0-9-]+\.md$/
 
 type Body = {
   kind?: unknown
@@ -31,8 +32,18 @@ function validate(body: Body): { error?: string; kind?: 'note' | 'page' } {
   if (kind !== 'note' && kind !== 'page') {
     errors.push('"kind" must be "note" or "page".')
   }
-  if (typeof path !== 'string' || !PATH_RE.test(path)) {
-    errors.push('"path" must match pages/{slug}.md (lowercase letters, digits, hyphens).')
+  if (kind === 'page') {
+    if (typeof path !== 'string' || !PAGE_PATH_RE.test(path)) {
+      errors.push('"path" must match pages/{slug}.md (lowercase letters, digits, hyphens).')
+    }
+  } else if (kind === 'note') {
+    if (typeof path !== 'string' || !NOTE_PATH_RE.test(path)) {
+      errors.push(
+        '"path" for notes must match pages/{slug}.md, views/{name}.md, or meta/{doc}.md (lowercase letters, digits, hyphens).',
+      )
+    }
+  } else if (typeof path !== 'string') {
+    errors.push('"path" must be a string.')
   }
   if (typeof content !== 'string') {
     errors.push('"content" must be a string.')
@@ -136,7 +147,7 @@ export default async function handler(req: Req, res: Res) {
   // req.body is a getter that throws before we run if the JSON is malformed —
   // access it inside try/catch so agents get a real error body, not an empty 400.
   const jsonShape =
-    'Send Content-Type: application/json with a body like {"kind":"note","path":"pages/example.md","content":"at least 15 chars"}'
+    'Send Content-Type: application/json with a body like {"kind":"note","path":"pages/example.md","content":"at least 15 chars"} (notes may also target views/{name}.md or meta/{doc}.md)'
   let raw: unknown
   try {
     raw = req.body

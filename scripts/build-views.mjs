@@ -64,8 +64,12 @@ const attributed = pages.filter((p) => p.domains.length)
 for (const d of DOMAINS) {
   const prim = attributed.filter((p) => p.domains[0] === d)
   const sec = attributed.filter((p) => p.domains.includes(d) && p.domains[0] !== d)
-  if (!prim.length && !sec.length) continue
   let hub = `# ${d} — sector hub\n\nGenerated from \`**Domain:**\` metadata (${attributed.length}/${pages.length} pages attributed so far — coverage grows with the attribution rollout).\n`
+  if (!prim.length && !sec.length) {
+    hub += `\nNo pages attributed to **${d}** yet. Until attribution catches up, use [/views/ventures.md](/views/ventures.md), [/views/resources.md](/views/resources.md), and [/views/work.md](/views/work.md), or skim Focus lines — don't treat an empty hub as "nothing in this sector."\n`
+    write(`domain-${d}.md`, hub)
+    continue
+  }
   for (const [label, filt] of [['Players', (p) => p.type === 'venture'], ['Proof it can be done here', (p) => p.type === 'work'], ['People', (p) => p.type === 'person'], ['Money & programs', (p) => p.type === 'resource' || p.type === 'helper']]) {
     const s = prim.filter(filt)
     if (!s.length) continue

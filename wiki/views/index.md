@@ -16,4 +16,4 @@ All pages live flat at `/pages/{slug}.md`; every view below is generated from pa
 
 - [needs](needs.md) — every stated "what they need now," one line each: the hiring view
 - [by-region](by-region.md) — attributed pages by Utah location
-- Sector hubs (attribution rollout in progress): [energy](domain-energy.md) · [health-bio](domain-health-bio.md) · [aerospace-defense](domain-aerospace-defense.md) · [computing](domain-computing.md) · [materials-mfg](domain-materials-mfg.md) · [space-science](domain-space-science.md) · [culture-place](domain-culture-place.md)
+- Sector hubs (attribution rollout in progress): [energy](domain-energy.md) · [health-bio](domain-health-bio.md) · [aerospace-defense](domain-aerospace-defense.md) · [computing](domain-computing.md) · [materials-mfg](domain-materials-mfg.md) · [space-science](domain-space-science.md) · [capital-programs](domain-capital-programs.md) · [culture-place](domain-culture-place.md)

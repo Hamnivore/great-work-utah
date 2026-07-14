@@ -8,9 +8,13 @@
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
+**Map Location:** Vivint, 4949 N 300 W, Provo, UT 84604
+**Coordinates:** 40.2992287, -111.6630329
+**Location Precision:** exact
+**Location Source:** https://www.vivint.com/locations/utah/provo
 **Careers:** https://www.vivint.com/company/careers
 **Website:** https://www.vivint.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/vivint-smart-home-provo-2026/1600/1100
 **Pull:** *Professional-install smart home security at national scale — Utah-built hardware, cloud, and 24/7 monitoring now inside NRG Energy.*

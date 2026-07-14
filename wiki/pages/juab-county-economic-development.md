@@ -7,8 +7,12 @@
 **Primary Location:** Nephi, UT
 **Utah Location:** Juab County, UT
 **Region:** Juab County
+**Map Location:** 160 North Main Street, Nephi, UT 84648
+**Coordinates:** 39.7108747, -111.8360757
+**Location Precision:** exact
+**Location Source:** https://business.utah.gov/statewide-economic-development-contacts/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

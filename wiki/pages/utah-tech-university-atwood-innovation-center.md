@@ -7,8 +7,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Map Location:** 453 South 600 East, St. George, UT 84770
+**Coordinates:** 37.1004513, -113.5705685
+**Location Precision:** exact
+**Location Source:** https://innovation.utahtech.edu/contact-us/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

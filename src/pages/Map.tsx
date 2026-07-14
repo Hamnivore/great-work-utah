@@ -1,7 +1,10 @@
 import { useEffect, useMemo, useState } from 'react'
-import { CircleMarker, MapContainer, Popup, TileLayer, useMap } from 'react-leaflet'
+import L from 'leaflet'
+import { MapContainer, Marker, Popup, TileLayer, Tooltip, useMap } from 'react-leaflet'
+import MarkerClusterGroup from 'react-leaflet-cluster'
 import { ExternalLink, LocateFixed, MapPin, RotateCcw } from 'lucide-react'
 import 'leaflet/dist/leaflet.css'
+import 'leaflet.markercluster/dist/MarkerCluster.css'
 
 type LocationResult = {
   title: string
@@ -36,6 +39,7 @@ type LocationResponse = {
 
 const PLACES = ['All Utah', 'Salt Lake City', 'Provo', 'Ogden', 'St. George', 'Logan', 'Lehi', 'Park City', 'Moab', 'Cedar City', 'Milford']
 const TYPE_LABELS: Record<string, string> = { all: 'All', venture: 'Ventures', person: 'People', resource: 'Resources', helper: 'Helpers', work: 'Work' }
+const escapeAttribute = (value: string) => value.replace(/[&"<>]/g, (character) => ({ '&': '&amp;', '"': '&quot;', '<': '&lt;', '>': '&gt;' })[character] || character)
 
 function FitResults({ results }: { results: LocationResult[] }) {
   const map = useMap()
@@ -93,16 +97,6 @@ export function MapPage() {
     if (precision !== 'all' && result.location.precision !== precision) return false
     return true
   }), [response, type, precision])
-  const markerGroups = useMemo(() => {
-    const groups = new Map<string, LocationResult[]>()
-    for (const result of results) {
-      const key = `${result.location.latitude},${result.location.longitude}`
-      const group = groups.get(key) || []
-      group.push(result)
-      groups.set(key, group)
-    }
-    return [...groups.values()]
-  }, [results])
 
   const searchPlace = () => {
     if (place === 'All Utah') return load()
@@ -192,31 +186,52 @@ export function MapPage() {
               url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
             <FitResults results={results} />
-            {markerGroups.map((group) => {
-              const result = group[0]
+            <MarkerClusterGroup
+              chunkedLoading
+              maxClusterRadius={46}
+              showCoverageOnHover={false}
+              spiderfyOnMaxZoom
+              iconCreateFunction={(cluster: { getChildCount(): number; getAllChildMarkers(): Array<{ options: { title?: string } }> }) => {
+                const count = cluster.getChildCount()
+                const size = count >= 100 ? 44 : count >= 10 ? 38 : 32
+                const names = cluster.getAllChildMarkers().map((marker) => marker.options.title).filter(Boolean).slice(0, 4)
+                const title = `${count} mapped pages${names.length ? ` including ${names.join(', ')}` : ''}; click to expand`
+                return L.divIcon({
+                  html: `<span title="${escapeAttribute(title)}">${count}</span>`,
+                  className: 'location-cluster',
+                  iconSize: L.point(size, size),
+                })
+              }}
+            >
+            {results.map((result) => {
               const regional = result.location.anchorKind === 'regional'
+              const icon = L.divIcon({
+                html: '<span></span>',
+                className: `location-marker ${regional ? 'regional' : 'site'}${selected === result.page ? ' selected' : ''}`,
+                iconSize: L.point(18, 18),
+                iconAnchor: L.point(9, 9),
+              })
               return (
-              <CircleMarker
-                key={`${result.location.latitude},${result.location.longitude}`}
-                center={[result.location.latitude, result.location.longitude]}
-                radius={Math.min(18, (selected && group.some((item) => item.page === selected) ? 11 : 7) + Math.log2(group.length) * 1.8)}
-                pathOptions={{
-                  color: regional ? '#d37945' : '#2c5364',
-                  fillColor: regional ? '#d37945' : '#2c5364',
-                  fillOpacity: 0.82,
-                  weight: 2,
-                }}
+              <Marker
+                key={result.page}
+                position={[result.location.latitude, result.location.longitude]}
+                icon={icon}
+                title={result.title}
                 eventHandlers={{ click: () => setSelected(result.page) }}
               >
+                <Tooltip direction="top" offset={[0, -8]} opacity={0.96}>
+                  <strong>{result.title}</strong><br />
+                  <span>{result.location.label}</span>
+                </Tooltip>
                 <Popup>
-                  <strong>{group.length === 1 ? result.title : `${group.length} pages in ${result.region}`}</strong><br />
+                  <strong>{result.title}</strong><br />
                   {result.location.label}<br />
-                  {group.slice(0, 8).map((item) => <span key={item.page}><a href={item.page}>{item.title}</a><br /></span>)}
-                  {group.length > 8 && <span>+ {group.length - 8} more in the list</span>}
+                  <a href={result.page}>Open page</a>
                 </Popup>
-              </CircleMarker>
+              </Marker>
               )
             })}
+            </MarkerClusterGroup>
           </MapContainer>
         </div>
 

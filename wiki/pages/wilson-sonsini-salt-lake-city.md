@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 95 South State Street, Suite 1000, Salt Lake City, UT 84111
+**Coordinates:** 40.767649, -111.887798
+**Location Precision:** exact
+**Location Source:** https://www.wsgr.com/en/about-us/offices/salt-lake-city.html
 **Website:** https://www.wsgr.com/en/about-us/offices/salt-lake-city.html
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

@@ -8,7 +8,11 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Updated:** 2026-06-25
+**Map Location:** 1930 South State Street, Salt Lake City, UT 84115
+**Coordinates:** 40.7280123, -111.889359
+**Location Precision:** exact
+**Location Source:** https://www.octanner.com/en-gb/legal/terms-of-use
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/oc-tanner-culture-cloud-2026/1600/1100
 **Pull:** *Nearly a century of making people feel valued at work — now delivered through software.*

@@ -6,7 +6,6 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 
 - [Domo](/pages/domo.md) · `/pages/domo.md` · venture
 - [LiveView Technologies (LVT)](/pages/liveview-technologies.md) · `/pages/liveview-technologies.md` · venture
-- [PhotoPharmics](/pages/photopharmics.md) · `/pages/photopharmics.md` · venture
 
 ## Bear River region
 
@@ -166,6 +165,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [Inherent Biosciences](/pages/inherent-biosciences.md) · `/pages/inherent-biosciences.md` · venture
 - [MX Technologies](/pages/mx-technologies.md) · `/pages/mx-technologies.md` · venture
 - [Owlet Baby Care](/pages/owlet-baby-care.md) · `/pages/owlet-baby-care.md` · venture
+- [PhotoPharmics](/pages/photopharmics.md) · `/pages/photopharmics.md` · venture
 - [Podium](/pages/podium.md) · `/pages/podium.md` · venture
 - [Savory Fund](/pages/savory-fund.md) · `/pages/savory-fund.md` · resource
 - [SchoolAI](/pages/schoolai.md) · `/pages/schoolai.md` · venture

@@ -7,8 +7,12 @@
 **Primary Location:** Pleasant Grove, UT
 **Utah Location:** Pleasant Grove, UT
 **Region:** Pleasant Grove
+**Map Location:** Make Utah, Building C2, 389 S 1300 W, Pleasant Grove, UT 84062
+**Coordinates:** 40.3562791, -111.7598252
+**Location Precision:** exact
+**Location Source:** https://makeutah.org/space-license-agreement/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

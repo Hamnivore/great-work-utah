@@ -7,8 +7,12 @@
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
 **Region:** Sandy
+**Map Location:** 9690 South 300 West, Sandy, UT 84070
+**Coordinates:** 40.5769304, -111.900911
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=The+Mill+at+SLCC+9690+South+300+West+Sandy+UT
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

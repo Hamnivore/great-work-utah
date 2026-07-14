@@ -7,8 +7,12 @@
 **Primary Location:** Heber City, UT
 **Utah Location:** Heber City, UT
 **Region:** Heber City
+**Map Location:** 475 North Main Street, Heber City, UT 84032
+**Coordinates:** 40.5138524, -111.4134749
+**Location Precision:** exact
+**Location Source:** https://www.gohebervalley.com/Contact-Us/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

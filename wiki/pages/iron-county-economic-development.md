@@ -7,8 +7,12 @@
 **Primary Location:** Cedar City, UT
 **Utah Location:** Iron County, UT
 **Region:** Iron County
+**Map Location:** 10 North Main Street, Cedar City, UT 84720
+**Coordinates:** 37.6775343, -113.0615919
+**Location Precision:** exact
+**Location Source:** https://www.cedarcityut.gov/Directory.aspx?did=10
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

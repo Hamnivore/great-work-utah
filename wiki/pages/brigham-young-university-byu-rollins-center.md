@@ -6,9 +6,13 @@
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Provo
+**Map Location:** BYU Rollins Center, South Campus Office Building, 735 N 500 E, Provo, UT 84606
+**Coordinates:** 40.2433202, -111.6500101
+**Location Precision:** exact
+**Location Source:** https://marriott.byu.edu/cet/about/contact-us/
 **Website:** https://startup.utah.gov/resources/
 **Layout:** field-guide
 

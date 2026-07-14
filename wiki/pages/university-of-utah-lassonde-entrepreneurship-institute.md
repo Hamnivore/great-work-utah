@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 1701 Student Life Way, Salt Lake City, UT 84112
+**Coordinates:** 40.7645683, -111.8415025
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Lassonde+Studios+1701+Student+Life+Way+Salt+Lake+City+UT
 **Website:** https://lassonde.utah.edu/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

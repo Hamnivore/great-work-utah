@@ -7,8 +7,12 @@
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
 **Region:** Sandy
+**Map Location:** 9815 South Monroe Street, Suite 206, Sandy, UT 84070
+**Coordinates:** 40.573457, -111.8979501
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Pitted+Ventures+9815+South+Monroe+Street+Sandy+UT
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

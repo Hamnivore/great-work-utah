@@ -39,6 +39,7 @@ Normative. Pages live flat in `pages/`, one namespace; everything else about org
 14. Never publish a person, residence, private workplace, or ambiguous address as a site point. People and entities without a safe public site may appear only at a coarse city/county/area anchor derived from `Region`; the displayed label must explicitly say it is regional and not a street address. Omit statewide-only services, `unknown`, and `no verified Utah presence` from point data.
 15. A map location is a discoverability anchor, not necessarily an entity's headquarters or full service area. `Primary Location`, `Utah Location`, and `Region` retain those meanings.
 16. Location corrections and removal requests use `POST /api/contribute` with `kind: note` and the affected page path. A request to remove an unsafe or unwanted point does not require a replacement location.
+17. A clearly named public Google Maps place listing is sufficient evidence for an organizational or work-site street address when no direct official location page is available. Prefer the official page when it publishes the address. A search result that identifies only a city, service area, mailbox, residence, or ambiguous namesake does not qualify.
 
 ## P2 precedents (atoms)
 

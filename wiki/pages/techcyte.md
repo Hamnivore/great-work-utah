@@ -8,8 +8,12 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
+**Map Location:** Techcyte headquarters, 1106 N 1200 W, Orem, UT 84057
+**Coordinates:** 40.3173985, -111.7245523
+**Location Precision:** exact
+**Location Source:** https://techcyte.com/careers/join-our-team/
 **Website:** https://www.techcyte.com
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/techcyte-digital-pathology-fusion-2026/1600/1100
 **Pull:** *AI that reads digitized slides so scarce pathologists can spend their time on the hard cases.*

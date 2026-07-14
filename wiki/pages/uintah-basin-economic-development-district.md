@@ -7,8 +7,12 @@
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT
 **Region:** Uinta Basin
+**Map Location:** 330 East 100 South, Roosevelt, UT 84066
+**Coordinates:** 40.2980868, -109.9868242
+**Location Precision:** exact
+**Location Source:** https://www.ubaog.org/economic-development-district
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

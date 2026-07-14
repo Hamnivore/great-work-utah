@@ -6,9 +6,13 @@
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
 **Primary Location:** Cache County, UT
 **Utah Location:** Cache County, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Cache County
+**Map Location:** Cache Valley Chamber of Commerce, 73 N Main St, Suite 210, Logan, UT 84321
+**Coordinates:** 41.7327486, -111.8350158
+**Location Precision:** exact
+**Location Source:** https://cachechamber.com/contact-us/
 **Website:** https://startup.utah.gov/resources/
 **Layout:** field-guide
 

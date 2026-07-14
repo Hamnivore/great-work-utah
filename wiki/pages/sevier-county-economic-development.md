@@ -7,8 +7,12 @@
 **Primary Location:** Sevier County, UT
 **Utah Location:** Sevier County, UT
 **Region:** Sevier County
+**Map Location:** 250 North Main Street, Richfield, UT 84701
+**Coordinates:** 38.7716015, -112.0847058
+**Location Precision:** exact
+**Location Source:** https://sevieredc.com/contact-us/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

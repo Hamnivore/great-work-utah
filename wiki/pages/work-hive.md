@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 159 West Broadway, Suite 200, Salt Lake City, UT 84101
+**Coordinates:** 40.7646011, -111.8953029
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Work+Hive+159+West+Broadway+Salt+Lake+City+UT
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

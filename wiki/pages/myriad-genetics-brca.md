@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 320 Wakara Way, Salt Lake City, UT 84108
+**Coordinates:** 40.7638577, -111.8243704
+**Location Precision:** exact
+**Location Source:** https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5
 **Website:** https://supreme.justia.com/cases/federal/us/569/576/
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Pull:** *Utah's genealogy-powered cancer genetics helped create, and then legally reshape, the clinical market for inherited-risk testing.*
 
 ## Summary

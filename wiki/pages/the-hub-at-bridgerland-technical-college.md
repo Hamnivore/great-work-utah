@@ -7,8 +7,12 @@
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
+**Map Location:** Bridgerland Technical College Business & Innovation Building, 940 W 1400 N, Logan, UT 84321
+**Coordinates:** 41.7579013, -111.8567538
+**Location Precision:** exact
+**Location Source:** https://btech.edu/contact-us/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

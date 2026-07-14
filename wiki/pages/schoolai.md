@@ -8,8 +8,12 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** SchoolAI, 2000 Ashton Blvd, Suite 500, Lehi, UT 84043
+**Coordinates:** 40.4189286, -111.8790177
+**Location Precision:** exact
+**Location Source:** https://schoolai.com/cookies
 **Website:** https://schoolai.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/schoolai-classroom-ai-platform-2026/1600/1100
 **Pull:** *Teacher-controlled AI Spaces that adapt to each student — with Mission Control showing who needs help now.*

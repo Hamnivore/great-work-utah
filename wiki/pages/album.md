@@ -7,8 +7,12 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** Album, 3451 N Triumph Blvd, Suite 200, Lehi, UT 84043
+**Coordinates:** 40.4303664, -111.8819509
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Album+3451+N+Triumph+Blvd+Suite+200+Lehi+UT+84043
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

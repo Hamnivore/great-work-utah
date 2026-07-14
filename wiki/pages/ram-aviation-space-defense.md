@@ -8,8 +8,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Map Location:** 3172 East Deseret Drive South, St. George, UT 84790
+**Coordinates:** 37.1167613, -113.5194507
+**Location Precision:** exact
+**Location Source:** https://ramasd.com/contact/
 **Website:** https://ramasd.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/ram-aviation-space-defense-2026/1600/1100
 **Pull:** *The precision propulsion valves keeping ISS astronauts alive, the Dragon capsule flying, and Dream Chaser on track — built quietly in St. George for 50 years.*

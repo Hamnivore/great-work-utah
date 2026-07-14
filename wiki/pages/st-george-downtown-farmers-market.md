@@ -7,8 +7,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Map Location:** 300 South 400 East, St. George, UT 84770
+**Coordinates:** 37.1030216, -113.5748844
+**Location Precision:** exact
+**Location Source:** https://downtownfarmerstg.com/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

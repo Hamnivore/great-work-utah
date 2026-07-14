@@ -8,8 +8,12 @@
 **Primary Location:** unknown
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 770 Komas Drive, Salt Lake City, UT 84108
+**Coordinates:** 40.7526724, -111.8303519
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Cosm+770+Komas+Drive+Salt+Lake+City+UT
 **Website:** https://cosm.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cosm-dome-slc/1600/1100
 **Pull:** *Nearly 100 NVIDIA GPUs per dome, 70 years of planetarium engineering, and a bet that the future of live sports is a shared room, not a solo headset.*

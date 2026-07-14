@@ -5,11 +5,15 @@
 **Confidence:** Medium
 **Focus:** phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology
 **Stage:** Private; clinical-stage; Series B ($16M + $6M extension); Phase 3 trial underway
-**Primary Location:** American Fork, UT
-**Utah Location:** American Fork, UT
-**Region:** American Fork
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
+**Map Location:** PhotoPharmics, 3450 N Triumph Blvd, Suite 141, Lehi, UT 84043
+**Coordinates:** 40.4309849, -111.8794290
+**Location Precision:** exact
+**Location Source:** https://photopharmics.com/aboutus/
 **Website:** https://photopharmics.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/photopharmics-2026/1600/1100
 **Pull:** *A home-based light device targeting the retinal-circadian axis — not symptoms alone — in Parkinson's disease.*
@@ -17,7 +21,7 @@
 
 ## Summary
 
-PhotoPharmics is a Utah-based, clinical-stage medical device company developing non-invasive phototherapy for neurodegenerative disease. Founded around 2015 and headquartered in American Fork, the company is advancing Celeste® — a tablet-sized, home-use photo-neuromodulation device that delivers precisely calibrated light through the eye's non-visual photoreceptors.
+PhotoPharmics is a Utah-based, clinical-stage medical device company developing non-invasive phototherapy for neurodegenerative disease. Founded around 2015 and based in Lehi, the company is advancing Celeste® — a tablet-sized, home-use photo-neuromodulation device that delivers precisely calibrated light through the eye's non-visual photoreceptors.
 
 The scientific bet is that intrinsically photosensitive retinal ganglion cells (ipRGCs) modulate circadian and dopaminergic pathways disrupted in Parkinson's disease. Celeste has FDA Breakthrough Device designation, and the company is running a Phase 3 pivotal trial ("Light for PD") while building on prior Phase 2 data published in *Neurotherapeutics*.
 

@@ -7,8 +7,12 @@
 **Primary Location:** Summit County, UT
 **Utah Location:** Summit County, UT
 **Region:** Summit County
+**Map Location:** 60 North Main Street, Coalville, UT 84017
+**Coordinates:** 40.9180491, -111.3994588
+**Location Precision:** exact
+**Location Source:** https://business.utah.gov/statewide-economic-development-contacts/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

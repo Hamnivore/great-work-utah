@@ -7,8 +7,12 @@
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
 **Region:** Vernal
+**Map Location:** 134 West Main Street, Vernal, UT 84078
+**Coordinates:** 40.4557483, -109.5310645
+**Location Precision:** exact
+**Location Source:** https://www.vernalchamber.com/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

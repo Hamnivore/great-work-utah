@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 201 South Main Street, Suite 1800, Salt Lake City, UT 84111
+**Coordinates:** 40.7645036, -111.8905932
+**Location Precision:** exact
+**Location Source:** https://parsonsbehle.com/locations/law-firms-salt-lake-city
 **Website:** https://parsonsbehle.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

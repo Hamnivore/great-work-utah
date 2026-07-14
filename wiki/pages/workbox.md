@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 132 South State Street, Salt Lake City, UT 84111
+**Coordinates:** 40.7662938, -111.8886317
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Workbox+132+South+State+Street+Salt+Lake+City+UT
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

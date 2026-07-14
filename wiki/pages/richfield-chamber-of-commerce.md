@@ -7,8 +7,12 @@
 **Primary Location:** Richfield, UT
 **Utah Location:** Richfield, UT
 **Region:** Richfield
+**Map Location:** 250 North Main Street, Richfield, UT 84701
+**Coordinates:** 38.7716015, -112.0847058
+**Location Precision:** exact
+**Location Source:** https://richfieldareachamber.com/contact/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

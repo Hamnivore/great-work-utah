@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 177 East 900 South, Suite 200, Salt Lake City, UT 84111
+**Coordinates:** 40.7499957, -111.885784
+**Location Precision:** exact
+**Location Source:** https://mavenslc.com/businesses/maven-create/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

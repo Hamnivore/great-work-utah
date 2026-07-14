@@ -7,10 +7,14 @@
 **Stage:** Established subsidiary of bioMérieux (Euronext: BIM); global deployment
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Map Location:** 515 Colorow Drive, Salt Lake City, UT 84108
+**Coordinates:** 40.7578326, -111.8200236
+**Location Precision:** exact
+**Location Source:** https://www.biofiredx.com/european-privacy-policy/
 **Careers:** https://www.biofiredx.com/company/career/
 **Website:** https://www.biofiredx.com
 **Ownership:** public

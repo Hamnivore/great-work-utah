@@ -8,8 +8,12 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
+**Map Location:** Coreform headquarters, 1427 S 550 E, Orem, UT 84097
+**Coordinates:** 40.2709857, -111.6818388
+**Location Precision:** exact
+**Location Source:** https://coreform.com/support/contact/
 **Website:** https://coreform.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/coreform-isogeometric-analysis-2026/1600/1100
 **Pull:** *Run finite element analysis directly on fully featured CAD geometry — without the mesh-generation bottleneck.*

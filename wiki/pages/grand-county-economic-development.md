@@ -7,8 +7,12 @@
 **Primary Location:** Moab, UT
 **Utah Location:** Grand County, UT
 **Region:** Grand County
+**Map Location:** 125 East Center Street, Moab, UT 84532
+**Coordinates:** 38.5733313, -109.5485389
+**Location Precision:** exact
+**Location Source:** https://business.moabchamber.com/member-directory/Details/grand-county-economic-development-4249447
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

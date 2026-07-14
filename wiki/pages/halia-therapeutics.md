@@ -8,9 +8,13 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** Halia Therapeutics, 3900 N Traverse Mountain Blvd, Suite 100, Lehi, UT 84043
+**Coordinates:** 40.4355971, -111.8786278
+**Location Precision:** exact
+**Location Source:** https://www.sec.gov/Archives/edgar/data/1829255/000182925525000001/xslFormDX08/primary_doc.xml
 **Website:** https://haliatx.com
 **Domain:** health-bio
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/halia-therapeutics-nek7-inflammasome-2026/1600/1100
 **Pull:** *Trying to treat the inflammation underneath aging, not just one disease at a time.*

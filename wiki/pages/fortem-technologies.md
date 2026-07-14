@@ -8,10 +8,14 @@
 **Primary Location:** Lindon, UT
 **Utah Location:** Lindon, UT
 **Region:** Lindon
+**Map Location:** Fortem Technologies, 1855 W 500 N, Lindon, UT 84042
+**Coordinates:** 40.3474339, -111.7586836
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Fortem+Technologies+1855+W+500+N+Lindon+UT+84042
 **Careers:** https://recruiting.paylocity.com/recruiting/jobs/All/FORTEM-TECHNOLOGIES
 **Website:** https://fortemtech.com/
 **Domain:** aerospace-defense
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/fortem-skydome-counter-uas-2026/1600/1100
 **Pull:** *TrueView radar, DroneHunter interceptors, and SkyDome — the airspace defense stack for the small-drone era.*

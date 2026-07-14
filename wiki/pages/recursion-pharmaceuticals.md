@@ -8,10 +8,14 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 41 South Rio Grande Street, Salt Lake City, UT 84101
+**Coordinates:** 40.7628187, -111.9046066
+**Location Precision:** exact
+**Location Source:** https://www.recursion.com/terms-of-use
 **Careers:** https://www.recursion.com/careers
 **Website:** https://www.recursion.com/mission
 **Domain:** health-bio, computing
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/recursion-1600.webp
 **Hero caption:** *Recursion scientists in the company's automated wet-lab, Salt Lake City — temporary hotlinked image from Recursion's website; image rights have not yet been cleared.*

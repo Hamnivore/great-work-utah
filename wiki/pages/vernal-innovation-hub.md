@@ -7,8 +7,12 @@
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
 **Region:** Vernal
+**Map Location:** 431 East Main Street, Vernal, UT 84078
+**Coordinates:** 40.4558783, -109.5204261
+**Location Precision:** exact
+**Location Source:** https://www.vernalinnovationhub.com/uintahspeedpitch
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

@@ -8,9 +8,13 @@
 **Primary Location:** San Jose, CA
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** Adobe Lehi campus, 3900 Adobe Way, Lehi, UT 84043
+**Coordinates:** 40.4345524, -111.8920120
+**Location Precision:** exact
+**Location Source:** https://www.adobe.com/about-adobe/contact/offices.html
 **Careers:** https://careers.adobe.com/
 **Domain:** computing
-**Updated:** 2026-06-21
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-21
 **Pull:** *The dominant creative-software platform, with one of the largest engineering hubs in Silicon Slopes — a real employer anchor for Utah design and software talent.*
 

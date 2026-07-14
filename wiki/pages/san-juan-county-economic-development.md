@@ -7,8 +7,12 @@
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT
 **Region:** San Juan County
+**Map Location:** 117 South Main Street, Monticello, UT 84535
+**Coordinates:** 37.8709077, -109.3428098
+**Location Precision:** exact
+**Location Source:** https://sanjuancountyut.gov/econdev/page/monticello-coworking-space
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

@@ -8,10 +8,14 @@
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT
 **Region:** South Jordan
+**Map Location:** 1600 West Merit Parkway, South Jordan, UT 84095
+**Coordinates:** 40.5714621, -111.935662
+**Location Precision:** exact
+**Location Source:** https://www.merit.com/contact/
 **Careers:** https://www.merit.com/careers/
 **Website:** https://www.merit.com
 **Domain:** health-bio
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/merit-medical-interventional-catheter-2026/1600/1100
 **Pull:** *Quietly making the disposable devices that interventional cardiologists, radiologists, and oncologists use every day.*

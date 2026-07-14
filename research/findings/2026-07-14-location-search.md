@@ -76,6 +76,10 @@ Maintainer follow-up changed the coverage policy: people and private entities sh
 
 Coverage increased from 8 verified sites to 288 mapped pages: 8 site points and 280 regional anchors. Shared centroids are not jittered into fake precision; the human map aggregates pages at identical coordinates into count-scaled regional markers. A local Salt Lake City people query returned six people, all labeled `anchorKind: regional`, and the expanded desktop map passed a fresh Playwright render check.
 
+A follow-up address pass researched Salt Lake, Utah/northern, and southern/rural regions in parallel. Eighty-six organization/work pages were promoted from regional anchors to exact public sites using official location pages where available and stable Google Maps listings for otherwise clearly public places. Exact coverage rose to 94 sites; 194 pages remain regional. Ambiguous, residential, conflicting-geocode, and stale candidates were omitted. PhotoPharmics' official address also corrected its canonical region from American Fork to Lehi.
+
+The dense-map UI changed from overlapping circles to spatial clusters. Cluster markers expose counts and example names on hover, expand/spiderfy on click, and individual markers show name plus location in a desktop hover tooltip. This preserves real shared centroids rather than inventing offsets.
+
 ## What this establishes and does not
 
 The experiment establishes discoverability, useful query ergonomics, correct distance behavior, page follow-through, privacy signaling, and an honest regional fallback. Eight points prove the plumbing, not statewide recall. Expanding verified location coverage remains a corpus task and should be measured separately from endpoint usability.

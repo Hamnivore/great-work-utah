@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 630 Komas Drive, Suite 300, Salt Lake City, UT 84108
+**Coordinates:** 40.7536919, -111.8317466
+**Location Precision:** exact
+**Location Source:** https://www.altitudelab.org/old-site/old-home
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

@@ -7,8 +7,12 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** Savory Fund, 1557 W Innovation Way, Suite 150, Lehi, UT 84043
+**Coordinates:** 40.4310990, -111.8757910
+**Location Precision:** exact
+**Location Source:** https://savoryfund.com/privacy-policy/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

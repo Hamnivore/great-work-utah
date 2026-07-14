@@ -7,8 +7,12 @@
 **Primary Location:** Delta, UT
 **Utah Location:** Delta, UT
 **Region:** Delta
+**Map Location:** 75 West Main Street, Delta, UT 84624
+**Coordinates:** 39.3523060, -112.5764185
+**Location Precision:** exact
+**Location Source:** https://www.deltautahchamber.com/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

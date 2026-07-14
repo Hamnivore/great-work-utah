@@ -7,10 +7,14 @@
 **Stage:** Private growth company; majority stake held by Tether (via Tether Evo) since April 2024
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Map Location:** 630 Komas Drive, Suite 200, Salt Lake City, UT 84108
+**Coordinates:** 40.7536919, -111.8317466
+**Location Precision:** exact
+**Location Source:** https://blackrockneurotech.com/contact/
 **Website:** https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/
 **Ownership:** private
 **Hero:** /img/heroes/front/blackrock-1600.webp

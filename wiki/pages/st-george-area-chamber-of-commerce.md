@@ -7,8 +7,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Map Location:** 136 North 100 East, St. George, UT 84770
+**Coordinates:** 37.1105474, -113.5810923
+**Location Precision:** exact
+**Location Source:** https://stgeorgechamber.com/about/boards/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

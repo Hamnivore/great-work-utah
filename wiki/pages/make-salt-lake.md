@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 663 West 100 South, Salt Lake City, UT 84104
+**Coordinates:** 40.7668049, -111.910492
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Make+Salt+Lake+663+West+100+South+Salt+Lake+City+UT
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

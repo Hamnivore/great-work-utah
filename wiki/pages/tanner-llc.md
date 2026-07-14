@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT; Lehi, UT
 **Region:** Salt Lake City
+**Map Location:** 36 South State Street, Suite 600, Salt Lake City, UT 84111
+**Coordinates:** 40.7689082, -111.8885567
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Tanner+LLC+36+South+State+Street+Salt+Lake+City+UT
 **Website:** https://tannerco.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

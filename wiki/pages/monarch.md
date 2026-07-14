@@ -7,8 +7,12 @@
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
 **Region:** Ogden
+**Map Location:** The Monarch, 455 25th St, Ogden, UT 84401
+**Coordinates:** 41.2205743, -111.9683826
+**Location Precision:** exact
+**Location Source:** https://www.themonarchogden.com/about/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

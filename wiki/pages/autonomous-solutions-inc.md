@@ -8,8 +8,12 @@
 **Primary Location:** Mendon, UT
 **Utah Location:** Mendon, UT; Lehi, UT
 **Region:** Mendon; Lehi
+**Map Location:** Autonomous Solutions, Inc., 990 N 8000 W, Mendon, UT 84325
+**Coordinates:** 41.7566627, -112.0278698
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Autonomous+Solutions+Inc+990+N+8000+W+Mendon+UT+84325
 **Website:** https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/asi-mobius-off-road-autonomy-2026/1600/1100
 **Pull:** *Twenty-five years of OEM-agnostic autonomy for tractors, haul trucks, and industrial fleets — Mobius at industrial scale.*

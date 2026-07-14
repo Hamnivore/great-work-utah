@@ -7,8 +7,12 @@
 **Primary Location:** Emery County, UT
 **Utah Location:** Emery County, UT
 **Region:** Emery County
+**Map Location:** 75 East Main Street, Castle Dale, UT 84513
+**Coordinates:** 39.2117824, -111.0182741
+**Location Precision:** exact
+**Location Source:** https://www.utah.gov/pmn/sitemap/publicbody/2218.html
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

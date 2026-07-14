@@ -7,9 +7,13 @@
 **Stage:** Private; growth stage; $69M state incentive package
 **Primary Location:** North Logan, UT
 **Utah Location:** North Logan, UT
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Domain:** aerospace-defense, energy
 **Region:** North Logan
+**Map Location:** Electric Power Systems, 520 W 2850 N, North Logan, UT 84341
+**Coordinates:** 41.7827728, -111.8458100
+**Location Precision:** exact
+**Location Source:** https://epsenergy.com/contact/
 **Website:** https://epsenergy.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/electric-power-systems-2026/1600/1100

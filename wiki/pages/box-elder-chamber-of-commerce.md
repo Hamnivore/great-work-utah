@@ -6,9 +6,13 @@
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
 **Primary Location:** Box Elder County, UT
 **Utah Location:** Box Elder County, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Box Elder County
+**Map Location:** Box Elder Chamber of Commerce, 75 S Main St, Brigham City, UT 84302
+**Coordinates:** 41.5087080, -112.0156834
+**Location Precision:** exact
+**Location Source:** https://members.boxelderchamber.com/contact
 **Website:** https://startup.utah.gov/resources/
 **Layout:** field-guide
 

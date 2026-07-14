@@ -6,9 +6,13 @@
 **Focus:** Entrepreneurship Communities, Aerospace and Defense, Agriculture
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Salt Lake City
+**Map Location:** 370 South 300 East, Salt Lake City, UT 84111
+**Coordinates:** 40.7609148, -111.882989
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Church+and+State+370+South+300+East+Salt+Lake+City+UT
 **Website:** https://startup.utah.gov/resources/
 **Layout:** field-guide
 

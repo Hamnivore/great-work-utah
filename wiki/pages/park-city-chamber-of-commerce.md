@@ -7,8 +7,12 @@
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT
 **Region:** Park City
+**Map Location:** 1850 Sidewinder Drive Suite 200, Park City, UT 84060
+**Coordinates:** 40.6641392, -111.4972276
+**Location Precision:** exact
+**Location Source:** https://www.parkcitychamber.com/about-us/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

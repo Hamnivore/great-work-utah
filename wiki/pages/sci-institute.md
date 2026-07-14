@@ -8,9 +8,13 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 72 South Central Campus Drive, Salt Lake City, UT 84112
+**Coordinates:** 40.7676676, -111.8452353
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=SCI+Institute+72+South+Central+Campus+Drive+Salt+Lake+City+UT
 **Website:** https://www.sci.utah.edu
 **Domain:** computing, health-bio
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/sci-institute-scientific-visualization-2026/1600/1100
 **Pull:** *Three decades of building and giving away the visual and computational tools scientists use to see what their data is doing.*

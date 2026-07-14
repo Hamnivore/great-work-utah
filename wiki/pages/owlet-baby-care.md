@@ -8,9 +8,13 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** Owlet, 2940 W Maple Loop Dr, Suite 203, Lehi, UT 84048
+**Coordinates:** 40.4326332, -111.8966306
+**Location Precision:** exact
+**Location Source:** https://owletcare.com/pages/privacy-policy
 **Careers:** https://owletcare.com/pages/careers
 **Website:** https://owletcare.com/
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/owlet-baby-care-lehi-2026/1600/1100
 **Pull:** *Connected nursery monitoring from Lehi — sock vitals, cameras, and FDA-cleared products for worried parents.*

@@ -7,11 +7,15 @@
 **Stage:** Operational at scale (88,000+ annual enrollment)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Domain:** culture-place
 **Domain-flagged:** review
 **Region:** Salt Lake City
+**Map Location:** 3 Triad Center, Suite 500, Salt Lake City, UT 84180
+**Coordinates:** 40.7703066, -111.9001844
+**Location Precision:** exact
+**Location Source:** https://catalog.byupathway.edu/academicpolicies/tuition/tuition-fees-other-financial-information
 **Website:** https://byupathway.edu
 **Ownership:** nonprofit
 **Hero:** https://picsum.photos/seed/byu-pathway-global-online-education-2026/1600/1100

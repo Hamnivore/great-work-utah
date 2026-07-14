@@ -8,9 +8,13 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** Podium, 1650 W Digital Dr, Lehi, UT 84043
+**Coordinates:** 40.4196176, -111.8762475
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Podium+1650+W+Digital+Dr+Lehi+UT+84043
 **Careers:** https://www.podium.com/careers/
 **Website:** https://www.podium.com
-**Updated:** 2026-06-25
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/podium-local-business-platform-2026/1600/1100
 **Pull:** *One inbox for every message, review, and payment a local business needs to handle.*

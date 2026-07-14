@@ -8,10 +8,14 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 35 North West Temple Street, Salt Lake City, UT 84150
+**Coordinates:** 40.7726684, -111.8930642
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=FamilySearch+Library+35+North+West+Temple+Salt+Lake+City+UT
 **Careers:** https://www.familysearch.org/en/careers/
 **Website:** https://www.familysearch.org
 **Domain:** computing
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://upload.wikimedia.org/wikipedia/commons/e/ec/Family_History_Library_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg
 **Hero caption:** *The FamilySearch Library in downtown Salt Lake City — photograph by Beneathtimp (Wikimedia Commons, CC0).*

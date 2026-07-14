@@ -8,10 +8,14 @@
 **Primary Location:** North Logan, UT
 **Utah Location:** North Logan, UT
 **Region:** North Logan
+**Map Location:** Space Dynamics Laboratory headquarters, 416 E Innovation Ave, North Logan, UT 84341
+**Coordinates:** 41.7632427, -111.8219866
+**Location Precision:** exact
+**Location Source:** https://www.sdl.usu.edu/contact/
 **Careers:** https://www.sdl.usu.edu/careers/jobs
 **Website:** https://www.sdl.usu.edu
 **Domain:** space-science, aerospace-defense
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/space-dynamics-1600.webp
 **Hero caption:** *The SDL auditorium building at sunrise, North Logan, Utah — photograph by Jacobkhed (Wikimedia Commons, CC BY-SA 4.0).*

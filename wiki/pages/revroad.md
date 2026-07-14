@@ -7,8 +7,12 @@
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
+**Map Location:** RevRoad, 412 W Rivers Edge Dr, Provo, UT 84604
+**Coordinates:** 40.2650675, -111.6667797
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=RevRoad+412+W+Rivers+Edge+Dr+Provo+UT+84604
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

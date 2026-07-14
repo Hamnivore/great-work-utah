@@ -6,9 +6,13 @@
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
 **Primary Location:** Carbon County, UT
 **Utah Location:** Carbon County, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Carbon County
+**Map Location:** 751 East 100 North Suite 2600, Price, UT 84501
+**Coordinates:** 39.6010459, -110.7960889
+**Location Precision:** exact
+**Location Source:** https://www.carbon.utah.gov/department/economic-development/
 **Website:** https://startup.utah.gov/resources/
 **Layout:** field-guide
 

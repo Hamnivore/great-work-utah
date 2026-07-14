@@ -6,9 +6,13 @@
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Cedar City
+**Map Location:** 510 West 800 South, Cedar City, UT 84720
+**Coordinates:** 37.6635545, -113.0698594
+**Location Precision:** exact
+**Location Source:** https://www.cedarcitychamber.org/
 **Website:** https://startup.utah.gov/resources/
 **Layout:** field-guide
 

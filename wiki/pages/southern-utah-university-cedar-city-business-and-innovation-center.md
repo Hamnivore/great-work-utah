@@ -7,8 +7,12 @@
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
 **Region:** Cedar City
+**Map Location:** 510 West 800 South, Cedar City, UT 84720
+**Coordinates:** 37.6635545, -113.0698594
+**Location Precision:** exact
+**Location Source:** https://www.suu.edu/regional/bic/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

@@ -7,8 +7,12 @@
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
 **Region:** Ogden
+**Map Location:** Weber Basin Job Corps Civilian Conservation Center, 7400 Cornia Dr, Ogden, UT 84405
+**Coordinates:** 41.1323450, -111.9019366
+**Location Precision:** exact
+**Location Source:** https://weberbasin.jobcorps.gov/contact
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

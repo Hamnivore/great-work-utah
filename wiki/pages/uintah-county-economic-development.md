@@ -7,8 +7,12 @@
 **Primary Location:** Uintah County, UT
 **Utah Location:** Uintah County, UT
 **Region:** Uintah County
+**Map Location:** 152 East 100 North, Vernal, UT 84078
+**Coordinates:** 40.4571164, -109.5261855
+**Location Precision:** exact
+**Location Source:** https://business.uintah.gov/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

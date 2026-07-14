@@ -7,8 +7,12 @@
 **Primary Location:** Farmington, UT
 **Utah Location:** Davis County, UT
 **Region:** Davis County
+**Map Location:** Davis County Economic Development, Davis County Administration Building, Suite 304, 61 S Main St, Farmington, UT 84025
+**Coordinates:** 40.9793744, -111.8875474
+**Location Precision:** exact
+**Location Source:** https://www.co.davis.ut.us/ced/economic-development
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

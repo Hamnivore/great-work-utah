@@ -8,8 +8,12 @@
 **Primary Location:** West Valley City, UT
 **Utah Location:** West Valley City, UT
 **Region:** West Valley City
+**Map Location:** 4061 West Parkway Boulevard, West Valley City, UT 84120
+**Coordinates:** 40.7128671, -111.9871513
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Nusano+4061+West+Parkway+Boulevard+West+Valley+City+UT
 **Website:** https://nusano.com
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/nusano-radioisotope-accelerator-2026/1600/1100
 **Pull:** *Building domestic supply for the radioisotopes that next-generation cancer drugs depend on.*

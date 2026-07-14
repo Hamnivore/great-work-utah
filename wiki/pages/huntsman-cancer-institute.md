@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 2000 Circle of Hope Drive, Salt Lake City, UT 84112
+**Coordinates:** 40.7722538, -111.8348741
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Huntsman+Cancer+Institute+2000+Circle+of+Hope+Salt+Lake+City+UT
 **Website:** https://healthcare.utah.edu/huntsmancancerinstitute
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/huntsman-cancer-institute-research-2026/1600/1100
 **Pull:** *The Mountain West's only NCI Comprehensive Cancer Center — and the place where more inherited-cancer genes have been found than anywhere else.*

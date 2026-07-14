@@ -8,9 +8,13 @@
 **Primary Location:** Melbourne, FL
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 640 North 2200 West, Salt Lake City, UT 84116
+**Coordinates:** 40.7834013, -111.9524914
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=L3Harris+640+North+2200+West+Salt+Lake+City+UT
 **Careers:** https://careers.l3harris.com/
 **Domain:** aerospace-defense
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Pull:** *One of the largest U.S. defense comms facilities — Falcon radios, SATCOM terminals, and classified ISR payloads, thousands of engineers deep.*
 

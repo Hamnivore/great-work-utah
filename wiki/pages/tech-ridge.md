@@ -7,8 +7,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Map Location:** 475 South Donlee Drive, St. George, UT 84770
+**Coordinates:** 37.0972254, -113.5941368
+**Location Precision:** exact
+**Location Source:** https://business.stgeorgechamber.com/members/member/tech-ridge-9578
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

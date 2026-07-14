@@ -7,8 +7,12 @@
 **Primary Location:** Ogden, UT
 **Utah Location:** Weber County, UT
 **Region:** Weber County
+**Map Location:** Ogden-Weber Chamber of Commerce, 2380 Washington Blvd, Suite 290, Ogden, UT 84401
+**Coordinates:** 41.2231757, -111.9703339
+**Location Precision:** exact
+**Location Source:** https://www.ogdenweberchamber.com/staff/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

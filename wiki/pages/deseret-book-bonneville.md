@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 55 North 300 West, Suite 300, Salt Lake City, UT 84101
+**Coordinates:** 40.7703066, -111.9001844
+**Location Precision:** exact
+**Location Source:** https://www.deseretbook.com/retail-product-submissions.html
 **Website:** https://deseretbook.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/deseret-book-bonneville-2026/1600/1100
 **Pull:** *The largest faith-media conglomerate in the American West — publishing, radio, and television wholly owned by the LDS Church and serving millions of members globally.*

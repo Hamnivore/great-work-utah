@@ -8,9 +8,13 @@
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT
 **Region:** South Jordan
+**Map Location:** 10355 South Jordan Gateway, Suite 300, South Jordan, UT 84095
+**Coordinates:** 40.5645297, -111.9026488
+**Location Precision:** exact
+**Location Source:** https://lucid.co/contact-us
 **Careers:** https://lucid.co/careers
 **Website:** https://www.lucidsoftware.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/lucid-visual-collaboration-2026/1600/1100
 **Pull:** *Lucidchart and Lucidspark — the visual layer where enterprise teams map processes and align on complex ideas.*

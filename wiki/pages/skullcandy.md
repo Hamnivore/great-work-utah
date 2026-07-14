@@ -8,8 +8,12 @@
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT
 **Region:** Park City
+**Map Location:** 6301 North Landmark Drive, Park City, UT 84098
+**Coordinates:** 40.7215577, -111.5472091
+**Location Precision:** exact
+**Location Source:** https://www.summitcountyutah.gov/CivicAlerts.asp?AID=505&ARC=1224
 **Website:** https://www.skullcandy.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/skullcandy-lifestyle-audio-2026/1600/1100
 **Pull:** *Park City-born audio with bass-heavy personality — headphones and earbuds for action sports and everyday listeners.*

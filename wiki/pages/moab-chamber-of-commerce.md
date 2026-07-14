@@ -7,8 +7,12 @@
 **Primary Location:** Moab, UT
 **Utah Location:** Grand County, UT
 **Region:** Grand County
+**Map Location:** 330 South Main Street, Moab, UT 84532
+**Coordinates:** 38.5679095, -109.5508434
+**Location Precision:** exact
+**Location Source:** https://moabchamber.com/about-the-chamber/
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

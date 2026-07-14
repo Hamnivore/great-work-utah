@@ -34,5 +34,5 @@ Domo's own website is useful for current company description but not fully objec
 
 ## See Also
 
-- [Official Website: Domo](domo-official-website.md)
-- [SEC/EDGAR — Adobe Acquisition of Omniture (14D-9, 2009)](omniture-adobe-sec-14d9-2009.md)
+- [Official Website: Domo](domo-official-website.md) · https://greatutah.work/pages/domo-official-website.md · https://www.domo.com
+- [SEC/EDGAR — Adobe Acquisition of Omniture (14D-9, 2009)](omniture-adobe-sec-14d9-2009.md) · https://greatutah.work/pages/omniture-adobe-sec-14d9-2009.md · https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm

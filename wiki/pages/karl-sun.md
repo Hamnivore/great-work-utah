@@ -10,8 +10,8 @@
 **Updated:** 2026-06-21
 **Hero:** https://picsum.photos/seed/karl-sun-2026/1600/1100
 **Pull:** *BYU graduate who co-founded Lucidchart and built one of Utah's largest private SaaS companies.*
-**Relates:** helps [Lucid Software](lucid-software.md)
-**Relates:** cites [Profile: Karl Sun — Lucid Software](karl-sun-lucid-bio.md)
+**Relates:** helps [Lucid Software](lucid-software.md) · https://greatutah.work/pages/lucid-software.md
+**Relates:** cites [Profile: Karl Sun — Lucid Software](karl-sun-lucid-bio.md) · https://greatutah.work/pages/karl-sun-lucid-bio.md · https://lucid.co/about
 
 ## Summary
 
@@ -55,13 +55,13 @@ LinkedIn; Lucid Software official channels; BYU alumni networks; Silicon Slopes 
 
 ## Evidence
 
-- [Profile: Karl Sun — Lucid Software](karl-sun-lucid-bio.md)
-- [Lucid Software](lucid-software.md) — company he co-founded and leads
+- [Profile: Karl Sun — Lucid Software](karl-sun-lucid-bio.md) · https://greatutah.work/pages/karl-sun-lucid-bio.md · https://lucid.co/about
+- [Lucid Software](lucid-software.md) · https://greatutah.work/pages/lucid-software.md — company he co-founded and leads
 
 ## See Also
 
-- [Lucid Software](lucid-software.md) — venture page
-- [Josh James](josh-james.md) — Domo co-founder; another example of Utah enterprise SaaS at scale
+- [Lucid Software](lucid-software.md) · https://greatutah.work/pages/lucid-software.md — venture page
+- [Josh James](josh-james.md) · https://greatutah.work/pages/josh-james.md — Domo co-founder; another example of Utah enterprise SaaS at scale
 
 ## Open Questions
 

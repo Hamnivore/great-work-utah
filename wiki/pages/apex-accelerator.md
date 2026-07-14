@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://business.utah.gov/apex/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -48,7 +49,7 @@ It is a weaker fit for a consumer app, lifestyle business, or venture-backed Saa
 
 ## Evidence
 
-- [GOEO APEX Accelerator Page](goeo-apex-accelerator.md)
+- [GOEO APEX Accelerator Page](goeo-apex-accelerator.md) · https://greatutah.work/pages/goeo-apex-accelerator.md · https://business.utah.gov/apex/
 
 ## Open Questions
 

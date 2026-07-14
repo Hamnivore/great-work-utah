@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://www.nucleusutah.org/grow
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -46,9 +47,9 @@ The best fit is a technical founder who can name a research uncertainty but cann
 
 ## Evidence
 
-- [Nucleus Grow Page](nucleus-grow-source.md)
-- [Nucleus Programs Page](nucleus-programs.md)
-- [Utah Technology Innovation Funding](utif.md)
+- [Nucleus Grow Page](nucleus-grow-source.md) · https://greatutah.work/pages/nucleus-grow-source.md · https://www.nucleusutah.org/grow
+- [Nucleus Programs Page](nucleus-programs.md) · https://greatutah.work/pages/nucleus-programs.md · https://www.nucleusutah.org/programs
+- [Utah Technology Innovation Funding](utif.md) · https://greatutah.work/pages/utif.md
 
 ## Open Questions
 

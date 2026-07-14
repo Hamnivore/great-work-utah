@@ -8,10 +8,11 @@
 **Primary Location:** Lehi area, UT
 **Utah Location:** Lehi area, UT
 **Region:** Lehi
+**Website:** https://www.inherentbio.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *Epigenetic sperm-function testing beyond count and motility — early, but a different diagnostic signal.*
-**Relates:** cites [Official Website: Inherent Biosciences](inherent-biosciences-official-website.md)
+**Relates:** cites [Official Website: Inherent Biosciences](inherent-biosciences-official-website.md) · https://greatutah.work/pages/inherent-biosciences-official-website.md · https://www.inherentbio.com
 
 ## Summary
 
@@ -43,8 +44,8 @@ Inherent is headquartered in the Lehi area on the Wasatch Front, part of Utah's 
 
 ## Evidence
 
-- [Official Website: Inherent Biosciences](inherent-biosciences-official-website.md)
-- [Nucleus Utah: Redefining male fertility](https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth)
+- [Official Website: Inherent Biosciences](inherent-biosciences-official-website.md) · https://greatutah.work/pages/inherent-biosciences-official-website.md · https://www.inherentbio.com
+- [Nucleus Utah: Redefining male fertility](https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth) · https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth
 
 ## Open Questions
 

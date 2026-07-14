@@ -8,6 +8,8 @@
 **Primary Location:** Lindon, UT
 **Utah Location:** Lindon, UT
 **Region:** Lindon
+**Careers:** https://recruiting.paylocity.com/recruiting/jobs/All/FORTEM-TECHNOLOGIES
+**Website:** https://fortemtech.com/
 **Domain:** aerospace-defense
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
@@ -50,7 +52,7 @@ Fortem is based in Lindon, Utah. That makes it part of a Wasatch Front defense-a
 
 ## Evidence
 
-- [Official Website: Fortem Technologies](fortem-official-website.md)
+- [Official Website: Fortem Technologies](fortem-official-website.md) · https://greatutah.work/pages/fortem-official-website.md · https://fortemtech.com/
 
 ## Open Questions
 

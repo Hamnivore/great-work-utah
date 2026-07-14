@@ -31,6 +31,6 @@ This is an official state government source. It is useful for the official struc
 
 ## See Also
 
-- [Utah Film Studios (Park City soundstages)](https://www.utahfilmstudios.com) — primary soundstage facility in the Park City area
-- [Kanab / Little Hollywood Museum](https://visitsouthernutah.com/little-hollywood-movie-museum/) — historical context for southern Utah film heritage
-- [Wikipedia: Cinema of Utah](https://en.wikipedia.org/wiki/Cinema_of_Utah) — broad overview of Utah's film production history
+- [Utah Film Studios (Park City soundstages)](https://www.utahfilmstudios.com) · https://www.utahfilmstudios.com — primary soundstage facility in the Park City area
+- [Kanab / Little Hollywood Museum](https://visitsouthernutah.com/little-hollywood-movie-museum/) · https://visitsouthernutah.com/little-hollywood-movie-museum/ — historical context for southern Utah film heritage
+- [Wikipedia: Cinema of Utah](https://en.wikipedia.org/wiki/Cinema_of_Utah) · https://en.wikipedia.org/wiki/Cinema_of_Utah — broad overview of Utah's film production history

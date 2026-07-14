@@ -32,5 +32,5 @@ This is an official company source. The calibration methodology claims and 20-ye
 
 ## See Also
 
-- [US Ignite: TELLUS Standout Startup Profile](https://www.us-ignite.org/blogs/tellus-a-standout-startup/) — third-party profile of the company
-- [University of Utah Air Quality Network Award (2023)](https://www.price.utah.edu/2023/04/13/us-air-quality-network-receives-award) — recognition for the academic/institutional work underpinning the platform
+- [US Ignite: TELLUS Standout Startup Profile](https://www.us-ignite.org/blogs/tellus-a-standout-startup/) · https://www.us-ignite.org/blogs/tellus-a-standout-startup/ — third-party profile of the company
+- [University of Utah Air Quality Network Award (2023)](https://www.price.utah.edu/2023/04/13/us-air-quality-network-receives-award) · https://www.price.utah.edu/2023/04/13/us-air-quality-network-receives-award — recognition for the academic/institutional work underpinning the platform

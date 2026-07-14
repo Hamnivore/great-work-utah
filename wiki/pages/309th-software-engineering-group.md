@@ -44,9 +44,9 @@ The 309th anchors Hill AFB and the Ogden Air Logistics Complex as Utah's deepest
 
 ## Evidence
 
-- [Ogden Air Logistics Complex](https://www.hill.af.mil/Units/OO-ALC/) — Hill AFB overview of the air logistics complex hosting the 309th.
-- [309th Software Engineering Group overview](https://www.hill.af.mil/News/Article-Display/Article/2555867/) — official Hill AFB article on the organization.
-- [Kessel Run](https://kesselrun.af.mil/) — DoD DevSecOps context associated with modern Air Force software delivery practices.
+- [Ogden Air Logistics Complex](https://www.hill.af.mil/Units/OO-ALC/) · https://www.hill.af.mil/Units/OO-ALC/ — Hill AFB overview of the air logistics complex hosting the 309th.
+- [309th Software Engineering Group overview](https://www.hill.af.mil/News/Article-Display/Article/2555867/) · https://www.hill.af.mil/News/Article-Display/Article/2555867/ — official Hill AFB article on the organization.
+- [Kessel Run](https://kesselrun.af.mil/) · https://kesselrun.af.mil/ — DoD DevSecOps context associated with modern Air Force software delivery practices.
 
 ## Open Questions
 

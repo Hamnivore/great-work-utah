@@ -8,11 +8,12 @@
 **Primary Location:** Murray, UT
 **Utah Location:** Murray, UT
 **Region:** Murray
+**Website:** https://www.bedbathandbeyond.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/overstock-bed-bath-beyond-murray-2026/1600/1100
 **Pull:** *From discount liquidation pioneer to Bed Bath & Beyond brand steward — a Utah e-commerce company with an unusually winding corporate identity.*
-**Relates:** cites [Official Website: Bed Bath & Beyond](bed-bath-beyond-official-website.md)
+**Relates:** cites [Official Website: Bed Bath & Beyond](bed-bath-beyond-official-website.md) · https://greatutah.work/pages/bed-bath-beyond-official-website.md · https://www.bedbathandbeyond.com
 
 ## Summary
 
@@ -50,12 +51,12 @@ Overstock's Medici Ventures era also funded and spun out Utah blockchain and fin
 
 ## Evidence
 
-- [Official Website: Bed Bath & Beyond](bed-bath-beyond-official-website.md)
+- [Official Website: Bed Bath & Beyond](bed-bath-beyond-official-website.md) · https://greatutah.work/pages/bed-bath-beyond-official-website.md · https://www.bedbathandbeyond.com
 
 ## See Also
 
-- [Domo](domo.md) — another Utah-born public company in the Silicon Slopes enterprise software cluster.
-- [Qualtrics](qualtrics.md) — Provo/Orem enterprise software anchor often cited alongside Utah's largest tech employers.
+- [Domo](domo.md) · https://greatutah.work/pages/domo.md — another Utah-born public company in the Silicon Slopes enterprise software cluster.
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md — Provo/Orem enterprise software anchor often cited alongside Utah's largest tech employers.
 
 ## Open Questions
 

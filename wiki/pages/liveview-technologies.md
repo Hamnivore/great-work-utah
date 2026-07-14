@@ -8,6 +8,7 @@
 **Primary Location:** American Fork, UT
 **Utah Location:** American Fork, UT
 **Region:** American Fork
+**Website:** https://www.lvt.com
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/lvt-mobile-surveillance-unit-2026/1600/1100
@@ -45,7 +46,7 @@ LVT is a Silicon Slopes success story: bootstrapped from a garage in 2005 to one
 
 ## Evidence
 
-- [Official Website: LiveView Technologies](liveview-technologies-official-website.md)
+- [Official Website: LiveView Technologies](liveview-technologies-official-website.md) · https://greatutah.work/pages/liveview-technologies-official-website.md · https://www.lvt.com
 - LVT press release "Secures $135M" (Sept 2022): a $50M Series B equity round (Sorenson Capital, with Larry H. Miller Group, Lead Edge Capital, Pelion) plus an $85M debt facility led by KeyBanc and MUFG. Press releases are leads, not neutral proof.
 - Trade coverage (Security Systems News, TechBuzz) for 15,000+ deployments, 200+ employees, LVT 2.0 leadership, and the Axon Fūsus integration.
 

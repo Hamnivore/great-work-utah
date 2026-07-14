@@ -11,9 +11,10 @@
 **Needs-reviewed:** 2026-06-19
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Website:** https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic
 **Hero:** https://picsum.photos/seed/bioenergenix-pask-metabolic-2026/1600/1100
 **Pull:** *A U of U spinout betting metabolic syndrome has a tractable root cause in PASK — public trail goes cold after 2014.*
-**Relates:** cites [University of Utah Health Press Release: BioEnergenix Metabolic Syndrome Spinoff](bioenergenix-uofu-health-press-release.md)
+**Relates:** cites [University of Utah Health Press Release: BioEnergenix Metabolic Syndrome Spinoff](bioenergenix-uofu-health-press-release.md) · https://greatutah.work/pages/bioenergenix-uofu-health-press-release.md · https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic
 
 ## Summary
 
@@ -53,12 +54,12 @@ BioEnergenix traces to Jared Rutter's biochemistry program at the University of 
 
 ## Evidence
 
-- [University of Utah Health Press Release: BioEnergenix Metabolic Syndrome Spinoff](bioenergenix-uofu-health-press-release.md)
+- [University of Utah Health Press Release: BioEnergenix Metabolic Syndrome Spinoff](bioenergenix-uofu-health-press-release.md) · https://greatutah.work/pages/bioenergenix-uofu-health-press-release.md · https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic
 
 ## See Also
 
-- [SymbioCellTech](symbiocelltech.md) — Utah therapeutics company in diabetes/metabolic space (different modality: cellular therapeutics per Altitude Lab portfolio)
-- [Recursion Pharmaceuticals](recursion-pharmaceuticals.md) — contrasting Utah scale in computational drug discovery (NephroNovus-adjacent theme only; BioEnergenix evidence is much older and thinner)
+- [SymbioCellTech](symbiocelltech.md) · https://greatutah.work/pages/symbiocelltech.md — Utah therapeutics company in diabetes/metabolic space (different modality: cellular therapeutics per Altitude Lab portfolio)
+- [Recursion Pharmaceuticals](recursion-pharmaceuticals.md) · https://greatutah.work/pages/recursion-pharmaceuticals.md — contrasting Utah scale in computational drug discovery (NephroNovus-adjacent theme only; BioEnergenix evidence is much older and thinner)
 
 ## Open Questions
 

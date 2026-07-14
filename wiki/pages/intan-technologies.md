@@ -8,11 +8,12 @@
 **Primary Location:** Los Angeles, CA
 **Utah Location:** no verified Utah presence
 **Region:** no verified Utah presence
+**Website:** https://intantech.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/intan-technologies-neural-ics-2026/1600/1100
 **Pull:** *Off-the-shelf amplifier chips that let neuroscience labs record from hundreds of neurons without building custom front-end electronics.*
-**Relates:** cites [Official Website: Intan Technologies](intan-technologies-official-website.md)
+**Relates:** cites [Official Website: Intan Technologies](intan-technologies-official-website.md) · https://greatutah.work/pages/intan-technologies-official-website.md · https://intantech.com/
 
 ## Summary
 
@@ -51,13 +52,13 @@ Intan is not headquartered in Utah, but Reid Harrison's University of Utah Neura
 
 ## Evidence
 
-- [Official Website: Intan Technologies](intan-technologies-official-website.md)
+- [Official Website: Intan Technologies](intan-technologies-official-website.md) · https://greatutah.work/pages/intan-technologies-official-website.md · https://intantech.com/
 
 ## See Also
 
-- [Blackrock Neurotech](blackrock-neurotech.md) — Utah systems company in the intracortical BCI stack
-- [Utah Array BCI Platform](utah-array-bci-platform.md) — foundational Utah research platform in the same ecosystem
-- [SCI Institute](sci-institute.md) — Utah academic infrastructure for neural engineering and imaging
+- [Blackrock Neurotech](blackrock-neurotech.md) · https://greatutah.work/pages/blackrock-neurotech.md — Utah systems company in the intracortical BCI stack
+- [Utah Array BCI Platform](utah-array-bci-platform.md) · https://greatutah.work/pages/utah-array-bci-platform.md — foundational Utah research platform in the same ecosystem
+- [SCI Institute](sci-institute.md) · https://greatutah.work/pages/sci-institute.md — Utah academic infrastructure for neural engineering and imaging
 
 ## Open Questions
 

@@ -31,4 +31,4 @@ This source record reflects limited publicly available information on EnduraCure
 
 ## See Also
 
-- [U of U startup tackles electronic waste with degradable materials](https://www.research.utah.edu/research-impact/u-of-u-startup-tackles-electronic-waste-with-degradable-materials/) — University of Utah research impact story covering the EnduraCure technology origin
+- [U of U startup tackles electronic waste with degradable materials](https://www.research.utah.edu/research-impact/u-of-u-startup-tackles-electronic-waste-with-degradable-materials/) · https://www.research.utah.edu/research-impact/u-of-u-startup-tackles-electronic-waste-with-degradable-materials/ — University of Utah research impact story covering the EnduraCure technology origin

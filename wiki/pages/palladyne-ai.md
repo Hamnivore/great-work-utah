@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.palladyneai.com
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/palladyne-swarmos/1600/1100
@@ -48,9 +49,9 @@ Palladyne is headquartered in Salt Lake City and is one of the more visible Utah
 
 ## Evidence
 
-- [Official Website: Palladyne AI](palladyne-ai-official-website.md)
-- [Palladyne AI Reports First Quarter 2026 Results](https://www.businesswire.com/news/home/20260505779300/en/Palladyne-AI-Reports-First-Quarter-2026-Results) (Business Wire, May 5, 2026) — company release; Q1 2026 revenue of $3.5M (up 107% YoY), ~$17M backlog as of Mar 31, 2026, full-year guidance $24–27M.
-- [Palladyne AI Q4/FY2025 Results](https://www.sec.gov/Archives/edgar/data/1826681/000119312526092435/pdyn-ex99_1.htm) (SEC EX-99.1, Mar 5, 2026) — describes the vertically integrated defense/industrial positioning and acquisitions.
+- [Official Website: Palladyne AI](palladyne-ai-official-website.md) · https://greatutah.work/pages/palladyne-ai-official-website.md · https://www.palladyneai.com
+- [Palladyne AI Reports First Quarter 2026 Results](https://www.businesswire.com/news/home/20260505779300/en/Palladyne-AI-Reports-First-Quarter-2026-Results) · https://www.businesswire.com/news/home/20260505779300/en/Palladyne-AI-Reports-First-Quarter-2026-Results (Business Wire, May 5, 2026) — company release; Q1 2026 revenue of $3.5M (up 107% YoY), ~$17M backlog as of Mar 31, 2026, full-year guidance $24–27M.
+- [Palladyne AI Q4/FY2025 Results](https://www.sec.gov/Archives/edgar/data/1826681/000119312526092435/pdyn-ex99_1.htm) · https://www.sec.gov/Archives/edgar/data/1826681/000119312526092435/pdyn-ex99_1.htm (SEC EX-99.1, Mar 5, 2026) — describes the vertically integrated defense/industrial positioning and acquisitions.
 
 ## Open Questions
 

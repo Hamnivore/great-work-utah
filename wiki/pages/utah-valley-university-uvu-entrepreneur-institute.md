@@ -7,6 +7,7 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
+**Website:** https://www.uvu.edu/woodbury/entrepreneurship/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -54,8 +55,8 @@ It is less direct for nonstudent companies unless they are mentoring, sponsoring
 
 ## Evidence
 
-- [UVU Baugh Entrepreneurship Institute Page](uvu-baugh-entrepreneurship-institute.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
+- [UVU Baugh Entrepreneurship Institute Page](uvu-baugh-entrepreneurship-institute.md) · https://greatutah.work/pages/uvu-baugh-entrepreneurship-institute.md · https://www.uvu.edu/woodbury/entrepreneurship/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 

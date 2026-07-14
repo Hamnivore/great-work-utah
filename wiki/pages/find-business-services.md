@@ -94,16 +94,16 @@ The wiki should name the founder's bottleneck before naming the resource.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Utah SBDC](utah-sbdc.md)
-- [SCORE Utah](score-utah.md)
-- [SBA Utah District Office](sba-utah-district-office.md)
-- [Women's Business Center of Utah](womens-business-center-of-utah.md)
-- [Utah APEX Accelerator](apex-accelerator.md)
-- [Utah Office of Regulatory Relief](utah-office-of-regulatory-relief.md)
-- [Utah Small Business Credit Initiative](utah-small-business-credit-initiative.md)
-- [Utah Center For Global Talent](utah-center-for-global-talent.md)
-- [International Trade And Diplomacy](international-trade-and-diplomacy.md)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Utah SBDC](utah-sbdc.md) · https://greatutah.work/pages/utah-sbdc.md
+- [SCORE Utah](score-utah.md) · https://greatutah.work/pages/score-utah.md
+- [SBA Utah District Office](sba-utah-district-office.md) · https://greatutah.work/pages/sba-utah-district-office.md
+- [Women's Business Center of Utah](womens-business-center-of-utah.md) · https://greatutah.work/pages/womens-business-center-of-utah.md
+- [Utah APEX Accelerator](apex-accelerator.md) · https://greatutah.work/pages/apex-accelerator.md
+- [Utah Office of Regulatory Relief](utah-office-of-regulatory-relief.md) · https://greatutah.work/pages/utah-office-of-regulatory-relief.md
+- [Utah Small Business Credit Initiative](utah-small-business-credit-initiative.md) · https://greatutah.work/pages/utah-small-business-credit-initiative.md
+- [Utah Center For Global Talent](utah-center-for-global-talent.md) · https://greatutah.work/pages/utah-center-for-global-talent.md
+- [International Trade And Diplomacy](international-trade-and-diplomacy.md) · https://greatutah.work/pages/international-trade-and-diplomacy.md
 
 ## Open Questions
 

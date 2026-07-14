@@ -8,12 +8,14 @@
 **Primary Location:** Stamford, CT
 **Utah Location:** Salt Lake City, UT; West Valley City, UT
 **Region:** Salt Lake County
+**Careers:** https://www.hexcel.com/careers
+**Website:** https://www.hexcel.com/
 **Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/hexcel-aerospace-carbon-fiber-2026/1600/1100
 **Pull:** *The world's largest producer of aerospace carbon fiber, with much of the work happening on the Wasatch Front.*
-**Relates:** cites [Official Website: Hexcel](hexcel-official-website.md)
+**Relates:** cites [Official Website: Hexcel](hexcel-official-website.md) · https://greatutah.work/pages/hexcel-official-website.md · https://www.hexcel.com/
 
 ## Summary
 
@@ -51,7 +53,7 @@ Utah's aerospace and defense base makes Hexcel locally significant. The availabl
 
 ## Evidence
 
-- [Official Website: Hexcel](hexcel-official-website.md)
+- [Official Website: Hexcel](hexcel-official-website.md) · https://greatutah.work/pages/hexcel-official-website.md · https://www.hexcel.com/
 
 ## Open Questions
 

@@ -8,11 +8,12 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Website:** https://schoolai.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/schoolai-classroom-ai-platform-2026/1600/1100
 **Pull:** *Teacher-controlled AI Spaces that adapt to each student — with Mission Control showing who needs help now.*
-**Relates:** cites [Official Website: SchoolAI](schoolai-official-website.md)
+**Relates:** cites [Official Website: SchoolAI](schoolai-official-website.md) · https://greatutah.work/pages/schoolai-official-website.md · https://schoolai.com
 
 ## Summary
 
@@ -53,14 +54,14 @@ SchoolAI is one of the fastest-scaling recent additions to Utah's Silicon Slopes
 
 ## Evidence
 
-- [Official Website: SchoolAI](schoolai-official-website.md)
+- [Official Website: SchoolAI](schoolai-official-website.md) · https://greatutah.work/pages/schoolai-official-website.md · https://schoolai.com
 
 ## See Also
 
-- [Instructure](instructure.md) — Utah LMS leader; cited as independent reviewer of SchoolAI ESSA research; potential distribution partner via Canvas ecosystem
-- [Pluralsight](pluralsight.md) — Utah skills-learning platform; adjacent lane (professional upskilling vs. K-12 classroom AI)
-- [Lucid Software](lucid-software.md) — Utah collaboration software; shared regional talent pool and founder ecosystem
-- [Sandbox](sandbox.md) — contrasting Utah education model (founder incubation inside universities)
+- [Instructure](instructure.md) · https://greatutah.work/pages/instructure.md — Utah LMS leader; cited as independent reviewer of SchoolAI ESSA research; potential distribution partner via Canvas ecosystem
+- [Pluralsight](pluralsight.md) · https://greatutah.work/pages/pluralsight.md — Utah skills-learning platform; adjacent lane (professional upskilling vs. K-12 classroom AI)
+- [Lucid Software](lucid-software.md) · https://greatutah.work/pages/lucid-software.md — Utah collaboration software; shared regional talent pool and founder ecosystem
+- [Sandbox](sandbox.md) · https://greatutah.work/pages/sandbox.md — contrasting Utah education model (founder incubation inside universities)
 
 ## Open Questions
 

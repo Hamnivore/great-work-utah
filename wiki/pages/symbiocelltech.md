@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://symbiocelltech.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/symbiocelltech-neo-islets-diabetes-2026/1600/1100
 **Pull:** *3D islet–MSC clusters that aim to restore insulin without lifetime immunosuppression — if the immune isolation holds in humans.*
-**Relates:** cites [Official Website: SymbioCellTech](symbiocelltech-official-website.md)
+**Relates:** cites [Official Website: SymbioCellTech](symbiocelltech-official-website.md) · https://greatutah.work/pages/symbiocelltech-official-website.md · https://symbiocelltech.com/
 
 ## Summary
 
@@ -51,14 +52,14 @@ SymbioCellTech is headquartered in Salt Lake City (615 Arapeen Drive area) and w
 
 ## Evidence
 
-- [Official Website: SymbioCellTech](symbiocelltech-official-website.md)
-- [PLOS ONE: Neo-Islets donor-pool expansion (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290460)
-- [StartUp Health profile](https://www.startuphealth.com/startup-health-blog/symbiocelltechs-stem-cell-enabled-therapy-could-offer-a-functional-cure-for-type-1-diabetes-without-requiring-anti-rejection-drugs)
+- [Official Website: SymbioCellTech](symbiocelltech-official-website.md) · https://greatutah.work/pages/symbiocelltech-official-website.md · https://symbiocelltech.com/
+- [PLOS ONE: Neo-Islets donor-pool expansion (2023)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290460) · https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290460
+- [StartUp Health profile](https://www.startuphealth.com/startup-health-blog/symbiocelltechs-stem-cell-enabled-therapy-could-offer-a-functional-cure-for-type-1-diabetes-without-requiring-anti-rejection-drugs) · https://www.startuphealth.com/startup-health-blog/symbiocelltechs-stem-cell-enabled-therapy-could-offer-a-functional-cure-for-type-1-diabetes-without-requiring-anti-rejection-drugs
 
 ## See Also
 
-- [Recursion Pharmaceuticals](recursion-pharmaceuticals.md) — Utah neighbor in computational drug discovery at very different stage and modality
-- [Culmination Bio](culmination-bio.md) — Utah clinical-data platform that could eventually inform diabetes cohort research
+- [Recursion Pharmaceuticals](recursion-pharmaceuticals.md) · https://greatutah.work/pages/recursion-pharmaceuticals.md — Utah neighbor in computational drug discovery at very different stage and modality
+- [Culmination Bio](culmination-bio.md) · https://greatutah.work/pages/culmination-bio.md — Utah clinical-data platform that could eventually inform diabetes cohort research
 
 ## Open Questions
 

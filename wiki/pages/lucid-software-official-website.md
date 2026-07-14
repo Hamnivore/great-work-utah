@@ -31,4 +31,4 @@ This is an official company source. It is useful for product categories and posi
 
 ## See Also
 
-- [Wikipedia: Lucid Software](https://en.wikipedia.org/wiki/Lucid_Software) — independent background on founding, funding, and company history
+- [Wikipedia: Lucid Software](https://en.wikipedia.org/wiki/Lucid_Software) · https://en.wikipedia.org/wiki/Lucid_Software — independent background on founding, funding, and company history

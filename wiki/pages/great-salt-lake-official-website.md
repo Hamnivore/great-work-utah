@@ -33,6 +33,6 @@ State government source. Reliable for policy context, official monitoring data, 
 
 ## See Also
 
-- [Great Salt Lake Collaborative](https://greatsaltlakecollaborative.org) — coalition of media and public organizations doing ongoing monitoring and advocacy
-- [Gardner Policy Institute Strike Team](https://gardner.utah.gov/great-salt-lake/) — University of Utah policy analysis on water rights reform and recovery scenarios
-- [BYU Great Salt Lake study (2023)](https://www.cpms.byu.edu/great-salt-lake) — the widely cited desiccation timeline analysis
+- [Great Salt Lake Collaborative](https://greatsaltlakecollaborative.org) · https://greatsaltlakecollaborative.org — coalition of media and public organizations doing ongoing monitoring and advocacy
+- [Gardner Policy Institute Strike Team](https://gardner.utah.gov/great-salt-lake/) · https://gardner.utah.gov/great-salt-lake/ — University of Utah policy analysis on water rights reform and recovery scenarios
+- [BYU Great Salt Lake study (2023)](https://www.cpms.byu.edu/great-salt-lake) · https://www.cpms.byu.edu/great-salt-lake — the widely cited desiccation timeline analysis

@@ -8,11 +8,12 @@
 **Primary Location:** unknown
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://altitudelab.org/portfolio
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/nephronovus-renal-fibrosis-2026/1600/1100
 **Pull:** *Father–son drug-discovery bet on reversing renal fibrosis — incubator-validated premise, almost no public pipeline.*
-**Relates:** cites [Altitude Lab Portfolio: NephroNovus](nephronovus-altitude-lab-portfolio.md)
+**Relates:** cites [Altitude Lab Portfolio: NephroNovus](nephronovus-altitude-lab-portfolio.md) · https://greatutah.work/pages/nephronovus-altitude-lab-portfolio.md · https://altitudelab.org/portfolio
 
 ## Summary
 
@@ -52,12 +53,12 @@ NephroNovus is part of the Altitude Lab portfolio on Salt Lake City's Recursion-
 
 ## Evidence
 
-- [Altitude Lab Portfolio: NephroNovus](nephronovus-altitude-lab-portfolio.md)
+- [Altitude Lab Portfolio: NephroNovus](nephronovus-altitude-lab-portfolio.md) · https://greatutah.work/pages/nephronovus-altitude-lab-portfolio.md · https://altitudelab.org/portfolio
 
 ## See Also
 
-- [Altitude Labs](altitude-labs.md) — Utah health-care incubator that listed NephroNovus
-- [Evolution Bio](evolution-bio.md) — another early Altitude Lab–associated Utah platform/discovery company with sparse public disclosure
+- [Altitude Labs](altitude-labs.md) · https://greatutah.work/pages/altitude-labs.md — Utah health-care incubator that listed NephroNovus
+- [Evolution Bio](evolution-bio.md) · https://greatutah.work/pages/evolution-bio.md — another early Altitude Lab–associated Utah platform/discovery company with sparse public disclosure
 
 ## Open Questions
 

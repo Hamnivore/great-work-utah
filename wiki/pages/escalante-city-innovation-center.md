@@ -7,7 +7,12 @@
 **Primary Location:** Escalante, UT
 **Utah Location:** Escalante, UT
 **Region:** Escalante
-**Updated:** 2026-05-09
+**Website:** https://startup.utah.gov/resources/
+**Map Location:** Escalante City Innovation Center, 67 N 100 W, Escalante, UT 84726
+**Coordinates:** 37.7675074, -111.6023339
+**Location Precision:** exact
+**Location Source:** https://www.escalantecity-utah.com/wp-content/uploads/2024/03/Escalante-General-Plan-.pdf
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -86,9 +91,9 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
-- [Official website](https://www.escalantecity-utah.com/services/escalante-city-innovation-center/)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://www.escalantecity-utah.com/services/escalante-city-innovation-center/) · https://www.escalantecity-utah.com/services/escalante-city-innovation-center/
 
 ## Open Questions
 

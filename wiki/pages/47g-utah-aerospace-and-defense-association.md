@@ -7,6 +7,7 @@
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://www.47g.org/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -52,8 +53,8 @@ It is a weaker fit for founders with no aerospace, defense, national-security, s
 
 ## Evidence
 
-- [47G Official Site](47g-official-site.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
+- [47G Official Site](47g-official-site.md) · https://greatutah.work/pages/47g-official-site.md · https://www.47g.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 

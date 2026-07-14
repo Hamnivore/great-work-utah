@@ -7,6 +7,7 @@
 **Primary Location:** Salem, UT
 **Utah Location:** Salem, UT
 **Region:** Salem
+**Website:** https://preferredcfo.com/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -60,7 +61,7 @@ This page describes public capabilities only and does not imply Preferred CFO ha
 
 ## Evidence
 
-- [Preferred CFO Official Website](preferred-cfo-official-website.md)
+- [Preferred CFO Official Website](preferred-cfo-official-website.md) · https://greatutah.work/pages/preferred-cfo-official-website.md · https://preferredcfo.com/
 
 ## Open Questions
 

@@ -10,11 +10,12 @@
 **Updated:** 2026-06-19
 **Domain:** energy, aerospace-defense
 **Region:** Emery County
+**Website:** https://www.valaratomics.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/valar-atomics-2026/1600/1100
 **Pull:** *A C-17-airlifttable nuclear reactor with physics-safe TRISO fuel — bringing baseload power to wherever the grid doesn't reach.*
-**Relates:** cites [Official Website: Valar Atomics](valar-atomics-official-website.md)
-**Relates:** cites [ANS News: Valar Atomics Breaks Ground in Utah](valar-atomics-ans-groundbreaking.md)
+**Relates:** cites [Official Website: Valar Atomics](valar-atomics-official-website.md) · https://greatutah.work/pages/valar-atomics-official-website.md · https://www.valaratomics.com
+**Relates:** cites [ANS News: Valar Atomics Breaks Ground in Utah](valar-atomics-ans-groundbreaking.md) · https://greatutah.work/pages/valar-atomics-ans-groundbreaking.md · https://www.ans.org/news/2025-09-25/article-7408/valar-atomics-breaks-ground-in-utah/
 
 ## Summary
 
@@ -48,13 +49,13 @@ The Utah San Rafael Energy Lab in Emery County is the test site, reflecting Utah
 
 ## Evidence
 
-- [Official Website: Valar Atomics](valar-atomics-official-website.md)
-- [ANS News: Valar Atomics Breaks Ground in Utah](valar-atomics-ans-groundbreaking.md) — September 2025 American Nuclear Society coverage of the Ward 250 groundbreaking at San Rafael Energy Research Center, Emery County, UT
+- [Official Website: Valar Atomics](valar-atomics-official-website.md) · https://greatutah.work/pages/valar-atomics-official-website.md · https://www.valaratomics.com
+- [ANS News: Valar Atomics Breaks Ground in Utah](valar-atomics-ans-groundbreaking.md) · https://greatutah.work/pages/valar-atomics-ans-groundbreaking.md · https://www.ans.org/news/2025-09-25/article-7408/valar-atomics-breaks-ground-in-utah/ — September 2025 American Nuclear Society coverage of the Ward 250 groundbreaking at San Rafael Energy Research Center, Emery County, UT
 
 ## See Also
 
-- [OxEon Energy](oxeon-energy.md) — Utah energy company with similarly extreme-environment technology pedigree.
-- [Rodatherm Energy](rodatherm-energy.md) — another clean baseload power approach being piloted in Utah.
+- [OxEon Energy](oxeon-energy.md) · https://greatutah.work/pages/oxeon-energy.md — Utah energy company with similarly extreme-environment technology pedigree.
+- [Rodatherm Energy](rodatherm-energy.md) · https://greatutah.work/pages/rodatherm-energy.md — another clean baseload power approach being piloted in Utah.
 
 ## Open Questions
 

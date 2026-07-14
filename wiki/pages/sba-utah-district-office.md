@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://www.sba.gov/district/utah
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -42,8 +43,8 @@ It is probably not the first answer for a university researcher validating wheth
 
 ## Evidence
 
-- [SBA Utah District Office Page](sba-utah-district-office-source.md)
-- [Startup State Resource Filter](startup-state-resource-list.md)
+- [SBA Utah District Office Page](sba-utah-district-office-source.md) · https://greatutah.work/pages/sba-utah-district-office-source.md · https://www.sba.gov/district/utah
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 
 ## Open Questions
 

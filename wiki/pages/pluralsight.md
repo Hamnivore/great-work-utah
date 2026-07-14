@@ -8,11 +8,12 @@
 **Primary Location:** Farmington, UT
 **Utah Location:** Farmington, UT
 **Region:** Farmington
+**Website:** https://www.pluralsight.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/pluralsight-skills-training-2026/1600/1100
 **Pull:** *On-demand tech skills training for engineers and enterprise teams — from cloud and security to AI upskilling at scale.*
-**Relates:** cites [Official Website: Pluralsight](pluralsight-official-website.md)
+**Relates:** cites [Official Website: Pluralsight](pluralsight-official-website.md) · https://greatutah.work/pages/pluralsight-official-website.md · https://www.pluralsight.com
 
 ## Summary
 
@@ -64,7 +65,7 @@ The future of long-form video learning alongside AI tutoring and just-in-time as
 
 ## Evidence
 
-- [Official Website: Pluralsight](pluralsight-official-website.md)
+- [Official Website: Pluralsight](pluralsight-official-website.md) · https://greatutah.work/pages/pluralsight-official-website.md · https://www.pluralsight.com
 
 ## Open Questions
 
@@ -75,4 +76,4 @@ The future of long-form video learning alongside AI tutoring and just-in-time as
 
 ## See Also
 
-- [Aaron Skonnard](aaron-skonnard.md)
+- [Aaron Skonnard](aaron-skonnard.md) · https://greatutah.work/pages/aaron-skonnard.md

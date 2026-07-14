@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.striderintel.com/
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/strider-strategic-intelligence-utah-2026/1600/1100
@@ -51,7 +52,7 @@ The exact Utah headquarters location should be verified in a future pass from an
 
 ## Evidence
 
-- [Official Website: Strider Technologies](strider-official-website.md)
+- [Official Website: Strider Technologies](strider-official-website.md) · https://greatutah.work/pages/strider-official-website.md · https://www.striderintel.com/
 
 ## Open Questions
 

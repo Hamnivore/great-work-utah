@@ -41,6 +41,8 @@ const SECTION_HEADER_RE = /^## (.+?)\s*$/gm;
 const MARKDOWN_LINK_RE = /(?<!!)\[[^\]]+\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g;
 const OLD_STYLE_LINK_RE = /\]\((\.\.\/|\/wiki\/)/g;
 const STALE_MS = 183 * 24 * 3600 * 1000; // ~6 months, matches build-views.mjs
+const MAP_FIELDS = ["Map Location", "Coordinates", "Location Precision", "Location Source"];
+const UTAH_BOUNDS = { minLat: 36.99, maxLat: 42.01, minLon: -114.06, maxLon: -109.04 };
 
 const args = new Set(process.argv.slice(2));
 const json = args.has("--json");
@@ -143,6 +145,7 @@ const stats = {
   domainFlagged: 0,
   needsSectionCount: 0,
   needsReviewedCount: 0,
+  mapAttributed: 0,
 };
 const wanted = new Map(); // target filename -> Set of referencing pages
 
@@ -281,6 +284,38 @@ async function lintPage(filename) {
     stats.regionAttributed += 1;
   }
 
+  // -- Optional map tuple: complete, sourced, Utah-bounded, and never personal. --
+  const presentMapFields = MAP_FIELDS.filter((key) => headers.get(key)?.value);
+  if (presentMapFields.length > 0 && presentMapFields.length < MAP_FIELDS.length) {
+    const missing = MAP_FIELDS.filter((key) => !headers.get(key)?.value);
+    addFinding("error", "incomplete-map-location", filePath, `Map metadata is all-or-nothing; missing ${missing.map((key) => `**${key}:**`).join(", ")}.`);
+  }
+  if (presentMapFields.length === MAP_FIELDS.length) {
+    stats.mapAttributed += 1;
+    if (type === "person") {
+      addFinding("error", "personal-map-location", filePath, "Person pages must not publish map coordinates.", headers.get("Coordinates").line);
+    }
+    const precision = headers.get("Location Precision").value;
+    if (!["exact", "approximate"].includes(precision)) {
+      addFinding("error", "invalid-location-precision", filePath, `**Location Precision:** must be "exact" or "approximate" (got "${precision}").`, headers.get("Location Precision").line);
+    }
+    const coordinateText = headers.get("Coordinates").value;
+    const coordinateMatch = coordinateText.match(/^(-?\d+(?:\.\d+)?),\s*(-?\d+(?:\.\d+)?)$/);
+    if (!coordinateMatch) {
+      addFinding("error", "invalid-coordinates", filePath, "**Coordinates:** must be WGS84 decimal `latitude, longitude`.", headers.get("Coordinates").line);
+    } else {
+      const latitude = Number(coordinateMatch[1]);
+      const longitude = Number(coordinateMatch[2]);
+      if (latitude < UTAH_BOUNDS.minLat || latitude > UTAH_BOUNDS.maxLat || longitude < UTAH_BOUNDS.minLon || longitude > UTAH_BOUNDS.maxLon) {
+        addFinding("error", "coordinates-outside-utah", filePath, `Coordinates ${coordinateText} fall outside Utah bounds.`, headers.get("Coordinates").line);
+      }
+    }
+    const source = headers.get("Location Source").value;
+    if (!/^https:\/\/\S+$/.test(source)) {
+      addFinding("error", "invalid-location-source", filePath, "**Location Source:** must be one public HTTPS URL.", headers.get("Location Source").line);
+    }
+  }
+
   // -- Domain-flagged adjudication queue -----------------------------------
   const flaggedHeader = headers.get("Domain-flagged");
   if (flaggedHeader && flaggedHeader.value) {
@@ -377,6 +412,7 @@ const summary = {
       primaryLocation: `${stats.primaryLocationAttributed}/${stats.totalPages}`,
       utahLocation: `${stats.utahLocationAttributed}/${stats.totalPages}`,
       legacyLocation: `${stats.legacyLocation}/${stats.totalPages}`,
+      map: `${stats.mapAttributed}/${stats.totalPages}`,
     },
   needsReviewed: {
     pagesWithNeedsSection: stats.needsSectionCount,
@@ -399,6 +435,7 @@ if (json) {
   console.log(`  Primary Location coverage: ${summary.coverage.primaryLocation}`);
   console.log(`  Utah Location coverage: ${summary.coverage.utahLocation}`);
   console.log(`  Legacy Location remaining: ${summary.coverage.legacyLocation}`);
+  console.log(`  Map location coverage: ${summary.coverage.map}`);
   console.log(`  Domain-flagged (adjudication queue): ${stats.domainFlagged}`);
   console.log(
     `  Needs-reviewed: ${stats.needsReviewedCount} present / ${stats.needsSectionCount} pages have a "What They Need Now" section`

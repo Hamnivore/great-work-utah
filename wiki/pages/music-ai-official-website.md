@@ -33,5 +33,5 @@ This is an official company source. It is useful for product positioning, featur
 
 ## See Also
 
-- [Series A Announcement](https://music.ai/blog/press/music-ai-raises-40m-series-a/) — official press release with investor and funding details
-- [Utah Business: Kickstart on Music AI Investment](https://www.utahbusiness.com/industry/2025/05/27/kickstart-invested-music-ai-utah/) — third-party coverage of Kickstart's rationale
+- [Series A Announcement](https://music.ai/blog/press/music-ai-raises-40m-series-a/) · https://music.ai/blog/press/music-ai-raises-40m-series-a/ — official press release with investor and funding details
+- [Utah Business: Kickstart on Music AI Investment](https://www.utahbusiness.com/industry/2025/05/27/kickstart-invested-music-ai-utah/) · https://www.utahbusiness.com/industry/2025/05/27/kickstart-invested-music-ai-utah/ — third-party coverage of Kickstart's rationale

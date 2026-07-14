@@ -10,10 +10,11 @@
 **Updated:** 2026-06-19
 **Domain:** energy, space-science
 **Region:** North Salt Lake
+**Website:** https://oxeonenergy.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/oxeon-energy-2026/1600/1100
 **Pull:** *The same solid oxide cells that made oxygen on Mars are now being scaled to produce green hydrogen on Earth.*
-**Relates:** cites [Official Website: OxEon Energy](oxeon-energy-official-website.md)
+**Relates:** cites [Official Website: OxEon Energy](oxeon-energy-official-website.md) · https://greatutah.work/pages/oxeon-energy-official-website.md · https://oxeonenergy.com
 
 ## Summary
 
@@ -47,12 +48,12 @@ North Salt Lake is not a traditional clean-energy hub, but OxEon's presence refl
 
 ## Evidence
 
-- [Official Website: OxEon Energy](oxeon-energy-official-website.md)
+- [Official Website: OxEon Energy](oxeon-energy-official-website.md) · https://greatutah.work/pages/oxeon-energy-official-website.md · https://oxeonenergy.com
 
 ## See Also
 
-- [Rodatherm Energy](rodatherm-energy.md) — another Utah energy company scaling deep-tech clean energy with significant external funding.
-- [Valar Atomics](valar-atomics.md) — microreactor company with Utah test site; similarly operates in the "extreme physics" quadrant of clean energy.
+- [Rodatherm Energy](rodatherm-energy.md) · https://greatutah.work/pages/rodatherm-energy.md — another Utah energy company scaling deep-tech clean energy with significant external funding.
+- [Valar Atomics](valar-atomics.md) · https://greatutah.work/pages/valar-atomics.md — microreactor company with Utah test site; similarly operates in the "extreme physics" quadrant of clean energy.
 
 ## Open Questions
 

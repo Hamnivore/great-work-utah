@@ -8,10 +8,11 @@
 **Primary Location:** Lindon / Pleasant Grove, UT
 **Utah Location:** Lindon / Pleasant Grove, UT
 **Region:** Utah County
+**Website:** https://fortemtech.com/
 **Updated:** 2026-06-25
 **Pull:** *Fortem's drone-hunting drones are building the case that you can stop a cheap quadcopter without debris, jamming, or collateral damage.*
-**Relates:** cites [Fortem Technologies Official Website](fortem-official-website.md)
-**Relates:** cites [Fortem: Advanced Manufacturing Headquarters](fortem-manufacturing-hq-2025.md)
+**Relates:** cites [Fortem Technologies Official Website](fortem-official-website.md) · https://greatutah.work/pages/fortem-official-website.md · https://fortemtech.com/
+**Relates:** cites [Fortem: Advanced Manufacturing Headquarters](fortem-manufacturing-hq-2025.md) · https://greatutah.work/pages/fortem-manufacturing-hq-2025.md · https://fortemtech.com/press-releases/2025-06-17-fortem-technologies-opens-new-advanced-manufacturing-headquarters-to-meet-global-demand-for-counter-drone-defense/
 
 ## Summary
 
@@ -37,10 +38,10 @@ Fortem is headquartered in Pleasant Grove and built its advanced manufacturing f
 
 ## Evidence
 
-- [Fortem: DroneHunter Launch (2018)](https://fortemtech.com/press-releases/2018-02-15-fortem-announces-dronehunter/) — original product announcement
-- [Fortem: Advanced Manufacturing Headquarters (2025)](https://fortemtech.com/press-releases/2025-06-17-fortem-technologies-opens-new-advanced-manufacturing-headquarters-to-meet-global-demand-for-counter-drone-defense/) — [source record](fortem-manufacturing-hq-2025.md)
-- [Fortem: DroneHunter 5.0 Deliveries (Jan 2026)](https://preview.fortemtech.com/press-releases/2026-01-20-fortem-technologies-begins-deliveries-of-next-generation-dronehunter-5-0-advancing-counter-swarm-defense/)
-- [Fortem Technologies website](https://fortemtech.com/) — [source record](fortem-official-website.md)
+- [Fortem: DroneHunter Launch (2018)](https://fortemtech.com/press-releases/2018-02-15-fortem-announces-dronehunter/) · https://fortemtech.com/press-releases/2018-02-15-fortem-announces-dronehunter/ — original product announcement
+- [Fortem: Advanced Manufacturing Headquarters (2025)](https://fortemtech.com/press-releases/2025-06-17-fortem-technologies-opens-new-advanced-manufacturing-headquarters-to-meet-global-demand-for-counter-drone-defense/) · https://fortemtech.com/press-releases/2025-06-17-fortem-technologies-opens-new-advanced-manufacturing-headquarters-to-meet-global-demand-for-counter-drone-defense/ — [source record](fortem-manufacturing-hq-2025.md) · https://greatutah.work/pages/fortem-manufacturing-hq-2025.md
+- [Fortem: DroneHunter 5.0 Deliveries (Jan 2026)](https://preview.fortemtech.com/press-releases/2026-01-20-fortem-technologies-begins-deliveries-of-next-generation-dronehunter-5-0-advancing-counter-swarm-defense/) · https://preview.fortemtech.com/press-releases/2026-01-20-fortem-technologies-begins-deliveries-of-next-generation-dronehunter-5-0-advancing-counter-swarm-defense/
+- [Fortem Technologies website](https://fortemtech.com/) · https://fortemtech.com/ — [source record](fortem-official-website.md) · https://greatutah.work/pages/fortem-official-website.md
 
 ## Open Questions
 

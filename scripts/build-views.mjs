@@ -28,6 +28,8 @@ for (const f of fs.readdirSync(PAGES).sort()) {
     focus: meta(raw, 'Focus'),
     conf: (meta(raw, 'Confidence') || '?')[0],
     region: meta(raw, 'Region'),
+    website: meta(raw, 'Website'),
+    careers: meta(raw, 'Careers'),
     domains: domain ? domain.split(',').map((s) => s.trim().toLowerCase().replace(/\s*\(.*\)$/, '')) : [],
     needs: clip(section(raw, 'What They Need Now'), 400),
     needsReviewed: meta(raw, 'Needs-reviewed'),
@@ -52,12 +54,17 @@ for (const [t, desc] of Object.entries(TYPES)) {
 
 // ---- needs board ----
 const needers = pages.filter((p) => p.needs)
-let needs = `# Who might need people\n\nEvery page's "What They Need Now," one line each — perfect recall over stated needs. These are inferred assessments from public information, not confirmed job openings; verify directly with the company before treating one as a lead. Needs unreviewed for 6+ months are flagged.\n\nLines include region when set so you can Ctrl+F a city. Role wording varies (e.g. "data scientist" vs "applied scientist") — skim synonyms. For geography first, also use [by-region](by-region.md).\n\n`
+let needs = `# Who might need people\n\nEvery page's "What They Need Now," one line each — perfect recall over stated needs. These are inferred assessments from public information, not confirmed job openings; verify directly with the company before treating one as a lead. Needs unreviewed for 6+ months are flagged.\n\nLines include region when set so you can Ctrl+F a city. When present, bare \`Careers:\` / \`Website:\` URLs are the apply next step (no markdown links — survives HTML-sanitizing fetchers). Role wording varies (e.g. "data scientist" vs "applied scientist") — skim synonyms. For geography first, also use [by-region](by-region.md).\n\n`
 const STALE = Date.now() - 183 * 24 * 3600 * 1000
 for (const p of needers) {
   const stale = p.needsReviewed && new Date(p.needsReviewed).getTime() < STALE
   const where = p.region ? ` · ${p.region}` : ''
-  needs += `- **[${p.title}](${p.url})** · \`${p.path}\`${where} — ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed}${stale ? ' — may be stale' : ''})*` : ''}\n`
+  const apply = p.careers
+    ? ` · Careers: ${p.careers}`
+    : p.website
+      ? ` · Website: ${p.website}`
+      : ''
+  needs += `- **[${p.title}](${p.url})** · \`${p.path}\`${where}${apply} — ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed}${stale ? ' — may be stale' : ''})*` : ''}\n`
 }
 write('needs.md', needs)
 
@@ -130,6 +137,7 @@ All pages live flat at \`/pages/{slug}.md\`; every view below is generated from 
 
 - [needs](needs.md) — every stated "what they need now," one line each: the hiring view
 - [by-region](by-region.md) — attributed pages by Utah location
+- [/locations.geojson](/locations.geojson) — verified public-site points for maps and proximity filtering; intentionally excludes people and unsafe or ambiguous locations
 - Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md)`).join(' · ')}
 `)
 

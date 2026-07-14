@@ -8,6 +8,7 @@
 **Primary Location:** Springville, UT
 **Utah Location:** Springville, UT
 **Region:** Springville
+**Website:** https://www.wavetronix.com/
 **Domain:** aerospace-defense, computing
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
@@ -52,8 +53,8 @@ The company also connects to a local radar lineage: IMSAR's founder Ryan Smith p
 
 ## Evidence
 
-- [Official Website: Wavetronix](wavetronix-official-website.md)
-- [Official Website: IMSAR](imsar-official-website.md)
+- [Official Website: Wavetronix](wavetronix-official-website.md) · https://greatutah.work/pages/wavetronix-official-website.md · https://www.wavetronix.com/
+- [Official Website: IMSAR](imsar-official-website.md) · https://greatutah.work/pages/imsar-official-website.md · https://www.imsar.com/
 
 ## Open Questions
 

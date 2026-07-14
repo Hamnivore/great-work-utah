@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://parsonsbehle.com/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -58,7 +59,7 @@ This page describes public capabilities; it is not a claim that the firm has agr
 
 ## Evidence
 
-- [Parsons Behle & Latimer Official Website](parsons-behle-latimer-official-website.md)
+- [Parsons Behle & Latimer Official Website](parsons-behle-latimer-official-website.md) · https://greatutah.work/pages/parsons-behle-latimer-official-website.md · https://parsonsbehle.com/
 
 ## Open Questions
 

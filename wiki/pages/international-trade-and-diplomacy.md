@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://business.utah.gov/international/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -48,7 +49,7 @@ The strongest fit is a company with paying customers or validated demand that ca
 
 ## Evidence
 
-- [GOEO International Trade And Diplomacy Page](goeo-international-trade-diplomacy.md)
+- [GOEO International Trade And Diplomacy Page](goeo-international-trade-diplomacy.md) · https://greatutah.work/pages/goeo-international-trade-diplomacy.md · https://business.utah.gov/international/
 
 ## Open Questions
 

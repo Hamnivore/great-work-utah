@@ -10,10 +10,11 @@
 **Updated:** 2026-06-25
 **Domain:** space-science, energy, materials-mfg
 **Region:** North Salt Lake
+**Website:** https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission
 **Pull:** *OxEon Energy in North Salt Lake built the electrochemical core that made oxygen on Mars for the first time in human history.*
-**Relates:** cites [NASA: MOXIE Completes Mars Mission](nasa-moxie-completes-mission.md)
-**Relates:** cites [Science Advances: MOXIE Paper](science-advances-moxie.md)
-**Relates:** cites [OxEon Energy: MOXIE Program](oxeon-moxie-program.md)
+**Relates:** cites [NASA: MOXIE Completes Mars Mission](nasa-moxie-completes-mission.md) · https://greatutah.work/pages/nasa-moxie-completes-mission.md · https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission
+**Relates:** cites [Science Advances: MOXIE Paper](science-advances-moxie.md) · https://greatutah.work/pages/science-advances-moxie.md · https://doi.org/10.1126/sciadv.abp8636
+**Relates:** cites [OxEon Energy: MOXIE Program](oxeon-moxie-program.md) · https://greatutah.work/pages/oxeon-moxie-program.md · https://oxeonenergy.com/moxie
 
 ## Summary
 
@@ -41,13 +42,13 @@ OxEon grew from the solid oxide fuel-cell and electrolysis research community th
 
 ## Evidence
 
-- [NASA: MOXIE completes Mars mission](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission) — [source record](nasa-moxie-completes-mission.md)
-- [NASA Science: MOXIE oxygen-production records](https://science.nasa.gov/missions/mars-2020-perseverance/moxie-sets-consecutive-personal-bests-and-mars-records-for-oxygen-production/)
-- [Science Advances: Mars Oxygen ISRU Experiment (MOXIE)](https://doi.org/10.1126/sciadv.abp8636) — [source record](science-advances-moxie.md)
-- [MIT News: MOXIE reliably produces oxygen on Mars](https://news.mit.edu/2022/moxie-oxygen-mars-0831)
-- [OxEon Energy: MOXIE makes oxygen on Mars](https://oxeonenergy.com/news/MOXIE-Makes-Oxygen-on-Mars)
-- [OxEon Energy: MOXIE program](https://oxeonenergy.com/moxie) — [source record](oxeon-moxie-program.md)
-- [DOE NETL: OxEon solid oxide electrolysis project](https://netl.doe.gov/index.php/node/10875)
+- [NASA: MOXIE completes Mars mission](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission) · https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission — [source record](nasa-moxie-completes-mission.md) · https://greatutah.work/pages/nasa-moxie-completes-mission.md
+- [NASA Science: MOXIE oxygen-production records](https://science.nasa.gov/missions/mars-2020-perseverance/moxie-sets-consecutive-personal-bests-and-mars-records-for-oxygen-production/) · https://science.nasa.gov/missions/mars-2020-perseverance/moxie-sets-consecutive-personal-bests-and-mars-records-for-oxygen-production/
+- [Science Advances: Mars Oxygen ISRU Experiment (MOXIE)](https://doi.org/10.1126/sciadv.abp8636) · https://doi.org/10.1126/sciadv.abp8636 — [source record](science-advances-moxie.md) · https://greatutah.work/pages/science-advances-moxie.md
+- [MIT News: MOXIE reliably produces oxygen on Mars](https://news.mit.edu/2022/moxie-oxygen-mars-0831) · https://news.mit.edu/2022/moxie-oxygen-mars-0831
+- [OxEon Energy: MOXIE makes oxygen on Mars](https://oxeonenergy.com/news/MOXIE-Makes-Oxygen-on-Mars) · https://oxeonenergy.com/news/MOXIE-Makes-Oxygen-on-Mars
+- [OxEon Energy: MOXIE program](https://oxeonenergy.com/moxie) · https://oxeonenergy.com/moxie — [source record](oxeon-moxie-program.md) · https://greatutah.work/pages/oxeon-moxie-program.md
+- [DOE NETL: OxEon solid oxide electrolysis project](https://netl.doe.gov/index.php/node/10875) · https://netl.doe.gov/index.php/node/10875
 
 ## Open Questions
 

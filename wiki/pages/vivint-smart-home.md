@@ -8,11 +8,12 @@
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
+**Website:** https://www.vivint.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/vivint-smart-home-provo-2026/1600/1100
 **Pull:** *Professional-install smart home security at national scale — Utah-built hardware, cloud, and 24/7 monitoring now inside NRG Energy.*
-**Relates:** cites [Official Website: Vivint](vivint-official-website.md)
+**Relates:** cites [Official Website: Vivint](vivint-official-website.md) · https://greatutah.work/pages/vivint-official-website.md · https://www.vivint.com
 
 ## Summary
 
@@ -50,12 +51,12 @@ The company's sales and installation workforce also shaped Utah's labor market f
 
 ## Evidence
 
-- [Official Website: Vivint](vivint-official-website.md)
+- [Official Website: Vivint](vivint-official-website.md) · https://greatutah.work/pages/vivint-official-website.md · https://www.vivint.com
 
 ## See Also
 
-- [Qualtrics](qualtrics.md) — another major Provo-headquartered technology company in the Silicon Slopes cluster.
-- [LiveView Technologies](liveview-technologies.md) — Utah company in adjacent mobile surveillance and security hardware.
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md — another major Provo-headquartered technology company in the Silicon Slopes cluster.
+- [LiveView Technologies](liveview-technologies.md) · https://greatutah.work/pages/liveview-technologies.md — Utah company in adjacent mobile surveillance and security hardware.
 
 ## Open Questions
 

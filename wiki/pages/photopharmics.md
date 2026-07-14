@@ -8,11 +8,12 @@
 **Primary Location:** American Fork, UT
 **Utah Location:** American Fork, UT
 **Region:** American Fork
+**Website:** https://photopharmics.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/photopharmics-2026/1600/1100
 **Pull:** *A home-based light device targeting the retinal-circadian axis — not symptoms alone — in Parkinson's disease.*
-**Relates:** cites [Official Website: PhotoPharmics](photopharmics-official-website.md)
+**Relates:** cites [Official Website: PhotoPharmics](photopharmics-official-website.md) · https://greatutah.work/pages/photopharmics-official-website.md · https://photopharmics.com
 
 ## Summary
 
@@ -50,7 +51,7 @@ PhotoPharmics is a Wasatch Front clinical-device company with deep roots in Utah
 
 ## Evidence
 
-- [Official Website: PhotoPharmics](photopharmics-official-website.md)
+- [Official Website: PhotoPharmics](photopharmics-official-website.md) · https://greatutah.work/pages/photopharmics-official-website.md · https://photopharmics.com
 
 ## Open Questions
 

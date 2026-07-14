@@ -45,13 +45,13 @@ Reachable via University of Utah Department of Biochemistry faculty page. Atavis
 
 ## Evidence
 
-- [Official Website: Atavistik Bio](atavistik-bio-official-website.md)
+- [Official Website: Atavistik Bio](atavistik-bio-official-website.md) · https://greatutah.work/pages/atavistik-bio-official-website.md · https://atavistikbio.com
 
 ## See Also
 
-- [Atavistik Bio](atavistik-bio.md)
-- [Huntsman Cancer Institute](huntsman-cancer-institute.md)
-- [Dave Bearss](dave-bearss.md)
+- [Atavistik Bio](atavistik-bio.md) · https://greatutah.work/pages/atavistik-bio.md
+- [Huntsman Cancer Institute](huntsman-cancer-institute.md) · https://greatutah.work/pages/huntsman-cancer-institute.md
+- [Dave Bearss](dave-bearss.md) · https://greatutah.work/pages/dave-bearss.md
 
 ## Open Questions
 

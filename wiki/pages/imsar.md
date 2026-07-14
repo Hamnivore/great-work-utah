@@ -8,6 +8,8 @@
 **Primary Location:** Utah Valley, UT
 **Utah Location:** Utah Valley, UT
 **Region:** Utah Valley
+**Careers:** https://imsar.applicantpro.com/jobs/
+**Website:** https://www.imsar.com/
 **Domain:** aerospace-defense
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
@@ -52,7 +54,7 @@ IMSAR belongs near [Fortem Technologies](fortem-technologies.md), [Space Dynamic
 
 ## Evidence
 
-- [Official Website: IMSAR](imsar-official-website.md)
+- [Official Website: IMSAR](imsar-official-website.md) · https://greatutah.work/pages/imsar-official-website.md · https://www.imsar.com/
 
 ## Open Questions
 
@@ -63,4 +65,4 @@ IMSAR belongs near [Fortem Technologies](fortem-technologies.md), [Space Dynamic
 
 ## See Also
 
-- [Ryan Smith (IMSAR)](ryan-smith-imsar.md)
+- [Ryan Smith (IMSAR)](ryan-smith-imsar.md) · https://greatutah.work/pages/ryan-smith-imsar.md

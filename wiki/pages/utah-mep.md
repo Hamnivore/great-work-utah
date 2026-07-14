@@ -7,6 +7,7 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://utah-mep.org/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -52,8 +53,8 @@ It is less useful for an idea-stage software company, a university researcher be
 
 ## Evidence
 
-- [Utah MEP Official Site](utah-mep-official-site.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
+- [Utah MEP Official Site](utah-mep-official-site.md) · https://greatutah.work/pages/utah-mep-official-site.md · https://utah-mep.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 

@@ -47,8 +47,8 @@ Wasatch Ionics appears to be a Utah-based SBIR company with BYU collaboration, p
 
 ## Evidence
 
-- [SBIR.gov portfolio entry](https://www.sbir.gov/portfolio/1479451) — Army SBIR funding record for lithium-oxygen battery development.
-- [Utah GOEO press release on SBIR Phase II award](https://business.utah.gov/innovation-center/wasatch-ionics-wins-sbir-phase-ii-award-for-lithium-oxygen-battery-development/) — state announcement of Phase II award.
+- [SBIR.gov portfolio entry](https://www.sbir.gov/portfolio/1479451) · https://www.sbir.gov/portfolio/1479451 — Army SBIR funding record for lithium-oxygen battery development.
+- [Utah GOEO press release on SBIR Phase II award](https://business.utah.gov/innovation-center/wasatch-ionics-wins-sbir-phase-ii-award-for-lithium-oxygen-battery-development/) · https://business.utah.gov/innovation-center/wasatch-ionics-wins-sbir-phase-ii-award-for-lithium-oxygen-battery-development/ — state announcement of Phase II award.
 
 ## Open Questions
 

@@ -9,7 +9,7 @@
 **Region:** South Jordan
 **Updated:** 2026-06-19
 **Hero:** https://picsum.photos/seed/fred-lampropoulos-merit-medical/1600/1100
-**Relates:** helps [Merit Medical Systems](merit-medical.md)
+**Relates:** helps [Merit Medical Systems](merit-medical.md) · https://greatutah.work/pages/merit-medical.md
 
 ## Summary
 
@@ -66,12 +66,12 @@ No direct personal email, phone, or unverified social profiles are listed here.
 
 ## Evidence
 
-- [Merit Medical Systems](merit-medical.md)
-- [Source: Pentax C2 CryoBalloon Acquisition Announcement](merit-medical-pentax-cryoballoon-acquisition.md)
+- [Merit Medical Systems](merit-medical.md) · https://greatutah.work/pages/merit-medical.md
+- [Source: Pentax C2 CryoBalloon Acquisition Announcement](merit-medical-pentax-cryoballoon-acquisition.md) · https://greatutah.work/pages/merit-medical-pentax-cryoballoon-acquisition.md · https://www.utahbusiness.com/press-releases/2025/10/22/merit-medical-signs-asset-purchase-pentax-medical-acquire-c2-cryoballoon-technology/
 
 ## See Also
 
-- [Merit Medical Systems](merit-medical.md)
+- [Merit Medical Systems](merit-medical.md) · https://greatutah.work/pages/merit-medical.md
 
 ## Open Questions
 

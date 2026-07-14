@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.wnlaw.com/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -60,7 +61,7 @@ This page describes public capabilities only and does not imply the firm has agr
 
 ## Evidence
 
-- [Workman Nydegger Official Website](workman-nydegger-official-website.md)
+- [Workman Nydegger Official Website](workman-nydegger-official-website.md) · https://greatutah.work/pages/workman-nydegger-official-website.md · https://www.wnlaw.com/
 
 ## Open Questions
 

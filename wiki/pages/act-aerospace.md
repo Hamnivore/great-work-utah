@@ -8,11 +8,12 @@
 **Primary Location:** Gunnison, UT
 **Utah Location:** Gunnison, UT
 **Region:** Gunnison
+**Website:** https://actaero.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/act-aerospace-manufacturing-2026/1600/1100
 **Pull:** *Utah's composite structures specialist turning carbon fiber and resin into aerospace-qualified wing skins, control surfaces, and structural assemblies for the defense primes.*
-**Relates:** cites [Official Website: ACT Aerospace](act-aerospace-official-website.md)
+**Relates:** cites [Official Website: ACT Aerospace](act-aerospace-official-website.md) · https://greatutah.work/pages/act-aerospace-official-website.md · https://actaero.com
 
 ## Summary
 
@@ -46,11 +47,11 @@ The regional composite structures cluster also includes Hexcel's facilities and 
 
 ## Evidence
 
-- [Official Website: ACT Aerospace](act-aerospace-official-website.md)
+- [Official Website: ACT Aerospace](act-aerospace-official-website.md) · https://greatutah.work/pages/act-aerospace-official-website.md · https://actaero.com
 
 ## See Also
 
-- [Ionic MT](ionic-mt.md) — Utah advanced materials company in the battery supply chain; comparable positioning as a materials-to-application supplier.
+- [Ionic MT](ionic-mt.md) · https://greatutah.work/pages/ionic-mt.md — Utah advanced materials company in the battery supply chain; comparable positioning as a materials-to-application supplier.
 
 ## Open Questions
 

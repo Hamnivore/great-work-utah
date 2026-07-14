@@ -8,10 +8,11 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas
 **Updated:** 2026-06-25
 **Pull:** *Utah-built Black Widow drones are putting rucksack-portable battlefield eyes into the hands of every Army platoon.*
-**Relates:** cites [U.S. Army: SRR Tranche 2 Production Begins](army-srr-tranche2-article.md)
-**Relates:** cites [Red Cat: Production Selection for U.S. Army SRR](red-cat-srr-production-selection.md)
+**Relates:** cites [U.S. Army: SRR Tranche 2 Production Begins](army-srr-tranche2-article.md) · https://greatutah.work/pages/army-srr-tranche2-article.md · https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas
+**Relates:** cites [Red Cat: Production Selection for U.S. Army SRR](red-cat-srr-production-selection.md) · https://greatutah.work/pages/red-cat-srr-production-selection.md · https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-announces-production-selection-for-u-s-army-short-range-reconnaissance-program
 
 ## Summary
 
@@ -37,11 +38,11 @@ Teal Drones is based in Salt Lake City and states that its defense systems are m
 
 ## Evidence
 
-- [U.S. Army: Army Begins Production of Second Tranche of Short-Range Reconnaissance UAS](https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas) — [source record](army-srr-tranche2-article.md)
-- [Red Cat: Production Selection for U.S. Army SRR](https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-announces-production-selection-for-u-s-army-short-range-reconnaissance-program) — [source record](red-cat-srr-production-selection.md)
-- [Teal Drones website](https://tealdrones.com/) — [source record](teal-drones-official-website.md)
-- [Red Cat: SRR Finalist Selection (Dec 2023)](https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-holdings-selected-by-u-s-army-as-finalist-for-short-range-reconnaissance-tranche-2-drone-program)
-- [Red Cat: SRR Prototype Funding](https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-subsidiary-teal-drones-secures-1-2m-additional-funding-for-u-s-armys-short-range-reconnaissance-program)
+- [U.S. Army: Army Begins Production of Second Tranche of Short-Range Reconnaissance UAS](https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas) · https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas — [source record](army-srr-tranche2-article.md) · https://greatutah.work/pages/army-srr-tranche2-article.md
+- [Red Cat: Production Selection for U.S. Army SRR](https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-announces-production-selection-for-u-s-army-short-range-reconnaissance-program) · https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-announces-production-selection-for-u-s-army-short-range-reconnaissance-program — [source record](red-cat-srr-production-selection.md) · https://greatutah.work/pages/red-cat-srr-production-selection.md
+- [Teal Drones website](https://tealdrones.com/) · https://tealdrones.com/ — [source record](teal-drones-official-website.md) · https://greatutah.work/pages/teal-drones-official-website.md
+- [Red Cat: SRR Finalist Selection (Dec 2023)](https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-holdings-selected-by-u-s-army-as-finalist-for-short-range-reconnaissance-tranche-2-drone-program) · https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-holdings-selected-by-u-s-army-as-finalist-for-short-range-reconnaissance-tranche-2-drone-program
+- [Red Cat: SRR Prototype Funding](https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-subsidiary-teal-drones-secures-1-2m-additional-funding-for-u-s-armys-short-range-reconnaissance-program) · https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-subsidiary-teal-drones-secures-1-2m-additional-funding-for-u-s-armys-short-range-reconnaissance-program
 
 ## Open Questions
 

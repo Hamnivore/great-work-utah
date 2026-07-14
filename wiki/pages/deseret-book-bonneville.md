@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://deseretbook.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/deseret-book-bonneville-2026/1600/1100
 **Pull:** *The largest faith-media conglomerate in the American West — publishing, radio, and television wholly owned by the LDS Church and serving millions of members globally.*
-**Relates:** cites [Official Website: Deseret Book / Bonneville](deseret-book-bonneville-official-website.md)
+**Relates:** cites [Official Website: Deseret Book / Bonneville](deseret-book-bonneville-official-website.md) · https://greatutah.work/pages/deseret-book-bonneville-official-website.md · https://deseretbook.com
 
 ## Summary
 
@@ -50,11 +51,11 @@ These institutions are the cultural substrate of Utah in a way that no tech comp
 
 ## Evidence
 
-- [Official Website: Deseret Book / Bonneville](deseret-book-bonneville-official-website.md)
+- [Official Website: Deseret Book / Bonneville](deseret-book-bonneville-official-website.md) · https://greatutah.work/pages/deseret-book-bonneville-official-website.md · https://deseretbook.com
 
 ## See Also
 
-- [Bonneville International Wikipedia](https://en.wikipedia.org/wiki/Bonneville_International)
+- [Bonneville International Wikipedia](https://en.wikipedia.org/wiki/Bonneville_International) · https://en.wikipedia.org/wiki/Bonneville_International
 
 ## Open Questions
 

@@ -8,9 +8,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://en.wikipedia.org/wiki/Intermountain_Health
 **Updated:** 2026-06-19
 **Pull:** *A Utah health system treated care delivery itself as something to measure, engineer, and improve — without flattening clinical judgment.*
-**Relates:** cites [Source: Intermountain Clinical Quality Improvement Sources](intermountain-clinical-quality-improvement-sources.md)
+**Relates:** cites [Source: Intermountain Clinical Quality Improvement Sources](intermountain-clinical-quality-improvement-sources.md) · https://greatutah.work/pages/intermountain-clinical-quality-improvement-sources.md · https://en.wikipedia.org/wiki/Intermountain_Health
 
 ## Summary
 
@@ -56,12 +57,12 @@ Utah is an unusually good place for this kind of work because Intermountain is a
 
 ## Evidence
 
-- [Source: Intermountain Clinical Quality Improvement Sources](intermountain-clinical-quality-improvement-sources.md)
-- [Intermountain Health: Advanced Training Program (ATP)](https://intermountainhealthcare.org/for-professionals/hdi/atp)
-- [AcademyHealth: Brent James, M.D., M.Stat. bio](https://academyhealth.org/about/people/brent-james-md-mstat)
-- [AHRQ PSNet: In Conversation with Brent C. James](https://psnet.ahrq.gov/perspective/conversation-withbrent-c-james-md-mstat)
-- [Health Affairs: How Intermountain Trimmed Health Care Costs Through Robust Quality Improvement Efforts](https://doi.org/10.1377/hlthaff.2011.0358)
-- [PubMed: Integrated team-based care at Intermountain](https://pubmed.ncbi.nlm.nih.gov/27552616/)
+- [Source: Intermountain Clinical Quality Improvement Sources](intermountain-clinical-quality-improvement-sources.md) · https://greatutah.work/pages/intermountain-clinical-quality-improvement-sources.md · https://en.wikipedia.org/wiki/Intermountain_Health
+- [Intermountain Health: Advanced Training Program (ATP)](https://intermountainhealthcare.org/for-professionals/hdi/atp) · https://intermountainhealthcare.org/for-professionals/hdi/atp
+- [AcademyHealth: Brent James, M.D., M.Stat. bio](https://academyhealth.org/about/people/brent-james-md-mstat) · https://academyhealth.org/about/people/brent-james-md-mstat
+- [AHRQ PSNet: In Conversation with Brent C. James](https://psnet.ahrq.gov/perspective/conversation-withbrent-c-james-md-mstat) · https://psnet.ahrq.gov/perspective/conversation-withbrent-c-james-md-mstat
+- [Health Affairs: How Intermountain Trimmed Health Care Costs Through Robust Quality Improvement Efforts](https://doi.org/10.1377/hlthaff.2011.0358) · https://doi.org/10.1377/hlthaff.2011.0358
+- [PubMed: Integrated team-based care at Intermountain](https://pubmed.ncbi.nlm.nih.gov/27552616/) · https://pubmed.ncbi.nlm.nih.gov/27552616/
 
 ## Open Questions
 

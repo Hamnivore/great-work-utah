@@ -8,11 +8,12 @@
 **Primary Location:** Cambridge, MA
 **Utah Location:** University of Utah, Salt Lake City, UT (founding science)
 **Region:** Salt Lake City
+**Website:** https://atavistikbio.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/atavistik-bio-2026/1600/1100
 **Pull:** *A proteome-scale map of metabolite-protein allostery — turned into selective small molecules.*
-**Relates:** cites [Official Website: Atavistik Bio](atavistik-bio-official-website.md)
+**Relates:** cites [Official Website: Atavistik Bio](atavistik-bio-official-website.md) · https://greatutah.work/pages/atavistik-bio-official-website.md · https://atavistikbio.com
 
 ## Summary
 
@@ -56,11 +57,11 @@ Readers evaluating meaningful work in Utah should not mistake Atavistik for a lo
 
 ## Evidence
 
-- [Official Website: Atavistik Bio](atavistik-bio-official-website.md)
+- [Official Website: Atavistik Bio](atavistik-bio-official-website.md) · https://greatutah.work/pages/atavistik-bio-official-website.md · https://atavistikbio.com
 
 ## See Also
 
-- [Recursion Pharmaceuticals](recursion-pharmaceuticals.md) — another Utah-rooted life-science company with platform-scale drug-discovery ambition (different mechanism and stage).
+- [Recursion Pharmaceuticals](recursion-pharmaceuticals.md) · https://greatutah.work/pages/recursion-pharmaceuticals.md — another Utah-rooted life-science company with platform-scale drug-discovery ambition (different mechanism and stage).
 
 ## Open Questions
 

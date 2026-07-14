@@ -32,4 +32,4 @@ This is a company's own website at early seed stage. Claims about performance (2
 
 ## See Also
 
-- [Great Salt Lake](great-salt-lake.md) — water scarcity context in Utah
+- [Great Salt Lake](great-salt-lake.md) · https://greatutah.work/pages/great-salt-lake.md — water scarcity context in Utah

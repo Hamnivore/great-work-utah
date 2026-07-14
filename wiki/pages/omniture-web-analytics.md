@@ -8,10 +8,11 @@
 **Primary Location:** Orem and Lehi, UT
 **Utah Location:** Orem and Lehi, UT
 **Region:** Utah County
+**Website:** https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm
 **Updated:** 2026-06-19
-**Relates:** cites [SEC/EDGAR — Adobe Acquisition of Omniture (14D-9, 2009)](omniture-adobe-sec-14d9-2009.md)
-**Relates:** cites [Deseret News — Adobe Buys Orem's Omniture for $1.8B (2009)](omniture-deseret-news-2009.md)
-**Relates:** helps [Josh James](josh-james.md)
+**Relates:** cites [SEC/EDGAR — Adobe Acquisition of Omniture (14D-9, 2009)](omniture-adobe-sec-14d9-2009.md) · https://greatutah.work/pages/omniture-adobe-sec-14d9-2009.md · https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm
+**Relates:** cites [Deseret News — Adobe Buys Orem's Omniture for $1.8B (2009)](omniture-deseret-news-2009.md) · https://greatutah.work/pages/omniture-deseret-news-2009.md · https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/
+**Relates:** helps [Josh James](josh-james.md) · https://greatutah.work/pages/josh-james.md
 **Pull:** *Utah's biggest software exit of its era taught the web to measure itself.*
 
 ## Summary
@@ -60,10 +61,10 @@ Omniture sits in the same Utah Valley software lineage as [WordPerfect and Novel
 
 ## Evidence
 
-- [SEC / EDGAR: Adobe to Acquire Omniture (Schedule 14D-9, Sept. 15, 2009)](https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm) — primary filing: $1.8B value, $21.50/share, Orem HQ, James to become Adobe SVP. — [source record](omniture-adobe-sec-14d9-2009.md)
-- [Deseret News (2009): Software giant Adobe buys Orem's Omniture for $1.8B](https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/) — ~600 Orem employees, local impact, retention. — [source record](omniture-deseret-news-2009.md)
-- [Wikipedia: Omniture](https://en.wikipedia.org/wiki/Omniture) — founding (1996), products, Oct. 23, 2009 close, integration into Adobe Marketing Cloud.
-- [CNNMoney: Adobe buying Omniture for $1.8 billion](https://money.cnn.com/2009/09/15/technology/adobe_omniture/) — national coverage of the deal.
+- [SEC / EDGAR: Adobe to Acquire Omniture (Schedule 14D-9, Sept. 15, 2009)](https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm) · https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm — primary filing: $1.8B value, $21.50/share, Orem HQ, James to become Adobe SVP. — [source record](omniture-adobe-sec-14d9-2009.md) · https://greatutah.work/pages/omniture-adobe-sec-14d9-2009.md
+- [Deseret News (2009): Software giant Adobe buys Orem's Omniture for $1.8B](https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/) · https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/ — ~600 Orem employees, local impact, retention. — [source record](omniture-deseret-news-2009.md) · https://greatutah.work/pages/omniture-deseret-news-2009.md
+- [Wikipedia: Omniture](https://en.wikipedia.org/wiki/Omniture) · https://en.wikipedia.org/wiki/Omniture — founding (1996), products, Oct. 23, 2009 close, integration into Adobe Marketing Cloud.
+- [CNNMoney: Adobe buying Omniture for $1.8 billion](https://money.cnn.com/2009/09/15/technology/adobe_omniture/) · https://money.cnn.com/2009/09/15/technology/adobe_omniture/ — national coverage of the deal.
 
 ## Open Questions
 

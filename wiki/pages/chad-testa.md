@@ -11,7 +11,7 @@
 **Region:** Salt Lake City
 **Hero:** https://picsum.photos/seed/chad-testa-2026/1600/1100
 **Pull:** *CEO leading Curza's first-in-class antibiotic program against drug-resistant Gram-negative bacteria — filling a gap no new class has addressed in nearly 50 years.*
-**Relates:** helps [Curza](curza.md)
+**Relates:** helps [Curza](curza.md) · https://greatutah.work/pages/curza.md
 
 ## Summary
 
@@ -55,13 +55,13 @@ Curza official channels; University of Utah Research and Innovation or licensing
 
 ## Evidence
 
-- [Curza](curza.md) — company he leads
+- [Curza](curza.md) · https://greatutah.work/pages/curza.md — company he leads
 
 ## See Also
 
-- [Curza](curza.md) — venture page with full program detail
-- [Atavistik Bio](atavistik-bio.md) — another U of U spinout pushing into underdrugged mechanism space
-- [Dave Bearss](dave-bearss.md) — U of U-adjacent life-science leader and U2TAH senior managing director
+- [Curza](curza.md) · https://greatutah.work/pages/curza.md — venture page with full program detail
+- [Atavistik Bio](atavistik-bio.md) · https://greatutah.work/pages/atavistik-bio.md — another U of U spinout pushing into underdrugged mechanism space
+- [Dave Bearss](dave-bearss.md) · https://greatutah.work/pages/dave-bearss.md — U of U-adjacent life-science leader and U2TAH senior managing director
 
 ## Open Questions
 

@@ -10,9 +10,10 @@
 **Updated:** 2026-06-19
 **Domain:** aerospace-defense, energy
 **Region:** Salt Lake City
+**Website:** https://cleanjoule.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cleanjoule-2026/1600/1100
-**Relates:** cites [Official Website: CleanJoule](cleanjoule-official-website.md)
+**Relates:** cites [Official Website: CleanJoule](cleanjoule-official-website.md) · https://greatutah.work/pages/cleanjoule-official-website.md · https://cleanjoule.com
 
 ## Summary
 
@@ -51,7 +52,7 @@ CleanJoule's Salt Lake City presence makes it one of Utah's more distinctive dee
 
 ## Evidence
 
-- [Official Website: CleanJoule](cleanjoule-official-website.md)
+- [Official Website: CleanJoule](cleanjoule-official-website.md) · https://greatutah.work/pages/cleanjoule-official-website.md · https://cleanjoule.com
 
 ## See Also
 

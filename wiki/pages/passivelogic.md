@@ -10,6 +10,7 @@
 **Updated:** 2026-06-18
 **Domain:** energy, computing
 **Region:** Salt Lake City
+**Website:** https://passivelogic.com/
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/passivelogic-autonomous-buildings-slc-2026/1600/1100
 **Pull:** *Physics-informed autonomy for the built environment, starting with building controls.*
@@ -52,7 +53,7 @@ The company also illustrates a recurring Utah pattern: software talent applied t
 
 ## Evidence
 
-- [Official Website: PassiveLogic](passivelogic-official-website.md)
+- [Official Website: PassiveLogic](passivelogic-official-website.md) · https://greatutah.work/pages/passivelogic-official-website.md · https://passivelogic.com/
 
 ## Open Questions
 

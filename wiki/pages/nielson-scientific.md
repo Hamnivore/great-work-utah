@@ -8,12 +8,13 @@
 **Primary Location:** unknown
 **Utah Location:** unknown
 **Region:** unknown
+**Website:** https://science.osti.gov/sbir
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/nielson-scientific-2026/1600/1100
 **Pull:** *A DOE SBIR awardee from the Utah Innovation Center cohort — domain unknown, but the signal is worth following.*
-**Relates:** cites [DOE SBIR Award Database: Nielson Scientific](nielson-scientific-doe-sbir.md)
-**Relates:** cites [Official Website: Nielson Scientific](nielson-scientific-official-website.md)
+**Relates:** cites [DOE SBIR Award Database: Nielson Scientific](nielson-scientific-doe-sbir.md) · https://greatutah.work/pages/nielson-scientific-doe-sbir.md · https://science.osti.gov/sbir
+**Relates:** cites [Official Website: Nielson Scientific](nielson-scientific-official-website.md) · https://greatutah.work/pages/nielson-scientific-official-website.md
 
 ## Summary
 
@@ -43,12 +44,12 @@ The Utah Innovation Center is a state-supported program that helps Utah companie
 
 ## Evidence
 
-- [DOE SBIR Award Database: Nielson Scientific](nielson-scientific-doe-sbir.md)
-- [Official Website: Nielson Scientific](nielson-scientific-official-website.md)
+- [DOE SBIR Award Database: Nielson Scientific](nielson-scientific-doe-sbir.md) · https://greatutah.work/pages/nielson-scientific-doe-sbir.md · https://science.osti.gov/sbir
+- [Official Website: Nielson Scientific](nielson-scientific-official-website.md) · https://greatutah.work/pages/nielson-scientific-official-website.md
 
 ## See Also
 
-- [OxEon Energy](oxeon-energy.md) — example of a Utah DOE SBIR recipient that grew to $36M+ in federal funding and built the MOXIE Mars instrument.
+- [OxEon Energy](oxeon-energy.md) · https://greatutah.work/pages/oxeon-energy.md — example of a Utah DOE SBIR recipient that grew to $36M+ in federal funding and built the MOXIE Mars instrument.
 
 ## Open Questions
 

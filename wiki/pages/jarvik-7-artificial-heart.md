@@ -8,10 +8,11 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://medicine.utah.edu/cardiology/about/history/artificial-heart
 **Updated:** 2026-06-25
 **Pull:** *The first human to live with a fully mechanical heart proved that medicine could replace the organ it had always treated as irreplaceable.*
-**Relates:** cites [U of U Cardiology — Artificial Heart History](jarvik-7-utah-history.md)
-**Relates:** cites [Smithsonian — Dr. Jarvik Presents Artificial Hearts](jarvik-7-smithsonian.md)
+**Relates:** cites [U of U Cardiology — Artificial Heart History](jarvik-7-utah-history.md) · https://greatutah.work/pages/jarvik-7-utah-history.md · https://medicine.utah.edu/cardiology/about/history/artificial-heart
+**Relates:** cites [Smithsonian — Dr. Jarvik Presents Artificial Hearts](jarvik-7-smithsonian.md) · https://greatutah.work/pages/jarvik-7-smithsonian.md · https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history
 
 ## Summary
 
@@ -39,9 +40,9 @@ The Jarvik-7 is the canonical example of Utah's artificial-organ tradition. Kolf
 
 ## Evidence
 
-- [University of Utah Cardiology: Artificial Heart History](https://medicine.utah.edu/cardiology/about/history/artificial-heart) — primary institutional account of Kolff, Jarvik, DeVries, and Clark. — [source record](jarvik-7-utah-history.md)
-- [Smithsonian: Jarvik Presents Artificial Hearts to National Museum of American History](https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history) — Smithsonian collection confirmation. — [source record](jarvik-7-smithsonian.md)
-- [SynCardia Total Artificial Heart](https://syncardia.com) — the direct clinical descendant, FDA-approved as bridge to transplant.
+- [University of Utah Cardiology: Artificial Heart History](https://medicine.utah.edu/cardiology/about/history/artificial-heart) · https://medicine.utah.edu/cardiology/about/history/artificial-heart — primary institutional account of Kolff, Jarvik, DeVries, and Clark. — [source record](jarvik-7-utah-history.md) · https://greatutah.work/pages/jarvik-7-utah-history.md
+- [Smithsonian: Jarvik Presents Artificial Hearts to National Museum of American History](https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history) · https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history — Smithsonian collection confirmation. — [source record](jarvik-7-smithsonian.md) · https://greatutah.work/pages/jarvik-7-smithsonian.md
+- [SynCardia Total Artificial Heart](https://syncardia.com) · https://syncardia.com — the direct clinical descendant, FDA-approved as bridge to transplant.
 - Renée C. Fox and Judith P. Swazey, *Spare Parts: Organ Replacement in American Society* (1992) — definitive sociological and ethical account.
 
 ## Open Questions

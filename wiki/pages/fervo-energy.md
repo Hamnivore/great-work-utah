@@ -10,11 +10,12 @@
 **Updated:** 2026-05-09
 **Domain:** energy
 **Region:** Beaver County
+**Website:** https://fervoenergy.com
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/fervo-1600.webp
 **Hero caption:** *Cape Station drill site, Beaver County, Utah, 2023. Hotlinked from Fervo Energy's own press release on the groundbreaking; image rights with Fervo and not yet cleared for the wiki — replace with a license-clean photograph before any production use.*
 **Pull:** *Drilling-industry tools repurposed for clean, firm geothermal — at four hundred megawatts in southwest Utah.*
-**Relates:** helps [Tim Latimer](tim-latimer.md); cites [Official Website: Fervo Energy](fervo-energy-official-website.md)
+**Relates:** helps [Tim Latimer](tim-latimer.md) · https://greatutah.work/pages/tim-latimer.md; cites [Official Website: Fervo Energy](fervo-energy-official-website.md) · https://greatutah.work/pages/fervo-energy-official-website.md · https://fervoenergy.com
 
 ## Summary
 
@@ -54,14 +55,14 @@ One important caveat: Fervo's corporate headquarters are not in Utah. The Utah p
 
 ## Evidence
 
-- [Official Website: Fervo Energy](fervo-energy-official-website.md)
-- [Official Source: Fervo Cape Station Groundbreaking](fervo-cape-station-groundbreaking.md)
+- [Official Website: Fervo Energy](fervo-energy-official-website.md) · https://greatutah.work/pages/fervo-energy-official-website.md · https://fervoenergy.com
+- [Official Source: Fervo Cape Station Groundbreaking](fervo-cape-station-groundbreaking.md) · https://greatutah.work/pages/fervo-cape-station-groundbreaking.md · https://fervoenergy.com/fervo-energy-breaks-ground-on-the-worlds-largest-next-gen-geothermal-project/
 
 ## See Also
 
-- [Rodatherm Energy](rodatherm-energy.md) — closed-loop geothermal pilot in Utah's Great Basin (sedimentary basins vs. Fervo's fracture-based EGS)
-- [Zanskar Geothermal](zanskar-geothermal.md) — AI-driven geothermal exploration platform, Salt Lake City
-- [Torus](torus.md) — Utah grid-edge storage; complementary firm-power infrastructure
+- [Rodatherm Energy](rodatherm-energy.md) · https://greatutah.work/pages/rodatherm-energy.md — closed-loop geothermal pilot in Utah's Great Basin (sedimentary basins vs. Fervo's fracture-based EGS)
+- [Zanskar Geothermal](zanskar-geothermal.md) · https://greatutah.work/pages/zanskar-geothermal.md — AI-driven geothermal exploration platform, Salt Lake City
+- [Torus](torus.md) · https://greatutah.work/pages/torus.md — Utah grid-edge storage; complementary firm-power infrastructure
 
 ## Open Questions
 

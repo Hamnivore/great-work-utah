@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://curza.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/curza-2026/1600/1100
 **Pull:** *A first-in-class ribosome mechanism aimed at drug-resistant Gram-negative bacteria — a gap no new antibiotic class has filled in nearly 50 years.*
-**Relates:** cites [Official Website: Curza](curza-official-website.md)
+**Relates:** cites [Official Website: Curza](curza-official-website.md) · https://greatutah.work/pages/curza-official-website.md · https://curza.com
 
 ## Summary
 
@@ -54,7 +55,7 @@ Curza is a University of Utah spinout with original chemistry licensed from the 
 
 ## Evidence
 
-- [Official Website: Curza](curza-official-website.md)
+- [Official Website: Curza](curza-official-website.md) · https://greatutah.work/pages/curza-official-website.md · https://curza.com
 
 ## Open Questions
 
@@ -67,4 +68,4 @@ Curza is a University of Utah spinout with original chemistry licensed from the 
 
 ## See Also
 
-- [Chad Testa](chad-testa.md)
+- [Chad Testa](chad-testa.md) · https://greatutah.work/pages/chad-testa.md

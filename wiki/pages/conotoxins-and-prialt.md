@@ -10,9 +10,10 @@
 **Updated:** 2026-06-19
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Website:** https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/
 **Pull:** *A Utah lab read cone-snail venom as an evolved chemical library and pulled a first-in-class painkiller out of it.*
-**Relates:** cites [University of Utah News — New Painkiller Was Born in Utah](conotoxins-utah-news-release.md)
-**Relates:** cites [DailyMed — PRIALT (ziconotide) Prescribing Information](conotoxins-dailymed-prialt.md)
+**Relates:** cites [University of Utah News — New Painkiller Was Born in Utah](conotoxins-utah-news-release.md) · https://greatutah.work/pages/conotoxins-utah-news-release.md · https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/
+**Relates:** cites [DailyMed — PRIALT (ziconotide) Prescribing Information](conotoxins-dailymed-prialt.md) · https://greatutah.work/pages/conotoxins-dailymed-prialt.md · https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b025d8ed-937d-4597-9ad1-0b2f6e0ee5b1
 
 ## Summary
 
@@ -59,13 +60,13 @@ This is one of Utah's strongest examples of basic biology with global reach: a l
 
 ## Evidence
 
-- [University of Utah News: New Painkiller Was Born in Utah](https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/) — [source record](conotoxins-utah-news-release.md)
-- [University of Utah Bioscience: Baldomero Olivera](https://bioscience.utah.edu/faculty/olivera/index.php)
-- [University of Utah College of Science: From Toxic Cone Snail Venom to Patented Painkiller](https://science.utah.edu/faculty/faculty-research/from-toxic-cone-snail-venom-to-patented-painkiller/)
-- [Elan press release (SEC filing): FDA approval of Prialt, December 28, 2004](https://www.sec.gov/Archives/edgar/data/737572/000095016204001502/elan6k122804ex99-1.txt)
-- [DailyMed: PRIALT (ziconotide) prescribing information; Initial U.S. Approval 2004](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b025d8ed-937d-4597-9ad1-0b2f6e0ee5b1) — [source record](conotoxins-dailymed-prialt.md)
-- [FDA Label: Prialt (2004)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/021060lbl.pdf) — [source record](conotoxins-prialt-sources.md)
-- [PMC: Pain Therapeutics from Cone Snail Venoms](https://pmc.ncbi.nlm.nih.gov/articles/PMC6214764/)
+- [University of Utah News: New Painkiller Was Born in Utah](https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/) · https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/ — [source record](conotoxins-utah-news-release.md) · https://greatutah.work/pages/conotoxins-utah-news-release.md
+- [University of Utah Bioscience: Baldomero Olivera](https://bioscience.utah.edu/faculty/olivera/index.php) · https://bioscience.utah.edu/faculty/olivera/index.php
+- [University of Utah College of Science: From Toxic Cone Snail Venom to Patented Painkiller](https://science.utah.edu/faculty/faculty-research/from-toxic-cone-snail-venom-to-patented-painkiller/) · https://science.utah.edu/faculty/faculty-research/from-toxic-cone-snail-venom-to-patented-painkiller/
+- [Elan press release (SEC filing): FDA approval of Prialt, December 28, 2004](https://www.sec.gov/Archives/edgar/data/737572/000095016204001502/elan6k122804ex99-1.txt) · https://www.sec.gov/Archives/edgar/data/737572/000095016204001502/elan6k122804ex99-1.txt
+- [DailyMed: PRIALT (ziconotide) prescribing information; Initial U.S. Approval 2004](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b025d8ed-937d-4597-9ad1-0b2f6e0ee5b1) · https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b025d8ed-937d-4597-9ad1-0b2f6e0ee5b1 — [source record](conotoxins-dailymed-prialt.md) · https://greatutah.work/pages/conotoxins-dailymed-prialt.md
+- [FDA Label: Prialt (2004)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/021060lbl.pdf) · https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/021060lbl.pdf — [source record](conotoxins-prialt-sources.md) · https://greatutah.work/pages/conotoxins-prialt-sources.md
+- [PMC: Pain Therapeutics from Cone Snail Venoms](https://pmc.ncbi.nlm.nih.gov/articles/PMC6214764/) · https://pmc.ncbi.nlm.nih.gov/articles/PMC6214764/
 
 ## Open Questions
 

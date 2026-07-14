@@ -8,11 +8,13 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Careers:** https://www.podium.com/careers/
+**Website:** https://www.podium.com
 **Updated:** 2026-06-25
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/podium-local-business-platform-2026/1600/1100
 **Pull:** *One inbox for every message, review, and payment a local business needs to handle.*
-**Relates:** cites [Official Website: Podium](podium-official-website.md)
+**Relates:** cites [Official Website: Podium](podium-official-website.md) · https://greatutah.work/pages/podium-official-website.md · https://www.podium.com
 
 ## Summary
 
@@ -44,13 +46,13 @@ Podium is one of Silicon Slopes' most prominent unicorns — a homegrown SaaS co
 
 ## Evidence
 
-- [Official Website: Podium](https://www.podium.com)
+- [Official Website: Podium](https://www.podium.com) · https://www.podium.com
 
 ## See Also
 
-- [Qualtrics](qualtrics.md) — Utah-born experience-management platform with adjacent customer-feedback tools
-- [BambooHR](bamboohr.md) — another Utah SaaS unicorn, HR software for SMBs
-- [Weave](weave.md) — Utah-based patient communications competitor with strong healthcare-practice focus
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md — Utah-born experience-management platform with adjacent customer-feedback tools
+- [BambooHR](bamboohr.md) · https://greatutah.work/pages/bamboohr.md — another Utah SaaS unicorn, HR software for SMBs
+- [Weave](weave.md) · https://greatutah.work/pages/weave.md — Utah-based patient communications competitor with strong healthcare-practice focus
 
 ## Open Questions
 

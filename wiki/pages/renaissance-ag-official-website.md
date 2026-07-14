@@ -34,5 +34,5 @@ Before citing this source in research, confirm that https://www.renaissance-ag.c
 
 ## See Also
 
-- [Utah Department of Agriculture and Food](https://ag.utah.gov) — the state agency that verified Renaissance Ag's water-savings claims
-- [Great Salt Lake water context](https://wildlife.utah.gov/great-salt-lake.html) — the environmental backdrop that makes water-efficient ag technology directly consequential in Utah
+- [Utah Department of Agriculture and Food](https://ag.utah.gov) · https://ag.utah.gov — the state agency that verified Renaissance Ag's water-savings claims
+- [Great Salt Lake water context](https://wildlife.utah.gov/great-salt-lake.html) · https://wildlife.utah.gov/great-salt-lake.html — the environmental backdrop that makes water-efficient ag technology directly consequential in Utah

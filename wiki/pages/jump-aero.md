@@ -8,11 +8,12 @@
 **Primary Location:** Petaluma, CA
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://jumpaero.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/jump-aero-2026/1600/1100
 **Pull:** *A single-seat eVTOL purpose-built for emergency first response — because minutes matter in places roads can't reach.*
-**Relates:** cites [Official Website: Jump Aero](jump-aero-official-website.md)
+**Relates:** cites [Official Website: Jump Aero](jump-aero-official-website.md) · https://greatutah.work/pages/jump-aero-official-website.md · https://jumpaero.com
 
 ## Summary
 
@@ -46,11 +47,11 @@ Utah's connection to Jump Aero is through the uFLY FAA eVTOL testbed, where UDOT
 
 ## Evidence
 
-- [Official Website: Jump Aero](jump-aero-official-website.md)
+- [Official Website: Jump Aero](jump-aero-official-website.md) · https://greatutah.work/pages/jump-aero-official-website.md · https://jumpaero.com
 
 ## See Also
 
-- [Electric Power Systems](electric-power-systems.md) — Utah-based certifiable propulsion supplier relevant to eVTOL applications including EMS
+- [Electric Power Systems](electric-power-systems.md) · https://greatutah.work/pages/electric-power-systems.md — Utah-based certifiable propulsion supplier relevant to eVTOL applications including EMS
 
 ## Open Questions
 

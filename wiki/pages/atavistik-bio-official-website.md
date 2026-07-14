@@ -31,4 +31,4 @@ This is an official company source. It is useful for pipeline positioning, finan
 
 ## See Also
 
-- [AMPS platform publication announcement (GlobeNewswire, 2023)](https://www.globenewswire.com/news-release/2023/03/13/2625643/0/en/Atavistik-Bio-Announces-Publication-in-Science-by-Co-Founder-Jared-Rutter-Describing-Foundational-Technology-for-its-Atavistik-Metabolite-Protein-Screening-AMPS-Platform.html) — founding platform science from co-founder Jared Rutter's lab
+- [AMPS platform publication announcement (GlobeNewswire, 2023)](https://www.globenewswire.com/news-release/2023/03/13/2625643/0/en/Atavistik-Bio-Announces-Publication-in-Science-by-Co-Founder-Jared-Rutter-Describing-Foundational-Technology-for-its-Atavistik-Metabolite-Protein-Screening-AMPS-Platform.html) · https://www.globenewswire.com/news-release/2023/03/13/2625643/0/en/Atavistik-Bio-Announces-Publication-in-Science-by-Co-Founder-Jared-Rutter-Describing-Foundational-Technology-for-its-Atavistik-Metabolite-Protein-Screening-AMPS-Platform.html — founding platform science from co-founder Jared Rutter's lab

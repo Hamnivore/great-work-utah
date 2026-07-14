@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, Lehi, and St. George, UT
 **Region:** statewide
+**Website:** https://www.kirtonmcconkie.com/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -59,7 +60,7 @@ Do not read this page as a claim that Kirton McConkie has agreed to represent an
 
 ## Evidence
 
-- [Kirton McConkie Official Website](kirton-mcconkie-official-website.md)
+- [Kirton McConkie Official Website](kirton-mcconkie-official-website.md) · https://greatutah.work/pages/kirton-mcconkie-official-website.md · https://www.kirtonmcconkie.com/
 
 ## Open Questions
 

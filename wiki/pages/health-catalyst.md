@@ -30,7 +30,7 @@ Health Catalyst was co-founded by Dan Burton, Tom Burton, and others, and is hea
 
 ## Evidence
 
-- [Official Website](https://www.healthcatalyst.com)
+- [Official Website](https://www.healthcatalyst.com) · https://www.healthcatalyst.com
 
 ## Open Questions
 

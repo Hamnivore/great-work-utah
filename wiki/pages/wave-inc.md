@@ -10,10 +10,11 @@
 **Updated:** 2026-06-19
 **Domain:** energy, materials-mfg
 **Region:** Logan
+**Website:** https://www.wavecharging.com/
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/wave-inc-2026/1600/1100
 **Pull:** *Charging pads embedded in the road, so bus drivers never touch a cable — removing the operational friction that stalls fleet electrification.*
-**Relates:** cites [Official Website: WAVE Charging](wave-inc-official-website.md)
+**Relates:** cites [Official Website: WAVE Charging](wave-inc-official-website.md) · https://greatutah.work/pages/wave-inc-official-website.md · https://www.wavecharging.com/
 
 ## Summary
 
@@ -51,11 +52,11 @@ WAVE is one of Utah's clearest examples of university-to-commercial-deployment s
 
 ## Evidence
 
-- [Official Website: WAVE Charging](wave-inc-official-website.md)
+- [Official Website: WAVE Charging](wave-inc-official-website.md) · https://greatutah.work/pages/wave-inc-official-website.md · https://www.wavecharging.com/
 
 ## See Also
 
-- [Electric Power Systems](electric-power-systems.md) — complementary Utah EV-infrastructure play in aviation rather than ground transport
+- [Electric Power Systems](electric-power-systems.md) · https://greatutah.work/pages/electric-power-systems.md — complementary Utah EV-infrastructure play in aviation rather than ground transport
 
 ## Open Questions
 

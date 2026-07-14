@@ -51,10 +51,10 @@ Vector is headquartered in Bluffdale, placing it in the Wasatch Front defense co
 
 ## Evidence
 
-- [Vector official website](https://www.tfvector.com)
-- [Vector SOCOM contract announcement](https://www.tfvector.com/news/vector-lands-major-socom-contract-accelerates-military-drone-innovation)
-- [Axios: Vector raises $61M (September 2025)](https://www.axios.com/2025/09/03/vector-defense-drones-utah-investments)
-- [Utah Business: Series A closing](https://www.utahbusiness.com/press-releases/2025/09/08/vector-closing-series-a-financing-round-61-million-14-month-push/)
+- [Vector official website](https://www.tfvector.com) · https://www.tfvector.com
+- [Vector SOCOM contract announcement](https://www.tfvector.com/news/vector-lands-major-socom-contract-accelerates-military-drone-innovation) · https://www.tfvector.com/news/vector-lands-major-socom-contract-accelerates-military-drone-innovation
+- [Axios: Vector raises $61M (September 2025)](https://www.axios.com/2025/09/03/vector-defense-drones-utah-investments) · https://www.axios.com/2025/09/03/vector-defense-drones-utah-investments
+- [Utah Business: Series A closing](https://www.utahbusiness.com/press-releases/2025/09/08/vector-closing-series-a-financing-round-61-million-14-month-push/) · https://www.utahbusiness.com/press-releases/2025/09/08/vector-closing-series-a-financing-round-61-million-14-month-push/
 
 ## Open Questions
 

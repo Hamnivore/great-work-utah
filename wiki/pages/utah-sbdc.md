@@ -7,6 +7,7 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://utahsbdc.org/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -42,8 +43,8 @@ Weaker fits include venture-backed deep-tech teams that already know their custo
 
 ## Evidence
 
-- [Utah SBDC Official Site](utah-sbdc-official-site.md)
-- [Startup State Resource Filter](startup-state-resource-list.md)
+- [Utah SBDC Official Site](utah-sbdc-official-site.md) · https://greatutah.work/pages/utah-sbdc-official-site.md · https://utahsbdc.org/
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 
 ## Open Questions
 

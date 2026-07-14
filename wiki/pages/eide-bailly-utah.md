@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.eidebailly.com/locations/salt-lake-city
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -56,7 +57,7 @@ This page describes public capabilities only and does not imply Eide Bailly has 
 
 ## Evidence
 
-- [Eide Bailly Official Website (Salt Lake City)](eide-bailly-official-website.md)
+- [Eide Bailly Official Website (Salt Lake City)](eide-bailly-official-website.md) · https://greatutah.work/pages/eide-bailly-official-website.md · https://www.eidebailly.com/locations/salt-lake-city
 
 ## Open Questions
 

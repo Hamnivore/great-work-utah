@@ -8,11 +8,12 @@
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
+**Website:** https://cib.usu.edu
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/usu-integrated-biosystems-2026/1600/1100
 **Pull:** *Utah State's genomics and bioinformatics core — the land-grant infrastructure doing the ongoing, mostly-unsung work of improving crops and livestock for an arid-land ag region.*
-**Relates:** cites [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md)
+**Relates:** cites [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md) · https://greatutah.work/pages/usu-integrated-biosystems-official-website.md · https://cib.usu.edu
 
 ## Summary
 
@@ -50,12 +51,12 @@ USU's land-grant mission aligns well with Utah's agricultural profile: the state
 
 ## Evidence
 
-- [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md)
+- [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md) · https://greatutah.work/pages/usu-integrated-biosystems-official-website.md · https://cib.usu.edu
 
 ## See Also
 
-- [Renaissance Ag](renaissance-ag.md) — hydroponic livestock feed company whose water-efficiency claims could benefit from independent validation partnerships with USU agricultural research
-- [Utah Agricultural Experiment Station](https://uaes.usu.edu) — co-located USU unit that provides the field trial infrastructure CIB genomic findings need to become applied variety improvements
+- [Renaissance Ag](renaissance-ag.md) · https://greatutah.work/pages/renaissance-ag.md — hydroponic livestock feed company whose water-efficiency claims could benefit from independent validation partnerships with USU agricultural research
+- [Utah Agricultural Experiment Station](https://uaes.usu.edu) · https://uaes.usu.edu — co-located USU unit that provides the field trial infrastructure CIB genomic findings need to become applied variety improvements
 
 ## Open Questions
 

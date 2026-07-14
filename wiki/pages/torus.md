@@ -10,11 +10,12 @@
 **Updated:** 2026-06-18
 **Domain:** energy, materials-mfg
 **Region:** Salt Lake City
+**Website:** https://www.torus.co/
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/torus-flywheel-slc/1600/1100
 **Hero caption:** *Placeholder image. A license-clean photograph of a Torus flywheel unit or the GigaOne campus is still needed — see Open Questions.*
 **Pull:** *Spinning steel plus batteries, built in Utah, aimed at the grid's hardest short-duration problems.*
-**Relates:** cites [Official Website: Torus](torus-official-website.md)
+**Relates:** cites [Official Website: Torus](torus-official-website.md) · https://greatutah.work/pages/torus-official-website.md · https://www.torus.co/
 
 ## Summary
 
@@ -50,9 +51,9 @@ Torus is a genuinely Utah-rooted hard-tech company: founded in the state, protot
 
 ## Evidence
 
-- [Official Website: Torus](torus-official-website.md)
-- [Source: Torus $200M Magnetar Investment](torus-magnetar-raise.md)
-- [Source: Trinity Capital Equipment Financing for Torus](torus-trinity-equipment-financing.md)
+- [Official Website: Torus](torus-official-website.md) · https://greatutah.work/pages/torus-official-website.md · https://www.torus.co/
+- [Source: Torus $200M Magnetar Investment](torus-magnetar-raise.md) · https://greatutah.work/pages/torus-magnetar-raise.md · https://www.torus.co/news/torus-raises-200-million-from-magnetar-deployment-of-modular-power-plants
+- [Source: Trinity Capital Equipment Financing for Torus](torus-trinity-equipment-financing.md) · https://greatutah.work/pages/torus-trinity-equipment-financing.md · https://www.prnewswire.com/news-releases/trinity-capital-inc-provides-35-million-in-equipment-financing-to-torus-helping-power-american-made-energy-systems-302757993.html
 
 ## Open Questions
 

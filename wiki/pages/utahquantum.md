@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://utahquantum.org
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/utahquantum-qsi-salt-lake-2026/1600/1100
@@ -43,7 +44,7 @@ UTQ sits at the intersection of Utah's growing university quantum research, its 
 
 ## Evidence
 
-- [Official Website: Utah Quantum](utahquantum-official-website.md)
+- [Official Website: Utah Quantum](utahquantum-official-website.md) · https://greatutah.work/pages/utahquantum-official-website.md · https://utahquantum.org
 
 ## Open Questions
 

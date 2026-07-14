@@ -8,11 +8,12 @@
 **Primary Location:** statewide
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://film.utah.gov
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/utah-film-industry-2026/1600/1100
 **Pull:** *Utah's landscapes have been a character in American cinema for a century — and the production infrastructure built around them employs thousands and shapes how the world sees the American West.*
-**Relates:** cites [Official Website: Utah Film Commission](utah-film-industry-official-website.md)
+**Relates:** cites [Official Website: Utah Film Commission](utah-film-industry-official-website.md) · https://greatutah.work/pages/utah-film-industry-official-website.md · https://film.utah.gov
 
 ## Summary
 
@@ -48,11 +49,11 @@ Utah has more film history per square mile of red rock than almost any other sta
 
 ## Evidence
 
-- [Official Website: Utah Film Commission](utah-film-industry-official-website.md)
+- [Official Website: Utah Film Commission](utah-film-industry-official-website.md) · https://greatutah.work/pages/utah-film-industry-official-website.md · https://film.utah.gov
 
 ## See Also
 
-- [Sundance Institute](https://www.sundance.org) — the Park City–based institute is the most prominent single arts organization in Utah; its festival anchors Utah's international creative reputation
+- [Sundance Institute](https://www.sundance.org) · https://www.sundance.org — the Park City–based institute is the most prominent single arts organization in Utah; its festival anchors Utah's international creative reputation
 
 ## Open Questions
 

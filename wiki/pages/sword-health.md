@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT; Porto, Portugal
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://swordhealth.com/
 **Updated:** 2026-06-25
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/sword-health-digital-pt-2026/1600/1100
 **Pull:** *Physical therapy, at home, guided by AI and supervised by a real clinician — and a serious bet that this is just as good as being in the clinic.*
-**Relates:** cites [Official Website: Sword Health](sword-health-official-website.md)
+**Relates:** cites [Official Website: Sword Health](sword-health-official-website.md) · https://greatutah.work/pages/sword-health-official-website.md · https://swordhealth.com/
 
 ## Summary
 
@@ -44,13 +45,13 @@ Sword Health chose Salt Lake City for its U.S. headquarters in 2017, drawn by th
 
 ## Evidence
 
-- [Official Website: Sword Health](https://swordhealth.com)
+- [Official Website: Sword Health](https://swordhealth.com) · https://swordhealth.com
 
 ## See Also
 
-- [Health Catalyst](health-catalyst.md) — Utah healthcare-data platform company
-- [Weave](weave.md) — Utah patient-communication platform for healthcare practices
-- [PhotoPharmics](photopharmics.md) — Utah clinical-stage device targeting a non-pharmacological disease mechanism
+- [Health Catalyst](health-catalyst.md) · https://greatutah.work/pages/health-catalyst.md — Utah healthcare-data platform company
+- [Weave](weave.md) · https://greatutah.work/pages/weave.md — Utah patient-communication platform for healthcare practices
+- [PhotoPharmics](photopharmics.md) · https://greatutah.work/pages/photopharmics.md — Utah clinical-stage device targeting a non-pharmacological disease mechanism
 
 ## Open Questions
 

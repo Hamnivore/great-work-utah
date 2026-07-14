@@ -8,7 +8,7 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Updated:** 2026-06-19
-**Relates:** cites [Profile: Ryan Smith — Qualtrics Co-Founder](ryan-smith-qualtrics-bio.md)
+**Relates:** cites [Profile: Ryan Smith — Qualtrics Co-Founder](ryan-smith-qualtrics-bio.md) · https://greatutah.work/pages/ryan-smith-qualtrics-bio.md · https://www.qualtrics.com/company/about/
 
 ## Summary
 
@@ -42,14 +42,14 @@ Silicon Slopes events and Utah civic venues; Utah Jazz organization channels. No
 
 ## Evidence
 
-- [Profile: Ryan Smith — Qualtrics Co-Founder](ryan-smith-qualtrics-bio.md)
-- [Qualtrics](qualtrics.md)
+- [Profile: Ryan Smith — Qualtrics Co-Founder](ryan-smith-qualtrics-bio.md) · https://greatutah.work/pages/ryan-smith-qualtrics-bio.md · https://www.qualtrics.com/company/about/
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md
 
 ## See Also
 
-- [Qualtrics](qualtrics.md)
-- [Josh James](josh-james.md) — Omniture/Domo founder; comparable Utah enterprise SaaS lineage
-- [Aaron Skonnard](aaron-skonnard.md) — Pluralsight co-founder; third pillar of Utah's defining SaaS exits
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md
+- [Josh James](josh-james.md) · https://greatutah.work/pages/josh-james.md — Omniture/Domo founder; comparable Utah enterprise SaaS lineage
+- [Aaron Skonnard](aaron-skonnard.md) · https://greatutah.work/pages/aaron-skonnard.md — Pluralsight co-founder; third pillar of Utah's defining SaaS exits
 
 ## Open Questions
 

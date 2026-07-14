@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.english.biochem.utah.edu
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/evolution-bio-vegas-gpcr-platform-2026/1600/1100
 **Pull:** *Mammalian directed evolution for GPCRs — the drug industry's hardest, highest-value target class.*
-**Relates:** cites [English Lab (University of Utah)](evolution-bio-english-lab.md), [VEGAS as a Platform for Facile Directed Evolution in Mammalian Cells](evolution-bio-vegas-cell-paper.md)
+**Relates:** cites [English Lab (University of Utah)](evolution-bio-english-lab.md) · https://greatutah.work/pages/evolution-bio-english-lab.md · https://www.english.biochem.utah.edu, [VEGAS as a Platform for Facile Directed Evolution in Mammalian Cells](evolution-bio-vegas-cell-paper.md) · https://greatutah.work/pages/evolution-bio-vegas-cell-paper.md · https://pubmed.ncbi.nlm.nih.gov/31280962/
 
 ## Summary
 
@@ -46,13 +47,13 @@ Evolution Bio is a University of Utah biochemistry spinout in Salt Lake City, ba
 
 ## Evidence
 
-- [English Lab (University of Utah)](evolution-bio-english-lab.md)
-- [VEGAS as a Platform for Facile Directed Evolution in Mammalian Cells](evolution-bio-vegas-cell-paper.md)
+- [English Lab (University of Utah)](evolution-bio-english-lab.md) · https://greatutah.work/pages/evolution-bio-english-lab.md · https://www.english.biochem.utah.edu
+- [VEGAS as a Platform for Facile Directed Evolution in Mammalian Cells](evolution-bio-vegas-cell-paper.md) · https://greatutah.work/pages/evolution-bio-vegas-cell-paper.md · https://pubmed.ncbi.nlm.nih.gov/31280962/
 
 ## See Also
 
-- [Intactis Bio](intactis-bio.md) — another early Altitude Lab–associated Utah deep-tech spinout
-- [Altitude Labs](altitude-labs.md) — Utah health-care incubator listed as an investor
+- [Intactis Bio](intactis-bio.md) · https://greatutah.work/pages/intactis-bio.md — another early Altitude Lab–associated Utah deep-tech spinout
+- [Altitude Labs](altitude-labs.md) · https://greatutah.work/pages/altitude-labs.md — Utah health-care incubator listed as an investor
 
 ## Open Questions
 

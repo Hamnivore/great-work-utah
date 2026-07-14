@@ -10,10 +10,10 @@
 **Region:** Cache County
 **Updated:** 2026-06-25
 **Pull:** *Utah State's Space Dynamics Laboratory built the first ISS instrument designed to watch gravity waves bridge the gap between terrestrial weather and space weather.*
-**Relates:** cites [NASA: AWE Mission Page](nasa-awe-mission-page.md)
-**Relates:** cites [NASA: AWE First 3,000 Orbits Data Release](nasa-awe-first-data.md)
-**Relates:** cites [USU Today: AWE Data Release](usu-awe-first-3000-orbits.md)
-**Relates:** cites [AWE Mission: SDL Captures First Light](awe-mission-sdl-first-light.md)
+**Relates:** cites [NASA: AWE Mission Page](nasa-awe-mission-page.md) · https://greatutah.work/pages/nasa-awe-mission-page.md
+**Relates:** cites [NASA: AWE First 3,000 Orbits Data Release](nasa-awe-first-data.md) · https://greatutah.work/pages/nasa-awe-first-data.md
+**Relates:** cites [USU Today: AWE Data Release](usu-awe-first-3000-orbits.md) · https://greatutah.work/pages/usu-awe-first-3000-orbits.md
+**Relates:** cites [AWE Mission: SDL Captures First Light](awe-mission-sdl-first-light.md) · https://greatutah.work/pages/awe-mission-sdl-first-light.md
 
 ## Summary
 
@@ -43,11 +43,11 @@ AWE sits within a broader SDL atmospheric-sensing lineage that includes SABER/TI
 
 ## Evidence
 
-- [NASA: AWE mission page](https://science.nasa.gov/mission/awe/) — [source record](nasa-awe-mission-page.md)
-- [NASA: AWE launching to space station to study atmospheric waves via airglow](https://science.nasa.gov/science-research/heliophysics/awe-launching-to-space-station-to-study-atmospheric-waves-via-airglow/)
-- [NASA: AWE first 3,000 orbits data release](https://science.nasa.gov/science-research/heliophysics/nasa-awe-first-data/) — [source record](nasa-awe-first-data.md)
-- [USU Today: USU-led AWE releases data from first 3,000 orbits](https://www.usu.edu/today/story/usu-led-nasa-atmospheric-wave-studying-mission-releases-data-from-first-3000-orbits) — [source record](usu-awe-first-3000-orbits.md)
-- [AWE mission: SDL captures first light](https://www.awemission.org/media-resources/news/2024-01-05-sdl-captures-first-light-from-awe) — [source record](awe-mission-sdl-first-light.md)
+- [NASA: AWE mission page](https://science.nasa.gov/mission/awe/) · https://science.nasa.gov/mission/awe/ — [source record](nasa-awe-mission-page.md) · https://greatutah.work/pages/nasa-awe-mission-page.md
+- [NASA: AWE launching to space station to study atmospheric waves via airglow](https://science.nasa.gov/science-research/heliophysics/awe-launching-to-space-station-to-study-atmospheric-waves-via-airglow/) · https://science.nasa.gov/science-research/heliophysics/awe-launching-to-space-station-to-study-atmospheric-waves-via-airglow/
+- [NASA: AWE first 3,000 orbits data release](https://science.nasa.gov/science-research/heliophysics/nasa-awe-first-data/) · https://science.nasa.gov/science-research/heliophysics/nasa-awe-first-data/ — [source record](nasa-awe-first-data.md) · https://greatutah.work/pages/nasa-awe-first-data.md
+- [USU Today: USU-led AWE releases data from first 3,000 orbits](https://www.usu.edu/today/story/usu-led-nasa-atmospheric-wave-studying-mission-releases-data-from-first-3000-orbits) · https://www.usu.edu/today/story/usu-led-nasa-atmospheric-wave-studying-mission-releases-data-from-first-3000-orbits — [source record](usu-awe-first-3000-orbits.md) · https://greatutah.work/pages/usu-awe-first-3000-orbits.md
+- [AWE mission: SDL captures first light](https://www.awemission.org/media-resources/news/2024-01-05-sdl-captures-first-light-from-awe) · https://www.awemission.org/media-resources/news/2024-01-05-sdl-captures-first-light-from-awe — [source record](awe-mission-sdl-first-light.md) · https://greatutah.work/pages/awe-mission-sdl-first-light.md
 
 ## Open Questions
 

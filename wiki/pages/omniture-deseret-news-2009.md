@@ -8,7 +8,7 @@
 **Publisher:** Deseret News (Salt Lake City, UT)
 **Accessed:** 2026-06-19
 **Updated:** 2026-06-19
-**Relates:** cites [Omniture Web Analytics](omniture-web-analytics.md)
+**Relates:** cites [Omniture Web Analytics](omniture-web-analytics.md) · https://greatutah.work/pages/omniture-web-analytics.md
 
 ## Summary
 

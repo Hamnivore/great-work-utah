@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://archivespace.lib.utah.edu/agents/corporate_entities/2243;
 **Updated:** 2026-05-16
 **Pull:** *The first commercial computer-graphics company turned Utah lab ideas into real-time 3D machinery.*
 
@@ -39,10 +40,10 @@ The company's primary revenue was military simulation, which complicates the leg
 
 ## Evidence
 
-- [Source record: Evans & Sutherland Corporate Records and History](evans-and-sutherland-source.md)
-- [History of CG: Evans & Sutherland](https://www.historyofcg.com/pages/evans-sutherland-/)
-- [U of U ArchivesSpace: Evans & Sutherland corporate records](https://archivespace.lib.utah.edu/agents/corporate_entities/2243)
-- [Wikipedia: Evans & Sutherland](https://en.wikipedia.org/wiki/Evans_&_Sutherland)
+- [Source record: Evans & Sutherland Corporate Records and History](evans-and-sutherland-source.md) · https://greatutah.work/pages/evans-and-sutherland-source.md · https://archivespace.lib.utah.edu/agents/corporate_entities/2243;
+- [History of CG: Evans & Sutherland](https://www.historyofcg.com/pages/evans-sutherland-/) · https://www.historyofcg.com/pages/evans-sutherland-/
+- [U of U ArchivesSpace: Evans & Sutherland corporate records](https://archivespace.lib.utah.edu/agents/corporate_entities/2243) · https://archivespace.lib.utah.edu/agents/corporate_entities/2243
+- [Wikipedia: Evans & Sutherland](https://en.wikipedia.org/wiki/Evans_&_Sutherland) · https://en.wikipedia.org/wiki/Evans_&_Sutherland
 
 ## Open Questions
 

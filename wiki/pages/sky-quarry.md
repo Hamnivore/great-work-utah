@@ -10,10 +10,11 @@
 **Updated:** 2026-06-19
 **Domain:** energy, materials-mfg
 **Region:** Uintah County; Woods Cross
+**Website:** https://skyquarry.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/sky-quarry-manufacturing-2026/1600/1100
 **Pull:** *Used asphalt shingles are 30% bitumen by weight — Sky Quarry's ECOSolv process recovers 95% of the material and returns it to road and industrial use, tackling one of the larger ignored construction waste streams.*
-**Relates:** cites [Official Website: Sky Quarry](sky-quarry-official-website.md)
+**Relates:** cites [Official Website: Sky Quarry](sky-quarry-official-website.md) · https://greatutah.work/pages/sky-quarry-official-website.md · https://skyquarry.com
 
 ## Summary
 
@@ -49,11 +50,11 @@ The Woods Cross headquarters places the company in the North Salt Lake / Davis C
 
 ## Evidence
 
-- [Official Website: Sky Quarry](sky-quarry-official-website.md)
+- [Official Website: Sky Quarry](sky-quarry-official-website.md) · https://greatutah.work/pages/sky-quarry-official-website.md · https://skyquarry.com
 
 ## See Also
 
-- [Ionic MT](ionic-mt.md) — another Utah materials company with a domestic supply chain thesis and an eastern Utah resource base.
+- [Ionic MT](ionic-mt.md) · https://greatutah.work/pages/ionic-mt.md — another Utah materials company with a domestic supply chain thesis and an eastern Utah resource base.
 
 ## Open Questions
 

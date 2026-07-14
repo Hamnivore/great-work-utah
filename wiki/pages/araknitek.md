@@ -11,7 +11,7 @@
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/araknitek-2026/1600/1100
-**Relates:** cites [Official Website: Araknitek](araknitek-official-website.md)
+**Relates:** cites [Official Website: Araknitek](araknitek-official-website.md) · https://greatutah.work/pages/araknitek-official-website.md
 
 ## Summary
 
@@ -47,7 +47,7 @@ Utah State University's Randy Lewis laboratory is one of the most cited academic
 
 ## Evidence
 
-- [Official Website: Araknitek](araknitek-official-website.md)
+- [Official Website: Araknitek](araknitek-official-website.md) · https://greatutah.work/pages/araknitek-official-website.md
 
 ## See Also
 

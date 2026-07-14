@@ -11,10 +11,11 @@
 **Needs-reviewed:** 2026-06-19
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Website:** https://www.calyciabioscience.com
 **Ownership:** private
 **Hero:** https://picsum.photos/seed/calycia-macrophage-gbm-2026/1600/1100
 **Pull:** *Engineered macrophages delivered locally into the brain — a CAR-T alternative built for solid CNS tumors.*
-**Relates:** cites [Official Website: CaLycia Biosciences](calycia-biosciences-official-website.md)
+**Relates:** cites [Official Website: CaLycia Biosciences](calycia-biosciences-official-website.md) · https://greatutah.work/pages/calycia-biosciences-official-website.md · https://www.calyciabioscience.com
 
 ## Summary
 
@@ -53,12 +54,12 @@ CaLycia is headquartered in Salt Lake City and appears connected to the Universi
 
 ## Evidence
 
-- [Official Website: CaLycia Biosciences](calycia-biosciences-official-website.md)
+- [Official Website: CaLycia Biosciences](calycia-biosciences-official-website.md) · https://greatutah.work/pages/calycia-biosciences-official-website.md · https://www.calyciabioscience.com
 
 ## See Also
 
-- [Intactis Bio](intactis-bio.md) — another early Altitude Lab–associated Utah biotech spinout
-- [Altitude Labs](altitude-labs.md) — Utah health-care incubator that may host early life-sciences companies
+- [Intactis Bio](intactis-bio.md) · https://greatutah.work/pages/intactis-bio.md — another early Altitude Lab–associated Utah biotech spinout
+- [Altitude Labs](altitude-labs.md) · https://greatutah.work/pages/altitude-labs.md — Utah health-care incubator that may host early life-sciences companies
 
 ## Open Questions
 

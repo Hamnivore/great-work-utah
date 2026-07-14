@@ -8,6 +8,7 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Website:** https://www.getweave.com
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/weave-lehi-hq/1600/1100
@@ -48,9 +49,9 @@ Weave is a Lehi-based anchor of the Silicon Slopes software corridor and one of 
 
 ## Evidence
 
-- [Official Website: Weave](weave-official-website.md)
-- [Weave 2025 Annual Report (Form 10-K)](https://www.sec.gov/Archives/edgar/data/1609151/000160915126000043/weav-2026formars.pdf) (SEC) — nearly 40,000 locations and 30,000+ customers as of Dec 31, 2025; verticals; Lehi HQ.
-- [Weave Q4/FY2025 earnings release](https://www.sec.gov/Archives/edgar/data/1609151/000160915126000005/a991-weaveearningsreleasex.htm) (Feb 19, 2026) — AI-platform positioning, TrueLark acquisition reference, G2 award.
+- [Official Website: Weave](weave-official-website.md) · https://greatutah.work/pages/weave-official-website.md · https://www.getweave.com
+- [Weave 2025 Annual Report (Form 10-K)](https://www.sec.gov/Archives/edgar/data/1609151/000160915126000043/weav-2026formars.pdf) · https://www.sec.gov/Archives/edgar/data/1609151/000160915126000043/weav-2026formars.pdf (SEC) — nearly 40,000 locations and 30,000+ customers as of Dec 31, 2025; verticals; Lehi HQ.
+- [Weave Q4/FY2025 earnings release](https://www.sec.gov/Archives/edgar/data/1609151/000160915126000005/a991-weaveearningsreleasex.htm) · https://www.sec.gov/Archives/edgar/data/1609151/000160915126000005/a991-weaveearningsreleasex.htm (Feb 19, 2026) — AI-platform positioning, TrueLark acquisition reference, G2 award.
 
 ## Open Questions
 

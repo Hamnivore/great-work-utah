@@ -8,11 +8,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Website:** https://ramasd.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/ram-aviation-space-defense-2026/1600/1100
 **Pull:** *The precision propulsion valves keeping ISS astronauts alive, the Dragon capsule flying, and Dream Chaser on track — built quietly in St. George for 50 years.*
-**Relates:** cites [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md)
+**Relates:** cites [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md) · https://greatutah.work/pages/ram-aviation-space-defense-official-website.md · https://ramasd.com
 
 ## Summary
 
@@ -52,11 +53,11 @@ The private, founder-family ownership structure is relevant to Utah's entreprene
 
 ## Evidence
 
-- [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md)
+- [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md) · https://greatutah.work/pages/ram-aviation-space-defense-official-website.md · https://ramasd.com
 
 ## See Also
 
-- [Northrop Grumman — Promontory Facility](northrop-grumman-promontory.md) — large-scale solid rocket motor manufacturer; RAM-type precision components feed into programs like those at Promontory
+- [Northrop Grumman — Promontory Facility](northrop-grumman-promontory.md) · https://greatutah.work/pages/northrop-grumman-promontory.md — large-scale solid rocket motor manufacturer; RAM-type precision components feed into programs like those at Promontory
 
 ## Open Questions
 

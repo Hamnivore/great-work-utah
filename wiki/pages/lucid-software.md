@@ -8,12 +8,14 @@
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT
 **Region:** South Jordan
+**Careers:** https://lucid.co/careers
+**Website:** https://www.lucidsoftware.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/lucid-visual-collaboration-2026/1600/1100
 **Pull:** *Lucidchart and Lucidspark — the visual layer where enterprise teams map processes and align on complex ideas.*
-**Relates:** cites [Official Website: Lucid Software](lucid-software-official-website.md)
-**Relates:** helps [Karl Sun](karl-sun.md)
+**Relates:** cites [Official Website: Lucid Software](lucid-software-official-website.md) · https://greatutah.work/pages/lucid-software-official-website.md · https://www.lucidsoftware.com
+**Relates:** helps [Karl Sun](karl-sun.md) · https://greatutah.work/pages/karl-sun.md
 
 ## Summary
 
@@ -50,11 +52,11 @@ Lucid Software is headquartered in South Jordan, Utah, and was founded by BYU gr
 
 ## Evidence
 
-- [Official Website: Lucid Software](lucid-software-official-website.md)
+- [Official Website: Lucid Software](lucid-software-official-website.md) · https://greatutah.work/pages/lucid-software-official-website.md · https://www.lucidsoftware.com
 
 ## See Also
 
-- [Domo](domo.md) — another large Utah enterprise SaaS company with a different analytics focus.
+- [Domo](domo.md) · https://greatutah.work/pages/domo.md — another large Utah enterprise SaaS company with a different analytics focus.
 
 ## Open Questions
 

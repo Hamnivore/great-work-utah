@@ -8,11 +8,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Website:** https://edentechinc.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/eden-tech-water/1600/1100
 **Pull:** *A centrifuge retrofit that claims to double the freshwater yield of existing desalination plants — built by a Utah Tech spinout in one of the driest corners of the country.*
-**Relates:** cites [Official Website: Eden Technologies](eden-technologies-official-website.md)
+**Relates:** cites [Official Website: Eden Technologies](eden-technologies-official-website.md) · https://greatutah.work/pages/eden-technologies-official-website.md · https://edentechinc.com
 
 ## Summary
 
@@ -42,7 +43,7 @@ Eden Technologies is a Utah Tech University (St. George) spinout — one of rela
 
 ## Evidence
 
-- [Official Website: Eden Technologies](eden-technologies-official-website.md)
+- [Official Website: Eden Technologies](eden-technologies-official-website.md) · https://greatutah.work/pages/eden-technologies-official-website.md · https://edentechinc.com
 
 ## Open Questions
 

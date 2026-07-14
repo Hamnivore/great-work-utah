@@ -8,6 +8,7 @@
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://it.utah.edu/node4/posts/2017/august/node4-history.php
 **Updated:** 2026-05-16
 **Pull:** *The original four-node ARPANET ended in Utah before it became the networked world.*
 
@@ -39,11 +40,11 @@ The node reinforces why the [University of Utah Computer Graphics Program](utah-
 
 ## Evidence
 
-- [Source record: University of Utah Node 4 History](arpanet-fourth-node-source.md)
-- [U of U IT: Node 4 history](https://it.utah.edu/node4/posts/2017/august/node4-history.php)
-- [University of Utah Price College of Engineering: Birth of the Internet](https://www.price.utah.edu/2019/09/09/birth-of-the-internet)
-- [History of Information: The First Four Nodes](https://www.historyofinformation.com/detail.php?id=3368)
-- [Deseret News: The 4th Node podcast](https://www.deseret.com/2023/2/14/23590975/4th-node-podcast-arpanet-tech-history-novell-wordperfect-bill-gates/)
+- [Source record: University of Utah Node 4 History](arpanet-fourth-node-source.md) · https://greatutah.work/pages/arpanet-fourth-node-source.md · https://it.utah.edu/node4/posts/2017/august/node4-history.php
+- [U of U IT: Node 4 history](https://it.utah.edu/node4/posts/2017/august/node4-history.php) · https://it.utah.edu/node4/posts/2017/august/node4-history.php
+- [University of Utah Price College of Engineering: Birth of the Internet](https://www.price.utah.edu/2019/09/09/birth-of-the-internet) · https://www.price.utah.edu/2019/09/09/birth-of-the-internet
+- [History of Information: The First Four Nodes](https://www.historyofinformation.com/detail.php?id=3368) · https://www.historyofinformation.com/detail.php?id=3368
+- [Deseret News: The 4th Node podcast](https://www.deseret.com/2023/2/14/23590975/4th-node-podcast-arpanet-tech-history-novell-wordperfect-bill-gates/) · https://www.deseret.com/2023/2/14/23590975/4th-node-podcast-arpanet-tech-history-novell-wordperfect-bill-gates/
 
 ## Open Questions
 

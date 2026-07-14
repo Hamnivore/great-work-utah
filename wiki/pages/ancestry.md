@@ -8,10 +8,11 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Website:** https://www.ancestry.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
-**Relates:** cites [Official Website: Ancestry](ancestry-official-website.md)
-**Relates:** cites [Blackstone Acquisition of Ancestry](ancestry-blackstone-acquisition.md)
+**Relates:** cites [Official Website: Ancestry](ancestry-official-website.md) · https://greatutah.work/pages/ancestry-official-website.md · https://www.ancestry.com/
+**Relates:** cites [Blackstone Acquisition of Ancestry](ancestry-blackstone-acquisition.md) · https://greatutah.work/pages/ancestry-blackstone-acquisition.md · https://www.blackstone.com/news/press/blackstone-completes-acquisition-of-ancestry-leading-online-family-history-business-for-4-7-billion/
 
 ## Summary
 
@@ -47,13 +48,13 @@ Ancestry is headquartered in Lehi and is part of the Silicon Slopes company clus
 
 ## Evidence
 
-- [Official Website: Ancestry](ancestry-official-website.md)
-- [Blackstone Acquisition of Ancestry](ancestry-blackstone-acquisition.md)
+- [Official Website: Ancestry](ancestry-official-website.md) · https://greatutah.work/pages/ancestry-official-website.md · https://www.ancestry.com/
+- [Blackstone Acquisition of Ancestry](ancestry-blackstone-acquisition.md) · https://greatutah.work/pages/ancestry-blackstone-acquisition.md · https://www.blackstone.com/news/press/blackstone-completes-acquisition-of-ancestry-leading-online-family-history-business-for-4-7-billion/
 
 ## See Also
 
-- [FamilySearch](familysearch.md)
-- [Official Website: FamilySearch](familysearch-official-site.md)
+- [FamilySearch](familysearch.md) · https://greatutah.work/pages/familysearch.md
+- [Official Website: FamilySearch](familysearch-official-site.md) · https://greatutah.work/pages/familysearch-official-site.md · https://www.familysearch.org
 
 ## Open Questions
 

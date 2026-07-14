@@ -8,7 +8,7 @@
 **Publisher:** Linda Hall Library (Kansas City, MO)
 **Accessed:** 2026-06-19
 **Updated:** 2026-06-19
-**Relates:** cites [Philo Farnsworth and Electronic Television](philo-farnsworth-television.md)
+**Relates:** cites [Philo Farnsworth and Electronic Television](philo-farnsworth-television.md) · https://greatutah.work/pages/philo-farnsworth-television.md
 
 ## Summary
 

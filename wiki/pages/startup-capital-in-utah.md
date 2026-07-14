@@ -64,14 +64,14 @@ Good capital recommendations should explain the instrument, the stage, the evide
 
 ## Evidence
 
-- [Nucleus Grow](nucleus-grow.md)
-- [Utah Technology Innovation Funding](utif.md)
-- [Nucleus Fund](nucleus-fund.md)
-- [Nucleus MarketEdge](nucleus-marketedge.md)
-- [Nucleus Institute](nucleus-institute.md)
-- [SBA Utah District Office](sba-utah-district-office.md)
-- [Utah SBDC](utah-sbdc.md)
-- [Utah Small Business Credit Initiative](utah-small-business-credit-initiative.md)
+- [Nucleus Grow](nucleus-grow.md) · https://greatutah.work/pages/nucleus-grow.md
+- [Utah Technology Innovation Funding](utif.md) · https://greatutah.work/pages/utif.md
+- [Nucleus Fund](nucleus-fund.md) · https://greatutah.work/pages/nucleus-fund.md
+- [Nucleus MarketEdge](nucleus-marketedge.md) · https://greatutah.work/pages/nucleus-marketedge.md
+- [Nucleus Institute](nucleus-institute.md) · https://greatutah.work/pages/nucleus-institute.md
+- [SBA Utah District Office](sba-utah-district-office.md) · https://greatutah.work/pages/sba-utah-district-office.md
+- [Utah SBDC](utah-sbdc.md) · https://greatutah.work/pages/utah-sbdc.md
+- [Utah Small Business Credit Initiative](utah-small-business-credit-initiative.md) · https://greatutah.work/pages/utah-small-business-credit-initiative.md
 
 ## Open Questions
 

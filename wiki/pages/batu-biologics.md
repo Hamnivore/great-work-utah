@@ -11,7 +11,7 @@
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/batu-biologics-2026/1600/1100
-**Relates:** cites [Official Website: Batu Biologics](batu-biologics-official-website.md)
+**Relates:** cites [Official Website: Batu Biologics](batu-biologics-official-website.md) · https://greatutah.work/pages/batu-biologics-official-website.md
 
 ## Summary
 
@@ -43,7 +43,7 @@ The University of Utah has a meaningful immuno-oncology research community ancho
 
 ## Evidence
 
-- [Official Website: Batu Biologics](batu-biologics-official-website.md)
+- [Official Website: Batu Biologics](batu-biologics-official-website.md) · https://greatutah.work/pages/batu-biologics-official-website.md
 
 ## See Also
 

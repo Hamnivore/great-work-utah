@@ -7,7 +7,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
-**Updated:** 2026-05-09
+**Website:** https://startup.utah.gov/resources/
+**Map Location:** Atwood Innovation Plaza, 453 S 700 E, St. George, UT 84770
+**Coordinates:** 37.1103165, -113.5684606
+**Location Precision:** exact
+**Location Source:** https://umac.utahtech.edu/art-in-the-city/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -86,9 +91,9 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
-- [Official website](https://innovation.utahtech.edu/)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://innovation.utahtech.edu/) · https://innovation.utahtech.edu/
 
 ## Open Questions
 

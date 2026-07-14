@@ -39,4 +39,4 @@ The Fervo official website is a marketing source. Claims about project scale, pr
 
 ## See Also
 
-- [Official Source: Fervo Cape Station Groundbreaking](fervo-cape-station-groundbreaking.md)
+- [Official Source: Fervo Cape Station Groundbreaking](fervo-cape-station-groundbreaking.md) · https://greatutah.work/pages/fervo-cape-station-groundbreaking.md · https://fervoenergy.com/fervo-energy-breaks-ground-on-the-worlds-largest-next-gen-geothermal-project/

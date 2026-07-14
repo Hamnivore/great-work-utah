@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://tealdrones.com
 **Domain:** aerospace-defense
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
@@ -52,7 +53,7 @@ Teal is part of the Wasatch Front defense-and-autonomy cluster alongside [Fortem
 
 ## Evidence
 
-- [Official Website: Teal Drones](teal-drones-official-website.md)
+- [Official Website: Teal Drones](teal-drones-official-website.md) · https://greatutah.work/pages/teal-drones-official-website.md · https://tealdrones.com
 - Red Cat press release: "Production Selection for U.S. Army Short Range Reconnaissance Program" (Nov 19, 2024). Press releases are leads, not neutral proof.
 - U.S. Army article on SRR Tranche 2 production (army.mil) naming Teal/Black Widow as a selected vendor; designation-systems.net for platform lineage and Tranche 1/2 history.
 

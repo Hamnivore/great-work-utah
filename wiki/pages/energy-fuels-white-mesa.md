@@ -10,6 +10,7 @@
 **Updated:** 2026-06-18
 **Domain:** energy, materials-mfg, health-bio
 **Region:** San Juan County
+**Website:** https://www.energyfuels.com/
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/energy-fuels-white-mesa-critical-minerals-2026/1600/1100
 **Pull:** *A Utah mill at the center of a contested U.S. critical-minerals and nuclear-fuel supply-chain strategy.*
@@ -52,7 +53,7 @@ Energy Fuels also makes Utah part of the national conversation about domestic ur
 
 ## Evidence
 
-- [Official Website: Energy Fuels](energy-fuels-official-website.md)
+- [Official Website: Energy Fuels](energy-fuels-official-website.md) · https://greatutah.work/pages/energy-fuels-official-website.md · https://www.energyfuels.com/
 
 ## Open Questions
 

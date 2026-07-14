@@ -30,7 +30,7 @@ MX is headquartered in Lehi, a hub in the Silicon Slopes tech ecosystem. The com
 
 ## Evidence
 
-- [Official Website](https://www.mx.com)
+- [Official Website](https://www.mx.com) · https://www.mx.com
 
 ## Open Questions
 

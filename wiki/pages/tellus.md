@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://tellusensors.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/tellus-2026/1600/1100
 **Pull:** *Twenty years of calibration science turned into a low-cost sensor network that gives communities real-time air quality data at a fraction of what EPA-grade monitors cost.*
-**Relates:** cites [Official Website: TELLUS Networked Sensor Solutions](tellus-official-website.md)
+**Relates:** cites [Official Website: TELLUS Networked Sensor Solutions](tellus-official-website.md) · https://greatutah.work/pages/tellus-official-website.md · https://tellusensors.com
 
 ## Summary
 
@@ -44,12 +45,12 @@ Salt Lake City sits in a bowl-shaped valley that traps winter inversions, produc
 
 ## Evidence
 
-- [Official Website: TELLUS Networked Sensor Solutions](tellus-official-website.md)
+- [Official Website: TELLUS Networked Sensor Solutions](tellus-official-website.md) · https://greatutah.work/pages/tellus-official-website.md · https://tellusensors.com
 
 ## See Also
 
-- [Ripple Neuro](ripple-neuro.md) — another University of Utah scientific-infrastructure spinout; useful comparison for the spinout-to-company trajectory and government-contract revenue model.
-- [Utah Arch Research Group](utah-arch.md) — University of Utah hardware and systems research; overlapping academic ecosystem.
+- [Ripple Neuro](ripple-neuro.md) · https://greatutah.work/pages/ripple-neuro.md — another University of Utah scientific-infrastructure spinout; useful comparison for the spinout-to-company trajectory and government-contract revenue model.
+- [Utah Arch Research Group](utah-arch.md) · https://greatutah.work/pages/utah-arch.md — University of Utah hardware and systems research; overlapping academic ecosystem.
 
 ## Open Questions
 

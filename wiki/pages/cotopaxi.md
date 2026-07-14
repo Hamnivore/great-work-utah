@@ -8,12 +8,13 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.cotopaxi.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cotopaxi-gear-for-good-2026/1600/1100
 **Pull:** *Colorful outdoor gear with a built-in give-back model: 1% of revenue to the Cotopaxi Foundation.*
-**Relates:** cites [Official Website: Cotopaxi](cotopaxi-official-website.md)
-**Relates:** cites [B Lab Profile: Cotopaxi](cotopaxi-b-lab.md)
+**Relates:** cites [Official Website: Cotopaxi](cotopaxi-official-website.md) · https://greatutah.work/pages/cotopaxi-official-website.md · https://www.cotopaxi.com
+**Relates:** cites [B Lab Profile: Cotopaxi](cotopaxi-b-lab.md) · https://greatutah.work/pages/cotopaxi-b-lab.md · https://www.bcorporation.net/en-us/find-a-b-corp/company/cotopaxi/
 
 ## Summary
 
@@ -51,12 +52,12 @@ Founder and chairman Davis Smith is central to the public story: Cotopaxi's offi
 
 ## Evidence
 
-- [Official Website: Cotopaxi](cotopaxi-official-website.md)
-- [B Lab Profile: Cotopaxi](cotopaxi-b-lab.md)
+- [Official Website: Cotopaxi](cotopaxi-official-website.md) · https://greatutah.work/pages/cotopaxi-official-website.md · https://www.cotopaxi.com
+- [B Lab Profile: Cotopaxi](cotopaxi-b-lab.md) · https://greatutah.work/pages/cotopaxi-b-lab.md · https://www.bcorporation.net/en-us/find-a-b-corp/company/cotopaxi/
 
 ## See Also
 
-- [Mercato Partners](mercato-partners.md) - Utah growth investor cited in wiki resources as having backed Cotopaxi.
+- [Mercato Partners](mercato-partners.md) · https://greatutah.work/pages/mercato-partners.md - Utah growth investor cited in wiki resources as having backed Cotopaxi.
 
 ## Open Questions
 

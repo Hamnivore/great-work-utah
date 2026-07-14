@@ -8,6 +8,7 @@
 **Primary Location:** LDS Hospital, Salt Lake City, UT
 **Utah Location:** LDS Hospital and University of Utah, Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/;
 **Updated:** 2026-05-16
 **Pull:** *Long before EHRs became ordinary, a Salt Lake City hospital system showed computers could participate in care while care was happening.*
 
@@ -41,11 +42,11 @@ HELP was a pioneering system, but it was part of a broader national movement. Re
 
 ## Evidence
 
-- [Source record: HELP Hospital Information System Papers](help-clinical-decision-support-source.md)
-- [Pryor, Warner, and Gardner: HELP--A Total Hospital Information System](https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/)
-- [PubMed: The HELP hospital information system: update 1998](https://pubmed.ncbi.nlm.nih.gov/10405877/)
-- [PMC: Clinical Decision Support: a 25 Year Retrospective and a 25 Year Vision](https://pmc.ncbi.nlm.nih.gov/articles/PMC5171504/)
-- [Springer: HELP: A Dynamic Hospital Information System](https://link.springer.com/book/10.1007/978-1-4612-3070-0)
+- [Source record: HELP Hospital Information System Papers](help-clinical-decision-support-source.md) · https://greatutah.work/pages/help-clinical-decision-support-source.md · https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/;
+- [Pryor, Warner, and Gardner: HELP--A Total Hospital Information System](https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/) · https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/
+- [PubMed: The HELP hospital information system: update 1998](https://pubmed.ncbi.nlm.nih.gov/10405877/) · https://pubmed.ncbi.nlm.nih.gov/10405877/
+- [PMC: Clinical Decision Support: a 25 Year Retrospective and a 25 Year Vision](https://pmc.ncbi.nlm.nih.gov/articles/PMC5171504/) · https://pmc.ncbi.nlm.nih.gov/articles/PMC5171504/
+- [Springer: HELP: A Dynamic Hospital Information System](https://link.springer.com/book/10.1007/978-1-4612-3070-0) · https://link.springer.com/book/10.1007/978-1-4612-3070-0
 
 ## Open Questions
 

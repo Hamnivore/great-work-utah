@@ -6,9 +6,14 @@
 **Focus:** Late Stage Growth, Aerospace and Defense, Agriculture
 **Primary Location:** Clearfield, UT
 **Utah Location:** Clearfield, UT
-**Updated:** 2026-05-09
 **Domain:** culture-place
 **Region:** Clearfield
+**Website:** https://startup.utah.gov/resources/
+**Map Location:** Clearfield Job Corps Center, 20 W 1700 S, Clearfield, UT 84016
+**Coordinates:** 41.0892370, -112.0266517
+**Location Precision:** exact
+**Location Source:** https://clearfield.jobcorps.gov/contact
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -68,9 +73,9 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
-- [Official website](https://clearfield.jobcorps.gov/)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://clearfield.jobcorps.gov/) · https://clearfield.jobcorps.gov/
 
 ## Open Questions
 

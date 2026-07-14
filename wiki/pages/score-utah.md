@@ -7,6 +7,7 @@
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://www.score.org/ut/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -42,8 +43,8 @@ Avoid implying a specific mentor is available unless the founder has used the SC
 
 ## Evidence
 
-- [SCORE Utah Page](score-utah-source.md)
-- [Startup State Resource Filter](startup-state-resource-list.md)
+- [SCORE Utah Page](score-utah-source.md) · https://greatutah.work/pages/score-utah-source.md · https://www.score.org/ut/
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 
 ## Open Questions
 

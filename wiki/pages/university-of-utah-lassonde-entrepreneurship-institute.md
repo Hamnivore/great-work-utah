@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://lassonde.utah.edu/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -54,8 +55,8 @@ It is less direct for nonstudent founders, established companies, or researchers
 
 ## Evidence
 
-- [Lassonde Entrepreneurship Institute Official Site](lassonde-entrepreneurship-institute-official-site.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
+- [Lassonde Entrepreneurship Institute Official Site](lassonde-entrepreneurship-institute-official-site.md) · https://greatutah.work/pages/lassonde-entrepreneurship-institute-official-site.md · https://lassonde.utah.edu/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 

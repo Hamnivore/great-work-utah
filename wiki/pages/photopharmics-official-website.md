@@ -33,4 +33,4 @@ This is an official company source. It is useful for product positioning, mechan
 
 ## See Also
 
-- [Light for PD clinical trial (clinicaltrials.gov)](https://clinicaltrials.gov/study/NCT04570033) — independent registry record for the pivotal study cited in legacy research
+- [Light for PD clinical trial (clinicaltrials.gov)](https://clinicaltrials.gov/study/NCT04570033) · https://clinicaltrials.gov/study/NCT04570033 — independent registry record for the pivotal study cited in legacy research

@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://healthcare.utah.edu/huntsmancancerinstitute
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/huntsman-cancer-institute-research-2026/1600/1100
@@ -47,7 +48,7 @@ HCI is the gravitational center of Utah life sciences. Its discoveries and peopl
 
 ## Evidence
 
-- [Source: Huntsman Cancer Institute Official Pages (Leadership, NCI Designation, U2TAH)](huntsman-cancer-institute-official-website.md)
+- [Source: Huntsman Cancer Institute Official Pages (Leadership, NCI Designation, U2TAH)](huntsman-cancer-institute-official-website.md) · https://greatutah.work/pages/huntsman-cancer-institute-official-website.md · https://healthcare.utah.edu/huntsmancancerinstitute
 
 ## Open Questions
 

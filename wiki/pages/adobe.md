@@ -8,6 +8,7 @@
 **Primary Location:** San Jose, CA
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Careers:** https://careers.adobe.com/
 **Domain:** computing
 **Updated:** 2026-06-21
 **Needs-reviewed:** 2026-06-21
@@ -31,7 +32,7 @@ Adobe's Utah footprint traces back to its $1.8 billion acquisition of [Omniture]
 
 ## Evidence
 
-- [Official Website](https://www.adobe.com)
+- [Official Website](https://www.adobe.com) · https://www.adobe.com
 
 ## Open Questions
 

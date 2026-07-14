@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.wsgr.com/en/about-us/offices/salt-lake-city.html
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -50,7 +51,7 @@ Do not imply endorsement, availability, or representation. The firm may be too e
 
 ## Evidence
 
-- [Wilson Sonsini Salt Lake City Office](wilson-sonsini-salt-lake-city-office.md)
+- [Wilson Sonsini Salt Lake City Office](wilson-sonsini-salt-lake-city-office.md) · https://greatutah.work/pages/wilson-sonsini-salt-lake-city-office.md · https://www.wsgr.com/en/about-us/offices/salt-lake-city.html
 
 ## Open Questions
 

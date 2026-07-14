@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://www.nucleusutah.org/marketedge
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -40,8 +41,8 @@ MarketEdge is a strong fit for a researcher who has promising work but has not y
 
 ## Evidence
 
-- [Nucleus MarketEdge Page](nucleus-marketedge-source.md)
-- [Nucleus Programs Page](nucleus-programs.md)
+- [Nucleus MarketEdge Page](nucleus-marketedge-source.md) · https://greatutah.work/pages/nucleus-marketedge-source.md · https://www.nucleusutah.org/marketedge
+- [Nucleus Programs Page](nucleus-programs.md) · https://greatutah.work/pages/nucleus-programs.md · https://www.nucleusutah.org/programs
 
 ## Open Questions
 

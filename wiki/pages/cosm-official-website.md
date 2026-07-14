@@ -33,5 +33,5 @@ This is an official company source. It is useful for product positioning, venue 
 
 ## See Also
 
-- [Cosm Technology Platform](https://tech.cosm.com/site) — supplementary site with more engineering detail on the dome rendering stack
-- [Cosm $250M Funding Announcement](https://www.cosm.com/news/cosm-raises-over-250-million-in-funding-to-expand-experiential-entertainment-venues-globally)
+- [Cosm Technology Platform](https://tech.cosm.com/site) · https://tech.cosm.com/site — supplementary site with more engineering detail on the dome rendering stack
+- [Cosm $250M Funding Announcement](https://www.cosm.com/news/cosm-raises-over-250-million-in-funding-to-expand-experiential-entertainment-venues-globally) · https://www.cosm.com/news/cosm-raises-over-250-million-in-funding-to-expand-experiential-entertainment-venues-globally

@@ -8,12 +8,14 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://www.instructure.com/about/careers
+**Website:** https://www.instructure.com
 **Domain:** computing
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/instructure-canvas-lms-2026/1600/1100
 **Pull:** *Canvas is the default LMS for most U.S. universities — and the distribution surface for whatever AI-in-education becomes.*
-**Relates:** cites [Official Website: Instructure](instructure-official-website.md)
+**Relates:** cites [Official Website: Instructure](instructure-official-website.md) · https://greatutah.work/pages/instructure-official-website.md · https://www.instructure.com
 
 ## Summary
 
@@ -51,7 +53,7 @@ Instructure was founded in Salt Lake City and remains headquartered there after 
 
 ## Evidence
 
-- [Official Website: Instructure](instructure-official-website.md)
+- [Official Website: Instructure](instructure-official-website.md) · https://greatutah.work/pages/instructure-official-website.md · https://www.instructure.com
 
 ## Open Questions
 

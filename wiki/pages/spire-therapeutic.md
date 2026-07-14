@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://spire.us/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/spire-therapeutic-diadem-2026/1600/1100
 **Pull:** *Surgery-free, drug-free deep-brain neuromodulation for pain and depression — if Phase 3 confirms Phase 2.*
-**Relates:** cites [Official Website: Spire Therapeutics](spire-therapeutic-official-website.md)
+**Relates:** cites [Official Website: Spire Therapeutics](spire-therapeutic-official-website.md) · https://greatutah.work/pages/spire-therapeutic-official-website.md · https://spire.us/
 
 ## Summary
 
@@ -50,12 +51,12 @@ SPIRE is a University of Utah Biomedical Engineering spinout headquartered in Sa
 
 ## Evidence
 
-- [Official Website: Spire Therapeutics](spire-therapeutic-official-website.md)
+- [Official Website: Spire Therapeutics](spire-therapeutic-official-website.md) · https://greatutah.work/pages/spire-therapeutic-official-website.md · https://spire.us/
 
 ## See Also
 
-- [Epitel](epitel.md) — Utah neighbor in non-invasive neural monitoring (scalp EEG versus transcranial ultrasound)
-- [Blackrock Neurotech](blackrock-neurotech.md) — contrasting Utah neural-interface lineage (implantable BCI versus non-invasive LIFU)
+- [Epitel](epitel.md) · https://greatutah.work/pages/epitel.md — Utah neighbor in non-invasive neural monitoring (scalp EEG versus transcranial ultrasound)
+- [Blackrock Neurotech](blackrock-neurotech.md) · https://greatutah.work/pages/blackrock-neurotech.md — contrasting Utah neural-interface lineage (implantable BCI versus non-invasive LIFU)
 
 ## Open Questions
 

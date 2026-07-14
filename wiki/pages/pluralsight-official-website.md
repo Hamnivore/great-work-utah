@@ -33,4 +33,4 @@ Press releases and corporate blog posts about the Vista acquisition and leadersh
 
 ## See Also
 
-- [Pluralsight](pluralsight.md)
+- [Pluralsight](pluralsight.md) · https://greatutah.work/pages/pluralsight.md

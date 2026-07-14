@@ -36,14 +36,14 @@ WordPerfect's story is the canonical opening chapter of the Silicon Slopes narra
 
 ## Evidence
 
-- [Official Website (Corel product page)](https://www.wordperfect.com)
-- [Historical work page: WordPerfect and Novell era](wordperfect-and-novell.md)
+- [Official Website (Corel product page)](https://www.wordperfect.com) · https://www.wordperfect.com
+- [Historical work page: WordPerfect and Novell era](wordperfect-and-novell.md) · https://greatutah.work/pages/wordperfect-and-novell.md
 
 ## See Also
 
-- [Ancestry](ancestry.md) — another Utah digital-information company with deep roots in the pre-Silicon Slopes era
-- [Omniture Web Analytics](omniture-web-analytics.md) — the defining Utah software exit of the Web 2.0 era (Adobe acquisition, 2009)
-- [Qualtrics](qualtrics.md) — modern successor to the Utah enterprise-software tradition WordPerfect started
+- [Ancestry](ancestry.md) · https://greatutah.work/pages/ancestry.md — another Utah digital-information company with deep roots in the pre-Silicon Slopes era
+- [Omniture Web Analytics](omniture-web-analytics.md) · https://greatutah.work/pages/omniture-web-analytics.md — the defining Utah software exit of the Web 2.0 era (Adobe acquisition, 2009)
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md — modern successor to the Utah enterprise-software tradition WordPerfect started
 
 ## Open Questions
 

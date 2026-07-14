@@ -31,5 +31,5 @@ This is an official university source. It is reliable for the center's stated mi
 
 ## See Also
 
-- [Utah Agricultural Experiment Station](https://uaes.usu.edu) — co-located USU unit providing field trial infrastructure for applied genomics research
-- [USU College of Agriculture and Applied Sciences](https://caas.usu.edu) — the home college for most CIB-affiliated faculty and graduate students
+- [Utah Agricultural Experiment Station](https://uaes.usu.edu) · https://uaes.usu.edu — co-located USU unit providing field trial infrastructure for applied genomics research
+- [USU College of Agriculture and Applied Sciences](https://caas.usu.edu) · https://caas.usu.edu — the home college for most CIB-affiliated faculty and graduate students

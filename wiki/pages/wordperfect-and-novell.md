@@ -8,6 +8,7 @@
 **Primary Location:** Orem and Provo, UT
 **Utah Location:** Orem and Provo, UT
 **Region:** Utah Valley
+**Website:** https://www.wordperfect.com/en/
 **Updated:** 2026-06-19
 **Pull:** *For about a decade, the world's most-used word processor and its most-used office network both shipped from Utah Valley.*
 
@@ -60,17 +61,17 @@ The human and financial legacy is direct. When Novell bought WordPerfect in 1994
 
 ## Evidence
 
-- [Wikipedia: WordPerfect](https://en.wikipedia.org/wiki/WordPerfect) — origin, market-share figures, version history.
-- [Deseret News (1989): WordPerfect — Orem company had humble beginnings](https://www.deseret.com/1989/10/29/18830214/wordperfect-orem-company-had-humble-beginnings-10-years-ago-but-now-manufactures-most-popular-word-p/) — contemporary local reporting on the Orem origin and scale.
-- [FundingUniverse: History of WordPerfect Corporation](https://www.fundinguniverse.com/company-histories/wordperfect-corporation-history/) — company timeline and 1986 rename.
-- [Wikipedia: Bruce Bastian](https://en.wikipedia.org/wiki/Bruce_Bastian) — biography and the ~$700M Novell-stock detail.
-- [Wikipedia: Novell](https://en.wikipedia.org/wiki/Novell) — Provo HQ, ~63% NOS market share, scale figures.
-- [Network World: Novell through the years](https://www.networkworld.com/article/716525/data-center-novell-through-the-years.html) — 1979/1983 timeline, 70% share, WordPerfect acquisition.
-- [Computerworld: "Mr. NetWare" leaves with Volera](https://www.computerworld.com/article/1572250/mr-netware-leaves-with-volera.html) — the Major/Powell/Neibaur BYU origin of NetWare.
+- [Wikipedia: WordPerfect](https://en.wikipedia.org/wiki/WordPerfect) · https://en.wikipedia.org/wiki/WordPerfect — origin, market-share figures, version history.
+- [Deseret News (1989): WordPerfect — Orem company had humble beginnings](https://www.deseret.com/1989/10/29/18830214/wordperfect-orem-company-had-humble-beginnings-10-years-ago-but-now-manufactures-most-popular-word-p/) · https://www.deseret.com/1989/10/29/18830214/wordperfect-orem-company-had-humble-beginnings-10-years-ago-but-now-manufactures-most-popular-word-p/ — contemporary local reporting on the Orem origin and scale.
+- [FundingUniverse: History of WordPerfect Corporation](https://www.fundinguniverse.com/company-histories/wordperfect-corporation-history/) · https://www.fundinguniverse.com/company-histories/wordperfect-corporation-history/ — company timeline and 1986 rename.
+- [Wikipedia: Bruce Bastian](https://en.wikipedia.org/wiki/Bruce_Bastian) · https://en.wikipedia.org/wiki/Bruce_Bastian — biography and the ~$700M Novell-stock detail.
+- [Wikipedia: Novell](https://en.wikipedia.org/wiki/Novell) · https://en.wikipedia.org/wiki/Novell — Provo HQ, ~63% NOS market share, scale figures.
+- [Network World: Novell through the years](https://www.networkworld.com/article/716525/data-center-novell-through-the-years.html) · https://www.networkworld.com/article/716525/data-center-novell-through-the-years.html — 1979/1983 timeline, 70% share, WordPerfect acquisition.
+- [Computerworld: "Mr. NetWare" leaves with Volera](https://www.computerworld.com/article/1572250/mr-netware-leaves-with-volera.html) · https://www.computerworld.com/article/1572250/mr-netware-leaves-with-volera.html — the Major/Powell/Neibaur BYU origin of NetWare.
 
 ## See Also
 
-- [WordPerfect and Novell Historical Sources](wordperfect-novell-historical-sources.md)
+- [WordPerfect and Novell Historical Sources](wordperfect-novell-historical-sources.md) · https://greatutah.work/pages/wordperfect-novell-historical-sources.md · https://www.wordperfect.com/en/
 
 ## Open Questions
 

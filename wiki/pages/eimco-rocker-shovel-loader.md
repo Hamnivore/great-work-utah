@@ -8,10 +8,11 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Eureka, Salt Lake City, and Park City, UT
 **Region:** Salt Lake City
+**Website:** https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b
 **Updated:** 2026-06-25
 **Pull:** *A Salt Lake City-designed and manufactured machine mechanized underground hard-rock mining's most brutal manual job and spread to mines on six continents.*
-**Relates:** cites [ASME — EIMCO Rocker Shovel Loader, Model 12B Landmark](asme-eimco-rocker-shovel-loader-landmark.md)
-**Relates:** cites [Engineering and Technology History Wiki — EIMCO Rocker Shovel Loader](ethw-eimco-rocker-shovel-loader.md)
+**Relates:** cites [ASME — EIMCO Rocker Shovel Loader, Model 12B Landmark](asme-eimco-rocker-shovel-loader-landmark.md) · https://greatutah.work/pages/asme-eimco-rocker-shovel-loader-landmark.md · https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b
+**Relates:** cites [Engineering and Technology History Wiki — EIMCO Rocker Shovel Loader](ethw-eimco-rocker-shovel-loader.md) · https://greatutah.work/pages/ethw-eimco-rocker-shovel-loader.md · https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B
 
 ## Summary
 
@@ -37,9 +38,9 @@ The Utah tie is unusually strong. The original concept emerged from Utah mining 
 
 ## Evidence
 
-- [ASME: EIMCO Rocker Shovel Loader, Model 12B](https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b) — [source record](asme-eimco-rocker-shovel-loader-landmark.md)
-- [Engineering and Technology History Wiki: EIMCO Rocker Shovel Loader](https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B) — [source record](ethw-eimco-rocker-shovel-loader.md)
-- [ASME landmark brochure PDF](https://www.asme.org/wwwasmeorg/media/ResourceFiles/AboutASME/Who%20We%20Are/Engineering%20History/Landmarks/212-EIMCO-Rocker-Shovel-Loader-Model-12B.pdf)
+- [ASME: EIMCO Rocker Shovel Loader, Model 12B](https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b) · https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b — [source record](asme-eimco-rocker-shovel-loader-landmark.md) · https://greatutah.work/pages/asme-eimco-rocker-shovel-loader-landmark.md
+- [Engineering and Technology History Wiki: EIMCO Rocker Shovel Loader](https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B) · https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B — [source record](ethw-eimco-rocker-shovel-loader.md) · https://greatutah.work/pages/ethw-eimco-rocker-shovel-loader.md
+- [ASME landmark brochure PDF](https://www.asme.org/wwwasmeorg/media/ResourceFiles/AboutASME/Who%20We%20Are/Engineering%20History/Landmarks/212-EIMCO-Rocker-Shovel-Loader-Model-12B.pdf) · https://www.asme.org/wwwasmeorg/media/ResourceFiles/AboutASME/Who%20We%20Are/Engineering%20History/Landmarks/212-EIMCO-Rocker-Shovel-Loader-Model-12B.pdf
 
 ## Open Questions
 

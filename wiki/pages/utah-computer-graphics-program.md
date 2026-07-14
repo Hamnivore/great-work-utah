@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.cs.utah.edu/about/history/
 **Updated:** 2026-05-16
 **Pull:** *The modern graphics stack has a surprisingly direct line back to one Utah graduate program.*
 
@@ -39,10 +40,10 @@ The story is easy to overstate. Many techniques had parallel contributors, and c
 
 ## Evidence
 
-- [Official Source: University of Utah Computer Graphics History](university-of-utah-computer-graphics-history.md)
-- [ACM SIGGRAPH oral history program](https://www.siggraph.org/oral-history-program/)
-- [Wikipedia: University of Utah School of Computing](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing)
-- [Wikipedia: Utah teapot](https://en.wikipedia.org/wiki/Utah_teapot)
+- [Official Source: University of Utah Computer Graphics History](university-of-utah-computer-graphics-history.md) · https://greatutah.work/pages/university-of-utah-computer-graphics-history.md · https://www.cs.utah.edu/about/history/
+- [ACM SIGGRAPH oral history program](https://www.siggraph.org/oral-history-program/) · https://www.siggraph.org/oral-history-program/
+- [Wikipedia: University of Utah School of Computing](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing) · https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing
+- [Wikipedia: Utah teapot](https://en.wikipedia.org/wiki/Utah_teapot) · https://en.wikipedia.org/wiki/Utah_teapot
 
 ## Open Questions
 

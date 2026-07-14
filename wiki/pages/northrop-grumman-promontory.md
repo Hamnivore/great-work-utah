@@ -8,12 +8,13 @@
 **Primary Location:** Promontory, UT
 **Utah Location:** Promontory, UT
 **Region:** Promontory
+**Website:** https://www.northropgrumman.com/what-we-do/space/missions/artemis/program
 **Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/northrop-grumman-promontory-2026/1600/1100
 **Pull:** *The Utah facility where the solid rocket boosters for every Artemis Moon mission — and the solid stages for the US nuclear deterrent — are designed, built, and tested.*
-**Relates:** cites [Official Website: Northrop Grumman](northrop-grumman-promontory-official-website.md)
+**Relates:** cites [Official Website: Northrop Grumman](northrop-grumman-promontory-official-website.md) · https://greatutah.work/pages/northrop-grumman-promontory-official-website.md · https://www.northropgrumman.com/what-we-do/space/missions/artemis/program
 
 ## Summary
 
@@ -53,11 +54,11 @@ The ethical dimension of defense-prime and nuclear-weapons work deserves acknowl
 
 ## Evidence
 
-- [Official Website: Northrop Grumman](northrop-grumman-promontory-official-website.md)
+- [Official Website: Northrop Grumman](northrop-grumman-promontory-official-website.md) · https://greatutah.work/pages/northrop-grumman-promontory-official-website.md · https://www.northropgrumman.com/what-we-do/space/missions/artemis/program
 
 ## See Also
 
-- [RAM Aviation, Space & Defense](ram-aviation-space-defense.md) — Utah precision propulsion component manufacturer; supplier-tier work adjacent to programs like those at Promontory
+- [RAM Aviation, Space & Defense](ram-aviation-space-defense.md) · https://greatutah.work/pages/ram-aviation-space-defense.md — Utah precision propulsion component manufacturer; supplier-tier work adjacent to programs like those at Promontory
 
 ## Open Questions
 

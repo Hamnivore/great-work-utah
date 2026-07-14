@@ -8,6 +8,7 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Website:** https://haliatx.com
 **Domain:** health-bio
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
@@ -48,7 +49,7 @@ Halia anchors a small but serious clinical-stage drug-discovery presence in the 
 
 ## Evidence
 
-- [Source: Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure](halia-therapeutics-official-website.md)
+- [Source: Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure](halia-therapeutics-official-website.md) · https://greatutah.work/pages/halia-therapeutics-official-website.md · https://haliatx.com
 
 ## Open Questions
 
@@ -60,5 +61,5 @@ Halia anchors a small but serious clinical-stage drug-discovery presence in the 
 
 ## See Also
 
-- [Dave Bearss](dave-bearss.md)
-- [Huntsman Cancer Institute](huntsman-cancer-institute.md)
+- [Dave Bearss](dave-bearss.md) · https://greatutah.work/pages/dave-bearss.md
+- [Huntsman Cancer Institute](huntsman-cancer-institute.md) · https://greatutah.work/pages/huntsman-cancer-institute.md

@@ -10,8 +10,9 @@
 **Updated:** 2026-06-25
 **Domain:** materials-mfg
 **Region:** Salt Lake County
+**Website:** https://www.kennecott.com/history
 **Pull:** *The largest open-pit mine ever excavated proved that low-grade porphyry copper could be mass-mined at world scale, supplying a significant fraction of U.S. copper demand through two World Wars and beyond.*
-**Relates:** cites [Kennecott Utah Copper — History](kennecott-utah-copper-history.md)
+**Relates:** cites [Kennecott Utah Copper — History](kennecott-utah-copper-history.md) · https://greatutah.work/pages/kennecott-utah-copper-history.md · https://www.kennecott.com/history
 
 ## Summary
 
@@ -37,8 +38,8 @@ The mine sits in a canyon in the Oquirrh Mountains 25 miles southwest of Salt La
 
 ## Evidence
 
-- [Kennecott Utah Copper — History](https://www.kennecott.com/history) — [source record](kennecott-utah-copper-history.md)
-- [USGS: Bingham Canyon Mine fact sheet](https://pubs.usgs.gov)
+- [Kennecott Utah Copper — History](https://www.kennecott.com/history) · https://www.kennecott.com/history — [source record](kennecott-utah-copper-history.md) · https://greatutah.work/pages/kennecott-utah-copper-history.md
+- [USGS: Bingham Canyon Mine fact sheet](https://pubs.usgs.gov) · https://pubs.usgs.gov
 - Hyde, *Copper for America* (1998) — industry history
 
 ## Open Questions

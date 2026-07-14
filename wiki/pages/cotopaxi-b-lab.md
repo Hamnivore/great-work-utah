@@ -33,4 +33,4 @@ B Lab is a strong source for B Corp certification status and the score informati
 
 ## See Also
 
-- [Official Website: Cotopaxi](cotopaxi-official-website.md)
+- [Official Website: Cotopaxi](cotopaxi-official-website.md) · https://greatutah.work/pages/cotopaxi-official-website.md · https://www.cotopaxi.com

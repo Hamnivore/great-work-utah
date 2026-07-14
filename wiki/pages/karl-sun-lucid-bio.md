@@ -38,4 +38,4 @@ The Lucid official website is a marketing source. User-count, Fortune 500 penetr
 
 ## See Also
 
-- [Official Website: Lucid Software](lucid-software-official-website.md)
+- [Official Website: Lucid Software](lucid-software-official-website.md) · https://greatutah.work/pages/lucid-software-official-website.md · https://www.lucidsoftware.com

@@ -8,7 +8,7 @@
 **Utah Location:** Utah Valley, UT
 **Region:** Utah Valley
 **Updated:** 2026-06-19
-**Relates:** cites [Profile: Josh James — Omniture and Domo](josh-james-domo-bio.md)
+**Relates:** cites [Profile: Josh James — Omniture and Domo](josh-james-domo-bio.md) · https://greatutah.work/pages/josh-james-domo-bio.md · https://www.domo.com/company
 
 ## Summary
 
@@ -42,15 +42,15 @@ Domo investor relations and public speaking venues. Not known to have an open in
 
 ## Evidence
 
-- [Profile: Josh James — Omniture and Domo](josh-james-domo-bio.md)
-- [Omniture Web Analytics](omniture-web-analytics.md)
-- [Domo](domo.md)
+- [Profile: Josh James — Omniture and Domo](josh-james-domo-bio.md) · https://greatutah.work/pages/josh-james-domo-bio.md · https://www.domo.com/company
+- [Omniture Web Analytics](omniture-web-analytics.md) · https://greatutah.work/pages/omniture-web-analytics.md
+- [Domo](domo.md) · https://greatutah.work/pages/domo.md
 
 ## See Also
 
-- [Omniture Web Analytics](omniture-web-analytics.md)
-- [Domo](domo.md)
-- [Qualtrics](qualtrics.md) — Utah's other defining enterprise SaaS exit
+- [Omniture Web Analytics](omniture-web-analytics.md) · https://greatutah.work/pages/omniture-web-analytics.md
+- [Domo](domo.md) · https://greatutah.work/pages/domo.md
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md — Utah's other defining enterprise SaaS exit
 
 ## Open Questions
 

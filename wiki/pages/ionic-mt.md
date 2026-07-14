@@ -10,10 +10,11 @@
 **Updated:** 2026-06-19
 **Domain:** energy, materials-mfg
 **Region:** Juab County
+**Website:** https://ionicmt.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/ionic-mt-manufacturing-2026/1600/1100
 **Pull:** *Utah's halloysite clay deposits hold a domestic answer to the EV battery anode problem — nano-silicon from a natural nanostructured mineral, no complex synthesis required.*
-**Relates:** cites [Official Website: Ionic MT](ionic-mt-official-website.md)
+**Relates:** cites [Official Website: Ionic MT](ionic-mt-official-website.md) · https://greatutah.work/pages/ionic-mt-official-website.md · https://ionicmt.com
 
 ## Summary
 
@@ -49,11 +50,11 @@ Utah's role in the critical minerals supply chain is growing: halloysite, lithiu
 
 ## Evidence
 
-- [Official Website: Ionic MT](ionic-mt-official-website.md)
+- [Official Website: Ionic MT](ionic-mt-official-website.md) · https://greatutah.work/pages/ionic-mt-official-website.md · https://ionicmt.com
 
 ## See Also
 
-- [ACT Aerospace](act-aerospace.md) — another Utah supplier at the materials-to-application interface, in aerospace rather than energy.
+- [ACT Aerospace](act-aerospace.md) · https://greatutah.work/pages/act-aerospace.md — another Utah supplier at the materials-to-application interface, in aerospace rather than energy.
 
 ## Open Questions
 

@@ -8,6 +8,7 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Website:** https://www.businesswire.com/news/home/20250724456980/en/The-DoD-Accelerator-Managed-by-Accuidity-Capital-Management-Announces-a-%246-Million-Series-A-Investment-in-Baxter-Aerospace
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/baxter-dragonfly-vtol-uas-2026/1600/1100
@@ -48,7 +49,7 @@ Baxter is one of the few notable deep-tech defense companies anchored in souther
 
 ## Evidence
 
-- [DoD Accelerator $6M Series A in Baxter Aerospace](baxter-aerospace-dod-accelerator-series-a.md)
+- [DoD Accelerator $6M Series A in Baxter Aerospace](baxter-aerospace-dod-accelerator-series-a.md) · https://greatutah.work/pages/baxter-aerospace-dod-accelerator-series-a.md · https://www.businesswire.com/news/home/20250724456980/en/The-DoD-Accelerator-Managed-by-Accuidity-Capital-Management-Announces-a-%246-Million-Series-A-Investment-in-Baxter-Aerospace
 - Secondary coverage (FinSMEs, Pulse 2.0, utah.vc) corroborating the round, products, and St. George location. Press releases are leads, not neutral proof.
 
 ## Open Questions

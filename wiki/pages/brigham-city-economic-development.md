@@ -9,6 +9,7 @@
 **Updated:** 2026-05-09
 **Domain:** culture-place
 **Region:** Brigham City
+**Website:** https://startup.utah.gov/resources/
 **Layout:** field-guide
 
 ## Summary
@@ -73,9 +74,9 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
-- [Official website](https://www.bcutah.gov/page/economic-development/)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://www.bcutah.gov/page/economic-development/) · https://www.bcutah.gov/page/economic-development/
 
 ## Open Questions
 

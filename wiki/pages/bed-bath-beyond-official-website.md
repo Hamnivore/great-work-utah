@@ -32,5 +32,5 @@ Corporate history involving bankruptcy acquisitions and multiple renames warrant
 
 ## See Also
 
-- [Overstock.com](https://www.overstock.com) — sibling consumer brand on the same corporate platform
-- [Bed Bath & Beyond Investor Relations](http://investors.beyond.com/) — corporate filings and news (investor subdomain; accessed 2026-06-19)
+- [Overstock.com](https://www.overstock.com) · https://www.overstock.com — sibling consumer brand on the same corporate platform
+- [Bed Bath & Beyond Investor Relations](http://investors.beyond.com/) · http://investors.beyond.com/ — corporate filings and news (investor subdomain; accessed 2026-06-19)

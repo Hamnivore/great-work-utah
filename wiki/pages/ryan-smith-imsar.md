@@ -41,12 +41,12 @@ IMSAR official channels and Utah defense-tech events.
 
 ## Evidence
 
-- [IMSAR](imsar.md)
+- [IMSAR](imsar.md) · https://greatutah.work/pages/imsar.md
 
 ## See Also
 
-- [IMSAR](imsar.md)
-- [Wavetronix](wavetronix.md) — Utah radar company where Smith worked as lead RF engineer
+- [IMSAR](imsar.md) · https://greatutah.work/pages/imsar.md
+- [Wavetronix](wavetronix.md) · https://greatutah.work/pages/wavetronix.md — Utah radar company where Smith worked as lead RF engineer
 
 ## Open Questions
 

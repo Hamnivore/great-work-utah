@@ -8,9 +8,10 @@
 **Primary Location:** Roy, UT
 **Utah Location:** Roy, UT
 **Region:** Roy
+**Website:** http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm
 **Updated:** 2026-06-19
-**Relates:** cites [Iomega Corp. 10-K Filing (March 1995)](iomega-sec-10k-1995.md)
-**Relates:** cites [Standard-Examiner — Iomega Still Around in Roy (2012)](iomega-standard-examiner-2012.md)
+**Relates:** cites [Iomega Corp. 10-K Filing (March 1995)](iomega-sec-10k-1995.md) · https://greatutah.work/pages/iomega-sec-10k-1995.md · http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm
+**Relates:** cites [Standard-Examiner — Iomega Still Around in Roy (2012)](iomega-standard-examiner-2012.md) · https://greatutah.work/pages/iomega-standard-examiner-2012.md · https://www.standard.net/news/business/2012/mar/09/iomega-still-around-in-roy-but-not-like-it-once-was/
 **Pull:** *The "superfloppy" from Weber County that carried everyone's files through the gap between the floppy and the flash drive.*
 
 ## Summary
@@ -59,10 +60,10 @@ Iomega broadens the Utah computing story beyond software (the [WordPerfect/Novel
 
 ## Evidence
 
-- [Iomega Corp. 10-K (filed March 1995, via SEC/EDGAR mirror)](http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm) — primary filing describing the Zip product, March 1995 shipping date, and the parallel/SCSI versions. — [source record](iomega-sec-10k-1995.md)
-- [Standard-Examiner: Iomega still around in Roy but not like it once was (2012)](https://www.standard.net/news/business/2012/mar/09/iomega-still-around-in-roy-but-not-like-it-once-was/) — Roy origin, 1980 founding, $1.7B 1997 sales, ~2,000 Utah employees, EMC acquisition. — [source record](iomega-standard-examiner-2012.md)
-- [Hackaday: From Zip to Nought — the rise and fall of Iomega](https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/) — revenue trajectory, ~$7B peak valuation, OEM adoption, click-of-death history.
-- [Washington Post (1995): Iomega's Zip drive takes the pain out of backing up, moving files](https://www.washingtonpost.com/archive/business/1995/05/15/iomegas-zip-drive-takes-the-pain-out-of-backing-up-moving-files/64cec1f8-6817-495a-b8f2-fd9a1baf7cf9/) — contemporary mainstream coverage at launch.
+- [Iomega Corp. 10-K (filed March 1995, via SEC/EDGAR mirror)](http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm) · http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm — primary filing describing the Zip product, March 1995 shipping date, and the parallel/SCSI versions. — [source record](iomega-sec-10k-1995.md) · https://greatutah.work/pages/iomega-sec-10k-1995.md
+- [Standard-Examiner: Iomega still around in Roy but not like it once was (2012)](https://www.standard.net/news/business/2012/mar/09/iomega-still-around-in-roy-but-not-like-it-once-was/) · https://www.standard.net/news/business/2012/mar/09/iomega-still-around-in-roy-but-not-like-it-once-was/ — Roy origin, 1980 founding, $1.7B 1997 sales, ~2,000 Utah employees, EMC acquisition. — [source record](iomega-standard-examiner-2012.md) · https://greatutah.work/pages/iomega-standard-examiner-2012.md
+- [Hackaday: From Zip to Nought — the rise and fall of Iomega](https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/) · https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/ — revenue trajectory, ~$7B peak valuation, OEM adoption, click-of-death history.
+- [Washington Post (1995): Iomega's Zip drive takes the pain out of backing up, moving files](https://www.washingtonpost.com/archive/business/1995/05/15/iomegas-zip-drive-takes-the-pain-out-of-backing-up-moving-files/64cec1f8-6817-495a-b8f2-fd9a1baf7cf9/) · https://www.washingtonpost.com/archive/business/1995/05/15/iomegas-zip-drive-takes-the-pain-out-of-backing-up-moving-files/64cec1f8-6817-495a-b8f2-fd9a1baf7cf9/ — contemporary mainstream coverage at launch.
 
 ## Open Questions
 

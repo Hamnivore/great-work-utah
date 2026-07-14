@@ -8,10 +8,11 @@
 **Primary Location:** General Electric Research Laboratory, Schenectady, NY
 **Utah Location:** Brigham Young University, Provo, UT
 **Region:** Provo
+**Website:** https://www.invent.org/inductees/h-tracy-hall
 **Updated:** 2026-06-19
-**Relates:** cites [National Inventors Hall of Fame — H. Tracy Hall](nihf-h-tracy-hall.md)
-**Relates:** cites [Chemical & Engineering News — First Diamond Synthesis, 50 Years Later](cen-first-diamond-synthesis.md)
-**Relates:** cites [BYU Special Collections — H. Tracy Hall Biography](byu-archives-h-tracy-hall.md)
+**Relates:** cites [National Inventors Hall of Fame — H. Tracy Hall](nihf-h-tracy-hall.md) · https://greatutah.work/pages/nihf-h-tracy-hall.md · https://www.invent.org/inductees/h-tracy-hall
+**Relates:** cites [Chemical & Engineering News — First Diamond Synthesis, 50 Years Later](cen-first-diamond-synthesis.md) · https://greatutah.work/pages/cen-first-diamond-synthesis.md · https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html
+**Relates:** cites [BYU Special Collections — H. Tracy Hall Biography](byu-archives-h-tracy-hall.md) · https://greatutah.work/pages/byu-archives-h-tracy-hall.md · https://archives.lib.byu.edu/agents/people/2364
 **Pull:** *After making the first reproducible synthetic diamond, an Ogden-born chemist came home and reinvented the machines that make extreme pressure.*
 
 ## Summary
@@ -58,11 +59,11 @@ Hall's Utah connection is direct and durable: a University of Utah Ph.D. who bui
 
 ## Evidence
 
-- [National Inventors Hall of Fame: H. Tracy Hall](https://www.invent.org/inductees/h-tracy-hall) — [source record](nihf-h-tracy-hall.md)
-- [Chemical & Engineering News: First Diamond Synthesis, 50 Years Later — a Murky Picture of Who Deserves Credit](https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html) — [source record](cen-first-diamond-synthesis.md)
-- [BYU Special Collections: H. Tracy Hall biography](https://archives.lib.byu.edu/agents/people/2364) — [source record](byu-archives-h-tracy-hall.md)
-- [Wikipedia: H. Tracy Hall](https://en.wikipedia.org/wiki/H_Tracy_Hall)
-- [H. Tracy Hall Foundation](https://www.htracyhall.org/)
+- [National Inventors Hall of Fame: H. Tracy Hall](https://www.invent.org/inductees/h-tracy-hall) · https://www.invent.org/inductees/h-tracy-hall — [source record](nihf-h-tracy-hall.md) · https://greatutah.work/pages/nihf-h-tracy-hall.md
+- [Chemical & Engineering News: First Diamond Synthesis, 50 Years Later — a Murky Picture of Who Deserves Credit](https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html) · https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html — [source record](cen-first-diamond-synthesis.md) · https://greatutah.work/pages/cen-first-diamond-synthesis.md
+- [BYU Special Collections: H. Tracy Hall biography](https://archives.lib.byu.edu/agents/people/2364) · https://archives.lib.byu.edu/agents/people/2364 — [source record](byu-archives-h-tracy-hall.md) · https://greatutah.work/pages/byu-archives-h-tracy-hall.md
+- [Wikipedia: H. Tracy Hall](https://en.wikipedia.org/wiki/H_Tracy_Hall) · https://en.wikipedia.org/wiki/H_Tracy_Hall
+- [H. Tracy Hall Foundation](https://www.htracyhall.org/) · https://www.htracyhall.org/
 
 ## Open Questions
 

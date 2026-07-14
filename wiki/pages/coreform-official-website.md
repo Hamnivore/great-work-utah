@@ -32,4 +32,4 @@ This is an official company source. It is useful for product positioning, IGA wo
 
 ## See Also
 
-- [About IGA](https://coreform.com/products/coreform-iga/about-iga/) — official explainer linked from the Coreform site
+- [About IGA](https://coreform.com/products/coreform-iga/about-iga/) · https://coreform.com/products/coreform-iga/about-iga/ — official explainer linked from the Coreform site

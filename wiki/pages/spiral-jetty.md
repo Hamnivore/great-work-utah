@@ -8,7 +8,12 @@
 **Primary Location:** Rozel Point, Great Salt Lake, Box Elder County, UT
 **Utah Location:** Rozel Point, Great Salt Lake, Box Elder County, UT
 **Region:** Rozel Point, Great Salt Lake, Box Elder County
-**Updated:** 2026-05-16
+**Website:** https://diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014/
+**Map Location:** Spiral Jetty visitor parking and site, Rozel Point, Great Salt Lake, UT
+**Coordinates:** 41.4375, -112.6689
+**Location Precision:** approximate
+**Location Source:** https://diaart.org/visit/visit-our-locations-sites/robert-smithson-spiral-jetty/main/spiraljetty
+**Updated:** 2026-07-14
 **Pull:** *A coil of basalt, salt, mud, water, and time made Great Salt Lake part of art history.*
 
 ## Summary
@@ -37,11 +42,11 @@ Smithson was not a Utah-based artist, and much of the work's fame was mediated t
 
 ## Evidence
 
-- [Official Source: Dia Spiral Jetty](dia-spiral-jetty.md)
-- [Utah Museum of Fine Arts: Spiral Jetty](https://umfa.utah.edu/spiral-jetty)
-- [Holt/Smithson Foundation: Spiral Jetty](https://holtsmithsonfoundation.org/spiral-jetty)
-- [Getty Conservation Institute: Documenting Spiral Jetty](https://www.getty.edu/projects/documenting-spiral-jetty)
-- [Utah State Historic Preservation Office: Spiral Jetty](https://ushpo.utah.gov/spiral-jetty-box-elder-county/)
+- [Official Source: Dia Spiral Jetty](dia-spiral-jetty.md) · https://greatutah.work/pages/dia-spiral-jetty.md · https://diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014/
+- [Utah Museum of Fine Arts: Spiral Jetty](https://umfa.utah.edu/spiral-jetty) · https://umfa.utah.edu/spiral-jetty
+- [Holt/Smithson Foundation: Spiral Jetty](https://holtsmithsonfoundation.org/spiral-jetty) · https://holtsmithsonfoundation.org/spiral-jetty
+- [Getty Conservation Institute: Documenting Spiral Jetty](https://www.getty.edu/projects/documenting-spiral-jetty) · https://www.getty.edu/projects/documenting-spiral-jetty
+- [Utah State Historic Preservation Office: Spiral Jetty](https://ushpo.utah.gov/spiral-jetty-box-elder-county/) · https://ushpo.utah.gov/spiral-jetty-box-elder-county/
 
 ## Open Questions
 

@@ -8,11 +8,12 @@
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT
 **Region:** Park City
+**Website:** https://www.skullcandy.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/skullcandy-lifestyle-audio-2026/1600/1100
 **Pull:** *Park City-born audio with bass-heavy personality — headphones and earbuds for action sports and everyday listeners.*
-**Relates:** cites [Official Website: Skullcandy](skullcandy-official-website.md)
+**Relates:** cites [Official Website: Skullcandy](skullcandy-official-website.md) · https://greatutah.work/pages/skullcandy-official-website.md · https://www.skullcandy.com
 
 ## Summary
 
@@ -51,7 +52,7 @@ Skullcandy was founded in Park City by Rick Alden, who legacy intake says concei
 
 ## Evidence
 
-- [Official Website: Skullcandy](skullcandy-official-website.md)
+- [Official Website: Skullcandy](skullcandy-official-website.md) · https://greatutah.work/pages/skullcandy-official-website.md · https://www.skullcandy.com
 
 ## Open Questions
 

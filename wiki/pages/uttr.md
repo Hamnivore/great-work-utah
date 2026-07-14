@@ -8,10 +8,11 @@
 **Primary Location:** Utah Test and Training Range, UT
 **Utah Location:** Utah West Desert
 **Region:** West Desert
+**Website:** https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *The DoD's largest overland test range — load-bearing infrastructure for Utah's defense and space story.*
-**Relates:** cites [Source: Hill AFB Utah Test and Training Range Fact Sheet](utah-test-training-range-source.md)
+**Relates:** cites [Source: Hill AFB Utah Test and Training Range Fact Sheet](utah-test-training-range-source.md) · https://greatutah.work/pages/utah-test-training-range-source.md · https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
 
 ## Summary
 
@@ -47,10 +48,10 @@ Legacy tier note (converted): included for completeness as an honest "look elsew
 
 ## Evidence
 
-- [Source: Hill AFB Utah Test and Training Range Fact Sheet](utah-test-training-range-source.md)
-- [Utah Test and Training Range (Hill AFB)](https://www.hill.af.mil/Home/UTTR)
-- [Varda W-1 return announcement](https://www.varda.com/news/w-1-return)
-- [Wikipedia: Utah Test and Training Range](https://en.wikipedia.org/wiki/Utah_Test_and_Training_Range)
+- [Source: Hill AFB Utah Test and Training Range Fact Sheet](utah-test-training-range-source.md) · https://greatutah.work/pages/utah-test-training-range-source.md · https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
+- [Utah Test and Training Range (Hill AFB)](https://www.hill.af.mil/Home/UTTR) · https://www.hill.af.mil/Home/UTTR
+- [Varda W-1 return announcement](https://www.varda.com/news/w-1-return) · https://www.varda.com/news/w-1-return
+- [Wikipedia: Utah Test and Training Range](https://en.wikipedia.org/wiki/Utah_Test_and_Training_Range) · https://en.wikipedia.org/wiki/Utah_Test_and_Training_Range
 
 ## Open Questions
 

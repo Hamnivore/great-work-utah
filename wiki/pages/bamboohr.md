@@ -8,11 +8,13 @@
 **Primary Location:** Lindon, UT
 **Utah Location:** Lindon, UT
 **Region:** Lindon
+**Careers:** https://www.bamboohr.com/careers/
+**Website:** https://www.bamboohr.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/bamboohr-hr-platform-lindon-2026/1600/1100
 **Pull:** *People, payroll, and benefits in one SMB-friendly HR platform — homegrown in Lindon.*
-**Relates:** cites [Official Website: BambooHR](bamboohr-official-website.md)
+**Relates:** cites [Official Website: BambooHR](bamboohr-official-website.md) · https://greatutah.work/pages/bamboohr-official-website.md · https://www.bamboohr.com/
 
 ## Summary
 
@@ -55,13 +57,13 @@ BambooHR is headquartered in Lindon, roughly 30 miles south of Salt Lake City, a
 
 ## Evidence
 
-- [Official Website: BambooHR](bamboohr-official-website.md)
+- [Official Website: BambooHR](bamboohr-official-website.md) · https://greatutah.work/pages/bamboohr-official-website.md · https://www.bamboohr.com/
 
 ## See Also
 
-- [Fortem Technologies](fortem-technologies.md)
-- [Qualtrics](qualtrics.md)
-- [Domo](domo.md)
+- [Fortem Technologies](fortem-technologies.md) · https://greatutah.work/pages/fortem-technologies.md
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md
+- [Domo](domo.md) · https://greatutah.work/pages/domo.md
 
 ## Open Questions
 

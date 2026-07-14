@@ -10,6 +10,7 @@
 **Updated:** 2026-05-16
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Website:** https://www.nobelprize.org/prizes/medicine/2007/press-release/
 **Pull:** *A Utah lab helped make it possible to ask what any mammalian gene does by removing it on purpose.*
 
 ## Summary
@@ -40,10 +41,10 @@ The Nobel was shared for good reason. Evans's embryonic stem-cell work and Smith
 
 ## Evidence
 
-- [Official Source: Nobel Prize Capecchi Gene Targeting](nobel-prize-capecchi-gene-targeting.md)
-- [University of Utah Health: Mario Capecchi profile](https://healthcare.utah.edu/capecchi)
-- [The first transgenic mice: interview with Mario Capecchi](https://pmc.ncbi.nlm.nih.gov/articles/PMC2590805/)
-- [Learn.Genetics: transgenic mice](https://learn.genetics.utah.edu/content/science/transgenic/)
+- [Official Source: Nobel Prize Capecchi Gene Targeting](nobel-prize-capecchi-gene-targeting.md) · https://greatutah.work/pages/nobel-prize-capecchi-gene-targeting.md · https://www.nobelprize.org/prizes/medicine/2007/press-release/
+- [University of Utah Health: Mario Capecchi profile](https://healthcare.utah.edu/capecchi) · https://healthcare.utah.edu/capecchi
+- [The first transgenic mice: interview with Mario Capecchi](https://pmc.ncbi.nlm.nih.gov/articles/PMC2590805/) · https://pmc.ncbi.nlm.nih.gov/articles/PMC2590805/
+- [Learn.Genetics: transgenic mice](https://learn.genetics.utah.edu/content/science/transgenic/) · https://learn.genetics.utah.edu/content/science/transgenic/
 
 ## Open Questions
 

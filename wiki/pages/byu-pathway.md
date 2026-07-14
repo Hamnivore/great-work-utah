@@ -12,10 +12,11 @@
 **Domain:** culture-place
 **Domain-flagged:** review
 **Region:** Salt Lake City
+**Website:** https://byupathway.edu
 **Ownership:** nonprofit
 **Hero:** https://picsum.photos/seed/byu-pathway-global-online-education-2026/1600/1100
 **Pull:** *Accredited degrees at under $8,000 total tuition — delivered online to 180 countries.*
-**Relates:** cites [Official Website: BYU-Pathway Worldwide](byu-pathway-official-website.md)
+**Relates:** cites [Official Website: BYU-Pathway Worldwide](byu-pathway-official-website.md) · https://greatutah.work/pages/byu-pathway-official-website.md · https://byupathway.edu
 
 ## Summary
 
@@ -58,14 +59,14 @@ BYU-Pathway is headquartered on the Wasatch Front and enrolled 8,495 Utah studen
 
 ## Evidence
 
-- [Official Website: BYU-Pathway Worldwide](byu-pathway-official-website.md)
+- [Official Website: BYU-Pathway Worldwide](byu-pathway-official-website.md) · https://greatutah.work/pages/byu-pathway-official-website.md · https://byupathway.edu
 
 ## See Also
 
-- [Instructure](instructure.md) — Utah's flagship LMS company; different lane (institutional software) but same regional ed cluster
-- [Pluralsight](pluralsight.md) — Utah-born skills and technology learning platform
-- [Lucid Software](lucid-software.md) — Utah collaboration software used widely in education and enterprise
-- [Sandbox](sandbox.md) — contrasting Utah entrepreneurship-education model (venture building inside degrees)
+- [Instructure](instructure.md) · https://greatutah.work/pages/instructure.md — Utah's flagship LMS company; different lane (institutional software) but same regional ed cluster
+- [Pluralsight](pluralsight.md) · https://greatutah.work/pages/pluralsight.md — Utah-born skills and technology learning platform
+- [Lucid Software](lucid-software.md) · https://greatutah.work/pages/lucid-software.md — Utah collaboration software used widely in education and enterprise
+- [Sandbox](sandbox.md) · https://greatutah.work/pages/sandbox.md — contrasting Utah entrepreneurship-education model (venture building inside degrees)
 
 ## Open Questions
 

@@ -31,6 +31,6 @@ This is an official university research group website. It is useful for understa
 
 ## See Also
 
-- [HPCA proceedings](https://hpca-conf.org) — IEEE International Symposium on High-Performance Computer Architecture; primary venue for Utah Arch publications
-- [ASPLOS proceedings](https://asplos-conference.org) — ACM SIGARCH/SIGOPS/SIGPLAN conference; another primary venue
-- [IEEE S&P proceedings](https://www.ieee-security.org/TC/SP/) — IEEE Symposium on Security and Privacy; venue for FHE and cryptographic hardware work
+- [HPCA proceedings](https://hpca-conf.org) · https://hpca-conf.org — IEEE International Symposium on High-Performance Computer Architecture; primary venue for Utah Arch publications
+- [ASPLOS proceedings](https://asplos-conference.org) · https://asplos-conference.org — ACM SIGARCH/SIGOPS/SIGPLAN conference; another primary venue
+- [IEEE S&P proceedings](https://www.ieee-security.org/TC/SP/) · https://www.ieee-security.org/TC/SP/ — IEEE Symposium on Security and Privacy; venue for FHE and cryptographic hardware work

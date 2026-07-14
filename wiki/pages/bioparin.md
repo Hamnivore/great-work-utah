@@ -13,7 +13,7 @@
 **Region:** Salt Lake City
 **Ownership:** private
 **Hero:** https://picsum.photos/seed/bioparin-2026/1600/1100
-**Relates:** cites [Official Website: Bioparin](bioparin-official-website.md)
+**Relates:** cites [Official Website: Bioparin](bioparin-official-website.md) · https://greatutah.work/pages/bioparin-official-website.md
 
 ## Summary
 
@@ -47,7 +47,7 @@ The University of Utah spinout infrastructure — including the Technology Licen
 
 ## Evidence
 
-- [Official Website: Bioparin](bioparin-official-website.md)
+- [Official Website: Bioparin](bioparin-official-website.md) · https://greatutah.work/pages/bioparin-official-website.md
 
 ## See Also
 

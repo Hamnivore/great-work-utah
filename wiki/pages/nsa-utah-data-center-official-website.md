@@ -33,5 +33,5 @@ No primary government source is publicly available for operational details. The 
 
 ## See Also
 
-- [Wired: The NSA Is Building the Country's Biggest Spy Center (2012)](https://www.wired.com/2012/03/ff-nsadatacenter/) — the primary public investigative account of the facility
-- [NSA Careers](https://www.intelligencecareers.gov/nsa) — official entry point for civilian NSA employment inquiries
+- [Wired: The NSA Is Building the Country's Biggest Spy Center (2012)](https://www.wired.com/2012/03/ff-nsadatacenter/) · https://www.wired.com/2012/03/ff-nsadatacenter/ — the primary public investigative account of the facility
+- [NSA Careers](https://www.intelligencecareers.gov/nsa) · https://www.intelligencecareers.gov/nsa — official entry point for civilian NSA employment inquiries

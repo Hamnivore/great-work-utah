@@ -31,7 +31,7 @@ These are official company and institutional sources. They are useful for confir
 
 ## See Also
 
-- [Bonneville International](https://www.bonneville.com) — radio operations site
-- [Deseret Management Corporation](https://deseretmanagement.com) — holding company overview
-- [KSL](https://ksl.com) — local news and TV operations
-- [Wikipedia: Bonneville International](https://en.wikipedia.org/wiki/Bonneville_International)
+- [Bonneville International](https://www.bonneville.com) · https://www.bonneville.com — radio operations site
+- [Deseret Management Corporation](https://deseretmanagement.com) · https://deseretmanagement.com — holding company overview
+- [KSL](https://ksl.com) · https://ksl.com — local news and TV operations
+- [Wikipedia: Bonneville International](https://en.wikipedia.org/wiki/Bonneville_International) · https://en.wikipedia.org/wiki/Bonneville_International

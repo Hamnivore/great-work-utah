@@ -8,11 +8,12 @@
 **Primary Location:** unknown
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://cosm.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cosm-dome-slc/1600/1100
 **Pull:** *Nearly 100 NVIDIA GPUs per dome, 70 years of planetarium engineering, and a bet that the future of live sports is a shared room, not a solo headset.*
-**Relates:** cites [Official Website: Cosm](cosm-official-website.md)
+**Relates:** cites [Official Website: Cosm](cosm-official-website.md) · https://greatutah.work/pages/cosm-official-website.md · https://cosm.com
 
 ## Summary
 
@@ -42,7 +43,7 @@ Cosm's engineering nucleus is in Salt Lake City — the E&S acquisition relocate
 
 ## Evidence
 
-- [Official Website: Cosm](cosm-official-website.md)
+- [Official Website: Cosm](cosm-official-website.md) · https://greatutah.work/pages/cosm-official-website.md · https://cosm.com
 
 ## Open Questions
 

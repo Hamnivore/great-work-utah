@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://startup.utah.gov/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -46,8 +47,8 @@ The best fit is a founder asking, "What exists in Utah for someone like me?" The
 
 ## Evidence
 
-- [Startup State Official Site](startup-utah-official-site.md)
-- [Startup State Resource List](startup-utah-resource-list.md)
+- [Startup State Official Site](startup-utah-official-site.md) · https://greatutah.work/pages/startup-utah-official-site.md · https://startup.utah.gov/
+- [Startup State Resource List](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 

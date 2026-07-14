@@ -10,10 +10,11 @@
 **Updated:** 2026-06-19
 **Domain:** aerospace-defense, energy
 **Region:** North Logan
+**Website:** https://epsenergy.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/electric-power-systems-2026/1600/1100
 **Pull:** *Building aviation-grade battery propulsion systems that can actually earn FAA certification — the hardest gate in electric aviation.*
-**Relates:** cites [Official Website: Electric Power Systems](electric-power-systems-official-website.md)
+**Relates:** cites [Official Website: Electric Power Systems](electric-power-systems-official-website.md) · https://greatutah.work/pages/electric-power-systems-official-website.md · https://epsenergy.com
 
 ## Summary
 
@@ -51,12 +52,12 @@ EPS is part of a growing Utah aerospace and eVTOL cluster anchored by the 2034 W
 
 ## Evidence
 
-- [Official Website: Electric Power Systems](electric-power-systems-official-website.md)
+- [Official Website: Electric Power Systems](electric-power-systems-official-website.md) · https://greatutah.work/pages/electric-power-systems-official-website.md · https://epsenergy.com
 
 ## See Also
 
-- [WAVE (Wireless Advanced Vehicle Electrification)](wave-inc.md) — another Utah-based EV-infrastructure company with USU engineering DNA
-- [Jump Aero](jump-aero.md) — eVTOL EMS application that represents a key use-case for certifiable propulsion systems
+- [WAVE (Wireless Advanced Vehicle Electrification)](wave-inc.md) · https://greatutah.work/pages/wave-inc.md — another Utah-based EV-infrastructure company with USU engineering DNA
+- [Jump Aero](jump-aero.md) · https://greatutah.work/pages/jump-aero.md — eVTOL EMS application that represents a key use-case for certifiable propulsion systems
 
 ## Open Questions
 

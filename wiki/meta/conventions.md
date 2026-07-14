@@ -33,6 +33,12 @@ Normative. Pages live flat in `pages/`, one namespace; everything else about org
 8. Programs/resources that serve all of Utah use `Utah Location: statewide`; regional service areas should name the counties or region label.
 9. Natural features use an area label for both primary and Utah location when appropriate (`Great Salt Lake basin`).
 10. The legacy `Location` field is superseded. Do not add new `Location` metadata lines.
+11. Map metadata is an all-or-nothing tuple: `Map Location`, `Coordinates`, `Location Precision`, and `Location Source`. Coordinates use WGS84 decimal `latitude, longitude` and must fall within Utah.
+12. Use `Location Precision: exact` only for a clearly public organizational, facility, campus, or work site whose public source identifies the street address or publishes the named site's coordinates. `Map Location` must state that address or named site at matching granularity; never publish exact coordinates while showing only a broader label.
+13. Use `Location Precision: approximate` for a named public campus/site or a city/county/area anchor. The coordinate must not imply more precision than `Map Location` states.
+14. Never add map metadata to person pages, residences, private workplaces, ambiguous addresses, statewide-only services, `unknown`, or `no verified Utah presence`. Omission is the privacy control; coordinate precision must not depend on hiding address text.
+15. A map location is a discoverability anchor, not necessarily an entity's headquarters or full service area. `Primary Location`, `Utah Location`, and `Region` retain those meanings.
+16. Location corrections and removal requests use `POST /api/contribute` with `kind: note` and the affected page path. A request to remove an unsafe or unwanted point does not require a replacement location.
 
 ## P2 precedents (atoms)
 
@@ -58,3 +64,5 @@ Impact sections argue the charter's dimensions — depth, breadth, permanence, b
 ## Links
 
 Same-directory relative links only: `[Fervo Energy](fervo-energy.md)`. A link to a page that should exist but doesn't is allowed — lint reports it to the wanted queue rather than failing.
+
+**Fetcher-safe URLs:** HTML-sanitizing clients often strip markdown `](href)` targets. On `## Evidence`, `## See Also`, and `**Relates:**` lines, after each wiki link append bare absolute URLs in plain text: the page on this site (`https://greatutah.work/pages/{slug}.md`) and, when the target is a `source` with `**URL:**`, that external URL. Optional page metadata `**Website:**` and `**Careers:**` are bare `https://` URLs only — never wrap them in markdown links.

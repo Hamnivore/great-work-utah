@@ -10,8 +10,9 @@
 **Updated:** 2026-06-18
 **Domain:** culture-place, energy
 **Region:** Salt Lake City
+**Website:** https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann
 **Pull:** *A press conference before peer review turned the University of Utah into the center of a global controversy — and a lasting lesson in how not to announce a discovery.*
-**Relates:** cites [Source: Axios Salt Lake City — Cold Fusion 35 Years Later](axios-cold-fusion-35-years.md)
+**Relates:** cites [Source: Axios Salt Lake City — Cold Fusion 35 Years Later](axios-cold-fusion-35-years.md) · https://greatutah.work/pages/axios-cold-fusion-35-years.md · https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann
 
 ## Summary
 
@@ -68,11 +69,11 @@ Utah should claim the episode honestly: as a local institutional lesson, not as 
 
 ## Evidence
 
-- [Axios Salt Lake City: Cold fusion 35 years later](https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann) — [source record](axios-cold-fusion-35-years.md)
-- [Wikipedia: Cold fusion](https://en.wikipedia.org/wiki/Cold_fusion)
-- [Axios Salt Lake City: Cold fusion 35 years later](https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann)
-- [UC Berkeley Understanding Science: Cold fusion as a case study in scientific behavior](https://undsci.berkeley.edu/cold-fusion-a-case-study-for-scientific-behavior/)
-- [Deseret News (1989): Cold fusion made U. an international hot spot](https://www.deseret.com/1989/12/28/18838602/1989-in-utah-cold-fusion-made-u-an-international-hot-spot/)
+- [Axios Salt Lake City: Cold fusion 35 years later](https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann) · https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann — [source record](axios-cold-fusion-35-years.md) · https://greatutah.work/pages/axios-cold-fusion-35-years.md
+- [Wikipedia: Cold fusion](https://en.wikipedia.org/wiki/Cold_fusion) · https://en.wikipedia.org/wiki/Cold_fusion
+- [Axios Salt Lake City: Cold fusion 35 years later](https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann) · https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann
+- [UC Berkeley Understanding Science: Cold fusion as a case study in scientific behavior](https://undsci.berkeley.edu/cold-fusion-a-case-study-for-scientific-behavior/) · https://undsci.berkeley.edu/cold-fusion-a-case-study-for-scientific-behavior/
+- [Deseret News (1989): Cold fusion made U. an international hot spot](https://www.deseret.com/1989/12/28/18838602/1989-in-utah-cold-fusion-made-u-an-international-hot-spot/) · https://www.deseret.com/1989/12/28/18838602/1989-in-utah-cold-fusion-made-u-an-international-hot-spot/
 
 ## Open Questions
 

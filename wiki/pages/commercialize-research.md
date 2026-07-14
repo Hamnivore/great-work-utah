@@ -68,15 +68,15 @@ Not every commercialization question is a deep-tech funding question. A research
 
 ## Evidence
 
-- [Nucleus Institute](nucleus-institute.md)
-- [Nucleus MarketEdge](nucleus-marketedge.md)
-- [Nucleus Grow](nucleus-grow.md)
-- [Utah Technology Innovation Funding](utif.md)
-- [Nucleus Fund](nucleus-fund.md)
-- [Utah Office of Regulatory Relief](utah-office-of-regulatory-relief.md)
-- [Utah APEX Accelerator](apex-accelerator.md)
-- [Utah SBDC](utah-sbdc.md)
-- [SCORE Utah](score-utah.md)
+- [Nucleus Institute](nucleus-institute.md) · https://greatutah.work/pages/nucleus-institute.md
+- [Nucleus MarketEdge](nucleus-marketedge.md) · https://greatutah.work/pages/nucleus-marketedge.md
+- [Nucleus Grow](nucleus-grow.md) · https://greatutah.work/pages/nucleus-grow.md
+- [Utah Technology Innovation Funding](utif.md) · https://greatutah.work/pages/utif.md
+- [Nucleus Fund](nucleus-fund.md) · https://greatutah.work/pages/nucleus-fund.md
+- [Utah Office of Regulatory Relief](utah-office-of-regulatory-relief.md) · https://greatutah.work/pages/utah-office-of-regulatory-relief.md
+- [Utah APEX Accelerator](apex-accelerator.md) · https://greatutah.work/pages/apex-accelerator.md
+- [Utah SBDC](utah-sbdc.md) · https://greatutah.work/pages/utah-sbdc.md
+- [SCORE Utah](score-utah.md) · https://greatutah.work/pages/score-utah.md
 
 ## Open Questions
 

@@ -8,6 +8,7 @@
 **Primary Location:** El Segundo, CA
 **Utah Location:** Utah Test and Training Range, UT
 **Region:** West Desert
+**Website:** https://spacenews.com/varda-capsule-lands-in-utah/
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/varda-space-capsule-reentry-2026/1600/1100
@@ -45,8 +46,8 @@ Varda is the notable non-military commercial user of [UTTR](uttr.md) reentry inf
 
 ## Evidence
 
-- [Official Website: Varda Space Industries](varda-space-official-website.md)
-- [Source: Varda W-1 Capsule Landing at UTTR](varda-uttr-landing.md)
+- [Official Website: Varda Space Industries](varda-space-official-website.md) · https://greatutah.work/pages/varda-space-official-website.md · https://www.varda.com
+- [Source: Varda W-1 Capsule Landing at UTTR](varda-uttr-landing.md) · https://greatutah.work/pages/varda-uttr-landing.md · https://spacenews.com/varda-capsule-lands-in-utah/
 
 ## Open Questions
 

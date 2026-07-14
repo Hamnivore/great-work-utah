@@ -29,9 +29,9 @@ Government contracting help is not a substitute for product clarity. APEX is a w
 
 ## Evidence
 
-- [Utah APEX Accelerator](apex-accelerator.md)
-- [SBA Utah District Office](sba-utah-district-office.md)
-- [Commercialize Research in Utah](commercialize-research.md)
+- [Utah APEX Accelerator](apex-accelerator.md) · https://greatutah.work/pages/apex-accelerator.md
+- [SBA Utah District Office](sba-utah-district-office.md) · https://greatutah.work/pages/sba-utah-district-office.md
+- [Commercialize Research in Utah](commercialize-research.md) · https://greatutah.work/pages/commercialize-research.md
 
 ## Open Questions
 

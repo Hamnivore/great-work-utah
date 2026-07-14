@@ -7,9 +7,14 @@
 **Era:** 2014-present
 **Primary Location:** Milford, UT
 **Utah Location:** Milford, UT
-**Updated:** 2026-05-16
 **Domain:** energy
 **Region:** Beaver County
+**Website:** https://www.energy.gov/hgeo/geothermal/forge
+**Map Location:** Utah FORGE well 16A(78)-32, near Milford, UT
+**Coordinates:** 38.50416, -112.89643
+**Location Precision:** exact
+**Location Source:** https://utahforge.com/wp-content/uploads/2020/06/DataDash-ProvDrillingOperationsJune2020.pdf
+**Updated:** 2026-07-14
 **Pull:** *Utah is where the United States is learning whether engineered geothermal can become repeatable infrastructure.*
 
 ## Summary
@@ -40,10 +45,10 @@ FORGE is not proof that enhanced geothermal is already broadly commercial. The w
 
 ## Evidence
 
-- [Source record: DOE and Utah FORGE Official Pages](utah-forge-official.md)
-- [DOE: FORGE](https://www.energy.gov/eere/geothermal/forge)
-- [DOE: Enhanced geothermal systems demonstration projects](https://www.energy.gov/hgeo/geothermal/enhanced-geothermal-systems-demonstration-projects)
-- [Utah FORGE official site](https://utahforge.com/)
+- [Source record: DOE and Utah FORGE Official Pages](utah-forge-official.md) · https://greatutah.work/pages/utah-forge-official.md · https://www.energy.gov/hgeo/geothermal/forge;
+- [DOE: FORGE](https://www.energy.gov/eere/geothermal/forge) · https://www.energy.gov/eere/geothermal/forge
+- [DOE: Enhanced geothermal systems demonstration projects](https://www.energy.gov/hgeo/geothermal/enhanced-geothermal-systems-demonstration-projects) · https://www.energy.gov/hgeo/geothermal/enhanced-geothermal-systems-demonstration-projects
+- [Utah FORGE official site](https://utahforge.com/) · https://utahforge.com/
 
 ## Open Questions
 

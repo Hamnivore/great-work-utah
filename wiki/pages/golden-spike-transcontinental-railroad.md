@@ -8,7 +8,12 @@
 **Primary Location:** Promontory Summit, UT
 **Utah Location:** Promontory Summit, UT
 **Region:** Promontory Summit
-**Updated:** 2026-05-16
+**Website:** https://www.nps.gov/gosp/index.htm
+**Map Location:** Golden Spike National Historical Park Visitor Center, 6200 N 22300 W, Promontory, UT 84307
+**Coordinates:** 41.62048, -112.54747
+**Location Precision:** exact
+**Location Source:** https://www.nps.gov/gosp/planyourvisit/directions.htm
+**Updated:** 2026-07-14
 **Pull:** *At Promontory Summit, a continent-scale logistics project became a single continuous line.*
 
 ## Summary
@@ -39,10 +44,10 @@ The standard ceremony photograph tells an incomplete story. Executives, official
 
 ## Evidence
 
-- [Official Source: NPS Golden Spike](nps-golden-spike.md)
-- [Library of Congress: Golden Spike primary sources](https://guides.loc.gov/chronicling-america-golden-spike)
-- [National Park Service: Chinese railroad workers and Golden Spike](https://www.nps.gov/gosp/learn/historyculture/chinese-railroad-workers.htm)
-- [Wikipedia: First transcontinental railroad](https://en.wikipedia.org/wiki/First_transcontinental_railroad)
+- [Official Source: NPS Golden Spike](nps-golden-spike.md) · https://greatutah.work/pages/nps-golden-spike.md · https://www.nps.gov/gosp/index.htm
+- [Library of Congress: Golden Spike primary sources](https://guides.loc.gov/chronicling-america-golden-spike) · https://guides.loc.gov/chronicling-america-golden-spike
+- [National Park Service: Chinese railroad workers and Golden Spike](https://www.nps.gov/gosp/learn/historyculture/chinese-railroad-workers.htm) · https://www.nps.gov/gosp/learn/historyculture/chinese-railroad-workers.htm
+- [Wikipedia: First transcontinental railroad](https://en.wikipedia.org/wiki/First_transcontinental_railroad) · https://en.wikipedia.org/wiki/First_transcontinental_railroad
 
 ## Open Questions
 

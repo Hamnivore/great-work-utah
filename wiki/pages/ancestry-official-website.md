@@ -8,7 +8,7 @@
 **Publisher:** Ancestry
 **Accessed:** 2026-06-19
 **Updated:** 2026-06-19
-**Relates:** cites [Ancestry](ancestry.md)
+**Relates:** cites [Ancestry](ancestry.md) · https://greatutah.work/pages/ancestry.md
 
 ## Summary
 

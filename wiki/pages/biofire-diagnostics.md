@@ -11,6 +11,7 @@
 **Needs-reviewed:** 2026-06-18
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Website:** https://www.biofiredx.com
 **Ownership:** public
 **Hero:** https://picsum.photos/seed/biofire-filmarray-syndromic-pcr-2026/1600/1100
 **Pull:** *One small sample, dozens of pathogens, an answer in about an hour.*
@@ -49,7 +50,7 @@ BioFire is one of the larger life-sciences employers in Salt Lake City and a mea
 
 ## Evidence
 
-- [Source: BioFire Diagnostics Official Website and Product Labeling](biofire-diagnostics-official-website.md)
+- [Source: BioFire Diagnostics Official Website and Product Labeling](biofire-diagnostics-official-website.md) · https://greatutah.work/pages/biofire-diagnostics-official-website.md · https://www.biofiredx.com
 
 ## Open Questions
 

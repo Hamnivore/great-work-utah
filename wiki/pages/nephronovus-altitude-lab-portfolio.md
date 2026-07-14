@@ -33,4 +33,4 @@ Portfolio listings validate incubator association and high-level positioning, no
 
 ## See Also
 
-- [Building a Startup with My Dad: Lessons in Family, Boundaries, and Trust](https://altitudelab.org/articles/building-a-startup-with-my-dad-lessons-in-family-boundaries-and-trust) — Altitude Lab resident story with renal-fibrosis mission statement (narrative, not technical evidence)
+- [Building a Startup with My Dad: Lessons in Family, Boundaries, and Trust](https://altitudelab.org/articles/building-a-startup-with-my-dad-lessons-in-family-boundaries-and-trust) · https://altitudelab.org/articles/building-a-startup-with-my-dad-lessons-in-family-boundaries-and-trust — Altitude Lab resident story with renal-fibrosis mission statement (narrative, not technical evidence)

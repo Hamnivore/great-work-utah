@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.traceaq.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/trace-aq-wildfire-smoke-forecast-2026/1600/1100
 **Pull:** *Physics-based AI smoke forecasts that warn communities before public data says the air is dangerous.*
-**Relates:** cites [Official Website: Trace AQ](trace-aq-official-website.md)
+**Relates:** cites [Official Website: Trace AQ](trace-aq-official-website.md) · https://greatutah.work/pages/trace-aq-official-website.md · https://www.traceaq.com/
 
 ## Summary
 
@@ -51,14 +52,14 @@ Trace AQ is a University of Utah spinout founded by researchers Heather Holmes (
 
 ## Evidence
 
-- [Official Website: Trace AQ](trace-aq-official-website.md)
-- [U of U TLO: Flow AQ launch feature](https://technologylicensing.utah.edu/news-events/startups/u-of-u-startup-launches-new-air-quality-forecasting-app)
-- [TechBuzz: $1.25M seed round](https://www.techbuzznews.com/trace-aq-raises-1-25-million-seed/)
+- [Official Website: Trace AQ](trace-aq-official-website.md) · https://greatutah.work/pages/trace-aq-official-website.md · https://www.traceaq.com/
+- [U of U TLO: Flow AQ launch feature](https://technologylicensing.utah.edu/news-events/startups/u-of-u-startup-launches-new-air-quality-forecasting-app) · https://technologylicensing.utah.edu/news-events/startups/u-of-u-startup-launches-new-air-quality-forecasting-app
+- [TechBuzz: $1.25M seed round](https://www.techbuzznews.com/trace-aq-raises-1-25-million-seed/) · https://www.techbuzznews.com/trace-aq-raises-1-25-million-seed/
 
 ## See Also
 
-- [Epitel](epitel.md) — another U of U spinout translating research into health-facing products
-- [Culmination Bio](culmination-bio.md) — Utah health data infrastructure with population-scale clinical signal
+- [Epitel](epitel.md) · https://greatutah.work/pages/epitel.md — another U of U spinout translating research into health-facing products
+- [Culmination Bio](culmination-bio.md) · https://greatutah.work/pages/culmination-bio.md — Utah health data infrastructure with population-scale clinical signal
 
 ## Open Questions
 

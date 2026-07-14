@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://enduracure.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/enduracure-manufacturing-2026/1600/1100
 **Pull:** *Flexible electronics on polymer substrates that perform normally in use but dissolve on demand — unlocking end-of-life recovery of the chips, metals, and materials now buried in e-waste.*
-**Relates:** cites [Official Website: EnduraCure](enduracure-official-website.md)
+**Relates:** cites [Official Website: EnduraCure](enduracure-official-website.md) · https://greatutah.work/pages/enduracure-official-website.md · https://enduracure.com
 
 ## Summary
 
@@ -46,11 +47,11 @@ EnduraCure is a direct product of the University of Utah's materials science res
 
 ## Evidence
 
-- [Official Website: EnduraCure](enduracure-official-website.md)
+- [Official Website: EnduraCure](enduracure-official-website.md) · https://greatutah.work/pages/enduracure-official-website.md · https://enduracure.com
 
 ## See Also
 
-- [Ionic MT](ionic-mt.md) — another Utah advanced materials company building on novel chemistry with domestic supply chain implications.
+- [Ionic MT](ionic-mt.md) · https://greatutah.work/pages/ionic-mt.md — another Utah advanced materials company building on novel chemistry with domestic supply chain implications.
 
 ## Open Questions
 

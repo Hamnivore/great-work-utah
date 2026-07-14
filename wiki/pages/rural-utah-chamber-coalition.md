@@ -7,6 +7,7 @@
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://startup.utah.gov/resources/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -73,9 +74,9 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
-- [Official website](https://www.ruralutahcc.org/)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://www.ruralutahcc.org/) · https://www.ruralutahcc.org/
 
 ## Open Questions
 

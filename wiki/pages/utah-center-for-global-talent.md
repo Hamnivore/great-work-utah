@@ -7,6 +7,7 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://business.utah.gov/global-talent/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -44,7 +45,7 @@ Best fits are employers with a real workforce bottleneck and an interest in resp
 
 ## Evidence
 
-- [GOEO Utah Center For Global Talent Page](goeo-global-talent.md)
+- [GOEO Utah Center For Global Talent Page](goeo-global-talent.md) · https://greatutah.work/pages/goeo-global-talent.md · https://business.utah.gov/global-talent/
 
 ## Open Questions
 

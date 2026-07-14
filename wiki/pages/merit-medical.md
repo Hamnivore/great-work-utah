@@ -8,12 +8,14 @@
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT
 **Region:** South Jordan
+**Careers:** https://www.merit.com/careers/
+**Website:** https://www.merit.com
 **Domain:** health-bio
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/merit-medical-interventional-catheter-2026/1600/1100
 **Pull:** *Quietly making the disposable devices that interventional cardiologists, radiologists, and oncologists use every day.*
-**Relates:** cites [Official Website: Merit Medical Systems](merit-medical-official-website.md)
+**Relates:** cites [Official Website: Merit Medical Systems](merit-medical-official-website.md) · https://greatutah.work/pages/merit-medical-official-website.md · https://www.merit.com
 
 ## Summary
 
@@ -49,8 +51,8 @@ Merit is the largest medical-device employer in the Mountain West. South Jordan 
 
 ## Evidence
 
-- [Official Website: Merit Medical Systems](merit-medical-official-website.md)
-- [Source: Pentax C2 CryoBalloon Acquisition Announcement](merit-medical-pentax-cryoballoon-acquisition.md)
+- [Official Website: Merit Medical Systems](merit-medical-official-website.md) · https://greatutah.work/pages/merit-medical-official-website.md · https://www.merit.com
+- [Source: Pentax C2 CryoBalloon Acquisition Announcement](merit-medical-pentax-cryoballoon-acquisition.md) · https://greatutah.work/pages/merit-medical-pentax-cryoballoon-acquisition.md · https://www.utahbusiness.com/press-releases/2025/10/22/merit-medical-signs-asset-purchase-pentax-medical-acquire-c2-cryoballoon-technology/
 
 ## Open Questions
 

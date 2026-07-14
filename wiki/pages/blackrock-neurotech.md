@@ -11,6 +11,7 @@
 **Needs-reviewed:** 2026-05-09
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Website:** https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/
 **Ownership:** private
 **Hero:** /img/heroes/front/blackrock-1600.webp
 **Hero caption:** *Nathan Copeland, who has lived with a Utah Electrode Array implant in his motor and somatosensory cortex since 2014 — temporary hotlinked photograph from the University of Pittsburgh / Rehab Neural Engineering Labs via WIRED; image rights have not yet been cleared.*
@@ -48,9 +49,9 @@ Blackrock is part of a small but globally outsized Utah neuroengineering cluster
 
 ## Evidence
 
-- [Source: Blackrock Neurotech and the Utah Array](blackrock-utah-array-medical-design.md)
-- [Utah Array BCI Platform](utah-array-bci-platform.md) — foundational University of Utah research behind the commercial electrode
-- [Source: Tether Strategic Stake in Blackrock Neurotech](blackrock-tether-strategic-stake.md)
+- [Source: Blackrock Neurotech and the Utah Array](blackrock-utah-array-medical-design.md) · https://greatutah.work/pages/blackrock-utah-array-medical-design.md · https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/
+- [Utah Array BCI Platform](utah-array-bci-platform.md) · https://greatutah.work/pages/utah-array-bci-platform.md — foundational University of Utah research behind the commercial electrode
+- [Source: Tether Strategic Stake in Blackrock Neurotech](blackrock-tether-strategic-stake.md) · https://greatutah.work/pages/blackrock-tether-strategic-stake.md · https://tether.io/news/tether-takes-strategic-stake-in-leading-brain-computer-interface-company-blackrock-neurotech/
 
 ## Open Questions
 
@@ -60,4 +61,4 @@ Blackrock is part of a small but globally outsized Utah neuroengineering cluster
 
 ## See Also
 
-- [Florian Solzbacher](florian-solzbacher.md)
+- [Florian Solzbacher](florian-solzbacher.md) · https://greatutah.work/pages/florian-solzbacher.md

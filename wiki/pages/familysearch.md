@@ -8,6 +8,8 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://www.familysearch.org/en/careers/
+**Website:** https://www.familysearch.org
 **Domain:** computing
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
@@ -51,7 +53,7 @@ FamilySearch is one of the institutions that gives Utah its surprisingly deep re
 
 ## Evidence
 
-- [Source: FamilySearch Official Site and Library Statistics](familysearch-official-site.md)
+- [Source: FamilySearch Official Site and Library Statistics](familysearch-official-site.md) · https://greatutah.work/pages/familysearch-official-site.md · https://www.familysearch.org
 
 ## Open Questions
 

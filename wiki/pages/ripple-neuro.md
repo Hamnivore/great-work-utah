@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://rippleneuro.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/ripple-neuro-2026/1600/1100
 **Pull:** *The instruments that make invasive neuroscience possible — 512 channels of real-time neural recording, in a palm-sized wireless system, built over 20 years from the same University of Utah lineage as the Utah Array.*
-**Relates:** cites [Official Website: Ripple Neuro](ripple-neuro-official-website.md)
+**Relates:** cites [Official Website: Ripple Neuro](ripple-neuro-official-website.md) · https://greatutah.work/pages/ripple-neuro-official-website.md · https://rippleneuro.com
 
 ## Summary
 
@@ -46,12 +47,12 @@ Ripple Neuro sits within the University of Utah's neural engineering cluster —
 
 ## Evidence
 
-- [Official Website: Ripple Neuro](ripple-neuro-official-website.md)
+- [Official Website: Ripple Neuro](ripple-neuro-official-website.md) · https://greatutah.work/pages/ripple-neuro-official-website.md · https://rippleneuro.com
 
 ## See Also
 
-- [Utah Arch Research Group](utah-arch.md) — Utah's hardware architecture research group working on the compute substrates that could eventually support next-generation neural signal processing at scale.
-- [TELLUS](tellus.md) — another Utah scientific-infrastructure company building specialized sensing hardware with long R&D timelines and government-funding models.
+- [Utah Arch Research Group](utah-arch.md) · https://greatutah.work/pages/utah-arch.md — Utah's hardware architecture research group working on the compute substrates that could eventually support next-generation neural signal processing at scale.
+- [TELLUS](tellus.md) · https://greatutah.work/pages/tellus.md — another Utah scientific-infrastructure company building specialized sensing hardware with long R&D timelines and government-funding models.
 
 ## Open Questions
 

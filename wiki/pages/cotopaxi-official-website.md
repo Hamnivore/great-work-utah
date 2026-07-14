@@ -35,5 +35,5 @@ This is an official company source. It is high-confidence for product categories
 
 ## See Also
 
-- [Cotopaxi Foundation impact reporting](https://www.cotopaxi.com/pages/impact) - linked from the official site for grantmaking and annual reports
-- [Sustainable by Design](https://www.cotopaxi.com/pages/sustainable-by-design) - official sustainability and materials page
+- [Cotopaxi Foundation impact reporting](https://www.cotopaxi.com/pages/impact) · https://www.cotopaxi.com/pages/impact - linked from the official site for grantmaking and annual reports
+- [Sustainable by Design](https://www.cotopaxi.com/pages/sustainable-by-design) · https://www.cotopaxi.com/pages/sustainable-by-design - official sustainability and materials page

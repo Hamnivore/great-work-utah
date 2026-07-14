@@ -9,10 +9,11 @@
 **Updated:** 2026-06-19
 **Domain:** culture-place, energy
 **Region:** Great Salt Lake basin
+**Website:** https://ffsl.utah.gov/public-lands/great-salt-lake/
 **Hero:** https://picsum.photos/seed/great-salt-lake-2026/1600/1100
 **Pull:** *73% of its surface area gone, heavy metals in the airshed of 2.5 million people, and the largest single environmental problem in Utah — with no category-defining company working on it yet.*
-**Relates:** cites [Official Website: Great Salt Lake](great-salt-lake-official-website.md)
-**Relates:** cites [USGS Great Salt Lake Science](great-salt-lake-usgs.md)
+**Relates:** cites [Official Website: Great Salt Lake](great-salt-lake-official-website.md) · https://greatutah.work/pages/great-salt-lake-official-website.md · https://ffsl.utah.gov/public-lands/great-salt-lake/
+**Relates:** cites [USGS Great Salt Lake Science](great-salt-lake-usgs.md) · https://greatutah.work/pages/great-salt-lake-usgs.md · https://www.usgs.gov/centers/utah-water-science-center/science/great-salt-lake
 
 ## Summary
 
@@ -40,10 +41,10 @@ The Great Salt Lake connects nearly every Utah industry: [US Magnesium](us-magne
 
 ## Evidence
 
-- [Great Salt Lake Collaborative](https://greatsaltlakecollaborative.org)
-- [BYU Great Salt Lake Study (2023)](https://www.cpms.byu.edu/great-salt-lake)
-- [Official Website: Great Salt Lake](great-salt-lake-official-website.md)
-- [USGS Great Salt Lake Science](great-salt-lake-usgs.md)
+- [Great Salt Lake Collaborative](https://greatsaltlakecollaborative.org) · https://greatsaltlakecollaborative.org
+- [BYU Great Salt Lake Study (2023)](https://www.cpms.byu.edu/great-salt-lake) · https://www.cpms.byu.edu/great-salt-lake
+- [Official Website: Great Salt Lake](great-salt-lake-official-website.md) · https://greatutah.work/pages/great-salt-lake-official-website.md · https://ffsl.utah.gov/public-lands/great-salt-lake/
+- [USGS Great Salt Lake Science](great-salt-lake-usgs.md) · https://greatutah.work/pages/great-salt-lake-usgs.md · https://www.usgs.gov/centers/utah-water-science-center/science/great-salt-lake
 
 ## Open Questions
 

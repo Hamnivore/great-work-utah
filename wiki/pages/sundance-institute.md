@@ -8,6 +8,7 @@
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT; Sundance Resort, UT
 **Region:** Park City; Sundance Resort
+**Website:** https://www.sundance.org
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/sundance-1600.webp
@@ -44,7 +45,7 @@ Sundance has been a defining Park City institution for four decades. The Festiva
 
 ## Evidence
 
-- [Source: Sundance Institute Official Site](sundance-institute-official-site.md)
+- [Source: Sundance Institute Official Site](sundance-institute-official-site.md) · https://greatutah.work/pages/sundance-institute-official-site.md · https://www.sundance.org
 
 ## Open Questions
 

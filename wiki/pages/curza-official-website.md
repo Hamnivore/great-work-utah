@@ -32,5 +32,5 @@ This is an official company source. It is useful for pipeline positioning, mecha
 
 ## See Also
 
-- [CARB-X partnership announcement](https://carb-x.org/carb-x-news/carb-x-teams-up-with-curza-to-develop-a-new-class-of-antibiotics-to-treat-drug-resistant-gram-negative-bacteria/) — third-party funder announcement
-- [Novo Holdings REPAIR Fund investment](https://www.prnewswire.com/news-releases/curza-announces-5-25-million-investment-from-the-novo-holdings-repair-impact-fund-300890817.html) — impact-investor press release
+- [CARB-X partnership announcement](https://carb-x.org/carb-x-news/carb-x-teams-up-with-curza-to-develop-a-new-class-of-antibiotics-to-treat-drug-resistant-gram-negative-bacteria/) · https://carb-x.org/carb-x-news/carb-x-teams-up-with-curza-to-develop-a-new-class-of-antibiotics-to-treat-drug-resistant-gram-negative-bacteria/ — third-party funder announcement
+- [Novo Holdings REPAIR Fund investment](https://www.prnewswire.com/news-releases/curza-announces-5-25-million-investment-from-the-novo-holdings-repair-impact-fund-300890817.html) · https://www.prnewswire.com/news-releases/curza-announces-5-25-million-investment-from-the-novo-holdings-repair-impact-fund-300890817.html — impact-investor press release

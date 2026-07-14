@@ -8,6 +8,7 @@
 **Primary Location:** Melbourne, FL
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://careers.l3harris.com/
 **Domain:** aerospace-defense
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
@@ -49,9 +50,9 @@ L3Harris Salt Lake City is one of Utah's largest defense employers after Hill Ai
 
 ## Evidence
 
-- [L3Harris Salt Lake City location page](https://www.l3harris.com/about/locations/salt-lake-city) — official site description of the facility. **Dead as of 2026-07-14 (404); L3Harris has restructured its site.** Facts drawn from it should be re-verified before being treated as current.
-- [L3Harris Communication Systems](https://www.l3harris.com/all-capabilities/communication-systems) — capability overview. **Dead as of 2026-07-14 (404); L3Harris has restructured its site.**
-- [Wikipedia: L3Harris Technologies](https://en.wikipedia.org/wiki/L3Harris_Technologies) — corporate history and merger background.
+- [L3Harris Salt Lake City location page](https://www.l3harris.com/about/locations/salt-lake-city) · https://www.l3harris.com/about/locations/salt-lake-city — official site description of the facility. **Dead as of 2026-07-14 (404); L3Harris has restructured its site.** Facts drawn from it should be re-verified before being treated as current.
+- [L3Harris Communication Systems](https://www.l3harris.com/all-capabilities/communication-systems) · https://www.l3harris.com/all-capabilities/communication-systems — capability overview. **Dead as of 2026-07-14 (404); L3Harris has restructured its site.**
+- [Wikipedia: L3Harris Technologies](https://en.wikipedia.org/wiki/L3Harris_Technologies) · https://en.wikipedia.org/wiki/L3Harris_Technologies — corporate history and merger background.
 
 ## Open Questions
 

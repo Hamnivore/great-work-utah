@@ -7,7 +7,12 @@
 **Primary Location:** Ephraim, UT
 **Utah Location:** Ephraim, UT
 **Region:** Ephraim
-**Updated:** 2026-05-09
+**Website:** https://startup.utah.gov/resources/
+**Map Location:** GRIT Center, 151 S Main St, Ephraim, UT 84627
+**Coordinates:** 39.3571168, -111.5869919
+**Location Precision:** exact
+**Location Source:** https://omni.snow.edu/offices/grit-center/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -75,9 +80,9 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
-- [Official website](https://www.snow.edu/offices/grit-center/index.html)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://www.snow.edu/offices/grit-center/index.html) · https://www.snow.edu/offices/grit-center/index.html
 
 ## Open Questions
 

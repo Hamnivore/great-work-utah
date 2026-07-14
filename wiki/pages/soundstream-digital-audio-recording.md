@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states
 **Updated:** 2026-06-18
 **Pull:** *The first commercial digital recording company in the United States grew out of a University of Utah engineer's quarrel with analog tape.*
 
@@ -57,12 +58,12 @@ That connection places Soundstream squarely inside Utah's signal-and-computing r
 
 ## Evidence
 
-- [Source: Soundstream Digital Recording Sources](soundstream-digital-recording-sources.md)
-- [Journal on the Art of Record Production: Soundstream — the introduction of commercial digital recording in the United States](http://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states/) — scholarly account of the company, founding (May 1975), and Stockham's background and honors.
-- [Audio Engineering Society: Tom Stockham and Digital Audio Recording](http://www.aes-media.org/historical/html/recording.technology.history/stockham.html) — AES historical record of Stockham's awards and the Soundstream system.
-- [Wikipedia: Soundstream](https://en.wikipedia.org/wiki/Soundstream) — system specs (16-bit, 50 kHz), label list, 18 recorders, Caruso restoration, Telarc collaboration.
-- [Wikipedia: Digital recording](https://en.wikipedia.org/wiki/Digital_recording) — timeline placing Soundstream's 1975 development and 1978 first commercial releases in context with Denon and others.
-- [Deseret News (1999): Father of digital sound](https://www.deseret.com/1999/1/13/19423044/father-of-digital-sound-br-engineer-figured-out-how-to-record-music-digitally-and-in-real-time/) — local profile; the David Evans recruitment to Utah in 1968 and the Caruso restoration story.
+- [Source: Soundstream Digital Recording Sources](soundstream-digital-recording-sources.md) · https://greatutah.work/pages/soundstream-digital-recording-sources.md · https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states
+- [Journal on the Art of Record Production: Soundstream — the introduction of commercial digital recording in the United States](http://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states/) · http://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states/ — scholarly account of the company, founding (May 1975), and Stockham's background and honors.
+- [Audio Engineering Society: Tom Stockham and Digital Audio Recording](http://www.aes-media.org/historical/html/recording.technology.history/stockham.html) · http://www.aes-media.org/historical/html/recording.technology.history/stockham.html — AES historical record of Stockham's awards and the Soundstream system.
+- [Wikipedia: Soundstream](https://en.wikipedia.org/wiki/Soundstream) · https://en.wikipedia.org/wiki/Soundstream — system specs (16-bit, 50 kHz), label list, 18 recorders, Caruso restoration, Telarc collaboration.
+- [Wikipedia: Digital recording](https://en.wikipedia.org/wiki/Digital_recording) · https://en.wikipedia.org/wiki/Digital_recording — timeline placing Soundstream's 1975 development and 1978 first commercial releases in context with Denon and others.
+- [Deseret News (1999): Father of digital sound](https://www.deseret.com/1999/1/13/19423044/father-of-digital-sound-br-engineer-figured-out-how-to-record-music-digitally-and-in-real-time/) · https://www.deseret.com/1999/1/13/19423044/father-of-digital-sound-br-engineer-figured-out-how-to-record-music-digitally-and-in-real-time/ — local profile; the David Evans recruitment to Utah in 1968 and the Caruso restoration story.
 
 ## Open Questions
 

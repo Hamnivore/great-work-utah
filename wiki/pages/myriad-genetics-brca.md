@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://supreme.justia.com/cases/federal/us/569/576/
 **Updated:** 2026-06-19
 **Pull:** *Utah's genealogy-powered cancer genetics helped create, and then legally reshape, the clinical market for inherited-risk testing.*
 
@@ -39,16 +40,16 @@ Myriad's patent strategy is an ethical and scientific caveat, not a side note. M
 
 ## Evidence
 
-- [Source record: Association for Molecular Pathology v. Myriad Genetics](myriad-brca-supreme-court-or-official.md)
-- [Supreme Court opinion: Association for Molecular Pathology v. Myriad Genetics](https://supreme.justia.com/cases/federal/us/569/576/)
-- [AMA Journal of Ethics: The Supreme Court on Myriad Genetics](https://journalofethics.ama-assn.org/article/supreme-court-myriad-genetics-synthetic-dna-patentable-isolated-genes-are-not/2015-09)
-- [PMC: Gene Patenting — The Supreme Court Finally Speaks](https://pmc.ncbi.nlm.nih.gov/articles/PMC3777541/)
-- [New York Times: My Medical Choice](https://www.nytimes.com/2013/05/14/opinion/my-medical-choice.html)
+- [Source record: Association for Molecular Pathology v. Myriad Genetics](myriad-brca-supreme-court-or-official.md) · https://greatutah.work/pages/myriad-brca-supreme-court-or-official.md · https://supreme.justia.com/cases/federal/us/569/576/
+- [Supreme Court opinion: Association for Molecular Pathology v. Myriad Genetics](https://supreme.justia.com/cases/federal/us/569/576/) · https://supreme.justia.com/cases/federal/us/569/576/
+- [AMA Journal of Ethics: The Supreme Court on Myriad Genetics](https://journalofethics.ama-assn.org/article/supreme-court-myriad-genetics-synthetic-dna-patentable-isolated-genes-are-not/2015-09) · https://journalofethics.ama-assn.org/article/supreme-court-myriad-genetics-synthetic-dna-patentable-isolated-genes-are-not/2015-09
+- [PMC: Gene Patenting — The Supreme Court Finally Speaks](https://pmc.ncbi.nlm.nih.gov/articles/PMC3777541/) · https://pmc.ncbi.nlm.nih.gov/articles/PMC3777541/
+- [New York Times: My Medical Choice](https://www.nytimes.com/2013/05/14/opinion/my-medical-choice.html) · https://www.nytimes.com/2013/05/14/opinion/my-medical-choice.html
 
 ## See Also
 
-- [Myriad Genetics](myriad-genetics.md)
-- [Utah Population Database](utah-population-database.md)
+- [Myriad Genetics](myriad-genetics.md) · https://greatutah.work/pages/myriad-genetics.md
+- [Utah Population Database](utah-population-database.md) · https://greatutah.work/pages/utah-population-database.md
 
 ## Open Questions
 

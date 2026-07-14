@@ -32,5 +32,5 @@ This is an official company source for a publicly traded small-cap company. Clai
 
 ## See Also
 
-- [PR Spring permit application press release (Jun 2025)](https://www.globenewswire.com/news-release/2025/06/12/3098355/0/en/Sky-Quarry-Applies-for-Recycling-Permit-to-Launch-Integrated-Energy-Facility-in-Utah.html) — GlobeNewswire announcement of the June 2025 permit filing
-- [David Sealock co-founder profile (Utah Business)](https://www.utahbusiness.com/entrepreneurship/2025/02/27/david-sealock-co-founded-sky-quarry/) — Utah Business feature on Sky Quarry's co-founder
+- [PR Spring permit application press release (Jun 2025)](https://www.globenewswire.com/news-release/2025/06/12/3098355/0/en/Sky-Quarry-Applies-for-Recycling-Permit-to-Launch-Integrated-Energy-Facility-in-Utah.html) · https://www.globenewswire.com/news-release/2025/06/12/3098355/0/en/Sky-Quarry-Applies-for-Recycling-Permit-to-Launch-Integrated-Energy-Facility-in-Utah.html — GlobeNewswire announcement of the June 2025 permit filing
+- [David Sealock co-founder profile (Utah Business)](https://www.utahbusiness.com/entrepreneurship/2025/02/27/david-sealock-co-founded-sky-quarry/) · https://www.utahbusiness.com/entrepreneurship/2025/02/27/david-sealock-co-founded-sky-quarry/ — Utah Business feature on Sky Quarry's co-founder

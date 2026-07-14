@@ -7,7 +7,12 @@
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
 **Region:** Ogden
-**Updated:** 2026-05-09
+**Website:** https://startup.utah.gov/resources/
+**Map Location:** Weber State Downtown, 2314 Washington Blvd, Ogden, UT 84401
+**Coordinates:** 41.2244045, -111.9700095
+**Location Precision:** exact
+**Location Source:** https://www.weber.edu/maps/locations.html
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
@@ -67,9 +72,9 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
-- [Official website](https://startupogden.spaces.nexudus.com/home?&v=latest)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://startupogden.spaces.nexudus.com/home?&v=latest) · https://startupogden.spaces.nexudus.com/home?&v=latest
 
 ## Open Questions
 

@@ -10,10 +10,11 @@
 **Updated:** 2026-06-19
 **Domain:** energy
 **Region:** Great Basin
+**Website:** https://rodatherm.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/rodatherm-energy-2026/1600/1100
 **Pull:** *A sealed, closed-loop geothermal system that unlocks heat from sedimentary basins — 50% more efficient, no freshwater consumed, no induced seismicity.*
-**Relates:** cites [Official Website: Rodatherm Energy](rodatherm-energy-official-website.md)
+**Relates:** cites [Official Website: Rodatherm Energy](rodatherm-energy-official-website.md) · https://greatutah.work/pages/rodatherm-energy-official-website.md · https://rodatherm.com
 
 ## Summary
 
@@ -51,12 +52,12 @@ Utah's Great Basin geology is Rodatherm's primary target — the same sedimentar
 
 ## Evidence
 
-- [Official Website: Rodatherm Energy](rodatherm-energy-official-website.md)
+- [Official Website: Rodatherm Energy](rodatherm-energy-official-website.md) · https://greatutah.work/pages/rodatherm-energy-official-website.md · https://rodatherm.com
 
 ## See Also
 
-- [OxEon Energy](oxeon-energy.md) — another Utah deep-tech energy company scaling with significant external funding.
-- [Valar Atomics](valar-atomics.md) — microreactor company with Utah test site; a different approach to abundant baseload clean power.
+- [OxEon Energy](oxeon-energy.md) · https://greatutah.work/pages/oxeon-energy.md — another Utah deep-tech energy company scaling with significant external funding.
+- [Valar Atomics](valar-atomics.md) · https://greatutah.work/pages/valar-atomics.md — microreactor company with Utah test site; a different approach to abundant baseload clean power.
 
 ## Open Questions
 

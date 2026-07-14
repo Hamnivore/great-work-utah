@@ -7,6 +7,7 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://www.wbcutah.org/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -40,8 +41,8 @@ Best fits include a woman founder at the idea, startup, or growth stage who need
 
 ## Evidence
 
-- [Women's Business Center of Utah Page](womens-business-center-of-utah-source.md)
-- [Startup State Resource Filter](startup-state-resource-list.md)
+- [Women's Business Center of Utah Page](womens-business-center-of-utah-source.md) · https://greatutah.work/pages/womens-business-center-of-utah-source.md · https://www.wbcutah.org/
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 
 ## Open Questions
 

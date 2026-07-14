@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.sci.utah.edu
 **Domain:** computing, health-bio
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
@@ -46,7 +47,7 @@ SCI is on the University of Utah campus and depends on the Center for High Perfo
 
 ## Evidence
 
-- [Source: SCI Institute Official Site](sci-institute-official-site.md)
+- [Source: SCI Institute Official Site](sci-institute-official-site.md) · https://greatutah.work/pages/sci-institute-official-site.md · https://www.sci.utah.edu
 
 ## Open Questions
 

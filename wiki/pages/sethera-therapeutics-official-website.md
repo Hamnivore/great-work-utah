@@ -33,4 +33,4 @@ This is an official company source. It is useful for platform positioning, enzym
 
 ## See Also
 
-- [Sethera team page](https://setheratx.com/sethera-team/) — leadership and advisory board listed on the official site
+- [Sethera team page](https://setheratx.com/sethera-team/) · https://setheratx.com/sethera-team/ — leadership and advisory board listed on the official site

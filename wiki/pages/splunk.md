@@ -6,6 +6,7 @@
 **Focus:** cybersecurity, observability, machine data, SIEM, AIOps, enterprise software
 **Domain:** computing
 **Region:** unknown
+**Website:** https://www.splunk.com/
 **Stage:** Cisco-owned subsidiary; formerly public (NASDAQ: SPLK)
 **Primary Location:** unknown
 **Utah Location:** unknown
@@ -13,8 +14,8 @@
 **Updated:** 2026-07-11
 **Needs-reviewed:** 2026-07-11
 **Pull:** *The machine-data search company that became Cisco's $28B security and observability bet; Utah relevance still needs a verified local hook.*
-**Relates:** cites [Official Website: Splunk](splunk-official-website.md)
-**Relates:** cites [Cisco Completes Acquisition of Splunk](cisco-splunk-acquisition.md)
+**Relates:** cites [Official Website: Splunk](splunk-official-website.md) · https://greatutah.work/pages/splunk-official-website.md · https://www.splunk.com/
+**Relates:** cites [Cisco Completes Acquisition of Splunk](cisco-splunk-acquisition.md) · https://greatutah.work/pages/cisco-splunk-acquisition.md · https://investor.cisco.com/news/news-details/2024/Cisco-Completes-Acquisition-of-Splunk/default.aspx
 
 ## Summary
 
@@ -66,14 +67,14 @@ Until then, Splunk belongs in the wiki as a lead rather than a confirmed Utah an
 
 ## Evidence
 
-- [Official Website: Splunk](splunk-official-website.md)
-- [Cisco Completes Acquisition of Splunk](cisco-splunk-acquisition.md)
+- [Official Website: Splunk](splunk-official-website.md) · https://greatutah.work/pages/splunk-official-website.md · https://www.splunk.com/
+- [Cisco Completes Acquisition of Splunk](cisco-splunk-acquisition.md) · https://greatutah.work/pages/cisco-splunk-acquisition.md · https://investor.cisco.com/news/news-details/2024/Cisco-Completes-Acquisition-of-Splunk/default.aspx
 
 ## See Also
 
-- [Domo](domo.md)
-- [Adobe](adobe.md)
-- [BambooHR](bamboohr.md)
+- [Domo](domo.md) · https://greatutah.work/pages/domo.md
+- [Adobe](adobe.md) · https://greatutah.work/pages/adobe.md
+- [BambooHR](bamboohr.md) · https://greatutah.work/pages/bamboohr.md
 
 ## Open Questions
 

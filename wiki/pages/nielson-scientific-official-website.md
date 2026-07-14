@@ -30,4 +30,4 @@ No public website or primary source has been located. The DOE SBIR database (sbi
 
 ## See Also
 
-- [DOE SBIR/STTR database](https://sbir.doe.gov) — search "Nielson Scientific" to identify the grant topic and award status
+- [DOE SBIR/STTR database](https://sbir.doe.gov) · https://sbir.doe.gov — search "Nielson Scientific" to identify the grant topic and award status

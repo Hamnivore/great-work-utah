@@ -10,6 +10,7 @@
 **Updated:** 2026-06-18
 **Domain:** aerospace-defense, energy
 **Region:** Provo
+**Website:** https://utah.vc/p/hypercraft-raises-26m
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/hypercraft-powertrain-provo/1600/1100
 **Hero caption:** *Placeholder image. A license-clean photograph of a Hypercraft powertrain or vehicle integration is still needed — see Open Questions.*
@@ -49,7 +50,7 @@ Hypercraft sits in Utah's growing aerospace-and-defense cluster, near Provo. Its
 
 ## Evidence
 
-- [Source: Hypercraft $26M Series A](hypercraft-series-a-2025.md)
+- [Source: Hypercraft $26M Series A](hypercraft-series-a-2025.md) · https://greatutah.work/pages/hypercraft-series-a-2025.md · https://utah.vc/p/hypercraft-raises-26m
 
 ## Open Questions
 

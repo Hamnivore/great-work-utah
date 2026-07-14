@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://kinectcapital.org/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -54,8 +55,8 @@ It is less useful for a company whose immediate need is non-dilutive SBIR/STTR s
 
 ## Evidence
 
-- [Kinect Capital Official Site](kinect-capital-official-site.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
+- [Kinect Capital Official Site](kinect-capital-official-site.md) · https://greatutah.work/pages/kinect-capital-official-site.md · https://kinectcapital.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 

@@ -31,6 +31,6 @@ USGS is an independent federal science agency with no regulatory or commercial s
 
 ## See Also
 
-- [Utah FFSL Great Salt Lake page](great-salt-lake-official-website.md) — state government management and policy context
-- [BYU Great Salt Lake desiccation study (2023)](https://www.cpms.byu.edu/great-salt-lake) — widely cited five-year desiccation timeline projection
-- [Great Salt Lake Collaborative](https://greatsaltlakecollaborative.org) — ongoing coalition tracking and advocacy
+- [Utah FFSL Great Salt Lake page](great-salt-lake-official-website.md) · https://greatutah.work/pages/great-salt-lake-official-website.md · https://ffsl.utah.gov/public-lands/great-salt-lake/ — state government management and policy context
+- [BYU Great Salt Lake desiccation study (2023)](https://www.cpms.byu.edu/great-salt-lake) · https://www.cpms.byu.edu/great-salt-lake — widely cited five-year desiccation timeline projection
+- [Great Salt Lake Collaborative](https://greatsaltlakecollaborative.org) · https://greatsaltlakecollaborative.org — ongoing coalition tracking and advocacy

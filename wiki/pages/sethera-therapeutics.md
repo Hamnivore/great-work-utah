@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://setheratx.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/sethera-therapeutics-2026/1600/1100
 **Pull:** *Enzymatic peptide cross-linking to make unstable peptides drug-like — platform bet, very early.*
-**Relates:** cites [Official Website: Sethera Therapeutics](sethera-therapeutics-official-website.md)
+**Relates:** cites [Official Website: Sethera Therapeutics](sethera-therapeutics-official-website.md) · https://greatutah.work/pages/sethera-therapeutics-official-website.md · https://setheratx.com
 
 ## Summary
 
@@ -42,7 +43,7 @@ Sethera is a U of U research spinout at 48 S Rio Grande Street in Salt Lake City
 
 ## Evidence
 
-- [Official Website: Sethera Therapeutics](sethera-therapeutics-official-website.md)
+- [Official Website: Sethera Therapeutics](sethera-therapeutics-official-website.md) · https://greatutah.work/pages/sethera-therapeutics-official-website.md · https://setheratx.com
 
 ## Open Questions
 

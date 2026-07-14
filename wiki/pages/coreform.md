@@ -8,11 +8,12 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
+**Website:** https://coreform.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/coreform-isogeometric-analysis-2026/1600/1100
 **Pull:** *Run finite element analysis directly on fully featured CAD geometry — without the mesh-generation bottleneck.*
-**Relates:** cites [Official Website: Coreform](coreform-official-website.md)
+**Relates:** cites [Official Website: Coreform](coreform-official-website.md) · https://greatutah.work/pages/coreform-official-website.md · https://coreform.com
 
 ## Summary
 
@@ -48,11 +49,11 @@ Coreform sits in Utah County alongside a broader Wasatch Front engineering and s
 
 ## Evidence
 
-- [Official Website: Coreform](coreform-official-website.md)
+- [Official Website: Coreform](coreform-official-website.md) · https://greatutah.work/pages/coreform-official-website.md · https://coreform.com
 
 ## See Also
 
-- [SCI Institute](sci-institute.md) — Utah's long-running scientific computing and research-software institute; useful context for local computational-methods talent.
+- [SCI Institute](sci-institute.md) · https://greatutah.work/pages/sci-institute.md — Utah's long-running scientific computing and research-software institute; useful context for local computational-methods talent.
 
 ## Open Questions
 

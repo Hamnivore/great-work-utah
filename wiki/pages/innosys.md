@@ -12,7 +12,7 @@
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/innosys-manufacturing-2026/1600/1100
 **Pull:** *Hermetic glass-to-metal seals for fiber optic feedthroughs in neutron generator detector assemblies — precision industrial work at the radiation-hardened end of the components market.*
-**Relates:** cites [Official Website: InnoSys](innosys-official-website.md)
+**Relates:** cites [Official Website: InnoSys](innosys-official-website.md) · https://greatutah.work/pages/innosys-official-website.md
 
 ## Summary
 
@@ -44,11 +44,11 @@ InnoSys's presence in Utah is consistent with the state's industrial and defense
 
 ## Evidence
 
-- [Official Website: InnoSys](innosys-official-website.md)
+- [Official Website: InnoSys](innosys-official-website.md) · https://greatutah.work/pages/innosys-official-website.md
 
 ## See Also
 
-- [ACT Aerospace](act-aerospace.md) — another Utah precision manufacturing company serving defense-adjacent markets.
+- [ACT Aerospace](act-aerospace.md) · https://greatutah.work/pages/act-aerospace.md — another Utah precision manufacturing company serving defense-adjacent markets.
 
 ## Open Questions
 

@@ -45,11 +45,11 @@ Smith is active on public social media and has participated in Utah entrepreneur
 
 ## Evidence
 
-- [Cotopaxi](cotopaxi.md) — venture page with founder context and evidence trail
+- [Cotopaxi](cotopaxi.md) · https://greatutah.work/pages/cotopaxi.md — venture page with founder context and evidence trail
 
 ## See Also
 
-- [Cotopaxi](cotopaxi.md)
+- [Cotopaxi](cotopaxi.md) · https://greatutah.work/pages/cotopaxi.md
 
 ## Open Questions
 

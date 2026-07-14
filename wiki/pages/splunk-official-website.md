@@ -31,4 +31,4 @@ This is an official company source. It is useful for current positioning, produc
 
 ## See Also
 
-- [Cisco Completes Acquisition of Splunk](cisco-splunk-acquisition.md)
+- [Cisco Completes Acquisition of Splunk](cisco-splunk-acquisition.md) · https://greatutah.work/pages/cisco-splunk-acquisition.md · https://investor.cisco.com/news/news-details/2024/Cisco-Completes-Acquisition-of-Splunk/default.aspx

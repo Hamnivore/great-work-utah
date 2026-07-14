@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.3helix.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/3helix-2026/1600/1100
 **Pull:** *Peptides that bind damaged collagen specifically — diagnostics, therapeutics, and a cosmetics entry through BASF.*
-**Relates:** cites [Official Website: 3Helix](3helix-official-website.md)
+**Relates:** cites [Official Website: 3Helix](3helix-official-website.md) · https://greatutah.work/pages/3helix-official-website.md · https://www.3helix.com
 
 ## Summary
 
@@ -44,8 +45,8 @@ Useful helpers include diagnostic contrast-agent developers, collagen-biology ac
 
 ## Evidence
 
-- [Official Website: 3Helix](3helix-official-website.md)
-- [BASF investment in 3Helix (2023)](https://www.basf.com/us/en/media/news-releases/2023/11/basf-invests-in-start-up-3helix-inc--to-jointly-bring-collagen-h)
+- [Official Website: 3Helix](3helix-official-website.md) · https://greatutah.work/pages/3helix-official-website.md · https://www.3helix.com
+- [BASF investment in 3Helix (2023)](https://www.basf.com/us/en/media/news-releases/2023/11/basf-invests-in-start-up-3helix-inc--to-jointly-bring-collagen-h) · https://www.basf.com/us/en/media/news-releases/2023/11/basf-invests-in-start-up-3helix-inc--to-jointly-bring-collagen-h
 
 ## Open Questions
 

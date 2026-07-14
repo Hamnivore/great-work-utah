@@ -7,6 +7,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://nowcfo.com/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -48,7 +49,7 @@ Do not treat NOW CFO as a CPA firm or imply it can replace tax, audit, or attest
 
 ## Evidence
 
-- [NOW CFO Official Site](now-cfo-official-site.md)
+- [NOW CFO Official Site](now-cfo-official-site.md) · https://greatutah.work/pages/now-cfo-official-site.md · https://nowcfo.com/
 
 ## Open Questions
 

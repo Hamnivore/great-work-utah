@@ -7,6 +7,7 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://manufacturingutah.com/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -52,8 +53,8 @@ For plant-level performance improvement, [Utah MEP](utah-mep.md) may be the more
 
 ## Evidence
 
-- [Utah Manufacturers Association Official Site](utah-manufacturers-association-official-site.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
+- [Utah Manufacturers Association Official Site](utah-manufacturers-association-official-site.md) · https://greatutah.work/pages/utah-manufacturers-association-official-site.md · https://manufacturingutah.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 

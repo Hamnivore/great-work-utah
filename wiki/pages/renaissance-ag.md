@@ -8,11 +8,12 @@
 **Primary Location:** Vineyard, UT
 **Utah Location:** Vineyard, UT
 **Region:** Vineyard
+**Website:** https://www.renaissance-ag.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/renaissance-ag-pasturebox/1600/1100
 **Pull:** *A self-contained hydroponic container that produces 2,000 lbs of fresh livestock feed per day on less than 10% of the water pasture grazing requires — built for Utah ranchers in the driest stretch of the American West.*
-**Relates:** cites [Official Website: Renaissance Ag](renaissance-ag-official-website.md)
+**Relates:** cites [Official Website: Renaissance Ag](renaissance-ag-official-website.md) · https://greatutah.work/pages/renaissance-ag-official-website.md · https://www.renaissance-ag.com
 
 ## Summary
 
@@ -46,7 +47,7 @@ Renaissance Ag is a Vineyard, Utah hardware company in the heart of the Utah ag 
 
 ## Evidence
 
-- [Official Website: Renaissance Ag](renaissance-ag-official-website.md)
+- [Official Website: Renaissance Ag](renaissance-ag-official-website.md) · https://greatutah.work/pages/renaissance-ag-official-website.md · https://www.renaissance-ag.com
 
 ## Open Questions
 

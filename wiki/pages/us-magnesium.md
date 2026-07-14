@@ -8,6 +8,7 @@
 **Primary Location:** Rowley, UT
 **Utah Location:** Rowley, UT
 **Region:** Tooele County
+**Website:** https://usmagnesium.com
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/us-magnesium-great-salt-lake-rowley-2026/1600/1100
@@ -45,8 +46,8 @@ US Magnesium is a quiet but load-bearing piece of Utah's industrial base and the
 
 ## Evidence
 
-- [Official Website: US Magnesium](us-magnesium-official-website.md)
-- [Source: US Magnesium Chapter 11 Bankruptcy and Asset Sale](us-magnesium-bankruptcy.md)
+- [Official Website: US Magnesium](us-magnesium-official-website.md) · https://greatutah.work/pages/us-magnesium-official-website.md · https://usmagnesium.com
+- [Source: US Magnesium Chapter 11 Bankruptcy and Asset Sale](us-magnesium-bankruptcy.md) · https://greatutah.work/pages/us-magnesium-bankruptcy.md · https://greatsaltlakenews.org/latest-news/salt-lake-tribune/us-magnesiums-bankruptcy-leaves-a-looming-question-what-happens-to-the-great-salt-lake-cleanup
 
 ## Open Questions
 

@@ -8,6 +8,8 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://www.recursion.com/careers
+**Website:** https://www.recursion.com/mission
 **Domain:** health-bio, computing
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
@@ -51,7 +53,7 @@ Recursion is headquartered in downtown Salt Lake City and is a visible anchor fo
 
 ## Evidence
 
-- [Official Website: Recursion Mission Page](recursion-mission.md)
+- [Official Website: Recursion Mission Page](recursion-mission.md) · https://greatutah.work/pages/recursion-mission.md · https://www.recursion.com/mission
 
 ## Open Questions
 

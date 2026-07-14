@@ -31,5 +31,5 @@ This is an official company source. It is useful for product categories, positio
 
 ## See Also
 
-- [Domo.AI product page](https://www.domo.com/ai) — agentic platform details on the same domain
-- [Wikipedia: Domo Inc.](https://en.wikipedia.org/wiki/Domo_(company)) — independent background on founding, IPO, and company history
+- [Domo.AI product page](https://www.domo.com/ai) · https://www.domo.com/ai — agentic platform details on the same domain
+- [Wikipedia: Domo Inc.](https://en.wikipedia.org/wiki/Domo_(company) · https://en.wikipedia.org/wiki/Domo_(company) — independent background on founding, IPO, and company history

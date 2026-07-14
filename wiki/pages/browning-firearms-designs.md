@@ -10,6 +10,7 @@
 **Updated:** 2026-05-16
 **Domain:** aerospace-defense
 **Region:** Ogden
+**Website:** https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
 **Pull:** *A Utah gunsmithing shop helped define the mechanical grammar of modern small arms.*
 
 ## Summary
@@ -40,12 +41,12 @@ This work's impact is inseparable from organized violence. Browning designs help
 
 ## Evidence
 
-- [Source record: ASME Browning Firearms Collection](browning-firearms-asme-or-official.md)
-- [ASME: Browning Firearms Collection](https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection)
-- [National Inventors Hall of Fame: John Moses Browning](https://www.invent.org/inductees/john-moses-browning)
-- [Ogden City: Browning Firearms Museum](https://www.ogdencity.gov/1333/Browning-Firearms)
-- [U.S. Air Force Museum: weapon designs of John Moses Browning](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/4232201/elegant-simplicity-the-weapon-designs-of-john-moses-browning/)
-- [U.S. Army Ordnance Corps Hall of Fame: John M. Browning](https://goordnance.army.mil/HallOfFame/1970/1974/browning.html)
+- [Source record: ASME Browning Firearms Collection](browning-firearms-asme-or-official.md) · https://greatutah.work/pages/browning-firearms-asme-or-official.md · https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
+- [ASME: Browning Firearms Collection](https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection) · https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
+- [National Inventors Hall of Fame: John Moses Browning](https://www.invent.org/inductees/john-moses-browning) · https://www.invent.org/inductees/john-moses-browning
+- [Ogden City: Browning Firearms Museum](https://www.ogdencity.gov/1333/Browning-Firearms) · https://www.ogdencity.gov/1333/Browning-Firearms
+- [U.S. Air Force Museum: weapon designs of John Moses Browning](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/4232201/elegant-simplicity-the-weapon-designs-of-john-moses-browning/) · https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/4232201/elegant-simplicity-the-weapon-designs-of-john-moses-browning/
+- [U.S. Army Ordnance Corps Hall of Fame: John M. Browning](https://goordnance.army.mil/HallOfFame/1970/1974/browning.html) · https://goordnance.army.mil/HallOfFame/1970/1974/browning.html
 
 ## Open Questions
 

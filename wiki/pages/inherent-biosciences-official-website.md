@@ -32,4 +32,4 @@ This is an official company source. It is useful for product positioning, epigen
 
 ## See Also
 
-- [Nucleus Utah: Redefining male fertility](https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth) — third-party Utah ecosystem profile cited in legacy research
+- [Nucleus Utah: Redefining male fertility](https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth) · https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth — third-party Utah ecosystem profile cited in legacy research

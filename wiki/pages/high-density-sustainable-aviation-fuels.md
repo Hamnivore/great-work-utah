@@ -10,10 +10,11 @@
 **Updated:** 2026-06-25
 **Domain:** aerospace-defense, energy
 **Region:** Salt Lake City
+**Website:** https://cleanjoule.com
 **Pull:** *Salt Lake City companies are developing drop-in fuels that may let long-haul aircraft and missiles travel farther on the same tankful — if the performance claims survive independent validation.*
-**Relates:** cites [CleanJoule Official Website](cleanjoule-official-website.md)
-**Relates:** cites [CycloKinetics Official Website](cyclokinetics-official-website.md)
-**Relates:** cites [GenZero: CleanJoule $50M Investment](genzero-cleanjoule-50m.md)
+**Relates:** cites [CleanJoule Official Website](cleanjoule-official-website.md) · https://greatutah.work/pages/cleanjoule-official-website.md · https://cleanjoule.com
+**Relates:** cites [CycloKinetics Official Website](cyclokinetics-official-website.md) · https://greatutah.work/pages/cyclokinetics-official-website.md
+**Relates:** cites [GenZero: CleanJoule $50M Investment](genzero-cleanjoule-50m.md) · https://greatutah.work/pages/genzero-cleanjoule-50m.md
 
 ## Summary
 
@@ -37,14 +38,14 @@ Both CleanJoule and CycloKinetics are headquartered in Salt Lake City, with manu
 
 ## Evidence
 
-- [CleanJoule: company](https://cleanjoule.com/company/) — [source record](cleanjoule-official-website.md)
-- [CleanJoule: technology](https://cleanjoule.com/technology/)
-- [GenZero: CleanJoule $50M investment](https://genzero.co/cleanjoule-announces-us50m-investment-by-international-consortium-to-accelerate-sustainable-aviation-fuel-production/) — [source record](genzero-cleanjoule-50m.md)
-- [Utah Business: CleanJoule commissions CJ1 industrial manufacturing facility](https://www.utahbusiness.com/press-releases/2025/07/08/cleanjoule-commissions-industrial-manufacturing-facility-cj1-advanced-fuel-production/)
-- [CycloKinetics: company](https://cyclokinetics.com/) — [source record](cyclokinetics-official-website.md)
-- [GlobeNewswire: CycloKinetics launch](https://www.globenewswire.com/news-release/2026/05/04/3286740/0/en/CycloKinetics-Launches-as-Dedicated-Aerospace-and-Defense-Propellant-Company-Built-on-15-Years-of-U-S-Military-Collaboration.html)
-- [Flying: CycloKinetics profile](https://www.flyingmag.com/cyclokinetics-fuel-military-farther-faster/)
-- [DOE: sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels)
+- [CleanJoule: company](https://cleanjoule.com/company/) · https://cleanjoule.com/company/ — [source record](cleanjoule-official-website.md) · https://greatutah.work/pages/cleanjoule-official-website.md
+- [CleanJoule: technology](https://cleanjoule.com/technology/) · https://cleanjoule.com/technology/
+- [GenZero: CleanJoule $50M investment](https://genzero.co/cleanjoule-announces-us50m-investment-by-international-consortium-to-accelerate-sustainable-aviation-fuel-production/) · https://genzero.co/cleanjoule-announces-us50m-investment-by-international-consortium-to-accelerate-sustainable-aviation-fuel-production/ — [source record](genzero-cleanjoule-50m.md) · https://greatutah.work/pages/genzero-cleanjoule-50m.md
+- [Utah Business: CleanJoule commissions CJ1 industrial manufacturing facility](https://www.utahbusiness.com/press-releases/2025/07/08/cleanjoule-commissions-industrial-manufacturing-facility-cj1-advanced-fuel-production/) · https://www.utahbusiness.com/press-releases/2025/07/08/cleanjoule-commissions-industrial-manufacturing-facility-cj1-advanced-fuel-production/
+- [CycloKinetics: company](https://cyclokinetics.com/) · https://cyclokinetics.com/ — [source record](cyclokinetics-official-website.md) · https://greatutah.work/pages/cyclokinetics-official-website.md
+- [GlobeNewswire: CycloKinetics launch](https://www.globenewswire.com/news-release/2026/05/04/3286740/0/en/CycloKinetics-Launches-as-Dedicated-Aerospace-and-Defense-Propellant-Company-Built-on-15-Years-of-U-S-Military-Collaboration.html) · https://www.globenewswire.com/news-release/2026/05/04/3286740/0/en/CycloKinetics-Launches-as-Dedicated-Aerospace-and-Defense-Propellant-Company-Built-on-15-Years-of-U-S-Military-Collaboration.html
+- [Flying: CycloKinetics profile](https://www.flyingmag.com/cyclokinetics-fuel-military-farther-faster/) · https://www.flyingmag.com/cyclokinetics-fuel-military-farther-faster/
+- [DOE: sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) · https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels
 
 ## Open Questions
 

@@ -41,13 +41,13 @@ Silicon Slopes events and Utah tech community venues. Confirm current availabili
 
 ## Evidence
 
-- [Pluralsight](pluralsight.md)
+- [Pluralsight](pluralsight.md) · https://greatutah.work/pages/pluralsight.md
 
 ## See Also
 
-- [Pluralsight](pluralsight.md)
-- [Ryan Smith (Qualtrics)](ryan-smith-qualtrics.md) — Qualtrics co-founder; peer in Utah's defining SaaS exits
-- [Josh James](josh-james.md) — Omniture/Domo founder; same Silicon Slopes generation
+- [Pluralsight](pluralsight.md) · https://greatutah.work/pages/pluralsight.md
+- [Ryan Smith (Qualtrics)](ryan-smith-qualtrics.md) · https://greatutah.work/pages/ryan-smith-qualtrics.md — Qualtrics co-founder; peer in Utah's defining SaaS exits
+- [Josh James](josh-james.md) · https://greatutah.work/pages/josh-james.md — Omniture/Domo founder; same Silicon Slopes generation
 
 ## Open Questions
 

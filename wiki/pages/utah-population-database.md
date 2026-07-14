@@ -8,6 +8,7 @@
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://uofuhealth.utah.edu/huntsman/utah-population-database
 **Updated:** 2026-05-16
 **Pull:** *Utah turned family history into one of the country's most unusual instruments for studying inherited disease.*
 
@@ -41,10 +42,10 @@ The population is not representative of global human diversity, and findings may
 
 ## Evidence
 
-- [Source record: Utah Population Database Official Page](utah-population-database-official.md)
-- [Utah Population Database — U of U Health](https://uofuhealth.utah.edu/huntsman/utah-population-database)
-- [Learn.Genetics: Genetics in Utah](https://learn.genetics.utah.edu/content/science/utah/)
-- [C&EN: Streamlining Utah's Population Database](https://cen.acs.org/articles/83/i41/Streamlining-Utahs-Population-Database.html)
+- [Source record: Utah Population Database Official Page](utah-population-database-official.md) · https://greatutah.work/pages/utah-population-database-official.md · https://uofuhealth.utah.edu/huntsman/utah-population-database
+- [Utah Population Database — U of U Health](https://uofuhealth.utah.edu/huntsman/utah-population-database) · https://uofuhealth.utah.edu/huntsman/utah-population-database
+- [Learn.Genetics: Genetics in Utah](https://learn.genetics.utah.edu/content/science/utah/) · https://learn.genetics.utah.edu/content/science/utah/
+- [C&EN: Streamlining Utah's Population Database](https://cen.acs.org/articles/83/i41/Streamlining-Utahs-Population-Database.html) · https://cen.acs.org/articles/83/i41/Streamlining-Utahs-Population-Database.html
 
 ## Open Questions
 

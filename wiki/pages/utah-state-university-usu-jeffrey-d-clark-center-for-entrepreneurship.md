@@ -7,6 +7,7 @@
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
+**Website:** https://huntsman.usu.edu/ecenter/
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -54,8 +55,8 @@ It is less direct for a nonstudent founder who only needs capital, manufacturing
 
 ## Evidence
 
-- [USU Center for Entrepreneurship Page](usu-center-for-entrepreneurship.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
+- [USU Center for Entrepreneurship Page](usu-center-for-entrepreneurship.md) · https://greatutah.work/pages/usu-center-for-entrepreneurship.md · https://huntsman.usu.edu/ecenter/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 

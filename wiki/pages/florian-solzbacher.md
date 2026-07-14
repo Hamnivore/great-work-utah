@@ -41,12 +41,12 @@ Blackrock Neurotech and University of Utah neuroengineering channels.
 
 ## Evidence
 
-- [Blackrock Neurotech](blackrock-neurotech.md)
+- [Blackrock Neurotech](blackrock-neurotech.md) · https://greatutah.work/pages/blackrock-neurotech.md
 
 ## See Also
 
-- [Blackrock Neurotech](blackrock-neurotech.md)
-- [SCI Institute](sci-institute.md)
+- [Blackrock Neurotech](blackrock-neurotech.md) · https://greatutah.work/pages/blackrock-neurotech.md
+- [SCI Institute](sci-institute.md) · https://greatutah.work/pages/sci-institute.md
 
 ## Open Questions
 

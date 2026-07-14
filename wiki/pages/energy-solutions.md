@@ -31,12 +31,12 @@ The Clive facility, about 80 miles west of Salt Lake City, is the only commercia
 
 ## Evidence
 
-- [Official Website](https://www.energysolutions.com)
+- [Official Website](https://www.energysolutions.com) · https://www.energysolutions.com
 
 ## See Also
 
-- [US Magnesium](us-magnesium.md) — the established incumbent on Great Salt Lake shores, using evaporative methods on a legacy permit
-- [NSA Utah Data Center](nsa-utah-data-center.md) — another example of Utah hosting specialized national-security infrastructure
+- [US Magnesium](us-magnesium.md) · https://greatutah.work/pages/us-magnesium.md — the established incumbent on Great Salt Lake shores, using evaporative methods on a legacy permit
+- [NSA Utah Data Center](nsa-utah-data-center.md) · https://greatutah.work/pages/nsa-utah-data-center.md — another example of Utah hosting specialized national-security infrastructure
 
 ## Open Questions
 

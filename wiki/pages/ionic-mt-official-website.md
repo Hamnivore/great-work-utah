@@ -33,5 +33,5 @@ This is an official company source. Product performance claims (15% loading / 2x
 
 ## See Also
 
-- [Series B press release](https://ionicmt.com/press/ionic-mineral-technologies-closes-oversubscribed-29-million-series-b-to-scale-u-s-production-of-advanced-battery-materials) — official announcement of the July 2025 funding round
-- [Silicon Ridge lease announcement](https://ionicmt.com/press/ionic-mt-secures-4000-acre-halloysite-lease-silicon-ridge-to-support-next-generation-battery-material-production) — November 2024 press release on the 4,000-acre mineral lease
+- [Series B press release](https://ionicmt.com/press/ionic-mineral-technologies-closes-oversubscribed-29-million-series-b-to-scale-u-s-production-of-advanced-battery-materials) · https://ionicmt.com/press/ionic-mineral-technologies-closes-oversubscribed-29-million-series-b-to-scale-u-s-production-of-advanced-battery-materials — official announcement of the July 2025 funding round
+- [Silicon Ridge lease announcement](https://ionicmt.com/press/ionic-mt-secures-4000-acre-halloysite-lease-silicon-ridge-to-support-next-generation-battery-material-production) · https://ionicmt.com/press/ionic-mt-secures-4000-acre-halloysite-lease-silicon-ridge-to-support-next-generation-battery-material-production — November 2024 press release on the 4,000-acre mineral lease

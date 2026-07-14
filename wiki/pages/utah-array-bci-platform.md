@@ -8,6 +8,7 @@
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/
 **Updated:** 2026-06-18
 **Pull:** *A Utah-originated electrode array became the standard recording tool for human brain-computer interface research.*
 
@@ -57,11 +58,11 @@ For Utah, the story is a long-horizon deep-tech bet: hardware-first, biology-awa
 
 ## Evidence
 
-- [Blackrock Neurotech](blackrock-neurotech.md)
-- [Source: Blackrock Neurotech and the Utah Array](blackrock-utah-array-medical-design.md)
-- [Blackrock Neurotech: Utah Array](https://blackrockneurotech.com/products/utah-array/)
-- [Blackrock Neurotech: NeuroPort Electrode](https://blackrockneurotech.com/products/neuroport-array/)
-- [MoveAgain FDA Breakthrough Device designation](https://blackrockneurotech.com/insights/blackrock-neurotechs-moveagain-brain-computer-interface-system-receives-breakthrough-device-designation-from-the-fda/)
+- [Blackrock Neurotech](blackrock-neurotech.md) · https://greatutah.work/pages/blackrock-neurotech.md
+- [Source: Blackrock Neurotech and the Utah Array](blackrock-utah-array-medical-design.md) · https://greatutah.work/pages/blackrock-utah-array-medical-design.md · https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/
+- [Blackrock Neurotech: Utah Array](https://blackrockneurotech.com/products/utah-array/) · https://blackrockneurotech.com/products/utah-array/
+- [Blackrock Neurotech: NeuroPort Electrode](https://blackrockneurotech.com/products/neuroport-array/) · https://blackrockneurotech.com/products/neuroport-array/
+- [MoveAgain FDA Breakthrough Device designation](https://blackrockneurotech.com/insights/blackrock-neurotechs-moveagain-brain-computer-interface-system-receives-breakthrough-device-designation-from-the-fda/) · https://blackrockneurotech.com/insights/blackrock-neurotechs-moveagain-brain-computer-interface-system-receives-breakthrough-device-designation-from-the-fda/
 
 ## Open Questions
 

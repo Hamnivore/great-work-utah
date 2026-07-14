@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.rebelmedicine.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/rebel-medicine-alevatrix-2026/1600/1100
 **Pull:** *A 72-hour injectable local anesthetic that could spare opioids after routine surgery — if it beats an entrenched incumbent.*
-**Relates:** cites [Official Website: Rebel Medicine](rebel-medicine-official-website.md)
+**Relates:** cites [Official Website: Rebel Medicine](rebel-medicine-official-website.md) · https://greatutah.work/pages/rebel-medicine-official-website.md · https://www.rebelmedicine.com/
 
 ## Summary
 
@@ -50,12 +51,12 @@ Rebel Medicine is headquartered in Salt Lake City and sits in Utah's growing hea
 
 ## Evidence
 
-- [Official Website: Rebel Medicine](rebel-medicine-official-website.md)
+- [Official Website: Rebel Medicine](rebel-medicine-official-website.md) · https://greatutah.work/pages/rebel-medicine-official-website.md · https://www.rebelmedicine.com/
 
 ## See Also
 
-- [Epitel](epitel.md) — Utah medtech neighbor in non-opioid / neurological monitoring space
-- [Sethera Therapeutics](sethera-therapeutics.md) — Utah biotech spinout at a much earlier platform stage
+- [Epitel](epitel.md) · https://greatutah.work/pages/epitel.md — Utah medtech neighbor in non-opioid / neurological monitoring space
+- [Sethera Therapeutics](sethera-therapeutics.md) · https://greatutah.work/pages/sethera-therapeutics.md — Utah biotech spinout at a much earlier platform stage
 
 ## Open Questions
 

@@ -45,13 +45,13 @@ Founder Obert C. Tanner (1904–1993) was also a noted University of Utah philos
 
 ## Evidence
 
-- [Official Website](https://www.octanner.com)
+- [Official Website](https://www.octanner.com) · https://www.octanner.com
 - O.C. Tanner Institute Global Culture Report (annual research publication)
 
 ## See Also
 
-- [BambooHR](bamboohr.md) — another Utah HR technology company, focused on SMB HR software
-- [Qualtrics](qualtrics.md) — Utah experience-management company with adjacent employee-experience products
+- [BambooHR](bamboohr.md) · https://greatutah.work/pages/bamboohr.md — another Utah HR technology company, focused on SMB HR software
+- [Qualtrics](qualtrics.md) · https://greatutah.work/pages/qualtrics.md — Utah experience-management company with adjacent employee-experience products
 
 ## Open Questions
 

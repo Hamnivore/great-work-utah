@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.myriad.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/myriad-genetics-diagnostics-slc-2026/1600/1100
 **Pull:** *Thirty years of clinical genetic testing from Salt Lake City — hereditary cancer, oncology genomics, reproductive health, and beyond.*
-**Relates:** cites [Official Website: Myriad Genetics](myriad-genetics-official-website.md)
+**Relates:** cites [Official Website: Myriad Genetics](myriad-genetics-official-website.md) · https://greatutah.work/pages/myriad-genetics-official-website.md · https://www.myriad.com/
 
 ## Summary
 
@@ -56,14 +57,14 @@ In the present tense, Myriad is part of Utah's "Genome Valley" cluster — a con
 
 ## Evidence
 
-- [Official Website: Myriad Genetics](myriad-genetics-official-website.md)
+- [Official Website: Myriad Genetics](myriad-genetics-official-website.md) · https://greatutah.work/pages/myriad-genetics-official-website.md · https://www.myriad.com/
 
 ## See Also
 
-- [Myriad Genetics BRCA Sequencing and Testing](myriad-genetics-brca.md)
-- [Utah Population Database](utah-population-database.md)
-- [BioFire Diagnostics](biofire-diagnostics.md)
-- [Huntsman Cancer Institute](huntsman-cancer-institute.md)
+- [Myriad Genetics BRCA Sequencing and Testing](myriad-genetics-brca.md) · https://greatutah.work/pages/myriad-genetics-brca.md
+- [Utah Population Database](utah-population-database.md) · https://greatutah.work/pages/utah-population-database.md
+- [BioFire Diagnostics](biofire-diagnostics.md) · https://greatutah.work/pages/biofire-diagnostics.md
+- [Huntsman Cancer Institute](huntsman-cancer-institute.md) · https://greatutah.work/pages/huntsman-cancer-institute.md
 
 ## Open Questions
 

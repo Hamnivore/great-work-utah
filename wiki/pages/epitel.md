@@ -8,12 +8,13 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.epitel.com/
 **Domain:** health-bio
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/epitel-remi-ambulatory-eeg-2026/1600/1100
 **Pull:** *Wireless EEG patches that move seizure monitoring out of hospital units and into patients' daily lives.*
-**Relates:** cites [Official Website: Epitel](epitel-official-website.md)
+**Relates:** cites [Official Website: Epitel](epitel-official-website.md) · https://greatutah.work/pages/epitel-official-website.md · https://www.epitel.com/
 
 ## Summary
 
@@ -53,13 +54,13 @@ Epitel is headquartered in Salt Lake City and traces to the University of Utah N
 
 ## Evidence
 
-- [Official Website: Epitel](epitel-official-website.md)
+- [Official Website: Epitel](epitel-official-website.md) · https://greatutah.work/pages/epitel-official-website.md · https://www.epitel.com/
 
 ## See Also
 
-- [Blackrock Neurotech](blackrock-neurotech.md) — Utah neighbor in implantable and systems-level neural interfaces
-- [SCI Institute](sci-institute.md) — Utah academic infrastructure for neural engineering
-- [Utah Array BCI Platform](utah-array-bci-platform.md) — contrasting Utah neural-hardware lineage (intracortical versus scalp EEG)
+- [Blackrock Neurotech](blackrock-neurotech.md) · https://greatutah.work/pages/blackrock-neurotech.md — Utah neighbor in implantable and systems-level neural interfaces
+- [SCI Institute](sci-institute.md) · https://greatutah.work/pages/sci-institute.md — Utah academic infrastructure for neural engineering
+- [Utah Array BCI Platform](utah-array-bci-platform.md) · https://greatutah.work/pages/utah-array-bci-platform.md — contrasting Utah neural-hardware lineage (intracortical versus scalp EEG)
 
 ## Open Questions
 

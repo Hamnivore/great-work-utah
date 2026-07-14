@@ -8,6 +8,7 @@
 **Primary Location:** Promontory and Brigham City, UT
 **Utah Location:** Promontory and Brigham City, UT
 **Region:** Box Elder County
+**Website:** https://www.nasa.gov/history/rogersrep/genindex.htm
 **Updated:** 2026-05-16
 **Pull:** *A remote Utah facility became one of America's central solid-propulsion factories.*
 
@@ -39,10 +40,10 @@ The Challenger disaster is part of this page, not an aside. The Shuttle's O-ring
 
 ## Evidence
 
-- [Northrop Grumman: Promontory and solid rocket motors](https://www.northropgrumman.com/space/solid-rocket-boosters)
-- [Official Source: NASA Thiokol Solid Rocket Boosters](nasa-thiokol-solid-rocket-boosters.md)
-- [Rogers Commission Report on the Space Shuttle Challenger accident](https://history.nasa.gov/rogersrep/genindex.htm)
-- [Wikipedia: Thiokol](https://en.wikipedia.org/wiki/Thiokol)
+- [Northrop Grumman: Promontory and solid rocket motors](https://www.northropgrumman.com/space/solid-rocket-boosters) · https://www.northropgrumman.com/space/solid-rocket-boosters
+- [Official Source: NASA Thiokol Solid Rocket Boosters](nasa-thiokol-solid-rocket-boosters.md) · https://greatutah.work/pages/nasa-thiokol-solid-rocket-boosters.md · https://www.nasa.gov/history/rogersrep/genindex.htm
+- [Rogers Commission Report on the Space Shuttle Challenger accident](https://history.nasa.gov/rogersrep/genindex.htm) · https://history.nasa.gov/rogersrep/genindex.htm
+- [Wikipedia: Thiokol](https://en.wikipedia.org/wiki/Thiokol) · https://en.wikipedia.org/wiki/Thiokol
 
 ## Open Questions
 

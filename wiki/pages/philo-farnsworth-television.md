@@ -8,9 +8,10 @@
 **Primary Location:** San Francisco, CA; Philadelphia, PA
 **Utah Location:** Beaver, UT
 **Region:** Beaver
+**Website:** https://www.census.gov/about/history/stories/monthly/2023/september-2023.html
 **Updated:** 2026-06-19
-**Relates:** cites [U.S. Census Bureau — Philo Farnsworth and the Invention of Television (2023)](farnsworth-census-bureau-history.md)
-**Relates:** cites [Linda Hall Library — Philo Farnsworth Scientist of the Day](farnsworth-linda-hall-library.md)
+**Relates:** cites [U.S. Census Bureau — Philo Farnsworth and the Invention of Television (2023)](farnsworth-census-bureau-history.md) · https://greatutah.work/pages/farnsworth-census-bureau-history.md · https://www.census.gov/about/history/stories/monthly/2023/september-2023.html
+**Relates:** cites [Linda Hall Library — Philo Farnsworth Scientist of the Day](farnsworth-linda-hall-library.md) · https://greatutah.work/pages/farnsworth-linda-hall-library.md · https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/
 **Pull:** *A Utah-born farm boy sketched the idea for electronic television on a high-school chalkboard — and beat RCA to the patent.*
 
 ## Summary
@@ -61,10 +62,10 @@ By the standard of "great work *done in* Utah," Farnsworth is more of an origin 
 
 ## Evidence
 
-- [Wikipedia: Philo Farnsworth](https://en.wikipedia.org/wiki/Philo_Farnsworth) — birth in Beaver UT (1906), Sept. 7, 1927 transmission, 1935 patent ruling, 1939 RCA $1M license.
-- [U.S. Census Bureau (2023): Philo Farnsworth and the Invention of Television](https://www.census.gov/about/history/stories/monthly/2023/september-2023.html) — Beaver UT birthplace, Jan. 7, 1927 patent filing, Sept. 7, 1927 demonstration. — [source record](farnsworth-census-bureau-history.md)
-- [Linda Hall Library: Philo Farnsworth — Scientist of the Day](https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/) — San Francisco lab, image dissector and display tube, the 1927 demonstration. — [source record](farnsworth-linda-hall-library.md)
-- [Encyclopedia.com: Farnsworth, Philo T.](https://www.encyclopedia.com/arts/news-wires-white-papers-and-books/farnsworth-philo-t) — image-dissector mechanism and the RCA legal challenge.
+- [Wikipedia: Philo Farnsworth](https://en.wikipedia.org/wiki/Philo_Farnsworth) · https://en.wikipedia.org/wiki/Philo_Farnsworth — birth in Beaver UT (1906), Sept. 7, 1927 transmission, 1935 patent ruling, 1939 RCA $1M license.
+- [U.S. Census Bureau (2023): Philo Farnsworth and the Invention of Television](https://www.census.gov/about/history/stories/monthly/2023/september-2023.html) · https://www.census.gov/about/history/stories/monthly/2023/september-2023.html — Beaver UT birthplace, Jan. 7, 1927 patent filing, Sept. 7, 1927 demonstration. — [source record](farnsworth-census-bureau-history.md) · https://greatutah.work/pages/farnsworth-census-bureau-history.md
+- [Linda Hall Library: Philo Farnsworth — Scientist of the Day](https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/) · https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/ — San Francisco lab, image dissector and display tube, the 1927 demonstration. — [source record](farnsworth-linda-hall-library.md) · https://greatutah.work/pages/farnsworth-linda-hall-library.md
+- [Encyclopedia.com: Farnsworth, Philo T.](https://www.encyclopedia.com/arts/news-wires-white-papers-and-books/farnsworth-philo-t) · https://www.encyclopedia.com/arts/news-wires-white-papers-and-books/farnsworth-philo-t — image-dissector mechanism and the RCA legal challenge.
 - Evan I. Schwartz, *The Last Lone Inventor* (2002) — book-length account of Farnsworth and the RCA patent battle.
 
 ## Open Questions

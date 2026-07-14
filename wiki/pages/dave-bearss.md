@@ -41,14 +41,14 @@ University of Utah Therapeutic Accelerator Hub and Halia Therapeutics public cha
 
 ## Evidence
 
-- [Halia Therapeutics](halia-therapeutics.md)
-- [Huntsman Cancer Institute](huntsman-cancer-institute.md)
+- [Halia Therapeutics](halia-therapeutics.md) · https://greatutah.work/pages/halia-therapeutics.md
+- [Huntsman Cancer Institute](huntsman-cancer-institute.md) · https://greatutah.work/pages/huntsman-cancer-institute.md
 
 ## See Also
 
-- [Halia Therapeutics](halia-therapeutics.md)
-- [Huntsman Cancer Institute](huntsman-cancer-institute.md)
-- [Curza](curza.md) — another U of U therapeutics spinout
+- [Halia Therapeutics](halia-therapeutics.md) · https://greatutah.work/pages/halia-therapeutics.md
+- [Huntsman Cancer Institute](huntsman-cancer-institute.md) · https://greatutah.work/pages/huntsman-cancer-institute.md
+- [Curza](curza.md) · https://greatutah.work/pages/curza.md — another U of U therapeutics spinout
 
 ## Open Questions
 

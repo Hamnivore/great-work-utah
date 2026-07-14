@@ -8,10 +8,11 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://arch.cs.utah.edu
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/utah-arch-2026/1600/1100
-**Relates:** cites [Official Website: Utah Arch Research Group](utah-arch-official-website.md)
+**Relates:** cites [Official Website: Utah Arch Research Group](utah-arch-official-website.md) · https://greatutah.work/pages/utah-arch-official-website.md · https://arch.cs.utah.edu
 
 ## Summary
 
@@ -57,11 +58,11 @@ For students and postdocs interested in hardware architecture at the ML/security
 
 ## Evidence
 
-- [Official Website: Utah Arch Research Group](utah-arch-official-website.md)
+- [Official Website: Utah Arch Research Group](utah-arch-official-website.md) · https://greatutah.work/pages/utah-arch-official-website.md · https://arch.cs.utah.edu
 
 ## See Also
 
-- [Ripple Neuro](ripple-neuro.md) — another Utah scientific-infrastructure entity working at the hardware/science intersection
+- [Ripple Neuro](ripple-neuro.md) · https://greatutah.work/pages/ripple-neuro.md — another Utah scientific-infrastructure entity working at the hardware/science intersection
 
 ## Open Questions
 

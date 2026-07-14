@@ -8,6 +8,7 @@
 **Primary Location:** West Valley City, UT
 **Utah Location:** West Valley City, UT
 **Region:** West Valley City
+**Website:** https://nusano.com
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/nusano-radioisotope-accelerator-2026/1600/1100
@@ -47,7 +48,7 @@ Nusano adds a genuinely unusual capability to Utah's industrial base: large-scal
 
 ## Evidence
 
-- [Source: Nusano Official Website and Facility-Opening / Series C Announcements](nusano-official-website.md)
+- [Source: Nusano Official Website and Facility-Opening / Series C Announcements](nusano-official-website.md) · https://greatutah.work/pages/nusano-official-website.md · https://nusano.com
 
 ## Open Questions
 

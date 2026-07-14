@@ -8,11 +8,12 @@
 **Primary Location:** Mendon, UT
 **Utah Location:** Mendon, UT; Lehi, UT
 **Region:** Mendon; Lehi
+**Website:** https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/asi-mobius-off-road-autonomy-2026/1600/1100
 **Pull:** *Twenty-five years of OEM-agnostic autonomy for tractors, haul trucks, and industrial fleets — Mobius at industrial scale.*
-**Relates:** cites [Source: ASI Construction Launch with SoftBank and Lehi Office](asi-construction-softbank.md)
+**Relates:** cites [Source: ASI Construction Launch with SoftBank and Lehi Office](asi-construction-softbank.md) · https://greatutah.work/pages/asi-construction-softbank.md · https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/
 
 ## Summary
 
@@ -53,8 +54,8 @@ ASI is a flagship Utah robotics story: USU spinout, Mendon roots, growing Wasatc
 
 ## Evidence
 
-- [Official Website: Autonomous Solutions, Inc.](autonomous-solutions-inc-official-website.md)
-- [Source: ASI Construction Launch with SoftBank and Lehi Office](asi-construction-softbank.md)
+- [Official Website: Autonomous Solutions, Inc.](autonomous-solutions-inc-official-website.md) · https://greatutah.work/pages/autonomous-solutions-inc-official-website.md · https://asirobots.com
+- [Source: ASI Construction Launch with SoftBank and Lehi Office](asi-construction-softbank.md) · https://greatutah.work/pages/asi-construction-softbank.md · https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/
 
 ## Open Questions
 

@@ -8,6 +8,7 @@
 **Primary Location:** Utah Test and Training Range, UT
 **Utah Location:** Utah West Desert
 **Region:** West Desert
+**Website:** https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
 **Updated:** 2026-05-16
 **Pull:** *Utah's West Desert became national-scale infrastructure for testing aircraft, weapons, and the systems around them.*
 
@@ -39,11 +40,11 @@ This entry is about national test capability, not approval of the weapons tested
 
 ## Evidence
 
-- [Source record: Hill AFB Utah Test and Training Range Fact Sheet](utah-test-training-range-source.md)
-- [Hill AFB: Utah Test and Training Range fact sheet](https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/)
-- [Air Force Historical Research Agency: Utah Test and Training Range](https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/3377124/utah-test-and-training-range-acc/)
-- [Utah DEQ: UTTR facility overview](https://deq.utah.gov/businesses-facilities/utah-test-and-training-facility-overview)
-- [JT4: Utah Test and Training Range](https://www.jt4llc.com/what-we-do/utah-test-and-training-range-uttr/)
+- [Source record: Hill AFB Utah Test and Training Range Fact Sheet](utah-test-training-range-source.md) · https://greatutah.work/pages/utah-test-training-range-source.md · https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
+- [Hill AFB: Utah Test and Training Range fact sheet](https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/) · https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
+- [Air Force Historical Research Agency: Utah Test and Training Range](https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/3377124/utah-test-and-training-range-acc/) · https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/3377124/utah-test-and-training-range-acc/
+- [Utah DEQ: UTTR facility overview](https://deq.utah.gov/businesses-facilities/utah-test-and-training-facility-overview) · https://deq.utah.gov/businesses-facilities/utah-test-and-training-facility-overview
+- [JT4: Utah Test and Training Range](https://www.jt4llc.com/what-we-do/utah-test-and-training-range-uttr/) · https://www.jt4llc.com/what-we-do/utah-test-and-training-range-uttr/
 
 ## Open Questions
 

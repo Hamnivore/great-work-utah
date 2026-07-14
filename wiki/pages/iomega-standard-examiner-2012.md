@@ -8,7 +8,7 @@
 **Publisher:** Standard-Examiner (Ogden, UT)
 **Accessed:** 2026-06-19
 **Updated:** 2026-06-19
-**Relates:** cites [Iomega Zip Drive](iomega-zip-drive.md)
+**Relates:** cites [Iomega Zip Drive](iomega-zip-drive.md) · https://greatutah.work/pages/iomega-zip-drive.md
 
 ## Summary
 

@@ -8,11 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://palladyneai.com/
 **Updated:** 2026-06-25
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/sarcos-guardian-xo-exoskeleton-2026/1600/1100
 **Pull:** *Full-body powered exoskeletons and remote-manipulation robots for the workers who move heavy things in dangerous places.*
-**Relates:** cites [Official Website: Sarcos](sarcos-official-website.md)
+**Relates:** cites [Official Website: Sarcos](sarcos-official-website.md) · https://greatutah.work/pages/sarcos-official-website.md · https://palladyneai.com/
 
 ## Summary
 
@@ -42,12 +43,12 @@ Sarcos has deep roots in the University of Utah's robotics and bioengineering tr
 
 ## Evidence
 
-- [Official Website: Sarcos](https://www.sarcos.com)
+- [Official Website: Sarcos](https://www.sarcos.com) · https://www.sarcos.com
 
 ## See Also
 
-- [Palladyne AI](palladyne-ai.md) — adjacent Salt Lake City robotics and autonomous systems company
-- [Space Dynamics Laboratory](space-dynamics-laboratory.md) — USU research organization in adjacent defense robotics and sensors
+- [Palladyne AI](palladyne-ai.md) · https://greatutah.work/pages/palladyne-ai.md — adjacent Salt Lake City robotics and autonomous systems company
+- [Space Dynamics Laboratory](space-dynamics-laboratory.md) · https://greatutah.work/pages/space-dynamics-laboratory.md — USU research organization in adjacent defense robotics and sensors
 
 ## Open Questions
 

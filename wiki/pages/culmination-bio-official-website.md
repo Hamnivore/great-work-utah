@@ -32,4 +32,4 @@ This is an official company source. It is useful for platform positioning, data-
 
 ## See Also
 
-- [Intermountain Health launch announcement (2023)](https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/) — parent-system announcement cited in legacy seed material; not yet captured as a dedicated wiki source page
+- [Intermountain Health launch announcement (2023)](https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/) · https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/ — parent-system announcement cited in legacy seed material; not yet captured as a dedicated wiki source page

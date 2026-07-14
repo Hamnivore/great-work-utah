@@ -7,6 +7,7 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Website:** https://business.utah.gov/usbci/
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -49,7 +50,7 @@ USBCI is a better fit for revenue-generating or asset-backed businesses than for
 
 ## Evidence
 
-- [GOEO USBCI Page](goeo-usbci.md)
+- [GOEO USBCI Page](goeo-usbci.md) · https://greatutah.work/pages/goeo-usbci.md · https://business.utah.gov/usbci/
 
 ## Open Questions
 

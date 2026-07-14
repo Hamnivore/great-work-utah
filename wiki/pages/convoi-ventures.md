@@ -9,6 +9,7 @@
 **Updated:** 2026-05-09
 **Domain:** capital-programs
 **Region:** statewide
+**Website:** https://startup.utah.gov/resources/
 **Layout:** field-guide
 
 ## Summary
@@ -69,9 +70,9 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md)
-- [Startup State Resource List source note](startup-utah-resource-list.md)
-- [Official website](https://www.convoiventures.com/)
+- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://www.convoiventures.com/) · https://www.convoiventures.com/
 
 ## Open Questions
 

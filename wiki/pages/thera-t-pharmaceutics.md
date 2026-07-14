@@ -8,10 +8,11 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://thera-tpharmaceutics.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/thera-t-pharmaceutics-2026/1600/1100
-**Relates:** cites [Official Website: Thera-T Pharmaceutics](thera-t-pharmaceutics-official-website.md)
+**Relates:** cites [Official Website: Thera-T Pharmaceutics](thera-t-pharmaceutics-official-website.md) · https://greatutah.work/pages/thera-t-pharmaceutics-official-website.md · https://thera-tpharmaceutics.com
 
 ## Summary
 
@@ -49,7 +50,7 @@ The blood cancer immunotherapy space is crowded nationally, but Thera-T's multi-
 
 ## Evidence
 
-- [Official Website: Thera-T Pharmaceutics](thera-t-pharmaceutics-official-website.md)
+- [Official Website: Thera-T Pharmaceutics](thera-t-pharmaceutics-official-website.md) · https://greatutah.work/pages/thera-t-pharmaceutics-official-website.md · https://thera-tpharmaceutics.com
 
 ## See Also
 

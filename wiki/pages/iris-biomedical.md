@@ -8,10 +8,11 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Website:** https://www.irisbiomed.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/iris-biomedical-2026/1600/1100
-**Relates:** cites [Official Website: Iris Biomedical](iris-biomedical-official-website.md)
+**Relates:** cites [Official Website: Iris Biomedical](iris-biomedical-official-website.md) · https://greatutah.work/pages/iris-biomedical-official-website.md · https://www.irisbiomed.com
 
 ## Summary
 
@@ -52,12 +53,12 @@ This concentration means Utah has an unusual depth of implantable-device manufac
 
 ## Evidence
 
-- [Official Website: Iris Biomedical](iris-biomedical-official-website.md)
+- [Official Website: Iris Biomedical](iris-biomedical-official-website.md) · https://greatutah.work/pages/iris-biomedical-official-website.md · https://www.irisbiomed.com
 
 ## See Also
 
-- [Blackrock Neurotech](blackrock-neurotech.md) — the most prominent Utah-based clinical BCI company; a key customer type for neural-interface manufacturing services
-- [Ripple Neuro](ripple-neuro.md) — another Utah neural engineering company in the same BCI hardware cluster
+- [Blackrock Neurotech](blackrock-neurotech.md) · https://greatutah.work/pages/blackrock-neurotech.md — the most prominent Utah-based clinical BCI company; a key customer type for neural-interface manufacturing services
+- [Ripple Neuro](ripple-neuro.md) · https://greatutah.work/pages/ripple-neuro.md — another Utah neural engineering company in the same BCI hardware cluster
 
 ## Open Questions
 

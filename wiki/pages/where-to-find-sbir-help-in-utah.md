@@ -35,11 +35,11 @@ If the founder has no agency topic yet, start with Nucleus Grow. If the founder 
 
 ## Evidence
 
-- [Startup Capital in Utah](startup-capital-in-utah.md)
-- [Nucleus Grow](nucleus-grow.md)
-- [Utah Technology Innovation Funding](utif.md)
-- [Utah Innovation Center](utah-innovation-center.md)
-- [Utah SBDC](utah-sbdc.md)
+- [Startup Capital in Utah](startup-capital-in-utah.md) · https://greatutah.work/pages/startup-capital-in-utah.md
+- [Nucleus Grow](nucleus-grow.md) · https://greatutah.work/pages/nucleus-grow.md
+- [Utah Technology Innovation Funding](utif.md) · https://greatutah.work/pages/utif.md
+- [Utah Innovation Center](utah-innovation-center.md) · https://greatutah.work/pages/utah-innovation-center.md
+- [Utah SBDC](utah-sbdc.md) · https://greatutah.work/pages/utah-sbdc.md
 
 ## Open Questions
 

@@ -33,5 +33,5 @@ Customer counts, market share, and financial performance belong in NRG Energy SE
 
 ## See Also
 
-- [NRG Energy press release: Vivint acquisition completed (March 2023)](https://www.nrg.com/assets/documents/about/vivint/NRG_Completes_Acquisition_of_Vivint_Smart_Home.pdf) — parent-company confirmation of subsidiary status
-- [Wikipedia: Vivint](https://en.wikipedia.org/wiki/Vivint) — independent timeline of founding, Blackstone ownership, SPAC listing, and NRG acquisition (cross-check dates against primary sources)
+- [NRG Energy press release: Vivint acquisition completed (March 2023)](https://www.nrg.com/assets/documents/about/vivint/NRG_Completes_Acquisition_of_Vivint_Smart_Home.pdf) · https://www.nrg.com/assets/documents/about/vivint/NRG_Completes_Acquisition_of_Vivint_Smart_Home.pdf — parent-company confirmation of subsidiary status
+- [Wikipedia: Vivint](https://en.wikipedia.org/wiki/Vivint) · https://en.wikipedia.org/wiki/Vivint — independent timeline of founding, Blackstone ownership, SPAC listing, and NRG acquisition (cross-check dates against primary sources)

@@ -31,4 +31,4 @@ This is an official company source. It is useful for current product categories,
 
 ## See Also
 
-- [Wikipedia: Skullcandy](https://en.wikipedia.org/wiki/Skullcandy) — independent background on founding, ownership changes, and company history
+- [Wikipedia: Skullcandy](https://en.wikipedia.org/wiki/Skullcandy) · https://en.wikipedia.org/wiki/Skullcandy — independent background on founding, ownership changes, and company history

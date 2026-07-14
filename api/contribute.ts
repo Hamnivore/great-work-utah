@@ -32,7 +32,7 @@ function validate(body: Body): { error?: string; kind?: 'note' | 'page' } {
     errors.push('"kind" must be "note" or "page".')
   }
   if (typeof path !== 'string' || !PATH_RE.test(path)) {
-    errors.push('"path" must match pages/<slug>.md (lowercase letters, digits, hyphens).')
+    errors.push('"path" must match pages/{slug}.md (lowercase letters, digits, hyphens).')
   }
   if (typeof content !== 'string') {
     errors.push('"content" must be a string.')
@@ -135,25 +135,37 @@ export default async function handler(req: Req, res: Res) {
 
   // req.body is a getter that throws before we run if the JSON is malformed —
   // access it inside try/catch so agents get a real error body, not an empty 400.
+  const jsonShape =
+    'Send Content-Type: application/json with a body like {"kind":"note","path":"pages/example.md","content":"at least 15 chars"}'
   let raw: unknown
   try {
     raw = req.body
   } catch {
-    res.status(400).json({ ok: false, error: 'Body must be valid JSON: { "kind": "note"|"page", "path": "pages/<slug>.md", ... }' })
+    res.status(400).json({ ok: false, error: `Body must be valid JSON. ${jsonShape}` })
     return
   }
   let body: Body
   if (typeof raw === 'string') {
+    if (!raw.trim()) {
+      res.status(400).json({
+        ok: false,
+        error: `Empty body — set Content-Type: application/json and send a JSON object. ${jsonShape}`,
+      })
+      return
+    }
     try {
       body = JSON.parse(raw) as Body
     } catch {
-      res.status(400).json({ ok: false, error: 'Body must be valid JSON: { "kind": "note"|"page", "path": "pages/<slug>.md", ... }' })
+      res.status(400).json({ ok: false, error: `Body must be valid JSON. ${jsonShape}` })
       return
     }
   } else if (raw && typeof raw === 'object') {
     body = raw as Body
   } else {
-    res.status(400).json({ ok: false, error: 'Body must be a JSON object: { "kind": "note"|"page", "path": "pages/<slug>.md", ... }' })
+    res.status(400).json({
+      ok: false,
+      error: `Body missing or not a JSON object — set Content-Type: application/json. ${jsonShape}`,
+    })
     return
   }
 

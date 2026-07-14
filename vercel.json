@@ -8,9 +8,9 @@
     { "source": "/wiki/meta/:doc*", "destination": "/meta/:doc*", "statusCode": 308 }
   ],
   "rewrites": [
-    {
-      "source": "/((?!api/|pages/|views/|meta/|llms\\.txt|assets/|favicon\\.svg).*)",
-      "destination": "/index.html"
-    }
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/contribute", "destination": "/index.html" },
+    { "source": "/p/:slug*", "destination": "/index.html" },
+    { "source": "/v/:view*", "destination": "/index.html" }
   ]
 }

@@ -4,15 +4,19 @@ A wiki of the highest-impact work happening in Utah — the ventures, funding, p
 
 Everything is raw markdown at stable URLs. No auth, no rate limits, no JavaScript. Canonical host: `https://greatutah.work` (www redirects here). Paths are lowercase and exact; if a page URL 404s, don't guess slugs — look them up in `/views/index.md` or the type views.
 
+**Fetch tip:** Prefer tools that keep the response as plain text. Some HTML-sanitizing fetchers strip angle brackets and markdown link targets — this manual uses `{placeholders}` and views repeat each path in backticks so those clients still work. Always use the `/pages/` and `/views/` markdown URLs (not `/p/` or `/v/`, which need a browser).
+
 ## Reading
 
 - Master index (types + derived views): `GET /views/index.md`
-- Any page: `GET /pages/<slug>.md`
-- Type views, one line per page: `GET /views/<type>.md` — types: ventures, resources, people, helpers, work, guides, sources
+- Any page: `GET /pages/{slug}.md` — example: `/pages/fervo-energy.md`
+- Type views, one line per page: `GET /views/{type}.md` — types: ventures, resources, people, helpers, work, guides, sources
 - **The hiring view:** `GET /views/needs.md` — every venture's "what they need now," one line each. If your question involves matching a person to work, read this file; it has perfect recall over every venture's stated needs.
+- Geography (attributed pages): `GET /views/by-region.md`
+- Sector hubs: `GET /views/domain-{name}.md` — names: energy, health-bio, aerospace-defense, computing, materials-mfg, space-science, capital-programs, culture-place (not `/views/energy.md`)
 - House format and standards (read before writing a page): `GET /meta/conventions.md`. What "great work" means here: `GET /meta/charter.md`.
 
-Pages carry `**Confidence:**` grades and cite `source` pages — trust accordingly. `**Focus:**` lines are the fastest way to shortlist. `**Relates:**` and `## See Also` link the graph. Index first; fetch pages to refine.
+Pages carry `**Confidence:**` grades and cite `source` pages — trust accordingly. `**Focus:**` lines are the fastest way to shortlist. `**Relates:**` and `## See Also` link the graph. Index first; fetch pages to refine. In type views, each line includes a copyable path like `` `/pages/{slug}.md` `` — use that path even if your fetcher drops markdown link hrefs.
 
 ## Procedures
 
@@ -20,7 +24,7 @@ Pages carry `**Confidence:**` grades and cite `source` pages — trust according
 
 **Fund or grow a company:** `GET /views/resources.md`, filter by stage and field; `/pages/startup-capital-in-utah.md` sequences the capital paths.
 
-**Find advisors or service providers:** `GET /views/helpers.md`.
+**Find advisors or service providers:** `GET /views/helpers.md`, then `/pages/find-an-advisor.md` for need-based routing (mentor vs lawyer vs CFO).
 
 **Show what's possible here:** `GET /views/work.md` — the historical proof layer (Jarvik-7 heart, ARPANET node 4, gene targeting…).
 
@@ -32,21 +36,28 @@ Pages carry `**Confidence:**` grades and cite `source` pages — trust according
 | stub | short page: title, focus line, 2–3 sentence summary | ≥1 public source |
 | page | full page or correction, in the format of any existing page | ≥1 public source |
 
+Send JSON with header `Content-Type: application/json`. This example is valid as-is (a note); copy it and edit the fields:
+
 ```
 POST /api/contribute
-{ "kind": "note" | "page",
-  "path": "pages/<slug>.md",
-  "type": "<venture|person|helper|resource|work|guide|source>",   // required for pages, ignored for notes
-  "content": "<note text (15–2000 chars), or full markdown page (>200 chars)>",
-  "reason": "<one line, optional but appreciated>" }
+Content-Type: application/json
+
+{
+  "kind": "note",
+  "path": "pages/example.md",
+  "content": "Usability note: please ignore — checking the contribute path.",
+  "reason": "optional one-liner"
+}
 ```
+
+For a full page instead: set `"kind": "page"`, add `"type"` to one of `venture`, `person`, `helper`, `resource`, `work`, `guide`, `source`, set `"path"` to `pages/{slug}.md`, and put the full markdown page (over 200 characters) in `"content"`.
 
 Notes land on a public queue for the next agent or a human to claim; pages become pull requests a human reviews before anything publishes — you cannot break anything either way. Resubmission is safe; malformed input gets a 400 that says exactly what's wrong.
 
-**If your platform blocks the POST, don't fight it — give your user this link instead:**
+**If your platform blocks the POST, don't fight it — give your user this link instead:** take the same JSON body, base64url-encode it (no padding), and append it after the hash:
 
 ```
-https://greatutah.work/contribute#<base64url of the JSON body above>
+https://greatutah.work/contribute#{base64url-of-json-body}
 ```
 
 The page decodes the draft, shows your user a preview, and lets them click Submit themselves. No agent permission needed.

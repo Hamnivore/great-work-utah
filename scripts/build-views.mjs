@@ -20,7 +20,9 @@ for (const f of fs.readdirSync(PAGES).sort()) {
   const raw = fs.readFileSync(path.join(PAGES, f), 'utf8')
   const domain = meta(raw, 'Domain')
   pages.push({
-    file: f, url: `../pages/${f}`,
+    // Path is repeated in backticks so HTML-sanitizing fetchers (which drop
+    // markdown hrefs) still expose a copyable /pages/{slug}.md URL.
+    file: f, url: `../pages/${f}`, path: `/pages/${f}`,
     title: (raw.match(/^# (.+)$/m) || [, f])[1].trim(),
     type: meta(raw, 'Type'),
     focus: meta(raw, 'Focus'),
@@ -33,7 +35,7 @@ for (const f of fs.readdirSync(PAGES).sort()) {
   })
 }
 
-const line = (p, extra = '') => `- [${p.title}](${p.url}) · ${clip(p.focus || p.summary, 120)} · conf:${p.conf}${extra}\n`
+const line = (p, extra = '') => `- [${p.title}](${p.url}) · \`${p.path}\` · ${clip(p.focus || p.summary, 120)} · conf:${p.conf}${extra}\n`
 const write = (name, content) => fs.writeFileSync(path.join(VIEWS, name), content)
 
 // ---- type indexes ----
@@ -52,7 +54,7 @@ let needs = `# Who needs people right now\n\nEvery page's "What They Need Now," 
 const STALE = Date.now() - 183 * 24 * 3600 * 1000
 for (const p of needers) {
   const stale = p.needsReviewed && new Date(p.needsReviewed).getTime() < STALE
-  needs += `- **[${p.title}](${p.url})** — ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed}${stale ? ' — may be stale' : ''})*` : ''}\n`
+  needs += `- **[${p.title}](${p.url})** · \`${p.path}\` — ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed}${stale ? ' — may be stale' : ''})*` : ''}\n`
 }
 write('needs.md', needs)
 
@@ -68,29 +70,29 @@ for (const d of DOMAINS) {
     const s = prim.filter(filt)
     if (!s.length) continue
     hub += `\n## ${label}\n\n`
-    for (const p of s) hub += `- [${p.title}](${p.url})${p.region ? ` · ${p.region}` : ''} · ${clip(p.focus || p.summary, 100)}\n`
+    for (const p of s) hub += `- [${p.title}](${p.url}) · \`${p.path}\`${p.region ? ` · ${p.region}` : ''} · ${clip(p.focus || p.summary, 100)}\n`
   }
   const withNeeds = prim.filter((p) => p.needs)
   if (withNeeds.length) {
     hub += `\n## Who they need right now\n\n`
-    for (const p of withNeeds) hub += `- [${p.title}](${p.url}): ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed})*` : ''}\n`
+    for (const p of withNeeds) hub += `- [${p.title}](${p.url}) · \`${p.path}\`: ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed})*` : ''}\n`
   }
   if (sec.length) {
     hub += `\n## Also relevant (primary elsewhere)\n\n`
-    for (const p of sec) hub += `- [${p.title}](${p.url}) — primary: ${p.domains[0]}\n`
+    for (const p of sec) hub += `- [${p.title}](${p.url}) · \`${p.path}\` — primary: ${p.domains[0]}\n`
   }
   write(`domain-${d}.md`, hub)
 }
 
-// ---- by-region ----
+// ---- by Utah location ----
 const regional = attributed.filter((p) => p.region)
 if (regional.length) {
-  let reg = `# By region\n\nGenerated from \`**Region:**\` metadata (attributed pages only).\n`
+  let reg = `# By Utah location\n\nGenerated from normalized \`**Region:**\` metadata, which is derived from \`**Utah Location:**\` during the location-schema rollout.\n`
   const byR = {}
   for (const p of regional) (byR[p.region] ||= []).push(p)
   for (const [r, sel] of Object.entries(byR).sort()) {
     reg += `\n## ${r}\n\n`
-    for (const p of sel) reg += `- [${p.title}](${p.url}) · ${p.domains.join(', ')}\n`
+    for (const p of sel) reg += `- [${p.title}](${p.url}) · \`${p.path}\` · ${p.domains.join(', ')}\n`
   }
   write('by-region.md', reg)
 }
@@ -99,7 +101,7 @@ if (regional.length) {
 const count = (t) => pages.filter((p) => p.type === t).length
 write('index.md', `# greatutah.work — master index
 
-All pages live flat at \`/pages/<slug>.md\`; every view below is generated from page metadata and always current. Conventions: [meta/conventions.md](../meta/conventions.md) · attributes: [meta/attributes.md](../meta/attributes.md) · what "great work" means here: [meta/charter.md](../meta/charter.md)
+All pages live flat at \`/pages/{slug}.md\`; every view below is generated from page metadata and always current. Each listing repeats its path in backticks so HTML-sanitizing fetchers still expose fetchable URLs. Conventions: [meta/conventions.md](../meta/conventions.md) · attributes: [meta/attributes.md](../meta/attributes.md) · what "great work" means here: [meta/charter.md](../meta/charter.md)
 
 ## By type
 
@@ -114,7 +116,7 @@ All pages live flat at \`/pages/<slug>.md\`; every view below is generated from 
 ## Derived
 
 - [needs](needs.md) — every stated "what they need now," one line each: the hiring view
-- [by-region](by-region.md) — attributed pages by place
+- [by-region](by-region.md) — attributed pages by Utah location
 - Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md)`).join(' · ')}
 `)
 

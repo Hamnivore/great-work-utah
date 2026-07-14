@@ -6,11 +6,11 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 
 ### Domain / by-region attribution thin (RF, bio, rural under-listed)
 
-- **Seen:** 2026-07-14 (RF / rural / founder probes, round 2)
-- **Where:** `/views/domain-aerospace-defense.md`, `/views/by-region.md`, `/views/domain-health-bio.md`, rural stubs
-- **What:** Hubs only list attributed pages — IMSAR/Fortem/SDL/L3Harris missing from aerospace hub; Moab chambers invisible in by-region; health-bio nearly empty. Rural stubs Low confidence, often no official URL; Focus tags polluted (Aerospace/Agriculture on tourism pages).
-- **Impact:** Sector/geo-first agents under-recommend the best matches.
-- **Next check:** Attribution rollout; stub quality; Focus cleanup.
+- **Seen:** 2026-07-14 (RF / rural / founder probes, round 2–3)
+- **Where:** sector hubs, rural stubs
+- **What:** Hubs only list Domain-attributed pages. Round 3 attributed core RF/bio/computing ventures (IMSAR, Fortem, Recursion, Qualtrics, …). **by-region** no longer requires Domain (fixed 2026-07-14) — Cedar/Moab/Iron now appear when they have Region.
+- **Still open:** Many ventures still lack Domain; rural stubs Low confidence / polluted Focus; culture-place thin.
+- **Next check:** Keep attribution rollout; stub quality; Focus cleanup.
 
 ### Needs still inferred; no careers URLs; helpers often Draft
 
@@ -22,7 +22,7 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 
 ### Contribute: no rate limit / dedupe
 
-- **Seen:** 2026-07-14 (many notes in round 2, issues ~#14–#40)
+- **Seen:** 2026-07-14 (notes through ~#61+)
 - **Where:** `POST /api/contribute`
 - **What:** Rapid notes create many GitHub issues; no dedupe.
 - **Impact:** Queue noise (also a sign closing-the-loop works).
@@ -31,26 +31,37 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 ### Capital / advisor guides incomplete; UIF/UTIF collision; Silicon Slopes gap
 
 - **Seen:** 2026-07-14 (founder / advisor / wrong-slug probes)
-- **Where:** guides, angel/VC stubs, `sillicon-slopes` typo page, missing real Silicon Slopes org page
-- **What:** Guides omit life-sciences helpers / angels; UIF stub vs UTIF confusion; typo slug (redirect added for `silicon-slopes` → `sillicon-slopes`, still need a real page).
-- **Impact:** Capital and ecosystem routing under-serves founders.
-- **Next check:** Guide refresh; rename/alias Silicon Slopes properly; merge or cross-link UIF/Nucleus Fund.
+- **Where:** guides, angel/VC stubs, `sillicon-slopes` typo page
+- **What:** Guides omit life-sciences helpers / angels; UIF stub vs UTIF confusion; typo slug alias only.
+- **Next check:** Guide refresh; rename Silicon Slopes; cross-link UIF/Nucleus Fund.
 
-### No full-text search; agent-first human chrome
+### No full-text search; SPA still agent-leaning for humans
 
-- **Seen:** 2026-07-14 (human browse probe)
-- **Where:** `/`, nav, SPA
-- **What:** No search; nav is needs+contribute; homepage still agent-forward. Note form on `/contribute` shipped mid-round.
-- **Impact:** Humans struggle to browse ~600 pages.
-- **Next check:** Wishlist grep; quieter human browse mode.
+- **Seen:** 2026-07-14 (human browse probes)
+- **Where:** `/`, nav
+- **What:** No search. Round 3: nav labels “looking for work” / “founding”; footer quieter; index opens with those paths.
+- **Next check:** Wishlist grep; share/SSR if humans matter more.
 
 ### Evidence links often unfetchable via HTML sanitizers
 
-- **Seen:** 2026-07-14 (RF probe)
+- **Seen:** 2026-07-14 (RF / SWE probes)
 - **Where:** page Evidence / See Also
-- **What:** WebFetch drops hrefs; unlike views, page bodies don’t repeat paths in backticks.
-- **Impact:** Hard to follow sources after sanitizing fetch.
-- **Next check:** Evidence lines include `` `/pages/{slug}.md` `` or absolute URLs in plaintext.
+- **What:** WebFetch drops hrefs; page bodies don’t repeat paths in backticks like views do.
+- **Next check:** Evidence lines include plaintext paths or absolute URLs.
+
+## Fixed / closed (selected, round 3)
+
+### Day-1 founder / job-seeker entrypaths unclear
+
+- **Fixed:** 2026-07-14 — `llms.txt` first-visit procedures; master index lead-ins; human nav labels; Main Street → `find-business-services` + `by-region`.
+
+### Sector hubs missed RF / bio / SaaS employers
+
+- **Fixed:** 2026-07-14 (partial) — Domain on IMSAR, Fortem, L3Harris, SDL, Recursion, Teal, Wavetronix, Vector, Halia, Epitel, Qualtrics, Instructure.
+
+### by-region hid non-Domain pages (Cedar / Moab / Iron)
+
+- **Fixed:** 2026-07-14 — by-region includes every page with `**Region:**`.
 
 ## Fixed / closed
 

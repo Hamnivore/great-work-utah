@@ -64,6 +64,12 @@ On the canonical host:
 
 **GO.** The endpoint contract survived cold re-probes and production verification. It is stable enough for a human map to consume without creating a parallel data system. The map must use the same feed/contract, distinguish exact from approximate points, expose sparse coverage and provenance, support correction/removal, and avoid implying statewide completeness.
 
+## Human map verification
+
+The map shipped at `/map` in commit `e0dcb49`, consuming `/api/locations` directly. It provides statewide browsing, common-place and browser-location origins, radius/type/precision controls, exact-versus-approximate markers, distances, page and provenance links, the correction/removal path, and the API's sparse-coverage warning. The route is lazy-loaded so ordinary wiki browsing does not load Leaflet.
+
+Playwright full-page captures passed locally and on `https://greatutah.work/map` at 1440×1000 and 390×844. Tiles and all eight markers rendered; controls and text fit without overlap; the mobile view stacked the map and scan list cleanly. A production Ogden API regression still returned Startup Ogden then Clearfield Job Corps at 0.22 and 9.64 miles. Dependency audit reported zero vulnerabilities after the map dependency update.
+
 ## What this establishes and does not
 
 The experiment establishes discoverability, useful query ergonomics, correct distance behavior, page follow-through, privacy signaling, and an honest regional fallback. Eight points prove the plumbing, not statewide recall. Expanding verified location coverage remains a corpus task and should be measured separately from endpoint usability.

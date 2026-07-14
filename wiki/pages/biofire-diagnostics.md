@@ -11,6 +11,7 @@
 **Needs-reviewed:** 2026-06-18
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Careers:** https://www.biofiredx.com/company/career/
 **Website:** https://www.biofiredx.com
 **Ownership:** public
 **Hero:** https://picsum.photos/seed/biofire-filmarray-syndromic-pcr-2026/1600/1100

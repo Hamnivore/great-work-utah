@@ -8,6 +8,7 @@
 **Primary Location:** Springville, UT
 **Utah Location:** Springville, UT
 **Region:** Springville
+**Careers:** https://www.wavetronix.com/careers
 **Website:** https://www.wavetronix.com/
 **Domain:** aerospace-defense, computing
 **Updated:** 2026-06-18

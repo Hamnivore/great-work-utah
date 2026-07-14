@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://www.palladyneai.com/careers/
 **Website:** https://palladyneai.com/
 **Updated:** 2026-06-25
 **Needs-reviewed:** 2026-06-25

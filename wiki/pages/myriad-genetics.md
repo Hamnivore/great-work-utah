@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://myriad.com/careers/
 **Website:** https://www.myriad.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19

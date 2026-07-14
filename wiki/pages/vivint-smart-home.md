@@ -8,6 +8,7 @@
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
+**Careers:** https://www.vivint.com/company/careers
 **Website:** https://www.vivint.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19

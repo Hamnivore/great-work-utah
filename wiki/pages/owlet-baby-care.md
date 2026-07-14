@@ -8,6 +8,7 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Careers:** https://owletcare.com/pages/careers
 **Website:** https://owletcare.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19

@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://www.healthcatalyst.com/who-we-are/careers
 **Updated:** 2026-06-21
 **Needs-reviewed:** 2026-06-21
 **Pull:** *Utah's flagship healthcare-analytics public company — a full data-platform play for health systems trying to make value-based care work.*

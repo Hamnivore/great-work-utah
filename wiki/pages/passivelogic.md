@@ -10,6 +10,7 @@
 **Updated:** 2026-06-18
 **Domain:** energy, computing
 **Region:** Salt Lake City
+**Careers:** https://passivelogic.teamtailor.com/
 **Website:** https://passivelogic.com/
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/passivelogic-autonomous-buildings-slc-2026/1600/1100

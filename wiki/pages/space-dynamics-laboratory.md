@@ -8,6 +8,7 @@
 **Primary Location:** North Logan, UT
 **Utah Location:** North Logan, UT
 **Region:** North Logan
+**Careers:** https://www.sdl.usu.edu/careers/jobs
 **Website:** https://www.sdl.usu.edu
 **Domain:** space-science, aerospace-defense
 **Updated:** 2026-05-09

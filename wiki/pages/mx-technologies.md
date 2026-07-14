@@ -8,6 +8,7 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Careers:** https://www.mx.com/careers/
 **Updated:** 2026-06-21
 **Needs-reviewed:** 2026-06-21
 **Pull:** *One of Silicon Slopes' leading private fintech companies — open banking infrastructure for banks, credit unions, and fintech developers.*

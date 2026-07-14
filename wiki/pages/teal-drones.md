@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://tealdrones.com/careers/
 **Website:** https://tealdrones.com
 **Domain:** aerospace-defense
 **Updated:** 2026-06-18

@@ -25,7 +25,20 @@ const CAREERS = {
   'domo.md': 'https://www.domo.com/company/careers',
   'bamboohr.md': 'https://www.bamboohr.com/careers/',
   'lucid-software.md': 'https://lucid.co/careers',
-  'hexcel.md': 'https://www.hexcel.com/careers',
+  'hexcel.md': 'https://www.hexcel.com/careers/',
+  'space-dynamics-laboratory.md': 'https://www.sdl.usu.edu/careers/jobs',
+  'teal-drones.md': 'https://tealdrones.com/careers/',
+  'wavetronix.md': 'https://www.wavetronix.com/careers',
+  'northrop-grumman-promontory.md': 'https://www.northropgrumman.com/careers',
+  'mx-technologies.md': 'https://www.mx.com/careers/',
+  'passivelogic.md': 'https://passivelogic.teamtailor.com/',
+  'owlet-baby-care.md': 'https://owletcare.com/pages/careers',
+  'vivint-smart-home.md': 'https://www.vivint.com/company/careers',
+  'biofire-diagnostics.md': 'https://www.biofiredx.com/company/career/',
+  'myriad-genetics.md': 'https://myriad.com/careers/',
+  'health-catalyst.md': 'https://www.healthcatalyst.com/who-we-are/careers',
+  'sarcos-technology-and-robotics.md': 'https://www.palladyneai.com/careers/',
+  '309th-software-engineering-group.md': 'https://afscsoftware.dso.mil/careers/',
 }
 
 const sourceUrl = new Map()

@@ -8,6 +8,7 @@
 **Primary Location:** Promontory, UT
 **Utah Location:** Promontory, UT
 **Region:** Promontory
+**Careers:** https://www.northropgrumman.com/careers
 **Website:** https://www.northropgrumman.com/what-we-do/space/missions/artemis/program
 **Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-06-19

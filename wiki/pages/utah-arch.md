@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Merrill Engineering Building, 50 Central Campus Drive, Salt Lake City, UT 84112
+**Coordinates:** 40.7686069, -111.8445942
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Merrill+Engineering+Building+50+Central+Campus+Drive+Salt+Lake+City+UT+84112
 **Website:** https://arch.cs.utah.edu
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/utah-arch-2026/1600/1100
 **Relates:** cites [Official Website: Utah Arch Research Group](utah-arch-official-website.md) · https://greatutah.work/pages/utah-arch-official-website.md · https://arch.cs.utah.edu

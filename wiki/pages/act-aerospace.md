@@ -8,8 +8,12 @@
 **Primary Location:** Gunnison, UT
 **Utah Location:** Gunnison, UT
 **Region:** Gunnison
+**Map Location:** ACT Aerospace, 425 E 400 N, Gunnison, UT 84634
+**Coordinates:** 39.1639621, -111.8047289
+**Location Precision:** exact
+**Location Source:** https://actaero.com/contact-us/
 **Website:** https://actaero.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/act-aerospace-manufacturing-2026/1600/1100
 **Pull:** *Utah's composite structures specialist turning carbon fiber and resin into aerospace-qualified wing skins, control surfaces, and structural assemblies for the defense primes.*

@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 125 S State St, Room 2227, Salt Lake City, UT 84138
+**Coordinates:** 40.766686, -111.887425
+**Location Precision:** exact
+**Location Source:** https://www.sba.gov/district/utah
 **Website:** https://www.sba.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide

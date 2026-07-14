@@ -7,6 +7,10 @@
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
 **Region:** Cedar City
+**Map Location:** 545 W University Blvd, Cedar City, UT 84720
+**Coordinates:** 37.676983, -113.070009
+**Location Precision:** exact
+**Location Source:** https://www.suu.edu/business/entrepreneurship/contact.html
 **Website:** https://www.suu.edu/business/entrepreneurship/
 **Updated:** 2026-07-14
 **Layout:** field-guide

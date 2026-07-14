@@ -7,6 +7,10 @@
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County
 **Region:** Southeastern Utah
+**Map Location:** SERDA Admin Office, 252 S Fairgrounds Rd, Price, UT 84501
+**Coordinates:** 39.5957889, -110.8362394
+**Location Precision:** exact
+**Location Source:** https://serda.utah.gov/contact
 **Website:** https://seualg.utah.gov/index.php/economic-development/
 **Updated:** 2026-07-14
 **Layout:** field-guide

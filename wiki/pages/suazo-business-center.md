@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 960 W 1700 S, Salt Lake City, UT 84104
+**Coordinates:** 40.733722, -111.918349
+**Location Precision:** exact
+**Location Source:** https://suazocenter.org/
 **Website:** https://suazocenter.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

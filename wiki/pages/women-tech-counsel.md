@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 9750 S 300 W, Room 201F, Sandy, UT 84070
+**Coordinates:** 40.574374, -111.902393
+**Location Precision:** exact
+**Location Source:** https://wtccareers.com/contact-us/
 **Website:** https://www.womentechcouncil.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

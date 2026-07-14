@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 1594 W North Temple, Suite 100, Salt Lake City, UT 84116
+**Coordinates:** 40.772033, -111.937291
+**Location Precision:** exact
+**Location Source:** https://recreation.utah.gov/boating-overview-original/life-jackets-boating-safety/ten-things-you-need-to-know-before-you-boat/
 **Website:** https://recreation.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide

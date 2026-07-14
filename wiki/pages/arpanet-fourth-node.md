@@ -8,8 +8,12 @@
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Merrill Engineering Building, 50 Central Campus Drive, Salt Lake City, UT 84112
+**Coordinates:** 40.7686069, -111.8445942
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Merrill+Engineering+Building+50+Central+Campus+Drive+Salt+Lake+City+UT+84112
 **Website:** https://it.utah.edu/node4/posts/2017/august/node4-history.php
-**Updated:** 2026-05-16
+**Updated:** 2026-07-14
 **Pull:** *The original four-node ARPANET ended in Utah before it became the networked world.*
 
 ## Summary

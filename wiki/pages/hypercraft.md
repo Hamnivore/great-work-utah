@@ -8,6 +8,10 @@
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
+**Map Location:** 1200 Towne Centre Blvd, Suite D, Provo, UT 84601
+**Coordinates:** 40.2169746, -111.6627188
+**Location Precision:** exact
+**Location Source:** https://hypercraftusa.com/contact/
 **Domain:** aerospace-defense, energy
 **Website:** https://utah.vc/p/hypercraft-raises-26m
 **Careers:** https://hypercraftusa.com/careers/

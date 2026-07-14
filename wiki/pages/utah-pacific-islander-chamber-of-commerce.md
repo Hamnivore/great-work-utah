@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 1840 S 900 W, Lehi, UT 84043
+**Coordinates:** 40.365709, -111.863989
+**Location Precision:** exact
+**Location Source:** https://www.uschamber.com/co/chambers/utah
 **Website:** https://www.upichamber.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

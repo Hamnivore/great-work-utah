@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** LDS Hospital, 8th Avenue and C Street, Salt Lake City, UT 84143
+**Coordinates:** 40.7785080, -111.8805543
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=LDS+Hospital+8th+Avenue+and+C+Street+Salt+Lake+City+UT
 **Website:** https://en.wikipedia.org/wiki/Intermountain_Health
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Pull:** *A Utah health system treated care delivery itself as something to measure, engineer, and improve — without flattening clinical judgment.*
 **Relates:** cites [Source: Intermountain Clinical Quality Improvement Sources](intermountain-clinical-quality-improvement-sources.md) · https://greatutah.work/pages/intermountain-clinical-quality-improvement-sources.md · https://en.wikipedia.org/wiki/Intermountain_Health
 

@@ -8,8 +8,12 @@
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112
+**Coordinates:** 40.7644827, -111.8503646
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112
 **Website:** https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Pull:** *A Utah-originated electrode array became the standard recording tool for human brain-computer interface research.*
 
 ## Summary

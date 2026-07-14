@@ -4,16 +4,20 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Start a Business
-**Primary Location:** Pleasant Grove, UT
-**Utah Location:** Utah County, UT
-**Region:** Utah County
+**Primary Location:** Provo, UT
+**Utah Location:** Provo, UT
+**Region:** Provo
+**Map Location:** iHub Utah, 1555 N Freedom Blvd, Provo, UT 84604
+**Coordinates:** 40.2549196, -111.6622661
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=iHub%20Utah%201555%20N%20Freedom%20Blvd%20Provo%20UT%2084604
 **Website:** https://www.ihubutah.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Innovation Hub of Utah County (iHub), established in 2023, is a nonprofit incubator dedicated to assisting young entrepreneurs in Utah County. Located at 389 1300 W, Pleasant Grove, UT 84062, iHub serves as a central resource center for early-stage startups, offering a vast network of mentors to help entrepreneurs overcome obstacles and foster growth. The organization provides tangible solutions and expert advice, acting as a launchpad for entrepreneurs with validated business ideas, equipping them with the necessary tools and support to navigate the complexities of launching and scaling their ventures in today's competitive landscape.
+The Innovation Hub of Utah County (iHub) is a nonprofit startup incubator in Provo. Its official site describes a three-stage founder roadmap, a Founders Floor application path, 300+ mentors, and roughly 50,000 square feet of founder infrastructure including coworking, a maker space, a licensed commercial kitchen, and warehouse space.
 
 This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
 

@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 5397 S Vine St, Murray, UT 84107
+**Coordinates:** 40.653506, -111.870900
+**Location Precision:** exact
+**Location Source:** https://www.utahcounties.org/about-pages/about
 **Website:** https://www.uacnet.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

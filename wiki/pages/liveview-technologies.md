@@ -8,6 +8,11 @@
 **Primary Location:** American Fork, UT
 **Utah Location:** American Fork, UT
 **Region:** American Fork
+**Map Location:** LVT Headquarters, 802 E 1050 S, American Fork, UT 84003
+**Coordinates:** 40.3560867, -111.7762899
+**Location Precision:** exact
+**Location Source:** https://www.lvt.com/contact
+**Additional Map Location:** LVT Manufacturing, 151 E 3450 N, Spanish Fork, UT 84660 | 40.1546825, -111.6539214 | exact | https://www.lvt.com/contact
 **Website:** https://www.lvt.com
 **Careers:** https://job-boards.greenhouse.io/liveviewtechnologiesinc
 **Updated:** 2026-07-14

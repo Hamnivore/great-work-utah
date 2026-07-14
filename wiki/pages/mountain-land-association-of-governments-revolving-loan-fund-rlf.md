@@ -7,6 +7,10 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Mountainland region, UT
 **Region:** Mountainland
+**Map Location:** MAG Orem Office, 586 E 800 N, Orem, UT 84097
+**Coordinates:** 40.3113295, -111.6820358
+**Location Precision:** exact
+**Location Source:** https://magutah.gov/contact/
 **Website:** https://www.gohebervalley.com/Revolving-loan/
 **Updated:** 2026-07-14
 **Layout:** field-guide

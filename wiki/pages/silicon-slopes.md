@@ -7,6 +7,10 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 2600 W Executive Pkwy, Suite 140, Lehi, UT 84043
+**Coordinates:** 40.4277780, -111.8919324
+**Location Precision:** exact
+**Location Source:** https://www.siliconslopes.com/about-us
 **Website:** https://www.siliconslopes.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

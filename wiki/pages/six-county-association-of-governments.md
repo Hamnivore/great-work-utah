@@ -7,6 +7,10 @@
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County
 **Region:** Central Utah
+**Map Location:** R6 Regional Council, 82 E 600 N, Richfield, UT 84701
+**Coordinates:** 38.7760654, -112.0833003
+**Location Precision:** exact
+**Location Source:** https://r6.utah.gov/contact/
 **Website:** https://r6.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide

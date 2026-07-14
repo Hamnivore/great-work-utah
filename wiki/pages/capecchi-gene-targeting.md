@@ -7,9 +7,13 @@
 **Era:** 1973-present; core breakthrough in the 1980s; Nobel Prize in 2007
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
-**Updated:** 2026-05-16
+**Updated:** 2026-07-14
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Map Location:** University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112
+**Coordinates:** 40.7644827, -111.8503646
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112
 **Website:** https://www.nobelprize.org/prizes/medicine/2007/press-release/
 **Pull:** *A Utah lab helped make it possible to ask what any mammalian gene does by removing it on purpose.*
 

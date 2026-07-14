@@ -7,25 +7,15 @@ import { REGION_ANCHORS, REGION_SOURCE } from './region-anchors.mjs'
 const meta = (raw, key) =>
   (raw.match(new RegExp(`^\\*\\*${key}:\\*\\* (.+)$`, 'm')) || [])[1]?.trim() || ''
 
-export function pageToFeature(raw, file) {
-  const type = meta(raw, 'Type')
-  if (!['venture', 'person', 'helper', 'resource', 'work'].includes(type)) return null
+const additionalSites = (raw) => [...raw.matchAll(/^\*\*Additional Map Location:\*\* (.+)$/gm)].map((match) => {
+  const [label, coordinates, precision, source] = match[1].split(' | ').map((part) => part.trim())
+  return { label, coordinates, precision, source }
+})
 
-  const coordinates = meta(raw, 'Coordinates')
-  const region = meta(raw, 'Region')
-  const regionalAnchor = REGION_ANCHORS[region]
-  const useRegionalAnchor = type === 'person' || !coordinates
-  if (useRegionalAnchor && !regionalAnchor) return null
-
-  const title = (raw.match(/^# (.+)$/m) || [, file])[1].trim()
-  const label = useRegionalAnchor ? `${region} regional anchor (not a street address)` : meta(raw, 'Map Location')
-  const precision = useRegionalAnchor ? 'approximate' : meta(raw, 'Location Precision')
-  const source = useRegionalAnchor ? REGION_SOURCE : meta(raw, 'Location Source')
-  const focus = meta(raw, 'Focus')
-  const domains = meta(raw, 'Domain').split(',').map((value) => value.trim()).filter(Boolean)
+function siteToFeature({ label, coordinates, precision, source }, context, siteIndex, siteCount) {
+  const { file, title, type, region, domains, focus, useRegionalAnchor } = context
   const problems = []
-
-  const parts = useRegionalAnchor ? regionalAnchor : coordinates.split(',').map((part) => part.trim())
+  const parts = coordinates.split(',').map((part) => part.trim())
   const latitude = Number(parts[0])
   const longitude = Number(parts[1])
   if (parts.length !== 2 || !Number.isFinite(latitude) || !Number.isFinite(longitude)) {
@@ -43,9 +33,10 @@ export function pageToFeature(raw, file) {
   } catch {
     problems.push('Location Source must be a public HTTPS URL')
   }
-
   if (problems.length) throw new Error(`${file}: ${problems.join('; ')}`)
 
+  const slug = file.replace(/\.md$/, '')
+  const coordinateId = `${latitude.toFixed(6)},${longitude.toFixed(6)}`
   return {
     type: 'Feature',
     geometry: { type: 'Point', coordinates: [longitude, latitude] },
@@ -53,6 +44,9 @@ export function pageToFeature(raw, file) {
       title,
       type,
       url: `/pages/${file}`,
+      siteId: `${slug}:${coordinateId}`,
+      siteIndex,
+      siteCount,
       mapLocation: label,
       precision,
       provenance: source,
@@ -64,6 +58,47 @@ export function pageToFeature(raw, file) {
   }
 }
 
+export function pageToFeatures(raw, file) {
+  const type = meta(raw, 'Type')
+  if (!['venture', 'person', 'helper', 'resource', 'work'].includes(type)) return []
+
+  const coordinates = meta(raw, 'Coordinates')
+  const extras = additionalSites(raw)
+  const region = meta(raw, 'Region')
+  const regionalAnchor = REGION_ANCHORS[region]
+  const useRegionalAnchor = type === 'person' || !coordinates
+  if (extras.length && type === 'person') throw new Error(`${file}: person pages cannot publish additional map locations`)
+  if (extras.length && !coordinates) throw new Error(`${file}: Additional Map Location requires a primary map tuple`)
+  if (useRegionalAnchor && !regionalAnchor) return []
+
+  const title = (raw.match(/^# (.+)$/m) || [, file])[1].trim()
+  const label = useRegionalAnchor ? `${region} regional anchor (not a street address)` : meta(raw, 'Map Location')
+  const precision = useRegionalAnchor ? 'approximate' : meta(raw, 'Location Precision')
+  const source = useRegionalAnchor ? REGION_SOURCE : meta(raw, 'Location Source')
+  const focus = meta(raw, 'Focus')
+  const domains = meta(raw, 'Domain').split(',').map((value) => value.trim()).filter(Boolean)
+  const primary = { label, coordinates: useRegionalAnchor ? regionalAnchor.join(', ') : coordinates, precision, source }
+  const sites = [primary, ...extras]
+  const labels = new Set()
+  const coordinatePairs = new Set()
+  for (const site of sites) {
+    const labelKey = site.label.trim().toLowerCase().replace(/\s+/g, ' ')
+    const [latitude, longitude] = site.coordinates.split(',').map(Number)
+    const coordinateKey = `${latitude},${longitude}`
+    if (labels.has(labelKey) || coordinatePairs.has(coordinateKey)) {
+      throw new Error(`${file}: duplicate map location: ${site.label}`)
+    }
+    labels.add(labelKey)
+    coordinatePairs.add(coordinateKey)
+  }
+  const context = { file, title, type, region, domains, focus, useRegionalAnchor }
+  return sites.map((site, siteIndex) => siteToFeature(site, context, siteIndex, sites.length))
+}
+
+export function pageToFeature(raw, file) {
+  return pageToFeatures(raw, file)[0] || null
+}
+
 export function buildLocations(pagesDirectory) {
   const features = []
   const errors = []
@@ -71,8 +106,7 @@ export function buildLocations(pagesDirectory) {
     if (!file.endsWith('.md')) continue
     const raw = fs.readFileSync(path.join(pagesDirectory, file), 'utf8')
     try {
-      const feature = pageToFeature(raw, file)
-      if (feature) features.push(feature)
+      features.push(...pageToFeatures(raw, file))
     } catch (error) {
       errors.push(error.message)
     }

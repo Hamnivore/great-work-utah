@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 428 E Winchester St, Suite 210, Murray, UT 84107
+**Coordinates:** 40.631923, -111.878767
+**Location Precision:** exact
+**Location Source:** https://manufacturingutah.com/contact-us/
 **Website:** https://manufacturingutah.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

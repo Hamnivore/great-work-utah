@@ -8,8 +8,13 @@
 **Primary Location:** Orem and Provo, UT
 **Utah Location:** Orem and Provo, UT
 **Region:** Utah Valley
+**Map Location:** Former WordPerfect Campus, 1555 N Technology Way, Orem, UT 84057
+**Coordinates:** 40.3234160, -111.6800590
+**Location Precision:** exact
+**Location Source:** https://savagetaylor.com/TIL/TIL10073.pdf
+**Additional Map Location:** Former Novell Headquarters, 1800 S Novell Pl, Provo, UT 84606 | 40.2101837, -111.6557320 | exact | https://www.novell.com/documentation/nmas22/radius/data/legal.html
 **Website:** https://www.wordperfect.com/en/
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Pull:** *For about a decade, the world's most-used word processor and its most-used office network both shipped from Utah Valley.*
 
 ## Summary

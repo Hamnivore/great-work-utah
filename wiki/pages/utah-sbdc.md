@@ -7,6 +7,20 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 510 W 800 S, Cedar City, UT 84720
+**Coordinates:** 37.664119, -113.069922
+**Location Precision:** exact
+**Location Source:** https://utahsbdc.org/locations
+**Additional Map Location:** 450 S Simmons Way, Suite 100, Kaysville, UT 84037 | 41.027594, -111.925289 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 1770 Research Park Way, Suite 140, North Logan, UT 84341 | 41.764166, -111.819258 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 1850 S Aggie Blvd, Suite 155, Moab, UT 84532 | 38.544613, -109.526056 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 815 W 1250 S, Orem, UT 84058 | 40.273671, -111.715410 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 451 E 400 N, Price, UT 84501 | 39.607890, -110.804000 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 800 W 200 S, Room 170W, Richfield, UT 84701 | 38.765761, -112.098480 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 9750 S 300 W, Sandy, UT 84070 | 40.574374, -111.902393 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 339 S 5500 W, Hurricane, UT 84737 | 37.117175, -113.412082 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 88 S Tooele Blvd, Tooele, UT 84074 | 40.527851, -112.325761 | exact | https://utahsbdc.org/locations
+**Additional Map Location:** 320 N Aggie Blvd, Vernal, UT 84078 | 40.460030, -109.565800 | exact | https://statewide.usu.edu/uintahbasin/directory/contact
 **Website:** https://utahsbdc.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

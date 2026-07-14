@@ -7,6 +7,10 @@
 **Primary Location:** Vernal, UT
 **Utah Location:** Uinta Basin
 **Region:** Uinta Basin
+**Map Location:** 320 N Aggie Blvd, Vernal, UT 84078
+**Coordinates:** 40.460030, -109.565800
+**Location Precision:** exact
+**Location Source:** https://statewide.usu.edu/uintahbasin/directory/contact
 **Website:** https://statewide.usu.edu/uintahbasin/ecenter/
 **Updated:** 2026-07-14
 **Layout:** field-guide

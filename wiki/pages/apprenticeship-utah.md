@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 140 E 300 S, Salt Lake City, UT 84111
+**Coordinates:** 40.762605, -111.887143
+**Location Precision:** exact
+**Location Source:** https://jobs.utah.gov/
 **Website:** https://apprenticeship.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide

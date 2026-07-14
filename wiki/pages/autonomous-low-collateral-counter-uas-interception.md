@@ -8,8 +8,12 @@
 **Primary Location:** Lindon / Pleasant Grove, UT
 **Utah Location:** Lindon / Pleasant Grove, UT
 **Region:** Utah County
+**Map Location:** Fortem Technologies, 1064 S North County Blvd, Suite 600, Pleasant Grove, UT 84062
+**Coordinates:** 40.3514208, -111.7601618
+**Location Precision:** exact
+**Location Source:** https://fortemtech.com/policies/terms-of-use/
 **Website:** https://fortemtech.com/
-**Updated:** 2026-06-25
+**Updated:** 2026-07-14
 **Pull:** *Fortem's drone-hunting drones are building the case that you can stop a cheap quadcopter without debris, jamming, or collateral damage.*
 **Relates:** cites [Fortem Technologies Official Website](fortem-official-website.md) · https://greatutah.work/pages/fortem-official-website.md · https://fortemtech.com/
 **Relates:** cites [Fortem: Advanced Manufacturing Headquarters](fortem-manufacturing-hq-2025.md) · https://greatutah.work/pages/fortem-manufacturing-hq-2025.md · https://fortemtech.com/press-releases/2025-06-17-fortem-technologies-opens-new-advanced-manufacturing-headquarters-to-meet-global-demand-for-counter-drone-defense/

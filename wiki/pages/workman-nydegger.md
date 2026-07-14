@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Workman Nydegger, 60 E South Temple, Suite 1000, Salt Lake City, UT 84111
+**Coordinates:** 40.7692887, -111.8893790
+**Location Precision:** exact
+**Location Source:** https://www.wnlaw.com/contact/
 **Website:** https://www.wnlaw.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

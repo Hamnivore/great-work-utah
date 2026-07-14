@@ -7,6 +7,10 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Map Location:** 1835 S Convention Center Dr, St. George, UT 84790
+**Coordinates:** 37.077325, -113.582639
+**Location Precision:** exact
+**Location Source:** https://whatsupdownsouth.org/event/whats-up-down-south-2026/
 **Website:** https://whatsupdownsouth.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

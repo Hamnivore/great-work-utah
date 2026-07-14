@@ -7,9 +7,13 @@
 **Era:** 2010s–2023 Mars operations; Earth-scale follow-through ongoing
 **Primary Location:** North Salt Lake, UT
 **Utah Location:** North Salt Lake, UT
-**Updated:** 2026-06-25
+**Updated:** 2026-07-14
 **Domain:** space-science, energy, materials-mfg
 **Region:** North Salt Lake
+**Map Location:** OxEon Energy MOXIE development site, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054
+**Coordinates:** 40.8375993, -111.9441225
+**Location Precision:** exact
+**Location Source:** https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf
 **Website:** https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission
 **Pull:** *OxEon Energy in North Salt Lake built the electrochemical core that made oxygen on Mars for the first time in human history.*
 **Relates:** cites [NASA: MOXIE Completes Mars Mission](nasa-moxie-completes-mission.md) · https://greatutah.work/pages/nasa-moxie-completes-mission.md · https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission

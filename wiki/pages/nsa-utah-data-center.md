@@ -32,7 +32,7 @@ The engineering problems are genuinely hard: exabyte-scale storage at query-late
 
 The facility's role in mass surveillance of communications metadata — documented in the Snowden disclosures and subsequent reporting — is the fact that most makes it unusual to include on a careers map. Mass surveillance programs have critics across the political spectrum, from civil liberties organizations to constitutional conservatives. Whether the facility's work is net-positive world-changing is contested; reasonable people disagree. This wiki notes the disagreement explicitly rather than papering over it. Anyone considering work here should engage the ethics question seriously before committing.
 
-## What They Need
+## What They Need Now
 
 Cleared engineers (TS/SCI with polygraph is the typical gate), data engineers, cybersecurity specialists, and intelligence analysts. Most positions reach applicants through cleared contractors — Booz Allen, SAIC, Leidos — rather than NSA direct-hire. Direct NSA civilian employment is possible but the process is lengthy; the official IC careers portal for NSA is the agent-readable entry point for cleared federal hiring. Career path is institutional and primarily lateral within the cleared-contractor ecosystem.
 

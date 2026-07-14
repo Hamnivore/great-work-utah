@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 350 E 400 S, Salt Lake City, UT 84111
+**Coordinates:** 40.760409, -111.881027
+**Location Precision:** exact
+**Location Source:** https://www.linkedin.com/company/utah-black-chamber
 **Website:** https://www.utahblackchamber.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

@@ -40,6 +40,7 @@ Normative. Pages live flat in `pages/`, one namespace; everything else about org
 15. A map location is a discoverability anchor, not necessarily an entity's headquarters or full service area. `Primary Location`, `Utah Location`, and `Region` retain those meanings.
 16. Location corrections and removal requests use `POST /api/contribute` with `kind: note` and the affected page path. A request to remove an unsafe or unwanted point does not require a replacement location.
 17. A clearly named public Google Maps place listing is sufficient evidence for an organizational or work-site street address when no direct official location page is available. Prefer the official page when it publishes the address. A search result that identifies only a city, service area, mailbox, residence, or ambiguous namesake does not qualify.
+18. Multi-site entities keep one primary map tuple and repeat `**Additional Map Location:** address | latitude, longitude | exact | https://source` for each additional documented public Utah site. Each site becomes its own map and proximity-search point while linking to the same canonical page. Do not duplicate regional anchors or private/sensitive sites.
 
 ## P2 precedents (atoms)
 

@@ -7,9 +7,13 @@
 **Era:** 1878-1926
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
-**Updated:** 2026-05-16
+**Updated:** 2026-07-14
 **Domain:** aerospace-defense
 **Region:** Ogden
+**Map Location:** Browning Firearms Museum, Ogden Union Station, 2501 Wall Avenue, Ogden, UT 84401
+**Coordinates:** 41.2201170, -111.9791890
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Browning+Firearms+Museum+2501+Wall+Avenue+Ogden+UT+84401
 **Website:** https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
 **Pull:** *A Utah gunsmithing shop helped define the mechanical grammar of modern small arms.*
 

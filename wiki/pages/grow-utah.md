@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 450 Simmons Way, Suite 500, Kaysville, UT 84037
+**Coordinates:** 41.027594, -111.925289
+**Location Precision:** exact
+**Location Source:** https://growutah.com/about
 **Website:** https://www.growutah.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

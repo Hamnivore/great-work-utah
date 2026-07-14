@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 12459 S 300 E, Suite 102, Draper, UT 84020
+**Coordinates:** 40.524586, -111.881294
+**Location Precision:** exact
+**Location Source:** https://www.sec.gov/Archives/edgar/data/1940476/000194047624000002/0001940476-24-000002-index.html
 **Website:** https://tandeminvest.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

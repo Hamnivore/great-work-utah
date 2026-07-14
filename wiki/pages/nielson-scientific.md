@@ -8,6 +8,10 @@
 **Primary Location:** unknown
 **Utah Location:** unknown
 **Region:** unknown
+**Map Location:** 180 N University Ave, Suite 270, Provo, UT 84601
+**Coordinates:** 40.236147, -111.658396
+**Location Precision:** exact
+**Location Source:** https://www.cbinsights.com/company/nielson-scientific
 **Website:** https://science.osti.gov/sbir
 **Careers:** https://nielsonscientific.com/jobs-1
 **Updated:** 2026-07-14

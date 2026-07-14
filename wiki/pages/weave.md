@@ -8,6 +8,10 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** 1331 W Powell Way, Lehi, UT 84043
+**Coordinates:** 40.4162101, -111.8711012
+**Location Precision:** exact
+**Location Source:** https://www.getweave.com/legal/terms/
 **Careers:** https://www.getweave.com/careers/
 **Website:** https://www.getweave.com
 **Updated:** 2026-07-14

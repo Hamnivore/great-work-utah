@@ -7,6 +7,10 @@
 **Primary Location:** Weber County, UT
 **Utah Location:** Weber County, UT
 **Region:** Weber County
+**Map Location:** Weber County economic-development office, 2380 Washington Boulevard, Suite 360, Ogden, UT 84401
+**Coordinates:** 41.2231757, -111.9703339
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Weber+County+Economic+Development+2380+Washington+Boulevard+Ogden+UT
 **Website:** https://webercountyutah.gov/weberedp/new/index.html
 **Updated:** 2026-07-14
 **Layout:** field-guide

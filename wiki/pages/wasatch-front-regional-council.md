@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Davis County, UT; Morgan County, UT; Salt Lake County, UT; Tooele County, UT; Weber County, UT
 **Region:** Wasatch Front
+**Map Location:** Wasatch Front Regional Council, 41 N Rio Grande Street, Suite 103, Salt Lake City, UT 84101
+**Coordinates:** 40.7680904, -111.9039983
+**Location Precision:** exact
+**Location Source:** https://wfrc.org/contact/
 **Website:** https://wfrc.org/contact/
 **Updated:** 2026-07-14
 **Layout:** field-guide

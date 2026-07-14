@@ -9,6 +9,10 @@
 **Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Beaver-Iron-Garfield region
+**Map Location:** 510 W 800 S, Cedar City, UT 84720
+**Coordinates:** 37.664119, -113.069922
+**Location Precision:** exact
+**Location Source:** https://www.bigchamber.org/about
 **Website:** https://www.bigchamber.org/
 **Layout:** field-guide
 

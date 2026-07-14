@@ -7,8 +7,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** NOW CFO headquarters, 5251 Green Street, Suite 350, Murray, UT 84123
+**Coordinates:** 40.6575244, -111.9028652
+**Location Precision:** exact
+**Location Source:** https://www.nowcfo.com/wp-content/uploads/2022/09/NOW_CFO_BrandGuide_Q1_2022.pdf
 **Website:** https://nowcfo.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

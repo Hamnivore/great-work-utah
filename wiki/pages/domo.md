@@ -8,9 +8,13 @@
 **Primary Location:** American Fork, UT
 **Utah Location:** American Fork, UT
 **Region:** American Fork
+**Map Location:** 802 E 1050 S, American Fork, UT 84003
+**Coordinates:** 40.3560867, -111.7762899
+**Location Precision:** exact
+**Location Source:** https://www.domo.com/company/privacy-policy
 **Careers:** https://www.domo.com/company/careers
 **Website:** https://www.domo.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/domo-agentic-bi-american-fork-2026/1600/1100
 **Pull:** *Josh James's second act — unified business data with natural-language and agentic analytics for mid-market decision-makers.*

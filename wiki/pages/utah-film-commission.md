@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 300 N State St, Salt Lake City, UT 84114
+**Coordinates:** 40.775549, -111.887766
+**Location Precision:** exact
+**Location Source:** https://film.utah.gov/locations/
 **Website:** https://film.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide

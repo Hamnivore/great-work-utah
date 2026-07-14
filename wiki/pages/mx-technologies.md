@@ -8,8 +8,12 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** 3401 N Thanksgiving Way, Suite 500, Lehi, UT 84043
+**Coordinates:** 40.4297222, -111.8920550
+**Location Precision:** exact
+**Location Source:** https://www.mx.com/
 **Careers:** https://www.mx.com/careers/
-**Updated:** 2026-06-21
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-21
 **Pull:** *One of Silicon Slopes' leading private fintech companies — open banking infrastructure for banks, credit unions, and fintech developers.*
 

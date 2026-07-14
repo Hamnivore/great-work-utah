@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** Salt Palace Convention Center, 100 S W Temple St, Salt Lake City, UT 84101
+**Coordinates:** 40.7670894, -111.8942468
+**Location Precision:** exact
+**Location Source:** https://www.siliconslopes.com/c/events/summit-2026-innovation-doesn-t-slow-down
 **Website:** https://www.siliconslopes.com/summit
 **Updated:** 2026-07-14
 **Layout:** field-guide

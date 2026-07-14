@@ -7,6 +7,11 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 3065 W 5400 S, Taylorsville, UT 84129
+**Coordinates:** 40.652753, -111.964742
+**Location Precision:** exact
+**Location Source:** https://utahhcc.com/contact-us/
+**Additional Map Location:** 7181 S Campus View Dr, West Jordan, UT 84084 | 40.620495, -111.983019 | exact | https://utahhcc.com/contact-us/
 **Website:** https://utahhcc.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

@@ -7,6 +7,7 @@ import 'leaflet/dist/leaflet.css'
 import 'leaflet.markercluster/dist/MarkerCluster.css'
 
 type LocationResult = {
+  id: string
   title: string
   type: string
   page: string
@@ -21,6 +22,8 @@ type LocationResult = {
     distanceMiles: number | null
     provenance: string
     anchorKind: 'site' | 'regional'
+    siteIndex: number
+    siteCount: number
   }
 }
 
@@ -28,8 +31,11 @@ type LocationResponse = {
   ok: boolean
   coverage: {
     publishedPoints: number
+    publishedPages: number
     sitePoints: number
+    sitePages: number
     regionalPoints: number
+    regionalPages: number
     matchedPoints: number
     comprehensive: boolean
     note: string
@@ -67,7 +73,7 @@ export function MapPage() {
   const load = (query = '') => {
     setLoading(true)
     setError('')
-    fetch(`/api/locations?limit=500${query}`)
+    fetch(`/api/locations?limit=1000${query}`)
       .then(async (res) => {
         const body = await res.json()
         if (!res.ok) throw new Error(body.error?.message || `${res.status} ${res.statusText}`)
@@ -80,7 +86,7 @@ export function MapPage() {
 
   useEffect(() => {
     let active = true
-    fetch('/api/locations?limit=500')
+    fetch('/api/locations?limit=1000')
       .then(async (res) => {
         const body = await res.json()
         if (!res.ok) throw new Error(body.error?.message || `${res.status} ${res.statusText}`)
@@ -125,7 +131,7 @@ export function MapPage() {
         <div>
           <h1 className="font-display text-3xl text-twilight">Work across Utah</h1>
           <p className="mt-1 text-sm text-ink-soft">
-            {response ? `${response.coverage.publishedPoints} mapped pages · ${response.coverage.sitePoints} public sites · ${response.coverage.regionalPoints} regional anchors` : 'Public sites and regional anchors'}
+            {response ? `${response.coverage.publishedPages} mapped pages · ${response.coverage.sitePoints} public sites · ${response.coverage.regionalPages} regional anchors` : 'Public sites and regional anchors'}
           </p>
         </div>
         <a href="/contribute" className="text-xs text-twilight underline decoration-twilight/30 underline-offset-2">
@@ -195,7 +201,7 @@ export function MapPage() {
                 const count = cluster.getChildCount()
                 const size = count >= 100 ? 44 : count >= 10 ? 38 : 32
                 const names = cluster.getAllChildMarkers().map((marker) => marker.options.title).filter(Boolean).slice(0, 4)
-                const title = `${count} mapped pages${names.length ? ` including ${names.join(', ')}` : ''}; click to expand`
+                const title = `${count} map points${names.length ? ` including ${names.join(', ')}` : ''}; click to expand`
                 return L.divIcon({
                   html: `<span title="${escapeAttribute(title)}">${count}</span>`,
                   className: 'location-cluster',
@@ -207,17 +213,17 @@ export function MapPage() {
               const regional = result.location.anchorKind === 'regional'
               const icon = L.divIcon({
                 html: '<span></span>',
-                className: `location-marker ${regional ? 'regional' : 'site'}${selected === result.page ? ' selected' : ''}`,
+                className: `location-marker ${regional ? 'regional' : 'site'}${selected === result.id ? ' selected' : ''}`,
                 iconSize: L.point(18, 18),
                 iconAnchor: L.point(9, 9),
               })
               return (
               <Marker
-                key={result.page}
+                key={result.id}
                 position={[result.location.latitude, result.location.longitude]}
                 icon={icon}
                 title={result.title}
-                eventHandlers={{ click: () => setSelected(result.page) }}
+                eventHandlers={{ click: () => setSelected(result.id) }}
               >
                 <Tooltip direction="top" offset={[0, -8]} opacity={0.96}>
                   <strong>{result.title}</strong><br />
@@ -241,7 +247,7 @@ export function MapPage() {
             <span><i className="map-dot exact" /> public site <i className="map-dot approximate ml-2" /> regional</span>
           </div>
           {!loading && results.map((result) => (
-            <article key={result.page} className={`map-result ${selected === result.page ? 'selected' : ''}`} onMouseEnter={() => setSelected(result.page)}>
+            <article key={result.id} className={`map-result ${selected === result.id ? 'selected' : ''}`} onMouseEnter={() => setSelected(result.id)}>
               <div className="flex items-start justify-between gap-3">
                 <div>
                   <p className="text-[11px] uppercase text-twilight-soft">{result.type} · {result.region}</p>

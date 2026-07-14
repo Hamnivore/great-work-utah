@@ -7,6 +7,10 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
+**Map Location:** UVU Innovation Academy, 800 W University Pkwy, LC 408, Orem, UT 84058
+**Coordinates:** 40.2810780, -111.7164560
+**Location Precision:** exact
+**Location Source:** https://www.uvu.edu/innovation/contact/index.php
 **Website:** https://www.uvu.edu/innovation/
 **Updated:** 2026-07-14
 **Layout:** field-guide

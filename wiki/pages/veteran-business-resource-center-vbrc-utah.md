@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 9690 S 300 W, Sandy, UT 84070
+**Coordinates:** 40.575596, -111.902716
+**Location Precision:** exact
+**Location Source:** https://veterans.utah.gov/venue/utah-veteran-business-resource-center/
 **Website:** https://utahvbrc.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

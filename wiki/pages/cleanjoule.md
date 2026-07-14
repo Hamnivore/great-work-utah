@@ -7,9 +7,13 @@
 **Stage:** Private, growth (backed by Indigo Partners, GenZero, Frontier Airlines, Wizz Airlines, Volaris)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Domain:** aerospace-defense, energy
 **Region:** Salt Lake City
+**Map Location:** CleanJoule, 2350 W 1500 S, Salt Lake City, UT 84104
+**Coordinates:** 40.7378275, -111.9535043
+**Location Precision:** exact
+**Location Source:** https://www.linkedin.com/company/cleanjoule
 **Website:** https://cleanjoule.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cleanjoule-2026/1600/1100

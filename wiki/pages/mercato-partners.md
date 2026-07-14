@@ -7,6 +7,10 @@
 **Primary Location:** Cottonwood Heights, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 2750 E Cottonwood Pkwy, Suite 500, Cottonwood Heights, UT 84121
+**Coordinates:** 40.632293, -111.813172
+**Location Precision:** exact
+**Location Source:** https://www.mercatopartners.com/contact
 **Website:** https://www.mercatopartners.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

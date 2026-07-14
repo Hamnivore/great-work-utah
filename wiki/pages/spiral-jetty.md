@@ -8,11 +8,11 @@
 **Primary Location:** Rozel Point, Great Salt Lake, Box Elder County, UT
 **Utah Location:** Rozel Point, Great Salt Lake, Box Elder County, UT
 **Region:** Rozel Point, Great Salt Lake, Box Elder County
+**Map Location:** Spiral Jetty, Rozel Point, Box Elder County, UT
+**Coordinates:** 41.4378560, -112.6680100
+**Location Precision:** exact
+**Location Source:** https://diaart.org/visit/visit-our-locations-sites/robert-smithson-spiral-jetty
 **Website:** https://diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014/
-**Map Location:** Spiral Jetty visitor parking and site, Rozel Point, Great Salt Lake, UT
-**Coordinates:** 41.4375, -112.6689
-**Location Precision:** approximate
-**Location Source:** https://diaart.org/visit/visit-our-locations-sites/robert-smithson-spiral-jetty/main/spiraljetty
 **Updated:** 2026-07-14
 **Pull:** *A coil of basalt, salt, mud, water, and time made Great Salt Lake part of art history.*
 

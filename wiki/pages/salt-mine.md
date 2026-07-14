@@ -7,6 +7,10 @@
 **Primary Location:** Northern Utah
 **Utah Location:** Davis County, Morgan County, Salt Lake County, Tooele County, Weber County
 **Region:** Northern Utah
+**Map Location:** Salt Mine Productive Workspace, 7984 S 1300 E, Sandy, UT 84094
+**Coordinates:** 40.6072347, -111.8531618
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Salt+Mine+Productive+Workspace+7984+S+1300+E+Sandy+UT+84094
 **Website:** https://meetatsaltmine.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

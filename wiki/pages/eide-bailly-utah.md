@@ -7,8 +7,15 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Eide Bailly Salt Lake City office, 5 Triad Center, Suite 600, Salt Lake City, UT 84180
+**Coordinates:** 40.7710571, -111.9002144
+**Location Precision:** exact
+**Location Source:** https://www.eidebailly.com/locations/salt-lake-city
+**Additional Map Location:** Eide Bailly Lehi office, 2901 N Ashton Boulevard, Suite 200, Lehi, UT 84048 | 40.4202553, -111.8868565 | exact | https://www.eidebailly.com/locations/lehi
+**Additional Map Location:** Eide Bailly Ogden office, 5929 Fashion Point Drive, Suite 300, Ogden, UT 84403 | 41.1536515, -111.9365114 | exact | https://www.eidebailly.com/locations/ogden
+**Additional Map Location:** Eide Bailly Orem office, 1061 S 800 E, Suite 120, Orem, UT 84097 | 40.2777286, -111.6761151 | exact | https://www.eidebailly.com/locations/orem
 **Website:** https://www.eidebailly.com/locations/salt-lake-city
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

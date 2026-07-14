@@ -9,6 +9,10 @@
 **Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Brigham City
+**Map Location:** Brigham City Hall, 20 N Main Street, Brigham City, UT 84302
+**Coordinates:** 41.5109019, -112.0156464
+**Location Precision:** exact
+**Location Source:** https://www.bcutah.gov/contact
 **Website:** https://www.bcutah.gov/page/economic-development/
 **Layout:** field-guide
 

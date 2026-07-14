@@ -7,6 +7,10 @@
 **Primary Location:** Sanpete County, UT
 **Utah Location:** Sanpete County, UT
 **Region:** Sanpete County
+**Map Location:** Former Sanpete County Chamber Office, 310 S 400 E, Ephraim, UT 84627
+**Coordinates:** 39.3541819, -111.5775665
+**Location Precision:** exact
+**Location Source:** https://business.slchamber.com/list/member/sanpete-county-chamber-of-commerce-105612
 **Website:** https://sanpetechamberofcommerce.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

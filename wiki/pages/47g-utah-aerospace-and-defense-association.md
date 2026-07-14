@@ -7,6 +7,10 @@
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 175 W 200 S, Suite 4100, Salt Lake City, UT 84101
+**Coordinates:** 40.764650, -111.896367
+**Location Precision:** exact
+**Location Source:** https://www.linkedin.com/company/47g
 **Website:** https://www.47g.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

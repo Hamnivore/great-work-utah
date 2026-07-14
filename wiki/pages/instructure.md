@@ -8,10 +8,14 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Instructure headquarters, 6330 S 3000 E, Suite 700, Salt Lake City, UT 84121
+**Coordinates:** 40.6348111, -111.8059498
+**Location Precision:** exact
+**Location Source:** https://www.instructure.com/contact-us
 **Careers:** https://www.instructure.com/about/careers
 **Website:** https://www.instructure.com
 **Domain:** computing
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/instructure-canvas-lms-2026/1600/1100
 **Pull:** *Canvas is the default LMS for most U.S. universities — and the distribution surface for whatever AI-in-education becomes.*

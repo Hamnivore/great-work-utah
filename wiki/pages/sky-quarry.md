@@ -7,9 +7,13 @@
 **Stage:** Public (NASDAQ: SKYQ); commercializing; PR Spring permit application filed June 2025
 **Primary Location:** Woods Cross, UT
 **Utah Location:** Woods Cross, UT; PR Spring, Uintah County, UT
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Domain:** energy, materials-mfg
 **Region:** Uintah County; Woods Cross
+**Map Location:** 707 W 700 S, Suite 101, Woods Cross, UT 84087
+**Coordinates:** 40.882152, -111.899758
+**Location Precision:** exact
+**Location Source:** https://skyquarry.com/wp-content/uploads/2024/03/SQI-Privacy-Policy.pdf
 **Website:** https://skyquarry.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/sky-quarry-manufacturing-2026/1600/1100

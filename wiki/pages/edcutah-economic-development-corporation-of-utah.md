@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 201 S Main St, Suite 2300, Salt Lake City, UT 84111
+**Coordinates:** 40.764469, -111.890457
+**Location Precision:** exact
+**Location Source:** https://www.edcutah.org/support/our-investors
 **Website:** https://www.edcutah.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

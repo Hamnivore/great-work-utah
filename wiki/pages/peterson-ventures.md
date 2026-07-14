@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Peterson Ventures, 2755 E Cottonwood Parkway, Suite 400, Salt Lake City, UT 84121
+**Coordinates:** 40.6326121, -111.8131457
+**Location Precision:** exact
+**Location Source:** https://www.petersonventures.com/contact/
 **Website:** https://www.petersonventures.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

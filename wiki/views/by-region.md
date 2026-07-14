@@ -1,6 +1,6 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (395 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (396 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
@@ -469,6 +469,10 @@ Generated from `**Region:**` metadata (395 pages with a region). Sector hubs sti
 ## Springville
 
 - [Wavetronix](/pages/wavetronix.md) · `/pages/wavetronix.md` · aerospace-defense, computing
+
+## St. George, UT
+
+- [SkyWest, Inc.](/pages/skywest-inc.md) · `/pages/skywest-inc.md` · aerospace-defense
 
 ## St. George
 

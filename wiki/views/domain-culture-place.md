@@ -1,6 +1,6 @@
 # culture-place — sector hub
 
-Generated from `**Domain:**` metadata (67/614 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (68/615 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 

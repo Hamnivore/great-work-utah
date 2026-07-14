@@ -1,4 +1,4 @@
-# venture — 117 pages
+# venture — 118 pages
 
 Companies, labs, spinouts, and initiatives doing serious work. One line per page; fetch the page for detail and evidence.
 
@@ -171,6 +171,8 @@ Companies, labs, spinouts, and initiatives doing serious work. One line per page
   needs: Likely needs include audio and acoustic engineers, industrial and fashion-forward product designers, supply-chain and manufacturing partners, DTC and retail marketing leaders, and brand partnership managers. Consumer electronics operators with experience in competitive audio mar…
 - [Sky Quarry](/pages/sky-quarry.md) · `/pages/sky-quarry.md` · asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen recovery · conf:M
   needs: Chemical and process engineers interested in circular-economy applications; environmental and permitting specialists familiar with Utah's oil and gas regulatory environment; and investor relations and public market communications support for a small-cap resource company navigati…
+- [SkyWest, Inc.](/pages/skywest-inc.md) · `/pages/skywest-inc.md` · regional airline, aviation, aircraft leasing, air transportation, commercial aviation · conf:M
+  needs: Likely ongoing needs include pilots and maintenance technicians — the industry-wide pilot shortage has hit regional carriers hardest — plus regulatory/FAA compliance staff and fleet-planning/network-scheduling analysts as SkyWest negotiates scope-clause flying with mainline part…
 - [Space Dynamics Laboratory](/pages/space-dynamics-laboratory.md) · `/pages/space-dynamics-laboratory.md` · space systems, sensors, satellites, defense, student workforce · conf:M
   needs: Hiring spans systems and mission engineering, spacecraft GN&C, quality/SQA, C4ISR program management, cleared Linux/systems administrators and technicians, TEMPEST/EMR survivability work, and North Logan student roles in electrical, mechanical, and lab/database work. Broader fit…
 - [Spire Therapeutics](/pages/spire-therapeutic.md) · `/pages/spire-therapeutic.md` · focused ultrasound neuromodulation, LIFU, chronic pain, treatment-resistant depression, non-invasive brain therapy, Dia… · conf:M

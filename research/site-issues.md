@@ -6,11 +6,19 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 
 ### Needs: no careers URLs; synonym / filter gaps remain
 
-- **Seen:** 2026-07-14 (job-seeker probes, round 3) · note [#80](https://github.com/Hamnivore/great-work-utah/issues/80)
+- **Seen:** 2026-07-14 (job-seeker probes, round 3) · notes [#80](https://github.com/Hamnivore/great-work-utah/issues/80), [#81](https://github.com/Hamnivore/great-work-utah/issues/81), [#82](https://github.com/Hamnivore/great-work-utah/issues/82)
 - **Where:** `/views/needs.md`, venture pages
-- **What:** Needs are still “Likely needs…” not live openings; no careers/apply links on pages. Role-string mismatch (data scientist vs applied scientist) still requires synonym skim. No role/city filter UI.
-- **Partial fix:** 2026-07-14 — needs lines now include **Region** when set; intro warns about synonyms + points to by-region.
-- **Next check:** Careers URL field; optional synonym gloss on needs.
+- **What:** Needs are still “Likely needs…” not live openings; most pages lack careers/apply links. Role-string mismatch still requires synonym skim. No role/city filter UI.
+- **Partial fix:** 2026-07-14 — needs lines include Region; intro warns synonyms; nav **by place** → by-region; Qualtrics needs section links careers.
+- **Next check:** Careers URL field on more flagship employers; optional synonym gloss.
+
+### SPA prerender / soft 404s on human routes
+
+- **Seen:** 2026-07-14 (human job seeker relaunch) · [#83](https://github.com/Hamnivore/great-work-utah/issues/83)
+- **Where:** `/v/*`, `/p/*`
+- **What:** Every human route returns the same `index.html` shell (HTTP 200); unknown slugs soft-404 only after JS. Crawlers/no-JS never see route-specific content or titles.
+- **Partial fix:** Shell CTAs now lead with looking for work / founding (not agent-only pitch).
+- **Next check:** Wishlist SSR/prerender or edge 404 for missing `/p`/`/v`; sitemap `/v/` URLs.
 
 ### Contribute: no rate limit / dedupe; path schema friction for humans
 

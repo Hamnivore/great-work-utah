@@ -38,7 +38,7 @@ The company's public positioning emphasizes closing the gap between what custome
 
 Likely needs include ML engineers, applied scientists, data engineers, platform engineers, product managers, and enterprise SaaS operators comfortable with scale, compliance, and low-cost-per-item inference. The ML work spans LLM integration, classification, retrieval, and enterprise-grade evaluation within SOC 2, HIPAA, and FedRAMP constraints where applicable.
 
-For talent matching, Qualtrics is a strong candidate for engineers who want applied AI with real users and are comfortable in the Mountain West — more process than a startup, more pace than big tech.
+For talent matching, Qualtrics is a strong candidate for engineers who want applied AI with real users and are comfortable in the Mountain West — more process than a startup, more pace than big tech. Open roles: [Qualtrics careers](https://www.qualtrics.com/careers/us/en) (verify current openings; this wiki does not track live postings).
 
 ## Who Could Help
 

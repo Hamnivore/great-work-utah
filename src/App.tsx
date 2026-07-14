@@ -51,6 +51,9 @@ export default function App() {
             <Link to="/v/needs" className="text-twilight-soft hover:text-twilight">
               looking for work
             </Link>
+            <Link to="/v/by-region" className="text-twilight-soft hover:text-twilight">
+              by place
+            </Link>
             <Link to="/v/guides" className="text-twilight-soft hover:text-twilight">
               founding
             </Link>

@@ -1,6 +1,8 @@
 # helper — 12 pages
 
-Advisors, funds, service providers. One line per page; fetch the page for detail and evidence.
+Paid advisors and service providers (counsel, CFO, IP). Free mentors like SCORE/SBDC are Type: resource — see find-an-advisor.. One line per page; fetch the page for detail and evidence.
+
+For free mentorship and the full routing map, start at [/pages/find-an-advisor.md](/pages/find-an-advisor.md) — this list is mostly paid specialists, not SCORE/SBDC.
 
 - [BBCetc](/pages/bbcetc.md) · `/pages/bbcetc.md` · SBIR, STTR, nondilutive funding, proposal support, grant training, post-award management · conf:M
 - [Eide Bailly (Utah)](/pages/eide-bailly-utah.md) · `/pages/eide-bailly-utah.md` · accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory · conf:M

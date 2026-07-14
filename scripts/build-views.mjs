@@ -39,22 +39,25 @@ const line = (p, extra = '') => `- [${p.title}](${p.url}) · \`${p.path}\` · ${
 const write = (name, content) => fs.writeFileSync(path.join(VIEWS, name), content)
 
 // ---- type indexes ----
-const TYPES = { venture: 'Companies, labs, spinouts, and initiatives doing serious work', resource: 'Grants, accelerators, facilities, capital paths, programs', work: 'Historical and current proofs of great Utah work', person: 'Founders, researchers, operators', helper: 'Advisors, funds, service providers', guide: 'Opinionated maps, playbooks, and durable Q&A', source: 'Public evidence records cited by other pages' }
+const TYPES = { venture: 'Companies, labs, spinouts, and initiatives doing serious work', resource: 'Grants, accelerators, facilities, capital paths, programs', work: 'Historical and current proofs of great Utah work', person: 'Founders, researchers, operators', helper: 'Paid advisors and service providers (counsel, CFO, IP). Free mentors like SCORE/SBDC are Type: resource — see find-an-advisor.', guide: 'Opinionated maps, playbooks, and durable Q&A', source: 'Public evidence records cited by other pages' }
 const PLURAL = { venture: 'ventures', resource: 'resources', work: 'work', person: 'people', helper: 'helpers', guide: 'guides', source: 'sources' }
 for (const [t, desc] of Object.entries(TYPES)) {
   const sel = pages.filter((p) => p.type === t)
-  let out = `# ${t} — ${sel.length} pages\n\n${desc}. One line per page; fetch the page for detail and evidence.\n\n`
+  let out = `# ${t} — ${sel.length} pages\n\n${desc}. One line per page; fetch the page for detail and evidence.\n`
+  if (t === 'helper') out += `\nFor free mentorship and the full routing map, start at [/pages/find-an-advisor.md](/pages/find-an-advisor.md) — this list is mostly paid specialists, not SCORE/SBDC.\n`
+  out += `\n`
   for (const p of sel) out += t === 'venture' && p.needs ? `${line(p).trimEnd()}\n  needs: ${clip(p.needs, 280)}\n` : line(p)
   write(`${PLURAL[t]}.md`, out)
 }
 
 // ---- needs board ----
 const needers = pages.filter((p) => p.needs)
-let needs = `# Who might need people\n\nEvery page's "What They Need Now," one line each — perfect recall over stated needs. These are inferred assessments from public information, not confirmed job openings; verify directly with the company before treating one as a lead. Needs unreviewed for 6+ months are flagged.\n\n`
+let needs = `# Who might need people\n\nEvery page's "What They Need Now," one line each — perfect recall over stated needs. These are inferred assessments from public information, not confirmed job openings; verify directly with the company before treating one as a lead. Needs unreviewed for 6+ months are flagged.\n\nLines include region when set so you can Ctrl+F a city. Role wording varies (e.g. "data scientist" vs "applied scientist") — skim synonyms. For geography first, also use [by-region](by-region.md).\n\n`
 const STALE = Date.now() - 183 * 24 * 3600 * 1000
 for (const p of needers) {
   const stale = p.needsReviewed && new Date(p.needsReviewed).getTime() < STALE
-  needs += `- **[${p.title}](${p.url})** · \`${p.path}\` — ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed}${stale ? ' — may be stale' : ''})*` : ''}\n`
+  const where = p.region ? ` · ${p.region}` : ''
+  needs += `- **[${p.title}](${p.url})** · \`${p.path}\`${where} — ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed}${stale ? ' — may be stale' : ''})*` : ''}\n`
 }
 write('needs.md', needs)
 

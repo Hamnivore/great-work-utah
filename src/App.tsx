@@ -19,17 +19,21 @@ function NotFound() {
     <div className="font-sans text-sm text-ink-soft">
       <p>404 — not found. Don't guess slugs.</p>
       <p className="mt-2">
+        <Link to="/" className="text-twilight">
+          home
+        </Link>
+        {' · '}
+        <Link to="/v/needs" className="text-twilight">
+          looking for work
+        </Link>
+        {' · '}
+        <Link to="/v/guides" className="text-twilight">
+          founding
+        </Link>
+        {' · '}
         <a href="/llms.txt" className="text-twilight">
           /llms.txt
         </a>
-        {' · '}
-        <a href="/views/index.md" className="text-twilight">
-          /views/index.md
-        </a>
-        {' · '}
-        <Link to="/" className="text-twilight">
-          index
-        </Link>
       </p>
     </div>
   )

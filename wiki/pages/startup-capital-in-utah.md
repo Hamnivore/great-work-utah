@@ -12,7 +12,7 @@
 
 This guide helps Utah founders distinguish between capital paths instead of treating every funding source as interchangeable. The criteria are stage, dilution, technical risk, research origin, eligibility, and whether the money advances the next credible milestone.
 
-This is a first pass focused on Nucleus-related capital plus official business-service pathways that can prevent founders from confusing every money question with venture capital. It should later add Startup State programs, angel funds, university funds, accelerators, and private venture firms.
+This is a first pass focused on Nucleus-related capital plus official business-service pathways that can prevent founders from confusing every money question with venture capital. Many angel and VC names already exist as **Low-confidence stubs** in [resources](/views/resources.md) (often with polluted Focus tags) — treat those as a watchlist to verify on the firm’s own site, not as recommendations. A fuller sequencing of private capital belongs in a later revision of this guide.
 
 ## Non-Dilutive R&D Funding
 

@@ -44,6 +44,7 @@ Match the firm to the legal problem rather than defaulting to whoever is nearest
 - [Kirton McConkie](kirton-mcconkie.md) — full-service corporate counsel for formation, financing, securities, and M&A; fits founders who want one firm across multiple stages.
 - [Parsons Behle & Latimer](parsons-behle-latimer.md) — strong technology/IP-transactions and securities practice; fits IP-centric tech founders doing licensing or IP-sensitive financings.
 - [Workman Nydegger](workman-nydegger.md) — IP boutique for patents, trademarks, and trade secrets; the right call when the company's moat is a defensible invention. Talk to patent counsel *before* any public disclosure.
+- [Maschoff Brennan](maschoff-brennan.md) — another Utah IP boutique often used by tech and life-sciences founders; same rule: talk before public disclosure.
 
 ### If You Need Financial Leadership
 

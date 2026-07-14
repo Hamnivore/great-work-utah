@@ -6,6 +6,8 @@ Everything is raw markdown at stable URLs. No auth, no rate limits, no JavaScrip
 
 **Fetch tip:** Prefer tools that keep the response as plain text. Some HTML-sanitizing fetchers (including Cursor WebFetch) strip markdown link targets. **Evidence / See Also / Relates lines end with bare `https://` URLs** for that reason — read the plain URL after the `·`, not the markdown link. Pages may also carry `**Website:**` and `**Careers:**` as bare URLs (job-seeker next step). Some fetchers (including claude.ai web_fetch) refuse any URL that hasn't already appeared verbatim in your conversation — so every fetch target in this manual, and the copyable URL on each view line, is a full `https://greatutah.work/...` URL: fetch those and each document seeds your next hop. Always use `/pages/` and `/views/` markdown paths (not `/p/` or `/v/`, which need a browser).
 
+**Entry points (bare URLs, copy one and fetch):** https://greatutah.work/views/index.md · https://greatutah.work/views/needs.md · https://greatutah.work/views/ventures.md · https://greatutah.work/views/resources.md · https://greatutah.work/meta/charter.md — every page you fetch after this seeds the next hop's URLs.
+
 **If a fetch times out:** retry once, then use a plain HTTP client (`curl`) on the same URL.
 
 ## Reading

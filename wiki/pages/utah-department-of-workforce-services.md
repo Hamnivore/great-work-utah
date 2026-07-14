@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth
+**Focus:** Late Stage Growth, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -47,63 +47,29 @@
 
 ## Summary
 
-The Utah Department of Workforce Services (DWS) offers a comprehensive range of services to support job seekers, employers, and individuals seeking assistance. Job seekers can access a robust job board with over 35,000 open positions across various fields, as well as resources for career counseling, training, and workshops.
+The Utah Department of Workforce Services (DWS), via jobs.utah.gov, is the statewide hub for job seekers, employers, and public assistance programs. The live homepage advertises a job board with more than 35,000 open positions, employer hiring tools, unemployment insurance management, and assistance pathways for food, child care, Medicaid, financial, disability, and related needs.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Job seekers (including veterans, refugees, and people with disabilities via dedicated pathways), Utah employers filling roles or managing unemployment accounts, and individuals applying for public assistance or workforce support programs.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Late Stage Growth
+Job search and labor-market resources; employer recruiting access to active job seekers; unemployment insurance account management; assistance program navigation; specialized services (veterans, refugees, Pre-ETS for students with disabilities, child care finder, hot jobs list); and statewide events such as virtual job fairs.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://jobs.utah.gov/) · https://jobs.utah.gov/
+- Choose Find a Job, Manage Your Business, or Apply for Assistance from the homepage; use the events calendar for workshops and job fairs
 - Startup State listing: https://startup.utah.gov/business-resource/utah-department-of-workforce-services/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Core job-search and many workforce services are public programs. Assistance programs have eligibility rules; employer unemployment insurance is a regulated business obligation rather than a flat service fee.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2543 (slug `utah-department-of-workforce-services`)
-- Topics: Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T09:14:40
+Revenue-stage founders hiring their first employees, operators managing UI accounts, and individuals who need statewide job-matching or assistance navigation rather than private recruiting firms.
 
 
 ## Evidence
@@ -114,6 +80,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which DWS workshops best serve first-time hiring managers at Utah startups?
+- What is the fastest employer path to post roles and access qualified candidates?

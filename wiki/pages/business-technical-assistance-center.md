@@ -2,108 +2,54 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Confidence:** Low
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Price, UT
 **Utah Location:** Price, UT
-**Updated:** 2026-07-14
-**Domain:** culture-place
 **Region:** Price
 **Map Location:** 252 S Fairgrounds Rd, Price, UT 84501
 **Coordinates:** 39.5957889, -110.8362394
 **Location Precision:** exact
 **Location Source:** https://seenutah.org/
 **Website:** https://www.btac.business/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Business & Technical Assistance Center (BTAC), located in Price, Utah, offers coworking spaces, business incubation services, and resources for entrepreneurs. With amenities like fiber internet, 24-hour access, commercial kitchen rentals, and flexible office space plans, it aims to foster innovation and economic growth in southeastern Utah through partnerships with local businesses and government initiatives
+The Business & Technical Assistance Center (BTAC) in Price, Utah, is listed in Startup State as a coworking and business-incubation facility serving southeastern Utah with fiber internet, 24-hour access, commercial kitchen rentals, and flexible office plans.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+The official site returned a server error during verification (July 2026). Treat amenities and pricing as unverified until the site is restored or staff confirm current operations.
 
+## Who It's For
 
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Entrepreneurs, remote workers, and small businesses in Carbon, Emery, Grand, and San Juan counties seeking coworking, incubation space, or kitchen access in the Price area.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+Per Startup State listing: coworking and incubation space, commercial kitchen rental, fiber internet, 24-hour access, and flexible office plans. Specific advising, funding, or accelerator programming is not confirmed on a live official page.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.btac.business/) · https://www.btac.business/
+- Listed website: https://www.btac.business/ (server error during verification)
 - Email: [info@btac.business](mailto:info@btac.business)
 - Startup State listing: https://startup.utah.gov/business-resource/business-technical-assistance-center/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No live pricing was available during verification. Confirm membership, kitchen rental, and office rates by email before booking.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2580 (slug `business-technical-assistance-center`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Carbon, Emery, Grand, San Juan
-- Listing modified: 2024-12-10T11:46:40
-
+Southeastern Utah founders who need physical workspace and kitchen infrastructure in Price — once operations are confirmed. A weak fit until the official site or staff verify current availability.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.btac.business/) · https://www.btac.business/
+
+> **Link status (2026-07-14):** Official site returns WordPress critical error (HTTP 500).
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is BTAC still operating, and what is the correct live website or booking path?
+- Which services beyond coworking (advising, incubation cohorts) are active today?

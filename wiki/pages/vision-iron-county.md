@@ -54,6 +54,8 @@ If VIC is inactive, route Iron County founders to verified neighbors such as [So
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - Domain check 2026-07-14: https://visionironcounty.org/ (parking lander, no org content)
 
+> **Link status (2026-07-14):** GoDaddy Auctions parking page.
+
 ## Open Questions
 
 - Did Vision Iron County merge into another Iron County economic-development entity?

@@ -17,7 +17,8 @@
 
 ## Summary
 
-Pitted Ventures is a Sandy, Utah growth-capital firm focused on emerging consumer brands, according to the Startup State listing. The official website at pittedventures.com was unreachable during verification (2026-07-14), so treat operational details as unverified.
+Pitted Ventures is listed on Startup State as a Sandy growth-capital firm for consumer brands. As of 2026-07-14 the live domain returns a hard **403 Forbidden** even in headless Chrome (not a Cloudflare interstitial). An October 2024 Wayback snapshot still shows the full site (Pitted Ventures / Labs / Logistics). Treat current operations as unverified; use email on the Startup State card and the archive for historical description only.
+
 
 ## Who It's For
 
@@ -43,6 +44,8 @@ Unknown while the official site is down. Do not invent fee or investment terms.
 Potentially relevant for Utah consumer packaged goods founders needing growth capital and operating support — only after confirming the firm is still active through alternate channels.
 
 ## Evidence
+
+- Wayback snapshot (2024-10-01): https://web.archive.org/web/20241001020111/https://pittedventures.com/
 
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - Startup State listing: https://startup.utah.gov/business-resource/pitted-ventures/

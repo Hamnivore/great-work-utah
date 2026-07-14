@@ -7,11 +7,12 @@
 **Stage:** Public company / operating industrial asset
 **Primary Location:** Lakewood, CO
 **Utah Location:** White Mesa, San Juan County, UT
-**Updated:** 2026-06-18
 **Domain:** energy, materials-mfg, health-bio
 **Region:** San Juan County
 **Website:** https://www.energyfuels.com/
-**Needs-reviewed:** 2026-06-18
+**Careers:** https://www.energyfuels.com/careers/
+**Needs-reviewed:** 2026-07-14
+**Updated:** 2026-07-14
 **Hero:** https://picsum.photos/seed/energy-fuels-white-mesa-critical-minerals-2026/1600/1100
 **Pull:** *A Utah mill at the center of a contested U.S. critical-minerals and nuclear-fuel supply-chain strategy.*
 
@@ -34,8 +35,7 @@ Energy Fuels says it is building a U.S.-centered critical-mineral supply chain a
 The company history says Energy Fuels acquired Denison Mines' U.S. assets, including White Mesa Mill, in 2012. The website says the company launched a U.S.-based rare earth supply chain in 2021 and reached a rare earths, uranium, and vanadium milestone in 2022.
 
 ## What They Need Now
-
-Likely needs include chemical-process engineers, metallurgists, radiation-safety specialists, environmental-compliance experts, community-relations leaders, regulatory counsel, maintenance and operations talent, project-finance people, and operators who understand both nuclear-fuel-cycle and critical-minerals markets.
+Hiring spans mill-site chemistry, lab, and operations roles at White Mesa alongside corporate functions in Lakewood, CO. Broader fit still includes chemical-process engineers, metallurgists, radiation-safety specialists, environmental-compliance experts, community-relations leaders, regulatory counsel, maintenance and operations talent, project-finance people, and operators who understand both nuclear-fuel-cycle and critical-minerals markets.
 
 For talent matching, this is not a generic startup fit. It is better for people who can work in regulated industrial operations where permitting, safety, community trust, and public scrutiny are central to the job.
 

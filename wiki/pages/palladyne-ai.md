@@ -13,8 +13,9 @@
 **Location Precision:** exact
 **Location Source:** https://www.palladyneai.com/contact-us/
 **Website:** https://www.palladyneai.com
+**Careers:** https://www.palladyneai.com/open-positions/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-18
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/palladyne-swarmos/1600/1100
 **Hero caption:** *Placeholder image. Palladyne's public work centers on collaborative drone autonomy; a license-clean photo of its platforms or team has not yet been sourced.*
 **Pull:** *Software that lets robots and drones observe, learn, and coordinate autonomously at the edge — now wrapped in a defense-manufacturing stack.*
@@ -38,10 +39,9 @@ Palladyne's software stack spans Palladyne IQ (released as version 2.0, with a f
 For talent, this is practical-engineering-heavy embodied AI: ML engineers comfortable with embedded and edge constraints, robotics and controls engineers, and people drawn to multi-agent coordination and defense-adjacent systems integration.
 
 ## What They Need Now
+Visible hiring is thinner than the embodied-AI narrative suggests — recent openings have skewed toward GTM / defense marketing and IT support rather than swarm or edge-ML research. Broader likely needs — edge-ML and autonomy engineers, embedded systems, defense program operators, and manufacturing/supply-chain talent from the vertically integrated stack — remain plausible but are not consistently listed; check the careers page for the current picture.
 
-Likely needs include edge-ML and autonomy engineers, multi-agent/swarm researchers, embedded systems engineers, and defense-program and government-contracting operators who can convert backlog into delivered revenue. Because the company is now vertically integrated, manufacturing, supply-chain, and program-management talent matters as much as core AI research.
-
-For a match engine, Palladyne fits engineers who want production embodied AI with real-world (including defense) deployment and are comfortable inside a small-cap public company. It is a weaker fit for someone seeking long-horizon, capital-patient pure research, given public-market revenue pressure and a history of strategic pivots.
+For a match engine, Palladyne fits people comfortable inside a small-cap public defense-industrial company; it is a weaker fit for someone seeking long-horizon, capital-patient pure research.
 
 ## Who Could Help
 

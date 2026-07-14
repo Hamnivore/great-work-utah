@@ -39,9 +39,13 @@ Morgan County business owners looking for a local chamber network — only after
 
 ## Evidence
 
+- Wayback snapshot: https://web.archive.org/web/20241220202228/https://www.morganutahchamber.org/
+
 - [Official website](https://www.morganutahchamber.org/) · https://www.morganutahchamber.org/
 - Startup State listing: https://startup.utah.gov/business-resource/morgan-chamber-of-commerce/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+
+> **Link status (2026-07-14):** GoDaddy: domain expired and parked.
 
 ## Open Questions
 

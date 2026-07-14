@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth
+**Focus:** Late Stage Growth, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -17,63 +17,29 @@
 
 ## Summary
 
-The Utah Apprenticeship Program offers a variety of career-building opportunities, enabling individuals to earn while they learn across industries like healthcare, construction, manufacturing, and IT. Participants gain hands-on experience alongside classroom instruction, preparing them for nationally-recognized credentials and high-paying careers, with potential earnings of up to $60,000 annually after completing their apprenticeship​. The program supports both employers and apprentices, helping businesses develop skilled workers and providing a viable alternative to traditional college paths
+Apprenticeship Utah is the state's registered apprenticeship hub for employers and career seekers. The official site describes an earn-and-learn model combining on-the-job training with related instruction, employer tools to build talent pipelines, and statewide stats showing thousands of active apprentices and hundreds of registered programs.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah employers who need structured on-the-job training pipelines, and individuals exploring career pathways in trades and skilled occupations (including healthcare, construction, manufacturing, and IT examples cited on the site).
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Late Stage Growth
+Employer resources to start apprenticeship programs and access incentives; career-seeker pathways to find apprenticeships; nationally or industry-recognized credentials; incremental wage progression; and published statewide program statistics (4,800+ active apprentices, 293 registered programs, and related outcome data on the homepage).
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://apprenticeship.utah.gov/) · https://apprenticeship.utah.gov/
+- Employers: use "Start your program"; career seekers: use "Find your career"
 - Startup State listing: https://startup.utah.gov/business-resource/apprenticeship-utah/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Apprenticeships are earn-while-you-learn roles with paid on-the-job training; the site does not describe a participant enrollment fee. Employer incentive details are on the employer pathway pages.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2548 (slug `apprenticeship-utah`)
-- Topics: Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T09:28:07
+Growing Utah companies that need credentialed skilled workers, and operators hiring into technical roles who want a state-backed apprenticeship structure rather than ad hoc training.
 
 
 ## Evidence
@@ -84,6 +50,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which apprenticeship occupations are fastest to stand up for a 10–50 person manufacturer?
+- What employer incentives are currently funded and how do they interact with WIOA or other programs?

@@ -15,7 +15,8 @@
 **Location Precision:** exact
 **Location Source:** https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf
 **Website:** https://oxeonenergy.com
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://www.oxeonenergy.com/careers
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/oxeon-energy-2026/1600/1100
 **Pull:** *The same solid oxide cells that made oxygen on Mars are now being scaled to produce green hydrogen on Earth.*
 **Relates:** cites [Official Website: OxEon Energy](oxeon-energy-official-website.md) · https://greatutah.work/pages/oxeon-energy-official-website.md · https://oxeonenergy.com
@@ -39,8 +40,7 @@ OxEon builds SOEC stacks and complete systems for hydrogen production, carbon mo
 Current scale-up work is focused on high-volume manufacturing: reducing per-cell cost and improving durability over thousands of operational hours, which is the primary commercial challenge for all solid oxide systems.
 
 ## What They Need Now
-
-Electrochemists, ceramics engineers, materials scientists, and thermal systems engineers are the core technical contributors. Manufacturing process engineers who can translate small-batch cell production into factory-scale processes are likely a current constraint. Given the DOE grant focus on hydrogen manufacturing, chemical engineers comfortable with industrial hydrogen applications are also relevant.
+Hiring frames around manufacturing scale-up — engineering, manufacturing, operations, and business development as capacity ramps. That aligns with the longer-standing need for electrochemists, ceramics and materials scientists, thermal systems engineers, and manufacturing process engineers who can take small-batch SOEC production to factory scale; industrial-hydrogen chemical engineers remain relevant given DOE manufacturing grants.
 
 ## Who Could Help
 

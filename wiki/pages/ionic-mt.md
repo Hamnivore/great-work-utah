@@ -40,8 +40,7 @@ Three co-products from a single halloysite feedstock reduce the production econo
 Ionic MT is building a vertically integrated operation spanning geology, mining, materials processing, and anode material supply. The technical work centers on converting raw halloysite clay into battery-grade nano-silicon through a process that leverages the mineral's natural tubular nanostructure rather than requiring synthetic nanoengineering. Scaling production from lab to 1,000+ metric tons annually while maintaining consistent anode-grade quality is the unsolved manufacturing problem the Series B is funding.
 
 ## What They Need Now
-
-Open role on the Ionic MT careers page (July 2026): Chemical Engineer – Hydrometallurgy & Separation Processes (acid leaching, impurity removal, crystallization, solids handling for high-purity materials). Broader needs still include process engineers and electrochemists across mining-to-cell development, plus supply-chain and business-development people who understand automotive and defense procurement qualification cycles.
+Hiring centers on hydrometallurgy and separation-process chemical engineering (acid leaching, impurity removal, crystallization, solids handling for high-purity materials). Broader needs still include process engineers and electrochemists across mining-to-cell development, plus supply-chain and business-development people who understand automotive and defense procurement qualification cycles.
 
 ## Who Could Help
 

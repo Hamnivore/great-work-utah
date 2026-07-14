@@ -48,6 +48,8 @@ Less useful as a verified source of funding, mentorship, or structured startup s
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Pacific Island Chamber of Commerce (PICC)](pacific-island-chamber-of-commerce-picc.md) · https://greatutah.work/pages/pacific-island-chamber-of-commerce-picc.md · https://www.pik2ar.org/picc
 
+> **Link status (2026-07-14):** DNS has no A/AAAA record.
+
 ## Open Questions
 
 - Is https://www.utahchineseassociation.org/ temporarily down or permanently moved?

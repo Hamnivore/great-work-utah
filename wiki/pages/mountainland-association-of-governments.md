@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Funding, Late Stage Growth
 **Primary Location:** Orem, UT
 **Utah Location:** Summit, Utah, and Wasatch counties, UT
 **Region:** Mountainland
@@ -12,84 +12,45 @@
 **Location Precision:** exact
 **Location Source:** https://magutah.gov/contact/
 **Additional Map Location:** MAG Vineyard Office, 478 S Geneva Rd, Vineyard, UT 84059 | 40.2885089, -111.7342922 | exact | https://magutah.gov/contact/
-**Website:** https://mountainland.org/
+**Website:** https://magutah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Mountainland Association of Governments (MAG) serves Summit, Utah, and Wasatch counties, focusing on regional collaboration, access to funding and services, and advocating for local issues. MAG's programs include Aging & Family Services, Community & Economic Development, and Planning for Growth, aiming to empower communities to achieve their vision.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Mountainland Association of Governments (MAG) serves Summit, Utah, and Wasatch counties as a regional association of governments. Verified on magutah.gov: MAG empowers communities through regional collaboration, access to funding and services, unbiased facilitation, and advocacy on local issues — including Aging & Family Services, Community & Economic Development, and Planning for Growth programs.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Local governments and community organizations in the Mountainland region; residents accessing MAG human-services and weatherization programs; businesses indirectly benefiting from regional planning and funding connections — contact MAG for C&ED-specific business pathways.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Regional collaboration and planning, funding and service connections, community and economic development programs, aging and family services, heat and weatherization assistance, and GRAMA/contact channels for regional inquiries.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Use the official site contact page or main phone line; economic development inquiries should name the specific program or county.
 
-- [Official website](https://mountainland.org/) · https://mountainland.org/
+- [Official website](https://magutah.gov/) · https://magutah.gov/
+- Main: 801-229-3800
 - Email: [mcarroll@magutah.gov](mailto:mcarroll@magutah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/mountainland-association-of-governments/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Many human-services programs are income-eligible and free or subsidized; regional planning services are typically arranged through member governments. Confirm program rules on magutah.gov.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2693 (slug `mountainland-association-of-governments`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Summit, Utah, Wasatch
-- Listing modified: 2024-12-11T08:15:08
-
+Summit, Utah, or Wasatch county operators needing regional planning, C&ED, or social-service program referrals — not a statewide founder hub. Pair with local city ED or GOEO for incentives.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://mountainland.org/) · https://mountainland.org/
+- [Official website](https://magutah.gov/) · https://magutah.gov/
+- Startup State listing: https://startup.utah.gov/business-resource/mountainland-association-of-governments/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which Community & Economic Development services are available directly to private businesses?
+- Current heat/weatherization enrollment criteria?

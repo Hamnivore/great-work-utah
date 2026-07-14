@@ -17,63 +17,29 @@
 
 ## Summary
 
-"Talent Ready Utah optimizes efforts made by education and industry partnerships, working collectively to build a highly-skilled workforce while providing students with increased career and education opportunities. Below are some of the programs designed to support that mission. Since the program’s inception, Talent Ready Utah has had a proud tradition of partnering with education and employers across various industries to implement similar workforce development programs. These programs provide students with career exploration while building the talent pipeline for sectors with significant economic impacts on the state. Talent Ready Utah is an initiative under the Utah System of Higher Education focused on bridging education and industry to develop Utah’s workforce. It collaborates with schools, businesses, and government to offer programs like apprenticeships, career pathways, and short-term training, helping students and workers gain valuable skills for high-demand industries while supporting employers in building strong talent pipelines"
+Talent Ready Utah, an initiative under the Utah System of Higher Education, coordinates education-industry partnerships to build Utah's workforce. The official site organizes employer, educator, and community pathways through programs such as Utah Adopt-a-School, Pathways, TRAC, and Utah Works.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah employers building talent pipelines, educators seeking industry partnerships, and students or workers entering high-demand career pathways through structured work-based learning or short-term technical training.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Late Stage Growth
+Utah Adopt-a-School business-to-K-12 partnerships; Pathways (industry experience with guaranteed job interview on completion); TRAC (split time between classroom and paid work experience); and Utah Works (short-term technical skills training leading to high-demand careers).
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://talentready.ushe.edu/) · https://talentready.ushe.edu/
+- Choose the Employers, Educators, or Get Involved pathway and open the relevant program page (Pathways, TRAC, Utah Works, or Adopt-a-School)
 - Startup State listing: https://startup.utah.gov/business-resource/talent-ready-utah/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Program costs and employer commitments vary by initiative. Confirm funding, wage, and training responsibilities on the specific program page before referral.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2546 (slug `talent-ready-utah`)
-- Topics: Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T09:24:43
+Growing Utah companies that need predictable workforce pipelines and students or career changers seeking industry-linked training rather than self-serve online courses alone.
 
 
 ## Evidence
@@ -84,6 +50,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which industries have active Pathways or TRAC cohorts this year?
+- What employer onboarding steps are required for Utah Adopt-a-School?

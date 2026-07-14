@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -17,79 +17,38 @@
 
 ## Summary
 
-The Utah Pacific Islander Chamber of Commerce (UPIC) is dedicated to empowering Pacific Islander entrepreneurs and businesses by providing resources, training, and networking opportunities. UPIC offers various programs, including mentorship, grants, culturally relevant education, and support for transitioning businesses from smaller operations to larger-scale establishments. Through events like the Pacific Islander Business Summit and partnerships with local organizations, UPIC fosters economic growth and strengthens community connections while promoting civic engagement and innovation​.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Utah Pacific Islander Chamber of Commerce (UPIC) is the state-recognized chamber serving Utah's Pacific Islander business community. Verified on upichamber.org: UPIC is a 501(c)(6) offering mentorship, culturally relevant training, grants information, ambassador and influencer programs, the Pacific Islander Business Summit, and civic engagement for PI entrepreneurs statewide.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Multicultural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Pacific Islander-owned and -serving businesses in Utah; entrepreneurs seeking culturally relevant business education, mentorship, and community networks; vendors and sponsors aligned with PI economic growth.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+UPIC mentorship and ambassador programs, grant information pages, Pacific Islander Business Summit events, Women's Executive Alliance linkage, preferred vendor coalition, scholarships, civic engagement initiatives, and recognition programs (e.g., Comcast RISE partnerships featured on site).
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Explore programs on upichamber.org and use the JOIN section for membership; contact admin email for summit or mentorship questions.
 
 - [Official website](https://www.upichamber.org/) · https://www.upichamber.org/
 - Email: [admin@upichamber.org](mailto:admin@upichamber.org)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-pacific-islander-chamber-of-commerce/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership and program costs are on UPIC join/program pages — verify before recommending. Grant programs (e.g., featured Comcast RISE) have sponsor-defined eligibility.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-- Multicultural
-
-## Imported Coverage
-
-- Startup State ID: 2675 (slug `utah-pacific-islander-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Multicultural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T17:25:56
-
+A Pacific Islander founder or operator in Utah who wants community-specific networking, mentorship, and summit programming — especially food, retail, services, and creative businesses. Also relevant for allies sponsoring PI business events.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.upichamber.org/) · https://www.upichamber.org/
+- Startup State listing: https://startup.utah.gov/business-resource/utah-pacific-islander-chamber-of-commerce/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Current membership dues and join workflow?
+- Next Pacific Islander Business Summit date and vendor slots?

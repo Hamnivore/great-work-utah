@@ -6,8 +6,8 @@
 **Source Type:** Official Website
 **URL:** https://web.sandbox.ing
 **Publisher:** Sandbox
-**Accessed:** 2026-06-19
-**Updated:** 2026-06-19
+**Accessed:** 2026-07-14
+**Updated:** 2026-07-14
 
 ## Summary
 
@@ -18,6 +18,8 @@ Sandbox's official website describes a for-credit entrepreneurship program where
 - Sandbox offers a one-year experience creating a "venture-scale startup" while staying enrolled in a college degree program.
 - The site states that over a dozen Sandbox companies have been venture backed at a combined valuation of $262M, and that six Sandbox companies have been accepted to Y Combinator.
 - **Sandbox Fellowship** — a 12-month, full-time program at a Sandbox Space in Provo, UT, leading to a Masters of Computer Science and Innovation; tuition listed at $6,300 per semester for three semesters.
+- The Fellowship explicitly promotes finding a cofounder by working side-by-side with other committed builders; its FAQ addresses applicants who do not yet have a team or startup idea.
+- The Fellowship says Sandbox takes no equity in participant companies.
 - **University Programs** — partner listings include Brigham Young University on the main site; expansion to additional campuses is referenced in press coverage linked from partner universities.
 - Sandbox alumni are described as highly in-demand hires at fast-growing companies.
 - CEO Chris Crittenden is named on the site with contact email chris@sandbox.ing.

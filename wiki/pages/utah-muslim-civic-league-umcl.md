@@ -46,6 +46,8 @@ Poor fit as a verified startup funding or accelerator resource until business se
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
+> **Link status (2026-07-14):** DNS NXDOMAIN.
+
 ## Open Questions
 
 - Is https://www.utahmcl.com/ temporarily down or has UMCL moved to a new domain?

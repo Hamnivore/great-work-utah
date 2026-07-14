@@ -35,8 +35,7 @@ The JA1 Pulse is a single-seat eVTOL optimized for emergency medical first respo
 Dietrich's prior work at Terrafugia (a VTOL-to-fixed-wing transition aircraft) gives Jump Aero a founder with deep eVTOL development experience, though Terrafugia's product never reached full commercial scale.
 
 ## What They Need Now
-
-The Jump Aero careers page (July 2026) lists concrete openings: embedded systems (DO-160G), control systems (DO-178 desired), power electronics (DO-254), battery systems (DO-311A), mechanical engineering with aviation certification experience, composite fabrication / composites technicians, electrical / wire-harness technicians, business development, and a test pilot (FBW experience desired). That mix matches a development-stage eVTOL program pushing toward certification and hardware build. EMS domain expertise remains a distinctive add.
+Hiring centers on aerospace-certification engineering: embedded systems (DO-160), flight-control software (DO-178), power electronics (DO-254), battery systems (DO-311A), mechanical engineers with aviation certification experience, composites and wire-harness technicians, business development, and test-pilot talent. That mix matches a development-stage eVTOL program pushing toward certification and hardware build. EMS domain expertise remains a distinctive add.
 
 ## Who Could Help
 

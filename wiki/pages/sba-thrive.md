@@ -7,7 +7,7 @@
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
+**Website:** https://www.sba.gov/sba-learning-platform/sba-thrive
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
@@ -25,7 +25,8 @@ Hybrid executive education: interactive e-learning modules, live CEO mastermind 
 
 ## How To Access It
 
-- [SBA T.H.R.I.V.E. page](https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined) · https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
+- [SBA T.H.R.I.V.E. page](https://www.sba.gov/sba-learning-platform/sba-thrive) · https://www.sba.gov/sba-learning-platform/sba-thrive
+- Legacy path (may soft-404): https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
 - [Program application site](https://sbathrive.com/) · https://sbathrive.com/
 - Email: [sbathrivesupport@isomglobal.com](mailto:sbathrivesupport@isomglobal.com)
 - Startup State listing: https://startup.utah.gov/business-resource/sba-thrive/
@@ -40,8 +41,11 @@ A Utah owner-operator with real revenue and employees who needs structured execu
 
 ## Evidence
 
+- Alternate/legacy path (intermittent soft-404): https://www.sba.gov/sba-learning-platform/sba-thrive
+
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [SBA T.H.R.I.V.E. page](https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined) · https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
+- [SBA T.H.R.I.V.E. page](https://www.sba.gov/sba-learning-platform/sba-thrive) · https://www.sba.gov/sba-learning-platform/sba-thrive
+- Legacy path (may soft-404): https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
 - [Program site](https://sbathrive.com/) · https://sbathrive.com/
 
 ## Open Questions

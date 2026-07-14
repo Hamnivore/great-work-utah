@@ -66,6 +66,7 @@ NephroNovus is part of the Altitude Lab portfolio on Salt Lake City's Recursion-
 
 ## Open Questions
 
+- **Careers URL:** No public careers board found (2026-07-14). Extremely early / alumni incubator status; `nephronovus.com` is branding-only. Do not invent Careers.
 - **Pipeline and mechanism** — no public disclosure of targets, hits, or lead series.
 - **Funding** — no announced round, grant, or SBIR award verified in sources reviewed.
 - **Residency vs. alumni status** — portfolio lists Alumni; confirm whether the company still uses Altitude Lab space or services.

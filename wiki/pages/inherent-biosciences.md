@@ -53,6 +53,7 @@ Inherent publishes a Salt Lake City office on the Wasatch Front, part of Utah's 
 
 ## Open Questions
 
+- **Careers URL:** No agent-readable careers board found (2026-07-14). `inherentbio.com/careers` 404; site warns against work-from-home hiring scams but does not list openings.
 - What are SpermQT's validated sensitivity, specificity, and clinical outcomes versus standard semen analysis?
 - Reimbursement and payer coverage status for epigenetic fertility testing?
 - Can the epigenetic platform generalize beyond fertility to autoimmune, developmental, or aging indications — and on what timeline?

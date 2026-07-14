@@ -9,8 +9,9 @@
 **Utah Location:** Farmington, UT
 **Region:** Farmington
 **Website:** https://www.pluralsight.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://www.pluralsight.com/careers
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/pluralsight-skills-training-2026/1600/1100
 **Pull:** *On-demand tech skills training for engineers and enterprise teams — from cloud and security to AI upskilling at scale.*
 **Relates:** cites [Official Website: Pluralsight](pluralsight-official-website.md) · https://greatutah.work/pages/pluralsight-official-website.md · https://www.pluralsight.com
@@ -38,8 +39,7 @@ The official site emphasizes keeping engineers current across cloud, security, d
 Keeping thousands of courses current as underlying tools change is a continuous editorial and production problem. Skills assessment — measuring what someone actually knows — remains hard; Pluralsight's Skill IQ line is one of the more serious public attempts in this category.
 
 ## What They Need Now
-
-Likely needs include instructional designers, technology subject-matter experts who can author or refresh courses, software engineers, product managers, ML engineers for AI-in-learning features, enterprise sales and customer success, and content operations people who can maintain catalog freshness as vendor stacks shift.
+Hiring skews toward go-to-market and platform analytics rather than content authorship alone: customer success, enterprise sales, AI and cloud/security solutions strategy, assessment strategy, analytics engineering, and enterprise data management — plus Dublin/hybrid CS and BDR roles. Instructional designers and SME authors remain plausible but are not the visible emphasis.
 
 For talent matching, Pluralsight fits engineers and operators interested in applied education technology who are comfortable in a large, PE-owned company rather than an early-stage startup.
 

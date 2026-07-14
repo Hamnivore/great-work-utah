@@ -9,8 +9,9 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://www.striderintel.com/
-**Updated:** 2026-06-18
-**Needs-reviewed:** 2026-06-18
+**Careers:** https://jobs.ashbyhq.com/strider-technologies
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/strider-strategic-intelligence-utah-2026/1600/1100
 **Pull:** *AI-assisted strategic intelligence for organizations exposed to nation-state risk.*
 
@@ -33,8 +34,7 @@ Strider is building a strategic-intelligence platform that combines global data,
 The company describes use cases across industry, academia, government, critical infrastructure, financial services, high tech, and AI. Its product surface suggests a mix of data engineering, entity resolution, multilingual search, analyst workflows, AI-assisted investigation, and domain expertise in nation-state behavior.
 
 ## What They Need Now
-
-Likely needs include AI engineers, data infrastructure engineers, security researchers, open-source intelligence analysts, geopolitical-risk experts, product leaders for enterprise workflows, and customer-facing operators who can work with sensitive organizations without overstating certainty.
+Hiring runs across Product & AI Engineering, Strategic Solutions, and Client Success: production ML/AI engineers and data scientists, AI product managers, forward-deployed engineers and analysts (including government-facing), public-sector and commercial account executives, and client-success roles — several based in South Jordan, UT alongside Tysons Corner, VA, plus a Tokyo office. That is a clearer signal than generic "AI engineers": production ML/AI, forward-deployed delivery into government and enterprise, and geo/intel-adjacent GTM.
 
 For talent matching, Strider is a strong candidate for people who want software work that touches national security and economic competition but is not only classified defense contracting.
 

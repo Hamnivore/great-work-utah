@@ -15,8 +15,9 @@
 **Additional Map Location:** Cotopaxi Fashion Place store, 6191 S State Street, Suite 1480, Murray, UT 84107 | 40.6364120, -111.8891549 | exact | https://www.cotopaxi.com/pages/retail-store
 **Additional Map Location:** Cotopaxi Park City store, 333 Main Street, Suite H, Park City, UT 84060 | 40.6422991, -111.4951653 | exact | https://www.cotopaxi.com/pages/retail-store
 **Website:** https://www.cotopaxi.com
+**Careers:** https://cotopaxi.applytojob.com/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/cotopaxi-gear-for-good-2026/1600/1100
 **Pull:** *Colorful outdoor gear with a built-in give-back model: 1% of revenue to the Cotopaxi Foundation.*
 **Relates:** cites [Official Website: Cotopaxi](cotopaxi-official-website.md) · https://greatutah.work/pages/cotopaxi-official-website.md · https://www.cotopaxi.com
@@ -43,8 +44,7 @@ Cotopaxi builds and sells outdoor packs, bags, apparel, and travel gear. The off
 Beyond products, the company is building an impact-branded retail system: direct online commerce, retail and wholesale channels, annual impact reports, supplier and materials disclosures, warranty and repair messaging, and a foundation-backed grantmaking story. The "Guaranteed for Good" program advertises returns, exchanges, lifetime warranty, repairs, and trade-in paths for used gear.
 
 ## What They Need Now
-
-Likely needs include product designers with outdoor and apparel experience, supply-chain and sustainability specialists, DTC marketing and community leaders, retail and e-commerce operators, and nonprofit-partnership managers who can steward foundation grantmaking. Social-enterprise operators with B Corp or impact-measurement experience may also be relevant.
+Retail staffing dominates ongoing hiring — store managers, supervisors, and sales associates across Utah (Murray, Park City) and other U.S. stores. Broader fit still includes product designers with outdoor and apparel experience, supply-chain and sustainability specialists, DTC marketing and community leaders, e-commerce operators, and nonprofit-partnership managers who can steward foundation grantmaking. Social-enterprise operators with B Corp or impact-measurement experience may also be relevant.
 
 ## Who Could Help
 

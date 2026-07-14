@@ -52,6 +52,7 @@ InnoSys's presence in Utah is consistent with the state's industrial and defense
 
 ## Open Questions
 
+- **Careers URL:** No agent-readable careers board found (2026-07-14). Official/related domains fail TLS (`certificate has expired` on innosys.com / innosysinc.com).
 - What is InnoSys's exact legal name, founding date, team size, and current operational status?
 - Has the DOE SBIR submission resulted in a Phase I or Phase II award?
 - What is the company's website and primary customer base?

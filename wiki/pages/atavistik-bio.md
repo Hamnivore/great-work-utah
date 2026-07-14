@@ -9,8 +9,9 @@
 **Utah Location:** University of Utah, Salt Lake City, UT (founding science)
 **Region:** Salt Lake City
 **Website:** https://atavistikbio.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://jobs.lever.co/atavistik-bio
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/atavistik-bio-2026/1600/1100
 **Pull:** *A proteome-scale map of metabolite-protein allostery — turned into selective small molecules.*
 **Relates:** cites [Official Website: Atavistik Bio](atavistik-bio-official-website.md) · https://greatutah.work/pages/atavistik-bio-official-website.md · https://atavistikbio.com
@@ -40,8 +41,7 @@ Atavistik combines experimental metabolite-protein screening (MIDAS/AMPS), struc
 Converting metabolite-binding signals into molecules that work in patients remains the core unsolved loop — allosteric sites are conformationally dynamic and context-dependent.
 
 ## What They Need Now
-
-Likely needs include medicinal chemists, structural biologists, biochemists focused on allostery, computational chemists at the ML/structure intersection, clinical development leaders for oncology and rare-disease trials, and manufacturing/CMC capacity as programs advance. Day-to-day roles are Cambridge-based, not Utah-based.
+Hiring skews chemical sciences and clinical (DMPK, biostatistics) and is Cambridge-based, not Utah-based. Broader fit still includes medicinal chemists, structural biologists, allostery-focused biochemists, computational chemists at the ML/structure intersection, clinical development leaders for oncology and rare-disease trials, and manufacturing/CMC capacity as programs advance.
 
 With $299M raised and typical oncology burn rates, the company will likely need additional capital for later-stage trials even after the 2026 Series B extension.
 

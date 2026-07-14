@@ -7,10 +7,11 @@
 **Stage:** Private; established; only commercial low-level radioactive waste site in the western US
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT (HQ); Clive, UT (disposal site)
-**Updated:** 2026-06-21
+**Updated:** 2026-07-14
 **Domain:** energy
 **Region:** Tooele County
-**Needs-reviewed:** 2026-06-21
+**Careers:** https://jobs.energysolutions.com/
+**Needs-reviewed:** 2026-07-14
 **Pull:** *Utah's nuclear waste management anchor — 80 miles west of Salt Lake City, the only commercial low-level radioactive waste site serving the western US.*
 
 ## Summary

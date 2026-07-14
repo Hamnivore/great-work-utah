@@ -14,7 +14,7 @@
 **Location Source:** https://coreform.com/support/contact/
 **Website:** https://coreform.com
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/coreform-isogeometric-analysis-2026/1600/1100
 **Pull:** *Run finite element analysis directly on fully featured CAD geometry — without the mesh-generation bottleneck.*
 **Relates:** cites [Official Website: Coreform](coreform-official-website.md) · https://greatutah.work/pages/coreform-official-website.md · https://coreform.com
@@ -61,6 +61,7 @@ Coreform sits in Utah County alongside a broader Wasatch Front engineering and s
 
 ## Open Questions
 
+- No agent-readable careers/jobs page found (coreform.com/careers redirects to a contact page, not a job board).
 - Which customer deployments, solver benchmarks, and certification milestones can be independently verified outside company marketing?
 - How far has MOOSE coupling progressed from SBIR-funded research toward production nuclear simulation use?
 - What is Coreform's current funding mix beyond DOE SBIR — seed, venture, or grant-only?

@@ -8,7 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Altitude Lab, Salt Lake City, UT
 **Region:** Salt Lake City
-**Website:** https://www.prnewswire.com/news-releases/lab-grown-neurons-say-hello-world-and-perform-matrix-math-on-automated-platform-intactis-bio-corp-raises-250k-from-nucleus-fund-302724652.html
+**Website:** https://www.intactis.bio/
 **Careers:** https://www.intactis.bio/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
@@ -36,8 +36,7 @@ The product surface is an alpha biocomputation platform: customers submit silico
 For talent, this is a founding-team-plus-a-few-researchers environment: high leverage for someone with the right mix of neuroscience, bioelectronic engineering, wetlab automation, and ML; very high ambiguity, low career safety.
 
 ## What They Need Now
-
-The company site (July 2026) explicitly seeks computational neuroscientists, iPSC cell-culture talent, and AI/ML engineers — matching the alpha biocomputation stack. Broader needs still include bioelectronic engineers who can iterate on electrode and packaging interfaces, lab automation engineers, and anyone who can help close the gap between "interesting demonstration" and "reproducible, fairly-benchmarked product."
+The company site explicitly seeks computational neuroscientists, iPSC cell-culture talent, and AI/ML engineers — matching the alpha biocomputation stack. Broader needs still include bioelectronic engineers who can iterate on electrode and packaging interfaces, lab automation engineers, and anyone who can help close the gap between "interesting demonstration" and "reproducible, fairly-benchmarked product."
 
 ## Who Could Help
 

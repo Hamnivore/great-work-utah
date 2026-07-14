@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** Utah
+**Focus:** Other
+**Primary Location:** Murray, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 5397 S Vine St, Murray, UT 84107
@@ -17,69 +17,33 @@
 
 ## Summary
 
-The Utah Association of Counties (UAC), established in 1924, is a voluntary, statewide organization representing all 29 counties in Utah. UAC provides services to county governments and officials, including training, legislative advocacy, and legal assistance, to enhance the quality of services for residents. The association serves as a unified voice for county governments, ensuring their interests are represented at both state and federal levels.
+The Utah Association of Counties (UAC) is the statewide association representing Utah's 29 county governments. Verified on the official site (2026-07-14): UAC provides training, legislative advocacy, legal assistance, conferences, and policy steering for county officials—not direct startup services for private founders.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Include in the wiki because Startup State lists it, but route entrepreneurs to county economic-development offices or business resource centers for hands-on company support.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+County commissioners, county staff, and appointed officials seeking training, policy advocacy, and peer networks. Secondary relevance to founders only when navigating county-level permits, incentives, or rural programs administered through counties.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Annual conference and events, policy steering committees, legal and training resources for counties, job board for county government roles, and partner-sponsored programming. Contact: admin@utahcounties.org, (801) 265-1331, 5397 S Vine St, Murray, UT 84107.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://www.uacnet.org/) · https://www.uacnet.org/
-- Email: [admin@uacnet.org](mailto:admin@uacnet.org)
+- Email: [admin@utahcounties.org](mailto:admin@utahcounties.org) (published on live site)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-association-of-counties-uac/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+UAC services target county governments and their officials. Private founders should contact their county economic-development or SBDC office rather than UAC membership channels unless participating in a public event.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Founders trying to understand which county office handles a permit, rural grant, or incentive—and who need the association only as a directory hop to county government.
 
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2732 (slug `utah-association-of-counties-uac`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-11T10:48:07
-
+Poor primary fit for mentorship, funding, or accelerator-style startup support.
 
 ## Evidence
 
@@ -89,6 +53,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Should this page cross-link to a generated county economic-development index once available?
+- Is admin@uacnet.org from Startup State deprecated in favor of admin@utahcounties.org?

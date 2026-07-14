@@ -15,7 +15,7 @@
 **Careers:** https://owletcare.com/pages/careers
 **Website:** https://owletcare.com/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/owlet-baby-care-lehi-2026/1600/1100
 **Pull:** *Connected nursery monitoring from Lehi — sock vitals, cameras, and FDA-cleared products for worried parents.*
 **Relates:** cites [Official Website: Owlet Baby Care](owlet-official-website.md) · https://greatutah.work/pages/owlet-official-website.md · https://owletcare.com/
@@ -45,7 +45,7 @@ The site also promotes HSA/FSA eligibility on some products and emphasizes billi
 
 ## What They Need Now
 
-Likely needs include embedded and firmware engineers, mobile and cloud engineers, regulatory affairs specialists comfortable with FDA device pathways, clinical and human-factors researchers, consumer hardware designers, customer support at scale, and growth marketers who can sell credibly in a sensitive category.
+Workable listings currently include Assistant Corporate Controller, Customer Operations Specialist, Medical Affairs Sr. Manager, and Subscription Engagement Lifecycle Marketing Manager. Broader fit still includes embedded/firmware and mobile/cloud engineers, regulatory affairs specialists comfortable with FDA device pathways, clinical and human-factors researchers, consumer hardware designers, and growth marketers who can sell credibly in a sensitive category.
 
 For talent matching, Owlet is a plausible fit for engineers and operators who want consumer hardware plus health-adjacent regulation in Utah's Silicon Slopes cluster.
 

@@ -18,6 +18,7 @@
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/nielson-scientific-2026/1600/1100
 **Pull:** *A DOE SBIR awardee from the Utah Innovation Center cohort — domain unknown, but the signal is worth following.*
+**Relates:** cites [DOE SBIR Award Database: Nielson Scientific](nielson-scientific-doe-sbir.md) · https://greatutah.work/pages/nielson-scientific-doe-sbir.md · https://science.osti.gov/sbir
 **Relates:** cites [Official Website: Nielson Scientific](nielson-scientific-official-website.md) · https://greatutah.work/pages/nielson-scientific-official-website.md
 
 ## Summary
@@ -35,8 +36,7 @@ Cannot be assessed without knowing the technical domain. DOE SBIR Phase I awards
 Unknown. Recommended next step: search the DOE SBIR award database at sbir.gov using "Nielson Scientific" and "Utah" to identify the award topic, technical abstract, and program office. DOE SBIR topics tend to cluster around energy, materials science, advanced manufacturing, environmental monitoring, and related deep-tech areas — consistent with the rest of this wiki's coverage.
 
 ## What They Need Now
-
-The company jobs page (July 2026) lists a Mid-Level Production Technician in Provo for microfabrication / ablation production work (IPC standards, digital work instructions; apply via careers@nielsonscientific.com). Broader early-stage SBIR needs still include engineers and scientists to execute grant deliverables, translational BD, and follow-on funding beyond SBIR.
+Hiring runs through the company jobs page and careers@nielsonscientific.com, centered on microfabrication / ablation production work in Provo (technicians working to IPC standards and digital work instructions). Broader early-stage SBIR needs still include engineers and scientists to execute grant deliverables, translational BD, and follow-on funding beyond SBIR.
 
 ## Who Could Help
 

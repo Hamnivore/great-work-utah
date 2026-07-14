@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-**Primary Location:** Utah
+**Focus:** Funding, Start a Business, Relocate a Business to Utah, Taxes and Finance, International Trade
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 60 E South Temple, Suite 300, Salt Lake City, UT 84111
@@ -17,103 +17,40 @@
 
 ## Summary
 
-The Utah Governor's Office of Economic Opportunity (Go Utah) fosters economic growth by supporting entrepreneurs, recruiting businesses, and implementing strategic development plans statewide. Under the leadership of Executive Director Ryan Starks, the office offers various programs, including business services, financial incentives, and the Utah Broadband Center, to enhance the state's economic vitality. Go Utah collaborates with industries, communities, and nonprofits to ensure economic opportunities are accessible to all Utahns.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Utah Governor's Office of Economic Opportunity (GOEO / Go Utah) is the state's primary economic development agency. Verified on business.utah.gov: GOEO runs business recruitment and expansion, grants and incentives, rural development (CRD), APEX Accelerator procurement help, international business programs, tourism, film, broadband, USBCI capital access, regulatory relief, and the Startup State resource hub.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Multicultural
-- New American
-- Rural
-- Student
-- Veteran
-- Women
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah entrepreneurs and businesses at all stages; companies relocating to Utah; rural employers; veterans and underserved communities via targeted programs; founders navigating state grants, incentives, or government contracting.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+Statewide programs directory (grants, incentives, APEX, CRD, USBCI, Opportunity Zones, etc.), business recruitment and expansion support, rural and capital-access programs, international trade and diplomacy center, Utah Elevated strategy resources, events including One Utah Summit, and business@utah.gov as a general intake line.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Start at business.utah.gov Programs & Services or the Startup State hub; use program-specific pages for applications.
 
 - [Official website](https://business.utah.gov/) · https://business.utah.gov/
 - Email: [business@utah.gov](mailto:business@utah.gov)
+- Phone: (801) 538-8680
+- Address: 60 East South Temple, Suite 300, Salt Lake City, UT 84111
 - Startup State listing: https://startup.utah.gov/business-resource/utah-governors-office-of-economic-opportunity/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Most GOEO advising and program pages are public services; grants and tax incentives are competitive or post-performance with program-specific rules — never assume eligibility without reading the current program page.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-- Multicultural
-- New American
-- Rural
-- Student
-- Veteran
-- Women
-
-## Imported Coverage
-
-- Startup State ID: 2680 (slug `utah-governors-office-of-economic-opportunity`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Multicultural, New American, Rural, Student, Veteran, Women
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-11T07:57:13
-
+Any Utah operator who needs the state-level front door: incentives, rural grants, procurement (APEX), capital access (USBCI), or relocation support. Default escalation path when a local resource cannot answer a statewide program question.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://business.utah.gov/) · https://business.utah.gov/
+- Startup State listing: https://startup.utah.gov/business-resource/utah-governors-office-of-economic-opportunity/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which GOEO programs have the shortest path for a sub-$1M-revenue founder today?
+- Current executive director and reorganization impacts on division contacts?

@@ -17,57 +17,36 @@
 
 ## Summary
 
-Startup Ignition Ventures is an Utah-based early stage pre-seed venture capital firm investing first checks into visionary startups with validated potential. The firm focuses on sectors such as technology, software, and SaaS.
+Startup Ignition Ventures (SIV) is a Utah-based pre-seed venture fund that invests roughly $100K–$1M in software, AI, and SaaS companies with real customer signal and disciplined execution. Verified on the official site (2026-07-14): the fund emphasizes evidence-backed traction, fast response through "SIV Instant," and access to the broader Startup Ignition ecosystem (Bootcamp, ToolSuite, mentor community).
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+SIV is best treated as an early check and founder-development partner, not a passive capital source.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Software and Information Technology
+SIV targets pre-seed founders building B2B software, AI, or SaaS businesses who can show customer validation and are preparing for their first institutional-style round. It may especially fit Utah and Intermountain West founders already connected to Startup Ignition education or community programs.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Funding
+The official site describes pre-seed investment plus structured founder support: ToolSuite (AI-powered validation workflow), mentor access, portfolio community, and transparent diligence through SIV Instant (initial response within 24 hours). The fund reports 23+ portfolio companies and ties into Startup Ignition Bootcamp and Academy pathways.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Start with the Ventures site, then use the public application path.
 
 - [Official website](https://startupignition.com/ventures) · https://startupignition.com/ventures
+- Apply for funding: https://startupignition.com/ventures (Pitch SIV / Apply for Funding)
 - Email: [ventures@startupignition.com](mailto:ventures@startupignition.com)
 - Startup State listing: https://startup.utah.gov/business-resource/startup-ignition-ventures/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No public founder fee is listed. The site states a pre-seed focus on software, AI, and SaaS with real traction; geographic emphasis includes Utah and broader U.S. investing. Verify current check size, sector fit, and application timing before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+A strong fit for pre-revenue or early-revenue SaaS/AI founders who want capital plus validation tooling and mentor access in Utah's Startup Ignition ecosystem.
 
-- Funding
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 3386 (slug `startup-ignition-ventures`)
-- Topics: Funding
-- Stages: Idea (pre-revenue)
-- Communities: Any
-- Industries: Software and Information Technology
-- Locations: Utah
-- Listing modified: 2025-05-28T10:23:44
-
+Less useful for non-software businesses, grant-only capital needs, or founders without any customer signal.
 
 ## Evidence
 
@@ -77,6 +56,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Does SIV still require or prefer prior Startup Ignition Bootcamp/Academy participation for all deals?
+- What traction thresholds does the fund currently expect at application?

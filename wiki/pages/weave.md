@@ -39,8 +39,7 @@ Weave's platform spans a unified phone system and softphones, text messaging wit
 For talent, this is a good home for ML and product engineers focused on voice AI, conversation design, LLM evaluation, and — critically — HIPAA-compliant healthcare communication, where the error budget is small and naive use of public LLM APIs is a non-starter.
 
 ## What They Need Now
-
-Open roles (Ashby board via careers page, as of 2026-07-14) skew Lehi HQ and US remote: product managers (integrations, messaging, payments/RCM), staff/senior platform and backend engineers, payments software, data infrastructure, GenAI/ML engineers, product analysts, payments operations leadership, customer success/education, and go-to-market (SDR, partner sales, medical BD, CMO). HIPAA-compliant voice/AI and practice-management integrations remain the product core.
+Hiring skews Lehi HQ and US remote: product managers (integrations, messaging, payments/RCM), platform and backend engineers, payments software, data infrastructure, GenAI/ML engineers, product analysts, payments-operations leadership, customer success and education, and go-to-market roles. HIPAA-compliant voice/AI and practice-management integrations remain the product core.
 
 For a match engine, Weave fits engineers who want to ship applied AI into production with real users, inside an established public company — less early-stage equity upside, more accountable mid-cap SaaS pace.
 

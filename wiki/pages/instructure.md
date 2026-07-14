@@ -16,7 +16,7 @@
 **Website:** https://www.instructure.com
 **Domain:** computing
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/instructure-canvas-lms-2026/1600/1100
 **Pull:** *Canvas is the default LMS for most U.S. universities — and the distribution surface for whatever AI-in-education becomes.*
 **Relates:** cites [Official Website: Instructure](instructure-official-website.md) · https://greatutah.work/pages/instructure-official-website.md · https://www.instructure.com
@@ -42,8 +42,7 @@ Instructure's core product is Canvas LMS: cloud-native course management, assign
 Public positioning emphasizes Canvas as the "learning ecosystem" for higher ed, K–12, and corporate learning, with growing investment in AI-assisted features integrated into that workflow rather than as standalone products.
 
 ## What They Need Now
-
-Likely needs include software engineers, applied ML engineers for LLM integration, data engineers at student-count scale, accessibility engineers (a11y is a major edtech constraint), education-domain product managers, and customer-success teams that understand slow higher-ed adoption cycles.
+Hiring emphasis runs to AI and data work (AI engineering for Canvas agents, applied data science for retrieval/semantic systems, decision science, AI center-of-excellence leadership), platform and data engineering, product management, K-12/Utah outbound sales, higher-ed sales leadership, and implementation/support. Broader fit still includes accessibility engineers (a11y is a major edtech constraint) and education-domain product managers who understand slow higher-ed adoption cycles.
 
 Good fit for engineers who want to apply modern AI to a product with enormous real-world reach rather than frontier research.
 

@@ -4,7 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities
-**Primary Location:** unknown
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** Holladay, Lehi, Park City, Provo, Salt Lake City, St. George, UT; Kiln Cabin
 **Region:** statewide
 **Map Location:** Kiln Holladay, 1895 E Rodeo Walk Dr, Suite B200, Holladay, UT 84117
@@ -17,80 +17,43 @@
 **Additional Map Location:** Kiln Salt Lake City, 26 S Rio Grande St, Suite 2072, Salt Lake City, UT 84101 | 40.7687816, -111.9044144 | exact | https://kiln.com/communities/salt-lake-city/
 **Additional Map Location:** Kiln St. George, 1575 S River Rd, St. George, UT 84790 | 37.0818400, -113.5526301 | exact | https://kiln.com/communities/st-george/
 **Additional Map Location:** Kiln Cabin, 9049 Timphaven Rd, Sundance, UT 84604 | 40.3956286, -111.5908962 | exact | https://kiln.com/communities/sundance-kiln-cabin/
-**Website:** https://kiln.com
+**Website:** https://kiln.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-Kiln is a coworking space designed for modern professionals and teams, offering a seamless blend of productivity, lifestyle, and community. With locations in Utah, Idaho, and Colorado, it features flexible memberships, curated amenities like wellness rooms, podcast studios, and event spaces, and hosts networking and wellness programs to foster creativity and collaboration
+Kiln is a design-forward coworking operator with 25+ locations across the western United States. The official site offers flexible memberships — Access, Club, Private offices, and Studio suites — with amenities aimed at performance, wellness, and community programming. Utah locations include Holladay, Lehi, Park City, Provo, Salt Lake City, St. George, and Kiln Cabin.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Remote workers, freelancers, small teams, and growth-stage companies in Utah who want premium coworking, private offices, meeting rooms, or event space with networking and wellness programming — not free startup advising or grant funding.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
+Coworking (Access and Club tiers), lockable furnished private offices (1–15 people), enterprise studio suites (15–100 people), meeting and event spaces, community teams, curated events, podcast studios, wellness rooms, and cross-location network access within the Kiln portfolio.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://kiln.com) · https://kiln.com
+- [Official website](https://kiln.com/) · https://kiln.com/
+- Book a tour or message the team via the site
 - Email: [hello@kiln.com](mailto:hello@kiln.com)
 - Startup State listing: https://startup.utah.gov/business-resource/kiln/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership pricing varies by location and tier (Access, Club, Private, Studio). Rates are presented on location-specific pages and require tour or inquiry — do not quote specific monthly fees without checking the live site for the relevant Utah location.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-
-## Imported Coverage
-
-- Startup State ID: 2570 (slug `kiln`)
-- Topics: Entrepreneurship Communities
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Davis, Garfield, Iron, Kane, Morgan, Salt Lake, Summit, Tooele, Utah, Wasatch, Washington, Weber
-- Listing modified: 2024-12-10T11:28:00
-
+Funded startups and professional teams that want polished workspace and community events rather than incubator programming or SBDC counseling. A weaker fit for bootstrapped founders needing the cheapest desk or free business advising.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Official website](https://kiln.com/) · https://kiln.com/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://kiln.com) · https://kiln.com
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which Utah location is best for a 2–10 person hardware startup versus a solo consultant?
+- What are current Access versus Club monthly rates in Salt Lake City?

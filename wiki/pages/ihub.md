@@ -1,9 +1,9 @@
 # iHub
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Start a Business
+**Focus:** Start a Business, Entrepreneurship Communities, Funding
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
@@ -19,76 +19,39 @@
 
 The Innovation Hub of Utah County (iHub) is a nonprofit startup incubator in Provo. Its official site describes a three-stage founder roadmap, a Founders Floor application path, 300+ mentors, and roughly 50,000 square feet of founder infrastructure including coworking, a maker space, a licensed commercial kitchen, and warehouse space.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Student
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Early-stage Utah founders — especially students and pre-revenue builders in Utah County — who need mentors, workspace, prototyping resources, and a structured path from validation toward roughly $1M ARR.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Founders Floor program with staged milestones and mentors
+- Coworking, meeting rooms, WiFi, and 24/7 access
+- Maker space with 3D printers, tools, and workbenches
+- Licensed commercial kitchen for food-product testing
+- Warehouse and fulfillment staging space
+- Events and a large Utah founder mentor network
 
-- Entrepreneurship Communities
-- Funding
-- Start a Business
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Apply to the Founders Floor on the official site
 - [Official website](https://www.ihubutah.org/) · https://www.ihubutah.org/
 - Startup State listing: https://startup.utah.gov/business-resource/ihub/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The public site does not publish one universal fee schedule. Verify current program, kitchen, warehouse, and reservation pricing before recommending a paid step.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Start a Business
-- Student
-
-## Imported Coverage
-
-- Startup State ID: 2620 (slug `ihub`)
-- Topics: Entrepreneurship Communities, Funding, Start a Business
-- Stages: Idea (pre-revenue), Product Built (pre-revenue)
-- Communities: Student
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Utah
-- Listing modified: 2024-12-10T12:57:21
-
+Strong for Utah County founders who need structured milestones, peers, prototyping space, or food/physical-product infrastructure. Weak for founders only seeking equity with no need for incubator programming.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.ihubutah.org/) · https://www.ihubutah.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current Founders Floor acceptance criteria and published fees?
+- Which kitchen, warehouse, and maker-space services are open to non-members?

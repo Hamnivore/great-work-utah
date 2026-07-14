@@ -12,10 +12,10 @@
 **Coordinates:** 40.2992287, -111.6630329
 **Location Precision:** exact
 **Location Source:** https://www.vivint.com/locations/utah/provo
-**Careers:** https://www.vivint.com/company/careers
+**Careers:** https://vivint.breezy.hr/
 **Website:** https://www.vivint.com
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/vivint-smart-home-provo-2026/1600/1100
 **Pull:** *Professional-install smart home security at national scale — Utah-built hardware, cloud, and 24/7 monitoring now inside NRG Energy.*
 **Relates:** cites [Official Website: Vivint](vivint-official-website.md) · https://greatutah.work/pages/vivint-official-website.md · https://www.vivint.com
@@ -40,9 +40,9 @@ The business model combines upfront equipment purchases (with financing options)
 
 ## What They Need Now
 
-Likely needs include embedded and IoT engineers, cloud platform engineers, computer-vision and edge-AI specialists, field operations leaders, customer-experience designers, sales-channel strategists, and compliance experts for state-by-state security licensing. Integration with NRG's energy retail stack may also create roles spanning product partnerships and cross-sell analytics.
+The Breezy board is currently dominated by field sales (Sales Representative, Sales Associate, Entry Level Sales Representative). Broader corporate fit still includes embedded and IoT engineers, cloud platform engineers, computer-vision and edge-AI specialists, field operations leaders, customer-experience designers, and compliance experts for state-by-state security licensing — with NRG parent integration potentially creating cross-sell and partnership roles.
 
-For talent matching, Vivint suits engineers and operators who want shipped consumer hardware at scale — with the caveat that private-equity and utility-parent ownership can shift priorities away from pure product innovation.
+For talent matching, Vivint suits engineers and operators who want shipped consumer hardware at scale — with the caveat that private-equity and utility-parent ownership can shift priorities away from pure product innovation, and that the public Breezy board skews sales-heavy versus HQ engineering.
 
 ## Who Could Help
 

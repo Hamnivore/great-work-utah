@@ -4,88 +4,54 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Other
-**Primary Location:** Utah
-**Utah Location:** statewide
-**Region:** statewide
+**Primary Location:** Cedar City, UT
+**Utah Location:** southwestern Utah (11 counties)
+**Region:** southwestern Utah
 **Map Location:** 351 W University Blvd, Cedar City, UT 84720
 **Coordinates:** 37.675550, -113.071700
 **Location Precision:** exact
 **Location Source:** https://www.futurereadyutah.org/
-**Website:** http://futurereadyutah.org
+**Website:** https://futurereadyutah.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-Personalized Support from a Targeted Outreach Coordinator (TOC) in your county! Our TOCs offer no-cost, hands-on support for community and business leaders. Whether you need help addressing a specific challenge or are looking for ongoing guidance, your TOC can assist with hiring and retention strategies, training connections, and workplace improvements. This support can be a one-time consultation or part of a long-term partnership—whatever fits your goals.
+FutureReady Utah is a no-cost workforce and economic-development collaboration serving southwestern Utah. Verified on the official site (2026-07-14): Southern Utah University, Utah Tech University, and Snow College jointly deliver short-term career training, job-seeker connections, and free business training/consulting for employers across an 11-county southwest region, with chamber and EDA support.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Note: the Startup State listing describes county Targeted Outreach Coordinators statewide; the live site copy centers on southwest Utah workforce services delivered by the three colleges.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Rural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Rural and southwest Utah residents, job seekers, employers, and community leaders seeking workforce training, hiring/retention support, or business consulting. Less clearly aimed at early-stage tech founders outside the employer-training lane.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Other
+Short-term free or reduced-cost career training, connections to higher-wage careers, and employer-focused business training and consulting. The program positions itself as a regional effort to expand business markets and deliver accessible training, including for traditionally underserved residents.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](http://futurereadyutah.org) · http://futurereadyutah.org
+- [Official website](https://futurereadyutah.org/) · https://futurereadyutah.org/
 - Email: [futureready@suu.edu](mailto:futureready@suu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/futureready-utah/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The site states no-cost program delivery for eligible services; specific training seats and employer consulting slots may have their own enrollment rules. Contact the program email to confirm county coverage and current offerings.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Southwest Utah employers needing hiring, retention, or workforce training support, and residents pursuing short-term career pathways.
 
-- Other
-- Rural
-
-## Imported Coverage
-
-- Startup State ID: 3665 (slug `futureready-utah`)
-- Topics: Other
-- Stages: Product Built (pre-revenue), Product Built (revenue)
-- Communities: Rural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Piute, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-05-28T10:17:49
-
+Less useful for Salt Lake or northern Utah founders unless they have operations in the southwest region.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](http://futurereadyutah.org) · http://futurereadyutah.org
+- [Official website](https://futurereadyutah.org/) · https://futurereadyutah.org/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Does the Targeted Outreach Coordinator model described in Startup State still operate outside southwest Utah?
+- What is the current list of 11 counties and the best local contact path for each?

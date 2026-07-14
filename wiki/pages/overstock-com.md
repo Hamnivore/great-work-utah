@@ -9,8 +9,9 @@
 **Utah Location:** Murray, UT
 **Region:** Murray
 **Website:** https://www.bedbathandbeyond.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://corporate.beyond.com/corporate/careers
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/overstock-bed-bath-beyond-murray-2026/1600/1100
 **Pull:** *From discount liquidation pioneer to Bed Bath & Beyond brand steward — a Utah e-commerce company with an unusually winding corporate identity.*
 **Relates:** cites [Official Website: Bed Bath & Beyond](bed-bath-beyond-official-website.md) · https://greatutah.work/pages/bed-bath-beyond-official-website.md · https://www.bedbathandbeyond.com
@@ -34,8 +35,7 @@ Today the company presents itself as an e-commerce-focused retailer with an "aff
 Beyond retail, public filings and press releases describe a blockchain asset portfolio — including interests in tZERO and GrainChain — that the company has said it may monetize. That portfolio is a legacy of the Medici era and should be treated as a separate, uncertain value stream from core retail operations.
 
 ## What They Need Now
-
-Likely needs include e-commerce operators, merchandising and category managers, supply-chain and logistics leaders, marketplace technologists, brand marketers, and finance leaders comfortable with public-company turnaround dynamics. Blockchain-adjacent expertise may still matter for portfolio assets, but the near-term public narrative emphasizes retail revenue growth and profitability.
+Hiring centers on Utah e-commerce and brand operations: data analytics, competitive pricing, paid media, CRM, integrated marketing, and investor relations. That mix is growth-and-turnaround retail — pricing, paid media, CRM, and IR — more than greenfield marketplace engineering.
 
 For talent matching, this is a reasonable fit for operators who want scaled e-commerce with public-company exposure — though turnaround volatility and repeated rebranding add uncertainty.
 

@@ -1,10 +1,10 @@
 # World Trade Center Utah
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth
-**Primary Location:** Utah
+**Focus:** International Trade, Late Stage Growth
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 60 E South Temple, Suite 300, Salt Lake City, UT 84111
@@ -17,77 +17,39 @@
 
 ## Summary
 
-World Trade Center Utah (WTC Utah) is a nonprofit organization dedicated to accelerating the growth of Utah companies by connecting them to global markets. Affiliated with the World Trade Centers Association, WTC Utah offers services such as market expansion assistance, supply chain optimization, and access to grants, aiming to make international business as accessible as local commerce.
+World Trade Center Utah (WTC Utah) is a nonprofit affiliated with the World Trade Centers Association that helps Utah companies expand into global markets. Its official site offers business advisory, trade missions, events, grant support including STEP, and connections to an international trade network.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah companies — especially growth-stage operators — pursuing export sales, international partnerships, supply-chain optimization, or market-entry support.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Business advisory for international expansion
+- Trade missions, events, and market-entry programming
+- Grant and funding support for trade opportunities such as STEP
+- Foreign-trade zone and tariff-briefing resources
 
-- Entrepreneurship Communities
-- Late Stage Growth
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Start with Get Started on the official site or contact WTC Utah
 - [Official website](https://www.wtcutah.com/) · https://www.wtcutah.com/
 - Email: [info@wtcutah.com](mailto:info@wtcutah.com)
 - Startup State listing: https://startup.utah.gov/business-resource/world-trade-center-utah/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Program and advisory costs vary. Some grant-supported trade activities may offset costs for eligible companies. Verify current STEP and service pricing before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 2612 (slug `world-trade-center-utah`)
-- Topics: Entrepreneurship Communities, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Any
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:48:24
-
+Utah companies with a product or service ready for international customers. Weak for pre-revenue founders with no exportable offer or companies needing only local startup incubation.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.wtcutah.com/) · https://www.wtcutah.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which STEP grant cycles and eligibility rules are active this year?

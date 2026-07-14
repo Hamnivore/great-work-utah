@@ -17,69 +17,37 @@
 
 ## Summary
 
-Nucleus Grow, part of the Nucleus Institute, serves as a catalyst for technology innovation in Utah. It provides a funding roadmap for startups and emerging companies developing innovative technologies, offering services such as proposal review, training, and mentoring to assist businesses in securing non-dilutive funding through federal programs like the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): Nucleus Grow (formerly Utah Innovation Center) is Utah's official SBIR/STTR resource partner under the Nucleus Institute. It helps Utah-headquartered deep-tech and life-sciences companies prepare competitive federal non-dilutive funding proposals through coaching, workshops, proposal review, and connections across Utah's innovation network.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Life Sciences and Healthcare
-- Manufacturing
-- Software and Information Technology
+Utah-headquartered for-profit companies with a Utah business license pursuing SBIR/STTR funding — especially deep tech, life sciences, AI, advanced manufacturing, and cleantech ventures at pre-commercial R&D stages.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Funding
+SBIR/STTR topic matching, proposal development and editing, monthly SBIR 101 workshops, agency-specific guidance (NIH, NSF, DoD, DOE, USDA, NASA, and others), SAM.gov registration support, and links to the Utah Technology Innovation Fund (UTIF) microgrants and nonrecourse loans for SBIR applicants. Nucleus Grow is also Utah's FAST Partnership awardee.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.nucleusutah.org/grow) · https://www.nucleusutah.org/grow
+- [Nucleus Grow](https://www.nucleusutah.org/grow) · https://www.nucleusutah.org/grow
 - Email: [grow@nucleusutah.org](mailto:grow@nucleusutah.org)
+- Attend the monthly SBIR 101 workshop (first Wednesday of each month), then schedule a consultation
 - Startup State listing: https://startup.utah.gov/business-resource/utah-innovation-center/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Consultations, editing, and most guidance are free to eligible Utah businesses; some events may carry nominal fees. Company must be headquartered in Utah, for-profit, American-owned, at least 51% individually owned, and meet federal SBIR/STTR size rules (500 or fewer employees).
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2654 (slug `utah-innovation-center`)
-- Topics: Funding
-- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Life Sciences and Healthcare, Manufacturing, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2026-02-02T14:21:32
-
+Utah deep-tech founders preparing first or follow-on SBIR/STTR proposals — weak fit for main-street businesses without federal R&D topics or pre-commercial technology.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://business.utah.gov/innovation/) · https://business.utah.gov/innovation/
+- [Nucleus Grow](https://www.nucleusutah.org/grow) · https://www.nucleusutah.org/grow
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which Nucleus Grow advisors should become helper pages with public evidence?
+- Should UTIF microgrant and Phase II loan details live on this page or a separate UTIF page?

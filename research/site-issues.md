@@ -12,13 +12,13 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **Impact:** Cannot complete planned 3×3 provider matrix until quota recovers.
 - **Next check:** Re-run Claude/OpenAI legs when quota available; see `research/findings/model-harness-probes-2026-07-14.md`.
 
-### Needs: careers coverage thin; synonym / filter gaps remain
+### Needs: synonym / filter gaps remain (careers coverage now done)
 
 - **Seen:** 2026-07-14 · harness: Cursor
 - **Where:** `/views/needs.md`, venture pages
-- **What:** Synonym/filter gaps remain. `**Careers:**` seeded on flagship employers only; most needs lines still only have Website or neither.
-- **Partial fix:** 2026-07-14 — bare `**Website:**` / `**Careers:**` metadata; needs board prints them; Evidence lines have plaintext https.
-- **Next check:** Grow Careers coverage; skill clustering.
+- **What:** Synonym/filter gaps remain (no skill clustering).
+- **Partial fix:** 2026-07-14 — careers pass complete: `**Careers:**` on 75/114 needs pages (every venture/helper/resource with a real hiring surface; all URLs curl-verified 200). The 40 without carry an Open Questions note saying why (no board exists, domain dead, email-only hiring). Conventions now pin the rules: Careers = the org's general careers page or own ATS board, for the *human* applicant (JS-rendered fine; never a single posting, aggregator, or raw ATS API endpoint), and needs prose stays at role-family level — board-snapshot role lists were rewritten out of ~45 pages. Dead links fixed en route: L3Harris Evidence URLs (post-restructure), Fortem Paylocity board, FamilySearch jobs path, Culmination/ASI/Baxter/Intactis/Hypercraft/Varda `**Website:**` fields that pointed at news articles or dead domains.
+- **Next check:** Skill clustering / synonym gloss; re-probe job-seeker scenario to confirm agents hand out Careers URLs instead of guessing `/careers`.
 
 ### Capital stubs + Focus sludge; empty capital-programs hub
 

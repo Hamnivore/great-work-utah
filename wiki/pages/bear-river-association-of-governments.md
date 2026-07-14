@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Funding, Late Stage Growth
 **Primary Location:** Logan, UT
 **Utah Location:** Box Elder County, UT; Cache County, UT; Rich County, UT
 **Updated:** 2026-07-14
@@ -18,77 +18,40 @@
 
 ## Summary
 
-The Bear River Association of Governments (BRAG) supports local community and economic development by offering technical assistance to cities, towns, and counties in northern Utah. It helps with planning, strategic growth, housing, transportation, and securing funding for vital infrastructure projects to promote regional development and economic success​.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Bear River Association of Governments (BRAG) is a regional council serving Box Elder, Cache, and Rich counties. Verified on brag.utah.gov: BRAG provides community and economic development technical assistance to local governments, helps secure funding for public infrastructure, and runs housing, workforce, and human-services programs across northern Utah.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+City and county officials in the Bear River region; businesses and developers needing CDBG or infrastructure planning support; low-income households and seniors accessing BRAG human-services programs — founders may engage BRAG when local planning or CIB/CDBG funding is part of an expansion.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Community Development Block Grant administration, local planning assistance (general plans, GIS, housing plans), business outreach, regional mobility planning, and connections to CIB and other infrastructure funding — plus extensive housing and social service programs listed on the main site.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Start at the Community & Economic Development page for planning or CDBG questions; use Central Intake for human-services programs.
+
+- [Official website](https://brag.utah.gov/) · https://brag.utah.gov/
+- [Community & Economic Development](https://brag.utah.gov/community-economic-development/) · https://brag.utah.gov/community-economic-development/
+- Email (C&ED): [shawnm@brag.utah.gov](mailto:shawnm@brag.utah.gov) · 801-514-4444
+- Logan office: (435) 752-7242
+- Startup State listing: https://startup.utah.gov/business-resource/bear-river-association-of-governments/
+
+## Cost / Eligibility
+
+Planning assistance for local governments is funded through programs such as the Regional Planner Program (CIB); eligibility is program-specific. Human-services programs have income and residency rules — verify on brag.utah.gov.
+
+## Best Fits
+
+A Cache Valley or Box Elder business expansion tied to infrastructure, CDBG, or county planning — or a local official coordinating regional ED. Not a general startup accelerator; pair with local SBDC or city ED for founder advising.
+
+## Evidence
 
 - [Official website](https://brag.utah.gov/) · https://brag.utah.gov/
 - Startup State listing: https://startup.utah.gov/business-resource/bear-river-association-of-governments/
 
-
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
-
-## Best Fits
-
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2668 (slug `bear-river-association-of-governments`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Box Elder, Cache, Rich
-- Listing modified: 2024-12-10T16:24:06
-
-
-## Evidence
-
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://brag.utah.gov/) · https://brag.utah.gov/
-
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Current CDBG business-eligible project windows for the Bear River region?
+- Which BRAG business-outreach services are open to private companies vs. governments only?

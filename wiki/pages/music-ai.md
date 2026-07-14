@@ -8,6 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Careers:** https://music.ai/careers/
 **Website:** https://music.ai
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
@@ -47,6 +48,7 @@ Music AI is one of a small number of Utah companies with a genuinely global cons
 
 ## Open Questions
 
+- music.ai/careers is JS-rendered — agents should hand the URL to the user rather than fetching it. No plain-HTTP jobs feed located.
 - 50M registered users ≠ 50M paying users. What is the paid-conversion rate and ARPU?
 - How does the licensed voice cloning model work legally and technically? What prevents artists from being cloned without consent even within the platform?
 - The source separation market is increasingly commoditized by open-source models. What is the durable moat?

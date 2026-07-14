@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Low
+**Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,7 +13,8 @@
 
 ## Summary
 
-The Teen Entrepreneur Support Center is listed on Startup State as a statewide resource that connects teen business owners with mentorship, workshops, events, and free support to build and scale ventures. Automated verification of the official site was blocked by Cloudflare during this review, so live program details could not be reconfirmed from the homepage.
+Verified in headless Chrome (2026-07-14): Teen Entrepreneur Support Center operates at teenentrepreneurship.org with mentorship, shop, events, travel, and school pathways. The homepage tagline emphasizes free support for teen founders ("We are FREE so you are FREE – to go BIG"). Automated curl/fetch often hits Cloudflare; use a real browser before treating the site as down.
+
 
 ## Who It's For
 
@@ -36,17 +37,10 @@ The Startup State listing describes free resources. Confirm whether any events o
 
 Utah teens with a business idea or early venture who need mentor access and structured youth entrepreneurship programming — pending confirmation that the organization is actively operating.
 
-## Imported Coverage
-
-- Startup State ID: 2549 (slug `teen-entrepreneur-support-center`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: Student
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T09:33:58
 
 ## Evidence
+
+- Official site (browser-verified 2026-07-14): https://teenentrepreneurship.org/
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/

@@ -17,9 +17,8 @@
 
 ## Summary
 
-iMpact Utah appears in the Startup State resource import as a manufacturing-support nonprofit focused on performance, profitability, training, automation, cybersecurity, and operational improvement for Utah manufacturers.
+iMpact Utah appears in the Startup State import as a manufacturing-support nonprofit (operations, training, automation, cybersecurity). As of 2026-07-14 the official domain fails TLS (`ERR_SSL_PROTOCOL_ERROR`) in both curl and headless Chrome. A December 2024 Wayback snapshot still shows Utah MEP Network framing — for live recommendations prefer [Utah MEP](utah-mep.md) until impactutah.org is restored or a successor URL is confirmed.
 
-This page was checked again on 2026-06-18, but the official `impactutah.org` site could not be reliably read: the HTTP endpoint redirected to HTTPS and the HTTPS endpoint failed with a TLS internal error from the verification environment. Because the provider page was not available for content verification, this resource should not yet be used as a strong recommendation.
 
 ## Who It Helps
 
@@ -64,6 +63,10 @@ Because the provider page could not be verified, use this as a watchlist lead ra
 
 
 ## Evidence
+
+- Related live program: [Utah MEP](utah-mep.md) · https://greatutah.work/pages/utah-mep.md
+
+- Wayback snapshot (2024-12-18): https://web.archive.org/web/20241218094311/https://www.impactutah.org/
 
 - [iMpact Utah Official Site Access Attempt](impact-utah-official-site-access-attempt.md) · https://greatutah.work/pages/impact-utah-official-site-access-attempt.md · https://www.impactutah.org/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/

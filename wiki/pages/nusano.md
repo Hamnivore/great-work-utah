@@ -38,8 +38,7 @@ The core technology is a proprietary ion source that Nusano says creates heavy i
 Public coverage indicates Nusano has begun lining up demand and partnerships — for example, a lutetium-177 supply agreement reported with Australian targeted-radiotherapy company GlyTherix — and that the site is expected to expand the company's actinium-225 production capacity substantially. Beyond healthcare, Nusano has described industrial applications such as long-lived nuclear batteries. [Source: Nusano Official Website and Facility-Opening / Series C Announcements](nusano-official-website.md)
 
 ## What They Need Now
-
-Likely needs include accelerator physicists, radiochemists, nuclear and target engineers, cGMP manufacturing-process engineers, quality and regulatory staff spanning both nuclear and pharmaceutical regimes, and commercial leaders to convert reservations into long-term supply agreements. Apply via the Nusano careers board (July 2026); the company is actively recruiting around the West Valley City production ramp. This is hands-on, heavily regulated, technically demanding work.
+Likely needs include accelerator physicists, radiochemists, nuclear and target engineers, cGMP manufacturing-process engineers, quality and regulatory staff spanning both nuclear and pharmaceutical regimes, and commercial leaders to convert reservations into long-term supply agreements. Apply via the Nusano careers board; recruiting tracks the West Valley City production ramp. This is hands-on, heavily regulated, technically demanding work.
 
 For talent matching, Nusano fits physicists, chemists, and engineers who want a direct line from bench work to patient outcomes, and who are drawn to building first-of-its-kind production capability rather than incremental product work.
 

@@ -15,7 +15,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.linkedin.com/company/cleanjoule
 **Website:** https://cleanjoule.com
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/cleanjoule-2026/1600/1100
 **Relates:** cites [Official Website: CleanJoule](cleanjoule-official-website.md) · https://greatutah.work/pages/cleanjoule-official-website.md · https://cleanjoule.com
 
@@ -62,6 +62,7 @@ CleanJoule's Salt Lake City presence makes it one of Utah's more distinctive dee
 
 ## Open Questions
 
+- No agent-readable careers/jobs page found (cleanjoule.com has no careers path; Greenhouse/Lever boards 404; Ashby board is WEAK_SPA).
 - Has CycloSAF received ASTM certification since late 2024, when it was listed as in progress?
 - What is the current status of the first full-scale US manufacturing facility?
 - Are there signed offtake agreements with Frontier, Wizz, Volaris, or other airlines beyond strategic investment relationships?

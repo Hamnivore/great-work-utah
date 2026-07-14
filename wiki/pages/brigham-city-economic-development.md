@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Relocate a Business to Utah, Start a Business
 **Primary Location:** Brigham City, UT
 **Utah Location:** Brigham City, UT
 **Updated:** 2026-07-14
@@ -18,69 +18,32 @@
 
 ## Summary
 
-Brigham City's Economic Development Department is dedicated to enhancing the city's quality of life by fostering a vibrant business environment. The department offers support to businesses through streamlined application processes, tax increment financing via the Redevelopment Agency, and façade grant programs aimed at revitalizing the historic downtown district. Additionally, Brigham City provides well-developed infrastructure and is strategically located with access to major interstates and rail services, facilitating efficient transportation and logistics for businesses.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): Brigham City's Economic Development office supports business growth in Box Elder County by highlighting the city's quality of life, workforce, infrastructure, and business environment. Public pages describe a strong employer base, UTOPIA fiber access, Union Pacific rail service, Utah Transit Authority bus links, and educational assets including Bridgerland Technical College and a Utah State University satellite campus.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Business owners, employers, and site selectors evaluating Brigham City or Box Elder County who need municipal economic development contact and context on local infrastructure and employers.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+The economic development page provides city contact information, business-environment context, and links to related city services such as business licensing. The city notes approximately 1,200 active business licenses and major employers including Northrop Grumman, Autoliv, Post Consumer Brands, Procter & Gamble, and Nucor.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.bcutah.gov/page/economic-development/) · https://www.bcutah.gov/page/economic-development/
+- [Economic Development](https://www.bcutah.gov/page/economic-development/) · https://www.bcutah.gov/page/economic-development/
+- Tom Kotter, Economic Development Director: (435) 734-6620
+- Destry Larsen, Administrative Assistant: (435) 734-6604
 - Email: [plarsen@bcutah.gov](mailto:plarsen@bcutah.gov)
+- [Business licensing](https://www.bcutah.gov/page/business-licensing/) · https://www.bcutah.gov/page/business-licensing/
 - Startup State listing: https://startup.utah.gov/business-resource/brigham-city-economic-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+City economic development outreach is free. Business licensing and any incentive programs have separate city requirements and fees.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2669 (slug `brigham-city-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Box Elder
-- Listing modified: 2024-12-10T17:12:07
-
+Manufacturing, logistics, or main-street operators considering Brigham City who need a municipal ED contact and licensing path — not deep-tech SBIR coaching or venture fundraising.
 
 ## Evidence
 
@@ -88,8 +51,3 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.bcutah.gov/page/economic-development/) · https://www.bcutah.gov/page/economic-development/
 
-## Open Questions
-
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

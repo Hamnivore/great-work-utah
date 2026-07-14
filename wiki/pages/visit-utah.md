@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Other
-**Primary Location:** Utah
+**Focus:** Marketing and Sales, Other
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 60 E South Temple, Suite 300, Salt Lake City, UT 84111
@@ -17,68 +17,40 @@
 
 ## Summary
 
-Visit Utah is the official travel guide for exploring Utah’s diverse landscapes, national parks, and cultural experiences. It offers resources for planning trips, highlighting outdoor adventures, scenic byways, and unique destinations across the state. Through its efforts, Visit Utah showcases the state’s natural beauty and vibrant communities, inviting visitors to discover all it has to offer.
+Visit Utah is the state's official consumer travel brand and website, showcasing Utah destinations, itineraries, events, and trip-planning resources. For tourism and hospitality operators, it is the public-facing marketing channel that drives visitor demand; industry-facing programs and partner tools are primarily coordinated through the [Utah Office of Tourism](utah-office-of-tourism.md).
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Arts and Entertainment and Recreation
-- Hospitality and Food Services
+Utah hospitality, recreation, and tourism businesses that benefit from statewide destination marketing, as well as operators seeking visitor-facing content partnerships or alignment with Utah's official travel brand.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The live site offers destination guides, itineraries, event listings, travel stories, responsible-travel resources, accessibility information, and free Utah travel guides. It functions as the primary consumer discovery engine for Utah tourism rather than a business-advising office.
 
-- Entrepreneurship Communities
-- Other
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://www.visitutah.com/) · https://www.visitutah.com/
 - Email: [info@visitutah.com](mailto:info@visitutah.com)
+- For industry programs (grants, training, conferences), start with [Utah Office of Tourism](utah-office-of-tourism.md)
 - Startup State listing: https://startup.utah.gov/business-resource/visit-utah/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Consumer travel content is free to browse. Industry partnership, cooperative marketing, or advertising paths are not priced on this consumer site — verify through the Office of Tourism.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for tourism/hospitality founders who need to understand how Utah markets itself to visitors and how their business category fits the state's destination story.
 
-- Entrepreneurship Communities
-- Other
-
-## Imported Coverage
-
-- Startup State ID: 2640 (slug `visit-utah`)
-- Topics: Entrepreneurship Communities, Other
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Arts and Entertainment and Recreation, Hospitality and Food Services
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:22:45
+Not a fit for founders seeking startup funding, coworking, or general small-business counseling.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.visitutah.com/) · https://www.visitutah.com/
+- [Utah Office of Tourism](utah-office-of-tourism.md) · https://greatutah.work/pages/utah-office-of-tourism.md · https://travel.utah.gov/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which Visit Utah partnership or content-collaboration paths are open to small tourism operators today?

@@ -12,11 +12,11 @@
 **Coordinates:** 40.7628187, -111.9046066
 **Location Precision:** exact
 **Location Source:** https://www.recursion.com/terms-of-use
-**Careers:** https://www.recursion.com/careers
+**Careers:** https://job-boards.greenhouse.io/recursionpharmaceuticals
 **Website:** https://www.recursion.com/mission
 **Domain:** health-bio, computing
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-05-09
+**Needs-reviewed:** 2026-07-14
 **Hero:** /img/heroes/front/recursion-1600.webp
 **Hero caption:** *Recursion scientists in the company's automated wet-lab, Salt Lake City — temporary hotlinked image from Recursion's website; image rights have not yet been cleared.*
 **Pull:** *Industrializing drug discovery on more than fifty petabytes of multimodal biological and chemical data.*
@@ -40,8 +40,7 @@ Recursion is building a data and experimentation platform for drug discovery. Pu
 The available public framing makes Recursion relevant to machine learning engineers, computational biologists, wet-lab scientists, and platform builders who want to work on real experiments at machine scale rather than thin AI wrappers around literature search.
 
 ## What They Need Now
-
-Likely needs include people who can connect AI systems to biological reality: computational biologists, machine learning infrastructure engineers, assay development scientists, medicinal chemists, clinical operators, and product-minded platform leaders who can serve both internal programs and pharma partners.
+Hiring spans computational biology (early discovery, oncology, neuroscience), clinical pharmacology and clinical science, CMC/regulatory affairs, DMPK leadership, compound management, and corporate strategy. Broader fit still includes ML infrastructure engineers, assay development scientists, medicinal chemists, clinical operators, and product-minded platform leaders who can serve both internal programs and pharma partners.
 
 For a match engine, Recursion is most relevant to candidates who want a scaled organization, public-company rigor, and a serious AI-biology interface. It may be less ideal for someone who wants very early startup ambiguity or full control over scientific direction.
 

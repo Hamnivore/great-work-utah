@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
-**Primary Location:** Utah
+**Focus:** Entrepreneurship Communities, Marketing and Sales
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 300 N State St, Salt Lake City, UT 84114
@@ -17,66 +17,39 @@
 
 ## Summary
 
-The Utah Film Commission promotes the state as a prime location for film, television, and commercial productions, offering support such as location scouting, crew resources, and incentive programs. Celebrating its 50th anniversary in 2024, the commission continues to foster the development of local talent and showcase Utah's diverse landscapes to the entertainment industry.
+The Utah Film Commission promotes Utah as a filming location for motion pictures, television, and commercials. It supports productions with location scouting, crew and vendor directories, incentive programs, talent development, and resources for local film workers and property owners who want to participate in the industry.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Arts and Entertainment and Recreation
-- Hospitality and Food Services
+Utah filmmakers, production companies, crew, vendors, students, property owners listing film-friendly locations, and local businesses hiring or serving productions.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site offers production support for motion picture, TV, and commercial projects; Utah location scouting resources; a motion-picture incentive program; crew and support-services directories; Film Ready Utah community resources; job listings for local crew and extras; guidance for listing properties as filming locations; career-path resources for newcomers; green-production practices; and a Filmed in Utah archive.
 
-- Entrepreneurship Communities
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://film.utah.gov/) · https://film.utah.gov/
 - Email: [film@utah.gov](mailto:film@utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-film-commission/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Commission assistance is public; incentive programs and vendor/production contracts have their own eligibility and application requirements. Verify current incentive thresholds on the official incentives page.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for Utah creative entrepreneurs, production services, location owners, or hospitality businesses tied to the film/TV supply chain.
 
-- Entrepreneurship Communities
-
-## Imported Coverage
-
-- Startup State ID: 2638 (slug `utah-film-commission`)
-- Topics: Entrepreneurship Communities
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Arts and Entertainment and Recreation, Hospitality and Food Services
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:20:59
+Not a fit for founders seeking generic small-business loans or SaaS accelerator support.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://film.utah.gov/) · https://film.utah.gov/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are the current incentive program minimum spend and approval timelines?
+- Which local film festivals should be separate event pages?

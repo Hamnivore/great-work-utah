@@ -12,9 +12,10 @@
 **Coordinates:** 40.4352302, -111.8714967
 **Location Precision:** exact
 **Location Source:** https://www.ancestry.com/corporate/contact
+**Careers:** https://careers.ancestry.com/
 **Website:** https://www.ancestry.com/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Relates:** cites [Official Website: Ancestry](ancestry-official-website.md) · https://greatutah.work/pages/ancestry-official-website.md · https://www.ancestry.com/
 **Relates:** cites [Blackstone Acquisition of Ancestry](ancestry-blackstone-acquisition.md) · https://greatutah.work/pages/ancestry-blackstone-acquisition.md · https://www.blackstone.com/news/press/blackstone-completes-acquisition-of-ancestry-leading-online-family-history-business-for-4-7-billion/
 
@@ -62,6 +63,7 @@ Ancestry is headquartered in Lehi and is part of the Silicon Slopes company clus
 
 ## Open Questions
 
+- careers.ancestry.com is bot-gated for plain-HTTP fetchers — agents should hand the URL to the user rather than fetching it. Is there an agent-readable jobs feed?
 - What are the independently verified current sizes of Ancestry's paid subscriber base, DNA network, and searchable record corpus?
 - How does Ancestry currently govern law-enforcement requests, investigative genetic genealogy, and third-party access to DNA match information?
 - What is the current scope of Ancestry's relationship with FamilySearch or Church-affiliated genealogy institutions?

@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding
-**Primary Location:** Utah
+**Focus:** Funding, Start a Business
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 154 E Ford Ave, Suite A, Salt Lake City, UT 84115
@@ -17,73 +17,38 @@
 
 ## Summary
 
-The Utah Microloan Fund (UMLF), established in 1991, is a nonprofit Community Development Financial Institution (CDFI) dedicated to empowering underserved communities across Utah. UMLF provides business training and microloans to entrepreneurs in startup and existing businesses who do not qualify for traditional funding sources, with a focus on low-to-moderate income individuals, women, minorities, and other underserved populations
+The Utah Microloan Fund (UMLF), established in 1991, is a nonprofit Community Development Financial Institution (CDFI) serving underserved Utah entrepreneurs. The official site describes microloans and business advising for owners who cannot qualify for traditional bank financing, with emphasis on low- to moderate-income individuals, women, minorities, and other underserved populations.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah startup and existing small-business owners declined by banks — including those with limited credit history, insufficient collateral, or under two years of financials. UMLF explicitly serves startups that banks typically will not fund at idea or early-revenue stage.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Funding
+Microloans (after required orientation), business advising, the Banking on Women program, and free virtual small-business classes statewide on topics such as social media, cash flow, HR, financials, and business planning.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://www.utahmicroloanfund.org/) · https://www.utahmicroloanfund.org/
+- Start with [loan orientation](https://www.utahmicroloanfund.org/orientation.html) — required before any loan application
+- Phone: 801-746-1180 · 154 E Ford Ave Ste A, Salt Lake City, UT 84115
 - Startup State listing: https://startup.utah.gov/business-resource/utah-microloan-fund-umlf/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Loan orientation is the documented first step; specific interest rates, loan sizes, and closing costs are not summarized on the homepage and should be confirmed during orientation. Business classes are described as free and open to the public statewide.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2585 (slug `utah-microloan-fund-umlf`)
-- Topics: Funding
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T11:52:48
+Underserved Utah founders who need a lender-of-last-resort pathway with coaching, especially women-owned and minority-owned businesses rejected by banks. A weaker fit for venture-scale tech companies seeking equity or for owners who already qualify for conventional bank credit.
 
 
-## Evidence
+## Evidence## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.utahmicroloanfund.org/) · https://www.utahmicroloanfund.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current typical loan sizes, rates, and approval timelines after orientation?
+- Which industries does UMLF most often approve today?

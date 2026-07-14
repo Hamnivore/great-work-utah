@@ -37,8 +37,7 @@ The July 4, 2026 test reactor milestone, if achieved, would be a meaningful vali
 The Ward 250 is a 100 kWt HTGR using TRISO fuel and helium as the working fluid. The design target is air transportability in a C-17 Globemaster III — a constraint that drives the form factor to be genuinely compact. The test reactor at San Rafael Energy Lab in Emery County, Utah is the first physical realization of this design, built to validate the nuclear physics and obtain NRC licensing data for future commercial deployment.
 
 ## What They Need Now
-
-Greenhouse listings (as of 2026-07-14) show heavy hiring for both Hawthorne, CA engineering and the Orangeville, Utah site build-out: construction quality inspectors/supervisors, Director of Infrastructure, fuel-plant process technicians, health physicists and HPTs, I&C technicians, maintenance technicians, nuclear operations manager, QA laboratory roles, and nuclear supplier-quality engineers — alongside Hawthorne mechanical, manufacturing, I&C/electrical directors, CFD, and fire-protection roles. Utah talent is most relevant for site construction, nuclear operations, health physics, and quality at the pilot plant; HQ/design roles remain California-centered.
+Hiring runs heavy for both Hawthorne, CA engineering and the Orangeville, Utah site build-out: construction quality inspectors and supervisors, infrastructure leadership, fuel-plant process technicians, health physicists and HPTs, I&C and maintenance technicians, nuclear operations management, QA laboratory roles, and nuclear supplier-quality engineers. Utah talent is most relevant for site construction, nuclear operations, health physics, and quality at the pilot plant; HQ/design roles remain California-centered.
 
 ## Who Could Help
 

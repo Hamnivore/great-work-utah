@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
+**Confidence:** Low
 **Focus:** Funding
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County
@@ -11,86 +11,51 @@
 **Coordinates:** 38.7760654, -112.0833003
 **Location Precision:** exact
 **Location Source:** https://r6.utah.gov/contact/
-**Website:** https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/
+**Website:** https://r6.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Revolving Loan Fund (RLF), administered by the R6 Regional Council, offers "gap financing" to support new and expanding businesses within Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties in Utah. This program provides loans ranging from The Revolving Loan Fund (RLF), administered by the R6 Regional Council, offers "gap financing" to support new and expanding businesses within Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties in Utah. This program provides loans ranging from $20,000 to $250,000, aiming to stimulate economic growth and job creation in the region.
+The R6 Regional Council Revolving Loan Fund (RLF) provides gap financing for small businesses in Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties. The council's programs page and executive-office staff listing confirm an active RLF program managed by Amy Rosquist, but the dedicated RLF URL returns HTTP 404 (verified headless Chrome, 2026-07-14); use the org home and staff contacts below.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
-0,000 to The Revolving Loan Fund (RLF), administered by the R6 Regional Council, offers "gap financing" to support new and expanding businesses within Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties in Utah. This program provides loans ranging from $20,000 to $250,000, aiming to stimulate economic growth and job creation in the region.
+Treat loan sizes, rates, and application steps as unverified until confirmed directly with R6 staff.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
-50,000, aiming to stimulate economic growth and job creation in the region.
+## Who It's For
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+New and expanding small businesses in the six-county R6 service area that need gap financing alongside banks or other lenders — especially operators creating or retaining jobs who cannot close a capital gap through conventional financing alone.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Funding
+Revolving loans described in indexed program materials as up to $150,000 for eligible uses including jobs, working capital, equipment, and real estate. Loans are intended to revolve as repayments fund future borrowers.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/) · https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/
-- Email: [arosquist@R6.utah.gov](mailto:arosquist@R6.utah.gov)
+- Contact Amy Rosquist, Revolving Loan Fund Manager: [arosquist@R6.utah.gov](mailto:arosquist@R6.utah.gov) · 435-893-0720
+- R6 Regional Council: https://r6.utah.gov/
 - Startup State listing: https://startup.utah.gov/business-resource/revolving-loan-fund-program-rlf-r6/
 
+The Startup State website field points to a program page that did not load during verification; use staff contact as the reliable entry point.
 
-## Cost / Eligibility
+## Cost
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Program materials reference competitive fixed interest rates and gap-financing terms, but current rate schedules and any application fees were not verifiable on the live program page. Confirm all costs with R6 before applying.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2591 (slug `revolving-loan-fund-program-rlf-r6`)
-- Topics: Funding
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Juab, Millard, Piute, Sanpete, Sevier, Wayne
-- Listing modified: 2024-12-10T12:02:45
+Central Utah businesses with a bankable plan, documented financing gap, and job-creation or retention story in the R6 counties. A weak fit for companies outside the lending area or seeking equity investment.
 
 
-## Evidence
+## Evidence## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- Former dedicated RLF path (404 as of 2026-07-14): https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/
+
+- Org home (live): https://r6.utah.gov/
+
+- [R6 Regional Council](https://r6.utah.gov/) · https://r6.utah.gov/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/) · https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What is the correct live URL for the R6 RLF application and current loan terms?
+- Are Startup State's cited $20,000–$250,000 ranges still accurate, or is $150,000 the current cap?

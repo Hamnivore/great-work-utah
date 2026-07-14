@@ -4,7 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** International Trade
-**Primary Location:** Utah
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 60 E South Temple, Suite 300, Salt Lake City, UT 84111
@@ -17,57 +17,34 @@
 
 ## Summary
 
-The U.S. Commercial Service is the export promotion arm of the U.S. Department of Commerce. Their mission is to help companies expand internationally by understanding the export process, selecting export markets, finding and vetting foreign partners, advocating on bids for foreign tenders, and resolving trade barriers. Whether you are looking to make your first export sale or expand to additional markets, we offer the experience and services you need to grow international sales of your U.S. made products and services.
+The U.S. Commercial Service is the U.S. Department of Commerce export-promotion arm. Verified on the Utah–Salt Lake City office page (2026-07-14): trade specialists help Utah companies make first export sales or expand into additional markets through counseling, market intelligence, partner vetting, advocacy on foreign tenders, and trade-mission connections.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Salt Lake City office serves Utah exporters statewide.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Other
+Utah manufacturers, service providers, and growth-stage companies with U.S.-made products or services ready to explore or expand international sales. Useful for first-time exporters and experienced exporters entering new countries.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- International Trade
+Export counseling from local trade specialists, access to U.S. Commercial Service global network resources, local event information, export success-case references, and connections to partner agencies (DEC, EXIM, SBA). The site also links to national programs such as Discover Global Markets and Export Week training.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.trade.gov/utah-salt-lake-city) · https://www.trade.gov/utah-salt-lake-city
+- [Utah Salt Lake City office page](https://www.trade.gov/utah-salt-lake-city) · https://www.trade.gov/utah-salt-lake-city
+- Contact a trade specialist through the office "Contact Us" flow on Trade.gov
 - Email: [Daniel.Bruner@trade.gov](mailto:Daniel.Bruner@trade.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/u-s-commercial-service/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Core export counseling through the U.S. Commercial Service is generally available to U.S. companies at low or no direct cost; some premium market-research or matchmaking services may carry fees. Verify service-specific pricing when engaging.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Utah companies with a product or service ready for export that need market selection help, due diligence on foreign partners, or federal export advocacy.
 
-- International Trade
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 3666 (slug `u-s-commercial-service`)
-- Topics: International Trade
-- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: Any
-- Industries: Other
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-05-28T10:20:05
-
+Less useful for purely domestic startups with no near-term export plan, or companies seeking early-stage venture funding.
 
 ## Evidence
 
@@ -77,6 +54,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Who is the current primary trade specialist contact for Utah after any recent staff changes?
+- Which paid vs. no-cost Commercial Service products are most used by Utah SMB exporters today?

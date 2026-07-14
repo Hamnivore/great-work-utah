@@ -15,7 +15,8 @@
 **Location Precision:** exact
 **Location Source:** https://epsenergy.com/contact/
 **Website:** https://epsenergy.com
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://epsenergy.com/about-electric-power-systems/careers/
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/electric-power-systems-2026/1600/1100
 **Pull:** *Building aviation-grade battery propulsion systems that can actually earn FAA certification — the hardest gate in electric aviation.*
 **Relates:** cites [Official Website: Electric Power Systems](electric-power-systems-official-website.md) · https://greatutah.work/pages/electric-power-systems-official-website.md · https://epsenergy.com

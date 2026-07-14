@@ -18,7 +18,7 @@ The authoritative list of page metadata. Lint and the view generators parse this
 | Location Source | venture, helper, resource, work | optional; required with any map field | public `https://` URL supporting the mapped site | regional overlay provenance |
 | Needs-reviewed | any page with `## What They Need Now` | yes (with that section) | `YYYY-MM-DD` | needs board staleness flags |
 | Website | venture, helper, resource, work | optional | bare `https://` URL (no markdown link) — official site | needs board, agent shortlists |
-| Careers | venture, helper, resource | optional | bare `https://` apply/jobs URL (no markdown link) | needs board, job-seeker next step |
+| Careers | venture, helper, resource | optional | bare `https://` URL (no markdown link) of the org's general careers/jobs page or its own ATS board — never a single posting, an aggregator, or a raw ATS API endpoint | needs board, job-seeker next step |
 | Ownership | venture | optional (candidate for required) | founder-led private · private · public · PE-owned · nonprofit · government | judgment layer (see charter.md) |
 | Domain-flagged | any | no | `review` | lint queue for editor adjudication |
 | Location | legacy only | no | superseded by `Primary Location` + `Utah Location` | lint warning until removed |

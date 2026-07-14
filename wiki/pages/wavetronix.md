@@ -13,11 +13,11 @@
 **Location Precision:** exact
 **Location Source:** https://www.wavetronix.com/find-office
 **Additional Map Location:** Wavetronix Support, 1827 W 650 N, Springville, UT 84663 | 40.1757874, -111.6432556 | exact | https://www.wavetronix.com/find-office
-**Careers:** https://www.wavetronix.com/careers
+**Careers:** https://wavetronix.breezy.hr/
 **Website:** https://www.wavetronix.com/
 **Domain:** aerospace-defense, computing
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-18
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/wavetronix-springville-traffic-radar-2026/1600/1100
 **Pull:** *Utah-made radar sensors and traffic systems for safer, more efficient roads.*
 
@@ -40,8 +40,7 @@ Wavetronix builds traffic radar sensors and systems for intersections, motorways
 The company also markets TimingGuide as a virtual traffic-engineering add-on for intersection signal timing. The broader product surface combines RF sensing, embedded systems, transportation engineering, agency workflows, and field support.
 
 ## What They Need Now
-
-Likely needs include RF engineers, embedded systems engineers, transportation engineers, manufacturing technicians, field-support specialists, product managers who understand public infrastructure, and sales operators comfortable with transportation agencies and procurement cycles.
+Hiring spans electrical and electronics engineering (hardware), engineering infrastructure (software/networking), field systems and networking technicians, low-voltage and ITS field technicians, electronics manufacturing operators, and technical sales/support roles across multiple regions.
 
 For talent matching, Wavetronix is a good fit for people who like physical products, public infrastructure, and technical work that has to survive real weather, roads, and maintenance schedules.
 

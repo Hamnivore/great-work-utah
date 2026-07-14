@@ -13,8 +13,9 @@
 **Location Precision:** exact
 **Location Source:** https://actaero.com/contact-us/
 **Website:** https://actaero.com
+**Careers:** https://actaero.com/careers/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/act-aerospace-manufacturing-2026/1600/1100
 **Pull:** *Utah's composite structures specialist turning carbon fiber and resin into aerospace-qualified wing skins, control surfaces, and structural assemblies for the defense primes.*
 **Relates:** cites [Official Website: ACT Aerospace](act-aerospace-official-website.md) · https://greatutah.work/pages/act-aerospace-official-website.md · https://actaero.com
@@ -36,8 +37,9 @@ The broader argument for composites manufacturing as high-leverage work: carbon 
 ACT manufactures autoclave-cured composite structures: wing skins, control surfaces, missile fairings, structural brackets, and bonded assemblies. The process — layup of pre-impregnated fiber plies, autoclave cure, machining of cured parts, non-destructive inspection — is closer to precision craftsmanship than commodity production. Catching voids, porosity, and delamination at scale requires specialized NDI using ultrasound and X-ray. ACT serves programs across aerospace and defense, with Hill AFB sustainment work providing one regional demand anchor.
 
 ## What They Need Now
+Hiring centers on shop-floor manufacturing: machine operators (including night and weekend shifts), machine programmers, and production technicians. Composite structures engineers, tool design engineers, NDI and quality specialists, and manufacturing engineers remain the core technical fit beyond the shop floor.
 
-Composite structures engineers, tool design engineers, NDI and quality specialists, and manufacturing engineers are the core technical roles. ACT is smaller than Hexcel or Northrop, so individual leverage is proportionally higher and direct contact with hardware is more immediate. A strong match for someone who wants real hands-on aerospace composites experience in the Mountain West.
+ACT is smaller than Hexcel or Northrop, so individual leverage is proportionally higher and direct contact with hardware is more immediate — a strong match for someone who wants real hands-on aerospace composites experience in the Mountain West.
 
 ## Who Could Help
 

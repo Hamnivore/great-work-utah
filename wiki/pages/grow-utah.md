@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -17,67 +17,40 @@
 
 ## Summary
 
-Grow Utah, founded in 2005, is a nonprofit organization dedicated to accelerating the creation of innovative, entrepreneur-led, high-growth businesses to strengthen and expand Utah's economy. The organization aims to create a robust entrepreneurial ecosystem by fostering talent, driving innovation, aligning community resources, and ensuring funding for promising products and businesses.
+Grow Utah is a Utah nonprofit, founded in 2005, that connects early-stage founders to statewide startup resources through contests, accelerators, events, and directories. Its official site highlights the RAMP product accelerator, Concept to Company innovation contests, the LIFT outdoor-recreation accelerator, industry challenge events, a Utah startup Connectory directory, and a Utah funding-sources list.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Consumer Packaged Goods
-- Manufacturing
+Utah entrepreneurs at idea or pre-revenue stage who want contest-based validation, accelerator support, or a map of statewide startup organizations — especially founders in consumer products, manufacturing, or outdoor recreation.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The site describes ongoing startup contests (30+ held since 2008, with over $1M in reported cash and services awarded), the RAMP startup accelerator for new products, Concept to Company statewide innovation contests, LIFT (an eight-week outdoor-recreation accelerator), challenge events tied to industry problems, the Utah Startup Connectory directory, and a Utah investors/funding-sources page.
 
-- Entrepreneurship Communities
-- Funding
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://www.growutah.com/) · https://www.growutah.com/
+- [Contests & accelerators](https://www.growutah.com/contests-accelerators) · https://www.growutah.com/contests-accelerators
+- [Startup Connectory](https://www.growutah.com/connectory) · https://www.growutah.com/connectory
 - Startup State listing: https://startup.utah.gov/business-resource/grow-utah/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Individual programs set their own terms. The public site does not state a universal fee for Grow Utah itself; check each contest or accelerator page for application deadlines, selection criteria, and any participation cost.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Strong fit for Utah founders exploring non-dilutive contest prizes, product-focused acceleration (RAMP), or outdoor-recreation startup support (LIFT) before they are ready for institutional venture capital.
 
-- Entrepreneurship Communities
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2643 (slug `grow-utah`)
-- Topics: Entrepreneurship Communities, Funding
-- Stages: Idea (pre-revenue), Product Built (pre-revenue)
-- Communities: —
-- Industries: Consumer Packaged Goods, Manufacturing
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:27:33
+Weaker fit for founders who need SBIR strategy, government procurement help, or wet-lab life-science incubation.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.growutah.com/) · https://www.growutah.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are the current RAMP cohort dates, selection criteria, and equity or fee terms?
+- Which contests are actively accepting applications right now?

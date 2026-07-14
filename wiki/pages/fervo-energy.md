@@ -37,8 +37,7 @@ Fervo is building geothermal projects and the technical playbook behind them: dr
 Cape Station is the Utah centerpiece. Fervo's official release says southwest Utah has substantial geothermal potential and that the project benefits from the nearby Utah FORGE research effort.
 
 ## What They Need Now
-
-Open roles on Fervo's careers board (July 2026) span plant and field engineering (power, electrical, instrumentation & controls, operations, reservoir / data science), supply-chain and category managers for drilling and plant equipment, environmental permitting, software and agentic-AI engineering, and a large finance / accounting / IR bench as the company scales toward public markets. Summer internships are also listed.
+Needs span plant and field engineering (power, electrical, instrumentation & controls, operations, reservoir engineering and data science), supply-chain and category management for drilling and plant equipment, environmental permitting, software and agentic-AI engineering, and a growing finance / accounting / IR bench as the company scales toward public markets. Internships recur each summer.
 
 The candidate fit remains strong for people from oil and gas, mining, construction, utilities, or heavy industry who want climate work without abandoning field reality — plus software and data talent comfortable with industrial operations.
 

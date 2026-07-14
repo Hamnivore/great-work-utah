@@ -40,8 +40,7 @@ Intan develops analog and mixed-signal ICs for electrophysiology, plus supportin
 The core engineering problem is low-noise, low-power amplification of microvolt-scale neural signals across dozens to hundreds of channels on one die without crosstalk — plus safe switching between record and stimulate modes on shared electrodes.
 
 ## What They Need Now
-
-Likely needs include analog and mixed-signal IC designers, biomedical electronics engineers, firmware engineers for embedded acquisition systems, and application engineers who can support integrators worldwide. The official careers page (July 2026) lists no open positions; the team is small, so individual leverage is high but hiring volume is limited when roles do open.
+Likely needs include analog and mixed-signal IC designers, biomedical electronics engineers, firmware engineers for embedded acquisition systems, and application engineers who can support integrators worldwide. Open positions are rare — the team is small, so individual leverage is high but hiring volume is limited when roles do open.
 
 ## Who Could Help
 

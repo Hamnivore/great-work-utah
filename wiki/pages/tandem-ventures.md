@@ -1,10 +1,10 @@
 # Tandem Ventures
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
-**Primary Location:** Utah
+**Primary Location:** Draper, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 12459 S 300 E, Suite 102, Draper, UT 84020
@@ -17,74 +17,38 @@
 
 ## Summary
 
-Tandem Ventures is a Draper, Utah-based venture capital firm specializing in early-stage investments. The firm supports startups across industries, focusing on financial software, logistics, and business productivity solutions.
+Tandem Venture Partners is a Draper, Utah-based venture capital firm investing from pre-seed through later stages. Its official site lists check sizes from roughly $500K at pre-seed up to larger Series B+ follow-ons for portfolio companies, with seed as a core focus.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Founders with at least an MVP and ideally early revenue or product-market-fit signals who want a Utah VC with operating leverage and a revenue-focused value-add posture.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Venture capital across pre-seed, seed, Series A, and select later rounds
+- Operating network including The Stable founder community
+- Revenue-driving support for portfolio companies
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Contact the team through the official site
 - [Official website](https://tandeminvest.com/) · https://tandeminvest.com/
 - Email: [team@tandeminvest.com](mailto:team@tandeminvest.com)
 - Startup State listing: https://startup.utah.gov/business-resource/tandem-ventures/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Equity investment; published check-size ranges appear on the official site by stage. Terms are deal-specific.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2609 (slug `tandem-ventures`)
-- Topics: Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:43:35
-
+Utah and regional founders past pure idea stage who want a seed-focused VC with follow-on capacity. Less useful for pre-revenue founders with no MVP or for non-equity capital needs.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://tandeminvest.com/) · https://tandeminvest.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which sectors does Tandem prioritize in new seed investments today?

@@ -37,8 +37,7 @@ The honest framing is that this is mature-market execution (security cameras plu
 The core product is a self-contained mobile surveillance trailer: cameras, solar power, cellular connectivity, deterrence hardware (lights, strobes, speakers), and a cloud video-management platform. Recent additions include AI features such as spotlight/auto-tracking, "talk-down" deterrence, and keyword search, plus a wall-mounted unit (announced 2025) for fixed perimeters. Entering 2026, the company has described an "LVT 2.0" strategy with an expanded C-suite and increased R&D, positioning beyond pure mobile security toward a broader platform. [Official Website: LiveView Technologies](liveview-technologies-official-website.md)
 
 ## What They Need Now
-
-Greenhouse (July 2026) shows ~50 open roles spanning applied / agentic AI and MLOps, fullstack and mobile software, cloud / networking / DevOps, embedded and electrical hardware, manufacturing (assembly, welding, warehouse), field and federal GTM, and security / privacy / legal. That matches LVT 2.0: platform software plus physical fleet scale.
+Hiring runs dozens of roles deep, spanning applied / agentic AI and MLOps, fullstack and mobile software, cloud / networking / DevOps, embedded and electrical hardware, manufacturing (assembly, welding, warehouse), field and federal GTM, and security / privacy / legal. That matches LVT 2.0: platform software plus physical fleet scale.
 
 For talent matching, LVT fits operators and engineers who want a large, fast-growing, revenue-driven Utah company and applied AI shipped into the field, rather than early-stage equity upside or deep-research work.
 

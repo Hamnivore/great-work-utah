@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County
 **Region:** Southeastern Utah
@@ -11,84 +11,51 @@
 **Coordinates:** 39.5957889, -110.8362394
 **Location Precision:** exact
 **Location Source:** https://serda.utah.gov/contact
-**Website:** https://seualg.utah.gov/index.php/economic-development/
+**Website:** https://serda.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Southeastern Utah Association of Local Governments (SEUALG) serves Carbon, Emery, Grand, and San Juan counties, focusing on economic development, community planning, and human services to enhance regional prosperity. Through initiatives like the Comprehensive Economic Development Strategy (CEDS) and the Revolving Loan Fund (RLF), SEUALG supports job creation, infrastructure improvements, and business growth. Additionally, the organization offers programs in housing rehabilitation, transportation planning, food security, and weatherization to improve residents' quality of life.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+SEUALG / SERDA serves economic development across Carbon, Emery, Grand, and San Juan counties. The historical path `seualg.utah.gov/…` requires HTTP authentication and is not publicly usable; the live public site is **https://serda.utah.gov/** (verified headless Chrome, 2026-07-14). Use SERDA for mission, departments, and contact; confirm RLF and CEDS details with staff.
 
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses and local governments in Carbon, Emery, Grand, and San Juan counties seeking regional economic-development planning, revolving-loan support, or federal/state program execution at the AOG level.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Per Startup State and SERDA's public mission statement: regional economic-development planning; implementation of state and federal programs; business finance support including the [Revolving Loan Fund Program (RLF) - South Eastern Utah](revolving-loan-fund-program-rlf-south-eastern-utah.md); CEDS and workforce/community development coordination. Live program details could not be confirmed on the gated SEUALG site.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://seualg.utah.gov/index.php/economic-development/) · https://seualg.utah.gov/index.php/economic-development/
-- Email: [ggamber@seualg.utah.gov](mailto:ggamber@seualg.utah.gov)
+- Listed official URL (currently gated): https://seualg.utah.gov/index.php/economic-development/
+- Public SERDA overview: https://serda.utah.gov/
+- Utah GOED AOG directory lists SERDA executive director Geri Gamber, [ggamber@seualg.utah.gov](mailto:ggamber@seualg.utah.gov), (435) 637-5444
+- RLF page: [Revolving Loan Fund Program (RLF) - South Eastern Utah](revolving-loan-fund-program-rlf-south-eastern-utah.md)
 - Startup State listing: https://startup.utah.gov/business-resource/southeastern-utah-association-of-local-governments-economic-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+RLF and other finance programs carry program-specific eligibility; confirm with SEUALG/SERDA staff because the official ED pages are not publicly reachable.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2703 (slug `southeastern-utah-association-of-local-governments-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Carbon, Emery, Grand, San Juan
-- Listing modified: 2024-12-11T08:26:50
-
+Southeastern Utah employers seeking regional loan or planning support — after confirming program status by phone or email rather than relying on the gated website.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- Former gated URL (auth required): https://seualg.utah.gov/index.php/economic-development/
+
+- Public successor site (SERDA): https://serda.utah.gov/
+
 - [Official website](https://seualg.utah.gov/index.php/economic-development/) · https://seualg.utah.gov/index.php/economic-development/
+- Startup State listing: https://startup.utah.gov/business-resource/southeastern-utah-association-of-local-governments-economic-development/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Why does the official SEUALG economic-development URL require authentication, and is there a public replacement URL?
+- Which RLF and CEDS programs are actively accepting applications in 2026?
+- Is SERDA (`serda.utah.gov`) the better public entry point for the same organization?

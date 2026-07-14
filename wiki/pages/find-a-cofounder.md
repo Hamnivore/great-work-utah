@@ -5,14 +5,14 @@
 **Confidence:** Medium
 **Audience:** Utah founders, researchers, students, and operators looking for a committed founding partner
 **Focus:** cofounder search, founding teams, talent matching, equity, university and ecosystem networks
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Overview
 
 A cofounder is not an advisor, an early employee, or a contractor. A cofounder shares the risk, the equity, and the obligation to make the company work — for years, through the parts that aren't fun. Because the relationship is so consequential, "find a cofounder" is less a directory lookup than a sequence: get clear on what's missing, meet a lot of credible people through real work, test the partnership before you commit, and then paper the equity and vesting properly.
 
-This guide is honest about a gap: the wiki does not yet have a dedicated Utah cofounder-matching service or a deep `people/` layer to route to. So it focuses on principles, on the Utah surfaces where credible cofounders actually congregate, and on the few wiki pages that can genuinely help today. It complements [Find An Advisor In Utah](find-an-advisor.md) — if what you need is judgment or a hired specialist rather than a committed partner, start there instead.
+Utah does not need a speed-dating directory to make useful cofounder introductions. The strongest current routes put people into repeated work together: the open [JustBuild](justbuild.md) Slack, coworking sessions, and hackathons are a low-commitment entry; [Sandbox](sandbox.md) is an intensive cohort in which forming teams and companies is part of the program. The wiki still lacks a deep `people/` layer and should not imply that any individual is available. This guide complements [Find An Advisor In Utah](find-an-advisor.md) — if what you need is judgment or a hired specialist rather than a committed partner, start there instead.
 
 Criteria for inclusion: Utah relevance, public evidence or clear first-principles reasoning, and a concrete next action. This guide does not rank people, and it does not imply anyone is available or interested.
 
@@ -25,6 +25,15 @@ Answer three questions before you start searching:
 3. **Can you test before you commit?** The best cofounder evidence is having worked together. Plan a real trial — a project, a sprint, a paid contract — before splitting equity.
 
 ## By Need
+
+### If You Want To Meet Cofounders Through Building
+
+Two Utah routes offer very different levels of commitment:
+
+- [JustBuild](justbuild.md) is the accessible first move. Anyone can join its Utah AI-builder Slack without credentials or an existing company, and its coworking sessions and hackathons create bounded opportunities to build with prospective collaborators. It is a community, not a formal matching service: use it to find people to test a working relationship with, not to skip the test.
+- [Sandbox](sandbox.md) is the immersive option for someone willing and eligible to organize a substantial part of a year around founding. Its Fellowship explicitly promotes finding a cofounder by working alongside a selective cohort, and its university programs similarly form startup teams. A 2024 participant described it as a more accessible, less capital-rich mini-YC for Utah and reported a $2,000 cost when unaffiliated with a school; that price is historical and unverified, while current published Fellowship tuition is much higher. Verify the current track, admissions, and cost before recommending it.
+
+These are complements, not substitutes. Start with JustBuild when you want a low-cost community and project surface. Consider Sandbox when you want a structured pressure cooker and are prepared for its time, admissions, and tuition commitments.
 
 ### If You Are A Researcher Or Student
 
@@ -82,6 +91,10 @@ Whatever you decide, get the structure right: cofounder equity should vest over 
 ## Sources
 
 - [Nucleus Institute](nucleus-institute.md)
+- [JustBuild](justbuild.md)
+- [Sandbox](sandbox.md)
+- [JustBuild Official Website](justbuild-official-website.md)
+- [Sandbox Participant Report — 2024 Access And Cofounder Experience](sandbox-participant-report-2024.md)
 - [SCORE Utah](score-utah.md)
 - [Utah SBDC](utah-sbdc.md)
 - [Kirton McConkie](kirton-mcconkie.md)
@@ -92,6 +105,6 @@ Whatever you decide, get the structure right: cofounder equity should vest over 
 ## Open Questions
 
 - Which Utah university entrepreneurship programs, student venture teams, and ecosystem hubs (e.g., Silicon Slopes-style communities) should become dedicated `resources/` or `helpers/` pages this guide can route to?
-- Is there a credible Utah cofounder-matching program or event series worth sourcing and adding?
+- Do JustBuild or Sandbox produce enough durable founding teams to support outcome-based comparison rather than anecdotal guidance?
 - Should the wiki host a `people/` layer of operators and technical builders open to founding teams, so this guide can make specific (clearly consented) introductions?
 - Would a dedicated answer page on cofounder equity splits and vesting for Utah founders be useful?

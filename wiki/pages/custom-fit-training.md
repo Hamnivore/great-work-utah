@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth
+**Focus:** Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -17,73 +17,36 @@
 
 ## Summary
 
-The Custom Fit Training program, administered by the Utah System of Higher Education (USHE), offers tailored training solutions to enhance employee productivity and support business growth across Utah. By partnering with local institutions, Custom Fit provides state-subsidized training in areas such as technical skills, safety certifications, leadership development, and more, with companies typically contributing at least 50% of the training costs. This initiative aims to strengthen Utah's economic vitality by equipping the workforce with skills that meet specific industry needs.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on ushe.edu/custom-fit (2026-07-14): Custom Fit is a Utah System of Higher Education program that delivers customized workforce training for incumbent employees at Utah companies. For more than 40 years it has paired regional colleges with local businesses on technical, safety, leadership, and skills training funded in part by the Utah Legislature, with companies contributing at least 40% of training cost depending on regional priorities.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah for-profit employers training current employees (incumbent workers). Not-for-profit employers may qualify with special approval for significant economic impact. Not designed for solo founders without employees.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Late Stage Growth
+Customized training plans through regional Custom Fit institutions — covering technical skills, safety certifications, computer skills, leadership, and service improvements. Regional providers cover every Utah county grouping listed on the official site.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://ushe.edu/custom-fit/) · https://ushe.edu/custom-fit/
+- Select your regional Custom Fit provider on the official site and contact that institution to design a training plan
 - Startup State listing: https://startup.utah.gov/business-resource/custom-fit-training/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Custom Fit pays a portion of training cost; the company contributes at least 40% depending on regional funding and priorities. Eligible: for-profit Utah companies training incumbent workers. Regional institutions may prioritize retention, expansion, key industry sectors, and equitable access.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2650 (slug `custom-fit-training`)
-- Topics: Late Stage Growth
-- Stages: Growing, Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:35:16
-
+A growing Utah employer with staff who need customized technical or leadership training — weak fit for pre-revenue solo founders or companies without employees to train.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://ushe.edu/custom-fit/) · https://ushe.edu/custom-fit/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which regional Custom Fit provider is strongest for manufacturing, tech, and rural employers?
+- What is the typical company co-pay percentage in each region this year?

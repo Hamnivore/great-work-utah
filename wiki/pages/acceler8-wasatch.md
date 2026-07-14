@@ -44,7 +44,11 @@ Potentially aerospace/defense and hard-tech founders seeking northern Utah ecosy
 
 ## Evidence## Evidence
 
+- Wayback snapshot: https://web.archive.org/web/20241216133901/https://www.acceler8wasatch.com/
+
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+
+> **Link status (2026-07-14):** DNS gone (NXDOMAIN); archive title Acceler8Wasatch.
 
 ## Open Questions
 

@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Low
+**Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Heber City, UT
 **Utah Location:** Heber Valley, UT
@@ -17,9 +17,8 @@
 
 ## Summary
 
-Heber Valley's economic-development presence is marketed through the Go Heber Valley visitor/business portal. The Economic Development URL loaded with placeholder trip-planner UI rather than substantive program copy in this review (2026-07-14), so specific incentives, contacts, and services beyond Startup State's general description could not be verified on the live page.
+Verified in headless Chrome (2026-07-14): Go Heber Valley publishes an Economic Development page at gohebervalley.com/Economic-Development/ (title: "Economic Development in Heber Valley, Utah"). The CMS also ships tourism trip-planner chrome on the same template, so skim past visitor-planning widgets for business content. Use this page plus chamber/county contacts when recommending Heber Valley expansion or relocation help.
 
-Wasatch County economic-development resources may be coordinated through the valley CVB/chamber ecosystem at 475 N Main Street, Heber City.
 
 ## Who It Helps
 

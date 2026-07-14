@@ -52,16 +52,6 @@ Kinect is a good fit for founders approaching angel, seed, or other early capita
 
 It is less useful for a company whose immediate need is non-dilutive SBIR/STTR strategy, procurement support, manufacturing process improvement, or a university-student entrepreneurship class.
 
-## Imported Coverage
-
-- Startup State ID: 2641 (slug `kinect-capital`)
-- Topics: Entrepreneurship Communities, Funding
-- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:23:46
-
 
 ## Evidence
 

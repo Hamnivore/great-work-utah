@@ -14,7 +14,7 @@
 **Location Source:** https://photopharmics.com/aboutus/
 **Website:** https://photopharmics.com
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/photopharmics-2026/1600/1100
 **Pull:** *A home-based light device targeting the retinal-circadian axis — not symptoms alone — in Parkinson's disease.*
 **Relates:** cites [Official Website: PhotoPharmics](photopharmics-official-website.md) · https://greatutah.work/pages/photopharmics-official-website.md · https://photopharmics.com
@@ -64,4 +64,5 @@ PhotoPharmics is a Wasatch Front clinical-device company with deep roots in Utah
 - Post-approval payer coverage for a novel light-therapy device is a real commercial hurdle with a complicated regulatory and market history for similar modalities.
 - ~10 years of operation at relatively modest funding could reflect deep scientific diligence or slow commercial progress — which interpretation fits is unclear without independent financial disclosure.
 - Company press references Salt Lake City in some releases while legacy intake lists American Fork HQ — exact facility footprint should be confirmed.
+- No agent-readable careers/jobs page found (photopharmics.com/careers is a soft 404; Greenhouse/Lever boards not located).
 - The placeholder hero should be replaced with a cleared product or clinical image when rights are confirmed.

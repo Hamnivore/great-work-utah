@@ -9,8 +9,8 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://spire.us/
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/spire-therapeutic-diadem-2026/1600/1100
 **Pull:** *Surgery-free, drug-free deep-brain neuromodulation for pain and depression — if Phase 3 confirms Phase 2.*
 **Relates:** cites [Official Website: Spire Therapeutics](spire-therapeutic-official-website.md) · https://greatutah.work/pages/spire-therapeutic-official-website.md · https://spire.us/
@@ -65,3 +65,4 @@ SPIRE is a University of Utah Biomedical Engineering spinout headquartered in Sa
 - Can Diadem eliminate MRI guidance while maintaining targeting precision and safety?
 - Comparative effectiveness versus TMS, ECT, and ketamine protocols for treatment-resistant depression is not established on this page.
 - Funding runway and capital strategy beyond grants and pitch prizes are not publicly disclosed.
+- No agent-readable careers/jobs page found (spire.us/careers 404).

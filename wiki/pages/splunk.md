@@ -11,8 +11,9 @@
 **Primary Location:** unknown
 **Utah Location:** unknown
 **Ownership:** Cisco-owned subsidiary
-**Updated:** 2026-07-11
-**Needs-reviewed:** 2026-07-11
+**Careers:** https://careers.cisco.com/global/en/splunk
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Pull:** *The machine-data search company that became Cisco's $28B security and observability bet; Utah relevance still needs a verified local hook.*
 **Relates:** cites [Official Website: Splunk](splunk-official-website.md) · https://greatutah.work/pages/splunk-official-website.md · https://www.splunk.com/
 **Relates:** cites [Cisco Completes Acquisition of Splunk](cisco-splunk-acquisition.md) · https://greatutah.work/pages/cisco-splunk-acquisition.md · https://investor.cisco.com/news/news-details/2024/Cisco-Completes-Acquisition-of-Splunk/default.aspx

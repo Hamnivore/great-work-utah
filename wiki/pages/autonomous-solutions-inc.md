@@ -12,9 +12,10 @@
 **Coordinates:** 41.7566627, -112.0278698
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Autonomous+Solutions+Inc+990+N+8000+W+Mendon+UT+84325
-**Website:** https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/
+**Careers:** https://asirobots.applicantpro.com/jobs/
+**Website:** https://asirobots.com
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-18
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/asi-mobius-off-road-autonomy-2026/1600/1100
 **Pull:** *Twenty-five years of OEM-agnostic autonomy for tractors, haul trucks, and industrial fleets — Mobius at industrial scale.*
 **Relates:** cites [Source: ASI Construction Launch with SoftBank and Lehi Office](asi-construction-softbank.md) · https://greatutah.work/pages/asi-construction-softbank.md · https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/
@@ -63,6 +64,7 @@ ASI is a flagship Utah robotics story: USU spinout, Mendon roots, growing Wasatc
 
 ## Open Questions
 
+- The ApplicantPro careers board is JS-rendered (no plain-HTTP role list) — agents should hand the URL to the user rather than fetching it.
 - What are current revenue, headcount, and profitability after the mining divestiture and construction expansion?
 - How does SoftBank's strategic involvement shape product priorities and governance?
 - OEM-agnostic positioning competes with better-funded vertically integrated OEMs on every deal — what is ASI's win rate and growth trajectory?

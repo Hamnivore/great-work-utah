@@ -17,69 +17,34 @@
 
 ## Summary
 
-The R6 Regional Council, formerly known as the Six County Association of Governments, serves Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties in Utah. It aims to improve local government coordination through programs in community development, economic planning, housing assistance, and aging services. The council facilitates regional collaboration to address shared challenges and promote sustainable growth.
+The R6 Regional Council (formerly Six County Association of Governments) serves six central Utah counties with regional planning, economic development, housing assistance, aging services, and workforce programs. Verified on the official homepage (2026-07-14): the council highlights community development, economic planning, and essential services for families and seniors across Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Contact regional staff for business and economic-development program specifics.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Residents, local governments, and businesses in the six-county central Utah region seeking regional program support, planning assistance, workforce or aging services, and economic-development coordination.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Regional council administration, economic and community planning, housing and aging programs, workforce development references, public meetings, job postings, and staff assistance. The homepage routes users to programs, meetings, staff list, and news.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://r6.utah.gov/) · https://r6.utah.gov/
 - Email: [abbyivory@r6.utah.gov](mailto:abbyivory@r6.utah.gov)
+- Staff directory and meetings linked from homepage
 - Startup State listing: https://startup.utah.gov/business-resource/r6-regional-council/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Program costs vary by service (workforce, housing, aging, business support). Contact R6 staff to identify the correct program and eligibility rules.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Central Utah businesses and community partners who need a regional AOG/COG front door for planning, workforce, or economic-development programs.
 
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2730 (slug `r6-regional-council`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Juab, Millard, Piute, Sanpete, Sevier, Wayne
-- Listing modified: 2024-12-20T10:16:23
-
+Less useful for Wasatch Front startups outside the six-county service area.
 
 ## Evidence
 
@@ -89,6 +54,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which R6 economic-development or revolving-loan programs are actively enrolling?
+- Is abbyivory@r6.utah.gov still the best first contact for business inquiries?

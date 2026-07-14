@@ -62,6 +62,7 @@ This concentration means Utah has an unusual depth of implantable-device manufac
 
 ## Open Questions
 
+- **Careers URL:** No agent-readable Iris-specific board found (2026-07-14). `irismeddesign.com/careers` loads but lists no roles (failed readability). Parent Ripple Neuro has a careers page, but Iris openings are not clearly separated there.
 - What is the current customer mix — how much of revenue comes from academic labs vs. early-stage commercial BCI companies vs. established neurotech firms?
 - How does Iris compete with other neural-interface manufacturers (Microprobes for Life Science, Plexon, custom university fabs)?
 - Is the company actively recruiting, and what specific roles are open?

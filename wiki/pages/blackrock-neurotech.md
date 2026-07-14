@@ -8,7 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-05-09
+**Needs-reviewed:** 2026-07-14
 **Domain:** health-bio
 **Region:** Salt Lake City
 **Map Location:** 630 Komas Drive, Suite 200, Salt Lake City, UT 84108
@@ -16,6 +16,7 @@
 **Location Precision:** exact
 **Location Source:** https://blackrockneurotech.com/contact/
 **Website:** https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/
+**Careers:** https://blackrockneurotech.com/careers/
 **Ownership:** private
 **Hero:** /img/heroes/front/blackrock-1600.webp
 **Hero caption:** *Nathan Copeland, who has lived with a Utah Electrode Array implant in his motor and somatosensory cortex since 2014 — temporary hotlinked photograph from the University of Pittsburgh / Rehab Neural Engineering Labs via WIRED; image rights have not yet been cleared.*
@@ -40,8 +41,9 @@ The company's product line spans implantable arrays, cabling and headstages, rec
 For talent, the available evidence suggests Blackrock is a place where neuroscientists, electrical engineers, materials scientists, and signal-processing engineers can ship work that reaches human patients within their careers, not their successors'.
 
 ## What They Need Now
+Hiring emphasis runs to electrode R&D and manufacturing (engineers, technical project managers, technicians), BCI software leadership, IT and cybersecurity, and quality — plus intermittent BCI internships in data science and related teams. Neural engineers, materials scientists for biocompatible electrode interfaces, signal-processing and machine-learning engineers, regulatory engineers experienced with implantable Class III devices, and clinical operations leaders remain the broader fit.
 
-Likely needs include neural engineers, materials scientists for biocompatible electrode interfaces, signal-processing and machine-learning engineers, regulatory engineers experienced with implantable Class III devices, and clinical operations leaders comfortable with long, FDA-supervised study timelines. The team also benefits from people who can work inside the unusual governance arrangement that comes with a strategic crypto-treasury majority owner — see the caveat below.
+The team also benefits from people who can work inside the unusual governance arrangement that comes with a strategic crypto-treasury majority owner — see the caveat below.
 
 ## Who Could Help
 

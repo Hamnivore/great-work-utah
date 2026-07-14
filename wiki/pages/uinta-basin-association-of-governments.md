@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Funding, Late Stage Growth
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT
 **Region:** Uinta Basin
@@ -17,78 +17,38 @@
 
 ## Summary
 
-The Uintah Basin Association of Governments (UBAOG) serves Daggett, Duchesne, and Uintah counties in Utah, offering programs to enhance economic and social development. Their services include housing rehabilitation, community services, and the H.E.A.T. program, which provides utility assistance to eligible households. UBAOG also operates food pantries and offers emergency shelter options for residents in need.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Uintah Basin Association of Governments (UBAOG) unifies Daggett, Duchesne, and Uintah counties for economic and social development. Verified on ubaog.org: UBAOG runs housing, weatherization, HEAT utility assistance, food pantries, Basin Transit, aging services, community development (including CDBG business grants), and economic development district programs.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Basin residents needing housing or utility aid; local governments in the tri-county area; businesses applying for CDBG business grants or regional ED support; employers coordinating with UBAOG community programs.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Community development and economic development district services, CDBG business grant applications (when posted), housing rehabilitation, HEAT assistance, food pantries, transit (BTA), aging and volunteer services, weatherization, and planning/resource management support.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Browse Programs on ubaog.org; watch for CDBG business grant announcements on the homepage; contact staff for economic development district questions.
 
 - [Official website](https://www.ubaog.org/) · https://www.ubaog.org/
 - Email: [laurieb@ubaog.org](mailto:laurieb@ubaog.org)
 - Startup State listing: https://startup.utah.gov/business-resource/uinta-basin-association-of-governments/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Human-services programs are need-based; CDBG business grants have posted eligibility when open. HEAT and housing programs follow federal/state income guidelines — verify on ubaog.org.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2690 (slug `uinta-basin-association-of-governments`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Daggett, Duchesne, Uintah
-- Listing modified: 2024-12-11T08:11:39
-
+Uinta Basin businesses pursuing CDBG or regional ED district resources, or operators needing human-services referrals for employees/community. Not a Wasatch Front startup hub.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.ubaog.org/) · https://www.ubaog.org/
+- Startup State listing: https://startup.utah.gov/business-resource/uinta-basin-association-of-governments/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is a CDBG business grant round currently open?
+- Direct economic development staff contact separate from laurieb@ubaog.org?

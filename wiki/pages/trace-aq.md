@@ -40,8 +40,7 @@ Trace AQ couples fluid dynamics, combustion chemistry, atmospheric chemistry, an
 The hard engineering problems are nonlinear coupling of wind fields, emission factors by fuel type, secondary aerosol formation, and local micrometeorology — especially for wildfire plume rise and transport at actionable resolution.
 
 ## What They Need Now
-
-Open roles on the company careers page (as of 2026-07-14) are software-heavy: Machine Learning Engineer, Front-End Engineer, Full Stack Engineer, and Sr. Engineer (Data & Cloud Infrastructure), plus internships. That aligns with shipping Flow AQ / Aero as products while the underlying physics models stay core IP. Seed-stage capital still implies pressure to prove customer acquisition alongside forecast accuracy — healthcare and public-sector sales operators remain relevant even when not listed.
+Hiring is software-heavy — machine-learning, front-end, full-stack, and data/cloud-infrastructure engineers, plus internships. That aligns with shipping Flow AQ / Aero as products while the underlying physics models stay core IP. Seed-stage capital still implies pressure to prove customer acquisition alongside forecast accuracy — healthcare and public-sector sales operators remain relevant even when not listed.
 
 ## Who Could Help
 

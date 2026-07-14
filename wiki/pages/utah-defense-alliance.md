@@ -11,74 +11,46 @@
 **Coordinates:** 41.027594, -111.925289
 **Location Precision:** exact
 **Location Source:** https://gopb.utah.gov/wp-content/uploads/2024/02/ERG2024.pdf
-**Website:** https://utahdefensealliance.com/home/
+**Website:** https://utahdefensealliance.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Utah Defense Alliance (UDA) is dedicated to supporting and advocating for military missions, personnel, and installations in Utah, while promoting the state's role in national defense. Through collaboration with government, industry, and community partners, UDA ensures a strong defense presence and fosters economic growth within the region.
+The Utah Defense Alliance (UDA) advocates for Utah's military missions, installations, and defense-industry economic base. Its official site describes support for governmental and private enterprises pursuing national-defense objectives, workforce development for defense and aerospace, and engagement with political, DoD, and business leaders.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+For founders, UDA is an ecosystem and advocacy organization — not a startup fund or incubator.
 
+## Who It's For
 
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
+Defense contractors, aerospace suppliers, installation-adjacent businesses, and community partners working to strengthen Utah's military and defense-industry footprint. Companies seeking policy context, installation relationships, or defense-economic advocacy are the clearest fits.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Late Stage Growth
+Mission advocacy for Utah military installations (Hill AFB, Tooele Army Depot, Dugway, Camp Williams, UTTR, and others); events and advocacy programming; member resources; documents and links; and economic-impact messaging tied to Utah's defense industry.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://utahdefensealliance.com/home/) · https://utahdefensealliance.com/home/
-- Email: [kjsullivan51@yahoo.com](mailto:kjsullivan51@yahoo.com)
+- [Official website](https://utahdefensealliance.com/) · https://utahdefensealliance.com/
+- Member resources: https://utahdefensealliance.com/members/
+- Email: [kjsullivan51@yahoo.com](mailto:kjsullivan51@yahoo.com) (Startup State listing)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-defense-alliance/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership terms and event costs are not published on the public homepage. Verify current membership requirements before referring founders to gated member resources.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 2583 (slug `utah-defense-alliance`)
-- Topics: Entrepreneurship Communities, Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: Any
-- Industries: Aerospace and Defense
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T11:52:28
+Aerospace/defense companies and suppliers that need installation-aware advocacy and industry community — especially those past product-market fit and exploring government or prime-contractor relationships. Pair with [Utah APEX Accelerator](apex-accelerator.md) or [47G](47g-utah-aerospace-and-defense-association.md) for procurement and ecosystem navigation. A weak fit for consumer startups with no defense angle.
 
 
-## Evidence
+## Evidence## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Official website](https://utahdefensealliance.com/) · https://utahdefensealliance.com/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://utahdefensealliance.com/home/) · https://utahdefensealliance.com/home/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership tiers and which resources require paid membership?
+- How does UDA triage small businesses versus established defense contractors?

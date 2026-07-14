@@ -17,67 +17,30 @@
 
 ## Summary
 
-1 Million Cups is a national program that supports local entrepreneurs by providing a platform to present their ideas, share feedback, and connect with a community of like-minded individuals. The Orem chapter, hosted weekly at the UVU Business Resource Center, offers a welcoming space for networking, mentoring, and collaboration among startups, investors, and service providers in Utah County
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): 1 Million Cups Orem is the Utah County chapter of the national 1 Million Cups program, hosted weekly at the UVU Business Resource Center. It gives local entrepreneurs a platform to present ideas, receive feedback, and connect with startups, investors, and service providers.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah County founders and entrepreneurs who want a recurring weekly community for presentation practice and peer feedback — not formal investor pitching.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Start a Business
+Weekly 1 Million Cups sessions with presentation slots, audience feedback, and networking among Utah County entrepreneurs, investors, and service providers at the UVU Business Resource Center.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut) · https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
+- [Official 1MC Orem page](https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut) · https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
 - Email: [provo@1millioncups.com](mailto:provo@1millioncups.com)
+- Host: UVU Business Resource Center, Orem area
 - Startup State listing: https://startup.utah.gov/business-resource/1-million-cups-orem/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Free community event; contact organizers for current schedule and presenter signup. Serves Utah, Summit, and Wasatch county entrepreneurs per Startup State listing.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Start a Business
-
-## Imported Coverage
-
-- Startup State ID: 2659 (slug `1-million-cups-orem`)
-- Topics: Entrepreneurship Communities, Start a Business
-- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Summit, Utah, Wasatch
-- Listing modified: 2024-12-10T13:57:38
-
+Utah County early-stage founders who want weekly peer feedback in a 1 Million Cups format — verify current meeting time on the official 1MC page before recommending.
 
 ## Evidence
 
@@ -85,8 +48,3 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut) · https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
 
-## Open Questions
-
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

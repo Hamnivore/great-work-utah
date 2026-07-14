@@ -12,9 +12,10 @@
 **Coordinates:** 40.7703066, -111.9001844
 **Location Precision:** exact
 **Location Source:** https://www.deseretbook.com/retail-product-submissions.html
+**Careers:** https://deseretmanagement.com/careers/
 **Website:** https://deseretbook.com
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/deseret-book-bonneville-2026/1600/1100
 **Pull:** *The largest faith-media conglomerate in the American West — publishing, radio, and television wholly owned by the LDS Church and serving millions of members globally.*
 **Relates:** cites [Official Website: Deseret Book / Bonneville](deseret-book-bonneville-official-website.md) · https://greatutah.work/pages/deseret-book-bonneville-official-website.md · https://deseretbook.com
@@ -63,6 +64,7 @@ These institutions are the cultural substrate of Utah in a way that no tech comp
 
 ## Open Questions
 
+- Careers routes through deseretmanagement.com/careers; the per-brand Workday boards are JS-rendered SPAs, so agents should hand the URL to the user rather than fetching it.
 - How does editorial autonomy work in practice at KSL and the Deseret News — what stories get spiked vs. reported, and how is that documented?
 - What is the current digital revenue mix vs. legacy broadcast/print for Bonneville and Deseret Book?
 - How has Shadow Mountain's publishing strategy evolved since early Brandon Sanderson and similar crossover successes?

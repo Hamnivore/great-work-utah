@@ -12,10 +12,10 @@
 **Coordinates:** 40.5645297, -111.9026488
 **Location Precision:** exact
 **Location Source:** https://lucid.co/contact-us
-**Careers:** https://lucid.co/careers
+**Careers:** https://job-boards.greenhouse.io/lucidsoftware
 **Website:** https://www.lucidsoftware.com
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/lucid-visual-collaboration-2026/1600/1100
 **Pull:** *Lucidchart and Lucidspark — the visual layer where enterprise teams map processes and align on complex ideas.*
 **Relates:** cites [Official Website: Lucid Software](lucid-software-official-website.md) · https://greatutah.work/pages/lucid-software-official-website.md · https://www.lucidsoftware.com
@@ -43,8 +43,7 @@ Lucid builds cloud-native visual collaboration products:
 The company appears to combine a freemium entry point for individuals with enterprise-grade security, administration, and integration features for large organizations. Success likely depends on ease of use, connector breadth, and embedding visual workflows into how teams already work.
 
 ## What They Need Now
-
-Likely needs include full-stack and frontend engineers, collaboration and real-time systems engineers, enterprise security and compliance specialists, product managers with B2B SaaS experience, and sales and customer-success leaders for enterprise expansion. Utah's deep SaaS talent pool and Silicon Slopes network may be relevant hiring channels.
+Hiring is heavy on enterprise and regional sales (APAC/EMEA/SMB account executives), compliance, revenue operations, and customer operations — plus a standing general application. Broader fit still includes full-stack and frontend engineers, collaboration/real-time systems engineers, enterprise security specialists, and product managers with B2B SaaS experience. Utah's deep SaaS talent pool and Silicon Slopes network may be relevant hiring channels.
 
 ## Who Could Help
 

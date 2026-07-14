@@ -7,11 +7,11 @@
 **Stage:** Series A; $38M (oversubscribed); pilot underway in Utah
 **Primary Location:** Salt Lake City, UT; Calgary, Alberta
 **Utah Location:** Salt Lake City, UT; Great Basin pilot site
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Domain:** energy
 **Region:** Great Basin
 **Website:** https://rodatherm.com
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/rodatherm-energy-2026/1600/1100
 **Pull:** *A sealed, closed-loop geothermal system that unlocks heat from sedimentary basins — 50% more efficient, no freshwater consumed, no induced seismicity.*
 **Relates:** cites [Official Website: Rodatherm Energy](rodatherm-energy-official-website.md) · https://greatutah.work/pages/rodatherm-energy-official-website.md · https://rodatherm.com
@@ -64,4 +64,5 @@ Utah's Great Basin geology is Rodatherm's primary target — the same sedimentar
 - Has the pilot system produced first power? What are the measured efficiency numbers versus the 50% improvement claim?
 - How does Rodatherm's closed-loop approach compare to Eavor Technologies (Canada), the best-known prior closed-loop geothermal attempt?
 - What is the long-term Utah commitment versus Calgary HQ? Would a successful pilot lead to Utah operations or export the technology elsewhere?
+- No agent-readable careers/jobs page found (rodatherm.com/careers 404; no Greenhouse/Lever/Ashby board located).
 - The placeholder hero should be replaced with a cleared drilling or facility image when rights are confirmed.

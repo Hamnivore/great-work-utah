@@ -9,8 +9,9 @@
 **Utah Location:** Park City, UT; Sundance Resort, UT
 **Region:** Park City; Sundance Resort
 **Website:** https://www.sundance.org
-**Updated:** 2026-05-09
-**Needs-reviewed:** 2026-05-09
+**Careers:** https://sundance.hrmdirect.com/employment/job-openings.php?search=true
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** /img/heroes/front/sundance-1600.webp
 **Hero caption:** *The Mary G. Steiner Egyptian Theatre on Main Street, Park City, on the eve of the 2024 Sundance Film Festival — photograph by Frank Schulenburg via WikiPortraits (Wikimedia Commons, CC BY-SA 4.0).*
 **Pull:** *Forty years of artist labs, in a mountain town, that quietly underwrote much of American independent cinema.*
@@ -32,8 +33,7 @@ The most under-told piece of Sundance for a forward-looking reader is **New Fron
 Sundance is building artists. The mechanism is artistic knowledge plus distribution access — Labs produce artists and specific projects; the Festival distributes them. Around that core sit programming and curation, a year-round granting program, a documentary fund, music and editing labs, and the New Frontier program for immersive media. Engineers who care about the intersection of real-time 3D tooling and narrative will find New Frontier an unusual place where that career can exist inside a nonprofit rather than a game studio.
 
 ## What They Need Now
-
-Likely needs include programmers and curators who can shape which films reach which audiences, development and operations staff for the year-round labs, media-technology engineers for the New Frontier program, fundraising and partnership leaders, and people who can navigate the operational complexity of the next two years as the Festival relocates. For most contributors, the path is artist-track rather than operator-track.
+Year-round Institute hiring skews to advancement and partnerships — major gifts, partnership marketing, corporate partnerships, union partnerships — plus seasonal festival-manager roles in merchandise and audience development. Broader likely needs — programmers/curators, lab operations, immersive-media technologists, and festival relocation operators — remain relevant but are not the visible mix.
 
 ## Who Could Help
 

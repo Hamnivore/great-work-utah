@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Late Stage Growth, Relocate a Business to Utah, Marketing and Sales
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -17,78 +17,39 @@
 
 ## Summary
 
-EDCUtah provides businesses with the resources they need to relocate or expand their operations in Utah. We specialize in corporate recruitment and expansion projects, economic research, community strategy, and site selector engagement. As Utah’s only statewide economic development organization with a public-private partnership model, EDCUtah can connect growing companies to local experts in finance, law, talent recruitment, real estate, construction, utilities, and more.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+EDCUtah is Utah's statewide public-private economic development organization helping companies relocate or expand in Utah. Verified on edcutah.org: EDCUtah offers site selection support, comparative research, access to 200+ local partners, business retention and expansion services, and navigation of state and local incentive programs for companies of all sizes.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Site selection teams and corporate expansion leaders; Utah companies planning multi-location growth; communities and partners in EDCUtah's investor network — less direct support for pre-revenue solo founders.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+End-to-end site selection assistance, Utah and out-of-state comparative data, on-the-ground site analysis coordination, incentive program navigation, connection to investor-network experts (real estate, legal, utilities, workforce), and published research on Utah's business climate.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Contact EDCUtah through the website connect flow or email for expansion/relocation projects.
 
 - [Official website](https://www.edcutah.org/) · https://www.edcutah.org/
-- Email: [connect@edcutah.org](mailto:connect@edcutah.org)
+- Email: [connect@edcutah.org](mailto:connect@edcutah.org) · 1-801-364-3631
+- Address: 201 South Main Street, Suite 425, Salt Lake City, UT 84111
 - Startup State listing: https://startup.utah.gov/business-resource/edc-utah-economic-development-corporation-of-utah/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+EDCUtah services for relocating/expanding companies are typically offered as part of its public-private mission; investor/partner engagement has separate membership — confirm scope on edcutah.org for a specific project.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2681 (slug `edc-utah-economic-development-corporation-of-utah`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-20T14:02:11
-
+A company with a real site-selection or capital investment decision in Utah — manufacturing, HQ relocation, large office, or regional expansion. Route early startups to GOEO, SBDC, or sector programs unless they have a concrete expansion project.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.edcutah.org/) · https://www.edcutah.org/
+- Startup State listing: https://startup.utah.gov/business-resource/edc-utah-economic-development-corporation-of-utah/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Minimum project size EDCUtah prioritizes for full site-selection support?
+- Current investor-network contacts by industry vertical?

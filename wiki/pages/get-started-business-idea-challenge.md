@@ -13,9 +13,8 @@
 
 ## Summary
 
-The Get Started: Business Idea Challenge is listed by Utah's Startup State Initiative as a milestone-style grant/competition for early-stage Utah entrepreneurs. The program appears on the official Startup State funding journey page under business competitions, but the former standalone URL (`/get-started/`) returned 404 and the business-resource card did not expose detailed terms in automated fetches.
+The Get Started: Business Idea Challenge remains listed on Startup State's business-resource card (live in headless Chrome, 2026-07-14). The older marketing path `https://startup.utah.gov/get-started/` 404s (Chrome error page). Prefer the business-resource card and Startup State funding competitions list; treat dollar amounts and milestone timelines as unverified until a detailed program page restates them.
 
-Treat Startup State import claims — up to $500 in non-equity milestone funding within 30–90 days — as unverified until a live official page restates them.
 
 ## Who It's For
 
@@ -51,6 +50,8 @@ Potential fit for idea-stage Utah founders who need a small validation budget an
 - Listing modified: 2024-12-10T12:56:30
 
 ## Evidence
+
+- Dead former path (404): https://startup.utah.gov/get-started/
 
 - [Startup State fund-your-business page](https://startup.utah.gov/fund-small-business/) · https://startup.utah.gov/fund-small-business/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/

@@ -17,67 +17,39 @@
 
 ## Summary
 
-Silicon Slopes is a nonprofit organization that empowers Utah's startup and tech community by providing resources, events, and networking opportunities to foster innovation and entrepreneurship. It serves as a central hub for Utah companies and entrepreneurs, offering connections, education, and community engagement to support business growth and development. Notable initiatives include the annual Silicon Slopes Summit, which brings together industry leaders and professionals to discuss trends and opportunities in technology and business.
+Silicon Slopes is a Utah nonprofit that serves as a hub for the state's startup and tech community through events, content, and convenings — most prominently the annual Silicon Slopes Summit. The organization connects Utah companies, founders, and industry leaders for networking, education, and community building.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Software and Information Technology
+Utah tech founders, operators, investors, and community members at growth stage or later who want statewide startup networking and flagship events.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The organization's public presence centers on community events and the [Silicon Slopes Tech Summit](event-silicon-slopes-tech-summit.md), with programming aimed at Utah's tech ecosystem. Summit and main-site details should be confirmed on the official domain before recommending specific dates or ticket tiers.
 
-- Entrepreneurship Communities
-- Late Stage Growth
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://www.siliconslopes.com/) · https://www.siliconslopes.com/
+- [Summit](https://www.siliconslopes.com/summit) · https://www.siliconslopes.com/summit
 - Startup State listing: https://startup.utah.gov/business-resource/sillicon-slopes/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Summit and event pricing varies by year and ticket type; verify on the official summit page. General community resources may be free.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for Utah tech operators who benefit from large-scale networking, summit programming, and visibility within the Silicon Slopes brand.
 
-- Entrepreneurship Communities
-- Late Stage Growth
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 2623 (slug `sillicon-slopes`)
-- Topics: Entrepreneurship Communities, Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Any
-- Industries: Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:59:31
+Weaker fit for rural Main Street businesses or founders seeking structured accelerator equity terms.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [EVENT: Silicon Slopes Tech Summit](event-silicon-slopes-tech-summit.md) · https://greatutah.work/pages/event-silicon-slopes-tech-summit.md · https://www.siliconslopes.com/summit
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.siliconslopes.com/) · https://www.siliconslopes.com/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What standing programs beyond Summit does Silicon Slopes run today?
+- Are membership or sponsorship tiers published for year-round community access?

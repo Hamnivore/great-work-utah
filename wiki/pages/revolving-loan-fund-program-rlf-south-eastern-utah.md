@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
+**Confidence:** Low
 **Focus:** Funding
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County
@@ -11,80 +11,50 @@
 **Coordinates:** 39.5957889, -110.8362394
 **Location Precision:** exact
 **Location Source:** https://serda.utah.gov/contact
-**Website:** https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/
+**Website:** https://serda.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Revolving Loan Fund (RLF), administered by the Southeastern Utah Association of Local Governments (SEUALG), provides financial assistance to startups and expanding businesses in Carbon, Emery, Grand, and San Juan counties that may not qualify for traditional financing. The program aims to stimulate economic development and job creation within these communities.
+The Southeastern Utah Association of Local Governments (SEUALG) administers a Revolving Loan Fund for startups and expanding businesses in Carbon, Emery, Grand, and San Juan counties that cannot obtain traditional bank financing. Job creation or retention is a stated program criterion.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+The official SEUALG website was unreachable during verification (July 2026). Program details below draw on Startup State listing text and publicly indexed SEUALG materials; confirm all terms with staff before recommending.
 
+## Who It's For
 
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses located in Carbon, Emery, Grand, or San Juan counties that have been turned down by traditional lenders and can document a job-creation or retention plan. Startups and expansion-stage operators in professional, retail, service, IT, and manufacturing sectors are among listed qualifying categories in regional economic-development materials.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Funding
+Non-traditional gap loans for uses such as working capital, equipment, leasehold improvements, construction, and land or building purchases. Indexed program FAQs describe loans from $10,000 to $150,000 with repayment periods of roughly 3–10 years.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/) · https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/
-- Email: [cotto@seualg.utah.gov](mailto:cotto@seualg.utah.gov)
+- Email: [cotto@seualg.utah.gov](mailto:cotto@seualg.utah.gov) (Startup State listing)
+- Indexed program contact: (435) 613-0031 (Housing/Self Help & Revolving Loan Fund staff)
 - Startup State listing: https://startup.utah.gov/business-resource/revolving-loan-fund-program-rlf-south-eastern-utah/
 
+Request current application packets and board-review timelines directly — the official program URL did not respond during verification.
 
-## Cost / Eligibility
+## Cost
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Indexed SEUALG/SERDA materials reference a $250 application fee for completed packets and borrower-paid closing costs if approved. Interest rates are described as tied to the prime rate and applicant profile. Verify all fees and terms with SEUALG staff before applying.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2589 (slug `revolving-loan-fund-program-rlf-south-eastern-utah`)
-- Topics: Funding
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Carbon, Emery, Grand, San Juan
-- Listing modified: 2024-12-10T12:01:38
+Southeastern Utah founders with a bank turndown letter, a feasible business plan, and a credible job-impact story. A weak fit for companies outside the four-county area or seeking venture equity.
 
 
-## Evidence
+## Evidence## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- Former RLF URL (auth/SSL issues): https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/
+
+- Use SERDA public site while seualg.utah.gov remains auth-gated: https://serda.utah.gov/
+
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/) · https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- When will seualg.utah.gov return, and where is the current application PDF hosted?
+- What is the active RLF balance and typical board-approval timeline?

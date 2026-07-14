@@ -13,8 +13,9 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Cosm+770+Komas+Drive+Salt+Lake+City+UT
 **Website:** https://cosm.com
+**Careers:** https://www.cosm.com/careers/positions
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/cosm-dome-slc/1600/1100
 **Pull:** *Nearly 100 NVIDIA GPUs per dome, 70 years of planetarium engineering, and a bet that the future of live sports is a shared room, not a solo headset.*
 **Relates:** cites [Official Website: Cosm](cosm-official-website.md) · https://greatutah.work/pages/cosm-official-website.md · https://cosm.com
@@ -34,8 +35,9 @@ Whether this becomes a durable category or an upscale novelty depends on content
 The core platform is the CX System — a standardized hardware and software stack that ships with every new venue. On top of it: Digistar 7 for dome rendering, an NVIDIA GPU cluster for real-time content, Unreal Engine integration for live sports and original content, and Spitz Inc. tools for science-education programming (another Cosm acquisition from 2020). The venue footprint includes Los Angeles, Dallas, and Atlanta, with global expansion underway. The E&S/Digistar side of the business continues to serve planetarium and science-education clients separately.
 
 ## What They Need Now
+Needs span venue operations (dome operators, hospitality and events staff, fan ambassadors, security), corporate and venue leadership (pricing/revenue, product management, talent acquisition, HR, supply chain), and technical roles across software, video, networking, and IT program management — with Salt Lake City among the locations for engineering and internship tracks.
 
-Display engineers and real-time rendering engineers (Unreal Engine, GPU cluster management, LED dome calibration); venue systems engineers who can manage 100-GPU distributed setups; content producers and creative technologists building for a 360-degree canvas; software engineers on the CX System platform; and operators who understand venue infrastructure and hospitality at scale. The E&S/Digistar/Spitz lineage also means ongoing need for planetarium software engineers and science-education content producers.
+Display engineers and real-time rendering engineers (Unreal Engine, GPU cluster management, LED dome calibration); venue systems engineers who can manage 100-GPU distributed setups; content producers and creative technologists building for a 360-degree canvas; and operators who understand venue infrastructure and hospitality at scale remain the broader fit. The E&S/Digistar/Spitz lineage also means ongoing need for planetarium software engineers and science-education content producers.
 
 ## Who Could Help
 

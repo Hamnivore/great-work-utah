@@ -12,11 +12,11 @@
 **Coordinates:** 40.7726684, -111.8930642
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=FamilySearch+Library+35+North+West+Temple+Salt+Lake+City+UT
-**Careers:** https://www.familysearch.org/en/careers/
+**Careers:** https://www.familysearch.org/en/about/jobs
 **Website:** https://www.familysearch.org
 **Domain:** computing
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-05-09
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://upload.wikimedia.org/wikipedia/commons/e/ec/Family_History_Library_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg
 **Hero caption:** *The FamilySearch Library in downtown Salt Lake City — photograph by Beneathtimp (Wikimedia Commons, CC0).*
 **Pull:** *The largest genealogy organization in the world. Free, no account required, and quietly load-bearing for cancer research.*
@@ -44,8 +44,7 @@ FamilySearch is building enabling infrastructure at civilizational scale. Three 
 Public materials describe ongoing rollouts of AI-driven indexing, name and place normalization, and improved search. The organization runs a real, large engineering team in Utah that rarely comes up in tech-press circles.
 
 ## What They Need Now
-
-Likely needs include software and machine-learning engineers who want to work on hard OCR, record linkage, and large-scale data infrastructure problems with mission rather than ad-revenue motives; archivists, historians, and linguists for record curation; privacy and policy specialists for the increasingly difficult question of how to expose historical records responsibly; and infrastructure engineers comfortable operating at the scale of billions of records. Employment does not require Church membership, but the culture is influenced by the religious sponsorship; readers should consider whether that context fits.
+Church Employment hiring tagged FamilySearch spans software development and SDET (Lehi), program and product engagement management, writing/communications and events roles, center-support management, and Utah-based image/metadata quality-control internships. Broader ongoing fit remains software and ML engineers who want hard OCR, record linkage, and large-scale data infrastructure with mission rather than ad-revenue motives; archivists, historians, and linguists for record curation; privacy and policy specialists; and infrastructure engineers comfortable operating at billions-of-records scale. Paid Church Employment postings typically require Church membership and temple worthiness — verify on each requisition; readers should consider whether that context fits.
 
 ## Who Could Help
 

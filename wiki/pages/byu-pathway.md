@@ -8,7 +8,7 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Domain:** culture-place
 **Domain-flagged:** review
 **Region:** Salt Lake City
@@ -74,6 +74,7 @@ BYU-Pathway is headquartered on the Wasatch Front and enrolled 8,495 Utah studen
 
 ## Open Questions
 
+- No agent-readable careers/jobs page found (byupathway.edu careers path 404; church careers portal is a weak SPA shell).
 - Independent verification of graduate employment outcomes and income mobility by country and labor market.
 - Employer recognition of BYU-Idaho/Ensign College credentials outside LDS-network employers and remote-work channels.
 - How Portuguese and future multi-language offerings change enrollment geography and completion rates.

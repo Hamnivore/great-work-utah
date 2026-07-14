@@ -1,10 +1,10 @@
 # Kickstart Fund
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
-**Primary Location:** Salt Lake City, UT
+**Primary Location:** Cottonwood Heights, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 2750 E Cottonwood Pkwy, Suite 160, Cottonwood Heights, UT 84121
@@ -17,74 +17,38 @@
 
 ## Summary
 
-Kickstart Fund, established in 2008, is a venture capital firm based in Cottonwood Heights, Utah, specializing in seed-stage investments within the Mountain West region. The firm focuses on sectors such as B2B SaaS, fintech, healthtech, and consumer products, aiming to support early-stage startups through capital and strategic guidance. Notable companies in their portfolio include Podium, SonderMind, and Lucidchart, reflecting their commitment to fostering innovation and growth in the regional startup ecosystem.
+Kickstart Fund is a Mountain West venture capital firm founded in 2008 and based in the Salt Lake City area. Its official site positions Kickstart as an early-stage seed investor backing bold founders across the Rocky Mountain region, with offices in Salt Lake and Denver.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Seed-stage founders in the Mountain West building companies with traction or a credible path to product-market fit, especially in software and technology-enabled sectors.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Seed-stage venture capital
+- Regional expertise and founder support from a long-running Mountain West fund
+- Portfolio network across Utah and Colorado
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Reach out through the official site or known partner channels
 - [Official website](https://www.kickstartfund.com/) · https://www.kickstartfund.com/
 - Email: [info@kickstartfund.com](mailto:info@kickstartfund.com)
 - Startup State listing: https://startup.utah.gov/business-resource/kickstart-fund/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Equity investment; standard venture terms apply. No public fee schedule for founders.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2611 (slug `kickstart-fund`)
-- Topics: Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:46:57
-
+Utah and Mountain West seed founders seeking institutional venture capital. Portfolio examples on public sources include Podium, Lucidchart, and SonderMind. Not a fit for non-dilutive microgrants or manufacturing-extension consulting.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.kickstartfund.com/) · https://www.kickstartfund.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are Kickstart's current sector priorities and typical initial check sizes?

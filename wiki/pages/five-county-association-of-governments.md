@@ -4,91 +4,55 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** Five County region, UT
+**Primary Location:** St. George, UT
 **Utah Location:** Beaver, Garfield, Iron, Kane, and Washington counties, UT
 **Region:** Five County region
 **Map Location:** 1070 W 1600 S, Building B, St. George, UT 84770
 **Coordinates:** 37.081333, -113.606188
 **Location Precision:** exact
 **Location Source:** https://fivecountyecon.org/contact/
-**Website:** http://www.fivecounty.utah.gov/
+**Website:** https://www.fivecounty.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Five County Association of Governments (FCAOG) is a voluntary association serving the southwestern Utah counties of Beaver, Garfield, Iron, Kane, and Washington. Established in 1972, FCAOG provides assistance in community and economic development, transportation planning, aging programs, and human services to enhance regional collaboration and address area-wide concerns. Their main office is located in St. George, with a satellite office in Cedar City.
+The Five County Association of Governments (FCAOG) is a voluntary interlocal agency serving southwestern Utah's Beaver, Garfield, Iron, Kane, and Washington counties. Verified on the official site (2026-07-14): FCAOG supports community and economic development, transportation planning, aging programs, human services, and small-business financing, operating as a federally recognized Economic Development District.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Main offices are in St. George with a satellite office in Cedar City.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Municipal leaders, regional planners, small businesses, and residents across the five-county area seeking interlocal program delivery, economic-development district services, or small-business financing pathways.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Regional planning and federal/state program administration, Economic Development District status, small-business financing support (per mission statement), aging and human-services programs, transportation planning, and staff expertise for local elected officials. Quick links cover administration, aging services, child-care resources, community support, and transportation.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](http://www.fivecounty.utah.gov/) · http://www.fivecounty.utah.gov/
+- [Official website](https://www.fivecounty.utah.gov/) · https://www.fivecounty.utah.gov/
+- Program overview: https://www.fivecounty.utah.gov/fcaog/
 - Email: [info@fivecounty.utah.gov](mailto:info@fivecounty.utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/five-county-association-of-governments/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Program costs and eligibility vary by service (aging, transportation, business financing). Contact FCAOG for the specific small-business financing or economic-development program that fits the request.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Southwest Utah businesses and local governments navigating regional economic-development district resources or interlocal programs.
 
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2695 (slug `five-county-association-of-governments`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Garfield, Iron, Kane, Washington
-- Listing modified: 2024-12-11T08:17:22
-
+Less useful for Salt Lake County startups or founders seeking venture equity.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](http://www.fivecounty.utah.gov/) · http://www.fivecounty.utah.gov/
+- [Official website](https://www.fivecounty.utah.gov/) · https://www.fivecounty.utah.gov/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which small-business financing products are actively enrolling today?
+- How does FCAOG coordinate with [SoUtah Economic Alliance](soutah-economic-alliance.md) on business attraction?

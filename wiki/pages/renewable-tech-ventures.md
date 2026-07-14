@@ -1,12 +1,12 @@
 # Renewable Tech Ventures
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
-**Focus:** Funding, Other
-**Primary Location:** unknown
-**Utah Location:** unknown
-**Region:** unknown
+**Focus:** Funding
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Map Location:** Former office: 136 E South Temple, Suite 925, Salt Lake City, UT 84111
 **Coordinates:** 40.769149, -111.887096
 **Location Precision:** exact
@@ -17,76 +17,37 @@
 
 ## Summary
 
-RenewableTech Ventures is a venture capital firm that invests in early-stage innovations within sectors such as energy, clean technology, green materials, and other related fields. Their investment focus spans the United States and Canada, particularly targeting regions underserved by venture capital. With a combined 80 years of experience in venture capital and clean tech, the team offers not only financial support but also market intelligence, active board participation, and access to an extensive international network of industry contacts, technology leaders, and co-investors
+RenewableTech Ventures is a venture capital firm based in Salt Lake City that invests in early-stage innovations in energy, clean technology, green materials, and related sectors across the United States and Canada, with emphasis on regions underserved by venture capital.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Early-stage cleantech, energy, advanced materials, and related founders seeking specialized venture capital and board-level industry support.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Early-stage venture capital for clean technology and energy innovation
+- Market intelligence, active board participation, and co-investor network access
 
-- Funding
-- Other
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Contact through the official site
 - [Official website](https://www.renewablevc.com/) · https://www.renewablevc.com/
 - Email: [info@renewablevc.com](mailto:info@renewablevc.com)
 - Startup State listing: https://startup.utah.gov/business-resource/renewable-tech-ventures/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Equity investment; terms are deal-specific.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-- Other
-
-## Imported Coverage
-
-- Startup State ID: 2599 (slug `renewable-tech-ventures`)
-- Topics: Funding, Other
-- Stages: Growing, Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:35:15
-
+Utah and regional cleantech founders in transportation, energy, manufacturing, infrastructure, advanced materials, IT, and agriculture applications. Less useful for general software angels or manufacturing-extension consulting.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.renewablevc.com/) · https://www.renewablevc.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which fund is RenewableTech currently deploying and what check sizes apply?

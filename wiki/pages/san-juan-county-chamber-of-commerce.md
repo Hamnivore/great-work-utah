@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT
 **Region:** San Juan County
@@ -11,83 +11,44 @@
 **Coordinates:** 37.873548, -109.342737
 **Location Precision:** exact
 **Location Source:** https://www.sanjuancountychamber.com/
-**Website:** https://sanjuancountychamber.com/
+**Website:** https://www.sanjuancountychamber.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The San Juan County Chamber of Commerce supports businesses in Southeastern Utah through advocacy, networking, and community-focused initiatives. It provides resources to local enterprises, hosts events like the "Best of San Juan Awards," and promotes regional growth by connecting businesses and residents to opportunities for collaboration and development​
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The San Juan County Chamber of Commerce unites local businesses to advance the county's business community. Verified on the official site (2026-07-14): the chamber invites membership to connect with community leaders, improve business outcomes, and help shape the future of business in San Juan County. Tagline: "Local solutions to local challenges."
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+San Juan County businesses in Monticello, Blanding, Bluff, and surrounding communities seeking peer networking and chamber-led advocacy.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Chamber membership with leader networking; community-building for the county business base; join pathway on official site. Pair with county economic development for relocation and grant support.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://sanjuancountychamber.com/) · https://sanjuancountychamber.com/
+- Official site: https://www.sanjuancountychamber.com/
+- Join via "Join the San Juan County Chamber" on homepage
+- Also see [San Juan County Economic Development](san-juan-county-economic-development.md) for county ED programs
 - Startup State listing: https://startup.utah.gov/business-resource/san-juan-county-chamber-of-commerce/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership pricing not published on pages reviewed; confirm before recommending. Open to San Juan County businesses.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2713 (slug `san-juan-county-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: San Juan
-- Listing modified: 2024-12-11T10:11:02
-
+San Juan County operators who want a local business network and chamber advocacy — complementing county ED for incentives and relocation.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Official website](https://www.sanjuancountychamber.com/) · https://www.sanjuancountychamber.com/
+- Startup State listing: https://startup.utah.gov/business-resource/san-juan-county-chamber-of-commerce/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://sanjuancountychamber.com/) · https://sanjuancountychamber.com/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership benefits, dues, and meeting schedule?
+- How does the chamber coordinate with San Juan County Economic Development on small-business grants?

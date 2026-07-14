@@ -12,9 +12,9 @@
 **Coordinates:** 37.098317, -113.550770
 **Location Precision:** exact
 **Location Source:** https://bioutah.org/culmination-bio-raises-10m-from-amgen-ventures-and-merck-global-health-innovation-fund-to-bring-longitudinal-health-data-to-biopharma/
-**Website:** https://www.culmination.com
+**Website:** https://intermountainhealthcare.org/services/genomics/research/collaborative-solutions/culmination/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/culmination-bio-clinical-data-2026/1600/1100
 **Pull:** *Forty years of Intermountain patient records — clinical, omics, tissue, and claims — organized for discovery partnerships.*
 **Relates:** cites [Official Website: Culmination Bio](culmination-bio-official-website.md) · https://greatutah.work/pages/culmination-bio-official-website.md · https://www.culmination.com
@@ -63,6 +63,7 @@ The spinout also sits near Utah's broader life-sciences cluster — companies su
 
 ## Open Questions
 
+- culmination.com does not resolve (NXDOMAIN as of 2026-07-14) — Website points at the Intermountain Health page until the company domain returns; no careers board located.
 - Which partnership terms, cohort sizes, and hypothesis-validation outcomes from Merck, Amgen, or other pharma collaborators are publicly verifiable?
 - How representative is Intermountain's Intermountain West patient population for generalizable drug-discovery use cases, especially for population-specific biology?
 - What governance constraints does Intermountain Health's nonprofit parent place on Culmination's commercial independence?

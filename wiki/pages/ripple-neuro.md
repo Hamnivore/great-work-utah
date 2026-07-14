@@ -9,8 +9,9 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://rippleneuro.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Careers:** https://rippleneuro.com/careers-at-ripple/
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/ripple-neuro-2026/1600/1100
 **Pull:** *The instruments that make invasive neuroscience possible — 512 channels of real-time neural recording, in a palm-sized wireless system, built over 20 years from the same University of Utah lineage as the Utah Array.*
 **Relates:** cites [Official Website: Ripple Neuro](ripple-neuro-official-website.md) · https://greatutah.work/pages/ripple-neuro-official-website.md · https://rippleneuro.com
@@ -34,8 +35,7 @@ Ripple builds research-grade neural recording and stimulation hardware, from ana
 The Trek system represents a form-factor bet: shrinking the full Grapevine capability into a palm-sized wireless device enables experiments in freely moving animals and, eventually, ambulatory human subjects. This unlocks experimental designs that stationary rig setups cannot support, expanding the scientific questions that can be asked.
 
 ## What They Need Now
-
-Likely needs include analog and mixed-signal hardware engineers, ASIC designers, embedded firmware engineers, and biomedical engineers with genuine interest in neuroscience. The team is order-of-dozens rather than hundreds; individual leverage is high. People who want to design instruments rather than use them — and who can work across the full stack from transistor to experiment — are the profile.
+Hiring emphasis is application-scientist / field-sales talent who can talk electrophysiology with research labs (human and animal neuroscience); applications are also accepted at jobs@rppl.com. That sits alongside the longer-standing likely needs for analog/mixed-signal hardware engineers, ASIC designers, embedded firmware engineers, and biomedical engineers who want to design instruments rather than only use them.
 
 ## Who Could Help
 

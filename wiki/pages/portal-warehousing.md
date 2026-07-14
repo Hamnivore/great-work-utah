@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
-**Primary Location:** Northern Utah
-**Utah Location:** Davis County, Morgan County, Salt Lake County, Tooele County, Weber County
-**Region:** Northern Utah
+**Focus:** Entrepreneurship Communities, Start a Business
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Map Location:** Portal Warehousing Salt Lake City, 1580 S 500 W, Suite 100, Salt Lake City, UT 84115
 **Coordinates:** 40.7359301, -111.9054801
 **Location Precision:** exact
@@ -17,54 +17,29 @@
 
 ## Summary
 
-Portal Warehousing Salt Lake City, located at 1580 S 500 W, offers flexible co-warehousing and logistics spaces tailored for e-commerce, logistics, and growing businesses. With private warehouse units ranging from 250 to 2,500 square feet and short-term, flexible lease terms, Portal provides an adaptable environment to meet diverse operational needs. Amenities include loading equipment, private offices, shipping and receiving services, community events, and daily carrier pickups, all designed to streamline business operations and foster growth.
+Portal Warehousing Salt Lake City at 1580 South 500 West offers flexible co-warehousing and logistics space for e-commerce, logistics, and growing businesses. The site advertises private warehouse units from roughly 200 to 2,000+ square feet with short-term, flexible terms and all-inclusive amenities such as loading equipment, private offices, shipping/receiving support, and daily carrier pickups.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Consumer Packaged Goods
+E-commerce founders, consumer-goods operators, and logistics-heavy businesses in Salt Lake City that have outgrown home fulfillment and need shared warehouse infrastructure without a long traditional industrial lease.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
+Flexible warehouse units (small, medium, and large footprints), loading docks and logistics equipment, private offices, shipping and receiving services, technology-partner discounts, and community events. Day, week, and month pass booking widgets are exposed on the location page for short-term access inquiries.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://www.join-portal.com/location/salt-lake-city) · https://www.join-portal.com/location/salt-lake-city
+- Submit the location contact form or call (801) 441-4468
 - Startup State listing: https://startup.utah.gov/business-resource/portal-warehousing/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+All-in monthly pricing is quote-based by unit size and term. The public site does not publish a universal rate card; use the contact form or pass-booking flow for current pricing.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-
-## Imported Coverage
-
-- Startup State ID: 2560 (slug `portal-warehousing`)
-- Topics: Entrepreneurship Communities
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Consumer Packaged Goods
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-10T10:43:27
+CPG and e-commerce operators who need Salt Lake City warehousing with logistics support and flexible lease terms rather than a full standalone industrial build-out.
 
 
 ## Evidence
@@ -75,6 +50,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What minimum lease terms apply for the smallest units today?
+- Which carrier and software discounts are currently active for members?

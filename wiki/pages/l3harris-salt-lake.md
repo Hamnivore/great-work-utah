@@ -15,7 +15,7 @@
 **Careers:** https://careers.l3harris.com/
 **Domain:** aerospace-defense
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Pull:** *One of the largest U.S. defense comms facilities — Falcon radios, SATCOM terminals, and classified ISR payloads, thousands of engineers deep.*
 
 ## Summary
@@ -40,7 +40,7 @@ Trend lines include waveform agility, cognitive radio, mesh networking, and inte
 
 ## What They Need Now
 
-Likely needs include RF engineers, firmware engineers, systems engineers, cybersecurity specialists, and program managers — most requiring security clearances. Hiring at scale reflects ongoing work across comms, EW, and ISR programs tied to defense budget cycles.
+Openings on the L3Harris careers site include manufacturing engineering, integration and test, AI specialists, industrial security, subcontracts, and project engineering — alongside RF, firmware, systems, cybersecurity, and clearance-gated program roles tied to defense budget cycles.
 
 Good fit for engineers who want production defense communications with real deployed platforms and a relocation radius that includes Salt Lake City rather than a Beltway commute. Weaker fit for people seeking high individual leverage, public portfolio-building, or startup-style mission autonomy.
 
@@ -54,8 +54,8 @@ L3Harris Salt Lake City is one of Utah's largest defense employers after Hill Ai
 
 ## Evidence
 
-- [L3Harris Salt Lake City location page](https://www.l3harris.com/about/locations/salt-lake-city) · https://www.l3harris.com/about/locations/salt-lake-city — official site description of the facility. **Dead as of 2026-07-14 (404); L3Harris has restructured its site.** Facts drawn from it should be re-verified before being treated as current.
-- [L3Harris Communication Systems](https://www.l3harris.com/all-capabilities/communication-systems) · https://www.l3harris.com/all-capabilities/communication-systems — capability overview. **Dead as of 2026-07-14 (404); L3Harris has restructured its site.**
+- [L3Harris Salt Lake City jobs](https://careers.l3harris.com/en/location/salt-lake-city-jobs/4832/6252001-5549030-5780993/4) · https://careers.l3harris.com/en/location/salt-lake-city-jobs/4832/6252001-5549030-5780993/4 — official careers listing for the Salt Lake City site; documents the facility and its hiring. Replaced the former `/about/locations/salt-lake-city` page, dead (404) since L3Harris restructured its site in 2026.
+- [L3Harris Falcon radio product line](https://www.l3harris.com/all-capabilities/falcon-radio-product-line) · https://www.l3harris.com/all-capabilities/falcon-radio-product-line — current capability page for the Falcon tactical radio family built in Salt Lake City. Replaced the former `all-capabilities/communication-systems` overview, dead (404) since the same restructure.
 - [Wikipedia: L3Harris Technologies](https://en.wikipedia.org/wiki/L3Harris_Technologies) · https://en.wikipedia.org/wiki/L3Harris_Technologies — corporate history and merger background.
 
 ## Open Questions

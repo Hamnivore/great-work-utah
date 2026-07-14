@@ -4,8 +4,8 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Funding
-**Primary Location:** Orem, UT
-**Utah Location:** Mountainland region, UT
+**Primary Location:** Heber City, UT
+**Utah Location:** Summit County, Utah County, Wasatch County
 **Region:** Mountainland
 **Map Location:** MAG Orem Office, 586 E 800 N, Orem, UT 84097
 **Coordinates:** 40.3113295, -111.6820358
@@ -17,73 +17,37 @@
 
 ## Summary
 
-The Revolving Loan Fund (RLF), facilitated by Wasatch County in collaboration with the Mountainland Association of Governments (MAG), provides "gap" and startup financing to qualified businesses within the Mountainland region of Utah, encompassing Heber Valley. The primary objective of this fund is to stimulate local business expansion and generate permanent, long-term employment opportunities.
+The Mountainland Association of Governments (MAG) Revolving Loan Fund, facilitated through Wasatch County and promoted on the Heber Valley site, provides gap and startup financing to qualified businesses in the Mountainland region. The program aims to create permanent, long-term jobs by bridging shortfalls in commercial financing.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+New and expanding businesses in the Mountainland region (Summit, Utah, and Wasatch counties per Startup State coverage) that need gap financing for fixed assets or working capital and can commit to job creation — including low- to moderate-income hiring targets.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Funding
+Revolving loans from $10,000 to $100,000 with terms from 6 months to 5 years. Eligible uses include machinery/equipment, other fixed assets, and working capital (inventory, receivables, operating expenses, labor). Ineligible uses include refinancing existing debt and relocation without job growth.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.gohebervalley.com/Revolving-loan/) · https://www.gohebervalley.com/Revolving-loan/
+- [Official program page](https://www.gohebervalley.com/Revolving-loan/) · https://www.gohebervalley.com/Revolving-loan/
+- Download application materials linked from the program page
 - Startup State listing: https://startup.utah.gov/business-resource/mountain-land-association-of-governments-revolving-loan-fund-rlf/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Per the official page: $75 non-refundable application fee; $20 credit-report fee (waived if applicant provides a recent report with score); 1.5% origination and recording fees financed into the loan. Interest rates will not exceed 5 points above the Wall Street Journal prime rate (fixed for the loan term). Job-creation expectation: roughly one job per $25,000 borrowed, with 51% of new jobs targeted for low- or moderate-income workers.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2588 (slug `mountain-land-association-of-governments-revolving-loan-fund-rlf`)
-- Topics: Funding
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Summit, Utah, Wasatch
-- Listing modified: 2024-12-10T12:00:50
+Mountainland businesses with a financing gap, collateral or leverage plan, and a credible job-creation story. A weak fit for companies seeking equity, grants, or financing outside the three-county service area.
 
 
-## Evidence
+## Evidence## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Official program page](https://www.gohebervalley.com/Revolving-loan/) · https://www.gohebervalley.com/Revolving-loan/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.gohebervalley.com/Revolving-loan/) · https://www.gohebervalley.com/Revolving-loan/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Who is the current loan officer and what is the typical approval timeline?
+- Does the program still require private-sector leverage matching for all applicants?

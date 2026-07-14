@@ -9,8 +9,8 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://curza.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/curza-2026/1600/1100
 **Pull:** *A first-in-class ribosome mechanism aimed at drug-resistant Gram-negative bacteria — a gap no new antibiotic class has filled in nearly 50 years.*
 **Relates:** cites [Official Website: Curza](curza-official-website.md) · https://greatutah.work/pages/curza-official-website.md · https://curza.com
@@ -59,6 +59,7 @@ Curza is a University of Utah spinout with original chemistry licensed from the 
 
 ## Open Questions
 
+- No agent-readable careers/jobs page found (curza.com/careers 404; linked “copy-of-careers” page is news, not openings).
 - Has Curza submitted a Phase 1 IND for CZ-02 since legacy intake?
 - What preclinical efficacy and safety data are publicly available for CZ-02 against prioritized resistant Gram-negative strains?
 - How does the $75M DTRA + University of Florida collaboration timeline (reported 9-year horizon) map to near-term clinical milestones?

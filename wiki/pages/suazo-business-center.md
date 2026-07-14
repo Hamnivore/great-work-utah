@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+**Focus:** Funding, Start a Business, Taxes and Finance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -17,72 +17,34 @@
 
 ## Summary
 
-The Suazo Business Center is a nonprofit dedicated to supporting Latino and underserved communities in Utah through entrepreneurial resources. It provides business consulting, training, and financial assistance to help minority entrepreneurs succeed and build wealth, aiming to foster self-reliance and break cycles of poverty.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): Suazo Business Center is a culturally responsive business development center and CDFI serving Utah's economically disadvantaged communities. Public pages describe bilingual advising, business education in English and Spanish, workshops, and loan support with locations in Salt Lake City, Ogden, and St. George.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Multicultural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Existing and aspiring entrepreneurs — especially Latino and underserved founders — who need bilingual business advising, training, workshops, or loan assistance to start or grow a business in Utah.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
+Services include one-on-one bilingual business advising (registration, marketing, planning, financial health), basic through advanced courses, expert-led workshops, and loan exploration for new and existing businesses. Suazo also publishes class schedules, orientations, and a business podcast.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://suazocenter.org/) · https://suazocenter.org/
+- Phone: (801) 521-1709
 - Email: [getintouch@suazocenter.org](mailto:getintouch@suazocenter.org)
+- Salt Lake City: 960 W 1700 S, Salt Lake City, UT 84104
+- Ogden: 2955 Harrison Blvd, Suite #101E/F, Ogden, UT 84403 (also 2302 S Washington Blvd, 4th Floor)
+- St. George: 453 S 600 E St. STE 187, St. George, UT 84770
+- [Apply / enroll](https://suazocenter.org/) · https://suazocenter.org/
 - Startup State listing: https://startup.utah.gov/business-resource/suazo-business-center/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Advising and many orientations are low-cost or free; specific courses and workshops list tuition on the class pages (for example, some workshops show $100 tuition). Verify current pricing before recommending a class.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
-- Multicultural
-
-## Imported Coverage
-
-- Startup State ID: 2660 (slug `suazo-business-center`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Multicultural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T15:30:34
-
+Spanish- or English-preferring founders who need hands-on business planning, QuickBooks training, financing education, or CDFI-linked capital support — especially strong for underserved and Latino entrepreneurs statewide.
 
 ## Evidence
 
@@ -90,8 +52,3 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://suazocenter.org/) · https://suazocenter.org/
 
-## Open Questions
-
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

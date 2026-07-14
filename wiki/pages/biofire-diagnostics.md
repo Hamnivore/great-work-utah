@@ -8,14 +8,14 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-18
+**Needs-reviewed:** 2026-07-14
 **Domain:** health-bio
 **Region:** Salt Lake City
 **Map Location:** 515 Colorow Drive, Salt Lake City, UT 84108
 **Coordinates:** 40.7578326, -111.8200236
 **Location Precision:** exact
 **Location Source:** https://www.biofiredx.com/european-privacy-policy/
-**Careers:** https://www.biofiredx.com/company/career/
+**Careers:** https://jobs.jobvite.com/biofiredx/jobs
 **Website:** https://www.biofiredx.com
 **Ownership:** public
 **Hero:** https://picsum.photos/seed/biofire-filmarray-syndromic-pcr-2026/1600/1100
@@ -40,8 +40,7 @@ The flagship is the FilmArray platform (FilmArray 2.0 and Torch systems) plus a 
 The harder-to-see product is the manufacturing and regulatory system: building nested multiplex PCR, integrated sample extraction, and automated detection into a single consumable that a technician can run without sample prep, then clearing each new panel through FDA review. That accumulated capability is the moat.
 
 ## What They Need Now
-
-Likely needs include assay-development and molecular-biology scientists, clinical laboratory scientists, regulatory-affairs specialists with 510(k), De Novo, and CE-IVD experience, and manufacturing and quality engineers who can build diagnostic consumables at scale. Because BioFire operates as bioMérieux's molecular-diagnostics center of excellence, operators comfortable inside a structured, global corporate environment — rather than an early-stage startup — fit best.
+Hiring runs across engineering, software/IT, manufacturing, scientific/R&D, and commercial support — QC and packing technicians, field system engineers, clinical applications specialists, medical science liaisons, market-access and account managers, and HR/supply-chain partners. Assay-development and molecular-biology scientists, regulatory-affairs specialists with 510(k)/De Novo/CE-IVD experience, and manufacturing/quality engineers who can build diagnostic consumables at scale remain core fits. Because BioFire operates as bioMérieux's molecular-diagnostics center of excellence, operators comfortable inside a structured, global corporate environment — rather than an early-stage startup — fit best.
 
 For talent matching, BioFire suits scientists and engineers who want to ship clinically deployed infectious-disease testing at real volume while staying in Utah rather than relocating to Boston or the Bay Area.
 

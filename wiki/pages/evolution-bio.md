@@ -57,6 +57,7 @@ Evolution Bio is a University of Utah biochemistry spinout in Salt Lake City, ba
 
 ## Open Questions
 
+- **Careers URL:** No public employer careers board found (2026-07-14). No confirmed standalone company website; skip Careers until an official hiring page exists.
 - **Company website unknown.** BioUtah lists Evolution Bio with a "Visit Website" link that did not resolve to a confirmed URL during intake. A site at discovery-evolution.com describes a "digital directed evolution" GPCR antibody platform and may represent a rebrand, separate entity, or successor — relationship to Evolution Bio is unverified.
 - **Pharma partnerships unverified.** Prior intake mentioned Eli Lilly and Kallyope partnerships; no primary source confirming those deals was captured in this migration. Treat as unverified until press release or SEC filing appears.
 - **VEGAS technical limitations.** Independent reviews have questioned continuous Sindbis-based evolution (packaging competition, cheater emergence, biosafety of alphavirus vectors). These concerns affect how strongly to claim VEGAS as a production-ready commercial platform.

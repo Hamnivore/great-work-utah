@@ -12,10 +12,10 @@
 **Coordinates:** 40.4863817, -111.8899215
 **Location Precision:** exact
 **Location Source:** https://www.bamboohr.com/about-bamboohr/contact/
-**Careers:** https://www.bamboohr.com/careers/
+**Careers:** https://job-boards.greenhouse.io/bamboohr17
 **Website:** https://www.bamboohr.com/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/bamboohr-hr-platform-lindon-2026/1600/1100
 **Pull:** *People, payroll, and benefits in one SMB-friendly HR platform, built in Utah.*
 **Relates:** cites [Official Website: BambooHR](bamboohr-official-website.md) · https://greatutah.work/pages/bamboohr-official-website.md · https://www.bamboohr.com/
@@ -46,8 +46,7 @@ BambooHR builds a modular HR platform with several major surfaces:
 Recent public announcements on the site also highlight **Employer of Record** capabilities for global hiring and **Compensation Management** as a dedicated product line.
 
 ## What They Need Now
-
-Likely needs include full-stack and platform engineers, payroll and compliance specialists, HR-domain product managers, security and SOC II–mature infrastructure engineers, customer support and implementation leaders, and go-to-market operators focused on SMB and mid-market expansion — including international data residency (U.S., Canada, Ireland hosting is described on the site).
+Hiring spans software-engineering leadership and architecture (payroll, data, security), performance and test engineering, HR consulting and client-service roles, CX/AI optimization, and SMB/mid-market go-to-market (account executives, BDRs). Broader fit still includes payroll/compliance specialists, HR-domain product managers, and SOC II–mature infrastructure engineers — including international data residency (U.S., Canada, Ireland hosting is described on the site).
 
 For talent matching, BambooHR suits operators and engineers who want B2B SaaS with HR workflow depth rather than consumer growth loops.
 

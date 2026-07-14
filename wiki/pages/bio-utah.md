@@ -1,12 +1,11 @@
 # BIO Utah
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Late Stage Growth
-**Primary Location:** unknown
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
-**Updated:** 2026-07-14
 **Domain:** health-bio
 **Region:** statewide
 **Map Location:** 230 E South Temple, Suite 100, Salt Lake City, UT 84111
@@ -14,73 +13,44 @@
 **Location Precision:** exact
 **Location Source:** https://bioutah.org/
 **Website:** https://bioutah.org/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-BioUtah is a trade association dedicated exclusively to supporting the state's life sciences sector, which includes medical devices, biopharmaceuticals, diagnostics, and related fields. The organization fosters industry growth through networking opportunities, advocacy for favorable public policies, workforce development programs, and efforts to attract investments, positioning Utah as a hub for healthcare innovation and economic development.
+BioUtah is Utah's life sciences trade association supporting medical devices, biopharmaceuticals, diagnostics, and related sectors. Its official site offers membership benefits including BIO Business Solutions purchasing savings, legislative bill tracking, workforce and industry news, and sponsor-backed community programming.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Life Sciences and Healthcare
-- Software and Information Technology
+Utah life-sciences companies, suppliers, and ecosystem partners that need advocacy, industry networking, purchasing programs, and policy visibility.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Trade-association membership and advocacy
+- BIO Business Solutions cost-saving programs for lab and operations supplies
+- Legislative tracking, news, awards, and industry events
+- Partnership with [BIOHive Utah](biohive-utah.md) on ecosystem convening
 
-- Entrepreneurship Communities
-- Late Stage Growth
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Explore membership on the official site or contact BioUtah staff
 - [Official website](https://bioutah.org/) · https://bioutah.org/
 - Email: [kelvyn@bioutah.org](mailto:kelvyn@bioutah.org)
 - Startup State listing: https://startup.utah.gov/business-resource/bio-utah/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership dues apply; the site says BIO Business Solutions savings can exceed annual membership cost for some labs. Verify current membership tiers before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 2601 (slug `bio-utah`)
-- Topics: Entrepreneurship Communities, Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: Any
-- Industries: Life Sciences and Healthcare, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:39:35
-
+Utah life-sciences operators needing industry association resources rather than seed equity. Pair with [BIOHive Utah](biohive-utah.md) for community events and [Altitude Labs](altitude-labs.md) for accelerator support.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://bioutah.org/) · https://bioutah.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What membership tier fits an early-stage biotech startup versus a mature manufacturer?

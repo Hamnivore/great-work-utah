@@ -34,8 +34,7 @@ US Magnesium produces primary magnesium metal and related products from Great Sa
 Whether magnesium production continues under new ownership, and on what environmental terms, is an open question as of mid-2026.
 
 ## What They Need Now
-
-The public careers page does not list named openings (as of 2026-07-14); applications route through company HR email. In a stable operating scenario, needs would include chemical and electrochemical process engineers, metallurgists, industrial maintenance specialists, and environmental-compliance engineers. During bankruptcy and ownership transition, hiring posture, capital investment, and operational continuity are all uncertain — verify current status directly before treating any role as open.
+The public careers page routes applications through company HR email rather than named openings. In a stable operating scenario, needs would include chemical and electrochemical process engineers, metallurgists, industrial maintenance specialists, and environmental-compliance engineers. During bankruptcy and ownership transition, hiring posture, capital investment, and operational continuity are all uncertain — verify current status directly before treating any role as open.
 
 ## Who Could Help
 

@@ -1,223 +1,224 @@
-# resource — 219 pages
+# resource — 220 pages
 
 Grants, accelerators, facilities, capital paths, programs. One line per page; fetch the page for detail and evidence.
 
 - [1 Million Cups (Orem)](/pages/1-million-cups-orem.md) · `/pages/1-million-cups-orem.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [1 Million Cups (Salt Lake)](/pages/1-million-cups-salt-lake.md) · `/pages/1-million-cups-salt-lake.md` · Entrepreneurship Communities, Start a Business · conf:M
-- [1MC Salt Lake](/pages/1mc-salt-lake.md) · `/pages/1mc-salt-lake.md` · Entrepreneurship Communities, Funding, Other, Start a Business · conf:M
+- [1MC Salt Lake](/pages/1mc-salt-lake.md) · `/pages/1mc-salt-lake.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [47G - Utah Aerospace & Defense Association](/pages/47g-utah-aerospace-and-defense-association.md) · `/pages/47g-utah-aerospace-and-defense-association.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
-- [A Bolder Way Forward](/pages/a-bolder-way-forward.md) · `/pages/a-bolder-way-forward.md` · Other · conf:M
+- [A Bolder Way Forward](/pages/a-bolder-way-forward.md) · `/pages/a-bolder-way-forward.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [A-Tech home plans](/pages/a-tech-home-plans.md) · `/pages/a-tech-home-plans.md` · Other, Rural · conf:L
-- [Acceler8 Wasatch](/pages/acceler8-wasatch.md) · `/pages/acceler8-wasatch.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Acceler8 Wasatch](/pages/acceler8-wasatch.md) · `/pages/acceler8-wasatch.md` · Entrepreneurship Communities, Late Stage Growth · conf:L
 - [Ai Seminar for Small Businesses & Non-Profits](/pages/ai-seminar-for-small-businesses-and-non-profits.md) · `/pages/ai-seminar-for-small-businesses-and-non-profits.md` · Other, Any, Aerospace and Defense, Agriculture · conf:L
 - [Album](/pages/album.md) · `/pages/album.md` · Funding · conf:M
-- [Altitude Labs](/pages/altitude-labs.md) · `/pages/altitude-labs.md` · Entrepreneurship Communities, Relocate a Business to Utah · conf:M
-- [Utah APEX Accelerator](/pages/apex-accelerator.md) · `/pages/apex-accelerator.md` · Late Stage Growth · conf:M
-- [Apprenticeship Utah](/pages/apprenticeship-utah.md) · `/pages/apprenticeship-utah.md` · Late Stage Growth · conf:M
-- [Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md) · `/pages/atwood-innovation-plaza.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Bear Lake Regional Commission](/pages/bear-lake-regional-commission.md) · `/pages/bear-lake-regional-commission.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Bear Lake Valley Chamber of Commerce](/pages/bear-lake-valley-chamber-of-commerce.md) · `/pages/bear-lake-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Bear River Association of Governments](/pages/bear-river-association-of-governments.md) · `/pages/bear-river-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [BIG Chamber (Beaver, Iron, Garfield)](/pages/big-chamber-beaver-iron-garfield.md) · `/pages/big-chamber-beaver-iron-garfield.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Altitude Labs](/pages/altitude-labs.md) · `/pages/altitude-labs.md` · Entrepreneurship Communities, Funding, Relocate a Business to Utah · conf:M
+- [Utah APEX Accelerator](/pages/apex-accelerator.md) · `/pages/apex-accelerator.md` · Late Stage Growth, Marketing and Sales, Start a Business · conf:M
+- [Apprenticeship Utah](/pages/apprenticeship-utah.md) · `/pages/apprenticeship-utah.md` · Late Stage Growth, Start a Business · conf:M
+- [Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md) · `/pages/atwood-innovation-plaza.md` · Entrepreneurship Communities, Start a Business, Funding · conf:M
+- [Bear Lake Regional Commission](/pages/bear-lake-regional-commission.md) · `/pages/bear-lake-regional-commission.md` · Other · conf:M
+- [Bear Lake Valley Chamber of Commerce](/pages/bear-lake-valley-chamber-of-commerce.md) · `/pages/bear-lake-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [Bear River Association of Governments](/pages/bear-river-association-of-governments.md) · `/pages/bear-river-association-of-governments.md` · Funding, Late Stage Growth · conf:M
+- [BIG Chamber (Beaver, Iron, Garfield)](/pages/big-chamber-beaver-iron-garfield.md) · `/pages/big-chamber-beaver-iron-garfield.md` · Entrepreneurship Communities · conf:M
 - [BIO Utah](/pages/bio-utah.md) · `/pages/bio-utah.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [BIOHive Utah](/pages/biohive-utah.md) · `/pages/biohive-utah.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
-- [Box Elder Chamber of Commerce](/pages/box-elder-chamber-of-commerce.md) · `/pages/box-elder-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Brigham City Economic Development](/pages/brigham-city-economic-development.md) · `/pages/brigham-city-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Brigham Young University (BYU) - Rollins Center](/pages/brigham-young-university-byu-rollins-center.md) · `/pages/brigham-young-university-byu-rollins-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md) · `/pages/business-resource-center-davis-tech-college.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Business Resource Center - Utah Tech University](/pages/business-resource-center-utah-tech-university.md) · `/pages/business-resource-center-utah-tech-university.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Business Technical Assistance Center](/pages/business-technical-assistance-center.md) · `/pages/business-technical-assistance-center.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Cache Valley Chamber of Commerce](/pages/cache-valley-chamber-of-commerce.md) · `/pages/cache-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Carbon County Chamber of Commerce](/pages/carbon-county-chamber-of-commerce.md) · `/pages/carbon-county-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Carbon County Economic Development](/pages/carbon-county-economic-development.md) · `/pages/carbon-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Cedar City Area Chamber of Commerce](/pages/cedar-city-area-chamber-of-commerce.md) · `/pages/cedar-city-area-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Box Elder Chamber of Commerce](/pages/box-elder-chamber-of-commerce.md) · `/pages/box-elder-chamber-of-commerce.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [Brigham City Economic Development](/pages/brigham-city-economic-development.md) · `/pages/brigham-city-economic-development.md` · Relocate a Business to Utah, Start a Business · conf:M
+- [Brigham Young University (BYU) - Rollins Center](/pages/brigham-young-university-byu-rollins-center.md) · `/pages/brigham-young-university-byu-rollins-center.md` · Entrepreneurship Communities, Start a Business, Funding · conf:M
+- [Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md) · `/pages/business-resource-center-davis-tech-college.md` · Entrepreneurship Communities, Start a Business, Funding, Taxes and Finance · conf:M
+- [Business Resource Center - Utah Tech University](/pages/business-resource-center-utah-tech-university.md) · `/pages/business-resource-center-utah-tech-university.md` · Entrepreneurship Communities, Start a Business, Funding, International Trade, Taxes and Finance · conf:M
+- [Business Technical Assistance Center](/pages/business-technical-assistance-center.md) · `/pages/business-technical-assistance-center.md` · Entrepreneurship Communities, Start a Business · conf:L
+- [Cache Valley Chamber of Commerce](/pages/cache-valley-chamber-of-commerce.md) · `/pages/cache-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Marketing and Sales, Start a Business · conf:M
+- [Carbon County Chamber of Commerce](/pages/carbon-county-chamber-of-commerce.md) · `/pages/carbon-county-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [Carbon County Economic Development](/pages/carbon-county-economic-development.md) · `/pages/carbon-county-economic-development.md` · Entrepreneurship Communities, Funding · conf:M
+- [Cedar City Area Chamber of Commerce](/pages/cedar-city-area-chamber-of-commerce.md) · `/pages/cedar-city-area-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
 - [Church and State](/pages/church-and-state.md) · `/pages/church-and-state.md` · Entrepreneurship Communities · conf:M
-- [Clearfield Job Corps](/pages/clearfield-job-corps.md) · `/pages/clearfield-job-corps.md` · Late Stage Growth · conf:M
+- [Clearfield Job Corps](/pages/clearfield-job-corps.md) · `/pages/clearfield-job-corps.md` · Late Stage Growth, Start a Business · conf:M
 - [Convoi Ventures](/pages/convoi-ventures.md) · `/pages/convoi-ventures.md` · Funding · conf:M
 - [Coworking Space in Salt Lake City - Offices.net](/pages/coworking-space-in-salt-lake-city-offices-net.md) · `/pages/coworking-space-in-salt-lake-city-offices-net.md` · Entrepreneurship Communities · conf:M
 - [Cross Creek](/pages/cross-creek.md) · `/pages/cross-creek.md` · Funding, Late Stage Growth · conf:M
-- [Custom Fit Training](/pages/custom-fit-training.md) · `/pages/custom-fit-training.md` · Late Stage Growth · conf:M
+- [Custom Fit Training](/pages/custom-fit-training.md) · `/pages/custom-fit-training.md` · Other · conf:M
 - [Cynosure](/pages/cynosure.md) · `/pages/cynosure.md` · Funding, Late Stage Growth · conf:M
-- [Davis Chamber of Commerce](/pages/davis-chamber-of-commerce.md) · `/pages/davis-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Davis County Economic Development](/pages/davis-county-economic-development.md) · `/pages/davis-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Delta Area Chamber of Commerce](/pages/delta-area-chamber-of-commerce.md) · `/pages/delta-area-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [EDCUtah - Economic Development Corporation of Utah](/pages/edcutah-economic-development-corporation-of-utah.md) · `/pages/edcutah-economic-development-corporation-of-utah.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Emery County Economic Development](/pages/emery-county-economic-development.md) · `/pages/emery-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Davis Chamber of Commerce](/pages/davis-chamber-of-commerce.md) · `/pages/davis-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [Davis County Economic Development](/pages/davis-county-economic-development.md) · `/pages/davis-county-economic-development.md` · Funding, Late Stage Growth, Relocate a Business to Utah, Start a Business · conf:M
+- [Delta Area Chamber of Commerce](/pages/delta-area-chamber-of-commerce.md) · `/pages/delta-area-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [EDCUtah - Economic Development Corporation of Utah](/pages/edcutah-economic-development-corporation-of-utah.md) · `/pages/edcutah-economic-development-corporation-of-utah.md` · Late Stage Growth, Relocate a Business to Utah, Marketing and Sales · conf:M
+- [Emery County Economic Development](/pages/emery-county-economic-development.md) · `/pages/emery-county-economic-development.md` · Entrepreneurship Communities, Funding · conf:M
 - [Epic Ventures](/pages/epic-ventures.md) · `/pages/epic-ventures.md` · Funding · conf:M
-- [Escalante City Innovation Center](/pages/escalante-city-innovation-center.md) · `/pages/escalante-city-innovation-center.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [EVENT: Business Forward](/pages/event-business-forward.md) · `/pages/event-business-forward.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [EVENT: Grand Summit Moab](/pages/event-grand-summit-moab.md) · `/pages/event-grand-summit-moab.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [EVENT: Mountain West Capital Network](/pages/event-mountain-west-capital-network.md) · `/pages/event-mountain-west-capital-network.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [EVENT: One Utah Summit](/pages/event-one-utah-summit.md) · `/pages/event-one-utah-summit.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [EVENT: Raising Kane Business Summit](/pages/event-raising-kane-business-summit.md) · `/pages/event-raising-kane-business-summit.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [EVENT: Silicon Slopes Tech Summit](/pages/event-silicon-slopes-tech-summit.md) · `/pages/event-silicon-slopes-tech-summit.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [EVENT: Utah Tech Week](/pages/event-utah-tech-week.md) · `/pages/event-utah-tech-week.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [EVENT: What's Up Down South - Economic Summit](/pages/event-what-s-up-down-south-economic-summit.md) · `/pages/event-what-s-up-down-south-economic-summit.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Federal Economic Development Administration](/pages/federal-economic-development-administration.md) · `/pages/federal-economic-development-administration.md` · Other · conf:M
+- [Escalante City Innovation Center](/pages/escalante-city-innovation-center.md) · `/pages/escalante-city-innovation-center.md` · Entrepreneurship Communities, Start a Business · conf:L
+- [EVENT: Business Forward](/pages/event-business-forward.md) · `/pages/event-business-forward.md` · Late Stage Growth, Entrepreneurship Communities, Marketing and Sales · conf:M
+- [EVENT: Grand Summit Moab](/pages/event-grand-summit-moab.md) · `/pages/event-grand-summit-moab.md` · Entrepreneurship Communities, Marketing and Sales · conf:M
+- [EVENT: Mountain West Capital Network](/pages/event-mountain-west-capital-network.md) · `/pages/event-mountain-west-capital-network.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [EVENT: One Utah Summit](/pages/event-one-utah-summit.md) · `/pages/event-one-utah-summit.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [EVENT: Raising Kane Business Summit](/pages/event-raising-kane-business-summit.md) · `/pages/event-raising-kane-business-summit.md` · Entrepreneurship Communities, Marketing and Sales · conf:M
+- [EVENT: Silicon Slopes Tech Summit](/pages/event-silicon-slopes-tech-summit.md) · `/pages/event-silicon-slopes-tech-summit.md` · Entrepreneurship Communities, Late Stage Growth, Funding · conf:M
+- [EVENT: Utah Tech Week](/pages/event-utah-tech-week.md) · `/pages/event-utah-tech-week.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [EVENT: What's Up Down South - Economic Summit](/pages/event-what-s-up-down-south-economic-summit.md) · `/pages/event-what-s-up-down-south-economic-summit.md` · Entrepreneurship Communities, Marketing and Sales, Taxes and Finance · conf:M
+- [Federal Economic Development Administration](/pages/federal-economic-development-administration.md) · `/pages/federal-economic-development-administration.md` · Funding · conf:M
 - [First Step Entrepreneur](/pages/first-step-entrepreneur.md) · `/pages/first-step-entrepreneur.md` · Entrepreneurship Communities, Any, Aerospace and Defense, Agriculture · conf:L
 - [Five County Association of Governments](/pages/five-county-association-of-governments.md) · `/pages/five-county-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Flaming Gorge Chamber of Commerce](/pages/flaming-gorge-chamber-of-commerce.md) · `/pages/flaming-gorge-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Flaming Gorge Chamber of Commerce](/pages/flaming-gorge-chamber-of-commerce.md) · `/pages/flaming-gorge-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
 - [FSTEP Idea Explorer](/pages/fstep-idea-explorer.md) · `/pages/fstep-idea-explorer.md` · Start a Business, Any, Aerospace and Defense, Agriculture · conf:L
 - [FutureReady Utah](/pages/futureready-utah.md) · `/pages/futureready-utah.md` · Other · conf:M
-- [Get Started: Business Idea Challenge](/pages/get-started-business-idea-challenge.md) · `/pages/get-started-business-idea-challenge.md` · Funding, Start a Business · conf:M
-- [Goldman Sachs 1000 Small businesses](/pages/goldman-sachs-1000-small-businesses.md) · `/pages/goldman-sachs-1000-small-businesses.md` · Late Stage Growth · conf:M
-- [Grand County Economic Development](/pages/grand-county-economic-development.md) · `/pages/grand-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Greater Nephi Chamber of Commerce](/pages/greater-nephi-chamber-of-commerce.md) · `/pages/greater-nephi-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Get Started: Business Idea Challenge](/pages/get-started-business-idea-challenge.md) · `/pages/get-started-business-idea-challenge.md` · Funding, Start a Business · conf:L
+- [Goldman Sachs 1000 Small businesses](/pages/goldman-sachs-1000-small-businesses.md) · `/pages/goldman-sachs-1000-small-businesses.md` · Late Stage Growth, Taxes and Finance · conf:M
+- [Grand County Economic Development](/pages/grand-county-economic-development.md) · `/pages/grand-county-economic-development.md` · Late Stage Growth, Relocate a Business to Utah · conf:M
+- [Greater Nephi Chamber of Commerce](/pages/greater-nephi-chamber-of-commerce.md) · `/pages/greater-nephi-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
 - [Grix](/pages/grix.md) · `/pages/grix.md` · Funding · conf:M
-- [Grow Utah](/pages/grow-utah.md) · `/pages/grow-utah.md` · Entrepreneurship Communities, Funding · conf:M
-- [Heber City Community Alliance for Main Street](/pages/heber-city-community-alliance-for-main-street.md) · `/pages/heber-city-community-alliance-for-main-street.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Heber Valley Chamber of Commerce](/pages/heber-valley-chamber-of-commerce.md) · `/pages/heber-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Heber Valley Economic Development](/pages/heber-valley-economic-development.md) · `/pages/heber-valley-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Hurricane Valley Chamber of Commerce](/pages/hurricane-valley-chamber-of-commerce.md) · `/pages/hurricane-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [iHub](/pages/ihub.md) · `/pages/ihub.md` · Entrepreneurship Communities, Funding, Start a Business · conf:M
+- [Grow Utah](/pages/grow-utah.md) · `/pages/grow-utah.md` · Entrepreneurship Communities, Funding, Start a Business · conf:M
+- [Heber City Community Alliance for Main Street](/pages/heber-city-community-alliance-for-main-street.md) · `/pages/heber-city-community-alliance-for-main-street.md` · Entrepreneurship Communities · conf:M
+- [Heber Valley Chamber of Commerce](/pages/heber-valley-chamber-of-commerce.md) · `/pages/heber-valley-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [Heber Valley Economic Development](/pages/heber-valley-economic-development.md) · `/pages/heber-valley-economic-development.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Hurricane Valley Chamber of Commerce](/pages/hurricane-valley-chamber-of-commerce.md) · `/pages/hurricane-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Marketing and Sales · conf:M
+- [iHub](/pages/ihub.md) · `/pages/ihub.md` · Start a Business, Entrepreneurship Communities, Funding · conf:M
 - [iMpact Utah](/pages/impact-utah.md) · `/pages/impact-utah.md` · Entrepreneurship Communities, Late Stage Growth · conf:L
-- [Indie Square](/pages/indie-square.md) · `/pages/indie-square.md` · Entrepreneurship Communities, Other · conf:M
+- [Indie Square](/pages/indie-square.md) · `/pages/indie-square.md` · Entrepreneurship Communities · conf:M
 - [International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md) · `/pages/international-trade-and-diplomacy.md` · exports, international expansion, trade missions, foreign investment, diplomacy · conf:M
-- [Iron County Economic Development](/pages/iron-county-economic-development.md) · `/pages/iron-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Juab County Economic Development](/pages/juab-county-economic-development.md) · `/pages/juab-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Iron County Economic Development](/pages/iron-county-economic-development.md) · `/pages/iron-county-economic-development.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Juab County Economic Development](/pages/juab-county-economic-development.md) · `/pages/juab-county-economic-development.md` · Entrepreneurship Communities, Funding · conf:M
+- [JustBuild](/pages/justbuild.md) · `/pages/justbuild.md` · founder community, AI builders, cofounder discovery, hackathons, coworking, Slack · conf:M
 - [Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md) · `/pages/kem-c-gardner-policy-institute.md` · Other · conf:M
 - [Kickstart Fund](/pages/kickstart-fund.md) · `/pages/kickstart-fund.md` · Funding · conf:M
 - [Kiln](/pages/kiln.md) · `/pages/kiln.md` · Entrepreneurship Communities · conf:M
 - [Kinect Capital](/pages/kinect-capital.md) · `/pages/kinect-capital.md` · Entrepreneurship Communities, Funding · conf:M
-- [LiaLaunch](/pages/lialaunch.md) · `/pages/lialaunch.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Logan City Economic Development](/pages/logan-city-economic-development.md) · `/pages/logan-city-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Make Salt Lake](/pages/make-salt-lake.md) · `/pages/make-salt-lake.md` · Entrepreneurship Communities · conf:M
-- [Make Utah](/pages/make-utah.md) · `/pages/make-utah.md` · Entrepreneurship Communities · conf:M
-- [Maven CREATE](/pages/maven-create.md) · `/pages/maven-create.md` · Entrepreneurship Communities · conf:M
+- [LiaLaunch](/pages/lialaunch.md) · `/pages/lialaunch.md` · Entrepreneurship Communities, Funding · conf:M
+- [Logan City Economic Development](/pages/logan-city-economic-development.md) · `/pages/logan-city-economic-development.md` · Relocate a Business to Utah, Start a Business · conf:M
+- [Make Salt Lake](/pages/make-salt-lake.md) · `/pages/make-salt-lake.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [Make Utah](/pages/make-utah.md) · `/pages/make-utah.md` · Entrepreneurship Communities, Start a Business, Late Stage Growth · conf:M
+- [Maven CREATE](/pages/maven-create.md) · `/pages/maven-create.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [Mercato Partners](/pages/mercato-partners.md) · `/pages/mercato-partners.md` · Funding, Late Stage Growth · conf:M
-- [Moab Chamber of Commerce](/pages/moab-chamber-of-commerce.md) · `/pages/moab-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Moab Chamber of Commerce](/pages/moab-chamber-of-commerce.md) · `/pages/moab-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
 - [Monarch](/pages/monarch.md) · `/pages/monarch.md` · Entrepreneurship Communities · conf:M
-- [Monticello Coworking Space](/pages/monticello-coworking-space.md) · `/pages/monticello-coworking-space.md` · Entrepreneurship Communities · conf:M
-- [Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md) · `/pages/morgan-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Morgan County Economic Development](/pages/morgan-county-economic-development.md) · `/pages/morgan-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Monticello Coworking Space](/pages/monticello-coworking-space.md) · `/pages/monticello-coworking-space.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md) · `/pages/morgan-chamber-of-commerce.md` · Entrepreneurship Communities · conf:L
+- [Morgan County Economic Development](/pages/morgan-county-economic-development.md) · `/pages/morgan-county-economic-development.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [Mountain Land Association of Governments' Revolving Loan Fund (RLF)](/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md) · `/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md` · Funding · conf:M
-- [Mountainland Association of Governments](/pages/mountainland-association-of-governments.md) · `/pages/mountainland-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md) · `/pages/northern-utah-economic-alliance.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Mountainland Association of Governments](/pages/mountainland-association-of-governments.md) · `/pages/mountainland-association-of-governments.md` · Funding, Late Stage Growth · conf:M
+- [Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md) · `/pages/northern-utah-economic-alliance.md` · Late Stage Growth, Relocate a Business to Utah, Marketing and Sales · conf:M
 - [Nucleus Fund](/pages/nucleus-fund.md) · `/pages/nucleus-fund.md` · early-stage capital, deep tech, university spinouts, commercialization · conf:M
 - [Nucleus Grow](/pages/nucleus-grow.md) · `/pages/nucleus-grow.md` · SBIR, STTR, non-dilutive funding, deep tech, research commercialization · conf:M
 - [Nucleus MarketEdge](/pages/nucleus-marketedge.md) · `/pages/nucleus-marketedge.md` · research commercialization, professors, PhDs, postdocs, market discovery · conf:M
-- [Ogden-Weber Chamber of Commerce](/pages/ogden-weber-chamber-of-commerce.md) · `/pages/ogden-weber-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Ogden-Weber Chamber of Commerce](/pages/ogden-weber-chamber-of-commerce.md) · `/pages/ogden-weber-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
 - [Pacific Island Chamber of Commerce (PICC)](/pages/pacific-island-chamber-of-commerce-picc.md) · `/pages/pacific-island-chamber-of-commerce-picc.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Park City Angels](/pages/park-city-angels.md) · `/pages/park-city-angels.md` · Funding · conf:M
-- [Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md) · `/pages/park-city-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md) · `/pages/park-city-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
 - [Pelion Ventures](/pages/pelion-ventures.md) · `/pages/pelion-ventures.md` · Funding · conf:M
 - [Peterson Ventures](/pages/peterson-ventures.md) · `/pages/peterson-ventures.md` · Funding · conf:M
-- [Pitted Ventures](/pages/pitted-ventures.md) · `/pages/pitted-ventures.md` · Funding · conf:M
-- [Portal Warehousing](/pages/portal-warehousing.md) · `/pages/portal-warehousing.md` · Entrepreneurship Communities · conf:M
+- [Pitted Ventures](/pages/pitted-ventures.md) · `/pages/pitted-ventures.md` · Funding · conf:L
+- [Portal Warehousing](/pages/portal-warehousing.md) · `/pages/portal-warehousing.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [R6 Regional Council](/pages/r6-regional-council.md) · `/pages/r6-regional-council.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Red Rock Angels](/pages/red-rock-angels.md) · `/pages/red-rock-angels.md` · Funding · conf:M
-- [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `/pages/renewable-tech-ventures.md` · Funding, Other · conf:M
-- [Revolving Loan Fund Program (RLF) - R6](/pages/revolving-loan-fund-program-rlf-r6.md) · `/pages/revolving-loan-fund-program-rlf-r6.md` · Funding · conf:M
-- [Revolving Loan Fund Program (RLF) - South Eastern Utah](/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md) · `/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md` · Funding · conf:M
+- [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `/pages/renewable-tech-ventures.md` · Funding · conf:M
+- [Revolving Loan Fund Program (RLF) - R6](/pages/revolving-loan-fund-program-rlf-r6.md) · `/pages/revolving-loan-fund-program-rlf-r6.md` · Funding · conf:L
+- [Revolving Loan Fund Program (RLF) - South Eastern Utah](/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md) · `/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md` · Funding · conf:L
 - [RevRoad](/pages/revroad.md) · `/pages/revroad.md` · Funding · conf:M
-- [Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md) · `/pages/richfield-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md) · `/pages/rural-utah-chamber-coalition.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Salina Chamber](/pages/salina-chamber.md) · `/pages/salina-chamber.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md) · `/pages/richfield-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md) · `/pages/rural-utah-chamber-coalition.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Salina Chamber](/pages/salina-chamber.md) · `/pages/salina-chamber.md` · Entrepreneurship Communities · conf:L
 - [Salt Lake Angels](/pages/salt-lake-angels.md) · `/pages/salt-lake-angels.md` · Funding · conf:M
-- [Salt Lake Chamber](/pages/salt-lake-chamber.md) · `/pages/salt-lake-chamber.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Salt Lake City Office Space for Rent](/pages/salt-lake-city-office-space-for-rent.md) · `/pages/salt-lake-city-office-space-for-rent.md` · Entrepreneurship Communities, Start a Business · conf:M
-- [Salt Lake Community College (SLCC) - The Mill](/pages/salt-lake-community-college-slcc-the-mill.md) · `/pages/salt-lake-community-college-slcc-the-mill.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Salt Lake Chamber](/pages/salt-lake-chamber.md) · `/pages/salt-lake-chamber.md` · Entrepreneurship Communities, Late Stage Growth, Marketing and Sales · conf:M
+- [Salt Lake City Office Space for Rent](/pages/salt-lake-city-office-space-for-rent.md) · `/pages/salt-lake-city-office-space-for-rent.md` · Start a Business · conf:M
+- [Salt Lake Community College (SLCC) - The Mill](/pages/salt-lake-community-college-slcc-the-mill.md) · `/pages/salt-lake-community-college-slcc-the-mill.md` · Entrepreneurship Communities, Start a Business, Funding, Marketing and Sales · conf:M
 - [Salt Mine](/pages/salt-mine.md) · `/pages/salt-mine.md` · Entrepreneurship Communities · conf:M
-- [San Juan County Chamber of Commerce](/pages/san-juan-county-chamber-of-commerce.md) · `/pages/san-juan-county-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [San Juan County Economic Development](/pages/san-juan-county-economic-development.md) · `/pages/san-juan-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Sanpete Chamber of Commerce](/pages/sanpete-chamber-of-commerce.md) · `/pages/sanpete-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [San Juan County Chamber of Commerce](/pages/san-juan-county-chamber-of-commerce.md) · `/pages/san-juan-county-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [San Juan County Economic Development](/pages/san-juan-county-economic-development.md) · `/pages/san-juan-county-economic-development.md` · Entrepreneurship Communities, Funding · conf:M
+- [Sanpete Chamber of Commerce](/pages/sanpete-chamber-of-commerce.md) · `/pages/sanpete-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
 - [Savory Fund](/pages/savory-fund.md) · `/pages/savory-fund.md` · Funding, Late Stage Growth · conf:M
 - [SBA Thrive](/pages/sba-thrive.md) · `/pages/sba-thrive.md` · Late Stage Growth · conf:M
 - [SBA Utah District Office](/pages/sba-utah-district-office.md) · `/pages/sba-utah-district-office.md` · Funding, Late Stage Growth, Start a Business · conf:H
 - [SCORE Utah](/pages/score-utah.md) · `/pages/score-utah.md` · Close or Exit a Business, Funding, Marketing and Sales · conf:M
-- [Sevier County Economic Development](/pages/sevier-county-economic-development.md) · `/pages/sevier-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Sevier County Economic Development](/pages/sevier-county-economic-development.md) · `/pages/sevier-county-economic-development.md` · Entrepreneurship Communities, Funding · conf:M
 - [Signal Peak Ventures](/pages/signal-peak-ventures.md) · `/pages/signal-peak-ventures.md` · Funding · conf:M
 - [Silicon Slopes](/pages/silicon-slopes.md) · `/pages/silicon-slopes.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
-- [Six County Association of Governments](/pages/six-county-association-of-governments.md) · `/pages/six-county-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Snow College - GRIT Center](/pages/snow-college-grit-center.md) · `/pages/snow-college-grit-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Sorenson Impact Fund](/pages/sorenson-impact-fund.md) · `/pages/sorenson-impact-fund.md` · Funding, Other · conf:M
-- [SoUtah Economic Alliance](/pages/soutah-economic-alliance.md) · `/pages/soutah-economic-alliance.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Southeastern Association of Local Governments](/pages/southeastern-association-of-local-governments.md) · `/pages/southeastern-association-of-local-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Southeastern Utah Association of Local Governments - Economic Development](/pages/southeastern-utah-association-of-local-governments-economic-development.md) · `/pages/southeastern-utah-association-of-local-governments-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Southern Utah University Cedar City Business & Innovation Center](/pages/southern-utah-university-cedar-city-business-and-innovation-center.md) · `/pages/southern-utah-university-cedar-city-business-and-innovation-center.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship](/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md) · `/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md) · `/pages/st-george-area-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [St. George City Economic Development](/pages/st-george-city-economic-development.md) · `/pages/st-george-city-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [St George Downtown Farmers Market](/pages/st-george-downtown-farmers-market.md) · `/pages/st-george-downtown-farmers-market.md` · Entrepreneurship Communities, Late Stage Growth, Other · conf:M
+- [Six County Association of Governments](/pages/six-county-association-of-governments.md) · `/pages/six-county-association-of-governments.md` · Funding, Late Stage Growth · conf:M
+- [Snow College - GRIT Center](/pages/snow-college-grit-center.md) · `/pages/snow-college-grit-center.md` · Entrepreneurship Communities, Start a Business, Funding · conf:M
+- [Sorenson Impact Fund](/pages/sorenson-impact-fund.md) · `/pages/sorenson-impact-fund.md` · Funding · conf:M
+- [SoUtah Economic Alliance](/pages/soutah-economic-alliance.md) · `/pages/soutah-economic-alliance.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Southeastern Association of Local Governments](/pages/southeastern-association-of-local-governments.md) · `/pages/southeastern-association-of-local-governments.md` · Funding, Late Stage Growth · conf:M
+- [Southeastern Utah Association of Local Governments - Economic Development](/pages/southeastern-utah-association-of-local-governments-economic-development.md) · `/pages/southeastern-utah-association-of-local-governments-economic-development.md` · Entrepreneurship Communities, Funding · conf:M
+- [Southern Utah University Cedar City Business & Innovation Center](/pages/southern-utah-university-cedar-city-business-and-innovation-center.md) · `/pages/southern-utah-university-cedar-city-business-and-innovation-center.md` · Entrepreneurship Communities, Start a Business, Funding · conf:M
+- [Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship](/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md) · `/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md` · Entrepreneurship Communities, Start a Business, Marketing and Sales · conf:M
+- [St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md) · `/pages/st-george-area-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [St. George City Economic Development](/pages/st-george-city-economic-development.md) · `/pages/st-george-city-economic-development.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [St George Downtown Farmers Market](/pages/st-george-downtown-farmers-market.md) · `/pages/st-george-downtown-farmers-market.md` · Entrepreneurship Communities, Marketing and Sales · conf:M
 - [Startup Ignition Ventures](/pages/startup-ignition-ventures.md) · `/pages/startup-ignition-ventures.md` · Funding · conf:M
 - [Startup Ogden](/pages/startup-ogden.md) · `/pages/startup-ogden.md` · Entrepreneurship Communities · conf:M
 - [Startup State Resource Filter](/pages/startup-state-resource-list.md) · `/pages/startup-state-resource-list.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [STOPfakes.gov](/pages/stopfakes-gov.md) · `/pages/stopfakes-gov.md` · International Trade · conf:M
 - [STRIVE](/pages/strive.md) · `/pages/strive.md` · Entrepreneurship Communities, Start a Business · conf:M
-- [Suazo Business Center](/pages/suazo-business-center.md) · `/pages/suazo-business-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Summit County Economic Development](/pages/summit-county-economic-development.md) · `/pages/summit-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Suazo Business Center](/pages/suazo-business-center.md) · `/pages/suazo-business-center.md` · Funding, Start a Business, Taxes and Finance · conf:M
+- [Summit County Economic Development](/pages/summit-county-economic-development.md) · `/pages/summit-county-economic-development.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [Talent Ready Utah](/pages/talent-ready-utah.md) · `/pages/talent-ready-utah.md` · Late Stage Growth · conf:M
 - [Tandem Ventures](/pages/tandem-ventures.md) · `/pages/tandem-ventures.md` · Funding · conf:M
-- [Tech Ridge](/pages/tech-ridge.md) · `/pages/tech-ridge.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Teen Entrepreneur Support Center](/pages/teen-entrepreneur-support-center.md) · `/pages/teen-entrepreneur-support-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [The Hub at Bridgerland Technical College](/pages/the-hub-at-bridgerland-technical-college.md) · `/pages/the-hub-at-bridgerland-technical-college.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [The Mill Entrepreneurship Center](/pages/the-mill-entrepreneurship-center.md) · `/pages/the-mill-entrepreneurship-center.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
+- [Tech Ridge](/pages/tech-ridge.md) · `/pages/tech-ridge.md` · Relocate a Business to Utah, Start a Business, Entrepreneurship Communities · conf:M
+- [Teen Entrepreneur Support Center](/pages/teen-entrepreneur-support-center.md) · `/pages/teen-entrepreneur-support-center.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [The Hub at Bridgerland Technical College](/pages/the-hub-at-bridgerland-technical-college.md) · `/pages/the-hub-at-bridgerland-technical-college.md` · Entrepreneurship Communities, Start a Business, Funding · conf:M
+- [The Mill Entrepreneurship Center](/pages/the-mill-entrepreneurship-center.md) · `/pages/the-mill-entrepreneurship-center.md` · Entrepreneurship Communities, Start a Business, Funding, Marketing and Sales · conf:M
 - [The Shop](/pages/the-shop.md) · `/pages/the-shop.md` · Entrepreneurship Communities · conf:M
 - [U.S. Commercial Service](/pages/u-s-commercial-service.md) · `/pages/u-s-commercial-service.md` · International Trade · conf:M
-- [Uinta Basin Association of Governments](/pages/uinta-basin-association-of-governments.md) · `/pages/uinta-basin-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Uinta Basin Tech - Entrepreneur Center](/pages/uinta-basin-tech-entrepreneur-center.md) · `/pages/uinta-basin-tech-entrepreneur-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Uintah Basin Economic Development District](/pages/uintah-basin-economic-development-district.md) · `/pages/uintah-basin-economic-development-district.md` · Close or Exit a Business, Entrepreneurship Communities, Funding · conf:M
-- [Uintah County Economic Development](/pages/uintah-county-economic-development.md) · `/pages/uintah-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Uinta Basin Association of Governments](/pages/uinta-basin-association-of-governments.md) · `/pages/uinta-basin-association-of-governments.md` · Funding, Late Stage Growth · conf:M
+- [Uinta Basin Tech - Entrepreneur Center](/pages/uinta-basin-tech-entrepreneur-center.md) · `/pages/uinta-basin-tech-entrepreneur-center.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [Uintah Basin Economic Development District](/pages/uintah-basin-economic-development-district.md) · `/pages/uintah-basin-economic-development-district.md` · Entrepreneurship Communities, Funding · conf:M
+- [Uintah County Economic Development](/pages/uintah-county-economic-development.md) · `/pages/uintah-county-economic-development.md` · Funding, Late Stage Growth, Start a Business · conf:M
 - [University of Utah Lassonde Entrepreneurship Institute](/pages/university-of-utah-lassonde-entrepreneurship-institute.md) · `/pages/university-of-utah-lassonde-entrepreneurship-institute.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:H
-- [USU Remote Online Initiative](/pages/usu-remote-online-initiative.md) · `/pages/usu-remote-online-initiative.md` · Late Stage Growth · conf:M
-- [Utah Alliance for Economic Development](/pages/utah-alliance-for-economic-development.md) · `/pages/utah-alliance-for-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Utah Asian Chamber of Commerce (UACC)](/pages/utah-asian-chamber-of-commerce-uacc.md) · `/pages/utah-asian-chamber-of-commerce-uacc.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Utah Association of Counties (UAC)](/pages/utah-association-of-counties-uac.md) · `/pages/utah-association-of-counties-uac.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Utah Black Chamber](/pages/utah-black-chamber.md) · `/pages/utah-black-chamber.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [USU Remote Online Initiative](/pages/usu-remote-online-initiative.md) · `/pages/usu-remote-online-initiative.md` · Late Stage Growth, Start a Business · conf:M
+- [Utah Alliance for Economic Development](/pages/utah-alliance-for-economic-development.md) · `/pages/utah-alliance-for-economic-development.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Utah Asian Chamber of Commerce (UACC)](/pages/utah-asian-chamber-of-commerce-uacc.md) · `/pages/utah-asian-chamber-of-commerce-uacc.md` · Entrepreneurship Communities, Marketing and Sales, Start a Business · conf:M
+- [Utah Association of Counties (UAC)](/pages/utah-association-of-counties-uac.md) · `/pages/utah-association-of-counties-uac.md` · Other · conf:M
+- [Utah Black Chamber](/pages/utah-black-chamber.md) · `/pages/utah-black-chamber.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [Utah Center For Global Talent](/pages/utah-center-for-global-talent.md) · `/pages/utah-center-for-global-talent.md` · workforce, global talent, immigrant workforce, hiring, talent pathways · conf:M
-- [Utah Center for Rural Development](/pages/utah-center-for-rural-development.md) · `/pages/utah-center-for-rural-development.md` · Entrepreneurship Communities, Late Stage Growth, Other · conf:M
-- [Utah Chinese Association](/pages/utah-chinese-association.md) · `/pages/utah-chinese-association.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Center for Rural Development](/pages/utah-center-for-rural-development.md) · `/pages/utah-center-for-rural-development.md` · Funding, Late Stage Growth · conf:M
+- [Utah Chinese Association](/pages/utah-chinese-association.md) · `/pages/utah-chinese-association.md` · Entrepreneurship Communities · conf:L
 - [Utah Defense Alliance](/pages/utah-defense-alliance.md) · `/pages/utah-defense-alliance.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
-- [Utah Department of Agriculture & Food](/pages/utah-department-of-agriculture-and-food.md) · `/pages/utah-department-of-agriculture-and-food.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Utah Department of Workforce Services](/pages/utah-department-of-workforce-services.md) · `/pages/utah-department-of-workforce-services.md` · Late Stage Growth · conf:M
-- [Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md) · `/pages/utah-digital-entertainment-network.md` · Entrepreneurship Communities, Funding, Other, Start a Business · conf:M
-- [Utah Division of Outdoor Recreation](/pages/utah-division-of-outdoor-recreation.md) · `/pages/utah-division-of-outdoor-recreation.md` · Entrepreneurship Communities · conf:M
-- [Utah Farmers Market Network](/pages/utah-farmers-market-network.md) · `/pages/utah-farmers-market-network.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
-- [Utah Film Commission](/pages/utah-film-commission.md) · `/pages/utah-film-commission.md` · Entrepreneurship Communities · conf:M
-- [Utah Governor's Office of Economic Opportunity](/pages/utah-governor-s-office-of-economic-opportunity.md) · `/pages/utah-governor-s-office-of-economic-opportunity.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Utah Hispanic Chamber of Commerce](/pages/utah-hispanic-chamber-of-commerce.md) · `/pages/utah-hispanic-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Utah Inland Port Authority](/pages/utah-inland-port-authority.md) · `/pages/utah-inland-port-authority.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah Department of Agriculture & Food](/pages/utah-department-of-agriculture-and-food.md) · `/pages/utah-department-of-agriculture-and-food.md` · Funding, Entrepreneurship Communities · conf:M
+- [Utah Department of Workforce Services](/pages/utah-department-of-workforce-services.md) · `/pages/utah-department-of-workforce-services.md` · Late Stage Growth, Start a Business · conf:M
+- [Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md) · `/pages/utah-digital-entertainment-network.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [Utah Division of Outdoor Recreation](/pages/utah-division-of-outdoor-recreation.md) · `/pages/utah-division-of-outdoor-recreation.md` · Entrepreneurship Communities, Funding · conf:M
+- [Utah Farmers Market Network](/pages/utah-farmers-market-network.md) · `/pages/utah-farmers-market-network.md` · Entrepreneurship Communities, Marketing and Sales, Start a Business · conf:M
+- [Utah Film Commission](/pages/utah-film-commission.md) · `/pages/utah-film-commission.md` · Entrepreneurship Communities, Marketing and Sales · conf:M
+- [Utah Governor's Office of Economic Opportunity](/pages/utah-governor-s-office-of-economic-opportunity.md) · `/pages/utah-governor-s-office-of-economic-opportunity.md` · Funding, Start a Business, Relocate a Business to Utah, Taxes and Finance, International Trade · conf:M
+- [Utah Hispanic Chamber of Commerce](/pages/utah-hispanic-chamber-of-commerce.md) · `/pages/utah-hispanic-chamber-of-commerce.md` · Entrepreneurship Communities, Marketing and Sales, Start a Business · conf:M
+- [Utah Inland Port Authority](/pages/utah-inland-port-authority.md) · `/pages/utah-inland-port-authority.md` · Late Stage Growth, Relocate a Business to Utah · conf:M
 - [Utah Innovation Center](/pages/utah-innovation-center.md) · `/pages/utah-innovation-center.md` · Funding · conf:M
 - [Utah Innovation Fund](/pages/utah-innovation-fund.md) · `/pages/utah-innovation-fund.md` · Funding · conf:M
-- [Utah Korean Chamber of Commerce](/pages/utah-korean-chamber-of-commerce.md) · `/pages/utah-korean-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Utah League of Cities & Towns (ULCT)](/pages/utah-league-of-cities-and-towns-ulct.md) · `/pages/utah-league-of-cities-and-towns-ulct.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Utah LGBTQ+ Chamber of Commerce](/pages/utah-lgbtq-chamber-of-commerce.md) · `/pages/utah-lgbtq-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Utah Manufacturers Association](/pages/utah-manufacturers-association.md) · `/pages/utah-manufacturers-association.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
-- [Utah MEP](/pages/utah-mep.md) · `/pages/utah-mep.md` · Entrepreneurship Communities, Late Stage Growth · conf:H
-- [Utah Microloan Fund (UMLF)](/pages/utah-microloan-fund-umlf.md) · `/pages/utah-microloan-fund-umlf.md` · Funding · conf:M
-- [Utah Muslim Civic League (UMCL)](/pages/utah-muslim-civic-league-umcl.md) · `/pages/utah-muslim-civic-league-umcl.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Utah Native American Chamber of Commerce](/pages/utah-native-american-chamber-of-commerce.md) · `/pages/utah-native-american-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Korean Chamber of Commerce](/pages/utah-korean-chamber-of-commerce.md) · `/pages/utah-korean-chamber-of-commerce.md` · Entrepreneurship Communities, Marketing and Sales, Start a Business · conf:M
+- [Utah League of Cities & Towns (ULCT)](/pages/utah-league-of-cities-and-towns-ulct.md) · `/pages/utah-league-of-cities-and-towns-ulct.md` · Other · conf:M
+- [Utah LGBTQ+ Chamber of Commerce](/pages/utah-lgbtq-chamber-of-commerce.md) · `/pages/utah-lgbtq-chamber-of-commerce.md` · Entrepreneurship Communities, Marketing and Sales, Start a Business · conf:M
+- [Utah Manufacturers Association](/pages/utah-manufacturers-association.md) · `/pages/utah-manufacturers-association.md` · Late Stage Growth · conf:M
+- [Utah MEP](/pages/utah-mep.md) · `/pages/utah-mep.md` · Late Stage Growth · conf:H
+- [Utah Microloan Fund (UMLF)](/pages/utah-microloan-fund-umlf.md) · `/pages/utah-microloan-fund-umlf.md` · Funding, Start a Business · conf:M
+- [Utah Muslim Civic League (UMCL)](/pages/utah-muslim-civic-league-umcl.md) · `/pages/utah-muslim-civic-league-umcl.md` · Entrepreneurship Communities · conf:L
+- [Utah Native American Chamber of Commerce](/pages/utah-native-american-chamber-of-commerce.md) · `/pages/utah-native-american-chamber-of-commerce.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [Utah Office Of Regulatory Relief](/pages/utah-office-of-regulatory-relief.md) · `/pages/utah-office-of-regulatory-relief.md` · regulatory sandbox, compliance, regulated markets, policy feedback · conf:M
-- [Utah Office of Tourism](/pages/utah-office-of-tourism.md) · `/pages/utah-office-of-tourism.md` · Entrepreneurship Communities, Other · conf:M
-- [Utah Pacific Islander Chamber of Commerce](/pages/utah-pacific-islander-chamber-of-commerce.md) · `/pages/utah-pacific-islander-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Utah Regional Growth Association](/pages/utah-regional-growth-association.md) · `/pages/utah-regional-growth-association.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah Office of Tourism](/pages/utah-office-of-tourism.md) · `/pages/utah-office-of-tourism.md` · Marketing and Sales, Entrepreneurship Communities · conf:M
+- [Utah Pacific Islander Chamber of Commerce](/pages/utah-pacific-islander-chamber-of-commerce.md) · `/pages/utah-pacific-islander-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Start a Business · conf:M
+- [Utah Regional Growth Association](/pages/utah-regional-growth-association.md) · `/pages/utah-regional-growth-association.md` · Late Stage Growth, Relocate a Business to Utah · conf:M
 - [Utah's Own - Local Food Production](/pages/utah-s-own-local-food-production.md) · `/pages/utah-s-own-local-food-production.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [Utah SBDC](/pages/utah-sbdc.md) · `/pages/utah-sbdc.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md) · `/pages/utah-small-business-credit-initiative-usbci.md` · Funding · conf:M
 - [Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md) · `/pages/utah-small-business-credit-initiative.md` · small business lending, capital access, lender-backed capital, underserved founders · conf:M
 - [Utah State University Center for Entrepreneurship](/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md) · `/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Utah Tech University - Atwood Innovation Center](/pages/utah-tech-university-atwood-innovation-center.md) · `/pages/utah-tech-university-atwood-innovation-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Utah Tourism Association](/pages/utah-tourism-association.md) · `/pages/utah-tourism-association.md` · Entrepreneurship Communities · conf:M
-- [Utah Valley University Innovation Center/Academy](/pages/utah-valley-university-innovation-center-academy.md) · `/pages/utah-valley-university-innovation-center-academy.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
+- [Utah Tech University - Atwood Innovation Center](/pages/utah-tech-university-atwood-innovation-center.md) · `/pages/utah-tech-university-atwood-innovation-center.md` · Entrepreneurship Communities, Start a Business, Marketing and Sales · conf:M
+- [Utah Tourism Association](/pages/utah-tourism-association.md) · `/pages/utah-tourism-association.md` · Entrepreneurship Communities, Marketing and Sales · conf:M
+- [Utah Valley University Innovation Center/Academy](/pages/utah-valley-university-innovation-center-academy.md) · `/pages/utah-valley-university-innovation-center-academy.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [Utah Valley University Baugh Entrepreneurship Institute](/pages/utah-valley-university-uvu-entrepreneur-institute.md) · `/pages/utah-valley-university-uvu-entrepreneur-institute.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:H
 - [Utah Technology Innovation Funding](/pages/utif.md) · `/pages/utif.md` · SBIR, STTR, microgrants, nonrecourse loans, R&D funding · conf:M
-- [UZONA - Hildale Chamber of Commerce](/pages/uzona-hildale-chamber-of-commerce.md) · `/pages/uzona-hildale-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Vernal Area Chamber of Commerce](/pages/vernal-area-chamber-of-commerce.md) · `/pages/vernal-area-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Vernal Downtown Alliance](/pages/vernal-downtown-alliance.md) · `/pages/vernal-downtown-alliance.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Vernal Innovation Hub](/pages/vernal-innovation-hub.md) · `/pages/vernal-innovation-hub.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Veteran Business Resource Center (VBRC) Utah](/pages/veteran-business-resource-center-vbrc-utah.md) · `/pages/veteran-business-resource-center-vbrc-utah.md` · Entrepreneurship Communities, Marketing and Sales, Start a Business · conf:M
-- [Veteran-Owned Business Registration Utah](/pages/veteran-owned-business-registration-utah.md) · `/pages/veteran-owned-business-registration-utah.md` · Entrepreneurship Communities · conf:M
-- [Vision Iron County](/pages/vision-iron-county.md) · `/pages/vision-iron-county.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Visit Utah](/pages/visit-utah.md) · `/pages/visit-utah.md` · Entrepreneurship Communities, Other · conf:M
-- [Wasatch Front Regional Council](/pages/wasatch-front-regional-council.md) · `/pages/wasatch-front-regional-council.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Wasatch Women's Business Alliance](/pages/wasatch-women-s-business-alliance.md) · `/pages/wasatch-women-s-business-alliance.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Washington Area Chamber of Commerce](/pages/washington-area-chamber-of-commerce.md) · `/pages/washington-area-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Washington City Economic Development](/pages/washington-city-economic-development.md) · `/pages/washington-city-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Weber Basin Job Corps](/pages/weber-basin-job-corps.md) · `/pages/weber-basin-job-corps.md` · Late Stage Growth · conf:M
-- [Weber County Economic Development](/pages/weber-county-economic-development.md) · `/pages/weber-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [Wildcat MicroFund](/pages/wildcat-microfund.md) · `/pages/wildcat-microfund.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
+- [UZONA - Hildale Chamber of Commerce](/pages/uzona-hildale-chamber-of-commerce.md) · `/pages/uzona-hildale-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [Vernal Area Chamber of Commerce](/pages/vernal-area-chamber-of-commerce.md) · `/pages/vernal-area-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [Vernal Downtown Alliance](/pages/vernal-downtown-alliance.md) · `/pages/vernal-downtown-alliance.md` · Entrepreneurship Communities, Marketing and Sales · conf:M
+- [Vernal Innovation Hub](/pages/vernal-innovation-hub.md) · `/pages/vernal-innovation-hub.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [Veteran Business Resource Center (VBRC) Utah](/pages/veteran-business-resource-center-vbrc-utah.md) · `/pages/veteran-business-resource-center-vbrc-utah.md` · Entrepreneurship Communities, Start a Business, Marketing and Sales · conf:M
+- [Veteran-Owned Business Registration Utah](/pages/veteran-owned-business-registration-utah.md) · `/pages/veteran-owned-business-registration-utah.md` · Entrepreneurship Communities, Marketing and Sales · conf:M
+- [Vision Iron County](/pages/vision-iron-county.md) · `/pages/vision-iron-county.md` · Entrepreneurship Communities · conf:L
+- [Visit Utah](/pages/visit-utah.md) · `/pages/visit-utah.md` · Marketing and Sales, Other · conf:M
+- [Wasatch Front Regional Council](/pages/wasatch-front-regional-council.md) · `/pages/wasatch-front-regional-council.md` · Late Stage Growth, Relocate a Business to Utah · conf:M
+- [Wasatch Women's Business Alliance](/pages/wasatch-women-s-business-alliance.md) · `/pages/wasatch-women-s-business-alliance.md` · Entrepreneurship Communities, Start a Business · conf:M
+- [Washington Area Chamber of Commerce](/pages/washington-area-chamber-of-commerce.md) · `/pages/washington-area-chamber-of-commerce.md` · Entrepreneurship Communities · conf:M
+- [Washington City Economic Development](/pages/washington-city-economic-development.md) · `/pages/washington-city-economic-development.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Weber Basin Job Corps](/pages/weber-basin-job-corps.md) · `/pages/weber-basin-job-corps.md` · Late Stage Growth, Start a Business · conf:M
+- [Weber County Economic Development](/pages/weber-county-economic-development.md) · `/pages/weber-county-economic-development.md` · Funding, Late Stage Growth, Relocate a Business to Utah · conf:M
+- [Wildcat MicroFund](/pages/wildcat-microfund.md) · `/pages/wildcat-microfund.md` · Funding, Start a Business · conf:M
 - [Women Tech Counsel](/pages/women-tech-counsel.md) · `/pages/women-tech-counsel.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [Women's Business Center of Utah](/pages/womens-business-center-of-utah.md) · `/pages/womens-business-center-of-utah.md` · Entrepreneurship Communities, Funding, Late Stage Growth, Start a Business · conf:M
-- [Work Hive](/pages/work-hive.md) · `/pages/work-hive.md` · Entrepreneurship Communities · conf:M
+- [Work Hive](/pages/work-hive.md) · `/pages/work-hive.md` · Entrepreneurship Communities, Start a Business · conf:M
 - [Workbox](/pages/workbox.md) · `/pages/workbox.md` · Entrepreneurship Communities · conf:M
-- [World Trade Center Utah](/pages/world-trade-center-utah.md) · `/pages/world-trade-center-utah.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [World Trade Center Utah](/pages/world-trade-center-utah.md) · `/pages/world-trade-center-utah.md` · International Trade, Late Stage Growth · conf:M

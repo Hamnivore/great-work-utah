@@ -1,6 +1,6 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (394 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (395 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
@@ -157,7 +157,7 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 
 ## Kaysville
 
-- [Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md) · `/pages/business-resource-center-davis-tech-college.md` · culture-place
+- [Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md) · `/pages/business-resource-center-davis-tech-college.md` · resource
 - [Davis Chamber of Commerce](/pages/davis-chamber-of-commerce.md) · `/pages/davis-chamber-of-commerce.md` · resource
 
 ## Lehi
@@ -235,8 +235,6 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 ## Northern Utah
 
 - [Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md) · `/pages/northern-utah-economic-alliance.md` · resource
-- [Portal Warehousing](/pages/portal-warehousing.md) · `/pages/portal-warehousing.md` · resource
-- [Salt Mine](/pages/salt-mine.md) · `/pages/salt-mine.md` · resource
 
 ## Ogden
 
@@ -270,7 +268,7 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 
 ## Price
 
-- [Business Technical Assistance Center](/pages/business-technical-assistance-center.md) · `/pages/business-technical-assistance-center.md` · culture-place
+- [Business Technical Assistance Center](/pages/business-technical-assistance-center.md) · `/pages/business-technical-assistance-center.md` · resource
 
 ## Promontory Summit
 
@@ -336,12 +334,13 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 - [CaLycia Biosciences](/pages/calycia-biosciences.md) · `/pages/calycia-biosciences.md` · health-bio
 - [Capecchi Gene Targeting and the Knockout Mouse](/pages/capecchi-gene-targeting.md) · `/pages/capecchi-gene-targeting.md` · health-bio
 - [Chad Testa](/pages/chad-testa.md) · `/pages/chad-testa.md` · health-bio
-- [Church and State](/pages/church-and-state.md) · `/pages/church-and-state.md` · culture-place
+- [Church and State](/pages/church-and-state.md) · `/pages/church-and-state.md` · resource
 - [CleanJoule](/pages/cleanjoule.md) · `/pages/cleanjoule.md` · aerospace-defense, energy
 - [Conotoxins and Prialt](/pages/conotoxins-and-prialt.md) · `/pages/conotoxins-and-prialt.md` · health-bio
 - [Cosm](/pages/cosm.md) · `/pages/cosm.md` · venture
 - [Cotopaxi](/pages/cotopaxi.md) · `/pages/cotopaxi.md` · venture
 - [Coworking Space in Salt Lake City - Offices.net](/pages/coworking-space-in-salt-lake-city-offices-net.md) · `/pages/coworking-space-in-salt-lake-city-offices-net.md` · resource
+- [Cross Creek](/pages/cross-creek.md) · `/pages/cross-creek.md` · resource
 - [Curza](/pages/curza.md) · `/pages/curza.md` · venture
 - [Cynosure](/pages/cynosure.md) · `/pages/cynosure.md` · resource
 - [Dave Bearss](/pages/dave-bearss.md) · `/pages/dave-bearss.md` · person
@@ -383,8 +382,10 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 - [Pelion Ventures](/pages/pelion-ventures.md) · `/pages/pelion-ventures.md` · resource
 - [Peterson Ventures](/pages/peterson-ventures.md) · `/pages/peterson-ventures.md` · resource
 - [Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md) · `/pages/pons-fleischmann-cold-fusion.md` · culture-place, energy
+- [Portal Warehousing](/pages/portal-warehousing.md) · `/pages/portal-warehousing.md` · resource
 - [Rebel Medicine](/pages/rebel-medicine.md) · `/pages/rebel-medicine.md` · venture
 - [Recursion Pharmaceuticals](/pages/recursion-pharmaceuticals.md) · `/pages/recursion-pharmaceuticals.md` · health-bio, computing
+- [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `/pages/renewable-tech-ventures.md` · resource
 - [Ripple Neuro](/pages/ripple-neuro.md) · `/pages/ripple-neuro.md` · venture
 - [Ryan Smith (Qualtrics)](/pages/ryan-smith-qualtrics.md) · `/pages/ryan-smith-qualtrics.md` · person
 - [Salt Lake Angels](/pages/salt-lake-angels.md) · `/pages/salt-lake-angels.md` · resource
@@ -441,6 +442,7 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 
 - [Pitted Ventures](/pages/pitted-ventures.md) · `/pages/pitted-ventures.md` · resource
 - [Salt Lake Community College (SLCC) - The Mill](/pages/salt-lake-community-college-slcc-the-mill.md) · `/pages/salt-lake-community-college-slcc-the-mill.md` · resource
+- [Salt Mine](/pages/salt-mine.md) · `/pages/salt-mine.md` · resource
 - [The Mill Entrepreneurship Center](/pages/the-mill-entrepreneurship-center.md) · `/pages/the-mill-entrepreneurship-center.md` · resource
 
 ## Sanpete County
@@ -472,7 +474,7 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 
 - [Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md) · `/pages/atwood-innovation-plaza.md` · resource
 - [Baxter Aerospace](/pages/baxter-aerospace.md) · `/pages/baxter-aerospace.md` · venture
-- [Business Resource Center - Utah Tech University](/pages/business-resource-center-utah-tech-university.md) · `/pages/business-resource-center-utah-tech-university.md` · culture-place
+- [Business Resource Center - Utah Tech University](/pages/business-resource-center-utah-tech-university.md) · `/pages/business-resource-center-utah-tech-university.md` · resource
 - [Culmination Bio](/pages/culmination-bio.md) · `/pages/culmination-bio.md` · venture
 - [Eden Technologies](/pages/eden-technologies.md) · `/pages/eden-technologies.md` · venture
 - [EVENT: What's Up Down South - Economic Summit](/pages/event-what-s-up-down-south-economic-summit.md) · `/pages/event-what-s-up-down-south-economic-summit.md` · resource
@@ -539,10 +541,6 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 
 - [Wasatch Front Regional Council](/pages/wasatch-front-regional-council.md) · `/pages/wasatch-front-regional-council.md` · resource
 
-## Washington County
-
-- [SoUtah Economic Alliance](/pages/soutah-economic-alliance.md) · `/pages/soutah-economic-alliance.md` · resource
-
 ## Washington
 
 - [Washington Area Chamber of Commerce](/pages/washington-area-chamber-of-commerce.md) · `/pages/washington-area-chamber-of-commerce.md` · resource
@@ -570,6 +568,11 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 - [RQM+](/pages/rqm-plus.md) · `/pages/rqm-plus.md` · helper
 - [STOPfakes.gov](/pages/stopfakes-gov.md) · `/pages/stopfakes-gov.md` · resource
 
+## southwestern Utah
+
+- [FutureReady Utah](/pages/futureready-utah.md) · `/pages/futureready-utah.md` · resource
+- [SoUtah Economic Alliance](/pages/soutah-economic-alliance.md) · `/pages/soutah-economic-alliance.md` · resource
+
 ## statewide
 
 - [47G - Utah Aerospace & Defense Association](/pages/47g-utah-aerospace-and-defense-association.md) · `/pages/47g-utah-aerospace-and-defense-association.md` · resource
@@ -580,7 +583,6 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 - [BIO Utah](/pages/bio-utah.md) · `/pages/bio-utah.md` · health-bio
 - [BIOHive Utah](/pages/biohive-utah.md) · `/pages/biohive-utah.md` · health-bio
 - [Convoi Ventures](/pages/convoi-ventures.md) · `/pages/convoi-ventures.md` · capital-programs
-- [Cross Creek](/pages/cross-creek.md) · `/pages/cross-creek.md` · resource
 - [Custom Fit Training](/pages/custom-fit-training.md) · `/pages/custom-fit-training.md` · resource
 - [EDCUtah - Economic Development Corporation of Utah](/pages/edcutah-economic-development-corporation-of-utah.md) · `/pages/edcutah-economic-development-corporation-of-utah.md` · resource
 - [EVENT: Business Forward](/pages/event-business-forward.md) · `/pages/event-business-forward.md` · resource
@@ -591,7 +593,6 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 - [Federal Economic Development Administration](/pages/federal-economic-development-administration.md) · `/pages/federal-economic-development-administration.md` · resource
 - [First Step Entrepreneur](/pages/first-step-entrepreneur.md) · `/pages/first-step-entrepreneur.md` · resource
 - [FSTEP Idea Explorer](/pages/fstep-idea-explorer.md) · `/pages/fstep-idea-explorer.md` · resource
-- [FutureReady Utah](/pages/futureready-utah.md) · `/pages/futureready-utah.md` · resource
 - [Get Started: Business Idea Challenge](/pages/get-started-business-idea-challenge.md) · `/pages/get-started-business-idea-challenge.md` · resource
 - [Goldman Sachs 1000 Small businesses](/pages/goldman-sachs-1000-small-businesses.md) · `/pages/goldman-sachs-1000-small-businesses.md` · resource
 - [Grix](/pages/grix.md) · `/pages/grix.md` · resource
@@ -599,6 +600,7 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 - [iMpact Utah](/pages/impact-utah.md) · `/pages/impact-utah.md` · resource
 - [International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md) · `/pages/international-trade-and-diplomacy.md` · resource
 - [Jump Aero](/pages/jump-aero.md) · `/pages/jump-aero.md` · venture
+- [JustBuild](/pages/justbuild.md) · `/pages/justbuild.md` · resource
 - [Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md) · `/pages/kem-c-gardner-policy-institute.md` · resource
 - [Kickstart Fund](/pages/kickstart-fund.md) · `/pages/kickstart-fund.md` · resource
 - [Kiln](/pages/kiln.md) · `/pages/kiln.md` · resource
@@ -674,6 +676,5 @@ Generated from `**Region:**` metadata (394 pages with a region). Sector hubs sti
 - [Aaron Skonnard](/pages/aaron-skonnard.md) · `/pages/aaron-skonnard.md` · person
 - [InnoSys](/pages/innosys.md) · `/pages/innosys.md` · venture
 - [Nielson Scientific](/pages/nielson-scientific.md) · `/pages/nielson-scientific.md` · venture
-- [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `/pages/renewable-tech-ventures.md` · resource
 - [Splunk](/pages/splunk.md) · `/pages/splunk.md` · computing
 - [Wasatch Ionics](/pages/wasatch-ionics.md) · `/pages/wasatch-ionics.md` · aerospace-defense, energy

@@ -21,9 +21,9 @@
 
 For the wiki, 47G is a high-value resource for companies whose path runs through defense customers, aerospace primes, hard-tech partners, supply-chain integration, demonstrations, capital readiness, or talent pipelines.
 
-## Who It Helps
+## Who It's For
 
-47G helps aerospace, defense, dual-use, hard-tech, space, drone, advanced-air-mobility, and national-security technology companies that need ecosystem access rather than generic startup programming.
+Aerospace, defense, dual-use, hard-tech, space, drone, advanced-air-mobility, and national-security technology companies that need ecosystem access rather than generic startup programming.
 
 Strong fits include founders seeking government-customer navigation, strategic industry relationships, capital readiness, supply-chain integration, testbeds, demonstrations, validation opportunities, policy context, or talent connections.
 
@@ -51,17 +51,6 @@ The public homepage does not provide a universal cost model. Some access appears
 47G is a strong fit for hard-tech and dual-use companies that can plausibly sell to, partner with, or support aerospace/defense markets.
 
 It is a weaker fit for founders with no aerospace, defense, national-security, space, drone, or advanced-manufacturing angle. For procurement mechanics alone, [Utah APEX Accelerator](apex-accelerator.md) is likely the cleaner first step.
-
-## Imported Coverage
-
-- Startup State ID: 2586 (slug `47g-utah-aerospace-defense-association`)
-- Topics: Entrepreneurship Communities, Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: Any
-- Industries: Aerospace and Defense
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T11:56:58
-
 
 ## Evidence
 

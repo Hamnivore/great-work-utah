@@ -9,8 +9,8 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://www.rebelmedicine.com/
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/rebel-medicine-alevatrix-2026/1600/1100
 **Pull:** *A 72-hour injectable local anesthetic that could spare opioids after routine surgery — if it beats an entrenched incumbent.*
 **Relates:** cites [Official Website: Rebel Medicine](rebel-medicine-official-website.md) · https://greatutah.work/pages/rebel-medicine-official-website.md · https://www.rebelmedicine.com/
@@ -64,3 +64,4 @@ Rebel Medicine is headquartered in Salt Lake City and sits in Utah's growing hea
 - What is the full pipeline beyond Alevatrix™, and which indications use the same delivery matrix?
 - How much additional capital is required to reach Phase 3 and NDA, and who leads the next round?
 - Independent peer-reviewed clinical data beyond company-reported preclinical publications should be reviewed before strong efficacy claims.
+- No agent-readable careers/jobs page found (rebelmedicine.com/careers 404; no Greenhouse/Lever board located).

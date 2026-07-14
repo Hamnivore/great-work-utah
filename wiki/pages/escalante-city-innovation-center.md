@@ -48,6 +48,8 @@ Remote professionals and founders who need a quiet furnished office in Escalante
 
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
+> **Link status (2026-07-14):** Parked related-search shell; no program content.
+
 ## Open Questions
 
 - What is the correct live city website and current Innovation Center contact?

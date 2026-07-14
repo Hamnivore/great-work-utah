@@ -68,6 +68,7 @@ Epitel is headquartered in Salt Lake City and traces to the University of Utah N
 
 ## Open Questions
 
+- **Careers URL:** No agent-readable careers board found (2026-07-14). Workable board `https://apply.workable.com/epitel/` and `jobs.md` returned 0 openings / failed readability check; Builtin jobs page also empty. Do not invent a Careers field until a readable ATS lists roles.
 - Market share versus ambulatory EEG competitors (Epilog, Ceribell ICU variants, Neurolutions, traditional extended EEG vendors) is not established on this page.
 - Independent clinical outcomes data beyond company-cited publications should be reviewed before strong efficacy claims.
 - Insurance coverage and reimbursement ceilings will likely determine deployment scale more than hardware performance alone.

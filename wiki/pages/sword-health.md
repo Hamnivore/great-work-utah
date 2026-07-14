@@ -9,8 +9,9 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://swordhealth.com/
-**Updated:** 2026-06-25
-**Needs-reviewed:** 2026-06-25
+**Careers:** https://jobs.lever.co/swordhealth
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/sword-health-digital-pt-2026/1600/1100
 **Pull:** *Physical therapy, at home, guided by AI and supervised by a real clinician — and a serious bet that this is just as good as being in the clinic.*
 **Relates:** cites [Official Website: Sword Health](sword-health-official-website.md) · https://greatutah.work/pages/sword-health-official-website.md · https://swordhealth.com/
@@ -32,8 +33,7 @@ The core platform is a licensed physical therapy program delivered digitally: a 
 The company has also launched Bloom (pelvic floor care) and Sword Mind (behavioral health integration for MSK) as expanded product lines, reflecting a broader bet on whole-person MSK and mental health integration. CEO Virgilio (Fred) Bento has publicly positioned Sword as an AI-first company where the clinical relationship is the differentiator but AI handles the real-time feedback loop.
 
 ## What They Need Now
-
-Clinical program designers and licensed physical therapists, machine-learning engineers with movement-analysis and sensor-fusion backgrounds, enterprise health-benefits sales and account management, data scientists building outcomes models, and health-plan contracting specialists. The Salt Lake City office focuses on U.S. market operations, sales, and clinical oversight.
+Hiring is broad across three families: clinical (physical therapists and PT annotators, women’s-health and mental-health specialists, dietitians, pediatric consultants), enterprise GTM (regional VPs, consultant relations, health-plan and enterprise customer success), and platform/AI (frontend, AI engineering and research, data platform, DevOps, SecOps). Salt Lake City remains the U.S. operations hub in the company narrative, but many roles are remote, Portugal/EU, or territory sales rather than Utah-only.
 
 ## Who Could Help
 

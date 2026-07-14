@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Late Stage Growth, Relocate a Business to Utah
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Davis County, UT; Morgan County, UT; Salt Lake County, UT; Tooele County, UT; Weber County, UT
 **Region:** Wasatch Front
@@ -11,83 +11,43 @@
 **Coordinates:** 40.7680904, -111.9039983
 **Location Precision:** exact
 **Location Source:** https://wfrc.org/contact/
-**Website:** https://wfrc.org/contact/
+**Website:** https://wfrc.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Wasatch Front Regional Council (WFRC) is an association of governments comprising elected officials from Box Elder, Davis, Morgan, Salt Lake, Tooele, and Weber counties in Utah. As the designated Metropolitan Planning Organization (MPO) for the Salt Lake City-West Valley City and Ogden-Layton urbanized areas, WFRC coordinates transportation planning, regional visioning, and community and economic development efforts. Their mission is to build consensus and enhance quality of life by developing and implementing visions and plans for a well-functioning multi-modal transportation system, livable communities, a strong economy, and a healthy environment.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Wasatch Front Regional Council (WFRC) is the metropolitan planning organization for Box Elder, Davis, Morgan, Salt Lake, Tooele, and Weber counties. Verified on wfrc.org: WFRC coordinates transportation planning, regional visioning (Wasatch Choice), economic development strategy, community development block grants, and technical assistance for Wasatch Front communities serving 2+ million residents.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Local governments and developers planning transportation or land-use projects; businesses needing regional planning data or CDBG pathways; community leaders implementing Wasatch Choice vision — not direct founder coaching.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Transportation Improvement Program and long-range planning, Wasatch Choice Vision technical assistance, capital funding guidance for qualifying projects, maps and regional data, Comprehensive Economic Development Strategy, active transportation and station-area planning support, and CDBG administration.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Use wfrc.org program pages (Funding & Assistance, Maps & Data) or contact WFRC for project-specific technical assistance.
 
-- [Official website](https://wfrc.org/contact/) · https://wfrc.org/contact/
+- [Official website](https://wfrc.org/) · https://wfrc.org/
 - Startup State listing: https://startup.utah.gov/business-resource/wasatch-front-regional-council/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Technical assistance and grant programs have project-specific eligibility; transportation funding is competitive through WFRC processes. Confirm current CDBG and TIP criteria on wfrc.org.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2691 (slug `wasatch-front-regional-council`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-11T08:14:14
-
+A Wasatch Front expansion where transportation, CDBG, or regional plan alignment is the constraint — e.g., infill development, transit-oriented sites, or municipal infrastructure. Weak fit for a solo remote startup with no land-use or public-project angle.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://wfrc.org/contact/) · https://wfrc.org/contact/
+- [Official website](https://wfrc.org/) · https://wfrc.org/
+- Startup State listing: https://startup.utah.gov/business-resource/wasatch-front-regional-council/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which WFRC economic development programs accept private-sector applicants vs. jurisdictions only?
+- Current TIP cycle deadlines for new project sponsors?

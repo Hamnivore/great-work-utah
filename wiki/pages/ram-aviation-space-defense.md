@@ -13,8 +13,9 @@
 **Location Precision:** exact
 **Location Source:** https://ramasd.com/contact/
 **Website:** https://ramasd.com
+**Careers:** https://recruiting.paylocity.com/recruiting/jobs/All/4b9a9d4d-d7b3-4bc0-afd6-915c2ab0bb76/RAM-Aviation-Space-Defense
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/ram-aviation-space-defense-2026/1600/1100
 **Pull:** *The precision propulsion valves keeping ISS astronauts alive, the Dragon capsule flying, and Dream Chaser on track — built quietly in St. George for 50 years.*
 **Relates:** cites [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md) · https://greatutah.work/pages/ram-aviation-space-defense-official-website.md · https://ramasd.com

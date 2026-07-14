@@ -12,11 +12,11 @@
 **Coordinates:** 40.3037279, -111.6629020
 **Location Precision:** exact
 **Location Source:** https://www.qualtrics.com/contact/
-**Careers:** https://www.qualtrics.com/careers/us/en
+**Careers:** https://boards-api.greenhouse.io/v1/boards/qualtrics/jobs
 **Website:** https://www.qualtrics.com/
 **Domain:** computing
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/qualtrics-xm-provo-2026/1600/1100
 **Pull:** *Experience management at enterprise scale — surveys, sentiment, and applied AI on one of the world's largest feedback datasets.*
 **Relates:** cites [Official Website: Qualtrics](qualtrics-official-website.md) · https://greatutah.work/pages/qualtrics-official-website.md · https://www.qualtrics.com/
@@ -41,10 +41,9 @@ Qualtrics builds an experience-management platform spanning customer experience 
 The company's public positioning emphasizes closing the gap between what customers and employees actually feel and what organizations measure — making that gap quantifiable, actionable, and improvable.
 
 ## What They Need Now
+Hiring pairs applied science with a large enterprise sales bench (account executives across Provo, Dallas, life sciences, and international territories). Broader ML/platform fit still includes ML engineers, data engineers, platform engineers, product managers, and enterprise SaaS operators comfortable with scale, compliance, and low-cost-per-item inference within SOC 2, HIPAA, and FedRAMP constraints where applicable.
 
-Likely needs include ML engineers, applied scientists, data engineers, platform engineers, product managers, and enterprise SaaS operators comfortable with scale, compliance, and low-cost-per-item inference. The ML work spans LLM integration, classification, retrieval, and enterprise-grade evaluation within SOC 2, HIPAA, and FedRAMP constraints where applicable.
-
-For talent matching, Qualtrics is a strong candidate for engineers who want applied AI with real users and are comfortable in the Mountain West — more process than a startup, more pace than big tech. Open roles: [Qualtrics careers](https://www.qualtrics.com/careers/us/en) (verify current openings; this wiki does not track live postings).
+For talent matching, Qualtrics is a strong candidate for engineers who want applied AI with real users and are comfortable in the Mountain West — more process than a startup, more pace than big tech.
 
 ## Who Could Help
 

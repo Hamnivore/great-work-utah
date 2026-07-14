@@ -9,7 +9,7 @@
 **Utah Location:** Utah Test and Training Range, UT
 **Region:** West Desert
 **Careers:** https://job-boards.greenhouse.io/vardaspace
-**Website:** https://spacenews.com/varda-capsule-lands-in-utah/
+**Website:** https://www.varda.com/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/varda-space-capsule-reentry-2026/1600/1100
@@ -32,8 +32,7 @@ The W-1 mission demonstrated end-to-end execution: launch on a rideshare, months
 Varda's model combines orbital manufacturing spacecraft (integrated with partners such as Rocket Lab Photon) and small recoverable reentry capsules. W-1 carried ritonavir crystals; later missions have expanded the platform. Public reporting describes three successful missions since 2023, substantial venture funding (including a reported $187M Series C in July 2025), and a U.S. Air Force contract. The company has shifted subsequent landings toward Australia's Koonibba Test Range, reducing but not eliminating the Utah operational footprint. [Official Website: Varda Space Industries](varda-space-official-website.md) [Source: Varda W-1 Capsule Landing at UTTR](varda-uttr-landing.md)
 
 ## What They Need Now
-
-Greenhouse openings (as of 2026-07-14) are California HQ–centric: flight/mission/embedded software, GNC, mechanisms and fluid systems for pharmaceutical payloads, crystallization science, lab technicians, facilities/electrical trades, and many internships. Utah-based roles are not listed; Utah talent connection remains through UTTR operations, range safety, recovery logistics, and the defense-space ecosystem rather than Varda headquarters hiring — unless landings return to Utah at scale.
+Hiring is California HQ–centric: flight/mission/embedded software, GNC, mechanisms and fluid systems for pharmaceutical payloads, crystallization science, lab technicians, facilities and electrical trades, and internships. Utah-based roles are rare; the Utah talent connection remains through UTTR operations, range safety, recovery logistics, and the defense-space ecosystem rather than Varda headquarters hiring — unless landings return to Utah at scale.
 
 ## Who Could Help
 

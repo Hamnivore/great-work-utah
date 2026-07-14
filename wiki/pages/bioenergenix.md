@@ -7,8 +7,8 @@
 **Stage:** Unknown as of 2026; last primary public signal is 2014 preclinical partnership press release
 **Primary Location:** unknown
 **Utah Location:** University of Utah, Salt Lake City, UT (historical spinout)
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Domain:** health-bio
 **Region:** Salt Lake City
 **Website:** https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic
@@ -68,4 +68,5 @@ BioEnergenix traces to Jared Rutter's biochemistry program at the University of 
 - **BioE-1115 / PASK inhibitor pipeline status** — referenced in academic materials elsewhere; not verified on the company side in sources reviewed.
 - **Relationship to current U of U TLO portfolio listings** — PIVOT/TLO startup directories may list the company, but no dedicated TLO page was captured in this sparse migration.
 - **Official website** — none confirmed; do not infer product status from absent web presence alone, but the gap limits confidence.
+- No public careers/jobs page found; last primary public signal is the 2014 U of U press release (historical/status unverified).
 - The placeholder hero should be replaced with a cleared scientific or institutional image if the venture is revived for public catalog use.

@@ -35,8 +35,7 @@ The core product is Culture Cloud: a SaaS platform that centralizes peer-to-peer
 The O.C. Tanner Institute publishes the Global Culture Report annually, synthesizing survey data on what employees value, what managers do that helps or hurts culture, and where recognition programs succeed or fail. This research differentiates the company from pure-software competitors by providing a credibility layer and a content marketing engine that reaches culture practitioners globally.
 
 ## What They Need Now
-
-Workday-linked openings via the O.C. Tanner careers page (July 2026) include Salt Lake City HQ roles such as Sr. Applied AI Engineer, Sr. DevOps / Site Reliability Engineer, Manager of Software Test Engineering, Electrical & Automation Engineer, Sales Technology and Vendor Integrations specialists, plus manufacturing and distribution team members. Broader needs still include product designers, HR-tech sales, enterprise customer success, and organizational-psychology / culture research talent.
+Hiring spans Salt Lake City HQ software engineering (applied AI, DevOps/SRE, test engineering), electrical and automation engineering, sales technology and vendor integrations, and manufacturing and distribution team members. Broader needs still include product designers, HR-tech sales, enterprise customer success, and organizational-psychology / culture research talent.
 
 As a nearly century-old company integrating legacy recognition with modern SaaS, they also need change-management practitioners who can help large organizations shift from informal recognition to platform-driven approaches.
 

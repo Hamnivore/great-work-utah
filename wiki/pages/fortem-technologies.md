@@ -12,11 +12,11 @@
 **Coordinates:** 40.3474339, -111.7586836
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Fortem+Technologies+1855+W+500+N+Lindon+UT+84042
-**Careers:** https://recruiting.paylocity.com/recruiting/jobs/All/FORTEM-TECHNOLOGIES
+**Careers:** https://recruiting.paylocity.com/recruiting/jobs/All/fa9b835a-8112-420d-9c09-631d7b67b31c/FORTEM-TECHNOLOGIES
 **Website:** https://fortemtech.com/
 **Domain:** aerospace-defense
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-05-09
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/fortem-skydome-counter-uas-2026/1600/1100
 **Pull:** *TrueView radar, DroneHunter interceptors, and SkyDome — the airspace defense stack for the small-drone era.*
 
@@ -39,8 +39,7 @@ Fortem builds airspace awareness and counter-UAS products: TrueView radar, Drone
 The official website describes products for both military and civilian contexts, including defense, energy, airports, public venues, prisons, and law enforcement.
 
 ## What They Need Now
-
-Likely needs include radar engineers, embedded systems engineers, guidance and controls specialists, autonomy engineers, manufacturing engineers, field deployment operators, export-control-aware program managers, and policy people who understand airspace and critical-infrastructure rules.
+Hiring centers on radar systems and RF engineering, systems data and automation, product management, production engineering and technicians, QA, and shipping/logistics — mostly on-site in Lindon. Broader fit still includes embedded systems, guidance/controls, autonomy, manufacturing, field deployment, and export-control-aware program managers who understand airspace and critical-infrastructure rules.
 
 For talent matching, Fortem is a strong candidate for people who want physical AI, defense relevance, and hardware shipped into real environments.
 

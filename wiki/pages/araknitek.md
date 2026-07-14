@@ -8,8 +8,8 @@
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/araknitek-2026/1600/1100
 **Relates:** cites [Official Website: Araknitek](araknitek-official-website.md) · https://greatutah.work/pages/araknitek-official-website.md
 
@@ -53,6 +53,7 @@ Utah State University's Randy Lewis laboratory is one of the most cited academic
 
 ## Open Questions
 
+- No public careers/jobs page found; company operational status is unverified (founded ~2012).
 - Is Araknitek still operationally active as of 2026? The company was founded in 2012 and current status is unverified.
 - Has the Randy Lewis lab created a newer or differently named commercialization vehicle that supersedes Araknitek?
 - What is Araknitek's website URL, if it still maintains a public web presence?

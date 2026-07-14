@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** Utah
+**Focus:** Late Stage Growth, Relocate a Business to Utah
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 60 E South Temple, 3rd Floor, Salt Lake City, UT 84111
@@ -17,78 +17,39 @@
 
 ## Summary
 
-The Utah Inland Port Authority (UIPA) is a state organization leading and implementing logistics solutions to support Utah's economic growth and environmental protection. It focuses on creating generational regional economic growth, establishing Utah as a leading global trade logistics hub, and advancing sustainable and smart supply chains. UIPA collaborates with communities across the state to set a foundation for positive generational impact, ensuring a brighter future for all Utah residents.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Utah Inland Port Authority (UIPA) is a state organization developing sustainable logistics solutions to support Utah's economic growth. Verified on inlandportauthority.utah.gov: UIPA coordinates regional project areas statewide, emphasizes collaboration, sustainability, and accountability, and positions Utah as a global trade and logistics hub while engaging communities on supply-chain growth.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Companies in logistics, distribution, manufacturing, and trade-adjacent industries exploring Utah port project areas; local governments and developers coordinating infrastructure near UIPA zones; businesses seeking state-level logistics partnership — not typical early-stage SaaS founders.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Regional project-area planning (Northwest Quadrant, Tooele Valley, Golden Spike, and others), logistics strategy resources, community engagement on port development, newsletters and public updates, and a contact path for feedback and involvement.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Start with the official site project-area and FAQ pages, then use the contact form or email for specific inquiries.
 
 - [Official website](https://inlandportauthority.utah.gov/) · https://inlandportauthority.utah.gov/
 - Email: [info@inlandportauthority.utah.gov](mailto:info@inlandportauthority.utah.gov)
+- Media: [kaitlin.felsted@inlandportauthority.utah.gov](mailto:kaitlin.felsted@inlandportauthority.utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-inland-port-authority/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No public application fees listed. Project participation and development rules vary by project area; confirm current board policies and local approvals on the official site.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2699 (slug `utah-inland-port-authority`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-11T08:22:52
-
+Operators scaling warehouse, freight, cold chain, or industrial facilities near UIPA project areas, or site selectors evaluating Utah logistics hubs. Weak fit for consumer apps or professional services without a logistics footprint.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://inlandportauthority.utah.gov/) · https://inlandportauthority.utah.gov/
+- Startup State listing: https://startup.utah.gov/business-resource/utah-inland-port-authority/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which project areas are actively accepting new private development partners?
+- What are current environmental review requirements for a specific site?

@@ -13,8 +13,9 @@
 **Location Precision:** exact
 **Location Source:** https://schoolai.com/cookies
 **Website:** https://schoolai.com
+**Careers:** https://ats.rippling.com/schoolai/jobs
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/schoolai-classroom-ai-platform-2026/1600/1100
 **Pull:** *Teacher-controlled AI Spaces that adapt to each student — with Mission Control showing who needs help now.*
 **Relates:** cites [Official Website: SchoolAI](schoolai-official-website.md) · https://greatutah.work/pages/schoolai-official-website.md · https://schoolai.com
@@ -45,8 +46,7 @@ Per the official website, SchoolAI's product stack includes:
 Safety architecture emphasizes real-time crisis detection, prohibitions on posing as human, contractual bans on training external models on student data, and SOC 2 Type 2 / 1EdTech certification claims.
 
 ## What They Need Now
-
-Likely hiring spans ML engineers, curriculum and learning-science researchers, district sales and implementation, product engineers, and trust-and-safety operators. The Series A proceeds are earmarked for global expansion, admin and parent products, and implementation team growth. Competition is intense (Khan Academy/Khanmigo, Google Classroom AI, Duolingo, and others).
+Hiring comes in waves and the careers board is sometimes empty between them. Likely needs still span ML engineers, curriculum and learning-science researchers, district sales and implementation, product engineers, and trust-and-safety operators — the Series A narrative emphasized global expansion, admin/parent products, and implementation team growth. Competition remains intense (Khanmigo, Google Classroom AI, and others).
 
 ## Who Could Help
 

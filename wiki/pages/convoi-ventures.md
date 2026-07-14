@@ -1,12 +1,11 @@
 # Convoi Ventures
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
-**Primary Location:** unknown
+**Primary Location:** Utah
 **Utah Location:** statewide
-**Updated:** 2026-07-14
 **Domain:** capital-programs
 **Region:** statewide
 **Map Location:** 336 E University Pkwy, Orem, UT 84058
@@ -14,78 +13,43 @@
 **Location Precision:** exact
 **Location Source:** https://www.sec.gov/Archives/edgar/data/2023817/000202381724000001/xslFormDX01/primary_doc.xml
 **Website:** https://www.convoiventures.com/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-Convoi Ventures, founded in 2021, is a Utah-based pre-seed venture capital firm dedicated to identifying and funding the state's emerging startups. The firm focuses on sectors such as consumer technology, fintech, and SaaS, emphasizing investments in founders who demonstrate rapid progress with minimal resources. By fostering a community-centric approach, Convoi Ventures regularly organizes high-quality events to cultivate strong relationships among founders and limited partners, thereby strengthening Utah's entrepreneurial ecosystem.
+Convoi Ventures is a Utah-only pre-seed venture capital firm founded in 2021 that backs breakout Utah startups before broader investors engage. Its official site emphasizes founder-first selection, community events for founders and LPs, and focus areas including consumer tech, fintech, and SaaS.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah pre-seed founders who are builders first — especially in consumer tech, fintech, or SaaS — and can show fast progress with limited resources.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Utah-only pre-seed venture capital
+- Community events connecting founders and operator LPs
+- Mentor and LP network drawn from Utah tech operators
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Contact through the official site
 - [Official website](https://www.convoiventures.com/) · https://www.convoiventures.com/
 - Email: [info@convoiventures.com](mailto:info@convoiventures.com)
 - Startup State listing: https://startup.utah.gov/business-resource/convoi-ventures/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Equity investment; terms are deal-specific. No public fee schedule.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2605 (slug `convoi-ventures`)
-- Topics: Funding
-- Stages: Idea (pre-revenue), Product Built (pre-revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:40:47
-
+Utah pre-seed software and consumer-tech founders who want local early capital and operator community. Not a fit for out-of-state-only companies or growth-stage PE.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.convoiventures.com/) · https://www.convoiventures.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are Convoi's current check sizes and open application process?

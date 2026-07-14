@@ -57,6 +57,7 @@ Halia anchors a small but serious clinical-stage drug-discovery presence in the 
 
 ## Open Questions
 
+- **Careers URL:** No dedicated careers/ATS board found (2026-07-14). `haliatx.com/careers` 404; About page only invites email inquiries via @haliatx.com — not added as Careers.
 - The total amount raised and current financing stage are not confirmed from a primary source in this pass. A frequently cited "Series C, ~$56.3M raised" figure comes from secondary coverage and should be verified before use in a recommendation.
 - Phase 2a results are promising but early; most candidates that look strong at Phase 2a do not survive larger trials. The MDS-to-broader-aging leap currently rests on mechanism, not outcome data.
 - Current headcount, named investors, and whether founders retain control are not confirmed here.

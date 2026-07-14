@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Funding, Late Stage Growth
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County
 **Region:** Central Utah
@@ -17,78 +17,39 @@
 
 ## Summary
 
-Region 6 Economic Development focuses on fostering economic growth in Morgan, Tooele, and Weber Counties by supporting local businesses, attracting new investments, and enhancing community development. It provides resources, strategic partnerships, and workforce initiatives to strengthen the region's economy. Through collaboration and innovation, Region 6 aims to create sustainable opportunities for businesses and residents alike.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The R6 Regional Council (Six County Association of Governments) supports central Utah communities through regional planning, economic development, and essential services. Verified on r6.utah.gov: R6 serves Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties with community and economic development, aging services, housing (HEAT, weatherization, rent-to-own), tax preparation, and the Central Utah Agri-Park initiative.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses and farms in central Utah's six counties; local governments needing regional planning; seniors and families accessing R6 social programs; operators exploring Agri-Park or Rural Rise pathways.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Community and economic development planning, Central Utah Agri-Park, Rural Rise nonprofit support, aging and volunteer services, housing and weatherization, individual tax preparation, crisis programs, and regional meeting coordination from Richfield.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Use r6.utah.gov program menus or call the Richfield office; name the county and program when contacting staff.
 
 - [Official website](https://r6.utah.gov/) · https://r6.utah.gov/
 - Email: [abbyivory@sixcounty.com](mailto:abbyivory@sixcounty.com)
+- Office: 82 E 600 N, Richfield, UT 84701 · (435) 893-0700
 - Startup State listing: https://startup.utah.gov/business-resource/six-county-association-of-governments/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Social and housing programs are need-based; business and ED engagement is program-specific. Confirm Agri-Park and economic development criteria on r6.utah.gov.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2689 (slug `six-county-association-of-governments`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Juab, Millard, Piute, Sanpete, Sevier, Wayne
-- Listing modified: 2024-12-11T08:10:47
-
+Central Utah ag, manufacturing, or Main Street operators in the six-county region — especially when regional planning, Agri-Park, or R6 housing/workforce programs matter. Not for northern Wasatch Front-only companies.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://r6.utah.gov/) · https://r6.utah.gov/
+- Startup State listing: https://startup.utah.gov/business-resource/six-county-association-of-governments/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Current Central Utah Agri-Park tenant or expansion criteria?
+- Which R6 staff handle private business ED inquiries?

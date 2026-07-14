@@ -12,10 +12,10 @@
 **Coordinates:** 40.4196176, -111.8762475
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Podium+1650+W+Digital+Dr+Lehi+UT+84043
-**Careers:** https://www.podium.com/careers/
+**Careers:** https://job-boards.greenhouse.io/podium81
 **Website:** https://www.podium.com
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-25
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/podium-local-business-platform-2026/1600/1100
 **Pull:** *One inbox for every message, review, and payment a local business needs to handle.*
 **Relates:** cites [Official Website: Podium](podium-official-website.md) · https://greatutah.work/pages/podium-official-website.md · https://www.podium.com
@@ -37,8 +37,7 @@ The core Podium product is a unified communications inbox: inbound and outbound 
 In 2024–2025, Podium has leaned heavily into AI: automated response drafting, conversation intelligence, and lead qualification via AI chat are now part of the pitch. The AI bet positions Podium as "autonomous communications" for local business rather than just a messaging aggregator.
 
 ## What They Need Now
-
-Software engineers across backend, mobile, and AI; product managers with local-business domain knowledge; enterprise and mid-market sales; implementation and customer-success teams for vertical markets (automotive, healthcare, home services); and data scientists working on the AI-communication layer. The company is headquartered in Lehi and has grown its headcount meaningfully since the 2019 unicorn raise.
+Hiring is heavy on AI go-to-market and delivery (AI customer success, vertical onboarding specialists, AI software sales), plus analytics engineering, account management, and SDRs. Broader fit still includes backend/mobile/AI software engineers, product managers with local-business domain knowledge, and implementation teams for vertical markets (automotive, healthcare, home services). The company is headquartered in Lehi and has grown its headcount meaningfully since the 2019 unicorn raise.
 
 ## Who Could Help
 

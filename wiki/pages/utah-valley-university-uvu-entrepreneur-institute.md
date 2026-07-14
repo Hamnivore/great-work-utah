@@ -21,7 +21,7 @@ UVU's entrepreneurship resource is now presented publicly as the Chelsea & Casey
 
 This page updates the older imported title while keeping the existing filename to avoid creating a duplicate resource.
 
-## Who It Helps
+## Who It's For
 
 The institute primarily helps UVU students who want to launch or grow a business while in school. It also has pathways for mentors, sponsors, and community members who want to support student entrepreneurs.
 
@@ -42,7 +42,7 @@ Start with the official website, then confirm current programs before recommendi
 - Startup State listing: https://startup.utah.gov/business-resource/utah-valley-university-uvu-entrepreneur-institute/
 
 
-## Cost / Eligibility
+## Cost
 
 The page does not give one universal price because offerings vary across courses, workshops, mentoring, competitions, and funding. Most resource pathways appear tied to UVU students or the UVU entrepreneurship community, but event and mentor participation may include broader community roles. Verify program-specific rules before referral.
 
@@ -51,16 +51,6 @@ The page does not give one universal price because offerings vary across courses
 Best fits are UVU students who want to become revenue-generating entrepreneurs, validate a business idea, practice selling, earn class credit while building, compete for equity-free seed funding, or connect with mentors.
 
 It is less direct for nonstudent companies unless they are mentoring, sponsoring, hiring, or otherwise engaging with the UVU entrepreneurship community.
-
-## Imported Coverage
-
-- Startup State ID: 2554 (slug `utah-valley-university-uvu-entrepreneur-institute`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Student
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Summit, Utah, Wasatch
-- Listing modified: 2024-12-10T09:46:13
 
 
 ## Evidence

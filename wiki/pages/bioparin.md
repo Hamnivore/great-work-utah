@@ -7,8 +7,8 @@
 **Stage:** Early (STTR-funded)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Domain:** health-bio
 **Region:** Salt Lake City
 **Ownership:** private
@@ -53,6 +53,7 @@ The University of Utah spinout infrastructure — including the Technology Licen
 
 ## Open Questions
 
+- No agent-readable careers/jobs page found on bioparin.com (no careers path; no ATS board located).
 - Which biosynthetic route is Bioparin pursuing — cell-based or cell-free enzymatic synthesis?
 - Who are the founders and principal investigators, and what is their prior heparin chemistry experience?
 - Has the company established a clear FDA regulatory strategy for heparin equivalence?

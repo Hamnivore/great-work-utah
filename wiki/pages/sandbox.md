@@ -19,7 +19,7 @@
 **Additional Map Location:** Utah Tech University, 225 S University Ave, St. George, UT 84770 | 37.1028759, -113.5654100 | exact | https://news.utahtech.edu/2024/04/09/sandbox/
 **Website:** https://web.sandbox.ing
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/sandbox-utah-entrepreneurship-education-2026/1600/1100
 **Pull:** *One accredited year spent building a venture-scale startup — not writing business plans.*
 **Relates:** cites [Official Website: Sandbox](sandbox-official-website.md) · https://greatutah.work/pages/sandbox-official-website.md · https://web.sandbox.ing
@@ -47,6 +47,8 @@ Partner institutions (per official site and university announcements) include BY
 
 The program explicitly selects for venture-scale software startups — not small-business operators or nonprofit founders.
 
+Finding a cofounder is part of the product, not merely a possible side effect. The Fellowship advertises a cohort of committed builders working side-by-side so participants can learn whom they collaborate with well; Sandbox outcome stories include founders who report meeting their cofounders in the program. A 2024 participant independently described the cohort as one of Utah's strongest pools of people actively seeking cofounders. The same participant reported a $2,000 entry cost when unaffiliated with a school in 2024, but that historical figure is not independently verified and should not be confused with current Fellowship tuition.
+
 ## What They Need Now
 
 Sandbox likely needs experienced startup operators as coaches (not lecturers), mentor networks with real venture and hiring connections, partnership managers for new university integrations, and engineers who can support student teams building production software. Students need ambitious co-founders, a venture-scale idea, and tolerance for a one-year pressure cooker.
@@ -62,6 +64,7 @@ Sandbox is a distinct lane in Utah's education ecosystem. It complements — rat
 ## Evidence
 
 - [Official Website: Sandbox](sandbox-official-website.md) · https://greatutah.work/pages/sandbox-official-website.md · https://web.sandbox.ing
+- [Sandbox Participant Report — 2024 Access And Cofounder Experience](sandbox-participant-report-2024.md) · https://greatutah.work/pages/sandbox-participant-report-2024.md
 
 ## See Also
 
@@ -70,6 +73,8 @@ Sandbox is a distinct lane in Utah's education ecosystem. It complements — rat
 - [Lucid Software](lucid-software.md) · https://greatutah.work/pages/lucid-software.md — Utah software success story; potential employer and pattern for Sandbox-style founders
 - [SchoolAI](schoolai.md) · https://greatutah.work/pages/schoolai.md — younger Utah edtech company; contrasting institutional AI deployment vs. founder incubation
 - [BYU-Pathway Worldwide](byu-pathway.md) · https://greatutah.work/pages/byu-pathway.md — contrasting global access credentialing vs. elite founder selection
+- [Find A Cofounder In Utah](find-a-cofounder.md) · https://greatutah.work/pages/find-a-cofounder.md — places Sandbox alongside lower-commitment ways to test a founding relationship
+- [JustBuild](justbuild.md) · https://greatutah.work/pages/justbuild.md — open Slack, coworking, and hackathon route for meeting Utah builders
 
 ## Open Questions
 
@@ -77,3 +82,4 @@ Sandbox is a distinct lane in Utah's education ecosystem. It complements — rat
 - Whether early YC and valuation outcomes depend on BYU's specific student network and selection effects.
 - Replication quality as the program scales from a hand-tuned BYU cohort to larger public-university enrollments.
 - Long-term career outcomes for students who do not continue their startups after graduation.
+- No agent-readable careers/jobs page found for Sandbox LLC staff hiring (web.sandbox.ing/careers 404).

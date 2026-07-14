@@ -13,9 +13,10 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=SCI+Institute+72+South+Central+Campus+Drive+Salt+Lake+City+UT
 **Website:** https://www.sci.utah.edu
+**Careers:** https://sci.utah.edu/opportunities/
 **Domain:** computing, health-bio
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-05-09
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/sci-institute-scientific-visualization-2026/1600/1100
 **Pull:** *Three decades of building and giving away the visual and computational tools scientists use to see what their data is doing.*
 
@@ -38,8 +39,7 @@ SCI's central problem is making scientific data legible without making it dishon
 A newer hard problem layered on top: integrating scientific machine learning into these pipelines without creating a black box. If a neural network is doing the segmentation, how does a domain expert verify the output? SCI's recent work in uncertainty-aware visualization is pointed at that question.
 
 ## What They Need Now
-
-Likely needs include computer-graphics researchers, numerical-methods engineers, software engineers comfortable maintaining 20-year-old codebases that other scientists depend on, biomedical and clinical collaborators, and HCI researchers who care about the sharp edge between display and interpretation. PhD students who want to build software that is used outside their own dissertations — and who can tolerate academic compensation — fit unusually well.
+Openings cluster in data visualization, computational oncology, and AI for image analysis / computer vision: faculty and staff scientists, research software engineers, and AI/ML engineers who can maintain long-lived scientific codebases — plus postdoctoral fellowships (One-U RAI) and standing graduate RA pathways in CS, Computing, BME, Math, and ECE.
 
 ## Who Could Help
 

@@ -7,8 +7,8 @@
 **Stage:** Preclinical; CALYM-001 at in vivo validation, pre-IND target
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Domain:** health-bio
 **Region:** Salt Lake City
 **Website:** https://www.calyciabioscience.com
@@ -63,6 +63,7 @@ CaLycia is headquartered in Salt Lake City and appears connected to the Universi
 
 ## Open Questions
 
+- No agent-readable careers/jobs page found (site lists careers@calyciabioscience.com only; /careers and /jobs 404).
 - Founders, academic PI linkage (Roh-Johnson lab), and Daniel Greiner's role cited in legacy notes are not confirmed on the official website.
 - Cumming Foundation seed investment terms and amount are not established on the source page reviewed here.
 - IND filing timeline, specific CAR or receptor engineering approach, and clinical-site strategy are undisclosed publicly.

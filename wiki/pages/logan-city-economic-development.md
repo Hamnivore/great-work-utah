@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Relocate a Business to Utah, Start a Business
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
@@ -17,68 +17,31 @@
 
 ## Summary
 
-Logan City’s Economic Development Office fosters a business-friendly environment by supporting entrepreneurship, facilitating new business growth, and enhancing infrastructure for long-term success. The city provides resources such as business licensing, site selection tools, and economic data to assist businesses in thriving within Cache Valley.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): Logan City's Economic Development office helps businesses locate, grow, and navigate city resources in Cache Valley. Public pages cover site selection, economic data, redevelopment agency (RDA) information, business licensing links, and a curated list of available business resources.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Business owners, entrepreneurs, and site selectors evaluating Logan or Cache Valley who need city-level economic development contact, site search help, or links to local business resources.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+City economic development services include site selection assistance (lease or buy), economic data, RDA/project-area information, links to business licensing and permits, utility services, and an available-resources page listing regional programs. Director Kirk Jensen is the primary contact for site and development inquiries.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php) · https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
+- [Economic Development home](https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php) · https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
+- [Find a site](https://www.loganutah.gov/government/mayor_s_office/economic_development/find_a_site.php) · https://www.loganutah.gov/government/mayor_s_office/economic_development/find_a_site.php
+- [Available resources](https://www.loganutah.gov/government/mayor_s_office/economic_development/available_resources.php) · https://www.loganutah.gov/government/mayor_s_office/economic_development/available_resources.php
+- Kirk Jensen, Director: [kirk.jensen@loganutah.org](mailto:kirk.jensen@loganutah.org) · (435) 716-9015
 - Startup State listing: https://startup.utah.gov/business-resource/logan-city-economic-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+City economic development outreach is free; individual programs linked from the city site may have their own fees or eligibility rules.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2670 (slug `logan-city-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Cache
-- Listing modified: 2024-12-10T17:15:35
-
+Founders or operators considering a Logan location, expansion, or city permits who need a municipal economic development contact — not a substitute for SBDC advising or chamber membership.
 
 ## Evidence
 
@@ -86,8 +49,3 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php) · https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
 
-## Open Questions
-
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

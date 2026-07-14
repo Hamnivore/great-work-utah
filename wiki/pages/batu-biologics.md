@@ -8,8 +8,8 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/batu-biologics-2026/1600/1100
 **Relates:** cites [Official Website: Batu Biologics](batu-biologics-official-website.md) · https://greatutah.work/pages/batu-biologics-official-website.md
 
@@ -49,6 +49,7 @@ The University of Utah has a meaningful immuno-oncology research community ancho
 
 ## Open Questions
 
+- No public careers/jobs page found; limited public presence and no verified company website.
 - What is the specific mechanism or differentiation of Batu Biologics' approach relative to approved anti-angiogenic agents like bevacizumab?
 - Who are the founders and principal investigators?
 - What is the company's website URL, if it maintains a public web presence?

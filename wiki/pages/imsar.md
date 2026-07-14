@@ -11,8 +11,8 @@
 **Careers:** https://imsar.applicantpro.com/jobs/
 **Website:** https://www.imsar.com/
 **Domain:** aerospace-defense
-**Updated:** 2026-06-18
-**Needs-reviewed:** 2026-06-18
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/imsar-low-swap-radar-utah-valley-2026/1600/1100
 **Pull:** *Low-SWaP airborne radar built in Utah Valley for tactical platforms.*
 
@@ -58,6 +58,7 @@ IMSAR belongs near [Fortem Technologies](fortem-technologies.md), [Space Dynamic
 
 ## Open Questions
 
+- The ApplicantPro careers board is JS-rendered and does not expose job titles over plain HTTP; is there a readable jobs feed or alternate ATS URL?
 - Which DoD, DHS, or allied-government programs are public enough to cite directly?
 - What share of revenue is defense, homeland security, commercial, environmental, or law enforcement?
 - Which performance claims have independent test or procurement documentation?

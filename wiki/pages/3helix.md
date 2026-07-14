@@ -9,8 +9,8 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://www.3helix.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/3helix-2026/1600/1100
 **Pull:** *Peptides that bind damaged collagen specifically — diagnostics, therapeutics, and a cosmetics entry through BASF.*
 **Relates:** cites [Official Website: 3Helix](3helix-official-website.md) · https://greatutah.work/pages/3helix-official-website.md · https://www.3helix.com
@@ -50,6 +50,7 @@ Useful helpers include diagnostic contrast-agent developers, collagen-biology ac
 
 ## Open Questions
 
+- No agent-readable careers/jobs page found (3helix.com/careers and /jobs return 404; no ATS board located).
 - What is the status and timeline of therapeutic or diagnostic IND programs beyond research reagents?
 - How does BASF's personal-care exclusivity constrain pharma licensing for oncology and cardiovascular indications?
 - Ten years from founding to preclinical therapeutics — is the platform on track or stalled at the cosmetics wedge?

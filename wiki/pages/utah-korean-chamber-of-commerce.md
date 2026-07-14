@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-**Primary Location:** Utah
+**Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** 3300 Triumph Blvd, Suite 100, Lehi, UT 84043
@@ -17,72 +17,34 @@
 
 ## Summary
 
-The Utah Korean Cultural Center (UKCC) is a nonprofit organization dedicated to promoting Korean culture and heritage within Utah. UKCC offers various programs and events, including language classes, cultural workshops, and traditional performances, to foster understanding and appreciation of Korean traditions. The center serves as a hub for cultural exchange, aiming to strengthen the Korean-American community and build connections with the broader public.
+The Utah Korean Chamber of Commerce (UKCC) supports Korean and broader Utah business owners through advocacy, market insight, and networking. Verified on the official site (2026-07-14): it hosts community events (including monthly lunches and the UT SMB Summit & Expo), publishes sponsorship and partnership opportunities, and positions itself as a connector for local market intelligence.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The site focuses on chamber membership and business networking—not direct lending or startup grants.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Multicultural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Korean-American entrepreneurs, Utah small business owners, and professionals seeking culturally connected networking, advocacy, and local market information.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
+Business advocacy, networking events, newsletter updates, sponsorship/partnership channels, and local market insight resources. Upcoming events are listed publicly on the homepage with RSVP links.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://www.utahkcc.org/) · https://www.utahkcc.org/
+- Join / learn more via homepage "Join Us" and "Learn More" flows
 - Email: [utahkcc@gmail.com](mailto:utahkcc@gmail.com)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-korean-chamber-of-commerce/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership and event costs are not published on the homepage; RSVP pages may state fees per event. Contact the chamber for membership tiers and sponsorship options.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Korean-American and multicultural business owners who want chamber networking, advocacy, and Utah market connections.
 
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
-- Multicultural
-
-## Imported Coverage
-
-- Startup State ID: 2899 (slug `utah-korean-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Multicultural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-01-07T10:38:15
-
+Less useful for founders seeking venture capital, SBIR coaching, or industry-agnostic accelerator programming.
 
 ## Evidence
 
@@ -92,6 +54,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership dues and benefits tiers?
+- Does UKCC offer formal mentorship or only event-based networking?

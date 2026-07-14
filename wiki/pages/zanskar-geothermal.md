@@ -36,8 +36,7 @@ Zanskar is building an exploration tool that ingests seismic, geophysical, geolo
 The 2025 blind-system discovery is currently the strongest demonstration that the inference is doing real work, not just picking up signals visible to the naked eye.
 
 ## What They Need Now
-
-Lever openings (as of 2026-07-14, Salt Lake City hybrid / field) include Development Manager, Mechanical and Systems Engineer, Equipment / Geologic Technician, and Platform Engineer (AI Agent Systems) — plus related seismology/software roles as they rotate. That matches the stack: project development and field ops alongside geoscience and ML platform work. For talent matching, Zanskar remains a strong candidate for AI engineers who want predictions falsified by drilling, and for subsurface operators who can navigate land access and federal leases.
+Hiring (Salt Lake City hybrid / field) spans project development, mechanical and systems engineering, equipment and geologic technicians, and platform/AI engineering, with seismology and software roles rotating through the board. That matches the stack: project development and field ops alongside geoscience and ML platform work. For talent matching, Zanskar remains a strong candidate for AI engineers who want predictions falsified by drilling, and for subsurface operators who can navigate land access and federal leases.
 
 ## Who Could Help
 

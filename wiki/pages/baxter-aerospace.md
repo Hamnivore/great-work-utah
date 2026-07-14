@@ -12,9 +12,10 @@
 **Coordinates:** 37.1167774, -113.5180667
 **Location Precision:** exact
 **Location Source:** https://www.baxteraerospace.com/careers/
-**Website:** https://www.businesswire.com/news/home/20250724456980/en/The-DoD-Accelerator-Managed-by-Accuidity-Capital-Management-Announces-a-%246-Million-Series-A-Investment-in-Baxter-Aerospace
+**Website:** https://www.baxteraerospace.com/
+**Careers:** https://www.baxteraerospace.com/careers/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-18
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/baxter-dragonfly-vtol-uas-2026/1600/1100
 **Pull:** *Long-endurance VTOL drones and deployable satellite comms for austere, connectivity-denied environments.*
 

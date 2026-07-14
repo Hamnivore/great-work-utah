@@ -9,8 +9,8 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://setheratx.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/sethera-therapeutics-2026/1600/1100
 **Pull:** *Enzymatic peptide cross-linking to make unstable peptides drug-like — platform bet, very early.*
 **Relates:** cites [Official Website: Sethera Therapeutics](sethera-therapeutics-official-website.md) · https://greatutah.work/pages/sethera-therapeutics-official-website.md · https://setheratx.com
@@ -52,4 +52,5 @@ Sethera is a U of U research spinout at 48 S Rio Grande Street in Salt Lake City
 - How does the platform compare with stapled peptides, macrocyclization companies, ADCs, and other peptide-stabilization approaches?
 - Funding stage and team size beyond the official team page — legacy intake described stage-appropriate early funding only.
 - Platform biotech plays typically need 8–15 years from founding to first approved drug; Sethera was founded ~2023.
+- No agent-readable careers/jobs page found (setheratx.com/careers 404).
 - The placeholder hero should be replaced with a cleared platform or team image when rights are confirmed.

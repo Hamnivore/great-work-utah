@@ -13,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://hypercraftusa.com/contact/
 **Domain:** aerospace-defense, energy
-**Website:** https://utah.vc/p/hypercraft-raises-26m
+**Website:** https://www.hypercraft.com/
 **Careers:** https://hypercraftusa.com/careers/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
@@ -40,8 +40,7 @@ Hypercraft's stack centers on standardized series-hybrid and full-electric power
 A December 2025 co-development agreement with Baker Engineering aims to jointly field hybrid-electric vehicles for defense, pairing Baker's manufacturing with Hypercraft's propulsion — a signal the company is moving toward integrated vehicle programs, not just selling components. [Source: Hypercraft $26M Series A](hypercraft-series-a-2025.md)
 
 ## What They Need Now
-
-Likely needs include powertrain engineers, power-electronics engineers, embedded and vehicle-control software engineers, systems-integration engineers, and defense program managers who understand military vehicle-modernization procurement. The official careers page (July 2026) routes applications through Hypercraft's Eddy board and emphasizes propulsion, rugged hardware, and defense-mobility talent; third-party listings have recently included embedded systems, battery, and defense business-development roles.
+Likely needs include powertrain engineers, power-electronics engineers, embedded and vehicle-control software engineers, systems-integration engineers, and defense program managers who understand military vehicle-modernization procurement. The official careers page routes applications through Hypercraft’s Eddy board and emphasizes propulsion, rugged hardware, and defense-mobility talent.
 
 Strong fit for engineers who want defense-relevant hardware work in Utah and are comfortable with the longer sales cycles and compliance demands of military customers.
 

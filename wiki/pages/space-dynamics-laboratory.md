@@ -12,11 +12,11 @@
 **Coordinates:** 41.7632427, -111.8219866
 **Location Precision:** exact
 **Location Source:** https://www.sdl.usu.edu/contact/
-**Careers:** https://www.sdl.usu.edu/careers/jobs
+**Careers:** https://spacedynamicslaboratory.applytojob.com/
 **Website:** https://www.sdl.usu.edu
 **Domain:** space-science, aerospace-defense
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-05-09
+**Needs-reviewed:** 2026-07-14
 **Hero:** /img/heroes/front/space-dynamics-1600.webp
 **Hero caption:** *The SDL auditorium building at sunrise, North Logan, Utah — photograph by Jacobkhed (Wikimedia Commons, CC BY-SA 4.0).*
 **Pull:** *Utah State University's UARC, with more than four hundred space missions and the moon visible above the auditorium.*
@@ -41,8 +41,7 @@ SDL builds and supports mission systems: space-rated instruments and payloads, e
 Its about page says SDL has more than 1,300 employees and offices nationwide, while remaining headquartered on Utah State University's Innovation Campus in North Logan.
 
 ## What They Need Now
-
-Likely needs include optical engineers, electrical engineers, systems engineers, software engineers, mission assurance specialists, cyber specialists, program managers, and students who want applied engineering experience.
+Hiring spans systems and mission engineering, spacecraft GN&C, quality/SQA, C4ISR program management, cleared Linux/systems administrators and technicians, TEMPEST/EMR survivability work, and North Logan student roles in electrical, mechanical, and lab/database work. Broader fit still includes optical and electrical engineers, cyber specialists, program managers, and students who want applied engineering experience.
 
 For students, SDL is especially relevant because it integrates student employees into active technical programs. For senior operators, it may be a fit if they prefer long-horizon mission work over startup volatility.
 

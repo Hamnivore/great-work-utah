@@ -9,8 +9,8 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://enduracure.com
-**Updated:** 2026-06-19
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-07-14
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/enduracure-manufacturing-2026/1600/1100
 **Pull:** *Flexible electronics on polymer substrates that perform normally in use but dissolve on demand — unlocking end-of-life recovery of the chips, metals, and materials now buried in e-waste.*
 **Relates:** cites [Official Website: EnduraCure](enduracure-official-website.md) · https://greatutah.work/pages/enduracure-official-website.md · https://enduracure.com
@@ -55,6 +55,7 @@ EnduraCure is a direct product of the University of Utah's materials science res
 
 ## Open Questions
 
+- No agent-readable careers/jobs page found (enduracure.com has no careers/jobs path or ATS board).
 - What is the current state of the dissolution chemistry — lab-scale demonstration only, or early prototype substrate samples?
 - Has EnduraCure filed any patents on the photocured substrate formulation, and what is the IP position relative to the U of U TLO?
 - Which specific flexible electronics applications (medical sensors, smart packaging, wearables) are targeted for first commercial pilot?

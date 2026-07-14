@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Focus:** Entrepreneurship Communities, Marketing and Sales, Taxes and Finance
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -17,91 +17,39 @@
 
 ## Summary
 
-The "What's Up Down South" Economic Summit is Southern Utah's premier business gathering, offering insights into regional economic trends and strategic planning. The 29th annual summit is scheduled for January 9, 2025, at the Dixie Convention Center in St. George, Utah, featuring keynote speakers, skill-based workshops, and networking opportunities. This event is designed to equip business and community leaders with the latest economic information to help plan for the year ahead.
+What's Up Down South is southern Utah's largest annual economic summit, presented with Intermountain Health and Select Health. It delivers regional economic forecasts, keynote speakers, skill-based breakout sessions, and networking for Washington County business and community leaders.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Rural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
+Southern Utah business owners, executives, and community leaders — especially those planning around regional growth, tourism, utilities, and workforce trends.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site schedules the summit at the Dixie Convention Center (1835 S Convention Center Dr, St. George). The January 14, 2027 edition includes breakfast and lunch, exhibit hall, keynotes (listed speakers include Kem C. Gardner Policy Institute economist Phil Dean and SBA advocate Trent Staggs), two breakout blocks, and an optional Rural Utah Data Symposium add-on (listed at $25 for January 15, 2026 post-conference session). General admission is listed at $200.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://whatsupdownsouth.org/) · https://whatsupdownsouth.org/
+- Purchase tickets via the official site ticket section
 - Startup State listing: https://startup.utah.gov/business-resource/whats-up-down-south-economic-summit/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+General admission listed at $200 (includes breakfast, lunch, and networking). Rural Utah Data Symposium listed at $25 as a post-conference add-on. Verify current prices before purchase.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for St. George/Washington County operators who want data-driven regional planning and peer networking in one day.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-- Rural
-
-## Imported Coverage
-
-- Startup State ID: 2633 (slug `whats-up-down-south-economic-summit`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Rural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other
-- Locations: Beaver, Garfield, Iron, Kane, Washington
-- Listing modified: 2024-12-10T13:12:40
+Weaker fit for pre-revenue founders outside southern Utah unless they are evaluating expansion into the market.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://whatsupdownsouth.org/) · https://whatsupdownsouth.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which breakout tracks are most relevant for founders vs. established operators?
+- Does the RUDS add-on repeat annually on the same schedule?

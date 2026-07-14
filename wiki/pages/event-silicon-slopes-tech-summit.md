@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-**Primary Location:** Utah
+**Focus:** Entrepreneurship Communities, Late Stage Growth, Funding
+**Primary Location:** Lehi, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Map Location:** Salt Palace Convention Center, 100 S W Temple St, Salt Lake City, UT 84101
@@ -17,91 +17,40 @@
 
 ## Summary
 
-The Silicon Slopes Summit is one of North America's premier tech and business events, bringing together industry leaders, entrepreneurs, and innovators for networking, keynote speeches, and workshops. The upcoming Summit is scheduled for January 13th to 17th, 2025, with events planned at both the UCCU Center at Utah Valley University and the Salt Palace Convention Center in Salt Lake City. Attendees can expect a diverse agenda featuring world-class speakers, networking opportunities, and specialized tracks such as Startup Alley, focusing on emerging businesses and investment opportunities.
+Silicon Slopes Summit is Utah's flagship tech and business convening hosted by [Silicon Slopes](silicon-slopes.md). It brings together founders, operators, investors, and industry leaders for multi-day programming, networking, and specialized tracks such as Startup Alley.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah tech founders, growth-stage operators, investors, and community members seeking large-scale networking and summit programming.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The summit site (linked from Silicon Slopes) is the canonical source for dates, venues, speakers, and tracks. Startup State import referenced multi-venue programming (UCCU Center at Utah Valley University and Salt Palace Convention Center) and Startup Alley for emerging companies — confirm current-year details on the official summit page before recommending.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.siliconslopes.com/summit) · https://www.siliconslopes.com/summit
+- [Official summit page](https://www.siliconslopes.com/summit) · https://www.siliconslopes.com/summit
+- [Silicon Slopes](https://www.siliconslopes.com/) · https://www.siliconslopes.com/
 - Startup State listing: https://startup.utah.gov/business-resource/silicon-slopes-tech-summit/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Ticket tiers vary by year and pass type. Verify current pricing and startup-track access on the official summit registration page.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for Utah tech founders and operators who benefit from concentrated networking, investor visibility, and ecosystem programming at statewide scale.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2630 (slug `silicon-slopes-tech-summit`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:13:15
+Weaker fit for rural non-tech Main Street businesses without a tech growth narrative.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Silicon Slopes](silicon-slopes.md) · https://greatutah.work/pages/silicon-slopes.md · https://www.siliconslopes.com/
+- [Official summit page](https://www.siliconslopes.com/summit) · https://www.siliconslopes.com/summit
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.siliconslopes.com/summit) · https://www.siliconslopes.com/summit
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are the next summit dates, venues, and Startup Alley application rules?
+- Which ticket level is appropriate for first-time founders?

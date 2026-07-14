@@ -12,9 +12,10 @@
 **Coordinates:** 40.7215577, -111.5472091
 **Location Precision:** exact
 **Location Source:** https://www.summitcountyutah.gov/CivicAlerts.asp?AID=505&ARC=1224
+**Careers:** https://skullcandy.applicantpro.com/jobs/
 **Website:** https://www.skullcandy.com
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/skullcandy-lifestyle-audio-2026/1600/1100
 **Pull:** *Park City-born audio with bass-heavy personality — headphones and earbuds for action sports and everyday listeners.*
 **Relates:** cites [Official Website: Skullcandy](skullcandy-official-website.md) · https://greatutah.work/pages/skullcandy-official-website.md · https://www.skullcandy.com
@@ -63,4 +64,5 @@ Skullcandy was founded in Park City by Rick Alden, who legacy intake says concei
 - What is Skullcandy's current ownership structure and strategic direction under Jeff Hutchings as CEO (per legacy notes)?
 - Which philanthropic initiatives, including the I CAN'T HEAR YOU Foundation, remain active and how are they funded?
 - How does Skullcandy compete on margin and differentiation against Apple, Sony, Bose, JBL, and budget DTC audio brands?
+- The ApplicantPro careers board is JS-rendered and shows little over plain HTTP — agents should hand the URL to the user; verify hiring volume directly with the company.
 - The placeholder hero should be swapped for a cleared product or brand image when licensing is resolved.

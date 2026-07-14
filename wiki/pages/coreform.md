@@ -13,6 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://coreform.com/support/contact/
 **Website:** https://coreform.com
+**Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/coreform-isogeometric-analysis-2026/1600/1100

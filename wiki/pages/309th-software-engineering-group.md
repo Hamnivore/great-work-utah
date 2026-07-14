@@ -9,6 +9,7 @@
 **Utah Location:** Hill Air Force Base, UT
 **Region:** Hill Air Force Base
 **Careers:** https://afscsoftware.dso.mil/careers/
+**Domain:** aerospace-defense
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *The code that keeps most of the U.S. Air Force combat fleet flying — F-35, F-22, F-16, A-10, ICBMs, cruise missiles, and the B-21 sustainment pipeline.*

@@ -98,7 +98,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Hill Air Force Base",
-        "domains": [],
+        "domains": [
+          "aerospace-defense"
+        ],
         "focus": "flight software, weapons software, mission software, DevSecOps, safety-critical systems, Air Force sustainment"
       }
     },
@@ -198,7 +200,10 @@ export default {
         "provenance": "https://actaero.com/contact-us/",
         "anchorKind": "site",
         "region": "Gunnison",
-        "domains": [],
+        "domains": [
+          "aerospace-defense",
+          "materials-mfg"
+        ],
         "focus": "aerospace composites, carbon fiber structures, composite manufacturing, aerostructures, defense supply chain"
       }
     },
@@ -301,7 +306,7 @@ export default {
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Relocate a Business to Utah"
+        "focus": "shared wet-lab space, biotech accelerator, techbio commercialization, pre-seed funding"
       }
     },
     {
@@ -600,7 +605,9 @@ export default {
         "provenance": "https://www.bamboohr.com/about-bamboohr/contact/",
         "anchorKind": "site",
         "region": "Draper",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "HR software, payroll, benefits, people operations, SMB SaaS"
       }
     },
@@ -1478,7 +1485,9 @@ export default {
         "provenance": "https://coreform.com/support/contact/",
         "anchorKind": "site",
         "region": "Orem",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "engineering simulation, isogeometric analysis, CAD, finite element analysis, CAE"
       }
     },
@@ -1678,7 +1687,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens"
       }
     },
@@ -1903,7 +1914,9 @@ export default {
         "provenance": "https://www.domo.com/company/privacy-policy",
         "anchorKind": "site",
         "region": "American Fork",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS"
       }
     },
@@ -2436,7 +2449,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "1835 S Convention Center Dr, St. George, UT 84790",
         "precision": "exact",
-        "provenance": "https://whatsupdownsouth.org/event/whats-up-down-south-2026/",
+        "provenance": "https://whatsupdownsouth.org/",
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
@@ -2925,7 +2938,9 @@ export default {
         "provenance": "https://ir.healthcatalyst.com/static-files/df3c1cda-c41b-4490-885a-3c8e09216361",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "healthcare data analytics, population health, value-based care, clinical data integration"
       }
     },
@@ -3866,7 +3881,9 @@ export default {
         "provenance": "https://utahfounders.org/resource/kinect-capital/",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities, Funding"
       }
     },
@@ -4093,7 +4110,9 @@ export default {
         "provenance": "https://lucid.co/contact-us",
         "anchorKind": "site",
         "region": "South Jordan",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "B2B SaaS, visual collaboration, diagramming, whiteboarding, enterprise software"
       }
     },
@@ -4499,7 +4518,9 @@ export default {
         "provenance": "https://www.mx.com/",
         "anchorKind": "site",
         "region": "Lehi",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "open banking, financial data, account aggregation, fintech API platform"
       }
     },
@@ -4549,7 +4570,9 @@ export default {
         "provenance": "https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine"
       }
     },
@@ -4727,7 +4750,9 @@ export default {
         "provenance": "https://www.nucleusfundutah.com/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "early-stage capital, deep tech, university spinouts, commercialization"
       }
     },
@@ -4752,7 +4777,9 @@ export default {
         "provenance": "https://www.nucleusutah.org/grow",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "SBIR, STTR, non-dilutive funding, deep tech, research commercialization"
       }
     },
@@ -5030,7 +5057,10 @@ export default {
         "provenance": "https://www.palladyneai.com/contact-us/",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "aerospace-defense",
+          "computing"
+        ],
         "focus": "embodied AI, collaborative autonomy, edge inference, defense technology, robotics"
       }
     },
@@ -5055,7 +5085,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Park City",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -5308,7 +5340,9 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=Podium+1650+W+Digital+Dr+Lehi+UT+84043",
         "anchorKind": "site",
         "region": "Lehi",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "customer communication, SaaS, local business software, SMS, reviews, payments"
       }
     },
@@ -5463,7 +5497,9 @@ export default {
         "provenance": "https://ramasd.com/contact/",
         "anchorKind": "site",
         "region": "St. George",
-        "domains": [],
+        "domains": [
+          "aerospace-defense"
+        ],
         "focus": "propulsion valves, precision manufacturing, spacecraft components, fluid control, aerospace supply chain"
       }
     },
@@ -5843,7 +5879,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -6193,7 +6231,10 @@ export default {
         "provenance": "https://investor.palladyneai.com/static-files/eac7bc9d-c483-4411-bd8f-486146791517",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "materials-mfg",
+          "aerospace-defense"
+        ],
         "focus": "robotics, industrial automation, defense, exoskeletons, teleoperation"
       }
     },
@@ -6902,7 +6943,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "aerospace-defense"
+        ],
         "focus": "strategic intelligence, geopolitical risk, economic security, AI, national security"
       }
     },
@@ -7179,7 +7222,10 @@ export default {
         "provenance": "https://techcyte.com/careers/join-our-team/",
         "anchorKind": "site",
         "region": "Orem",
-        "domains": [],
+        "domains": [
+          "health-bio",
+          "computing"
+        ],
         "focus": "digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, life sciences"
       }
     },
@@ -9539,7 +9585,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "West Desert",
-        "domains": [],
+        "domains": [
+          "aerospace-defense"
+        ],
         "focus": "military test ranges, aerospace and defense, restricted airspace, weapons evaluation"
       }
     },
@@ -9639,7 +9687,9 @@ export default {
         "provenance": "https://www.nucleusutah.org/utif",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "SBIR, STTR, microgrants, nonrecourse loans, R&D funding"
       }
     },
@@ -10098,7 +10148,6 @@ export default {
         "anchorKind": "site",
         "region": "Springville",
         "domains": [
-          "aerospace-defense",
           "computing"
         ],
         "focus": "intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing"
@@ -10126,7 +10175,6 @@ export default {
         "anchorKind": "site",
         "region": "Springville",
         "domains": [
-          "aerospace-defense",
           "computing"
         ],
         "focus": "intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing"
@@ -10153,7 +10201,10 @@ export default {
         "provenance": "https://www.getweave.com/legal/terms/",
         "anchorKind": "site",
         "region": "Lehi",
-        "domains": [],
+        "domains": [
+          "health-bio",
+          "computing"
+        ],
         "focus": "applied AI, vertical SaaS, healthcare communications, voice AI, payments"
       }
     },
@@ -10430,6 +10481,33 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Workfront",
+        "type": "venture",
+        "url": "/pages/workfront.md",
+        "siteId": "workfront:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing"
+        ],
+        "focus": "enterprise work management, marketing operations, project management, Adobe Experience Cloud"
       }
     },
     {

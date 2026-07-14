@@ -14,6 +14,7 @@
 **Location Source:** https://www.bamboohr.com/about-bamboohr/contact/
 **Careers:** https://job-boards.greenhouse.io/bamboohr17
 **Website:** https://www.bamboohr.com/
+**Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/bamboohr-hr-platform-lindon-2026/1600/1100

@@ -12,6 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.nucleusutah.org/grow
 **Website:** https://www.nucleusutah.org/grow
+**Domain:** capital-programs
 **Updated:** 2026-07-14
 **Layout:** field-guide
 

@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Audience:** operators, students, researchers, executives, helpers
 **Focus:** career matching, Utah deep tech, mission-driven work
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 
 ## Overview
 
@@ -79,6 +79,18 @@ Look at SDL if you want space, sensors, national-security engineering, or applie
 
 Look at Fervo if your experience is field execution, drilling, construction, power, or large capital projects. Look at Hexcel if your experience is manufacturing, quality systems, process control, or aerospace supply chains. Look at Merit Medical if your experience is precision manufacturing, FDA-regulated production, or sterile single-use devices.
 
+### I am a mechanical or manufacturing engineer looking north of Salt Lake
+
+[Northrop Grumman Promontory](northrop-grumman-promontory.md) is the first northern-Utah route for mechanical design, large aerospace hardware, process and manufacturing engineering, quality, materials, and systems work. Start with Northrop's own careers board and search for Promontory or Utah roles rather than assuming every Northrop opening is local. Expect long program timelines, large-team structures, and clearance or program restrictions on some work; decide explicitly whether defense and nuclear-deterrence programs fit your values.
+
+[Torus](torus.md) is the contrasting energy-hardware route for mechanical and manufacturing engineers willing to work in the Salt Lake area. Its fact page points to current manufacturing-scale-up, fabrication, technician, embedded, electrical-test, and field-operations needs. Use Torus's careers page to verify the live role and worksite, then make the application concrete by connecting prior shop-floor, rotating-equipment, power, controls, quality, or factory-ramp experience to the named role rather than applying as a generic mechanical engineer.
+
+### I just finished a biomedical or bioengineering bachelor's degree
+
+Choose the product layer before choosing the company. [Merit Medical](merit-medical.md) and [BioFire Diagnostics](biofire-diagnostics.md) are the clearest scaled routes for entry-level exposure to regulated manufacturing, quality, engineering, assay or laboratory operations, and clinical-product support; use their official careers boards and search by Utah location and role family. [Owlet](owlet-baby-care.md) adds a consumer-hardware and connected-health path, with current openings linked from its fact page.
+
+For smaller-company work, [Epitel](epitel.md) spans wearable EEG, electrical and biomedical engineering, signal processing, regulatory work, and clinical operations, while [Iris Biomedical](iris-biomedical.md) sits in Utah's neural-interface manufacturing cluster. Their pages do not establish a dependable stream of entry-level openings, so verify a live role before investing in a tailored application and do not treat a general contact as a job posting. If the real goal is research training rather than an immediate industry role, the [Utah Neurorobotics Lab](utah-neurorobotics-lab.md) is a graduate-student, postdoc, and research-engineering path—not a generic bachelor's-level employer. A useful first pass is to pick one lane, map a capstone or lab project to that lane's documented needs, and then apply through the organization's official route.
+
 ### I am an AI engineer who wants physical-world impact
 
 Recursion, Fortem, Zanskar, and SDL all belong on the map, but for different reasons. Recursion is biology and data scale. Fortem is autonomy, radar, and threat response. Zanskar is geophysics inference where the truth is decided by a drill bit. SDL is mission systems and sensing.
@@ -112,6 +124,13 @@ This pass is based on public organization pages, press releases, and institution
 - [SCI Institute](sci-institute.md)
 - [Sundance Institute](sundance-institute.md)
 - [FamilySearch](familysearch.md)
+- [Northrop Grumman Promontory](northrop-grumman-promontory.md)
+- [Torus](torus.md)
+- [BioFire Diagnostics](biofire-diagnostics.md)
+- [Epitel](epitel.md)
+- [Iris Biomedical](iris-biomedical.md)
+- [Owlet Baby Care](owlet-baby-care.md)
+- [Utah Neurorobotics Lab](utah-neurorobotics-lab.md)
 
 ## Open Questions
 

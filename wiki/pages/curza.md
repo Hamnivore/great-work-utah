@@ -9,6 +9,7 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://curza.com
+**Domain:** health-bio
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/curza-2026/1600/1100

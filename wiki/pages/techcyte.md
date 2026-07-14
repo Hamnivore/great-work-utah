@@ -14,6 +14,7 @@
 **Location Source:** https://techcyte.com/careers/join-our-team/
 **Careers:** https://techcyte.com/careers/join-our-team/
 **Website:** https://www.techcyte.com
+**Domain:** health-bio, computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/techcyte-digital-pathology-fusion-2026/1600/1100

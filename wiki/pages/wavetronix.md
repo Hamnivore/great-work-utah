@@ -15,7 +15,7 @@
 **Additional Map Location:** Wavetronix Support, 1827 W 650 N, Springville, UT 84663 | 40.1757874, -111.6432556 | exact | https://www.wavetronix.com/find-office
 **Careers:** https://wavetronix.breezy.hr/
 **Website:** https://www.wavetronix.com/
-**Domain:** aerospace-defense, computing
+**Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/wavetronix-springville-traffic-radar-2026/1600/1100

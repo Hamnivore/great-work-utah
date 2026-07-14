@@ -17,8 +17,6 @@
 **Domain:** health-bio, computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** /img/heroes/front/recursion-1600.webp
-**Hero caption:** *Recursion scientists in the company's automated wet-lab, Salt Lake City — temporary hotlinked image from Recursion's website; image rights have not yet been cleared.*
 **Pull:** *Industrializing drug discovery on more than fifty petabytes of multimodal biological and chemical data.*
 
 ## Summary

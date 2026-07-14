@@ -18,8 +18,6 @@
 **Website:** https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/
 **Careers:** https://blackrockneurotech.com/careers/
 **Ownership:** private
-**Hero:** /img/heroes/front/blackrock-1600.webp
-**Hero caption:** *Nathan Copeland, who has lived with a Utah Electrode Array implant in his motor and somatosensory cortex since 2014 — temporary hotlinked photograph from the University of Pittsburgh / Rehab Neural Engineering Labs via WIRED; image rights have not yet been cleared.*
 **Pull:** *The Utah Electrode Array is the most-implanted, most-studied intracortical BCI electrode in history.*
 
 ## Summary

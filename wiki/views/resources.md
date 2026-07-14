@@ -11,7 +11,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Acceler8 Wasatch](/pages/acceler8-wasatch.md) · `https://greatutah.work/pages/acceler8-wasatch.md` · Entrepreneurship Communities, Late Stage Growth · conf:L
 - [Ai Seminar for Small Businesses & Non-Profits](/pages/ai-seminar-for-small-businesses-and-non-profits.md) · `https://greatutah.work/pages/ai-seminar-for-small-businesses-and-non-profits.md` · Other, Any, Aerospace and Defense, Agriculture · conf:L
 - [Album](/pages/album.md) · `https://greatutah.work/pages/album.md` · Funding · conf:M
-- [Altitude Labs](/pages/altitude-labs.md) · `https://greatutah.work/pages/altitude-labs.md` · Entrepreneurship Communities, Funding, Relocate a Business to Utah · conf:M
+- [Altitude Labs](/pages/altitude-labs.md) · `https://greatutah.work/pages/altitude-labs.md` · shared wet-lab space, biotech accelerator, techbio commercialization, pre-seed funding · conf:M
 - [Utah APEX Accelerator](/pages/apex-accelerator.md) · `https://greatutah.work/pages/apex-accelerator.md` · Late Stage Growth, Marketing and Sales, Start a Business · conf:M
 - [Apprenticeship Utah](/pages/apprenticeship-utah.md) · `https://greatutah.work/pages/apprenticeship-utah.md` · Late Stage Growth, Start a Business · conf:M
 - [Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md) · `https://greatutah.work/pages/atwood-innovation-plaza.md` · Entrepreneurship Communities, Start a Business, Funding · conf:M

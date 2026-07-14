@@ -14,6 +14,7 @@
 **Location Source:** https://www.domo.com/company/privacy-policy
 **Careers:** https://www.domo.com/company/careers
 **Website:** https://www.domo.com
+**Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/domo-agentic-bi-american-fork-2026/1600/1100

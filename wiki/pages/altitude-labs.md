@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Relocate a Business to Utah
+**Focus:** shared wet-lab space, biotech accelerator, techbio commercialization, pre-seed funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City

@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** entrepreneur navigation, state resources, founder journeys, Utah
-**Location:** Utah
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

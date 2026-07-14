@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** defense manufacturing, small drones, ISR, battlefield reconnaissance, domestic industrial base
 **Era:** 2020–present; Tranche 2 production from 2025
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-25
 **Pull:** *Utah-built Black Widow drones are putting rucksack-portable battlefield eyes into the hands of every Army platoon.*
 **Relates:** cites [U.S. Army: SRR Tranche 2 Production Begins](army-srr-tranche2-article.md)

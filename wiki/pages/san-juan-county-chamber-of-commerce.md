@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** San Juan
+**Primary Location:** San Juan County, UT
+**Utah Location:** San Juan County, UT
+**Region:** San Juan County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

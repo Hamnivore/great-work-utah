@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Beaver, Garfield, Iron
+**Primary Location:** unknown
+**Utah Location:** Beaver County, UT; Iron County, UT; Garfield County, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Beaver-Iron-Garfield region
 **Layout:** field-guide
 
 ## Summary

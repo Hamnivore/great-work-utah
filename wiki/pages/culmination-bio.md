@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** clinical data platform, longitudinal patient data, drug discovery, diagnostics, biotech spinout
 **Stage:** Operating subsidiary; $10M from Amgen Ventures and Merck Global Health Innovation Fund (2023)
-**Location:** St. George, UT
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT
+**Region:** St. George
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/culmination-bio-clinical-data-2026/1600/1100

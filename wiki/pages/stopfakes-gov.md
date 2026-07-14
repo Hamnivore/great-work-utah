@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** International Trade, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** Washington, DC
+**Utah Location:** no verified Utah presence
+**Region:** no verified Utah presence
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

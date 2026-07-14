@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** mining equipment, mechanical engineering, underground mining, industrialization, Salt Lake City manufacturing
 **Era:** 1930s–1960s
-**Location:** Eureka, Salt Lake City, and Park City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Eureka, Salt Lake City, and Park City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-25
 **Pull:** *A Salt Lake City-designed and manufactured machine mechanized underground hard-rock mining's most brutal manual job and spread to mines on six continents.*
 **Relates:** cites [ASME — EIMCO Rocker Shovel Loader, Model 12B Landmark](asme-eimco-rocker-shovel-loader-landmark.md)

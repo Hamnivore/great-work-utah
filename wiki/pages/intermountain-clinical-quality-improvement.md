@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** healthcare delivery science, clinical quality improvement, learning health system, process control
 **Era:** late 1980s-present; clinical-process "active management" initiative began 1996
-**Location:** Intermountain Healthcare / Intermountain Health, Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Pull:** *A Utah health system treated care delivery itself as something to measure, engineer, and improve — without flattening clinical judgment.*
 **Relates:** cites [Source: Intermountain Clinical Quality Improvement Sources](intermountain-clinical-quality-improvement-sources.md)

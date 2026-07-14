@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** Park City, UT
+**Utah Location:** Park City, UT
+**Region:** Park City
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

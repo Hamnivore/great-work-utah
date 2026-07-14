@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance operations
-**Location:** Utah; national footprint
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

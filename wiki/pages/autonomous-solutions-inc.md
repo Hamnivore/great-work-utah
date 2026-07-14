@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** off-road vehicle autonomy, industrial fleet automation, OEM-agnostic robotics, mining, agriculture, construction, logistics
 **Stage:** Established private company (founded 2000; Utah State University spinout; expanding in 2025–2026)
-**Location:** Mendon, UT (Lehi and Dallas–Fort Worth offices)
+**Primary Location:** Mendon, UT
+**Utah Location:** Mendon, UT; Lehi, UT
+**Region:** Mendon; Lehi
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/asi-mobius-off-road-autonomy-2026/1600/1100
@@ -14,7 +16,7 @@
 
 ## Summary
 
-Autonomous Solutions, Inc. (ASI) is a Mendon, Utah company that automates off-road industrial vehicles — tractors, haul trucks, dozers, loaders, yard trucks, and landscaping equipment — through an OEM-agnostic software platform called Mobius. Founded in 2000 as a Utah State University spinout, ASI has spent 25 years integrating autonomy across 100+ vehicle models in mining, agriculture, construction, logistics, and landscaping. [source:autonomous-solutions-inc-official-website]
+Autonomous Solutions, Inc. (ASI) is a Mendon, Utah company that automates off-road industrial vehicles — tractors, haul trucks, dozers, loaders, yard trucks, and landscaping equipment — through an OEM-agnostic software platform called Mobius. Founded in 2000 as a Utah State University spinout, ASI has spent 25 years integrating autonomy across 100+ vehicle models in mining, agriculture, construction, logistics, and landscaping. [Official Website: Autonomous Solutions, Inc.](autonomous-solutions-inc-official-website.md)
 
 For the wiki, ASI is one of Utah's most durable robotics companies: real deployments at industrial scale, a credible exit history (selling its mining business unit to Epiroc), and recent expansion including a Lehi office, SoftBank-backed construction automation, and a 2026 acquisition of Scythe Robotics.
 
@@ -33,7 +35,7 @@ Recent strategic moves include:
 - **ASI Heavy Construction** — launched with SoftBank Group backing for U.S. construction-site autonomy.
 - **Scythe Robotics acquisition (March 2026)** — brings Scythe's commercial autonomous mowing platform into the Mobius portfolio.
 - **Geographic expansion** — Lehi (June 2025) and Dallas–Fort Worth (July 2025) offices alongside Mendon HQ.
-- **Mining divestiture (2021)** — Epiroc took full ownership of ASI Mining after a partial stake in 2018; capital from the sale funded expansion in adjacent markets. [source:autonomous-solutions-inc-official-website]
+- **Mining divestiture (2021)** — Epiroc took full ownership of ASI Mining after a partial stake in 2018; capital from the sale funded expansion in adjacent markets. [Official Website: Autonomous Solutions, Inc.](autonomous-solutions-inc-official-website.md)
 
 ## What They Need Now
 

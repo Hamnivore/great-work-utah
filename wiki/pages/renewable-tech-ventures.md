@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Other, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** unknown
+**Utah Location:** unknown
+**Region:** unknown
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

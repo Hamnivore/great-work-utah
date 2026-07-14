@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Uintah
+**Primary Location:** Vernal, UT
+**Utah Location:** Vernal, UT
+**Region:** Vernal
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** women entrepreneurs, business advising, training, startup support, growth
-**Location:** Utah
+**Primary Location:** Utah
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

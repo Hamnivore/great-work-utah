@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** shared reality, immersive entertainment, LED dome venues, real-time rendering, Evans & Sutherland heritage
 **Stage:** Growth ($250M raised 2024; multiple operational venues)
-**Location:** Salt Lake City, UT (E&S / Digistar tech division); venues in Los Angeles, Dallas, Atlanta
+**Primary Location:** unknown
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cosm-dome-slc/1600/1100

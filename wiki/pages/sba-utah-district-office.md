@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** SBA programs, lending, counseling, federal contracting, disaster recovery
-**Location:** Utah
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

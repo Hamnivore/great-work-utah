@@ -5,9 +5,13 @@
 **Confidence:** Medium
 **Focus:** brain-computer interfaces, neural engineering, medical devices, restoration of motor and speech function
 **Stage:** Private growth company; majority stake held by Tether (via Tether Evo) since April 2024
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
+**Domain:** health-bio
+**Region:** Salt Lake City
+**Ownership:** private
 **Hero:** /img/heroes/front/blackrock-1600.webp
 **Hero caption:** *Nathan Copeland, who has lived with a Utah Electrode Array implant in his motor and somatosensory cortex since 2014 — temporary hotlinked photograph from the University of Pittsburgh / Rehab Neural Engineering Labs via WIRED; image rights have not yet been cleared.*
 **Pull:** *The Utah Electrode Array is the most-implanted, most-studied intracortical BCI electrode in history.*

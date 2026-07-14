@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens
 **Stage:** Late preclinical → IND preparation (Phase 1); $40M+ raised
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/curza-2026/1600/1100

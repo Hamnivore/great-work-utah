@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** RF engineering, synthetic aperture radar, defense technology, hardware startups
-**Location:** Utah Valley, UT
+**Primary Location:** Utah Valley, UT
+**Utah Location:** Utah Valley, UT
+**Region:** Utah Valley
 **Updated:** 2026-06-19
 
 ## Summary

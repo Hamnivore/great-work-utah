@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Aerospace and Defense, Agriculture
-**Location:** Carbon, Emery, Grand, San Juan
+**Primary Location:** Price, UT
+**Utah Location:** Carbon County, Emery County, Grand County, San Juan County
+**Region:** Southeastern Utah
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** primary magnesium production, critical minerals, Great Salt Lake brine, aerospace and defense metals, industrial process engineering
 **Stage:** Established industrial producer (Chapter 11 filed September 2025; asset sale in progress)
-**Location:** Rowley, UT (Tooele County, western Great Salt Lake shore)
+**Primary Location:** Rowley, UT
+**Utah Location:** Rowley, UT
+**Region:** Tooele County
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/us-magnesium-great-salt-lake-rowley-2026/1600/1100
@@ -13,9 +15,9 @@
 
 ## Summary
 
-US Magnesium LLC operates the largest primary magnesium production facility in North America at Rowley, Utah, on the western shore of the Great Salt Lake. Magnesium has been produced at the site since 1972. The company extracts magnesium from high-salinity brine through solar evaporation and electrolytic cells, supplying a metal that is roughly 30% lighter than aluminum and strategically important for aerospace, automotive lightweighting, electronics, and defense applications. [source:us-magnesium-official-website]
+US Magnesium LLC operates the largest primary magnesium production facility in North America at Rowley, Utah, on the western shore of the Great Salt Lake. Magnesium has been produced at the site since 1972. The company extracts magnesium from high-salinity brine through solar evaporation and electrolytic cells, supplying a metal that is roughly 30% lighter than aluminum and strategically important for aerospace, automotive lightweighting, electronics, and defense applications. [Official Website: US Magnesium](us-magnesium-official-website.md)
 
-For the wiki, US Magnesium is not a frontier-tech startup but one of Utah's most consequential industrial operations — and one now in active financial and environmental crisis. The company filed Chapter 11 on September 10, 2025; court records and reporting describe EPA Superfund status, a January 2026 asset auction, and a reported winning bid by the Utah Division of Forestry, Fire, and State Lands. [source:us-magnesium-bankruptcy]
+For the wiki, US Magnesium is not a frontier-tech startup but one of Utah's most consequential industrial operations — and one now in active financial and environmental crisis. The company filed Chapter 11 on September 10, 2025; court records and reporting describe EPA Superfund status, a January 2026 asset auction, and a reported winning bid by the Utah Division of Forestry, Fire, and State Lands. [Source: US Magnesium Chapter 11 Bankruptcy and Asset Sale](us-magnesium-bankruptcy.md)
 
 ## Impact
 
@@ -25,7 +27,7 @@ The company is also embedded in the Great Salt Lake story. Brine extraction is a
 
 ## What They Are Building
 
-US Magnesium produces primary magnesium metal and related products from Great Salt Lake brine. The process involves solar evaporation ponds, electrolysis at high temperature, and hazardous chlorine handling — chemically complex, energy-intensive, and environmentally exposed. The company markets advanced electrolysis technology and solar-energy use, and has described development of lithium carbonate production from magnesium-production tailings in bankruptcy filings. [source:us-magnesium-bankruptcy]
+US Magnesium produces primary magnesium metal and related products from Great Salt Lake brine. The process involves solar evaporation ponds, electrolysis at high temperature, and hazardous chlorine handling — chemically complex, energy-intensive, and environmentally exposed. The company markets advanced electrolysis technology and solar-energy use, and has described development of lithium carbonate production from magnesium-production tailings in bankruptcy filings. [Source: US Magnesium Chapter 11 Bankruptcy and Asset Sale](us-magnesium-bankruptcy.md)
 
 Whether magnesium production continues under new ownership, and on what environmental terms, is an open question as of mid-2026.
 

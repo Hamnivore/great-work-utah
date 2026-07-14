@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** neural interfaces, BCI hardware, implantable devices, medical device manufacturing, neurotech supply chain
 **Stage:** Established; contract design and manufacturing
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/iris-biomedical-2026/1600/1100

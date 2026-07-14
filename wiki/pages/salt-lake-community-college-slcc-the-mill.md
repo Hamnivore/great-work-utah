@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
-**Location:** Davis, Morgan, Salt Lake, Tooele, Wasatch
+**Primary Location:** Sandy, UT
+**Utah Location:** Sandy, UT
+**Region:** Sandy
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

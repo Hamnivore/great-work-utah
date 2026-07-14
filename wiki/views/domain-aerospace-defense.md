@@ -1,16 +1,17 @@
 # aerospace-defense — sector hub
 
-Generated from `**Domain:**` metadata (23/607 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (53/610 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
-- [CleanJoule](/pages/cleanjoule.md) · `/pages/cleanjoule.md` · Salt Lake City, UT · sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
-- [Electric Power Systems (EPS)](/pages/electric-power-systems.md) · `/pages/electric-power-systems.md` · North Logan, UT · electric aviation, battery propulsion, eVTOL, FAA certification, power electronics
-- [Hypercraft](/pages/hypercraft.md) · `/pages/hypercraft.md` · Provo, UT · hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles
-- [Wasatch Ionics](/pages/wasatch-ionics.md) · `/pages/wasatch-ionics.md` · statewide (exact site unknown — see Open Questions) · lithium-oxygen batteries, reserve batteries, chemical oxygen generation, Army obstacle systems, ene…
+- [CleanJoule](/pages/cleanjoule.md) · `/pages/cleanjoule.md` · Salt Lake City · sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
+- [Electric Power Systems (EPS)](/pages/electric-power-systems.md) · `/pages/electric-power-systems.md` · North Logan · electric aviation, battery propulsion, eVTOL, FAA certification, power electronics
+- [Hypercraft](/pages/hypercraft.md) · `/pages/hypercraft.md` · Provo · hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles
+- [Wasatch Ionics](/pages/wasatch-ionics.md) · `/pages/wasatch-ionics.md` · unknown · lithium-oxygen batteries, reserve batteries, chemical oxygen generation, Army obstacle systems, ene…
 
 ## Proof it can be done here
 
+- [Browning Firearms Designs](/pages/browning-firearms-designs.md) · `/pages/browning-firearms-designs.md` · Ogden · firearms design, mechanical engineering, defense history, Ogden manufacturing
 - [High-Density Sustainable Aviation Fuels](/pages/high-density-sustainable-aviation-fuels.md) · `/pages/high-density-sustainable-aviation-fuels.md` · Salt Lake City · sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense
 
 ## Who they need right now

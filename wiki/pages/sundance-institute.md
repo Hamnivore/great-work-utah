@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** independent film, immersive storytelling, artist development, film festivals, nonprofit arts
 **Stage:** Established 501(c)(3) nonprofit; founded 1981
-**Location:** Park City, UT (administrative HQ); Sundance Resort, UT (Artist Labs)
+**Primary Location:** Park City, UT
+**Utah Location:** Park City, UT; Sundance Resort, UT
+**Region:** Park City; Sundance Resort
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/sundance-1600.webp

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** astroparticle physics, cosmic rays, observatories, desert science
 **Era:** 1981-2006; key results in 1991, 1995, and 2008
-**Location:** Dugway Proving Ground and Utah's West Desert; University of Utah, Salt Lake City, UT
+**Primary Location:** Dugway Proving Ground, UT
+**Utah Location:** Dugway Proving Ground and Utah's West Desert; University of Utah, Salt Lake City, UT
+**Region:** Tooele County
 **Updated:** 2026-05-16
 **Pull:** *Utah's West Desert became an instrument for catching particles so energetic they made astrophysics blink.*
 

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** quantum systems integration, quantum readiness, post-quantum security, government and industry adoption
 **Stage:** Early-stage initiative (launched October 2025; prototype planned Q1–Q2 2026)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/utahquantum-qsi-salt-lake-2026/1600/1100
@@ -13,7 +15,7 @@
 
 ## Summary
 
-Utah Quantum (UTQ) is a Salt Lake City initiative that describes itself as Utah's first Quantum Systems Integrator (QSI) — an organization focused on connecting universities, industry, and government around practical quantum adoption rather than building quantum hardware itself. Founded in 2025 by Sumit Parashar, Neil Nickolaisen, and Brig. Gen. (Ret.) Max Stitzer, it frames its work through concepts such as "Quantonomy" (organizing the quantum era across science, engineering, security, and application) and public messaging around the "Quantum Cliff" and post-quantum cybersecurity readiness. [source:utahquantum-official-website]
+Utah Quantum (UTQ) is a Salt Lake City initiative that describes itself as Utah's first Quantum Systems Integrator (QSI) — an organization focused on connecting universities, industry, and government around practical quantum adoption rather than building quantum hardware itself. Founded in 2025 by Sumit Parashar, Neil Nickolaisen, and Brig. Gen. (Ret.) Max Stitzer, it frames its work through concepts such as "Quantonomy" (organizing the quantum era across science, engineering, security, and application) and public messaging around the "Quantum Cliff" and post-quantum cybersecurity readiness. [Official Website: Utah Quantum](utahquantum-official-website.md)
 
 For the wiki, UTQ is an early, unproven catalytic bet — more integrator and convenor than product company — but potentially relevant if Utah's university quantum programs and defense adjacency (including 47G) mature into a regional cluster.
 
@@ -25,7 +27,7 @@ At this stage there is no prototype, disclosed revenue, or announced grant on th
 
 ## What They Are Building
 
-UTQ is building an integration and readiness practice, not a quantum computer. Public materials emphasize consulting-style frameworks (Quantonomy), thought leadership (blog content on the Quantum Cliff and "Zero Day Quantum" scenarios), and a "Quantum Pioneers" community surface. A prototype was publicly targeted for Q1–Q2 2026; whether that refers to a software tool, a reference architecture, or a demonstration environment is not yet clear from primary sources. [source:utahquantum-official-website]
+UTQ is building an integration and readiness practice, not a quantum computer. Public materials emphasize consulting-style frameworks (Quantonomy), thought leadership (blog content on the Quantum Cliff and "Zero Day Quantum" scenarios), and a "Quantum Pioneers" community surface. A prototype was publicly targeted for Q1–Q2 2026; whether that refers to a software tool, a reference architecture, or a demonstration environment is not yet clear from primary sources. [Official Website: Utah Quantum](utahquantum-official-website.md)
 
 ## What They Need Now
 

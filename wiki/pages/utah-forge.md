@@ -5,7 +5,8 @@
 **Confidence:** Medium
 **Focus:** enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering
 **Era:** 2014-present
-**Location:** Milford, UT
+**Primary Location:** Milford, UT
+**Utah Location:** Milford, UT
 **Updated:** 2026-05-16
 **Domain:** energy
 **Region:** Beaver County

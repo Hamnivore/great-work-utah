@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** genealogy, civilizational records, OCR, record linkage, population genetics, scientific infrastructure
 **Stage:** Established institution; predecessor (Genealogical Society of Utah) founded 1894
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://upload.wikimedia.org/wikipedia/commons/e/ec/Family_History_Library_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg

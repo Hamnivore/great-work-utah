@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT
+**Region:** St. George
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

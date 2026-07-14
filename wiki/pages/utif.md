@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** SBIR, STTR, microgrants, nonrecourse loans, R&D funding
-**Location:** Utah
+**Primary Location:** Utah
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -51,4 +53,3 @@ UTIF is best for a technical Utah company that already has a target SBIR/STTR to
 - What is the current annual funding pool and depletion risk?
 - How often are applications rejected for timing, missing registrations, or weak SBIR/STTR fit?
 - Should the wiki maintain a checklist answer for UTIF readiness?
-

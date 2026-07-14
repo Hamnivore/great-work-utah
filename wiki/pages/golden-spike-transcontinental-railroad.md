@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** rail infrastructure, American West, logistics, national integration
 **Era:** 1863-1869 construction; completion on 1869-05-10
-**Location:** Promontory Summit, Utah Territory
+**Primary Location:** Promontory Summit, UT
+**Utah Location:** Promontory Summit, UT
+**Region:** Promontory Summit
 **Updated:** 2026-05-16
 **Pull:** *At Promontory Summit, a continent-scale logistics project became a single continuous line.*
 

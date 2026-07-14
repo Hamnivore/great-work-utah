@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture
-**Location:** Carbon, Emery, Grand, San Juan
+**Primary Location:** Moab, UT
+**Utah Location:** Moab, UT
+**Region:** Moab
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

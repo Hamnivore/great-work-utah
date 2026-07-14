@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** outdoor gear, apparel, social enterprise, B Corp, philanthropy
 **Stage:** Established growth brand
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cotopaxi-gear-for-good-2026/1600/1100

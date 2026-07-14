@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, advanced manufacturing
 **Stage:** Private; Series C raised, flagship facility operational (opened August 2025)
-**Location:** West Valley City, UT
+**Primary Location:** West Valley City, UT
+**Utah Location:** West Valley City, UT
+**Region:** West Valley City
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/nusano-radioisotope-accelerator-2026/1600/1100
@@ -13,7 +15,7 @@
 
 ## Summary
 
-Nusano is a physics company building a new way to produce medical and industrial radioisotopes. In August 2025 it cut the ribbon on a 190,000-square-foot radioisotope production facility in West Valley City, Utah, with Utah Governor Spencer Cox attending. The company says the site is designed to make more than 40 different radioisotopes — and up to 12 simultaneously — anchored by a proprietary ion-source and particle-acceleration platform. [source:nusano-official-website]
+Nusano is a physics company building a new way to produce medical and industrial radioisotopes. In August 2025 it cut the ribbon on a 190,000-square-foot radioisotope production facility in West Valley City, Utah, with Utah Governor Spencer Cox attending. The company says the site is designed to make more than 40 different radioisotopes — and up to 12 simultaneously — anchored by a proprietary ion-source and particle-acceleration platform. [Source: Nusano Official Website and Facility-Opening / Series C Announcements](nusano-official-website.md)
 
 For the Great Work Utah wiki, Nusano is a rare hard-tech bet sitting at the intersection of accelerator physics, advanced manufacturing, oncology, and national supply-chain security — and it is being built in Utah from scratch.
 
@@ -27,7 +29,7 @@ Nusano's impact mechanism is enabling infrastructure. If it succeeds, the constr
 
 The core technology is a proprietary ion source that Nusano says creates heavy ions at rates far higher than existing commercial systems, feeding a particle-acceleration platform tuned for high-volume, high-quality (cGMP-grade) isotope production. The West Valley City facility is the company's flagship, with production slated to begin in late 2025 and to ramp toward the full 40-plus isotope menu under full operations.
 
-Public coverage indicates Nusano has begun lining up demand and partnerships — for example, a lutetium-177 supply agreement reported with Australian targeted-radiotherapy company GlyTherix — and that the site is expected to expand the company's actinium-225 production capacity substantially. Beyond healthcare, Nusano has described industrial applications such as long-lived nuclear batteries. [source:nusano-official-website]
+Public coverage indicates Nusano has begun lining up demand and partnerships — for example, a lutetium-177 supply agreement reported with Australian targeted-radiotherapy company GlyTherix — and that the site is expected to expand the company's actinium-225 production capacity substantially. Beyond healthcare, Nusano has described industrial applications such as long-lived nuclear batteries. [Source: Nusano Official Website and Facility-Opening / Series C Announcements](nusano-official-website.md)
 
 ## What They Need Now
 

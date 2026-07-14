@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain
 **Stage:** Private; Series B ($29M, oversubscribed, July 2025)
-**Location:** Provo, UT
+**Primary Location:** Provo, UT
+**Utah Location:** Juab County, UT (Silicon Ridge / Halloysite Hills deposits); Provo, UT (HQ)
 **Updated:** 2026-06-19
 **Domain:** energy, materials-mfg
-**Region:** Juab County, UT (Silicon Ridge / Halloysite Hills deposits); Provo, UT (HQ)
+**Region:** Juab County
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/ionic-mt-manufacturing-2026/1600/1100
 **Pull:** *Utah's halloysite clay deposits hold a domestic answer to the EV battery anode problem — nano-silicon from a natural nanostructured mineral, no complex synthesis required.*

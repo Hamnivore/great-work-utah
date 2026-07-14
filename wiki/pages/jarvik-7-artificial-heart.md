@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support
 **Era:** 1967–1990 (development); December 2, 1982 (landmark implant)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-25
 **Pull:** *The first human to live with a fully mechanical heart proved that medicine could replace the organ it had always treated as irreplaceable.*
 **Relates:** cites [U of U Cardiology — Artificial Heart History](jarvik-7-utah-history.md)

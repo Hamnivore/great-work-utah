@@ -4,10 +4,11 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** geothermal energy, enhanced geothermal systems, climate infrastructure, energy transition
-**Location:** Houston, TX (company HQ); Utah (Cape Station project)
+**Primary Location:** Houston, TX
+**Utah Location:** Beaver County, UT
 **Updated:** 2026-06-21
 **Domain:** energy
-**Region:** out-of-state (Utah operations: Beaver County — Cape Station)
+**Region:** Beaver County
 **Hero:** https://picsum.photos/seed/tim-latimer-2026/1600/1100
 **Pull:** *Co-founder and CEO of Fervo Energy — repurposing oil-and-gas drilling to unlock firm, carbon-free geothermal power.*
 **Relates:** helps [Fervo Energy](fervo-energy.md)

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** engineering simulation, isogeometric analysis, CAD, finite element analysis, CAE
 **Stage:** Private; operational; DOE SBIR Phase II recipient
-**Location:** Orem, UT
+**Primary Location:** Orem, UT
+**Utah Location:** Orem, UT
+**Region:** Orem
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/coreform-isogeometric-analysis-2026/1600/1100

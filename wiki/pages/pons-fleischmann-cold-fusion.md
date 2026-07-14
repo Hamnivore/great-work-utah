@@ -5,7 +5,8 @@
 **Confidence:** High
 **Focus:** scientific ethics, replication, electrochemistry, institutional behavior, science communication
 **Era:** March 23, 1989 announcement; controversy through 1989-1990
-**Location:** University of Utah, Salt Lake City, UT
+**Primary Location:** University of Utah, Salt Lake City, UT
+**Utah Location:** University of Utah, Salt Lake City, UT
 **Updated:** 2026-06-18
 **Domain:** culture-place, energy
 **Region:** Salt Lake City

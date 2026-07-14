@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** exports, international expansion, trade missions, foreign investment, diplomacy
-**Location:** Utah
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -53,4 +55,3 @@ The strongest fit is a company with paying customers or validated demand that ca
 - Which World Trade Center Utah grant and trade-mission pages should become source pages?
 - Which Utah companies have credible public export stories that should become venture examples?
 - How should the wiki route founders between international trade help, APEX, and sector-specific investors?
-

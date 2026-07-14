@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** immuno-oncology, blood cancer, T-cell therapy, multi-antigen targeting, university spinout
 **Stage:** Preclinical (U2TAH-incubated; approximately $400K funding; animal studies ongoing)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/thera-t-pharmaceutics-2026/1600/1100

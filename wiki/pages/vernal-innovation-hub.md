@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
-**Location:** Daggett, Duchesne, Uintah
+**Primary Location:** Vernal, UT
+**Utah Location:** Vernal, UT
+**Region:** Vernal
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

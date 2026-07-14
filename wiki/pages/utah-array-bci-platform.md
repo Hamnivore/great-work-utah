@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** brain-computer interfaces, neural engineering, intracortical electrodes, medical devices
 **Era:** 1990s-present; human research use since 2004
-**Location:** University of Utah and Salt Lake City, UT
+**Primary Location:** University of Utah, Salt Lake City, UT
+**Utah Location:** University of Utah, Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Pull:** *A Utah-originated electrode array became the standard recording tool for human brain-computer interface research.*
 

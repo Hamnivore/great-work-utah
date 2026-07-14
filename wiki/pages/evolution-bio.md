@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell screening
 **Stage:** Early; Nucleus Fund, University of Utah, and Altitude Lab backing (circa 2022)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/evolution-bio-vegas-gpcr-platform-2026/1600/1100

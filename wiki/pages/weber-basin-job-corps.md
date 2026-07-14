@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Davis, Morgan, Salt Lake, Tooele, Weber
+**Primary Location:** Ogden, UT
+**Utah Location:** Ogden, UT
+**Region:** Ogden
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

@@ -1,6 +1,6 @@
 # computing — sector hub
 
-Generated from `**Domain:**` metadata (23/607 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (53/610 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 

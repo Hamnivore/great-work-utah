@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** propulsion valves, precision manufacturing, spacecraft components, fluid control, aerospace supply chain
 **Stage:** Established; ~50 years; ~300 employees; private, founder-family owned
-**Location:** St. George, UT
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT
+**Region:** St. George
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/ram-aviation-space-defense-2026/1600/1100

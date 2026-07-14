@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** Type 1 diabetes, cell therapy, Neo-Islets, mesenchymal stem cells, islet transplantation, regenerative medicine
 **Stage:** Preclinical → IND-track; ADA Innovation Challenge Award 2024
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/symbiocelltech-neo-islets-diabetes-2026/1600/1100

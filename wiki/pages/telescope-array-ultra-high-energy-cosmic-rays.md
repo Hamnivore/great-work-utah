@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infrastructure
 **Stage:** Established international collaboration; operating since 2008
-**Location:** West of Delta, UT (Millard County)
+**Primary Location:** West of Delta, UT
+**Utah Location:** Millard County, UT
+**Region:** Millard County
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/telescope-array-1600.webp

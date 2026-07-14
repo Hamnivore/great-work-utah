@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry
 **Stage:** Private; DOE-funded ($36M+ in federal grants); operational
-**Location:** North Salt Lake, UT
+**Primary Location:** North Salt Lake, UT
+**Utah Location:** North Salt Lake, UT
 **Updated:** 2026-06-19
 **Domain:** energy, space-science
-**Region:** North Salt Lake, UT
+**Region:** North Salt Lake
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/oxeon-energy-2026/1600/1100
 **Pull:** *The same solid oxide cells that made oxygen on Mars are now being scaled to produce green hydrogen on Earth.*

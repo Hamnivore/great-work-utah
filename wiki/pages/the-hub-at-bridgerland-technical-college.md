@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
-**Location:** Box Elder, Cache, Rich
+**Primary Location:** Logan, UT
+**Utah Location:** Logan, UT
+**Region:** Logan
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

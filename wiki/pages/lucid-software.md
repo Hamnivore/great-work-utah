@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** B2B SaaS, visual collaboration, diagramming, whiteboarding, enterprise software
 **Stage:** Late-stage private (unicorn per 2021 reporting)
-**Location:** South Jordan, UT
+**Primary Location:** South Jordan, UT
+**Utah Location:** South Jordan, UT
+**Region:** South Jordan
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/lucid-visual-collaboration-2026/1600/1100

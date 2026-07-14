@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** workforce, global talent, immigrant workforce, hiring, talent pathways
-**Location:** Utah
+**Primary Location:** Utah
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -49,4 +51,3 @@ Best fits are employers with a real workforce bottleneck and an interest in resp
 - Which employer services are available directly through the center versus partner organizations?
 - Which immigration attorneys and workforce-service providers should become helper pages?
 - How should the wiki distinguish general talent support from legal advice?
-

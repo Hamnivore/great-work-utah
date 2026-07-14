@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** hereditary cancer genetics, BRCA testing, gene patents, clinical genomics
 **Era:** 1991-present; core BRCA sequencing and commercialization in the 1990s
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Pull:** *Utah's genealogy-powered cancer genetics helped create, and then legally reshape, the clinical market for inherited-risk testing.*
 

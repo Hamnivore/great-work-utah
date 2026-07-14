@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
-**Location:** Juab, Millard, Piute, Sanpete, Sevier, Wayne
+**Primary Location:** Ephraim, UT
+**Utah Location:** Ephraim, UT
+**Region:** Ephraim
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

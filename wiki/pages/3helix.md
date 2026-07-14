@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** collagen hybridizing peptides, diagnostics, drug delivery, histopathology, collagen damage
 **Stage:** Private growth; BASF equity investment and personal-care license (2023); Utah Innovation Fund
-**Location:** Salt Lake City, UT (University of Utah BME spinout)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/3helix-2026/1600/1100

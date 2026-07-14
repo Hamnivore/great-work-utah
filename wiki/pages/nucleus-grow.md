@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** SBIR, STTR, non-dilutive funding, deep tech, research commercialization
-**Location:** Utah
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -53,4 +55,3 @@ The best fit is a technical founder who can name a research uncertainty but cann
 - Which recent Utah SBIR/STTR winners were directly assisted by Nucleus Grow, and which examples should become venture pages?
 - What is the current turnaround time for proposal review?
 - Which agencies are strongest for Utah founders right now by sector?
-

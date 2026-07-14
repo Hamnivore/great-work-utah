@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering
 **Era:** 1884-1981 (life); landmark stereo work 1931-1933; posthumous Grammy 2016
-**Location:** Born Provo, UT; BYU undergraduate and later dean; Bell Labs (New Jersey)
+**Primary Location:** Bell Labs, New Jersey
+**Utah Location:** Provo, UT
+**Region:** Provo
 **Updated:** 2026-06-19
 **Relates:** cites [BYU News — Harvey Fletcher Posthumous Grammy Award](byu-news-harvey-fletcher-grammy.md)
 **Relates:** cites [Utah History to Go — Harvey Fletcher](utah-history-to-go-harvey-fletcher.md)

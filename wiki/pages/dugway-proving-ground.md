@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** military test infrastructure, chemical and biological defense, West Desert, defense ethics
 **Era:** 1942-present
-**Location:** Tooele County, UT
+**Primary Location:** Tooele County, UT
+**Utah Location:** Tooele County, UT
+**Region:** Tooele County
 **Updated:** 2026-05-16
 **Pull:** *Dugway is technically important national test infrastructure with a moral ledger too heavy to hide.*
 

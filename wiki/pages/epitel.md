@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monitoring
 **Stage:** Commercializing; FDA-cleared REMI system in clinical use
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/epitel-remi-ambulatory-eeg-2026/1600/1100

@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
-**Location:** Juab, Millard, Piute, Sanpete, Sevier, Wayne
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** St. George
 **Layout:** field-guide
 
 ## Summary

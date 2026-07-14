@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** hardware, storage, consumer computing, peripherals, 1990s PC era
 **Era:** Iomega founded 1980; Zip era 1995-early 2000s
-**Location:** Roy, UT
+**Primary Location:** Roy, UT
+**Utah Location:** Roy, UT
+**Region:** Roy
 **Updated:** 2026-06-19
 **Relates:** cites [Iomega Corp. 10-K Filing (March 1995)](iomega-sec-10k-1995.md)
 **Relates:** cites [Standard-Examiner — Iomega Still Around in Roy (2012)](iomega-standard-examiner-2012.md)

@@ -5,8 +5,11 @@
 **Confidence:** Medium
 **Focus:** firearms design, mechanical engineering, defense history, Ogden manufacturing
 **Era:** 1878-1926
-**Location:** Ogden, UT; later manufacturing through national and international partners
+**Primary Location:** Ogden, UT
+**Utah Location:** Ogden, UT
 **Updated:** 2026-05-16
+**Domain:** aerospace-defense
+**Region:** Ogden
 **Pull:** *A Utah gunsmithing shop helped define the mechanical grammar of modern small arms.*
 
 ## Summary

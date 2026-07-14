@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** aerospace, defense, hard tech, dual-use, government navigation, supply chain
-**Location:** Utah
+**Primary Location:** unknown
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

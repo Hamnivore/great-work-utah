@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles
 **Stage:** Series A ($26M raised, June 2025; ~$106M post-money valuation)
-**Location:** Provo, UT
+**Primary Location:** Provo, UT
+**Utah Location:** Provo, UT
 **Updated:** 2026-06-18
 **Domain:** aerospace-defense, energy
-**Region:** Provo, UT
+**Region:** Provo
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/hypercraft-powertrain-provo/1600/1100
 **Hero caption:** *Placeholder image. A license-clean photograph of a Hypercraft powertrain or vehicle integration is still needed — see Open Questions.*
@@ -22,15 +23,15 @@ For Utah engineers and operators, Hypercraft is one of the state's more concrete
 
 ## Impact
 
-Electric and hybrid powertrains give military vehicles capabilities diesel cannot match: much quieter operation for stealthier movement, lower thermal (infrared) signatures, and the ability to export large amounts of electricity in the field to run radar, communications, or other power-hungry systems. Hypercraft markets high-power export from its hybrid units (its Titan T240 is rated at 240 kW), which matters to a military that increasingly wants forward vehicles to act as mobile power plants. [source:hypercraft-series-a-2025]
+Electric and hybrid powertrains give military vehicles capabilities diesel cannot match: much quieter operation for stealthier movement, lower thermal (infrared) signatures, and the ability to export large amounts of electricity in the field to run radar, communications, or other power-hungry systems. Hypercraft markets high-power export from its hybrid units (its Titan T240 is rated at 240 kW), which matters to a military that increasingly wants forward vehicles to act as mobile power plants. [Source: Hypercraft $26M Series A](hypercraft-series-a-2025.md)
 
 The impact is plausible but early. Validation exists across defense and heavy-duty applications, but the company is still small and operating in a crowded modernization market.
 
 ## What They Are Building
 
-Hypercraft's stack centers on standardized series-hybrid and full-electric powertrains designed so an OEM can change propulsion without redesigning the whole vehicle, paired with a modular battery system and a software-defined control architecture marketed as an open developer ecosystem. Public product pages list the Titan T240 (240 kW) and Pilot P50 (50 kW) hybrid range-extender / auxiliary-power units. The core bet is platform-over-part: many OEMs building on one propulsion architecture rather than each commissioning a one-off. [source:hypercraft-series-a-2025]
+Hypercraft's stack centers on standardized series-hybrid and full-electric powertrains designed so an OEM can change propulsion without redesigning the whole vehicle, paired with a modular battery system and a software-defined control architecture marketed as an open developer ecosystem. Public product pages list the Titan T240 (240 kW) and Pilot P50 (50 kW) hybrid range-extender / auxiliary-power units. The core bet is platform-over-part: many OEMs building on one propulsion architecture rather than each commissioning a one-off. [Source: Hypercraft $26M Series A](hypercraft-series-a-2025.md)
 
-A December 2025 co-development agreement with Baker Engineering aims to jointly field hybrid-electric vehicles for defense, pairing Baker's manufacturing with Hypercraft's propulsion — a signal the company is moving toward integrated vehicle programs, not just selling components. [source:hypercraft-series-a-2025]
+A December 2025 co-development agreement with Baker Engineering aims to jointly field hybrid-electric vehicles for defense, pairing Baker's manufacturing with Hypercraft's propulsion — a signal the company is moving toward integrated vehicle programs, not just selling components. [Source: Hypercraft $26M Series A](hypercraft-series-a-2025.md)
 
 ## What They Need Now
 

@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Carbon
+**Primary Location:** Carbon County, UT
+**Utah Location:** Carbon County, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Carbon County
 **Layout:** field-guide
 
 ## Summary

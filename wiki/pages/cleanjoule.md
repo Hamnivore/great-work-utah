@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
 **Stage:** Private, growth (backed by Indigo Partners, GenZero, Frontier Airlines, Wizz Airlines, Volaris)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-19
 **Domain:** aerospace-defense, energy
-**Region:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cleanjoule-2026/1600/1100
 **Relates:** cites [Official Website: CleanJoule](cleanjoule-official-website.md)

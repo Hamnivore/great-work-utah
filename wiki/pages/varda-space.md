@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** in-space manufacturing, microgravity pharmaceuticals, reentry capsules, space logistics
 **Stage:** Private growth company (post-revenue; multiple orbital missions since 2023)
-**Location:** El Segundo, CA (Utah tie: UTTR reentry landings)
+**Primary Location:** El Segundo, CA
+**Utah Location:** Utah Test and Training Range, UT
+**Region:** West Desert
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/varda-space-capsule-reentry-2026/1600/1100
@@ -13,7 +15,7 @@
 
 ## Summary
 
-Varda Space Industries is a California company building in-space manufacturing platforms that grow materials — especially pharmaceutical crystals — in microgravity and return them to Earth in reentry capsules. Founded in 2020 and headquartered in El Segundo, it is not a Utah company, but it has a meaningful Utah connection: its W-Series 1 (Winnebago-1) capsule landed at the Utah Test and Training Range (UTTR) in February 2024, reported as the first commercial spacecraft landing on U.S. soil. [source:varda-uttr-landing]
+Varda Space Industries is a California company building in-space manufacturing platforms that grow materials — especially pharmaceutical crystals — in microgravity and return them to Earth in reentry capsules. Founded in 2020 and headquartered in El Segundo, it is not a Utah company, but it has a meaningful Utah connection: its W-Series 1 (Winnebago-1) capsule landed at the Utah Test and Training Range (UTTR) in February 2024, reported as the first commercial spacecraft landing on U.S. soil. [Source: Varda W-1 Capsule Landing at UTTR](varda-uttr-landing.md)
 
 For the Great Work Utah wiki, Varda belongs because it exercised Utah reentry infrastructure and illustrates how defense test ranges can host commercial space returns — even as subsequent missions shift landing sites to Australia.
 
@@ -25,7 +27,7 @@ The W-1 mission demonstrated end-to-end execution: launch on a rideshare, months
 
 ## What They Are Building
 
-Varda's model combines orbital manufacturing spacecraft (integrated with partners such as Rocket Lab Photon) and small recoverable reentry capsules. W-1 carried ritonavir crystals; later missions have expanded the platform. Public reporting describes three successful missions since 2023, substantial venture funding (including a reported $187M Series C in July 2025), and a U.S. Air Force contract. The company has shifted subsequent landings toward Australia's Koonibba Test Range, reducing but not eliminating the Utah operational footprint. [source:varda-space-official-website] [source:varda-uttr-landing]
+Varda's model combines orbital manufacturing spacecraft (integrated with partners such as Rocket Lab Photon) and small recoverable reentry capsules. W-1 carried ritonavir crystals; later missions have expanded the platform. Public reporting describes three successful missions since 2023, substantial venture funding (including a reported $187M Series C in July 2025), and a U.S. Air Force contract. The company has shifted subsequent landings toward Australia's Koonibba Test Range, reducing but not eliminating the Utah operational footprint. [Official Website: Varda Space Industries](varda-space-official-website.md) [Source: Varda W-1 Capsule Landing at UTTR](varda-uttr-landing.md)
 
 ## What They Need Now
 

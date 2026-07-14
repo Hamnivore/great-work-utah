@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing
 **Stage:** Private established company
-**Location:** Springville, UT
+**Primary Location:** Springville, UT
+**Utah Location:** Springville, UT
+**Region:** Springville
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/wavetronix-springville-traffic-radar-2026/1600/1100

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, life sciences
 **Stage:** Private, late growth; $15M raise closed April 2026
-**Location:** Orem, UT
+**Primary Location:** Orem, UT
+**Utah Location:** Orem, UT
+**Region:** Orem
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/techcyte-digital-pathology-fusion-2026/1600/1100
@@ -13,7 +15,7 @@
 
 ## Summary
 
-Techcyte is an Orem, Utah company building AI-powered digital-pathology software. Its Fusion platform is a browser-based system that unifies anatomic pathology (tissue sections) and clinical pathology (blood, urine, cytology) workflows, integrates with lab systems, and layers AI on top of digitized slides. The company is led by CEO Ben Cahoon and works across human clinical labs, veterinary diagnostics, and related testing markets. [source:techcyte-official-website]
+Techcyte is an Orem, Utah company building AI-powered digital-pathology software. Its Fusion platform is a browser-based system that unifies anatomic pathology (tissue sections) and clinical pathology (blood, urine, cytology) workflows, integrates with lab systems, and layers AI on top of digitized slides. The company is led by CEO Ben Cahoon and works across human clinical labs, veterinary diagnostics, and related testing markets. [Source: Techcyte Official Website and 2026 Capital-Raise Announcement](techcyte-official-website.md)
 
 For the Great Work Utah wiki, Techcyte is a real, shipping medical-AI company operating at clinical scale from Utah County rather than a coastal AI hub.
 
@@ -27,7 +29,7 @@ Techcyte's stated impact mechanism is augmentation rather than autonomous diagno
 
 The current flagship is Fusion, which Techcyte describes as a unified, open digital-pathology platform spanning anatomic and clinical workflows, with a partner program that integrates third-party AI tools (for example, prostate diagnostics, slide QC, and mitotic counting from partner companies). Getting historically separate anatomic and clinical pathology workflows to share infrastructure, models, and data is the core technical challenge.
 
-A central asset for the AI roadmap is data. Techcyte's April 2026 financing included access to a Mayo Clinic Safe Harbor dataset of more than 17 million de-identified slides and pathology reports, intended to improve the accuracy of Fusion's AI. [source:techcyte-official-website]
+A central asset for the AI roadmap is data. Techcyte's April 2026 financing included access to a Mayo Clinic Safe Harbor dataset of more than 17 million de-identified slides and pathology reports, intended to improve the accuracy of Fusion's AI. [Source: Techcyte Official Website and 2026 Capital-Raise Announcement](techcyte-official-website.md)
 
 ## What They Need Now
 

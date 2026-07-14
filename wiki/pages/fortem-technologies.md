@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** counter-UAS, radar, autonomous systems, defense, critical infrastructure
 **Stage:** Private growth company
-**Location:** Lindon, UT
+**Primary Location:** Lindon, UT
+**Utah Location:** Lindon, UT
+**Region:** Lindon
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/fortem-skydome-counter-uas-2026/1600/1100

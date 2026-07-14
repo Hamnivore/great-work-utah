@@ -1,6 +1,10 @@
 # materials-mfg — sector hub
 
-Generated from `**Domain:**` metadata (23/607 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (53/610 pages attributed so far — coverage grows with the attribution rollout).
+
+## Proof it can be done here
+
+- [Kennecott Bingham Canyon Mine](/pages/bingham-canyon-mine.md) · `/pages/bingham-canyon-mine.md` · Salt Lake County · mining, copper, mass-mining, industrial engineering, extractive industry
 
 ## Also relevant (primary elsewhere)
 

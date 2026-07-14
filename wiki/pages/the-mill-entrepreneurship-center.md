@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
-**Location:** Davis, Morgan, Salt Lake, Tooele, Weber
+**Primary Location:** Sandy, UT
+**Utah Location:** Sandy, UT
+**Region:** Sandy
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

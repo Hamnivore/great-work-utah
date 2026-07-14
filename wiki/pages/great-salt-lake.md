@@ -4,10 +4,11 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** environmental crisis, water policy, lithium extraction, dust mitigation, ecosystem restoration, Utah
-**Location:** Northern Utah (terminal lake of the Great Basin)
+**Primary Location:** Great Salt Lake basin
+**Utah Location:** Great Salt Lake basin
 **Updated:** 2026-06-19
 **Domain:** culture-place, energy
-**Region:** Northern Utah (Great Salt Lake basin)
+**Region:** Great Salt Lake basin
 **Hero:** https://picsum.photos/seed/great-salt-lake-2026/1600/1100
 **Pull:** *73% of its surface area gone, heavy metals in the airshed of 2.5 million people, and the largest single environmental problem in Utah — with no category-defining company working on it yet.*
 **Relates:** cites [Official Website: Great Salt Lake](great-salt-lake-official-website.md)

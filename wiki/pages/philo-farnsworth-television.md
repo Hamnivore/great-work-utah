@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** invention, television, electronics, signal scanning, Utah-born inventors
 **Era:** 1906-1971 (life); 1927 first electronic transmission
-**Location:** Born Beaver, UT; invention work in San Francisco and Philadelphia
+**Primary Location:** San Francisco, CA; Philadelphia, PA
+**Utah Location:** Beaver, UT
+**Region:** Beaver
 **Updated:** 2026-06-19
 **Relates:** cites [U.S. Census Bureau — Philo Farnsworth and the Invention of Television (2023)](farnsworth-census-bureau-history.md)
 **Relates:** cites [Linda Hall Library — Philo Farnsworth Scientist of the Day](farnsworth-linda-hall-library.md)

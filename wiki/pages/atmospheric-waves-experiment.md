@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** space instrumentation, upper atmosphere, atmospheric physics, Space Dynamics Laboratory, NASA
 **Era:** 2023–present
-**Location:** North Logan and Logan, UT; International Space Station
+**Primary Location:** International Space Station
+**Utah Location:** North Logan, UT; Logan, UT
+**Region:** Cache County
 **Updated:** 2026-06-25
 **Pull:** *Utah State's Space Dynamics Laboratory built the first ISS instrument designed to watch gravity waves bridge the gap between terrestrial weather and space weather.*
 **Relates:** cites [NASA: AWE Mission Page](nasa-awe-mission-page.md)

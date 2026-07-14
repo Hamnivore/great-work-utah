@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** internet history, packet switching, computer science, ARPA research
 **Era:** December 1969
-**Location:** University of Utah, Salt Lake City, UT
+**Primary Location:** University of Utah, Salt Lake City, UT
+**Utah Location:** University of Utah, Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-16
 **Pull:** *The original four-node ARPANET ended in Utah before it became the networked world.*
 

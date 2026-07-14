@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life sciences
 **Stage:** Private, clinical-stage; Phase 2a data reported 2025
-**Location:** Lehi, UT
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/halia-therapeutics-nek7-inflammasome-2026/1600/1100
@@ -13,7 +15,7 @@
 
 ## Summary
 
-Halia Therapeutics is a Lehi, Utah clinical-stage biopharmaceutical company developing drugs that target chronic inflammation — specifically the NLRP3 inflammasome pathway implicated in aging and in inflammation-driven disease. Its lead candidate, ofirnoflast (HT-6184), is described as a first-in-class oral allosteric NEK7 inhibitor. The company is led by founder and academic drug-discovery scientist Dave Bearss. [source:halia-therapeutics-official-website]
+Halia Therapeutics is a Lehi, Utah clinical-stage biopharmaceutical company developing drugs that target chronic inflammation — specifically the NLRP3 inflammasome pathway implicated in aging and in inflammation-driven disease. Its lead candidate, ofirnoflast (HT-6184), is described as a first-in-class oral allosteric NEK7 inhibitor. The company is led by founder and academic drug-discovery scientist Dave Bearss. [Source: Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure](halia-therapeutics-official-website.md)
 
 For the Great Work Utah wiki, Halia is one of the most scientifically ambitious life-sciences bets in the state: a Utah-based attempt to drug a root mechanism of aging, with real clinical data rather than only a mechanism story.
 
@@ -25,7 +27,7 @@ If that selectivity holds in humans and the benefit translates across disease ar
 
 ## What They Are Building
 
-Ofirnoflast (HT-6184) is being studied first in lower-risk myelodysplastic syndrome (MDS), a blood disorder with an inflammatory component and few good options for patients with symptomatic anemia. At the American Society of Hematology (ASH) 2025 annual meeting, Halia reported Phase 2a results from a Stage 1 efficacy population of 18 evaluable patients: a 72% hematologic improvement–erythroid (HI-E) response rate after at least 16 weeks, including high response rates in ESA-refractory and ESA-intolerant patients, with no treatment-related serious adverse events and no Grade 3 or higher related events reported. The trial (NCT07052006) was listed as active, not recruiting, with a completion date in 2026. [source:halia-therapeutics-official-website]
+Ofirnoflast (HT-6184) is being studied first in lower-risk myelodysplastic syndrome (MDS), a blood disorder with an inflammatory component and few good options for patients with symptomatic anemia. At the American Society of Hematology (ASH) 2025 annual meeting, Halia reported Phase 2a results from a Stage 1 efficacy population of 18 evaluable patients: a 72% hematologic improvement–erythroid (HI-E) response rate after at least 16 weeks, including high response rates in ESA-refractory and ESA-intolerant patients, with no treatment-related serious adverse events and no Grade 3 or higher related events reported. The trial (NCT07052006) was listed as active, not recruiting, with a completion date in 2026. [Source: Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure](halia-therapeutics-official-website.md)
 
 Beyond MDS, the company has described a broader pipeline, including a planned program combining HT-6184 with semaglutide for obesity and type 2 diabetes, and a separate neuroinflammation candidate (HT-4253) in earlier clinical work.
 

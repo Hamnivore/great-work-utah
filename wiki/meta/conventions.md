@@ -21,11 +21,18 @@ Normative. Pages live flat in `pages/`, one namespace; everything else about org
 5. Failed/debunked technologies: primary = the lens the page is written through (Pons–Fleischmann → `culture-place`); claimed sector secondary.
 6. Dual businesses: one primary — revenue/effort center if public, else the Utah-heavier half, else the line the entity names first in its own self-description **plus** `**Domain-flagged:** review`. Never leave primary unstated; secondaries stay findable in every view.
 
-## Region precedents
+## Location precedents
 
-1. Distinctive Utah work site beats HQ; in-state dual-site: field site first, HQ parenthesized — `Juab County (HQ: Provo)`.
-2. Single-sited → city; field/distributed → county; programs → `statewide`; out-of-state HQ → `out-of-state (Utah operations: <place>)`; people by analogy.
-3. Natural features → area label (`Great Salt Lake basin`). Unknown → `unknown (Utah)`, lint-flagged.
+1. `Primary Location` is the entity's canonical home for identity: headquarters for organizations, main institution for people, main site for works/places, or `unknown` when evidence is thin.
+2. `Utah Location` is the Utah-specific footprint: a city, county, named site, area label, `statewide`, `no verified Utah presence`, or `unknown`. Never fold HQ and Utah footprint into one prose field.
+3. `Region` is the normalized by-region key compiled into views. During rollout it is written explicitly, but it should match the Utah Location at the level useful for browsing: city for single-sited Utah work, county for field/distributed work, area label for natural features, `statewide`, `no verified Utah presence`, or `unknown`.
+4. Out-of-state entities with a verified Utah operation split cleanly: Fervo → `Primary Location: Houston, TX`; `Utah Location: Beaver County, UT`; `Region: Beaver County`.
+5. Out-of-state entities with no verified Utah operation use `Utah Location: no verified Utah presence`; `Region: no verified Utah presence`.
+6. Out-of-state or unclear entities whose Utah relationship is still being investigated use `Utah Location: unknown`; `Region: unknown`, with the uncertainty named in `## Utah Context` or `## Open Questions`.
+7. In-state dual-site entities put the identity anchor in `Primary Location` and the Utah footprint in `Utah Location` without parenthetical compression: EnergySolutions → `Primary Location: Salt Lake City, UT`; `Utah Location: Clive, UT (disposal site); Salt Lake City, UT (HQ)`.
+8. Programs/resources that serve all of Utah use `Utah Location: statewide`; regional service areas should name the counties or region label.
+9. Natural features use an area label for both primary and Utah location when appropriate (`Great Salt Lake basin`).
+10. The legacy `Location` field is superseded. Do not add new `Location` metadata lines.
 
 ## P2 precedents (atoms)
 

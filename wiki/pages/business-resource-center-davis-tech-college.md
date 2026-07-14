@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
-**Location:** Davis, Morgan, Salt Lake, Tooele, Weber
+**Primary Location:** Kaysville, UT
+**Utah Location:** Kaysville, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Kaysville
 **Layout:** field-guide
 
 ## Summary

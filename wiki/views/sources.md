@@ -1,4 +1,4 @@
-# source — 205 pages
+# source — 208 pages
 
 Public evidence records cited by other pages. One line per page; fetch the page for detail and evidence.
 
@@ -106,6 +106,7 @@ Public evidence records cited by other pages. One line per page; fetch the page 
 - [Official Website: Music AI](/pages/music-ai-official-website.md) · `/pages/music-ai-official-website.md` · Music AI's official website describes the company's AI-powered music tools platform — centered on the Moises flagship a… · conf:M
 - [Source: Association for Molecular Pathology v. Myriad Genetics](/pages/myriad-brca-supreme-court-or-official.md) · `/pages/myriad-brca-supreme-court-or-official.md` · The Supreme Court's 2013 *Association for Molecular Pathology v. Myriad Genetics* opinion is the primary legal source f… · conf:H
 - [Official Website: Myriad Genetics](/pages/myriad-genetics-official-website.md) · `/pages/myriad-genetics-official-website.md` · Myriad Genetics's official website describes its clinical genetic and genomic testing portfolio across hereditary cance… · conf:M
+- [Source: NASA — MOXIE Completes Mars Mission](/pages/nasa-moxie-completes-mission.md) · `/pages/nasa-moxie-completes-mission.md` · NASA's own account of MOXIE (Mars Oxygen In-Situ Resource Utilization Experiment) wrapping up its technology-demonstrat… · conf:H
 - [Official Source: NASA Thiokol Solid Rocket Boosters](/pages/nasa-thiokol-solid-rocket-boosters.md) · `/pages/nasa-thiokol-solid-rocket-boosters.md` · NASA's hosted Rogers Commission report is the official investigation record for the Space Shuttle Challenger accident. … · conf:M
 - [Altitude Lab Portfolio: NephroNovus](/pages/nephronovus-altitude-lab-portfolio.md) · `/pages/nephronovus-altitude-lab-portfolio.md` · Altitude Lab's public portfolio lists NephroNovus as a therapeutics company estimated founded in 2023, categorized as *… · conf:L
 - [DOE SBIR Database: Nielson Scientific](/pages/nielson-scientific-doe-sbir.md) · `/pages/nielson-scientific-doe-sbir.md` · The DOE SBIR/STTR database is the authoritative record of Small Business Innovation Research grants awarded by the U.S.… · conf:L
@@ -127,6 +128,7 @@ Public evidence records cited by other pages. One line per page; fetch the page 
 - [Source: Deseret News — Adobe Buys Orem's Omniture for $1.8B (2009)](/pages/omniture-deseret-news-2009.md) · `/pages/omniture-deseret-news-2009.md` · A September 2009 Deseret News article covering Adobe's announcement to acquire Omniture, reporting on local employment … · conf:H
 - [Official Website: Owlet Baby Care](/pages/owlet-official-website.md) · `/pages/owlet-official-website.md` · Owlet's official website describes connected nursery products for infant monitoring, including FDA-cleared sock monitor… · conf:M
 - [Official Website: OxEon Energy](/pages/oxeon-energy-official-website.md) · `/pages/oxeon-energy-official-website.md` · OxEon's official website describes the company as a designer and manufacturer of high-temperature solid oxide systems f… · conf:M
+- [Source: OxEon Energy — MOXIE Program](/pages/oxeon-moxie-program.md) · `/pages/oxeon-moxie-program.md` · OxEon Energy's own program page describing its role designing, developing, and manufacturing the Solid OXide Electrolyz… · conf:M
 - [Official Website: Palladyne AI](/pages/palladyne-ai-official-website.md) · `/pages/palladyne-ai-official-website.md` · Palladyne AI's official web presence (company site and investor-relations newsroom) describes the company as a U.S.-bas… · conf:M
 - [Parsons Behle & Latimer Official Website](/pages/parsons-behle-latimer-official-website.md) · `/pages/parsons-behle-latimer-official-website.md` · Parsons Behle & Latimer's official website describes a regional law firm with a Salt Lake City office (plus offices in … · conf:M
 - [Official Website: PassiveLogic](/pages/passivelogic-official-website.md) · `/pages/passivelogic-official-website.md` · PassiveLogic's official website describes a platform for generalized autonomy that began with autonomous buildings, com… · conf:M
@@ -149,6 +151,7 @@ Public evidence records cited by other pages. One line per page; fetch the page 
 - [SBA Utah District Office Page](/pages/sba-utah-district-office-source.md) · `/pages/sba-utah-district-office-source.md` · The SBA Utah District Office page describes the federal small-business office serving all 29 Utah counties. It says the… · conf:H
 - [Official Website: SchoolAI](/pages/schoolai-official-website.md) · `/pages/schoolai-official-website.md` · SchoolAI's official website describes an AI platform for K-12 (and expanding higher-ed) classrooms. Core products inclu… · conf:M
 - [Source: SCI Institute Official Site](/pages/sci-institute-official-site.md) · `/pages/sci-institute-official-site.md` · The SCI Institute's public site describes its mission, faculty, research groups, software releases, publications, and s… · conf:M
+- [Source: Science Advances — MOXIE Paper](/pages/science-advances-moxie.md) · `/pages/science-advances-moxie.md` · The 2022 peer-reviewed paper describing MOXIE's in-flight performance on Mars, coauthored by OxEon Energy engineers Jos… · conf:H
 - [SCORE Utah Page](/pages/score-utah-source.md) · `/pages/score-utah-source.md` · SCORE Utah describes itself as a statewide small-business support organization that connects entrepreneurs with free, c… · conf:M
 - [Official Source: Space Dynamics Laboratory About Page](/pages/sdl-about.md) · `/pages/sdl-about.md` · SDL's about page describes the laboratory as a nonprofit owned by Utah State University, with UARC status, more than 1,… · conf:M
 - [Official Website: Sethera Therapeutics](/pages/sethera-therapeutics-official-website.md) · `/pages/sethera-therapeutics-official-website.md` · Sethera Therapeutics' official website describes an enzymatic peptide cross-linking platform for synthesizing stable po… · conf:M

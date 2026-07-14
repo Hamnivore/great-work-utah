@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** government contracting, procurement, defense industrial base, supplier readiness
-**Location:** Utah
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -53,4 +55,3 @@ It is a weaker fit for a consumer app, lifestyle business, or venture-backed Saa
 - Which Utah companies have recently won contracts after working with APEX?
 - Which APEX workshops are most relevant for defense-tech founders versus local-service businesses?
 - How should the wiki route founders between APEX, Nucleus, and World Trade Center Utah when a company has both defense and international opportunities?
-

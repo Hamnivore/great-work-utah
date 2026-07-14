@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Juab
+**Primary Location:** Nephi, UT
+**Utah Location:** Nephi, UT
+**Region:** Nephi
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

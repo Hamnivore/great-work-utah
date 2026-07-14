@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Summit
+**Primary Location:** Park City, UT
+**Utah Location:** Park City, UT
+**Region:** Park City
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

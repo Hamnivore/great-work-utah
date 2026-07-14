@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** synthetic spider silk, biomaterials, advanced materials, university spinout
 **Stage:** Unknown (founded 2012; current operational status unverified)
-**Location:** Logan, UT
+**Primary Location:** Logan, UT
+**Utah Location:** Logan, UT
+**Region:** Logan
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/araknitek-2026/1600/1100

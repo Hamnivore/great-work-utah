@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation
 **Era:** first diamond synthesis 1954 (at GE); Utah press work 1955-1970s
-**Location:** Brigham Young University and Provo, UT
+**Primary Location:** General Electric Research Laboratory, Schenectady, NY
+**Utah Location:** Brigham Young University, Provo, UT
+**Region:** Provo
 **Updated:** 2026-06-19
 **Relates:** cites [National Inventors Hall of Fame — H. Tracy Hall](nihf-h-tracy-hall.md)
 **Relates:** cites [Chemical & Engineering News — First Diamond Synthesis, 50 Years Later](cen-first-diamond-synthesis.md)

@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Washington
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT
+**Region:** St. George
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

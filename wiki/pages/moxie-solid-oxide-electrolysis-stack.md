@@ -5,7 +5,8 @@
 **Confidence:** High
 **Focus:** space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy
 **Era:** 2010s–2023 Mars operations; Earth-scale follow-through ongoing
-**Location:** North Salt Lake, UT
+**Primary Location:** North Salt Lake, UT
+**Utah Location:** North Salt Lake, UT
 **Updated:** 2026-06-25
 **Domain:** space-science, energy, materials-mfg
 **Region:** North Salt Lake

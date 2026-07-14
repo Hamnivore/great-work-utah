@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology
 **Stage:** Private, operational since 2004; NIH HEAL-funded neuromodulation programs active
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/ripple-neuro-2026/1600/1100

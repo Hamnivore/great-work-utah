@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** software, word processing, Utah software history, Silicon Slopes origins
 **Stage:** Acquired (Novell 1994; Corel 1996; Corel still sells WordPerfect Office)
-**Location:** Orem, UT (historical HQ of WordPerfect Corporation)
+**Primary Location:** Orem, UT
+**Utah Location:** Orem, UT
+**Region:** Orem
 **Updated:** 2026-06-25
 **Hero:** https://picsum.photos/seed/wordperfect-corporation-orem-history-2026/1600/1100
 **Pull:** *Before Microsoft Word won, there was WordPerfect — built in Orem, Utah, and for a decade the most widely used word processor on Earth.*

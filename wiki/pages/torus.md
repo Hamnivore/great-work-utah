@@ -5,7 +5,8 @@
 **Confidence:** Medium
 **Focus:** energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing
 **Stage:** Growth ($200M from Magnetar, Sept 2025; ~$267M+ raised to date)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-18
 **Domain:** energy, materials-mfg
 **Region:** Salt Lake City
@@ -23,19 +24,19 @@ For Utah operators, Torus is one of the clearest examples of hard-tech manufactu
 
 ## Impact
 
-The forcing function behind Torus is the surge in electricity demand from data centers and AI workloads, layered on a grid that needs more frequency regulation, voltage support, and short-duration backup. Flywheels store energy kinetically in a spinning mass: they tolerate effectively unlimited deep cycles (mechanical wear is the limit), avoid chemical degradation and thermal runaway, and can be built from domestic materials. Torus's bet is that combining a flywheel ("Nova Spin") with a lithium-iron-phosphate battery ("Nova Pulse") captures both fast response and useful duration in one modular "Torus Station." [source:torus-magnetar-raise]
+The forcing function behind Torus is the surge in electricity demand from data centers and AI workloads, layered on a grid that needs more frequency regulation, voltage support, and short-duration backup. Flywheels store energy kinetically in a spinning mass: they tolerate effectively unlimited deep cycles (mechanical wear is the limit), avoid chemical degradation and thermal runaway, and can be built from domestic materials. Torus's bet is that combining a flywheel ("Nova Spin") with a lithium-iron-phosphate battery ("Nova Pulse") captures both fast response and useful duration in one modular "Torus Station." [Source: Torus $200M Magnetar Investment](torus-magnetar-raise.md)
 
 The impact case is real but unproven at the scale the company is targeting. Grid-scale flywheel storage has a long history of companies that struggled on economics versus lithium. Torus's claim to differentiation is the hybrid architecture, the software/cybersecurity layer, and domestic manufacturing — not the flywheel alone.
 
 ## What They Are Building
 
-Torus describes a "full-stack energy platform": storage (flywheel + battery), management software, cybersecurity, and generation services, deployed as distributed modular units that can be linked into a "grid operating system." The company says its units provide frequency and voltage support for utility partners and peak shaving, emergency backup, and power-quality services for commercial and industrial customers. [source:torus-magnetar-raise]
+Torus describes a "full-stack energy platform": storage (flywheel + battery), management software, cybersecurity, and generation services, deployed as distributed modular units that can be linked into a "grid operating system." The company says its units provide frequency and voltage support for utility partners and peak shaving, emergency backup, and power-quality services for commercial and industrial customers. [Source: Torus $200M Magnetar Investment](torus-magnetar-raise.md)
 
 The manufacturing story is central. Torus grew from a prototype in Springville, Utah into a 40,000-square-foot facility, and is now building GigaOne, a 540,000-square-foot campus in Salt Lake City, with a stated goal of scaling to more than one gigawatt of capacity per quarter within three years. It received a TIME Best Invention of 2024 award and a 2025 R&D 100 Award. Those production targets are aspirations, not delivered capacity.
 
 ## What They Need Now
 
-Likely needs include mechanical engineers with rotating-machinery or energy-storage backgrounds, power-electronics engineers, grid-systems and interconnection engineers, controls and embedded-software engineers, manufacturing and operations leaders to stand up GigaOne, and field-deployment and O&M technicians. The April 2026 equipment-financing facility from Trinity Capital points to a hardware-heavy capital structure where manufacturing throughput is the bottleneck. [source:torus-trinity-equipment-financing]
+Likely needs include mechanical engineers with rotating-machinery or energy-storage backgrounds, power-electronics engineers, grid-systems and interconnection engineers, controls and embedded-software engineers, manufacturing and operations leaders to stand up GigaOne, and field-deployment and O&M technicians. The April 2026 equipment-financing facility from Trinity Capital points to a hardware-heavy capital structure where manufacturing throughput is the bottleneck. [Source: Trinity Capital Equipment Financing for Torus](torus-trinity-equipment-financing.md)
 
 The candidate fit is unusually strong for engineers coming from heavy industry, utilities, defense manufacturing, or aerospace who want frontier energy work without leaving Utah.
 

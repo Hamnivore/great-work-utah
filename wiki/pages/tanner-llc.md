@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** accounting, audit/assurance, tax, M&A due diligence, SEC reporting, advisory
-**Location:** Salt Lake City, UT (second office in Lehi)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT; Lehi, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -27,7 +29,7 @@ From the firm's public service descriptions, Tanner LLC can help with:
 - **Assurance / audit** — public and private company audits, employee-benefit-plan audits, reviews, and compilations.
 - **Transaction support** — M&A due diligence and SEC reporting consultation.
 - **Tax** — corporate, partnership, and individual tax filings and tax strategy.
-- **Advisory and technology** — strategic planning plus technology and data-security consulting. [source:tanner-llc-official-website]
+- **Advisory and technology** — strategic planning plus technology and data-security consulting. [Tanner LLC Official Website](tanner-llc-official-website.md)
 
 The firm publicly emphasizes that its independence lets it give objective, agile service to "Silicon Slopes" entrepreneurs.
 
@@ -43,7 +45,7 @@ Tanner is a full-service CPA firm; audit, tax, and advisory engagements are scop
 
 ## Proof Points
 
-- Public firm materials describe audit, due-diligence, tax, SEC-reporting-consultation, and advisory services, and membership in Allinial Global (an association of independent firms with international reach). [source:tanner-llc-official-website]
+- Public firm materials describe audit, due-diligence, tax, SEC-reporting-consultation, and advisory services, and membership in Allinial Global (an association of independent firms with international reach). [Tanner LLC Official Website](tanner-llc-official-website.md)
 - Utah Business press coverage describes Tanner as one of the largest locally owned public accounting firms in Utah, founded in 1940 — a date-sensitive, press-reported claim.
 
 ## Good Matches

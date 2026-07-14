@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** chronic kidney disease, renal fibrosis, drug discovery, computational biology, Altitude Lab alumni
 **Stage:** Extremely early; founded circa 2023; Altitude Lab alumni per public portfolio
-**Location:** Salt Lake City, UT (inferred from Altitude Lab ecosystem; not stated on portfolio listing)
+**Primary Location:** unknown
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/nephronovus-renal-fibrosis-2026/1600/1100

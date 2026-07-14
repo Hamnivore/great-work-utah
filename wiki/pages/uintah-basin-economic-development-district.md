@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, Aerospace and Defense, Agriculture
-**Location:** Daggett, Duchesne, Uintah
+**Primary Location:** Roosevelt, UT
+**Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT
+**Region:** Uinta Basin
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** technology law, IP transactions, licensing, securities, emerging companies, venture financing
-**Location:** Salt Lake City, UT (regional offices across the Mountain West)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -26,7 +28,7 @@ From the firm's public capability pages, Parsons Behle & Latimer can help a foun
 
 - **Technology and IP transactions** — drafting and negotiating licensing, joint-development, and cross-licensing agreements; IP due diligence and audits for M&A.
 - **IP protection** — patent, trademark, copyright, and trade-secret strategy (often coordinated with litigators who handle infringement and trade-secret disputes).
-- **Securities and capital markets** — structuring angel and venture financings, preparing private-placement documents, and advising on disclosure/compliance "from the early round of angel financing to the more complex rounds." [source:parsons-behle-latimer-official-website]
+- **Securities and capital markets** — structuring angel and venture financings, preparing private-placement documents, and advising on disclosure/compliance "from the early round of angel financing to the more complex rounds." [Parsons Behle & Latimer Official Website](parsons-behle-latimer-official-website.md)
 - **Cross-functional deal teams** — pulling in IP, tax, employment, and real-estate attorneys as a transaction requires.
 
 ## Best-Fit Founders
@@ -41,7 +43,7 @@ Parsons is a full-service regional firm; expect hourly or matter-based billing a
 
 ## Proof Points
 
-- Public "Technology, Licensing & Intellectual Property Transactions" and "Technology" practice pages describe patent/trademark/copyright/trade-secret work plus licensing, JDAs, and IP due diligence. [source:parsons-behle-latimer-official-website]
+- Public "Technology, Licensing & Intellectual Property Transactions" and "Technology" practice pages describe patent/trademark/copyright/trade-secret work plus licensing, JDAs, and IP due diligence. [Parsons Behle & Latimer Official Website](parsons-behle-latimer-official-website.md)
 - The Securities & Capital Markets page explicitly addresses "startup, middle market, and other emerging growth companies" and angel-to-venture financing.
 - Attorney profiles carry an "Emerging Companies & Venture Capital" practice tag, and the firm publicly references representing Utah technology companies in capital-financing rounds.
 - The IP practice reports recognition such as World Trademark Review's "WTR 1000" — a reputational signal, not a fit guarantee.

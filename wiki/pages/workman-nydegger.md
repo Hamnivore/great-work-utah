@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -28,7 +30,7 @@ From the firm's public service descriptions, Workman Nydegger can help with:
 - **Trademark and copyright** — protecting brand and creative assets.
 - **Trade secrets** — strategy for protecting know-how that isn't patented.
 - **Post-grant proceedings and IP litigation** — defending or challenging patents, and enforcing rights when infringement occurs.
-- **Strategy across technical domains** — software/e-commerce, electronics, mechanical, optics, pharma/biotech, and medical/life-science. [source:workman-nydegger-official-website]
+- **Strategy across technical domains** — software/e-commerce, electronics, mechanical, optics, pharma/biotech, and medical/life-science. [Workman Nydegger Official Website](workman-nydegger-official-website.md)
 
 The firm publicly says it customizes a pricing model per client and tries to avoid surprising clients on cost — useful for an early-stage budget.
 
@@ -44,7 +46,7 @@ As an IP boutique, Workman Nydegger handles prosecution and litigation matters; 
 
 ## Proof Points
 
-- Public services page describes full-service IP work for "a solo inventor, a startup, or a Fortune 500 company," including patent, trademark, copyright, trade-secret, post-grant, and litigation work. [source:workman-nydegger-official-website]
+- Public services page describes full-service IP work for "a solo inventor, a startup, or a Fortune 500 company," including patent, trademark, copyright, trade-secret, post-grant, and litigation work. [Workman Nydegger Official Website](workman-nydegger-official-website.md)
 - The firm reports recognition in Chambers USA (2026) and the IAM Patent 1000 (Utah jurisdiction) — independent reputational signals for a patent practice.
 - The firm publicizes a $9.4M patent jury verdict won for Utah-based SnapPower (a firm-reported, case-specific litigation result).
 

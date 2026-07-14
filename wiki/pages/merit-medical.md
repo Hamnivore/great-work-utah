@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** interventional medical devices, catheters, manufacturing, FDA regulated, life sciences
 **Stage:** Public company (NASDAQ: MMSI), founded 1987
-**Location:** South Jordan, UT
+**Primary Location:** South Jordan, UT
+**Utah Location:** South Jordan, UT
+**Region:** South Jordan
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/merit-medical-interventional-catheter-2026/1600/1100

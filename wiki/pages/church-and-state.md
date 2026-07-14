@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Aerospace and Defense, Agriculture
-**Location:** Davis, Morgan, Salt Lake, Tooele, Weber
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Salt Lake City
 **Layout:** field-guide
 
 ## Summary

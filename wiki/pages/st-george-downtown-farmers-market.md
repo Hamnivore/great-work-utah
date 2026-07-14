@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Late Stage Growth, Other, Agriculture, Arts and Entertainment and Recreation
-**Location:** Beaver, Garfield, Iron, Kane, Washington
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT
+**Region:** St. George
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

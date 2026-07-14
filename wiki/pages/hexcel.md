@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** advanced materials, aerospace composites, carbon fiber, manufacturing
 **Stage:** Public industrial company
-**Location:** Salt Lake City and West Valley City operations; Stamford, CT headquarters
+**Primary Location:** Stamford, CT
+**Utah Location:** Salt Lake City, UT; West Valley City, UT
+**Region:** Salt Lake County
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/hexcel-aerospace-carbon-fiber-2026/1600/1100

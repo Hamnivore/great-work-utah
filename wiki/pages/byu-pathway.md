@@ -5,9 +5,14 @@
 **Confidence:** Medium
 **Focus:** online higher education, workforce development, global access, low-cost credentialing, faith-affiliated nonprofit education
 **Stage:** Operational at scale (88,000+ annual enrollment)
-**Location:** Salt Lake City, UT (global online delivery)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
+**Domain:** culture-place
+**Domain-flagged:** review
+**Region:** Salt Lake City
+**Ownership:** nonprofit
 **Hero:** https://picsum.photos/seed/byu-pathway-global-online-education-2026/1600/1100
 **Pull:** *Accredited degrees at under $8,000 total tuition — delivered online to 180 countries.*
 **Relates:** cites [Official Website: BYU-Pathway Worldwide](byu-pathway-official-website.md)

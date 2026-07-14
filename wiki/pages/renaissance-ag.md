@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** hydroponic livestock feed, water efficiency, arid-land agriculture, climate-smart ag, hardware
 **Stage:** Commercializing (customer deployments, reported backlog in 2024–2025)
-**Location:** Vineyard, UT
+**Primary Location:** Vineyard, UT
+**Utah Location:** Vineyard, UT
+**Region:** Vineyard
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/renaissance-ag-pasturebox/1600/1100

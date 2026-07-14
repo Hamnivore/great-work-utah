@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** water desalination, reverse osmosis, centrifuge efficiency, water scarcity, Southwest water
 **Stage:** Seed ($1M+ raised: $750K seed + $250K Utah Innovation Fund, as of 2023)
-**Location:** St. George, UT (Utah Tech University spinout)
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT
+**Region:** St. George
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/eden-tech-water/1600/1100

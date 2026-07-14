@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** focused ultrasound neuromodulation, LIFU, chronic pain, treatment-resistant depression, non-invasive brain therapy, Diadem device
 **Stage:** Phase 2 complete (chronic pain and depression); Phase 3 initiating; clinical studies enrolling
-**Location:** Salt Lake City, UT (University of Utah Biomedical Engineering spinout)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/spire-therapeutic-diadem-2026/1600/1100

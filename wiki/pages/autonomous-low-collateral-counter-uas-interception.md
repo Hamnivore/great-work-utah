@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** defense, counter-drone, autonomous systems, air defense, critical infrastructure protection
 **Era:** 2018–present
-**Location:** Lindon / Pleasant Grove, UT
+**Primary Location:** Lindon / Pleasant Grove, UT
+**Utah Location:** Lindon / Pleasant Grove, UT
+**Region:** Utah County
 **Updated:** 2026-06-25
 **Pull:** *Fortem's drone-hunting drones are building the case that you can stop a cheap quadcopter without debris, jamming, or collateral damage.*
 **Relates:** cites [Fortem Technologies Official Website](fortem-official-website.md)

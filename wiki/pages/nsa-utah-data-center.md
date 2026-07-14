@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security
 **Stage:** Operational since 2014
-**Location:** Camp Williams, Bluffdale, UT
+**Primary Location:** Camp Williams, Bluffdale, UT
+**Utah Location:** Camp Williams, Bluffdale, UT
+**Region:** Bluffdale
 **Updated:** 2026-06-19
 **Hero:** https://picsum.photos/seed/nsa-utah-bluffdale/1600/1100
 **Pull:** *The largest publicly known data center in Utah, classified, contractor-staffed, and the site of documented mass surveillance infrastructure — included here because any honest map of Utah's technical landscape includes it.*

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** HR software, payroll, benefits, people operations, SMB SaaS
 **Stage:** Private growth company
-**Location:** Lindon, UT
+**Primary Location:** Lindon, UT
+**Utah Location:** Lindon, UT
+**Region:** Lindon
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/bamboohr-hr-platform-lindon-2026/1600/1100

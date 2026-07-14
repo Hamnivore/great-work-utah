@@ -5,8 +5,11 @@
 **Confidence:** High
 **Focus:** mining, copper, mass-mining, industrial engineering, extractive industry
 **Era:** 1906–present
-**Location:** Bingham Canyon (Copperton), UT
+**Primary Location:** Bingham Canyon (Copperton), UT
+**Utah Location:** Bingham Canyon (Copperton), UT
 **Updated:** 2026-06-25
+**Domain:** materials-mfg
+**Region:** Salt Lake County
 **Pull:** *The largest open-pit mine ever excavated proved that low-grade porphyry copper could be mass-mined at world scale, supplying a significant fraction of U.S. copper demand through two World Wars and beyond.*
 **Relates:** cites [Kennecott Utah Copper — History](kennecott-utah-copper-history.md)
 

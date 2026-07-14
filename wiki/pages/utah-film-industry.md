@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** film production, location services, tax incentives, crew base, visual storytelling, landscape
 **Stage:** Ecosystem / cluster
-**Location:** Statewide — Park City, Salt Lake City, Kanab, Moab, Monument Valley
+**Primary Location:** statewide
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/utah-film-industry-2026/1600/1100

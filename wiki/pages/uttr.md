@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** DoD test ranges, weapons evaluation, hypersonics, cruise missiles, space reentry, restricted airspace
 **Stage:** Established, ongoing DoD operations
-**Location:** Western Utah (managed by Hill Air Force Base)
+**Primary Location:** Utah Test and Training Range, UT
+**Utah Location:** Utah West Desert
+**Region:** West Desert
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *The DoD's largest overland test range — load-bearing infrastructure for Utah's defense and space story.*

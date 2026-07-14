@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** small business lending, capital access, lender-backed capital, underserved founders
-**Location:** Utah
+**Primary Location:** Utah
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -54,4 +56,3 @@ USBCI is a better fit for revenue-generating or asset-backed businesses than for
 - Which enrolled lenders are best for rural, veteran-owned, women-owned, and very small businesses?
 - How often do startups without meaningful revenue qualify?
 - Should the wiki create persona-specific answers that distinguish USBCI from grants, SBIR/STTR, and venture capital?
-

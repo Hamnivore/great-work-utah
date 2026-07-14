@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** clinical decision support, medical informatics, electronic health records, hospital systems
 **Era:** 1967-present in successor forms; major HELP development in the 1970s-1990s
-**Location:** LDS Hospital and University of Utah, Salt Lake City, UT
+**Primary Location:** LDS Hospital, Salt Lake City, UT
+**Utah Location:** LDS Hospital and University of Utah, Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-16
 **Pull:** *Long before EHRs became ordinary, a Salt Lake City hospital system showed computers could participate in care while care was happening.*
 

@@ -4,7 +4,9 @@
 **Status:** Useful
 **Confidence:** High
 **Focus:** manufacturing, process improvement, compliance, technology, Utah
-**Location:** Utah
+**Primary Location:** Utah
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

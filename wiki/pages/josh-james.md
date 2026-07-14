@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** enterprise SaaS, web analytics, business intelligence, Utah tech ecosystem
-**Location:** Utah Valley, UT
+**Primary Location:** Utah Valley, UT
+**Utah Location:** Utah Valley, UT
+**Region:** Utah Valley
 **Updated:** 2026-06-19
 **Relates:** cites [Profile: Josh James — Omniture and Domo](josh-james-domo-bio.md)
 

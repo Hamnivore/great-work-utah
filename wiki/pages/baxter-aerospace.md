@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** unmanned aircraft, deployable communications, ISR, defense, emergency response, advanced manufacturing
 **Stage:** Series A ($6M, 2025)
-**Location:** St. George, UT
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT
+**Region:** St. George
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/baxter-dragonfly-vtol-uas-2026/1600/1100
@@ -13,7 +15,7 @@
 
 ## Summary
 
-Baxter Aerospace is a St. George, Utah aerospace system integrator and advanced-manufacturing company focused on real-time sensing and resilient communications for defense, intelligence, and emergency-response customers. Led by president Michael Baxter, it was founded in the wake of the 2017 Eagle Creek Fire to build UAS platforms and communications kits for austere, rapidly changing environments. In July 2025 it raised a $6M Series A — the inaugural defense-sector investment from the DoD Accelerator fund managed by Accuidity Capital Management. [source:baxter-aerospace-dod-accelerator-series-a]
+Baxter Aerospace is a St. George, Utah aerospace system integrator and advanced-manufacturing company focused on real-time sensing and resilient communications for defense, intelligence, and emergency-response customers. Led by president Michael Baxter, it was founded in the wake of the 2017 Eagle Creek Fire to build UAS platforms and communications kits for austere, rapidly changing environments. In July 2025 it raised a $6M Series A — the inaugural defense-sector investment from the DoD Accelerator fund managed by Accuidity Capital Management. [DoD Accelerator $6M Series A in Baxter Aerospace](baxter-aerospace-dod-accelerator-series-a.md)
 
 For the wiki, Baxter is a smaller, earlier-stage entry that connects Utah's drone/autonomy cluster to the overlap between defense and wildfire/disaster response — a regionally resonant origin given Utah's wildfire exposure.
 
@@ -28,7 +30,7 @@ Two product lines anchor the company:
 - **BA-1 Dragonfly** — a Group 3 VTOL (vertical takeoff and landing) unmanned aircraft built for persistent ISR and data relay, described with thrust vectoring, modular payloads, and over 12 hours of endurance, intended to support situational awareness in comms-denied environments.
 - **Deployable Communications Kits** — broadband satellite-communications systems for aircraft and field-deployed platforms, using compact mobile terminals on LEO networks (procured through reseller agreements) for U.S. government public-safety use cases.
 
-The company emphasizes in-house design and build capability plus LEO terminal integration. [source:baxter-aerospace-dod-accelerator-series-a]
+The company emphasizes in-house design and build capability plus LEO terminal integration. [DoD Accelerator $6M Series A in Baxter Aerospace](baxter-aerospace-dod-accelerator-series-a.md)
 
 ## What They Need Now
 

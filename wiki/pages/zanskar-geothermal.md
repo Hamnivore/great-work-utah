@@ -5,7 +5,8 @@
 **Confidence:** Medium
 **Focus:** geothermal exploration, AI for earth sciences, climate, firm clean power
 **Stage:** Series B (Salt Lake City, UT)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-05-09
 **Domain:** energy, computing
 **Region:** Salt Lake City

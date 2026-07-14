@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Late Stage Growth, Any, Life Sciences and Healthcare, Software and Information Technology
-**Location:** Utah
+**Primary Location:** unknown
+**Utah Location:** statewide
 **Updated:** 2026-05-09
+**Domain:** health-bio
+**Region:** statewide
 **Layout:** field-guide
 
 ## Summary

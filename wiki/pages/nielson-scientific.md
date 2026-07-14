@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** deep tech (domain unknown); DOE SBIR
 **Stage:** Unknown; DOE SBIR submission (Utah Innovation Center cohort)
-**Location:** Utah
+**Primary Location:** unknown
+**Utah Location:** unknown
+**Region:** unknown
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/nielson-scientific-2026/1600/1100

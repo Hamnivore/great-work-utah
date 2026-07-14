@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation
 **Stage:** Active university research lab (University of Utah, ECE)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/utah-neurorobotics-prosthetics-lab-2026/1600/1100
@@ -14,7 +16,7 @@
 
 ## Summary
 
-The Utah Neurorobotics Lab is a University of Utah research group in the Department of Electrical and Computer Engineering, led by PI Dr. Jacob George. Its mission is to build prosthetic limbs that restore both movement and sensation by decoding peripheral nerve signals for real-time control and electrically stimulating tactile feedback — so users can experience prostheses as part of their body rather than as external tools. [source:utah-neurorobotics-lab-official-website]
+The Utah Neurorobotics Lab is a University of Utah research group in the Department of Electrical and Computer Engineering, led by PI Dr. Jacob George. Its mission is to build prosthetic limbs that restore both movement and sensation by decoding peripheral nerve signals for real-time control and electrically stimulating tactile feedback — so users can experience prostheses as part of their body rather than as external tools. [Official Website: Utah Neurorobotics Lab](utah-neurorobotics-lab-official-website.md)
 
 For the wiki, the lab is one of Utah's strongest applied-ML-meets-clinical-impact research programs: bidirectional neural interfaces at the intersection of the Utah Slanted Electrode Array tradition, modern decoders, and sensory encoding.
 
@@ -31,7 +33,7 @@ Two linked technical problems anchor the lab:
 1. **Decode** — translate ongoing peripheral nerve signals into intended joint trajectories with low latency, high accuracy, and tolerance to electrode drift and day-to-day variation.
 2. **Encode** — deliver electrical stimulation patterns that evoke graded, localized, naturalistic tactile sensations rather than painful buzzes.
 
-The work builds on the Utah Slanted Electrode Array (USEA), a landmark neural-interface technology developed at the University of Utah. Modern transformer and state-space architectures are increasingly applied to the decoding side. Real-world deployment adds months of continuous wear, sweat, movement artifacts, and the brain's adaptive reorganization — all of which make both problems harder outside the lab. [source:utah-neurorobotics-lab-official-website]
+The work builds on the Utah Slanted Electrode Array (USEA), a landmark neural-interface technology developed at the University of Utah. Modern transformer and state-space architectures are increasingly applied to the decoding side. Real-world deployment adds months of continuous wear, sweat, movement artifacts, and the brain's adaptive reorganization — all of which make both problems harder outside the lab. [Official Website: Utah Neurorobotics Lab](utah-neurorobotics-lab-official-website.md)
 
 ## What They Need Now
 

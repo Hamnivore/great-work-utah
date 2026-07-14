@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** Provo, UT
+**Utah Location:** Provo, UT
+**Region:** Provo
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

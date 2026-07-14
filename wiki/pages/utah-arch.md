@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** hardware architecture, ML accelerators, fully homomorphic encryption, privacy-preserving ML, 3D nanofabric, computer architecture
 **Stage:** University research group; NSF and DARPA funded
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/utah-arch-2026/1600/1100

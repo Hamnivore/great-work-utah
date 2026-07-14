@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power
 **Stage:** Seed ($19M); test reactor under construction at Utah San Rafael Energy Lab
-**Location:** San Jose, CA (test reactor: Emery County, UT)
+**Primary Location:** San Jose, CA
+**Utah Location:** San Rafael Energy Lab, Emery County, UT
 **Updated:** 2026-06-19
 **Domain:** energy, aerospace-defense
-**Region:** out-of-state (Utah operations: San Rafael Energy Lab, Emery County)
+**Region:** Emery County
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/valar-atomics-2026/1600/1100
 **Pull:** *A C-17-airlifttable nuclear reactor with physics-safe TRISO fuel — bringing baseload power to wherever the grid doesn't reach.*

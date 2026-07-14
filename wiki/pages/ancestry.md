@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** genealogy, family history, consumer genomics, historical records, digitization
 **Stage:** Established; privately held
-**Location:** Lehi, UT
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Relates:** cites [Official Website: Ancestry](ancestry-official-website.md)
@@ -42,8 +44,6 @@ Useful helpers include privacy and genetic-data attorneys, archival digitization
 ## Utah Context
 
 Ancestry is headquartered in Lehi and is part of the Silicon Slopes company cluster. Its Utah context is unusually specific: the state has deep cultural, religious, and institutional history around genealogy, including FamilySearch and the FamilySearch Library in Salt Lake City. That gives Ancestry access to local talent and domain knowledge in family history, records work, and genealogy software that would be harder to reproduce elsewhere.
-
-The malformed intake note said Ancestry has partnered with FamilySearch and Church-affiliated record-preservation efforts. That is plausible given the industry history, but the current scope of any partnership, licensing, or record-access arrangement should be verified from fresh primary sources before it is used as a strong claim.
 
 ## Evidence
 

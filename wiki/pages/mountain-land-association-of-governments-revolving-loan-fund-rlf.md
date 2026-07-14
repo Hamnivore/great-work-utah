@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Aerospace and Defense, Agriculture
-**Location:** Summit, Utah, Wasatch
+**Primary Location:** Orem, UT
+**Utah Location:** Mountainland region, UT
+**Region:** Mountainland
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

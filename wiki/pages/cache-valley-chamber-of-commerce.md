@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Cache
+**Primary Location:** Cache County, UT
+**Utah Location:** Cache County, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Cache County
 **Layout:** field-guide
 
 ## Summary

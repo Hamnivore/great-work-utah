@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** immuno-oncology, tumor vasculature, anti-angiogenesis, university spinout
 **Stage:** Preclinical (funding unknown)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/batu-biologics-2026/1600/1100

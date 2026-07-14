@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense
 **Stage:** Established; 80+ years on-site; public defense prime (NYSE: NOC)
-**Location:** Promontory, UT (Box Elder County)
+**Primary Location:** Promontory, UT
+**Utah Location:** Promontory, UT
+**Region:** Promontory
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/northrop-grumman-promontory-2026/1600/1100

@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Wasatch
+**Primary Location:** Heber City, UT
+**Utah Location:** Heber City, UT
+**Region:** Heber City
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

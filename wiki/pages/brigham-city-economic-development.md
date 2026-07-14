@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Box Elder
+**Primary Location:** Brigham City, UT
+**Utah Location:** Brigham City, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Brigham City
 **Layout:** field-guide
 
 ## Summary

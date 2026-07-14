@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Davis, Morgan, Salt Lake, Tooele, Weber
+**Primary Location:** Farmington, UT
+**Utah Location:** Davis County, UT
+**Region:** Davis County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

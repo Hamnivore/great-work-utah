@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** early-stage capital, deep tech, university spinouts, commercialization
-**Location:** Utah
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -52,4 +54,3 @@ It may be premature for a professor who is still deciding whether a company shou
 - What are the fund's current check-size ranges, target ownership, and diligence timeline?
 - Which portfolio companies should be profiled as examples of fit?
 - How should Nucleus Fund referrals be sequenced with SBIR/STTR and UTIF support?
-

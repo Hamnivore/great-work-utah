@@ -5,9 +5,13 @@
 **Confidence:** Low
 **Focus:** macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology
 **Stage:** Preclinical; CALYM-001 at in vivo validation, pre-IND target
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
+**Domain:** health-bio
+**Region:** Salt Lake City
+**Ownership:** private
 **Hero:** https://picsum.photos/seed/calycia-macrophage-gbm-2026/1600/1100
 **Pull:** *Engineered macrophages delivered locally into the brain — a CAR-T alternative built for solid CNS tumors.*
 **Relates:** cites [Official Website: CaLycia Biosciences](calycia-biosciences-official-website.md)

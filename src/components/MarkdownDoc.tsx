@@ -135,8 +135,21 @@ export function MarkdownDoc({ docPath }: { docPath: string }) {
     ),
   }
 
+  const pull = meta.find(([k]) => k === 'Pull')?.[1]
+
   return (
     <article>
+      {pull && (
+        <p className="mb-4 font-display text-lg text-twilight-soft">
+          <ReactMarkdown
+            components={components}
+            allowedElements={['a', 'em', 'strong', 'code']}
+            unwrapDisallowed
+          >
+            {pull}
+          </ReactMarkdown>
+        </p>
+      )}
       {meta.length > 0 && (
         <dl className="doc-meta mb-6 border-y border-sandstone/40 py-3 font-sans text-xs text-ink-soft">
           {meta

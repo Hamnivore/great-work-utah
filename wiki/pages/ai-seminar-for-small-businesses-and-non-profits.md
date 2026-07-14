@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Other, Any, Aerospace and Defense, Agriculture
-**Location:** Salt Lake
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

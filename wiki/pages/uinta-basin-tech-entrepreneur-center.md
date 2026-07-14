@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
-**Location:** Carbon, Emery, Grand, San Juan
+**Primary Location:** Vernal, UT
+**Utah Location:** Uinta Basin
+**Region:** Uinta Basin
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

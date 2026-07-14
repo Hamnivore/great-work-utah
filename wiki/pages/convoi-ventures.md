@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** unknown
+**Utah Location:** statewide
 **Updated:** 2026-05-09
+**Domain:** capital-programs
+**Region:** statewide
 **Layout:** field-guide
 
 ## Summary

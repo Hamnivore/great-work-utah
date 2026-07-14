@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Late Stage Growth, Hospitality and Food Services
-**Location:** Utah
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

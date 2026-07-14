@@ -5,7 +5,8 @@
 **Confidence:** Medium
 **Focus:** wireless charging, fleet electrification, inductive power transfer, transit, logistics
 **Stage:** Commercial; operational — transit, port, and logistics deployments
-**Location:** Logan, UT
+**Primary Location:** Logan, UT
+**Utah Location:** Logan, UT
 **Updated:** 2026-06-19
 **Domain:** energy, materials-mfg
 **Region:** Logan

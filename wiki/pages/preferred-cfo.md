@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** fractional CFO, outsourced finance, forecasting, cash-flow management, fundraising prep, outsourced HR
-**Location:** Salem, UT (greater Salt Lake City metro)
+**Primary Location:** Salem, UT
+**Utah Location:** Salem, UT
+**Region:** Salem
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -24,7 +26,7 @@ A fractional CFO fills that gap by bringing executive-level financial judgment p
 
 From the firm's public service descriptions, Preferred CFO can help with:
 
-- **Fractional CFO leadership** — ongoing, part-time executive financial strategy tailored to the company's size and stage. [source:preferred-cfo-official-website]
+- **Fractional CFO leadership** — ongoing, part-time executive financial strategy tailored to the company's size and stage. [Preferred CFO Official Website](preferred-cfo-official-website.md)
 - **Forecasting and reporting** — budgets, financial reporting, KPI tracking, and cash-flow forecasting (e.g., 13-week models).
 - **Fundraising and deal support** — guidance preparing for investors, deal structuring, and capital management.
 - **Controllers and financial systems** — bookkeeping/controller support and finance-systems setup.
@@ -44,7 +46,7 @@ Preferred CFO provides fractional/outsourced CFO services on a recurring basis, 
 
 ## Proof Points
 
-- Public service pages describe fractional CFO services "without the commitment of a full-time hire," custom-tailored to stage, plus forecasting, cash-flow management, fundraising guidance, and outsourced HR. [source:preferred-cfo-official-website]
+- Public service pages describe fractional CFO services "without the commitment of a full-time hire," custom-tailored to stage, plus forecasting, cash-flow management, fundraising guidance, and outsourced HR. [Preferred CFO Official Website](preferred-cfo-official-website.md)
 - Third-party profiles independently describe Preferred CFO as a Utah-based fractional CFO firm operating since 2013 serving clients across multiple states.
 - Public case studies describe engagements implementing reporting, 13-week cash-flow forecasting, and one- and five-year planning (firm-reported, client-specific).
 

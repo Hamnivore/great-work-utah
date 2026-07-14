@@ -5,7 +5,8 @@
 **Confidence:** Low
 **Focus:** sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense
 **Era:** 2023–present
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-25
 **Domain:** aerospace-defense, energy
 **Region:** Salt Lake City

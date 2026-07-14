@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** manufacturing, operational improvement, training, Utah
-**Location:** Utah
+**Primary Location:** unknown
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

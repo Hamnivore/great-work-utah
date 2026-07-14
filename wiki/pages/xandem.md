@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** RF tomographic sensing, through-wall motion detection, ISR, search and rescue, home security
 **Stage:** Commercial (consumer pivot underway as of 2024)
-**Location:** Salt Lake City, UT (University of Utah ECE spinout)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *A mesh of wireless nodes that detects human motion through walls — serious physics, unclear trajectory.*

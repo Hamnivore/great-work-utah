@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum
 **Stage:** Expanding (founded 2020 at BYU; multi-campus rollout)
-**Location:** Provo, UT (Sandbox Fellowship); partner-university cohorts statewide
+**Primary Location:** Provo, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/sandbox-utah-entrepreneurship-education-2026/1600/1100

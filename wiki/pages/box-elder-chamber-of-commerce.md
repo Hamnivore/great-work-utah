@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Box Elder
+**Primary Location:** Box Elder County, UT
+**Utah Location:** Box Elder County, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Box Elder County
 **Layout:** field-guide
 
 ## Summary

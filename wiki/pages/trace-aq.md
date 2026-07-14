@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** air quality forecasting, wildfire smoke, physics-based AI, atmospheric science, public health alerts
 **Stage:** Seed ($1.25M, 2025; Rusheen Capital Management-led)
-**Location:** Salt Lake City, UT (University of Utah spinout)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/trace-aq-wildfire-smoke-forecast-2026/1600/1100

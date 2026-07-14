@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
-**Location:** Beaver, Garfield, Iron, Kane, Washington
+**Primary Location:** Cedar City, UT
+**Utah Location:** Cedar City, UT
+**Region:** Cedar City
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -24,7 +26,7 @@ A firm that combines outsourced finance with R&D-credit expertise can address bo
 
 From the firm's public service pages, Eide Bailly can help with:
 
-- **Fractional CFO & controller services** — part-time executive financial leadership and oversight, scalable to the company's stage. [source:eide-bailly-official-website]
+- **Fractional CFO & controller services** — part-time executive financial leadership and oversight, scalable to the company's stage. [Eide Bailly Official Website (Salt Lake City)](eide-bailly-official-website.md)
 - **Outsourced / client accounting** — day-to-day finance and accounting operations for under-resourced teams.
 - **R&D tax credits** — identifying and claiming federal and state credits, including payroll-tax offset for qualifying startups.
 - **Core CPA services** — tax, audit, and broader advisory, with a national network behind a local team.
@@ -41,7 +43,7 @@ Eide Bailly scopes engagements per service line (fractional CFO, outsourced acco
 
 ## Proof Points
 
-- Public service pages describe Fractional CFO & Controller services, outsourced finance/accounting, and R&D tax-credit services, with an explicit note that startups can use R&D credits to reduce payroll taxes. [source:eide-bailly-official-website]
+- Public service pages describe Fractional CFO & Controller services, outsourced finance/accounting, and R&D tax-credit services, with an explicit note that startups can use R&D credits to reduce payroll taxes. [Eide Bailly Official Website (Salt Lake City)](eide-bailly-official-website.md)
 - The Salt Lake City location page lists local leadership (e.g., a named Utah Market Leader) and the office address, confirming a real Utah presence within the national firm.
 
 ## Good Matches

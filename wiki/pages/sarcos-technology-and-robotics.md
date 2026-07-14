@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** robotics, industrial automation, defense, exoskeletons, teleoperation
 **Stage:** Public (previously NASDAQ: ROBO before delisting; acquired by Paladin Capital 2024); founded 1983
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-25
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/sarcos-guardian-xo-exoskeleton-2026/1600/1100

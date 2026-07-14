@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Multicultural, Aerospace and Defense, Agriculture
-**Location:** Kane, Washington
+**Primary Location:** Hildale, UT
+**Utah Location:** Hildale, UT
+**Region:** Hildale
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

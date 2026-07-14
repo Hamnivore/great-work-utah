@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture
-**Location:** Summit, Utah, Wasatch
+**Primary Location:** Provo, UT
+**Utah Location:** Provo, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Provo
 **Layout:** field-guide
 
 ## Summary

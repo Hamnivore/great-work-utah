@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** peptide therapeutics, enzymatic cross-linking, polymacrocyclic peptides, drug discovery platform
 **Stage:** Early-stage; University of Utah spinout (~2023)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/sethera-therapeutics-2026/1600/1100

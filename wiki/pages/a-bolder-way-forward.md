@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Other, Women, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** Utah State University, Logan, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

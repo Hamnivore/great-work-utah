@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** medical devices, interventional cardiology, manufacturing, founder-operator, public company leadership
-**Location:** South Jordan, UT
+**Primary Location:** South Jordan, UT
+**Utah Location:** South Jordan, UT
+**Region:** South Jordan
 **Updated:** 2026-06-19
 **Hero:** https://picsum.photos/seed/fred-lampropoulos-merit-medical/1600/1100
 **Relates:** helps [Merit Medical Systems](merit-medical.md)

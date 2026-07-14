@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen recovery
 **Stage:** Public (NASDAQ: SKYQ); commercializing; PR Spring permit application filed June 2025
-**Location:** Woods Cross, UT (HQ); PR Spring facility in eastern Utah
+**Primary Location:** Woods Cross, UT
+**Utah Location:** Woods Cross, UT; PR Spring, Uintah County, UT
 **Updated:** 2026-06-19
 **Domain:** energy, materials-mfg
-**Region:** Uintah County, UT (PR Spring); Woods Cross, UT (HQ)
+**Region:** Uintah County; Woods Cross
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/sky-quarry-manufacturing-2026/1600/1100
 **Pull:** *Used asphalt shingles are 30% bitumen by weight — Sky Quarry's ECOSolv process recovers 95% of the material and returns it to road and industrial use, tackling one of the larger ignored construction waste streams.*

@@ -5,9 +5,12 @@
 **Confidence:** Low
 **Focus:** metabolic syndrome, PASK inhibition, diabetes, obesity, NAFLD/NASH, University of Utah spinout
 **Stage:** Unknown as of 2026; last primary public signal is 2014 preclinical partnership press release
-**Location:** Unknown (University of Utah spinout lineage; no confirmed HQ in sources reviewed)
+**Primary Location:** unknown
+**Utah Location:** University of Utah, Salt Lake City, UT (historical spinout)
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
+**Domain:** health-bio
+**Region:** Salt Lake City
 **Hero:** https://picsum.photos/seed/bioenergenix-pask-metabolic-2026/1600/1100
 **Pull:** *A U of U spinout betting metabolic syndrome has a tractable root cause in PASK — public trail goes cold after 2014.*
 **Relates:** cites [University of Utah Health Press Release: BioEnergenix Metabolic Syndrome Spinoff](bioenergenix-uofu-health-press-release.md)

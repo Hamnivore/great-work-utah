@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Daggett, Duchesne, Uintah
+**Primary Location:** Uintah County, UT
+**Utah Location:** Uintah County, UT
+**Region:** Uintah County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

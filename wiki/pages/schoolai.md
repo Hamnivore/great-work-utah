@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** AI in education, personalized learning, K-12 edtech, teacher tools, classroom AI safety
 **Stage:** Series A ($25M, April 2025; $32M total raised)
-**Location:** Lehi, UT
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/schoolai-classroom-ai-platform-2026/1600/1100

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription
 **Stage:** Private growth company (~$135M secured in 2022 across equity and debt)
-**Location:** American Fork, UT
+**Primary Location:** American Fork, UT
+**Utah Location:** American Fork, UT
+**Region:** American Fork
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/lvt-mobile-surveillance-unit-2026/1600/1100
@@ -13,7 +15,7 @@
 
 ## Summary
 
-LiveView Technologies (LVT) is an American Fork, Utah company that makes rapidly deployable, solar-powered mobile surveillance units — trailer-mounted camera systems with floodlights, strobes, two-way audio, and cloud-based AI video analytics — sold on a subscription model. Founded in 2005 by Ryan Porter and Bob Brenner to stream construction sites, it grew into remote physical security across retail, logistics, energy, transportation, education, municipalities, and law enforcement. By 2025 the company reported more than 15,000 units deployed and over 200 employees. [source:liveview-technologies-official-website]
+LiveView Technologies (LVT) is an American Fork, Utah company that makes rapidly deployable, solar-powered mobile surveillance units — trailer-mounted camera systems with floodlights, strobes, two-way audio, and cloud-based AI video analytics — sold on a subscription model. Founded in 2005 by Ryan Porter and Bob Brenner to stream construction sites, it grew into remote physical security across retail, logistics, energy, transportation, education, municipalities, and law enforcement. By 2025 the company reported more than 15,000 units deployed and over 200 employees. [Official Website: LiveView Technologies](liveview-technologies-official-website.md)
 
 For the wiki, LVT is included as one of Utah's largest and most visible security-technology companies and a clear example of durable product execution and commercial scale rather than a frontier-technology bet.
 
@@ -25,7 +27,7 @@ The honest framing is that this is mature-market execution (security cameras plu
 
 ## What They Are Building
 
-The core product is a self-contained mobile surveillance trailer: cameras, solar power, cellular connectivity, deterrence hardware (lights, strobes, speakers), and a cloud video-management platform. Recent additions include AI features such as spotlight/auto-tracking, "talk-down" deterrence, and keyword search, plus a wall-mounted unit (announced 2025) for fixed perimeters. Entering 2026, the company has described an "LVT 2.0" strategy with an expanded C-suite and increased R&D, positioning beyond pure mobile security toward a broader platform. [source:liveview-technologies-official-website]
+The core product is a self-contained mobile surveillance trailer: cameras, solar power, cellular connectivity, deterrence hardware (lights, strobes, speakers), and a cloud video-management platform. Recent additions include AI features such as spotlight/auto-tracking, "talk-down" deterrence, and keyword search, plus a wall-mounted unit (announced 2025) for fixed perimeters. Entering 2026, the company has described an "LVT 2.0" strategy with an expanded C-suite and increased R&D, positioning beyond pure mobile security toward a broader platform. [Official Website: LiveView Technologies](liveview-technologies-official-website.md)
 
 ## What They Need Now
 

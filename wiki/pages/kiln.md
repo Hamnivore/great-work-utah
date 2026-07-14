@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Aerospace and Defense, Agriculture
-**Location:** Beaver, Davis, Garfield, Iron, Kane, Morgan and nearby counties
+**Primary Location:** unknown
+**Utah Location:** Holladay, Lehi, Park City, Provo, Salt Lake City, St. George, UT; Kiln Cabin
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

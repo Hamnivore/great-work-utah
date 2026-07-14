@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Aerospace and Defense, Agriculture
-**Location:** Carbon, Emery, Grand, San Juan
+**Primary Location:** Monticello, UT
+**Utah Location:** Monticello, UT
+**Region:** Monticello
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

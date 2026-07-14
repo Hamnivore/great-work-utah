@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** regulatory sandbox, compliance, regulated markets, policy feedback
-**Location:** Utah
+**Primary Location:** Utah
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 
@@ -51,4 +53,3 @@ Best fits are founders who can show a real Utah customer need, a clear state reg
 - What are the current review timelines and approval rates?
 - Which regulatory categories are most likely to be appropriate for a sandbox application?
 - Should the wiki create match pages for regulated founders who also need specialized attorneys or compliance advisors?
-

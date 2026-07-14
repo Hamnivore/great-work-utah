@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** AI music tools, audio source separation, voice cloning, music generation, creative technology
 **Stage:** Series A ($40M, January 2025; Connect Ventures / CAA+NEA, Kickstart, Samsung Next, Pelion)
-**Location:** Salt Lake City, UT (founders from Brazil; US HQ in Utah)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/music-ai-studio/1600/1100

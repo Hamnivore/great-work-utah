@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine
 **Stage:** Public (NASDAQ: MYGN)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/myriad-genetics-diagnostics-slc-2026/1600/1100

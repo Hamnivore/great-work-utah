@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Other, Rural
-**Location:** Davis
+**Primary Location:** Davis County, UT
+**Utah Location:** Davis County, UT
+**Region:** Davis County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

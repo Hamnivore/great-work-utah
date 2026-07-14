@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** eVTOL, emergency medical services, air ambulance, remote access
 **Stage:** Development (JA1 Pulse in development as of 2025)
-**Location:** Petaluma, CA (Utah connection via UDOT uFLY testbed)
+**Primary Location:** Petaluma, CA
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/jump-aero-2026/1600/1100

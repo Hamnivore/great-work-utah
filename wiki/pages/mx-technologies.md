@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** open banking, financial data, account aggregation, fintech API platform
 **Stage:** Private; founded 2010 (as MoneyDesktop); Lehi HQ
-**Location:** Lehi, UT
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-06-21
 **Needs-reviewed:** 2026-06-21
 **Pull:** *One of Silicon Slopes' leading private fintech companies — open banking infrastructure for banks, credit unions, and fintech developers.*

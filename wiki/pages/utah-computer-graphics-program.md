@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** computer graphics, rendering, human-computer interaction, software history
 **Era:** 1968-1985 peak output; continuing lineage
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-16
 **Pull:** *The modern graphics stack has a surprisingly direct line back to one Utah graduate program.*
 

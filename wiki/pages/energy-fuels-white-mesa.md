@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes
 **Stage:** Public company / operating industrial asset
-**Location:** White Mesa, San Juan County, UT
+**Primary Location:** Lakewood, CO
+**Utah Location:** White Mesa, San Juan County, UT
 **Updated:** 2026-06-18
 **Domain:** energy, materials-mfg, health-bio
-**Region:** out-of-state (Utah operations: White Mesa, San Juan County)
+**Region:** San Juan County
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/energy-fuels-white-mesa-critical-minerals-2026/1600/1100
 **Pull:** *A Utah mill at the center of a contested U.S. critical-minerals and nuclear-fuel supply-chain strategy.*

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** e-commerce, online retail, home goods, blockchain assets, Utah tech anchor
 **Stage:** Public (NYSE: BBBY)
-**Location:** Murray, UT
+**Primary Location:** Murray, UT
+**Utah Location:** Murray, UT
+**Region:** Murray
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/overstock-bed-bath-beyond-murray-2026/1600/1100

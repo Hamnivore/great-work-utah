@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** student entrepreneurship, university entrepreneurship, mentoring, internships, competitions
-**Location:** Logan, UT
+**Primary Location:** Logan, UT
+**Utah Location:** Logan, UT
+**Region:** Logan
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** healthcare data analytics, population health, value-based care, clinical data integration
 **Stage:** Public (NASDAQ: HCAT); founded 2008; Salt Lake City HQ
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-21
 **Needs-reviewed:** 2026-06-21
 **Pull:** *Utah's flagship healthcare-analytics public company — a full data-platform play for health systems trying to make value-based care work.*

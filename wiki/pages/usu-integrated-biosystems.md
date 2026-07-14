@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** agricultural genomics, bioinformatics, land-grant research, arid-land crops, livestock genetics
 **Stage:** Established university research center
-**Location:** Logan, UT
+**Primary Location:** Logan, UT
+**Utah Location:** Logan, UT
+**Region:** Logan
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/usu-integrated-biosystems-2026/1600/1100

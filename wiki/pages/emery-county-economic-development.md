@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Carbon, Emery, Grand, San Juan
+**Primary Location:** Emery County, UT
+**Utah Location:** Emery County, UT
+**Region:** Emery County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

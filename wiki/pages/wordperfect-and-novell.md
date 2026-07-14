@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** software, word processing, networking, personal computing, Utah Valley
 **Era:** WordPerfect 1979-1996; Novell 1979/1983-2014; peak influence late 1980s to mid-1990s
-**Location:** Orem and Provo, UT
+**Primary Location:** Orem and Provo, UT
+**Utah Location:** Orem and Provo, UT
+**Region:** Utah Valley
 **Updated:** 2026-06-19
 **Pull:** *For about a decade, the world's most-used word processor and its most-used office network both shipped from Utah Valley.*
 

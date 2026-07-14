@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, translational medicine, life sciences
 **Stage:** Established academic research institute and hospital (founded 1995)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/huntsman-cancer-institute-research-2026/1600/1100
@@ -13,7 +15,7 @@
 
 ## Summary
 
-Huntsman Cancer Institute (HCI) is the cancer research institute and hospital of University of Utah Health, founded in 1995 through a gift from Jon M. and Karen Huntsman. It is the National Cancer Institute–designated Comprehensive Cancer Center for a five-state region — Utah, Idaho, Montana, Nevada, and Wyoming — which HCI describes as the largest geographic catchment area of any cancer center in the country. The institute reports more than 400 open clinical trials and more than 300 research teams. [source:huntsman-cancer-institute-official-website]
+Huntsman Cancer Institute (HCI) is the cancer research institute and hospital of University of Utah Health, founded in 1995 through a gift from Jon M. and Karen Huntsman. It is the National Cancer Institute–designated Comprehensive Cancer Center for a five-state region — Utah, Idaho, Montana, Nevada, and Wyoming — which HCI describes as the largest geographic catchment area of any cancer center in the country. The institute reports more than 400 open clinical trials and more than 300 research teams. [Source: Huntsman Cancer Institute Official Pages (Leadership, NCI Designation, U2TAH)](huntsman-cancer-institute-official-website.md)
 
 For the Great Work Utah wiki, HCI is the scientific anchor of Utah's cancer-research ecosystem and one of the most consequential medical research institutions in the Mountain West.
 
@@ -27,7 +29,7 @@ Impact lands through several channels at once: direct patient care across a larg
 
 HCI is both a working hospital and a research enterprise, so "what they are building" spans clinical capacity and scientific programs. On the access side, the institute and University of Utah Health broke ground in 2025 on a new Comprehensive Cancer Center in Vineyard, Utah, expanding care into a fast-growing part of the state.
 
-On the translational side, HCI participates in the University of Utah Therapeutic Accelerator Hub (U2TAH), a partnership of HCI, the College of Pharmacy, and the university's PIVOT Center, created to bridge the gap between laboratory drug discoveries and clinical development. Public University of Utah material describes the accelerator as seeded with a $22.5M commitment and led by senior managing director David Bearss, with all disease areas eligible even though cancer is a central focus. [source:huntsman-cancer-institute-official-website]
+On the translational side, HCI participates in the University of Utah Therapeutic Accelerator Hub (U2TAH), a partnership of HCI, the College of Pharmacy, and the university's PIVOT Center, created to bridge the gap between laboratory drug discoveries and clinical development. Public University of Utah material describes the accelerator as seeded with a $22.5M commitment and led by senior managing director David Bearss, with all disease areas eligible even though cancer is a central focus. [Source: Huntsman Cancer Institute Official Pages (Leadership, NCI Designation, U2TAH)](huntsman-cancer-institute-official-website.md)
 
 ## What They Need Now
 

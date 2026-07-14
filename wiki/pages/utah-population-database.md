@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** genetic epidemiology, genealogy, medical records, population health infrastructure
 **Era:** 1970s-present
-**Location:** Huntsman Cancer Institute and University of Utah, Salt Lake City, UT
+**Primary Location:** University of Utah, Salt Lake City, UT
+**Utah Location:** University of Utah, Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-16
 **Pull:** *Utah turned family history into one of the country's most unusual instruments for studying inherited disease.*
 

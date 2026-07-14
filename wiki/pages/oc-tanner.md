@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** employee recognition, corporate culture, HR technology, workplace engagement
 **Stage:** Private; founded 1927; Salt Lake City HQ
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-25
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/oc-tanner-culture-cloud-2026/1600/1100

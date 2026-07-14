@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** SBIR, STTR, nondilutive funding, proposal support, grant training, post-award management
-**Location:** Michigan; remote/national relevance for Utah deep tech
+**Primary Location:** Chelsea, MI
+**Utah Location:** no verified Utah presence
+**Region:** no verified Utah presence
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

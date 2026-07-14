@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Morgan
+**Primary Location:** Morgan, UT
+**Utah Location:** Morgan County, UT
+**Region:** Morgan County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

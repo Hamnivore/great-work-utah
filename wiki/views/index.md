@@ -10,7 +10,7 @@ All pages live flat at `/pages/{slug}.md`; every view below is generated from pa
 - [helpers](helpers.md) — 12 advisors, funds, service providers
 - [work](work.md) — 34 historical proofs of what Utah has built
 - [guides](guides.md) — 9 opinionated maps and playbooks
-- [sources](sources.md) — 205 public evidence records
+- [sources](sources.md) — 208 public evidence records
 
 ## Derived
 

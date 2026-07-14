@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** startup law, corporate formation, venture financing, M&A, securities, IP, general counsel
-**Location:** Salt Lake City, UT (offices also in Lehi, St. George, and Boise)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, Lehi, and St. George, UT
+**Region:** statewide
 **Updated:** 2026-06-18
 **Layout:** field-guide
 
@@ -29,7 +31,7 @@ Based on the firm's public practice descriptions, Kirton McConkie can help a fou
 - **M&A and exits** — buy-side and sell-side transactions, due diligence, deal structuring and negotiation.
 - **Adjacent needs under one roof** — intellectual property, tax, employment, immigration, and real estate, coordinated with the corporate team.
 
-The firm publicly says clients often use it in a "general counsel" capacity, including scalable counsel for companies not yet ready for full-time in-house lawyers. [source:kirton-mcconkie-official-website]
+The firm publicly says clients often use it in a "general counsel" capacity, including scalable counsel for companies not yet ready for full-time in-house lawyers. [Kirton McConkie Official Website](kirton-mcconkie-official-website.md)
 
 ## Best-Fit Founders
 
@@ -43,7 +45,7 @@ Kirton McConkie is a large full-service firm; engagements are typically hourly o
 
 ## Proof Points
 
-- Public corporate and M&A practice pages describe entity formation, capital raising, securities compliance, and mergers/acquisitions as core work. [source:kirton-mcconkie-official-website]
+- Public corporate and M&A practice pages describe entity formation, capital raising, securities compliance, and mergers/acquisitions as core work. [Kirton McConkie Official Website](kirton-mcconkie-official-website.md)
 - Named attorneys publicly focus on emerging-growth companies and venture-capital financings (e.g., Robbie Yates, recognized by Chambers USA for an "emerging practice in the venture capital market").
 - Firm and attorneys report recognition in Chambers USA, Best Lawyers, and the inaugural Legal 500 Salt Lake City Elite rankings — independent reputational signals, not guarantees of fit.
 

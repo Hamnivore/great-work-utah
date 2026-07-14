@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Juab, Millard, Piute, Sanpete, Sevier, Wayne
+**Primary Location:** Nephi, UT
+**Utah Location:** Juab County, UT
+**Region:** Juab County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** edtech, learning management systems, Canvas LMS, AI in education
 **Stage:** Established (PE-backed, formerly public)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/instructure-canvas-lms-2026/1600/1100

@@ -5,10 +5,11 @@
 **Confidence:** Low
 **Focus:** lithium-oxygen batteries, reserve batteries, chemical oxygen generation, Army obstacle systems, energy density
 **Stage:** Early-stage company; SBIR Phase II (as of 2025)
-**Location:** Utah (exact city unknown)
+**Primary Location:** unknown
+**Utah Location:** unknown
 **Updated:** 2026-06-19
 **Domain:** aerospace-defense, energy
-**Region:** statewide (exact site unknown — see Open Questions)
+**Region:** unknown
 **Needs-reviewed:** 2026-06-19
 **Pull:** *Army-validated Li-O₂ reserve batteries with on-board oxygen generation — a frontier chemistry bet on long sleep, high burst power.*
 

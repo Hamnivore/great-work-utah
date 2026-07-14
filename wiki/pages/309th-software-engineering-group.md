@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** flight software, weapons software, mission software, DevSecOps, safety-critical systems, Air Force sustainment
 **Stage:** Established U.S. Air Force organization; one of the largest defense software groups in the country
-**Location:** Hill Air Force Base, Ogden, UT (Ogden Air Logistics Complex)
+**Primary Location:** Hill Air Force Base, UT
+**Utah Location:** Hill Air Force Base, UT
+**Region:** Hill Air Force Base
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *The code that keeps most of the U.S. Air Force combat fleet flying — F-35, F-22, F-16, A-10, ICBMs, cruise missiles, and the B-21 sustainment pipeline.*

@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project development
 **Stage:** Series A; $38M (oversubscribed); pilot underway in Utah
-**Location:** Salt Lake City, UT (also Calgary, Alberta)
+**Primary Location:** Salt Lake City, UT; Calgary, Alberta
+**Utah Location:** Salt Lake City, UT; Great Basin pilot site
 **Updated:** 2026-06-19
 **Domain:** energy
-**Region:** Salt Lake City, UT (HQ); Great Basin pilot site (county unspecified in source)
+**Region:** Great Basin
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/rodatherm-energy-2026/1600/1100
 **Pull:** *A sealed, closed-loop geothermal system that unlocks heat from sedimentary basins — 50% more efficient, no freshwater consumed, no induced seismicity.*

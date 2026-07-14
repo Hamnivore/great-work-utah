@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** edtech, skills training, workforce upskilling, AI learning, enterprise L&D
 **Stage:** Established (PE-owned)
-**Location:** Farmington, UT
+**Primary Location:** Farmington, UT
+**Utah Location:** Farmington, UT
+**Region:** Farmington
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/pluralsight-skills-training-2026/1600/1100

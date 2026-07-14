@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** consumer audio, headphones, earbuds, lifestyle brand, action sports
 **Stage:** Mature consumer brand (PE-owned per legacy notes)
-**Location:** Park City, UT
+**Primary Location:** Park City, UT
+**Utah Location:** Park City, UT
+**Region:** Park City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/skullcandy-lifestyle-audio-2026/1600/1100

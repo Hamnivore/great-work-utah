@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** computer graphics, flight simulation, real-time 3D, graphics hardware
 **Era:** 1968-present; peak graphics and simulation influence in the 1970s-1980s
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-16
 **Pull:** *The first commercial computer-graphics company turned Utah lab ideas into real-time 3D machinery.*
 

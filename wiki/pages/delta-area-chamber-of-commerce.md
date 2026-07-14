@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Millard
+**Primary Location:** Delta, UT
+**Utah Location:** Delta, UT
+**Region:** Delta
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

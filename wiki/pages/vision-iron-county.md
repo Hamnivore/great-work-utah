@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture
-**Location:** Beaver, Garfield, Iron, Kane, Washington
+**Primary Location:** Iron County, UT
+**Utah Location:** Iron County, UT
+**Region:** Iron County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

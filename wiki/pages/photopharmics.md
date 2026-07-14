@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology
 **Stage:** Private; clinical-stage; Series B ($16M + $6M extension); Phase 3 trial underway
-**Location:** American Fork, UT
+**Primary Location:** American Fork, UT
+**Utah Location:** American Fork, UT
+**Region:** American Fork
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/photopharmics-2026/1600/1100

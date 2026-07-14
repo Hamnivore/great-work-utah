@@ -5,9 +5,13 @@
 **Confidence:** Medium
 **Focus:** synthetic heparin, biomanufacturing, anticoagulants, supply chain resilience, university spinout
 **Stage:** Early (STTR-funded)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
+**Domain:** health-bio
+**Region:** Salt Lake City
+**Ownership:** private
 **Hero:** https://picsum.photos/seed/bioparin-2026/1600/1100
 **Relates:** cites [Official Website: Bioparin](bioparin-official-website.md)
 

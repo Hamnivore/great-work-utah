@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Arts and Entertainment and Recreation, Life Sciences and Healthcare
-**Location:** Rich
+**Primary Location:** Rich County, UT
+**Utah Location:** Rich County, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Rich County
 **Layout:** field-guide
 
 ## Summary

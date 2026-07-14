@@ -4,8 +4,11 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** antibiotics, antimicrobial resistance, biotech CEO, mission-driven pharma, Gram-negative bacteria
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-21
+**Domain:** health-bio
+**Region:** Salt Lake City
 **Hero:** https://picsum.photos/seed/chad-testa-2026/1600/1100
 **Pull:** *CEO leading Curza's first-in-class antibiotic program against drug-resistant Gram-negative bacteria — filling a gap no new class has addressed in nearly 50 years.*
 **Relates:** helps [Curza](curza.md)

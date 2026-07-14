@@ -5,15 +5,19 @@
 **Confidence:** Medium
 **Focus:** infectious disease diagnostics, multiplex PCR, syndromic testing, in vitro diagnostics, life sciences
 **Stage:** Established subsidiary of bioMérieux (Euronext: BIM); global deployment
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
+**Domain:** health-bio
+**Region:** Salt Lake City
+**Ownership:** public
 **Hero:** https://picsum.photos/seed/biofire-filmarray-syndromic-pcr-2026/1600/1100
 **Pull:** *One small sample, dozens of pathogens, an answer in about an hour.*
 
 ## Summary
 
-BioFire Diagnostics is a Salt Lake City company that makes syndromic infectious-disease tests — single cartridges that run multiplex PCR against roughly 20 or more pathogens at once and return results in about an hour. Its FilmArray system and panel menu (respiratory, gastrointestinal, blood culture identification, meningitis/encephalitis, pneumonia, and a newer Global Fever Panel) are used widely in US hospital labs. The company's own product labeling lists BioFire Diagnostics, LLC at 515 Colorow Drive, Salt Lake City, and identifies it as part of French clinical-diagnostics group bioMérieux. [source:biofire-diagnostics-official-website]
+BioFire Diagnostics is a Salt Lake City company that makes syndromic infectious-disease tests — single cartridges that run multiplex PCR against roughly 20 or more pathogens at once and return results in about an hour. Its FilmArray system and panel menu (respiratory, gastrointestinal, blood culture identification, meningitis/encephalitis, pneumonia, and a newer Global Fever Panel) are used widely in US hospital labs. The company's own product labeling lists BioFire Diagnostics, LLC at 515 Colorow Drive, Salt Lake City, and identifies it as part of French clinical-diagnostics group bioMérieux. [Source: BioFire Diagnostics Official Website and Product Labeling](biofire-diagnostics-official-website.md)
 
 For the Great Work Utah wiki, BioFire is one of the clearest examples of globally deployed, clinically consequential medical technology that is designed and manufactured in Utah but rarely described as "tech."
 
@@ -25,7 +29,7 @@ The impact mechanism is direct clinical deployment at scale: every panel that co
 
 ## What They Are Building
 
-The flagship is the FilmArray platform (FilmArray 2.0 and Torch systems) plus a growing menu of disposable test pouches. The most recent notable addition is the BioFire Global Fever Panel, an FDA-cleared in vitro diagnostic that detects six fever-causing targets — including dengue, chikungunya, *Leptospira*, and *Plasmodium* species (malaria) — directly from EDTA whole blood in about 50 minutes with roughly two minutes of hands-on time. BioFire's labeling indicates the Global Fever Panel was cleared through a De Novo pathway (DEN200043). A research-use-only version of the panel detects a broader set of targets for surveillance work. [source:biofire-diagnostics-official-website]
+The flagship is the FilmArray platform (FilmArray 2.0 and Torch systems) plus a growing menu of disposable test pouches. The most recent notable addition is the BioFire Global Fever Panel, an FDA-cleared in vitro diagnostic that detects six fever-causing targets — including dengue, chikungunya, *Leptospira*, and *Plasmodium* species (malaria) — directly from EDTA whole blood in about 50 minutes with roughly two minutes of hands-on time. BioFire's labeling indicates the Global Fever Panel was cleared through a De Novo pathway (DEN200043). A research-use-only version of the panel detects a broader set of targets for surveillance work. [Source: BioFire Diagnostics Official Website and Product Labeling](biofire-diagnostics-official-website.md)
 
 The harder-to-see product is the manufacturing and regulatory system: building nested multiplex PCR, integrated sample extraction, and automated detection into a single consumable that a technician can run without sample prep, then clearing each new panel through FDA review. That accumulated capability is the moat.
 

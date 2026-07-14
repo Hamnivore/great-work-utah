@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** solid rocket motors, aerospace manufacturing, launch systems, defense industrial base
 **Era:** 1956-present
-**Location:** Promontory and Brigham City, UT
+**Primary Location:** Promontory and Brigham City, UT
+**Utah Location:** Promontory and Brigham City, UT
+**Region:** Box Elder County
 **Updated:** 2026-05-16
 **Pull:** *A remote Utah facility became one of America's central solid-propulsion factories.*
 

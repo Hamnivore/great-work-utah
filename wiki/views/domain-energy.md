@@ -1,19 +1,19 @@
 # energy — sector hub
 
-Generated from `**Domain:**` metadata (23/607 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (53/610 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
-- [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `/pages/energy-fuels-white-mesa.md` · out-of-state (Utah operations: White Mesa, San Juan County) · uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes
-- [EnergySolutions](/pages/energy-solutions.md) · `/pages/energy-solutions.md` · Clive, UT (Tooele County) · nuclear waste management, radioactive waste disposal, decommissioning, environmental services
-- [Fervo Energy](/pages/fervo-energy.md) · `/pages/fervo-energy.md` · out-of-state (Utah operations: Beaver County) · geothermal energy, grid infrastructure, climate, drilling
-- [Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md) · `/pages/ionic-mt.md` · Juab County, UT (Silicon Ridge / Halloysite Hills deposits); Provo, UT (HQ) · battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain
-- [OxEon Energy](/pages/oxeon-energy.md) · `/pages/oxeon-energy.md` · North Salt Lake, UT · solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry
-- [PassiveLogic](/pages/passivelogic.md) · `/pages/passivelogic.md` · Salt Lake City, UT · autonomous buildings, edge AI, digital twins, climate, building controls
-- [Rodatherm Energy](/pages/rodatherm-energy.md) · `/pages/rodatherm-energy.md` · Salt Lake City, UT (HQ); Great Basin pilot site (county unspecified in source) · geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project develop…
-- [Sky Quarry](/pages/sky-quarry.md) · `/pages/sky-quarry.md` · Uintah County, UT (PR Spring); Woods Cross, UT (HQ) · asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen reco…
+- [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `/pages/energy-fuels-white-mesa.md` · San Juan County · uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes
+- [EnergySolutions](/pages/energy-solutions.md) · `/pages/energy-solutions.md` · Tooele County · nuclear waste management, radioactive waste disposal, decommissioning, environmental services
+- [Fervo Energy](/pages/fervo-energy.md) · `/pages/fervo-energy.md` · Beaver County · geothermal energy, grid infrastructure, climate, drilling
+- [Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md) · `/pages/ionic-mt.md` · Juab County · battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain
+- [OxEon Energy](/pages/oxeon-energy.md) · `/pages/oxeon-energy.md` · North Salt Lake · solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry
+- [PassiveLogic](/pages/passivelogic.md) · `/pages/passivelogic.md` · Salt Lake City · autonomous buildings, edge AI, digital twins, climate, building controls
+- [Rodatherm Energy](/pages/rodatherm-energy.md) · `/pages/rodatherm-energy.md` · Great Basin · geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project develop…
+- [Sky Quarry](/pages/sky-quarry.md) · `/pages/sky-quarry.md` · Uintah County; Woods Cross · asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen reco…
 - [Torus](/pages/torus.md) · `/pages/torus.md` · Salt Lake City · energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing
-- [Valar Atomics](/pages/valar-atomics.md) · `/pages/valar-atomics.md` · out-of-state (Utah operations: San Rafael Energy Lab, Emery County) · microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power
+- [Valar Atomics](/pages/valar-atomics.md) · `/pages/valar-atomics.md` · Emery County · microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power
 - [WAVE (Wireless Advanced Vehicle Electrification)](/pages/wave-inc.md) · `/pages/wave-inc.md` · Logan · wireless charging, fleet electrification, inductive power transfer, transit, logistics
 - [Zanskar Geothermal](/pages/zanskar-geothermal.md) · `/pages/zanskar-geothermal.md` · Salt Lake City · geothermal exploration, AI for earth sciences, climate, firm clean power
 
@@ -23,7 +23,7 @@ Generated from `**Domain:**` metadata (23/607 pages attributed so far — covera
 
 ## People
 
-- [Tim Latimer](/pages/tim-latimer.md) · `/pages/tim-latimer.md` · out-of-state (Utah operations: Beaver County — Cape Station) · geothermal energy, enhanced geothermal systems, climate infrastructure, energy transition
+- [Tim Latimer](/pages/tim-latimer.md) · `/pages/tim-latimer.md` · Beaver County · geothermal energy, enhanced geothermal systems, climate infrastructure, energy transition
 
 ## Who they need right now
 

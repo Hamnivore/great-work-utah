@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** B2B SaaS, visual collaboration, enterprise software, founder leadership
-**Location:** South Jordan, UT
+**Primary Location:** South Jordan, UT
+**Utah Location:** South Jordan, UT
+**Region:** South Jordan
 **Updated:** 2026-06-21
 **Hero:** https://picsum.photos/seed/karl-sun-2026/1600/1100
 **Pull:** *BYU graduate who co-founded Lucidchart and built one of Utah's largest private SaaS companies.*

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** experience management, applied AI, enterprise SaaS, surveys, sentiment analysis
 **Stage:** Private (Silver Lake take-private, 2023)
-**Location:** Provo, UT (+ Seattle, WA co-HQ)
+**Primary Location:** Provo, UT; Seattle, WA
+**Utah Location:** Provo, UT
+**Region:** Provo
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/qualtrics-xm-provo-2026/1600/1100

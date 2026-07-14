@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Other
-**Location:** Davis, Morgan, Salt Lake, Tooele, Weber
+**Primary Location:** Murray, UT
+**Utah Location:** Murray, UT
+**Region:** Murray
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

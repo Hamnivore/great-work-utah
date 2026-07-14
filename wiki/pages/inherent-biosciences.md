@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** epigenetic diagnostics, male fertility, sperm function, reproductive health, AI biomarkers
 **Stage:** Private; Series A; NIH grant-funded
-**Location:** Lehi area, UT
+**Primary Location:** Lehi area, UT
+**Utah Location:** Lehi area, UT
+**Region:** Lehi
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *Epigenetic sperm-function testing beyond count and motility — early, but a different diagnostic signal.*

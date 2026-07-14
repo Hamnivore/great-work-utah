@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Start a Business, Student, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** Pleasant Grove, UT
+**Utah Location:** Utah County, UT
+**Region:** Utah County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

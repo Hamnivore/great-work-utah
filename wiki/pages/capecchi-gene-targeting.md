@@ -5,8 +5,11 @@
 **Confidence:** Medium
 **Focus:** gene targeting, knockout mice, biomedical research, genetics
 **Era:** 1973-present; core breakthrough in the 1980s; Nobel Prize in 2007
-**Location:** University of Utah, Salt Lake City, UT
+**Primary Location:** University of Utah, Salt Lake City, UT
+**Utah Location:** University of Utah, Salt Lake City, UT
 **Updated:** 2026-05-16
+**Domain:** health-bio
+**Region:** Salt Lake City
 **Pull:** *A Utah lab helped make it possible to ask what any mammalian gene does by removing it on purpose.*
 
 ## Summary

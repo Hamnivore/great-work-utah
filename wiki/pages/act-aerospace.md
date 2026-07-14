@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** aerospace composites, carbon fiber structures, composite manufacturing, aerostructures, defense supply chain
 **Stage:** Private; established mid-size aerospace supplier
-**Location:** Gunnison, UT
+**Primary Location:** Gunnison, UT
+**Utah Location:** Gunnison, UT
+**Region:** Gunnison
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/act-aerospace-manufacturing-2026/1600/1100

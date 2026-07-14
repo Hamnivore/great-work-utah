@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** air quality monitoring, environmental sensing, low-cost sensors, calibration, public health infrastructure
 **Stage:** Growth; 20–49 employees; seeking Series A (as of 2024–2025)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/tellus-2026/1600/1100

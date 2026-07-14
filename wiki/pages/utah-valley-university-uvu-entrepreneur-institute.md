@@ -4,7 +4,9 @@
 **Status:** Useful
 **Confidence:** High
 **Focus:** student entrepreneurship, university entrepreneurship, mentoring, seed funding, competitions
-**Location:** Orem, UT
+**Primary Location:** Orem, UT
+**Utah Location:** Orem, UT
+**Region:** Orem
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

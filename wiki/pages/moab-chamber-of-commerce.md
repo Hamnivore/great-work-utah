@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Grand
+**Primary Location:** Moab, UT
+**Utah Location:** Grand County, UT
+**Region:** Grand County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

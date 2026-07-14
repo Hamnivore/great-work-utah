@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** attritable drones, special operations, fiber-optic FPV, electronic warfare resilience, modern warfare as a service
 **Stage:** Series A (~$61M raised in ~14 months; ~150 employees)
-**Location:** Bluffdale, UT
+**Primary Location:** Bluffdale, UT
+**Utah Location:** Bluffdale, UT
+**Region:** Bluffdale
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *Jamming-immune FPV drones and a subscription model built for SOF — impressive early traction, very young company.*

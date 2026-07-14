@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** autonomous buildings, edge AI, digital twins, climate, building controls
 **Stage:** Series C
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
 **Updated:** 2026-06-18
 **Domain:** energy, computing
-**Region:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/passivelogic-autonomous-buildings-slc-2026/1600/1100
 **Pull:** *Physics-informed autonomy for the built environment, starting with building controls.*

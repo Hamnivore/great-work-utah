@@ -5,8 +5,11 @@
 **Confidence:** High
 **Focus:** drug discovery, molecular neuroscience, venom peptides, non-opioid pain, ion channels
 **Era:** late 1970s-present; founding peptide discovered 1979, Prialt approved December 2004
-**Location:** University of Utah, Salt Lake City, UT
+**Primary Location:** University of Utah, Salt Lake City, UT
+**Utah Location:** University of Utah, Salt Lake City, UT
 **Updated:** 2026-06-19
+**Domain:** health-bio
+**Region:** Salt Lake City
 **Pull:** *A Utah lab read cone-snail venom as an evolved chemical library and pulled a first-in-class painkiller out of it.*
 **Relates:** cites [University of Utah News — New Painkiller Was Born in Utah](conotoxins-utah-news-release.md)
 **Relates:** cites [DailyMed — PRIALT (ziconotide) Prescribing Information](conotoxins-dailymed-prialt.md)

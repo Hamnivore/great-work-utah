@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** infant health monitoring, connected nursery, consumer medtech, wearables, FDA-regulated devices
 **Stage:** Private growth company
-**Location:** Lehi, UT
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/owlet-baby-care-lehi-2026/1600/1100

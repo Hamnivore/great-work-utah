@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** allosteric drug discovery, oncology, precision medicine, structural biology, metabolite-protein interactions
 **Stage:** Private; clinical-stage; ~$299M raised ($120M Series B, December 2025; $40M extension, March 2026)
-**Location:** Cambridge, MA (HQ); University of Utah spinout (founding science)
+**Primary Location:** Cambridge, MA
+**Utah Location:** University of Utah, Salt Lake City, UT (founding science)
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/atavistik-bio-2026/1600/1100

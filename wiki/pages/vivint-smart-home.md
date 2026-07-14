@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** smart home, home security, IoT, professional monitoring, consumer hardware
 **Stage:** Subsidiary of NRG Energy (public parent, NYSE: NRG)
-**Location:** Provo, UT
+**Primary Location:** Provo, UT
+**Utah Location:** Provo, UT
+**Region:** Provo
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/vivint-smart-home-provo-2026/1600/1100

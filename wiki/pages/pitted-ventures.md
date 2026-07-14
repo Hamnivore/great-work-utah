@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Consumer Packaged Goods
-**Location:** Utah
+**Primary Location:** Sandy, UT
+**Utah Location:** Sandy, UT
+**Region:** Sandy
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

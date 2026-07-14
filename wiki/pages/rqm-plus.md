@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** medical devices, diagnostics, regulatory affairs, quality systems, clinical trials, reimbursement, medtech startups
-**Location:** United States; remote/national relevance for Utah medtech
+**Primary Location:** unknown
+**Utah Location:** no verified Utah presence
+**Region:** no verified Utah presence
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

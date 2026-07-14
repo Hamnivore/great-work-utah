@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Utah
+**Primary Location:** Cottonwood Heights, UT
+**Utah Location:** statewide
+**Region:** statewide
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

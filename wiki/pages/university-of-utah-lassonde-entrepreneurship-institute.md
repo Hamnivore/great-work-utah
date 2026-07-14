@@ -4,7 +4,9 @@
 **Status:** Useful
 **Confidence:** High
 **Focus:** student entrepreneurship, university entrepreneurship, startups, seed funding, venture creation
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** customer communication, SaaS, local business software, SMS, reviews, payments
 **Stage:** Private growth company; unicorn as of 2019 (~$1.5B valuation); Lehi HQ
-**Location:** Lehi, UT
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-06-25
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/podium-local-business-platform-2026/1600/1100

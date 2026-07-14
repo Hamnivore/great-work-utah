@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** Land art, Great Salt Lake, site-specific sculpture, contemporary art
 **Era:** 1970-present
-**Location:** Rozel Point, Great Salt Lake, Box Elder County, UT
+**Primary Location:** Rozel Point, Great Salt Lake, Box Elder County, UT
+**Utah Location:** Rozel Point, Great Salt Lake, Box Elder County, UT
+**Region:** Rozel Point, Great Salt Lake, Box Elder County
 **Updated:** 2026-05-16
 **Pull:** *A coil of basalt, salt, mud, water, and time made Great Salt Lake part of art history.*
 

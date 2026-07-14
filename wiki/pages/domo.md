@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS
 **Stage:** Public (NASDAQ: DOMO)
-**Location:** American Fork, UT
+**Primary Location:** American Fork, UT
+**Utah Location:** American Fork, UT
+**Region:** American Fork
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/domo-agentic-bi-american-fork-2026/1600/1100

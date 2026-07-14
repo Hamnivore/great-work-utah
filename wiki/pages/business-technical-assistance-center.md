@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
-**Location:** Carbon, Emery, Grand, San Juan
+**Primary Location:** Price, UT
+**Utah Location:** Price, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Price
 **Layout:** field-guide
 
 ## Summary

@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture
-**Location:** Beaver, Garfield, Iron, Kane, Washington
+**Primary Location:** Escalante, UT
+**Utah Location:** Escalante, UT
+**Region:** Escalante
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** IP, patents, technology transactions, software, biotech, medical devices, deep tech
-**Location:** Salt Lake City, UT; Park City, UT
+**Primary Location:** Salt Lake City, UT; Park City, UT
+**Utah Location:** Salt Lake City, UT; Park City, UT
+**Region:** statewide
 **Updated:** 2026-06-18
 **Layout:** field-guide
 

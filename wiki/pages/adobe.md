@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** creative software, digital media, cloud subscriptions, digital marketing, document management
 **Stage:** Public (NASDAQ: ADBE); global; major Utah hub
-**Location:** Lehi, UT (major engineering hub); HQ San Jose, CA
+**Primary Location:** San Jose, CA
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-06-21
 **Needs-reviewed:** 2026-06-21
 **Pull:** *The dominant creative-software platform, with one of the largest engineering hubs in Silicon Slopes — a real employer anchor for Utah design and software talent.*

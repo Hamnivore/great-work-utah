@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Sanpete
+**Primary Location:** Sanpete County, UT
+**Utah Location:** Sanpete County, UT
+**Region:** Sanpete County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

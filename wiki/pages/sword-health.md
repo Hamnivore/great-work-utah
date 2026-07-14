@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** digital health, musculoskeletal care, physical therapy, remote care, AI-powered rehabilitation
 **Stage:** Private; Series D ($163M, 2022; valuation ~$2B); dual HQ Salt Lake City / Porto
-**Location:** Salt Lake City, UT (dual HQ with Porto, Portugal)
+**Primary Location:** Salt Lake City, UT; Porto, Portugal
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-25
 **Needs-reviewed:** 2026-06-25
 **Hero:** https://picsum.photos/seed/sword-health-digital-pt-2026/1600/1100

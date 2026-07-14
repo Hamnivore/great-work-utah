@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** software, SaaS, web analytics, digital marketing, enterprise software
 **Era:** 1996-2009 as an independent company; continued inside Adobe
-**Location:** Orem and Lehi, UT
+**Primary Location:** Orem and Lehi, UT
+**Utah Location:** Orem and Lehi, UT
+**Region:** Utah County
 **Updated:** 2026-06-19
 **Relates:** cites [SEC/EDGAR — Adobe Acquisition of Omniture (14D-9, 2009)](omniture-adobe-sec-14d9-2009.md)
 **Relates:** cites [Deseret News — Adobe Buys Orem's Omniture for $1.8B (2009)](omniture-deseret-news-2009.md)

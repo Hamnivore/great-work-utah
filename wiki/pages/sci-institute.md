@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** scientific computing, scientific visualization, biomedical computing, open-source research software
 **Stage:** University research institute (founded 1992; permanent institute later)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** https://picsum.photos/seed/sci-institute-scientific-visualization-2026/1600/1100

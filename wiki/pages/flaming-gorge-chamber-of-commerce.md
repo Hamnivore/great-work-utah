@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Daggett
+**Primary Location:** Daggett County, UT
+**Utah Location:** Daggett County, UT
+**Region:** Daggett County
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

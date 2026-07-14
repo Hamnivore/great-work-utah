@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** consumer brand, impact entrepreneurship, Latin America, outdoor industry, poverty alleviation
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Hero:** https://picsum.photos/seed/davis-smith-cotopaxi-founder-2026/800/600
 

@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** synthetic aperture radar, UAS, defense, aerospace, intelligence, manufacturing
 **Stage:** Private established company
-**Location:** Utah Valley, UT
+**Primary Location:** Utah Valley, UT
+**Utah Location:** Utah Valley, UT
+**Region:** Utah Valley
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/imsar-low-swap-radar-utah-valley-2026/1600/1100

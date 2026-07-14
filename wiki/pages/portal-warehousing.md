@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Consumer Packaged Goods
-**Location:** Davis, Morgan, Salt Lake, Tooele, Weber
+**Primary Location:** Northern Utah
+**Utah Location:** Davis County, Morgan County, Salt Lake County, Tooele County, Weber County
+**Region:** Northern Utah
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

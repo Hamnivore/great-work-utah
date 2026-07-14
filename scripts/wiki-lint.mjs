@@ -137,6 +137,9 @@ const stats = {
   totalPages: 0,
   domainAttributed: 0,
   regionAttributed: 0,
+  primaryLocationAttributed: 0,
+  utahLocationAttributed: 0,
+  legacyLocation: 0,
   domainFlagged: 0,
   needsSectionCount: 0,
   needsReviewedCount: 0,
@@ -251,6 +254,28 @@ async function lintPage(filename) {
   }
 
   // -- Region coverage (no vocabulary check requested) ---------------------
+  const primaryLocationHeader = headers.get("Primary Location");
+  if (primaryLocationHeader && primaryLocationHeader.value) {
+    stats.primaryLocationAttributed += 1;
+  }
+
+  const utahLocationHeader = headers.get("Utah Location");
+  if (utahLocationHeader && utahLocationHeader.value) {
+    stats.utahLocationAttributed += 1;
+  }
+
+  const legacyLocationHeader = headers.get("Location");
+  if (legacyLocationHeader && legacyLocationHeader.value) {
+    stats.legacyLocation += 1;
+    addFinding(
+      "warning",
+      "legacy-location",
+      filePath,
+      "**Location:** is legacy; use **Primary Location:** and **Utah Location:**.",
+      legacyLocationHeader.line
+    );
+  }
+
   const regionHeader = headers.get("Region");
   if (regionHeader && regionHeader.value) {
     stats.regionAttributed += 1;
@@ -346,10 +371,13 @@ const summary = {
   warnings: warnings.length,
   errorsByCode: countByCode(errors),
   warningsByCode: countByCode(warnings),
-  coverage: {
-    domain: `${stats.domainAttributed}/${stats.totalPages}`,
-    region: `${stats.regionAttributed}/${stats.totalPages}`,
-  },
+    coverage: {
+      domain: `${stats.domainAttributed}/${stats.totalPages}`,
+      region: `${stats.regionAttributed}/${stats.totalPages}`,
+      primaryLocation: `${stats.primaryLocationAttributed}/${stats.totalPages}`,
+      utahLocation: `${stats.utahLocationAttributed}/${stats.totalPages}`,
+      legacyLocation: `${stats.legacyLocation}/${stats.totalPages}`,
+    },
   needsReviewed: {
     pagesWithNeedsSection: stats.needsSectionCount,
     pagesWithNeedsReviewed: stats.needsReviewedCount,
@@ -368,6 +396,9 @@ if (json) {
   for (const [code, count] of Object.entries(summary.warningsByCode).sort()) console.log(`    ${code}: ${count}`);
   console.log(`  Domain attribution coverage: ${summary.coverage.domain}`);
   console.log(`  Region attribution coverage: ${summary.coverage.region}`);
+  console.log(`  Primary Location coverage: ${summary.coverage.primaryLocation}`);
+  console.log(`  Utah Location coverage: ${summary.coverage.utahLocation}`);
+  console.log(`  Legacy Location remaining: ${summary.coverage.legacyLocation}`);
   console.log(`  Domain-flagged (adjudication queue): ${stats.domainFlagged}`);
   console.log(
     `  Needs-reviewed: ${stats.needsReviewedCount} present / ${stats.needsSectionCount} pages have a "What They Need Now" section`

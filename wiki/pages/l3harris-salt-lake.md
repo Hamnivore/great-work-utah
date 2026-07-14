@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** military communications, electronic warfare, ISR payloads, tactical radios, SATCOM, contested-environment networking
 **Stage:** Established; major public defense prime (NYSE: LHX)
-**Location:** Salt Lake City, UT (major Communications Systems site; corporate HQ in Melbourne, FL)
+**Primary Location:** Melbourne, FL
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *One of the largest U.S. defense comms facilities — Falcon radios, SATCOM terminals, and classified ISR payloads, thousands of engineers deep.*
@@ -46,8 +48,8 @@ L3Harris Salt Lake City is one of Utah's largest defense employers after Hill Ai
 
 ## Evidence
 
-- [L3Harris Salt Lake City location page](https://www.l3harris.com/about/locations/salt-lake-city) — official site description of the facility.
-- [L3Harris Communication Systems](https://www.l3harris.com/all-capabilities/communication-systems) — capability overview.
+- [L3Harris Salt Lake City location page](https://www.l3harris.com/about/locations/salt-lake-city) — official site description of the facility. **Dead as of 2026-07-14 (404); L3Harris has restructured its site.** Facts drawn from it should be re-verified before being treated as current.
+- [L3Harris Communication Systems](https://www.l3harris.com/all-capabilities/communication-systems) — capability overview. **Dead as of 2026-07-14 (404); L3Harris has restructured its site.**
 - [Wikipedia: L3Harris Technologies](https://en.wikipedia.org/wiki/L3Harris_Technologies) — corporate history and merger background.
 
 ## Open Questions
@@ -57,3 +59,4 @@ L3Harris Salt Lake City is one of Utah's largest defense employers after Hill Ai
 - Defense budget and program-cycle volatility — which comms programs are expanding versus consolidating?
 - Individual leverage in a large prime: what roles offer the most mission autonomy without leaving Utah?
 - The legacy tier note flagged commoditization pressure in tactical comms — how is L3Harris positioning against newer software-defined and mesh-network competitors?
+- The two l3harris.com Evidence links now 404 — what are the current URLs for the Salt Lake City facility page and Communication Systems capability overview, and do the facts above still hold?

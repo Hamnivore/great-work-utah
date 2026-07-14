@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** religious publishing, broadcasting, faith media, LDS Church, radio, television, journalism
 **Stage:** Established (Deseret Book founded 1866; Bonneville founded 1964)
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/deseret-book-bonneville-2026/1600/1100

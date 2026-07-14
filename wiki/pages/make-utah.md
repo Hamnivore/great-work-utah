@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing
-**Location:** Summit, Utah, Wasatch
+**Primary Location:** Pleasant Grove, UT
+**Utah Location:** Pleasant Grove, UT
+**Region:** Pleasant Grove
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

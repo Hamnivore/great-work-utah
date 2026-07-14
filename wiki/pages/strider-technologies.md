@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** strategic intelligence, geopolitical risk, economic security, AI, national security
 **Stage:** Private growth company
-**Location:** Utah
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/strider-strategic-intelligence-utah-2026/1600/1100

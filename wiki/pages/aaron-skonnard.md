@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** developer education, technical training, SaaS, Utah tech ecosystem
-**Location:** Utah (Draper area)
+**Primary Location:** unknown
+**Utah Location:** unknown
+**Region:** unknown
 **Updated:** 2026-06-19
 
 ## Summary

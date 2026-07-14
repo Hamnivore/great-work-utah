@@ -4,7 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** enterprise software, experience management, Utah tech ecosystem, civic leadership
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Relates:** cites [Profile: Ryan Smith — Qualtrics Co-Founder](ryan-smith-qualtrics-bio.md)
 

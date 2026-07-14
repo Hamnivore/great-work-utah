@@ -4,7 +4,9 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Cache
+**Primary Location:** Logan, UT
+**Utah Location:** Logan, UT
+**Region:** Logan
 **Updated:** 2026-05-09
 **Layout:** field-guide
 

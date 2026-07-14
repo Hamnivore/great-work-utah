@@ -4,8 +4,11 @@
 **Status:** Stub
 **Confidence:** Low
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture
-**Location:** Box Elder, Cache, Rich
+**Primary Location:** Logan, UT
+**Utah Location:** Box Elder County, UT; Cache County, UT; Rich County, UT
 **Updated:** 2026-05-09
+**Domain:** culture-place
+**Region:** Bear River region
 **Layout:** field-guide
 
 ## Summary

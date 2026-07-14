@@ -5,7 +5,9 @@
 **Confidence:** High
 **Focus:** audio engineering, signal processing, digital recording, music technology, university spinout
 **Era:** 1975-1985
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-18
 **Pull:** *The first commercial digital recording company in the United States grew out of a University of Utah engineer's quarrel with analog tape.*
 

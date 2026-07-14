@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** non-opioid pain, postoperative analgesia, extended-release drug delivery, bupivacaine formulation, opioid-sparing surgery
 **Stage:** Clinical-stage; IND filed 2025; $6M Series A; Phase 2 bunionectomy trial planned
-**Location:** Salt Lake City, UT
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/rebel-medicine-alevatrix-2026/1600/1100

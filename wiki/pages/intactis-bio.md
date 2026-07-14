@@ -5,7 +5,9 @@
 **Confidence:** Low
 **Focus:** biological computing, hybrid biosilicon AI, neuromorphic compute, deep tech
 **Stage:** Pre-seed; biocomputation alpha platform live (2025); $250K Nucleus Fund + $100K RPV
-**Location:** Salt Lake City, UT (resident at Altitude Lab)
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Altitude Lab, Salt Lake City, UT
+**Region:** Salt Lake City
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/intactis-bio-1600.webp

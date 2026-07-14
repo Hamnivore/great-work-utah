@@ -5,10 +5,11 @@
 **Confidence:** Medium
 **Focus:** electric aviation, battery propulsion, eVTOL, FAA certification, power electronics
 **Stage:** Private; growth stage; $69M state incentive package
-**Location:** North Logan, UT
+**Primary Location:** North Logan, UT
+**Utah Location:** North Logan, UT
 **Updated:** 2026-06-19
 **Domain:** aerospace-defense, energy
-**Region:** North Logan, UT
+**Region:** North Logan
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/electric-power-systems-2026/1600/1100
 **Pull:** *Building aviation-grade battery propulsion systems that can actually earn FAA certification — the hardest gate in electric aviation.*

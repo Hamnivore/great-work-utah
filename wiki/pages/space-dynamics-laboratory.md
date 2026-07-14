@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** space systems, sensors, satellites, defense, student workforce
 **Stage:** Established university-affiliated research center
-**Location:** North Logan, UT
+**Primary Location:** North Logan, UT
+**Utah Location:** North Logan, UT
+**Region:** North Logan
 **Updated:** 2026-05-09
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/space-dynamics-1600.webp

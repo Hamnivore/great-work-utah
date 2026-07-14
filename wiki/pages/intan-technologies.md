@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** neural recording, electrophysiology, integrated circuits, neuroscience infrastructure, brain-computer interfaces
 **Stage:** Established private company; widely deployed research ICs
-**Location:** Los Angeles, CA
+**Primary Location:** Los Angeles, CA
+**Utah Location:** no verified Utah presence
+**Region:** no verified Utah presence
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/intan-technologies-neural-ics-2026/1600/1100

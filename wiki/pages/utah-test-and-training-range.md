@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** military test ranges, aerospace and defense, restricted airspace, weapons evaluation
 **Era:** 1940s-present; UTTR designation in 1979
-**Location:** Utah's West Desert; administered from Hill Air Force Base
+**Primary Location:** Utah Test and Training Range, UT
+**Utah Location:** Utah West Desert
+**Region:** West Desert
 **Updated:** 2026-05-16
 **Pull:** *Utah's West Desert became national-scale infrastructure for testing aircraft, weapons, and the systems around them.*
 

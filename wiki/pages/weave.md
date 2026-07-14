@@ -5,7 +5,9 @@
 **Confidence:** Medium
 **Focus:** applied AI, vertical SaaS, healthcare communications, voice AI, payments
 **Stage:** Public company (NYSE: WEAV); established, ~40,000 customer locations
-**Location:** Lehi, UT
+**Primary Location:** Lehi, UT
+**Utah Location:** Lehi, UT
+**Region:** Lehi
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/weave-lehi-hq/1600/1100
@@ -16,7 +18,7 @@
 
 Weave is a Lehi, Utah public company (NYSE: WEAV) that sells an AI-powered patient communications, engagement, and payments platform built for small and medium-sized healthcare practices. It consolidates phone, text, scheduling reminders, reviews, digital forms, and payments into one system, and is increasingly the front-office "orchestration layer" that ties those workflows to a practice's management software. The company traces its roots to 2008 (originally Recall Solutions, renamed Weave Communications in 2015) and went public in 2021.
 
-For the Great Work Utah wiki, Weave is one of the clearest applied-AI deployment stories in the state: not a model-building frontier lab, but a vertical SaaS company putting voice agents and workflow automation into the hands of dental, optometry, veterinary, and specialty-medical offices that have little administrative capacity. [source:weave-official-website]
+For the Great Work Utah wiki, Weave is one of the clearest applied-AI deployment stories in the state: not a model-building frontier lab, but a vertical SaaS company putting voice agents and workflow automation into the hands of dental, optometry, veterinary, and specialty-medical offices that have little administrative capacity. [Official Website: Weave](weave-official-website.md)
 
 ## Impact
 

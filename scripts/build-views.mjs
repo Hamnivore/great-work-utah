@@ -88,15 +88,18 @@ for (const d of DOMAINS) {
   write(`domain-${d}.md`, hub)
 }
 
-// ---- by Utah location ----
-const regional = attributed.filter((p) => p.region)
+// ---- by Utah location (any page with Region — not only Domain-attributed) ----
+const regional = pages.filter((p) => p.region)
 if (regional.length) {
-  let reg = `# By Utah location\n\nGenerated from normalized \`**Region:**\` metadata, which is derived from \`**Utah Location:**\` during the location-schema rollout.\n`
+  let reg = `# By Utah location\n\nGenerated from \`**Region:**\` metadata (${regional.length} pages with a region). Sector hubs still require \`**Domain:**\`; geography does not.\n`
   const byR = {}
   for (const p of regional) (byR[p.region] ||= []).push(p)
   for (const [r, sel] of Object.entries(byR).sort()) {
     reg += `\n## ${r}\n\n`
-    for (const p of sel) reg += `- [${p.title}](${p.url}) · \`${p.path}\` · ${p.domains.join(', ')}\n`
+    for (const p of sel) {
+      const domains = p.domains.length ? p.domains.join(', ') : (p.type || 'page')
+      reg += `- [${p.title}](${p.url}) · \`${p.path}\` · ${domains}\n`
+    }
   }
   write('by-region.md', reg)
 }

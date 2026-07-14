@@ -12,13 +12,17 @@ Everything is raw markdown at stable URLs. No auth, no rate limits, no JavaScrip
 - Any page: `GET /pages/{slug}.md` — example: `/pages/fervo-energy.md`
 - Type views, one line per page: `GET /views/{type}.md` — types: ventures, resources, people, helpers, work, guides, sources
 - **The hiring view:** `GET /views/needs.md` — every venture's "what they need now," one line each. If your question involves matching a person to work, read this file; it has perfect recall over every venture's stated needs.
-- Geography (attributed pages): `GET /views/by-region.md`
+- Geography: `GET /views/by-region.md` — pages with a `**Region:**` (not only Domain-attributed ones)
 - Sector hubs: `GET /views/domain-{name}.md` — names: energy, health-bio, aerospace-defense, computing, materials-mfg, space-science, capital-programs, culture-place (not `/views/energy.md`)
 - House format and standards (read before writing a page): `GET /meta/conventions.md`. What "great work" means here: `GET /meta/charter.md`.
 
 Pages carry `**Confidence:**` grades and cite `source` pages — trust accordingly. `**Focus:**` lines are the fastest way to shortlist. `**Relates:**` and `## See Also` link the graph. Index first; fetch pages to refine. In type views, each line includes a copyable path like `` `/pages/{slug}.md` `` — use that path even if your fetcher drops markdown link hrefs.
 
 ## Procedures
+
+**Looking for work (first visit):** fetch `/views/needs.md` first — it is the hiring view. Skim for skill overlap, then open `/views/domain-{name}.md` if the ask is sector-shaped (energy, health-bio, aerospace-defense, computing…). Shortlist 5–10 → fetch those `/pages/{slug}.md` files → recommend 3–5 with a why, a caveat, and a concrete next step (org careers page). `/pages/find-meaningful-work.md` shows the house style. This is not a job board.
+
+**Founding or growing (first visit):** fetch `/pages/startup-capital-in-utah.md` and `/pages/find-an-advisor.md`, then `/views/resources.md` / `/views/helpers.md` to fill gaps. For university spinouts also read `/pages/commercialize-research.md` and `/pages/where-to-find-sbir-help-in-utah.md`. For Main Street / rural / non-VC small business, start at `/pages/find-business-services.md` and `/views/by-region.md` instead of the deep-tech capital sequence. Don't drown in the full ventures list on day one.
 
 **Find work worth doing (jobs, roles, missions):** get the person's skills and constraints → fetch `/views/needs.md` and `/views/ventures.md` (and the matching `/views/domain-{name}.md` hub when the ask is sector-shaped) → shortlist 5–10 where the person's skills overlap the stated needs or focus — prefer non-obvious fits over famous names → fetch each page; read Summary, Impact, What They Need Now → recommend 3–5, each with a why-this-person argument, one caveat, one concrete next step. `/pages/find-meaningful-work.md` shows how this wiki argues a recommendation. This is a knowledge wiki, not a job board — point the person at the org's careers page for live openings.
 

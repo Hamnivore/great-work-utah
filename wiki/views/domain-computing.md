@@ -1,6 +1,6 @@
 # computing — sector hub
 
-Generated from `**Domain:**` metadata (68/615 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (69/616 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -10,6 +10,7 @@ Generated from `**Domain:**` metadata (68/615 pages attributed so far — covera
 - [Qualtrics](/pages/qualtrics.md) · `/pages/qualtrics.md` · Provo · experience management, applied AI, enterprise SaaS, surveys, sentiment analysis
 - [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md` · Salt Lake City · scientific computing, scientific visualization, biomedical computing, open-source research software
 - [Splunk](/pages/splunk.md) · `/pages/splunk.md` · unknown · cybersecurity, observability, machine data, SIEM, AIOps, enterprise software
+- [Workfront](/pages/workfront.md) · `/pages/workfront.md` · Lehi · enterprise work management, marketing operations, project management, Adobe Experience Cloud
 
 ## Who they need right now
 
@@ -19,6 +20,7 @@ Generated from `**Domain:**` metadata (68/615 pages attributed so far — covera
 - [Qualtrics](/pages/qualtrics.md) · `/pages/qualtrics.md`: Hiring pairs applied science with a large enterprise sales bench (account executives across Provo, Dallas, life sciences, and international territories). Broader ML/platform fit still includes ML engineers, data engineers, platform engineers, product managers, and enterprise SaaS operators comfortable with scale, compliance, and low-cost-per-item inference within SOC 2, HIPAA, and FedRAMP constra… *(reviewed 2026-07-14)*
 - [SCI Institute](/pages/sci-institute.md) · `/pages/sci-institute.md`: Openings cluster in data visualization, computational oncology, and AI for image analysis / computer vision: faculty and staff scientists, research software engineers, and AI/ML engineers who can maintain long-lived scientific codebases — plus postdoctoral fellowships (One-U RAI) and standing graduate RA pathways in CS, Computing, BME, Math, and ECE. *(reviewed 2026-07-14)*
 - [Splunk](/pages/splunk.md) · `/pages/splunk.md`: Likely needs include security engineers, detection engineers, SREs, observability specialists, distributed-systems engineers, data-platform engineers, technical support, implementation partners, and enterprise sellers who understand SOC and IT operations buying cycles. For Utah talent, Splunk is most relevant as a skill market and possible Cisco/Splunk remote-employment path unless a Utah office … *(reviewed 2026-07-14)*
+- [Workfront](/pages/workfront.md) · `/pages/workfront.md`: Workfront is an Adobe product, so applicants should use Adobe's careers site and filter for Utah or remote roles. Public listings do not reliably identify which Utah positions support Workfront; do not infer a product assignment from an Adobe job's location alone. *(reviewed 2026-07-14)*
 
 ## Also relevant (primary elsewhere)
 

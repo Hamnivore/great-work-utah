@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+**Focus:** Entrepreneurship Communities, Start a Business, Marketing and Sales
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -11,87 +11,44 @@
 **Coordinates:** 37.1004513, -113.5705685
 **Location Precision:** exact
 **Location Source:** https://innovation.utahtech.edu/contact-us/
-**Website:** https://innovation.utahtech.edu/business-resource-center-at-dsu/
+**Website:** https://innovation.utahtech.edu/business-resource-center/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Business Resource Center (BRC) at Utah Tech University, sponsored by Zions Bank, offers complimentary consultations and services to assist entrepreneurs in launching or expanding their businesses. As a comprehensive support hub, the BRC provides guidance on business planning, marketing strategies, LLC formation, government contracting, and global exporting. Additionally, the center is dedicated to fostering entrepreneurship in Southern Utah's rural areas, currently serving Washington and Kane Counties.
+The Atwood Innovation Plaza Business Resource Center at Utah Tech University, sponsored by Zions Bank, is a St. George hub for launching and growing businesses. The live site offers no-cost consultations on planning, marketing, LLC formation, government contracting, exporting, mentoring, and incubator workspace, with additional rural outreach in Washington and Kane counties.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Student
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Southern Utah entrepreneurs and small-business owners — including rural operators in Washington and Kane counties — plus Utah Tech students and community members who need business advising, workspace, or makerspace access through the broader Innovation Plaza.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
+No-cost business consultations; startup roadmap support; connections to business-resource providers; private and semi-private incubator workspace; and access to adjacent Innovation Plaza services such as makerspace prototyping, innovation guidance, and STEM outreach (verify scope per service line).
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://innovation.utahtech.edu/business-resource-center-at-dsu/) · https://innovation.utahtech.edu/business-resource-center-at-dsu/
-- Email: [businesshelp@utahtech.edu](mailto:businesshelp@utahtech.edu)
+- [Official website](https://innovation.utahtech.edu/business-resource-center/) · https://innovation.utahtech.edu/business-resource-center/
+- Email [businesshelp@utahtech.edu](mailto:businesshelp@utahtech.edu) or call 435-652-7741; office at Atwood Innovation Plaza #175
 - Startup State listing: https://startup.utah.gov/business-resource/utah-tech-university-atwood-innovation-center/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The Business Resource Center advertises no-cost consultations and services. Workspace, makerspace trainings, and other plaza programs may have separate fees — confirm on the specific program page.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
-- Student
-
-## Imported Coverage
-
-- Startup State ID: 2556 (slug `utah-tech-university-atwood-innovation-center`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Student
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Garfield, Iron, Kane, Washington
-- Listing modified: 2024-12-10T09:55:26
+Early-stage Southern Utah founders who need free advising on business basics, marketing, entity formation, or government contracting before investing in dedicated office or warehouse space.
 
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://innovation.utahtech.edu/business-resource-center-at-dsu/) · https://innovation.utahtech.edu/business-resource-center-at-dsu/
+- [Official website](https://innovation.utahtech.edu/business-resource-center/) · https://innovation.utahtech.edu/business-resource-center/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which incubator desks and private offices are available now?
+- How does rural Washington/Kane outreach scheduling work for non-St. George founders?

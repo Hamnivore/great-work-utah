@@ -8,8 +8,12 @@
 **Primary Location:** Roy, UT
 **Utah Location:** Roy, UT
 **Region:** Roy
+**Map Location:** Former Iomega facility, 1821 W 4000 S, Roy, UT 84067
+**Coordinates:** 41.1907120, -112.0234580
+**Location Precision:** exact
+**Location Source:** https://www.ftc.gov/sites/default/files/documents/cases/1998/12/9723023cmp.htm
 **Website:** http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Relates:** cites [Iomega Corp. 10-K Filing (March 1995)](iomega-sec-10k-1995.md) · https://greatutah.work/pages/iomega-sec-10k-1995.md · http://edgar.secdatabase.com/1197/35278995000002/filing-main.htm
 **Relates:** cites [Standard-Examiner — Iomega Still Around in Roy (2012)](iomega-standard-examiner-2012.md) · https://greatutah.work/pages/iomega-standard-examiner-2012.md · https://www.standard.net/news/business/2012/mar/09/iomega-still-around-in-roy-but-not-like-it-once-was/
 **Pull:** *The "superfloppy" from Weber County that carried everyone's files through the gap between the floppy and the flash drive.*

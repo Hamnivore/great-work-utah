@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Health Catalyst headquarters, 3165 E Millrock Drive, Suite 400, Salt Lake City, UT 84121
+**Coordinates:** 40.6336242, -111.8020328
+**Location Precision:** exact
+**Location Source:** https://ir.healthcatalyst.com/static-files/df3c1cda-c41b-4490-885a-3c8e09216361
 **Careers:** https://www.healthcatalyst.com/who-we-are/careers
-**Updated:** 2026-06-21
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-21
 **Pull:** *Utah's flagship healthcare-analytics public company — a full data-platform play for health systems trying to make value-based care work.*
 

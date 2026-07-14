@@ -13,67 +13,32 @@
 
 ## Summary
 
-The 1 Million Cups program in Salt Lake City fosters a supportive entrepreneurial community, connecting local entrepreneurs to resources and networking opportunities. Hosted weekly, the program encourages open dialogue about business challenges and solutions, promoting growth through collaboration and learning
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): 1 Million Cups Salt Lake is a weekly peer community for founders, entrepreneurs, and small business owners. Each week two presenters share an idea, startup, or business for 6–8 minutes followed by ~10 minutes of audience Q&A at The Neighborhood Hive in Sugar House.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Salt Lake City-area founders, students, business owners, service providers, and investors who want low-pressure feedback and community — not a pitch competition or investor deal-flow event.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Start a Business
+Weekly presentations, peer Q&A, community guidelines emphasizing support over selling, a Slack community, presenter applications, and sponsor/volunteer opportunities.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://1mcslc.com/) · https://1mcslc.com/
 - Email: [saltlake@1millioncups.com](mailto:saltlake@1millioncups.com)
+- Location: The Neighborhood Hive, 2065 E 2100 South, Salt Lake City, UT 84108
+- Schedule: Wednesdays at 9:00 AM (verify on official site)
+- [Apply to present](https://1mcslc.com/) · https://1mcslc.com/
 - Startup State listing: https://startup.utah.gov/business-resource/1-million-cups-salt-lake/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Free to attend; apply to present through the official site. Open community event — no equity or fee required.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Start a Business
-
-## Imported Coverage
-
-- Startup State ID: 2657 (slug `1-million-cups-salt-lake`)
-- Topics: Entrepreneurship Communities, Start a Business
-- Stages: Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-10T13:56:35
-
+Early-stage founders practicing a short presentation and gathering honest peer feedback in Salt Lake City — weak fit for founders seeking structured curriculum or capital introductions.
 
 ## Evidence
 
@@ -81,8 +46,3 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://1mcslc.com/) · https://1mcslc.com/
 
-## Open Questions
-
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

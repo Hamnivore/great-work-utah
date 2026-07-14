@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Palladyne AI headquarters, 650 S 500 W, Suite 150, Salt Lake City, UT 84101
+**Coordinates:** 40.7562387, -111.9054609
+**Location Precision:** exact
+**Location Source:** https://www.palladyneai.com/contact-us/
 **Website:** https://www.palladyneai.com
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/palladyne-swarmos/1600/1100
 **Hero caption:** *Placeholder image. Palladyne's public work centers on collaborative drone autonomy; a license-clean photo of its platforms or team has not yet been sourced.*

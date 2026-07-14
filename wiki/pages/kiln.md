@@ -7,6 +7,16 @@
 **Primary Location:** unknown
 **Utah Location:** Holladay, Lehi, Park City, Provo, Salt Lake City, St. George, UT; Kiln Cabin
 **Region:** statewide
+**Map Location:** Kiln Holladay, 1895 E Rodeo Walk Dr, Suite B200, Holladay, UT 84117
+**Coordinates:** 40.6645490, -111.8372820
+**Location Precision:** exact
+**Location Source:** https://kiln.com/communities/holladay/
+**Additional Map Location:** Kiln Lehi, 2701 N Thanksgiving Way, Unit 100, Lehi, UT 84043 | 40.4209358, -111.8816934 | exact | https://kiln.com/communities/lehi/
+**Additional Map Location:** Kiln Park City, 1090 Center Dr, Park City, UT 84098 | 40.7193744, -111.5390980 | exact | https://kiln.com/communities/park-city/
+**Additional Map Location:** Kiln Provo, 412 W Rivers Edge Dr, Provo, UT 84604 | 40.2648492, -111.6672513 | exact | https://kiln.com/communities/provo/
+**Additional Map Location:** Kiln Salt Lake City, 26 S Rio Grande St, Suite 2072, Salt Lake City, UT 84101 | 40.7687816, -111.9044144 | exact | https://kiln.com/communities/salt-lake-city/
+**Additional Map Location:** Kiln St. George, 1575 S River Rd, St. George, UT 84790 | 37.0818400, -113.5526301 | exact | https://kiln.com/communities/st-george/
+**Additional Map Location:** Kiln Cabin, 9049 Timphaven Rd, Sundance, UT 84604 | 40.3956286, -111.5908962 | exact | https://kiln.com/communities/sundance-kiln-cabin/
 **Website:** https://kiln.com
 **Updated:** 2026-07-14
 **Layout:** field-guide

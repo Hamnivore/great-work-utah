@@ -78,6 +78,12 @@ Coverage increased from 8 verified sites to 288 mapped pages: 8 site points and 
 
 A follow-up address pass researched Salt Lake, Utah/northern, and southern/rural regions in parallel. Eighty-six organization/work pages were promoted from regional anchors to exact public sites using official location pages where available and stable Google Maps listings for otherwise clearly public places. Exact coverage rose to 94 sites; 194 pages remain regional. Ambiguous, residential, conflicting-geocode, and stale candidates were omitted. PhotoPharmics' official address also corrected its canonical region from American Fork to Lehi.
 
+The next audit exposed a page-versus-site modeling gap: programs such as Sandbox operate at several public campuses. Pages now retain one primary map tuple and may add repeatable `Additional Map Location` records. The compiler emits one point and proximity result per site, assigns a stable site ID, and reports both distinct-page and point coverage so multi-site programs do not distort the UI's mapped-page count.
+
+The exhaustive follow-up partitioned all 518 pages without exact metadata across three independent research agents and required a disposition for every assigned slug. It promoted 150 pages using 216 sourced current or historical public sites. The remaining review dispositions were 82 regional-only (people, distributed programs, sensitive facilities, or no canonical walk-in site), 222 with no independent Utah place (primarily source/guide artifacts), and 64 with insufficient evidence. No residence, PO box, ambiguous namesake, or nonpublic defense/industrial coordinate was promoted.
+
+After integration the public feed contains 415 points across 349 mapped pages: 309 verified public sites across 243 pages and 106 regional anchors. Fourteen pages have multiple public sites, including all 31 Workforce Services centers and 11 Utah SBDC centers. Sandbox has six points: its published corporate location, BYU, University of Utah, Utah State University, Utah Valley University, and its documented historical Utah Tech program site. Historical corporate and invention sites are labeled as former or historical rather than presented as current offices.
+
 The dense-map UI changed from overlapping circles to spatial clusters. Cluster markers expose counts and example names on hover, expand/spiderfy on click, and individual markers show name plus location in a desktop hover tooltip. This preserves real shared centroids rather than inventing offsets.
 
 ## What this establishes and does not

@@ -7,9 +7,13 @@
 **Stage:** Series C
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Domain:** energy, computing
 **Region:** Salt Lake City
+**Map Location:** PassiveLogic corporate headquarters, 6510 Millrock Drive, Suite 350, Salt Lake City, UT 84121
+**Coordinates:** 40.6343557, -111.8018862
+**Location Precision:** exact
+**Location Source:** https://www.passivelogic.com/footer/contact-us-replace
 **Careers:** https://passivelogic.teamtailor.com/
 **Website:** https://passivelogic.com/
 **Needs-reviewed:** 2026-06-18

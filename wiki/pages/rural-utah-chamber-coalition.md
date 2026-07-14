@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** unknown
+**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Primary Location:** Parowan, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.ruralutahcc.org/
@@ -13,79 +13,39 @@
 
 ## Summary
 
-The Rural Utah Chamber Coalition is a partnership composed of chamber executives and board members, elected leaders, and government liaisons. Their goals are to discuss issues affecting and advocate for rural chambers and communities, provide strategic programming to further meaningful economic development, support rural innovation, and create prosperity for the people of rural Utah."
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Rural Utah Chamber Coalition (RUCC) is a partnership of rural chamber executives, board members, elected leaders, and government liaisons advocating for rural Utah communities. Verified on ruralutahcc.org: RUCC holds monthly meetings with government updates and grant training, partners with elected leaders, and provides resources for rural chamber success.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Rural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Rural Utah chamber leaders and board members; elected officials and economic development liaisons in non-metro counties; businesses indirectly through stronger rural chamber programming — individual founders typically engage via their local chamber.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Monthly coalition meetings (grant info, government updates, executive training), advocacy for rural chamber issues, training library, chamber collaboration tools, RUCC conference, membership directory, and email/calendar subscriptions for rural ED news.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Register on ruralutahcc.org, subscribe to emails/calendar, or contact info@ruralutahcc.org for membership.
 
 - [Official website](https://www.ruralutahcc.org/) · https://www.ruralutahcc.org/
 - Email: [info@ruralutahcc.org](mailto:info@ruralutahcc.org)
+- Mailing: PO Box 1271, Parowan, UT 84761 · (435) 200-5624
 - Startup State listing: https://startup.utah.gov/business-resource/rural-utah-chamber-coalition/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership terms are on the site registration flow — confirm current dues for chamber vs. affiliate participants. Open to rural chamber leaders and allied officials, not general urban founders.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-- Rural
-
-## Imported Coverage
-
-- Startup State ID: 2674 (slug `rural-utah-chamber-coalition`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Rural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T17:23:33
-
+A rural chamber executive or county leader building coalition capacity — or a founder referred through their local rural chamber. Not a substitute for SBDC, GOEO rural programs, or county ED for direct business services.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.ruralutahcc.org/) · https://www.ruralutahcc.org/
+- Startup State listing: https://startup.utah.gov/business-resource/rural-utah-chamber-coalition/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Current membership fee schedule?
+- Dates for the next RUCC conference?

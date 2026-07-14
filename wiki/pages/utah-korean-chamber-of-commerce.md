@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 3300 Triumph Blvd, Suite 100, Lehi, UT 84043
+**Coordinates:** 40.424573, -111.881687
+**Location Precision:** exact
+**Location Source:** https://www.linkedin.com/company/utah-korean-chamber-of-commerce
 **Website:** https://www.utahkcc.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

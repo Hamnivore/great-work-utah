@@ -2,8 +2,8 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Confidence:** Low
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Salina, UT
 **Utah Location:** Salina, UT
 **Region:** Salina
@@ -13,77 +13,38 @@
 
 ## Summary
 
-The Salina Area Chamber of Commerce is a vital nonprofit organization representing over 1,200 local businesses and professionals working together to enhance the community's economy and quality of life. With a mission to advocate for its members' prosperity, the Chamber plays a key role in supporting economic development, promoting local businesses, and fostering community engagement.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Startup State lists the Salina Chamber with `salina.utah.gov`, which is the Salina City government site — not a chamber homepage. Verified on Salina City's local-organizations page (2026-07-14): the active business group is the **North Sevier Chamber of Commerce** (PO Box 113, chamber@salinaut.org, (435) 650-6821), meeting first Thursdays at member restaurants. The previously linked `salinaut.com` domain did not load. Treat this page as a URL mismatch until Startup State or the chamber publishes a working official site.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Sevier Valley businesses around Salina seeking a local chamber network — likely through the North Sevier Chamber of Commerce rather than the city website.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Per Salina City's organizations listing: monthly chamber meetings, business networking among Sevier Valley members, and contact via chamber@salinaut.org. Startup State's imported description (1,200+ member nonprofit) could not be verified on any live official chamber site reviewed.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.salina.utah.gov/) · https://www.salina.utah.gov/
+- Salina City local organizations (lists North Sevier Chamber): https://www.salina.utah.gov/explore/local_organizations.php
+- Email listed for North Sevier Chamber: [chamber@salinaut.org](mailto:chamber@salinaut.org), (435) 650-6821
 - Startup State listing: https://startup.utah.gov/business-resource/salina-chamber/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership terms not published on reachable pages; contact the North Sevier Chamber email before recommending join steps.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2718 (slug `salina-chamber`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Sevier
-- Listing modified: 2024-12-11T10:19:30
-
+Salina-area operators who need a local chamber contact — after confirming whether North Sevier Chamber is the correct entity behind this Startup State listing.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.salina.utah.gov/) · https://www.salina.utah.gov/
+- Startup State listing: https://startup.utah.gov/business-resource/salina-chamber/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is "Salina Chamber" the same entity as North Sevier Chamber of Commerce, and what is the correct official URL?
+- Why does Startup State point to the city government site instead of a chamber domain?
+- Does `salinaut.com` remain the intended chamber website?

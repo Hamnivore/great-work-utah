@@ -8,8 +8,12 @@
 **Primary Location:** Bell Labs, New Jersey
 **Utah Location:** Provo, UT
 **Region:** Provo
+**Map Location:** Brigham Young University, Provo, UT 84602
+**Coordinates:** 40.2524308, -111.6502622
+**Location Precision:** exact
+**Location Source:** https://www.byu.edu/contact
 **Website:** https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Relates:** cites [BYU News — Harvey Fletcher Posthumous Grammy Award](byu-news-harvey-fletcher-grammy.md) · https://greatutah.work/pages/byu-news-harvey-fletcher-grammy.md · https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award
 **Relates:** cites [Utah History to Go — Harvey Fletcher](utah-history-to-go-harvey-fletcher.md) · https://greatutah.work/pages/utah-history-to-go-harvey-fletcher.md · https://historytogo.utah.gov/fletcher-harvey/
 **Relates:** cites [Engineering and Technology History Wiki — Stokowski and Bell Labs Stereo](ethw-stokowski-bell-labs-stereo.md) · https://greatutah.work/pages/ethw-stokowski-bell-labs-stereo.md · https://ethw.org/Leopold_Stokowski_and_Bell_Labs,_a_Sound_Collaboration

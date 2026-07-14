@@ -8,8 +8,12 @@
 **Primary Location:** General Electric Research Laboratory, Schenectady, NY
 **Utah Location:** Brigham Young University, Provo, UT
 **Region:** Provo
+**Map Location:** Brigham Young University, Provo, UT 84602
+**Coordinates:** 40.2524308, -111.6502622
+**Location Precision:** exact
+**Location Source:** https://www.byu.edu/contact
 **Website:** https://www.invent.org/inductees/h-tracy-hall
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Relates:** cites [National Inventors Hall of Fame — H. Tracy Hall](nihf-h-tracy-hall.md) · https://greatutah.work/pages/nihf-h-tracy-hall.md · https://www.invent.org/inductees/h-tracy-hall
 **Relates:** cites [Chemical & Engineering News — First Diamond Synthesis, 50 Years Later](cen-first-diamond-synthesis.md) · https://greatutah.work/pages/cen-first-diamond-synthesis.md · https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html
 **Relates:** cites [BYU Special Collections — H. Tracy Hall Biography](byu-archives-h-tracy-hall.md) · https://greatutah.work/pages/byu-archives-h-tracy-hall.md · https://archives.lib.byu.edu/agents/people/2364

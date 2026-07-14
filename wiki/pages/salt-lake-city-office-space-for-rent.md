@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -13,68 +13,34 @@
 
 ## Summary
 
-Offices.co offers fully furnished executive suites, professionally equipped office space, and cost-effective shared workspaces and corporate real estate in 143 cities across the USA, including in and around Salt Lake City. The available office space for rent in Utah includes a wide range of essential services, so setting up a business in the Beehive State is faster and easier than ever.
+Offices.co is a national office-space listing and brokerage site, not a single Salt Lake coworking operator. Verified on the official site (2026-07-14): it aggregates 20+ Salt Lake City-area options—serviced offices, shared/coworking spaces, and virtual offices—and routes inquiries through quote request forms.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Use it to compare locations and amenities, then contact individual building operators for real pricing and lease terms.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Founders and small teams searching for furnished executive suites, flexible coworking, or virtual office addresses in Salt Lake City who want a broker-style comparison portal rather than one branded workspace.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Start a Business
+Searchable listings across downtown and suburban Salt Lake City buildings, with descriptions of amenities (Wi-Fi, reception, meeting rooms, 24-hour access, virtual office options). Users submit company and contact details to receive pricing information from the broker/listing network.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://offices.co/usa/salt-lake-city/) · https://offices.co/usa/salt-lake-city/
+- Browse Salt Lake listings: https://offices.co/usa/salt-lake-city/
+- Use the "Get Prices & Info" form on individual building pages
 - Email: [info@offices.co](mailto:info@offices.co)
 - Startup State listing: https://startup.utah.gov/business-resource/salt-lake-city-office-space-for-rent/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Pricing is quote-based; the site does not publish universal rates. Each building and term (serviced office, coworking, virtual office) has its own operator pricing. Verify contracts directly with the listed provider before committing.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Teams that want a quick scan of multiple Salt Lake City flexible office options before touring specific operators.
 
-- Entrepreneurship Communities
-- Start a Business
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 3624 (slug `salt-lake-city-office-space-for-rent`)
-- Topics: Entrepreneurship Communities, Start a Business
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: Any
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Utah
-- Listing modified: 2025-05-28T10:21:23
-
+Less useful for founders seeking a single community-run coworking hub, incubator space, or published flat-rate day passes.
 
 ## Evidence
 
@@ -84,6 +50,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which listed Salt Lake buildings are still active and which operators own each listing?
+- Are quote responses timely enough for founders on short relocation timelines?

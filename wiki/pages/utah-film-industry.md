@@ -8,8 +8,12 @@
 **Primary Location:** statewide
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 300 N State St, Salt Lake City, UT 84114
+**Coordinates:** 40.775549, -111.887766
+**Location Precision:** exact
+**Location Source:** https://film.utah.gov/locations/
 **Website:** https://film.utah.gov
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/utah-film-industry-2026/1600/1100
 **Pull:** *Utah's landscapes have been a character in American cinema for a century — and the production infrastructure built around them employs thousands and shapes how the world sees the American West.*

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT
 **Region:** Uinta Basin
@@ -17,67 +17,34 @@
 
 ## Summary
 
-The UBEDD actively seeks to build sustainable communities, which includes diversifying the economy and enhancing small businesses and entrepreneurship.
+The Uintah Basin Economic Development District (UBEDD), housed within the Uintah Basin Association of Governments, supports economic diversification and small-business growth in Daggett, Duchesne, and Uintah counties. Verified on the official site (2026-07-14): UBEDD administers EDA-backed revolving loan funds (including a CARES Act RLF), maintains Comprehensive Economic Development Strategy (CEDS) planning documents, and publishes detailed loan guidelines.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The original RLF page is marked under construction; the CARES Act RLF program description and application contacts are live.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Software and Information Technology
+Businesses located in Daggett, Duchesne, or Uintah counties seeking gap financing, COVID-affected business recovery support, or regional economic-development planning resources. Also relevant to community leaders working on basin-wide CEDS priorities.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
+Revolving loan fund financing ($5,000–$250,000 per published CARES Act guidelines), CEDS regional strategy documents, and staff support for loan applications and board review. Published loan uses include working capital, land/building purchase, and COVID-related rent/payroll/utilities.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.ubaog.org/economic-development-district) · https://www.ubaog.org/economic-development-district
+- [UBEDD program page](https://www.ubaog.org/economic-development-district) · https://www.ubaog.org/economic-development-district
+- Request an RLF application: David Rust [davidr@ubaog.org](mailto:davidr@ubaog.org) or Kendra Hackford [kendrah@ubaog.org](mailto:kendrah@ubaog.org)
+- Office: 330 East 100 South, Roosevelt, UT 84066; (435) 722-4518
 - Startup State listing: https://startup.utah.gov/business-resource/uintah-basin-economic-development-district/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Published CARES Act RLF terms include: businesses in the three counties; job creation/retention of at least one FTE per $25,000 borrowed within two years; minimum 67% private leverage; $75 application fee, 1% origination fee, and legal/closing costs; personal guarantees required. Interest rates set case-by-case. Verify whether the CARES RLF is still open or superseded by the under-construction standard RLF.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Uintah Basin employers needing subordinated gap financing tied to job creation, especially when bank leverage is already lined up.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2801 (slug `uintah-basin-economic-development-district`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Software and Information Technology
-- Locations: Daggett, Duchesne, Uintah
-- Listing modified: 2024-12-20T10:23:33
-
+Less useful for pre-revenue startups without collateral, businesses outside the three-county area, or founders seeking equity investment.
 
 ## Evidence
 
@@ -87,6 +54,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- When will the standard (non-CARES) RLF page launch and what terms will replace the CARES program?
+- Does UBEDD offer business advising beyond loan administration?

@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-**Primary Location:** Utah
+**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Primary Location:** Cedar City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://oneutahsummit.utah.gov/
@@ -13,92 +13,40 @@
 
 ## Summary
 
-The One Utah Summit is an annual gathering that brings together Utah's business, nonprofit, and government leaders to discuss and strategize on the state's economic development and future. Historically, the summit has been held biannually, with events in both northern and southern Utah. However, starting in 2025, the summit will transition to a single, three-day event each October at Southern Utah University (SUU) in Cedar City.
+The One Utah Summit is the Governor's rural summit convening Utah business, nonprofit, and government leaders to shape statewide economic-development priorities. Starting in 2025 the event consolidated into a single three-day October gathering at Southern Utah University in Cedar City; the 2026 edition is scheduled August 4–6 at SUU's America First Event Center.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah business leaders, economic-development stakeholders, rural community representatives, and policymakers engaged in statewide growth strategy.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site describes a multi-day summit with sponsor opportunities and registration information. Programming focuses on Utah's economic future with emphasis on rural and statewide coordination (exact 2026 agenda on official site).
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://oneutahsummit.utah.gov/) · https://oneutahsummit.utah.gov/
 - Email: [lisonbee@suu.edu](mailto:lisonbee@suu.edu)
+- Sponsor inquiries: Sarah Kyle (contact via official site)
 - Startup State listing: https://startup.utah.gov/business-resource/one-utah-summit/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Registration and sponsorship terms are published per year on the official site. Verify current attendee pricing before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for founders and operators who need statewide policy and economic-development context — especially those building in or serving rural Utah.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2629 (slug `one-utah-summit`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:14:06
+Weaker fit for idea-stage founders seeking hands-on accelerator mentorship.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://oneutahsummit.utah.gov/) · https://oneutahsummit.utah.gov/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What is the confirmed 2026 agenda and registration URL?
+- Which sessions are actionable for founders vs. policy audiences?

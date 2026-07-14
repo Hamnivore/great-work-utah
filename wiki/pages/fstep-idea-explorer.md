@@ -74,6 +74,8 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://firststepentrepreneur.com/app/) · https://firststepentrepreneur.com/app/
 
+> **Coverage note (2026-07-14):** This listing no longer appears on the live [Startup State resources](https://startup.utah.gov/resources/) directory. Keep the page if the program still exists elsewhere; otherwise treat as historical.
+
 ## Open Questions
 
 - Is the imported description still accurate on the provider's current website?

@@ -8,8 +8,12 @@
 **Primary Location:** unknown
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** 48 S Rio Grande St, Salt Lake City, UT 84101
+**Coordinates:** 40.767876, -111.904473
+**Location Precision:** exact
+**Location Source:** https://www.nephronovus.com/
 **Website:** https://altitudelab.org/portfolio
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/nephronovus-renal-fibrosis-2026/1600/1100
 **Pull:** *Father–son drug-discovery bet on reversing renal fibrosis — incubator-validated premise, almost no public pipeline.*

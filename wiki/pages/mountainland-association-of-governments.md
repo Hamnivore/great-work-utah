@@ -7,6 +7,11 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Summit, Utah, and Wasatch counties, UT
 **Region:** Mountainland
+**Map Location:** MAG Orem Office, 586 E 800 N, Orem, UT 84097
+**Coordinates:** 40.3113295, -111.6820358
+**Location Precision:** exact
+**Location Source:** https://magutah.gov/contact/
+**Additional Map Location:** MAG Vineyard Office, 478 S Geneva Rd, Vineyard, UT 84059 | 40.2885089, -111.7342922 | exact | https://magutah.gov/contact/
 **Website:** https://mountainland.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

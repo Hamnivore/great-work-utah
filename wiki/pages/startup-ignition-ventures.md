@@ -7,6 +7,10 @@
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
+**Map Location:** Startup Ignition at Kiln Provo, 412 W Rivers Edge Dr, Provo, UT 84604
+**Coordinates:** 40.2648492, -111.6672513
+**Location Precision:** exact
+**Location Source:** https://www.startupignition.com/bootcamp/courses/provo-18
 **Website:** https://startupignition.com/ventures
 **Updated:** 2026-07-14
 **Layout:** field-guide

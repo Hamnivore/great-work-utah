@@ -1,7 +1,7 @@
 # Signal Peak Ventures
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
@@ -13,74 +13,37 @@
 
 ## Summary
 
-Signal Peak Ventures (SPV) is a Salt Lake City-based venture capital firm that invests in early-stage technology companies across the United States. SPV focuses on partnering with passionate entrepreneurs to build leading companies with enduring value. Their portfolio includes a diverse range of technology-driven businesses, reflecting their commitment to fostering innovation and growth.
+Signal Peak Ventures (SPV) is a Salt Lake City venture capital firm whose official site now brands the platform as Run Ventures while retaining the spv.com domain. The site describes backing early-stage technology companies and partnering with entrepreneurs to build enduring businesses.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Early-stage technology founders seeking venture capital from a Utah firm with a long operating history and refreshed Run Ventures brand.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Early-stage venture capital for technology companies
+- Portfolio and team support through the Run Ventures platform
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Contact through the official site
 - [Official website](https://www.spv.com/) · https://www.spv.com/
 - Email: [info@spv.com](mailto:info@spv.com)
 - Startup State listing: https://startup.utah.gov/business-resource/signal-peak-ventures/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Equity investment; terms are deal-specific.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2602 (slug `signal-peak-ventures`)
-- Topics: Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:37:36
-
+Utah and regional early-stage tech founders researching established Utah VCs. Note the public rebrand to Run Ventures when searching or cross-referencing press.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.spv.com/) · https://www.spv.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- How should the wiki title slug relate to the Run Ventures public brand over time?

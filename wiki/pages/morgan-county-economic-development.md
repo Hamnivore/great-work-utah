@@ -7,6 +7,10 @@
 **Primary Location:** Morgan County, UT
 **Utah Location:** Morgan County, UT
 **Region:** Morgan County
+**Map Location:** Morgan County Courthouse, 48 W Young Street, Morgan, UT 84050
+**Coordinates:** 41.0358679, -111.6782169
+**Location Precision:** exact
+**Location Source:** https://www.morgancountyutah.gov/contact
 **Website:** https://www.morgancountyinfo.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

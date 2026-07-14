@@ -48,3 +48,23 @@ test('catalog response exposes sparse coverage and truncation', () => {
   assert.equal(result.coverage.truncated, true)
   assert.match(result.results[0].page, /^https:\/\/greatutah\.work\/pages\//)
 })
+
+test('multi-site pages return distinct results without inflating page coverage', () => {
+  const properties = {
+    title: 'Campus Program', type: 'resource', url: '/pages/campus-program.md',
+    mapLocation: 'Campus', precision: 'exact', provenance: 'https://example.org',
+    anchorKind: 'site', region: 'statewide', domains: [], focus: 'founders', siteCount: 2,
+  }
+  const collection = {
+    type: 'FeatureCollection',
+    features: [
+      { type: 'Feature', geometry: { type: 'Point', coordinates: [-111.65, 40.25] }, properties: { ...properties, siteId: 'campus-program:40.250000,-111.650000', siteIndex: 0 } },
+      { type: 'Feature', geometry: { type: 'Point', coordinates: [-111.97, 41.22] }, properties: { ...properties, siteId: 'campus-program:41.220000,-111.970000', siteIndex: 1 } },
+    ],
+  }
+  const result = searchLocations(collection, { limit: '10' })
+  assert.deepEqual(result.results.map((item) => item.id), ['campus-program:40.250000,-111.650000', 'campus-program:41.220000,-111.970000'])
+  assert.equal(result.coverage.publishedPoints, 2)
+  assert.equal(result.coverage.publishedPages, 1)
+  assert.equal(result.coverage.sitePages, 1)
+})

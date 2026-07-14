@@ -8,8 +8,17 @@
 **Primary Location:** Provo, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** Sandbox Education, 782 Automall Dr, American Fork, UT 84003
+**Coordinates:** 40.3603746, -111.7907174
+**Location Precision:** exact
+**Location Source:** https://sandbox.ing/legal/terms.html
+**Additional Map Location:** Brigham Young University, Provo, UT 84602 | 40.2524308, -111.6502622 | exact | https://rollins.byu.edu/programs/sandbox
+**Additional Map Location:** University of Utah, 201 Presidents Cir, Salt Lake City, UT 84112 | 40.7652201, -111.8419536 | exact | https://web.sandbox.ing/
+**Additional Map Location:** Utah State University, 1400 Old Main Hill, Logan, UT 84322 | 41.7451610, -111.8097425 | exact | https://web.sandbox.ing/
+**Additional Map Location:** Utah Valley University, 800 W University Pkwy, Orem, UT 84058 | 40.2810780, -111.7164560 | exact | https://web.sandbox.ing/
+**Additional Map Location:** Utah Tech University, 225 S University Ave, St. George, UT 84770 | 37.1028759, -113.5654100 | exact | https://news.utahtech.edu/2024/04/09/sandbox/
 **Website:** https://web.sandbox.ing
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/sandbox-utah-entrepreneurship-education-2026/1600/1100
 **Pull:** *One accredited year spent building a venture-scale startup — not writing business plans.*

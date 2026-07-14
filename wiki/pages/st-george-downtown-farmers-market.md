@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Other
+**Focus:** Entrepreneurship Communities, Marketing and Sales
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -17,71 +17,38 @@
 
 ## Summary
 
-The Downtown Farmers Market in St. George, Utah, is a year-round community event held at Vernon Worthen Park. It features over 60 vendors offering local produce, meats, artisanal products, and live entertainment every Saturday, fostering a vibrant, inclusive space for residents to connect and support local businesses
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Downtown Farmers Market in St. George is a year-round Saturday market at Vernon Worthen Park. Verified on downtownfarmerstg.com: the market runs May–October 8am–12pm and November–April 10am–2pm (closed January), hosts vendors selling local produce and artisan goods, and offers SNAP/DUFB redemption on-site.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Hospitality and Food Services
+Local food and artisan vendors in Washington County; shoppers seeking community markets; producers needing a regular St. George sales channel with SNAP/DUFB access.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Other
+Weekly vendor marketplace, vendor application path ("Become A Vendor"), SNAP & Double Up Food Bucks redemption, sponsor opportunities, and community events (e.g., Dixie Days, Holiday Village) listed on the site.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Shop Saturdays at Vernon Worthen Park; vendors use the Become A Vendor section on the official site for application and booth information.
+
+- [Official website](https://downtownfarmerstg.com/) · https://downtownfarmerstg.com/
+- Location: 300 South 400 East, St. George, UT 84770
+- Startup State listing: https://startup.utah.gov/business-resource/st-george-downtown-farmers-market/
+
+## Cost / Eligibility
+
+Booth fees and vendor requirements are on the vendor application materials — confirm current fees on downtownfarmerstg.com before applying. No public shopper admission fee listed.
+
+## Best Fits
+
+Washington County food, farm, or craft vendors ready for a weekly market channel — especially if SNAP/DUFB acceptance matters. Weak fit for B2B SaaS or services without a market-appropriate product.
+
+## Evidence
 
 - [Official website](https://downtownfarmerstg.com/) · https://downtownfarmerstg.com/
 - Startup State listing: https://startup.utah.gov/business-resource/st-george-downtown-farmers-market/
 
-
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
-
-## Best Fits
-
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Other
-
-## Imported Coverage
-
-- Startup State ID: 2683 (slug `st-george-downtown-farmers-market`)
-- Topics: Entrepreneurship Communities, Late Stage Growth, Other
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Hospitality and Food Services
-- Locations: Beaver, Garfield, Iron, Kane, Washington
-- Listing modified: 2024-12-11T08:04:57
-
-
-## Evidence
-
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://downtownfarmerstg.com/) · https://downtownfarmerstg.com/
-
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Current booth fee schedule and product category limits?
+- Vendor waitlist length for peak season?

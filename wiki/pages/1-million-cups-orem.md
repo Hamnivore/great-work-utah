@@ -7,6 +7,10 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
+**Map Location:** UVU Business Resource Center, 815 W 1250 S, Orem, UT 84058
+**Coordinates:** 40.2736608, -111.7153996
+**Location Precision:** exact
+**Location Source:** https://www.trumba.com/events-calendar/ut/orem/utah-valley-business-resource-center-events
 **Website:** https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
 **Updated:** 2026-07-14
 **Layout:** field-guide

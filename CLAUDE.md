@@ -24,6 +24,9 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
 - `node scripts/build-views.mjs` — regenerate `wiki/views/` after any page change.
 - `node scripts/wiki-lint.mjs` — check metadata, templates, links, staleness.
 - `npm run build` — views + typecheck + vite build + copy wiki into `dist/`.
+- `npm run startup-state:check` — diff live startup.utah.gov resources vs wiki
+  (`research/startup-state/`); use `:check:strict` in CI-style gates.
+- `npm run startup-state:sync` — refresh matching pages from the live WP API.
 
 Run both wiki commands before finishing any change to `wiki/pages/`.
 

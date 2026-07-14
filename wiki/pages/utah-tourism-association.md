@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Marketing and Sales
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -13,65 +13,40 @@
 
 ## Summary
 
-The Utah Tourism Industry Association (UTIA) serves as the collective voice of Utah's visitor economy, advocating for and educating on behalf of the state's tourism sector. It offers resources such as legislative updates, research tools, and networking opportunities to support businesses and organizations involved in Utah's tourism industry.
+The Utah Tourism Industry Association (UTIA; utahtourism.org) is the trade voice for Utah's visitor economy. It educates and advocates for tourism businesses, publishes industry impact data, and hosts member programs including the Utah Tourism Conference in partnership with the [Utah Office of Tourism](utah-office-of-tourism.md).
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Arts and Entertainment and Recreation
-- Hospitality and Food Services
+Utah tourism operators, destination marketers, hospitality businesses, and industry partners who want advocacy, research, networking, and conference access.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The site describes UTIA as the collective voice of Utah's visitor economy, with education and advocacy for the tourism sector. Public pages highlight industry scale (reported $12.71B direct visitor spending in 2023, 159,800 tourism jobs), legislative updates, research tools, networking, member login, and conference sponsorship.
 
-- Entrepreneurship Communities
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://utahtourism.org/) · https://utahtourism.org/
+- For state tourism office programs, see [Utah Office of Tourism](utah-office-of-tourism.md)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-tourism-association/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership terms are not published on the public homepage. Verify current membership fees and conference registration on the official site or by contacting UTIA.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for established or scaling Utah tourism businesses that benefit from industry association advocacy, conference networking, and shared research.
 
-- Entrepreneurship Communities
-
-## Imported Coverage
-
-- Startup State ID: 2637 (slug `utah-tourism-association`)
-- Topics: Entrepreneurship Communities
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Arts and Entertainment and Recreation, Hospitality and Food Services
-- Locations: Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:20:10
+Weaker fit for pre-revenue tech founders or companies outside hospitality/recreation tourism supply chains.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://utahtourism.org/) · https://utahtourism.org/
+- [Utah Office of Tourism](utah-office-of-tourism.md) · https://greatutah.work/pages/utah-office-of-tourism.md · https://travel.utah.gov/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership tiers and benefits?
+- Which UTIA legislative priorities should be tracked on a separate source page?

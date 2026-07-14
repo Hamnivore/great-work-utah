@@ -7,7 +7,7 @@
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
 **Region:** Ogden
-**Website:** https://startupogden.spaces.nexudus.com/home?&v=latest
+**Website:** https://startupogden.spaces.nexudus.com/home
 **Map Location:** Weber State Downtown, 2314 Washington Blvd, Ogden, UT 84401
 **Coordinates:** 41.2244045, -111.9700095
 **Location Precision:** exact
@@ -17,73 +17,38 @@
 
 ## Summary
 
-Startup Ogden, located at 2314 Washington Blvd in Ogden, Utah, is a collaborative coworking space and accelerator program developed through a partnership between Ogden City and Weber State University. It offers flexible workspace options, including hot desks and dedicated desks, as well as conference rooms and an online member network to facilitate connections among entrepreneurs. The facility also houses the Weber State University Wildcat Store and Daily Rise Coffee on the ground floor, providing additional amenities for members and visitors.
+Startup Ogden is a coworking space and entrepreneur community at Weber State Downtown, 2314 Washington Blvd, developed through a partnership between Ogden City and Weber State University. The public Nexudus portal is live, and the Startup State listing describes hot desks, dedicated desks, conference rooms, an online member network, and ground-floor amenities including the Wildcat Store and Daily Rise Coffee.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Ogden-area entrepreneurs, remote workers, and small teams who want coworking inside the Weber State Downtown building with access to member networking and meeting space.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
+Flexible workspace options (hot desks and dedicated desks), conference rooms, an online member portal for bookings and community, and proximity to downtown Ogden amenities. The Nexudus site confirms the location brand and member portal infrastructure.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://startupogden.spaces.nexudus.com/home?&v=latest) · https://startupogden.spaces.nexudus.com/home?&v=latest
+- [Official website](https://startupogden.spaces.nexudus.com/home) · https://startupogden.spaces.nexudus.com/home
+- Browse plans and book through the Nexudus member portal; confirm current desk and meeting-room inventory on the portal before referral
 - Startup State listing: https://startup.utah.gov/business-resource/startup-ogden/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Public pricing is managed inside the Nexudus portal rather than on a static marketing page. Verify current membership tiers and deposits in the portal before quoting costs.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-
-## Imported Coverage
-
-- Startup State ID: 2562 (slug `startup-ogden`)
-- Topics: Entrepreneurship Communities
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-10T10:46:53
+Northern Utah founders who want Ogden coworking tied to Weber State's downtown campus and a managed member community platform.
 
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://startupogden.spaces.nexudus.com/home?&v=latest) · https://startupogden.spaces.nexudus.com/home?&v=latest
+- [Official website](https://startupogden.spaces.nexudus.com/home) · https://startupogden.spaces.nexudus.com/home
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which accelerator-style programs, if any, are currently active beyond coworking membership?
+- What are live hot-desk versus dedicated-desk monthly rates in the portal?

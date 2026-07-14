@@ -7,6 +7,10 @@
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 380 Technology Ct, Suite 200, Lindon, UT 84042
+**Coordinates:** 40.331321, -111.732453
+**Location Precision:** exact
+**Location Source:** https://business.thechamber.org/list/searchalpha/i
 **Website:** https://www.impactutah.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

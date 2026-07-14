@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Kaysville, UT
 **Utah Location:** Kaysville, UT
 **Region:** Kaysville
@@ -13,78 +13,37 @@
 
 ## Summary
 
-Since its formation, the Davis Chamber of Commerce has continued to serve as a vital representative for the business community in Davis County. It acts as the collective voice and advocate for businesses of all sizes in the region, which is essential for ensuring the interests and concerns of local businesses are effectively communicated and addressed.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Davis Chamber of Commerce is Davis County's collective business voice, focused on uniting the local business community, advocacy, and a vibrant sustainable economy. Verified on the official site (2026-07-14): members can join online, sponsor events and luncheons, appear in the member directory, and participate in committees including Lakesiders, Military Affairs, Legislative Affairs, and Women in Business, plus networking events and golf tournaments.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Davis County businesses seeking networking, legislative advocacy, event sponsorship visibility, and peer connections across the county.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Chamber membership with networking events, member directory, 2026 sponsorship packages, committee participation (Lakesiders, Military Affairs, Legislative Affairs, Women in Business), newsletters, and community event calendar.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://davischamberofcommerce.com/) · https://davischamberofcommerce.com/
+- Join and explore events: https://davischamberofcommerce.com/
 - Email: [info@davischamberofcommerce.com](mailto:info@davischamberofcommerce.com)
 - Startup State listing: https://startup.utah.gov/business-resource/davis-chamber-of-commerce/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership and sponsorship pricing require confirmation on the join flow; open to Davis County businesses. Verify current dues before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2725 (slug `davis-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis
-- Listing modified: 2024-12-11T10:40:55
-
+Davis County operators who want regular networking, chamber advocacy, and local visibility — not a substitute for county economic-development incentives or SBDC advising.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://davischamberofcommerce.com/) · https://davischamberofcommerce.com/
+- Startup State listing: https://startup.utah.gov/business-resource/davis-chamber-of-commerce/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership tier prices and included luncheon or event credits?
+- Which 2026 networking events are best for first-time attendees?

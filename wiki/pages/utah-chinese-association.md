@@ -2,8 +2,8 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+**Confidence:** Low
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -13,81 +13,42 @@
 
 ## Summary
 
-The Utah Chinese Association (UCA) is a 501(c)(3) nonprofit organization established in 2016, dedicated to uniting Utah communities through cultural engagement, historical education, and social services. As the parent organization of the Chinese Folk Art Festival, Utah Chinese History Museum, and Utah Asian Alliance, UCA organizes events and programs that celebrate Chinese heritage and promote cultural exchange.
+The Utah Chinese Association (UCA) is a 501(c)(3) nonprofit described in Startup State as uniting Utah communities through cultural engagement, historical education, and social services—including programs tied to the Chinese Folk Art Festival, Utah Chinese History Museum, and Utah Asian Alliance. The official website could not be fetched in this review (connection failed, 2026-07-14), so business-support claims beyond cultural programming remain unverified.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+PICC lists UCA as part of the Living Color Chamber Alliance, suggesting some business-network overlap.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Multicultural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah's Chinese and broader multicultural communities seeking cultural events, heritage programming, and potential business-network connections through allied chamber alliances. Direct entrepreneurship services are not confirmed on a live official site in this pass.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
+Per Startup State: cultural festivals, museum and heritage programming, and community events. Per PICC alliance listing: participation in a multi-chamber business network alongside other multicultural chambers. Verify current business offerings directly with UCA staff.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.utahchineseassociation.org/) · https://www.utahchineseassociation.org/
+- Official website (unreachable in this review): https://www.utahchineseassociation.org/
 - Email: [utahchinese2021@gmail.com](mailto:utahchinese2021@gmail.com)
+- Related network: [Pacific Island Chamber of Commerce (PICC)](pacific-island-chamber-of-commerce-picc.md)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-chinese-association/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Not verified on a live official site in this review. Contact UCA by email for event participation and any membership paths.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Community members and business owners seeking Chinese cultural programming and potential multicultural chamber networking—after confirming the site and current programs are active.
 
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
-- Multicultural
-
-## Imported Coverage
-
-- Startup State ID: 2891 (slug `utah-chinese-association`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Multicultural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-01-07T09:21:25
-
+Less useful as a verified source of funding, mentorship, or structured startup services until the official site is reachable again.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.utahchineseassociation.org/) · https://www.utahchineseassociation.org/
+- [Pacific Island Chamber of Commerce (PICC)](pacific-island-chamber-of-commerce-picc.md) · https://greatutah.work/pages/pacific-island-chamber-of-commerce-picc.md · https://www.pik2ar.org/picc
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is https://www.utahchineseassociation.org/ temporarily down or permanently moved?
+- What business services does UCA currently offer beyond cultural programming?

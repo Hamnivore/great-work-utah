@@ -8,10 +8,14 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Teal Drones facility, 2800 S West Temple Street, Suite 2, South Salt Lake, UT 84115
+**Coordinates:** 40.7106435, -111.8940472
+**Location Precision:** exact
+**Location Source:** https://tealdrones.com/contact-dev-dynamics/
 **Careers:** https://tealdrones.com/careers/
 **Website:** https://tealdrones.com
 **Domain:** aerospace-defense
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/teal-black-widow-srr-suas-2026/1600/1100
 **Pull:** *American-made squad-level reconnaissance drones — and the Army's Short Range Reconnaissance Program of Record.*

@@ -5,20 +5,24 @@
 **Confidence:** Medium
 **Focus:** HR software, payroll, benefits, people operations, SMB SaaS
 **Stage:** Private growth company
-**Primary Location:** Lindon, UT
-**Utah Location:** Lindon, UT
-**Region:** Lindon
+**Primary Location:** Draper, UT
+**Utah Location:** Draper, UT
+**Region:** Draper
+**Map Location:** 42 Future Way, Draper, UT 84020
+**Coordinates:** 40.4863817, -111.8899215
+**Location Precision:** exact
+**Location Source:** https://www.bamboohr.com/about-bamboohr/contact/
 **Careers:** https://www.bamboohr.com/careers/
 **Website:** https://www.bamboohr.com/
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/bamboohr-hr-platform-lindon-2026/1600/1100
-**Pull:** *People, payroll, and benefits in one SMB-friendly HR platform — homegrown in Lindon.*
+**Pull:** *People, payroll, and benefits in one SMB-friendly HR platform, built in Utah.*
 **Relates:** cites [Official Website: BambooHR](bamboohr-official-website.md) · https://greatutah.work/pages/bamboohr-official-website.md · https://www.bamboohr.com/
 
 ## Summary
 
-BambooHR is a Lindon, Utah–based cloud HR software company aimed primarily at small and medium-sized businesses. Its official website describes an integrated platform for hiring, onboarding, employee records, payroll, time tracking, benefits, performance management, compensation planning, and HR analytics.
+BambooHR is a Draper, Utah-based cloud HR software company aimed primarily at small and medium-sized businesses. Its official website describes an integrated platform for hiring, onboarding, employee records, payroll, time tracking, benefits, performance management, compensation planning, and HR analytics.
 
 For the wiki, BambooHR is a useful reference point for Utah-built vertical SaaS at meaningful scale — HR operations rather than developer tools or experience management.
 
@@ -26,7 +30,7 @@ For the wiki, BambooHR is a useful reference point for Utah-built vertical SaaS 
 
 BambooHR appears to have helped mainstream polished HR software for SMBs that previously relied on spreadsheets and disconnected vendors. The company's public marketing emphasizes time savings, consolidated workflows, and in-house customer support.
 
-Its Lindon headquarters also anchors part of the Wasatch Front HR-tech cluster cited alongside larger Utah SaaS names in local ecosystem narratives.
+Its Draper office also anchors part of the Wasatch Front HR-tech cluster cited alongside larger Utah SaaS names in local ecosystem narratives.
 
 ## What They Are Building
 
@@ -53,7 +57,7 @@ Useful helpers include payroll tax and compliance advisors, SOC II and security 
 
 ## Utah Context
 
-BambooHR is headquartered in Lindon, roughly 30 miles south of Salt Lake City, and shares the Wasatch Front with other enterprise and vertical SaaS companies such as [Qualtrics](qualtrics.md), [Domo](domo.md), and [Fortem Technologies](fortem-technologies.md). Local intake notes reference hiring ties to Brigham Young University and other Utah schools; those relationships should be verified before use in matching.
+BambooHR publishes its current US office in Draper and shares the Wasatch Front with other enterprise and vertical SaaS companies such as [Qualtrics](qualtrics.md), [Domo](domo.md), and [Fortem Technologies](fortem-technologies.md). Local intake notes reference hiring ties to Brigham Young University and other Utah schools; those relationships should be verified before use in matching.
 
 ## Evidence
 

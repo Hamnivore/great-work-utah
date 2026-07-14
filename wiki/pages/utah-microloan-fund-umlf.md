@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 154 E Ford Ave, Suite A, Salt Lake City, UT 84115
+**Coordinates:** 40.696814, -111.886641
+**Location Precision:** exact
+**Location Source:** https://www.utahmicroloanfund.org/about.html
 **Website:** https://www.utahmicroloanfund.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

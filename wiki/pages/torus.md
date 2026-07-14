@@ -10,6 +10,11 @@
 **Updated:** 2026-07-14
 **Domain:** energy, materials-mfg
 **Region:** Salt Lake City
+**Map Location:** Torus corporate headquarters, 855 W 2400 S, South Salt Lake, UT 84119
+**Coordinates:** 40.7184514, -111.9156549
+**Location Precision:** exact
+**Location Source:** https://www.torus.co/contact-us
+**Additional Map Location:** Torus research and development facility, 372 W 700 S, Springville, UT 84663 | 40.1575183, -111.6172100 | exact | https://www.torus.co/contact-us
 **Careers:** https://www.torus.co/careers
 **Website:** https://www.torus.co/
 **Needs-reviewed:** 2026-07-14

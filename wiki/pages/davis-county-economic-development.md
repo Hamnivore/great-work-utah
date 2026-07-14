@@ -3,91 +3,53 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Funding, Late Stage Growth, Relocate a Business to Utah, Start a Business
 **Primary Location:** Farmington, UT
 **Utah Location:** Davis County, UT
 **Region:** Davis County
 **Map Location:** Davis County Economic Development, Davis County Administration Building, Suite 304, 61 S Main St, Farmington, UT 84025
 **Coordinates:** 40.9793744, -111.8875474
 **Location Precision:** exact
-**Location Source:** https://www.co.davis.ut.us/ced/economic-development
-**Website:** https://www.daviscountyutah.gov/ced
+**Location Source:** https://www.daviscountyutah.gov/ced/economic-development
+**Website:** https://www.daviscountyutah.gov/ced/economic-development
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Davis County Community and Economic Development Department drives economic growth by supporting businesses, fostering community development, and enhancing the region’s quality of life. It provides resources for business expansion, workforce development, and strategic planning to strengthen the local economy. Through its initiatives, the department promotes Davis County as a vibrant hub for business and community opportunities.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Davis County Community and Economic Development is a one-stop shop for business recruitment, retention, and entrepreneurial support in Davis County. Verified on daviscountyutah.gov/ced: the office provides site and incentive coordination, business retention visits, a county business development loan fund, partnerships with NUEA and EDCUtah, and strategic planning across 15 cities.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses recruiting or expanding in Davis County; entrepreneurs connected through Northfront Business Resource Center; site selectors evaluating aerospace, manufacturing, distribution, or tech clusters along the Wasatch Front north of Salt Lake City.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Business recruitment (sites, demographics, workforce liaisons, stacked incentives), retention and expansion visits, Davis Loan Fund for Economic Development, entrepreneurial mentoring, Davis COG coordination, economic snapshot and strategic plan resources, and links to state and NUEA partners.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Use the Economic Development page menus (Incentives, Sites, COG) or call the Farmington office.
 
-- [Official website](https://www.daviscountyutah.gov/ced) · https://www.daviscountyutah.gov/ced
+- [Official website](https://www.daviscountyutah.gov/ced/economic-development) · https://www.daviscountyutah.gov/ced/economic-development
+- Economic Development phone: (801) 451-3279
+- Address: 61 South Main Street, Suite 304, Farmington, UT 84025
 - Startup State listing: https://startup.utah.gov/business-resource/davis-county-economic-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+County ED consultation has no listed fee. Davis Loan Fund and incentive programs have application criteria on the Incentives & Resources page — verify before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2686 (slug `davis-county-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: —
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-11T08:07:44
-
+A revenue-stage company choosing a Davis County city for expansion, or a founder needing county loan fund or retention support — especially aerospace, composites, distribution, or IT. Pair with NUEA for regional site search.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.daviscountyutah.gov/ced) · https://www.daviscountyutah.gov/ced
+- [Official website](https://www.daviscountyutah.gov/ced/economic-development) · https://www.daviscountyutah.gov/ced/economic-development
+- Startup State listing: https://startup.utah.gov/business-resource/davis-county-economic-development/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Current Davis Loan Fund maximum award and eligible uses?
+- Northfront BRC referral process for new entrepreneurs?

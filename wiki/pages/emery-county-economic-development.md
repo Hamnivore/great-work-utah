@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding
 **Primary Location:** Emery County, UT
 **Utah Location:** Emery County, UT
 **Region:** Emery County
@@ -17,78 +17,38 @@
 
 ## Summary
 
-The Emery County Economic Development Department in Utah offers various programs to support local businesses and attract new enterprises to the area. They assist companies in applying for Fast Track Grants, provide tax incentives to promote growth, and collaborate with the Small Business Development Center to offer one-on-one management consulting. Additionally, the department utilizes the Business Expansion and Retention (BEAR) program to analyze customer data, enabling strategic decisions that enhance economic, workforce, and community development on a company-by-company basis
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Emery County Economic Development supports local business growth and recruitment to Emery County. Verified on the Emery County Business Chamber economic-development page (2026-07-14): staff help companies apply for Fast Track Grants, pursue tax incentives, use the BEAR (Business Expansion and Retention) company-by-company analysis program, and access one-on-one SBDC management consulting for starting, maintaining, or growing a business.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Emery County employers expanding or retaining operations, and companies considering relocation to Emery County that need grant, incentive, or SBDC advising support.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Fast Track Grant application assistance; tax incentives for growth; BEAR data-driven retention and expansion planning; referrals to the Small Business Development Center for one-on-one management consulting.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.emerycountychamber.com/emery-economic-development.html) · https://www.emerycountychamber.com/emery-economic-development.html
+- Official page: https://www.emerycountychamber.com/emery-economic-development.html
 - Email: [jordanl@emery.utah.gov](mailto:jordanl@emery.utah.gov)
+- Phone: (435) 749-9025 (listed on the chamber ED page)
 - Startup State listing: https://startup.utah.gov/business-resource/emery-county-economic-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Fast Track Grants and tax incentives carry program-specific eligibility; SBDC advising is typically no-cost but confirm current SBDC enrollment. Contact the ED office before assuming incentive qualification.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2723 (slug `emery-county-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Carbon, Emery, Grand, San Juan
-- Listing modified: 2024-12-11T10:41:27
-
+Established Emery County businesses pursuing expansion, retention analysis, or state/local incentive packages — less suited to pre-revenue startups without a county nexus.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.emerycountychamber.com/emery-economic-development.html) · https://www.emerycountychamber.com/emery-economic-development.html
+- Startup State listing: https://startup.utah.gov/business-resource/emery-county-economic-development/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current Fast Track Grant deadlines and award sizes for Emery County projects?
+- Is the BEAR program intake open to new employers or only existing county businesses?

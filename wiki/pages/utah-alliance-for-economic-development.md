@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -13,78 +13,39 @@
 
 ## Summary
 
-The Utah Alliance for Economic Development is a statewide organization made up of economic development professionals from various sectors, including government, utilities, real estate, and private firms. It focuses on supporting Utah’s economy by offering professional development, networking opportunities, and advocating for policies that strengthen local communities. The Alliance also hosts quarterly meetings in different cities to encourage collaboration and knowledge sharing among its members.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Utah Alliance for Economic Development is a statewide membership organization of economic development professionals from public agencies, utilities, real estate, law, staffing, and private ED firms. Verified on utahalliance.com/about: the Alliance provides professional development, quarterly statewide meetings, networking, policy advocacy, and a member directory for Utah's ED community.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Economic development directors, business development staff, and allied professionals (utilities, real estate, law, site selection) — not founders seeking direct business services. Founders may indirectly benefit when their local ED professional is an active member.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Quarterly statewide training meetings in rotating host cities, membership networking, resources and partner links, policy advocacy for local economies, and professional development for the ED trade.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Review membership options on the official site; events and resources are listed under Events and Resources.
 
 - [Official website](https://www.utahalliance.com/) · https://www.utahalliance.com/
+- [About / membership](https://www.utahalliance.com/about) · https://www.utahalliance.com/about
 - Email: [utahalliance@utahalliance.com](mailto:utahalliance@utahalliance.com)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-alliance-for-economic-development/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership sign-up is offered on the site (Enterprise and Public Agency tracks); specific dues are on the join pages — verify current pricing before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2698 (slug `utah-alliance-for-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-11T08:20:19
-
+A county or city economic developer, or a professional serving Utah ED clients, who wants peer learning and statewide networking — not a founder's first business-support stop. Route founders to their local EDA, GOEO, or EDCUtah instead.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.utahalliance.com/) · https://www.utahalliance.com/
+- Startup State listing: https://startup.utah.gov/business-resource/utah-alliance-for-economic-development/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Current membership dues for enterprise vs. public agency tracks?
+- Which upcoming quarterly meeting is open to prospective members?

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Richfield, UT
 **Utah Location:** Richfield, UT
 **Region:** Richfield
@@ -11,84 +11,43 @@
 **Coordinates:** 38.7716015, -112.0847058
 **Location Precision:** exact
 **Location Source:** https://richfieldareachamber.com/contact/
-**Website:** https://richfieldareachamber.com/
+**Website:** https://members.richfieldareachamber.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Richfield Area Chamber of Commerce serves as a central hub for businesses in Sevier County, Utah, focusing on fostering a thriving local economy through networking, advocacy, and community events. The Chamber provides resources for business growth, hosts events like the annual dinner and holiday parades, and recognizes local excellence.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Richfield Area Chamber of Commerce supports Sevier County businesses through membership, networking luncheons, and marketing. Verified on the official membership site (2026-07-14; `richfieldareachamber.com` redirects here): three tiers — Basic ($300/year), Enhanced ($550/year), and Elite ($900/year) — include directory listings, newsletter, Fall Festival booth, quarterly education courses, and escalating luncheon and media benefits. New members receive ribbon-cutting support and $500 Mid-Utah Radio advertising.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Richfield and Sevier County businesses seeking structured chamber membership with published pricing, networking luncheons, and local media exposure.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Tiered membership (Basic/Enhanced/Elite) with online directory profiles, newsletter, Fall Festival booth ($30), discounted Sevier County Entrepreneurship Program courses, monthly networking luncheons, Richfield Reaper and radio spotlights at higher tiers; new-member ribbon cutting and announcement package.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://richfieldareachamber.com/) · https://richfieldareachamber.com/
-- Email: [richfieldut.areachamber@outlook.com](mailto:richfieldut.areachamber@outlook.com)
+- Join online: https://members.richfieldareachamber.com/
+- Choose Basic, Enhanced, or Elite tier on membership page
 - Startup State listing: https://startup.utah.gov/business-resource/richfield-chamber-of-commerce/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Published annual dues: Basic $300, Enhanced $550, Elite $900 (verified 2026-07-14). Optional add-ons include luncheon sponsorship ($100) and pre-paid monthly luncheons ($170). Open to Richfield-area businesses.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2715 (slug `richfield-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Sevier
-- Listing modified: 2024-12-11T10:13:33
-
+Sevier County businesses ready to pay for chamber visibility and regular luncheon networking — especially new openings that want ribbon-cutting and radio promotion.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Official website](https://members.richfieldareachamber.com/) · https://members.richfieldareachamber.com/
+- Startup State listing: https://startup.utah.gov/business-resource/richfield-chamber-of-commerce/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://richfieldareachamber.com/) · https://richfieldareachamber.com/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What is the chamber office phone and email for non-members scheduling ribbon cuttings?
+- How do chamber education courses connect to the Sevier County Entrepreneurship Program?

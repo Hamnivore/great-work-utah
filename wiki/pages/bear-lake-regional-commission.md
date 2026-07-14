@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Other
 **Primary Location:** Rich County, UT
 **Utah Location:** Rich County, UT
 **Updated:** 2026-07-14
@@ -14,61 +14,31 @@
 
 ## Summary
 
-The Bear Lake Regional Commission focuses on managing growth, preserving natural resources, and fostering collaboration between Idaho and Utah's Bear Lake counties. It works to address environmental, economic, and recreational challenges in the region, ensuring sustainable development while enhancing the area's natural beauty and accessibility.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): The Bear Lake Regional Commission coordinates growth management and regional planning across Bear Lake County, Idaho and Rich County, Utah. Its public mission emphasizes protecting Bear Lake through coordination, cooperation, and education while working across multiple state and local jurisdictions on planning, recreation, and environmental issues.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Arts and Entertainment and Recreation
-- Life Sciences and Healthcare
+Regional planners, local governments, property owners, and tourism or recreation stakeholders in the Bear Lake region — not a typical startup advising or funding resource.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+The commission publishes regional planning documents, meeting agendas, and resources related to Bear Lake zoning, trails, special-event permits, and cross-border coordination. It serves as a regional convener rather than a business incubator or lender.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](http://www.bearlakeregionalcommission.org/) · http://www.bearlakeregionalcommission.org/
-- Email: [cjensen@cut.net](mailto:cjensen@cut.net)
+- Phone: 435-946-2198
+- Email: [mitch@bearlakeregionalcommission.org](mailto:mitch@bearlakeregionalcommission.org) · [BLRegionalCommission@gmail.com](mailto:BLRegionalCommission@gmail.com)
+- Mailing: P.O. Box 472, Garden City, UT 84028
 - Startup State listing: https://startup.utah.gov/business-resource/bear-lake-regional-commission/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Public regional commission; no membership fee listed. Relevant for Bear Lake / Rich County regional planning questions.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2667 (slug `bear-lake-regional-commission`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Arts and Entertainment and Recreation, Life Sciences and Healthcare
-- Locations: Rich
-- Listing modified: 2024-12-10T16:18:25
-
+Tourism, recreation, or land-use stakeholders in Rich County who need regional planning context — weak fit for early-stage founders seeking capital, mentoring, or accelerator support.
 
 ## Evidence
 
@@ -76,8 +46,3 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](http://www.bearlakeregionalcommission.org/) · http://www.bearlakeregionalcommission.org/
 
-## Open Questions
-
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 60 E South Temple, 3rd Floor, Salt Lake City, UT 84111
+**Coordinates:** 40.768946, -111.888975
+**Location Precision:** exact
+**Location Source:** https://www.uii.utah.gov/pmn/sitemap/publicbody/6413.html
 **Website:** https://inlandportauthority.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide

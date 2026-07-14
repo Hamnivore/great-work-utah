@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Focus:** Entrepreneurship Communities, Start a Business, Funding
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
 **Region:** Cedar City
@@ -17,92 +17,38 @@
 
 ## Summary
 
-Southern Utah University's Business and Innovation Center (BIC) fosters regional economic growth by offering entrepreneurial support and resources for startups. It provides a range of services, including business planning, marketing, and financing assistance, and plays a key role in advancing innovation through partnerships with local organizations and its accelerator programs
+Southern Utah University's Business & Innovation Center (BIC) is a regional entrepreneurship hub in Cedar City that routes founders to SBDC advising, APEX government-contracting help, SUU Startup programming, and the Innovation Center coworking/makerspace at innovationcenter.cc. The SUU portal describes the center as connecting entrepreneurs to local business leaders and skills training.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Entrepreneurs and small-business owners in southern Utah (Iron, Beaver, Garfield, Kane, and Washington counties per Startup State coverage) seeking SBDC counseling, startup programming, government-contracting assistance, or free prototyping and media resources.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+Gateway access to Utah SBDC counseling, Utah APEX Accelerator, SUU Startup, and the Innovation Center — which offers free 3D printing, digital media studio, conference room, and laser-engraving resources for startups and small businesses. Partner network includes SCORE, Women's Business Center, Cedar City Chamber, and GOEO.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.suu.edu/regional/bic/) · https://www.suu.edu/regional/bic/
+- [SUU BIC portal](https://www.suu.edu/regional/bic/) · https://www.suu.edu/regional/bic/
+- [Innovation Center](https://innovationcenter.cc/) · https://innovationcenter.cc/
 - Email: [brc@suu.edu](mailto:brc@suu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/southern-utah-university-cedar-city-business-innovation-center/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Innovation Center resources are described as free on innovationcenter.cc. SBDC and APEX counseling are typically no-cost; verify any fees for specific SUU Startup or accelerator tracks on their program pages.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2577 (slug `southern-utah-university-cedar-city-business-innovation-center`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Garfield, Iron, Kane, Washington
-- Listing modified: 2024-12-10T11:42:18
-
+Southern Utah founders who need a one-stop regional door to SBDC advising plus free prototyping and media tools. A weaker fit for companies outside the southern Utah service footprint or seeking venture capital directly.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [SUU BIC portal](https://www.suu.edu/regional/bic/) · https://www.suu.edu/regional/bic/
+- [Innovation Center](https://innovationcenter.cc/) · https://innovationcenter.cc/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.suu.edu/regional/bic/) · https://www.suu.edu/regional/bic/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which SUU Startup cohorts or accelerators are currently enrolling?
+- Is the Innovation Center address the same as the mapped 510 W 800 S Cedar City site?

@@ -7,80 +7,48 @@
 **Primary Location:** Washington, DC
 **Utah Location:** no verified Utah presence
 **Region:** no verified Utah presence
-**Website:** https://www.stopfakes.gov/welcome
+**Website:** https://www.stopfakes.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-STOPfakes.gov is a one-stop shop for U.S. government tools and resources on intellectual property rights (IPR). The federal agencies behind STOPfakes.gov have developed a number of resources to educate and assist businesses, particularly small and medium-sized enterprises (SMEs), as well as consumers, government officials, and the general public.
+STOPfakes.gov is a federal one-stop resource on intellectual property rights (IPR) for U.S. businesses, run by the International Trade Administration. Verified on the live site (2026-07-14): it provides guidance on registering and protecting patents, trademarks, copyrights, and trade secrets, with emphasis on helping small and medium-sized enterprises avoid counterfeiting and piracy when selling at home and abroad.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Utah founders can use it remotely; there is no Utah-specific office.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+U.S. companies—especially SMEs—preparing to commercialize innovations, expand internationally, or defend IP against counterfeiting. Relevant across industries when export or brand protection is part of the growth plan.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- International Trade
+IPR basics, business guides, country-specific IPR resources, webinars, and referral paths to federal agencies involved in IP protection. The homepage also publishes timely alerts (for example, guides on reporting suspected counterfeits tied to major events).
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.stopfakes.gov/welcome) · https://www.stopfakes.gov/welcome
+- [STOPfakes.gov homepage](https://www.stopfakes.gov/) · https://www.stopfakes.gov/
+- About and resource sections: https://www.stopfakes.gov/About-Stopfakes
 - Email: [stopfakes@trade.gov](mailto:stopfakes@trade.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/stopfakes-gov/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Public federal guidance site; no application fee. Actual patent/trademark filings and legal enforcement carry their own government and professional costs through USPTO and counsel.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Utah founders planning international sales who need a structured starting point on IP registration and anti-counterfeiting strategy before hiring specialists.
 
-- International Trade
-
-## Imported Coverage
-
-- Startup State ID: 3667 (slug `stopfakes-gov`)
-- Topics: International Trade
-- Stages: Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-05-28T10:19:14
-
+Less useful as a substitute for patent counsel, export logistics, or domestic-only businesses with no IP concerns.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.stopfakes.gov/welcome) · https://www.stopfakes.gov/welcome
+- [Official website](https://www.stopfakes.gov/) · https://www.stopfakes.gov/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which STOPfakes guides are most current for software and consumer-product exporters?
+- How should Utah founders pair STOPfakes resources with local SBDC or law-firm referrals?

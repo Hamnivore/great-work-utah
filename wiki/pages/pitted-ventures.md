@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
+**Confidence:** Low
 **Focus:** Funding
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
@@ -17,65 +17,37 @@
 
 ## Summary
 
-Pitted Ventures, founded in 2021 and based in Sandy, Utah, is a growth capital investment firm specializing in emerging consumer brands. Pitted Ventures distinguishes itself by offering not only financial capital but also a suite of mission-critical services through its affiliates, Pitted Labs and Pitted Logistics, which provide e-commerce channel management, logistics, fulfillment, and enhanced data analytics.
+Pitted Ventures is a Sandy, Utah growth-capital firm focused on emerging consumer brands, according to the Startup State listing. The official website at pittedventures.com was unreachable during verification (2026-07-14), so treat operational details as unverified.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Consumer Packaged Goods
+Consumer-brand founders seeking growth capital plus e-commerce, logistics, or channel support — if the firm is still active. Verify status before referring.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+Startup State and prior public descriptions cite growth capital plus affiliated services through Pitted Labs and Pitted Logistics for e-commerce channel management, fulfillment, and analytics. These details need re-verification because the official site is down.
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Official website was unreachable at verification time
 - [Official website](https://pittedventures.com/) · https://pittedventures.com/
-- Email: [inquiries@pittedventures.com](mailto:inquiries@pittedventures.com)
+- Email on Startup State card: [inquiries@pittedventures.com](mailto:inquiries@pittedventures.com)
 - Startup State listing: https://startup.utah.gov/business-resource/pitted-ventures/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Unknown while the official site is down. Do not invent fee or investment terms.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2600 (slug `pitted-ventures`)
-- Topics: Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Consumer Packaged Goods
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:36:16
-
+Potentially relevant for Utah consumer packaged goods founders needing growth capital and operating support — only after confirming the firm is still active through alternate channels.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://pittedventures.com/) · https://pittedventures.com/
+- Startup State listing: https://startup.utah.gov/business-resource/pitted-ventures/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is Pitted Ventures still operating under this domain or a successor site?
+- Are Pitted Labs and Pitted Logistics still affiliated and accepting new brands?

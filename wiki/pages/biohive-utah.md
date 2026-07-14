@@ -1,80 +1,51 @@
 # BIOHive Utah
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Late Stage Growth
-**Primary Location:** unknown
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
-**Updated:** 2026-07-14
 **Domain:** health-bio
 **Region:** statewide
 **Website:** https://www.biohive.com/
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-BioHive is a public-private partnership in Utah aimed at fostering innovation and growth within the life sciences and healthcare industries. It connects startups, established companies, investors, and academic institutions, positioning Utah as a leader in medical research and digital health solutions.
+BioHive is a public-private partnership and grassroots community that brands and convenes Utah's life sciences and healthcare innovation ecosystem. Its official site focuses on talent, investment visibility, events such as BioHive Live, and sub-communities including health tech, women in tech and science, returnships, and student chapters.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Life Sciences and Healthcare
+Life-sciences and health-innovation founders, operators, students, and ecosystem partners across Utah who need community, visibility, talent connections, and industry events.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Ecosystem branding and convening for Utah life sciences
+- Events including BioHive Live
+- Sub-communities for health tech, women in tech/science, returnships, and students
+- Partnership with [BIO Utah](bio-utah.md) on industry community building
 
-- Entrepreneurship Communities
-- Late Stage Growth
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Explore Get Involved and event pages on the official site
 - [Official website](https://www.biohive.com/) · https://www.biohive.com/
 - Startup State listing: https://startup.utah.gov/business-resource/biohive-utah/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Public event and community participation costs vary by program. Verify current BioHive Live and membership paths on the official site.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 2608 (slug `biohive-utah`)
-- Topics: Entrepreneurship Communities, Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: Any
-- Industries: Life Sciences and Healthcare
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:45:27
-
+Utah biotech, medtech, digital health, and life-sciences operators who need ecosystem peers rather than generic startup incubation. Pair with [BIO Utah](bio-utah.md) for trade-association advocacy and [Altitude Labs](altitude-labs.md) for accelerator programming.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.biohive.com/) · https://www.biohive.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which BioHive sub-communities have the clearest founder onboarding path today?

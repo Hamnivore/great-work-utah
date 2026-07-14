@@ -3,87 +3,49 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Other
-**Primary Location:** Utah
+**Focus:** Funding, Late Stage Growth
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://business.utah.gov/rural/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Center for Rural Development, part of Utah's Governor's Office of Economic Opportunity, collaborates with the state's rural counties, communities, and businesses to provide economic development resources. It administers programs such as the Rural Communities Opportunity Grant (RCOG), which supports unique economic development projects, and the Rural Employment Development Incentive (REDI), offering grants to businesses creating high-paying jobs in rural areas. Additionally, the center manages initiatives like the Enterprise Zone Tax Credits and the Rural Economic Development Tax Increment Financing (REDTIF) to promote business growth and infrastructure development in Utah's rural regions.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Center for Rural Development (CRD), within Utah's Governor's Office of Economic Opportunity, supports rural counties, communities, and businesses statewide. Verified on business.utah.gov/rural: CRD administers Rural Communities Opportunity Grants, Rural County Grants, REDI job-creation incentives, enterprise zone tax credits, rural co-working maps, REDTIF, and links to Utah Rural Jobs capital programs.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Rural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses creating high-paying jobs in rural Utah; rural cities and counties pursuing economic development projects; founders and officials in eligible rural communities seeking state grants or post-performance tax incentives — not urban Salt Lake County-only operators.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Other
+RCOG competitive grants for rural local governments, Rural County Grants, REDI grants for new high-paying rural jobs, Enterprise Zone tax credits, REDTIF post-performance tax reductions, rural co-working & innovation center map, Utah Rural Jobs capital access, outreach manager contacts, and links to partner workforce agencies.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Start at the CRD hub, open the specific program page (RCOG, REDI, etc.), and contact GOEO rural staff or business@utah.gov for eligibility questions.
 
+- [Official website](https://business.utah.gov/rural/) · https://business.utah.gov/rural/
 - Email: [business@utah.gov](mailto:business@utah.gov)
+- Phone: (801) 538-8680
 - Startup State listing: https://startup.utah.gov/business-resource/utah-center-for-rural-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Grants and incentives are competitive or post-performance; each program page defines rural eligibility, job-quality thresholds, and application windows — verify on business.utah.gov before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Other
-- Rural
-
-## Imported Coverage
-
-- Startup State ID: 2682 (slug `utah-center-for-rural-development`)
-- Topics: Entrepreneurship Communities, Late Stage Growth, Other
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Rural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-11T08:00:03
-
+A rural Utah employer planning a hiring expansion (REDI), a county applying for RCOG, or a business evaluating enterprise zone/REDTIF — not a pre-revenue urban startup. Pair with local AOG or county ED for project packaging.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [Official website](https://business.utah.gov/rural/) · https://business.utah.gov/rural/
+- Startup State listing: https://startup.utah.gov/business-resource/utah-center-for-rural-development/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which CRD programs have open application windows today?
+- Current REDI wage threshold and rural county list?

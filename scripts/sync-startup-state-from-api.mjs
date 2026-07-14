@@ -18,6 +18,26 @@ const ALIASES = {
   'startup-state': 'startup-state-resource-list',
   'five-county-association-of-governments-2': 'five-county-association-of-governments',
   'bear-river-association-of-governments-2': 'bear-river-association-of-governments',
+  'utah-league-of-cities-towns-ulct': 'utah-league-of-cities-and-towns-ulct',
+  'edc-utah-economic-development-corporation-of-utah':
+    'edcutah-economic-development-corporation-of-utah',
+  'utah-governors-office-of-economic-opportunity':
+    'utah-governor-s-office-of-economic-opportunity',
+  'wasatch-womens-business-alliance': 'wasatch-women-s-business-alliance',
+  'whats-up-down-south-economic-summit': 'event-what-s-up-down-south-economic-summit',
+  'silicon-slopes-tech-summit': 'event-silicon-slopes-tech-summit',
+  'one-utah-summit': 'event-one-utah-summit',
+  'business-forward': 'event-business-forward',
+  'mountain-west-capital-network': 'event-mountain-west-capital-network',
+  'utah-tech-week': 'event-utah-tech-week',
+  'sillicon-slopes': 'silicon-slopes',
+  'utahs-own-local-food-production': 'utah-s-own-local-food-production',
+  'utah-department-of-agriculture-food': 'utah-department-of-agriculture-and-food',
+  '47g-utah-aerospace-defense-association': '47g-utah-aerospace-and-defense-association',
+  'southern-utah-university-cedar-city-business-innovation-center':
+    'southern-utah-university-cedar-city-business-and-innovation-center',
+  'southern-utah-university-suu-larry-h-gail-miller-center-for-entrepreneurship':
+    'southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship',
 }
 
 function ensureCatalog() {

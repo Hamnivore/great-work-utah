@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Late Stage Growth, Marketing and Sales
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -17,78 +17,39 @@
 
 ## Summary
 
-The Salt Lake Chamber is Utah's largest and longest-standing business association, representing approximately 7,700 businesses and nearly 500,000 jobs across all 29 counties. The Chamber serves as the voice of business, supporting member success and championing community prosperity through advocacy, networking opportunities, and various programs aimed at fostering economic growth and addressing key policy issues.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Salt Lake Chamber is Utah's largest business association, representing thousands of companies statewide. Verified on slchamber.com: membership includes directory listing, networking, policy advocacy, committees, signature events (Economic Outlook Summit, Women & Business Conference), job board access, and tiered membership levels from Executive through Gold.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah businesses seeking advocacy, networking, and visibility — especially Wasatch Front employers engaged in public policy, workforce, or regional economic initiatives. Startup founders benefit when they need chamber referrals, events, or policy voice rather than grant writing.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Online business directory, networking and member-priced events, legislative alerts and policy committees, ribbon cuttings, KSL Speaking on Business opportunities (upper tiers), job board posting, certificates of origin, discounts, Leadership Utah and Business Women's Forum programs, and Circle of Influence events at higher tiers.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Apply via slchamber.com/membership or email info@slchamber.com to schedule a membership conversation.
 
 - [Official website](https://slchamber.com/) · https://slchamber.com/
+- [Membership](https://slchamber.com/membership/) · https://slchamber.com/membership/
 - Email: [info@slchamber.com](mailto:info@slchamber.com)
 - Startup State listing: https://startup.utah.gov/business-resource/salt-lake-chamber/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Published membership tiers on slchamber.com/membership (verified): Executive $1,500, Bronze $4,000, Silver $8,000, Gold $10,000 annually, plus Chair/Investor/Presidential levels by inquiry. All tiers include core benefits listed on the membership page.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2676 (slug `salt-lake-chamber`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Salt Lake
-- Listing modified: 2024-12-10T17:27:26
-
+An established Utah business investing in policy access, networking, and regional visibility — or a growth-stage founder ready for chamber committees and events. Less ideal for pre-revenue founders with no budget for membership.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://slchamber.com/) · https://slchamber.com/
+- Startup State listing: https://startup.utah.gov/business-resource/salt-lake-chamber/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Smallest membership path for early-stage companies below Executive tier?
+- Which committees are most useful for tech founders vs. Main Street?

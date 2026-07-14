@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 50 S 600 E, Suite 150, Salt Lake City, UT 84102
+**Coordinates:** 40.767978, -111.874350
+**Location Precision:** exact
+**Location Source:** https://www.ulct.utah.gov/about/
 **Website:** https://www.ulct.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

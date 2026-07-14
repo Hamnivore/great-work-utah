@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Ogden, UT
 **Utah Location:** Weber County, UT
 **Region:** Weber County
@@ -17,78 +17,39 @@
 
 ## Summary
 
-The Ogden-Weber Chamber of Commerce is a dynamic organization supporting businesses in Weber County through networking, professional development, and advocacy. Hosting over 100 events annually, including luncheons, workshops, and community celebrations, it provides a robust platform for local business growth and community engagement
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Ogden-Weber Chamber of Commerce is Weber County's primary business membership organization, representing 990+ member organizations. Verified on the official site (2026-07-14): members get marketing through chamber communication channels, professional and leadership development, legislative advocacy, and operational savings on insurance and employee benefits. The chamber runs committees including Small Business Council, Women in Business, Leadership Northern Utah, and Legislative Affairs, plus a quarterly Membership 360 orientation for new and prospective members.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Weber County businesses of any size — from solo operators to 500+ employee organizations — seeking networking, visibility, advocacy, and employee-benefit programs. Also useful for new Ogden-area business owners who want structured introductions to the local business community.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Verified member benefits include customer-reach marketing, employee development programs, community and legislative advocacy, sponsored insurance and benefits plans, a searchable member directory, community guide, event calendar (100+ annual events per Startup State), and committee-based networking (Small Business Council, Women in Business, Professional Development, Military Affairs, Spikers ambassadors).
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.ogdenweberchamber.com/) · https://www.ogdenweberchamber.com/
+- Browse benefits and join via the official site: https://www.ogdenweberchamber.com/
+- Attend a quarterly Membership 360 session at the Weber Center for an overview of committees and benefits.
 - Email: [info@ogdenweberchamber.com](mailto:info@ogdenweberchamber.com)
+- Office: 2380 Washington Blvd, Suite 290, Ogden, UT 84401
 - Startup State listing: https://startup.utah.gov/business-resource/ogden-weber-chamber-of-commerce/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership pricing is not published on the pages reviewed; confirm current dues and tiers on the join flow before recommending. Open to Weber County businesses willing to join the chamber.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2726 (slug `ogden-weber-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Weber
-- Listing modified: 2024-12-11T10:44:45
-
+Established or growing Weber County operators who want regular networking events, legislative representation, and member marketing channels rather than startup grant programs.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.ogdenweberchamber.com/) · https://www.ogdenweberchamber.com/
+- Startup State listing: https://startup.utah.gov/business-resource/ogden-weber-chamber-of-commerce/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership tier prices and the fastest join path for a new Weber County business?
+- Which 2026 committee meetings or luncheons are best entry points for first-time attendees?

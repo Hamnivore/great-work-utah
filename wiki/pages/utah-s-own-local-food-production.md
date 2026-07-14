@@ -1,10 +1,10 @@
 # Utah's Own - Local Food Production
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Late Stage Growth
-**Primary Location:** Utah
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://utahsown.org/
@@ -13,68 +13,38 @@
 
 ## Summary
 
-Utah's Own is a program by the Utah Department of Agriculture and Food designed to connect consumers with local farmers, ranchers, and artisans. It encourages purchasing locally produced goods to support community businesses, enhance product quality, and preserve agricultural spaces. The initiative includes a directory of members, such as farms, specialty food producers, and artisans, and promotes local goods through marketing campaigns and events like farmers' markets and artisan festivals.
+Utah's Own is a Utah Department of Agriculture and Food program that connects consumers with local farms, ranches, food producers, and artisans. Its official site offers a member directory, buy-local marketing, and pathways for Utah agricultural and food businesses to gain visibility.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Rural
-
-It also maps the resource to these industries:
-
-- Agriculture
+Utah farmers, ranchers, food producers, artisans, and rural operators who grow, raise, produce, or manufacture food and agricultural products in Utah.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Member directory and buy-local branding
+- Marketing visibility for Utah-sourced agricultural and food products
+- Connections to farmers markets and local-food campaigns
 
-- Entrepreneurship Communities
-- Late Stage Growth
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Explore membership via the official site
 - [Official website](https://utahsown.org/) · https://utahsown.org/
 - Email: [utahsown@utah.gov](mailto:utahsown@utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/utahs-own-local-food-production/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership costs are not summarized on the homepage. Verify current membership fees and benefits on the official site.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Late Stage Growth
-- Rural
-
-## Imported Coverage
-
-- Startup State ID: 2597 (slug `utahs-own-local-food-production`)
-- Topics: Entrepreneurship Communities, Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: Rural
-- Industries: Agriculture
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:23:57
-
+Utah agricultural and specialty-food operators seeking local-market visibility rather than venture capital. Pair with [Utah Farmers Market Network](utah-farmers-market-network.md) for market presence.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://utahsown.org/) · https://utahsown.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership dues and eligibility requirements for new food producers?

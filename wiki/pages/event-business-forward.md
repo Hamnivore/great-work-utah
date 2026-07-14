@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-**Primary Location:** Utah
+**Focus:** Late Stage Growth, Entrepreneurship Communities, Marketing and Sales
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://forward.utahbusiness.com/
@@ -13,91 +13,39 @@
 
 ## Summary
 
-Utah Business Forward is a premier conference tailored for executives seeking actionable strategies to advance their businesses. Attendees will benefit from insights shared by industry experts, in areas of acquisitions, AI, branding, entrepreneurship, people & culture, and others.
+Utah Business Forward is an executive conference produced by Utah Business magazine, focused on leadership, innovation, and growth strategies from Utah operators. The next listed edition is November 10, 2026 at the Salt Lake Marriott Downtown at City Creek.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah executives, founders, and senior operators who want actionable strategies across leadership, growth, innovation, impact, and AI — not early ideation workshops.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site offers keynotes, four breakout blocks with tracks (Lead, Grow, Innovate, Impact, AI hands-on workshops), optional Breakfast With an Expert (free with early-bird tickets while spots last), lunch panel, and VIP after party. Listed speakers include Utah operators and investors across sectors.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://forward.utahbusiness.com/) · https://forward.utahbusiness.com/
+- Early-bird tickets listed June 16 – August 31 before the November 10, 2026 event
 - Startup State listing: https://startup.utah.gov/business-resource/business-forward/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Paid conference tickets with early-bird, VIP, and optional Breakfast With an Expert add-on. Exact prices are on the registration page — verify before purchase. Breakfast With an Expert is listed as free with early-bird tickets while space remains.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for growth-stage Utah leaders refining strategy in leadership, expansion, AI adoption, or culture — especially those who learn well from peer executives.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2627 (slug `business-forward`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: —
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery
-- Listing modified: 2024-12-10T13:14:21
+Weaker fit for pre-revenue founders who need basic incorporation or grant navigation.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://forward.utahbusiness.com/) · https://forward.utahbusiness.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are the current early-bird and VIP ticket prices?
+- Which breakout track best serves founder-CEOs vs. functional leaders?

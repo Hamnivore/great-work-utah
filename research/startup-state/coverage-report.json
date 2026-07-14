@@ -1,122 +1,9 @@
 {
-  "checked_at": "2026-07-14T17:44:26.945Z",
+  "checked_at": "2026-07-14T17:53:34.245Z",
   "live_count": 209,
-  "wiki_stubs": 196,
-  "matched": 193,
-  "missing_on_wiki": [
-    {
-      "id": 2731,
-      "slug": "utah-league-of-cities-towns-ulct",
-      "title": "Utah League of Cities &#038; Towns (ULCT)",
-      "website": "https://www.ulct.org/",
-      "startup_url": "https://startup.utah.gov/business-resource/utah-league-of-cities-towns-ulct/"
-    },
-    {
-      "id": 2681,
-      "slug": "edc-utah-economic-development-corporation-of-utah",
-      "title": "EDCUtah &#8211; Economic Development Corporation of Utah",
-      "website": "https://www.edcutah.org/",
-      "startup_url": "https://startup.utah.gov/business-resource/edc-utah-economic-development-corporation-of-utah/"
-    },
-    {
-      "id": 2680,
-      "slug": "utah-governors-office-of-economic-opportunity",
-      "title": "Utah Governor&#8217;s Office of Economic Opportunity",
-      "website": "https://business.utah.gov/",
-      "startup_url": "https://startup.utah.gov/business-resource/utah-governors-office-of-economic-opportunity/"
-    },
-    {
-      "id": 2665,
-      "slug": "wasatch-womens-business-alliance",
-      "title": "Wasatch Women&#8217;s Business Alliance",
-      "website": "https://thewwba.org/",
-      "startup_url": "https://startup.utah.gov/business-resource/wasatch-womens-business-alliance/"
-    },
-    {
-      "id": 2633,
-      "slug": "whats-up-down-south-economic-summit",
-      "title": "EVENT: What&#8217;s Up Down South &#8211; Economic Summit",
-      "website": "https://whatsupdownsouth.org/",
-      "startup_url": "https://startup.utah.gov/business-resource/whats-up-down-south-economic-summit/"
-    },
-    {
-      "id": 2630,
-      "slug": "silicon-slopes-tech-summit",
-      "title": "EVENT: Silicon Slopes Tech Summit",
-      "website": "https://www.siliconslopes.com/summit",
-      "startup_url": "https://startup.utah.gov/business-resource/silicon-slopes-tech-summit/"
-    },
-    {
-      "id": 2629,
-      "slug": "one-utah-summit",
-      "title": "EVENT: One Utah Summit",
-      "website": "https://oneutahsummit.utah.gov/",
-      "startup_url": "https://startup.utah.gov/business-resource/one-utah-summit/"
-    },
-    {
-      "id": 2627,
-      "slug": "business-forward",
-      "title": "EVENT: Business Forward",
-      "website": "https://forward.utahbusiness.com/",
-      "startup_url": "https://startup.utah.gov/business-resource/business-forward/"
-    },
-    {
-      "id": 2625,
-      "slug": "mountain-west-capital-network",
-      "title": "EVENT: Mountain West Capital Network",
-      "website": "https://www.mwcn.org/",
-      "startup_url": "https://startup.utah.gov/business-resource/mountain-west-capital-network/"
-    },
-    {
-      "id": 2623,
-      "slug": "sillicon-slopes",
-      "title": "Sillicon Slopes",
-      "website": "https://www.siliconslopes.com/",
-      "startup_url": "https://startup.utah.gov/business-resource/sillicon-slopes/"
-    },
-    {
-      "id": 2624,
-      "slug": "utah-tech-week",
-      "title": "EVENT: Utah Tech Week",
-      "website": "https://www.utahtechweek.com/",
-      "startup_url": "https://startup.utah.gov/business-resource/utah-tech-week/"
-    },
-    {
-      "id": 2597,
-      "slug": "utahs-own-local-food-production",
-      "title": "Utah&#8217;s Own &#8211; Local Food Production",
-      "website": "https://utahsown.org/",
-      "startup_url": "https://startup.utah.gov/business-resource/utahs-own-local-food-production/"
-    },
-    {
-      "id": 2590,
-      "slug": "utah-department-of-agriculture-food",
-      "title": "Utah Department of Agriculture &#038; Food",
-      "website": "https://ag.utah.gov/",
-      "startup_url": "https://startup.utah.gov/business-resource/utah-department-of-agriculture-food/"
-    },
-    {
-      "id": 2586,
-      "slug": "47g-utah-aerospace-defense-association",
-      "title": "47G &#8211; Utah Aerospace &#038; Defense Association",
-      "website": "https://www.47g.org/",
-      "startup_url": "https://startup.utah.gov/business-resource/47g-utah-aerospace-defense-association/"
-    },
-    {
-      "id": 2577,
-      "slug": "southern-utah-university-cedar-city-business-innovation-center",
-      "title": "Southern Utah University Cedar City Business &#038; Innovation Center",
-      "website": "https://www.suu.edu/regional/bic/",
-      "startup_url": "https://startup.utah.gov/business-resource/southern-utah-university-cedar-city-business-innovation-center/"
-    },
-    {
-      "id": 2555,
-      "slug": "southern-utah-university-suu-larry-h-gail-miller-center-for-entrepreneurship",
-      "title": "Southern Utah University (SUU) &#8211; Larry H. &#038; Gail Miller Center for Entrepreneurship",
-      "website": "https://www.suu.edu/business/entrepreneurship/",
-      "startup_url": "https://startup.utah.gov/business-resource/southern-utah-university-suu-larry-h-gail-miller-center-for-entrepreneurship/"
-    }
-  ],
+  "wiki_stubs": 9,
+  "matched": 209,
+  "missing_on_wiki": [],
   "orphan_wiki_stubs": [
     {
       "stem": "a-tech-home-plans",
@@ -129,41 +16,6 @@
       "title": "Ai Seminar for Small Businesses & Non-Profits"
     },
     {
-      "stem": "edcutah-economic-development-corporation-of-utah",
-      "csvId": null,
-      "title": "EDCUtah - Economic Development Corporation of Utah"
-    },
-    {
-      "stem": "event-business-forward",
-      "csvId": null,
-      "title": "EVENT: Business Forward"
-    },
-    {
-      "stem": "event-mountain-west-capital-network",
-      "csvId": null,
-      "title": "EVENT: Mountain West Capital Network"
-    },
-    {
-      "stem": "event-one-utah-summit",
-      "csvId": null,
-      "title": "EVENT: One Utah Summit"
-    },
-    {
-      "stem": "event-silicon-slopes-tech-summit",
-      "csvId": null,
-      "title": "EVENT: Silicon Slopes Tech Summit"
-    },
-    {
-      "stem": "event-utah-tech-week",
-      "csvId": null,
-      "title": "EVENT: Utah Tech Week"
-    },
-    {
-      "stem": "event-what-s-up-down-south-economic-summit",
-      "csvId": null,
-      "title": "EVENT: What's Up Down South - Economic Summit"
-    },
-    {
       "stem": "first-step-entrepreneur",
       "csvId": 3770,
       "title": "First Step Entrepreneur"
@@ -172,48 +24,94 @@
       "stem": "fstep-idea-explorer",
       "csvId": 3771,
       "title": "FSTEP Idea Explorer"
-    },
-    {
-      "stem": "silicon-slopes",
-      "csvId": null,
-      "title": "Silicon Slopes"
-    },
-    {
-      "stem": "southern-utah-university-cedar-city-business-and-innovation-center",
-      "csvId": null,
-      "title": "Southern Utah University Cedar City Business & Innovation Center"
-    },
-    {
-      "stem": "southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship",
-      "csvId": null,
-      "title": "Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship"
-    },
-    {
-      "stem": "utah-department-of-agriculture-and-food",
-      "csvId": null,
-      "title": "Utah Department of Agriculture & Food"
-    },
-    {
-      "stem": "utah-governor-s-office-of-economic-opportunity",
-      "csvId": null,
-      "title": "Utah Governor's Office of Economic Opportunity"
-    },
-    {
-      "stem": "utah-league-of-cities-and-towns-ulct",
-      "csvId": null,
-      "title": "Utah League of Cities & Towns (ULCT)"
-    },
-    {
-      "stem": "utah-s-own-local-food-production",
-      "csvId": null,
-      "title": "Utah's Own - Local Food Production"
-    },
-    {
-      "stem": "wasatch-women-s-business-alliance",
-      "csvId": null,
-      "title": "Wasatch Women's Business Alliance"
     }
   ],
-  "website_mismatches": 0,
-  "website_mismatch_sample": []
+  "website_mismatches": 17,
+  "website_mismatch_sample": [
+    {
+      "stem": "stopfakes-gov",
+      "wikiWebsite": "https://www.stopfakes.gov/",
+      "liveWebsite": "https://www.stopfakes.gov/welcome"
+    },
+    {
+      "stem": "washington-city-economic-development",
+      "wikiWebsite": "https://washingtonutah.gov/development/economicdevelopment",
+      "liveWebsite": "https://washingtoncity.org/development/economicdevelopment"
+    },
+    {
+      "stem": "sevier-county-economic-development",
+      "wikiWebsite": "https://sevieredc.com/",
+      "liveWebsite": "https://scedc.com/"
+    },
+    {
+      "stem": "sanpete-chamber-of-commerce",
+      "wikiWebsite": "https://www.sanpetechamber.org/",
+      "liveWebsite": "https://sanpetechamberofcommerce.org/"
+    },
+    {
+      "stem": "richfield-chamber-of-commerce",
+      "wikiWebsite": "https://members.richfieldareachamber.com/",
+      "liveWebsite": "https://richfieldareachamber.com/"
+    },
+    {
+      "stem": "heber-valley-chamber-of-commerce",
+      "wikiWebsite": "https://www.gohebervalley.com/Chamber/",
+      "liveWebsite": "https://www.gohebervalley.com/chamber/"
+    },
+    {
+      "stem": "grand-county-economic-development",
+      "wikiWebsite": "https://www.grandcountyutah.net/",
+      "liveWebsite": "https://www.co.grand.co.us/1056/Economic-Development"
+    },
+    {
+      "stem": "mountainland-association-of-governments",
+      "wikiWebsite": "https://magutah.gov/",
+      "liveWebsite": "https://mountainland.org/"
+    },
+    {
+      "stem": "wasatch-front-regional-council",
+      "wikiWebsite": "https://wfrc.org/",
+      "liveWebsite": "https://wfrc.org/contact/"
+    },
+    {
+      "stem": "weber-county-economic-development",
+      "wikiWebsite": "https://webercountyutah.gov/economic_development/",
+      "liveWebsite": "https://webercountyutah.gov/weberedp/new/index.html"
+    },
+    {
+      "stem": "davis-county-economic-development",
+      "wikiWebsite": "https://www.daviscountyutah.gov/ced/economic-development",
+      "liveWebsite": "https://www.daviscountyutah.gov/ced"
+    },
+    {
+      "stem": "morgan-county-economic-development",
+      "wikiWebsite": "https://www.morgancountyutah.gov/economic-development",
+      "liveWebsite": "https://www.morgancountyinfo.com/"
+    },
+    {
+      "stem": "sba-utah-district-office",
+      "wikiWebsite": "https://www.sba.gov/district/utah",
+      "liveWebsite": "https://www.sba.gov/"
+    },
+    {
+      "stem": "get-started-business-idea-challenge",
+      "wikiWebsite": "https://startup.utah.gov/business-resource/get-started-business-idea-challenge/",
+      "liveWebsite": "https://startup.utah.gov/get-started/"
+    },
+    {
+      "stem": "utah-defense-alliance",
+      "wikiWebsite": "https://utahdefensealliance.com/",
+      "liveWebsite": "https://utahdefensealliance.com/home/"
+    },
+    {
+      "stem": "business-resource-center-utah-tech-university",
+      "wikiWebsite": "https://innovation.utahtech.edu/business-resource-center/",
+      "liveWebsite": "https://innovation.utahtech.edu/business-resource-center-at-dsu/"
+    },
+    {
+      "stem": "utah-tech-university-atwood-innovation-center",
+      "wikiWebsite": "https://innovation.utahtech.edu/business-resource-center/",
+      "liveWebsite": "https://innovation.utahtech.edu/business-resource-center-at-dsu/"
+    }
+  ]
 }

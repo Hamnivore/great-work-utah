@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Kinect Capital, 355 E 400 S, Salt Lake City, UT 84111
+**Coordinates:** 40.7605450, -111.8799950
+**Location Precision:** exact
+**Location Source:** https://utahfounders.org/resource/kinect-capital/
 **Website:** https://kinectcapital.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

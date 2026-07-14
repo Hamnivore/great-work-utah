@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Marketing and Sales
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -13,75 +13,38 @@
 
 ## Summary
 
-The Utah Veteran-Owned Business Registry is an initiative by the Utah Department of Veterans and Military Affairs (UDVMA) and the Veteran Business Resource Center (VBRC) at Salt Lake Community College, launched in January 2023. This registry promotes veteran-owned businesses across Utah, enabling the public to easily search for and support these enterprises. Veteran entrepreneurs can register their businesses, enhancing visibility and fostering community support. The registry verifies veteran status and business licenses to ensure authenticity.
+The Utah Veteran-Owned Business Registry is a statewide listing run by the Utah Department of Veterans and Military Affairs in partnership with the Veteran Business Resource Center (VBRC) at Salt Lake Community College. Veteran entrepreneurs register to gain public visibility as verified veteran-owned businesses; the registry checks veteran status and business licensing before listing.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Veteran
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah veteran business owners who want public discoverability as a verified veteran-owned enterprise and community support for their company.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The VBRC site describes a searchable public registry where verified veteran-owned businesses can be found and supported. Registration requires veteran-status verification by the Utah Department of Veterans & Military Affairs and business-license verification by VBRC.
 
-- Entrepreneurship Communities
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://vbr.veterans.utah.gov/s/) · https://vbr.veterans.utah.gov/s/
+- [Registry portal](https://vbr.veterans.utah.gov/s/) · https://vbr.veterans.utah.gov/s/ (select **Register Business**)
+- [VBRC overview of the registry](https://utahvbrc.org/) · https://utahvbrc.org/
 - Email: [vbrc@slcc.edu](mailto:vbrc@slcc.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/veteran-owned-business-registration-utah/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No fee is stated on the VBRC page. Confirm current registration steps and any listing requirements on the portal.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Veteran
-
-## Imported Coverage
-
-- Startup State ID: 2642 (slug `veteran-owned-business-registration-utah`)
-- Topics: Entrepreneurship Communities
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Veteran
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-02-21T16:51:04
+Best for established or launching veteran-owned Utah businesses whose next bottleneck is visibility, community recognition, or procurement-adjacent credibility — not for founders who still need basic business-plan or STRIVE training (start with [Veteran Business Resource Center (VBRC) Utah](veteran-business-resource-center-vbrc-utah.md)).
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Veteran Business Resource Center (VBRC) Utah](veteran-business-resource-center-vbrc-utah.md) · https://greatutah.work/pages/veteran-business-resource-center-vbrc-utah.md · https://utahvbrc.org/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://vbr.veterans.utah.gov/s/) · https://vbr.veterans.utah.gov/s/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Does the Salesforce registry portal remain the canonical registration URL?
+- What turnaround time should founders expect for verification?

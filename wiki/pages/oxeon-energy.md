@@ -7,9 +7,13 @@
 **Stage:** Private; DOE-funded ($36M+ in federal grants); operational
 **Primary Location:** North Salt Lake, UT
 **Utah Location:** North Salt Lake, UT
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Domain:** energy, space-science
 **Region:** North Salt Lake
+**Map Location:** OxEon Energy, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054
+**Coordinates:** 40.8375993, -111.9441225
+**Location Precision:** exact
+**Location Source:** https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf
 **Website:** https://oxeonenergy.com
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/oxeon-energy-2026/1600/1100

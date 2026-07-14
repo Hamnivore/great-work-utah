@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-**Primary Location:** Utah
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.mwcn.org/
@@ -13,92 +13,40 @@
 
 ## Summary
 
-MountainWest Capital Network (MWCN) is Utah's premier business networking organization dedicated to supporting entrepreneurial success and facilitating the flow of financial, intellectual, and human capital. MWCN hosts signature events such as the Utah 100 Awards, which recognize the state's fastest-growing companies, and the Deal Flow Report, summarizing equity-related financial transactions and mergers and acquisitions in Utah. Through these initiatives, MWCN fosters a vibrant business community by celebrating achievements, providing educational opportunities, and facilitating strong business relationships among its members.
+MountainWest Capital Network (MWCN) is Utah's long-running independent business network celebrating growth-company achievement and connecting operators, investors, and service providers. Signature events include Utah 100, Deal Flow, Entrepreneur of the Year, business forums, and a podcast.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah growth-company founders, investors, advisors, and service providers — especially operators at emerging through enterprise stages who value peer benchmarking and capital-flow visibility.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site describes membership-oriented networking with signature events: Utah 100 (fastest-growing companies), Deal Flow report on Utah equity and M&A activity, Entrepreneur of the Year, executive golf tournament, business forums with Utah leaders, and the Winners' Circle podcast. MWCN emphasizes financial, intellectual, and human capital connections.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://www.mwcn.org/) · https://www.mwcn.org/
 - Email: [info@mwcn.org](mailto:info@mwcn.org)
+- [Signature events](https://www.mwcn.org/signature-events) · https://www.mwcn.org/signature-events
 - Startup State listing: https://startup.utah.gov/business-resource/mountain-west-capital-network/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership and event fees are not listed on the public homepage. Utah 100 applications, Deal Flow registration, and forum tickets each have their own process — verify on the official site.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for Utah companies with measurable growth seeking visibility (Utah 100), investor/service-provider networking, or deal-market context (Deal Flow).
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2625 (slug `mountain-west-capital-network`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:14:39
+Weaker fit for idea-stage founders without revenue traction.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.mwcn.org/) · https://www.mwcn.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership tiers and event calendar dates?
+- How selective is Utah 100 eligibility for pre-profit growth companies?

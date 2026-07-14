@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Box Elder County, UT
 **Utah Location:** Box Elder County, UT
 **Updated:** 2026-07-14
@@ -18,69 +18,32 @@
 
 ## Summary
 
-The Box Elder Chamber of Commerce supports local businesses and promotes economic development throughout Box Elder County. It provides resources, networking opportunities, and community events to help businesses grow and connect. By fostering collaboration and advocating for its members, the Chamber strengthens the local economy and enhances community prosperity.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): The Box Elder Chamber of Commerce is the county's membership-based business organization, focused on business support, community connections, and leadership and advocacy for Box Elder County. Public pages describe it as a catalyst and convener for existing and new businesses in northern Utah.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Box Elder County business owners and operators — including new and established businesses — who want local networking, visibility, advocacy, and chamber programs rather than statewide venture or lending services.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Member benefits described on the official site include business support, community connections, leadership and advocacy, a member directory, networking events, promotional tools, and programs such as Peach Days. The chamber positions itself as a resource for businesses starting or growing in Box Elder County.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://www.boxelderchamber.com/) · https://www.boxelderchamber.com/
+- Phone: 435-723-3931
 - Email: [monica@boxelderchamber.com](mailto:monica@boxelderchamber.com)
+- [Membership application](https://members.boxelderchamber.com/member/newmemberapp) · https://members.boxelderchamber.com/member/newmemberapp
+- [Events calendar](https://members.boxelderchamber.com/events/calendar) · https://members.boxelderchamber.com/events/calendar
 - Startup State listing: https://startup.utah.gov/business-resource/box-elder-chamber-of-commerce/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Chamber membership is paid; specific tiers and fees are listed on the membership application page. Open to businesses operating in or serving Box Elder County.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2673 (slug `box-elder-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Idea (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Box Elder
-- Listing modified: 2024-12-10T17:20:53
-
+Main-street and local operators in Brigham City, Tremonton, and surrounding Box Elder communities who want a county chamber network, event access, and local advocacy — not deep-tech SBIR coaching or equity fundraising.
 
 ## Evidence
 
@@ -88,8 +51,3 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.boxelderchamber.com/) · https://www.boxelderchamber.com/
 
-## Open Questions
-
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

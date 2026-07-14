@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Evans & Sutherland, 770 Komas Drive, Salt Lake City, UT 84108
+**Coordinates:** 40.7553613, -111.8297613
+**Location Precision:** exact
+**Location Source:** https://www.es.com/contact/
 **Website:** https://archivespace.lib.utah.edu/agents/corporate_entities/2243;
-**Updated:** 2026-05-16
+**Updated:** 2026-07-14
 **Pull:** *The first commercial computer-graphics company turned Utah lab ideas into real-time 3D machinery.*
 
 ## Summary

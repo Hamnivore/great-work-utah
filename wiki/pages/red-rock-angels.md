@@ -1,7 +1,7 @@
 # Red Rock Angels
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
 **Primary Location:** St. George, UT
@@ -13,74 +13,38 @@
 
 ## Summary
 
-Red Rock Angels is an angel investor group based in St. George, Utah, dedicated to providing capital, mentorship, and resources to early-stage companies across various sectors, including technology, healthcare, and consumer products. The group comprises experienced entrepreneurs and accredited investors passionate about fostering entrepreneurship and economic growth in Southern Utah. They are currently accepting applications from entrepreneurs seeking funding and support for their ventures.
+Red Rock Angels is a Southern Utah angel investor group based in St. George that helps startups become investor-ready and connects founders with local accredited investors. The official site also sells paid startup services including pitch-deck review, mock pitches, and fundraising strategy sessions.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Early-stage founders in or connected to Southern Utah seeking angel funding, pitch coaching, or fundraising preparation before investor meetings.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Angel investment pathway through the Pitch section
+- Paid startup services: pitch-deck consultation, mock pitch sessions, fundraising strategy, and bundled investor-ready packages
+- Investor-readiness feedback from an angel-group perspective
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Apply or pitch via the official site; book startup services through listed offerings
 - [Official website](https://redrockangels.com/) · https://redrockangels.com/
 - Email: [info@redrockangels.com](mailto:info@redrockangels.com)
 - Startup State listing: https://startup.utah.gov/business-resource/red-rock-angels/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The site lists paid startup services at published prices ($195 pitch-deck consultation, $375 mock pitch, $450 fundraising strategy, $895 investor-ready bundle). Angel investment terms are separate and deal-specific.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2613 (slug `red-rock-angels`)
-- Topics: Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:48:11
-
+Southern Utah founders preparing for angel fundraising who want local investor access or structured pitch prep. Less relevant for companies seeking only venture capital or non-dilutive grants.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://redrockangels.com/) · https://redrockangels.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What is the current angel-application cadence and typical investment size?

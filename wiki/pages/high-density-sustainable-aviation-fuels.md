@@ -7,9 +7,13 @@
 **Era:** 2023–present
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
-**Updated:** 2026-06-25
+**Updated:** 2026-07-14
 **Domain:** aerospace-defense, energy
 **Region:** Salt Lake City
+**Map Location:** CleanJoule fuel-development facility, 2350 W 1500 S, Salt Lake City, UT 84104
+**Coordinates:** 40.7378275, -111.9535043
+**Location Precision:** exact
+**Location Source:** https://www.linkedin.com/company/cleanjoule
 **Website:** https://cleanjoule.com
 **Pull:** *Salt Lake City companies are developing drop-in fuels that may let long-haul aircraft and missiles travel farther on the same tankful — if the performance claims survive independent validation.*
 **Relates:** cites [CleanJoule Official Website](cleanjoule-official-website.md) · https://greatutah.work/pages/cleanjoule-official-website.md · https://cleanjoule.com

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Relocate a Business to Utah
+**Focus:** Entrepreneurship Communities, Funding, Relocate a Business to Utah
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -17,67 +17,40 @@
 
 ## Summary
 
-Altitude Lab, established in 2020 through a collaboration between Recursion and the University of Utah’s PIVOT Center, is a health care incubator dedicated to fostering a diverse community of entrepreneurs in Utah. The organization provides over 5,000 square feet of professionally managed lab space, including shared cell culture facilities and state-of-the-art molecular biology instrumentation, to support early-stage life science and health care companies.
+Altitude Lab is a Salt Lake City biotech accelerator on Recursion's campus, launched in 2020 through a collaboration between Recursion and the University of Utah's PIVOT Center. It targets platform and techbio founders who need lab space, investor access, mentorship, and nondilutive or pre-seed capital to move from concept toward seed financing.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Life Sciences and Healthcare
+Early-stage life-science and techbio founders — especially first-time academic founders and SBIR-awarded teams — who need wet-lab infrastructure, investor introductions, and structured commercialization support in Utah.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site describes cohort-based residency with onboarding (12–20 weeks), weekly investor meetings, industry-veteran coaching, roughly 20,000 sq ft of lab and office space on Recursion's campus, a national investor network, and financial awards including the Trail Angel Grant (one year of membership and expert guidance), the Chris and Summer Gibson Fellowship (reported $80,000 stipend plus lab/office space for first-time academic founders), and Altitude Lab Fund pre-seed investments (reported $100,000–$250,000 for peer-reviewed-grant holders). The site reports portfolio companies raising over $205M with an 85% seed success rate — treat those as provider-reported outcomes.
 
-- Entrepreneurship Communities
-- Relocate a Business to Utah
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://www.altitudelab.org/) · https://www.altitudelab.org/
+- [Apply](https://www.altitudelab.org/apply) · https://www.altitudelab.org/apply
 - Email: [info@altitudelab.org](mailto:info@altitudelab.org)
 - Startup State listing: https://startup.utah.gov/business-resource/altitude-labs/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Program-specific. The site describes nondilutive grants/fellowships and pre-seed investment rather than a flat participation fee; verify current award terms and any equity expectations on the apply page and FAQ before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for Utah (or Utah-relocating) biotech/platform founders preparing seed rounds who need lab bench, Recursion-adjacent community, and structured investor access.
 
-- Entrepreneurship Communities
-- Relocate a Business to Utah
-
-## Imported Coverage
-
-- Startup State ID: 2645 (slug `altitude-labs`)
-- Topics: Entrepreneurship Communities, Relocate a Business to Utah
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Life Sciences and Healthcare
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:28:56
+Not a fit for software-only SaaS, Main Street service businesses, or founders without a credible life-science product path.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.altitudelab.org/) · https://www.altitudelab.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are the current cohort start dates and application deadlines?
+- Which financial award track is active for non-academic founders?

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Nephi, UT
 **Utah Location:** Nephi, UT
 **Region:** Nephi
@@ -13,78 +13,39 @@
 
 ## Summary
 
-The Greater Nephi Chamber of Commerce serves to unite local businesses in the community for the purposes of innovation, advocacy, and education. It focuses on promoting economic growth, supporting small businesses, and fostering collaboration between businesses, community leaders, and educational institutions.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Greater Nephi Chamber of Commerce, founded in 2021, unites Juab County small businesses around innovation, advocacy, and education. Verified on the official site (2026-07-14): the chamber hosts networking events, business awards galas, ribbon cuttings, a member directory, sponsorship opportunities, and connects members with education and workforce partnerships. Contact: (435) 660-1278, nephichamber@gmail.com, PO Box 219, Nephi.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Nephi and central-Utah small businesses seeking peer networking, advocacy, education partnerships, and community visibility through chamber events and awards.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Member directory and events calendar; sponsorship packages; business awards (Best in Business Gala); ribbon cuttings and grand openings; Central Utah Chamber Coalition collaboration; request-for-quote tool to reach multiple member businesses; education and workforce advocacy with local schools.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.nephichamber.org/) · https://www.nephichamber.org/
+- Official site: https://www.nephichamber.org/
 - Email: [nephichamber@gmail.com](mailto:nephichamber@gmail.com)
+- Phone: (435) 660-1278
+- Submit event or membership inquiries via site contact forms
 - Startup State listing: https://startup.utah.gov/business-resource/greater-nephi-chamber-of-commerce/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership and sponsorship pricing not published on pages reviewed; confirm on join flow. Open to Nephi-area businesses.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2719 (slug `greater-nephi-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Juab
-- Listing modified: 2024-12-11T10:21:42
-
+Juab County small businesses wanting a newer, active local chamber with awards, ribbon cuttings, and coalition-level networking.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.nephichamber.org/) · https://www.nephichamber.org/
+- Startup State listing: https://startup.utah.gov/business-resource/greater-nephi-chamber-of-commerce/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership tiers and dues?
+- How does the chamber coordinate with Juab County Economic Development for relocating employers?

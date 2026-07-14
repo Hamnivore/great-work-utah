@@ -7,6 +7,11 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 201 S Main St, Suite 2300, Salt Lake City, UT 84111
+**Coordinates:** 40.764469, -111.890457
+**Location Precision:** exact
+**Location Source:** https://www.wbcutah.org/contact
+**Additional Map Location:** 510 W 800 S, Cedar City, UT 84720 | 37.664119, -113.069922 | exact | https://www.wbcutah.org/contact
 **Website:** https://wbcutah.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

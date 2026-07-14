@@ -2,8 +2,8 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Confidence:** Low
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Heber City, UT
 **Utah Location:** Heber Valley, UT
 **Region:** Heber Valley
@@ -17,78 +17,42 @@
 
 ## Summary
 
-Heber Valley's Economic Development Office in Utah fosters sustainable growth by supporting local businesses, attracting new enterprises, and enhancing residents' quality of life. The office provides resources such as economic incentives, strategic planning, and community engagement initiatives to promote a vibrant economy.
+Heber Valley's economic-development presence is marketed through the Go Heber Valley visitor/business portal. The Economic Development URL loaded with placeholder trip-planner UI rather than substantive program copy in this review (2026-07-14), so specific incentives, contacts, and services beyond Startup State's general description could not be verified on the live page.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Wasatch County economic-development resources may be coordinated through the valley CVB/chamber ecosystem at 475 N Main Street, Heber City.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses considering relocation or expansion in Heber Valley / Wasatch County, and local operators seeking regional growth context. Confirm service scope with staff because the public Economic Development page did not render program details in this pass.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Per Startup State: support for local business growth, attraction of new enterprises, economic incentives, strategic planning, and community engagement. The live Economic Development page did not expose these services explicitly when fetched; treat as a contact-first resource.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.gohebervalley.com/Economic-Development/) · https://www.gohebervalley.com/Economic-Development/
-- Email: [info@gohebervalley.com](mailto:info@gohebervalley.com)
+- [Economic Development page](https://www.gohebervalley.com/Economic-Development/) · https://www.gohebervalley.com/Economic-Development/
+- General contact: [info@gohebervalley.com](mailto:info@gohebervalley.com)
+- Related: [Heber City Community Alliance for Main Street](heber-city-community-alliance-for-main-street.md)
 - Startup State listing: https://startup.utah.gov/business-resource/heber-valley-economic-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Not published on the reachable portions of the site in this review. Email the valley contact to confirm incentive programs and eligibility.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Employers exploring Heber Valley expansion once staff confirm current programs and contacts.
 
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2735 (slug `heber-valley-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Summit, Utah, Wasatch
-- Listing modified: 2024-12-11T10:49:30
-
+Avoid strong recommendations until the Economic Development page or staff confirm live services.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.gohebervalley.com/Economic-Development/) · https://www.gohebervalley.com/Economic-Development/
+- [Heber City Community Alliance for Main Street](heber-city-community-alliance-for-main-street.md) · https://greatutah.work/pages/heber-city-community-alliance-for-main-street.md · https://hebercity-cams.org/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Why does the Go Heber Valley Economic Development page render without program content?
+- Who is the current Wasatch County / Heber Valley economic-development officer and direct phone?

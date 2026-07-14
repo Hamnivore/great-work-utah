@@ -13,72 +13,36 @@
 
 ## Summary
 
-The Pacific Island Chamber of Commerce (PICC), a program of Pacific Island Knowledge 2 Action Resources (PIK2AR), is dedicated to fostering economic growth and development within Utah's Pacific Islander community. PICC serves as an educational and resource hub for business owners and entrepreneurs, offering culturally relevant business training, mentorship, and networking opportunities. With chapters in Salt Lake County and Utah County, PICC emphasizes mutual support and connection to help Pacific Islander businesses thrive.
+The Pacific Island Chamber of Commerce (PICC) is a PIK2AR program supporting Pacific Islander and underserved entrepreneurs through business education, mentorship, and capital connections. Verified on the official site (2026-07-14): PICC reports 250+ business owners assisted, monthly Salt Lake County (1st Thursday, 8 a.m.) and Utah County (3rd Wednesday, noon) chapter meetups, ribbon-cutting/open-house support for members, and microlending coordination.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+PICC partners with lenders and agencies including Kiva, Celtic Bank, SBA, and local economic-development offices.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Multicultural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Pacific Islander business owners and multicultural entrepreneurs in Salt Lake and Utah counties, from hobbyists to established small businesses seeking education, mentorship, networking, and character-based lending introductions.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
+Monthly networking and education meetups, culturally relevant business training, mentorship with successful community business owners, ribbon-cutting/open-house (RCC) event support for members, microlending coordination, and periodic grant or pitch opportunities through national partners (for example, Verizon/National ACE programs listed on the site).
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.pik2ar.org/picc) · https://www.pik2ar.org/picc
-- Email: [chamber@pik2ar.org](mailto:chamber@pik2ar.org)
+- [PICC program page](https://www.pik2ar.org/picc) · https://www.pik2ar.org/picc
+- Join PICC via the site form ("Click Here To Join PICC")
+- Microlending questions: [sharon@pik2ar.org](mailto:sharon@pik2ar.org), (435) 612-2477
+- General: [chamber@pik2ar.org](mailto:chamber@pik2ar.org)
+- Events link tree referenced on site for current meetup links
 - Startup State listing: https://startup.utah.gov/business-resource/pacific-island-chamber-of-commerce-picc/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+RCC events are listed as no cost for chamber members; membership terms and competition eligibility vary by program. Microlending options depend on partner lender criteria (including character-based programs). Verify current membership and loan pathways before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Pacific Islander and underserved small business owners who want culturally grounded chamber support, monthly accountability networks, and introductions to microloan partners.
 
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
-- Multicultural
-
-## Imported Coverage
-
-- Startup State ID: 2892 (slug `pacific-island-chamber-of-commerce-picc`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Multicultural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-01-07T09:35:37
-
+Less useful for venture-backed tech startups seeking institutional VC or statewide manufacturing incentives.
 
 ## Evidence
 
@@ -88,6 +52,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current PICC membership dues and formal benefits?
+- Which microlending partners are actively accepting referrals this quarter?

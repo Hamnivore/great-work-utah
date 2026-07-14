@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 351 W University Blvd, Cedar City, UT 84720
+**Coordinates:** 37.675550, -113.071700
+**Location Precision:** exact
+**Location Source:** https://www.futurereadyutah.org/
 **Website:** http://futurereadyutah.org
 **Updated:** 2026-07-14
 **Layout:** field-guide

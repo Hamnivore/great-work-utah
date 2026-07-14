@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Hildale, UT
 **Utah Location:** Hildale, UT
 **Region:** Hildale
@@ -13,79 +13,38 @@
 
 ## Summary
 
-The UZONA Chamber of Commerce supports the economic development and community growth of Southern Utah and Northern Arizona, spanning areas like Apple Valley, Hildale, and the Kaibab Paiute Reservation. It fosters local businesses through networking events, visitor guides, and community initiatives, highlighting regional attractions and amenities. The chamber actively engages in creating opportunities for collaboration and promoting the area's unique culture and commerce.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The UZONA Chamber of Commerce serves communities along the southern Utah–northern Arizona border, including Apple Valley UT, Hildale UT, Colorado City AZ, Centennial Park AZ, Cane Beds AZ, and the Kaibab Paiute Reservation. Verified on the official site (2026-07-14): the chamber runs a business directory, chamber events (including UZONA luncheons), and membership join via Wild Apricot. Motto: "Together we prosper."
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Multicultural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Cross-border small businesses and operators in the UZONA region seeking local networking, directory visibility, and chamber events spanning Utah and Arizona communities.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Business directory; chamber events calendar (e.g., UZONA Luncheon with community updates); membership join and login; regional "Things to Do" promotion; subscription/newsletter signup; leadership board listed on site.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.uzonachamber.org/) · https://www.uzonachamber.org/
-- Email: [admin@uzonachamber.org](mailto:admin@uzonachamber.org)
+- Official site: https://www.uzonachamber.org/
+- Join via "Join us" on homepage
+- Browse events and directory before joining
 - Startup State listing: https://startup.utah.gov/business-resource/uzona-hildale-chamber-of-commerce/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership pricing not published on pages reviewed; confirm on join flow. Open to UZONA-region businesses.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-- Multicultural
-
-## Imported Coverage
-
-- Startup State ID: 2706 (slug `uzona-hildale-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Multicultural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Kane, Washington
-- Listing modified: 2024-12-11T09:59:21
-
+Border-region Main Street businesses wanting a chamber that explicitly spans Utah and Arizona communities in the UZONA corridor.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.uzonachamber.org/) · https://www.uzonachamber.org/
+- Startup State listing: https://startup.utah.gov/business-resource/uzona-hildale-chamber-of-commerce/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current membership dues and luncheon schedule?
+- Which Utah county economic-development office should UZONA businesses contact for incentives beyond chamber networking?

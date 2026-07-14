@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Late Stage Growth, Relocate a Business to Utah
 **Primary Location:** Moab, UT
 **Utah Location:** Grand County, UT
 **Region:** Grand County
@@ -11,84 +11,46 @@
 **Coordinates:** 38.5733313, -109.5485389
 **Location Precision:** exact
 **Location Source:** https://business.moabchamber.com/member-directory/Details/grand-county-economic-development-4249447
-**Website:** https://www.co.grand.co.us/1056/Economic-Development
+**Website:** https://www.grandcountyutah.net/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Grand County Economic Development Department in Utah focuses on diversifying the local economy by supporting non-tourism-based activities that promote sustainability, livability, and resilience. They offer resources and assistance to businesses and organizations aiming to establish or expand operations within the county, fostering a diverse mix of industries to withstand economic fluctuations. The department also engages with the community to prioritize the allocation of funds for economic diversification projects, ensuring that development aligns with residents' needs and the county's strategic goals.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Grand County's non-tourism economic development work is coordinated through the county administration rather than a standalone department page on the official site. Verified on grandcountyutah.net (Business Services) and the Moab Area Chamber directory: county staff support economic diversification, grant oversight, and business outreach from Moab. The former Economic Development Department was restructured in 2026 toward tourism-focused duties under the Moab Office of Tourism, with broader economic development handled by the Commission Administrator's office.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses and organizations looking to establish or expand in Grand County, especially operators pursuing economic diversification beyond tourism. Also useful for local leaders coordinating state grant programs and community economic planning in southeastern Utah.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+County business services (licenses, bids, planning applications), liaison support for economic development and communications, and connection to Grand County's economic opportunity planning. The chamber listing identifies staff contact for economic development questions; specific incentive programs should be confirmed with county staff.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Start with the official county site and chamber directory entry, then contact staff directly.
 
-- [Official website](https://www.co.grand.co.us/1056/Economic-Development) · https://www.co.grand.co.us/1056/Economic-Development
+- [Grand County official site](https://www.grandcountyutah.net/) · https://www.grandcountyutah.net/
+- [Business Services](https://www.grandcountyutah.net/547/Business-Services) · https://www.grandcountyutah.net/547/Business-Services
 - Email: [bfredregill@grandcountyutah.net](mailto:bfredregill@grandcountyutah.net)
 - Startup State listing: https://startup.utah.gov/business-resource/grand-county-economic-development/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No public fees listed for county economic development liaison services. Grant and project eligibility vary by program; confirm current RCOG or county-funded opportunities with staff.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2701 (slug `grand-county-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Carbon, Emery, Grand, San Juan
-- Listing modified: 2024-12-11T08:24:47
-
+Established or relocating businesses in Grand County that need a county point of contact for permits, grants, or diversification planning — not a startup incubator or venture fund. Weaker fit for early-stage tech founders unless they have a clear Moab/Grand County footprint.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.co.grand.co.us/1056/Economic-Development) · https://www.co.grand.co.us/1056/Economic-Development
+- [Official website](https://www.grandcountyutah.net/) · https://www.grandcountyutah.net/
+- Startup State listing: https://startup.utah.gov/business-resource/grand-county-economic-development/
+- Moab Chamber directory: https://business.moabchamber.com/member-directory/Details/grand-county-economic-development-4249447
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What is the current staff roster and direct line after the 2026 department restructuring?
+- Which state or county grant programs are actively accepting applications today?

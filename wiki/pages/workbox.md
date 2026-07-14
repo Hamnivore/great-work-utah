@@ -10,71 +10,36 @@
 **Map Location:** 132 South State Street, Salt Lake City, UT 84111
 **Coordinates:** 40.7662938, -111.8886317
 **Location Precision:** exact
-**Location Source:** https://www.google.com/maps/search/?api=1&query=Workbox+132+South+State+Street+Salt+Lake+City+UT
+**Location Source:** https://www.workboxcompany.com/
 **Website:** https://www.workboxcompany.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-Workbox is a comprehensive platform offering flexible coworking spaces, accelerator programs, and venture capital services to support entrepreneurs and businesses across various growth stages.
+Workbox is a member-success-focused coworking platform with a Salt Lake City City Center location and additional markets nationwide. Beyond private offices and coworking, it offers meeting and event space and Workbox Ventures programming aimed at early-stage companies, with intentional networking and business-development programming for members.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Solopreneurs, remote workers, growing startups, and established companies that want flexible workspace plus a professional network — especially operators who value member mixers, industry meetups, and connection to other growing businesses.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
+Workspace (private offices and coworking), meeting and event spaces, Workbox Ventures support for early-stage companies, member programming, scalable memberships, and a multi-city network that now includes access to 30+ locations nationally per the site's current banner.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://www.workboxcompany.com/) · https://www.workboxcompany.com/
-- Email: [info@workboxcompany.com](mailto:info@workboxcompany.com)
+- Use the contact form and select Salt Lake City / City Center, or email [info@workboxcompany.com](mailto:info@workboxcompany.com)
 - Startup State listing: https://startup.utah.gov/business-resource/workbox/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Membership pricing is not published on the public homepage. Confirm current Salt Lake City rates and terms through the site's contact flow before making budget-specific recommendations.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-
-## Imported Coverage
-
-- Startup State ID: 2565 (slug `workbox`)
-- Topics: Entrepreneurship Communities
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-10T11:00:40
+Founders and operators who want downtown Salt Lake City office space bundled with community programming and optional early-stage venture exposure through Workbox Ventures.
 
 
 ## Evidence
@@ -85,6 +50,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What Workbox Ventures offerings are active for Salt Lake City members today?
+- How do national multi-location access terms work for Utah-based companies?

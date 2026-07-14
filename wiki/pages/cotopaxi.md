@@ -8,8 +8,14 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Cotopaxi Salt Lake City store, 74 S Main Street, Salt Lake City, UT 84101
+**Coordinates:** 40.7677477, -111.8911694
+**Location Precision:** exact
+**Location Source:** https://www.cotopaxi.com/pages/retail-store
+**Additional Map Location:** Cotopaxi Fashion Place store, 6191 S State Street, Suite 1480, Murray, UT 84107 | 40.6364120, -111.8891549 | exact | https://www.cotopaxi.com/pages/retail-store
+**Additional Map Location:** Cotopaxi Park City store, 333 Main Street, Suite H, Park City, UT 84060 | 40.6422991, -111.4951653 | exact | https://www.cotopaxi.com/pages/retail-store
 **Website:** https://www.cotopaxi.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/cotopaxi-gear-for-good-2026/1600/1100
 **Pull:** *Colorful outdoor gear with a built-in give-back model: 1% of revenue to the Cotopaxi Foundation.*

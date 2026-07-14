@@ -1,6 +1,6 @@
 # health-bio — sector hub
 
-Generated from `**Domain:**` metadata (71/610 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (71/611 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -25,8 +25,8 @@ Generated from `**Domain:**` metadata (71/610 pages attributed so far — covera
 
 ## Money & programs
 
-- [BIO Utah](/pages/bio-utah.md) · `/pages/bio-utah.md` · statewide · Entrepreneurship Communities, Late Stage Growth, Any, Life Sciences and Healthcare, Software and In…
-- [BIOHive Utah](/pages/biohive-utah.md) · `/pages/biohive-utah.md` · statewide · Entrepreneurship Communities, Late Stage Growth, Any, Life Sciences and Healthcare
+- [BIO Utah](/pages/bio-utah.md) · `/pages/bio-utah.md` · statewide · Entrepreneurship Communities, Late Stage Growth
+- [BIOHive Utah](/pages/biohive-utah.md) · `/pages/biohive-utah.md` · statewide · Entrepreneurship Communities, Late Stage Growth
 
 ## Who they need right now
 

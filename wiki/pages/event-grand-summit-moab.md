@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Focus:** Entrepreneurship Communities, Marketing and Sales
 **Primary Location:** Moab, UT
 **Utah Location:** Moab, UT
 **Region:** Moab
@@ -13,93 +13,39 @@
 
 ## Summary
 
-The Grand Summit Moab is an annual business conference held in Moab, Utah, bringing together regional business owners and stakeholders to discuss the area's economic future. The event features keynote speakers, panel discussions, and breakout sessions on topics such as sustainable tourism, local economic development, and community engagement.
+The Grand Summit Moab is a regional business conference in Moab, Utah, convening Grand County stakeholders for discussions on tourism, economic development, and community growth. The live site currently highlights the August 20, 2024 edition; verify whether a new date is scheduled before recommending attendance.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Rural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Moab and southeastern Utah business owners, tourism operators, and community leaders focused on sustainable tourism and local economic planning.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site markets a premiere Moab business event with sponsor/exhibitor tiers and online registration (2024 checkout link). Startup State import described keynotes, panels, and breakout sessions on sustainable tourism and economic development — confirm the next agenda on the official site.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://www.grandsummitmoab.com/) · https://www.grandsummitmoab.com/
 - Email: [Nicole@powerhouse.events](mailto:Nicole@powerhouse.events)
 - Startup State listing: https://startup.utah.gov/business-resource/event-grand-summit-moab/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Registration fees are set per event year via the official checkout link. Pricing for the next summit was not published on the homepage at verification time.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for tourism-heavy rural operators in Grand County who need local economic and visitor-industry context.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-- Rural
-
-## Imported Coverage
-
-- Startup State ID: 2634 (slug `event-grand-summit-moab`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Rural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Carbon, Emery, Grand, San Juan
-- Listing modified: 2024-12-10T13:17:17
+Weaker fit for early-stage SaaS founders without a Moab market connection.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.grandsummitmoab.com/) · https://www.grandsummitmoab.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- When is the next Grand Summit Moab scheduled after 2024?
+- Which GOEO or chamber partners co-host the current edition?

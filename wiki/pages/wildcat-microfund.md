@@ -1,10 +1,10 @@
 # Wildcat MicroFund
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-**Primary Location:** Utah
+**Focus:** Funding, Start a Business
+**Primary Location:** Ogden, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.weber.edu/wildcat-microfund/
@@ -13,92 +13,38 @@
 
 ## Summary
 
-The Wildcat MicroFund, established in 2018 at Weber State University, provides early-stage entrepreneurs across Utah with grants of up to $3,000 to support the launch and growth of their businesses. Unlike traditional business competitions, the fund emphasizes execution by awarding funding based on the completion of specific milestones, utilizing frameworks like Lean Startup and Business Model Canvas to validate scalable business models. Since its inception, the Wildcat MicroFund has awarded over $780,000 to more than 300 entrepreneurs, fostering high-growth business opportunities throughout the state.
+Wildcat MicroFUND is a Weber State University seed fund that awards GetFUNDED cash grants of up to $3,000 to early-stage entrepreneurs and startup businesses across Utah. The official page says awards are grants, not loans, and that the fund takes no equity.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah early-stage founders who need small non-dilutive capital tied to milestone execution rather than a pitch competition. The program is statewide.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Cash awards up to $3,000 through GetFUNDED
+- Milestone-based funding using Lean Startup and Business Model Canvas framing
+- Business-network and capital-access support through Weber State's entrepreneurship ecosystem
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Follow current GetFUNDED instructions on the official page
 - [Official website](https://www.weber.edu/wildcat-microfund/) · https://www.weber.edu/wildcat-microfund/
 - Email: [wildcatmicrofund@weber.edu](mailto:wildcatmicrofund@weber.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/wildcat-microfund/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Grants are awards to founders, not fees paid by founders. Verify current application requirements and milestone expectations on the official page.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2618 (slug `wildcat-microfund`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Idea (pre-revenue), Product Built (pre-revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:52:26
-
+Best for Utah founders at idea or pre-revenue stage who can define concrete milestones and need a small grant to execute validation work. Not a substitute for angel or venture equity.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.weber.edu/wildcat-microfund/) · https://www.weber.edu/wildcat-microfund/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What milestones and timelines are required for current GetFUNDED awards?

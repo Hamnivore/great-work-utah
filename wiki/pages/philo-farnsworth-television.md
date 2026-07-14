@@ -8,8 +8,12 @@
 **Primary Location:** San Francisco, CA; Philadelphia, PA
 **Utah Location:** Beaver, UT
 **Region:** Beaver
+**Map Location:** 90 E Center St, Beaver, UT 84713
+**Coordinates:** 38.273964, -112.639821
+**Location Precision:** exact
+**Location Source:** https://www.roadsideamerica.com/story/27927
 **Website:** https://www.census.gov/about/history/stories/monthly/2023/september-2023.html
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Relates:** cites [U.S. Census Bureau — Philo Farnsworth and the Invention of Television (2023)](farnsworth-census-bureau-history.md) · https://greatutah.work/pages/farnsworth-census-bureau-history.md · https://www.census.gov/about/history/stories/monthly/2023/september-2023.html
 **Relates:** cites [Linda Hall Library — Philo Farnsworth Scientist of the Day](farnsworth-linda-hall-library.md) · https://greatutah.work/pages/farnsworth-linda-hall-library.md · https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/
 **Pull:** *A Utah-born farm boy sketched the idea for electronic television on a high-school chalkboard — and beat RCA to the patent.*

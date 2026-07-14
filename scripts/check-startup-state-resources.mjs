@@ -20,6 +20,26 @@ const ALIASES = {
   'startup-state': 'startup-state-resource-list',
   'five-county-association-of-governments-2': 'five-county-association-of-governments',
   'bear-river-association-of-governments-2': 'bear-river-association-of-governments',
+  'utah-league-of-cities-towns-ulct': 'utah-league-of-cities-and-towns-ulct',
+  'edc-utah-economic-development-corporation-of-utah':
+    'edcutah-economic-development-corporation-of-utah',
+  'utah-governors-office-of-economic-opportunity':
+    'utah-governor-s-office-of-economic-opportunity',
+  'wasatch-womens-business-alliance': 'wasatch-women-s-business-alliance',
+  'whats-up-down-south-economic-summit': 'event-what-s-up-down-south-economic-summit',
+  'silicon-slopes-tech-summit': 'event-silicon-slopes-tech-summit',
+  'one-utah-summit': 'event-one-utah-summit',
+  'business-forward': 'event-business-forward',
+  'mountain-west-capital-network': 'event-mountain-west-capital-network',
+  'utah-tech-week': 'event-utah-tech-week',
+  'sillicon-slopes': 'silicon-slopes',
+  'utahs-own-local-food-production': 'utah-s-own-local-food-production',
+  'utah-department-of-agriculture-food': 'utah-department-of-agriculture-and-food',
+  '47g-utah-aerospace-defense-association': '47g-utah-aerospace-and-defense-association',
+  'southern-utah-university-cedar-city-business-innovation-center':
+    'southern-utah-university-cedar-city-business-and-innovation-center',
+  'southern-utah-university-suu-larry-h-gail-miller-center-for-entrepreneurship':
+    'southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship',
 }
 
 async function fetchJson(url) {
@@ -64,8 +84,14 @@ function wikiIndex() {
     const raw = fs.readFileSync(path.join(PAGES, f), 'utf8')
     const title = (raw.match(/^# (.+)$/m) || [, stem])[1].trim()
     const website = (raw.match(/^\*\*Website:\*\* (.+)$/m) || [])[1] || ''
-    const csv = (raw.match(/Startup State CSV ID: (\d+)/) || [])[1]
-    const isStub = /bulk-imported from the Startup State/i.test(raw)
+    const csv =
+      (raw.match(/Startup State CSV ID: (\d+)/) || [])[1] ||
+      (raw.match(/\*\*Startup State ID:\*\* (\d+)/) || [])[1] ||
+      (raw.match(/Startup State ID: (\d+)/) || [])[1]
+    const isStub =
+      /bulk-imported from the Startup State/i.test(raw) ||
+      /Imported Coverage/i.test(raw) ||
+      Boolean(csv)
     const rec = { stem, title, website, csvId: csv ? Number(csv) : null, isStub, file: f }
     bySlug.set(stem, rec)
     if (csv) byCsvId.set(Number(csv), rec)
@@ -80,6 +106,31 @@ function resolveWiki(live, index) {
   const alias = ALIASES[live.slug]
   if (alias && index.bySlug.has(alias)) return index.bySlug.get(alias)
   return null
+}
+
+/** Normalize for compare: scheme, www, trailing slash, empty query noise */
+function normalizeUrl(u) {
+  try {
+    const url = new URL(String(u || '').trim())
+    url.protocol = 'https:'
+    url.hostname = url.hostname.replace(/^www\./, '')
+    url.hash = ''
+    // Drop empty / tracking-ish query noise Startup State sometimes appends
+    if (url.search === '?&v=latest' || url.search === '?') url.search = ''
+    let s = url.toString().replace(/\/$/, '')
+    return s
+  } catch {
+    return String(u || '')
+      .trim()
+      .replace(/^http:\/\//i, 'https://')
+      .replace(/\/$/, '')
+  }
+}
+
+function isWebsiteMismatch(wikiWebsite, liveWebsite) {
+  if (!wikiWebsite) return true
+  if (/startup\.utah\.gov\/resources\/?$/i.test(wikiWebsite)) return true
+  return normalizeUrl(wikiWebsite) !== normalizeUrl(liveWebsite)
 }
 
 async function main() {
@@ -137,21 +188,20 @@ async function main() {
       continue
     }
     matched.push({ live, wiki })
-    if (
-      live.website &&
-      (!wiki.website ||
-        wiki.website.includes('startup.utah.gov/resources') ||
-        wiki.website.replace(/\/$/, '') !== live.website.replace(/\/$/, ''))
-    ) {
+    if (live.website && isWebsiteMismatch(wiki.website, live.website)) {
       websiteWrong.push({ stem: wiki.stem, wikiWebsite: wiki.website, liveWebsite: live.website })
     }
   }
 
   const liveIds = new Set(catalog.map((c) => c.id))
   const liveSlugs = new Set(catalog.map((c) => c.slug))
-  const orphanStubs = index.stubs.filter(
-    (s) => !(s.csvId && liveIds.has(s.csvId)) && !liveSlugs.has(s.stem),
-  )
+  const matchedStems = new Set(matched.map((m) => m.wiki.stem))
+  const orphanStubs = index.stubs.filter((s) => {
+    if (matchedStems.has(s.stem)) return false
+    if (s.csvId && liveIds.has(s.csvId)) return false
+    if (liveSlugs.has(s.stem)) return false
+    return true
+  })
 
   const report = {
     checked_at: new Date().toISOString(),

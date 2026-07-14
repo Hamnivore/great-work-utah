@@ -7,8 +7,12 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 60 S 400 W, Salt Lake City, UT 84101
+**Coordinates:** 40.770946, -111.901932
+**Location Precision:** exact
+**Location Source:** https://www.nucleusutah.org/utif
 **Website:** https://www.nucleusutah.org/utif
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

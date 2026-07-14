@@ -13,85 +13,38 @@
 
 ## Summary
 
-The T.H.R.I.V.E. Emerging Leaders Reimagined program, offered by the U.S. Small Business Administration (SBA), is an intensive executive-level training series designed to accelerate the growth of high-potential small businesses. Over six months, participants engage in in-person coaching, self-paced instruction, mentoring, and classroom sessions, covering core business topics such as accounting, business strategy, marketing, and human resources. The program aims to equip small business executives with the skills and knowledge necessary to scale their operations and contribute to economic development.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the SBA program page and operator site (2026-07-14): T.H.R.I.V.E. Emerging Leaders Reimagined is a free, six-month executive training series for established small business owners, delivered through an online curriculum, in-person CEO mastermind sessions, one-on-one coaching, and a three-year strategic growth plan. The program is not for startups — it targets owners with at least three years in business, $250,000+ annual revenue, and at least one employee besides the owner.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Multicultural
-- New American
-- Rural
-- Student
-- Veteran
-- Women
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Established Utah small business owners and executives ready to scale — including women, veterans, rural, multicultural, and New American operators who meet the revenue, tenure, and employee thresholds. Not for pre-revenue founders or idea-stage entrepreneurs.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Late Stage Growth
+Hybrid executive education: interactive e-learning modules, live CEO mastermind sessions, SME Q&A, one-on-one business coaching, and a completed three-year growth action plan with benchmarks. Topics span accounting, strategy, marketing, HR, and operational scaling.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined) · https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
+- [SBA T.H.R.I.V.E. page](https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined) · https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
+- [Program application site](https://sbathrive.com/) · https://sbathrive.com/
 - Email: [sbathrivesupport@isomglobal.com](mailto:sbathrivesupport@isomglobal.com)
 - Startup State listing: https://startup.utah.gov/business-resource/sba-thrive/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Free to accepted participants (SBA and partners cover training costs; participants invest time over six months). Must be for-profit, in business at least three years, have annual revenues of at least $250,000, and employ at least one person other than the owner. Full program commitment required.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Late Stage Growth
-- Multicultural
-- New American
-- Rural
-- Student
-- Veteran
-- Women
-
-## Imported Coverage
-
-- Startup State ID: 2652 (slug `sba-thrive`)
-- Topics: Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: Multicultural, New American, Rural, Student, Veteran, Women
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:59:18
-
+A Utah owner-operator with real revenue and employees who needs structured executive education and a growth plan — weak fit for first-time founders or businesses under the revenue threshold.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined) · https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
+- [SBA T.H.R.I.V.E. page](https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined) · https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
+- [Program site](https://sbathrive.com/) · https://sbathrive.com/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which Utah cohort locations and application deadlines are active for the current cycle?
+- Are there Utah-specific partner organizations beyond the national operator (Isom Global Strategies)?

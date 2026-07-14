@@ -13,75 +13,38 @@
 
 ## Summary
 
-The Cynosure Group is an independent alternatives asset manager and advisor that makes long-term investments on behalf of families, foundations, and other like-minded institutions. Based in Salt Lake City, Utah.
+The Cynosure Group is an independent alternatives asset manager based in Salt Lake City. Its official site describes six business lines — private growth equity and credit, foundation/endowment portfolio management, integrated wealth management, a global equity long-short hedge fund, sports private equity, and real estate private equity — serving family offices, foundations, endowments, and like-minded institutional investors.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+For the wiki, Cynosure is an institutional capital and wealth platform, not a startup accelerator or founder-facing grant program.
 
+## Who It's For
 
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Family offices, foundations, endowments, and institutional investors seeking diversified alternative investment and wealth-management services. Not aimed at early-stage founders seeking venture capital or free business advising.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Funding
-- Late Stage Growth
+Institutional investment access across private growth equity, private credit, portfolio management, wealth advisory, hedge-fund strategies, sports PE, and real estate PE. The firm emphasizes collaborative, multi-discipline investment teams rooted in the Eccles family legacy.
 
 ## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://cynosuregroup.com/) · https://cynosuregroup.com/
 - Startup State listing: https://startup.utah.gov/business-resource/cynosure/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Cynosure is a private investment and advisory firm. The public site does not list founder-facing fees or open application programs.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2593 (slug `cynosure`)
-- Topics: Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:05:20
+High-net-worth families, foundations, and institutions evaluating alternative asset allocation. A weak fit for typical Startup State founders at idea or seed stage unless they are family-office principals evaluating capital deployment.
 
 
-## Evidence
+## Evidence## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://cynosuregroup.com/) · https://cynosuregroup.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Why is Cynosure listed in Startup State's founder resource filter — is there a Utah-facing community or portfolio program not visible on the public homepage?
+- Which Cynosure business lines accept new institutional clients today?

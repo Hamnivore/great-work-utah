@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** unknown
+**Focus:** Entrepreneurship Communities, Funding
+**Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.lialaunch.com/
@@ -13,70 +13,34 @@
 
 ## Summary
 
-LiaLaunch is a Utah-based strategic advisory and investment fund dedicated to championing women entrepreneurs by offering essential early-stage investment and unwavering support during the critical stages of business ideation, launch, and scale.
+LiaLaunch Ventures is a Utah-based strategic advisory and investment fund focused on women entrepreneurs. Verified on the official site (2026-07-14): it offers three pathways—strategic advisory (coaching and hands-on support, sometimes for equity), early-stage investment, and pitch competitions with coaching and judging panels.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The site emphasizes ideation-through-scale support rather than a single open-application accelerator format.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Women
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Women founders in Utah seeking early capital, structured business-launch guidance, or competition-based funding opportunities. Sector-agnostic at the marketing level; verify fit for each program path.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Strategic advisory with coaching and launch guides (company registration, business planning), early-stage investment for selected ventures, and pitch competitions that include expert coaching and investor/judge exposure. Each offering has its own "Learn more" path on the site.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://www.lialaunch.com/) · https://www.lialaunch.com/
+- Explore offerings: Strategic Advisory, Early Investment, Pitch Competitions (linked from homepage)
 - Email: [contact@lialaunch.com](mailto:contact@lialaunch.com)
 - Startup State listing: https://startup.utah.gov/business-resource/lialaunch/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Advisory engagements may involve equity exchange per the Strategic Advisory description; investment and competition eligibility are program-specific and not fully published on the homepage. Contact LiaLaunch to confirm current cohorts, check sizes, and competition windows.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Women founders who want Utah-based advisory plus potential early capital or a pitch-competition pathway.
 
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-- Women
-
-## Imported Coverage
-
-- Startup State ID: 3519 (slug `lialaunch`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: Women
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-05-28T10:21:51
-
+Less useful for founders seeking large growth-equity rounds, non-equity grant funding, or open rolling applications with published term sheets.
 
 ## Evidence
 
@@ -86,6 +50,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current investment check sizes, sectors, and application deadlines?
+- How often do pitch competitions run and what equity or fee terms apply to advisory participants?

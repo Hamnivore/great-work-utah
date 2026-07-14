@@ -7,9 +7,13 @@
 **Era:** March 23, 1989 announcement; controversy through 1989-1990
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Domain:** culture-place, energy
 **Region:** Salt Lake City
+**Map Location:** University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112
+**Coordinates:** 40.7644827, -111.8503646
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112
 **Website:** https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann
 **Pull:** *A press conference before peer review turned the University of Utah into the center of a global controversy — and a lasting lesson in how not to announce a discovery.*
 **Relates:** cites [Source: Axios Salt Lake City — Cold Fusion 35 Years Later](axios-cold-fusion-35-years.md) · https://greatutah.work/pages/axios-cold-fusion-35-years.md · https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann

@@ -7,8 +7,15 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, Lehi, and St. George, UT
 **Region:** statewide
+**Map Location:** Kirton McConkie Building, 50 E South Temple, Suite 400, Salt Lake City, UT 84111
+**Coordinates:** 40.7690737, -111.8897398
+**Location Precision:** exact
+**Location Source:** https://www.kirtonmcconkie.com/contact/
+**Additional Map Location:** KeyBank Tower, 36 S State St, Suite 1900, Salt Lake City, UT 84111 | 40.7684211, -111.8885015 | exact | https://www.kirtonmcconkie.com/contact/
+**Additional Map Location:** 2600 W Executive Pkwy, Suite 400, Lehi, UT 84048 | 40.4277780, -111.8919324 | exact | https://www.kirtonmcconkie.com/contact/
+**Additional Map Location:** 301 N 200 E, Suite 3A, St. George, UT 84770 | 37.1134047, -113.5796157 | exact | https://www.kirtonmcconkie.com/contact/
 **Website:** https://www.kirtonmcconkie.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

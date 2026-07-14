@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 350 N Redwood Rd, Salt Lake City, UT 84116
+**Coordinates:** 40.776965, -111.938124
+**Location Precision:** exact
+**Location Source:** https://gopb.utah.gov/wp-content/uploads/2024/02/ERG2024.pdf
 **Website:** https://ag.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide

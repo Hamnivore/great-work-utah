@@ -7,6 +7,10 @@
 **Primary Location:** Five County region, UT
 **Utah Location:** Beaver, Garfield, Iron, Kane, and Washington counties, UT
 **Region:** Five County region
+**Map Location:** 1070 W 1600 S, Building B, St. George, UT 84770
+**Coordinates:** 37.081333, -113.606188
+**Location Precision:** exact
+**Location Source:** https://fivecountyecon.org/contact/
 **Website:** http://www.fivecounty.utah.gov/
 **Updated:** 2026-07-14
 **Layout:** field-guide

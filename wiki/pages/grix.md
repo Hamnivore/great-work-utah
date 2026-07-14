@@ -1,10 +1,10 @@
 # Grix
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
-**Primary Location:** Utah
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.grix.vc/
@@ -13,64 +13,36 @@
 
 ## Summary
 
-Grix Venture Capital, based in Salt Lake City, Utah, focuses on pre-seed investments in enterprise software startups. The firm supports companies from "Day Zero" with funding and expertise, particularly in software, artificial intelligence, and B2B solutions, across North America and Europe
+Grix Venture Capital is a Salt Lake City-based firm describing itself on its official site as first-capital investors in AI and B2B software startups. The public site is minimal but live and positions Grix at the earliest company-formation stage.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Software and Information Technology
+Pre-seed founders building AI or B2B software who want a Utah-connected first institutional or quasi-institutional capital partner.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Pre-seed venture capital focused on AI and B2B software
+- Early founder backing from formation stage
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Reach out through the official site contact paths
 - [Official website](https://www.grix.vc/) · https://www.grix.vc/
 - Startup State listing: https://startup.utah.gov/business-resource/grix/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Equity investment; no public fee or check-size schedule on the homepage.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2607 (slug `grix`)
-- Topics: Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:42:44
-
+Utah pre-seed software and AI founders. Weak fit for hardware, life sciences, or growth-stage capital because the site emphasizes first-capital B2B software.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.grix.vc/) · https://www.grix.vc/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What check sizes, sectors beyond AI/B2B, and application process does Grix use in practice?

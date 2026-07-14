@@ -3,78 +3,44 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** Washington County, UT
-**Utah Location:** Washington County, UT
-**Region:** Washington County
+**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Primary Location:** St. George, UT
+**Utah Location:** Washington County, UT; Beaver, Garfield, Iron, Kane counties
+**Region:** southwestern Utah
 **Website:** https://soutah.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The SoUtah Economic Alliance promotes economic development in Washington County, Utah, by highlighting the region's business-friendly environment, diverse economy, and high quality of life. The alliance provides information on regional job growth, median household income, and population statistics to attract businesses and investors. Additionally, it organizes events like the "What's Up Down South" Economic Summit to inform and engage the business community.
+The Southern Utah Economic Alliance (So.Utah) drives regional economic growth across five southwestern Utah counties through public-private collaboration. Verified on the official site (2026-07-14): it offers site-selector toolkits, downloadable regional and aerospace economic profiles, and tailored paths for cities, businesses, and site selectors evaluating expansion in southern Utah.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+So.Utah also promotes regional statistics (job growth, tourism, tax environment) to attract employers.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses expanding or relocating in Beaver, Garfield, Iron, Kane, and Washington counties; municipal leaders aligning regional grant and growth strategies; and site selectors needing workforce and site data.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Regional economic profiles, site-selector toolkit access, business expansion/relocation support messaging, incentive-navigation help, and connections to local resources. Public pathways on the site are segmented for cities, site selectors, and businesses.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://soutah.org/) · https://soutah.org/
+- Site selector toolkit and profile downloads linked from homepage
+- "Grow with us" business path on the homepage
 - Startup State listing: https://startup.utah.gov/business-resource/soutah-economic-alliance/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Public regional marketing and toolkit resources appear free; any project-specific incentives depend on city/county programs So.Utah helps navigate. Contact through the site for business expansion support.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Growth-stage employers and site selectors evaluating southern Utah relocation or expansion with a regional lens.
 
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2736 (slug `soutah-economic-alliance`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Washington
-- Listing modified: 2024-12-11T10:50:15
-
+Less useful for very early ideation-stage founders without a facility or hiring plan.
 
 ## Evidence
 
@@ -84,6 +50,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What is the direct staff contact for business expansion inquiries?
+- How does So.Utah coordinate with Five County AOG and individual city economic-development offices?

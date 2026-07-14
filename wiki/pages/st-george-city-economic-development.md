@@ -7,6 +7,10 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Map Location:** 175 E 200 N, St. George, UT 84770
+**Coordinates:** 37.112018, -113.579684
+**Location Precision:** exact
+**Location Source:** https://www.utah.gov/pmn/sitemap/publicbody/1087.html
 **Website:** https://sgcityutah.gov/departments/economic_development/index.php
 **Updated:** 2026-07-14
 **Layout:** field-guide

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Focus:** Entrepreneurship Communities, Start a Business, Funding
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
@@ -17,92 +17,36 @@
 
 ## Summary
 
-The Hub at Bridgerland Technical College is a dedicated resource center designed to support entrepreneurs and small businesses in northern Utah. It provides services like business coaching, training, and networking opportunities to help businesses launch, grow, and thrive. With a focus on innovation and collaboration, The Hub empowers local businesses to achieve their goals and strengthen the community.
+The Hub at Bridgerland Technical College is a Business & Innovation Hub in Logan serving northern Utah entrepreneurs. The official site combines free or low-cost business counseling, an Innovation Zone makerspace, a shared incubator kitchen, Custom Fit workforce training, business education workshops, and APEX government-contracting assistance for Cache, Box Elder, and Rich counties.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Entrepreneurs and small businesses in Box Elder, Cache, and Rich counties at any stage — including food businesses needing a certified kitchen, makers needing prototyping equipment, and companies pursuing government contracts.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+One-on-one business counseling (startup, merger/acquisition, sale, planning, finance, marketing, sales); Innovation Zone makerspace with photo/video lab, sound booth, 3D printers, laser engraver, CNC, sewing, and vinyl tools; certified commercial incubator kitchen; Custom Fit customized workforce training; business education workshops and incubator office space; and APEX regional government-contracting support.
 
 ## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://thehubatbtech.org/) · https://thehubatbtech.org/
 - Email: [malexander@btech.edu](mailto:malexander@btech.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/the-hub-at-bridgerland-technical-college/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Business counseling is described as free or low-cost on the site. Kitchen, makerspace, training, and incubator space carry separate fee schedules — confirm before reserving equipment or kitchen time.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2572 (slug `the-hub-at-bridgerland-technical-college`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Box Elder, Cache, Rich
-- Listing modified: 2025-04-24T12:55:06
-
+Northern Utah founders who need counseling plus physical infrastructure (kitchen, makerspace, office) in one Logan facility. A weaker fit for companies outside the three-county APEX region or those seeking venture equity only.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://thehubatbtech.org/) · https://thehubatbtech.org/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current makerspace certification requirements and kitchen rental rates?
+- How do founders schedule APEX advising versus general business counseling?

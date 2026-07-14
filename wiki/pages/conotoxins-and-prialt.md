@@ -7,9 +7,13 @@
 **Era:** late 1970s-present; founding peptide discovered 1979, Prialt approved December 2004
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Domain:** health-bio
 **Region:** Salt Lake City
+**Map Location:** University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112
+**Coordinates:** 40.7644827, -111.8503646
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112
 **Website:** https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/
 **Pull:** *A Utah lab read cone-snail venom as an evolved chemical library and pulled a first-in-class painkiller out of it.*
 **Relates:** cites [University of Utah News — New Painkiller Was Born in Utah](conotoxins-utah-news-release.md) · https://greatutah.work/pages/conotoxins-utah-news-release.md · https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/

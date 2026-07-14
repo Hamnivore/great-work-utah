@@ -2,78 +2,43 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
+**Confidence:** Low
 **Focus:** Funding, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/get-started/
+**Website:** https://startup.utah.gov/business-resource/get-started-business-idea-challenge/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The Utah Startup State Initiative's "Get Started: Business Idea Challenge" is a milestone grant program designed to help Utah residents validate and develop early-stage business ideas. Participants can receive up to $500 in non-equity funding to achieve specific milestones, such as idea validation, prototyping, or marketing, within 30-90 days. This supportive environment encourages entrepreneurs to present their concepts without the high pressure of traditional pitch competitions.
+The Get Started: Business Idea Challenge is listed by Utah's Startup State Initiative as a milestone-style grant/competition for early-stage Utah entrepreneurs. The program appears on the official Startup State funding journey page under business competitions, but the former standalone URL (`/get-started/`) returned 404 and the business-resource card did not expose detailed terms in automated fetches.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+Treat Startup State import claims — up to $500 in non-equity milestone funding within 30–90 days — as unverified until a live official page restates them.
 
+## Who It's For
 
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Multicultural
-- New American
-- Rural
-- Student
-- Veteran
-- Women
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah residents with very early business ideas who may qualify for low-pressure milestone funding rather than a traditional pitch competition, especially founders tagged in Startup State as multicultural, rural, student, veteran, or women entrepreneurs.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+Startup State and the official funding journey page reference the Business Idea Challenge alongside other Utah competitions. Specific milestone amounts, timelines, and application mechanics could not be verified from a readable live program page on 2026-07-14.
 
-- Funding
-- Start a Business
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://startup.utah.gov/get-started/) · https://startup.utah.gov/get-started/
+- [Startup State business-resource card](https://startup.utah.gov/business-resource/get-started-business-idea-challenge/) · https://startup.utah.gov/business-resource/get-started-business-idea-challenge/
+- [Fund your small business — competitions list](https://startup.utah.gov/fund-small-business/) · https://startup.utah.gov/fund-small-business/
 - Email: [startup@utah.gov](mailto:startup@utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/get-started-business-idea-challenge/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Not verified. If the program is a grant/competition, participant cost (if any) should be confirmed directly with Startup State staff before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-- Start a Business
-- Multicultural
-- New American
-- Rural
-- Student
-- Veteran
-- Women
+Potential fit for idea-stage Utah founders who need a small validation budget and prefer milestone-based progress over high-stakes pitch events — but only after confirming the program is actively accepting applications.
 
 ## Imported Coverage
 
@@ -81,19 +46,16 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - Topics: Funding, Start a Business
 - Stages: Idea (pre-revenue), Product Built (pre-revenue)
 - Communities: Multicultural, New American, Rural, Student, Veteran, Women
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Industries: broad industry list on Startup State card
+- Locations: statewide (all 29 counties on Startup State card)
 - Listing modified: 2024-12-10T12:56:30
-
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
+- [Startup State fund-your-business page](https://startup.utah.gov/fund-small-business/) · https://startup.utah.gov/fund-small-business/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://startup.utah.gov/get-started/) · https://startup.utah.gov/get-started/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is the Business Idea Challenge actively running, and where is the current application form?
+- What are the verified award size, milestone rules, and eligibility constraints today?

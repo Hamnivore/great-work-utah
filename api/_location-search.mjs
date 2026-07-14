@@ -1,6 +1,6 @@
 const EARTH_RADIUS_MILES = 3958.7613
 const MAX_RADIUS_MILES = 500
-const MAX_LIMIT = 500
+const MAX_LIMIT = 1000
 import UTAH_PLACES from './_utah-places.mjs'
 
 const ALLOWED_PARAMS = new Set(['q', 'near', 'lat', 'lon', 'radius_miles', 'limit', 'type', 'domain', 'precision'])
@@ -74,6 +74,7 @@ export function searchLocations(collection, rawQuery = {}, { baseUrl = '' } = {}
     const fullDistance = origin ? distanceMiles(origin, geometry.coordinates) : null
     if (fullDistance != null && radius != null && fullDistance > radius) return []
     return [{
+      id: properties.siteId || properties.url,
       title: properties.title,
       type: properties.type,
       page: `${baseUrl}${properties.url}`,
@@ -88,6 +89,8 @@ export function searchLocations(collection, rawQuery = {}, { baseUrl = '' } = {}
         distanceMiles: fullDistance == null ? null : Math.round(fullDistance * 100) / 100,
         provenance: properties.provenance,
         anchorKind: properties.anchorKind,
+        siteIndex: properties.siteIndex || 0,
+        siteCount: properties.siteCount || 1,
       },
       _distance: fullDistance,
     }]
@@ -100,6 +103,9 @@ export function searchLocations(collection, rawQuery = {}, { baseUrl = '' } = {}
   const hasApproximate = returned.some((result) => result.location.precision === 'approximate')
   const sitePoints = collection.features.filter((feature) => feature.properties.anchorKind === 'site').length
   const regionalPoints = collection.features.length - sitePoints
+  const publishedPages = new Set(collection.features.map((feature) => feature.properties.url)).size
+  const sitePages = new Set(collection.features.filter((feature) => feature.properties.anchorKind === 'site').map((feature) => feature.properties.url)).size
+  const regionalPages = new Set(collection.features.filter((feature) => feature.properties.anchorKind === 'regional').map((feature) => feature.properties.url)).size
 
   return {
     query: {
@@ -116,8 +122,11 @@ export function searchLocations(collection, rawQuery = {}, { baseUrl = '' } = {}
     },
     coverage: {
       publishedPoints: collection.features.length,
+      publishedPages,
       sitePoints,
+      sitePages,
       regionalPoints,
+      regionalPages,
       matchedPoints: results.length,
       returnedPoints: returned.length,
       truncated: results.length > returned.length,

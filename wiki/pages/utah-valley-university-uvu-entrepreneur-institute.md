@@ -7,6 +7,10 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
+**Map Location:** UVU Baugh Entrepreneurship Institute, 800 W University Pkwy, KB 102, Orem, UT 84058
+**Coordinates:** 40.2810780, -111.7164560
+**Location Precision:** exact
+**Location Source:** https://www.uvu.edu/woodbury/entrepreneurship/
 **Website:** https://www.uvu.edu/woodbury/entrepreneurship/
 **Updated:** 2026-07-14
 **Layout:** field-guide

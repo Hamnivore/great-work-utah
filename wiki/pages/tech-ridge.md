@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Focus:** Relocate a Business to Utah, Start a Business, Entrepreneurship Communities
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -17,91 +17,40 @@
 
 ## Summary
 
-Tech Ridge is a 180-acre mixed-use development in St. George, Utah, transforming the former municipal airport site into a hub for innovative tech companies, residential communities, and recreational spaces. The master plan includes over one million square feet of office space, diverse retail zones, and a variety of housing options, all integrated with 60 acres of trails, parks, and open spaces to promote a dynamic social lifestyle. Current developments feature the Planstin Building, Hangar C, and the Container Park, with companies like Zonos and Intergalactic establishing their presence, contributing to the region's economic growth and technological advancement.
+Tech Ridge is a 180-acre mixed-use development on a former St. George municipal airport site, built as a tech-oriented office, retail, and residential campus with trails and outdoor amenities. Current and planned offerings include creative office campuses (Container Park, Terminal 1), residential communities, and tenant amenities aimed at companies relocating to or scaling in Washington County.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Companies — especially tech and growth-stage employers — seeking office, retail, or residential space in St. George with a campus environment rather than a generic suburban lease.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The official site markets office availability (Container Park shipping-container creative offices, Terminal 1 Class A creative office campus), retail space, residential options (including Signal Peak Apartments), fitness amenities (333-step stair path, 5K Rim Trail access), event pavilion space, and on-site property management contact for leasing inquiries.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
+## How To Access
 
 - [Official website](https://techridge.com/) · https://techridge.com/
+- Contact: 475 S. Donlee Dr., St. George, UT 84770 · +1 435-850-7820
+- [Office availability](https://techridge.com/) · https://techridge.com/
 - Startup State listing: https://startup.utah.gov/business-resource/tech-ridge/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Leasing and purchase terms are negotiated per space; no public rate sheet on the homepage. Contact Tech Ridge for current availability and pricing.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Best for founders or operators with a credible need to locate team office space in St. George — especially companies that value campus amenities and Southern Utah recruiting/lifestyle positioning.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2632 (slug `tech-ridge`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Garfield, Iron, Kane, Washington
-- Listing modified: 2024-12-10T13:11:05
+Not a fit for founders seeking grants, mentorship, or virtual statewide advising without a physical expansion plan.
 
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://techridge.com/) · https://techridge.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which anchor tenants are currently on-site beyond those named in press coverage?
+- Are startup-friendly short-term or flex leases available?

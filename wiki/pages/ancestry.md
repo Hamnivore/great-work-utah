@@ -8,8 +8,12 @@
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
+**Map Location:** 1300 W Traverse Pkwy, Lehi, UT 84043
+**Coordinates:** 40.4352302, -111.8714967
+**Location Precision:** exact
+**Location Source:** https://www.ancestry.com/corporate/contact
 **Website:** https://www.ancestry.com/
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Relates:** cites [Official Website: Ancestry](ancestry-official-website.md) · https://greatutah.work/pages/ancestry-official-website.md · https://www.ancestry.com/
 **Relates:** cites [Blackstone Acquisition of Ancestry](ancestry-blackstone-acquisition.md) · https://greatutah.work/pages/ancestry-blackstone-acquisition.md · https://www.blackstone.com/news/press/blackstone-completes-acquisition-of-ancestry-leading-online-family-history-business-for-4-7-billion/

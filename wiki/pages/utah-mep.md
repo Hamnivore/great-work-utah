@@ -7,6 +7,10 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 1495 E 100 S, MEK 1012, Salt Lake City, UT 84112
+**Coordinates:** 40.767075, -111.848629
+**Location Precision:** exact
+**Location Source:** https://utah-mep.org/contact-us/
 **Website:** https://utah-mep.org/
 **Updated:** 2026-07-14
 **Layout:** field-guide

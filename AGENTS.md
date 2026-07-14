@@ -25,6 +25,19 @@ raw markdown at `/pages/<slug>.md`, `/views/<view>.md`, `/meta/<doc>.md`. A mini
   GitHub issues and pages into review-gated PRs. It needs `GITHUB_TOKEN`.
 - Keep `public/llms.txt` accurate — it is the entire agent interface.
 
+## Startup State resource coverage
+
+`https://startup.utah.gov/resources/` is mirrored as wiki resource pages. Keep coverage current:
+
+- `npm run startup-state:check` — fetch live WP `business-resource` CPT, write
+  `research/startup-state/coverage-report.md` + `live-catalog.json`. Reports resources on
+  startup.utah.gov that lack a wiki page (and wiki stubs no longer on the live list).
+- `npm run startup-state:check:strict` — same, exit 1 if any live resource is missing on the wiki.
+- `npm run startup-state:sync` — refresh Website / Focus / Summary / access fields from the live
+  API onto matching wiki pages (does not invent editorial Best Fits copy).
+
+Slug mismatches live in `ALIASES` inside both scripts. See `research/startup-state/README.md`.
+
 ## Before designing anything
 
 Read `research/README.md`. It holds standing maintainer directives (radical simplicity,

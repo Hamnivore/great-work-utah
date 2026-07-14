@@ -7,6 +7,10 @@
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
+**Map Location:** Logan City Hall, 290 N 100 W, Logan, UT 84321
+**Coordinates:** 41.7369727, -111.8373586
+**Location Precision:** exact
+**Location Source:** https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
 **Website:** https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
 **Updated:** 2026-07-14
 **Layout:** field-guide

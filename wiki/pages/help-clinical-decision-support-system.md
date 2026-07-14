@@ -8,8 +8,12 @@
 **Primary Location:** LDS Hospital, Salt Lake City, UT
 **Utah Location:** LDS Hospital and University of Utah, Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** LDS Hospital, 8th Avenue and C Street, Salt Lake City, UT 84143
+**Coordinates:** 40.7785080, -111.8805543
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=LDS+Hospital+8th+Avenue+and+C+Street+Salt+Lake+City+UT
 **Website:** https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/;
-**Updated:** 2026-05-16
+**Updated:** 2026-07-14
 **Pull:** *Long before EHRs became ordinary, a Salt Lake City hospital system showed computers could participate in care while care was happening.*
 
 ## Summary

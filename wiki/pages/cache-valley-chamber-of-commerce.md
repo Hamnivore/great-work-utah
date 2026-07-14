@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
 **Primary Location:** Cache County, UT
 **Utah Location:** Cache County, UT
 **Updated:** 2026-07-14
@@ -18,69 +18,31 @@
 
 ## Summary
 
-The Cache Valley Chamber of Commerce promotes economic growth and community development in the Cache Valley region. It offers resources, advocacy, and networking opportunities to support businesses of all sizes. Through events and initiatives, the Chamber fosters collaboration and strengthens the local economy.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on the official site (2026-07-14): The Cache Valley Chamber of Commerce serves Cache Valley businesses with networking, advocacy, a business directory, events, and programs such as Women in Business and Leadership Lunch. Public pages emphasize credibility, community visibility, and tools for local business growth.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Business owners and operators in Cache County and the broader Cache Valley who want a local chamber network, event access, and regional business visibility.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Membership benefits include a business directory, newsletter, event calendar, networking programs (including Women in Business and Leadership Lunch), and chamber advocacy. The site also highlights Entrepreneurial Latinos of Northern Utah as a related community event.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://cachechamber.com/) · https://cachechamber.com/
 - Email: [info@cachechamber.com](mailto:info@cachechamber.com)
+- [Join the chamber](https://cachechamber.com/) · https://cachechamber.com/
+- [Events calendar](https://business.cachechamber.com/events/calendar) · https://business.cachechamber.com/events/calendar
 - Startup State listing: https://startup.utah.gov/business-resource/cache-valley-chamber-of-commerce/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Paid chamber membership; join through the official site for current tiers and pricing. Serves Cache Valley businesses.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2672 (slug `cache-valley-chamber-of-commerce`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Cache
-- Listing modified: 2024-12-10T17:19:24
-
+Logan-area and Cache Valley founders who need local networking, credibility, and recurring business events rather than statewide capital or accelerator programs.
 
 ## Evidence
 
@@ -88,8 +50,3 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://cachechamber.com/) · https://cachechamber.com/
 
-## Open Questions
-
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

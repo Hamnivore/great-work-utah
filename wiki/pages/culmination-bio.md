@@ -8,8 +8,12 @@
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
+**Map Location:** 600 S Medical Center Dr, Suite 300, St. George, UT 84790
+**Coordinates:** 37.098317, -113.550770
+**Location Precision:** exact
+**Location Source:** https://bioutah.org/culmination-bio-raises-10m-from-amgen-ventures-and-merck-global-health-innovation-fund-to-bring-longitudinal-health-data-to-biopharma/
 **Website:** https://www.culmination.com
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/culmination-bio-clinical-data-2026/1600/1100
 **Pull:** *Forty years of Intermountain patient records — clinical, omics, tissue, and claims — organized for discovery partnerships.*

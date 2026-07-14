@@ -3,83 +3,48 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Other
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Utah State University, Logan, UT
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/resources/
+**Website:** https://uwlp.usu.edu/abwf
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-The "A Bolder Way Forward" initiative by Utah State University's Utah Women & Leadership Project aims to make Utah a leading state for women-owned businesses in terms of growth and longevity. The Entrepreneurship spoke of this initiative focuses on eliminating barriers such as limited access to capital, mentors, affordable childcare, and awareness of business training and resources that hinder women from starting and sustaining successful businesses. By addressing these challenges, the program seeks to empower more Utah women to thrive as entrepreneurs, thereby enhancing the state's economic vitality.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on uwlp.usu.edu/abwf and Startup State (2026-07-14): A Bolder Way Forward is a statewide initiative housed in Utah State University's Utah Women & Leadership Project (UWLP). Its Entrepreneurship spoke targets barriers that limit women-owned business growth and longevity in Utah — including access to capital, mentors, affordable childcare, and awareness of business training resources — through research, convenings, toolkits, and community partnerships.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Women
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah women entrepreneurs and the organizations that support them — statewide, across industries and business stages listed on Startup State.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Other
+Research-based resources, toolkits, women's network directories, a community calendar of Utah events for girls and women, trainings, and the Entrepreneurship spoke's focus on removing structural barriers to women-owned business success. UWLP also publishes policy briefs and hosts events through USU.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
+- [A Bolder Way Forward](https://uwlp.usu.edu/abwf) · https://uwlp.usu.edu/abwf
+- [UWLP resource toolkits](https://uwlp.usu.edu/uwlp/resources/toolkits.php) · https://uwlp.usu.edu/uwlp/resources/toolkits.php
+- [Utah women's networks directory](https://uwlp.usu.edu/uwlp/resources/utah-womens-groups.php) · https://uwlp.usu.edu/uwlp/resources/utah-womens-groups.php
 - Email: [uwlp@usu.edu](mailto:uwlp@usu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/a-bolder-way-forward/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Public research and many UWLP resources are free. Event-specific fees vary; check individual event listings on the community calendar.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Other
-- Women
-
-## Imported Coverage
-
-- Startup State ID: 2651 (slug `a-bolder-way-forward`)
-- Topics: Other
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Women
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:38:02
-
+Utah women founders or operators seeking research-backed community resources and statewide women's entrepreneurship advocacy — pair with [Women's Business Center of Utah](womens-business-center-of-utah.md) for direct business advising.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
+- [A Bolder Way Forward](https://uwlp.usu.edu/abwf) · https://uwlp.usu.edu/abwf
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which Entrepreneurship-spoke programs have a clear apply-or-attend path versus research-only outputs?
+- How should agents route founders to UWLP vs. WBCUtah vs. WWBA for overlapping women-founder needs?

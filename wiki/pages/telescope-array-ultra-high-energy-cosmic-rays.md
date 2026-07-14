@@ -8,8 +8,12 @@
 **Primary Location:** West of Delta, UT
 **Utah Location:** Millard County, UT
 **Region:** Millard County
+**Map Location:** 648 W Main St, Delta, UT 84624
+**Coordinates:** 39.352837, -112.589761
+**Location Precision:** exact
+**Location Source:** https://www.ksl.com/article/17546079
 **Website:** https://www.telescopearray.org/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
 **Hero:** /img/heroes/front/telescope-array-1600.webp
 **Hero caption:** *The Black Rock Mesa fluorescence-detector site of the Telescope Array, west of Delta, Utah — photograph by John N. Matthews / telescopearray.org (Wikimedia Commons, CC BY-SA 3.0).*

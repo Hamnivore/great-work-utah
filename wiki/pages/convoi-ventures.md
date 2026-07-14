@@ -9,6 +9,10 @@
 **Updated:** 2026-07-14
 **Domain:** capital-programs
 **Region:** statewide
+**Map Location:** 336 E University Pkwy, Orem, UT 84058
+**Coordinates:** 40.272345, -111.687226
+**Location Precision:** exact
+**Location Source:** https://www.sec.gov/Archives/edgar/data/2023817/000202381724000001/xslFormDX01/primary_doc.xml
 **Website:** https://www.convoiventures.com/
 **Layout:** field-guide
 

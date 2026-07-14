@@ -1,9 +1,9 @@
 # Vision Iron County
 
 **Type:** resource
-**Status:** Draft
-**Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Status:** Stub
+**Confidence:** Low
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Iron County, UT
 **Utah Location:** Iron County, UT
 **Region:** Iron County
@@ -13,73 +13,31 @@
 
 ## Summary
 
-Vision Iron County (VIC) is a nonprofit organization dedicated to guiding the sustainable growth and development of Iron County, Utah. Established in 2017, VIC brings together community stakeholders to address key areas such as natural resource management, land use planning, transportation, and economic development. Through initiatives like the Vision 2050 survey, VIC gathers resident input to align community priorities with future planning efforts.
+Vision Iron County (VIC) appeared in the Startup State import as a Cedar City-area nonprofit focused on sustainable county growth, Vision 2050 community planning, and economic-development stakeholder coordination.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+On 2026-07-14, `visionironcounty.org` resolves to a domain-parking landing page (`window.LANDER_SYSTEM="PW"`) with no organization content. Treat historical Startup State claims as unverified until an active official site, successor organization, or partner page confirms current programming.
 
+## Who It's For
 
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Rural
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+The import pointed to rural Iron County stakeholders — businesses, residents, and community leaders involved in long-range planning and economic development. Active intake paths could not be verified on the current domain.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+The CSV described community planning surveys (Vision 2050), stakeholder coordination on land use, transportation, natural resources, and economic development. None of this is confirmed on the live domain today.
 
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://visionironcounty.org/) · https://visionironcounty.org/
-- Email: [office@cedarcitychamber.org](mailto:office@cedarcitychamber.org)
+- Listed URL (parked): https://visionironcounty.org/
+- Alternate contact from Startup State import: [office@cedarcitychamber.org](mailto:office@cedarcitychamber.org) via Cedar City Area Chamber of Commerce
 - Startup State listing: https://startup.utah.gov/business-resource/vision-iron-county/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Not verified. Do not recommend based on the parked domain alone.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-- Rural
+If VIC is inactive, route Iron County founders to verified neighbors such as [Southern Utah University Cedar City Business and Innovation Center](southern-utah-university-cedar-city-business-and-innovation-center.md) or Cedar City chamber/economic-development contacts instead.
 
 ## Imported Coverage
 
@@ -87,19 +45,16 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 - Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
 - Communities: Rural
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Industries: broad industry list on Startup State card
 - Locations: Beaver, Garfield, Iron, Kane, Washington
 - Listing modified: 2024-12-10T13:08:25
 
-
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://visionironcounty.org/) · https://visionironcounty.org/
+- Domain check 2026-07-14: https://visionironcounty.org/ (parking lander, no org content)
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Did Vision Iron County merge into another Iron County economic-development entity?
+- Is there an archived official site or successor URL?

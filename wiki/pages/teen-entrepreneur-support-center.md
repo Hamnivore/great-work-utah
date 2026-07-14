@@ -2,8 +2,8 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+**Confidence:** Low
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -13,60 +13,28 @@
 
 ## Summary
 
-The Teen Entrepreneur Support Center is dedicated to empowering young entrepreneurs by providing free resources, mentorship, and support to help them achieve business success. The center connects aspiring teen business owners with experienced mentors from various industries, offering guidance on building, growing, and scaling their ventures. Additionally, the center organizes events, workshops, and networking opportunities to foster a collaborative entrepreneurial community.
+The Teen Entrepreneur Support Center is listed on Startup State as a statewide resource that connects teen business owners with mentorship, workshops, events, and free support to build and scale ventures. Automated verification of the official site was blocked by Cloudflare during this review, so live program details could not be reconfirmed from the homepage.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Student
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Teen and student entrepreneurs in Utah seeking mentorship, workshops, and peer community around early business ideas and revenue-stage youth ventures.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
+Per the Startup State listing: mentorship from experienced operators, events and workshops, networking opportunities, and free resources aimed at teen founders. Treat specific program names, schedules, and mentor categories as unverified until the site is reachable.
 
 ## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://teenentrepreneurship.org/) · https://teenentrepreneurship.org/
 - Startup State listing: https://startup.utah.gov/business-resource/teen-entrepreneur-support-center/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The Startup State listing describes free resources. Confirm whether any events or cohorts carry fees once the official site is accessible.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Marketing and Sales
-- Start a Business
-- Student
+Utah teens with a business idea or early venture who need mentor access and structured youth entrepreneurship programming — pending confirmation that the organization is actively operating.
 
 ## Imported Coverage
 
@@ -78,7 +46,6 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
 - Listing modified: 2024-12-10T09:33:58
 
-
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
@@ -87,6 +54,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is teenentrepreneurship.org still the active program site, and what is the current apply or contact path?
+- Which mentorship and workshop offerings are running in 2026?

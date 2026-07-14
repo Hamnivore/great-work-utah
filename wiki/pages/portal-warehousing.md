@@ -7,6 +7,10 @@
 **Primary Location:** Northern Utah
 **Utah Location:** Davis County, Morgan County, Salt Lake County, Tooele County, Weber County
 **Region:** Northern Utah
+**Map Location:** Portal Warehousing Salt Lake City, 1580 S 500 W, Suite 100, Salt Lake City, UT 84115
+**Coordinates:** 40.7359301, -111.9054801
+**Location Precision:** exact
+**Location Source:** https://www.join-portal.com/location/salt-lake-city
 **Website:** https://www.join-portal.com/location/salt-lake-city
 **Updated:** 2026-07-14
 **Layout:** field-guide

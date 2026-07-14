@@ -21,9 +21,9 @@ The Lassonde Entrepreneurship Institute is the University of Utah's hub for stud
 
 For the wiki, Lassonde is a priority university entrepreneurship resource because it combines student community, residential entrepreneurship, workshops, seed funding, competitions, startup launch support, and academic pathways.
 
-## Who It Helps
+## Who It's For
 
-Lassonde helps University of Utah students from any discipline who want to explore entrepreneurship, join a founder community, form a team, test an idea, build a product, apply for seed funding, compete, live in an entrepreneurship environment, or launch a venture.
+University of Utah students from any discipline who want to explore entrepreneurship, join a founder community, form a team, test an idea, build a product, apply for seed funding, compete, live in an entrepreneurship environment, or launch a venture.
 
 It can also be relevant to alumni and community partners, but the core public positioning is student-facing.
 
@@ -51,17 +51,6 @@ Eligibility is primarily tied to University of Utah students. Public pages indic
 Lassonde is an excellent fit for a University of Utah student or student team that wants a campus-based entrepreneurship ecosystem rather than a single advising appointment.
 
 It is less direct for nonstudent founders, established companies, or researchers whose main need is SBIR/STTR strategy, though Lassonde can still be a useful ecosystem door for student talent and venture education.
-
-## Imported Coverage
-
-- Startup State ID: 2582 (slug `university-of-utah-lassonde-entrepreneurship-institute`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: Student
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-10T11:50:06
-
 
 ## Evidence
 

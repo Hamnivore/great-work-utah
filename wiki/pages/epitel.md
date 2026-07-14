@@ -8,9 +8,13 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Epitel headquarters, 465 S 400 E, Suite 250, Salt Lake City, UT 84111
+**Coordinates:** 40.7592530, -111.8795606
+**Location Precision:** exact
+**Location Source:** https://www.epitel.com/about-epitel
 **Website:** https://www.epitel.com/
 **Domain:** health-bio
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/epitel-remi-ambulatory-eeg-2026/1600/1100
 **Pull:** *Wireless EEG patches that move seizure monitoring out of hospital units and into patients' daily lives.*

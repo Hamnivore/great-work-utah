@@ -2,8 +2,8 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Confidence:** Low
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Escalante, UT
 **Utah Location:** Escalante, UT
 **Region:** Escalante
@@ -17,92 +17,38 @@
 
 ## Summary
 
-The Escalante City Innovation Center in Utah provides furnished private offices tailored for remote workers, each equipped with dual monitors and laptop docking stations. The center also features a spacious meeting room with a conference table and a wide-screen TV, accommodating collaborative sessions and presentations. Flexible workspace options are available at daily, weekly, and monthly rates to suit various professional needs.
+The Escalante City Innovation Center is listed in Startup State as a furnished coworking and meeting facility for remote workers in rural Garfield County, with private offices, dual monitors, docking stations, and flexible daily/weekly/monthly workspace options.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+The city's official website redirected to a domain parking page during verification (July 2026), so current amenities, rates, and booking flows are unverified. Contact city staff before recommending.
 
+## Who It's For
 
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Remote workers, entrepreneurs, and small teams seeking professional workspace in Escalante and southern Utah's rural corridor (Garfield County and neighboring counties per Startup State coverage).
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+Per Startup State listing: furnished private offices, meeting room with conference table and display, and flexible workspace rental terms. Specific programming beyond space (advising, funding, events) is not confirmed on a live official page.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.escalantecity-utah.com/services/escalante-city-innovation-center/) · https://www.escalantecity-utah.com/services/escalante-city-innovation-center/
-- Email: [ssteed@escalantecity.com](mailto:ssteed@escalantecity.com)
+- Listed website: https://www.escalantecity-utah.com/services/escalante-city-innovation-center/ (redirected/parked during verification)
+- Email: [ssteed@escalantecity.com](mailto:ssteed@escalantecity.com) (Startup State listing)
 - Startup State listing: https://startup.utah.gov/business-resource/escalante-city-innovation-center/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Startup State references daily, weekly, and monthly rates, but no live pricing page was available during verification. Confirm current rates and availability by email before booking.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2584 (slug `escalante-city-innovation-center`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Garfield, Iron, Kane, Washington
-- Listing modified: 2024-12-10T11:51:19
+Remote professionals and founders who need a quiet furnished office in Escalante rather than a full incubator program. A weak fit for founders needing capital, manufacturing infrastructure, or frequent in-person advising — unless city staff confirms additional services.
 
 
-## Evidence
+## Evidence## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.escalantecity-utah.com/services/escalante-city-innovation-center/) · https://www.escalantecity-utah.com/services/escalante-city-innovation-center/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What is the correct live city website and current Innovation Center contact?
+- Are daily/weekly/monthly rates and equipment (monitors, docking stations) still offered as described?

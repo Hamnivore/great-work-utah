@@ -3,91 +3,53 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Website:** http://www.1mcslc.com
+**Website:** https://1mcslc.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-A Supportive Business & Startup Community in Salt Lake City 1MC Salt Lake is a weekly event for founders, entrepreneurs, and small business owners. The weekly event is an educational experience for both the audience and presenters.
+1MC Salt Lake is the local chapter of the 1 Million Cups program—a weekly, peer-based gathering where founders, entrepreneurs, and small business owners share ideas and get feedback. Verified on the official site (2026-07-14): two presenters each week give a 6–8 minute update followed by ~10 minutes of audience Q&A in a non-pitch, community-support format.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Events run Wednesdays at 9 a.m. at The Neighborhood Hive (2065 E 2100 S, Salt Lake City).
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Any
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Early-stage founders, side-project builders, small business owners, students, and community supporters who want low-pressure feedback, local connections, and practice presenting. Open to anyone willing to follow community guidelines (support-first, no hard selling).
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Other
-- Start a Business
+Weekly in-person community events, presenter slots, networking with peers and local service providers, and optional volunteer or sponsor roles. Presenters can share an idea, project, or operating business and receive structured audience questions.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](http://www.1mcslc.com) · http://www.1mcslc.com
-- Email: [Robert@1mcslc.com](mailto:Robert@1mcslc.com)
+- Attend weekly: Wednesdays at 9 a.m., The Neighborhood Hive, 2065 E 2100 S, Salt Lake City, UT 84108
+- [Apply to present](https://1mcslc.com/apply-to-present) · https://1mcslc.com/apply-to-present
+- [Official website](https://1mcslc.com/) · https://1mcslc.com/
+- Email: [info@1mcslc.com](mailto:info@1mcslc.com), [1mc@sustainablestartups.org](mailto:1mc@sustainablestartups.org)
 - Startup State listing: https://startup.utah.gov/business-resource/1mc-salt-lake/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No fee is listed on the official site. Events appear open to the public; presenters apply through the site form. Confirm current schedule and any virtual options before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Founders who want consistent Salt Lake City peer feedback, local visibility, and a supportive audience before investor pitches.
 
-- Entrepreneurship Communities
-- Funding
-- Other
-- Start a Business
-- Any
-
-## Imported Coverage
-
-- Startup State ID: 2909 (slug `1mc-salt-lake`)
-- Topics: Entrepreneurship Communities, Funding, Other, Start a Business
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Any
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Salt Lake
-- Listing modified: 2025-05-28T10:22:47
-
+Less useful for founders seeking capital introductions, structured accelerator curriculum, or industry-specific expert panels.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](http://www.1mcslc.com) · http://www.1mcslc.com
+- [Official website](https://1mcslc.com/) · https://1mcslc.com/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Is the Wednesday 9 a.m. in-person schedule still current?
+- Does 1MC Salt Lake run parallel online streams or only in-person attendance?

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
+**Focus:** Entrepreneurship Communities, Start a Business, Funding
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -17,92 +17,37 @@
 
 ## Summary
 
-The Utah Tech Innovation Center, also known as Innovation Plaza, is a hub for fostering entrepreneurship and innovation. It provides resources like a makerspace, business guidance, and collaborative opportunities to help students, faculty, and community members develop and commercialize innovative ideas
+Atwood Innovation Plaza is Utah Tech University's innovation hub in St. George, branded around "Innovate. Launch. Grow." The official site combines a Zions Bank–sponsored Business Resource Center, a community makerspace, innovation guidance for IP and proof-of-concept work, STEM outreach, and rentable startup workspace.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Utah Tech students, faculty, and community entrepreneurs building or commercializing ideas in southern Utah — especially those needing free business consulting, prototyping equipment, or affordable incubator workspace.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
+No-cost business consultations via the [Business Resource Center](business-resource-center-utah-tech-university.md); makerspace with prototyping and small-run manufacturing; innovation guidance for patents, trademarks, and proof of concept; STEM outreach classes and camps; private and semi-private offices; pitch competitions; and mentor/fund pathways listed on the site.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://innovation.utahtech.edu/) · https://innovation.utahtech.edu/
-- Email: [businesshelp@utahtech.edu](mailto:businesshelp@utahtech.edu)
+- Business Resource Center: [businesshelp@utahtech.edu](mailto:businesshelp@utahtech.edu) · 435-652-7741
+- Makerspace: [makerspace@utahtech.edu](mailto:makerspace@utahtech.edu) · 435-879-4532
 - Startup State listing: https://startup.utah.gov/business-resource/atwood-innovation-plaza/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Business Resource Center consultations are advertised as no-cost. Makerspace and workspace rentals have separate fee schedules on their respective pages — confirm before booking equipment or office space.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Close or Exit a Business
-- Entrepreneurship Communities
-- Funding
-- International Trade
-- Late Stage Growth
-- Marketing and Sales
-- Other
-- Relocate a Business to Utah
-- Start a Business
-- Taxes and Finance
-
-## Imported Coverage
-
-- Startup State ID: 2578 (slug `atwood-innovation-plaza`)
-- Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Garfield, Iron, Kane, Washington
-- Listing modified: 2024-12-10T11:43:50
-
+Southern Utah founders who want a single campus hub combining SBDC-style advising, prototyping tools, and workspace. Pair with the dedicated BRC page for export, government-contracting, and rural-county services. A weaker fit for founders only seeking metro venture capital.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://innovation.utahtech.edu/) · https://innovation.utahtech.edu/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are current makerspace training requirements and hourly rates?
+- Which pitch competitions and seed programs are accepting applications this year?

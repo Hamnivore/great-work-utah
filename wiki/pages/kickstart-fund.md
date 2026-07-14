@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 2750 E Cottonwood Pkwy, Suite 160, Cottonwood Heights, UT 84121
+**Coordinates:** 40.632228, -111.813282
+**Location Precision:** exact
+**Location Source:** https://kickstart.com/faq
 **Website:** https://www.kickstartfund.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

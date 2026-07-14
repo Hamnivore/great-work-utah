@@ -315,6 +315,42 @@ async function lintPage(filename) {
       addFinding("error", "invalid-location-source", filePath, "**Location Source:** must be one public HTTPS URL.", headers.get("Location Source").line);
     }
   }
+  const additionalMapLocations = [...content.matchAll(/^\*\*Additional Map Location:\*\* (.+)$/gm)];
+  const seenMapLabels = new Set();
+  const seenMapCoordinates = new Set();
+  if (presentMapFields.length === MAP_FIELDS.length) {
+    seenMapLabels.add(headers.get("Map Location").value.trim().toLowerCase().replace(/\s+/g, " "));
+    const [latitude, longitude] = headers.get("Coordinates").value.split(",").map(Number);
+    if (Number.isFinite(latitude) && Number.isFinite(longitude)) seenMapCoordinates.add(`${latitude},${longitude}`);
+  }
+  for (const match of additionalMapLocations) {
+    const line = lineForIndex(content, match.index);
+    if (presentMapFields.length !== MAP_FIELDS.length) {
+      addFinding("error", "additional-location-without-primary", filePath, "Additional map locations require a complete primary map tuple.", line);
+      continue;
+    }
+    if (type === "person") {
+      addFinding("error", "personal-map-location", filePath, "Person pages must not publish additional map coordinates.", line);
+    }
+    const parts = match[1].split(" | ").map((part) => part.trim());
+    const coordinateMatch = parts[1]?.match(/^(-?\d+(?:\.\d+)?),\s*(-?\d+(?:\.\d+)?)$/);
+    if (parts.length !== 4 || !parts[0] || !coordinateMatch || parts[2] !== "exact" || !/^https:\/\/\S+$/.test(parts[3] || "")) {
+      addFinding("error", "invalid-additional-map-location", filePath, "Use `address | latitude, longitude | exact | https://source`.", line);
+      continue;
+    }
+    const latitude = Number(coordinateMatch[1]);
+    const longitude = Number(coordinateMatch[2]);
+    const labelKey = parts[0].toLowerCase().replace(/\s+/g, " ");
+    const coordinateKey = `${latitude},${longitude}`;
+    if (seenMapLabels.has(labelKey) || seenMapCoordinates.has(coordinateKey)) {
+      addFinding("error", "duplicate-map-location", filePath, `Additional map location duplicates an existing site: ${parts[0]}.`, line);
+    }
+    seenMapLabels.add(labelKey);
+    seenMapCoordinates.add(coordinateKey);
+    if (latitude < UTAH_BOUNDS.minLat || latitude > UTAH_BOUNDS.maxLat || longitude < UTAH_BOUNDS.minLon || longitude > UTAH_BOUNDS.maxLon) {
+      addFinding("error", "coordinates-outside-utah", filePath, `Additional coordinates ${parts[1]} fall outside Utah bounds.`, line);
+    }
+  }
 
   // -- Domain-flagged adjudication queue -----------------------------------
   const flaggedHeader = headers.get("Domain-flagged");

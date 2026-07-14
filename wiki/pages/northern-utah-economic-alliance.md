@@ -3,9 +3,9 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** Northern Utah
-**Utah Location:** Davis County, Morgan County, Salt Lake County, Tooele County, Weber County
+**Focus:** Late Stage Growth, Relocate a Business to Utah, Marketing and Sales
+**Primary Location:** Farmington, UT
+**Utah Location:** Davis County, UT; Weber County, UT
 **Region:** Northern Utah
 **Website:** https://nuea.org/
 **Updated:** 2026-07-14
@@ -13,78 +13,39 @@
 
 ## Summary
 
-The Northern Utah Economic Alliance (NUEA) promotes economic growth and development in Davis and Weber counties by attracting businesses, supporting expansion, and creating job opportunities. It collaborates with local governments, businesses, and stakeholders to strengthen the region’s economy and enhance its competitive advantage. Through its efforts, NUEA fosters innovation and sustainable growth to benefit Northern Utah communities.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Northern Utah Economic Alliance (NUEA) promotes economic growth in Davis and Weber counties by attracting and retaining businesses. Verified on nuea.org: NUEA collaborates with local governments and stakeholders on site selection, commercial real estate listings, relocation guides, and regional marketing for northern Utah's defense, manufacturing, and outdoor-recreation economy.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Companies expanding or relocating to Davis or Weber counties; site selectors evaluating northern Utah; existing employers seeking regional workforce and quality-of-life data — less direct support for pre-revenue idea-stage founders.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Business and investment resources, commercial real estate database (listed and unlisted), relocation guide, regional research, labor and infrastructure information, and direct contact with NUEA president Chris Roybal for expansion questions.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Browse Business & Investment and Commercial Real Estate on nuea.org, or contact NUEA staff.
 
 - [Official website](https://nuea.org/) · https://nuea.org/
-- Email: [chris@nuea.org](mailto:chris@nuea.org)
+- Email: [chris@nuea.org](mailto:chris@nuea.org) · 801-455-5690 (Mon–Fri 8:00–5:00 MT)
+- Office: 140 N Union Avenue, Suite 340, Farmington, UT 84025
 - Startup State listing: https://startup.utah.gov/business-resource/northern-utah-economic-alliance/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No public fee for initial business attraction inquiries. NUEA is a public-private regional marketing alliance; specific services are negotiated case by case.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2688 (slug `northern-utah-economic-alliance`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-11T08:09:39
-
+A growing company choosing between Davis/Weber sites, or an out-of-state operator evaluating Layton, Ogden, or Farmington for a facility — especially defense, manufacturing, or outdoor brands. Pair with county ED and GOEO for incentives.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://nuea.org/) · https://nuea.org/
+- Startup State listing: https://startup.utah.gov/business-resource/northern-utah-economic-alliance/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- How does NUEA hand off to Davis vs. Weber county ED for incentive packaging?
+- Current unlisted property inventory access process for site selectors?

@@ -7,21 +7,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6946,
-          40.2969
+          -111.7153996,
+          40.2736608
         ]
       },
       "properties": {
         "title": "1 Million Cups (Orem)",
         "type": "resource",
         "url": "/pages/1-million-cups-orem.md",
-        "mapLocation": "Orem regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "1-million-cups-orem:40.273661,-111.715400",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "UVU Business Resource Center, 815 W 1250 S, Orem, UT 84058",
+        "precision": "exact",
+        "provenance": "https://www.trumba.com/events-calendar/ut/orem/utah-valley-business-resource-center-events",
+        "anchorKind": "site",
         "region": "Orem",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -37,13 +40,16 @@ export default {
         "title": "1 Million Cups (Salt Lake)",
         "type": "resource",
         "url": "/pages/1-million-cups-salt-lake.md",
+        "siteId": "1-million-cups-salt-lake:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -59,13 +65,16 @@ export default {
         "title": "1MC Salt Lake",
         "type": "resource",
         "url": "/pages/1mc-salt-lake.md",
+        "siteId": "1mc-salt-lake:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Other, Start a Business, Any, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Other, Start a Business"
       }
     },
     {
@@ -81,6 +90,9 @@ export default {
         "title": "309th Software Engineering Group",
         "type": "venture",
         "url": "/pages/309th-software-engineering-group.md",
+        "siteId": "309th-software-engineering-group:41.123700,-111.973000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Hill Air Force Base regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -103,6 +115,9 @@ export default {
         "title": "3Helix",
         "type": "venture",
         "url": "/pages/3helix.md",
+        "siteId": "3helix:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -110,6 +125,31 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "collagen hybridizing peptides, diagnostics, drug delivery, histopathology, collagen damage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.896367,
+          40.76465
+        ]
+      },
+      "properties": {
+        "title": "47G - Utah Aerospace & Defense Association",
+        "type": "resource",
+        "url": "/pages/47g-utah-aerospace-and-defense-association.md",
+        "siteId": "47g-utah-aerospace-and-defense-association:40.764650,-111.896367",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "175 W 200 S, Suite 4100, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.linkedin.com/company/47g",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -125,6 +165,9 @@ export default {
         "title": "A-Tech home plans",
         "type": "resource",
         "url": "/pages/a-tech-home-plans.md",
+        "siteId": "a-tech-home-plans:41.010000,-112.110000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Davis County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -139,18 +182,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8183,
-          39.1552
+          -111.8047289,
+          39.1639621
         ]
       },
       "properties": {
         "title": "ACT Aerospace",
         "type": "venture",
         "url": "/pages/act-aerospace.md",
-        "mapLocation": "Gunnison regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "act-aerospace:39.163962,-111.804729",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "ACT Aerospace, 425 E 400 N, Gunnison, UT 84634",
+        "precision": "exact",
+        "provenance": "https://actaero.com/contact-us/",
+        "anchorKind": "site",
         "region": "Gunnison",
         "domains": [],
         "focus": "aerospace composites, carbon fiber structures, composite manufacturing, aerostructures, defense supply chain"
@@ -169,6 +215,9 @@ export default {
         "title": "Adobe",
         "type": "venture",
         "url": "/pages/adobe.md",
+        "siteId": "adobe:40.434552,-111.892012",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Adobe Lehi campus, 3900 Adobe Way, Lehi, UT 84043",
         "precision": "exact",
         "provenance": "https://www.adobe.com/about-adobe/contact/offices.html",
@@ -193,6 +242,9 @@ export default {
         "title": "Ai Seminar for Small Businesses & Non-Profits",
         "type": "resource",
         "url": "/pages/ai-seminar-for-small-businesses-and-non-profits.md",
+        "siteId": "ai-seminar-for-small-businesses-and-non-profits:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -215,13 +267,16 @@ export default {
         "title": "Album",
         "type": "resource",
         "url": "/pages/album.md",
+        "siteId": "album:40.430366,-111.881951",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Album, 3451 N Triumph Blvd, Suite 200, Lehi, UT 84043",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Album+3451+N+Triumph+Blvd+Suite+200+Lehi+UT+84043",
         "anchorKind": "site",
         "region": "Lehi",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -237,13 +292,16 @@ export default {
         "title": "Altitude Labs",
         "type": "resource",
         "url": "/pages/altitude-labs.md",
+        "siteId": "altitude-labs:40.753692,-111.831747",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "630 Komas Drive, Suite 300, Salt Lake City, UT 84108",
         "precision": "exact",
         "provenance": "https://www.altitudelab.org/old-site/old-home",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Relocate a Business to Utah, Life Sciences and Healthcare"
+        "focus": "Entrepreneurship Communities, Relocate a Business to Utah"
       }
     },
     {
@@ -251,21 +309,74 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8508,
-          40.3916
+          -111.8714967,
+          40.4352302
         ]
       },
       "properties": {
         "title": "Ancestry",
         "type": "venture",
         "url": "/pages/ancestry.md",
-        "mapLocation": "Lehi regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "ancestry:40.435230,-111.871497",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1300 W Traverse Pkwy, Lehi, UT 84043",
+        "precision": "exact",
+        "provenance": "https://www.ancestry.com/corporate/contact",
+        "anchorKind": "site",
         "region": "Lehi",
         "domains": [],
         "focus": "genealogy, family history, consumer genomics, historical records, digitization"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "Utah APEX Accelerator",
+        "type": "resource",
+        "url": "/pages/apex-accelerator.md",
+        "siteId": "apex-accelerator:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.887143,
+          40.762605
+        ]
+      },
+      "properties": {
+        "title": "Apprenticeship Utah",
+        "type": "resource",
+        "url": "/pages/apprenticeship-utah.md",
+        "siteId": "apprenticeship-utah:40.762605,-111.887143",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "140 E 300 S, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -281,6 +392,9 @@ export default {
         "title": "Araknitek",
         "type": "venture",
         "url": "/pages/araknitek.md",
+        "siteId": "araknitek:41.737000,-111.833800",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Logan regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -295,18 +409,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8940472,
+          40.7106435
         ]
       },
       "properties": {
         "title": "Army Short-Range Reconnaissance UAS",
         "type": "work",
         "url": "/pages/army-short-range-reconnaissance-uas.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "army-short-range-reconnaissance-uas:40.710644,-111.894047",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Teal Drones production facility, 2800 S West Temple Street, Suite 2, South Salt Lake, UT 84115",
+        "precision": "exact",
+        "provenance": "https://tealdrones.com/contact-dev-dynamics/",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "defense manufacturing, small drones, ISR, battlefield reconnaissance, domestic industrial base"
@@ -317,18 +434,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8445942,
+          40.7686069
         ]
       },
       "properties": {
         "title": "University of Utah ARPANET Fourth Node",
         "type": "work",
         "url": "/pages/arpanet-fourth-node.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "arpanet-fourth-node:40.768607,-111.844594",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Merrill Engineering Building, 50 Central Campus Drive, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Merrill+Engineering+Building+50+Central+Campus+Drive+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "internet history, packet switching, computer science, ARPA research"
@@ -347,6 +467,9 @@ export default {
         "title": "Atavistik Bio",
         "type": "venture",
         "url": "/pages/atavistik-bio.md",
+        "siteId": "atavistik-bio:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -369,6 +492,9 @@ export default {
         "title": "Atmospheric Waves Experiment",
         "type": "work",
         "url": "/pages/atmospheric-waves-experiment.md",
+        "siteId": "atmospheric-waves-experiment:41.730000,-111.740000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Cache County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -391,13 +517,16 @@ export default {
         "title": "Atwood Innovation Plaza",
         "type": "resource",
         "url": "/pages/atwood-innovation-plaza.md",
+        "siteId": "atwood-innovation-plaza:37.110317,-113.568461",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Atwood Innovation Plaza, 453 S 700 E, St. George, UT 84770",
         "precision": "exact",
         "provenance": "https://umac.utahtech.edu/art-in-the-city/",
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -405,18 +534,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.67,
-          40.12
+          -111.7601618,
+          40.3514208
         ]
       },
       "properties": {
         "title": "Autonomous Low-Collateral Counter-UAS Interception",
         "type": "work",
         "url": "/pages/autonomous-low-collateral-counter-uas-interception.md",
-        "mapLocation": "Utah County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "autonomous-low-collateral-counter-uas-interception:40.351421,-111.760162",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Fortem Technologies, 1064 S North County Blvd, Suite 600, Pleasant Grove, UT 84062",
+        "precision": "exact",
+        "provenance": "https://fortemtech.com/policies/terms-of-use/",
+        "anchorKind": "site",
         "region": "Utah County",
         "domains": [],
         "focus": "defense, counter-drone, autonomous systems, air defense, critical infrastructure protection"
@@ -435,6 +567,9 @@ export default {
         "title": "Autonomous Solutions, Inc. (ASI)",
         "type": "venture",
         "url": "/pages/autonomous-solutions-inc.md",
+        "siteId": "autonomous-solutions-inc:41.756663,-112.027870",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Autonomous Solutions, Inc., 990 N 8000 W, Mendon, UT 84325",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Autonomous+Solutions+Inc+990+N+8000+W+Mendon+UT+84325",
@@ -449,19 +584,22 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.7208,
-          40.3433
+          -111.8899215,
+          40.4863817
         ]
       },
       "properties": {
         "title": "BambooHR",
         "type": "venture",
         "url": "/pages/bamboohr.md",
-        "mapLocation": "Lindon regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
-        "region": "Lindon",
+        "siteId": "bamboohr:40.486382,-111.889921",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "42 Future Way, Draper, UT 84020",
+        "precision": "exact",
+        "provenance": "https://www.bamboohr.com/about-bamboohr/contact/",
+        "anchorKind": "site",
+        "region": "Draper",
         "domains": [],
         "focus": "HR software, payroll, benefits, people operations, SMB SaaS"
       }
@@ -479,6 +617,9 @@ export default {
         "title": "Batu Biologics",
         "type": "venture",
         "url": "/pages/batu-biologics.md",
+        "siteId": "batu-biologics:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -501,6 +642,9 @@ export default {
         "title": "Baxter Aerospace",
         "type": "venture",
         "url": "/pages/baxter-aerospace.md",
+        "siteId": "baxter-aerospace:37.116777,-113.518067",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "3260 Deseret Drive, St. George, UT 84790",
         "precision": "exact",
         "provenance": "https://www.baxteraerospace.com/careers/",
@@ -523,6 +667,9 @@ export default {
         "title": "Bear Lake Regional Commission",
         "type": "resource",
         "url": "/pages/bear-lake-regional-commission.md",
+        "siteId": "bear-lake-regional-commission:41.630000,-111.240000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Rich County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -531,7 +678,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Arts and Entertainment and Recreation, Life Sciences and Healthcare"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -547,6 +694,9 @@ export default {
         "title": "Bear Lake Valley Chamber of Commerce",
         "type": "resource",
         "url": "/pages/bear-lake-valley-chamber-of-commerce.md",
+        "siteId": "bear-lake-valley-chamber-of-commerce:41.630000,-111.240000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Rich County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -555,7 +705,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -563,23 +713,26 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112,
-          41.6
+          -111.8348028,
+          41.7346196
         ]
       },
       "properties": {
         "title": "Bear River Association of Governments",
         "type": "resource",
         "url": "/pages/bear-river-association-of-governments.md",
-        "mapLocation": "Bear River region regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "bear-river-association-of-governments:41.734620,-111.834803",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Bear River Association of Governments, 170 N Main Street, Logan, UT 84321",
+        "precision": "exact",
+        "provenance": "https://brag.utah.gov/contact/",
+        "anchorKind": "site",
         "region": "Bear River region",
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -587,23 +740,26 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.75,
-          37.75
+          -113.069922,
+          37.664119
         ]
       },
       "properties": {
         "title": "BIG Chamber (Beaver, Iron, Garfield)",
         "type": "resource",
         "url": "/pages/big-chamber-beaver-iron-garfield.md",
-        "mapLocation": "Beaver-Iron-Garfield region regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "big-chamber-beaver-iron-garfield:37.664119,-113.069922",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "510 W 800 S, Cedar City, UT 84720",
+        "precision": "exact",
+        "provenance": "https://www.bigchamber.org/about",
+        "anchorKind": "site",
         "region": "Beaver-Iron-Garfield region",
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -619,6 +775,9 @@ export default {
         "title": "Kennecott Bingham Canyon Mine",
         "type": "work",
         "url": "/pages/bingham-canyon-mine.md",
+        "siteId": "bingham-canyon-mine:40.670000,-111.930000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -635,6 +794,33 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.884283,
+          40.769139
+        ]
+      },
+      "properties": {
+        "title": "BIO Utah",
+        "type": "resource",
+        "url": "/pages/bio-utah.md",
+        "siteId": "bio-utah:40.769139,-111.884283",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "230 E South Temple, Suite 100, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://bioutah.org/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.891,
           40.7608
         ]
@@ -643,6 +829,9 @@ export default {
         "title": "BioEnergenix",
         "type": "venture",
         "url": "/pages/bioenergenix.md",
+        "siteId": "bioenergenix:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -667,6 +856,9 @@ export default {
         "title": "BioFire Diagnostics",
         "type": "venture",
         "url": "/pages/biofire-diagnostics.md",
+        "siteId": "biofire-diagnostics:40.757833,-111.820024",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "515 Colorow Drive, Salt Lake City, UT 84108",
         "precision": "exact",
         "provenance": "https://www.biofiredx.com/european-privacy-policy/",
@@ -691,6 +883,9 @@ export default {
         "title": "Bioparin",
         "type": "venture",
         "url": "/pages/bioparin.md",
+        "siteId": "bioparin:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -715,6 +910,9 @@ export default {
         "title": "Blackrock Neurotech",
         "type": "venture",
         "url": "/pages/blackrock-neurotech.md",
+        "siteId": "blackrock-neurotech:40.753692,-111.831747",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "630 Komas Drive, Suite 200, Salt Lake City, UT 84108",
         "precision": "exact",
         "provenance": "https://blackrockneurotech.com/contact/",
@@ -739,6 +937,9 @@ export default {
         "title": "Box Elder Chamber of Commerce",
         "type": "resource",
         "url": "/pages/box-elder-chamber-of-commerce.md",
+        "siteId": "box-elder-chamber-of-commerce:41.508708,-112.015683",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Box Elder Chamber of Commerce, 75 S Main St, Brigham City, UT 84302",
         "precision": "exact",
         "provenance": "https://members.boxelderchamber.com/contact",
@@ -747,7 +948,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -755,23 +956,26 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.0155,
-          41.5102
+          -112.0156464,
+          41.5109019
         ]
       },
       "properties": {
         "title": "Brigham City Economic Development",
         "type": "resource",
         "url": "/pages/brigham-city-economic-development.md",
-        "mapLocation": "Brigham City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "brigham-city-economic-development:41.510902,-112.015646",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Brigham City Hall, 20 N Main Street, Brigham City, UT 84302",
+        "precision": "exact",
+        "provenance": "https://www.bcutah.gov/contact",
+        "anchorKind": "site",
         "region": "Brigham City",
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -787,6 +991,9 @@ export default {
         "title": "Brigham Young University (BYU) - Rollins Center",
         "type": "resource",
         "url": "/pages/brigham-young-university-byu-rollins-center.md",
+        "siteId": "brigham-young-university-byu-rollins-center:40.243320,-111.650010",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "BYU Rollins Center, South Campus Office Building, 735 N 500 E, Provo, UT 84606",
         "precision": "exact",
         "provenance": "https://marriott.byu.edu/cet/about/contact-us/",
@@ -795,7 +1002,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -803,18 +1010,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.9738,
-          41.223
+          -111.979189,
+          41.220117
         ]
       },
       "properties": {
         "title": "Browning Firearms Designs",
         "type": "work",
         "url": "/pages/browning-firearms-designs.md",
-        "mapLocation": "Ogden regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "browning-firearms-designs:41.220117,-111.979189",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Browning Firearms Museum, Ogden Union Station, 2501 Wall Avenue, Ogden, UT 84401",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Browning+Firearms+Museum+2501+Wall+Avenue+Ogden+UT+84401",
+        "anchorKind": "site",
         "region": "Ogden",
         "domains": [
           "aerospace-defense"
@@ -827,23 +1037,26 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.9386,
-          41.0352
+          -111.9238049,
+          41.0300464
         ]
       },
       "properties": {
         "title": "Business Resource Center - Davis Tech College",
         "type": "resource",
         "url": "/pages/business-resource-center-davis-tech-college.md",
-        "mapLocation": "Kaysville regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "business-resource-center-davis-tech-college:41.030046,-111.923805",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Davis Technical College, 550 E 300 S, Kaysville, UT 84037",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Davis+Technical+College+550+E+300+S+Kaysville+UT+84037",
+        "anchorKind": "site",
         "region": "Kaysville",
         "domains": [
           "culture-place"
         ],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -859,6 +1072,9 @@ export default {
         "title": "Business Resource Center - Utah Tech University",
         "type": "resource",
         "url": "/pages/business-resource-center-utah-tech-university.md",
+        "siteId": "business-resource-center-utah-tech-university:37.100451,-113.570568",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "453 South 600 East, St. George, UT 84770",
         "precision": "exact",
         "provenance": "https://innovation.utahtech.edu/contact-us/",
@@ -867,7 +1083,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -875,23 +1091,26 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.8107,
-          39.5994
+          -110.8362394,
+          39.5957889
         ]
       },
       "properties": {
         "title": "Business Technical Assistance Center",
         "type": "resource",
         "url": "/pages/business-technical-assistance-center.md",
-        "mapLocation": "Price regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "business-technical-assistance-center:39.595789,-110.836239",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "252 S Fairgrounds Rd, Price, UT 84501",
+        "precision": "exact",
+        "provenance": "https://seenutah.org/",
+        "anchorKind": "site",
         "region": "Price",
         "domains": [
           "culture-place"
         ],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -907,6 +1126,9 @@ export default {
         "title": "BYU-Pathway Worldwide",
         "type": "venture",
         "url": "/pages/byu-pathway.md",
+        "siteId": "byu-pathway:40.770307,-111.900184",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "3 Triad Center, Suite 500, Salt Lake City, UT 84180",
         "precision": "exact",
         "provenance": "https://catalog.byupathway.edu/academicpolicies/tuition/tuition-fees-other-financial-information",
@@ -931,6 +1153,9 @@ export default {
         "title": "Cache Valley Chamber of Commerce",
         "type": "resource",
         "url": "/pages/cache-valley-chamber-of-commerce.md",
+        "siteId": "cache-valley-chamber-of-commerce:41.732749,-111.835016",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Cache Valley Chamber of Commerce, 73 N Main St, Suite 210, Logan, UT 84321",
         "precision": "exact",
         "provenance": "https://cachechamber.com/contact-us/",
@@ -939,7 +1164,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -955,6 +1180,9 @@ export default {
         "title": "CaLycia Biosciences",
         "type": "venture",
         "url": "/pages/calycia-biosciences.md",
+        "siteId": "calycia-biosciences:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -971,18 +1199,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8503646,
+          40.7644827
         ]
       },
       "properties": {
         "title": "Capecchi Gene Targeting and the Knockout Mouse",
         "type": "work",
         "url": "/pages/capecchi-gene-targeting.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "capecchi-gene-targeting:40.764483,-111.850365",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "health-bio"
@@ -1003,6 +1234,9 @@ export default {
         "title": "Carbon County Chamber of Commerce",
         "type": "resource",
         "url": "/pages/carbon-county-chamber-of-commerce.md",
+        "siteId": "carbon-county-chamber-of-commerce:39.601046,-110.796089",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "751 East 100 North Suite 2100, Price, UT 84501",
         "precision": "exact",
         "provenance": "https://www.carboncountychamber.net/?page_id=369",
@@ -1011,7 +1245,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1027,6 +1261,9 @@ export default {
         "title": "Carbon County Economic Development",
         "type": "resource",
         "url": "/pages/carbon-county-economic-development.md",
+        "siteId": "carbon-county-economic-development:39.601046,-110.796089",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "751 East 100 North Suite 2600, Price, UT 84501",
         "precision": "exact",
         "provenance": "https://www.carbon.utah.gov/department/economic-development/",
@@ -1035,7 +1272,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1051,6 +1288,9 @@ export default {
         "title": "Cedar City Area Chamber of Commerce",
         "type": "resource",
         "url": "/pages/cedar-city-area-chamber-of-commerce.md",
+        "siteId": "cedar-city-area-chamber-of-commerce:37.663554,-113.069859",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "510 West 800 South, Cedar City, UT 84720",
         "precision": "exact",
         "provenance": "https://www.cedarcitychamber.org/",
@@ -1059,7 +1299,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1075,6 +1315,9 @@ export default {
         "title": "Chad Testa",
         "type": "person",
         "url": "/pages/chad-testa.md",
+        "siteId": "chad-testa:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1099,6 +1342,9 @@ export default {
         "title": "Church and State",
         "type": "resource",
         "url": "/pages/church-and-state.md",
+        "siteId": "church-and-state:40.760915,-111.882989",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "370 South 300 East, Salt Lake City, UT 84111",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Church+and+State+370+South+300+East+Salt+Lake+City+UT",
@@ -1107,7 +1353,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -1115,18 +1361,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.9535043,
+          40.7378275
         ]
       },
       "properties": {
         "title": "CleanJoule",
         "type": "venture",
         "url": "/pages/cleanjoule.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "cleanjoule:40.737828,-111.953504",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "CleanJoule, 2350 W 1500 S, Salt Lake City, UT 84104",
+        "precision": "exact",
+        "provenance": "https://www.linkedin.com/company/cleanjoule",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "aerospace-defense",
@@ -1148,6 +1397,9 @@ export default {
         "title": "Clearfield Job Corps",
         "type": "resource",
         "url": "/pages/clearfield-job-corps.md",
+        "siteId": "clearfield-job-corps:41.089237,-112.026652",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Clearfield Job Corps Center, 20 W 1700 S, Clearfield, UT 84016",
         "precision": "exact",
         "provenance": "https://clearfield.jobcorps.gov/contact",
@@ -1156,7 +1408,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -1164,23 +1416,53 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8503646,
+          40.7644827
         ]
       },
       "properties": {
         "title": "Conotoxins and Prialt",
         "type": "work",
         "url": "/pages/conotoxins-and-prialt.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "conotoxins-and-prialt:40.764483,-111.850365",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "health-bio"
         ],
         "focus": "drug discovery, molecular neuroscience, venom peptides, non-opioid pain, ion channels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.687226,
+          40.272345
+        ]
+      },
+      "properties": {
+        "title": "Convoi Ventures",
+        "type": "resource",
+        "url": "/pages/convoi-ventures.md",
+        "siteId": "convoi-ventures:40.272345,-111.687226",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "336 E University Pkwy, Orem, UT 84058",
+        "precision": "exact",
+        "provenance": "https://www.sec.gov/Archives/edgar/data/2023817/000202381724000001/xslFormDX01/primary_doc.xml",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Funding"
       }
     },
     {
@@ -1196,6 +1478,9 @@ export default {
         "title": "Coreform",
         "type": "venture",
         "url": "/pages/coreform.md",
+        "siteId": "coreform:40.270986,-111.681839",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Coreform headquarters, 1427 S 550 E, Orem, UT 84097",
         "precision": "exact",
         "provenance": "https://coreform.com/support/contact/",
@@ -1218,6 +1503,9 @@ export default {
         "title": "Cosm",
         "type": "venture",
         "url": "/pages/cosm.md",
+        "siteId": "cosm:40.752672,-111.830352",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "770 Komas Drive, Salt Lake City, UT 84108",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Cosm+770+Komas+Drive+Salt+Lake+City+UT",
@@ -1232,18 +1520,71 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8911694,
+          40.7677477
         ]
       },
       "properties": {
         "title": "Cotopaxi",
         "type": "venture",
         "url": "/pages/cotopaxi.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "cotopaxi:40.767748,-111.891169",
+        "siteIndex": 0,
+        "siteCount": 3,
+        "mapLocation": "Cotopaxi Salt Lake City store, 74 S Main Street, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.cotopaxi.com/pages/retail-store",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "outdoor gear, apparel, social enterprise, B Corp, philanthropy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8891549,
+          40.636412
+        ]
+      },
+      "properties": {
+        "title": "Cotopaxi",
+        "type": "venture",
+        "url": "/pages/cotopaxi.md",
+        "siteId": "cotopaxi:40.636412,-111.889155",
+        "siteIndex": 1,
+        "siteCount": 3,
+        "mapLocation": "Cotopaxi Fashion Place store, 6191 S State Street, Suite 1480, Murray, UT 84107",
+        "precision": "exact",
+        "provenance": "https://www.cotopaxi.com/pages/retail-store",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "outdoor gear, apparel, social enterprise, B Corp, philanthropy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4951653,
+          40.6422991
+        ]
+      },
+      "properties": {
+        "title": "Cotopaxi",
+        "type": "venture",
+        "url": "/pages/cotopaxi.md",
+        "siteId": "cotopaxi:40.642299,-111.495165",
+        "siteIndex": 2,
+        "siteCount": 3,
+        "mapLocation": "Cotopaxi Park City store, 333 Main Street, Suite H, Park City, UT 84060",
+        "precision": "exact",
+        "provenance": "https://www.cotopaxi.com/pages/retail-store",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "outdoor gear, apparel, social enterprise, B Corp, philanthropy"
@@ -1262,13 +1603,16 @@ export default {
         "title": "Coworking Space in Salt Lake City - Offices.net",
         "type": "resource",
         "url": "/pages/coworking-space-in-salt-lake-city-offices-net.md",
+        "siteId": "coworking-space-in-salt-lake-city-offices-net:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Any, Multicultural, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -1276,18 +1620,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.5684,
-          37.0965
+          -113.55077,
+          37.098317
         ]
       },
       "properties": {
         "title": "Culmination Bio",
         "type": "venture",
         "url": "/pages/culmination-bio.md",
-        "mapLocation": "St. George regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "culmination-bio:37.098317,-113.550770",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "600 S Medical Center Dr, Suite 300, St. George, UT 84790",
+        "precision": "exact",
+        "provenance": "https://bioutah.org/culmination-bio-raises-10m-from-amgen-ventures-and-merck-global-health-innovation-fund-to-bring-longitudinal-health-data-to-biopharma/",
+        "anchorKind": "site",
         "region": "St. George",
         "domains": [],
         "focus": "clinical data platform, longitudinal patient data, drug discovery, diagnostics, biotech spinout"
@@ -1306,6 +1653,9 @@ export default {
         "title": "Curza",
         "type": "venture",
         "url": "/pages/curza.md",
+        "siteId": "curza:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1313,6 +1663,31 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Custom Fit Training",
+        "type": "resource",
+        "url": "/pages/custom-fit-training.md",
+        "siteId": "custom-fit-training:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://ushe.edu/custom-fit/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -1328,13 +1703,16 @@ export default {
         "title": "Cynosure",
         "type": "resource",
         "url": "/pages/cynosure.md",
+        "siteId": "cynosure:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Funding, Late Stage Growth"
       }
     },
     {
@@ -1350,6 +1728,9 @@ export default {
         "title": "Dave Bearss",
         "type": "person",
         "url": "/pages/dave-bearss.md",
+        "siteId": "dave-bearss:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1372,13 +1753,16 @@ export default {
         "title": "Davis Chamber of Commerce",
         "type": "resource",
         "url": "/pages/davis-chamber-of-commerce.md",
+        "siteId": "davis-chamber-of-commerce:41.035200,-111.938600",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Kaysville regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Kaysville",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1394,13 +1778,16 @@ export default {
         "title": "Davis County Economic Development",
         "type": "resource",
         "url": "/pages/davis-county-economic-development.md",
+        "siteId": "davis-county-economic-development:40.979374,-111.887547",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Davis County Economic Development, Davis County Administration Building, Suite 304, 61 S Main St, Farmington, UT 84025",
         "precision": "exact",
         "provenance": "https://www.co.davis.ut.us/ced/economic-development",
         "anchorKind": "site",
         "region": "Davis County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1416,6 +1803,9 @@ export default {
         "title": "Davis Smith",
         "type": "person",
         "url": "/pages/davis-smith.md",
+        "siteId": "davis-smith:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1438,13 +1828,16 @@ export default {
         "title": "Delta Area Chamber of Commerce",
         "type": "resource",
         "url": "/pages/delta-area-chamber-of-commerce.md",
+        "siteId": "delta-area-chamber-of-commerce:39.352306,-112.576419",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "75 West Main Street, Delta, UT 84624",
         "precision": "exact",
         "provenance": "https://www.deltautahchamber.com/",
         "anchorKind": "site",
         "region": "Delta",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1460,6 +1853,9 @@ export default {
         "title": "Deseret Book / Bonneville International",
         "type": "venture",
         "url": "/pages/deseret-book-bonneville.md",
+        "siteId": "deseret-book-bonneville:40.770307,-111.900184",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "55 North 300 West, Suite 300, Salt Lake City, UT 84101",
         "precision": "exact",
         "provenance": "https://www.deseretbook.com/retail-product-submissions.html",
@@ -1474,18 +1870,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.7958,
-          40.3769
+          -111.7762899,
+          40.3560867
         ]
       },
       "properties": {
         "title": "Domo",
         "type": "venture",
         "url": "/pages/domo.md",
-        "mapLocation": "American Fork regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "domo:40.356087,-111.776290",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "802 E 1050 S, American Fork, UT 84003",
+        "precision": "exact",
+        "provenance": "https://www.domo.com/company/privacy-policy",
+        "anchorKind": "site",
         "region": "American Fork",
         "domains": [],
         "focus": "business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS"
@@ -1504,6 +1903,9 @@ export default {
         "title": "Dugway Proving Ground",
         "type": "work",
         "url": "/pages/dugway-proving-ground.md",
+        "siteId": "dugway-proving-ground:40.450000,-113.120000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Tooele County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1511,6 +1913,31 @@ export default {
         "region": "Tooele County",
         "domains": [],
         "focus": "military test infrastructure, chemical and biological defense, West Desert, defense ethics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.890457,
+          40.764469
+        ]
+      },
+      "properties": {
+        "title": "EDCUtah - Economic Development Corporation of Utah",
+        "type": "resource",
+        "url": "/pages/edcutah-economic-development-corporation-of-utah.md",
+        "siteId": "edcutah-economic-development-corporation-of-utah:40.764469,-111.890457",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "201 S Main St, Suite 2300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.edcutah.org/support/our-investors",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1526,6 +1953,9 @@ export default {
         "title": "Eden Technologies",
         "type": "venture",
         "url": "/pages/eden-technologies.md",
+        "siteId": "eden-technologies:37.096500,-113.568400",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "St. George regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1540,18 +1970,96 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.9002144,
+          40.7710571
         ]
       },
       "properties": {
         "title": "Eide Bailly (Utah)",
         "type": "helper",
         "url": "/pages/eide-bailly-utah.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "eide-bailly-utah:40.771057,-111.900214",
+        "siteIndex": 0,
+        "siteCount": 4,
+        "mapLocation": "Eide Bailly Salt Lake City office, 5 Triad Center, Suite 600, Salt Lake City, UT 84180",
+        "precision": "exact",
+        "provenance": "https://www.eidebailly.com/locations/salt-lake-city",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8868565,
+          40.4202553
+        ]
+      },
+      "properties": {
+        "title": "Eide Bailly (Utah)",
+        "type": "helper",
+        "url": "/pages/eide-bailly-utah.md",
+        "siteId": "eide-bailly-utah:40.420255,-111.886856",
+        "siteIndex": 1,
+        "siteCount": 4,
+        "mapLocation": "Eide Bailly Lehi office, 2901 N Ashton Boulevard, Suite 200, Lehi, UT 84048",
+        "precision": "exact",
+        "provenance": "https://www.eidebailly.com/locations/lehi",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9365114,
+          41.1536515
+        ]
+      },
+      "properties": {
+        "title": "Eide Bailly (Utah)",
+        "type": "helper",
+        "url": "/pages/eide-bailly-utah.md",
+        "siteId": "eide-bailly-utah:41.153652,-111.936511",
+        "siteIndex": 2,
+        "siteCount": 4,
+        "mapLocation": "Eide Bailly Ogden office, 5929 Fashion Point Drive, Suite 300, Ogden, UT 84403",
+        "precision": "exact",
+        "provenance": "https://www.eidebailly.com/locations/ogden",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6761151,
+          40.2777286
+        ]
+      },
+      "properties": {
+        "title": "Eide Bailly (Utah)",
+        "type": "helper",
+        "url": "/pages/eide-bailly-utah.md",
+        "siteId": "eide-bailly-utah:40.277729,-111.676115",
+        "siteIndex": 3,
+        "siteCount": 4,
+        "mapLocation": "Eide Bailly Orem office, 1061 S 800 E, Suite 120, Orem, UT 84097",
+        "precision": "exact",
+        "provenance": "https://www.eidebailly.com/locations/orem",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory"
@@ -1570,6 +2078,9 @@ export default {
         "title": "EIMCO Rocker Shovel Loader",
         "type": "work",
         "url": "/pages/eimco-rocker-shovel-loader.md",
+        "siteId": "eimco-rocker-shovel-loader:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1592,6 +2103,9 @@ export default {
         "title": "Electric Power Systems (EPS)",
         "type": "venture",
         "url": "/pages/electric-power-systems.md",
+        "siteId": "electric-power-systems:41.782773,-111.845810",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Electric Power Systems, 520 W 2850 N, North Logan, UT 84341",
         "precision": "exact",
         "provenance": "https://epsenergy.com/contact/",
@@ -1617,13 +2131,16 @@ export default {
         "title": "Emery County Economic Development",
         "type": "resource",
         "url": "/pages/emery-county-economic-development.md",
+        "siteId": "emery-county-economic-development:39.211782,-111.018274",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "75 East Main Street, Castle Dale, UT 84513",
         "precision": "exact",
         "provenance": "https://www.utah.gov/pmn/sitemap/publicbody/2218.html",
         "anchorKind": "site",
         "region": "Emery County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1639,6 +2156,9 @@ export default {
         "title": "EnduraCure",
         "type": "venture",
         "url": "/pages/enduracure.md",
+        "siteId": "enduracure:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1661,6 +2181,9 @@ export default {
         "title": "Energy Fuels / White Mesa",
         "type": "venture",
         "url": "/pages/energy-fuels-white-mesa.md",
+        "siteId": "energy-fuels-white-mesa:37.630000,-109.800000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "San Juan County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1687,6 +2210,9 @@ export default {
         "title": "EnergySolutions",
         "type": "venture",
         "url": "/pages/energy-solutions.md",
+        "siteId": "energy-solutions:40.450000,-113.120000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Tooele County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1711,13 +2237,16 @@ export default {
         "title": "Epic Ventures",
         "type": "resource",
         "url": "/pages/epic-ventures.md",
+        "siteId": "epic-ventures:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -1725,18 +2254,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8795606,
+          40.759253
         ]
       },
       "properties": {
         "title": "Epitel",
         "type": "venture",
         "url": "/pages/epitel.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "epitel:40.759253,-111.879561",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Epitel headquarters, 465 S 400 E, Suite 250, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.epitel.com/about-epitel",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "health-bio"
@@ -1757,13 +2289,16 @@ export default {
         "title": "Escalante City Innovation Center",
         "type": "resource",
         "url": "/pages/escalante-city-innovation-center.md",
+        "siteId": "escalante-city-innovation-center:37.767507,-111.602334",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Escalante City Innovation Center, 67 N 100 W, Escalante, UT 84726",
         "precision": "exact",
         "provenance": "https://www.escalantecity-utah.com/wp-content/uploads/2024/03/Escalante-General-Plan-.pdf",
         "anchorKind": "site",
         "region": "Escalante",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -1771,18 +2306,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8297613,
+          40.7553613
         ]
       },
       "properties": {
         "title": "Evans & Sutherland",
         "type": "work",
         "url": "/pages/evans-and-sutherland.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "evans-and-sutherland:40.755361,-111.829761",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Evans & Sutherland, 770 Komas Drive, Salt Lake City, UT 84108",
+        "precision": "exact",
+        "provenance": "https://www.es.com/contact/",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "computer graphics, flight simulation, real-time 3D, graphics hardware"
@@ -1801,13 +2339,16 @@ export default {
         "title": "EVENT: Grand Summit Moab",
         "type": "resource",
         "url": "/pages/event-grand-summit-moab.md",
+        "siteId": "event-grand-summit-moab:38.573300,-109.549800",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Moab regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Moab",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -1823,13 +2364,16 @@ export default {
         "title": "EVENT: Raising Kane Business Summit",
         "type": "resource",
         "url": "/pages/event-raising-kane-business-summit.md",
+        "siteId": "event-raising-kane-business-summit:37.290000,-111.890000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Kane County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Kane County",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -1837,21 +2381,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.5684,
-          37.0965
+          -111.8942468,
+          40.7670894
+        ]
+      },
+      "properties": {
+        "title": "EVENT: Silicon Slopes Tech Summit",
+        "type": "resource",
+        "url": "/pages/event-silicon-slopes-tech-summit.md",
+        "siteId": "event-silicon-slopes-tech-summit:40.767089,-111.894247",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Palace Convention Center, 100 S W Temple St, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.siliconslopes.com/c/events/summit-2026-innovation-doesn-t-slow-down",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.582639,
+          37.077325
         ]
       },
       "properties": {
         "title": "EVENT: What's Up Down South - Economic Summit",
         "type": "resource",
         "url": "/pages/event-what-s-up-down-south-economic-summit.md",
-        "mapLocation": "St. George regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "event-what-s-up-down-south-economic-summit:37.077325,-113.582639",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1835 S Convention Center Dr, St. George, UT 84790",
+        "precision": "exact",
+        "provenance": "https://whatsupdownsouth.org/event/whats-up-down-south-2026/",
+        "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -1867,6 +2439,9 @@ export default {
         "title": "Evolution Bio",
         "type": "venture",
         "url": "/pages/evolution-bio.md",
+        "siteId": "evolution-bio:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1889,6 +2464,9 @@ export default {
         "title": "FamilySearch",
         "type": "venture",
         "url": "/pages/familysearch.md",
+        "siteId": "familysearch:40.772668,-111.893064",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "35 North West Temple Street, Salt Lake City, UT 84150",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=FamilySearch+Library+35+North+West+Temple+Salt+Lake+City+UT",
@@ -1913,6 +2491,9 @@ export default {
         "title": "Fervo Energy",
         "type": "venture",
         "url": "/pages/fervo-energy.md",
+        "siteId": "fervo-energy:38.340000,-113.240000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Beaver County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -1929,21 +2510,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113,
-          37.35
+          -113.606188,
+          37.081333
         ]
       },
       "properties": {
         "title": "Five County Association of Governments",
         "type": "resource",
         "url": "/pages/five-county-association-of-governments.md",
-        "mapLocation": "Five County region regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "five-county-association-of-governments:37.081333,-113.606188",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1070 W 1600 S, Building B, St. George, UT 84770",
+        "precision": "exact",
+        "provenance": "https://fivecountyecon.org/contact/",
+        "anchorKind": "site",
         "region": "Five County region",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1959,13 +2543,16 @@ export default {
         "title": "Flaming Gorge Chamber of Commerce",
         "type": "resource",
         "url": "/pages/flaming-gorge-chamber-of-commerce.md",
+        "siteId": "flaming-gorge-chamber-of-commerce:40.890000,-109.510000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Daggett County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Daggett County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1981,6 +2568,9 @@ export default {
         "title": "Florian Solzbacher",
         "type": "person",
         "url": "/pages/florian-solzbacher.md",
+        "siteId": "florian-solzbacher:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2003,6 +2593,9 @@ export default {
         "title": "Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays",
         "type": "work",
         "url": "/pages/flys-eye-hires-cosmic-rays.md",
+        "siteId": "flys-eye-hires-cosmic-rays:40.450000,-113.120000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Tooele County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2025,6 +2618,9 @@ export default {
         "title": "Fortem Technologies",
         "type": "venture",
         "url": "/pages/fortem-technologies.md",
+        "siteId": "fortem-technologies:40.347434,-111.758684",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Fortem Technologies, 1855 W 500 N, Lindon, UT 84042",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Fortem+Technologies+1855+W+500+N+Lindon+UT+84042",
@@ -2049,6 +2645,9 @@ export default {
         "title": "Fred Lampropoulos",
         "type": "person",
         "url": "/pages/fred-lampropoulos.md",
+        "siteId": "fred-lampropoulos:40.562200,-111.929700",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "South Jordan regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2056,6 +2655,31 @@ export default {
         "region": "South Jordan",
         "domains": [],
         "focus": "medical devices, interventional cardiology, manufacturing, founder-operator, public company leadership"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0717,
+          37.67555
+        ]
+      },
+      "properties": {
+        "title": "FutureReady Utah",
+        "type": "resource",
+        "url": "/pages/futureready-utah.md",
+        "siteId": "futureready-utah:37.675550,-113.071700",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "351 W University Blvd, Cedar City, UT 84720",
+        "precision": "exact",
+        "provenance": "https://www.futurereadyutah.org/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Other"
       }
     },
     {
@@ -2071,6 +2695,9 @@ export default {
         "title": "Golden Spike and the First Transcontinental Railroad",
         "type": "work",
         "url": "/pages/golden-spike-transcontinental-railroad.md",
+        "siteId": "golden-spike-transcontinental-railroad:41.620480,-112.547470",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Golden Spike National Historical Park Visitor Center, 6200 N 22300 W, Promontory, UT 84307",
         "precision": "exact",
         "provenance": "https://www.nps.gov/gosp/planyourvisit/directions.htm",
@@ -2093,13 +2720,16 @@ export default {
         "title": "Grand County Economic Development",
         "type": "resource",
         "url": "/pages/grand-county-economic-development.md",
+        "siteId": "grand-county-economic-development:38.573331,-109.548539",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "125 East Center Street, Moab, UT 84532",
         "precision": "exact",
         "provenance": "https://business.moabchamber.com/member-directory/Details/grand-county-economic-development-4249447",
         "anchorKind": "site",
         "region": "Grand County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2115,6 +2745,9 @@ export default {
         "title": "Great Salt Lake",
         "type": "venture",
         "url": "/pages/great-salt-lake.md",
+        "siteId": "great-salt-lake:41.100000,-112.600000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Great Salt Lake basin regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2140,13 +2773,16 @@ export default {
         "title": "Greater Nephi Chamber of Commerce",
         "type": "resource",
         "url": "/pages/greater-nephi-chamber-of-commerce.md",
+        "siteId": "greater-nephi-chamber-of-commerce:39.710200,-111.836300",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Nephi regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Nephi",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2154,18 +2790,46 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6585,
-          40.2338
+          -111.925289,
+          41.027594
+        ]
+      },
+      "properties": {
+        "title": "Grow Utah",
+        "type": "resource",
+        "url": "/pages/grow-utah.md",
+        "siteId": "grow-utah:41.027594,-111.925289",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "450 Simmons Way, Suite 500, Kaysville, UT 84037",
+        "precision": "exact",
+        "provenance": "https://growutah.com/about",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6502622,
+          40.2524308
         ]
       },
       "properties": {
         "title": "H. Tracy Hall's Diamond Presses",
         "type": "work",
         "url": "/pages/h-tracy-hall-diamond-presses.md",
-        "mapLocation": "Provo regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "h-tracy-hall-diamond-presses:40.252431,-111.650262",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Brigham Young University, Provo, UT 84602",
+        "precision": "exact",
+        "provenance": "https://www.byu.edu/contact",
+        "anchorKind": "site",
         "region": "Provo",
         "domains": [],
         "focus": "materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation"
@@ -2184,6 +2848,9 @@ export default {
         "title": "Halia Therapeutics",
         "type": "venture",
         "url": "/pages/halia-therapeutics.md",
+        "siteId": "halia-therapeutics:40.435597,-111.878628",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Halia Therapeutics, 3900 N Traverse Mountain Blvd, Suite 100, Lehi, UT 84043",
         "precision": "exact",
         "provenance": "https://www.sec.gov/Archives/edgar/data/1829255/000182925525000001/xslFormDX08/primary_doc.xml",
@@ -2200,18 +2867,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6585,
-          40.2338
+          -111.6502622,
+          40.2524308
         ]
       },
       "properties": {
         "title": "Harvey Fletcher and Stereophonic Sound",
         "type": "work",
         "url": "/pages/harvey-fletcher-stereophonic-sound.md",
-        "mapLocation": "Provo regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "harvey-fletcher-stereophonic-sound:40.252431,-111.650262",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Brigham Young University, Provo, UT 84602",
+        "precision": "exact",
+        "provenance": "https://www.byu.edu/contact",
+        "anchorKind": "site",
         "region": "Provo",
         "domains": [],
         "focus": "acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering"
@@ -2222,18 +2892,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8020328,
+          40.6336242
         ]
       },
       "properties": {
         "title": "Health Catalyst",
         "type": "venture",
         "url": "/pages/health-catalyst.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "health-catalyst:40.633624,-111.802033",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Health Catalyst headquarters, 3165 E Millrock Drive, Suite 400, Salt Lake City, UT 84121",
+        "precision": "exact",
+        "provenance": "https://ir.healthcatalyst.com/static-files/df3c1cda-c41b-4490-885a-3c8e09216361",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "healthcare data analytics, population health, value-based care, clinical data integration"
@@ -2252,13 +2925,16 @@ export default {
         "title": "Heber City Community Alliance for Main Street",
         "type": "resource",
         "url": "/pages/heber-city-community-alliance-for-main-street.md",
+        "siteId": "heber-city-community-alliance-for-main-street:40.513852,-111.413475",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "475 North Main Street, Heber City, UT 84032",
         "precision": "exact",
         "provenance": "https://www.gohebervalley.com/Contact-Us/",
         "anchorKind": "site",
         "region": "Heber City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2274,13 +2950,16 @@ export default {
         "title": "Heber Valley Chamber of Commerce",
         "type": "resource",
         "url": "/pages/heber-valley-chamber-of-commerce.md",
+        "siteId": "heber-valley-chamber-of-commerce:40.513852,-111.413475",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "475 North Main Street, Heber City, UT 84032",
         "precision": "exact",
         "provenance": "https://www.gohebervalley.com/Contact-Us/",
         "anchorKind": "site",
         "region": "Heber City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2296,13 +2975,16 @@ export default {
         "title": "Heber Valley Economic Development",
         "type": "resource",
         "url": "/pages/heber-valley-economic-development.md",
+        "siteId": "heber-valley-economic-development:40.513852,-111.413475",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "475 North Main Street, Heber City, UT 84032",
         "precision": "exact",
         "provenance": "https://www.gohebervalley.com/Contact-Us/",
         "anchorKind": "site",
         "region": "Heber Valley",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2310,18 +2992,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8805543,
+          40.778508
         ]
       },
       "properties": {
         "title": "HELP Clinical Decision Support System",
         "type": "work",
         "url": "/pages/help-clinical-decision-support-system.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "help-clinical-decision-support-system:40.778508,-111.880554",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "LDS Hospital, 8th Avenue and C Street, Salt Lake City, UT 84143",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=LDS+Hospital+8th+Avenue+and+C+Street+Salt+Lake+City+UT",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "clinical decision support, medical informatics, electronic health records, hospital systems"
@@ -2340,6 +3025,9 @@ export default {
         "title": "Hexcel Corporation",
         "type": "venture",
         "url": "/pages/hexcel.md",
+        "siteId": "hexcel:40.670000,-111.930000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2357,18 +3045,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.9535043,
+          40.7378275
         ]
       },
       "properties": {
         "title": "High-Density Sustainable Aviation Fuels",
         "type": "work",
         "url": "/pages/high-density-sustainable-aviation-fuels.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "high-density-sustainable-aviation-fuels:40.737828,-111.953504",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "CleanJoule fuel-development facility, 2350 W 1500 S, Salt Lake City, UT 84104",
+        "precision": "exact",
+        "provenance": "https://www.linkedin.com/company/cleanjoule",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "aerospace-defense",
@@ -2390,6 +3081,9 @@ export default {
         "title": "Huntsman Cancer Institute",
         "type": "venture",
         "url": "/pages/huntsman-cancer-institute.md",
+        "siteId": "huntsman-cancer-institute:40.772254,-111.834874",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "2000 Circle of Hope Drive, Salt Lake City, UT 84112",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Huntsman+Cancer+Institute+2000+Circle+of+Hope+Salt+Lake+City+UT",
@@ -2412,13 +3106,16 @@ export default {
         "title": "Hurricane Valley Chamber of Commerce",
         "type": "resource",
         "url": "/pages/hurricane-valley-chamber-of-commerce.md",
+        "siteId": "hurricane-valley-chamber-of-commerce:37.175300,-113.289900",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Hurricane regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Hurricane",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2426,18 +3123,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6585,
-          40.2338
+          -111.6627188,
+          40.2169746
         ]
       },
       "properties": {
         "title": "Hypercraft",
         "type": "venture",
         "url": "/pages/hypercraft.md",
-        "mapLocation": "Provo regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "hypercraft:40.216975,-111.662719",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1200 Towne Centre Blvd, Suite D, Provo, UT 84601",
+        "precision": "exact",
+        "provenance": "https://hypercraftusa.com/contact/",
+        "anchorKind": "site",
         "region": "Provo",
         "domains": [
           "aerospace-defense",
@@ -2451,21 +3151,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.67,
-          40.12
+          -111.6622661,
+          40.2549196
         ]
       },
       "properties": {
         "title": "iHub",
         "type": "resource",
         "url": "/pages/ihub.md",
-        "mapLocation": "Utah County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
-        "region": "Utah County",
+        "siteId": "ihub:40.254920,-111.662266",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "iHub Utah, 1555 N Freedom Blvd, Provo, UT 84604",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=iHub%20Utah%201555%20N%20Freedom%20Blvd%20Provo%20UT%2084604",
+        "anchorKind": "site",
+        "region": "Provo",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Start a Business, Student, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.732453,
+          40.331321
+        ]
+      },
+      "properties": {
+        "title": "iMpact Utah",
+        "type": "resource",
+        "url": "/pages/impact-utah.md",
+        "siteId": "impact-utah:40.331321,-111.732453",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "380 Technology Ct, Suite 200, Lindon, UT 84042",
+        "precision": "exact",
+        "provenance": "https://business.thechamber.org/list/searchalpha/i",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -2481,6 +3209,9 @@ export default {
         "title": "IMSAR",
         "type": "venture",
         "url": "/pages/imsar.md",
+        "siteId": "imsar:40.250000,-111.700000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Utah Valley regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2505,6 +3236,9 @@ export default {
         "title": "Indie Square",
         "type": "resource",
         "url": "/pages/indie-square.md",
+        "siteId": "indie-square:40.666900,-111.887900",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Murray regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2519,19 +3253,22 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8508,
-          40.3916
+          -111.9044144,
+          40.7687816
         ]
       },
       "properties": {
         "title": "Inherent Biosciences",
         "type": "venture",
         "url": "/pages/inherent-biosciences.md",
-        "mapLocation": "Lehi regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
-        "region": "Lehi",
+        "siteId": "inherent-biosciences:40.768782,-111.904414",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "26 S Rio Grande St, Suite 2072, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.inherentbio.com/contact-us",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
         "domains": [],
         "focus": "epigenetic diagnostics, male fertility, sperm function, reproductive health, AI biomarkers"
       }
@@ -2541,18 +3278,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8059498,
+          40.6348111
         ]
       },
       "properties": {
         "title": "Instructure",
         "type": "venture",
         "url": "/pages/instructure.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "instructure:40.634811,-111.805950",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Instructure headquarters, 6330 S 3000 E, Suite 700, Salt Lake City, UT 84121",
+        "precision": "exact",
+        "provenance": "https://www.instructure.com/contact-us",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "computing"
@@ -2573,6 +3313,9 @@ export default {
         "title": "Intactis Bio",
         "type": "venture",
         "url": "/pages/intactis-bio.md",
+        "siteId": "intactis-bio:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2587,18 +3330,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8805543,
+          40.778508
         ]
       },
       "properties": {
         "title": "Intermountain Clinical Quality Improvement",
         "type": "work",
         "url": "/pages/intermountain-clinical-quality-improvement.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "intermountain-clinical-quality-improvement:40.778508,-111.880554",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "LDS Hospital, 8th Avenue and C Street, Salt Lake City, UT 84143",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=LDS+Hospital+8th+Avenue+and+C+Street+Salt+Lake+City+UT",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "healthcare delivery science, clinical quality improvement, learning health system, process control"
@@ -2609,18 +3355,46 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.0263,
-          41.1616
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "International Trade And Diplomacy",
+        "type": "resource",
+        "url": "/pages/international-trade-and-diplomacy.md",
+        "siteId": "international-trade-and-diplomacy:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "exports, international expansion, trade missions, foreign investment, diplomacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.023458,
+          41.190712
         ]
       },
       "properties": {
         "title": "Iomega Zip Drive",
         "type": "work",
         "url": "/pages/iomega-zip-drive.md",
-        "mapLocation": "Roy regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "iomega-zip-drive:41.190712,-112.023458",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Former Iomega facility, 1821 W 4000 S, Roy, UT 84067",
+        "precision": "exact",
+        "provenance": "https://www.ftc.gov/sites/default/files/documents/cases/1998/12/9723023cmp.htm",
+        "anchorKind": "site",
         "region": "Roy",
         "domains": [],
         "focus": "hardware, storage, consumer computing, peripherals, 1990s PC era"
@@ -2631,18 +3405,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.79,
-          39.71
+          -111.713566,
+          40.2245042
         ]
       },
       "properties": {
         "title": "Ionic Mineral Technologies (Ionic MT)",
         "type": "venture",
         "url": "/pages/ionic-mt.md",
-        "mapLocation": "Juab County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "ionic-mt:40.224504,-111.713566",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "652 S Lakeview Pkwy, Building B, Suite B6, Provo, UT 84601",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Ionic%20Mineral%20Technologies%20652%20S%20Lakeview%20Pkwy%20Provo%20UT%2084601",
+        "anchorKind": "site",
         "region": "Juab County",
         "domains": [
           "energy",
@@ -2664,6 +3441,9 @@ export default {
         "title": "Iris Biomedical",
         "type": "venture",
         "url": "/pages/iris-biomedical.md",
+        "siteId": "iris-biomedical:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2686,13 +3466,16 @@ export default {
         "title": "Iron County Economic Development",
         "type": "resource",
         "url": "/pages/iron-county-economic-development.md",
+        "siteId": "iron-county-economic-development:37.677534,-113.061592",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "10 North Main Street, Cedar City, UT 84720",
         "precision": "exact",
         "provenance": "https://www.cedarcityut.gov/Directory.aspx?did=10",
         "anchorKind": "site",
         "region": "Iron County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2708,6 +3491,9 @@ export default {
         "title": "Jared Rutter",
         "type": "person",
         "url": "/pages/jared-rutter.md",
+        "siteId": "jared-rutter:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2730,6 +3516,9 @@ export default {
         "title": "Jarvik-7 Artificial Heart",
         "type": "work",
         "url": "/pages/jarvik-7-artificial-heart.md",
+        "siteId": "jarvik-7-artificial-heart:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2752,6 +3541,9 @@ export default {
         "title": "Josh James",
         "type": "person",
         "url": "/pages/josh-james.md",
+        "siteId": "josh-james:40.250000,-111.700000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Utah Valley regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2774,13 +3566,16 @@ export default {
         "title": "Juab County Economic Development",
         "type": "resource",
         "url": "/pages/juab-county-economic-development.md",
+        "siteId": "juab-county-economic-development:39.710875,-111.836076",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "160 North Main Street, Nephi, UT 84648",
         "precision": "exact",
         "provenance": "https://business.utah.gov/statewide-economic-development-contacts/",
         "anchorKind": "site",
         "region": "Juab County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2796,6 +3591,9 @@ export default {
         "title": "Karl Sun",
         "type": "person",
         "url": "/pages/karl-sun.md",
+        "siteId": "karl-sun:40.562200,-111.929700",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "South Jordan regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -2810,21 +3608,349 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.879621,
+          40.76978
+        ]
+      },
+      "properties": {
+        "title": "Kem C. Gardner Policy Institute",
+        "type": "resource",
+        "url": "/pages/kem-c-gardner-policy-institute.md",
+        "siteId": "kem-c-gardner-policy-institute:40.769780,-111.879621",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "411 E South Temple St, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://gardner.utah.edu/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.813282,
+          40.632228
+        ]
+      },
+      "properties": {
+        "title": "Kickstart Fund",
+        "type": "resource",
+        "url": "/pages/kickstart-fund.md",
+        "siteId": "kickstart-fund:40.632228,-111.813282",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "2750 E Cottonwood Pkwy, Suite 160, Cottonwood Heights, UT 84121",
+        "precision": "exact",
+        "provenance": "https://kickstart.com/faq",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Funding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.837282,
+          40.664549
+        ]
+      },
+      "properties": {
+        "title": "Kiln",
+        "type": "resource",
+        "url": "/pages/kiln.md",
+        "siteId": "kiln:40.664549,-111.837282",
+        "siteIndex": 0,
+        "siteCount": 7,
+        "mapLocation": "Kiln Holladay, 1895 E Rodeo Walk Dr, Suite B200, Holladay, UT 84117",
+        "precision": "exact",
+        "provenance": "https://kiln.com/communities/holladay/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8816934,
+          40.4209358
+        ]
+      },
+      "properties": {
+        "title": "Kiln",
+        "type": "resource",
+        "url": "/pages/kiln.md",
+        "siteId": "kiln:40.420936,-111.881693",
+        "siteIndex": 1,
+        "siteCount": 7,
+        "mapLocation": "Kiln Lehi, 2701 N Thanksgiving Way, Unit 100, Lehi, UT 84043",
+        "precision": "exact",
+        "provenance": "https://kiln.com/communities/lehi/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.539098,
+          40.7193744
+        ]
+      },
+      "properties": {
+        "title": "Kiln",
+        "type": "resource",
+        "url": "/pages/kiln.md",
+        "siteId": "kiln:40.719374,-111.539098",
+        "siteIndex": 2,
+        "siteCount": 7,
+        "mapLocation": "Kiln Park City, 1090 Center Dr, Park City, UT 84098",
+        "precision": "exact",
+        "provenance": "https://kiln.com/communities/park-city/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6672513,
+          40.2648492
+        ]
+      },
+      "properties": {
+        "title": "Kiln",
+        "type": "resource",
+        "url": "/pages/kiln.md",
+        "siteId": "kiln:40.264849,-111.667251",
+        "siteIndex": 3,
+        "siteCount": 7,
+        "mapLocation": "Kiln Provo, 412 W Rivers Edge Dr, Provo, UT 84604",
+        "precision": "exact",
+        "provenance": "https://kiln.com/communities/provo/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9044144,
+          40.7687816
+        ]
+      },
+      "properties": {
+        "title": "Kiln",
+        "type": "resource",
+        "url": "/pages/kiln.md",
+        "siteId": "kiln:40.768782,-111.904414",
+        "siteIndex": 4,
+        "siteCount": 7,
+        "mapLocation": "Kiln Salt Lake City, 26 S Rio Grande St, Suite 2072, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://kiln.com/communities/salt-lake-city/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5526301,
+          37.08184
+        ]
+      },
+      "properties": {
+        "title": "Kiln",
+        "type": "resource",
+        "url": "/pages/kiln.md",
+        "siteId": "kiln:37.081840,-113.552630",
+        "siteIndex": 5,
+        "siteCount": 7,
+        "mapLocation": "Kiln St. George, 1575 S River Rd, St. George, UT 84790",
+        "precision": "exact",
+        "provenance": "https://kiln.com/communities/st-george/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5908962,
+          40.3956286
+        ]
+      },
+      "properties": {
+        "title": "Kiln",
+        "type": "resource",
+        "url": "/pages/kiln.md",
+        "siteId": "kiln:40.395629,-111.590896",
+        "siteIndex": 6,
+        "siteCount": 7,
+        "mapLocation": "Kiln Cabin, 9049 Timphaven Rd, Sundance, UT 84604",
+        "precision": "exact",
+        "provenance": "https://kiln.com/communities/sundance-kiln-cabin/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.879995,
+          40.760545
         ]
       },
       "properties": {
         "title": "Kinect Capital",
         "type": "resource",
         "url": "/pages/kinect-capital.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "kinect-capital:40.760545,-111.879995",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Kinect Capital, 355 E 400 S, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://utahfounders.org/resource/kinect-capital/",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "capital readiness, founder mentoring, investor introductions, pitch preparation"
+        "focus": "Entrepreneurship Communities, Funding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8897398,
+          40.7690737
+        ]
+      },
+      "properties": {
+        "title": "Kirton McConkie",
+        "type": "helper",
+        "url": "/pages/kirton-mcconkie.md",
+        "siteId": "kirton-mcconkie:40.769074,-111.889740",
+        "siteIndex": 0,
+        "siteCount": 4,
+        "mapLocation": "Kirton McConkie Building, 50 E South Temple, Suite 400, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.kirtonmcconkie.com/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "startup law, corporate formation, venture financing, M&A, securities, IP, general counsel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8885015,
+          40.7684211
+        ]
+      },
+      "properties": {
+        "title": "Kirton McConkie",
+        "type": "helper",
+        "url": "/pages/kirton-mcconkie.md",
+        "siteId": "kirton-mcconkie:40.768421,-111.888502",
+        "siteIndex": 1,
+        "siteCount": 4,
+        "mapLocation": "KeyBank Tower, 36 S State St, Suite 1900, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.kirtonmcconkie.com/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "startup law, corporate formation, venture financing, M&A, securities, IP, general counsel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8919324,
+          40.427778
+        ]
+      },
+      "properties": {
+        "title": "Kirton McConkie",
+        "type": "helper",
+        "url": "/pages/kirton-mcconkie.md",
+        "siteId": "kirton-mcconkie:40.427778,-111.891932",
+        "siteIndex": 2,
+        "siteCount": 4,
+        "mapLocation": "2600 W Executive Pkwy, Suite 400, Lehi, UT 84048",
+        "precision": "exact",
+        "provenance": "https://www.kirtonmcconkie.com/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "startup law, corporate formation, venture financing, M&A, securities, IP, general counsel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5796157,
+          37.1134047
+        ]
+      },
+      "properties": {
+        "title": "Kirton McConkie",
+        "type": "helper",
+        "url": "/pages/kirton-mcconkie.md",
+        "siteId": "kirton-mcconkie:37.113405,-113.579616",
+        "siteIndex": 3,
+        "siteCount": 4,
+        "mapLocation": "301 N 200 E, Suite 3A, St. George, UT 84770",
+        "precision": "exact",
+        "provenance": "https://www.kirtonmcconkie.com/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "startup law, corporate formation, venture financing, M&A, securities, IP, general counsel"
       }
     },
     {
@@ -2840,6 +3966,9 @@ export default {
         "title": "L3Harris Salt Lake City",
         "type": "venture",
         "url": "/pages/l3harris-salt-lake.md",
+        "siteId": "l3harris-salt-lake:40.783401,-111.952491",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "640 North 2200 West, Salt Lake City, UT 84116",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=L3Harris+640+North+2200+West+Salt+Lake+City+UT",
@@ -2856,18 +3985,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.7958,
-          40.3769
+          -111.7762899,
+          40.3560867
         ]
       },
       "properties": {
         "title": "LiveView Technologies (LVT)",
         "type": "venture",
         "url": "/pages/liveview-technologies.md",
-        "mapLocation": "American Fork regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "liveview-technologies:40.356087,-111.776290",
+        "siteIndex": 0,
+        "siteCount": 2,
+        "mapLocation": "LVT Headquarters, 802 E 1050 S, American Fork, UT 84003",
+        "precision": "exact",
+        "provenance": "https://www.lvt.com/contact",
+        "anchorKind": "site",
         "region": "American Fork",
         "domains": [],
         "focus": "physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription"
@@ -2878,21 +4010,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8338,
-          41.737
+          -111.6539214,
+          40.1546825
+        ]
+      },
+      "properties": {
+        "title": "LiveView Technologies (LVT)",
+        "type": "venture",
+        "url": "/pages/liveview-technologies.md",
+        "siteId": "liveview-technologies:40.154682,-111.653921",
+        "siteIndex": 1,
+        "siteCount": 2,
+        "mapLocation": "LVT Manufacturing, 151 E 3450 N, Spanish Fork, UT 84660",
+        "precision": "exact",
+        "provenance": "https://www.lvt.com/contact",
+        "anchorKind": "site",
+        "region": "American Fork",
+        "domains": [],
+        "focus": "physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8373586,
+          41.7369727
         ]
       },
       "properties": {
         "title": "Logan City Economic Development",
         "type": "resource",
         "url": "/pages/logan-city-economic-development.md",
-        "mapLocation": "Logan regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "logan-city-economic-development:41.736973,-111.837359",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Logan City Hall, 290 N 100 W, Logan, UT 84321",
+        "precision": "exact",
+        "provenance": "https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php",
+        "anchorKind": "site",
         "region": "Logan",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2908,6 +4068,9 @@ export default {
         "title": "Lucid Software",
         "type": "venture",
         "url": "/pages/lucid-software.md",
+        "siteId": "lucid-software:40.564530,-111.902649",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "10355 South Jordan Gateway, Suite 300, South Jordan, UT 84095",
         "precision": "exact",
         "provenance": "https://lucid.co/contact-us",
@@ -2930,13 +4093,16 @@ export default {
         "title": "Make Salt Lake",
         "type": "resource",
         "url": "/pages/make-salt-lake.md",
+        "siteId": "make-salt-lake:40.766805,-111.910492",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "663 West 100 South, Salt Lake City, UT 84104",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Make+Salt+Lake+663+West+100+South+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -2952,13 +4118,16 @@ export default {
         "title": "Make Utah",
         "type": "resource",
         "url": "/pages/make-utah.md",
+        "siteId": "make-utah:40.356279,-111.759825",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Make Utah, Building C2, 389 S 1300 W, Pleasant Grove, UT 84062",
         "precision": "exact",
         "provenance": "https://makeutah.org/space-license-agreement/",
         "anchorKind": "site",
         "region": "Pleasant Grove",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Consumer Packaged Goods, Manufacturing"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -2974,13 +4143,41 @@ export default {
         "title": "Maven CREATE",
         "type": "resource",
         "url": "/pages/maven-create.md",
+        "siteId": "maven-create:40.749996,-111.885784",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "177 East 900 South, Suite 200, Salt Lake City, UT 84111",
         "precision": "exact",
         "provenance": "https://mavenslc.com/businesses/maven-create/",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Women, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.813172,
+          40.632293
+        ]
+      },
+      "properties": {
+        "title": "Mercato Partners",
+        "type": "resource",
+        "url": "/pages/mercato-partners.md",
+        "siteId": "mercato-partners:40.632293,-111.813172",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "2750 E Cottonwood Pkwy, Suite 500, Cottonwood Heights, UT 84121",
+        "precision": "exact",
+        "provenance": "https://www.mercatopartners.com/contact",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Funding, Late Stage Growth"
       }
     },
     {
@@ -2996,6 +4193,9 @@ export default {
         "title": "Merit Medical Systems",
         "type": "venture",
         "url": "/pages/merit-medical.md",
+        "siteId": "merit-medical:40.571462,-111.935662",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "1600 West Merit Parkway, South Jordan, UT 84095",
         "precision": "exact",
         "provenance": "https://www.merit.com/contact/",
@@ -3020,13 +4220,16 @@ export default {
         "title": "Moab Chamber of Commerce",
         "type": "resource",
         "url": "/pages/moab-chamber-of-commerce.md",
+        "siteId": "moab-chamber-of-commerce:38.567909,-109.550843",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "330 South Main Street, Moab, UT 84532",
         "precision": "exact",
         "provenance": "https://moabchamber.com/about-the-chamber/",
         "anchorKind": "site",
         "region": "Grand County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3042,13 +4245,16 @@ export default {
         "title": "Monarch",
         "type": "resource",
         "url": "/pages/monarch.md",
+        "siteId": "monarch:41.220574,-111.968383",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "The Monarch, 455 25th St, Ogden, UT 84401",
         "precision": "exact",
         "provenance": "https://www.themonarchogden.com/about/",
         "anchorKind": "site",
         "region": "Ogden",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Arts and Entertainment and Recreation"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -3064,13 +4270,16 @@ export default {
         "title": "Monticello Coworking Space",
         "type": "resource",
         "url": "/pages/monticello-coworking-space.md",
+        "siteId": "monticello-coworking-space:37.871400,-109.342900",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Monticello regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Monticello",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -3086,13 +4295,16 @@ export default {
         "title": "Morgan Chamber of Commerce",
         "type": "resource",
         "url": "/pages/morgan-chamber-of-commerce.md",
+        "siteId": "morgan-chamber-of-commerce:41.090000,-111.580000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Morgan County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Morgan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3100,21 +4312,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.58,
-          41.09
+          -111.6782169,
+          41.0358679
         ]
       },
       "properties": {
         "title": "Morgan County Economic Development",
         "type": "resource",
         "url": "/pages/morgan-county-economic-development.md",
-        "mapLocation": "Morgan County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "morgan-county-economic-development:41.035868,-111.678217",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Morgan County Courthouse, 48 W Young Street, Morgan, UT 84050",
+        "precision": "exact",
+        "provenance": "https://www.morgancountyutah.gov/contact",
+        "anchorKind": "site",
         "region": "Morgan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3122,21 +4337,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.65,
-          40.35
+          -111.6820358,
+          40.3113295
         ]
       },
       "properties": {
         "title": "Mountain Land Association of Governments' Revolving Loan Fund (RLF)",
         "type": "resource",
         "url": "/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md",
-        "mapLocation": "Mountainland regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "mountain-land-association-of-governments-revolving-loan-fund-rlf:40.311329,-111.682036",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "MAG Orem Office, 586 E 800 N, Orem, UT 84097",
+        "precision": "exact",
+        "provenance": "https://magutah.gov/contact/",
+        "anchorKind": "site",
         "region": "Mountainland",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -3144,21 +4362,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.65,
-          40.35
+          -111.6820358,
+          40.3113295
         ]
       },
       "properties": {
         "title": "Mountainland Association of Governments",
         "type": "resource",
         "url": "/pages/mountainland-association-of-governments.md",
-        "mapLocation": "Mountainland regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "mountainland-association-of-governments:40.311329,-111.682036",
+        "siteIndex": 0,
+        "siteCount": 2,
+        "mapLocation": "MAG Orem Office, 586 E 800 N, Orem, UT 84097",
+        "precision": "exact",
+        "provenance": "https://magutah.gov/contact/",
+        "anchorKind": "site",
         "region": "Mountainland",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3166,18 +4387,46 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.9069,
-          40.8486
+          -111.7342922,
+          40.2885089
+        ]
+      },
+      "properties": {
+        "title": "Mountainland Association of Governments",
+        "type": "resource",
+        "url": "/pages/mountainland-association-of-governments.md",
+        "siteId": "mountainland-association-of-governments:40.288509,-111.734292",
+        "siteIndex": 1,
+        "siteCount": 2,
+        "mapLocation": "MAG Vineyard Office, 478 S Geneva Rd, Vineyard, UT 84059",
+        "precision": "exact",
+        "provenance": "https://magutah.gov/contact/",
+        "anchorKind": "site",
+        "region": "Mountainland",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9441225,
+          40.8375993
         ]
       },
       "properties": {
         "title": "MOXIE Solid Oxide Electrolysis Stack",
         "type": "work",
         "url": "/pages/moxie-solid-oxide-electrolysis-stack.md",
-        "mapLocation": "North Salt Lake regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "moxie-solid-oxide-electrolysis-stack:40.837599,-111.944123",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "OxEon Energy MOXIE development site, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054",
+        "precision": "exact",
+        "provenance": "https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf",
+        "anchorKind": "site",
         "region": "North Salt Lake",
         "domains": [
           "space-science",
@@ -3200,6 +4449,9 @@ export default {
         "title": "Music AI (Moises)",
         "type": "venture",
         "url": "/pages/music-ai.md",
+        "siteId": "music-ai:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -3214,18 +4466,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8508,
-          40.3916
+          -111.892055,
+          40.4297222
         ]
       },
       "properties": {
         "title": "MX Technologies",
         "type": "venture",
         "url": "/pages/mx-technologies.md",
-        "mapLocation": "Lehi regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "mx-technologies:40.429722,-111.892055",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "3401 N Thanksgiving Way, Suite 500, Lehi, UT 84043",
+        "precision": "exact",
+        "provenance": "https://www.mx.com/",
+        "anchorKind": "site",
         "region": "Lehi",
         "domains": [],
         "focus": "open banking, financial data, account aggregation, fintech API platform"
@@ -3244,6 +4499,9 @@ export default {
         "title": "Myriad Genetics BRCA Sequencing and Testing",
         "type": "work",
         "url": "/pages/myriad-genetics-brca.md",
+        "siteId": "myriad-genetics-brca:40.763858,-111.824370",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "320 Wakara Way, Salt Lake City, UT 84108",
         "precision": "exact",
         "provenance": "https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5",
@@ -3266,6 +4524,9 @@ export default {
         "title": "Myriad Genetics",
         "type": "venture",
         "url": "/pages/myriad-genetics.md",
+        "siteId": "myriad-genetics:40.763858,-111.824370",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "320 Wakara Way, Salt Lake City, UT 84108",
         "precision": "exact",
         "provenance": "https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5",
@@ -3280,21 +4541,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.904473,
+          40.767876
         ]
       },
       "properties": {
         "title": "NephroNovus",
         "type": "venture",
         "url": "/pages/nephronovus.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "nephronovus:40.767876,-111.904473",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "48 S Rio Grande St, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.nephronovus.com/",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "chronic kidney disease, renal fibrosis, drug discovery, computational biology, Altitude Lab alumni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.658396,
+          40.236147
+        ]
+      },
+      "properties": {
+        "title": "Nielson Scientific",
+        "type": "venture",
+        "url": "/pages/nielson-scientific.md",
+        "siteId": "nielson-scientific:40.236147,-111.658396",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "180 N University Ave, Suite 270, Provo, UT 84601",
+        "precision": "exact",
+        "provenance": "https://www.cbinsights.com/company/nielson-scientific",
+        "anchorKind": "site",
+        "region": "unknown",
+        "domains": [],
+        "focus": "deep tech (domain unknown); DOE SBIR"
       }
     },
     {
@@ -3310,13 +4599,16 @@ export default {
         "title": "Northern Utah Economic Alliance",
         "type": "resource",
         "url": "/pages/northern-utah-economic-alliance.md",
+        "siteId": "northern-utah-economic-alliance:41.200000,-112.000000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Northern Utah regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Northern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3332,6 +4624,9 @@ export default {
         "title": "Northrop Grumman — Promontory Facility",
         "type": "venture",
         "url": "/pages/northrop-grumman-promontory.md",
+        "siteId": "northrop-grumman-promontory:41.620000,-112.550000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Promontory regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -3349,18 +4644,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.9028652,
+          40.6575244
         ]
       },
       "properties": {
         "title": "NOW CFO",
         "type": "helper",
         "url": "/pages/now-cfo.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "now-cfo:40.657524,-111.902865",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "NOW CFO headquarters, 5251 Green Street, Suite 350, Murray, UT 84123",
+        "precision": "exact",
+        "provenance": "https://www.nowcfo.com/wp-content/uploads/2022/09/NOW_CFO_BrandGuide_Q1_2022.pdf",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance operations"
@@ -3379,6 +4677,9 @@ export default {
         "title": "NSA Utah Data Center",
         "type": "venture",
         "url": "/pages/nsa-utah-data-center.md",
+        "siteId": "nsa-utah-data-center:40.489700,-111.938800",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Bluffdale regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -3386,6 +4687,106 @@ export default {
         "region": "Bluffdale",
         "domains": [],
         "focus": "intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Nucleus Fund",
+        "type": "resource",
+        "url": "/pages/nucleus-fund.md",
+        "siteId": "nucleus-fund:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.nucleusfundutah.com/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "early-stage capital, deep tech, university spinouts, commercialization"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Nucleus Grow",
+        "type": "resource",
+        "url": "/pages/nucleus-grow.md",
+        "siteId": "nucleus-grow:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.nucleusutah.org/grow",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "SBIR, STTR, non-dilutive funding, deep tech, research commercialization"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Nucleus Institute",
+        "type": "helper",
+        "url": "/pages/nucleus-institute.md",
+        "siteId": "nucleus-institute:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://people.utah.edu/basic.hml?eid=259658297",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "commercialization, talent matching, early-stage capital, research translation, Utah innovation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Nucleus MarketEdge",
+        "type": "resource",
+        "url": "/pages/nucleus-marketedge.md",
+        "siteId": "nucleus-marketedge:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.nucleusutah.org/marketedge",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "research commercialization, professors, PhDs, postdocs, market discovery"
       }
     },
     {
@@ -3401,6 +4802,9 @@ export default {
         "title": "Nusano",
         "type": "venture",
         "url": "/pages/nusano.md",
+        "siteId": "nusano:40.712867,-111.987151",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "4061 West Parkway Boulevard, West Valley City, UT 84120",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Nusano+4061+West+Parkway+Boulevard+West+Valley+City+UT",
@@ -3423,6 +4827,9 @@ export default {
         "title": "O.C. Tanner",
         "type": "venture",
         "url": "/pages/oc-tanner.md",
+        "siteId": "oc-tanner:40.728012,-111.889359",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "1930 South State Street, Salt Lake City, UT 84115",
         "precision": "exact",
         "provenance": "https://www.octanner.com/en-gb/legal/terms-of-use",
@@ -3445,13 +4852,16 @@ export default {
         "title": "Ogden-Weber Chamber of Commerce",
         "type": "resource",
         "url": "/pages/ogden-weber-chamber-of-commerce.md",
+        "siteId": "ogden-weber-chamber-of-commerce:41.223176,-111.970334",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Ogden-Weber Chamber of Commerce, 2380 Washington Blvd, Suite 290, Ogden, UT 84401",
         "precision": "exact",
         "provenance": "https://www.ogdenweberchamber.com/staff/",
         "anchorKind": "site",
         "region": "Weber County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3459,18 +4869,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.67,
-          40.12
+          -111.681917,
+          40.3243332
         ]
       },
       "properties": {
         "title": "Omniture Web Analytics",
         "type": "work",
         "url": "/pages/omniture-web-analytics.md",
-        "mapLocation": "Utah County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "omniture-web-analytics:40.324333,-111.681917",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Former Omniture Headquarters, 550 E Timpanogos Cir, Orem, UT 84097",
+        "precision": "exact",
+        "provenance": "https://www.sec.gov/Archives/edgar/data/1357525/000104746909008514/0001047469-09-008514-index.htm",
+        "anchorKind": "site",
         "region": "Utah County",
         "domains": [],
         "focus": "software, SaaS, web analytics, digital marketing, enterprise software"
@@ -3489,6 +4902,9 @@ export default {
         "title": "Overstock.com",
         "type": "venture",
         "url": "/pages/overstock-com.md",
+        "siteId": "overstock-com:40.666900,-111.887900",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Murray regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -3511,6 +4927,9 @@ export default {
         "title": "Owlet Baby Care",
         "type": "venture",
         "url": "/pages/owlet-baby-care.md",
+        "siteId": "owlet-baby-care:40.432633,-111.896631",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Owlet, 2940 W Maple Loop Dr, Suite 203, Lehi, UT 84048",
         "precision": "exact",
         "provenance": "https://owletcare.com/pages/privacy-policy",
@@ -3525,18 +4944,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.9069,
-          40.8486
+          -111.9441225,
+          40.8375993
         ]
       },
       "properties": {
         "title": "OxEon Energy",
         "type": "venture",
         "url": "/pages/oxeon-energy.md",
-        "mapLocation": "North Salt Lake regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "oxeon-energy:40.837599,-111.944123",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "OxEon Energy, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054",
+        "precision": "exact",
+        "provenance": "https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf",
+        "anchorKind": "site",
         "region": "North Salt Lake",
         "domains": [
           "energy",
@@ -3558,13 +4980,16 @@ export default {
         "title": "Pacific Island Chamber of Commerce (PICC)",
         "type": "resource",
         "url": "/pages/pacific-island-chamber-of-commerce-picc.md",
+        "siteId": "pacific-island-chamber-of-commerce-picc:40.450000,-111.850000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake County; Utah County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake County; Utah County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -3572,18 +4997,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.9054609,
+          40.7562387
         ]
       },
       "properties": {
         "title": "Palladyne AI",
         "type": "venture",
         "url": "/pages/palladyne-ai.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "palladyne-ai:40.756239,-111.905461",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Palladyne AI headquarters, 650 S 500 W, Suite 150, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.palladyneai.com/contact-us/",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "embodied AI, collaborative autonomy, edge inference, defense technology, robotics"
@@ -3602,13 +5030,16 @@ export default {
         "title": "Park City Angels",
         "type": "resource",
         "url": "/pages/park-city-angels.md",
+        "siteId": "park-city-angels:40.646100,-111.498000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Park City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Park City",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -3624,13 +5055,16 @@ export default {
         "title": "Park City Chamber of Commerce",
         "type": "resource",
         "url": "/pages/park-city-chamber-of-commerce.md",
+        "siteId": "park-city-chamber-of-commerce:40.664139,-111.497228",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "1850 Sidewinder Drive Suite 200, Park City, UT 84060",
         "precision": "exact",
         "provenance": "https://www.parkcitychamber.com/about-us/",
         "anchorKind": "site",
         "region": "Park City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3646,6 +5080,9 @@ export default {
         "title": "Parsons Behle & Latimer",
         "type": "helper",
         "url": "/pages/parsons-behle-latimer.md",
+        "siteId": "parsons-behle-latimer:40.764504,-111.890593",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "201 South Main Street, Suite 1800, Salt Lake City, UT 84111",
         "precision": "exact",
         "provenance": "https://parsonsbehle.com/locations/law-firms-salt-lake-city",
@@ -3660,18 +5097,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8018862,
+          40.6343557
         ]
       },
       "properties": {
         "title": "PassiveLogic",
         "type": "venture",
         "url": "/pages/passivelogic.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "passivelogic:40.634356,-111.801886",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "PassiveLogic corporate headquarters, 6510 Millrock Drive, Suite 350, Salt Lake City, UT 84121",
+        "precision": "exact",
+        "provenance": "https://www.passivelogic.com/footer/contact-us-replace",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "energy",
@@ -3693,13 +5133,16 @@ export default {
         "title": "Pelion Ventures",
         "type": "resource",
         "url": "/pages/pelion-ventures.md",
+        "siteId": "pelion-ventures:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -3707,21 +5150,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8131457,
+          40.6326121
         ]
       },
       "properties": {
         "title": "Peterson Ventures",
         "type": "resource",
         "url": "/pages/peterson-ventures.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "peterson-ventures:40.632612,-111.813146",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Peterson Ventures, 2755 E Cottonwood Parkway, Suite 400, Salt Lake City, UT 84121",
+        "precision": "exact",
+        "provenance": "https://www.petersonventures.com/contact/",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -3729,18 +5175,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.6411,
-          38.2769
+          -112.639821,
+          38.273964
         ]
       },
       "properties": {
         "title": "Philo Farnsworth and Electronic Television",
         "type": "work",
         "url": "/pages/philo-farnsworth-television.md",
-        "mapLocation": "Beaver regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "philo-farnsworth-television:38.273964,-112.639821",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "90 E Center St, Beaver, UT 84713",
+        "precision": "exact",
+        "provenance": "https://www.roadsideamerica.com/story/27927",
+        "anchorKind": "site",
         "region": "Beaver",
         "domains": [],
         "focus": "invention, television, electronics, signal scanning, Utah-born inventors"
@@ -3759,6 +5208,9 @@ export default {
         "title": "PhotoPharmics",
         "type": "venture",
         "url": "/pages/photopharmics.md",
+        "siteId": "photopharmics:40.430985,-111.879429",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "PhotoPharmics, 3450 N Triumph Blvd, Suite 141, Lehi, UT 84043",
         "precision": "exact",
         "provenance": "https://photopharmics.com/aboutus/",
@@ -3781,13 +5233,16 @@ export default {
         "title": "Pitted Ventures",
         "type": "resource",
         "url": "/pages/pitted-ventures.md",
+        "siteId": "pitted-ventures:40.573457,-111.897950",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "9815 South Monroe Street, Suite 206, Sandy, UT 84070",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Pitted+Ventures+9815+South+Monroe+Street+Sandy+UT",
         "anchorKind": "site",
         "region": "Sandy",
         "domains": [],
-        "focus": "Funding, Consumer Packaged Goods"
+        "focus": "Funding"
       }
     },
     {
@@ -3803,6 +5258,9 @@ export default {
         "title": "Pluralsight",
         "type": "venture",
         "url": "/pages/pluralsight.md",
+        "siteId": "pluralsight:40.980500,-111.887400",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Farmington regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -3825,6 +5283,9 @@ export default {
         "title": "Podium",
         "type": "venture",
         "url": "/pages/podium.md",
+        "siteId": "podium:40.419618,-111.876248",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Podium, 1650 W Digital Dr, Lehi, UT 84043",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Podium+1650+W+Digital+Dr+Lehi+UT+84043",
@@ -3839,18 +5300,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8503646,
+          40.7644827
         ]
       },
       "properties": {
         "title": "Pons and Fleischmann Cold Fusion Announcement",
         "type": "work",
         "url": "/pages/pons-fleischmann-cold-fusion.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "pons-fleischmann-cold-fusion:40.764483,-111.850365",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "culture-place",
@@ -3864,21 +5328,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112,
-          41.2
+          -111.9054801,
+          40.7359301
         ]
       },
       "properties": {
         "title": "Portal Warehousing",
         "type": "resource",
         "url": "/pages/portal-warehousing.md",
-        "mapLocation": "Northern Utah regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "portal-warehousing:40.735930,-111.905480",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Portal Warehousing Salt Lake City, 1580 S 500 W, Suite 100, Salt Lake City, UT 84115",
+        "precision": "exact",
+        "provenance": "https://www.join-portal.com/location/salt-lake-city",
+        "anchorKind": "site",
         "region": "Northern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Consumer Packaged Goods"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -3894,6 +5361,9 @@ export default {
         "title": "Preferred CFO",
         "type": "helper",
         "url": "/pages/preferred-cfo.md",
+        "siteId": "preferred-cfo:40.053000,-111.673500",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salem regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -3916,6 +5386,9 @@ export default {
         "title": "Qualtrics",
         "type": "venture",
         "url": "/pages/qualtrics.md",
+        "siteId": "qualtrics:40.303728,-111.662902",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Qualtrics headquarters, 333 W River Park Dr, Provo, UT 84604",
         "precision": "exact",
         "provenance": "https://www.qualtrics.com/contact/",
@@ -3932,21 +5405,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.65,
-          39.15
+          -112.0833003,
+          38.7760654
         ]
       },
       "properties": {
         "title": "R6 Regional Council",
         "type": "resource",
         "url": "/pages/r6-regional-council.md",
-        "mapLocation": "Central Utah regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "r6-regional-council:38.776065,-112.083300",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "R6 Regional Council, 82 E 600 N, Richfield, UT 84701",
+        "precision": "exact",
+        "provenance": "https://r6.utah.gov/contact/",
+        "anchorKind": "site",
         "region": "Central Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3962,6 +5438,9 @@ export default {
         "title": "RAM Aviation, Space & Defense",
         "type": "venture",
         "url": "/pages/ram-aviation-space-defense.md",
+        "siteId": "ram-aviation-space-defense:37.116761,-113.519451",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "3172 East Deseret Drive South, St. George, UT 84790",
         "precision": "exact",
         "provenance": "https://ramasd.com/contact/",
@@ -3984,6 +5463,9 @@ export default {
         "title": "Rebel Medicine",
         "type": "venture",
         "url": "/pages/rebel-medicine.md",
+        "siteId": "rebel-medicine:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4006,6 +5488,9 @@ export default {
         "title": "Recursion Pharmaceuticals",
         "type": "venture",
         "url": "/pages/recursion-pharmaceuticals.md",
+        "siteId": "recursion-pharmaceuticals:40.762819,-111.904607",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "41 South Rio Grande Street, Salt Lake City, UT 84101",
         "precision": "exact",
         "provenance": "https://www.recursion.com/terms-of-use",
@@ -4031,13 +5516,16 @@ export default {
         "title": "Red Rock Angels",
         "type": "resource",
         "url": "/pages/red-rock-angels.md",
+        "siteId": "red-rock-angels:37.096500,-113.568400",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "St. George regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "St. George",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -4053,6 +5541,9 @@ export default {
         "title": "Renaissance Ag",
         "type": "venture",
         "url": "/pages/renaissance-ag.md",
+        "siteId": "renaissance-ag:40.297000,-111.746700",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Vineyard regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4067,21 +5558,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.65,
-          39.15
+          -111.887096,
+          40.769149
         ]
       },
       "properties": {
-        "title": "Revolving Loan Fund Program (RLF) - R6",
+        "title": "Renewable Tech Ventures",
         "type": "resource",
-        "url": "/pages/revolving-loan-fund-program-rlf-r6.md",
-        "mapLocation": "Central Utah regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
-        "region": "Central Utah",
+        "url": "/pages/renewable-tech-ventures.md",
+        "siteId": "renewable-tech-ventures:40.769149,-111.887096",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Former office: 136 E South Temple, Suite 925, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://pscdocs.utah.gov/electric/16docs/16035T09/288519UtBusLtrRESched348-9-16.pdf",
+        "anchorKind": "site",
+        "region": "unknown",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding, Other"
       }
     },
     {
@@ -4089,21 +5583,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -109.9,
-          38.5
+          -112.0833003,
+          38.7760654
+        ]
+      },
+      "properties": {
+        "title": "Revolving Loan Fund Program (RLF) - R6",
+        "type": "resource",
+        "url": "/pages/revolving-loan-fund-program-rlf-r6.md",
+        "siteId": "revolving-loan-fund-program-rlf-r6:38.776065,-112.083300",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "R6 Regional Council, 82 E 600 N, Richfield, UT 84701",
+        "precision": "exact",
+        "provenance": "https://r6.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "Central Utah",
+        "domains": [],
+        "focus": "Funding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8362394,
+          39.5957889
         ]
       },
       "properties": {
         "title": "Revolving Loan Fund Program (RLF) - South Eastern Utah",
         "type": "resource",
         "url": "/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md",
-        "mapLocation": "Southeastern Utah regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "revolving-loan-fund-program-rlf-south-eastern-utah:39.595789,-110.836239",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "SERDA Admin Office, 252 S Fairgrounds Rd, Price, UT 84501",
+        "precision": "exact",
+        "provenance": "https://serda.utah.gov/contact",
+        "anchorKind": "site",
         "region": "Southeastern Utah",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -4119,13 +5641,16 @@ export default {
         "title": "RevRoad",
         "type": "resource",
         "url": "/pages/revroad.md",
+        "siteId": "revroad:40.265068,-111.666780",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "RevRoad, 412 W Rivers Edge Dr, Provo, UT 84604",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=RevRoad+412+W+Rivers+Edge+Dr+Provo+UT+84604",
         "anchorKind": "site",
         "region": "Provo",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -4141,13 +5666,16 @@ export default {
         "title": "Richfield Chamber of Commerce",
         "type": "resource",
         "url": "/pages/richfield-chamber-of-commerce.md",
+        "siteId": "richfield-chamber-of-commerce:38.771602,-112.084706",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "250 North Main Street, Richfield, UT 84701",
         "precision": "exact",
         "provenance": "https://richfieldareachamber.com/contact/",
         "anchorKind": "site",
         "region": "Richfield",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4163,6 +5691,9 @@ export default {
         "title": "Ripple Neuro",
         "type": "venture",
         "url": "/pages/ripple-neuro.md",
+        "siteId": "ripple-neuro:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4185,6 +5716,9 @@ export default {
         "title": "Rodatherm Energy",
         "type": "venture",
         "url": "/pages/rodatherm-energy.md",
+        "siteId": "rodatherm-energy:39.400000,-113.400000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Great Basin regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4209,6 +5743,9 @@ export default {
         "title": "Ryan Smith (IMSAR)",
         "type": "person",
         "url": "/pages/ryan-smith-imsar.md",
+        "siteId": "ryan-smith-imsar:40.250000,-111.700000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Utah Valley regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4231,6 +5768,9 @@ export default {
         "title": "Ryan Smith (Qualtrics)",
         "type": "person",
         "url": "/pages/ryan-smith-qualtrics.md",
+        "siteId": "ryan-smith-qualtrics:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4253,13 +5793,16 @@ export default {
         "title": "Salina Chamber",
         "type": "resource",
         "url": "/pages/salina-chamber.md",
+        "siteId": "salina-chamber:38.957700,-111.859900",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salina regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salina",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4275,13 +5818,16 @@ export default {
         "title": "Salt Lake Angels",
         "type": "resource",
         "url": "/pages/salt-lake-angels.md",
+        "siteId": "salt-lake-angels:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -4297,13 +5843,16 @@ export default {
         "title": "Salt Lake Chamber",
         "type": "resource",
         "url": "/pages/salt-lake-chamber.md",
+        "siteId": "salt-lake-chamber:40.760903,-111.885813",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "175 East 400 South, Suite 600, Salt Lake City, UT 84111",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Salt+Lake+Chamber+175+East+400+South+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4319,13 +5868,16 @@ export default {
         "title": "Salt Lake City Office Space for Rent",
         "type": "resource",
         "url": "/pages/salt-lake-city-office-space-for-rent.md",
+        "siteId": "salt-lake-city-office-space-for-rent:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Any, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -4341,13 +5893,16 @@ export default {
         "title": "Salt Lake Community College (SLCC) - The Mill",
         "type": "resource",
         "url": "/pages/salt-lake-community-college-slcc-the-mill.md",
+        "siteId": "salt-lake-community-college-slcc-the-mill:40.576930,-111.900911",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "9690 South 300 West, Sandy, UT 84070",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=The+Mill+at+SLCC+9690+South+300+West+Sandy+UT",
         "anchorKind": "site",
         "region": "Sandy",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -4355,21 +5910,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112,
-          41.2
+          -111.8531618,
+          40.6072347
         ]
       },
       "properties": {
         "title": "Salt Mine",
         "type": "resource",
         "url": "/pages/salt-mine.md",
-        "mapLocation": "Northern Utah regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "salt-mine:40.607235,-111.853162",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Mine Productive Workspace, 7984 S 1300 E, Sandy, UT 84094",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Salt+Mine+Productive+Workspace+7984+S+1300+E+Sandy+UT+84094",
+        "anchorKind": "site",
         "region": "Northern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -4377,21 +5935,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -109.8,
-          37.63
+          -109.342737,
+          37.873548
         ]
       },
       "properties": {
         "title": "San Juan County Chamber of Commerce",
         "type": "resource",
         "url": "/pages/san-juan-county-chamber-of-commerce.md",
-        "mapLocation": "San Juan County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "san-juan-county-chamber-of-commerce:37.873548,-109.342737",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "80 N Main St, Monticello, UT 84535",
+        "precision": "exact",
+        "provenance": "https://www.sanjuancountychamber.com/",
+        "anchorKind": "site",
         "region": "San Juan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4407,13 +5968,16 @@ export default {
         "title": "San Juan County Economic Development",
         "type": "resource",
         "url": "/pages/san-juan-county-economic-development.md",
+        "siteId": "san-juan-county-economic-development:37.870908,-109.342810",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "117 South Main Street, Monticello, UT 84535",
         "precision": "exact",
         "provenance": "https://sanjuancountyut.gov/econdev/page/monticello-coworking-space",
         "anchorKind": "site",
         "region": "San Juan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4421,21 +5985,174 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.58,
-          39.37
+          -111.7907174,
+          40.3603746
+        ]
+      },
+      "properties": {
+        "title": "Sandbox",
+        "type": "venture",
+        "url": "/pages/sandbox.md",
+        "siteId": "sandbox:40.360375,-111.790717",
+        "siteIndex": 0,
+        "siteCount": 6,
+        "mapLocation": "Sandbox Education, 782 Automall Dr, American Fork, UT 84003",
+        "precision": "exact",
+        "provenance": "https://sandbox.ing/legal/terms.html",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6502622,
+          40.2524308
+        ]
+      },
+      "properties": {
+        "title": "Sandbox",
+        "type": "venture",
+        "url": "/pages/sandbox.md",
+        "siteId": "sandbox:40.252431,-111.650262",
+        "siteIndex": 1,
+        "siteCount": 6,
+        "mapLocation": "Brigham Young University, Provo, UT 84602",
+        "precision": "exact",
+        "provenance": "https://rollins.byu.edu/programs/sandbox",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8419536,
+          40.7652201
+        ]
+      },
+      "properties": {
+        "title": "Sandbox",
+        "type": "venture",
+        "url": "/pages/sandbox.md",
+        "siteId": "sandbox:40.765220,-111.841954",
+        "siteIndex": 2,
+        "siteCount": 6,
+        "mapLocation": "University of Utah, 201 Presidents Cir, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://web.sandbox.ing/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8097425,
+          41.745161
+        ]
+      },
+      "properties": {
+        "title": "Sandbox",
+        "type": "venture",
+        "url": "/pages/sandbox.md",
+        "siteId": "sandbox:41.745161,-111.809742",
+        "siteIndex": 3,
+        "siteCount": 6,
+        "mapLocation": "Utah State University, 1400 Old Main Hill, Logan, UT 84322",
+        "precision": "exact",
+        "provenance": "https://web.sandbox.ing/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.716456,
+          40.281078
+        ]
+      },
+      "properties": {
+        "title": "Sandbox",
+        "type": "venture",
+        "url": "/pages/sandbox.md",
+        "siteId": "sandbox:40.281078,-111.716456",
+        "siteIndex": 4,
+        "siteCount": 6,
+        "mapLocation": "Utah Valley University, 800 W University Pkwy, Orem, UT 84058",
+        "precision": "exact",
+        "provenance": "https://web.sandbox.ing/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56541,
+          37.1028759
+        ]
+      },
+      "properties": {
+        "title": "Sandbox",
+        "type": "venture",
+        "url": "/pages/sandbox.md",
+        "siteId": "sandbox:37.102876,-113.565410",
+        "siteIndex": 5,
+        "siteCount": 6,
+        "mapLocation": "Utah Tech University, 225 S University Ave, St. George, UT 84770",
+        "precision": "exact",
+        "provenance": "https://news.utahtech.edu/2024/04/09/sandbox/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5775665,
+          39.3541819
         ]
       },
       "properties": {
         "title": "Sanpete Chamber of Commerce",
         "type": "resource",
         "url": "/pages/sanpete-chamber-of-commerce.md",
-        "mapLocation": "Sanpete County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "sanpete-chamber-of-commerce:39.354182,-111.577567",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Former Sanpete County Chamber Office, 310 S 400 E, Ephraim, UT 84627",
+        "precision": "exact",
+        "provenance": "https://business.slchamber.com/list/member/sanpete-county-chamber-of-commerce-105612",
+        "anchorKind": "site",
         "region": "Sanpete County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4443,18 +6160,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8278745,
+          40.7605099
         ]
       },
       "properties": {
         "title": "Sarcos Technology and Robotics Corporation",
         "type": "venture",
         "url": "/pages/sarcos-technology-and-robotics.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "sarcos-technology-and-robotics:40.760510,-111.827874",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Former Sarcos principal offices, 360 Wakara Way, Salt Lake City, UT 84108",
+        "precision": "exact",
+        "provenance": "https://investor.palladyneai.com/static-files/eac7bc9d-c483-4411-bd8f-486146791517",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "robotics, industrial automation, defense, exoskeletons, teleoperation"
@@ -4473,13 +6193,41 @@ export default {
         "title": "Savory Fund",
         "type": "resource",
         "url": "/pages/savory-fund.md",
+        "siteId": "savory-fund:40.431099,-111.875791",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Savory Fund, 1557 W Innovation Way, Suite 150, Lehi, UT 84043",
         "precision": "exact",
         "provenance": "https://savoryfund.com/privacy-policy/",
         "anchorKind": "site",
         "region": "Lehi",
         "domains": [],
-        "focus": "Funding, Late Stage Growth, Hospitality and Food Services"
+        "focus": "Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.887425,
+          40.766686
+        ]
+      },
+      "properties": {
+        "title": "SBA Utah District Office",
+        "type": "resource",
+        "url": "/pages/sba-utah-district-office.md",
+        "siteId": "sba-utah-district-office:40.766686,-111.887425",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "125 S State St, Room 2227, Salt Lake City, UT 84138",
+        "precision": "exact",
+        "provenance": "https://www.sba.gov/district/utah",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Funding, Late Stage Growth, Start a Business"
       }
     },
     {
@@ -4495,6 +6243,9 @@ export default {
         "title": "SchoolAI",
         "type": "venture",
         "url": "/pages/schoolai.md",
+        "siteId": "schoolai:40.418929,-111.879018",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "SchoolAI, 2000 Ashton Blvd, Suite 500, Lehi, UT 84043",
         "precision": "exact",
         "provenance": "https://schoolai.com/cookies",
@@ -4517,6 +6268,9 @@ export default {
         "title": "SCI Institute",
         "type": "venture",
         "url": "/pages/sci-institute.md",
+        "siteId": "sci-institute:40.767668,-111.845235",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "72 South Central Campus Drive, Salt Lake City, UT 84112",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=SCI+Institute+72+South+Central+Campus+Drive+Salt+Lake+City+UT",
@@ -4542,6 +6296,9 @@ export default {
         "title": "Sethera Therapeutics",
         "type": "venture",
         "url": "/pages/sethera-therapeutics.md",
+        "siteId": "sethera-therapeutics:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4564,13 +6321,16 @@ export default {
         "title": "Sevier County Economic Development",
         "type": "resource",
         "url": "/pages/sevier-county-economic-development.md",
+        "siteId": "sevier-county-economic-development:38.771602,-112.084706",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "250 North Main Street, Richfield, UT 84701",
         "precision": "exact",
         "provenance": "https://sevieredc.com/contact-us/",
         "anchorKind": "site",
         "region": "Sevier County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4586,13 +6346,16 @@ export default {
         "title": "Signal Peak Ventures",
         "type": "resource",
         "url": "/pages/signal-peak-ventures.md",
+        "siteId": "signal-peak-ventures:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Aerospace and Defense, Agriculture"
+        "focus": "Funding"
       }
     },
     {
@@ -4600,21 +6363,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.65,
-          39.15
+          -111.8919324,
+          40.427778
+        ]
+      },
+      "properties": {
+        "title": "Silicon Slopes",
+        "type": "resource",
+        "url": "/pages/silicon-slopes.md",
+        "siteId": "silicon-slopes:40.427778,-111.891932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "2600 W Executive Pkwy, Suite 140, Lehi, UT 84043",
+        "precision": "exact",
+        "provenance": "https://www.siliconslopes.com/about-us",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0833003,
+          38.7760654
         ]
       },
       "properties": {
         "title": "Six County Association of Governments",
         "type": "resource",
         "url": "/pages/six-county-association-of-governments.md",
-        "mapLocation": "Central Utah regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "six-county-association-of-governments:38.776065,-112.083300",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "R6 Regional Council, 82 E 600 N, Richfield, UT 84701",
+        "precision": "exact",
+        "provenance": "https://r6.utah.gov/contact/",
+        "anchorKind": "site",
         "region": "Central Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4630,6 +6421,9 @@ export default {
         "title": "Skullcandy",
         "type": "venture",
         "url": "/pages/skullcandy.md",
+        "siteId": "skullcandy:40.721558,-111.547209",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "6301 North Landmark Drive, Park City, UT 84098",
         "precision": "exact",
         "provenance": "https://www.summitcountyutah.gov/CivicAlerts.asp?AID=505&ARC=1224",
@@ -4644,18 +6438,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.7,
-          40.5
+          -111.899758,
+          40.882152
         ]
       },
       "properties": {
         "title": "Sky Quarry",
         "type": "venture",
         "url": "/pages/sky-quarry.md",
-        "mapLocation": "Uintah County; Woods Cross regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "sky-quarry:40.882152,-111.899758",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "707 W 700 S, Suite 101, Woods Cross, UT 84087",
+        "precision": "exact",
+        "provenance": "https://skyquarry.com/wp-content/uploads/2024/03/SQI-Privacy-Policy.pdf",
+        "anchorKind": "site",
         "region": "Uintah County; Woods Cross",
         "domains": [
           "energy",
@@ -4677,13 +6474,16 @@ export default {
         "title": "Snow College - GRIT Center",
         "type": "resource",
         "url": "/pages/snow-college-grit-center.md",
+        "siteId": "snow-college-grit-center:39.357117,-111.586992",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "GRIT Center, 151 S Main St, Ephraim, UT 84627",
         "precision": "exact",
         "provenance": "https://omni.snow.edu/offices/grit-center/",
         "anchorKind": "site",
         "region": "Ephraim",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -4699,13 +6499,16 @@ export default {
         "title": "Sorenson Impact Fund",
         "type": "resource",
         "url": "/pages/sorenson-impact-fund.md",
+        "siteId": "sorenson-impact-fund:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding, Other, Aerospace and Defense, Agriculture"
+        "focus": "Funding, Other"
       }
     },
     {
@@ -4721,6 +6524,9 @@ export default {
         "title": "Soundstream and Commercial Digital Audio Recording",
         "type": "work",
         "url": "/pages/soundstream-digital-audio-recording.md",
+        "siteId": "soundstream-digital-audio-recording:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4743,13 +6549,16 @@ export default {
         "title": "SoUtah Economic Alliance",
         "type": "resource",
         "url": "/pages/soutah-economic-alliance.md",
+        "siteId": "soutah-economic-alliance:37.280000,-113.510000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Washington County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Washington County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4757,21 +6566,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -109.9,
-          38.5
+          -110.8362394,
+          39.5957889
         ]
       },
       "properties": {
         "title": "Southeastern Association of Local Governments",
         "type": "resource",
         "url": "/pages/southeastern-association-of-local-governments.md",
-        "mapLocation": "Southeastern Utah regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "southeastern-association-of-local-governments:39.595789,-110.836239",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "SERDA Admin Office, 252 S Fairgrounds Rd, Price, UT 84501",
+        "precision": "exact",
+        "provenance": "https://serda.utah.gov/contact",
+        "anchorKind": "site",
         "region": "Southeastern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4779,21 +6591,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -109.9,
-          38.5
+          -110.8362394,
+          39.5957889
         ]
       },
       "properties": {
         "title": "Southeastern Utah Association of Local Governments - Economic Development",
         "type": "resource",
         "url": "/pages/southeastern-utah-association-of-local-governments-economic-development.md",
-        "mapLocation": "Southeastern Utah regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "southeastern-utah-association-of-local-governments-economic-development:39.595789,-110.836239",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "SERDA Admin Office, 252 S Fairgrounds Rd, Price, UT 84501",
+        "precision": "exact",
+        "provenance": "https://serda.utah.gov/contact",
+        "anchorKind": "site",
         "region": "Southeastern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4809,13 +6624,16 @@ export default {
         "title": "Southern Utah University Cedar City Business & Innovation Center",
         "type": "resource",
         "url": "/pages/southern-utah-university-cedar-city-business-and-innovation-center.md",
+        "siteId": "southern-utah-university-cedar-city-business-and-innovation-center:37.663554,-113.069859",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "510 West 800 South, Cedar City, UT 84720",
         "precision": "exact",
         "provenance": "https://www.suu.edu/regional/bic/",
         "anchorKind": "site",
         "region": "Cedar City",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -4823,21 +6641,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.0619,
-          37.6775
+          -113.070009,
+          37.676983
         ]
       },
       "properties": {
         "title": "Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship",
         "type": "resource",
         "url": "/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md",
-        "mapLocation": "Cedar City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship:37.676983,-113.070009",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "545 W University Blvd, Cedar City, UT 84720",
+        "precision": "exact",
+        "provenance": "https://www.suu.edu/business/entrepreneurship/contact.html",
+        "anchorKind": "site",
         "region": "Cedar City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -4853,6 +6674,9 @@ export default {
         "title": "Space Dynamics Laboratory",
         "type": "venture",
         "url": "/pages/space-dynamics-laboratory.md",
+        "siteId": "space-dynamics-laboratory:41.763243,-111.821987",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Space Dynamics Laboratory headquarters, 416 E Innovation Ave, North Logan, UT 84341",
         "precision": "exact",
         "provenance": "https://www.sdl.usu.edu/contact/",
@@ -4870,17 +6694,20 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.6689,
-          41.4375
+          -112.66801,
+          41.437856
         ]
       },
       "properties": {
         "title": "Spiral Jetty",
         "type": "work",
         "url": "/pages/spiral-jetty.md",
-        "mapLocation": "Spiral Jetty visitor parking and site, Rozel Point, Great Salt Lake, UT",
-        "precision": "approximate",
-        "provenance": "https://diaart.org/visit/visit-our-locations-sites/robert-smithson-spiral-jetty/main/spiraljetty",
+        "siteId": "spiral-jetty:41.437856,-112.668010",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Spiral Jetty, Rozel Point, Box Elder County, UT",
+        "precision": "exact",
+        "provenance": "https://diaart.org/visit/visit-our-locations-sites/robert-smithson-spiral-jetty",
         "anchorKind": "site",
         "region": "Rozel Point, Great Salt Lake, Box Elder County",
         "domains": [],
@@ -4900,6 +6727,9 @@ export default {
         "title": "Spire Therapeutics",
         "type": "venture",
         "url": "/pages/spire-therapeutic.md",
+        "siteId": "spire-therapeutic:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -4922,13 +6752,16 @@ export default {
         "title": "St George Area Chamber of Commerce",
         "type": "resource",
         "url": "/pages/st-george-area-chamber-of-commerce.md",
+        "siteId": "st-george-area-chamber-of-commerce:37.110547,-113.581092",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "136 North 100 East, St. George, UT 84770",
         "precision": "exact",
         "provenance": "https://stgeorgechamber.com/about/boards/",
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4936,21 +6769,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.5684,
-          37.0965
+          -113.579684,
+          37.112018
         ]
       },
       "properties": {
         "title": "St. George City Economic Development",
         "type": "resource",
         "url": "/pages/st-george-city-economic-development.md",
-        "mapLocation": "St. George regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "st-george-city-economic-development:37.112018,-113.579684",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "175 E 200 N, St. George, UT 84770",
+        "precision": "exact",
+        "provenance": "https://www.utah.gov/pmn/sitemap/publicbody/1087.html",
+        "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4966,13 +6802,16 @@ export default {
         "title": "St George Downtown Farmers Market",
         "type": "resource",
         "url": "/pages/st-george-downtown-farmers-market.md",
+        "siteId": "st-george-downtown-farmers-market:37.103022,-113.574884",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "300 South 400 East, St. George, UT 84770",
         "precision": "exact",
         "provenance": "https://downtownfarmerstg.com/",
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth, Other, Agriculture, Arts and Entertainment and Recreation"
+        "focus": "Entrepreneurship Communities, Late Stage Growth, Other"
       }
     },
     {
@@ -4980,21 +6819,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6585,
-          40.2338
+          -111.6672513,
+          40.2648492
         ]
       },
       "properties": {
         "title": "Startup Ignition Ventures",
         "type": "resource",
         "url": "/pages/startup-ignition-ventures.md",
-        "mapLocation": "Provo regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "startup-ignition-ventures:40.264849,-111.667251",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Startup Ignition at Kiln Provo, 412 W Rivers Edge Dr, Provo, UT 84604",
+        "precision": "exact",
+        "provenance": "https://www.startupignition.com/bootcamp/courses/provo-18",
+        "anchorKind": "site",
         "region": "Provo",
         "domains": [],
-        "focus": "Funding, Any, Software and Information Technology"
+        "focus": "Funding"
       }
     },
     {
@@ -5010,13 +6852,41 @@ export default {
         "title": "Startup Ogden",
         "type": "resource",
         "url": "/pages/startup-ogden.md",
+        "siteId": "startup-ogden:41.224404,-111.970010",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Weber State Downtown, 2314 Washington Blvd, Ogden, UT 84401",
         "precision": "exact",
         "provenance": "https://www.weber.edu/maps/locations.html",
         "anchorKind": "site",
         "region": "Ogden",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "Startup State Resource Filter",
+        "type": "resource",
+        "url": "/pages/startup-state-resource-list.md",
+        "siteId": "startup-state-resource-list:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -5032,6 +6902,9 @@ export default {
         "title": "Strider Technologies",
         "type": "venture",
         "url": "/pages/strider-technologies.md",
+        "siteId": "strider-technologies:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5039,6 +6912,31 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "strategic intelligence, geopolitical risk, economic security, AI, national security"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.918349,
+          40.733722
+        ]
+      },
+      "properties": {
+        "title": "Suazo Business Center",
+        "type": "resource",
+        "url": "/pages/suazo-business-center.md",
+        "siteId": "suazo-business-center:40.733722,-111.918349",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "960 W 1700 S, Salt Lake City, UT 84104",
+        "precision": "exact",
+        "provenance": "https://suazocenter.org/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -5054,13 +6952,16 @@ export default {
         "title": "Summit County Economic Development",
         "type": "resource",
         "url": "/pages/summit-county-economic-development.md",
+        "siteId": "summit-county-economic-development:40.918049,-111.399459",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "60 North Main Street, Coalville, UT 84017",
         "precision": "exact",
         "provenance": "https://business.utah.gov/statewide-economic-development-contacts/",
         "anchorKind": "site",
         "region": "Summit County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -5076,6 +6977,9 @@ export default {
         "title": "Sundance Institute",
         "type": "venture",
         "url": "/pages/sundance-institute.md",
+        "siteId": "sundance-institute:40.520000,-111.550000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Park City; Sundance Resort regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5098,6 +7002,9 @@ export default {
         "title": "Sword Health",
         "type": "venture",
         "url": "/pages/sword-health.md",
+        "siteId": "sword-health:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5120,6 +7027,9 @@ export default {
         "title": "SymbioCellTech",
         "type": "venture",
         "url": "/pages/symbiocelltech.md",
+        "siteId": "symbiocelltech:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5127,6 +7037,56 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "Type 1 diabetes, cell therapy, Neo-Islets, mesenchymal stem cells, islet transplantation, regenerative medicine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Talent Ready Utah",
+        "type": "resource",
+        "url": "/pages/talent-ready-utah.md",
+        "siteId": "talent-ready-utah:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://talentready.ushe.edu/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.881294,
+          40.524586
+        ]
+      },
+      "properties": {
+        "title": "Tandem Ventures",
+        "type": "resource",
+        "url": "/pages/tandem-ventures.md",
+        "siteId": "tandem-ventures:40.524586,-111.881294",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "12459 S 300 E, Suite 102, Draper, UT 84020",
+        "precision": "exact",
+        "provenance": "https://www.sec.gov/Archives/edgar/data/1940476/000194047624000002/0001940476-24-000002-index.html",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Funding"
       }
     },
     {
@@ -5142,6 +7102,9 @@ export default {
         "title": "Tanner LLC",
         "type": "helper",
         "url": "/pages/tanner-llc.md",
+        "siteId": "tanner-llc:40.768908,-111.888557",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "36 South State Street, Suite 600, Salt Lake City, UT 84111",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Tanner+LLC+36+South+State+Street+Salt+Lake+City+UT",
@@ -5156,18 +7119,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8940472,
+          40.7106435
         ]
       },
       "properties": {
         "title": "Teal Drones",
         "type": "venture",
         "url": "/pages/teal-drones.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "teal-drones:40.710644,-111.894047",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Teal Drones facility, 2800 S West Temple Street, Suite 2, South Salt Lake, UT 84115",
+        "precision": "exact",
+        "provenance": "https://tealdrones.com/contact-dev-dynamics/",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "aerospace-defense"
@@ -5188,13 +7154,16 @@ export default {
         "title": "Tech Ridge",
         "type": "resource",
         "url": "/pages/tech-ridge.md",
+        "siteId": "tech-ridge:37.097225,-113.594137",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "475 South Donlee Drive, St. George, UT 84770",
         "precision": "exact",
         "provenance": "https://business.stgeorgechamber.com/members/member/tech-ridge-9578",
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -5210,6 +7179,9 @@ export default {
         "title": "Techcyte",
         "type": "venture",
         "url": "/pages/techcyte.md",
+        "siteId": "techcyte:40.317399,-111.724552",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Techcyte headquarters, 1106 N 1200 W, Orem, UT 84057",
         "precision": "exact",
         "provenance": "https://techcyte.com/careers/join-our-team/",
@@ -5224,18 +7196,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.1,
-          39.05
+          -112.589761,
+          39.352837
         ]
       },
       "properties": {
         "title": "Telescope Array",
         "type": "venture",
         "url": "/pages/telescope-array-ultra-high-energy-cosmic-rays.md",
-        "mapLocation": "Millard County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "telescope-array-ultra-high-energy-cosmic-rays:39.352837,-112.589761",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "648 W Main St, Delta, UT 84624",
+        "precision": "exact",
+        "provenance": "https://www.ksl.com/article/17546079",
+        "anchorKind": "site",
         "region": "Millard County",
         "domains": [],
         "focus": "astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infrastructure"
@@ -5254,6 +7229,9 @@ export default {
         "title": "TELLUS Networked Sensor Solutions",
         "type": "venture",
         "url": "/pages/tellus.md",
+        "siteId": "tellus:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5276,13 +7254,16 @@ export default {
         "title": "The Hub at Bridgerland Technical College",
         "type": "resource",
         "url": "/pages/the-hub-at-bridgerland-technical-college.md",
+        "siteId": "the-hub-at-bridgerland-technical-college:41.757901,-111.856754",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Bridgerland Technical College Business & Innovation Building, 940 W 1400 N, Logan, UT 84321",
         "precision": "exact",
         "provenance": "https://btech.edu/contact-us/",
         "anchorKind": "site",
         "region": "Logan",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -5290,21 +7271,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8389,
-          40.5649
+          -111.9008263,
+          40.5755203
         ]
       },
       "properties": {
         "title": "The Mill Entrepreneurship Center",
         "type": "resource",
         "url": "/pages/the-mill-entrepreneurship-center.md",
-        "mapLocation": "Sandy regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "the-mill-entrepreneurship-center:40.575520,-111.900826",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "The Mill at Miller Campus, 9690 S 300 W, Sandy, UT 84070",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=The+Mill+9690+S+300+W+Sandy+UT+84070",
+        "anchorKind": "site",
         "region": "Sandy",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -5320,13 +7304,16 @@ export default {
         "title": "The Shop",
         "type": "resource",
         "url": "/pages/the-shop.md",
+        "siteId": "the-shop:40.760292,-111.881007",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "350 East 400 South, Salt Lake City, UT 84111",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=The+Shop+350+East+400+South+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -5342,6 +7329,9 @@ export default {
         "title": "Thera-T Pharmaceutics",
         "type": "venture",
         "url": "/pages/thera-t-pharmaceutics.md",
+        "siteId": "thera-t-pharmaceutics:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5364,6 +7354,9 @@ export default {
         "title": "Thiokol Solid Rocket Motors",
         "type": "work",
         "url": "/pages/thiokol-solid-rocket-motors.md",
+        "siteId": "thiokol-solid-rocket-motors:41.520000,-113.080000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Box Elder County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5386,6 +7379,9 @@ export default {
         "title": "Tim Latimer",
         "type": "person",
         "url": "/pages/tim-latimer.md",
+        "siteId": "tim-latimer:38.340000,-113.240000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Beaver County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5402,18 +7398,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.9156549,
+          40.7184514
         ]
       },
       "properties": {
         "title": "Torus",
         "type": "venture",
         "url": "/pages/torus.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "torus:40.718451,-111.915655",
+        "siteIndex": 0,
+        "siteCount": 2,
+        "mapLocation": "Torus corporate headquarters, 855 W 2400 S, South Salt Lake, UT 84119",
+        "precision": "exact",
+        "provenance": "https://www.torus.co/contact-us",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [
+          "energy",
+          "materials-mfg"
+        ],
+        "focus": "energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.61721,
+          40.1575183
+        ]
+      },
+      "properties": {
+        "title": "Torus",
+        "type": "venture",
+        "url": "/pages/torus.md",
+        "siteId": "torus:40.157518,-111.617210",
+        "siteIndex": 1,
+        "siteCount": 2,
+        "mapLocation": "Torus research and development facility, 372 W 700 S, Springville, UT 84663",
+        "precision": "exact",
+        "provenance": "https://www.torus.co/contact-us",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "energy",
@@ -5435,6 +7462,9 @@ export default {
         "title": "Trace AQ",
         "type": "venture",
         "url": "/pages/trace-aq.md",
+        "siteId": "trace-aq:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5449,21 +7479,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.12,
-          40.22
+          -111.889122,
+          40.769012
         ]
       },
       "properties": {
-        "title": "Uinta Basin Association of Governments",
+        "title": "U.S. Commercial Service",
         "type": "resource",
-        "url": "/pages/uinta-basin-association-of-governments.md",
-        "mapLocation": "Uinta Basin regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
-        "region": "Uinta Basin",
+        "url": "/pages/u-s-commercial-service.md",
+        "siteId": "u-s-commercial-service:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.trade.gov/utah-salt-lake-city",
+        "anchorKind": "site",
+        "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "International Trade"
       }
     },
     {
@@ -5471,21 +7504,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.12,
-          40.22
+          -109.98646,
+          40.297701
+        ]
+      },
+      "properties": {
+        "title": "Uinta Basin Association of Governments",
+        "type": "resource",
+        "url": "/pages/uinta-basin-association-of-governments.md",
+        "siteId": "uinta-basin-association-of-governments:40.297701,-109.986460",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "330 E 100 S, Roosevelt, UT 84066",
+        "precision": "exact",
+        "provenance": "https://www.ubaog.org/contact-us",
+        "anchorKind": "site",
+        "region": "Uinta Basin",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5658,
+          40.46003
         ]
       },
       "properties": {
         "title": "Uinta Basin Tech - Entrepreneur Center",
         "type": "resource",
         "url": "/pages/uinta-basin-tech-entrepreneur-center.md",
-        "mapLocation": "Uinta Basin regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "uinta-basin-tech-entrepreneur-center:40.460030,-109.565800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "320 N Aggie Blvd, Vernal, UT 84078",
+        "precision": "exact",
+        "provenance": "https://statewide.usu.edu/uintahbasin/directory/contact",
+        "anchorKind": "site",
         "region": "Uinta Basin",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -5501,13 +7562,16 @@ export default {
         "title": "Uintah Basin Economic Development District",
         "type": "resource",
         "url": "/pages/uintah-basin-economic-development-district.md",
+        "siteId": "uintah-basin-economic-development-district:40.298087,-109.986824",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "330 East 100 South, Roosevelt, UT 84066",
         "precision": "exact",
         "provenance": "https://www.ubaog.org/economic-development-district",
         "anchorKind": "site",
         "region": "Uinta Basin",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -5523,13 +7587,16 @@ export default {
         "title": "Uintah County Economic Development",
         "type": "resource",
         "url": "/pages/uintah-county-economic-development.md",
+        "siteId": "uintah-county-economic-development:40.457116,-109.526185",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "152 East 100 North, Vernal, UT 84078",
         "precision": "exact",
         "provenance": "https://business.uintah.gov/",
         "anchorKind": "site",
         "region": "Uintah County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -5545,13 +7612,16 @@ export default {
         "title": "University of Utah Lassonde Entrepreneurship Institute",
         "type": "resource",
         "url": "/pages/university-of-utah-lassonde-entrepreneurship-institute.md",
+        "siteId": "university-of-utah-lassonde-entrepreneurship-institute:40.764568,-111.841503",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "1701 Student Life Way, Salt Lake City, UT 84112",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Lassonde+Studios+1701+Student+Life+Way+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "student entrepreneurship, university entrepreneurship, startups, seed funding, venture creation"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -5567,6 +7637,9 @@ export default {
         "title": "US Magnesium",
         "type": "venture",
         "url": "/pages/us-magnesium.md",
+        "siteId": "us-magnesium:40.450000,-113.120000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Tooele County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5589,6 +7662,9 @@ export default {
         "title": "USU Center for Integrated BioSystems",
         "type": "venture",
         "url": "/pages/usu-integrated-biosystems.md",
+        "siteId": "usu-integrated-biosystems:41.737000,-111.833800",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Logan regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5603,18 +7679,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8445942,
+          40.7686069
         ]
       },
       "properties": {
         "title": "Utah Arch Research Group",
         "type": "venture",
         "url": "/pages/utah-arch.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "utah-arch:40.768607,-111.844594",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Merrill Engineering Building, 50 Central Campus Drive, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Merrill+Engineering+Building+50+Central+Campus+Drive+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "hardware architecture, ML accelerators, fully homomorphic encryption, privacy-preserving ML, 3D nanofabric, computer architecture"
@@ -5625,18 +7704,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8503646,
+          40.7644827
         ]
       },
       "properties": {
         "title": "Utah Array BCI Platform",
         "type": "work",
         "url": "/pages/utah-array-bci-platform.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "utah-array-bci-platform:40.764483,-111.850365",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "brain-computer interfaces, neural engineering, intracortical electrodes, medical devices"
@@ -5647,21 +7729,974 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.8709,
+          40.653506
+        ]
+      },
+      "properties": {
+        "title": "Utah Association of Counties (UAC)",
+        "type": "resource",
+        "url": "/pages/utah-association-of-counties-uac.md",
+        "siteId": "utah-association-of-counties-uac:40.653506,-111.870900",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "5397 S Vine St, Murray, UT 84107",
+        "precision": "exact",
+        "provenance": "https://www.utahcounties.org/about-pages/about",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.881027,
+          40.760409
+        ]
+      },
+      "properties": {
+        "title": "Utah Black Chamber",
+        "type": "resource",
+        "url": "/pages/utah-black-chamber.md",
+        "siteId": "utah-black-chamber:40.760409,-111.881027",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "350 E 400 S, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.linkedin.com/company/utah-black-chamber",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8445942,
+          40.7686069
         ]
       },
       "properties": {
         "title": "University of Utah Computer Graphics Program",
         "type": "work",
         "url": "/pages/utah-computer-graphics-program.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "utah-computer-graphics-program:40.768607,-111.844594",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Merrill Engineering Building, 50 Central Campus Drive, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Merrill+Engineering+Building+50+Central+Campus+Drive+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "computer graphics, rendering, human-computer interaction, software history"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925289,
+          41.027594
+        ]
+      },
+      "properties": {
+        "title": "Utah Defense Alliance",
+        "type": "resource",
+        "url": "/pages/utah-defense-alliance.md",
+        "siteId": "utah-defense-alliance:41.027594,-111.925289",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "450 Simmons Way, Suite 400, Kaysville, UT 84037",
+        "precision": "exact",
+        "provenance": "https://gopb.utah.gov/wp-content/uploads/2024/02/ERG2024.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938124,
+          40.776965
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Agriculture & Food",
+        "type": "resource",
+        "url": "/pages/utah-department-of-agriculture-and-food.md",
+        "siteId": "utah-department-of-agriculture-and-food:40.776965,-111.938124",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "350 N Redwood Rd, Salt Lake City, UT 84116",
+        "precision": "exact",
+        "provenance": "https://gopb.utah.gov/wp-content/uploads/2024/02/ERG2024.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.887143,
+          40.762605
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.762605,-111.887143",
+        "siteIndex": 0,
+        "siteCount": 31,
+        "mapLocation": "140 E 300 S, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.641664,
+          38.285785
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:38.285785,-112.641664",
+        "siteIndex": 1,
+        "siteCount": 31,
+        "mapLocation": "875 N Main St, Beaver, UT 84713",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.476166,
+          37.631439
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:37.631439,-109.476166",
+        "siteIndex": 2,
+        "siteCount": 31,
+        "mapLocation": "544 N 100 E, Blanding, UT 84511",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.018219,
+          41.490368
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:41.490368,-112.018219",
+        "siteIndex": 3,
+        "siteCount": 31,
+        "mapLocation": "138 W 990 S, Brigham City, UT 84302",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.058789,
+          37.680845
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:37.680845,-113.058789",
+        "siteIndex": 4,
+        "siteCount": 31,
+        "mapLocation": "176 E 200 N, Cedar City, UT 84720",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.999281,
+          41.092241
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:41.092241,-111.999281",
+        "siteIndex": 5,
+        "siteCount": 31,
+        "mapLocation": "1290 E 1450 S, Clearfield, UT 84015",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.567235,
+          39.351688
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:39.351688,-112.567235",
+        "siteIndex": 6,
+        "siteCount": 31,
+        "mapLocation": "44 S 350 E, Delta, UT 84624",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.031869,
+          39.227985
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:39.227985,-111.031869",
+        "siteIndex": 7,
+        "siteCount": 31,
+        "mapLocation": "550 W Highway 29, Castle Dale, UT 84513",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.423368,
+          40.508158
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.508158,-111.423368",
+        "siteIndex": 8,
+        "siteCount": 31,
+        "mapLocation": "69 N 600 W, Suite C, Heber City, UT 84032",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.220768,
+          38.244772
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:38.244772,-112.220768",
+        "siteIndex": 9,
+        "siteCount": 31,
+        "mapLocation": "550 N Main St, Junction, UT 84740",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.518123,
+          37.042767
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:37.042767,-112.518123",
+        "siteIndex": 10,
+        "siteCount": 31,
+        "mapLocation": "468 E 300 S, Kanab, UT 84741",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.858199,
+          40.404087
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.404087,-111.858199",
+        "siteIndex": 11,
+        "siteCount": 31,
+        "mapLocation": "557 W State St, Lehi, UT 84043",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.643343,
+          38.401837
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:38.401837,-111.643343",
+        "siteIndex": 12,
+        "siteCount": 31,
+        "mapLocation": "18 S Main St, Loa, UT 84747",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.837072,
+          41.734984
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:41.734984,-111.837072",
+        "siteIndex": 13,
+        "siteCount": 31,
+        "mapLocation": "180 N 100 W, Logan, UT 84321",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.636696,
+          39.264557
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:39.264557,-111.636696",
+        "siteIndex": 14,
+        "siteCount": 31,
+        "mapLocation": "55 S Main St, Suite 3, Manti, UT 84642",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.558551,
+          38.567404
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:38.567404,-109.558551",
+        "siteIndex": 15,
+        "siteCount": 31,
+        "mapLocation": "457 Kane Creek Blvd, Moab, UT 84532",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.83703,
+          39.71761
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:39.717610,-111.837030",
+        "siteIndex": 16,
+        "siteCount": 31,
+        "mapLocation": "625 N Main St, Nephi, UT 84648",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.968128,
+          41.216763
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:41.216763,-111.968128",
+        "siteIndex": 17,
+        "siteCount": 31,
+        "mapLocation": "480 27th St, Ogden, UT 84401",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.436675,
+          37.832807
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:37.832807,-112.436675",
+        "siteIndex": 18,
+        "siteCount": 31,
+        "mapLocation": "665 N Main St, Panguitch, UT 84759",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.496947,
+          40.662679
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.662679,-111.496947",
+        "siteIndex": 19,
+        "siteCount": 31,
+        "mapLocation": "1910 Prospector Ave, Suite 100, Park City, UT 84060",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.819212,
+          39.600259
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:39.600259,-110.819212",
+        "siteIndex": 20,
+        "siteCount": 31,
+        "mapLocation": "475 W Price River Dr, Suite 300, Price, UT 84501",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.66112,
+          40.254702
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.254702,-111.661120",
+        "siteIndex": 21,
+        "siteCount": 31,
+        "mapLocation": "1550 N 200 W, Provo, UT 84604",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.082591,
+          38.76698
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:38.766980,-112.082591",
+        "siteIndex": 22,
+        "siteCount": 31,
+        "mapLocation": "115 E 100 S, Richfield, UT 84701",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.993444,
+          40.294077
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.294077,-109.993444",
+        "siteIndex": 23,
+        "siteCount": 31,
+        "mapLocation": "140 W 425 S, Roosevelt, UT 84066",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.885761,
+          40.753752
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.753752,-111.885761",
+        "siteIndex": 24,
+        "siteCount": 31,
+        "mapLocation": "720 S 200 E, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938354,
+          40.647015
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.647015,-111.938354",
+        "siteIndex": 25,
+        "siteCount": 31,
+        "mapLocation": "5735 S Redwood Rd, Taylorsville, UT 84123",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901193,
+          40.882154
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.882154,-111.901193",
+        "siteIndex": 26,
+        "siteCount": 31,
+        "mapLocation": "763 W 700 S, Woods Cross, UT 84087",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.641794,
+          40.125203
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.125203,-111.641794",
+        "siteIndex": 27,
+        "siteCount": 31,
+        "mapLocation": "1185 N Canyon Creek Pkwy, Spanish Fork, UT 84660",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.574821,
+          37.111803
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:37.111803,-113.574821",
+        "siteIndex": 28,
+        "siteCount": 31,
+        "mapLocation": "162 N 400 E, Building B, St. George, UT 84770",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.299056,
+          40.536608
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.536608,-112.299056",
+        "siteIndex": 29,
+        "siteCount": 31,
+        "mapLocation": "305 N Main St, Suite 100, Tooele, UT 84074",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.548471,
+          40.454321
+        ]
+      },
+      "properties": {
+        "title": "Utah Department of Workforce Services",
+        "type": "resource",
+        "url": "/pages/utah-department-of-workforce-services.md",
+        "siteId": "utah-department-of-workforce-services:40.454321,-109.548471",
+        "siteIndex": 30,
+        "siteCount": 31,
+        "mapLocation": "1050 W Market Dr, Vernal, UT 84078",
+        "precision": "exact",
+        "provenance": "https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937291,
+          40.772033
+        ]
+      },
+      "properties": {
+        "title": "Utah Division of Outdoor Recreation",
+        "type": "resource",
+        "url": "/pages/utah-division-of-outdoor-recreation.md",
+        "siteId": "utah-division-of-outdoor-recreation:40.772033,-111.937291",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1594 W North Temple, Suite 100, Salt Lake City, UT 84116",
+        "precision": "exact",
+        "provenance": "https://recreation.utah.gov/boating-overview-original/life-jackets-boating-safety/ten-things-you-need-to-know-before-you-boat/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.887766,
+          40.775549
+        ]
+      },
+      "properties": {
+        "title": "Utah Film Commission",
+        "type": "resource",
+        "url": "/pages/utah-film-commission.md",
+        "siteId": "utah-film-commission:40.775549,-111.887766",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "300 N State St, Salt Lake City, UT 84114",
+        "precision": "exact",
+        "provenance": "https://film.utah.gov/locations/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.887766,
+          40.775549
+        ]
+      },
+      "properties": {
+        "title": "Utah Film Industry",
+        "type": "venture",
+        "url": "/pages/utah-film-industry.md",
+        "siteId": "utah-film-industry:40.775549,-111.887766",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "300 N State St, Salt Lake City, UT 84114",
+        "precision": "exact",
+        "provenance": "https://film.utah.gov/locations/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "film production, location services, tax incentives, crew base, visual storytelling, landscape"
       }
     },
     {
@@ -5677,6 +8712,9 @@ export default {
         "title": "Utah FORGE",
         "type": "work",
         "url": "/pages/utah-forge.md",
+        "siteId": "utah-forge:38.504160,-112.896430",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Utah FORGE well 16A(78)-32, near Milford, UT",
         "precision": "exact",
         "provenance": "https://utahforge.com/wp-content/uploads/2020/06/DataDash-ProvDrillingOperationsJune2020.pdf",
@@ -5693,21 +8731,274 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.889122,
+          40.769012
         ]
       },
       "properties": {
-        "title": "Utah Native American Chamber of Commerce",
+        "title": "Utah Governor's Office of Economic Opportunity",
         "type": "resource",
-        "url": "/pages/utah-native-american-chamber-of-commerce.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
-        "region": "Salt Lake City",
+        "url": "/pages/utah-governor-s-office-of-economic-opportunity.md",
+        "siteId": "utah-governor-s-office-of-economic-opportunity:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Multicultural, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.964742,
+          40.652753
+        ]
+      },
+      "properties": {
+        "title": "Utah Hispanic Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/utah-hispanic-chamber-of-commerce.md",
+        "siteId": "utah-hispanic-chamber-of-commerce:40.652753,-111.964742",
+        "siteIndex": 0,
+        "siteCount": 2,
+        "mapLocation": "3065 W 5400 S, Taylorsville, UT 84129",
+        "precision": "exact",
+        "provenance": "https://utahhcc.com/contact-us/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.983019,
+          40.620495
+        ]
+      },
+      "properties": {
+        "title": "Utah Hispanic Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/utah-hispanic-chamber-of-commerce.md",
+        "siteId": "utah-hispanic-chamber-of-commerce:40.620495,-111.983019",
+        "siteIndex": 1,
+        "siteCount": 2,
+        "mapLocation": "7181 S Campus View Dr, West Jordan, UT 84084",
+        "precision": "exact",
+        "provenance": "https://utahhcc.com/contact-us/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888975,
+          40.768946
+        ]
+      },
+      "properties": {
+        "title": "Utah Inland Port Authority",
+        "type": "resource",
+        "url": "/pages/utah-inland-port-authority.md",
+        "siteId": "utah-inland-port-authority:40.768946,-111.888975",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, 3rd Floor, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.uii.utah.gov/pmn/sitemap/publicbody/6413.html",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Utah Innovation Center",
+        "type": "resource",
+        "url": "/pages/utah-innovation-center.md",
+        "siteId": "utah-innovation-center:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.nucleusutah.org/grow",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Funding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Utah Innovation Fund",
+        "type": "resource",
+        "url": "/pages/utah-innovation-fund.md",
+        "siteId": "utah-innovation-fund:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.nucleusfundutah.com/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Funding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.881687,
+          40.424573
+        ]
+      },
+      "properties": {
+        "title": "Utah Korean Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/utah-korean-chamber-of-commerce.md",
+        "siteId": "utah-korean-chamber-of-commerce:40.424573,-111.881687",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "3300 Triumph Blvd, Suite 100, Lehi, UT 84043",
+        "precision": "exact",
+        "provenance": "https://www.linkedin.com/company/utah-korean-chamber-of-commerce",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.87435,
+          40.767978
+        ]
+      },
+      "properties": {
+        "title": "Utah League of Cities & Towns (ULCT)",
+        "type": "resource",
+        "url": "/pages/utah-league-of-cities-and-towns-ulct.md",
+        "siteId": "utah-league-of-cities-and-towns-ulct:40.767978,-111.874350",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "50 S 600 E, Suite 150, Salt Lake City, UT 84102",
+        "precision": "exact",
+        "provenance": "https://www.ulct.utah.gov/about/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.878767,
+          40.631923
+        ]
+      },
+      "properties": {
+        "title": "Utah Manufacturers Association",
+        "type": "resource",
+        "url": "/pages/utah-manufacturers-association.md",
+        "siteId": "utah-manufacturers-association:40.631923,-111.878767",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "428 E Winchester St, Suite 210, Murray, UT 84107",
+        "precision": "exact",
+        "provenance": "https://manufacturingutah.com/contact-us/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.848629,
+          40.767075
+        ]
+      },
+      "properties": {
+        "title": "Utah MEP",
+        "type": "resource",
+        "url": "/pages/utah-mep.md",
+        "siteId": "utah-mep:40.767075,-111.848629",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1495 E 100 S, MEK 1012, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://utah-mep.org/contact-us/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.886641,
+          40.696814
+        ]
+      },
+      "properties": {
+        "title": "Utah Microloan Fund (UMLF)",
+        "type": "resource",
+        "url": "/pages/utah-microloan-fund-umlf.md",
+        "siteId": "utah-microloan-fund-umlf:40.696814,-111.886641",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "154 E Ford Ave, Suite A, Salt Lake City, UT 84115",
+        "precision": "exact",
+        "provenance": "https://www.utahmicroloanfund.org/about.html",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Funding"
       }
     },
     {
@@ -5720,13 +9011,41 @@ export default {
         ]
       },
       "properties": {
-        "title": "Utah Neurorobotics Lab",
-        "type": "venture",
-        "url": "/pages/utah-neurorobotics-lab.md",
+        "title": "Utah Native American Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/utah-native-american-chamber-of-commerce.md",
+        "siteId": "utah-native-american-chamber-of-commerce:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8445942,
+          40.7686069
+        ]
+      },
+      "properties": {
+        "title": "Utah Neurorobotics Lab",
+        "type": "venture",
+        "url": "/pages/utah-neurorobotics-lab.md",
+        "siteId": "utah-neurorobotics-lab:40.768607,-111.844594",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Merrill Engineering Building, 50 Central Campus Drive, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Merrill+Engineering+Building+50+Central+Campus+Drive+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation"
@@ -5737,21 +9056,424 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "Utah Office Of Regulatory Relief",
+        "type": "resource",
+        "url": "/pages/utah-office-of-regulatory-relief.md",
+        "siteId": "utah-office-of-regulatory-relief:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "regulatory sandbox, compliance, regulated markets, policy feedback"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "Utah Office of Tourism",
+        "type": "resource",
+        "url": "/pages/utah-office-of-tourism.md",
+        "siteId": "utah-office-of-tourism:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.863989,
+          40.365709
+        ]
+      },
+      "properties": {
+        "title": "Utah Pacific Islander Chamber of Commerce",
+        "type": "resource",
+        "url": "/pages/utah-pacific-islander-chamber-of-commerce.md",
+        "siteId": "utah-pacific-islander-chamber-of-commerce:40.365709,-111.863989",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1840 S 900 W, Lehi, UT 84043",
+        "precision": "exact",
+        "provenance": "https://www.uschamber.com/co/chambers/utah",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8503646,
+          40.7644827
         ]
       },
       "properties": {
         "title": "Utah Population Database",
         "type": "work",
         "url": "/pages/utah-population-database.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "utah-population-database:40.764483,-111.850365",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "genetic epidemiology, genealogy, medical records, population health infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.069922,
+          37.664119
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:37.664119,-113.069922",
+        "siteIndex": 0,
+        "siteCount": 11,
+        "mapLocation": "510 W 800 S, Cedar City, UT 84720",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925289,
+          41.027594
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:41.027594,-111.925289",
+        "siteIndex": 1,
+        "siteCount": 11,
+        "mapLocation": "450 S Simmons Way, Suite 100, Kaysville, UT 84037",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.819258,
+          41.764166
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:41.764166,-111.819258",
+        "siteIndex": 2,
+        "siteCount": 11,
+        "mapLocation": "1770 Research Park Way, Suite 140, North Logan, UT 84341",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.526056,
+          38.544613
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:38.544613,-109.526056",
+        "siteIndex": 3,
+        "siteCount": 11,
+        "mapLocation": "1850 S Aggie Blvd, Suite 155, Moab, UT 84532",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.71541,
+          40.273671
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:40.273671,-111.715410",
+        "siteIndex": 4,
+        "siteCount": 11,
+        "mapLocation": "815 W 1250 S, Orem, UT 84058",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.804,
+          39.60789
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:39.607890,-110.804000",
+        "siteIndex": 5,
+        "siteCount": 11,
+        "mapLocation": "451 E 400 N, Price, UT 84501",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.09848,
+          38.765761
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:38.765761,-112.098480",
+        "siteIndex": 6,
+        "siteCount": 11,
+        "mapLocation": "800 W 200 S, Room 170W, Richfield, UT 84701",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902393,
+          40.574374
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:40.574374,-111.902393",
+        "siteIndex": 7,
+        "siteCount": 11,
+        "mapLocation": "9750 S 300 W, Sandy, UT 84070",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.412082,
+          37.117175
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:37.117175,-113.412082",
+        "siteIndex": 8,
+        "siteCount": 11,
+        "mapLocation": "339 S 5500 W, Hurricane, UT 84737",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.325761,
+          40.527851
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:40.527851,-112.325761",
+        "siteIndex": 9,
+        "siteCount": 11,
+        "mapLocation": "88 S Tooele Blvd, Tooele, UT 84074",
+        "precision": "exact",
+        "provenance": "https://utahsbdc.org/locations",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5658,
+          40.46003
+        ]
+      },
+      "properties": {
+        "title": "Utah SBDC",
+        "type": "resource",
+        "url": "/pages/utah-sbdc.md",
+        "siteId": "utah-sbdc:40.460030,-109.565800",
+        "siteIndex": 10,
+        "siteCount": 11,
+        "mapLocation": "320 N Aggie Blvd, Vernal, UT 84078",
+        "precision": "exact",
+        "provenance": "https://statewide.usu.edu/uintahbasin/directory/contact",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "Utah Small Business Credit Initiative (USBCI)",
+        "type": "resource",
+        "url": "/pages/utah-small-business-credit-initiative-usbci.md",
+        "siteId": "utah-small-business-credit-initiative-usbci:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Funding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "Utah Small Business Credit Initiative",
+        "type": "resource",
+        "url": "/pages/utah-small-business-credit-initiative.md",
+        "siteId": "utah-small-business-credit-initiative:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "small business lending, capital access, lender-backed capital, underserved founders"
       }
     },
     {
@@ -5767,13 +9489,16 @@ export default {
         "title": "Utah State University Center for Entrepreneurship",
         "type": "resource",
         "url": "/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md",
+        "siteId": "utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship:41.737000,-111.833800",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Logan regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Logan",
         "domains": [],
-        "focus": "student entrepreneurship, university entrepreneurship, mentoring, internships, competitions"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -5789,13 +9514,16 @@ export default {
         "title": "Utah Tech University - Atwood Innovation Center",
         "type": "resource",
         "url": "/pages/utah-tech-university-atwood-innovation-center.md",
+        "siteId": "utah-tech-university-atwood-innovation-center:37.100451,-113.570568",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "453 South 600 East, St. George, UT 84770",
         "precision": "exact",
         "provenance": "https://innovation.utahtech.edu/contact-us/",
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Student, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -5811,6 +9539,9 @@ export default {
         "title": "Utah Test and Training Range",
         "type": "work",
         "url": "/pages/utah-test-and-training-range.md",
+        "siteId": "utah-test-and-training-range:39.800000,-113.400000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "West Desert regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5825,21 +9556,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6946,
-          40.2969
+          -111.716456,
+          40.281078
         ]
       },
       "properties": {
         "title": "Utah Valley University Innovation Center/Academy",
         "type": "resource",
         "url": "/pages/utah-valley-university-innovation-center-academy.md",
-        "mapLocation": "Orem regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "utah-valley-university-innovation-center-academy:40.281078,-111.716456",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "UVU Innovation Academy, 800 W University Pkwy, LC 408, Orem, UT 84058",
+        "precision": "exact",
+        "provenance": "https://www.uvu.edu/innovation/contact/index.php",
+        "anchorKind": "site",
         "region": "Orem",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -5847,21 +9581,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6946,
-          40.2969
+          -111.716456,
+          40.281078
         ]
       },
       "properties": {
         "title": "Utah Valley University Baugh Entrepreneurship Institute",
         "type": "resource",
         "url": "/pages/utah-valley-university-uvu-entrepreneur-institute.md",
-        "mapLocation": "Orem regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "utah-valley-university-uvu-entrepreneur-institute:40.281078,-111.716456",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "UVU Baugh Entrepreneurship Institute, 800 W University Pkwy, KB 102, Orem, UT 84058",
+        "precision": "exact",
+        "provenance": "https://www.uvu.edu/woodbury/entrepreneurship/",
+        "anchorKind": "site",
         "region": "Orem",
         "domains": [],
-        "focus": "student entrepreneurship, university entrepreneurship, mentoring, seed funding, competitions"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -5877,6 +9614,9 @@ export default {
         "title": "Utah Quantum (UTQ)",
         "type": "venture",
         "url": "/pages/utahquantum.md",
+        "siteId": "utahquantum:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5884,6 +9624,31 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "quantum systems integration, quantum readiness, post-quantum security, government and industry adoption"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.901932,
+          40.770946
+        ]
+      },
+      "properties": {
+        "title": "Utah Technology Innovation Funding",
+        "type": "resource",
+        "url": "/pages/utif.md",
+        "siteId": "utif:40.770946,-111.901932",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 S 400 W, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://www.nucleusutah.org/utif",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "SBIR, STTR, microgrants, nonrecourse loans, R&D funding"
       }
     },
     {
@@ -5899,6 +9664,9 @@ export default {
         "title": "Utah Test and Training Range (UTTR)",
         "type": "venture",
         "url": "/pages/uttr.md",
+        "siteId": "uttr:39.800000,-113.400000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "West Desert regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5921,13 +9689,16 @@ export default {
         "title": "UZONA - Hildale Chamber of Commerce",
         "type": "resource",
         "url": "/pages/uzona-hildale-chamber-of-commerce.md",
+        "siteId": "uzona-hildale-chamber-of-commerce:37.003600,-112.966900",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Hildale regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Hildale",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Multicultural, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -5943,6 +9714,9 @@ export default {
         "title": "Valar Atomics",
         "type": "venture",
         "url": "/pages/valar-atomics.md",
+        "siteId": "valar-atomics:38.990000,-110.720000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Emery County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5968,6 +9742,9 @@ export default {
         "title": "Varda Space Industries",
         "type": "venture",
         "url": "/pages/varda-space.md",
+        "siteId": "varda-space:39.800000,-113.400000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "West Desert regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -5990,6 +9767,9 @@ export default {
         "title": "Vector",
         "type": "venture",
         "url": "/pages/vector.md",
+        "siteId": "vector:40.489700,-111.938800",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Bluffdale regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -6014,13 +9794,16 @@ export default {
         "title": "Vernal Area Chamber of Commerce",
         "type": "resource",
         "url": "/pages/vernal-area-chamber-of-commerce.md",
+        "siteId": "vernal-area-chamber-of-commerce:40.455748,-109.531064",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "134 West Main Street, Vernal, UT 84078",
         "precision": "exact",
         "provenance": "https://www.vernalchamber.com/",
         "anchorKind": "site",
         "region": "Vernal",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6036,13 +9819,16 @@ export default {
         "title": "Vernal Downtown Alliance",
         "type": "resource",
         "url": "/pages/vernal-downtown-alliance.md",
+        "siteId": "vernal-downtown-alliance:40.455500,-109.528700",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Vernal regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Vernal",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6058,13 +9844,41 @@ export default {
         "title": "Vernal Innovation Hub",
         "type": "resource",
         "url": "/pages/vernal-innovation-hub.md",
+        "siteId": "vernal-innovation-hub:40.455878,-109.520426",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "431 East Main Street, Vernal, UT 84078",
         "precision": "exact",
         "provenance": "https://www.vernalinnovationhub.com/uintahspeedpitch",
         "anchorKind": "site",
         "region": "Vernal",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902716,
+          40.575596
+        ]
+      },
+      "properties": {
+        "title": "Veteran Business Resource Center (VBRC) Utah",
+        "type": "resource",
+        "url": "/pages/veteran-business-resource-center-vbrc-utah.md",
+        "siteId": "veteran-business-resource-center-vbrc-utah:40.575596,-111.902716",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "9690 S 300 W, Sandy, UT 84070",
+        "precision": "exact",
+        "provenance": "https://veterans.utah.gov/venue/utah-veteran-business-resource-center/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -6080,13 +9894,41 @@ export default {
         "title": "Vision Iron County",
         "type": "resource",
         "url": "/pages/vision-iron-county.md",
+        "siteId": "vision-iron-county:37.860000,-113.290000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Iron County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Iron County",
         "domains": [],
-        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Rural, Aerospace and Defense, Agriculture"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "Visit Utah",
+        "type": "resource",
+        "url": "/pages/visit-utah.md",
+        "siteId": "visit-utah:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://business.utah.gov/contact/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Other"
       }
     },
     {
@@ -6102,6 +9944,9 @@ export default {
         "title": "Vivint Smart Home",
         "type": "venture",
         "url": "/pages/vivint-smart-home.md",
+        "siteId": "vivint-smart-home:40.299229,-111.663033",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Vivint, 4949 N 300 W, Provo, UT 84604",
         "precision": "exact",
         "provenance": "https://www.vivint.com/locations/utah/provo",
@@ -6116,21 +9961,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.9,
-          40.8
+          -111.9039983,
+          40.7680904
         ]
       },
       "properties": {
         "title": "Wasatch Front Regional Council",
         "type": "resource",
         "url": "/pages/wasatch-front-regional-council.md",
-        "mapLocation": "Wasatch Front regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "wasatch-front-regional-council:40.768090,-111.903998",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Wasatch Front Regional Council, 41 N Rio Grande Street, Suite 103, Salt Lake City, UT 84101",
+        "precision": "exact",
+        "provenance": "https://wfrc.org/contact/",
+        "anchorKind": "site",
         "region": "Wasatch Front",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6146,13 +9994,16 @@ export default {
         "title": "Wasatch Women's Business Alliance",
         "type": "resource",
         "url": "/pages/wasatch-women-s-business-alliance.md",
+        "siteId": "wasatch-women-s-business-alliance:40.330000,-111.170000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Wasatch County regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Wasatch County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business, Women, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -6168,13 +10019,16 @@ export default {
         "title": "Washington Area Chamber of Commerce",
         "type": "resource",
         "url": "/pages/washington-area-chamber-of-commerce.md",
+        "siteId": "washington-area-chamber-of-commerce:37.130500,-113.508300",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Washington regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Washington",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6190,13 +10044,16 @@ export default {
         "title": "Washington City Economic Development",
         "type": "resource",
         "url": "/pages/washington-city-economic-development.md",
+        "siteId": "washington-city-economic-development:37.130500,-113.508300",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Washington regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Washington",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6212,6 +10069,9 @@ export default {
         "title": "WAVE (Wireless Advanced Vehicle Electrification)",
         "type": "venture",
         "url": "/pages/wave-inc.md",
+        "siteId": "wave-inc:41.737000,-111.833800",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Logan regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -6229,18 +10089,21 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6108,
-          40.1652
+          -111.6446696,
+          40.1758017
         ]
       },
       "properties": {
         "title": "Wavetronix",
         "type": "venture",
         "url": "/pages/wavetronix.md",
-        "mapLocation": "Springville regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "wavetronix:40.175802,-111.644670",
+        "siteIndex": 0,
+        "siteCount": 2,
+        "mapLocation": "Wavetronix Headquarters, 663 Wavetronix Dr, Springville, UT 84663",
+        "precision": "exact",
+        "provenance": "https://www.wavetronix.com/find-office",
+        "anchorKind": "site",
         "region": "Springville",
         "domains": [
           "aerospace-defense",
@@ -6254,18 +10117,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8508,
-          40.3916
+          -111.6432556,
+          40.1757874
+        ]
+      },
+      "properties": {
+        "title": "Wavetronix",
+        "type": "venture",
+        "url": "/pages/wavetronix.md",
+        "siteId": "wavetronix:40.175787,-111.643256",
+        "siteIndex": 1,
+        "siteCount": 2,
+        "mapLocation": "Wavetronix Support, 1827 W 650 N, Springville, UT 84663",
+        "precision": "exact",
+        "provenance": "https://www.wavetronix.com/find-office",
+        "anchorKind": "site",
+        "region": "Springville",
+        "domains": [
+          "aerospace-defense",
+          "computing"
+        ],
+        "focus": "intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8711012,
+          40.4162101
         ]
       },
       "properties": {
         "title": "Weave",
         "type": "venture",
         "url": "/pages/weave.md",
-        "mapLocation": "Lehi regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "weave:40.416210,-111.871101",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1331 W Powell Way, Lehi, UT 84043",
+        "precision": "exact",
+        "provenance": "https://www.getweave.com/legal/terms/",
+        "anchorKind": "site",
         "region": "Lehi",
         "domains": [],
         "focus": "applied AI, vertical SaaS, healthcare communications, voice AI, payments"
@@ -6284,13 +10178,16 @@ export default {
         "title": "Weber Basin Job Corps",
         "type": "resource",
         "url": "/pages/weber-basin-job-corps.md",
+        "siteId": "weber-basin-job-corps:41.132345,-111.901937",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Weber Basin Job Corps Civilian Conservation Center, 7400 Cornia Dr, Ogden, UT 84405",
         "precision": "exact",
         "provenance": "https://weberbasin.jobcorps.gov/contact",
         "anchorKind": "site",
         "region": "Ogden",
         "domains": [],
-        "focus": "Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -6298,21 +10195,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.91,
-          41.27
+          -111.9703339,
+          41.2231757
         ]
       },
       "properties": {
         "title": "Weber County Economic Development",
         "type": "resource",
         "url": "/pages/weber-county-economic-development.md",
-        "mapLocation": "Weber County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "weber-county-economic-development:41.223176,-111.970334",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Weber County economic-development office, 2380 Washington Boulevard, Suite 360, Ogden, UT 84401",
+        "precision": "exact",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=Weber+County+Economic+Development+2380+Washington+Boulevard+Ogden+UT",
+        "anchorKind": "site",
         "region": "Weber County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6328,6 +10228,9 @@ export default {
         "title": "Wilson Sonsini Salt Lake City",
         "type": "helper",
         "url": "/pages/wilson-sonsini-salt-lake-city.md",
+        "siteId": "wilson-sonsini-salt-lake-city:40.767649,-111.887798",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "95 South State Street, Suite 1000, Salt Lake City, UT 84111",
         "precision": "exact",
         "provenance": "https://www.wsgr.com/en/about-us/offices/salt-lake-city.html",
@@ -6342,18 +10245,96 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.7,
-          40.25
+          -111.902393,
+          40.574374
+        ]
+      },
+      "properties": {
+        "title": "Women Tech Counsel",
+        "type": "resource",
+        "url": "/pages/women-tech-counsel.md",
+        "siteId": "women-tech-counsel:40.574374,-111.902393",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "9750 S 300 W, Room 201F, Sandy, UT 84070",
+        "precision": "exact",
+        "provenance": "https://wtccareers.com/contact-us/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.890457,
+          40.764469
+        ]
+      },
+      "properties": {
+        "title": "Women's Business Center of Utah",
+        "type": "resource",
+        "url": "/pages/womens-business-center-of-utah.md",
+        "siteId": "womens-business-center-of-utah:40.764469,-111.890457",
+        "siteIndex": 0,
+        "siteCount": 2,
+        "mapLocation": "201 S Main St, Suite 2300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.wbcutah.org/contact",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.069922,
+          37.664119
+        ]
+      },
+      "properties": {
+        "title": "Women's Business Center of Utah",
+        "type": "resource",
+        "url": "/pages/womens-business-center-of-utah.md",
+        "siteId": "womens-business-center-of-utah:37.664119,-113.069922",
+        "siteIndex": 1,
+        "siteCount": 2,
+        "mapLocation": "510 W 800 S, Cedar City, UT 84720",
+        "precision": "exact",
+        "provenance": "https://www.wbcutah.org/contact",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.680059,
+          40.323416
         ]
       },
       "properties": {
         "title": "WordPerfect and Novell",
         "type": "work",
         "url": "/pages/wordperfect-and-novell.md",
-        "mapLocation": "Utah Valley regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "wordperfect-and-novell:40.323416,-111.680059",
+        "siteIndex": 0,
+        "siteCount": 2,
+        "mapLocation": "Former WordPerfect Campus, 1555 N Technology Way, Orem, UT 84057",
+        "precision": "exact",
+        "provenance": "https://savagetaylor.com/TIL/TIL10073.pdf",
+        "anchorKind": "site",
         "region": "Utah Valley",
         "domains": [],
         "focus": "software, word processing, networking, personal computing, Utah Valley"
@@ -6364,18 +10345,46 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.6946,
-          40.2969
+          -111.655732,
+          40.2101837
+        ]
+      },
+      "properties": {
+        "title": "WordPerfect and Novell",
+        "type": "work",
+        "url": "/pages/wordperfect-and-novell.md",
+        "siteId": "wordperfect-and-novell:40.210184,-111.655732",
+        "siteIndex": 1,
+        "siteCount": 2,
+        "mapLocation": "Former Novell Headquarters, 1800 S Novell Pl, Provo, UT 84606",
+        "precision": "exact",
+        "provenance": "https://www.novell.com/documentation/nmas22/radius/data/legal.html",
+        "anchorKind": "site",
+        "region": "Utah Valley",
+        "domains": [],
+        "focus": "software, word processing, networking, personal computing, Utah Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.680059,
+          40.323416
         ]
       },
       "properties": {
         "title": "WordPerfect",
         "type": "venture",
         "url": "/pages/wordperfect.md",
-        "mapLocation": "Orem regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "wordperfect:40.323416,-111.680059",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Former WordPerfect Campus, 1555 N Technology Way, Orem, UT 84057",
+        "precision": "exact",
+        "provenance": "https://savagetaylor.com/TIL/TIL10073.pdf",
+        "anchorKind": "site",
         "region": "Orem",
         "domains": [],
         "focus": "software, word processing, Utah software history, Silicon Slopes origins"
@@ -6394,13 +10403,16 @@ export default {
         "title": "Work Hive",
         "type": "resource",
         "url": "/pages/work-hive.md",
+        "siteId": "work-hive:40.764601,-111.895303",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "159 West Broadway, Suite 200, Salt Lake City, UT 84101",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Work+Hive+159+West+Broadway+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -6416,13 +10428,16 @@ export default {
         "title": "Workbox",
         "type": "resource",
         "url": "/pages/workbox.md",
+        "siteId": "workbox:40.766294,-111.888632",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "132 South State Street, Salt Lake City, UT 84111",
         "precision": "exact",
         "provenance": "https://www.google.com/maps/search/?api=1&query=Workbox+132+South+State+Street+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Aerospace and Defense, Agriculture"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -6430,21 +10445,49 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891,
-          40.7608
+          -111.889379,
+          40.7692887
         ]
       },
       "properties": {
         "title": "Workman Nydegger",
         "type": "helper",
         "url": "/pages/workman-nydegger.md",
-        "mapLocation": "Salt Lake City regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
+        "siteId": "workman-nydegger:40.769289,-111.889379",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Workman Nydegger, 60 E South Temple, Suite 1000, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.wnlaw.com/contact/",
+        "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
         "focus": "patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.889122,
+          40.769012
+        ]
+      },
+      "properties": {
+        "title": "World Trade Center Utah",
+        "type": "resource",
+        "url": "/pages/world-trade-center-utah.md",
+        "siteId": "world-trade-center-utah:40.769012,-111.889122",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "60 E South Temple, Suite 300, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://www.wtcutah.com/",
+        "anchorKind": "site",
+        "region": "statewide",
+        "domains": [],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -6460,6 +10503,9 @@ export default {
         "title": "Xandem",
         "type": "venture",
         "url": "/pages/xandem.md",
+        "siteId": "xandem:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
@@ -6482,6 +10528,9 @@ export default {
         "title": "Zanskar Geothermal",
         "type": "venture",
         "url": "/pages/zanskar-geothermal.md",
+        "siteId": "zanskar-geothermal:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
         "mapLocation": "Salt Lake City regional anchor (not a street address)",
         "precision": "approximate",
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",

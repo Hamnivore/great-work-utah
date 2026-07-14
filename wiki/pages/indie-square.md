@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Other
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Murray, UT
 **Utah Location:** Murray, UT
 **Region:** Murray
@@ -13,57 +13,29 @@
 
 ## Summary
 
-Indie Square, established in 2024 and located at 141 East 5600 South, Suite 300, in Murray, Utah, is a mission-driven coworking space and event venue dedicated to supporting the state's nonprofit community. By offering affordable office spaces, meeting rooms, and event venues, Indie Square fosters collaboration and innovation among nonprofit organizations, enabling them to advance their missions effectively. The facility provides various workspace options, including private offices, dedicated desks, and flexible coworking areas, all designed to cultivate a collaborative environment. Additionally, Indie Square offers amenities such as high-speed internet, printing services, and access to fully equipped meeting rooms, ensuring nonprofits have the necessary resources to operate efficiently.
+Indie Square, launched in May 2024, is a mission-driven colocation and meeting space at 141 East 5600 South, Suite 300, in Murray built exclusively for Utah's nonprofit community. The site positions it as affordable workspace and shared resources for grassroots changemakers, with office spaces, meeting rooms, and a collaborative nonprofit ecosystem.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Other
+Utah nonprofit organizations and changemakers — the site states it works primarily with organizations that have 501(c) nonprofit status. Service providers supporting the nonprofit sector may also fit the community model.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Other
+Colocation office space, meeting and event venues, member community connections, newsletter updates, and availability/pricing information for workspace and meeting rooms. Amenities are framed around shared resources that help nonprofits operate more efficiently together.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://www.indiesquare.org/) · https://www.indiesquare.org/
-- Email: [community@indiesquare.org](mailto:community@indiesquare.org)
+- Schedule a tour via the site; email [community@indiesquare.org](mailto:community@indiesquare.org) or call (801) 613-7150
 - Startup State listing: https://startup.utah.gov/business-resource/indie-square/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Pricing is not listed as a single flat rate on the homepage. Use the site's availability and meeting-space pages or contact staff for current rates before recommending a specific budget.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Other
-
-## Imported Coverage
-
-- Startup State ID: 2566 (slug `indie-square`)
-- Topics: Entrepreneurship Communities, Other
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Other
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-10T11:36:19
+Nonprofit leaders who need affordable Murray workspace, meeting space, or colocation among peer organizations — less direct for for-profit startups unless they are nonprofit-adjacent service providers.
 
 
 ## Evidence
@@ -74,6 +46,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Are any for-profit social enterprises or fiscal sponsors eligible outside the 501(c) focus?
+- What meeting-room booking lead times and capacity limits apply?

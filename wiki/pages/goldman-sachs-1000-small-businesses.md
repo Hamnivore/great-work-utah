@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth
+**Focus:** Late Stage Growth, Taxes and Finance
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -13,73 +13,36 @@
 
 ## Summary
 
-"Goldman Sachs 10,000 Small Businesses is an investment to help small businesses grow and create jobs by providing them with greater access to education, capital, and business support services. To date, more than 12,8000 business owners have graduated from the program across all 50 states, Washington D.C., and Puerto Rico. Through the program, you will gain skills across topics such as financial statements negotiation, marketing, and employee management, and gain the tools to develop a customized business plan for growth – for free."
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Verified on 10ksbapply.com (2026-07-14): Goldman Sachs 10,000 Small Businesses is a multi-week business education program with a Babson College-designed curriculum, peer learning, and one-on-one business advising. The Goldman Sachs Foundation funds the program at $0 cost to participants. Public outcome stats report that most alumni increase revenue and many create jobs within 18–30 months of graduation.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Existing small business owners with operating businesses who want structured growth education, peer network access, and help building a growth plan — not pre-revenue founders.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Late Stage Growth
+Intensive classroom-style modules, collaborative peer exercises, one-on-one business advice, and skills across financial management, marketing, negotiation, and employee management. Graduates join a national alumni network of 17,000+ business owners across all 50 states.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://10ksbapply.com/) · https://10ksbapply.com/
+- [Official application site](https://10ksbapply.com/) · https://10ksbapply.com/
+- Review eligibility, dates, and locations on the official site, then apply online
 - Startup State listing: https://startup.utah.gov/business-resource/goldman-sachs-1000-small-businesses/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+$0 direct cost to participants (100% funded by the Goldman Sachs Foundation). Specific eligibility criteria, cohort dates, and Utah delivery locations are listed on the application site — verify current requirements before recommending.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2653 (slug `goldman-sachs-1000-small-businesses`)
-- Topics: Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T13:40:14
-
+A Utah small business owner with revenue and employees who wants a structured growth curriculum and national peer network — not a substitute for venture capital or SBIR funding.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://10ksbapply.com/) · https://10ksbapply.com/
+- [Official application site](https://10ksbapply.com/) · https://10ksbapply.com/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What are the current Utah cohort dates and local delivery partner?
+- What are the hard eligibility cutoffs (revenue, employees, years in business) for the active application cycle?

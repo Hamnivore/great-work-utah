@@ -15,7 +15,7 @@ Everything is raw markdown at stable URLs. No auth, no rate limits, no JavaScrip
 - Type views, one line per page: `GET /views/{type}.md` — types: ventures, resources, people, helpers, work, guides, sources
 - **The hiring view:** `GET /views/needs.md` — every venture's "what they need now," one line each. If your question involves matching a person to work, read this file; it has perfect recall over every venture's stated needs.
 - Geography: `GET /views/by-region.md` — pages with a `**Region:**` (not only Domain-attributed ones)
-- **Nearby/location search:** `GET /api/locations?near=Ogden&radius_miles=35&type=resource` — public Utah sites and privacy-preserving regional anchors, nearest first. Common Utah city anchors work with `near`; for other places use WGS84 `lat` and `lon`. Add `q`, `type`, `domain`, or `precision` filters; comma-separate multiple facet values.
+- **Nearby/location search:** `GET /api/locations?near=Ogden&radius_miles=35&type=resource` — public Utah sites and privacy-preserving regional anchors, nearest first. Common Utah city anchors work with `near`; for other places use WGS84 `lat` and `lon`. Add `q`, `type`, `domain`, or `precision` filters; comma-separate multiple facet values. Multi-site entities return one result per public site with a stable `id` and shared `page` URL.
 - Raw map data: `GET /locations.geojson` — the same site and regional-anchor points as GeoJSON.
 - Sector hubs: `GET /views/domain-{name}.md` — names: energy, health-bio, aerospace-defense, computing, materials-mfg, space-science, capital-programs, culture-place (not `/views/energy.md`)
 - House format and standards (read before writing a page): `GET /meta/conventions.md`. What "great work" means here: `GET /meta/charter.md`.

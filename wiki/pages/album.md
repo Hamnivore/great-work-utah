@@ -1,7 +1,7 @@
 # Album
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
 **Primary Location:** Lehi, UT
@@ -17,77 +17,37 @@
 
 ## Summary
 
-Album VC, founded in 2014 and based in Lehi, Utah, is a venture capital firm that invests in early-stage technology startups across the United States. The firm focuses on sectors such as software, healthcare services, SaaS, life sciences, and oncology, with a portfolio that includes companies like Andela, Degreed, and Podium. In June 2022, Album VC announced the launch of a Album VC, founded in 2014 and based in Lehi, Utah, is a venture capital firm that invests in early-stage technology startups across the United States. The firm focuses on sectors such as software, healthcare services, SaaS, life sciences, and oncology, with a portfolio that includes companies like Andela, Degreed, and Podium. In June 2022, Album VC announced the launch of a $200 million fund, significantly expanding its capacity to support innovative startups.
+Album VC is a Lehi-based venture capital firm founded in 2014 that invests in early-stage technology startups. Its official portfolio includes companies such as Podium, Degreed, Divvy, Neighbor, and Owlet.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
-00 million fund, significantly expanding its capacity to support innovative startups.
+## Who It's For
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Early-stage technology founders seeking seed or early venture capital from a Utah firm with a broad software and tech-enabled portfolio.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Early-stage venture capital for technology startups
+- Portfolio support from a Utah venture team
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Contact through the official site
 - [Official website](https://www.album.vc/) · https://www.album.vc/
 - Email: [hello@album.vc](mailto:hello@album.vc)
 - Startup State listing: https://startup.utah.gov/business-resource/album/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Equity investment; terms are deal-specific. No public fee schedule.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2603 (slug `album`)
-- Topics: Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:38:27
-
+Utah and regional early-stage tech founders. Less relevant for non-tech operators, angels, or export programs.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.album.vc/) · https://www.album.vc/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What sectors and check sizes is Album prioritizing in current deployments?

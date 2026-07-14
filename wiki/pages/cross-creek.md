@@ -4,85 +4,48 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Funding, Late Stage Growth
-**Primary Location:** unknown
-**Utah Location:** statewide
-**Region:** statewide
+**Primary Location:** Salt Lake City, UT
+**Utah Location:** Salt Lake City, UT
+**Region:** Salt Lake City
 **Website:** https://crosscreek.vc/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-Cross Creek, founded in 2006, is a venture capital firm that invests in exceptional venture-backed companies with the potential to become successful public entities. The firm focuses on sectors such as consumer internet, enterprise software, and cybersecurity, partnering with innovative businesses to support their growth and transition from private to public markets. Cross Creek's portfolio includes companies like AppDynamics, Braze, and HubSpot, reflecting its commitment to identifying and nurturing high-growth ventures.
+Cross Creek is a Salt Lake City–based venture capital firm founded in 2006 that focuses on late-stage and crossover investing — "building bridges from private to public markets." Its official site describes partnerships with established venture and growth managers and select smaller funds with deep domain expertise.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+For the wiki, Cross Creek is a capital-market node for growth-stage companies and fund relationships, not a front door for first-time Utah founders seeking seed funding.
 
+## Who It's For
 
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Venture-backed growth companies and fund managers exploring late-stage or pre-IPO capital pathways. Institutional and fund-of-funds relationships are the core audience — not pre-revenue founders looking for their first check.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Funding
-- Late Stage Growth
+Late-stage investment access through Cross Creek fund relationships; portfolio exposure to high-growth companies in sectors such as consumer internet, enterprise software, and cybersecurity. The site highlights 85+ active managers, 250+ fund investments, and a portfolio including companies such as AppDynamics, Braze, and HubSpot.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://crosscreek.vc/) · https://crosscreek.vc/
-- Email: [info@crosscreek.vc](mailto:info@crosscreek.vc)
+- Email: [info@crosscreek.vc](mailto:info@crosscreek.vc) · T. 801.214.0010
+- Office: 505 Wakara Way #215, Salt Lake City, UT 84108
 - Startup State listing: https://startup.utah.gov/business-resource/cross-creek/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Cross Creek is an investment firm, not a fee-based advising program. There is no public application fee or membership cost for founders on the official site.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2594 (slug `cross-creek`)
-- Topics: Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:06:53
-
+Growth-stage, venture-backed Utah companies (or companies with credible late-stage traction) exploring crossover or pre-public capital. A weak fit for idea-stage founders, Main Street operators, or anyone needing free business counseling.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://crosscreek.vc/) · https://crosscreek.vc/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Does Cross Creek take direct inbound from Utah growth companies, or only through existing fund/portfolio relationships?
+- Which sectors and check sizes are active in current fund vintages?

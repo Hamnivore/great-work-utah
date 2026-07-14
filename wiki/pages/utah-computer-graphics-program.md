@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Merrill Engineering Building, 50 Central Campus Drive, Salt Lake City, UT 84112
+**Coordinates:** 40.7686069, -111.8445942
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Merrill+Engineering+Building+50+Central+Campus+Drive+Salt+Lake+City+UT+84112
 **Website:** https://www.cs.utah.edu/about/history/
-**Updated:** 2026-05-16
+**Updated:** 2026-07-14
 **Pull:** *The modern graphics stack has a surprisingly direct line back to one Utah graduate program.*
 
 ## Summary

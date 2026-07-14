@@ -1,6 +1,6 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (393 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (394 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
@@ -77,6 +77,10 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 ## Delta
 
 - [Delta Area Chamber of Commerce](/pages/delta-area-chamber-of-commerce.md) · `/pages/delta-area-chamber-of-commerce.md` · resource
+
+## Draper
+
+- [BambooHR](/pages/bamboohr.md) · `/pages/bamboohr.md` · venture
 
 ## Emery County
 
@@ -162,7 +166,6 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [Album](/pages/album.md) · `/pages/album.md` · resource
 - [Ancestry](/pages/ancestry.md) · `/pages/ancestry.md` · venture
 - [Halia Therapeutics](/pages/halia-therapeutics.md) · `/pages/halia-therapeutics.md` · health-bio
-- [Inherent Biosciences](/pages/inherent-biosciences.md) · `/pages/inherent-biosciences.md` · venture
 - [MX Technologies](/pages/mx-technologies.md) · `/pages/mx-technologies.md` · venture
 - [Owlet Baby Care](/pages/owlet-baby-care.md) · `/pages/owlet-baby-care.md` · venture
 - [PhotoPharmics](/pages/photopharmics.md) · `/pages/photopharmics.md` · venture
@@ -173,7 +176,6 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 
 ## Lindon
 
-- [BambooHR](/pages/bamboohr.md) · `/pages/bamboohr.md` · venture
 - [Fortem Technologies](/pages/fortem-technologies.md) · `/pages/fortem-technologies.md` · aerospace-defense
 
 ## Logan
@@ -284,6 +286,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [H. Tracy Hall's Diamond Presses](/pages/h-tracy-hall-diamond-presses.md) · `/pages/h-tracy-hall-diamond-presses.md` · work
 - [Harvey Fletcher and Stereophonic Sound](/pages/harvey-fletcher-stereophonic-sound.md) · `/pages/harvey-fletcher-stereophonic-sound.md` · work
 - [Hypercraft](/pages/hypercraft.md) · `/pages/hypercraft.md` · aerospace-defense, energy
+- [iHub](/pages/ihub.md) · `/pages/ihub.md` · resource
 - [Qualtrics](/pages/qualtrics.md) · `/pages/qualtrics.md` · computing
 - [RevRoad](/pages/revroad.md) · `/pages/revroad.md` · resource
 - [Startup Ignition Ventures](/pages/startup-ignition-ventures.md) · `/pages/startup-ignition-ventures.md` · resource
@@ -357,6 +360,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [HELP Clinical Decision Support System](/pages/help-clinical-decision-support-system.md) · `/pages/help-clinical-decision-support-system.md` · work
 - [High-Density Sustainable Aviation Fuels](/pages/high-density-sustainable-aviation-fuels.md) · `/pages/high-density-sustainable-aviation-fuels.md` · aerospace-defense, energy
 - [Huntsman Cancer Institute](/pages/huntsman-cancer-institute.md) · `/pages/huntsman-cancer-institute.md` · venture
+- [Inherent Biosciences](/pages/inherent-biosciences.md) · `/pages/inherent-biosciences.md` · venture
 - [Instructure](/pages/instructure.md) · `/pages/instructure.md` · computing
 - [Intactis Bio](/pages/intactis-bio.md) · `/pages/intactis-bio.md` · venture
 - [Intermountain Clinical Quality Improvement](/pages/intermountain-clinical-quality-improvement.md) · `/pages/intermountain-clinical-quality-improvement.md` · work
@@ -508,7 +512,6 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 ## Utah County
 
 - [Autonomous Low-Collateral Counter-UAS Interception](/pages/autonomous-low-collateral-counter-uas-interception.md) · `/pages/autonomous-low-collateral-counter-uas-interception.md` · work
-- [iHub](/pages/ihub.md) · `/pages/ihub.md` · resource
 - [Omniture Web Analytics](/pages/omniture-web-analytics.md) · `/pages/omniture-web-analytics.md` · work
 
 ## Utah Valley
@@ -654,6 +657,7 @@ Generated from `**Region:**` metadata (393 pages with a region). Sector hubs sti
 - [Utah Regional Growth Association](/pages/utah-regional-growth-association.md) · `/pages/utah-regional-growth-association.md` · resource
 - [Utah's Own - Local Food Production](/pages/utah-s-own-local-food-production.md) · `/pages/utah-s-own-local-food-production.md` · resource
 - [Utah SBDC](/pages/utah-sbdc.md) · `/pages/utah-sbdc.md` · resource
+- [Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md) · `/pages/utah-small-business-credit-initiative-usbci.md` · resource
 - [Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md) · `/pages/utah-small-business-credit-initiative.md` · resource
 - [Utah Tourism Association](/pages/utah-tourism-association.md) · `/pages/utah-tourism-association.md` · resource
 - [Utah Technology Innovation Funding](/pages/utif.md) · `/pages/utif.md` · resource

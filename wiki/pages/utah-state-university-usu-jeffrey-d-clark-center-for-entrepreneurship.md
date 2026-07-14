@@ -17,7 +17,7 @@ Utah State University's Center for Entrepreneurship is housed in the Jon M. Hunt
 
 The imported page name referenced the Jeffrey D. Clark Center for Entrepreneurship; the currently fetched official page presents the public title as "The Center for Entrepreneurship." This page keeps the existing filename to avoid duplicate resources.
 
-## Who It Helps
+## Who It's For
 
 The center primarily helps USU students who want to develop entrepreneurial skills, start a business, join entrepreneurship classes, participate in competitions, find mentoring, or gain practical experience through internships.
 
@@ -38,7 +38,7 @@ Start with the official website, then confirm current programs before recommendi
 - Startup State listing: https://startup.utah.gov/business-resource/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship/
 
 
-## Cost / Eligibility
+## Cost
 
 Most offerings appear student- and university-centered. Costs and eligibility likely vary by course enrollment, competition, internship, and program. Verify current rules with the center or the relevant program page before making a precise recommendation.
 
@@ -47,16 +47,6 @@ Most offerings appear student- and university-centered. Costs and eligibility li
 Best fits are USU students in Cache Valley or the Huntsman School orbit who want to learn entrepreneurship by doing: classes, mentoring, internships, competitions, clubs, and speaker access.
 
 It is less direct for a nonstudent founder who only needs capital, manufacturing support, or procurement help, though it may still be useful for student talent and mentor connections.
-
-## Imported Coverage
-
-- Startup State ID: 2558 (slug `utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship`)
-- Topics: Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Student
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Box Elder, Cache, Rich
-- Listing modified: 2024-12-10T09:58:50
 
 
 ## Evidence

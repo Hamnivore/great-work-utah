@@ -9,6 +9,10 @@
 **Updated:** 2026-07-14
 **Domain:** health-bio
 **Region:** statewide
+**Map Location:** 230 E South Temple, Suite 100, Salt Lake City, UT 84111
+**Coordinates:** 40.769139, -111.884283
+**Location Precision:** exact
+**Location Source:** https://bioutah.org/
 **Website:** https://bioutah.org/
 **Layout:** field-guide
 

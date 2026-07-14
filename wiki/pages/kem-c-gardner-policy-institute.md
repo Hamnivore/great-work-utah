@@ -7,6 +7,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 411 E South Temple St, Salt Lake City, UT 84111
+**Coordinates:** 40.769780, -111.879621
+**Location Precision:** exact
+**Location Source:** https://gardner.utah.edu/
 **Website:** https://gardner.utah.edu/
 **Updated:** 2026-07-14
 **Layout:** field-guide

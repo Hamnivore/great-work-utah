@@ -9,6 +9,10 @@
 **Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Kaysville
+**Map Location:** Davis Technical College, 550 E 300 S, Kaysville, UT 84037
+**Coordinates:** 41.0300464, -111.9238049
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Davis+Technical+College+550+E+300+S+Kaysville+UT+84037
 **Website:** https://brc.davistech.edu/
 **Layout:** field-guide
 

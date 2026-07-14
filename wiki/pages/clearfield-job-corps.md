@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth
+**Focus:** Late Stage Growth, Start a Business
 **Primary Location:** Clearfield, UT
 **Utah Location:** Clearfield, UT
 **Domain:** culture-place
@@ -18,63 +18,29 @@
 
 ## Summary
 
-The Clearfield Job Corps Center provides free educational and vocational training programs for young adults aged 16-24, offering pathways to high school diplomas, GEDs, and certifications in various technical and career fields. The program emphasizes personal and professional growth, preparing students for successful careers with hands-on training, academic support, and opportunities for advanced career education
+Clearfield Job Corps Center is a residential Job Corps campus in Clearfield offering tuition-free education and career-technical training for eligible young adults. The public site describes pathways to high school diplomas, GEDs, and certifications with hands-on training, academic support, and advanced career training options.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Young adults ages 16–24 who qualify for the federal Job Corps program and want tuition-free vocational training, academic credentials, and residential support while preparing for employment.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Late Stage Growth
+Career technical training, academic support toward high school diploma or GED, residential campus services, hands-on skills development, and advanced career training pathways. Specific trade programs should be confirmed on the center's current training catalog.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://clearfield.jobcorps.gov/) · https://clearfield.jobcorps.gov/
+- Use the site's apply or contact flows for admissions and program availability
 - Startup State listing: https://startup.utah.gov/business-resource/clearfield-job-corps/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Job Corps is a federally funded, tuition-free program for eligible participants. Confirm residential eligibility, income requirements, and any personal expenses during admissions.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2545 (slug `clearfield-job-corps`)
-- Topics: Late Stage Growth
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-10T09:41:42
+Young adults in the Davis–Weber corridor who need a no-tuition credentialed training pathway with residential support — not a fit for established company founders hiring executive talent.
 
 
 ## Evidence
@@ -85,6 +51,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which career-technical programs are currently accepting new students?
+- What employer partnerships exist for graduates entering northern Utah companies?

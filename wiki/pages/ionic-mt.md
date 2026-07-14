@@ -8,6 +8,10 @@
 **Primary Location:** Provo, UT
 **Utah Location:** Juab County, UT (Silicon Ridge / Halloysite Hills deposits); Provo, UT (HQ)
 **Region:** Juab County
+**Map Location:** 652 S Lakeview Pkwy, Building B, Suite B6, Provo, UT 84601
+**Coordinates:** 40.2245042, -111.7135660
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=Ionic%20Mineral%20Technologies%20652%20S%20Lakeview%20Pkwy%20Provo%20UT%2084601
 **Domain:** energy, materials-mfg
 **Website:** https://ionicmt.com
 **Careers:** https://ionicmt.com/company/careers

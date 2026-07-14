@@ -8,8 +8,12 @@
 **Primary Location:** Orem and Lehi, UT
 **Utah Location:** Orem and Lehi, UT
 **Region:** Utah County
+**Map Location:** Former Omniture Headquarters, 550 E Timpanogos Cir, Orem, UT 84097
+**Coordinates:** 40.3243332, -111.6819170
+**Location Precision:** exact
+**Location Source:** https://www.sec.gov/Archives/edgar/data/1357525/000104746909008514/0001047469-09-008514-index.htm
 **Website:** https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm
-**Updated:** 2026-06-19
+**Updated:** 2026-07-14
 **Relates:** cites [SEC/EDGAR — Adobe Acquisition of Omniture (14D-9, 2009)](omniture-adobe-sec-14d9-2009.md) · https://greatutah.work/pages/omniture-adobe-sec-14d9-2009.md · https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm
 **Relates:** cites [Deseret News — Adobe Buys Orem's Omniture for $1.8B (2009)](omniture-deseret-news-2009.md) · https://greatutah.work/pages/omniture-deseret-news-2009.md · https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/
 **Relates:** helps [Josh James](josh-james.md) · https://greatutah.work/pages/josh-james.md

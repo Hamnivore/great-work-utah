@@ -9,6 +9,10 @@
 **Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Bear River region
+**Map Location:** Bear River Association of Governments, 170 N Main Street, Logan, UT 84321
+**Coordinates:** 41.7346196, -111.8348028
+**Location Precision:** exact
+**Location Source:** https://brag.utah.gov/contact/
 **Website:** https://brag.utah.gov/
 **Layout:** field-guide
 

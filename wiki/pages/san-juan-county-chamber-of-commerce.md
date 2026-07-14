@@ -7,6 +7,10 @@
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT
 **Region:** San Juan County
+**Map Location:** 80 N Main St, Monticello, UT 84535
+**Coordinates:** 37.873548, -109.342737
+**Location Precision:** exact
+**Location Source:** https://www.sanjuancountychamber.com/
 **Website:** https://sanjuancountychamber.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

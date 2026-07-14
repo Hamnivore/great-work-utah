@@ -7,6 +7,10 @@
 **Primary Location:** unknown
 **Utah Location:** unknown
 **Region:** unknown
+**Map Location:** Former office: 136 E South Temple, Suite 925, Salt Lake City, UT 84111
+**Coordinates:** 40.769149, -111.887096
+**Location Precision:** exact
+**Location Source:** https://pscdocs.utah.gov/electric/16docs/16035T09/288519UtBusLtrRESched348-9-16.pdf
 **Website:** https://www.renewablevc.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

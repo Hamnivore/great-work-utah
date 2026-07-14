@@ -9,6 +9,10 @@
 **Updated:** 2026-07-14
 **Domain:** culture-place
 **Region:** Price
+**Map Location:** 252 S Fairgrounds Rd, Price, UT 84501
+**Coordinates:** 39.5957889, -110.8362394
+**Location Precision:** exact
+**Location Source:** https://seenutah.org/
 **Website:** https://www.btac.business/
 **Layout:** field-guide
 

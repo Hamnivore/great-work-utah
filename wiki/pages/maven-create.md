@@ -3,78 +3,43 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Map Location:** 177 East 900 South, Suite 200, Salt Lake City, UT 84111
 **Coordinates:** 40.7499957, -111.885784
 **Location Precision:** exact
-**Location Source:** https://mavenslc.com/businesses/maven-create/
+**Location Source:** https://mavencreateslc.com/
 **Website:** https://mavencreateslc.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary
 
-Maven Create supports entrepreneurs by offering a collaborative workspace that encourages networking and personal growth, hosting events and workshops to facilitate community engagement. Located within the Maven District, home to Salt Lake City's largest community of female-owned small businesses, it provides an environment that champions diversity and local enterprises.
+Maven CREATE is a coworking and event space in Salt Lake City's Maven District at 177 East 900 South, Suite 200. The site markets a wellness-forward remote-work environment with furnished coworking, phone booths, presentation stage, member events, and ties to neighboring Maven Strong fitness and Maven Well wellness professionals.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Women
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Remote workers, women entrepreneurs, local small-business owners, and teams seeking a community-oriented coworking space with wellness amenities in central Salt Lake City. Students and teachers are called out for discounted membership.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
+Day, month-to-month, and longer-term coworking; private executive offices; event and photoshoot rentals; community events and speaker series; Maven community fund; kitchen, Wi-Fi, parking, meditation space, showers/lockers, and optional fitness-studio access next door.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
 - [Official website](https://mavencreateslc.com/) · https://mavencreateslc.com/
+- Join via the site interest form or buy day passes online; contact for private offices, events, and corporate packages
 - Startup State listing: https://startup.utah.gov/business-resource/maven-create/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The site lists free Community Member signup (event notifications), day passes at $20, month-to-month coworking at $99, photoshoots at $150/day, and students/teachers at 50% off via contact. Executive offices and event space are quote-based.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Women
-
-## Imported Coverage
-
-- Startup State ID: 2563 (slug `maven-create`)
-- Topics: Entrepreneurship Communities
-- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
-- Communities: Women
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Davis, Morgan, Salt Lake, Tooele, Weber
-- Listing modified: 2024-12-10T11:22:46
+Female founders and remote professionals who want an affordable monthly coworking option near downtown with wellness perks and community programming — especially operators who will use the space more than five days per month.
 
 
 ## Evidence
@@ -85,6 +50,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What corporate package pricing and desk counts are available today?
+- Which recurring community events are best for first-time visitors?

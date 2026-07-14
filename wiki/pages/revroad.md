@@ -1,7 +1,7 @@
 # RevRoad
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
 **Primary Location:** Provo, UT
@@ -17,74 +17,37 @@
 
 ## Summary
 
-RevRoad, founded in 2017 and based in Provo, Utah, is a venture services firm focused on accelerating the growth of early-stage startups. Entrepreneurs benefit from RevRoad's comprehensive support in navigating key growth stages.
+RevRoad is a Provo-based venture services firm founded in 2017 that pairs capital with operating support in strategy, software, marketing, and business development. Its official site states the fund is fully deployed and that RevRoad has closed applications for future investments while continuing portfolio support.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Revenue-stage Utah startups that could benefit from a venture-services model. New applicants should treat RevRoad as portfolio-support only unless the site reopens investing.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Venture services across growth strategy, funding navigation, software, marketing, and business development
+- Portfolio management and founder support for existing investments
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Use Contact Us on the official site for portfolio or partnership inquiries
 - [Official website](https://www.revroad.com/) · https://www.revroad.com/
 - Email: [info@revroadcapital.com](mailto:info@revroadcapital.com)
 - Startup State listing: https://startup.utah.gov/business-resource/revroad/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+RevRoad does not publish standard fee terms on its homepage. Verify current status before treating RevRoad as an open funding channel.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2617 (slug `revroad`)
-- Topics: Funding
-- Stages: Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2025-01-27T11:04:30
-
+Useful context for founders researching Utah venture-services models. Weak for new founders seeking open early-stage capital because the site says applications for future investments are closed.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.revroad.com/) · https://www.revroad.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Will RevRoad reopen a new fund or application process?

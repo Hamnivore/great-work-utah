@@ -1,7 +1,7 @@
 # Park City Angels
 
 **Type:** resource
-**Status:** Draft
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
 **Primary Location:** Park City, UT
@@ -13,74 +13,38 @@
 
 ## Summary
 
-The Park City Angels is Utah's largest and most active angel investment group, comprising over 85 accredited investors who provide early-stage capital to high-growth companies across the United States. Since its inception in 2008, the group has invested more than $85 million in over 1,275 individual investments, supporting ventures across various industries. Beyond financial backing, members offer mentorship, industry expertise, and valuable connections to entrepreneurs, aiming to foster innovation and economic growth
+Park City Angels is a Utah angel investor network of 85+ accredited investors based in Park City. The official site reports more than $85 million invested across 1,275+ individual investments since 2008 and screens early-stage companies nationwide.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
+## Who It's For
 
-
-## Who It Helps
-
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Early-stage founders seeking angel capital and mentor access. The group evaluates companies across the United States, not only Utah, though its investor base is Park City-centered.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
+- Angel investment from accredited investor members
+- Mentorship and industry expertise from experienced operators
+- Screening and due-diligence process for member investment decisions
 
-- Funding
+## How To Access
 
-## How To Access It
-
-Start with the official website, then confirm current programs before recommending.
-
+- Submit an application through the official site
 - [Official website](https://www.parkcityangels.com/) · https://www.parkcityangels.com/
 - Email: [info@parkcityangels.com](mailto:info@parkcityangels.com)
 - Startup State listing: https://startup.utah.gov/business-resource/park-city-angels/
 
+## Cost
 
-## Cost / Eligibility
-
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No fee to apply is stated on the public homepage. Investment terms are negotiated if selected. Accredited-investor rules apply on the investor side.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Funding
-
-## Imported Coverage
-
-- Startup State ID: 2616 (slug `park-city-angels`)
-- Topics: Funding
-- Stages: Growing, Product Built (pre-revenue), Product Built (revenue)
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-10T12:50:13
-
+Founders with early traction seeking angel capital and Utah-connected mentors. Less relevant for non-dilutive grants, debt, or late-stage growth equity.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.parkcityangels.com/) · https://www.parkcityangels.com/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What is the current application timeline and typical check size per deal?

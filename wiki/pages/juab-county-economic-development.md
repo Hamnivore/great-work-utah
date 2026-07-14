@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding
 **Primary Location:** Nephi, UT
 **Utah Location:** Juab County, UT
 **Region:** Juab County
@@ -17,77 +17,38 @@
 
 ## Summary
 
-Juab County, established in 1852, is located in western Utah with Nephi as its county seat. The county's official website provides residents and visitors with information on government services, departments, and community resources, including property searches, tax payments, and public meeting agendas. The site also offers updates on county news, events, and access to various applications and permits.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Juab County Economic Development is the county government's business-facing entry point for Nephi and Juab County. Verified on `juabcounty.gov` (2026-07-14): the county site publishes business licenses, building permits, and property-tax tools, but its Business section currently says "More Information Coming Soon." Utah GOED's statewide directory lists Juab County Economic Development Agency with director Brent Boswell at 160 North Main Street, Nephi — use that contact path for relocation, expansion, or incentive questions until the county business page is populated.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses considering startup, relocation, or expansion in Juab County, and existing county operators needing permits, licenses, or county-level economic-development guidance.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+County government business services verified on the official site: building permits, business license applications, greenbelt information, and property tax payment. Economic-development advising is routed through the county ED director listed in Utah GOED's statewide contacts directory rather than detailed program pages on the county site.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://juabcounty.gov/) · https://juabcounty.gov/
+- County business hub: https://juabcounty.gov/business/
+- Utah GOED statewide ED contacts (Juab County Economic Development Agency): https://business.utah.gov/statewide-economic-development-contacts/
+- Contact listed in GOED directory: Brent Boswell, [bboswell@juabcounty.com](mailto:bboswell@juabcounty.com), (435) 623-0822
 - Startup State listing: https://startup.utah.gov/business-resource/juab-county-economic-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Permit and license fees apply per county forms; economic-development program costs and eligibility are not published on the sparse county business page — confirm with the ED director.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2728 (slug `juab-county-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Juab, Millard, Piute, Sanpete, Sevier, Wayne
-- Listing modified: 2024-12-11T10:44:42
-
+Operators opening or expanding in Juab County who need a county government contact for permits, incentives, or site-selection help rather than a private accelerator.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://juabcounty.gov/) · https://juabcounty.gov/
+- Startup State listing: https://startup.utah.gov/business-resource/juab-county-economic-development/
+- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- When will Juab County publish economic-development program details on `juabcounty.gov/business/`?
+- Which active state or regional incentives (enterprise zone, RLF partners, etc.) does Juab County currently coordinate?

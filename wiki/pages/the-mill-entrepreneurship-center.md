@@ -7,6 +7,10 @@
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
 **Region:** Sandy
+**Map Location:** The Mill at Miller Campus, 9690 S 300 W, Sandy, UT 84070
+**Coordinates:** 40.5755203, -111.9008263
+**Location Precision:** exact
+**Location Source:** https://www.google.com/maps/search/?api=1&query=The+Mill+9690+S+300+W+Sandy+UT+84070
 **Website:** https://themillatslcc.com/
 **Updated:** 2026-07-14
 **Layout:** field-guide

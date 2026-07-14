@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** Utah
+**Focus:** Late Stage Growth, Relocate a Business to Utah
+**Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.utrga.org/
@@ -13,77 +13,37 @@
 
 ## Summary
 
-The Utah Regional Growth Association assists Utah communities in creating and deploying strategies that lead to economic growth and diversification.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+The Utah Regional Growth Association (URGA) is a statewide nonprofit that helps Utah communities create and deploy strategies for economic growth and diversification. Verified on utrga.org: URGA invests in critical infrastructure (water, sewer), accelerates redevelopment areas for jobs and housing, and advocates for regionally focused, sustainable growth policy.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+City and county leaders, regional planners, and economic development professionals working on infrastructure, redevelopment, and community growth — not individual founders directly, though their projects can benefit from URGA-backed area improvements.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+Infrastructure investment support, redevelopment-area acceleration, regional growth advocacy, and a coordinating voice for employment, attainable housing, and impactful infrastructure initiatives across Utah communities.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Contact URGA through its official site for partnership or community strategy conversations.
 
 - [Official website](https://www.utrga.org/) · https://www.utrga.org/
 - Startup State listing: https://startup.utah.gov/business-resource/utah-regional-growth-association/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No public fee schedule on the official site. URGA works with communities and partners on growth projects; scope and eligibility are project-specific.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2700 (slug `utah-regional-growth-association`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
-- Listing modified: 2024-12-11T08:23:48
-
+Municipal or regional leaders pursuing infrastructure, redevelopment, or housing-employment balance — not a first stop for a solo pre-revenue founder. Useful background when a business expansion depends on sewer, water, or redevelopment zone work.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.utrga.org/) · https://www.utrga.org/
+- Startup State listing: https://startup.utah.gov/business-resource/utah-regional-growth-association/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which communities have active URGA-backed redevelopment projects today?
+- How do private businesses engage URGA versus their local EDA?

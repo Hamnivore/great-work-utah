@@ -8,10 +8,15 @@
 **Primary Location:** Springville, UT
 **Utah Location:** Springville, UT
 **Region:** Springville
+**Map Location:** Wavetronix Headquarters, 663 Wavetronix Dr, Springville, UT 84663
+**Coordinates:** 40.1758017, -111.6446696
+**Location Precision:** exact
+**Location Source:** https://www.wavetronix.com/find-office
+**Additional Map Location:** Wavetronix Support, 1827 W 650 N, Springville, UT 84663 | 40.1757874, -111.6432556 | exact | https://www.wavetronix.com/find-office
 **Careers:** https://www.wavetronix.com/careers
 **Website:** https://www.wavetronix.com/
 **Domain:** aerospace-defense, computing
-**Updated:** 2026-06-18
+**Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
 **Hero:** https://picsum.photos/seed/wavetronix-springville-traffic-radar-2026/1600/1100
 **Pull:** *Utah-made radar sensors and traffic systems for safer, more efficient roads.*

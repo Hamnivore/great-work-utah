@@ -3,8 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
-**Primary Location:** Summit County, UT
+**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Primary Location:** Coalville, UT
 **Utah Location:** Summit County, UT
 **Region:** Summit County
 **Map Location:** 60 North Main Street, Coalville, UT 84017
@@ -17,69 +17,33 @@
 
 ## Summary
 
-The Summit County Economic Development Department in Utah supports local businesses and attracts new enterprises to enhance the county's economic vitality. It offers resources for business expansion, workforce development, and community planning, aiming to create a sustainable and high-performance economy. The department collaborates with public and private partners to provide programs and services that foster entrepreneurship and job creation within the region.
+Summit County's Economic Development & Housing department supports business expansion and regional vitality in a high-growth mountain county. The official county page loads under the "Economic Development & Housing" heading (verified 2026-07-14), though detailed program copy was sparse in automated fetch; Startup State describes workforce, planning, and entrepreneurship support delivered with public and private partners.
 
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Contact county staff for current incentives and business-assistance menus.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses operating in or relocating to Summit County (including Park City, Kimball Junction, and eastern Summit communities), and local leaders working on housing-economic balance.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+County economic-development and housing coordination, business expansion support, workforce and planning resources per Startup State, and staff contact through the county department. Pair with [Heber Valley Economic Development](heber-valley-economic-development.md) for Wasatch/back-valley context.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
-
-- [Official website](https://www.summitcountyutah.gov/609/Economic-Development) · https://www.summitcountyutah.gov/609/Economic-Development
+- [Economic Development & Housing](https://www.summitcountyutah.gov/609/Economic-Development) · https://www.summitcountyutah.gov/609/Economic-Development
 - Email: [jjones@summitcountyutah.gov](mailto:jjones@summitcountyutah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/summit-county-economic-development/
 
-
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+County business outreach is generally free; grants or incentives depend on specific programs. Contact staff for eligibility on expansion or workforce projects.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
+Growth-stage employers and main-street businesses navigating Summit County's resort-adjacent economy and housing constraints.
 
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2734 (slug `summit-county-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Summit, Utah, Wasatch
-- Listing modified: 2024-12-11T10:48:53
-
+Less useful for statewide remote founders with no Summit County footprint.
 
 ## Evidence
 
@@ -89,6 +53,5 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- What specific incentive and workforce programs are published beyond the department landing page?
+- Is jjones@summitcountyutah.gov still the primary business contact?

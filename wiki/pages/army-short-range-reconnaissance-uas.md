@@ -8,8 +8,12 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
+**Map Location:** Teal Drones production facility, 2800 S West Temple Street, Suite 2, South Salt Lake, UT 84115
+**Coordinates:** 40.7106435, -111.8940472
+**Location Precision:** exact
+**Location Source:** https://tealdrones.com/contact-dev-dynamics/
 **Website:** https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas
-**Updated:** 2026-06-25
+**Updated:** 2026-07-14
 **Pull:** *Utah-built Black Widow drones are putting rucksack-portable battlefield eyes into the hands of every Army platoon.*
 **Relates:** cites [U.S. Army: SRR Tranche 2 Production Begins](army-srr-tranche2-article.md) · https://greatutah.work/pages/army-srr-tranche2-article.md · https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas
 **Relates:** cites [Red Cat: Production Selection for U.S. Army SRR](red-cat-srr-production-selection.md) · https://greatutah.work/pages/red-cat-srr-production-selection.md · https://ir.redcatholdings.com/news-releases/news-release-details/red-cat-announces-production-selection-for-u-s-army-short-range-reconnaissance-program

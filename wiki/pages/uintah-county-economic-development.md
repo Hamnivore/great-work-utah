@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Focus:** Funding, Late Stage Growth, Start a Business
 **Primary Location:** Uintah County, UT
 **Utah Location:** Uintah County, UT
 **Region:** Uintah County
@@ -17,78 +17,39 @@
 
 ## Summary
 
-The Uintah County Economic Development Department in Utah fosters sustainable economic growth by supporting local businesses, attracting new enterprises, and enhancing residents' quality of life. It offers resources such as grants, business incentives, and strategic planning to promote a vibrant economy. The department collaborates with public and private partners to provide programs and services that encourage entrepreneurship and job creation within the region.
-
-This page was originally bulk-imported from the Startup State resource CSV. Summary text above was refreshed from the live Startup State listing (2026-07-14); verify details on the provider's official site before strong recommendations.
-
+Uintah County Economic Development promotes sustainable growth in northeastern Utah between Salt Lake City and Colorado. Verified on business.uintah.gov: the department highlights county economic data, local events, grants and resources, and a business-friendly open-door policy for entrepreneurs expanding in Uintah County.
 
 ## Who It Helps
 
-The CSV lists this resource for these communities:
-
-- Not specified in the CSV import.
-
-It also maps the resource to these industries:
-
-- Aerospace and Defense
-- Agriculture
-- Arts and Entertainment and Recreation
-- Consumer Packaged Goods
-- Financial Services
-- Hospitality and Food Services
-- Life Sciences and Healthcare
-- Manufacturing
-- Other
-- Software and Information Technology
+Businesses starting or expanding in Uintah County and the Uintah Basin; operators seeking county grants, incentives, or local economic data; entrepreneurs who need a direct county ED contact in Vernal.
 
 ## What It Provides
 
-The imported description suggests this resource may provide support related to:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
+County economic snapshot and news, grants and resources directory, starting-a-business guidance links, micro-grant information, and staff liaison for business recruitment and retention in Uintah County.
 
 ## How To Access It
 
-Start with the official website, then confirm current programs before recommending.
+Use the official site menus for Grants & Resources and Starting a Business, or contact staff directly.
 
 - [Official website](https://business.uintah.gov/) · https://business.uintah.gov/
 - Email: [tcampbell@uintah.utah.gov](mailto:tcampbell@uintah.utah.gov)
+- Phone: 435-781-6767
 - Startup State listing: https://startup.utah.gov/business-resource/uintah-county-economic-development/
-
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+No public fees for county ED consultation. Grant and micro-grant eligibility vary by program — confirm active funding rounds on the site before applying.
 
 ## Best Fits
 
-Based on the Startup State tags, this may fit Utah founders or operators working on:
-
-- Entrepreneurship Communities
-- Funding
-- Late Stage Growth
-
-## Imported Coverage
-
-- Startup State ID: 2697 (slug `uintah-county-economic-development`)
-- Topics: Entrepreneurship Communities, Funding, Late Stage Growth
-- Stages: Growing, Product Built (revenue), Ready to Exit/Sell
-- Communities: —
-- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
-- Locations: Daggett, Duchesne, Uintah
-- Listing modified: 2024-12-11T08:19:17
-
+Main Street or industrial operators with a Uintah County location or expansion plan, especially when grants or county incentives are the bottleneck. Less relevant for Wasatch Front-only remote startups with no basin footprint.
 
 ## Evidence
 
-- [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
-- [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://business.uintah.gov/) · https://business.uintah.gov/
+- Startup State listing: https://startup.utah.gov/business-resource/uintah-county-economic-development/
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
-- What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
-- Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+- Which grant programs are currently open on the Grants & Resources page?
+- Current micro-grant award caps and deadlines?

@@ -7,8 +7,12 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
+**Map Location:** 60 E South Temple, Suite 300, Salt Lake City, UT 84111
+**Coordinates:** 40.769012, -111.889122
+**Location Precision:** exact
+**Location Source:** https://business.utah.gov/contact/
 **Website:** https://business.utah.gov/regulatory-relief/
-**Updated:** 2026-05-09
+**Updated:** 2026-07-14
 **Layout:** field-guide
 
 ## Summary

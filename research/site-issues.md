@@ -4,85 +4,98 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 
 ## Open
 
-### No full-text search; discovery is skim-indexes or guess slugs
+### Domain / by-region attribution thin (RF, bio, rural under-listed)
 
-- **Seen:** 2026-07-14 (rural / founder / advisor probes)
-- **Where:** site-wide
-- **What:** Agents must skim type views; title→slug guesses often 404 (`find-an-advisor-in-utah` vs `find-an-advisor`; `eide-bailly` vs `eide-bailly-utah`).
-- **Impact:** High friction for cold agents; wasted round-trips.
-- **Next check:** Wishlist grep endpoint / better slug hints; keep “don’t guess — use views” but make view paths WebFetch-safe (done). Extensionless + trailing-slash redirects shipped 2026-07-14.
-
-### `by-region` / Domain attribution thin; rural & bio hubs misleading
-
-- **Seen:** 2026-07-14
-- **Where:** `/views/by-region.md`, `/views/domain-health-bio.md`, resource stubs
-- **What:** Region view only includes attributed pages; many chambers use Location not Region. Health-bio hub nearly empty while bio ventures lack Domain. Rural coverage exists mostly as Low-confidence CSV stubs.
-- **Impact:** Geography/sector browse understates real corpus.
-- **Next check:** Attribution rollout; stub quality pass.
+- **Seen:** 2026-07-14 (RF / rural / founder probes, round 2)
+- **Where:** `/views/domain-aerospace-defense.md`, `/views/by-region.md`, `/views/domain-health-bio.md`, rural stubs
+- **What:** Hubs only list attributed pages — IMSAR/Fortem/SDL/L3Harris missing from aerospace hub; Moab chambers invisible in by-region; health-bio nearly empty. Rural stubs Low confidence, often no official URL; Focus tags polluted (Aerospace/Agriculture on tourism pages).
+- **Impact:** Sector/geo-first agents under-recommend the best matches.
+- **Next check:** Attribution rollout; stub quality; Focus cleanup.
 
 ### Needs still inferred; no careers URLs; helpers often Draft
 
-- **Seen:** 2026-07-14 (job-seeker / advisor probes)
+- **Seen:** 2026-07-14
 - **Where:** `/views/needs.md`, venture pages, helper pages
-- **What:** Needs are “Likely needs…” not live openings; pages don’t link careers; helpers often `Status: Draft`. Needs board truncation lengthened 2026-07-14 (400/280 chars).
+- **What:** Needs are “Likely needs…” not live openings; pages don’t link careers; helpers often `Status: Draft`.
 - **Impact:** Cannot answer live hiring; trust weaker than prose depth.
 - **Next check:** Careers link field; review pass on helpers.
 
 ### Contribute: no rate limit / dedupe
 
-- **Seen:** 2026-07-14 (contribute probe) — opened test issues #3–#5
+- **Seen:** 2026-07-14 (many notes in round 2, issues ~#14–#40)
 - **Where:** `POST /api/contribute`
-- **What:** Rapid notes create multiple GitHub issues; llms says no rate limits.
-- **Impact:** Queue noise.
-- **Next check:** Light rate limit or dedupe. (Deep-link decode errors now surfaced in UI.)
+- **What:** Rapid notes create many GitHub issues; no dedupe.
+- **Impact:** Queue noise (also a sign closing-the-loop works).
+- **Next check:** Light rate limit or content hash dedupe.
 
-### Capital / advisor guides incomplete vs corpus; focus tags polluted
+### Capital / advisor guides incomplete; UIF/UTIF collision; Silicon Slopes gap
 
-- **Seen:** 2026-07-14 (founder / advisor probes)
-- **Where:** `startup-capital-in-utah.md`, `find-an-advisor.md`, angel/VC stubs, resource Focus lines
-- **What:** Canonical guides omit angels/VCs/life-sciences helpers that exist elsewhere; CSV stubs tagged Aerospace/Agriculture; Nucleus pages bury apply URLs on source pages; `utah-innovation-fund` vs `nucleus-fund` overlap.
-- **Impact:** Following llms procedures systematically under-serves biotech founders and private-capital seekers.
-- **Next check:** Guide refresh; Focus cleanup; put primary URLs on resource pages.
+- **Seen:** 2026-07-14 (founder / advisor / wrong-slug probes)
+- **Where:** guides, angel/VC stubs, `sillicon-slopes` typo page, missing real Silicon Slopes org page
+- **What:** Guides omit life-sciences helpers / angels; UIF stub vs UTIF confusion; typo slug (redirect added for `silicon-slopes` → `sillicon-slopes`, still need a real page).
+- **Impact:** Capital and ecosystem routing under-serves founders.
+- **Next check:** Guide refresh; rename/alias Silicon Slopes properly; merge or cross-link UIF/Nucleus Fund.
+
+### No full-text search; agent-first human chrome
+
+- **Seen:** 2026-07-14 (human browse probe)
+- **Where:** `/`, nav, SPA
+- **What:** No search; nav is needs+contribute; homepage still agent-forward. Note form on `/contribute` shipped mid-round.
+- **Impact:** Humans struggle to browse ~600 pages.
+- **Next check:** Wishlist grep; quieter human browse mode.
+
+### Evidence links often unfetchable via HTML sanitizers
+
+- **Seen:** 2026-07-14 (RF probe)
+- **Where:** page Evidence / See Also
+- **What:** WebFetch drops hrefs; unlike views, page bodies don’t repeat paths in backticks.
+- **Impact:** Hard to follow sources after sanitizing fetch.
+- **Next check:** Evidence lines include `` `/pages/{slug}.md` `` or absolute URLs in plaintext.
 
 ## Fixed / closed
+
+### Notes rejected on `views/` / `meta/` paths
+
+- **Seen:** 2026-07-14 (RF / rural / history probes) · **Fixed:** 2026-07-14
+- **What:** `POST /api/contribute` 400 for `views/by-region.md` etc.; agents couldn’t file gaps against indexes.
+- **Fix:** Notes accept `pages|views|meta/{slug}.md`; llms.txt documents it. Pages still require `pages/`.
+
+### `domain-capital-programs.md` 404 while listed in llms.txt
+
+- **Seen:** 2026-07-14 · **Fixed:** 2026-07-14
+- **Fix:** Always emit every domain hub file; empty hubs explain attribution gap and point to type views.
+
+### `silicon-slopes` obvious slug 404
+
+- **Seen:** 2026-07-14 · **Fixed:** 2026-07-14 (alias only)
+- **Fix:** 308 `/pages/silicon-slopes.md` → `/pages/sillicon-slopes.md` (existing typo slug). Real rename still open.
 
 ### Human contribute UX is agent-handoff shaped
 
 - **Seen:** 2026-07-14 · **Fixed:** 2026-07-14
-- **Fix:** `/contribute` leads with a plain “Leave a note” form; agent handoff/JSON paste moved below; bad hash shows a decode error instead of only “No draft found.”
+- **Fix:** `/contribute` leads with a plain “Leave a note” form; agent handoff/JSON paste moved below; bad hash shows a decode error.
 
 ### Human SPA: soft-blank unmatched routes; no document.title
 
 - **Seen:** 2026-07-14 · **Fixed:** 2026-07-14
-- **Fix:** Client `*` route shows slim 404 with `/llms.txt` + `/views/index.md`; `document.title` set from page H1; `/p/{slug}.md` strips `.md` before fetch.
+- **Fix:** Client `*` 404; `document.title` from H1; `/p/{slug}.md` strips `.md`.
 
 ### Trailing-slash / extensionless / view `../` path traps
 
 - **Seen:** 2026-07-14 · **Fixed:** 2026-07-14
-- **Fix:** `vercel.json` 308s strip trailing slashes on `*.md` / `llms.txt` and map extensionless `/pages|views|meta/{slug}` → `{slug}.md`. Generated views use root-absolute `/pages/...` hrefs (no `../`).
+- **Fix:** 308 trailing-slash strip + extensionless→`.md`; views use root-absolute `/pages/...` hrefs.
 
 ### Needs board truncates mid-sentence
 
 - **Seen:** 2026-07-14 · **Fixed:** 2026-07-14 (partial)
-- **Fix:** Needs clip raised to 400 chars (ventures inline needs 280). Still not full section text — full page remains source of truth.
+- **Fix:** Needs clip 400 chars (ventures inline 280).
 
-### `llms.txt` / view paths broken under Cursor WebFetch (HTML sanitization)
-
-- **Seen:** 2026-07-14 · **Fixed:** 2026-07-14
-- **Where:** `/llms.txt`, generated `/views/*.md`
-- **What:** Angle-bracket placeholders (`<slug>`) became empty (`/pages/.md`). Markdown link hrefs were dropped so type views showed titles with no fetchable paths.
-- **Fix:** `{slug}` / `{type}` placeholders; valid copy-paste JSON contribute example; views repeat `` `/pages/{slug}.md` `` in backticks; manual documents fetch tip + `/p/` vs `/pages/` + sector hub filenames; contribute API errors avoid angle brackets and mention `Content-Type`.
-
-### Soft 404: unknown paths (incl. stray `.md`) returned SPA homepage
+### `llms.txt` / view paths broken under Cursor WebFetch
 
 - **Seen:** 2026-07-14 · **Fixed:** 2026-07-14
-- **Where:** e.g. `/jarvik-7-utah-history.md`, `/about` (edge)
-- **What:** Catch-all rewrite sent everything to `index.html` (HTTP 200), so agents treated wrong URLs as success.
-- **Fix:** `vercel.json` rewrites only `/`, `/contribute`, `/p/*`, `/v/*` — other missing paths get a real Vercel 404.
+- **Fix:** `{slug}` placeholders; backtick paths in views; fetch tip.
 
-### Opaque hard 404 body (Vercel `NOT_FOUND`)
+### Soft 404 SPA catch-all / opaque Vercel NOT_FOUND
 
 - **Seen:** 2026-07-14 · **Fixed:** 2026-07-14
-- **Where:** missing `/pages/*.md`, `/views/*.md`, unknown paths
-- **What:** Generic plain-text `NOT_FOUND` + request id; no recovery pointers.
-- **Fix:** Slim `public/404.html` — status still 404; body points at `/llms.txt` and `/views/index.md`. SPA miss message matches.
+- **Fix:** Narrow rewrites; slim `404.html` with `/llms.txt` + `/views/index.md`.

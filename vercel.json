@@ -44,7 +44,8 @@
     { "source": "/views/:view([^/.]+)", "destination": "/views/:view.md", "statusCode": 308 },
     { "source": "/meta/:doc([^/.]+)", "destination": "/meta/:doc.md", "statusCode": 308 },
     { "source": "/pages/sillicon-slopes.md", "destination": "/pages/silicon-slopes.md", "statusCode": 308 },
-    { "source": "/p/sillicon-slopes", "destination": "/p/silicon-slopes", "statusCode": 308 }
+    { "source": "/p/sillicon-slopes", "destination": "/p/silicon-slopes", "statusCode": 308 },
+    { "source": "/entry/:source/:slug", "destination": "/p/:slug", "statusCode": 308 }
   ],
   "rewrites": [
     { "source": "/", "destination": "/index.html" },

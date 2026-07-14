@@ -7,7 +7,7 @@ All pages live flat at `https://greatutah.work/pages/{slug}.md`; every view belo
 
 ## By type
 
-- [ventures](ventures.md) · `https://greatutah.work/views/ventures.md` — 118 companies, labs, initiatives (with needs inline)
+- [ventures](ventures.md) · `https://greatutah.work/views/ventures.md` — 119 companies, labs, initiatives (with needs inline)
 - [resources](resources.md) · `https://greatutah.work/views/resources.md` — 220 grants, accelerators, facilities, capital paths
 - [people](people.md) · `https://greatutah.work/views/people.md` — 12 founders, researchers, operators
 - [helpers](helpers.md) · `https://greatutah.work/views/helpers.md` — 12 advisors, funds, service providers

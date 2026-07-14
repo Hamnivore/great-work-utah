@@ -1,6 +1,6 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (396 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (397 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
@@ -173,6 +173,7 @@ Generated from `**Region:**` metadata (396 pages with a region). Sector hubs sti
 - [Savory Fund](/pages/savory-fund.md) · `https://greatutah.work/pages/savory-fund.md` · resource
 - [SchoolAI](/pages/schoolai.md) · `https://greatutah.work/pages/schoolai.md` · venture
 - [Weave](/pages/weave.md) · `https://greatutah.work/pages/weave.md` · venture
+- [Workfront](/pages/workfront.md) · `https://greatutah.work/pages/workfront.md` · computing
 
 ## Lindon
 

@@ -91,11 +91,19 @@ export function MarkdownDoc({ docPath }: { docPath: string }) {
     return (
       <div className="font-sans text-sm text-ink-soft">
         <p>
-          Couldn't load <code>/{docPath}</code> ({current.error}).
+          404 — couldn't load <code>/{docPath}</code>. Don't guess slugs.
         </p>
         <p className="mt-2">
+          <a href="/llms.txt" className="text-twilight">
+            /llms.txt
+          </a>
+          {' · '}
+          <a href="/views/index.md" className="text-twilight">
+            /views/index.md
+          </a>
+          {' · '}
           <Link to="/" className="text-twilight">
-            Back to the index
+            index
           </Link>
         </p>
       </div>

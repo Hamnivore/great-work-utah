@@ -52,6 +52,30 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **Impact:** Opaque handoff failures; queue noise.
 - **Next check:** Surface decode errors; light rate limit or dedupe.
 
+### Trailing-slash URLs break Relates joins; view `../` not normalized server-side
+
+- **Seen:** 2026-07-14 (URL/404 probe)
+- **Where:** `/pages/fervo-energy.md/` (200, no redirect); `/views/../pages/...` with path-as-is → 404
+- **What:** Trailing slash keeps content but Relates resolve under the slash path and 404. Naive clients that don’t normalize `../pages/` from views also 404.
+- **Impact:** Graph follow-through fails after a common URL variant; view discovery brittle for some fetchers.
+- **Next check:** 308 strip trailing slash on `*.md`; consider root-absolute `/pages/` hrefs in generated views (backtick paths already mitigate WebFetch).
+
+### Capital / advisor guides incomplete vs corpus; focus tags polluted
+
+- **Seen:** 2026-07-14 (founder / advisor probes)
+- **Where:** `startup-capital-in-utah.md`, `find-an-advisor.md`, angel/VC stubs, resource Focus lines
+- **What:** Canonical guides omit angels/VCs/life-sciences helpers that exist elsewhere; CSV stubs tagged Aerospace/Agriculture; Nucleus pages bury apply URLs on source pages; `utah-innovation-fund` vs `nucleus-fund` overlap.
+- **Impact:** Following llms procedures systematically under-serves biotech founders and private-capital seekers.
+- **Next check:** Guide refresh; Focus cleanup; put primary URLs on resource pages.
+
+### Extensionless paths / `/p/{slug}.md` traps
+
+- **Seen:** 2026-07-14 (URL/404 probe)
+- **Where:** `/pages/fervo-energy` (no `.md`), `/p/fervo-energy.md`
+- **What:** No alias to `.md`; human route always appends `.md` → double extension.
+- **Impact:** Common paste/guess mistakes still fail (now with a helpful 404 body).
+- **Next check:** Optional extensionless→`.md` redirects; strip `.md` in `/p/` param.
+
 ## Fixed / closed
 
 ### `llms.txt` / view paths broken under Cursor WebFetch (HTML sanitization)
@@ -67,3 +91,10 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **Where:** e.g. `/jarvik-7-utah-history.md`, `/about` (edge)
 - **What:** Catch-all rewrite sent everything to `index.html` (HTTP 200), so agents treated wrong URLs as success.
 - **Fix:** `vercel.json` rewrites only `/`, `/contribute`, `/p/*`, `/v/*` — other missing paths get a real Vercel 404.
+
+### Opaque hard 404 body (Vercel `NOT_FOUND`)
+
+- **Seen:** 2026-07-14 · **Fixed:** 2026-07-14
+- **Where:** missing `/pages/*.md`, `/views/*.md`, unknown paths
+- **What:** Generic plain-text `NOT_FOUND` + request id; no recovery pointers.
+- **Fix:** Slim `public/404.html` — status still 404; body points at `/llms.txt` and `/views/index.md`. SPA miss message matches.

@@ -17,6 +17,13 @@ raw markdown at `/pages/<slug>.md`, `/views/<view>.md`, `/meta/<doc>.md`. A mini
    `Focus`, …), then the sections required for the page's Type. Links are same-directory
    relative: `[Fervo Energy](fervo-energy.md)`.
 
+## Working on the shadow wiki
+
+Exceptional work without a substantive Utah connection belongs in `shadow_wiki/`, not in the
+public corpus. Read `shadow_wiki/WIKI.md`, update its index and log with every article change, and
+run `npm run lint:shadow-wiki`. It is tracked in Git but must never be linked from or copied into
+the website, public views, or `public/llms.txt`.
+
 ## Working on the site
 
 - Build: `npm run build` (build views → `tsc -b` → `vite build` → copy `wiki/{pages,views,meta}`

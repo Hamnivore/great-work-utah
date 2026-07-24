@@ -2,7 +2,7 @@
 // Lints wiki/pages/*.md against wiki/meta/attributes.md and wiki/meta/conventions.md.
 // Views (wiki/views/) are generated, never hand-edited — this script does not lint
 // their content, it only checks that wiki/views/index.md exists (a reminder that
-// `node scripts/build-views.mjs` needs to be (re)run). See wiki/WIKI.md.
+// `node scripts/build-views.mjs` needs to be (re)run). See AGENTS.md.
 import fs from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";

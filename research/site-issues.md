@@ -1,6 +1,6 @@
 # Site issues — open tracker
 
-Living list of bugs and rough edges observed on the live site or in local runs. Add a dated note when you hit something; mark fixed when solved. For design wishlist items (not bugs), use [`wishlist.md`](wishlist.md). For experiment writeups, use `findings/`.
+Living list of bugs and rough edges observed on the live site or in local runs. Add a dated note when you hit something; mark fixed when solved. For experiment writeups, use `findings/`.
 
 ## Open
 

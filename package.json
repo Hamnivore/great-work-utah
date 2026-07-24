@@ -6,13 +6,11 @@
   "scripts": {
     "build:views": "node scripts/build-views.mjs",
     "lint:wiki": "node scripts/wiki-lint.mjs",
-    "lint:shadow-wiki": "node scripts/shadow-wiki-lint.mjs",
     "dev": "vite",
     "build": "node scripts/build-views.mjs && node scripts/build-locations.mjs && tsc -b && vite build && cp -r wiki/pages wiki/views wiki/meta dist/",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "node --test scripts/*.test.mjs",
-    "urls:plaintext": "node scripts/plaintext-urls.mjs",
     "startup-state:check": "node scripts/check-startup-state-resources.mjs",
     "startup-state:sync": "node scripts/sync-startup-state-from-api.mjs",
     "startup-state:check:strict": "node scripts/check-startup-state-resources.mjs --strict",

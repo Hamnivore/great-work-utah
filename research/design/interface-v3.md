@@ -2,7 +2,7 @@
 
 **2026-07-09 flatten update:** the wiki now lives at `wiki/pages/<slug>.md` (flat, `**Type:**` attribute instead of category dirs) with generated `wiki/views/` and `wiki/meta/` (conventions/attributes/charter). Everywhere this doc says `wiki/<category>/<slug>.md`, read `pages/<slug>.md` + a `Type` field; the contribute API contract becomes `{ "kind": "note"|"page", "path": "pages/<slug>.md", "type": "<venture|person|helper|resource|work|guide|source>", "content": …, "reason": … }`. URL scheme for the site: `/pages/<slug>.md`, `/views/<view>.md`, `/meta/<doc>.md`.
 
-**Status:** spec, derived from `findings/2026-07-09-*`. Round 3 (4 cold runs) validated the previously-untested ⚗ pieces: the derived needs index (used 4/4, closed the missed-gem class 2/2, cut cost), the contribution ladder + knowledge split (scan→classify→offer/attempt 4/4, zero junk, zero leaks), and the layered master index with matches/answers demoted (unfetched, no quality loss). The tested manual text is `harness/v3/root.md`; the generator is `harness/gen-v3-docs.mjs`. Still untested: the grep endpoint (deferred behind hierarchy promotion) and the wanted-list claim loop. Known external cap: agent platforms may block outbound POSTs regardless of our copy — keep the endpoint legible and review-gated so the user-side approval prompt is easy to accept, and measure attempted+offered contributions, not just landed.
+**Status:** spec, derived from `findings/2026-07-09-*`. Round 3 (4 cold runs) validated the previously-untested ⚗ pieces: the derived needs index (used 4/4, closed the missed-gem class 2/2, cut cost), the contribution ladder + knowledge split (scan→classify→offer/attempt 4/4, zero junk, zero leaks), and the layered master index with matches/answers demoted (unfetched, no quality loss). The tested manual text shipped as `public/llms.txt` — that file is now the live manual and the thing to edit. Still untested: the grep endpoint (deferred behind hierarchy promotion) and the wanted-list claim loop. Known external cap: agent platforms may block outbound POSTs regardless of our copy — keep the endpoint legible and review-gated so the user-side approval prompt is easy to accept, and measure attempted+offered contributions, not just landed.
 
 ## Shape
 
@@ -62,7 +62,7 @@ One procedural line, zero social pressure (tested: pressure gets reported to use
 
 ## The manual itself
 
-Start from `harness/prototypes/v2-hybrid.md` and apply:
+The shipped manual is `public/llms.txt`. It was derived from the round-2 hybrid prototype by applying:
 1. Reading list gains `needs.md` + other derived indexes and `/api/grep`; scored search removed; "index first, grep to refine" wording in the find-work procedure.
 2. Contribution section replaced by the ladder + knowledge split above.
 3. Root/content negotiation as described in Shape.

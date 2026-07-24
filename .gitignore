@@ -7,12 +7,6 @@ dist-ssr
 *.local
 .env
 
-# Generated data artifacts (rebuild via `npm run build:wiki`)
-src/data/generated
-
-# Local Trigger.dev runtime/build artifacts
-.trigger
-
 # Logs
 logs
 *.log
@@ -21,14 +15,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
-# Agent identity / state files (local only)
-HEARTBEAT.md
-IDENTITY.md
-SOUL.md
-TOOLS.md
-USER.md
-.openclaw/
 
 # Editor / OS
 .vscode/*
@@ -41,10 +27,5 @@ USER.md
 *.sln
 *.sw?
 
-# local safety backup from the 2026-07-09 flatten (delete when confident)
-wiki-backup-preflatten.tar.gz
 public/sitemap.xml
 .vercel
-
-# sams personal files
-personal_things

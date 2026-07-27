@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** smart home, home security, IoT, professional monitoring, consumer hardware
+**Roles:** software-engineering, product-design, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Subsidiary of NRG Energy (public parent, NYSE: NRG)
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT

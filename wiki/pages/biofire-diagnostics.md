@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** infectious disease diagnostics, multiplex PCR, syndromic testing, in vitro diagnostics, life sciences
+**Roles:** biology-life-sciences, manufacturing-operations, clinical-regulatory, product-design, sales-business-development, people-operations
 **Stage:** Established subsidiary of bioMérieux (Euronext: BIM); global deployment
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

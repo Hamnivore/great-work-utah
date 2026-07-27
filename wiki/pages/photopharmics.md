@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology
+**Roles:** hardware-engineering, clinical-regulatory, program-project-management
 **Stage:** Private; clinical-stage; Series B ($16M + $6M extension); Phase 3 trial underway
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

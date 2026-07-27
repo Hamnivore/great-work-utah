@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** fiber optic seals, glass-to-metal seals, neutron generators, radiation-hardened components, hermetic packaging
+**Roles:** hardware-engineering, sales-business-development
 **Stage:** Unknown; DOE SBIR submission noted
 **Primary Location:** unknown
 **Utah Location:** unknown

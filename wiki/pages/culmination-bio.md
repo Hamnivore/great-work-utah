@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** clinical data platform, longitudinal patient data, drug discovery, diagnostics, biotech spinout
+**Roles:** data-science, biology-life-sciences, clinical-regulatory, sales-business-development, legal-policy
 **Stage:** Operating subsidiary; $10M from Amgen Ventures and Merck Global Health Innovation Fund (2023)
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

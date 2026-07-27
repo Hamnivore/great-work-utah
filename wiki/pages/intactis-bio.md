@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** biological computing, hybrid biosilicon AI, neuromorphic compute, deep tech
+**Roles:** software-engineering, data-science
 **Stage:** Pre-seed; biocomputation alpha platform live (2025); $250K Nucleus Fund + $100K RPV
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Altitude Lab, Salt Lake City, UT

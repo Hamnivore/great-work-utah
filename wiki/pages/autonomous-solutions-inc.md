@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** off-road vehicle autonomy, industrial fleet automation, OEM-agnostic robotics, mining, agriculture, construction, logistics
+**Roles:** software-engineering, hardware-engineering, sales-business-development, field-skilled-trades
 **Stage:** Established private company (founded 2000; Utah State University spinout; expanding in 2025–2026)
 **Primary Location:** Mendon, UT
 **Utah Location:** Mendon, UT; Lehi, UT

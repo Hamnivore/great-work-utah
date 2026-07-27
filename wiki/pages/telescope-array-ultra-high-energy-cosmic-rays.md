@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infrastructure
+**Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, program-project-management
 **Stage:** Established international collaboration; operating since 2008
 **Primary Location:** West of Delta, UT
 **Utah Location:** Millard County, UT

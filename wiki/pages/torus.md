@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing
+**Roles:** software-engineering, manufacturing-operations, field-skilled-trades
 **Stage:** Growth ($200M from Magnetar, Sept 2025; ~$267M+ raised to date)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

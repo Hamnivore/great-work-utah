@@ -12,6 +12,12 @@ Normative. Pages live flat in `pages/`, one namespace; everything else about org
 
 **P4 — Pages are edited; views are compiled.** Contributors touch exactly one thing: the page in `pages/`. Every view regenerates from metadata (`node scripts/build-views.mjs`). If a change seems to need a hand-edit to a view, the metadata is wrong or a generator is missing a view.
 
+## Roles
+
+`**Roles:**` identifies the broad families of contributors an entity says it currently needs. It is optional, applies only to pages with `## What They Need Now`, and is compiled into role views for people looking for work. Each value must be supported by the needs section: tag the work the entity is asking people to do, not its sector, its `Focus`, technologies or ingredients it uses, or every profession that could conceivably work there.
+
+Use the smallest supported set of broad role families. For example, a biotech venture seeking software engineers gets `software-engineering`, not `biology-life-sciences` merely because biology is its sector. Keep specialties such as frontend, backend, machine learning, molecular biology, and enterprise sales in the prose of `## What They Need Now`; map them to the registry's stable role families for browsing. Separate multiple values with commas.
+
 ## P1 precedents (Domain)
 
 1. Sector served beats discipline practiced: battery *test equipment* for storage manufacturers → `energy, materials-mfg`; a law firm serving biotech → `capital-programs, health-bio`.

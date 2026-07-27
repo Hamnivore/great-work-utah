@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** autonomous buildings, edge AI, digital twins, climate, building controls
+**Roles:** software-engineering, data-science, hardware-engineering, product-design, field-skilled-trades
 **Stage:** Series C
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

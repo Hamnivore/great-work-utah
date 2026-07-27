@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** shared reality, immersive entertainment, LED dome venues, real-time rendering, Evans & Sutherland heritage
+**Roles:** software-engineering, hardware-engineering, manufacturing-operations, marketing-communications, people-operations
 **Stage:** Growth ($250M raised 2024; multiple operational venues)
 **Primary Location:** unknown
 **Utah Location:** Salt Lake City, UT

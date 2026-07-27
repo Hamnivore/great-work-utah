@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology
+**Roles:** biology-life-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Preclinical; CALYM-001 at in vivo validation, pre-IND target
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

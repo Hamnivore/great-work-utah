@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** interventional medical devices, catheters, manufacturing, FDA regulated, life sciences
+**Roles:** physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory, program-project-management
 **Stage:** Public company (NASDAQ: MMSI), founded 1987
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** metabolic syndrome, PASK inhibition, diabetes, obesity, NAFLD/NASH, University of Utah spinout
+**Roles:** biology-life-sciences, physical-sciences, clinical-regulatory
 **Stage:** Unknown as of 2026; last primary public signal is 2014 preclinical partnership press release
 **Primary Location:** unknown
 **Utah Location:** University of Utah, Salt Lake City, UT (historical spinout)

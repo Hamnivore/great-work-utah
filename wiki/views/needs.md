@@ -2,7 +2,9 @@
 
 Every page's "What They Need Now," one line each — perfect recall over stated needs. These are inferred assessments from public information, not confirmed job openings; verify directly with the company before treating one as a lead. Needs unreviewed for 6+ months are flagged.
 
-Lines include region when set so you can Ctrl+F a city. When present, bare `Careers:` / `Website:` URLs are the apply next step (no markdown links — survives HTML-sanitizing fetchers). Role wording varies (e.g. "data scientist" vs "applied scientist") — skim synonyms. For geography first, also use [by-region](by-region.md).
+Browse by [kind of work](by-role.md) · `https://greatutah.work/views/by-role.md`, or by [Utah location](by-region.md) · `https://greatutah.work/views/by-region.md`.
+
+Lines include region when set so you can Ctrl+F a city. When present, bare `Careers:` / `Website:` URLs are the apply next step (no markdown links — survives HTML-sanitizing fetchers). Role wording varies (e.g. "data scientist" vs "applied scientist") — skim synonyms.
 
 - **[309th Software Engineering Group](/pages/309th-software-engineering-group.md)** · `https://greatutah.work/pages/309th-software-engineering-group.md` · Hill Air Force Base · Careers: https://afscsoftware.dso.mil/careers/ — Likely needs include software engineers (systems, embedded, avionics, cybersecurity, DevSecOps) willing to obtain Secret or Top Secret clearances. Former military backgrounds are common but not required. Strong fit for engineers who want code on real combat aircraft, prioritize mission weight over compensation and optionality, and want to live in Utah without a Beltway commute — accepting governm… *(reviewed 2026-06-19)*
 - **[3Helix](/pages/3helix.md)** · `https://greatutah.work/pages/3helix.md` · Salt Lake City · Website: https://www.3helix.com — Likely needs include peptide chemists, drug-delivery engineers, diagnostic assay developers, and business-development operators who can license CHP outside BASF's personal-care exclusivity. Manufacturing and regulatory expertise matter if the company advances imaging or therapeutic IND programs. *(reviewed 2026-07-14)*

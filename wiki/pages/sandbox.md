@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum
+**Roles:** sales-business-development
 **Stage:** Expanding (founded 2020 at BYU; multi-campus rollout)
 **Primary Location:** Provo, UT
 **Utah Location:** statewide

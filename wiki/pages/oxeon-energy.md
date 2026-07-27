@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry
+**Roles:** physical-sciences, hardware-engineering, manufacturing-operations, sales-business-development
 **Stage:** Private; DOE-funded ($36M+ in federal grants); operational
 **Primary Location:** North Salt Lake, UT
 **Utah Location:** North Salt Lake, UT

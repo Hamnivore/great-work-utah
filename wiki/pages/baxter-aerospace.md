@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** unmanned aircraft, deployable communications, ISR, defense, emergency response, advanced manufacturing
+**Roles:** hardware-engineering, manufacturing-operations, sales-business-development, field-skilled-trades
 **Stage:** Series A ($6M, 2025)
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

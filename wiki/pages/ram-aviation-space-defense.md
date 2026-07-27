@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** propulsion valves, precision manufacturing, spacecraft components, fluid control, aerospace supply chain
+**Roles:** physical-sciences, hardware-engineering, clinical-regulatory
 **Stage:** Established; ~50 years; ~300 employees; private, founder-family owned
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

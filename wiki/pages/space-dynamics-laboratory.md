@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** space systems, sensors, satellites, defense, student workforce
+**Roles:** software-engineering, hardware-engineering, product-design, program-project-management
 **Stage:** Established university-affiliated research center
 **Primary Location:** North Logan, UT
 **Utah Location:** North Logan, UT

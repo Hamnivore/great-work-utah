@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** genealogy, civilizational records, OCR, record linkage, population genetics, scientific infrastructure
+**Roles:** software-engineering, data-science, marketing-communications, legal-policy, program-project-management
 **Stage:** Established institution; predecessor (Genealogical Society of Utah) founded 1894
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

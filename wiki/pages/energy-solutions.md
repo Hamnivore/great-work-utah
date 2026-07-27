@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** nuclear waste management, radioactive waste disposal, decommissioning, environmental services
+**Roles:** physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Private; established; only commercial low-level radioactive waste site in the western US
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT (HQ); Clive, UT (disposal site)

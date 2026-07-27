@@ -1,0 +1,8 @@
+# Finance / accounting
+
+Organizations whose current-needs assessments include **finance-accounting**. These are inferred from public information, not confirmed job openings; verify directly. Needs unreviewed for 6+ months are flagged.
+
+[All kinds of work](by-role.md) · `https://greatutah.work/views/by-role.md` · [All stated needs](needs.md) · `https://greatutah.work/views/needs.md`
+
+- **[Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md)** · `https://greatutah.work/pages/energy-fuels-white-mesa.md` · San Juan County · Careers: https://www.energyfuels.com/careers/ — Hiring spans mill-site chemistry, lab, and operations roles at White Mesa alongside corporate functions in Lakewood, CO. Broader fit still includes chemical-process engineers, metallurgists, radiation-safety specialists, environmental-compliance experts, community-relations leaders, regulatory counsel, maintenance and operations talent, project-finance people, and operators who understand both nu… *(reviewed 2026-07-14)*
+- **[Fervo Energy](/pages/fervo-energy.md)** · `https://greatutah.work/pages/fervo-energy.md` · Beaver County · Careers: https://fervoenergy.com/careers/ — Needs span plant and field engineering (power, electrical, instrumentation & controls, operations, reservoir engineering and data science), supply-chain and category management for drilling and plant equipment, environmental permitting, software and agentic-AI engineering, and a growing finance / accounting / IR bench as the company scales toward public markets. Internships recur each summer. The… *(reviewed 2026-07-14)*

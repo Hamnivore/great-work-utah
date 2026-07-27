@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation
+**Roles:** data-science, biology-life-sciences, hardware-engineering, clinical-regulatory
 **Stage:** Active university research lab (University of Utah, ECE)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

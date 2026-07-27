@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** degradable polymers, flexible electronics, e-waste, materials science, recyclable substrates
+**Roles:** physical-sciences, manufacturing-operations, sales-business-development
 **Stage:** Early-stage spinout; NSF STTR Phase I funded
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

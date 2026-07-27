@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** geothermal exploration, AI for earth sciences, climate, firm clean power
+**Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, program-project-management
 **Stage:** Series B (Salt Lake City, UT)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

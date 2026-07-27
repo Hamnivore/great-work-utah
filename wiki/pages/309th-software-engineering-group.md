@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** flight software, weapons software, mission software, DevSecOps, safety-critical systems, Air Force sustainment
+**Roles:** software-engineering, hardware-engineering
 **Stage:** Established U.S. Air Force organization; one of the largest defense software groups in the country
 **Primary Location:** Hill Air Force Base, UT
 **Utah Location:** Hill Air Force Base, UT

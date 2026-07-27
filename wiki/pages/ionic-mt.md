@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain
+**Roles:** physical-sciences, manufacturing-operations, sales-business-development
 **Stage:** Private; Series B ($29M, oversubscribed, July 2025)
 **Primary Location:** Provo, UT
 **Utah Location:** Juab County, UT (Silicon Ridge / Halloysite Hills deposits); Provo, UT (HQ)

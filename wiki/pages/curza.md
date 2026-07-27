@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens
+**Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Late preclinical → IND preparation (Phase 1); $40M+ raised
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

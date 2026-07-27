@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** customer communication, SaaS, local business software, SMS, reviews, payments
+**Roles:** software-engineering, product-design, sales-business-development, program-project-management
 **Stage:** Private growth company; unicorn as of 2019 (~$1.5B valuation); Lehi HQ
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

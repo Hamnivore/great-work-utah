@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** B2B SaaS, visual collaboration, diagramming, whiteboarding, enterprise software
+**Roles:** software-engineering, hardware-engineering, product-design, sales-business-development
 **Stage:** Late-stage private (unicorn per 2021 reporting)
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT

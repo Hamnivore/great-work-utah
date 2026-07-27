@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine
+**Roles:** data-science, biology-life-sciences, clinical-regulatory, product-design, sales-business-development
 **Stage:** Public (NASDAQ: MYGN)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

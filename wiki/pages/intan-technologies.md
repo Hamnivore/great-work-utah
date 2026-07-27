@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** neural recording, electrophysiology, integrated circuits, neuroscience infrastructure, brain-computer interfaces
+**Roles:** software-engineering, hardware-engineering
 **Stage:** Established private company; widely deployed research ICs
 **Primary Location:** Los Angeles, CA
 **Utah Location:** no verified Utah presence

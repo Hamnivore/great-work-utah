@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** chronic kidney disease, renal fibrosis, drug discovery, computational biology, Altitude Lab alumni
+**Roles:** biology-life-sciences, physical-sciences, clinical-regulatory, legal-policy
 **Stage:** Extremely early; founded circa 2023; Altitude Lab alumni per public portfolio
 **Primary Location:** unknown
 **Utah Location:** Salt Lake City, UT

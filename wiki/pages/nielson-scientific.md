@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** deep tech (domain unknown); DOE SBIR
+**Roles:** manufacturing-operations, sales-business-development, field-skilled-trades
 **Stage:** Unknown; DOE SBIR submission (Utah Innovation Center cohort)
 **Primary Location:** unknown
 **Utah Location:** unknown

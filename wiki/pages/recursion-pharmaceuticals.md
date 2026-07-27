@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** AI drug discovery, life sciences, computational biology
+**Roles:** software-engineering, data-science, biology-life-sciences, physical-sciences, clinical-regulatory
 **Stage:** Public company, clinical-stage TechBio
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

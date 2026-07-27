@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** edtech, skills training, workforce upskilling, AI learning, enterprise L&D
+**Roles:** sales-business-development
 **Stage:** Established (PE-owned)
 **Primary Location:** Farmington, UT
 **Utah Location:** Farmington, UT

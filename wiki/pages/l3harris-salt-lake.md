@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** military communications, electronic warfare, ISR payloads, tactical radios, SATCOM, contested-environment networking
+**Roles:** software-engineering, manufacturing-operations
 **Stage:** Established; major public defense prime (NYSE: LHX)
 **Primary Location:** Melbourne, FL
 **Utah Location:** Salt Lake City, UT

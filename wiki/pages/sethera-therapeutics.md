@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** peptide therapeutics, enzymatic cross-linking, polymacrocyclic peptides, drug discovery platform
+**Roles:** biology-life-sciences, physical-sciences, sales-business-development
 **Stage:** Early-stage; University of Utah spinout (~2023)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

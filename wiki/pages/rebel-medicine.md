@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** non-opioid pain, postoperative analgesia, extended-release drug delivery, bupivacaine formulation, opioid-sparing surgery
+**Roles:** data-science, clinical-regulatory, sales-business-development, program-project-management
 **Stage:** Clinical-stage; IND filed 2025; $6M Series A; Phase 2 bunionectomy trial planned
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

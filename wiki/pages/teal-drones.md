@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** small unmanned aircraft, ISR, defense, autonomous systems, domestic drone manufacturing
+**Roles:** software-engineering, hardware-engineering, manufacturing-operations, program-project-management
 **Stage:** Operating subsidiary of Red Cat Holdings (Nasdaq: RCAT); Army Program of Record
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

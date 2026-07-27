@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** AI in education, personalized learning, K-12 edtech, teacher tools, classroom AI safety
+**Roles:** software-engineering, data-science, program-project-management
 **Stage:** Series A ($25M, April 2025; $32M total raised)
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

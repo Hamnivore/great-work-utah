@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** independent film, immersive storytelling, artist development, film festivals, nonprofit arts
+**Roles:** marketing-communications
 **Stage:** Established 501(c)(3) nonprofit; founded 1981
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT; Sundance Resort, UT

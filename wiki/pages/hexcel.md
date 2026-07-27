@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** advanced materials, aerospace composites, carbon fiber, manufacturing
+**Roles:** physical-sciences, hardware-engineering, manufacturing-operations, field-skilled-trades
 **Stage:** Public industrial company
 **Primary Location:** Stamford, CT
 **Utah Location:** Salt Lake City, UT; West Valley City, UT

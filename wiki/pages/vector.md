@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** attritable drones, special operations, fiber-optic FPV, electronic warfare resilience, modern warfare as a service
+**Roles:** software-engineering, manufacturing-operations, program-project-management
 **Stage:** Series A (~$61M raised in ~14 months; ~150 employees)
 **Primary Location:** Bluffdale, UT
 **Utah Location:** Bluffdale, UT

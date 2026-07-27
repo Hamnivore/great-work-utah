@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** electric aviation, battery propulsion, eVTOL, FAA certification, power electronics
+**Roles:** physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory
 **Stage:** Private; growth stage; $69M state incentive package
 **Primary Location:** North Logan, UT
 **Utah Location:** North Logan, UT

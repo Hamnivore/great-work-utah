@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** online higher education, workforce development, global access, low-cost credentialing, faith-affiliated nonprofit education
+**Roles:** software-engineering, sales-business-development, program-project-management
 **Stage:** Operational at scale (88,000+ annual enrollment)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

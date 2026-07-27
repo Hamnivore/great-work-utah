@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** cybersecurity, observability, machine data, SIEM, AIOps, enterprise software
+**Roles:** software-engineering, hardware-engineering
 **Domain:** computing
 **Region:** unknown
 **Website:** https://www.splunk.com/

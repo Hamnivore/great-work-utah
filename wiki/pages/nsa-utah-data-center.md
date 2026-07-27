@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security
+**Roles:** software-engineering, data-science
 **Stage:** Operational since 2014
 **Primary Location:** Camp Williams, Bluffdale, UT
 **Utah Location:** Camp Williams, Bluffdale, UT

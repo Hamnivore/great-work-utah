@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** lithium-oxygen batteries, reserve batteries, chemical oxygen generation, Army obstacle systems, energy density
+**Roles:** physical-sciences, hardware-engineering, manufacturing-operations
 **Stage:** Early-stage company; SBIR Phase II (as of 2025)
 **Primary Location:** unknown
 **Utah Location:** unknown

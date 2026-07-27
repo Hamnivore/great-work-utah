@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology
+**Roles:** software-engineering, biology-life-sciences, hardware-engineering
 **Stage:** Private, operational since 2004; NIH HEAL-funded neuromodulation programs active
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

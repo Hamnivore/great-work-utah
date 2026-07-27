@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** robotics, industrial automation, defense, exoskeletons, teleoperation
+**Roles:** software-engineering, sales-business-development, program-project-management
 **Stage:** Public (previously NASDAQ: ROBO before delisting; acquired by Paladin Capital 2024); founded 1983
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

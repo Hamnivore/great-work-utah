@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** synthetic aperture radar, UAS, defense, aerospace, intelligence, manufacturing
+**Roles:** software-engineering, data-science, manufacturing-operations, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Private established company
 **Primary Location:** Utah Valley, UT
 **Utah Location:** Utah Valley, UT

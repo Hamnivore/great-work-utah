@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** DoD test ranges, weapons evaluation, hypersonics, cruise missiles, space reentry, restricted airspace
+**Roles:** hardware-engineering, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Established, ongoing DoD operations
 **Primary Location:** Utah Test and Training Range, UT
 **Utah Location:** Utah West Desert

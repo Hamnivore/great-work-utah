@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** creative software, digital media, cloud subscriptions, digital marketing, document management
+**Roles:** software-engineering, data-science, product-design, sales-business-development
 **Stage:** Public (NASDAQ: ADBE); global; major Utah hub
 **Primary Location:** San Jose, CA
 **Utah Location:** Lehi, UT

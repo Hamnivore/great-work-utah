@@ -26,6 +26,23 @@ const DOMAIN_VOCAB = [
   "capital-programs",
   "culture-place",
 ];
+const ROLE_VOCAB = [
+  "software-engineering",
+  "data-science",
+  "biology-life-sciences",
+  "physical-sciences",
+  "hardware-engineering",
+  "manufacturing-operations",
+  "clinical-regulatory",
+  "product-design",
+  "sales-business-development",
+  "marketing-communications",
+  "finance-accounting",
+  "legal-policy",
+  "program-project-management",
+  "field-skilled-trades",
+  "people-operations",
+];
 
 // Required section headers by Type, from meta/conventions.md "Page templates".
 // guide is free-form and source's requirement is prose-shaped (not a fixed header
@@ -147,6 +164,7 @@ const stats = {
   domainFlagged: 0,
   needsSectionCount: 0,
   needsReviewedCount: 0,
+  rolesAttributed: 0,
   mapAttributed: 0,
 };
 const wanted = new Map(); // target filename -> Set of referencing pages
@@ -255,6 +273,55 @@ async function lintPage(filename) {
       }
     } else {
       addFinding("warning", "unparseable-needs-reviewed", filePath, `**Needs-reviewed:** "${needsReviewedHeader.value}" is not a parseable date.`, needsReviewedHeader.line);
+    }
+  }
+
+  // -- Roles vocabulary, placement, and coverage ---------------------------
+  const rolesHeader = headers.get("Roles");
+  if (rolesHeader) {
+    if (!hasNeedsSection) {
+      addFinding(
+        "error",
+        "unexpected-roles",
+        filePath,
+        "Page has a **Roles:** attribute but no `## What They Need Now` section.",
+        rolesHeader.line
+      );
+    }
+
+    const tokens = rolesHeader.value.split(",").map((token) => token.trim());
+    if (!rolesHeader.value || tokens.some((token) => !token)) {
+      addFinding(
+        "error",
+        "invalid-role",
+        filePath,
+        `**Roles:** must be a non-empty comma-separated list from the closed vocabulary (${ROLE_VOCAB.join(" · ")}).`,
+        rolesHeader.line
+      );
+    } else {
+      stats.rolesAttributed += hasNeedsSection ? 1 : 0;
+      const seenRoles = new Set();
+      for (const token of tokens) {
+        if (!ROLE_VOCAB.includes(token)) {
+          addFinding(
+            "error",
+            "invalid-role",
+            filePath,
+            `**Roles:** value "${token}" is outside the closed vocabulary (${ROLE_VOCAB.join(" · ")}).`,
+            rolesHeader.line
+          );
+        }
+        if (seenRoles.has(token)) {
+          addFinding(
+            "error",
+            "duplicate-role",
+            filePath,
+            `**Roles:** repeats "${token}".`,
+            rolesHeader.line
+          );
+        }
+        seenRoles.add(token);
+      }
     }
   }
 
@@ -469,6 +536,7 @@ const summary = {
       utahLocation: `${stats.utahLocationAttributed}/${stats.totalPages}`,
       legacyLocation: `${stats.legacyLocation}/${stats.totalPages}`,
       map: `${stats.mapAttributed}/${stats.totalPages}`,
+      roles: `${stats.rolesAttributed}/${stats.needsSectionCount}`,
     },
   needsReviewed: {
     pagesWithNeedsSection: stats.needsSectionCount,
@@ -492,6 +560,7 @@ if (json) {
   console.log(`  Utah Location coverage: ${summary.coverage.utahLocation}`);
   console.log(`  Legacy Location remaining: ${summary.coverage.legacyLocation}`);
   console.log(`  Map location coverage: ${summary.coverage.map}`);
+  console.log(`  Roles coverage: ${summary.coverage.roles} pages with a "What They Need Now" section`);
   console.log(`  Domain-flagged (adjudication queue): ${stats.domainFlagged}`);
   console.log(
     `  Needs-reviewed: ${stats.needsReviewedCount} present / ${stats.needsSectionCount} pages have a "What They Need Now" section`

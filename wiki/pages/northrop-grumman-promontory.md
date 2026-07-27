@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense
+**Roles:** software-engineering, physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory
 **Stage:** Established; 80+ years on-site; public defense prime (NYSE: NOC)
 **Primary Location:** Promontory, UT
 **Utah Location:** Promontory, UT

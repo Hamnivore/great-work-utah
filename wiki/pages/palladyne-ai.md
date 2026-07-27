@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** embodied AI, collaborative autonomy, edge inference, defense technology, robotics
+**Roles:** software-engineering, manufacturing-operations, sales-business-development, marketing-communications
 **Stage:** Public company (NASDAQ: PDYN); vertically integrated defense and industrial AI
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

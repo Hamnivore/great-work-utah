@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** hardware architecture, ML accelerators, fully homomorphic encryption, privacy-preserving ML, 3D nanofabric, computer architecture
+**Roles:** software-engineering, data-science, hardware-engineering
 **Stage:** University research group; NSF and DARPA funded
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

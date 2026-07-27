@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** regional airline, aviation, aircraft leasing, air transportation, commercial aviation
+**Roles:** manufacturing-operations, clinical-regulatory, field-skilled-trades
 **Stage:** Public (NASDAQ: SKYW), S&P 600 component
 **Location:** St. George, UT
 **Ownership:** public

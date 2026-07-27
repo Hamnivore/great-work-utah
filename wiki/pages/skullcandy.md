@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** consumer audio, headphones, earbuds, lifestyle brand, action sports
+**Roles:** hardware-engineering, manufacturing-operations, product-design, sales-business-development, marketing-communications
 **Stage:** Mature consumer brand (PE-owned per legacy notes)
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT

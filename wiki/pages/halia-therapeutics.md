@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life sciences
+**Roles:** biology-life-sciences, physical-sciences, clinical-regulatory, program-project-management
 **Stage:** Private, clinical-stage; Phase 2a data reported 2025
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

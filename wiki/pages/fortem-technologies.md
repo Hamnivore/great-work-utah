@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** counter-UAS, radar, autonomous systems, defense, critical infrastructure
+**Roles:** software-engineering, hardware-engineering, manufacturing-operations, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Private growth company
 **Primary Location:** Lindon, UT
 **Utah Location:** Lindon, UT

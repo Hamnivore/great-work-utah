@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** strategic intelligence, geopolitical risk, economic security, AI, national security
+**Roles:** software-engineering, data-science, product-design, sales-business-development
 **Stage:** Private growth company
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

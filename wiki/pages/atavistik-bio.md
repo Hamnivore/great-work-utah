@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** allosteric drug discovery, oncology, precision medicine, structural biology, metabolite-protein interactions
+**Roles:** data-science, biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Private; clinical-stage; ~$299M raised ($120M Series B, December 2025; $40M extension, March 2026)
 **Primary Location:** Cambridge, MA
 **Utah Location:** University of Utah, Salt Lake City, UT (founding science)

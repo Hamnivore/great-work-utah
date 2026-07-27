@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** RF tomographic sensing, through-wall motion detection, ISR, search and rescue, home security
+**Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, sales-business-development
 **Stage:** Commercial (consumer pivot underway as of 2024)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

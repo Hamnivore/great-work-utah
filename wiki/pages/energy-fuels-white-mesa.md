@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes
+**Roles:** physical-sciences, manufacturing-operations, clinical-regulatory, marketing-communications, finance-accounting, legal-policy, program-project-management
 **Stage:** Public company / operating industrial asset
 **Primary Location:** Lakewood, CO
 **Utah Location:** White Mesa, San Juan County, UT

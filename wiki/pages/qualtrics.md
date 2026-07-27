@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** experience management, applied AI, enterprise SaaS, surveys, sentiment analysis
+**Roles:** software-engineering, data-science, product-design, sales-business-development
 **Stage:** Private (Silver Lake take-private, 2023)
 **Primary Location:** Provo, UT; Seattle, WA
 **Utah Location:** Provo, UT

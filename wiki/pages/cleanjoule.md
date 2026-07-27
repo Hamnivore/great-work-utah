@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
+**Roles:** physical-sciences, manufacturing-operations, sales-business-development
 **Stage:** Private, growth (backed by Indigo Partners, GenZero, Frontier Airlines, Wizz Airlines, Volaris)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

@@ -5,7 +5,8 @@ import path from 'node:path'
 
 const CHECK = process.argv.includes('--check') // verify committed views are fresh, don't write
 const BASE = 'https://greatutah.work' // copyable URLs must be absolute: some fetchers (claude.ai web_fetch) only follow URLs seen verbatim in the conversation
-const WIKI = new URL('../wiki', import.meta.url).pathname
+// Override only for isolated fixture tests; production always uses ../wiki.
+const WIKI = process.env.GREAT_WORK_WIKI || new URL('../wiki', import.meta.url).pathname
 const PAGES = path.join(WIKI, 'pages')
 const VIEWS = CHECK ? fs.mkdtempSync('/tmp/views-check-') : path.join(WIKI, 'views')
 if (!CHECK) fs.rmSync(VIEWS, { recursive: true, force: true })
@@ -16,6 +17,24 @@ const section = (raw, name) => (raw.match(new RegExp(`## ${name}\\s+([\\s\\S]*?)
 const clip = (t, n = 150) => { const s = (t || '').replace(/\s+/g, ' ').trim(); return s.length <= n ? s : s.slice(0, n - 1) + '…' }
 
 const pages = []
+const ROLES = [
+  ['software-engineering', 'Programmers / software engineers'],
+  ['data-science', 'Data scientists'],
+  ['biology-life-sciences', 'Biologists / life scientists'],
+  ['physical-sciences', 'Physical scientists'],
+  ['hardware-engineering', 'Hardware engineers'],
+  ['manufacturing-operations', 'Manufacturing / operations'],
+  ['clinical-regulatory', 'Clinical / regulatory'],
+  ['product-design', 'Product designers'],
+  ['sales-business-development', 'Sales / business development'],
+  ['marketing-communications', 'Marketing / communications'],
+  ['finance-accounting', 'Finance / accounting'],
+  ['legal-policy', 'Legal / policy'],
+  ['program-project-management', 'Program / project managers'],
+  ['field-skilled-trades', 'Field workers / skilled trades'],
+  ['people-operations', 'People operations'],
+]
+const ROLE_TAGS = new Set(ROLES.map(([tag]) => tag))
 for (const f of fs.readdirSync(PAGES).sort()) {
   if (!f.endsWith('.md')) continue
   const raw = fs.readFileSync(path.join(PAGES, f), 'utf8')
@@ -32,6 +51,7 @@ for (const f of fs.readdirSync(PAGES).sort()) {
     region: meta(raw, 'Region'),
     website: meta(raw, 'Website'),
     careers: meta(raw, 'Careers'),
+    roles: meta(raw, 'Roles').split(',').map((s) => s.trim()).filter((s) => ROLE_TAGS.has(s)),
     domains: domain ? domain.split(',').map((s) => s.trim().toLowerCase().replace(/\s*\(.*\)$/, '')) : [],
     needs: clip(section(raw, 'What They Need Now'), 400),
     needsReviewed: meta(raw, 'Needs-reviewed'),
@@ -56,7 +76,7 @@ for (const [t, desc] of Object.entries(TYPES)) {
 
 // ---- needs board ----
 const needers = pages.filter((p) => p.needs)
-let needs = `# Who might need people\n\nEvery page's "What They Need Now," one line each — perfect recall over stated needs. These are inferred assessments from public information, not confirmed job openings; verify directly with the company before treating one as a lead. Needs unreviewed for 6+ months are flagged.\n\nLines include region when set so you can Ctrl+F a city. When present, bare \`Careers:\` / \`Website:\` URLs are the apply next step (no markdown links — survives HTML-sanitizing fetchers). Role wording varies (e.g. "data scientist" vs "applied scientist") — skim synonyms. For geography first, also use [by-region](by-region.md).\n\n`
+let needs = `# Who might need people\n\nEvery page's "What They Need Now," one line each — perfect recall over stated needs. These are inferred assessments from public information, not confirmed job openings; verify directly with the company before treating one as a lead. Needs unreviewed for 6+ months are flagged.\n\nBrowse by [kind of work](by-role.md) · \`${BASE}/views/by-role.md\`, or by [Utah location](by-region.md) · \`${BASE}/views/by-region.md\`.\n\nLines include region when set so you can Ctrl+F a city. When present, bare \`Careers:\` / \`Website:\` URLs are the apply next step (no markdown links — survives HTML-sanitizing fetchers). Role wording varies (e.g. "data scientist" vs "applied scientist") — skim synonyms.\n\n`
 const STALE = Date.now() - 183 * 24 * 3600 * 1000
 for (const p of needers) {
   const stale = p.needsReviewed && new Date(p.needsReviewed).getTime() < STALE
@@ -69,6 +89,42 @@ for (const p of needers) {
   needs += `- **[${p.title}](${p.url})** · \`${p.path}\`${where}${apply} — ${p.needs}${p.needsReviewed ? ` *(reviewed ${p.needsReviewed}${stale ? ' — may be stale' : ''})*` : ''}\n`
 }
 write('needs.md', needs)
+
+// ---- by kind of work (populated roles only) ----
+const roleGroups = ROLES
+  .map(([tag, label]) => [tag, label, pages.filter((p) => p.needs && p.roles.includes(tag))])
+  .filter(([, , selected]) => selected.length)
+let byRole = `# By kind of work
+
+Generated from \`**Roles:**\` metadata on pages with current-needs assessments. These are leads, not confirmed openings; verify directly before applying. For the complete ungrouped list, use [needs](needs.md) · \`${BASE}/views/needs.md\`.
+
+`
+for (const [tag, label, selected] of roleGroups) {
+  byRole += `- [${label}](role-${tag}.md) · \`${BASE}/views/role-${tag}.md\` — ${selected.length} ${selected.length === 1 ? 'organization' : 'organizations'}\n`
+
+  let role = `# ${label}
+
+Organizations whose current-needs assessments include **${tag}**. These are inferred from public information, not confirmed job openings; verify directly. Needs unreviewed for 6+ months are flagged.
+
+[All kinds of work](by-role.md) · \`${BASE}/views/by-role.md\` · [All stated needs](needs.md) · \`${BASE}/views/needs.md\`
+
+`
+  for (const p of selected) {
+    const stale = p.needsReviewed && new Date(p.needsReviewed).getTime() < STALE
+    const where = p.region ? ` · ${p.region}` : ''
+    const apply = p.careers
+      ? ` · Careers: ${p.careers}`
+      : p.website
+        ? ` · Website: ${p.website}`
+        : ''
+    const reviewed = p.needsReviewed
+      ? ` *(reviewed ${p.needsReviewed}${stale ? ' — may be stale' : ''})*`
+      : ' *(not yet reviewed)*'
+    role += `- **[${p.title}](${p.url})** · \`${p.path}\`${where}${apply} — ${p.needs}${reviewed}\n`
+  }
+  write(`role-${tag}.md`, role)
+}
+write('by-role.md', byRole)
 
 // ---- domain hubs (attributed pages only; grows with attribution rollout) ----
 const DOMAINS = ['energy', 'health-bio', 'aerospace-defense', 'computing', 'materials-mfg', 'space-science', 'capital-programs', 'culture-place']
@@ -120,7 +176,7 @@ if (regional.length) {
 const count = (t) => pages.filter((p) => p.type === t).length
 write('index.md', `# greatutah.work — master index
 
-**Looking for work?** Start at [needs](needs.md) — who needs people now — then [ventures](ventures.md) or a [sector hub](#derived).
+**Looking for work?** Start at [by kind of work](by-role.md) or [needs](needs.md) — who needs people now — then [ventures](ventures.md) or a [sector hub](#derived).
 **Founding or growing?** Start at [guides](guides.md) (capital + advisors), then [resources](resources.md) and [helpers](helpers.md).
 
 All pages live flat at \`${BASE}/pages/{slug}.md\`; every view below is generated from page metadata and always current. Each listing repeats its full URL in backticks so HTML-sanitizing fetchers still expose fetchable URLs, and so conversation-whitelist fetchers (like claude.ai web_fetch) can follow it. Conventions: ${BASE}/meta/conventions.md · attributes: ${BASE}/meta/attributes.md · what "great work" means here: ${BASE}/meta/charter.md
@@ -138,6 +194,7 @@ All pages live flat at \`${BASE}/pages/{slug}.md\`; every view below is generate
 ## Derived
 
 - [needs](needs.md) · \`${BASE}/views/needs.md\` — every stated "what they need now," one line each: the hiring view
+- [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` — organizations grouped by the people they need
 - [by-region](by-region.md) · \`${BASE}/views/by-region.md\` — attributed pages by Utah location
 - Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md) \`${BASE}/views/domain-${d}.md\``).join(' · ')}
 `)

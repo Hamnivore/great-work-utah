@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** digital health, musculoskeletal care, physical therapy, remote care, AI-powered rehabilitation
+**Roles:** software-engineering, data-science, clinical-regulatory, sales-business-development
 **Stage:** Private; Series D ($163M, 2022; valuation ~$2B); dual HQ Salt Lake City / Porto
 **Primary Location:** Salt Lake City, UT; Porto, Portugal
 **Utah Location:** Salt Lake City, UT

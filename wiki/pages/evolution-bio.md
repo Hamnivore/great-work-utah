@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell screening
+**Roles:** biology-life-sciences, sales-business-development, legal-policy
 **Stage:** Early; Nucleus Fund, University of Utah, and Altitude Lab backing (circa 2022)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

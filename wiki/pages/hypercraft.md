@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles
+**Roles:** software-engineering, hardware-engineering, program-project-management
 **Stage:** Series A ($26M raised, June 2025; ~$106M post-money valuation)
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT

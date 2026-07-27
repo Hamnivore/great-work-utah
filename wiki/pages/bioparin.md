@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** synthetic heparin, biomanufacturing, anticoagulants, supply chain resilience, university spinout
+**Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Early (STTR-funded)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

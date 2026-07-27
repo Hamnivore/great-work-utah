@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** quantum systems integration, quantum readiness, post-quantum security, government and industry adoption
+**Roles:** sales-business-development, legal-policy, program-project-management
 **Stage:** Early-stage initiative (launched October 2025; prototype planned Q1–Q2 2026)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

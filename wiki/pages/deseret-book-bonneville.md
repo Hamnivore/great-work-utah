@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** religious publishing, broadcasting, faith media, LDS Church, radio, television, journalism
+**Roles:** software-engineering, product-design, marketing-communications
 **Stage:** Established (Deseret Book founded 1866; Bonneville founded 1964)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

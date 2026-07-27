@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** air quality forecasting, wildfire smoke, physics-based AI, atmospheric science, public health alerts
+**Roles:** software-engineering, physical-sciences, sales-business-development
 **Stage:** Seed ($1.25M, 2025; Rusheen Capital Management-led)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

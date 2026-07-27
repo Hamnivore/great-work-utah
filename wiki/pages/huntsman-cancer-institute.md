@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, translational medicine, life sciences
+**Roles:** data-science, biology-life-sciences, clinical-regulatory, legal-policy, program-project-management
 **Stage:** Established academic research institute and hospital (founded 1995)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

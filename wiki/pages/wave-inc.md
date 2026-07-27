@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** wireless charging, fleet electrification, inductive power transfer, transit, logistics
+**Roles:** software-engineering, hardware-engineering, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Commercial; operational — transit, port, and logistics deployments
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT

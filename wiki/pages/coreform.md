@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** engineering simulation, isogeometric analysis, CAD, finite element analysis, CAE
+**Roles:** software-engineering, data-science, physical-sciences
 **Stage:** Private; operational; DOE SBIR Phase II recipient
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT

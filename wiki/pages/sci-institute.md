@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** scientific computing, scientific visualization, biomedical computing, open-source research software
+**Roles:** software-engineering, data-science
 **Stage:** University research institute (founded 1992; permanent institute later)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

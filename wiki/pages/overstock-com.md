@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** e-commerce, online retail, home goods, blockchain assets, Utah tech anchor
+**Roles:** marketing-communications
 **Stage:** Public (NYSE: BBBY)
 **Primary Location:** Murray, UT
 **Utah Location:** Murray, UT

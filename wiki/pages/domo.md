@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS
+**Roles:** software-engineering, data-science, product-design
 **Stage:** Public (NASDAQ: DOMO)
 **Primary Location:** American Fork, UT
 **Utah Location:** American Fork, UT

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** film production, location services, tax incentives, crew base, visual storytelling, landscape
+**Roles:** manufacturing-operations, marketing-communications, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Ecosystem / cluster
 **Primary Location:** statewide
 **Utah Location:** statewide

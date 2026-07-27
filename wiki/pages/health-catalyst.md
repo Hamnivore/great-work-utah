@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** healthcare data analytics, population health, value-based care, clinical data integration
+**Roles:** data-science, product-design, sales-business-development, program-project-management
 **Stage:** Public (NASDAQ: HCAT); founded 2008; Salt Lake City HQ
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

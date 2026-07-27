@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** open banking, financial data, account aggregation, fintech API platform
+**Roles:** software-engineering, data-science, clinical-regulatory, product-design
 **Stage:** Private; founded 2010 (as MoneyDesktop); Lehi HQ
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

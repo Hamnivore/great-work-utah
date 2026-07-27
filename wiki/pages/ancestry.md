@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** genealogy, family history, consumer genomics, historical records, digitization
+**Roles:** software-engineering, data-science, biology-life-sciences, clinical-regulatory, product-design, legal-policy
 **Stage:** Established; privately held
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

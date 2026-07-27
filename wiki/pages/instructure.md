@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** edtech, learning management systems, Canvas LMS, AI in education
+**Roles:** software-engineering, data-science, product-design
 **Stage:** Established (PE-backed, formerly public)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, life sciences
+**Roles:** software-engineering, biology-life-sciences, clinical-regulatory
 **Stage:** Private, late growth; $15M raise closed April 2026
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen recovery
+**Roles:** manufacturing-operations, clinical-regulatory, marketing-communications, legal-policy
 **Stage:** Public (NASDAQ: SKYQ); commercializing; PR Spring permit application filed June 2025
 **Primary Location:** Woods Cross, UT
 **Utah Location:** Woods Cross, UT; PR Spring, Uintah County, UT

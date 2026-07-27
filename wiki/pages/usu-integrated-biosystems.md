@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** agricultural genomics, bioinformatics, land-grant research, arid-land crops, livestock genetics
+**Roles:** data-science, biology-life-sciences
 **Stage:** Established university research center
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT

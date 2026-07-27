@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** outdoor gear, apparel, social enterprise, B Corp, philanthropy
+**Roles:** manufacturing-operations, product-design, sales-business-development, marketing-communications
 **Stage:** Established growth brand
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

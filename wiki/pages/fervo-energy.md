@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** geothermal energy, grid infrastructure, climate, drilling
+**Roles:** software-engineering, data-science, hardware-engineering, manufacturing-operations, finance-accounting, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Growth stage, S-1 publicly filed April 2026 (S-1/A May 4, 2026)
 **Primary Location:** Houston, TX
 **Utah Location:** Beaver County, UT

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** immuno-oncology, blood cancer, T-cell therapy, multi-antigen targeting, university spinout
+**Roles:** physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Preclinical (U2TAH-incubated; approximately $400K funding; animal studies ongoing)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

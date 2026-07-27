@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power
+**Roles:** physical-sciences, manufacturing-operations, clinical-regulatory, field-skilled-trades
 **Stage:** Seed ($19M); test reactor under construction at Utah San Rafael Energy Lab
 **Primary Location:** San Jose, CA
 **Utah Location:** San Rafael Energy Lab, Emery County, UT

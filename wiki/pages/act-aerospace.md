@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** aerospace composites, carbon fiber structures, composite manufacturing, aerostructures, defense supply chain
+**Roles:** manufacturing-operations, field-skilled-trades
 **Stage:** Private; established mid-size aerospace supplier
 **Primary Location:** Gunnison, UT
 **Utah Location:** Gunnison, UT

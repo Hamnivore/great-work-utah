@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** in-space manufacturing, microgravity pharmaceuticals, reentry capsules, space logistics
+**Roles:** software-engineering, manufacturing-operations, field-skilled-trades
 **Stage:** Private growth company (post-revenue; multiple orbital missions since 2023)
 **Primary Location:** El Segundo, CA
 **Utah Location:** Utah Test and Training Range, UT

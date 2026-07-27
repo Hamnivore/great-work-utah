@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, advanced manufacturing
+**Roles:** physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Private; Series C raised, flagship facility operational (opened August 2025)
 **Primary Location:** West Valley City, UT
 **Utah Location:** West Valley City, UT

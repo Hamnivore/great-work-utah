@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** HR software, payroll, benefits, people operations, SMB SaaS
+**Roles:** software-engineering, clinical-regulatory, product-design, sales-business-development, people-operations
 **Stage:** Private growth company
 **Primary Location:** Draper, UT
 **Utah Location:** Draper, UT

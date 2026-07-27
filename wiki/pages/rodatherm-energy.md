@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project development
+**Roles:** hardware-engineering, program-project-management
 **Stage:** Series A; $38M (oversubscribed); pilot underway in Utah
 **Primary Location:** Salt Lake City, UT; Calgary, Alberta
 **Utah Location:** Salt Lake City, UT; Great Basin pilot site

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** AI music tools, audio source separation, voice cloning, music generation, creative technology
+**Roles:** software-engineering, data-science, sales-business-development, legal-policy
 **Stage:** Series A ($40M, January 2025; Connect Ventures / CAA+NEA, Kickstart, Samsung Next, Pelion)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

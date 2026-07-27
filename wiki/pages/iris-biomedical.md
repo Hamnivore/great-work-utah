@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** neural interfaces, BCI hardware, implantable devices, medical device manufacturing, neurotech supply chain
+**Roles:** hardware-engineering, manufacturing-operations
 **Stage:** Established; contract design and manufacturing
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

@@ -176,7 +176,10 @@ function layout({
     <title>${esc(full)}</title>
     <meta name="description" content="${esc(description)}" />
 ${robots ? `    <meta name="robots" content="${esc(robots)}" />\n` : ''}    <link rel="canonical" href="${esc(canon)}" />
-${rawUrl ? `    <link rel="alternate" type="text/markdown" href="${esc(BASE + rawUrl)}" title="Raw markdown source" />\n` : ''}    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+${rawUrl ? `    <link rel="alternate" type="text/markdown" href="${esc(BASE + rawUrl)}" title="Raw markdown source" />\n` : ''}    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <meta name="theme-color" content="#fbfaf6" />
     <meta property="og:type" content="${esc(ogType)}" />
     <meta property="og:site_name" content="${esc(SITE)}" />

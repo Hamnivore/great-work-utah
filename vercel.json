@@ -78,5 +78,28 @@
     { "source": "/api/grep", "destination": "/api/search" },
     { "source": "/contribute", "destination": "/index.html" },
     { "source": "/map", "destination": "/index.html" }
+  ],
+  "routes": [
+    {
+      "src": "^/pages/([a-z0-9-]+)\\.md$",
+      "headers": {
+        "Link": "<https://greatutah.work/p/$1>; rel=\"canonical\""
+      },
+      "continue": true
+    },
+    {
+      "src": "^/views/([a-z0-9-]+)\\.md$",
+      "headers": {
+        "Link": "<https://greatutah.work/v/$1>; rel=\"canonical\""
+      },
+      "continue": true
+    },
+    {
+      "src": "^/meta/([a-z0-9-]+)\\.md$",
+      "headers": {
+        "Link": "<https://greatutah.work/$1>; rel=\"canonical\""
+      },
+      "continue": true
+    }
   ]
 }

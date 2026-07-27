@@ -34,6 +34,10 @@ These are standing directives. Do not re-litigate them; build on them.
 - [`findings/2026-07-09-hierarchy-probes.md`](findings/2026-07-09-hierarchy-probes.md) — structural metrics + 7 placement probes across six schema redesigns → "views over attributed storage."
 - [`design/interface-v3.md`](design/interface-v3.md) — the current best interface spec, derived from the findings. **Implement from this.**
 - [`design/static-html-is-the-second-half.md`](design/static-html-is-the-second-half.md) — 2026-07-27 decision: every wiki document is now also prerendered static HTML, because `/llms.txt` only reaches agents who were already handed the domain. Records what was accepted and rejected from `critiques/`, and what would falsify it. **Read before touching the HTML layer.**
+- [`design/seo-plan.md`](design/seo-plan.md) — 2026-07-27 plan; in-repo items shipped the same day
+  (duplicate-URL canonicals, crawl-entry links, lastmod, schema types, OG image, source noindex).
+  Maintainer still owns www→apex 308 and Search Console / Bing verification; falsifier date is
+  ~2026-09-21.
 - [`critiques/`](critiques/) — two external audits of the live site (Claude, ChatGPT), 2026-07-27. Useful diagnosis, wrong framing; see the decision doc above for the adjudication.
 
 **The live schema and the live manual are the source of truth, not this directory:**

@@ -17,6 +17,7 @@ import { marked } from 'marked'
 
 const BASE = 'https://greatutah.work'
 const SITE = 'Great Work — Utah'
+const OG_IMAGE = `${BASE}/og.png`
 const ROOT = new URL('..', import.meta.url).pathname
 const WIKI = path.join(ROOT, 'wiki')
 const DIST = path.join(ROOT, 'dist')
@@ -24,6 +25,17 @@ const DIST = path.join(ROOT, 'dist')
 // Meta docs get short top-level URLs (/about, /charter). Everything else in
 // wiki/meta/ still gets a page; this map only controls the human-facing slug.
 const META_SLUG = (doc) => `/${doc}`
+
+// Type → type-index view slug (matches scripts/build-views.mjs PLURAL).
+const TYPE_PLURAL = {
+  venture: 'ventures',
+  resource: 'resources',
+  work: 'work',
+  person: 'people',
+  helper: 'helpers',
+  guide: 'guides',
+  source: 'sources',
+}
 
 const NAV = [
   ['/search', 'search'],
@@ -34,6 +46,9 @@ const NAV = [
   ['/about', 'about'],
   ['/contribute', 'contribute'],
 ]
+
+const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/
+const today = () => new Date().toISOString().slice(0, 10)
 
 // ---------- helpers ----------
 
@@ -138,9 +153,21 @@ const inline = (md, kind, name) =>
 
 // ---------- page template ----------
 
-function layout({ url, title, description, bodyHtml, jsonLd, canonical, rawUrl }) {
+function layout({
+  url,
+  title,
+  description,
+  bodyHtml,
+  jsonLd,
+  canonical,
+  rawUrl,
+  robots,
+  ogType = 'article',
+}) {
   const full = title === SITE ? SITE : `${title} — ${SITE}`
+  const canon = canonical || BASE + url
   const nav = NAV.map(([href, label]) => `<a href="${href}">${esc(label)}</a>`).join('\n          ')
+  const jsonLdBlocks = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : []
   return `<!doctype html>
 <html lang="en">
   <head>
@@ -148,15 +175,17 @@ function layout({ url, title, description, bodyHtml, jsonLd, canonical, rawUrl }
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>${esc(full)}</title>
     <meta name="description" content="${esc(description)}" />
-    <link rel="canonical" href="${esc(canonical || BASE + url)}" />
+${robots ? `    <meta name="robots" content="${esc(robots)}" />\n` : ''}    <link rel="canonical" href="${esc(canon)}" />
 ${rawUrl ? `    <link rel="alternate" type="text/markdown" href="${esc(BASE + rawUrl)}" title="Raw markdown source" />\n` : ''}    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="theme-color" content="#fbfaf6" />
-    <meta property="og:type" content="article" />
+    <meta property="og:type" content="${esc(ogType)}" />
     <meta property="og:site_name" content="${esc(SITE)}" />
     <meta property="og:title" content="${esc(full)}" />
     <meta property="og:description" content="${esc(description)}" />
-    <meta property="og:url" content="${esc(canonical || BASE + url)}" />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:url" content="${esc(canon)}" />
+    <meta property="og:image" content="${esc(OG_IMAGE)}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="${esc(OG_IMAGE)}" />
     <link rel="stylesheet" href="/doc.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -164,7 +193,7 @@ ${rawUrl ? `    <link rel="alternate" type="text/markdown" href="${esc(BASE + ra
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap"
       rel="stylesheet"
     />
-${jsonLd ? `    <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>\n` : ''}  </head>
+${jsonLdBlocks.map((block) => `    <script type="application/ld+json">${JSON.stringify(block)}</script>`).join('\n')}${jsonLdBlocks.length ? '\n' : ''}  </head>
   <body>
     <a class="skip-link" href="#content">Skip to content</a>
     <div class="shell">
@@ -295,22 +324,60 @@ ${renderMarkdown(bodyNoTitle, kind, name)}
         </div>
         </article>`
 
-  const jsonLd = {
+  // Views are indexes; meta docs are schema/policy; corpus pages are articles.
+  // Source pages stay fetchable for citations but are noindex'd — they are thin
+  // near-duplicates that dilute crawl assessment of the rest of the domain
+  // (research/design/seo-plan.md P1.4, Option A).
+  const schemaType = kind === 'views' ? 'CollectionPage' : kind === 'meta' ? 'WebPage' : 'Article'
+  const ogType = kind === 'pages' ? 'article' : 'website'
+  const robots = kind === 'pages' && type === 'source' ? 'noindex, follow' : undefined
+
+  const pageLd = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: title,
+    '@type': schemaType,
+    ...(schemaType === 'Article' ? { headline: title } : { name: title }),
     description,
     url: BASE + url,
     inLanguage: 'en',
     isPartOf: { '@type': 'WebSite', name: SITE, url: `${BASE}/` },
     publisher: { '@type': 'Organization', name: 'greatutah.work', url: `${BASE}/` },
-    ...(updated ? { dateModified: updated } : {}),
+    image: OG_IMAGE,
+    ...(updated && ISO_DATE.test(updated) ? { dateModified: updated } : {}),
     ...(get('Website')
       ? { about: { '@type': 'Organization', name: title, url: get('Website') } }
       : {}),
   }
 
-  return { title, description, bodyHtml, jsonLd }
+  const jsonLd = [pageLd]
+  if (kind === 'pages') {
+    const typeView = TYPE_PLURAL[type]
+    const crumbs = [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${BASE}/` },
+      ...(typeView
+        ? [
+            {
+              '@type': 'ListItem',
+              position: 2,
+              name: typeView,
+              item: `${BASE}/v/${typeView}`,
+            },
+          ]
+        : []),
+      {
+        '@type': 'ListItem',
+        position: typeView ? 3 : 2,
+        name: title,
+        item: BASE + url,
+      },
+    ]
+    jsonLd.push({
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: crumbs,
+    })
+  }
+
+  return { title, description, bodyHtml, jsonLd, robots, ogType, type, updated }
 }
 
 // ---------- search page ----------
@@ -389,6 +456,7 @@ function searchPage() {
     title: 'Search',
     description: `Search ${SITE} — high-impact ventures, people, programs, and history across Utah.`,
     bodyHtml: body,
+    ogType: 'website',
     jsonLd: {
       '@context': 'https://schema.org',
       '@type': 'WebSite',
@@ -438,6 +506,8 @@ function notFoundPage() {
     title: 'Not found',
     description: 'That page does not exist on greatutah.work. Start from an index or search.',
     bodyHtml: body,
+    ogType: 'website',
+    robots: 'noindex',
   })
 }
 
@@ -480,6 +550,12 @@ export { searchPage, notFoundPage }
 
 // ---------- CLI ----------
 
+function sitemapEntry({ loc, lastmod }) {
+  const mod =
+    lastmod && ISO_DATE.test(lastmod) ? `\n    <lastmod>${lastmod}</lastmod>` : ''
+  return `  <url>\n    <loc>${loc}</loc>${mod}\n  </url>`
+}
+
 function main() {
   if (!fs.existsSync(DIST)) {
     console.error('dist/ does not exist — run the vite build first.')
@@ -492,16 +568,38 @@ function main() {
     fs.writeFileSync(file, html)
   }
 
-  const urls = [`${BASE}/`, `${BASE}/search`, `${BASE}/contribute`, `${BASE}/map`, `${BASE}/llms.txt`]
+  const buildDate = today()
+  // HTML twins only — markdown paths stay fetchable for agents but are not
+  // submitted as a second indexable URL (seo-plan P0.1). Source pages are
+  // rendered (and noindex'd) but omitted from the sitemap (P1.4).
+  const urls = [
+    { loc: `${BASE}/`, lastmod: buildDate },
+    { loc: `${BASE}/search`, lastmod: buildDate },
+    { loc: `${BASE}/contribute`, lastmod: buildDate },
+    { loc: `${BASE}/map`, lastmod: buildDate },
+    { loc: `${BASE}/llms.txt` },
+  ]
   let count = 0
+  let skippedSitemap = 0
 
   for (const [dir, route] of DOC_DIRS) {
     for (const file of readDir(dir)) {
       const name = file.replace(/\.md$/, '')
       const url = route(name)
+      const raw = fs.readFileSync(path.join(WIKI, dir, file), 'utf8')
+      const type = meta(raw, 'Type')
+      const updated = meta(raw, 'Updated')
       write(`${url.replace(/^\//, '')}.html`, renderDocument(dir, name))
-      urls.push(`${BASE}${url}`, `${BASE}/${dir}/${file}`)
       count++
+
+      const noindexSource = dir === 'pages' && type === 'source'
+      if (noindexSource) {
+        skippedSitemap++
+        continue
+      }
+      const lastmod =
+        dir === 'views' ? buildDate : ISO_DATE.test(updated) ? updated : undefined
+      urls.push({ loc: `${BASE}${url}`, lastmod })
     }
   }
 
@@ -509,11 +607,14 @@ function main() {
   write('404.html', notFoundPage())
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
-    .map((u) => `  <url><loc>${u}</loc></url>`)
+    .map(sitemapEntry)
     .join('\n')}\n</urlset>\n`
   fs.writeFileSync(path.join(DIST, 'sitemap.xml'), xml)
 
-  console.log(`prerender: ${count} documents + search + 404; sitemap: ${urls.length} urls`)
+  console.log(
+    `prerender: ${count} documents + search + 404; sitemap: ${urls.length} urls` +
+      (skippedSitemap ? ` (${skippedSitemap} source pages noindex, omitted)` : ''),
+  )
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) main()

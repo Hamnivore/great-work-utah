@@ -136,5 +136,6 @@ domain, and see whether it arrives. That has not been run. It should be.
   the corpus (Draft 377, Useful 228, Stub 7, Unverified 2, and zero `Reviewed`), and
   `**Confidence:**` has no published rubric. Both are now displayed prominently on every page,
   so they need to mean something. See `../site-issues.md`.
-- No per-page OpenGraph image. Shared links render as text-only cards.
+- No per-page OpenGraph image. Shared links use one site-wide branded card (`/og.png`);
+  per-page cards remain out of scope while `**Hero:**` rights are unresolved.
 - Hero images referenced by `**Hero:**` are not deployed, so they are not rendered.

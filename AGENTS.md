@@ -52,11 +52,14 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
 - `vercel.json` sets `"cleanUrls": true`: that is what maps the prerendered
   `dist/p/<slug>.html` onto `/p/<slug>` and 308s the `.html` form away, so every content route
   resolves straight from the filesystem with no SPA rewrite — and an unknown slug returns a
-  real 404 instead of a 200 shell. Markdown paths (`/pages|views|meta/*.md`) carry an HTTP
-  `Link` canonical to their HTML twin via `routes` (capture `$1` — the high-level `headers`
-  array does not interpolate path captures into values). Note the file is schema-validated on
-  deploy and rejects unknown keys, so it cannot carry comments; document routing changes here
-  instead.
+  real 404 instead of a 200 shell. The React routes `/map` and `/contribute` are the same
+  pattern: prerender copies the Vite `index.html` shell to `dist/map.html` and
+  `dist/contribute.html`. Under `cleanUrls`, rewrite destinations must omit `.html`
+  (`/index`, not `/index.html`) or they 404. Markdown paths (`/pages|views|meta/*.md`) carry
+  an HTTP `Link` canonical to their HTML twin via `routes` (capture `$1` — the high-level
+  `headers` array does not interpolate path captures into values). Note the file is
+  schema-validated on deploy and rejects unknown keys, so it cannot carry comments; document
+  routing changes here instead.
 - Build: `npm run build` (build views → build locations → `tsc -b` → `vite build` → copy
   `wiki/{pages,views,meta}` into `dist/`). Dev: `npm run dev` (vite serves the wiki dirs via a
   small plugin). Tests: `npm test`.

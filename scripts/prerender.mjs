@@ -609,13 +609,24 @@ function main() {
   write('search.html', searchPage())
   write('404.html', notFoundPage())
 
+  // /map and /contribute are React SPA routes. With cleanUrls, a rewrite to
+  // /index.html 404s (extension stripped at build time); emit real shells so
+  // /map and /contribute resolve from the filesystem like /search.
+  const spaShell = path.join(DIST, 'index.html')
+  if (!fs.existsSync(spaShell)) {
+    console.error('dist/index.html missing — cannot emit /map and /contribute shells.')
+    process.exit(1)
+  }
+  fs.copyFileSync(spaShell, path.join(DIST, 'map.html'))
+  fs.copyFileSync(spaShell, path.join(DIST, 'contribute.html'))
+
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
     .map(sitemapEntry)
     .join('\n')}\n</urlset>\n`
   fs.writeFileSync(path.join(DIST, 'sitemap.xml'), xml)
 
   console.log(
-    `prerender: ${count} documents + search + 404; sitemap: ${urls.length} urls` +
+    `prerender: ${count} documents + search + 404 + spa shells; sitemap: ${urls.length} urls` +
       (skippedSitemap ? ` (${skippedSitemap} source pages noindex, omitted)` : ''),
   )
 }

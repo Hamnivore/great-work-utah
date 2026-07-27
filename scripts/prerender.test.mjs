@@ -62,4 +62,9 @@ test('prerender SEO: sitemap drops markdown twins and source pages', async (t) =
   const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1])
   assert.ok(urls.length < 700, `expected ~643 HTML urls, got ${urls.length}`)
   assert.ok(urls.length > 400, `expected ~643 HTML urls, got ${urls.length}`)
+
+  // cleanUrls serves these as /map and /contribute; without them those routes 404.
+  assert.ok(fs.existsSync(path.join(ROOT, 'dist', 'map.html')))
+  assert.ok(fs.existsSync(path.join(ROOT, 'dist', 'contribute.html')))
+  assert.match(rebuilt.stdout, /spa shells/)
 })

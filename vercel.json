@@ -76,8 +76,8 @@
   ],
   "rewrites": [
     { "source": "/api/grep", "destination": "/api/search" },
-    { "source": "/contribute", "destination": "/index.html" },
-    { "source": "/map", "destination": "/index.html" }
+    { "source": "/contribute", "destination": "/index" },
+    { "source": "/map", "destination": "/index" }
   ],
   "routes": [
     {

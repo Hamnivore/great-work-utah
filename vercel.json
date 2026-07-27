@@ -1,7 +1,6 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "_comment": "cleanUrls maps the prerendered dist/p/<slug>.html onto /p/<slug> and 308s the .html form away, so every content route resolves from the filesystem with no SPA rewrite. An unknown slug now returns a real 404 instead of a 200 shell.",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [

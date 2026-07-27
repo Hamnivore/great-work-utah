@@ -1,6 +1,31 @@
+// Imported explicitly: Vercel type-checks functions without the repo's tsconfig
+// `node` types, so the bare globals resolve locally but not in the deploy build.
+import { Buffer } from 'node:buffer'
+import process from 'node:process'
+
 // POST /api/contribute — the wiki's single write endpoint.
 // kind=note → GitHub issue (public queue); kind=page → branch + commit + PR.
 // Review-gated: nothing publishes without a human merge. No SDK deps, plain fetch.
+//
+// Abuse guards (size cap, per-instance rate limit, duplicate suppression, cheap
+// content heuristics) live in ./_contribute-guard.mjs, which documents why each
+// limit sits where it does. They are tuned to stop scripts without ever blocking
+// a well-behaved agent's single note or page.
+
+import {
+  MAX_NOTE_CONTENT_CHARS,
+  MAX_PAGE_CONTENT_CHARS,
+  MIN_NOTE_CONTENT_CHARS,
+  MIN_PAGE_CONTENT_CHARS,
+  RECENT_SUBMISSIONS,
+  REQUEST_LIMIT,
+  WRITE_LIMIT,
+  clientIp,
+  contentIssues,
+  fingerprint,
+  oversizeError,
+  rateLimitError,
+} from './_contribute-guard.mjs'
 
 const REPO = 'Hamnivore/great-work-utah'
 const API = 'https://api.github.com'
@@ -52,7 +77,11 @@ function normalizeContribute(raw: Body): Body {
 }
 
 // Minimal request/response shapes for a Vercel Node function (no @vercel/node dep).
-type Req = { method?: string; body?: unknown }
+type Req = {
+  method?: string
+  body?: unknown
+  headers?: Record<string, string | string[] | undefined>
+}
 type Res = {
   setHeader(name: string, value: string): void
   status(code: number): Res
@@ -86,14 +115,25 @@ function validate(body: Body): { error?: string; kind?: 'note' | 'page' } {
     errors.push(
       '"content" must be a string (also accepted: "body", "note", "message", or "text").',
     )
-  } else if (kind === 'note') {
-    if (content.length < 15 || content.length > 2000) {
-      errors.push(`Note content must be 15–2000 characters (got ${content.length}).`)
+  } else {
+    if (kind === 'note') {
+      if (content.length < MIN_NOTE_CONTENT_CHARS || content.length > MAX_NOTE_CONTENT_CHARS) {
+        errors.push(
+          `Note content must be ${MIN_NOTE_CONTENT_CHARS}–${MAX_NOTE_CONTENT_CHARS} characters (got ${content.length}).`,
+        )
+      }
+    } else if (kind === 'page') {
+      if (content.length < MIN_PAGE_CONTENT_CHARS) {
+        errors.push(`Page content must be over 200 characters (got ${content.length}) — send a full page, or send a note instead.`)
+      } else if (content.length > MAX_PAGE_CONTENT_CHARS) {
+        errors.push(
+          `Page content must be at most ${MAX_PAGE_CONTENT_CHARS} characters (got ${content.length}) — the longest page in this wiki is under 14,000. Split it, or trim to the house format in /meta/conventions.md.`,
+        )
+      }
     }
-  } else if (kind === 'page') {
-    if (content.length <= 200) {
-      errors.push(`Page content must be over 200 characters (got ${content.length}) — send a full page, or send a note instead.`)
-    }
+    // Structural spam checks join the same error list, so an agent still gets
+    // every problem in one response instead of discovering them one at a time.
+    errors.push(...contentIssues(content))
   }
   if (kind === 'page' && (typeof type !== 'string' || !VALID_TYPES.includes(type))) {
     errors.push(`"type" must be one of: ${VALID_TYPES.join(', ')} (required for pages; ignored for notes).`)
@@ -170,6 +210,10 @@ async function createPagePR(
 }
 
 export default async function handler(req: Req, res: Res) {
+  // Wildcard CORS is INTENTIONAL and load-bearing: agents post to this endpoint
+  // cross-origin from any host, and there is nothing to protect — the endpoint is
+  // unauthenticated by design and everything it writes is review-gated. Do not
+  // "fix" this to an origin allowlist; it would silently break the funnel.
   res.setHeader('Access-Control-Allow-Origin', '*')
   res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS')
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
@@ -180,6 +224,30 @@ export default async function handler(req: Req, res: Res) {
   }
   if (req.method !== 'POST') {
     res.status(405).json({ ok: false, error: 'Use POST with a JSON body.' })
+    return
+  }
+
+  // Best-effort, per-instance throttle (see _contribute-guard.mjs). Charged
+  // before anything else so oversized and malformed floods count too. This tier
+  // is deliberately loose: it only catches floods, so an agent iterating toward a
+  // valid body is never punished for it.
+  const ip = clientIp(req.headers)
+  const allowed = REQUEST_LIMIT.take(ip)
+  if (!allowed.ok) {
+    res.setHeader('Retry-After', String(allowed.retryAfterSeconds))
+    res.status(429).json({
+      ok: false,
+      retryAfterSeconds: allowed.retryAfterSeconds,
+      error: rateLimitError(allowed.retryAfterSeconds),
+    })
+    return
+  }
+
+  // Size gate on the Content-Length header alone — this runs before we touch
+  // req.body, which is a lazy getter that would parse the whole payload.
+  const tooBig = oversizeError(req.headers?.['content-length'])
+  if (tooBig) {
+    res.status(413).json({ ok: false, error: tooBig.error })
     return
   }
 
@@ -238,15 +306,61 @@ export default async function handler(req: Req, res: Res) {
 
   const path = body.path as string
   const content = body.content as string
-  const reason = typeof body.reason === 'string' ? body.reason : ''
+  // Truncated rather than rejected: "reason" is an optional one-liner, so a bloated
+  // one is not worth costing someone a real contribution over.
+  const reason = typeof body.reason === 'string' ? body.reason.slice(0, 500) : ''
 
+  // Duplicate suppression: an identical (kind + path + content) resubmission gets
+  // the original link back instead of opening a second identical issue/PR. The
+  // manual promises "resubmission is safe" — this makes that cheap as well as safe.
+  const fp = fingerprint(kind as string, path, content)
+  const seen = RECENT_SUBMISSIONS.lookup(fp)
+  if (seen) {
+    res.status(200).json(
+      seen.status === 'done'
+        ? {
+            ok: true,
+            duplicate: true,
+            url: seen.url,
+            message:
+              'Identical submission already accepted — returning the original link instead of opening a second one. Nothing further to do.',
+          }
+        : {
+            ok: true,
+            duplicate: true,
+            status: 'processing',
+            message:
+              'An identical submission is already being processed. Nothing further to do; the issue or pull request will appear on the repo shortly.',
+          },
+    )
+    return
+  }
+
+  // Only submissions that will actually create a GitHub object are charged
+  // against the tighter write budget.
+  const writeAllowed = WRITE_LIMIT.take(ip)
+  if (!writeAllowed.ok) {
+    res.setHeader('Retry-After', String(writeAllowed.retryAfterSeconds))
+    res.status(429).json({
+      ok: false,
+      retryAfterSeconds: writeAllowed.retryAfterSeconds,
+      error: rateLimitError(writeAllowed.retryAfterSeconds, { write: true }),
+    })
+    return
+  }
+
+  RECENT_SUBMISSIONS.begin(fp)
   try {
     const url =
       kind === 'note'
         ? await createNote(token, path, content, reason)
         : await createPagePR(token, path, body.type as string, content, reason)
+    RECENT_SUBMISSIONS.complete(fp, url)
     res.status(200).json({ ok: true, url })
   } catch (e) {
+    // Forget failures so a retry after a GitHub outage is not mistaken for a
+    // duplicate — "resubmission is safe" has to stay literally true.
+    RECENT_SUBMISSIONS.forget(fp)
     res.status(502).json({ ok: false, error: e instanceof Error ? e.message : String(e) })
   }
 }

@@ -1,7 +1,7 @@
 # JustBuild
 
 **Type:** resource
-**Status:** Active
+**Status:** Useful
 **Confidence:** Medium
 **Focus:** founder community, AI builders, cofounder discovery, hackathons, coworking, Slack
 **Primary Location:** Utah County, UT

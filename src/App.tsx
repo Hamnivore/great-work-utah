@@ -1,39 +1,34 @@
 import { lazy, Suspense } from 'react'
-import { BrowserRouter, Link, Route, Routes, useLocation, useParams } from 'react-router-dom'
-import { MarkdownDoc } from './components/MarkdownDoc'
+import { BrowserRouter, Link, Route, Routes, useLocation } from 'react-router-dom'
 import { ContributePage } from './pages/Contribute'
 import { HomePage } from './pages/Home'
 
 const MapPage = lazy(() => import('./pages/Map').then((module) => ({ default: module.MapPage })))
 
-function PageRoute() {
-  const { slug = '' } = useParams()
-  const clean = slug.replace(/\.md$/i, '')
-  return <MarkdownDoc docPath={`pages/${clean}.md`} />
-}
-
-function ViewRoute() {
-  const { view = '' } = useParams()
-  const clean = view.replace(/\.md$/i, '')
-  return <MarkdownDoc docPath={`views/${clean}.md`} />
-}
+// /p/*, /v/*, /about and friends are prerendered static HTML (scripts/prerender.mjs)
+// and never reach this router in production. The app is only the three routes that
+// genuinely need to run code: the home handoff, the contribute form, and the map.
 
 function NotFound() {
   return (
     <div className="font-sans text-sm text-ink-soft">
       <p>404 — not found. Don't guess slugs.</p>
       <p className="mt-2">
-        <Link to="/" className="text-twilight">
-          home
-        </Link>
+        <a href="/search" className="text-twilight">
+          search
+        </a>
         {' · '}
-        <Link to="/v/needs" className="text-twilight">
+        <a href="/v/index" className="text-twilight">
+          master index
+        </a>
+        {' · '}
+        <a href="/v/needs" className="text-twilight">
           looking for work
-        </Link>
+        </a>
         {' · '}
-        <Link to="/v/guides" className="text-twilight">
+        <a href="/v/guides" className="text-twilight">
           founding
-        </Link>
+        </a>
       </p>
       <p className="mt-2 text-xs">
         Agents:{' '}
@@ -43,10 +38,6 @@ function NotFound() {
         {' · '}
         <a href="/views/index.md" className="text-twilight">
           /views/index.md
-        </a>
-        {' · '}
-        <a href="/views/needs.md" className="text-twilight">
-          /views/needs.md
         </a>
       </p>
     </div>
@@ -70,18 +61,24 @@ function SiteRoutes() {
               Great Work — Utah
             </Link>
             <nav className="flex flex-wrap gap-4 font-sans text-sm">
-              <Link to="/v/needs" className="text-twilight-soft hover:text-twilight">
+              <a href="/search" className="text-twilight-soft hover:text-twilight">
+                search
+              </a>
+              <a href="/v/needs" className="text-twilight-soft hover:text-twilight">
                 looking for work
-              </Link>
-              <Link to="/v/by-region" className="text-twilight-soft hover:text-twilight">
+              </a>
+              <a href="/v/by-region" className="text-twilight-soft hover:text-twilight">
                 by place
-              </Link>
+              </a>
               <Link to="/map" className="text-twilight-soft hover:text-twilight">
                 map
               </Link>
-              <Link to="/v/guides" className="text-twilight-soft hover:text-twilight">
+              <a href="/v/guides" className="text-twilight-soft hover:text-twilight">
                 founding
-              </Link>
+              </a>
+              <a href="/about" className="text-twilight-soft hover:text-twilight">
+                about
+              </a>
               <Link to="/contribute" className="text-twilight-soft hover:text-twilight">
                 contribute
               </Link>
@@ -89,8 +86,6 @@ function SiteRoutes() {
           </header>
           <main className="flex-1 py-8">
             <Routes>
-              <Route path="/p/:slug" element={<PageRoute />} />
-              <Route path="/v/:view" element={<ViewRoute />} />
               <Route path="/contribute" element={<ContributePage />} />
               <Route
                 path="/map"
@@ -106,7 +101,12 @@ function SiteRoutes() {
             </Routes>
           </main>
           <footer className="border-t border-sandstone/50 py-4 font-sans text-xs text-ink-soft">
-            A wiki of high-impact Utah work. Humans: browse above. Agents: fetch{' '}
+            A wiki of high-impact Utah work, written and maintained mostly by AI agents and reviewed
+            by a human before anything publishes.{' '}
+            <a href="/about" className="text-twilight">
+              How this is made
+            </a>
+            . Agents: fetch{' '}
             <a href="/llms.txt" className="text-twilight">
               /llms.txt
             </a>

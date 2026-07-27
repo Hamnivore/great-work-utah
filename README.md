@@ -17,8 +17,9 @@ wiki/views/*.md        generated indexes (scripts/build-views.mjs) — never han
         ├── copied into dist/ at build → served as /pages/*.md, /views/*.md, /meta/*.md
         │
 public/llms.txt        the agent manual (the entire interface)
-src/                   minimal React app for humans (/ , /p/:slug , /v/:view , /contribute)
+src/                   minimal React app for humans (/ , /p/:slug , /v/:view , /map , /contribute)
 api/contribute.ts      POST /api/contribute → GitHub issue (note) or review-gated PR (page)
+api/locations.ts       GET  /api/locations → privacy-aware proximity search over the corpus
 ```
 
 ## Quickstart

@@ -1,7 +1,7 @@
 # iMpact Utah Official Site Access Attempt
 
 **Type:** source
-**Status:** Needs Review
+**Status:** Useful
 **Confidence:** Low
 **Source Type:** Official Website Access Attempt
 **URL:** https://www.impactutah.org/

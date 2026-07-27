@@ -5,13 +5,14 @@
   "type": "module",
   "scripts": {
     "build:views": "node scripts/build-views.mjs",
+    "build:search": "node scripts/build-search-index.mjs",
     "lint:wiki": "node scripts/wiki-lint.mjs",
     "dev": "vite",
-    "build": "node scripts/build-views.mjs && node scripts/build-locations.mjs && tsc -b && vite build && cp -r wiki/pages wiki/views wiki/meta dist/",
+    "build": "node scripts/build-views.mjs && node scripts/build-locations.mjs && node scripts/build-search-index.mjs && tsc -b && vite build && cp -r wiki/pages wiki/views wiki/meta dist/ && node scripts/prerender.mjs",
+    "prerender": "node scripts/prerender.mjs",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "node --test scripts/*.test.mjs",
-    "urls:plaintext": "node scripts/plaintext-urls.mjs",
     "startup-state:check": "node scripts/check-startup-state-resources.mjs",
     "startup-state:sync": "node scripts/sync-startup-state-from-api.mjs",
     "startup-state:check:strict": "node scripts/check-startup-state-resources.mjs --strict",
@@ -27,9 +28,7 @@
     "react-dom": "^19.2.5",
     "react-leaflet": "^5.0.0",
     "react-leaflet-cluster": "^4.1.3",
-    "react-markdown": "^10.1.0",
-    "react-router-dom": "^7.10.0",
-    "remark-gfm": "^4.0.0"
+    "react-router-dom": "^7.10.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
@@ -43,6 +42,7 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.5.0",
+    "marked": "^18.0.7",
     "tailwindcss": "^4.2.0",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.58.2",

@@ -2,7 +2,7 @@
 
 **Type:** source
 **Status:** Useful
-**Confidence:** Low-Medium
+**Confidence:** Low
 **Source Type:** Official Website
 **URL:** https://www.renaissance-ag.com
 **Publisher:** Renaissance Ag
@@ -24,7 +24,7 @@ Note: the legacy source flagged the URL as needing verification ("verify URL"). 
 
 ## Reliability Notes
 
-This is an official company source. Confidence is rated Low-Medium because the URL should be independently verified before use, and Renaissance Ag is a small private company with limited third-party press coverage to cross-check core claims against. The Utah Department of Agriculture verification of the water-savings figure is the most credible external corroboration available. Equipment reliability, customer retention, and financial performance figures are not independently verifiable from public sources.
+This is an official company source. Confidence is rated Low because the URL should be independently verified before use, and Renaissance Ag is a small private company with limited third-party press coverage to cross-check core claims against. The Utah Department of Agriculture verification of the water-savings figure is the most credible external corroboration available. Equipment reliability, customer retention, and financial performance figures are not independently verifiable from public sources.
 
 Before citing this source in research, confirm that https://www.renaissance-ag.com resolves to the Vineyard, Utah livestock-fodder company and not an unrelated entity sharing the name.
 

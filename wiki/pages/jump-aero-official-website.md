@@ -1,7 +1,7 @@
 # Official Website: Jump Aero
 
 **Type:** source
-**Status:** Unverified
+**Status:** Useful
 **Confidence:** Low
 **Source Type:** Official Website
 **URL:** https://jumpaero.com

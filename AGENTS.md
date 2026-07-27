@@ -2,9 +2,16 @@
 
 This repo is an LLM-first wiki of the highest-impact work happening in Utah. Visiting AI
 agents are the primary users: they fetch `/llms.txt` (the manual, `public/llms.txt`) and read
-raw markdown at `/pages/<slug>.md`, `/views/<view>.md`, `/meta/<doc>.md`. A minimal React app
-(`src/`, routes `/`, `/p/:slug`, `/v/:view`, `/map`, `/contribute`) renders the same files for
-humans.
+raw markdown at `/pages/<slug>.md`, `/views/<view>.md`, `/meta/<doc>.md`.
+
+Every one of those documents is **also** published as static HTML — `/p/<slug>`, `/v/<view>`,
+`/about` — prerendered at build time by `scripts/prerender.mjs`. That layer is not a
+concession to human visitors; it is how agents that arrive through a search index rather than
+through `/llms.txt` reach the corpus at all. Read
+`research/design/static-html-is-the-second-half.md` before changing or removing it.
+
+A small React app (`src/`) now covers only the three routes that need to run code: `/`,
+`/contribute`, `/map`.
 
 ## Layout
 
@@ -27,8 +34,9 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
    principles and report any case they fail to decide — ambiguity reports are how the schema
    improves.
 2. Edit or add pages in `wiki/pages/` only. Never touch `wiki/views/` by hand.
-3. After any page change run both of:
+3. After any page change run all three of:
    - `node scripts/build-views.mjs` (regenerates views)
+   - `node scripts/build-search-index.mjs` (regenerates the browse index + the API's corpus)
    - `node scripts/wiki-lint.mjs` (metadata, templates, links, staleness)
 4. Page anatomy: H1 title, then bold-prefix metadata (`**Type:**`, `**Status:**`,
    `**Confidence:**`, `**Focus:**`, `**Domain:**` primary-first, `**Region:**`,

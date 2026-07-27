@@ -35,12 +35,33 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **What:** SaaS equity path dead-ends at Low stubs; Focus CSV sludge.
 - **Next check:** Medium Draft Album/Kickstart/Peterson; Focus cleanup.
 
-### Soft `/p/*` 200 SPA; soft-404 remains
+### Contribution from an HTML arrival is untested
 
-- **Seen:** 2026-07-14 · harness: Cursor
-- **Where:** `/p/*`
-- **What:** Unknown `/p/` returns HTTP 200 SPA shell. Agent `/pages/` 404 recovery now lists `/views/*.md`.
-- **Next check:** Harder soft-404 if humans need it.
+- **Seen:** 2026-07-27 · `findings/2026-07-27-html-arrival-probe.md`
+- **Where:** the prerendered `/p/*` layer
+- **What:** the cold probe that arrived on an HTML page found the manual, the views, and the trust doc, and cited the site — but never contributed, because the scenario contained no gap the corpus was missing. So the ladder is unvalidated on this arrival path.
+- **Next check:** re-run the HTML-arrival probe with a scenario containing a real public gap (contribute-freely branch).
+
+### Pages self-flag unfinished work while being used for real decisions
+
+- **Seen:** 2026-07-27 (cold probe, unprompted criticism)
+- **Where:** `fervo-energy`, `rodatherm-energy`, `zanskar-geothermal`, others
+- **What:** Open Questions on load-bearing pages name uncleared hero-image rights and unresolved facts ("has the pilot produced first power?"). Honest, but these pages route career decisions.
+- **Next check:** corpus-priority call — close Open Questions on high-traffic pages before writing new ones.
+
+### No per-page OpenGraph image; hero images not deployed
+
+- **Seen:** 2026-07-27
+- **Where:** prerendered pages
+- **What:** shared links render as text-only cards. `**Hero:**` paths (`/img/heroes/...`) have no deployed images, so heroes are not rendered at all.
+- **Next check:** decide whether heroes ship (rights are unresolved on several) or whether the field should be retired.
+
+### No `Stub + High` precedent exists
+
+- **Seen:** 2026-07-27
+- **Where:** `wiki/meta/attributes.md`
+- **What:** the new Status/Confidence rubric documents Stub+High as a worked example, but no page has that shape — all 8 Stubs are Low. The example is an illustration, not a precedent, which is weaker than conventions.md's house standard.
+- **Next check:** write one such page (a program page: name, bill number, one Evidence line to the enrolled statute).
 
 ### Domain attribution still incomplete; Utah Valley geo buckets confusing
 
@@ -50,19 +71,51 @@ Living list of bugs and rough edges observed on the live site or in local runs. 
 - **Partial fix:** Round 3 Domain on RF/bio/SaaS + FamilySearch, SCI, Adobe, Merit, Hexcel, Northrop.
 - **Next check:** Keep attribution; consider Utah Valley rollup note.
 
-### No full-text search; hire-your-own-team intent inverted
+### Hire-your-own-team intent inverted
 
 - **Seen:** 2026-07-14 (human founder / job seeker)
 - **Where:** `/`, nav
-- **What:** No search. “Looking for work” / Needs = other orgs’ talent needs — founders trying to hire for *their* company hit a job board for someone else.
-- **Next check:** Wishlist search; optional “hiring?” copy under founding.
+- **Partial fix:** 2026-07-27 — full-text search shipped for both audiences (below), which is the half of this that was about finding things.
+- **What remains:** “Looking for work” / Needs = other orgs’ talent needs — founders trying to hire for *their* company still hit a job board for someone else.
+- **Next check:** optional “hiring?” copy under founding.
+
+## Fixed / closed (2026-07-27)
+
+### Every `/p/*` and `/v/*` URL served identical contentless HTML
+
+- **Fixed:** 2026-07-27 — `scripts/prerender.mjs` emits static HTML for all 638 documents with unique titles, descriptions, canonical, OpenGraph, JSON-LD, and a markdown `rel=alternate`. Verified 616/616 unique titles and descriptions. Rationale and what would falsify it: `design/static-html-is-the-second-half.md`.
+
+### No full-text search
+
+- **Fixed:** 2026-07-27 — `/search` for humans (static index, 260KB) and `GET /api/search` for agents: exact-phrase grep over full page text with `section=`, `type=`, `limit`, `hits_per_page`. This is the grep endpoint `design/interface-v3.md` specified and never shipped (E3 remainder). `/api/grep` aliases it. Verified against the 2026-07-09 missed gem: `q=drilling engineers&section=what-they-need-now` returns Rodatherm.
+
+### Soft `/p/*` 200 SPA; soft-404
+
+- **Fixed:** 2026-07-27 — `cleanUrls` resolves `/p/<slug>` from the filesystem, so an unknown slug is a real 404 serving a recovery page with human doors and agent entry points.
 
 ### Sitemap / SEO skewed to agent paths
 
-- **Seen:** 2026-07-14 (founder human)
-- **Where:** `/sitemap.xml`
-- **What:** `/p/` + `/pages/` present; zero `/v/` URLs; no `/contribute`.
-- **Next check:** Emit human view URLs in sitemap.
+- **Fixed:** 2026-07-27 — the sitemap is now emitted by the prerenderer, the only step that knows every shipped URL: 1,281 entries covering `/p/`, `/pages/`, `/v/`, `/views/`, `/meta/`, `/about`, `/charter`, `/conventions`, `/attributes`, `/search`, `/contribute`, `/map`.
+
+### Indexed `/raise-hand` returned 404
+
+- **Fixed:** 2026-07-27 — 308 to `/contribute`.
+
+### No transparency, no correction policy, no privacy notice
+
+- **Fixed:** 2026-07-27 — `wiki/meta/about.md`, published at `/about` and `/meta/about.md`: maintainer, review gate, funding (none), Confidence rubric, coverage skew stated plainly, corrections, and exactly what `/api/contribute` publishes and where. A cold probe read it and downgraded its own claims accordingly.
+
+### `/api/contribute` unauthenticated and unthrottled
+
+- **Fixed:** 2026-07-27 — 64KiB body cap, per-instance rate limiting (request + write buckets), duplicate suppression, spam heuristics calibrated so no real wiki page trips them. `llms.txt` documents the 413/429 so agents recover.
+
+### Status vocabulary did not match the corpus; Confidence had no rubric
+
+- **Fixed:** 2026-07-27 — Status is now `Stub · Draft · Useful` (page maturity, explicitly not fact verification; `Reviewed` retired, never used). Confidence has a published rubric graded to the weakest load-bearing claim. Lint enforces both vocabularies. 5 off-vocabulary pages migrated individually.
+
+### No security headers
+
+- **Fixed:** 2026-07-27 — CSP, `X-Content-Type-Options`, `Referrer-Policy`, `Permissions-Policy`, `frame-ancestors 'none'`. Verified no CSP violations across `/`, `/search`, `/p/*`, `/map`, `/contribute` in headless Chrome.
 
 ## Fixed / closed (selected, round 3)
 

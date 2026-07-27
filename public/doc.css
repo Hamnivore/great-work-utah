@@ -1,0 +1,390 @@
+/* Stylesheet for the prerendered document pages (/p/*, /v/*, /about, /charter,
+   /conventions, /attributes, /search). Deliberately standalone — no Tailwind, no
+   build step, no JavaScript — so a content page is one HTML request plus one CSS
+   request and renders identically with scripts disabled. Tokens mirror
+   src/index.css; keep them in sync by hand if the palette moves. */
+
+:root {
+  --color-paper: #fbfaf6;
+  --color-paper-deep: #f2f0e9;
+  --color-sandstone: #b9afa1;
+  --color-twilight: #2c5364;
+  --color-twilight-soft: #5a7884;
+  --color-orange: #d37945;
+  --color-ink: #27231f;
+  --color-ink-soft: #585047;
+
+  --font-serif: "Libre Caslon Text", Georgia, "Times New Roman", serif;
+  --font-display: "Libre Caslon Display", "Big Caslon", Georgia, serif;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+/* ---- shell ---- */
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 10;
+  background: var(--color-twilight);
+  color: white;
+  padding: 0.6rem 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+}
+.skip-link:focus {
+  left: 0;
+}
+
+.shell {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--color-sandstone) 50%, transparent);
+  padding: 1rem 0;
+}
+.site-header .wordmark {
+  color: var(--color-twilight);
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  text-decoration: none;
+}
+.site-header nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+}
+.site-header nav a {
+  color: var(--color-twilight-soft);
+  text-decoration: none;
+}
+.site-header nav a:hover,
+.site-header nav a:focus {
+  color: var(--color-twilight);
+  text-decoration: underline;
+}
+
+main {
+  flex: 1;
+  padding: 2rem 0;
+}
+
+.site-footer {
+  border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 50%, transparent);
+  padding: 1rem 0 2rem;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: var(--color-ink-soft);
+}
+.site-footer a {
+  color: var(--color-twilight);
+}
+
+/* ---- document header ---- */
+
+.pull {
+  margin: 0 0 1rem;
+  color: var(--color-twilight-soft);
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  line-height: 1.4;
+}
+
+h1 {
+  margin: 0 0 0.75rem;
+  color: var(--color-twilight);
+  font-family: var(--font-display);
+  font-size: clamp(1.9rem, 5vw, 2.5rem);
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: -0.015em;
+}
+
+/* Confidence / Status / Updated, lifted out of the metadata list so a reader sees
+   how much to trust the page before reading it (audit findings H1, M3). */
+.trust {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.75rem;
+  margin-bottom: 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--color-ink-soft);
+}
+.trust .badge {
+  border: 1px solid color-mix(in srgb, var(--color-sandstone) 65%, transparent);
+  border-radius: 999px;
+  padding: 0.1rem 0.6rem;
+  background: var(--color-paper-deep);
+  white-space: nowrap;
+}
+.trust .badge.conf-high {
+  border-color: color-mix(in srgb, var(--color-twilight) 45%, transparent);
+  color: var(--color-twilight);
+}
+.trust .badge.conf-low {
+  border-color: color-mix(in srgb, var(--color-orange) 55%, transparent);
+  color: color-mix(in srgb, var(--color-orange) 80%, black);
+}
+
+.doc-meta {
+  margin: 0 0 1.5rem;
+  border-block: 1px solid color-mix(in srgb, var(--color-sandstone) 40%, transparent);
+  padding: 0.75rem 0;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--color-ink-soft);
+}
+.doc-meta > div {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.125rem 0;
+}
+.doc-meta dt {
+  flex: 0 0 7rem;
+  font-weight: 500;
+  color: var(--color-twilight-soft);
+}
+.doc-meta dd {
+  margin: 0;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.doc-meta a {
+  color: var(--color-twilight);
+}
+
+/* ---- rendered markdown body ---- */
+
+.doc h2 {
+  margin: 2rem 0 0.5rem;
+  color: var(--color-twilight);
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+.doc h3 {
+  margin: 1.25rem 0 0.4rem;
+  color: var(--color-twilight);
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+.doc p {
+  margin: 0 0 0.9rem;
+}
+.doc a {
+  color: var(--color-twilight);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--color-twilight) 35%, transparent);
+  text-underline-offset: 2px;
+  overflow-wrap: anywhere;
+}
+.doc a:hover,
+.doc a:focus {
+  text-decoration-color: var(--color-twilight);
+}
+/* A link to a page the corpus wants but does not have yet. */
+.doc a.wanted,
+.doc-meta a.wanted {
+  color: color-mix(in srgb, var(--color-orange) 85%, black);
+  text-decoration-color: color-mix(in srgb, var(--color-orange) 45%, transparent);
+}
+.doc a.wanted::after,
+.doc-meta a.wanted::after {
+  content: "?";
+  font-size: 0.7em;
+  vertical-align: super;
+  opacity: 0.75;
+}
+
+.doc ul,
+.doc ol {
+  margin: 0 0 0.9rem 1.25rem;
+  padding: 0;
+}
+.doc li {
+  margin-bottom: 0.35rem;
+}
+.doc blockquote {
+  margin: 0 0 0.9rem;
+  border-left: 2px solid var(--color-sandstone);
+  padding-left: 1rem;
+  color: var(--color-ink-soft);
+  font-style: italic;
+}
+.doc code {
+  background: var(--color-paper-deep);
+  border-radius: 3px;
+  padding: 0.1em 0.3em;
+  font-size: 0.85em;
+  overflow-wrap: anywhere;
+}
+.doc pre {
+  margin: 0 0 0.9rem;
+  border-radius: 4px;
+  background: var(--color-paper-deep);
+  padding: 0.75rem 1rem;
+  overflow-x: auto;
+}
+.doc pre code {
+  background: none;
+  padding: 0;
+}
+.doc table {
+  display: block;
+  margin: 0 0 0.9rem;
+  border-collapse: collapse;
+  overflow-x: auto;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+}
+.doc th,
+.doc td {
+  border: 1px solid color-mix(in srgb, var(--color-sandstone) 50%, transparent);
+  padding: 0.35rem 0.6rem;
+  text-align: left;
+}
+.doc th {
+  background: var(--color-paper-deep);
+  font-weight: 600;
+}
+.doc hr {
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 50%, transparent);
+}
+.doc img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ---- provenance footer on every document ---- */
+
+.provenance {
+  margin-top: 2.5rem;
+  border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 40%, transparent);
+  padding-top: 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: var(--color-ink-soft);
+}
+.provenance a {
+  color: var(--color-twilight);
+}
+.provenance p {
+  margin: 0 0 0.4rem;
+}
+
+/* ---- search page ---- */
+
+.search-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.search-form input[type="search"] {
+  flex: 1 1 16rem;
+  min-height: 2.65rem;
+  border: 1px solid color-mix(in srgb, var(--color-sandstone) 65%, transparent);
+  border-radius: 0.28rem;
+  background: color-mix(in srgb, white 48%, var(--color-paper));
+  color: var(--color-ink);
+  padding: 0 0.75rem;
+  font-family: var(--font-serif);
+  font-size: 1rem;
+}
+.search-form select {
+  min-height: 2.65rem;
+  border: 1px solid color-mix(in srgb, var(--color-sandstone) 65%, transparent);
+  border-radius: 0.28rem;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  padding: 0 0.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+}
+.search-status {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-ink-soft);
+}
+.search-results {
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+.search-results li {
+  border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 38%, transparent);
+  padding: 0.85rem 0;
+}
+.search-results a {
+  color: var(--color-twilight);
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+.search-results a:hover,
+.search-results a:focus {
+  text-decoration: underline;
+}
+.search-results .meta {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  color: var(--color-twilight-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.search-results .blurb {
+  margin: 0.25rem 0 0;
+  font-size: 0.92rem;
+  color: var(--color-ink-soft);
+}
+
+@media (max-width: 620px) {
+  .doc-meta > div {
+    flex-direction: column;
+    gap: 0;
+  }
+  .doc-meta dt {
+    flex-basis: auto;
+  }
+}

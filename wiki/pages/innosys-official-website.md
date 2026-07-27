@@ -1,7 +1,7 @@
 # Official Website: InnoSys
 
 **Type:** source
-**Status:** Unverified
+**Status:** Stub
 **Confidence:** Low
 **Source Type:** Official Website
 **URL:** Unknown

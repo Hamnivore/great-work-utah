@@ -23,6 +23,51 @@ function serveWiki(): Plugin {
   }
 }
 
+// Content routes are static HTML in production (scripts/prerender.mjs, served by
+// Vercel's cleanUrls). Dev calls the same renderer per request so what you see
+// locally is what ships — and so a page edit shows up on reload with no rebuild.
+function servePrerendered(): Plugin {
+  const ROUTES: [RegExp, string][] = [
+    [/^\/p\/([a-z0-9-]+)$/, 'pages'],
+    [/^\/v\/([a-z0-9-]+)$/, 'views'],
+    [/^\/(about|charter|conventions|attributes)$/, 'meta'],
+  ]
+  return {
+    name: 'serve-prerendered',
+    configureServer(server) {
+      server.middlewares.use(async (req, res, next) => {
+        const url = (req.url || '').split('?')[0]
+        if (url === '/search' || ROUTES.some(([re]) => re.test(url))) {
+          // Imported per request so edits to the renderer take effect without a restart.
+          const mod = await server.ssrLoadModule('/scripts/prerender.mjs')
+          let html: string | null = null
+          if (url === '/search') {
+            html = mod.searchPage()
+          } else {
+            for (const [re, dir] of ROUTES) {
+              const m = url.match(re)
+              if (m) {
+                html = mod.renderDocument(dir, m[1])
+                break
+              }
+            }
+          }
+          if (html) {
+            res.setHeader('Content-Type', 'text/html; charset=utf-8')
+            res.end(html)
+            return
+          }
+          res.statusCode = 404
+          res.setHeader('Content-Type', 'text/html; charset=utf-8')
+          res.end(mod.notFoundPage())
+          return
+        }
+        next()
+      })
+    },
+  }
+}
+
 export default defineConfig({
-  plugins: [react(), tailwindcss(), serveWiki()],
+  plugins: [react(), tailwindcss(), serveWiki(), servePrerendered()],
 })

@@ -1,7 +1,22 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
+  "_comment": "cleanUrls maps the prerendered dist/p/<slug>.html onto /p/<slug> and 308s the .html form away, so every content route resolves from the filesystem with no SPA rewrite. An unknown slug now returns a real 404 instead of a 200 shell.",
+  "cleanUrls": true,
+  "trailingSlash": false,
   "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), payment=(), usb=()" },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: blob: https:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'"
+        }
+      ]
+    },
     {
       "source": "/pages/(.*)",
       "headers": [
@@ -29,6 +44,18 @@
         { "key": "Content-Type", "value": "text/plain; charset=utf-8" },
         { "key": "Cache-Control", "value": "public, max-age=120, stale-while-revalidate=600" }
       ]
+    },
+    {
+      "source": "/doc.css",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=3600, stale-while-revalidate=86400" }
+      ]
+    },
+    {
+      "source": "/search-index.json",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=300, stale-while-revalidate=86400" }
+      ]
     }
   ],
   "redirects": [
@@ -45,13 +72,12 @@
     { "source": "/meta/:doc([^/.]+)", "destination": "/meta/:doc.md", "statusCode": 308 },
     { "source": "/pages/sillicon-slopes.md", "destination": "/pages/silicon-slopes.md", "statusCode": 308 },
     { "source": "/p/sillicon-slopes", "destination": "/p/silicon-slopes", "statusCode": 308 },
-    { "source": "/entry/:source/:slug", "destination": "/p/:slug", "statusCode": 308 }
+    { "source": "/entry/:source/:slug", "destination": "/p/:slug", "statusCode": 308 },
+    { "source": "/raise-hand", "destination": "/contribute", "statusCode": 308 }
   ],
   "rewrites": [
-    { "source": "/", "destination": "/index.html" },
+    { "source": "/api/grep", "destination": "/api/search" },
     { "source": "/contribute", "destination": "/index.html" },
-    { "source": "/map", "destination": "/index.html" },
-    { "source": "/p/:slug*", "destination": "/index.html" },
-    { "source": "/v/:view*", "destination": "/index.html" }
+    { "source": "/map", "destination": "/index.html" }
   ]
 }

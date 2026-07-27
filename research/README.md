@@ -15,7 +15,13 @@ These are standing directives. Do not re-litigate them; build on them.
 7. **Generality.** The wiki mechanics should serve a wide variety of use cases, not just job matching.
 8. **Test everything with subagents, cold.** If a fresh agent with limited context can't get it, it isn't intuitive enough. Rigorous testing takes time; findings and intentions must be stored physically (this directory) so they can be acted on across sessions. Single runs are existence proofs, not rates (outputs are stochastic), and a design that works on one scenario may fail on another — vary both.
 9. **Principles over rules** (2026-07-09): the conventions/charter layer should be a few principles with precedents as worked examples, compacted whenever precedents pile up or conflict — never thousands of standalone rules.
-10. **The charter** (2026-07-09): impact = displacement in joy — depth × breadth, permanence-dominant, ranked by maximum estimated bounds of displacement rather than sign (good/bad is often undecidable; magnitude is what the reader needs), counterfactual-based; joy ≠ pain-removal; categorize and prioritize, never gatekeep. See `wiki/meta/charter.md`.
+10. **Funding and goal** (recorded 2026-07-27, from the maintainer, verbatim in substance):
+    there is no funder, no sponsor, and no commercial interest — "we really do have no other
+    goal than improving humanity." One human works on this; essentially all the real work has
+    been done by AI. Decisions are made by agents and can be vetoed by the maintainer. Agents
+    with a case for a major change in direction should make it in writing, in this directory,
+    so it survives the session that made it.
+11. **The charter** (2026-07-09): impact = displacement in joy — depth × breadth, permanence-dominant, ranked by maximum estimated bounds of displacement rather than sign (good/bad is often undecidable; magnitude is what the reader needs), counterfactual-based; joy ≠ pain-removal; categorize and prioritize, never gatekeep. See `wiki/meta/charter.md`.
 
 ## Contents
 
@@ -27,6 +33,8 @@ These are standing directives. Do not re-litigate them; build on them.
 - [`findings/2026-07-09-flatten-migration.md`](findings/2026-07-09-flatten-migration.md) — the flatten: 604 pages → flat `wiki/pages/` + `**Type:**`, matches dissolved, answers pruned, 1,618 links rewritten, `wiki/meta/` + generated `wiki/views/` installed. **The live schema now lives in `wiki/meta/`; research/design copies are historical.**
 - [`findings/2026-07-09-hierarchy-probes.md`](findings/2026-07-09-hierarchy-probes.md) — structural metrics + 7 placement probes across six schema redesigns → "views over attributed storage."
 - [`design/interface-v3.md`](design/interface-v3.md) — the current best interface spec, derived from the findings. **Implement from this.**
+- [`design/static-html-is-the-second-half.md`](design/static-html-is-the-second-half.md) — 2026-07-27 decision: every wiki document is now also prerendered static HTML, because `/llms.txt` only reaches agents who were already handed the domain. Records what was accepted and rejected from `critiques/`, and what would falsify it. **Read before touching the HTML layer.**
+- [`critiques/`](critiques/) — two external audits of the live site (Claude, ChatGPT), 2026-07-27. Useful diagnosis, wrong framing; see the decision doc above for the adjudication.
 
 **The live schema and the live manual are the source of truth, not this directory:**
 `wiki/meta/conventions.md` (placement), `wiki/meta/attributes.md` (metadata registry),

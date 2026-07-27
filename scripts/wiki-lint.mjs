@@ -14,6 +14,8 @@ const VIEWS_DIR = path.join(WIKI_ROOT, "views");
 
 // Closed vocabularies from wiki/meta/attributes.md.
 const TYPE_VOCAB = ["venture", "person", "helper", "resource", "work", "guide", "source"];
+const STATUS_VOCAB = ["Stub", "Draft", "Useful"];
+const CONFIDENCE_VOCAB = ["High", "Medium", "Low"];
 const DOMAIN_VOCAB = [
   "energy",
   "health-bio",
@@ -177,8 +179,17 @@ async function lintPage(filename) {
   }
 
   // -- Status / Updated (required on every page) ------------------------
-  if (!headers.has("Status") || !headers.get("Status").value) {
+  const statusHeader = headers.get("Status");
+  if (!statusHeader || !statusHeader.value) {
     addFinding("error", "missing-attribute", filePath, "Missing required **Status:** attribute.");
+  } else if (!STATUS_VOCAB.includes(statusHeader.value)) {
+    addFinding(
+      "error",
+      "invalid-status",
+      filePath,
+      `**Status:** "${statusHeader.value}" is outside the closed vocabulary (${STATUS_VOCAB.join(" · ")}).`,
+      statusHeader.line
+    );
   }
   const updatedHeader = headers.get("Updated");
   if (!updatedHeader || !updatedHeader.value) {
@@ -186,10 +197,19 @@ async function lintPage(filename) {
   }
 
   // -- Confidence (required except Type: guide) --------------------------
-  if (type !== "guide") {
-    if (!headers.has("Confidence") || !headers.get("Confidence").value) {
-      addFinding("error", "missing-attribute", filePath, "Missing required **Confidence:** attribute (required for all Types except guide).");
-    }
+  const confidenceHeader = headers.get("Confidence");
+  if (type !== "guide" && (!confidenceHeader || !confidenceHeader.value)) {
+    addFinding("error", "missing-attribute", filePath, "Missing required **Confidence:** attribute (required for all Types except guide).");
+  }
+  // Vocabulary is checked wherever the attribute appears, guides included.
+  if (confidenceHeader && confidenceHeader.value && !CONFIDENCE_VOCAB.includes(confidenceHeader.value)) {
+    addFinding(
+      "error",
+      "invalid-confidence",
+      filePath,
+      `**Confidence:** "${confidenceHeader.value}" is outside the closed vocabulary (${CONFIDENCE_VOCAB.join(" · ")}).`,
+      confidenceHeader.line
+    );
   }
 
   // -- Focus (required except Type: source) ------------------------------

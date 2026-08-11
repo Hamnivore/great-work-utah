@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
-**Focus:** Start a Business, Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding, Start a Business
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=iHub%20Utah%201555%20N%20Freedom%20Blvd%20Provo%20UT%2084604
 **Website:** https://www.ihubutah.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

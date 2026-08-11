@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT
 **Region:** San Juan County
@@ -11,15 +11,15 @@
 **Coordinates:** 37.873548, -109.342737
 **Location Precision:** exact
 **Location Source:** https://www.sanjuancountychamber.com/
-**Website:** https://www.sanjuancountychamber.com/
-**Updated:** 2026-07-14
+**Website:** https://sanjuancountychamber.com/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The San Juan County Chamber of Commerce unites local businesses to advance the county's business community. Verified on the official site (2026-07-14): the chamber invites membership to connect with community leaders, improve business outcomes, and help shape the future of business in San Juan County. Tagline: "Local solutions to local challenges."
 
-## Who It Helps
+## Who It's For
 
 San Juan County businesses in Monticello, Blanding, Bluff, and surrounding communities seeking peer networking and chamber-led advocacy.
 
@@ -27,12 +27,13 @@ San Juan County businesses in Monticello, Blanding, Bluff, and surrounding commu
 
 Chamber membership with leader networking; community-building for the county business base; join pathway on official site. Pair with county economic development for relocation and grant support.
 
-## How To Access It
+## How To Use It
 
-- Official site: https://www.sanjuancountychamber.com/
-- Join via "Join the San Juan County Chamber" on homepage
-- Also see [San Juan County Economic Development](san-juan-county-economic-development.md) for county ED programs
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://sanjuancountychamber.com/) · https://sanjuancountychamber.com/
 - Startup State listing: https://startup.utah.gov/business-resource/san-juan-county-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security
+**Domain:** aerospace-defense
 **Roles:** software-engineering, data-science
 **Stage:** Operational since 2014
 **Primary Location:** Camp Williams, Bluffdale, UT
@@ -11,7 +12,7 @@
 **Region:** Bluffdale
 **Website:** https://en.wikipedia.org/wiki/Utah_Data_Center
 **Careers:** https://www.intelligencecareers.gov/nsa
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/nsa-utah-bluffdale/1600/1100
 **Pull:** *The largest publicly known data center in Utah, classified, contractor-staffed, and the site of documented mass surveillance infrastructure — included here because any honest map of Utah's technical landscape includes it.*
@@ -29,7 +30,7 @@ The facility is a purpose-built data center for intelligence-community workloads
 
 The engineering problems are genuinely hard: exabyte-scale storage at query-latency, real-time analytics across decade-long retention windows, cooling a large compute facility in a high-elevation desert, and cybersecurity against nation-state-grade adversaries who would find the facility an attractive target.
 
-## The Ethics Question
+## Impact
 
 The facility's role in mass surveillance of communications metadata — documented in the Snowden disclosures and subsequent reporting — is the fact that most makes it unusual to include on a careers map. Mass surveillance programs have critics across the political spectrum, from civil liberties organizations to constitutional conservatives. Whether the facility's work is net-positive world-changing is contested; reasonable people disagree. This wiki notes the disagreement explicitly rather than papering over it. Anyone considering work here should engage the ethics question seriously before committing.
 

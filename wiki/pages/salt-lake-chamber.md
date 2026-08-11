@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Marketing and Sales
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,14 +12,14 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Salt+Lake+Chamber+175+East+400+South+Salt+Lake+City+UT
 **Website:** https://slchamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Salt Lake Chamber is Utah's largest business association, representing thousands of companies statewide. Verified on slchamber.com: membership includes directory listing, networking, policy advocacy, committees, signature events (Economic Outlook Summit, Women & Business Conference), job board access, and tiered membership levels from Executive through Gold.
 
-## Who It Helps
+## Who It's For
 
 Utah businesses seeking advocacy, networking, and visibility — especially Wasatch Front employers engaged in public policy, workforce, or regional economic initiatives. Startup founders benefit when they need chamber referrals, events, or policy voice rather than grant writing.
 
@@ -27,14 +27,14 @@ Utah businesses seeking advocacy, networking, and visibility — especially Wasa
 
 Online business directory, networking and member-priced events, legislative alerts and policy committees, ribbon cuttings, KSL Speaking on Business opportunities (upper tiers), job board posting, certificates of origin, discounts, Leadership Utah and Business Women's Forum programs, and Circle of Influence events at higher tiers.
 
-## How To Access It
+## How To Use It
 
-Apply via slchamber.com/membership or email info@slchamber.com to schedule a membership conversation.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://slchamber.com/) · https://slchamber.com/
-- [Membership](https://slchamber.com/membership/) · https://slchamber.com/membership/
 - Email: [info@slchamber.com](mailto:info@slchamber.com)
 - Startup State listing: https://startup.utah.gov/business-resource/salt-lake-chamber/
+
 
 ## Cost / Eligibility
 

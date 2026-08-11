@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Cottonwood Heights, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.mercatopartners.com/contact
 **Website:** https://www.mercatopartners.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -28,7 +29,7 @@ Growth-stage Utah and regional companies with meaningful revenue seeking private
 - Growth-stage private equity and venture-style capital across Mercato fund strategies
 - Strategic support for scaling companies including Traverse, Savory Restaurant Fund, Prelude, and Alpha Secondary strategies referenced on the site
 
-## How To Access
+## How To Use It
 
 - Contact through the official site
 - [Official website](https://www.mercatopartners.com/) · https://www.mercatopartners.com/

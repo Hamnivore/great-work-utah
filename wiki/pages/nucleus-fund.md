@@ -13,7 +13,7 @@
 **Location Source:** https://www.nucleusfundutah.com/
 **Website:** https://www.nucleusfundutah.com/
 **Domain:** capital-programs
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -24,7 +24,7 @@ Nucleus Fund is an early-stage investment path for Utah deep-tech ventures emerg
 
 The fund matters because Utah's most serious university-originated ventures often need capital that understands long technical timelines, IP complexity, specialized markets, and non-obvious first customers. Generic startup capital can miss this kind of company. Nucleus Fund publicly positions itself around Utah deep tech, university research, commercialization resources, and state economic impact.
 
-## Who It Helps
+## Who It's For
 
 The best-fit company is Utah-based or Utah-connected, technically ambitious, and emerging from a university or research institution. Public Nucleus pages mention fields such as water sustainability, biotechnology, AI, advanced manufacturing, life sciences, energy, defense, cyber, and other emerging technologies.
 
@@ -34,7 +34,7 @@ The public sources describe early-stage capital, mentorship, networks, commercia
 
 This should be treated as an investment path, not a general grant or free-advice resource.
 
-## How To Access It
+## How To Use It
 
 The Nucleus Fund website has an "Apply For Funding" link through an external dealflow portal. The Nucleus events page also listed Nucleus Fund introduction sessions in May and June 2026 when accessed on 2026-05-09.
 

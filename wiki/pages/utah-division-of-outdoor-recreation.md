@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://recreation.utah.gov/boating-overview-original/life-jackets-boating-safety/ten-things-you-need-to-know-before-you-boat/
 **Website:** https://recreation.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

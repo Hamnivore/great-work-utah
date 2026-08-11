@@ -4,12 +4,13 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support
+**Domain:** health-bio
 **Era:** 1967–1990 (development); December 2, 1982 (landmark implant)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://medicine.utah.edu/cardiology/about/history/artificial-heart
-**Updated:** 2026-06-25
+**Updated:** 2026-08-11
 **Pull:** *The first human to live with a fully mechanical heart proved that medicine could replace the organ it had always treated as irreplaceable.*
 **Relates:** cites [U of U Cardiology — Artificial Heart History](jarvik-7-utah-history.md) · https://greatutah.work/pages/jarvik-7-utah-history.md · https://medicine.utah.edu/cardiology/about/history/artificial-heart
 **Relates:** cites [Smithsonian — Dr. Jarvik Presents Artificial Hearts](jarvik-7-smithsonian.md) · https://greatutah.work/pages/jarvik-7-smithsonian.md · https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history
@@ -28,7 +29,7 @@ Before the Jarvik-7 implant, replacing the human heart with a machine was theore
 
 The FDA's experience evaluating the Jarvik-7 trial also helped shape how implantable devices are regulated. Kolff's artificial organs program simultaneously advanced hemodialysis dialysis research; Salt Lake City became the world center of artificial-organ research for decades, a role that seeded the broader Utah medical-device ecosystem.
 
-## What Was Created
+## What It Took
 
 A pneumatically driven artificial heart built from polyurethane and aluminum, sized to fit inside a human chest cavity, and connected to an external air compressor via percutaneous pneumatic lines. The device had two ventricles that alternately inflated and deflated to pump blood through the pulmonary and systemic circulation. Barney Clark's heart was removed; the Jarvik-7 took its place entirely.
 

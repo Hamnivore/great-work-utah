@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT
 **Region:** San Juan County
@@ -12,14 +12,14 @@
 **Location Precision:** exact
 **Location Source:** https://sanjuancountyut.gov/econdev/page/monticello-coworking-space
 **Website:** https://www.sjcutaheconomicdevelopment.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 San Juan County Economic Development promotes business growth across Utah's Canyon Country — the state's largest county by area, spanning Monticello, Blanding, and Bluff. Verified on the official site (2026-07-14): the department publishes relocation resources, employment information, community profiles, and a business-support hub linking to SBDC, APEX Accelerators, GOEO, and RCAC partners. Utah GOED lists director Talia Hansen at 117 South Main Street, Monticello.
 
-## Who It Helps
+## Who It's For
 
 Businesses relocating to or expanding within San Juan County, remote workers considering the four-corners region, and local operators seeking county-coordinated grant or partner referrals (Startup State testimonials reference pandemic-era small-business grant help).
 
@@ -27,12 +27,14 @@ Businesses relocating to or expanding within San Juan County, remote workers con
 
 Relocation guides (city websites, shuttle services, real estate contacts); business-support partner directory (SBDC, APEX, GOEO, RCAC); county growth and planning messaging; tourism and quality-of-life positioning for southeastern Utah.
 
-## How To Access It
+## How To Use It
 
-- Official site: https://www.sjcutaheconomicdevelopment.com/
-- Business support partners: https://www.sjcutaheconomicdevelopment.com/support-services
-- Utah GOED contact: Talia Hansen, [thansen@sanjuancountyutah.gov](mailto:thansen@sanjuancountyutah.gov), (435) 458-3235
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.sjcutaheconomicdevelopment.com/) · https://www.sjcutaheconomicdevelopment.com/
+- Email: [thansen@sanjuancounty.org](mailto:thansen@sanjuancounty.org)
 - Startup State listing: https://startup.utah.gov/business-resource/san-juan-county-economic-development/
+
 
 ## Cost / Eligibility
 

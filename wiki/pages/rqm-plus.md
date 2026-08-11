@@ -4,11 +4,12 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** medical devices, diagnostics, regulatory affairs, quality systems, clinical trials, reimbursement, medtech startups
+**Domain:** health-bio
 **Primary Location:** unknown
 **Utah Location:** no verified Utah presence
 **Region:** no verified Utah presence
 **Website:** https://www.rqmplus.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +22,7 @@ The official site explicitly names emerging medtech and startups, medical device
 
 Utah has meaningful medical-device and life-sciences activity, but a founder's most dangerous gap may be a specific FDA, quality-system, clinical, biocompatibility, reimbursement, or post-market issue. A national specialist like RQM+ can be relevant when the local question is too specialized for a general business advisor.
 
-## How They Help
+## Who They Help
 
 RQM+ publicly describes support across regulatory and quality, clinical trials, lab and material science, and reimbursement. Its site says it supports concept-to-post-market work and offers outsourcing, professional consulting, and staff augmentation. It also describes device-type focus areas including medical devices, IVDs, software-enabled products, combination products, companion diagnostics, and emerging medtech/startups.
 

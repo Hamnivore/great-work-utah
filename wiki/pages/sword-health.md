@@ -11,7 +11,8 @@
 **Region:** Salt Lake City
 **Website:** https://swordhealth.com/
 **Careers:** https://jobs.lever.co/swordhealth
-**Updated:** 2026-07-14
+**Domain:** health-bio
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/sword-health-digital-pt-2026/1600/1100
 **Pull:** *Physical therapy, at home, guided by AI and supervised by a real clinician — and a serious bet that this is just as good as being in the clinic.*

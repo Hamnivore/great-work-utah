@@ -3,19 +3,20 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Morgan, UT
 **Utah Location:** Morgan County, UT
 **Region:** Morgan County
 **Website:** https://www.morganutahchamber.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Morgan Utah Chamber of Commerce is listed on Startup State as a Morgan County business networking resource. As of 2026-07-14, the listed domain `morganutahchamber.org` redirects to a generic lander page with no chamber programs, events, or contact information — the official site could not be verified live. Utah GOED's statewide economic-development directory lists Morgan County economic development separately through Morgan County government (`morgancountyutah.gov`).
 
-## Who It Helps
+## Who It's For
 
 Morgan County businesses and operators seeking local chamber networking, if the organization is still active. Until a working official site is confirmed, treat Morgan County government economic-development contacts as the safer starting point for county-level business support.
 
@@ -23,7 +24,7 @@ Morgan County businesses and operators seeking local chamber networking, if the 
 
 Startup State and prior imports describe chamber-style support: business advocacy, networking, and community events. None of this could be confirmed on the current `morganutahchamber.org` landing page.
 
-## How To Access It
+## How To Use It
 
 - Check whether https://www.morganutahchamber.org/ has been restored; if still a lander, contact Morgan County economic development via Utah GOED's statewide contacts directory.
 - Email on the Startup State card: [info@morganutahchamber.org](mailto:info@morganutahchamber.org) (delivery not verified 2026-07-14).

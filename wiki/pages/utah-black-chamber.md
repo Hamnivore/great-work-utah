@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.linkedin.com/company/utah-black-chamber
 **Website:** https://www.utahblackchamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,11 +29,12 @@ The chamber describes immersive events, informational webinars, financial sponso
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.utahblackchamber.com/) · https://www.utahblackchamber.com/
-- Phone: 801-747-9134
 - Email: [info@utahblackchamber.com](mailto:info@utahblackchamber.com)
-- Mailing: 350 E 400 S, #250, Salt Lake City, UT 84111
 - Startup State listing: https://startup.utah.gov/business-resource/utah-black-chamber/
+
 
 ## Cost / Eligibility
 

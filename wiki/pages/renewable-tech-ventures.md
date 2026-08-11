@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
-**Focus:** Funding
+**Focus:** Funding, Other
+**Domain:** capital-programs, energy
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://pscdocs.utah.gov/electric/16docs/16035T09/288519UtBusLtrRESched348-9-16.pdf
 **Website:** https://www.renewablevc.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -28,7 +29,7 @@ Early-stage cleantech, energy, advanced materials, and related founders seeking 
 - Early-stage venture capital for clean technology and energy innovation
 - Market intelligence, active board participation, and co-investor network access
 
-## How To Access
+## How To Use It
 
 - Contact through the official site
 - [Official website](https://www.renewablevc.com/) · https://www.renewablevc.com/

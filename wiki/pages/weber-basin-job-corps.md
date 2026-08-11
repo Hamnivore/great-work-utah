@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Start a Business
+**Focus:** Late Stage Growth
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
 **Region:** Ogden
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://weberbasin.jobcorps.gov/contact
 **Website:** https://weberbasin.jobcorps.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,11 @@ Hands-on career-technical instruction in multiple trades; residential housing an
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://weberbasin.jobcorps.gov/) · https://weberbasin.jobcorps.gov/
-- Use apply or contact pages for admissions and program availability
 - Startup State listing: https://startup.utah.gov/business-resource/weber-basin-job-corps/
+
 
 ## Cost
 

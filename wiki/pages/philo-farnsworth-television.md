@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** invention, television, electronics, signal scanning, Utah-born inventors
+**Domain:** culture-place, computing
 **Era:** 1906-1971 (life); 1927 first electronic transmission
 **Primary Location:** San Francisco, CA; Philadelphia, PA
 **Utah Location:** Beaver, UT
@@ -13,7 +14,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.roadsideamerica.com/story/27927
 **Website:** https://www.census.gov/about/history/stories/monthly/2023/september-2023.html
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Relates:** cites [U.S. Census Bureau — Philo Farnsworth and the Invention of Television (2023)](farnsworth-census-bureau-history.md) · https://greatutah.work/pages/farnsworth-census-bureau-history.md · https://www.census.gov/about/history/stories/monthly/2023/september-2023.html
 **Relates:** cites [Linda Hall Library — Philo Farnsworth Scientist of the Day](farnsworth-linda-hall-library.md) · https://greatutah.work/pages/farnsworth-linda-hall-library.md · https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/
 **Pull:** *A Utah-born farm boy sketched the idea for electronic television on a high-school chalkboard — and beat RCA to the patent.*
@@ -32,7 +33,7 @@ Every television broadcast, video call, and electronic image sensor traces conce
 
 Farnsworth also won one of the most consequential patent fights in technology history. In a patent-interference suit brought by the Radio Corporation of America (RCA), the U.S. Patent Office ruled in 1935 that Farnsworth — not RCA's Vladimir Zworykin — held priority; the decisive evidence was Tolman's preserved sketch of the chalkboard drawing from 1922. RCA appealed and lost. In 1939, after more than a decade of litigation, RCA agreed to license Farnsworth's patents for $1 million, a rare instance of RCA paying royalties rather than collecting them.
 
-## What Was Created
+## What It Took
 
 Farnsworth's system had two crucial vacuum-tube components: the image dissector (the camera tube) and a receiver display tube. In the camera, a lens focused light onto a photosensitive plate (coated with cesium) that emitted electrons in proportion to the light; circuitry scanned and amplified that electron pattern and transmitted it; the receiver turned the signal back into a visible image. The breakthrough was that the whole chain was electronic — no spinning disks or mechanical scanning.
 

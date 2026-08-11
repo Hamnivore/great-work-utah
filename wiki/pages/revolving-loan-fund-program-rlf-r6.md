@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County
 **Region:** Central Utah
@@ -11,8 +12,8 @@
 **Coordinates:** 38.7760654, -112.0833003
 **Location Precision:** exact
 **Location Source:** https://r6.utah.gov/contact/
-**Website:** https://r6.utah.gov/
-**Updated:** 2026-07-14
+**Website:** https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,7 +30,7 @@ New and expanding small businesses in the six-county R6 service area that need g
 
 Revolving loans described in indexed program materials as up to $150,000 for eligible uses including jobs, working capital, equipment, and real estate. Loans are intended to revolve as repayments fund future borrowers.
 
-## How To Access It
+## How To Use It
 
 - Contact Amy Rosquist, Revolving Loan Fund Manager: [arosquist@R6.utah.gov](mailto:arosquist@R6.utah.gov) · 435-893-0720
 - R6 Regional Council: https://r6.utah.gov/
@@ -46,7 +47,7 @@ Program materials reference competitive fixed interest rates and gap-financing t
 Central Utah businesses with a bankable plan, documented financing gap, and job-creation or retention story in the R6 counties. A weak fit for companies outside the lending area or seeking equity investment.
 
 
-## Evidence## Evidence
+## Evidence
 
 - Former dedicated RLF path (404 as of 2026-07-14): https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/
 

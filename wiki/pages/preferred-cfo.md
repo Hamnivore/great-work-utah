@@ -4,11 +4,12 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** fractional CFO, outsourced finance, forecasting, cash-flow management, fundraising prep, outsourced HR
+**Domain:** capital-programs
 **Primary Location:** Salem, UT
 **Utah Location:** Salem, UT
 **Region:** Salem
 **Website:** https://preferredcfo.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -23,7 +24,7 @@ There's a common gap between "we have a bookkeeper" and "we can afford a full-ti
 
 A fractional CFO fills that gap by bringing executive-level financial judgment part-time and at a fraction of a full-time CFO's cost. Preferred CFO's public materials center exactly on this: forecasting, cash-flow management, reporting visibility, and fundraising preparation.
 
-## How They Help
+## Who They Help
 
 From the firm's public service descriptions, Preferred CFO can help with:
 

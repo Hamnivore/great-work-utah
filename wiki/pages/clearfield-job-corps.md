@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Start a Business
+**Focus:** Late Stage Growth
 **Primary Location:** Clearfield, UT
 **Utah Location:** Clearfield, UT
 **Domain:** culture-place
@@ -13,7 +13,7 @@
 **Coordinates:** 41.0892370, -112.0266517
 **Location Precision:** exact
 **Location Source:** https://clearfield.jobcorps.gov/contact
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -30,9 +30,11 @@ Career technical training, academic support toward high school diploma or GED, r
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://clearfield.jobcorps.gov/) · https://clearfield.jobcorps.gov/
-- Use the site's apply or contact flows for admissions and program availability
 - Startup State listing: https://startup.utah.gov/business-resource/clearfield-job-corps/
+
 
 ## Cost
 

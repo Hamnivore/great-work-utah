@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Kaysville, UT
 **Utah Location:** Kaysville, UT
 **Region:** Kaysville
 **Website:** https://davischamberofcommerce.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,9 +25,12 @@ Chamber membership with networking events, member directory, 2026 sponsorship pa
 
 ## How To Access It
 
-- Join and explore events: https://davischamberofcommerce.com/
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://davischamberofcommerce.com/) · https://davischamberofcommerce.com/
 - Email: [info@davischamberofcommerce.com](mailto:info@davischamberofcommerce.com)
 - Startup State listing: https://startup.utah.gov/business-resource/davis-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

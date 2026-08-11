@@ -22,13 +22,13 @@ The Utah Population Database is a linked genealogical and medical-records databa
 
 The result is a rare research instrument: large family trees connected to health outcomes across generations. Researchers use it to study hereditary disease patterns, identify high-risk families, and search for genetic contributors to cancer, heart disease, diabetes, and other conditions.
 
-## Why It Matters
+## Impact
 
 Genetic epidemiology often struggles with incomplete family histories and small samples. Utah's genealogical record tradition created an unusual foundation: many families with documented relationships across multiple generations, living in a state with linkable medical and vital records.
 
 When connected carefully and governed tightly, those records make it possible to see inherited risk patterns that would be hard to detect elsewhere. The database helped make the University of Utah unusually strong in cancer genetics and population-health research.
 
-## What Was Built
+## What It Took
 
 The hard problem was not simply gathering records. It was linking names, dates, relationships, diagnoses, births, deaths, marriages, cancer registry entries, and hospital records across datasets created by different institutions for different purposes over long periods of time.
 

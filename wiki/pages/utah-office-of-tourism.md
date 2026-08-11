@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Marketing and Sales, Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://business.utah.gov/contact/
 **Website:** https://travel.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

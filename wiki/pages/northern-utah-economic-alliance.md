@@ -3,19 +3,20 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Relocate a Business to Utah, Marketing and Sales
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Farmington, UT
 **Utah Location:** Davis County, UT; Weber County, UT
 **Region:** Northern Utah
 **Website:** https://nuea.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Northern Utah Economic Alliance (NUEA) promotes economic growth in Davis and Weber counties by attracting and retaining businesses. Verified on nuea.org: NUEA collaborates with local governments and stakeholders on site selection, commercial real estate listings, relocation guides, and regional marketing for northern Utah's defense, manufacturing, and outdoor-recreation economy.
 
-## Who It Helps
+## Who It's For
 
 Companies expanding or relocating to Davis or Weber counties; site selectors evaluating northern Utah; existing employers seeking regional workforce and quality-of-life data — less direct support for pre-revenue idea-stage founders.
 
@@ -23,7 +24,7 @@ Companies expanding or relocating to Davis or Weber counties; site selectors eva
 
 Business and investment resources, commercial real estate database (listed and unlisted), relocation guide, regional research, labor and infrastructure information, and direct contact with NUEA president Chris Roybal for expansion questions.
 
-## How To Access It
+## How To Use It
 
 Browse Business & Investment and Commercial Real Estate on nuea.org, or contact NUEA staff.
 

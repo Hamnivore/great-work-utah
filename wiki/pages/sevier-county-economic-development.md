@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Sevier County, UT
 **Utah Location:** Sevier County, UT
 **Region:** Sevier County
@@ -11,15 +11,15 @@
 **Coordinates:** 38.7716015, -112.0847058
 **Location Precision:** exact
 **Location Source:** https://sevieredc.com/contact-us/
-**Website:** https://sevieredc.com/
-**Updated:** 2026-07-14
+**Website:** https://scedc.com/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 Sevier County Economic Development promotes business relocation and expansion in central Utah's Sevier County. Verified on `sevieredc.com` (2026-07-14): the office connects businesses with planning resources, describes Salina and Richfield business parks for light manufacturing and distribution, and lists incentives including Enterprise Zone tax credits, local land write-downs, and tax-increment financing. Note: Startup State's listed URL `scedc.com` is a Tennessee organization — the correct Utah site is `sevieredc.com`.
 
-## Who It Helps
+## Who It's For
 
 Companies evaluating Sevier County for relocation or expansion, especially light manufacturing, warehousing, distribution, and business services needing I-70 access and lower operating costs.
 
@@ -27,11 +27,14 @@ Companies evaluating Sevier County for relocation or expansion, especially light
 
 Site-selection support for Salina Commercial Center and Richfield Business Park; information on qualifying incentives (enterprise zone credits, land write-downs, TIF); connections to local business resources for market research, planning, and expansion financing; executive administrator contact at 250 North Main Street, Richfield.
 
-## How To Access It
+## How To Use It
 
-- Official site: https://sevieredc.com/
-- Contact page: https://sevieredc.com/contact-us/ — Malcolm Nash, (435) 893-0454, [malcolmn@sevierutah.net](mailto:malcolmn@sevierutah.net)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://scedc.com/) · https://scedc.com/
+- Email: [allennewton@hotmail.com](mailto:allennewton@hotmail.com)
 - Startup State listing: https://startup.utah.gov/business-resource/sevier-county-economic-development/
+
 
 ## Cost / Eligibility
 

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding
+**Focus:** Other
 **Primary Location:** Washington, DC
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.eda.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,10 +25,11 @@ Federal grants (e.g., Public Works, Economic Adjustment, Build to Scale, disaste
 
 ## How To Access It
 
-Monitor eda.gov funding opportunities; coordinate through your regional EDD or state ED office when preparing an EDA application.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://www.eda.gov/) · https://www.eda.gov/
 - Startup State listing: https://startup.utah.gov/business-resource/federal-economic-development-administration/
+
 
 ## Cost / Eligibility
 

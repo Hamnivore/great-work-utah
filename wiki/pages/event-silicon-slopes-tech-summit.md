@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth, Funding
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Lehi, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.siliconslopes.com/c/events/summit-2026-innovation-doesn-t-slow-down
 **Website:** https://www.siliconslopes.com/summit
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

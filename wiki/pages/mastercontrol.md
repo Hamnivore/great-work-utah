@@ -1,0 +1,76 @@
+# MasterControl
+
+**Type:** venture
+**Status:** Draft
+**Confidence:** Medium
+**Focus:** quality management software, manufacturing execution systems, life sciences compliance, GxP, regulated manufacturing, SaaS
+**Roles:** software-engineering, product-design, program-project-management, clinical-regulatory
+**Stage:** Established, privately held; $150M Series A growth investment from Sixth Street Growth (2022) at a reported $1.3B valuation
+**Primary Location:** Cottonwood Heights, UT
+**Utah Location:** Cottonwood Heights, UT
+**Region:** Cottonwood Heights
+**Map Location:** MasterControl headquarters, Old Mill Corporate Center III, 6350 South 3000 East, Cottonwood Heights, UT 84121
+**Coordinates:** 40.633418, -111.808580
+**Location Precision:** exact
+**Location Source:** https://www.mastercontrol.com/contact/
+**Careers:** https://www.mastercontrol.com/careers/
+**Website:** https://www.mastercontrol.com
+**Domain:** health-bio, computing
+**Updated:** 2026-08-11
+**Needs-reviewed:** 2026-08-11
+**Ownership:** private
+**Hero:** https://picsum.photos/seed/mastercontrol-qms-gxp-life-sciences-2026/1600/1100
+**Pull:** *Thirty-plus years bootstrapped in Cottonwood Heights, building the quality and manufacturing software more than 1,100 regulated companies run their GxP processes on.*
+**Relates:** cites [Official Website: MasterControl](mastercontrol-official-website.md) · https://greatutah.work/pages/mastercontrol-official-website.md · https://www.mastercontrol.com
+
+## Summary
+
+MasterControl is a Cottonwood Heights, Utah software company that builds quality management (QMS) and manufacturing execution (MES) software for life sciences and other regulated manufacturers — pharmaceutical, medical device, biotech, and nutraceutical companies that must run documented, audit-ready quality and production processes under FDA and other regulatory regimes (collectively "GxP" — Good Manufacturing, Laboratory, Clinical, and related Practices). Founded in 1993 in Salt Lake City as Document Control Systems and rebranded to MasterControl in 2007, the company says its cloud-based platform — marketed as Qx (quality), Mx (manufacturing execution), and, since a 2025 acquisition, an asset-management line built on Qualer — is used by more than 1,100 companies worldwide, including large pharmaceutical and device makers. [Source: MasterControl Official Website](mastercontrol-official-website.md) · https://greatutah.work/pages/mastercontrol-official-website.md · https://www.mastercontrol.com
+
+MasterControl bootstrapped for nearly thirty years before taking its first outside capital — a $150 million Series A growth investment from Sixth Street Growth in December 2022 that valued the company at roughly $1.3 billion — and remained privately held afterward under longtime CEO Jon Beckstrand. In 2024 the Utah Governor's Office of Economic Opportunity approved an EDTIF tax credit and Economic Development Zone tied to a projected 155-job expansion at the company's Cottonwood Heights headquarters, formally naming Cottonwood Heights (rather than the "Salt Lake City, UT 84121" mailing address the company itself often uses) as the municipal home of that address. [Source: Utah GOEO EDTIF Award](mastercontrol-edtif-expansion.md) · https://greatutah.work/pages/mastercontrol-edtif-expansion.md · https://business.utah.gov/tax-credits/mastercontrol-solutions-inc-expands-in-salt-lake-county/
+
+For the Great Work Utah wiki, MasterControl is a long-missing bridge page: a genuine enterprise SaaS company — the kind of software business Silicon Slopes profiles constantly — whose entire product is regulatory infrastructure for life sciences manufacturing, a sector this wiki otherwise covers mostly through device and diagnostics makers like [BioFire Diagnostics](biofire-diagnostics.md) and [Merit Medical Systems](merit-medical.md).
+
+## Impact
+
+Every drug, medical device, and regulated biologic that reaches a patient has to pass through a paper trail of controlled documents, training records, deviations, corrective actions (CAPA), and batch records that regulators can audit years later. Historically much of that trail lived in physical binders and manual sign-offs — slow, error-prone, and a genuine bottleneck between "the product works" and "the product is approved for sale." MasterControl's pitch, largely accepted by its own long customer roster, is that digitizing and automating that trail — connecting document control, training, quality events, and now manufacturing execution and equipment/asset records into one system — measurably shortens the path from validated product to shipped product without weakening the compliance record regulators require.
+
+The impact mechanism here is indirect but broad: MasterControl does not make a drug or a device itself, but a large share of the life-sciences and regulated-manufacturing companies this wiki cares about — and many more outside Utah — run some part of their compliance infrastructure on it or a close competitor's system (Veeva, MasterControl, and a handful of others dominate this category). A quality-system outage, a slow document-approval workflow, or a mismanaged CAPA at any of MasterControl's 1,100+ customers can delay or derail the same "life-changing products" this wiki tracks elsewhere; MasterControl's stated business is making that infrastructure faster and more reliable at scale. The company's more recent push — an ISO 42001–certified AI layer (ADAPT) and AI features like an SOP-compliance analyzer — is a bet that generative AI can compress the same review-and-approval cycles further, in an industry where a wrong or hallucinated regulatory answer is a genuinely dangerous failure mode, not just an inconvenience.
+
+**Bet:** MasterControl is effectively betting that AI can be trusted inside GxP-regulated document and quality workflows — an industry where auditors, not just users, have to accept the tooling — while competitors and skeptical customers treat "AI in a validated system" as a slower, higher-scrutiny proposition than most SaaS AI adoption.
+
+## What They Are Building
+
+MasterControl's platform spans three connected product lines: Qx (quality management — document control, training, CAPA, audits, and change control), Mx (Manufacturing Excellence — digitizing shop-floor batch records and production execution, launched 2019), and an asset-management line built from its March 2025 acquisition of Qualer, a San Diego company for equipment tracking, calibration, and computerized maintenance management (CMMS), now marketed as MasterControl Asset Excellence. The company frames these as one closed-loop system on its ADAPT (Advanced Data and Process Technology) Platform, which it describes as an ISO 42001–certified AI foundation underlying newer generative-AI features such as an SOP Analyzer that checks standard operating procedures against regulatory requirements. In May 2025 MasterControl announced FedRAMP Moderate authorization for a government-focused offering, Quality Excellence Gov (Qx Gov), which it describes as the first industry-leading QMS to reach that federal cloud-security standard. [Source: MasterControl Official Website](mastercontrol-official-website.md) · https://greatutah.work/pages/mastercontrol-official-website.md · https://www.mastercontrol.com
+
+The harder-to-see product, as with most enterprise compliance software, is the accumulated domain knowledge: three decades of encoding FDA 21 CFR Part 11, ISO, and GxP requirements into workflows that both satisfy auditors and don't slow down the manufacturers using them. That regulatory fluency, more than any single feature, is the moat competitors (Veeva Vault QMS chief among them) have to match.
+
+## What They Need Now
+
+Public hiring signals point to durable emphasis on software and AI engineering for the ADAPT platform (including applied-AI and AI-process-engineering roles integrating LLM/agentic features into a validated, audited system), technical product management, implementation and customer-success roles that onboard regulated manufacturers onto Qx/Mx/asset-management modules, and quality- and regulatory-affairs-literate staff who translate GxP, 21 CFR Part 11, and ISO requirements into product and customer-facing work. Because the product is regulatory infrastructure, engineers and product people who enjoy working inside audit-and-compliance constraints — not just shipping features fast — tend to fit best.
+
+For talent matching, MasterControl suits software and AI engineers who want enterprise-scale SaaS impact across a real regulated industry rather than consumer-app iteration speed, and it suits life-sciences-adjacent professionals (quality, regulatory affairs, manufacturing operations) who want to move from a customer's compliance department into the vendor building the tooling, without leaving the Salt Lake Valley.
+
+## Who Could Help
+
+Useful helpers include FDA and EU regulatory counsel with software-as-a-medical-device-adjacent or validated-computer-system experience, ISO 42001/AI-governance auditors, enterprise SaaS sales and customer-success operators who understand long regulated-industry sales cycles, and integration partners who connect QMS/MES platforms to ERP, LIMS, and manufacturing equipment. As a large, established private company, MasterControl is more often a vendor and customer of such services than a startup seeking them, but its scale makes it a relevant node for Utah's broader life-sciences and enterprise-SaaS service clusters, including trade groups like [BIO Utah](bio-utah.md).
+
+## Utah Context
+
+MasterControl is one of Utah's largest and longest-running enterprise SaaS companies, and one of the least visible: it has operated from the Salt Lake Valley since 1993 and only took outside investment in 2022, after decades of profitable bootstrapped growth — a pattern this wiki also sees in other durable Utah software companies. Its 2024 EDTIF-backed expansion at its Cottonwood Heights headquarters, projected at roughly 155 new jobs over six years, is a concrete signal that the company is still growing its Utah workforce rather than shifting headcount elsewhere. MasterControl sits at a genuine crossroads of two clusters this wiki tracks separately — Utah's Silicon Slopes software industry and its life-sciences/medtech employers such as [BioFire Diagnostics](biofire-diagnostics.md), [Merit Medical Systems](merit-medical.md), [Recursion Pharmaceuticals](recursion-pharmaceuticals.md), and [Health Catalyst](health-catalyst.md) — and is a natural landing page for a job-seeker searching for "medtech software," "quality software," or "GxP" roles in Utah who would otherwise only find device makers or pure-play consumer/enterprise software companies.
+
+## Evidence
+
+- [Official Website: MasterControl](mastercontrol-official-website.md) · https://greatutah.work/pages/mastercontrol-official-website.md · https://www.mastercontrol.com
+- [Utah GOEO EDTIF Award: MasterControl Solutions Expansion](mastercontrol-edtif-expansion.md) · https://greatutah.work/pages/mastercontrol-edtif-expansion.md · https://business.utah.gov/tax-credits/mastercontrol-solutions-inc-expands-in-salt-lake-county/
+- [Forbes — "First Outside Investment In 30 Years Makes Life Sciences Software Firm A Unicorn"](https://www.forbes.com/sites/amyfeldman/2022/12/15/first-outside-investment-in-30-years-makes-life-sciences-software-firm-a-unicorn/) (secondary reporting on the Sixth Street Growth investment, valuation, and customer count) · https://www.forbes.com/sites/amyfeldman/2022/12/15/first-outside-investment-in-30-years-makes-life-sciences-software-firm-a-unicorn/
+- [Utah Business — "How Jon Beckstrand built MasterControl into a $1.3B brand"](https://www.utahbusiness.com/entrepreneurship/2023/05/11/how-jon-beckstrand-built-mastercontrol-management-software/) (secondary reporting on company history and founding) · https://www.utahbusiness.com/entrepreneurship/2023/05/11/how-jon-beckstrand-built-mastercontrol-management-software/
+
+## Open Questions
+
+- **Cottonwood Heights vs. Salt Lake City.** MasterControl's own contact page lists its headquarters mailing address as "Salt Lake City, UT 84121," while the Utah GOEO EDTIF award, the underlying GOEO board minutes, and EDCUtah's press release all explicitly describe the same 6350 South 3000 East address as "Cottonwood Heights, Utah." This page follows the government sources and uses Cottonwood Heights, but [Instructure](instructure.md) — headquartered a few doors down at 6330 South 3000 East in the same Old Mill office park — is currently attributed to "Salt Lake City, UT" in this wiki. An editor should decide whether Instructure's Primary/Utah Location should be corrected to Cottonwood Heights for consistency, or whether there is a real distinction (e.g., an annexation boundary bisecting the office park) that justifies treating the two buildings differently.
+- **EDTIF incentive size discrepancy.** GOEO's public award page and its incented-companies dataset describe a 20%-of-new-state-revenue, 6-year EDTIF credit for MasterControl's expansion, while GOEO board meeting minutes from June/July 2024 describe a 25%, 10-year, $2,015,029 credit tied to the same Economic Development Zone action. This page does not resolve which figure is authoritative.
+- **Employee count and current growth trajectory.** Public estimates vary widely and are all secondary/self-reported: MasterControl's own materials describe growth and "117 new hires in 2024," while third-party data aggregators report employee counts in the low hundreds with a recent year-over-year decline. Neither figure is confirmed against an audited or filed source; MasterControl does not publicly disclose financials or headcount as a private company.
+- **Revenue and current valuation.** The $1.3B valuation and roughly $100M+ ARR figures date to the December 2022 Sixth Street Growth investment and have not been updated from a primary source since; current scale should be verified before use in any recommendation.
+- **AI-in-GxP adoption depth.** How much of MasterControl's customer base has actually adopted the newer ADAPT/SOP Analyzer AI features in production validated systems, versus pilot use, is not established here — the company's own material notes that AI adoption industry-wide is still largely in a pilot phase.
+- Imagery is a deterministic placeholder. A license-cleared photograph of the Cottonwood Heights headquarters or product screenshot, approved by the company, should replace it before this page is used as a marquee reference.

@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Church+and+State+370+South+300+East+Salt+Lake+City+UT
 **Website:** https://www.cs1893.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,11 @@ Daytime coworking and marketplace atmosphere; tenant spaces for independent smal
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.cs1893.com/) · https://www.cs1893.com/
-- Hours: 8am–5pm daily (per official site)
-- Event inquiries: "Let's Plan Your Event!" flow on the site
 - Startup State listing: https://startup.utah.gov/business-resource/church-and-state/
+
 
 ## Cost
 

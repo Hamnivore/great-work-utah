@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Marketing and Sales, Start a Business
+**Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,8 @@
 **Location Precision:** exact
 **Location Source:** https://business.utah.gov/contact/
 **Website:** https://business.utah.gov/apex/
-**Updated:** 2026-07-14
+**Domain:** capital-programs, aerospace-defense
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

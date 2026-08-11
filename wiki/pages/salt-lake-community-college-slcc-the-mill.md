@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Funding, Marketing and Sales
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
 **Region:** Sandy
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=The+Mill+at+SLCC+9690+South+300+West+Sandy+UT
 **Website:** https://themillatslcc.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ Business incubator programming organized around Work Here (workspace), Learn Her
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://themillatslcc.com/) · https://themillatslcc.com/
-- Submit the Get Started form on the homepage; email [info@themillatmiller.com](mailto:info@themillatmiller.com)
+- Email: [info@themillatmiller.com](mailto:info@themillatmiller.com)
 - Startup State listing: https://startup.utah.gov/business-resource/salt-lake-community-college-slcc-the-mill/
+
 
 ## Cost
 

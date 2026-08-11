@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Other
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Rich County, UT
 **Utah Location:** Rich County, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Rich County
 **Website:** http://www.bearlakeregionalcommission.org/
@@ -26,11 +26,12 @@ The commission publishes regional planning documents, meeting agendas, and resou
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](http://www.bearlakeregionalcommission.org/) · http://www.bearlakeregionalcommission.org/
-- Phone: 435-946-2198
-- Email: [mitch@bearlakeregionalcommission.org](mailto:mitch@bearlakeregionalcommission.org) · [BLRegionalCommission@gmail.com](mailto:BLRegionalCommission@gmail.com)
-- Mailing: P.O. Box 472, Garden City, UT 84028
+- Email: [cjensen@cut.net](mailto:cjensen@cut.net)
 - Startup State listing: https://startup.utah.gov/business-resource/bear-lake-regional-commission/
+
 
 ## Cost / Eligibility
 

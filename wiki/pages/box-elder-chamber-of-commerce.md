@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Box Elder County, UT
 **Utah Location:** Box Elder County, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Box Elder County
 **Map Location:** Box Elder Chamber of Commerce, 75 S Main St, Brigham City, UT 84302
@@ -30,12 +30,12 @@ Member benefits described on the official site include business support, communi
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.boxelderchamber.com/) · https://www.boxelderchamber.com/
-- Phone: 435-723-3931
 - Email: [monica@boxelderchamber.com](mailto:monica@boxelderchamber.com)
-- [Membership application](https://members.boxelderchamber.com/member/newmemberapp) · https://members.boxelderchamber.com/member/newmemberapp
-- [Events calendar](https://members.boxelderchamber.com/events/calendar) · https://members.boxelderchamber.com/events/calendar
 - Startup State listing: https://startup.utah.gov/business-resource/box-elder-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

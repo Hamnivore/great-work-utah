@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Funding, Marketing and Sales
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
 **Region:** Sandy
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=The+Mill+9690+S+300+W+Sandy+UT+84070
 **Website:** https://themillatslcc.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,12 @@ Coworking and incubator workspace ("Work Here"); education tracks ("Learn Here")
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://themillatslcc.com/) · https://themillatslcc.com/
-- Submit the "Get Started Today" intake form on the homepage
 - Email: [info@themillatmiller.com](mailto:info@themillatmiller.com)
 - Startup State listing: https://startup.utah.gov/business-resource/the-mill-entrepreneurship-center/
+
 
 ## Cost
 

@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** Beaver County, UT; Iron County, UT; Garfield County, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Beaver-Iron-Garfield region
 **Map Location:** 510 W 800 S, Cedar City, UT 84720
@@ -30,10 +30,12 @@ Tri-county business directory; membership join pathway; business networking even
 
 ## How To Access It
 
-- Official site: https://www.bigchamber.org/
-- Join: "Join BIG Chamber" on homepage
-- Events and news blog on site
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.bigchamber.org/) · https://www.bigchamber.org/
+- Email: [office@bigchamber.org](mailto:office@bigchamber.org)
 - Startup State listing: https://startup.utah.gov/business-resource/big-chamber-beaver-iron-garfield/
+
 
 ## Cost / Eligibility
 

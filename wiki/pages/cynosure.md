@@ -8,7 +8,7 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://cynosuregroup.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,8 +27,11 @@ Institutional investment access across private growth equity, private credit, po
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://cynosuregroup.com/) · https://cynosuregroup.com/
 - Startup State listing: https://startup.utah.gov/business-resource/cynosure/
+
 
 ## Cost
 
@@ -39,7 +42,7 @@ Cynosure is a private investment and advisory firm. The public site does not lis
 High-net-worth families, foundations, and institutions evaluating alternative asset allocation. A weak fit for typical Startup State founders at idea or seed stage unless they are family-office principals evaluating capital deployment.
 
 
-## Evidence## Evidence
+## Evidence
 
 - [Official website](https://cynosuregroup.com/) · https://cynosuregroup.com/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/

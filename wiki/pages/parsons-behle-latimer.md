@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** technology law, IP transactions, licensing, securities, emerging companies, venture financing
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://parsonsbehle.com/locations/law-firms-salt-lake-city
 **Website:** https://parsonsbehle.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +28,7 @@ For software, hardware, and deep-tech companies, the legal value often sits at t
 
 Parsons' public capability pages target exactly those seams — technology/IP transactions on one side, securities and capital markets on the other — which is why it belongs on a Utah founder's shortlist for IP-heavy deals.
 
-## How They Help
+## Who They Help
 
 From the firm's public capability pages, Parsons Behle & Latimer can help a founder with:
 

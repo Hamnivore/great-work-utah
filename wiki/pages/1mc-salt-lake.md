@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Website:** https://1mcslc.com/
-**Updated:** 2026-07-14
+**Website:** http://www.1mcslc.com
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,11 +27,12 @@ Weekly in-person community events, presenter slots, networking with peers and lo
 
 ## How To Access It
 
-- Attend weekly: Wednesdays at 9 a.m., The Neighborhood Hive, 2065 E 2100 S, Salt Lake City, UT 84108
-- [Apply to present](https://1mcslc.com/apply-to-present) · https://1mcslc.com/apply-to-present
-- [Official website](https://1mcslc.com/) · https://1mcslc.com/
-- Email: [info@1mcslc.com](mailto:info@1mcslc.com), [1mc@sustainablestartups.org](mailto:1mc@sustainablestartups.org)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](http://www.1mcslc.com) · http://www.1mcslc.com
+- Email: [Robert@1mcslc.com](mailto:Robert@1mcslc.com)
 - Startup State listing: https://startup.utah.gov/business-resource/1mc-salt-lake/
+
 
 ## Cost / Eligibility
 

@@ -11,8 +11,8 @@
 **Coordinates:** 37.081333, -113.606188
 **Location Precision:** exact
 **Location Source:** https://fivecountyecon.org/contact/
-**Website:** https://www.fivecounty.utah.gov/
-**Updated:** 2026-07-14
+**Website:** http://www.fivecounty.utah.gov/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +21,7 @@ The Five County Association of Governments (FCAOG) is a voluntary interlocal age
 
 Main offices are in St. George with a satellite office in Cedar City.
 
-## Who It Helps
+## Who It's For
 
 Municipal leaders, regional planners, small businesses, and residents across the five-county area seeking interlocal program delivery, economic-development district services, or small-business financing pathways.
 
@@ -29,12 +29,14 @@ Municipal leaders, regional planners, small businesses, and residents across the
 
 Regional planning and federal/state program administration, Economic Development District status, small-business financing support (per mission statement), aging and human-services programs, transportation planning, and staff expertise for local elected officials. Quick links cover administration, aging services, child-care resources, community support, and transportation.
 
-## How To Access It
+## How To Use It
 
-- [Official website](https://www.fivecounty.utah.gov/) · https://www.fivecounty.utah.gov/
-- Program overview: https://www.fivecounty.utah.gov/fcaog/
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](http://www.fivecounty.utah.gov/) · http://www.fivecounty.utah.gov/
 - Email: [info@fivecounty.utah.gov](mailto:info@fivecounty.utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/five-county-association-of-governments/
+
 
 ## Cost / Eligibility
 

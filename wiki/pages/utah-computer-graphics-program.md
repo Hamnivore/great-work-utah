@@ -22,13 +22,13 @@ The University of Utah computer graphics program was one of the most consequenti
 
 The alumni list became a map of modern computing: Ed Catmull went on to co-found Pixar, John Warnock co-founded Adobe, Jim Clark founded Silicon Graphics and later Netscape, Alan Kay carried ideas from Utah into Xerox PARC and object-oriented programming, Henri Gouraud and Bui Tuong Phong gave their names to shading techniques, and Martin Newell created the Utah teapot. The public claim should be made carefully, but the lineage is real: a great deal of how synthetic images are modeled, lit, rendered, and commercialized passed through Utah.
 
-## Why It Matters
+## Impact
 
 Before the Utah program, computer graphics was mostly specialized research and bespoke hardware. Utah made it a school: a place where graduate students could attack hidden-surface removal, smooth shading, texture mapping, interactive geometry, simulation, and human-computer interaction as connected problems.
 
 That mattered commercially because the lab's graduates did not merely publish techniques. They founded and shaped companies that became infrastructure for design, entertainment, publishing, scientific visualization, web browsers, and GPU-era visual computing. Pixar, Adobe, Silicon Graphics, Evans & Sutherland, and parts of the Xerox PARC tradition all belong in the orbit.
 
-## What Was Built
+## What It Took
 
 The program produced algorithms, objects, people, and companies. Warnock's hidden-surface work sits in the prehistory of PostScript and PDF. Catmull's Utah-era work on texture mapping and curved surfaces became part of production rendering. Gouraud and Phong shading taught computers how to make polygonal objects read as smooth and lit. The Utah teapot became the field's shared test object because it was ordinary enough to understand and geometrically rich enough to reveal rendering flaws.
 

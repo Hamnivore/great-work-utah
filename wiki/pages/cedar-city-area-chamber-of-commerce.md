@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Cedar City
 **Map Location:** 510 West 800 South, Cedar City, UT 84720
@@ -30,11 +30,12 @@ Member directory; events calendar; join and member login; chamber contact and ac
 
 ## How To Access It
 
-- Official site: https://www.cedarcitychamber.org/
-- Phone: (435) 586-4484
-- Email: [office@cedarcitychamber.org](mailto:office@cedarcitychamber.org)
-- Address: 510 W 800 S, Cedar City, UT 84720
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.cedarcitychamber.org/) · https://www.cedarcitychamber.org/
+- Email: [mrc@cedarcitychamber.org](mailto:mrc@cedarcitychamber.org)
 - Startup State listing: https://startup.utah.gov/business-resource/cedar-city-area-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

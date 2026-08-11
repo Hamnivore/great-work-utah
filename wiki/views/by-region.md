@@ -1,11 +1,11 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (397 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (410 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
 - [Domo](/pages/domo.md) · `https://greatutah.work/pages/domo.md` · computing
-- [LiveView Technologies (LVT)](/pages/liveview-technologies.md) · `https://greatutah.work/pages/liveview-technologies.md` · venture
+- [LiveView Technologies (LVT)](/pages/liveview-technologies.md) · `https://greatutah.work/pages/liveview-technologies.md` · computing, aerospace-defense
 
 ## Bear River region
 
@@ -13,13 +13,16 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Beaver County
 
+- [Blundell Geothermal Plant](/pages/blundell-geothermal-plant.md) · `https://greatutah.work/pages/blundell-geothermal-plant.md` · energy
+- [Cyrq Energy](/pages/cyrq-energy.md) · `https://greatutah.work/pages/cyrq-energy.md` · energy
 - [Fervo Energy](/pages/fervo-energy.md) · `https://greatutah.work/pages/fervo-energy.md` · energy
+- [Ormat Technologies](/pages/ormat-technologies.md) · `https://greatutah.work/pages/ormat-technologies.md` · energy
 - [Tim Latimer](/pages/tim-latimer.md) · `https://greatutah.work/pages/tim-latimer.md` · energy
 - [Utah FORGE](/pages/utah-forge.md) · `https://greatutah.work/pages/utah-forge.md` · energy
 
 ## Beaver
 
-- [Philo Farnsworth and Electronic Television](/pages/philo-farnsworth-television.md) · `https://greatutah.work/pages/philo-farnsworth-television.md` · work
+- [Philo Farnsworth and Electronic Television](/pages/philo-farnsworth-television.md) · `https://greatutah.work/pages/philo-farnsworth-television.md` · culture-place, computing
 
 ## Beaver-Iron-Garfield region
 
@@ -27,7 +30,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Bluffdale
 
-- [NSA Utah Data Center](/pages/nsa-utah-data-center.md) · `https://greatutah.work/pages/nsa-utah-data-center.md` · venture
+- [NSA Utah Data Center](/pages/nsa-utah-data-center.md) · `https://greatutah.work/pages/nsa-utah-data-center.md` · aerospace-defense
 - [Vector](/pages/vector.md) · `https://greatutah.work/pages/vector.md` · aerospace-defense
 
 ## Box Elder County
@@ -57,13 +60,17 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Central Utah
 
-- [R6 Regional Council](/pages/r6-regional-council.md) · `https://greatutah.work/pages/r6-regional-council.md` · resource
-- [Revolving Loan Fund Program (RLF) - R6](/pages/revolving-loan-fund-program-rlf-r6.md) · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-r6.md` · resource
+- [R6 Regional Council](/pages/r6-regional-council.md) · `https://greatutah.work/pages/r6-regional-council.md` · capital-programs
+- [Revolving Loan Fund Program (RLF) - R6](/pages/revolving-loan-fund-program-rlf-r6.md) · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-r6.md` · capital-programs
 - [Six County Association of Governments](/pages/six-county-association-of-governments.md) · `https://greatutah.work/pages/six-county-association-of-governments.md` · resource
 
 ## Clearfield
 
 - [Clearfield Job Corps](/pages/clearfield-job-corps.md) · `https://greatutah.work/pages/clearfield-job-corps.md` · culture-place
+
+## Cottonwood Heights
+
+- [MasterControl](/pages/mastercontrol.md) · `https://greatutah.work/pages/mastercontrol.md` · health-bio, computing
 
 ## Daggett County
 
@@ -106,7 +113,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 ## Grand County
 
 - [Grand County Economic Development](/pages/grand-county-economic-development.md) · `https://greatutah.work/pages/grand-county-economic-development.md` · resource
-- [Moab Chamber of Commerce](/pages/moab-chamber-of-commerce.md) · `https://greatutah.work/pages/moab-chamber-of-commerce.md` · resource
+- [Moab Chamber of Commerce](/pages/moab-chamber-of-commerce.md) · `https://greatutah.work/pages/moab-chamber-of-commerce.md` · capital-programs
 
 ## Great Basin
 
@@ -136,6 +143,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 ## Hill Air Force Base
 
 - [309th Software Engineering Group](/pages/309th-software-engineering-group.md) · `https://greatutah.work/pages/309th-software-engineering-group.md` · aerospace-defense
+- [Hill Air Force Base](/pages/hill-air-force-base.md) · `https://greatutah.work/pages/hill-air-force-base.md` · aerospace-defense
 
 ## Hurricane
 
@@ -149,7 +157,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 ## Juab County
 
 - [Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md) · `https://greatutah.work/pages/ionic-mt.md` · energy, materials-mfg
-- [Juab County Economic Development](/pages/juab-county-economic-development.md) · `https://greatutah.work/pages/juab-county-economic-development.md` · resource
+- [Juab County Economic Development](/pages/juab-county-economic-development.md) · `https://greatutah.work/pages/juab-county-economic-development.md` · capital-programs
 
 ## Kane County
 
@@ -164,7 +172,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 - [Adobe](/pages/adobe.md) · `https://greatutah.work/pages/adobe.md` · computing
 - [Album](/pages/album.md) · `https://greatutah.work/pages/album.md` · resource
-- [Ancestry](/pages/ancestry.md) · `https://greatutah.work/pages/ancestry.md` · venture
+- [Ancestry](/pages/ancestry.md) · `https://greatutah.work/pages/ancestry.md` · computing, health-bio, culture-place
 - [Halia Therapeutics](/pages/halia-therapeutics.md) · `https://greatutah.work/pages/halia-therapeutics.md` · health-bio
 - [MX Technologies](/pages/mx-technologies.md) · `https://greatutah.work/pages/mx-technologies.md` · computing
 - [Owlet Baby Care](/pages/owlet-baby-care.md) · `https://greatutah.work/pages/owlet-baby-care.md` · venture
@@ -182,7 +190,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 ## Logan
 
 - [Araknitek](/pages/araknitek.md) · `https://greatutah.work/pages/araknitek.md` · venture
-- [Logan City Economic Development](/pages/logan-city-economic-development.md) · `https://greatutah.work/pages/logan-city-economic-development.md` · resource
+- [Logan City Economic Development](/pages/logan-city-economic-development.md) · `https://greatutah.work/pages/logan-city-economic-development.md` · capital-programs
 - [The Hub at Bridgerland Technical College](/pages/the-hub-at-bridgerland-technical-college.md) · `https://greatutah.work/pages/the-hub-at-bridgerland-technical-college.md` · resource
 - [USU Center for Integrated BioSystems](/pages/usu-integrated-biosystems.md) · `https://greatutah.work/pages/usu-integrated-biosystems.md` · venture
 - [Utah State University Center for Entrepreneurship](/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md) · `https://greatutah.work/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md` · resource
@@ -202,17 +210,17 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Monticello
 
-- [Monticello Coworking Space](/pages/monticello-coworking-space.md) · `https://greatutah.work/pages/monticello-coworking-space.md` · resource
+- [Monticello Coworking Space](/pages/monticello-coworking-space.md) · `https://greatutah.work/pages/monticello-coworking-space.md` · capital-programs
 
 ## Morgan County
 
-- [Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md) · `https://greatutah.work/pages/morgan-chamber-of-commerce.md` · resource
-- [Morgan County Economic Development](/pages/morgan-county-economic-development.md) · `https://greatutah.work/pages/morgan-county-economic-development.md` · resource
+- [Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md) · `https://greatutah.work/pages/morgan-chamber-of-commerce.md` · capital-programs
+- [Morgan County Economic Development](/pages/morgan-county-economic-development.md) · `https://greatutah.work/pages/morgan-county-economic-development.md` · capital-programs
 
 ## Mountainland
 
-- [Mountain Land Association of Governments' Revolving Loan Fund (RLF)](/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md) · `https://greatutah.work/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md` · resource
-- [Mountainland Association of Governments](/pages/mountainland-association-of-governments.md) · `https://greatutah.work/pages/mountainland-association-of-governments.md` · resource
+- [Mountain Land Association of Governments' Revolving Loan Fund (RLF)](/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md) · `https://greatutah.work/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md` · capital-programs
+- [Mountainland Association of Governments](/pages/mountainland-association-of-governments.md) · `https://greatutah.work/pages/mountainland-association-of-governments.md` · capital-programs
 
 ## Murray
 
@@ -235,14 +243,15 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Northern Utah
 
-- [Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md) · `https://greatutah.work/pages/northern-utah-economic-alliance.md` · resource
+- [Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md) · `https://greatutah.work/pages/northern-utah-economic-alliance.md` · capital-programs
 
 ## Ogden
 
 - [Browning Firearms Designs](/pages/browning-firearms-designs.md) · `https://greatutah.work/pages/browning-firearms-designs.md` · aerospace-defense
-- [Monarch](/pages/monarch.md) · `https://greatutah.work/pages/monarch.md` · resource
+- [Monarch](/pages/monarch.md) · `https://greatutah.work/pages/monarch.md` · capital-programs
 - [Startup Ogden](/pages/startup-ogden.md) · `https://greatutah.work/pages/startup-ogden.md` · resource
 - [Weber Basin Job Corps](/pages/weber-basin-job-corps.md) · `https://greatutah.work/pages/weber-basin-job-corps.md` · resource
+- [Williams International](/pages/williams-international.md) · `https://greatutah.work/pages/williams-international.md` · aerospace-defense, materials-mfg
 
 ## Orem
 
@@ -256,7 +265,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 ## Park City
 
 - [Park City Angels](/pages/park-city-angels.md) · `https://greatutah.work/pages/park-city-angels.md` · capital-programs
-- [Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md) · `https://greatutah.work/pages/park-city-chamber-of-commerce.md` · resource
+- [Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md) · `https://greatutah.work/pages/park-city-chamber-of-commerce.md` · capital-programs
 - [Skullcandy](/pages/skullcandy.md) · `https://greatutah.work/pages/skullcandy.md` · venture
 
 ## Park City; Sundance Resort
@@ -265,7 +274,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Pleasant Grove
 
-- [Make Utah](/pages/make-utah.md) · `https://greatutah.work/pages/make-utah.md` · resource
+- [Make Utah](/pages/make-utah.md) · `https://greatutah.work/pages/make-utah.md` · capital-programs
 
 ## Price
 
@@ -287,7 +296,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [Hypercraft](/pages/hypercraft.md) · `https://greatutah.work/pages/hypercraft.md` · aerospace-defense, energy
 - [iHub](/pages/ihub.md) · `https://greatutah.work/pages/ihub.md` · resource
 - [Qualtrics](/pages/qualtrics.md) · `https://greatutah.work/pages/qualtrics.md` · computing
-- [RevRoad](/pages/revroad.md) · `https://greatutah.work/pages/revroad.md` · resource
+- [RevRoad](/pages/revroad.md) · `https://greatutah.work/pages/revroad.md` · capital-programs
 - [Startup Ignition Ventures](/pages/startup-ignition-ventures.md) · `https://greatutah.work/pages/startup-ignition-ventures.md` · resource
 - [Vivint Smart Home](/pages/vivint-smart-home.md) · `https://greatutah.work/pages/vivint-smart-home.md` · venture
 
@@ -298,7 +307,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Richfield
 
-- [Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md) · `https://greatutah.work/pages/richfield-chamber-of-commerce.md` · resource
+- [Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md) · `https://greatutah.work/pages/richfield-chamber-of-commerce.md` · capital-programs
 
 ## Roy
 
@@ -310,7 +319,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Salem
 
-- [Preferred CFO](/pages/preferred-cfo.md) · `https://greatutah.work/pages/preferred-cfo.md` · helper
+- [Preferred CFO](/pages/preferred-cfo.md) · `https://greatutah.work/pages/preferred-cfo.md` · capital-programs
 
 ## Salina
 
@@ -322,7 +331,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [1MC Salt Lake](/pages/1mc-salt-lake.md) · `https://greatutah.work/pages/1mc-salt-lake.md` · resource
 - [3Helix](/pages/3helix.md) · `https://greatutah.work/pages/3helix.md` · venture
 - [Ai Seminar for Small Businesses & Non-Profits](/pages/ai-seminar-for-small-businesses-and-non-profits.md) · `https://greatutah.work/pages/ai-seminar-for-small-businesses-and-non-profits.md` · resource
-- [Altitude Labs](/pages/altitude-labs.md) · `https://greatutah.work/pages/altitude-labs.md` · resource
+- [Altitude Labs](/pages/altitude-labs.md) · `https://greatutah.work/pages/altitude-labs.md` · health-bio, capital-programs
 - [Army Short-Range Reconnaissance UAS](/pages/army-short-range-reconnaissance-uas.md) · `https://greatutah.work/pages/army-short-range-reconnaissance-uas.md` · work
 - [University of Utah ARPANET Fourth Node](/pages/arpanet-fourth-node.md) · `https://greatutah.work/pages/arpanet-fourth-node.md` · work
 - [Atavistik Bio](/pages/atavistik-bio.md) · `https://greatutah.work/pages/atavistik-bio.md` · venture
@@ -343,6 +352,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [Coworking Space in Salt Lake City - Offices.net](/pages/coworking-space-in-salt-lake-city-offices-net.md) · `https://greatutah.work/pages/coworking-space-in-salt-lake-city-offices-net.md` · resource
 - [Cross Creek](/pages/cross-creek.md) · `https://greatutah.work/pages/cross-creek.md` · resource
 - [Curza](/pages/curza.md) · `https://greatutah.work/pages/curza.md` · health-bio
+- [CycloKinetics](/pages/cyclokinetics.md) · `https://greatutah.work/pages/cyclokinetics.md` · aerospace-defense, energy
 - [Cynosure](/pages/cynosure.md) · `https://greatutah.work/pages/cynosure.md` · resource
 - [Dave Bearss](/pages/dave-bearss.md) · `https://greatutah.work/pages/dave-bearss.md` · person
 - [Davis Smith](/pages/davis-smith.md) · `https://greatutah.work/pages/davis-smith.md` · person
@@ -359,36 +369,36 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [Health Catalyst](/pages/health-catalyst.md) · `https://greatutah.work/pages/health-catalyst.md` · health-bio
 - [HELP Clinical Decision Support System](/pages/help-clinical-decision-support-system.md) · `https://greatutah.work/pages/help-clinical-decision-support-system.md` · work
 - [High-Density Sustainable Aviation Fuels](/pages/high-density-sustainable-aviation-fuels.md) · `https://greatutah.work/pages/high-density-sustainable-aviation-fuels.md` · aerospace-defense, energy
-- [Huntsman Cancer Institute](/pages/huntsman-cancer-institute.md) · `https://greatutah.work/pages/huntsman-cancer-institute.md` · venture
+- [Huntsman Cancer Institute](/pages/huntsman-cancer-institute.md) · `https://greatutah.work/pages/huntsman-cancer-institute.md` · health-bio
 - [Inherent Biosciences](/pages/inherent-biosciences.md) · `https://greatutah.work/pages/inherent-biosciences.md` · venture
 - [Instructure](/pages/instructure.md) · `https://greatutah.work/pages/instructure.md` · computing
-- [Intactis Bio](/pages/intactis-bio.md) · `https://greatutah.work/pages/intactis-bio.md` · venture
+- [Intactis Bio](/pages/intactis-bio.md) · `https://greatutah.work/pages/intactis-bio.md` · computing, health-bio
 - [Intermountain Clinical Quality Improvement](/pages/intermountain-clinical-quality-improvement.md) · `https://greatutah.work/pages/intermountain-clinical-quality-improvement.md` · work
 - [Iris Biomedical](/pages/iris-biomedical.md) · `https://greatutah.work/pages/iris-biomedical.md` · venture
-- [Jared Rutter](/pages/jared-rutter.md) · `https://greatutah.work/pages/jared-rutter.md` · person
-- [Jarvik-7 Artificial Heart](/pages/jarvik-7-artificial-heart.md) · `https://greatutah.work/pages/jarvik-7-artificial-heart.md` · work
+- [Jared Rutter](/pages/jared-rutter.md) · `https://greatutah.work/pages/jared-rutter.md` · health-bio
+- [Jarvik-7 Artificial Heart](/pages/jarvik-7-artificial-heart.md) · `https://greatutah.work/pages/jarvik-7-artificial-heart.md` · health-bio
 - [Kinect Capital](/pages/kinect-capital.md) · `https://greatutah.work/pages/kinect-capital.md` · capital-programs
 - [L3Harris Salt Lake City](/pages/l3harris-salt-lake.md) · `https://greatutah.work/pages/l3harris-salt-lake.md` · aerospace-defense
-- [Make Salt Lake](/pages/make-salt-lake.md) · `https://greatutah.work/pages/make-salt-lake.md` · resource
-- [Maven CREATE](/pages/maven-create.md) · `https://greatutah.work/pages/maven-create.md` · resource
+- [Make Salt Lake](/pages/make-salt-lake.md) · `https://greatutah.work/pages/make-salt-lake.md` · capital-programs
+- [Maven CREATE](/pages/maven-create.md) · `https://greatutah.work/pages/maven-create.md` · capital-programs
 - [Music AI (Moises)](/pages/music-ai.md) · `https://greatutah.work/pages/music-ai.md` · venture
-- [Myriad Genetics BRCA Sequencing and Testing](/pages/myriad-genetics-brca.md) · `https://greatutah.work/pages/myriad-genetics-brca.md` · work
+- [Myriad Genetics BRCA Sequencing and Testing](/pages/myriad-genetics-brca.md) · `https://greatutah.work/pages/myriad-genetics-brca.md` · health-bio
 - [Myriad Genetics](/pages/myriad-genetics.md) · `https://greatutah.work/pages/myriad-genetics.md` · health-bio
 - [NephroNovus](/pages/nephronovus.md) · `https://greatutah.work/pages/nephronovus.md` · venture
-- [NOW CFO](/pages/now-cfo.md) · `https://greatutah.work/pages/now-cfo.md` · helper
+- [NOW CFO](/pages/now-cfo.md) · `https://greatutah.work/pages/now-cfo.md` · capital-programs
 - [O.C. Tanner](/pages/oc-tanner.md) · `https://greatutah.work/pages/oc-tanner.md` · venture
 - [Palladyne AI](/pages/palladyne-ai.md) · `https://greatutah.work/pages/palladyne-ai.md` · aerospace-defense, computing
-- [Parsons Behle & Latimer](/pages/parsons-behle-latimer.md) · `https://greatutah.work/pages/parsons-behle-latimer.md` · helper
+- [Parsons Behle & Latimer](/pages/parsons-behle-latimer.md) · `https://greatutah.work/pages/parsons-behle-latimer.md` · capital-programs
 - [PassiveLogic](/pages/passivelogic.md) · `https://greatutah.work/pages/passivelogic.md` · energy, computing
-- [Pelion Ventures](/pages/pelion-ventures.md) · `https://greatutah.work/pages/pelion-ventures.md` · resource
-- [Peterson Ventures](/pages/peterson-ventures.md) · `https://greatutah.work/pages/peterson-ventures.md` · resource
+- [Pelion Ventures](/pages/pelion-ventures.md) · `https://greatutah.work/pages/pelion-ventures.md` · capital-programs
+- [Peterson Ventures](/pages/peterson-ventures.md) · `https://greatutah.work/pages/peterson-ventures.md` · capital-programs
 - [Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md) · `https://greatutah.work/pages/pons-fleischmann-cold-fusion.md` · culture-place, energy
-- [Portal Warehousing](/pages/portal-warehousing.md) · `https://greatutah.work/pages/portal-warehousing.md` · resource
+- [Portal Warehousing](/pages/portal-warehousing.md) · `https://greatutah.work/pages/portal-warehousing.md` · capital-programs
 - [Rebel Medicine](/pages/rebel-medicine.md) · `https://greatutah.work/pages/rebel-medicine.md` · venture
 - [Recursion Pharmaceuticals](/pages/recursion-pharmaceuticals.md) · `https://greatutah.work/pages/recursion-pharmaceuticals.md` · health-bio, computing
-- [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `https://greatutah.work/pages/renewable-tech-ventures.md` · resource
+- [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `https://greatutah.work/pages/renewable-tech-ventures.md` · capital-programs, energy
 - [Ripple Neuro](/pages/ripple-neuro.md) · `https://greatutah.work/pages/ripple-neuro.md` · venture
-- [Ryan Smith (Qualtrics)](/pages/ryan-smith-qualtrics.md) · `https://greatutah.work/pages/ryan-smith-qualtrics.md` · person
+- [Ryan Smith (Qualtrics)](/pages/ryan-smith-qualtrics.md) · `https://greatutah.work/pages/ryan-smith-qualtrics.md` · computing
 - [Salt Lake Angels](/pages/salt-lake-angels.md) · `https://greatutah.work/pages/salt-lake-angels.md` · capital-programs
 - [Salt Lake Chamber](/pages/salt-lake-chamber.md) · `https://greatutah.work/pages/salt-lake-chamber.md` · resource
 - [Salt Lake City Office Space for Rent](/pages/salt-lake-city-office-space-for-rent.md) · `https://greatutah.work/pages/salt-lake-city-office-space-for-rent.md` · resource
@@ -400,7 +410,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [Soundstream and Commercial Digital Audio Recording](/pages/soundstream-digital-audio-recording.md) · `https://greatutah.work/pages/soundstream-digital-audio-recording.md` · work
 - [Spire Therapeutics](/pages/spire-therapeutic.md) · `https://greatutah.work/pages/spire-therapeutic.md` · venture
 - [Strider Technologies](/pages/strider-technologies.md) · `https://greatutah.work/pages/strider-technologies.md` · aerospace-defense
-- [Sword Health](/pages/sword-health.md) · `https://greatutah.work/pages/sword-health.md` · venture
+- [Sword Health](/pages/sword-health.md) · `https://greatutah.work/pages/sword-health.md` · health-bio
 - [SymbioCellTech](/pages/symbiocelltech.md) · `https://greatutah.work/pages/symbiocelltech.md` · venture
 - [Tanner LLC](/pages/tanner-llc.md) · `https://greatutah.work/pages/tanner-llc.md` · helper
 - [Teal Drones](/pages/teal-drones.md) · `https://greatutah.work/pages/teal-drones.md` · aerospace-defense
@@ -410,6 +420,8 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [Torus](/pages/torus.md) · `https://greatutah.work/pages/torus.md` · energy, materials-mfg
 - [Trace AQ](/pages/trace-aq.md) · `https://greatutah.work/pages/trace-aq.md` · venture
 - [University of Utah Lassonde Entrepreneurship Institute](/pages/university-of-utah-lassonde-entrepreneurship-institute.md) · `https://greatutah.work/pages/university-of-utah-lassonde-entrepreneurship-institute.md` · resource
+- [University of Utah PIVOT Center](/pages/university-of-utah-pivot-center.md) · `https://greatutah.work/pages/university-of-utah-pivot-center.md` · capital-programs, health-bio
+- [University of Utah Technology Licensing Office](/pages/university-of-utah-technology-licensing-office.md) · `https://greatutah.work/pages/university-of-utah-technology-licensing-office.md` · capital-programs, health-bio
 - [Utah Arch Research Group](/pages/utah-arch.md) · `https://greatutah.work/pages/utah-arch.md` · venture
 - [Utah Array BCI Platform](/pages/utah-array-bci-platform.md) · `https://greatutah.work/pages/utah-array-bci-platform.md` · work
 - [University of Utah Computer Graphics Program](/pages/utah-computer-graphics-program.md) · `https://greatutah.work/pages/utah-computer-graphics-program.md` · work
@@ -431,7 +443,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Salt Lake County; Utah County
 
-- [Pacific Island Chamber of Commerce (PICC)](/pages/pacific-island-chamber-of-commerce-picc.md) · `https://greatutah.work/pages/pacific-island-chamber-of-commerce-picc.md` · resource
+- [Pacific Island Chamber of Commerce (PICC)](/pages/pacific-island-chamber-of-commerce-picc.md) · `https://greatutah.work/pages/pacific-island-chamber-of-commerce-picc.md` · capital-programs
 
 ## San Juan County
 
@@ -441,7 +453,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Sandy
 
-- [Pitted Ventures](/pages/pitted-ventures.md) · `https://greatutah.work/pages/pitted-ventures.md` · resource
+- [Pitted Ventures](/pages/pitted-ventures.md) · `https://greatutah.work/pages/pitted-ventures.md` · capital-programs
 - [Salt Lake Community College (SLCC) - The Mill](/pages/salt-lake-community-college-slcc-the-mill.md) · `https://greatutah.work/pages/salt-lake-community-college-slcc-the-mill.md` · resource
 - [Salt Mine](/pages/salt-mine.md) · `https://greatutah.work/pages/salt-mine.md` · resource
 - [The Mill Entrepreneurship Center](/pages/the-mill-entrepreneurship-center.md) · `https://greatutah.work/pages/the-mill-entrepreneurship-center.md` · resource
@@ -457,13 +469,13 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 ## South Jordan
 
 - [Fred Lampropoulos](/pages/fred-lampropoulos.md) · `https://greatutah.work/pages/fred-lampropoulos.md` · person
-- [Karl Sun](/pages/karl-sun.md) · `https://greatutah.work/pages/karl-sun.md` · person
+- [Karl Sun](/pages/karl-sun.md) · `https://greatutah.work/pages/karl-sun.md` · computing
 - [Lucid Software](/pages/lucid-software.md) · `https://greatutah.work/pages/lucid-software.md` · computing
 - [Merit Medical Systems](/pages/merit-medical.md) · `https://greatutah.work/pages/merit-medical.md` · health-bio
 
 ## Southeastern Utah
 
-- [Revolving Loan Fund Program (RLF) - South Eastern Utah](/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md) · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md` · resource
+- [Revolving Loan Fund Program (RLF) - South Eastern Utah](/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md) · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md` · capital-programs
 - [Southeastern Association of Local Governments](/pages/southeastern-association-of-local-governments.md) · `https://greatutah.work/pages/southeastern-association-of-local-governments.md` · resource
 - [Southeastern Utah Association of Local Governments - Economic Development](/pages/southeastern-utah-association-of-local-governments-economic-development.md) · `https://greatutah.work/pages/southeastern-utah-association-of-local-governments-economic-development.md` · resource
 
@@ -478,13 +490,14 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 ## St. George
 
 - [Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md) · `https://greatutah.work/pages/atwood-innovation-plaza.md` · resource
-- [Baxter Aerospace](/pages/baxter-aerospace.md) · `https://greatutah.work/pages/baxter-aerospace.md` · venture
+- [Baxter Aerospace](/pages/baxter-aerospace.md) · `https://greatutah.work/pages/baxter-aerospace.md` · aerospace-defense, materials-mfg
 - [Business Resource Center - Utah Tech University](/pages/business-resource-center-utah-tech-university.md) · `https://greatutah.work/pages/business-resource-center-utah-tech-university.md` · resource
-- [Culmination Bio](/pages/culmination-bio.md) · `https://greatutah.work/pages/culmination-bio.md` · venture
+- [Culmination Bio](/pages/culmination-bio.md) · `https://greatutah.work/pages/culmination-bio.md` · health-bio
 - [Eden Technologies](/pages/eden-technologies.md) · `https://greatutah.work/pages/eden-technologies.md` · venture
 - [EVENT: What's Up Down South - Economic Summit](/pages/event-what-s-up-down-south-economic-summit.md) · `https://greatutah.work/pages/event-what-s-up-down-south-economic-summit.md` · resource
-- [RAM Aviation, Space & Defense](/pages/ram-aviation-space-defense.md) · `https://greatutah.work/pages/ram-aviation-space-defense.md` · aerospace-defense
-- [Red Rock Angels](/pages/red-rock-angels.md) · `https://greatutah.work/pages/red-rock-angels.md` · resource
+- [Intergalactic](/pages/intergalactic.md) · `https://greatutah.work/pages/intergalactic.md` · aerospace-defense, space-science, materials-mfg
+- [RAM Aviation, Space & Defense](/pages/ram-aviation-space-defense.md) · `https://greatutah.work/pages/ram-aviation-space-defense.md` · aerospace-defense, materials-mfg
+- [Red Rock Angels](/pages/red-rock-angels.md) · `https://greatutah.work/pages/red-rock-angels.md` · capital-programs
 - [St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md) · `https://greatutah.work/pages/st-george-area-chamber-of-commerce.md` · resource
 - [St. George City Economic Development](/pages/st-george-city-economic-development.md) · `https://greatutah.work/pages/st-george-city-economic-development.md` · resource
 - [St George Downtown Farmers Market](/pages/st-george-downtown-farmers-market.md) · `https://greatutah.work/pages/st-george-downtown-farmers-market.md` · resource
@@ -519,13 +532,13 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 ## Utah County
 
 - [Autonomous Low-Collateral Counter-UAS Interception](/pages/autonomous-low-collateral-counter-uas-interception.md) · `https://greatutah.work/pages/autonomous-low-collateral-counter-uas-interception.md` · work
-- [Omniture Web Analytics](/pages/omniture-web-analytics.md) · `https://greatutah.work/pages/omniture-web-analytics.md` · work
+- [Omniture Web Analytics](/pages/omniture-web-analytics.md) · `https://greatutah.work/pages/omniture-web-analytics.md` · computing
 
 ## Utah Valley
 
 - [IMSAR](/pages/imsar.md) · `https://greatutah.work/pages/imsar.md` · aerospace-defense
-- [Josh James](/pages/josh-james.md) · `https://greatutah.work/pages/josh-james.md` · person
-- [Ryan Smith (IMSAR)](/pages/ryan-smith-imsar.md) · `https://greatutah.work/pages/ryan-smith-imsar.md` · person
+- [Josh James](/pages/josh-james.md) · `https://greatutah.work/pages/josh-james.md` · computing
+- [Ryan Smith (IMSAR)](/pages/ryan-smith-imsar.md) · `https://greatutah.work/pages/ryan-smith-imsar.md` · aerospace-defense
 - [WordPerfect and Novell](/pages/wordperfect-and-novell.md) · `https://greatutah.work/pages/wordperfect-and-novell.md` · work
 
 ## Vernal
@@ -553,7 +566,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## Weber County
 
-- [Ogden-Weber Chamber of Commerce](/pages/ogden-weber-chamber-of-commerce.md) · `https://greatutah.work/pages/ogden-weber-chamber-of-commerce.md` · resource
+- [Ogden-Weber Chamber of Commerce](/pages/ogden-weber-chamber-of-commerce.md) · `https://greatutah.work/pages/ogden-weber-chamber-of-commerce.md` · capital-programs
 - [Weber County Economic Development](/pages/weber-county-economic-development.md) · `https://greatutah.work/pages/weber-county-economic-development.md` · resource
 
 ## West Desert
@@ -564,13 +577,13 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 
 ## West Valley City
 
-- [Nusano](/pages/nusano.md) · `https://greatutah.work/pages/nusano.md` · venture
+- [Nusano](/pages/nusano.md) · `https://greatutah.work/pages/nusano.md` · health-bio, energy
 
 ## no verified Utah presence
 
 - [BBCetc](/pages/bbcetc.md) · `https://greatutah.work/pages/bbcetc.md` · helper
 - [Intan Technologies](/pages/intan-technologies.md) · `https://greatutah.work/pages/intan-technologies.md` · venture
-- [RQM+](/pages/rqm-plus.md) · `https://greatutah.work/pages/rqm-plus.md` · helper
+- [RQM+](/pages/rqm-plus.md) · `https://greatutah.work/pages/rqm-plus.md` · health-bio
 - [STOPfakes.gov](/pages/stopfakes-gov.md) · `https://greatutah.work/pages/stopfakes-gov.md` · resource
 
 ## southwestern Utah
@@ -583,7 +596,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [47G - Utah Aerospace & Defense Association](/pages/47g-utah-aerospace-and-defense-association.md) · `https://greatutah.work/pages/47g-utah-aerospace-and-defense-association.md` · resource
 - [A Bolder Way Forward](/pages/a-bolder-way-forward.md) · `https://greatutah.work/pages/a-bolder-way-forward.md` · resource
 - [Acceler8 Wasatch](/pages/acceler8-wasatch.md) · `https://greatutah.work/pages/acceler8-wasatch.md` · resource
-- [Utah APEX Accelerator](/pages/apex-accelerator.md) · `https://greatutah.work/pages/apex-accelerator.md` · resource
+- [Utah APEX Accelerator](/pages/apex-accelerator.md) · `https://greatutah.work/pages/apex-accelerator.md` · capital-programs, aerospace-defense
 - [Apprenticeship Utah](/pages/apprenticeship-utah.md) · `https://greatutah.work/pages/apprenticeship-utah.md` · resource
 - [BIO Utah](/pages/bio-utah.md) · `https://greatutah.work/pages/bio-utah.md` · health-bio
 - [BIOHive Utah](/pages/biohive-utah.md) · `https://greatutah.work/pages/biohive-utah.md` · health-bio
@@ -606,18 +619,18 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md) · `https://greatutah.work/pages/international-trade-and-diplomacy.md` · resource
 - [Jump Aero](/pages/jump-aero.md) · `https://greatutah.work/pages/jump-aero.md` · venture
 - [JustBuild](/pages/justbuild.md) · `https://greatutah.work/pages/justbuild.md` · resource
-- [Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md) · `https://greatutah.work/pages/kem-c-gardner-policy-institute.md` · resource
-- [Kickstart Fund](/pages/kickstart-fund.md) · `https://greatutah.work/pages/kickstart-fund.md` · resource
-- [Kiln](/pages/kiln.md) · `https://greatutah.work/pages/kiln.md` · resource
-- [Kirton McConkie](/pages/kirton-mcconkie.md) · `https://greatutah.work/pages/kirton-mcconkie.md` · helper
-- [LiaLaunch](/pages/lialaunch.md) · `https://greatutah.work/pages/lialaunch.md` · resource
-- [Maschoff Brennan](/pages/maschoff-brennan.md) · `https://greatutah.work/pages/maschoff-brennan.md` · helper
-- [Mercato Partners](/pages/mercato-partners.md) · `https://greatutah.work/pages/mercato-partners.md` · resource
+- [Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md) · `https://greatutah.work/pages/kem-c-gardner-policy-institute.md` · capital-programs
+- [Kickstart Fund](/pages/kickstart-fund.md) · `https://greatutah.work/pages/kickstart-fund.md` · capital-programs
+- [Kiln](/pages/kiln.md) · `https://greatutah.work/pages/kiln.md` · capital-programs
+- [Kirton McConkie](/pages/kirton-mcconkie.md) · `https://greatutah.work/pages/kirton-mcconkie.md` · capital-programs
+- [LiaLaunch](/pages/lialaunch.md) · `https://greatutah.work/pages/lialaunch.md` · capital-programs
+- [Maschoff Brennan](/pages/maschoff-brennan.md) · `https://greatutah.work/pages/maschoff-brennan.md` · capital-programs, health-bio
+- [Mercato Partners](/pages/mercato-partners.md) · `https://greatutah.work/pages/mercato-partners.md` · capital-programs
 - [Nucleus Fund](/pages/nucleus-fund.md) · `https://greatutah.work/pages/nucleus-fund.md` · capital-programs
 - [Nucleus Grow](/pages/nucleus-grow.md) · `https://greatutah.work/pages/nucleus-grow.md` · capital-programs
-- [Nucleus Institute](/pages/nucleus-institute.md) · `https://greatutah.work/pages/nucleus-institute.md` · helper
-- [Nucleus MarketEdge](/pages/nucleus-marketedge.md) · `https://greatutah.work/pages/nucleus-marketedge.md` · resource
-- [Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md) · `https://greatutah.work/pages/rural-utah-chamber-coalition.md` · resource
+- [Nucleus Institute](/pages/nucleus-institute.md) · `https://greatutah.work/pages/nucleus-institute.md` · capital-programs
+- [Nucleus MarketEdge](/pages/nucleus-marketedge.md) · `https://greatutah.work/pages/nucleus-marketedge.md` · capital-programs, computing
+- [Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md) · `https://greatutah.work/pages/rural-utah-chamber-coalition.md` · capital-programs
 - [Sandbox](/pages/sandbox.md) · `https://greatutah.work/pages/sandbox.md` · venture
 - [SBA Thrive](/pages/sba-thrive.md) · `https://greatutah.work/pages/sba-thrive.md` · resource
 - [SBA Utah District Office](/pages/sba-utah-district-office.md) · `https://greatutah.work/pages/sba-utah-district-office.md` · resource
@@ -655,9 +668,11 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [Utah League of Cities & Towns (ULCT)](/pages/utah-league-of-cities-and-towns-ulct.md) · `https://greatutah.work/pages/utah-league-of-cities-and-towns-ulct.md` · resource
 - [Utah LGBTQ+ Chamber of Commerce](/pages/utah-lgbtq-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-lgbtq-chamber-of-commerce.md` · resource
 - [Utah Manufacturers Association](/pages/utah-manufacturers-association.md) · `https://greatutah.work/pages/utah-manufacturers-association.md` · resource
+- [Utah Medicaid](/pages/utah-medicaid.md) · `https://greatutah.work/pages/utah-medicaid.md` · health-bio
 - [Utah MEP](/pages/utah-mep.md) · `https://greatutah.work/pages/utah-mep.md` · resource
 - [Utah Microloan Fund (UMLF)](/pages/utah-microloan-fund-umlf.md) · `https://greatutah.work/pages/utah-microloan-fund-umlf.md` · resource
 - [Utah Muslim Civic League (UMCL)](/pages/utah-muslim-civic-league-umcl.md) · `https://greatutah.work/pages/utah-muslim-civic-league-umcl.md` · resource
+- [Utah Office of Primary Care and Rural Health](/pages/utah-office-of-primary-care-and-rural-health.md) · `https://greatutah.work/pages/utah-office-of-primary-care-and-rural-health.md` · health-bio
 - [Utah Office Of Regulatory Relief](/pages/utah-office-of-regulatory-relief.md) · `https://greatutah.work/pages/utah-office-of-regulatory-relief.md` · resource
 - [Utah Office of Tourism](/pages/utah-office-of-tourism.md) · `https://greatutah.work/pages/utah-office-of-tourism.md` · resource
 - [Utah Pacific Islander Chamber of Commerce](/pages/utah-pacific-islander-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-pacific-islander-chamber-of-commerce.md` · resource
@@ -667,6 +682,7 @@ Generated from `**Region:**` metadata (397 pages with a region). Sector hubs sti
 - [Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative-usbci.md` · resource
 - [Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative.md` · resource
 - [Utah Tourism Association](/pages/utah-tourism-association.md) · `https://greatutah.work/pages/utah-tourism-association.md` · resource
+- [Utah Water Savers](/pages/utah-water-savers.md) · `https://greatutah.work/pages/utah-water-savers.md` · culture-place
 - [Utah Technology Innovation Funding](/pages/utif.md) · `https://greatutah.work/pages/utif.md` · capital-programs
 - [Veteran Business Resource Center (VBRC) Utah](/pages/veteran-business-resource-center-vbrc-utah.md) · `https://greatutah.work/pages/veteran-business-resource-center-vbrc-utah.md` · resource
 - [Veteran-Owned Business Registration Utah](/pages/veteran-owned-business-registration-utah.md) · `https://greatutah.work/pages/veteran-owned-business-registration-utah.md` · resource

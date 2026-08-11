@@ -8,14 +8,14 @@
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
-First Step Entrepreneur (FSTEP) is a 6-week, action-first online program for aspiring entrepreneurs, particularly those who don't have a business idea yet. Unlike traditional courses, FSTEP is a live cohort experience focused on building foundational skills and confidence through a series of practical challenges, peer support, and accountability. It's designed as a "practice field, not a university course." The Founding Cohort is currently open for applications at a one-time price of $499 (future standard price $1,499) and includes a "Prove It to Yourself" full refund guarantee.
+First Step Entrepreneur (FSTEP) was imported as a six-week online cohort program for aspiring entrepreneurs, particularly people who did not yet have a business idea. The imported description emphasized practical challenges, peer support, and accountability. It also advertised a one-time founding-cohort price, but that time-sensitive offer is no longer safe to present as current.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was bulk-imported from the Startup State resource CSV so the resource remains discoverable. The listing no longer appears in the live Startup State directory, and the provider's current enrollment status, schedule, and price were not verified on 2026-08-11. Treat it as a historical lead until the provider confirms that the program is operating.
 
 ## Who It Helps
 
@@ -44,14 +44,14 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Use the provider link or imported contact information only to ask whether the program is still operating. Do not rely on the former cohort price or assume applications are open.
 
 - [Official website](https://firststepentrepreneur.com/)
 - Email: [art@artharrisonofficial.com](mailto:art@artharrisonofficial.com)
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+Current cost, application requirements, geographic coverage, and eligibility are unverified. A former founding-cohort offer should not be treated as an available price.
 
 ## Best Fits
 
@@ -79,5 +79,6 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 ## Open Questions
 
 - Is the imported description still accurate on the provider's current website?
+- Is FSTEP still operating, and if so, when is its next cohort?
 - What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
 - Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

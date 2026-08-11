@@ -8,7 +8,7 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://offices.net/ut/salt-lake-city/coworking/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,10 +27,12 @@ Searchable coworking listings with amenity descriptions (Wi-Fi, meeting rooms, r
 
 ## How To Access It
 
-- [Salt Lake coworking listings](https://offices.net/ut/salt-lake-city/coworking/) · https://offices.net/ut/salt-lake-city/coworking/
-- Phone: +1 800 215 0286 (published on listings)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://offices.net/ut/salt-lake-city/coworking/) · https://offices.net/ut/salt-lake-city/coworking/
 - Email: [info@offices.net](mailto:info@offices.net)
 - Startup State listing: https://startup.utah.gov/business-resource/coworking-space-in-salt-lake-city-offices-net/
+
 
 ## Cost / Eligibility
 

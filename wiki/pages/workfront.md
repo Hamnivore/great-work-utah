@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** enterprise work management, marketing operations, project management, Adobe Experience Cloud
+**Roles:** program-project-management
 **Domain:** computing
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
@@ -13,7 +14,7 @@
 **Website:** https://business.adobe.com/products/workfront/main.html
 **Careers:** https://careers.adobe.com/us/en/
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-07-14
+**Needs-reviewed:** 2026-08-11
 **Pull:** *A Utah-founded enterprise work-management company that became a $1.5 billion Adobe acquisition and remains an active Adobe product.*
 
 ## Summary
@@ -28,7 +29,7 @@ The counterfactual is less certain. Enterprise work-management software would ex
 
 ## What They Need Now
 
-Workfront is an Adobe product, so applicants should use Adobe's careers site and filter for Utah or remote roles. Public listings do not reliably identify which Utah positions support Workfront; do not infer a product assignment from an Adobe job's location alone.
+Workfront is an Adobe product, so applicants should use Adobe's careers site and filter for Utah or remote roles. A recently filled Workfront-specific Lehi listing was for product operations and documentation management, supporting `program-project-management` as the narrowest durable role family. It is evidence of the function, not a current opening; do not infer a Workfront assignment from an Adobe job's location alone.
 
 ## Utah Context
 

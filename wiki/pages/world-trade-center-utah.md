@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
-**Focus:** International Trade, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.wtcutah.com/
 **Website:** https://www.wtcutah.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://mavencreateslc.com/
 **Website:** https://mavencreateslc.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +28,7 @@ Remote workers, women entrepreneurs, local small-business owners, and teams seek
 
 Day, month-to-month, and longer-term coworking; private executive offices; event and photoshoot rentals; community events and speaker series; Maven community fund; kitchen, Wi-Fi, parking, meditation space, showers/lockers, and optional fitness-studio access next door.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://mavencreateslc.com/) · https://mavencreateslc.com/
 - Join via the site interest form or buy day passes online; contact for private offices, events, and corporate packages

@@ -7,7 +7,7 @@
 **Era:** 2010s–2023 Mars operations; Earth-scale follow-through ongoing
 **Primary Location:** North Salt Lake, UT
 **Utah Location:** North Salt Lake, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** space-science, energy, materials-mfg
 **Region:** North Salt Lake
 **Map Location:** OxEon Energy MOXIE development site, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054
@@ -32,7 +32,7 @@ MOXIE was not about the few grams of oxygen produced for immediate use. It prove
 
 OxEon Energy has subsequently used the same solid oxide electrolysis lineage in DOE-backed work on hydrogen production, syngas, sustainable fuels, and higher-volume SOEC manufacturing on Earth — the technology pathway has value independent of space exploration.
 
-## What Was Created
+## What It Took
 
 OxEon's SOXE stack had to maintain gas seals and electrochemical performance while cycling to high operating temperatures after launch vibration, landing shock, long surface deployment, and intermittent operation on rover power. It had to reject carbon monoxide and unused CO₂, meet oxygen purity requirements, and fit inside a mass- and volume-constrained flight payload.
 

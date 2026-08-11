@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County
 **Region:** Central Utah
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://r6.utah.gov/contact/
 **Website:** https://r6.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +22,7 @@ The R6 Regional Council (formerly Six County Association of Governments) serves 
 
 Contact regional staff for business and economic-development program specifics.
 
-## Who It Helps
+## Who It's For
 
 Residents, local governments, and businesses in the six-county central Utah region seeking regional program support, planning assistance, workforce or aging services, and economic-development coordination.
 
@@ -29,7 +30,7 @@ Residents, local governments, and businesses in the six-county central Utah regi
 
 Regional council administration, economic and community planning, housing and aging programs, workforce development references, public meetings, job postings, and staff assistance. The homepage routes users to programs, meetings, staff list, and news.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://r6.utah.gov/) · https://r6.utah.gov/
 - Email: [abbyivory@r6.utah.gov](mailto:abbyivory@r6.utah.gov)

@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.uvu.edu/woodbury/entrepreneurship/
 **Website:** https://www.uvu.edu/woodbury/entrepreneurship/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

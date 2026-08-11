@@ -61,6 +61,9 @@ CleanJoule's Salt Lake City presence makes it one of Utah's more distinctive dee
 
 ## See Also
 
+- [CycloKinetics](cyclokinetics.md) · https://greatutah.work/pages/cyclokinetics.md — May 2026 aerospace/defense propellant brand sharing CleanJoule's Salt Lake City facility
+- [High-Density Sustainable Aviation Fuels](high-density-sustainable-aviation-fuels.md) · https://greatutah.work/pages/high-density-sustainable-aviation-fuels.md
+
 ## Open Questions
 
 - No agent-readable careers/jobs page found (cleanjoule.com has no careers path; Greenhouse/Lever boards 404; Ashby board is WEAK_SPA).

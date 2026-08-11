@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Carbon County, UT
 **Utah Location:** Carbon County, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Carbon County
 **Map Location:** 751 East 100 North Suite 2100, Price, UT 84501
@@ -30,10 +30,12 @@ Chamber membership and join pathway; business advocacy referenced in county ED m
 
 ## How To Access It
 
-- Official site: https://www.carboncountychamber.net/
-- Phone: (435) 637-2788 (listed on homepage)
-- Pair with [Carbon County Economic Development](carbon-county-economic-development.md) for incentives and site selection
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.carboncountychamber.net/) · https://www.carboncountychamber.net/
+- Email: [ccc@carboncountychamber.net](mailto:ccc@carboncountychamber.net)
 - Startup State listing: https://startup.utah.gov/business-resource/carbon-county-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

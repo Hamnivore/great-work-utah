@@ -8,7 +8,7 @@
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.grix.vc/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.nucleusfundutah.com/
 **Website:** https://www.nucleusfundutah.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ Early-stage investment, mentorship and network access, and commercialization sup
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.nucleusfundutah.com/) · https://www.nucleusfundutah.com/
 - Email: [info@nucleusutah.org](mailto:info@nucleusutah.org)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-innovation-fund/
+
 
 ## Cost / Eligibility
 

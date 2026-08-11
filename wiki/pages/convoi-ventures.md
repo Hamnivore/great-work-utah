@@ -13,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.sec.gov/Archives/edgar/data/2023817/000202381724000001/xslFormDX01/primary_doc.xml
 **Website:** https://www.convoiventures.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

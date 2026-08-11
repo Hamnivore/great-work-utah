@@ -61,6 +61,7 @@ One important caveat: Fervo's corporate headquarters are not in Utah. The Utah p
 
 ## See Also
 
+- [Ormat Technologies](ormat-technologies.md) · https://greatutah.work/pages/ormat-technologies.md — owns and operates the Cove Fort geothermal plant in the same Beaver County corridor; the conventional-hydrothermal operator next door to Cape Station
 - [Rodatherm Energy](rodatherm-energy.md) · https://greatutah.work/pages/rodatherm-energy.md — closed-loop geothermal pilot in Utah's Great Basin (sedimentary basins vs. Fervo's fracture-based EGS)
 - [Zanskar Geothermal](zanskar-geothermal.md) · https://greatutah.work/pages/zanskar-geothermal.md — AI-driven geothermal exploration platform, Salt Lake City
 - [Torus](torus.md) · https://greatutah.work/pages/torus.md — Utah grid-edge storage; complementary firm-power infrastructure

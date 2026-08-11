@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Heber City, UT
 **Utah Location:** Heber City, UT
 **Region:** Heber City
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.gohebervalley.com/Contact-Us/
 **Website:** https://hebercity-cams.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +21,7 @@ The Community Alliance for Main Street (CAMS) is a grassroots volunteer organiza
 
 CAMS complements—not replaces—city economic-development staff.
 
-## Who It Helps
+## Who It's For
 
 Heber City Main Street property owners, retailers, restaurateurs, and volunteers invested in downtown vibrancy, walkability, and community events.
 
@@ -29,12 +29,14 @@ Heber City Main Street property owners, retailers, restaurateurs, and volunteers
 
 Advocacy between businesses, residents, and government; public-art and placemaking projects; event fundraising (holiday celebrations, markets, festivals); volunteer coordination; and downtown success stories shared via blog updates. Open to citizens ages 14+ per the FAQ.
 
-## How To Access It
+## How To Use It
+
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://hebercity-cams.org/) · https://hebercity-cams.org/
-- Contact via site contact flow; follow @HeberCityCAMS on Instagram/Facebook
-- Email (Startup State listing): [info@hebervalleychamber.com](mailto:info@hebervalleychamber.com)
+- Email: [info@hebervalleychamber.com](mailto:info@hebervalleychamber.com)
 - Startup State listing: https://startup.utah.gov/business-resource/heber-city-community-alliance-for-main-street/
+
 
 ## Cost / Eligibility
 

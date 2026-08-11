@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Heber City, UT
 **Utah Location:** Heber City, UT
 **Region:** Heber City
@@ -11,15 +11,15 @@
 **Coordinates:** 40.5138524, -111.4134749
 **Location Precision:** exact
 **Location Source:** https://www.gohebervalley.com/Contact-Us/
-**Website:** https://www.gohebervalley.com/Chamber/
-**Updated:** 2026-07-14
+**Website:** https://www.gohebervalley.com/chamber/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Heber Valley Chamber of Commerce promotes tourism, connects businesses, and unites the Wasatch County community. Verified on the official site (2026-07-14): members receive professional networking, promotional opportunities, economic education, and community engagement. The chamber publishes a visitor guide, newsletter signup, and event reminders via text (CHAMBER to 435-222-5008).
 
-## Who It Helps
+## Who It's For
 
 Heber Valley and Wasatch County businesses — tourism, recreation, retail, and local services — seeking networking, promotion, and community ties alongside the valley's visitor economy.
 
@@ -27,12 +27,13 @@ Heber Valley and Wasatch County businesses — tourism, recreation, retail, and 
 
 Professional networking and promotional opportunities; economic education; community engagement programs; visitor guide and newsletter; social media event updates; text-based event reminders; chamber contact via Go Heber Valley platform.
 
-## How To Access It
+## How To Use It
 
-- Chamber hub: https://www.gohebervalley.com/Chamber/
-- Text CHAMBER to 435-222-5008 for event reminders (standard message rates apply)
-- Newsletter and visitor guide links on chamber page
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.gohebervalley.com/chamber/) · https://www.gohebervalley.com/chamber/
 - Startup State listing: https://startup.utah.gov/business-resource/heber-valley-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

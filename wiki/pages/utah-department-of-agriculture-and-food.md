@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://gopb.utah.gov/wp-content/uploads/2024/02/ERG2024.pdf
 **Website:** https://ag.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,10 +31,12 @@ Open and upcoming grant programs (for example grazing improvement, predatory-ani
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://ag.utah.gov/) · https://ag.utah.gov/
-- Grants and loans: https://ag.utah.gov/grants-and-loans/
 - Email: [agriculture@utah.gov](mailto:agriculture@utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-department-of-agriculture-food/
+
 
 ## Cost
 
@@ -45,7 +47,7 @@ Grant programs are competitive and may require cost-share or matching funds depe
 Rural and agricultural founders building or expanding food, livestock, or specialty-crop businesses in Utah. A weak fit for software-only or urban consumer startups with no ag/food angle.
 
 
-## Evidence## Evidence
+## Evidence
 
 - [Official website](https://ag.utah.gov/) · https://ag.utah.gov/
 - [Grants and Loans](https://ag.utah.gov/grants-and-loans/) · https://ag.utah.gov/grants-and-loans/

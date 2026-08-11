@@ -7,7 +7,7 @@
 **Era:** March 23, 1989 announcement; controversy through 1989-1990
 **Primary Location:** University of Utah, Salt Lake City, UT
 **Utah Location:** University of Utah, Salt Lake City, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place, energy
 **Region:** Salt Lake City
 **Map Location:** University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112
@@ -38,7 +38,7 @@ The lasting impact is institutional and cultural rather than scientific:
 
 For builders and researchers, the episode is a case study in how credibility, replication, and communication can matter more than the apparent magnitude of a breakthrough.
 
-## What Was Created
+## What It Took
 
 The tangible artifact was not a working energy technology but a controversy: a palladium-heavy-water electrochemical cell, patent filings, a press conference, rushed publication attempts, and a global replication effort that could not confirm the excess heat under rigorous conditions.
 

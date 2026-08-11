@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Other
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,14 +13,14 @@
 **Location Precision:** exact
 **Location Source:** https://gardner.utah.edu/
 **Website:** https://gardner.utah.edu/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 Verified on gardner.utah.edu (2026-07-14): The Kem C. Gardner Policy Institute at the University of Utah's David Eccles School of Business is Utah's premier economic and public policy research institute. It produces economic, demographic, public finance, and industry research — including innovation-ecosystem studies — to help policymakers, business leaders, and the public make informed decisions.
 
-## Who It Helps
+## Who It's For
 
 Founders, investors, policymakers, and community leaders who need credible Utah economic and demographic data — not direct business advising or capital.
 
@@ -27,7 +28,7 @@ Founders, investors, policymakers, and community leaders who need credible Utah 
 
 Published research on the Utah economy, demographics, public finance, and industry sectors (energy, defense and aerospace, education, health care, housing, tech, tourism, and more). Recent public work includes innovation-capacity rankings and collaborative ecosystem reports with partners such as EDCUtah.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://gardner.utah.edu/) · https://gardner.utah.edu/
 - Browse industry studies, economic indicators, and data downloads on the official site

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://teenentrepreneurship.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -26,8 +26,11 @@ Per the Startup State listing: mentorship from experienced operators, events and
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://teenentrepreneurship.org/) · https://teenentrepreneurship.org/
 - Startup State listing: https://startup.utah.gov/business-resource/teen-entrepreneur-support-center/
+
 
 ## Cost
 

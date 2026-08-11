@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://shopworkspace.com/location/salt-lake-city/
 **Website:** https://shopworkspace.com/location/salt-lake-city/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,11 @@ Flexible access (on-demand), Commons memberships with 24/7 workspace access, pri
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://shopworkspace.com/location/salt-lake-city/) · https://shopworkspace.com/location/salt-lake-city/
-- Schedule a tour or contact the SLC team at 801.980.2660 or infoslc@shopworkspace.com
 - Startup State listing: https://startup.utah.gov/business-resource/the-shop/
+
 
 ## Cost
 

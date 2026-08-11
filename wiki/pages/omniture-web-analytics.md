@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** software, SaaS, web analytics, digital marketing, enterprise software
+**Domain:** computing
 **Era:** 1996-2009 as an independent company; continued inside Adobe
 **Primary Location:** Orem and Lehi, UT
 **Utah Location:** Orem and Lehi, UT
@@ -13,7 +14,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.sec.gov/Archives/edgar/data/1357525/000104746909008514/0001047469-09-008514-index.htm
 **Website:** https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Relates:** cites [SEC/EDGAR — Adobe Acquisition of Omniture (14D-9, 2009)](omniture-adobe-sec-14d9-2009.md) · https://greatutah.work/pages/omniture-adobe-sec-14d9-2009.md · https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm
 **Relates:** cites [Deseret News — Adobe Buys Orem's Omniture for $1.8B (2009)](omniture-deseret-news-2009.md) · https://greatutah.work/pages/omniture-deseret-news-2009.md · https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/
 **Relates:** helps [Josh James](josh-james.md) · https://greatutah.work/pages/josh-james.md
@@ -31,7 +32,7 @@ Omniture was one of the most consequential software exits in Utah history and a 
 
 Beyond the transaction, Omniture helped normalize a now-default idea: that a serious website should be instrumented, measured, tested, and tied to revenue. Its products became foundational components of what Adobe later called the Marketing Cloud and then the Experience Cloud / Adobe Analytics. The company also trained and spun out a generation of Utah SaaS operators; Josh James went on to found Domo.
 
-## What Was Created
+## What It Took
 
 Omniture's core was SiteCatalyst, an enterprise web-analytics platform, surrounded by a suite that grew to include testing and targeting (Test&Target), search marketing, discovery, and merchandising tools. The technical product was not just counting pageviews. It was the collection tags, data pipelines, reporting interfaces, segmentation, and attribution logic needed to turn high-volume, messy web-interaction data into reliable business infrastructure that large retailers, publishers, agencies, and executives could act on.
 

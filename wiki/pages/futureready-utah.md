@@ -11,8 +11,8 @@
 **Coordinates:** 37.675550, -113.071700
 **Location Precision:** exact
 **Location Source:** https://www.futurereadyutah.org/
-**Website:** https://futurereadyutah.org/
-**Updated:** 2026-07-14
+**Website:** http://futurereadyutah.org
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +21,7 @@ FutureReady Utah is a no-cost workforce and economic-development collaboration s
 
 Note: the Startup State listing describes county Targeted Outreach Coordinators statewide; the live site copy centers on southwest Utah workforce services delivered by the three colleges.
 
-## Who It Helps
+## Who It's For
 
 Rural and southwest Utah residents, job seekers, employers, and community leaders seeking workforce training, hiring/retention support, or business consulting. Less clearly aimed at early-stage tech founders outside the employer-training lane.
 
@@ -29,11 +29,14 @@ Rural and southwest Utah residents, job seekers, employers, and community leader
 
 Short-term free or reduced-cost career training, connections to higher-wage careers, and employer-focused business training and consulting. The program positions itself as a regional effort to expand business markets and deliver accessible training, including for traditionally underserved residents.
 
-## How To Access It
+## How To Use It
 
-- [Official website](https://futurereadyutah.org/) · https://futurereadyutah.org/
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](http://futurereadyutah.org) · http://futurereadyutah.org
 - Email: [futureready@suu.edu](mailto:futureready@suu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/futureready-utah/
+
 
 ## Cost / Eligibility
 

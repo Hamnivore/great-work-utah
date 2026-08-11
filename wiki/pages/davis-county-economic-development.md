@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Late Stage Growth, Relocate a Business to Utah, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Farmington, UT
 **Utah Location:** Davis County, UT
 **Region:** Davis County
@@ -11,8 +11,8 @@
 **Coordinates:** 40.9793744, -111.8875474
 **Location Precision:** exact
 **Location Source:** https://www.daviscountyutah.gov/ced/economic-development
-**Website:** https://www.daviscountyutah.gov/ced/economic-development
-**Updated:** 2026-07-14
+**Website:** https://www.daviscountyutah.gov/ced
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,12 +29,11 @@ Business recruitment (sites, demographics, workforce liaisons, stacked incentive
 
 ## How To Access It
 
-Use the Economic Development page menus (Incentives, Sites, COG) or call the Farmington office.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.daviscountyutah.gov/ced/economic-development) · https://www.daviscountyutah.gov/ced/economic-development
-- Economic Development phone: (801) 451-3279
-- Address: 61 South Main Street, Suite 304, Farmington, UT 84025
+- [Official website](https://www.daviscountyutah.gov/ced) · https://www.daviscountyutah.gov/ced
 - Startup State listing: https://startup.utah.gov/business-resource/davis-county-economic-development/
+
 
 ## Cost / Eligibility
 

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://www.utncoc.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,10 +25,12 @@ The chamber offers event listings (such as community powwows), an email list for
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.utncoc.com/) · https://www.utncoc.com/
 - Email: [info@utncoc.com](mailto:info@utncoc.com)
-- Join the email list on the official site for event and news updates
 - Startup State listing: https://startup.utah.gov/business-resource/utah-native-american-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

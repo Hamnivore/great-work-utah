@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
 **Region:** Sandy
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Pitted+Ventures+9815+South+Monroe+Street+Sandy+UT
 **Website:** https://pittedventures.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -28,7 +29,7 @@ Consumer-brand founders seeking growth capital plus e-commerce, logistics, or ch
 
 Startup State and prior public descriptions cite growth capital plus affiliated services through Pitted Labs and Pitted Logistics for e-commerce channel management, fulfillment, and analytics. These details need re-verification because the official site is down.
 
-## How To Access
+## How To Use It
 
 - Official website was unreachable at verification time
 - [Official website](https://pittedventures.com/) · https://pittedventures.com/

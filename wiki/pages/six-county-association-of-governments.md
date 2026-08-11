@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County
 **Region:** Central Utah
@@ -12,14 +12,14 @@
 **Location Precision:** exact
 **Location Source:** https://r6.utah.gov/contact/
 **Website:** https://r6.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The R6 Regional Council (Six County Association of Governments) supports central Utah communities through regional planning, economic development, and essential services. Verified on r6.utah.gov: R6 serves Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties with community and economic development, aging services, housing (HEAT, weatherization, rent-to-own), tax preparation, and the Central Utah Agri-Park initiative.
 
-## Who It Helps
+## Who It's For
 
 Businesses and farms in central Utah's six counties; local governments needing regional planning; seniors and families accessing R6 social programs; operators exploring Agri-Park or Rural Rise pathways.
 
@@ -27,14 +27,14 @@ Businesses and farms in central Utah's six counties; local governments needing r
 
 Community and economic development planning, Central Utah Agri-Park, Rural Rise nonprofit support, aging and volunteer services, housing and weatherization, individual tax preparation, crisis programs, and regional meeting coordination from Richfield.
 
-## How To Access It
+## How To Use It
 
-Use r6.utah.gov program menus or call the Richfield office; name the county and program when contacting staff.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://r6.utah.gov/) · https://r6.utah.gov/
 - Email: [abbyivory@sixcounty.com](mailto:abbyivory@sixcounty.com)
-- Office: 82 E 600 N, Richfield, UT 84701 · (435) 893-0700
 - Startup State listing: https://startup.utah.gov/business-resource/six-county-association-of-governments/
+
 
 ## Cost / Eligibility
 

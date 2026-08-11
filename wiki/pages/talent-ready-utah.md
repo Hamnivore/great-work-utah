@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://talentready.ushe.edu/
 **Website:** https://talentready.ushe.edu/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,11 @@ Utah Adopt-a-School business-to-K-12 partnerships; Pathways (industry experience
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://talentready.ushe.edu/) · https://talentready.ushe.edu/
-- Choose the Employers, Educators, or Get Involved pathway and open the relevant program page (Pathways, TRAC, Utah Works, or Adopt-a-School)
 - Startup State listing: https://startup.utah.gov/business-resource/talent-ready-utah/
+
 
 ## Cost
 

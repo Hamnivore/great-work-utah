@@ -8,16 +8,16 @@
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
-A free interactive tool for aspiring Utah entrepreneurs to discover unique business concepts by combining personal interests, skills, and market problems. No signup required.
+FSTEP Idea Explorer was listed as a free, no-signup interactive tool for aspiring Utah entrepreneurs to combine personal interests, skills, and market problems into possible business concepts. Its current availability was not verified on 2026-08-11.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was bulk-imported from the Startup State resource CSV. The tool no longer appears in the live directory, so treat it as a historical lead until the provider URL and functionality are confirmed.
 
-## Who It Helps
+## Who It's For
 
 The CSV lists this resource for these communities:
 
@@ -42,9 +42,9 @@ The imported description suggests this resource may provide support related to:
 
 - Start a Business
 
-## How To Access It
+## How To Use It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Verify that the tool still loads and retains its no-signup terms before recommending it.
 
 - [Official website](https://firststepentrepreneur.com/app/)
 - Email: [art@artharrisonofficial.com](mailto:art@artharrisonofficial.com)
@@ -79,5 +79,6 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 ## Open Questions
 
 - Is the imported description still accurate on the provider's current website?
+- Does the Idea Explorer still load and function without signup?
 - What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
 - Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

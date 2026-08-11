@@ -15,7 +15,8 @@
 **Location Source:** https://www.ancestry.com/corporate/contact
 **Careers:** https://careers.ancestry.com/
 **Website:** https://www.ancestry.com/
-**Updated:** 2026-07-14
+**Domain:** computing, health-bio, culture-place
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
 **Relates:** cites [Official Website: Ancestry](ancestry-official-website.md) · https://greatutah.work/pages/ancestry-official-website.md · https://www.ancestry.com/
 **Relates:** cites [Blackstone Acquisition of Ancestry](ancestry-blackstone-acquisition.md) · https://greatutah.work/pages/ancestry-blackstone-acquisition.md · https://www.blackstone.com/news/press/blackstone-completes-acquisition-of-ancestry-leading-online-family-history-business-for-4-7-billion/

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Hildale, UT
 **Utah Location:** Hildale, UT
 **Region:** Hildale
 **Website:** https://www.uzonachamber.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,10 +25,12 @@ Business directory; chamber events calendar (e.g., UZONA Luncheon with community
 
 ## How To Access It
 
-- Official site: https://www.uzonachamber.org/
-- Join via "Join us" on homepage
-- Browse events and directory before joining
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.uzonachamber.org/) · https://www.uzonachamber.org/
+- Email: [admin@uzonachamber.org](mailto:admin@uzonachamber.org)
 - Startup State listing: https://startup.utah.gov/business-resource/uzona-hildale-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

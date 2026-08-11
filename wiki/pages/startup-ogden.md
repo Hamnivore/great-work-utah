@@ -7,12 +7,12 @@
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
 **Region:** Ogden
-**Website:** https://startupogden.spaces.nexudus.com/home
+**Website:** https://startupogden.spaces.nexudus.com/home?&v=latest
 **Map Location:** Weber State Downtown, 2314 Washington Blvd, Ogden, UT 84401
 **Coordinates:** 41.2244045, -111.9700095
 **Location Precision:** exact
 **Location Source:** https://www.weber.edu/maps/locations.html
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,11 @@ Flexible workspace options (hot desks and dedicated desks), conference rooms, an
 
 ## How To Access It
 
-- [Official website](https://startupogden.spaces.nexudus.com/home) · https://startupogden.spaces.nexudus.com/home
-- Browse plans and book through the Nexudus member portal; confirm current desk and meeting-room inventory on the portal before referral
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://startupogden.spaces.nexudus.com/home?&v=latest) · https://startupogden.spaces.nexudus.com/home?&v=latest
 - Startup State listing: https://startup.utah.gov/business-resource/startup-ogden/
+
 
 ## Cost
 

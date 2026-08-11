@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Funding
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://btech.edu/contact-us/
 **Website:** https://thehubatbtech.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ One-on-one business counseling (startup, merger/acquisition, sale, planning, fin
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://thehubatbtech.org/) · https://thehubatbtech.org/
 - Email: [malexander@btech.edu](mailto:malexander@btech.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/the-hub-at-bridgerland-technical-college/
+
 
 ## Cost
 

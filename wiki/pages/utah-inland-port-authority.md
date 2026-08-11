@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Relocate a Business to Utah
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.uii.utah.gov/pmn/sitemap/publicbody/6413.html
 **Website:** https://inlandportauthority.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,12 +29,12 @@ Regional project-area planning (Northwest Quadrant, Tooele Valley, Golden Spike,
 
 ## How To Access It
 
-Start with the official site project-area and FAQ pages, then use the contact form or email for specific inquiries.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://inlandportauthority.utah.gov/) · https://inlandportauthority.utah.gov/
 - Email: [info@inlandportauthority.utah.gov](mailto:info@inlandportauthority.utah.gov)
-- Media: [kaitlin.felsted@inlandportauthority.utah.gov](mailto:kaitlin.felsted@inlandportauthority.utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-inland-port-authority/
+
 
 ## Cost / Eligibility
 

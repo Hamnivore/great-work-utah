@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Other
 **Primary Location:** Utah State University, Logan, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://uwlp.usu.edu/abwf
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,11 +25,11 @@ Research-based resources, toolkits, women's network directories, a community cal
 
 ## How To Access It
 
-- [A Bolder Way Forward](https://uwlp.usu.edu/abwf) · https://uwlp.usu.edu/abwf
-- [UWLP resource toolkits](https://uwlp.usu.edu/uwlp/resources/toolkits.php) · https://uwlp.usu.edu/uwlp/resources/toolkits.php
-- [Utah women's networks directory](https://uwlp.usu.edu/uwlp/resources/utah-womens-groups.php) · https://uwlp.usu.edu/uwlp/resources/utah-womens-groups.php
+Start with the official website, then confirm current programs before recommending.
+
 - Email: [uwlp@usu.edu](mailto:uwlp@usu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/a-bolder-way-forward/
+
 
 ## Cost / Eligibility
 

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Start a Business
+**Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.utahmicroloanfund.org/about.html
 **Website:** https://www.utahmicroloanfund.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,11 @@ Microloans (after required orientation), business advising, the Banking on Women
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.utahmicroloanfund.org/) · https://www.utahmicroloanfund.org/
-- Start with [loan orientation](https://www.utahmicroloanfund.org/orientation.html) — required before any loan application
-- Phone: 801-746-1180 · 154 E Ford Ave Ste A, Salt Lake City, UT 84115
 - Startup State listing: https://startup.utah.gov/business-resource/utah-microloan-fund-umlf/
+
 
 ## Cost
 
@@ -43,7 +44,7 @@ Loan orientation is the documented first step; specific interest rates, loan siz
 Underserved Utah founders who need a lender-of-last-resort pathway with coaching, especially women-owned and minority-owned businesses rejected by banks. A weaker fit for venture-scale tech companies seeking equity or for owners who already qualify for conventional bank credit.
 
 
-## Evidence## Evidence
+## Evidence
 
 - [Official website](https://www.utahmicroloanfund.org/) · https://www.utahmicroloanfund.org/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/

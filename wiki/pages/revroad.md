@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=RevRoad+412+W+Rivers+Edge+Dr+Provo+UT+84604
 **Website:** https://www.revroad.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -28,7 +29,7 @@ Revenue-stage Utah startups that could benefit from a venture-services model. Ne
 - Venture services across growth strategy, funding navigation, software, marketing, and business development
 - Portfolio management and founder support for existing investments
 
-## How To Access
+## How To Use It
 
 - Use Contact Us on the official site for portfolio or partnership inquiries
 - [Official website](https://www.revroad.com/) · https://www.revroad.com/

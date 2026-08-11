@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Start a Business
+**Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://jobs.utah.gov/
 **Website:** https://apprenticeship.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,11 @@ Employer resources to start apprenticeship programs and access incentives; caree
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://apprenticeship.utah.gov/) · https://apprenticeship.utah.gov/
-- Employers: use "Start your program"; career seekers: use "Find your career"
 - Startup State listing: https://startup.utah.gov/business-resource/apprenticeship-utah/
+
 
 ## Cost
 

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Washington, UT
 **Utah Location:** Washington, UT
 **Region:** Washington
-**Website:** https://washingtonutah.gov/development/economicdevelopment
-**Updated:** 2026-07-14
+**Website:** https://washingtoncity.org/development/economicdevelopment
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,9 +27,12 @@ Municipal economic-development guidance on starting or expanding a business, reg
 
 ## How To Access It
 
-- [Economic Development page](https://washingtonutah.gov/development/economicdevelopment) · https://washingtonutah.gov/development/economicdevelopment
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://washingtoncity.org/development/economicdevelopment) · https://washingtoncity.org/development/economicdevelopment
 - Email: [rhughes@washingtoncity.org](mailto:rhughes@washingtoncity.org)
 - Startup State listing: https://startup.utah.gov/business-resource/washington-city-economic-development/
+
 
 ## Cost / Eligibility
 

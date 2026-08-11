@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.utahchineseassociation.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,10 +27,12 @@ Per Startup State: cultural festivals, museum and heritage programming, and comm
 
 ## How To Access It
 
-- Official website (unreachable in this review): https://www.utahchineseassociation.org/
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.utahchineseassociation.org/) · https://www.utahchineseassociation.org/
 - Email: [utahchinese2021@gmail.com](mailto:utahchinese2021@gmail.com)
-- Related network: [Pacific Island Chamber of Commerce (PICC)](pacific-island-chamber-of-commerce-picc.md)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-chinese-association/
+
 
 ## Cost / Eligibility
 

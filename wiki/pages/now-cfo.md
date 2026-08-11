@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance operations
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.nowcfo.com/wp-content/uploads/2022/09/NOW_CFO_BrandGuide_Q1_2022.pdf
 **Website:** https://nowcfo.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,7 +26,7 @@ The public service list covers budgeting, forecasting, FP&A, cash-flow managemen
 
 Many technical founders need a finance operator before they need a full-time CFO. A founder moving from grants, pilots, and seed financing into recurring reporting can need help building a chart of accounts, cash forecast, board package, close process, and investor-ready finance rhythm without hiring an executive too early.
 
-## How They Help
+## Who They Help
 
 Publicly listed services include CFO and finance strategy, budgeting and forecasting, financial planning and analysis, M&A, cash-flow management, KPIs and dashboards, board and investor reporting, treasury management, margin and SG&A improvement, controller and accounting advisory, month-end close, audit preparation, financial reporting, transaction accounting, systems implementation, technical accounting, internal controls, chart-of-accounts design, staff accounting, bookkeeping, and permanent finance hires.
 

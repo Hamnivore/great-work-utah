@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Carbon County, UT
 **Utah Location:** Carbon County, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Carbon County
 **Map Location:** 751 East 100 North Suite 2600, Price, UT 84501
@@ -30,12 +30,12 @@ Business recruitment and expansion support; Rural County Grant program; business
 
 ## How To Access It
 
-- Official site: https://www.carbon.utah.gov/department/economic-development/
-- Rural County Grant: linked from department services section
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.carbon.utah.gov/department/economic-development/) · https://www.carbon.utah.gov/department/economic-development/
 - Email: [cced@carbon.utah.gov](mailto:cced@carbon.utah.gov)
-- Phone: (435) 636-3295
-- Office: 751 E 100 North Ste 2600, Price, UT 84501
 - Startup State listing: https://startup.utah.gov/business-resource/carbon-county-economic-development/
+
 
 ## Cost / Eligibility
 

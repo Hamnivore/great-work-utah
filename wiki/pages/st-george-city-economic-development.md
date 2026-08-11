@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.utah.gov/pmn/sitemap/publicbody/1087.html
 **Website:** https://sgcityutah.gov/departments/economic_development/index.php
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +21,7 @@ St. George City's Economic Development Department promotes business growth and m
 
 The public site is government CMS-hosted; contact the department directly for current incentive and site-selection details.
 
-## Who It Helps
+## Who It's For
 
 Companies evaluating expansion or relocation to St. George, especially growth-stage employers and developers interested in Tech Ridge and downtown redevelopment initiatives.
 
@@ -29,11 +29,13 @@ Companies evaluating expansion or relocation to St. George, especially growth-st
 
 Municipal economic-development outreach, business licensing coordination through Community Development, information on major city-led growth projects (including Tech Ridge), and connections to regional partners. The department sits alongside city business licensing and planning functions.
 
-## How To Access It
+## How To Use It
 
-- [Economic Development department](https://sgcityutah.gov/departments/economic_development/index.php) · https://sgcityutah.gov/departments/economic_development/index.php
-- City business licensing portal linked from Community Development
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://sgcityutah.gov/departments/economic_development/index.php) · https://sgcityutah.gov/departments/economic_development/index.php
 - Startup State listing: https://startup.utah.gov/business-resource/st-george-city-economic-development/
+
 
 ## Cost / Eligibility
 

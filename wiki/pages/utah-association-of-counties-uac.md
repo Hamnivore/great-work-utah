@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Other
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Murray, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.utahcounties.org/about-pages/about
 **Website:** https://www.uacnet.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,9 +31,12 @@ Annual conference and events, policy steering committees, legal and training res
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.uacnet.org/) · https://www.uacnet.org/
-- Email: [admin@utahcounties.org](mailto:admin@utahcounties.org) (published on live site)
+- Email: [admin@uacnet.org](mailto:admin@uacnet.org)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-association-of-counties-uac/
+
 
 ## Cost / Eligibility
 

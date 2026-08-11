@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** Heber City, UT
 **Utah Location:** Summit County, Utah County, Wasatch County
 **Region:** Mountainland
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://magutah.gov/contact/
 **Website:** https://www.gohebervalley.com/Revolving-loan/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +28,7 @@ New and expanding businesses in the Mountainland region (Summit, Utah, and Wasat
 
 Revolving loans from $10,000 to $100,000 with terms from 6 months to 5 years. Eligible uses include machinery/equipment, other fixed assets, and working capital (inventory, receivables, operating expenses, labor). Ineligible uses include refinancing existing debt and relocation without job growth.
 
-## How To Access It
+## How To Use It
 
 - [Official program page](https://www.gohebervalley.com/Revolving-loan/) · https://www.gohebervalley.com/Revolving-loan/
 - Download application materials linked from the program page
@@ -42,7 +43,7 @@ Per the official page: $75 non-refundable application fee; $20 credit-report fee
 Mountainland businesses with a financing gap, collateral or leverage plan, and a credible job-creation story. A weak fit for companies seeking equity, grants, or financing outside the three-county service area.
 
 
-## Evidence## Evidence
+## Evidence
 
 - [Official program page](https://www.gohebervalley.com/Revolving-loan/) · https://www.gohebervalley.com/Revolving-loan/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/

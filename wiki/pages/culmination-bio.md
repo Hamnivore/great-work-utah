@@ -14,7 +14,8 @@
 **Location Precision:** exact
 **Location Source:** https://bioutah.org/culmination-bio-raises-10m-from-amgen-ventures-and-merck-global-health-innovation-fund-to-bring-longitudinal-health-data-to-biopharma/
 **Website:** https://intermountainhealthcare.org/services/genomics/research/collaborative-solutions/culmination/
-**Updated:** 2026-07-14
+**Domain:** health-bio
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/culmination-bio-clinical-data-2026/1600/1100
 **Pull:** *Forty years of Intermountain patient records — clinical, omics, tissue, and claims — organized for discovery partnerships.*

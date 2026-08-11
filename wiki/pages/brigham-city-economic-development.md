@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Relocate a Business to Utah, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Brigham City, UT
 **Utah Location:** Brigham City, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Brigham City
 **Map Location:** Brigham City Hall, 20 N Main Street, Brigham City, UT 84302
@@ -30,12 +30,12 @@ The economic development page provides city contact information, business-enviro
 
 ## How To Access It
 
-- [Economic Development](https://www.bcutah.gov/page/economic-development/) · https://www.bcutah.gov/page/economic-development/
-- Tom Kotter, Economic Development Director: (435) 734-6620
-- Destry Larsen, Administrative Assistant: (435) 734-6604
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.bcutah.gov/page/economic-development/) · https://www.bcutah.gov/page/economic-development/
 - Email: [plarsen@bcutah.gov](mailto:plarsen@bcutah.gov)
-- [Business licensing](https://www.bcutah.gov/page/business-licensing/) · https://www.bcutah.gov/page/business-licensing/
 - Startup State listing: https://startup.utah.gov/business-resource/brigham-city-economic-development/
+
 
 ## Cost / Eligibility
 

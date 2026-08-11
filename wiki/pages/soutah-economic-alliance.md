@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** Washington County, UT; Beaver, Garfield, Iron, Kane counties
 **Region:** southwestern Utah
 **Website:** https://soutah.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -17,7 +17,7 @@ The Southern Utah Economic Alliance (So.Utah) drives regional economic growth ac
 
 So.Utah also promotes regional statistics (job growth, tourism, tax environment) to attract employers.
 
-## Who It Helps
+## Who It's For
 
 Businesses expanding or relocating in Beaver, Garfield, Iron, Kane, and Washington counties; municipal leaders aligning regional grant and growth strategies; and site selectors needing workforce and site data.
 
@@ -25,12 +25,13 @@ Businesses expanding or relocating in Beaver, Garfield, Iron, Kane, and Washingt
 
 Regional economic profiles, site-selector toolkit access, business expansion/relocation support messaging, incentive-navigation help, and connections to local resources. Public pathways on the site are segmented for cities, site selectors, and businesses.
 
-## How To Access It
+## How To Use It
+
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://soutah.org/) · https://soutah.org/
-- Site selector toolkit and profile downloads linked from homepage
-- "Grow with us" business path on the homepage
 - Startup State listing: https://startup.utah.gov/business-resource/soutah-economic-alliance/
+
 
 ## Cost / Eligibility
 

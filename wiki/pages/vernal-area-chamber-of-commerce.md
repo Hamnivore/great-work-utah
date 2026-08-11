@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
 **Region:** Vernal
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.vernalchamber.com/
 **Website:** https://www.vernalchamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,11 +29,11 @@ Member directory and business catalogs; events calendar; membership join flow; D
 
 ## How To Access It
 
-- Join and browse events: https://www.vernalchamber.com/
-- Office phone: (435) 789-1352
-- Email: info@vernalchamber.com (listed on site)
-- Schedule Dinah-Mites for ribbon cuttings via chamber office
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.vernalchamber.com/) · https://www.vernalchamber.com/
 - Startup State listing: https://startup.utah.gov/business-resource/vernal-area-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

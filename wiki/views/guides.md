@@ -1,4 +1,4 @@
-# guide — 9 pages
+# guide — 10 pages
 
 Opinionated maps, playbooks, and durable Q&A. One line per page; fetch the page for detail and evidence.
 
@@ -10,4 +10,5 @@ Opinionated maps, playbooks, and durable Q&A. One line per page; fetch the page 
 - [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · `https://greatutah.work/pages/startup-capital-in-utah.md` · startup capital, non-dilutive funding, SBIR/STTR, deep tech, Utah · conf:M
 - [Utah Deep-Tech Map](/pages/utah-deep-tech-map.md) · `https://greatutah.work/pages/utah-deep-tech-map.md` · Utah deep tech, historical anchors, current ventures, ecosystem navigation · conf:M
 - [Where To Find SBIR Help In Utah](/pages/where-to-find-sbir-help-in-utah.md) · `https://greatutah.work/pages/where-to-find-sbir-help-in-utah.md` · SBIR, STTR, non-dilutive funding, proposal readiness · conf:M
+- [Where to Find Wet Lab Space in Utah](/pages/where-to-find-wet-lab-space-in-utah.md) · `https://greatutah.work/pages/where-to-find-wet-lab-space-in-utah.md` · wet-lab space, biotech incubators, shared lab, Altitude Lab, university facilities · conf:M
 - [Who Helps With Government Contracting In Utah](/pages/who-helps-with-government-contracting-in-utah.md) · `https://greatutah.work/pages/who-helps-with-government-contracting-in-utah.md` · government contracting, procurement, defense industrial base, supplier readiness · conf:M

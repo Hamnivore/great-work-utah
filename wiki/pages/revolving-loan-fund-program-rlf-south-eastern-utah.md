@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County
 **Region:** Southeastern Utah
@@ -11,8 +12,8 @@
 **Coordinates:** 39.5957889, -110.8362394
 **Location Precision:** exact
 **Location Source:** https://serda.utah.gov/contact
-**Website:** https://serda.utah.gov/
-**Updated:** 2026-07-14
+**Website:** https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,7 +30,7 @@ Businesses located in Carbon, Emery, Grand, or San Juan counties that have been 
 
 Non-traditional gap loans for uses such as working capital, equipment, leasehold improvements, construction, and land or building purchases. Indexed program FAQs describe loans from $10,000 to $150,000 with repayment periods of roughly 3–10 years.
 
-## How To Access It
+## How To Use It
 
 - Email: [cotto@seualg.utah.gov](mailto:cotto@seualg.utah.gov) (Startup State listing)
 - Indexed program contact: (435) 613-0031 (Housing/Self Help & Revolving Loan Fund staff)
@@ -46,7 +47,7 @@ Indexed SEUALG/SERDA materials reference a $250 application fee for completed pa
 Southeastern Utah founders with a bank turndown letter, a feasible business plan, and a credible job-impact story. A weak fit for companies outside the four-county area or seeking venture equity.
 
 
-## Evidence## Evidence
+## Evidence
 
 - Former RLF URL (auth/SSL issues): https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/
 

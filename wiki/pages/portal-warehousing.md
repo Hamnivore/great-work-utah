@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.join-portal.com/location/salt-lake-city
 **Website:** https://www.join-portal.com/location/salt-lake-city
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +28,7 @@ E-commerce founders, consumer-goods operators, and logistics-heavy businesses in
 
 Flexible warehouse units (small, medium, and large footprints), loading docks and logistics equipment, private offices, shipping and receiving services, technology-partner discounts, and community events. Day, week, and month pass booking widgets are exposed on the location page for short-term access inquiries.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://www.join-portal.com/location/salt-lake-city) · https://www.join-portal.com/location/salt-lake-city
 - Submit the location contact form or call (801) 441-4468

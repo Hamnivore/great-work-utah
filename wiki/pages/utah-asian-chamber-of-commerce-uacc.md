@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://utahasianchamber.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,10 +27,12 @@ Membership access to chamber events, mentorship connections, business resources,
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://utahasianchamber.org/) · https://utahasianchamber.org/
-- Become a member: https://utahasianchamber.org/become-a-member/
 - Email: [infouacc@gmail.com](mailto:infouacc@gmail.com)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-asian-chamber-of-commerce-uacc/
+
 
 ## Cost / Eligibility
 

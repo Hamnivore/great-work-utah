@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** research commercialization, professors, PhDs, postdocs, market discovery
+**Domain:** capital-programs, computing
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.nucleusutah.org/marketedge
 **Website:** https://www.nucleusutah.org/marketedge
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -23,7 +24,7 @@ Nucleus MarketEdge is a virtual, cohort-based commercialization program for prof
 
 MarketEdge fills an important early gap. Many serious technologies are not ready for an investor meeting or SBIR proposal on day one because the researcher has not yet translated the work into a customer, market, venture, and funding story. MarketEdge appears built to help a researcher ask whether a company should exist and what the path might look like.
 
-## Who It Helps
+## Who It's For
 
 The public page names professors, PhDs, and postdocs based at a Utah university or technical college. It is especially relevant for researchers who are curious about commercialization, willing to commit time each week, and open to feedback from founders, industry experts, and investors.
 
@@ -31,7 +32,7 @@ The public page names professors, PhDs, and postdocs based at a Utah university 
 
 The program includes peer cohort work, online modules, weekly virtual discussions, feedback, exposure to funding opportunities, market-readiness work, startup-formation context, and a pitch to active investors and experts.
 
-## How To Access It
+## How To Use It
 
 As accessed on 2026-05-09, the official page said registration was open for Fall 2026 until August 31 and that the cohort would run from September 28 to November 16. Because cohort dates are time-sensitive, verify the current page before making a live recommendation.
 

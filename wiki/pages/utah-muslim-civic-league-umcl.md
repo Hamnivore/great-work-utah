@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.utahmcl.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,9 +27,12 @@ Per Startup State: voter education, leadership development, advocacy, and commun
 
 ## How To Access It
 
-- Official website (unreachable in this review): https://www.utahmcl.com/
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.utahmcl.com/) · https://www.utahmcl.com/
 - Email: [info@utahmcl.com](mailto:info@utahmcl.com)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-muslim-civic-league-umcl/
+
 
 ## Cost / Eligibility
 

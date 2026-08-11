@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Funding
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Provo
 **Map Location:** BYU Rollins Center, South Campus Office Building, 735 N 500 E, Provo, UT 84606
@@ -30,9 +30,12 @@ Courses, lecture series, competitions, conferences, workshops, mentoring, Sandbo
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://marriott.byu.edu/cet/) · https://marriott.byu.edu/cet/
-- Email [cet@byu.edu](mailto:cet@byu.edu) or visit the South Campus Office Building contact page for advising and event schedules
+- Email: [cet@byu.edu](mailto:cet@byu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/brigham-young-university-byu-rollins-center/
+
 
 ## Cost
 

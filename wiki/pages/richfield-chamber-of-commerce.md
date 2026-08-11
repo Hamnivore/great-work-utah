@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Richfield, UT
 **Utah Location:** Richfield, UT
 **Region:** Richfield
@@ -11,15 +12,15 @@
 **Coordinates:** 38.7716015, -112.0847058
 **Location Precision:** exact
 **Location Source:** https://richfieldareachamber.com/contact/
-**Website:** https://members.richfieldareachamber.com/
-**Updated:** 2026-07-14
+**Website:** https://richfieldareachamber.com/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Richfield Area Chamber of Commerce supports Sevier County businesses through membership, networking luncheons, and marketing. Verified on the official membership site (2026-07-14; `richfieldareachamber.com` redirects here): three tiers — Basic ($300/year), Enhanced ($550/year), and Elite ($900/year) — include directory listings, newsletter, Fall Festival booth, quarterly education courses, and escalating luncheon and media benefits. New members receive ribbon-cutting support and $500 Mid-Utah Radio advertising.
 
-## Who It Helps
+## Who It's For
 
 Richfield and Sevier County businesses seeking structured chamber membership with published pricing, networking luncheons, and local media exposure.
 
@@ -27,7 +28,7 @@ Richfield and Sevier County businesses seeking structured chamber membership wit
 
 Tiered membership (Basic/Enhanced/Elite) with online directory profiles, newsletter, Fall Festival booth ($30), discounted Sevier County Entrepreneurship Program courses, monthly networking luncheons, Richfield Reaper and radio spotlights at higher tiers; new-member ribbon cutting and announcement package.
 
-## How To Access It
+## How To Use It
 
 - Join online: https://members.richfieldareachamber.com/
 - Choose Basic, Enhanced, or Elite tier on membership page

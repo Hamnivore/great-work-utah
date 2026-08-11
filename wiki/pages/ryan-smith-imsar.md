@@ -4,10 +4,11 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** RF engineering, synthetic aperture radar, defense technology, hardware startups
+**Domain:** aerospace-defense
 **Primary Location:** Utah Valley, UT
 **Utah Location:** Utah Valley, UT
 **Region:** Utah Valley
-**Updated:** 2026-06-19
+**Updated:** 2026-08-11
 
 ## Summary
 
@@ -21,11 +22,11 @@ IMSAR demonstrates that serious defense hardware can be developed and manufactur
 
 Deep RF engineering expertise, experience building a hardware startup in Utah with in-house manufacturing, and familiarity with defense procurement and UAS payload markets. Relevant for founders working in RF, radar, sensors, or defense technology.
 
-## What They Are Looking For
+## What They're Looking For
 
 Not known from public sources. Inference: engaged with RF and radar engineering, defense-tech partnerships, and UAS payload development. Utah defense tech ecosystem events may be a path.
 
-## Proof of Work
+## Track Record
 
 - Founder and CEO, IMSAR — miniaturized SAR for UAS, established defense supplier
 - Prior: lead RF engineer, Wavetronix (Utah radar sensor company)

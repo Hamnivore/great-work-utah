@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Escalante, UT
 **Utah Location:** Escalante, UT
 **Region:** Escalante
@@ -12,7 +12,7 @@
 **Coordinates:** 37.7675074, -111.6023339
 **Location Precision:** exact
 **Location Source:** https://www.escalantecity-utah.com/wp-content/uploads/2024/03/Escalante-General-Plan-.pdf
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,9 +31,12 @@ Per Startup State listing: furnished private offices, meeting room with conferen
 
 ## How To Access It
 
-- Listed website: https://www.escalantecity-utah.com/services/escalante-city-innovation-center/ (redirected/parked during verification)
-- Email: [ssteed@escalantecity.com](mailto:ssteed@escalantecity.com) (Startup State listing)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.escalantecity-utah.com/services/escalante-city-innovation-center/) · https://www.escalantecity-utah.com/services/escalante-city-innovation-center/
+- Email: [ssteed@escalantecity.com](mailto:ssteed@escalantecity.com)
 - Startup State listing: https://startup.utah.gov/business-resource/escalante-city-innovation-center/
+
 
 ## Cost
 
@@ -44,7 +47,7 @@ Startup State references daily, weekly, and monthly rates, but no live pricing p
 Remote professionals and founders who need a quiet furnished office in Escalante rather than a full incubator program. A weak fit for founders needing capital, manufacturing infrastructure, or frequent in-person advising — unless city staff confirms additional services.
 
 
-## Evidence## Evidence
+## Evidence
 
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Coalville, UT
 **Utah Location:** Summit County, UT
 **Region:** Summit County
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://business.utah.gov/statewide-economic-development-contacts/
 **Website:** https://www.summitcountyutah.gov/609/Economic-Development
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +21,7 @@ Summit County's Economic Development & Housing department supports business expa
 
 Contact county staff for current incentives and business-assistance menus.
 
-## Who It Helps
+## Who It's For
 
 Businesses operating in or relocating to Summit County (including Park City, Kimball Junction, and eastern Summit communities), and local leaders working on housing-economic balance.
 
@@ -29,11 +29,14 @@ Businesses operating in or relocating to Summit County (including Park City, Kim
 
 County economic-development and housing coordination, business expansion support, workforce and planning resources per Startup State, and staff contact through the county department. Pair with [Heber Valley Economic Development](heber-valley-economic-development.md) for Wasatch/back-valley context.
 
-## How To Access It
+## How To Use It
 
-- [Economic Development & Housing](https://www.summitcountyutah.gov/609/Economic-Development) · https://www.summitcountyutah.gov/609/Economic-Development
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.summitcountyutah.gov/609/Economic-Development) · https://www.summitcountyutah.gov/609/Economic-Development
 - Email: [jjones@summitcountyutah.gov](mailto:jjones@summitcountyutah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/summit-county-economic-development/
+
 
 ## Cost / Eligibility
 

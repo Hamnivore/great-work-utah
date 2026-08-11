@@ -25,7 +25,7 @@ International expansion is easy to recommend lazily and hard to execute well. Th
 
 For the wiki, it also helps avoid a common mismatch: not every growth company needs venture capital next. Some need customers, distributors, partners, export readiness, or a sharper international market-entry plan.
 
-## Who It Helps
+## Who It's For
 
 This resource helps Utah companies exploring export markets, international partnerships, trade shows, foreign investment connections, diplomatic channels, or market-entry support.
 
@@ -37,7 +37,7 @@ The GOEO page describes Utah's diplomatic and international business-promotion w
 
 For company-facing services, the page points businesses to World Trade Center Utah for trade missions, trade shows, workshops, and grant opportunities.
 
-## How To Access It
+## How To Use It
 
 Founders should start with the GOEO page for state context and then follow the World Trade Center Utah path for specific programs, trade missions, trade shows, workshops, and grants.
 

@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Salt+Mine+Productive+Workspace+7984+S+1300+E+Sandy+UT+84094
 **Website:** https://meetatsaltmine.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ Community workspace (weekday access), dedicated desks with 24/7 access, executiv
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://meetatsaltmine.com/) · https://meetatsaltmine.com/
-- Schedule a free tour via the site; email [info@meetatsaltmine.com](mailto:info@meetatsaltmine.com)
+- Email: [info@meetatsaltmine.com](mailto:info@meetatsaltmine.com)
 - Startup State listing: https://startup.utah.gov/business-resource/salt-mine/
+
 
 ## Cost
 

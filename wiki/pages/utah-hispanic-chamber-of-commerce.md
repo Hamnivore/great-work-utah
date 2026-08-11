@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -13,7 +13,7 @@
 **Location Source:** https://utahhcc.com/contact-us/
 **Additional Map Location:** 7181 S Campus View Dr, West Jordan, UT 84084 | 40.620495, -111.983019 | exact | https://utahhcc.com/contact-us/
 **Website:** https://utahhcc.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -30,10 +30,12 @@ The chamber offers advocacy, business guidance, a searchable member directory, e
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://utahhcc.com/) · https://utahhcc.com/
 - Email: [info@utahhcc.com](mailto:info@utahhcc.com)
-- [Member directory](https://utahhcc.com/) · https://utahhcc.com/
 - Startup State listing: https://startup.utah.gov/business-resource/utah-hispanic-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

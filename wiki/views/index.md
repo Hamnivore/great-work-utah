@@ -7,13 +7,13 @@ All pages live flat at `https://greatutah.work/pages/{slug}.md`; every view belo
 
 ## By type
 
-- [ventures](ventures.md) · `https://greatutah.work/views/ventures.md` — 119 companies, labs, initiatives (with needs inline)
-- [resources](resources.md) · `https://greatutah.work/views/resources.md` — 220 grants, accelerators, facilities, capital paths
+- [ventures](ventures.md) · `https://greatutah.work/views/ventures.md` — 127 companies, labs, initiatives (with needs inline)
+- [resources](resources.md) · `https://greatutah.work/views/resources.md` — 225 grants, accelerators, facilities, capital paths
 - [people](people.md) · `https://greatutah.work/views/people.md` — 12 founders, researchers, operators
 - [helpers](helpers.md) · `https://greatutah.work/views/helpers.md` — 12 advisors, funds, service providers
 - [work](work.md) · `https://greatutah.work/views/work.md` — 34 historical proofs of what Utah has built
-- [guides](guides.md) · `https://greatutah.work/views/guides.md` — 9 opinionated maps and playbooks
-- [sources](sources.md) · `https://greatutah.work/views/sources.md` — 210 public evidence records
+- [guides](guides.md) · `https://greatutah.work/views/guides.md` — 10 opinionated maps and playbooks
+- [sources](sources.md) · `https://greatutah.work/views/sources.md` — 224 public evidence records
 
 ## Derived
 

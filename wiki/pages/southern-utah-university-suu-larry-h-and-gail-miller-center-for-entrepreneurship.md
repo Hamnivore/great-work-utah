@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Marketing and Sales
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
 **Region:** Cedar City
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.suu.edu/business/entrepreneurship/contact.html
 **Website:** https://www.suu.edu/business/entrepreneurship/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ Entrepreneurship programming across education, experience, and elevation pillars
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.suu.edu/business/entrepreneurship/) · https://www.suu.edu/business/entrepreneurship/
-- Email [entrepreneur@suu.edu](mailto:entrepreneur@suu.edu) or visit BUS 115 on the Cedar City campus
+- Email: [entrepreneur@suu.edu](mailto:entrepreneur@suu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/southern-utah-university-suu-larry-h-gail-miller-center-for-entrepreneurship/
+
 
 ## Cost
 

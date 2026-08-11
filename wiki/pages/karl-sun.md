@@ -4,10 +4,11 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** B2B SaaS, visual collaboration, enterprise software, founder leadership
+**Domain:** computing
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT
 **Region:** South Jordan
-**Updated:** 2026-06-21
+**Updated:** 2026-08-11
 **Hero:** https://picsum.photos/seed/karl-sun-2026/1600/1100
 **Pull:** *BYU graduate who co-founded Lucidchart and built one of Utah's largest private SaaS companies.*
 **Relates:** helps [Lucid Software](lucid-software.md) · https://greatutah.work/pages/lucid-software.md
@@ -32,11 +33,11 @@ As CEO through growth and stability, Sun provides a live reference point for ent
 - Utah-rooted founder network spanning BYU alumni, Silicon Slopes community, and early enterprise SaaS
 - Evidence that staying in Utah rather than relocating is compatible with institutional venture investment and enterprise customer acquisition
 
-## What They Are Looking For
+## What They're Looking For
 
 No public signals of advisory or investment activity. As a sitting CEO, Sun's primary role is running Lucid. Utah ecosystem and BYU alumni contexts are where he has historically been most visible.
 
-## Proof of Work
+## Track Record
 
 - Co-founded Lucid Software (2010); still CEO as of 2026
 - Oversaw growth to 10M+ users and Fortune 500 penetration

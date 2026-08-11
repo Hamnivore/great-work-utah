@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://savoryfund.com/privacy-policy/
 **Website:** https://savoryfund.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

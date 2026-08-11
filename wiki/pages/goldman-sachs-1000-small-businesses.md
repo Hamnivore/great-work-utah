@@ -3,19 +3,19 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Taxes and Finance
+**Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://10ksbapply.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 Verified on 10ksbapply.com (2026-07-14): Goldman Sachs 10,000 Small Businesses is a multi-week business education program with a Babson College-designed curriculum, peer learning, and one-on-one business advising. The Goldman Sachs Foundation funds the program at $0 cost to participants. Public outcome stats report that most alumni increase revenue and many create jobs within 18–30 months of graduation.
 
-## Who It Helps
+## Who It's For
 
 Existing small business owners with operating businesses who want structured growth education, peer network access, and help building a growth plan — not pre-revenue founders.
 
@@ -23,11 +23,13 @@ Existing small business owners with operating businesses who want structured gro
 
 Intensive classroom-style modules, collaborative peer exercises, one-on-one business advice, and skills across financial management, marketing, negotiation, and employee management. Graduates join a national alumni network of 17,000+ business owners across all 50 states.
 
-## How To Access It
+## How To Use It
 
-- [Official application site](https://10ksbapply.com/) · https://10ksbapply.com/
-- Review eligibility, dates, and locations on the official site, then apply online
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://10ksbapply.com/) · https://10ksbapply.com/
 - Startup State listing: https://startup.utah.gov/business-resource/goldman-sachs-1000-small-businesses/
+
 
 ## Cost / Eligibility
 

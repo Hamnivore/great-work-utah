@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Late Stage Growth, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Uintah County, UT
 **Utah Location:** Uintah County, UT
 **Region:** Uintah County
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://business.uintah.gov/
 **Website:** https://business.uintah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,12 +29,12 @@ County economic snapshot and news, grants and resources directory, starting-a-bu
 
 ## How To Access It
 
-Use the official site menus for Grants & Resources and Starting a Business, or contact staff directly.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://business.uintah.gov/) · https://business.uintah.gov/
 - Email: [tcampbell@uintah.utah.gov](mailto:tcampbell@uintah.utah.gov)
-- Phone: 435-781-6767
 - Startup State listing: https://startup.utah.gov/business-resource/uintah-county-economic-development/
+
 
 ## Cost / Eligibility
 

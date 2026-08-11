@@ -8,14 +8,14 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
-We're offering a free seminar for small businesses & non-profits to learn how to formulate an Ai strategy that can be applied to each department. It will be held on Tues., June 24th in downtown Salt Lake. We are partnering with a local non-profit to make it an educational and applicable resource for smaller organizations. (Please email me if this event qualifies as a Resource for the Utah Startup Office. Thank you!).
+This was a one-time, free seminar in downtown Salt Lake City for small businesses and nonprofits developing an AI strategy. The imported copy advertised Tuesday, June 24; the calendar alignment indicates that date was June 24, 2025. It is a past event, not a currently available resource.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+The event no longer appears in the live Startup State directory, and no recurring edition was verified on 2026-08-11. Keep this page as a historical record of the listing; do not direct founders to it as an upcoming seminar.
 
 ## Who It Helps
 
@@ -44,14 +44,14 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+The registration page and contact below are retained as historical evidence. Check the organizer for a newly announced event rather than attempting to register for the 2025 seminar.
 
 - [Official website](https://comtel.zohobackstage.com/aistratagy#/?lang=en)
 - Email: [njohnson@comtelut.com](mailto:njohnson@comtelut.com)
 
 ## Cost / Eligibility
 
-Not specified in the CSV import. Verify current cost, application requirements, geographic coverage, and eligibility on the provider's official page.
+The 2025 event was advertised as free for small businesses and nonprofits. No current or recurring offer is verified.
 
 ## Best Fits
 
@@ -79,5 +79,6 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 ## Open Questions
 
 - Is the imported description still accurate on the provider's current website?
+- Has the organizer announced any successor to the June 24, 2025 seminar?
 - What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
 - Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?

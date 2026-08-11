@@ -12,7 +12,7 @@
 **Careers:** https://www.northropgrumman.com/careers
 **Website:** https://www.northropgrumman.com/what-we-do/space/missions/artemis/program
 **Domain:** aerospace-defense, materials-mfg
-**Updated:** 2026-06-19
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-06-19
 **Hero:** https://picsum.photos/seed/northrop-grumman-promontory-2026/1600/1100
 **Pull:** *The Utah facility where the solid rocket boosters for every Artemis Moon mission — and the solid stages for the US nuclear deterrent — are designed, built, and tested.*
@@ -24,7 +24,7 @@ The Northrop Grumman facility at Promontory, Utah is the primary US manufacturin
 
 This entry covers the Promontory facility as a Utah place of work with distinctive significance. It is not a startup and not a venture in the entrepreneurial sense. It is documented here because its work is civilizationally consequential, its Utah employment footprint (~5,000+ engineers and manufacturing personnel) anchors the northern Utah aerospace cluster, and it represents one of the clearest examples anywhere in the Mountain West of work that is genuinely irreplaceable.
 
-## What Makes the Promontory Presence Notable
+## Impact
 
 Every Artemis mission lifts off on solid rocket boosters built at Promontory. Each SLS booster is 153 feet long, 12 feet in diameter, and produces approximately 3.6 million pounds of thrust. Together, the two boosters provide 75% of SLS's total liftoff thrust. The first humans to return to the Moon since Apollo will ride on fire originating from this facility.
 

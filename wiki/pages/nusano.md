@@ -15,7 +15,8 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Nusano+4061+West+Parkway+Boulevard+West+Valley+City+UT
 **Website:** https://nusano.com
 **Careers:** https://nusano.com/careers/
-**Updated:** 2026-07-14
+**Domain:** health-bio, energy
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/nusano-radioisotope-accelerator-2026/1600/1100
 **Pull:** *Building domestic supply for the radioisotopes that next-generation cancer drugs depend on.*

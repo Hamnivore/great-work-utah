@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Emery County, UT
 **Utah Location:** Emery County, UT
 **Region:** Emery County
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.utah.gov/pmn/sitemap/publicbody/2218.html
 **Website:** https://www.emerycountychamber.com/emery-economic-development.html
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,12 @@ Fast Track Grant application assistance; tax incentives for growth; BEAR data-dr
 
 ## How To Access It
 
-- Official page: https://www.emerycountychamber.com/emery-economic-development.html
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.emerycountychamber.com/emery-economic-development.html) · https://www.emerycountychamber.com/emery-economic-development.html
 - Email: [jordanl@emery.utah.gov](mailto:jordanl@emery.utah.gov)
-- Phone: (435) 749-9025 (listed on the chamber ED page)
 - Startup State listing: https://startup.utah.gov/business-resource/emery-county-economic-development/
+
 
 ## Cost / Eligibility
 

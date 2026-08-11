@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.trumba.com/events-calendar/ut/orem/utah-valley-business-resource-center-events
 **Website:** https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,12 @@ Weekly 1 Million Cups sessions with presentation slots, audience feedback, and n
 
 ## How To Access It
 
-- [Official 1MC Orem page](https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut) · https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut) · https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
 - Email: [provo@1millioncups.com](mailto:provo@1millioncups.com)
-- Host: UVU Business Resource Center, Orem area
 - Startup State listing: https://startup.utah.gov/business-resource/1-million-cups-orem/
+
 
 ## Cost / Eligibility
 

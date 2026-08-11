@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT
 **Region:** Uinta Basin
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.ubaog.org/economic-development-district
 **Website:** https://www.ubaog.org/economic-development-district
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,10 +31,11 @@ Revolving loan fund financing ($5,000–$250,000 per published CARES Act guideli
 
 ## How To Access It
 
-- [UBEDD program page](https://www.ubaog.org/economic-development-district) · https://www.ubaog.org/economic-development-district
-- Request an RLF application: David Rust [davidr@ubaog.org](mailto:davidr@ubaog.org) or Kendra Hackford [kendrah@ubaog.org](mailto:kendrah@ubaog.org)
-- Office: 330 East 100 South, Roosevelt, UT 84066; (435) 722-4518
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.ubaog.org/economic-development-district) · https://www.ubaog.org/economic-development-district
 - Startup State listing: https://startup.utah.gov/business-resource/uintah-basin-economic-development-district/
+
 
 ## Cost / Eligibility
 

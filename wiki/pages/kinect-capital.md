@@ -13,7 +13,7 @@
 **Location Source:** https://utahfounders.org/resource/kinect-capital/
 **Website:** https://kinectcapital.org/
 **Domain:** capital-programs
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -22,7 +22,7 @@ Kinect Capital is a Salt Lake City 501(c)(3) nonprofit that describes itself as 
 
 For the wiki, Kinect Capital is best treated as a capital-readiness and investor-access resource rather than a fund that directly invests from its own balance sheet.
 
-## Who It Helps
+## Who It's For
 
 Kinect helps founders who are preparing to raise capital and need to become more investable: clearer story, stronger pitch, better investor materials, and a more credible understanding of valuation, terms, and fundraising process.
 
@@ -34,7 +34,7 @@ The official site describes a pathway from startup foundation to fundraising sup
 
 The site also reports outcomes such as founders raising capital and alumni exits; those should be treated as provider-reported proof points, not independently verified performance claims.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

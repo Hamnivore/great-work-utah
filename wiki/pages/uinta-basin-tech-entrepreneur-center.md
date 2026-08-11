@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Vernal, UT
 **Utah Location:** Uinta Basin
 **Region:** Uinta Basin
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://statewide.usu.edu/uintahbasin/directory/contact
 **Website:** https://statewide.usu.edu/uintahbasin/ecenter/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ Entrepreneurship minor coursework; free Grow Your Business course covering resou
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://statewide.usu.edu/uintahbasin/ecenter/) · https://statewide.usu.edu/uintahbasin/ecenter/
-- Email [cameron.cuch@usu.edu](mailto:cameron.cuch@usu.edu); sign up for CEML 5700 through the course link on the page
+- Email: [cameron.cuch@usu.edu](mailto:cameron.cuch@usu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/uinta-basin-tech-entrepreneur-center/
+
 
 ## Cost
 

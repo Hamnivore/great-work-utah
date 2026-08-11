@@ -4,12 +4,13 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** synthetic spider silk, biomaterials, advanced materials, university spinout
+**Roles:** manufacturing-operations
 **Stage:** Unknown (founded 2012; current operational status unverified)
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-07-14
+**Needs-reviewed:** 2026-08-11
 **Hero:** https://picsum.photos/seed/araknitek-2026/1600/1100
 **Relates:** cites [Official Website: Araknitek](araknitek-official-website.md) · https://greatutah.work/pages/araknitek-official-website.md
 
@@ -35,7 +36,7 @@ The core technical challenge is producing spider silk proteins in sufficient qua
 
 ## What They Need Now
 
-Unknown. Given the company's age and uncertain operational status, it is not clear whether Araknitek is actively hiring, seeking investment, or pursuing partnerships. Readers interested in spider silk commercialization should verify the current status of the organization before making contact.
+Current openings are unknown. If Araknitek remains the active commercialization vehicle, its load-bearing contributor need is manufacturing and scale-up: moving recombinant spider-silk protein from research quantities into repeatable bulk production. Readers should verify the organization's current status before treating this as an active opportunity.
 
 ## Who Could Help
 

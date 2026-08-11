@@ -8,7 +8,7 @@
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.score.org/utah
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -19,7 +19,7 @@ SCORE Utah is a mentoring and education resource for Utah small-business owners 
 
 SCORE is useful when the founder needs judgment from someone who has run a business, not just a link to a form. It can be a good early fit for an entrepreneur who needs a second set of eyes on planning, marketing, operations, or funding readiness.
 
-## Who It Helps
+## Who It's For
 
 SCORE Utah supports entrepreneurs and small-business owners across Utah. The public Utah page emphasizes statewide support, free confidential mentoring, workshops, and education.
 
@@ -27,7 +27,7 @@ SCORE Utah supports entrepreneurs and small-business owners across Utah. The pub
 
 SCORE provides mentor matching, business workshops, training, and educational resources. SBA's national SCORE page describes SCORE mentors as helping small businesses plan, launch, manage, and grow.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

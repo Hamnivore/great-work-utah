@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Washington, UT
 **Utah Location:** Washington, UT
 **Region:** Washington
 **Website:** https://washingtonutchamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,10 +25,12 @@ Business-community connection; tourism and shopping destination promotion; chamb
 
 ## How To Access It
 
-- Official site: https://washingtonutchamber.com/
-- Explore membership and contact forms on site
-- Pair with Washington County economic development for employer incentives
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://washingtonutchamber.com/) · https://washingtonutchamber.com/
+- Email: [hello@washareachamber.com](mailto:hello@washareachamber.com)
 - Startup State listing: https://startup.utah.gov/business-resource/washington-area-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

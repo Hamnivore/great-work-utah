@@ -24,7 +24,7 @@ Soundstream helped move recorded music out of the analog-tape era. The industry 
 
 Stockham himself is widely remembered in audio engineering as "the father of digital sound." His recognition includes an Emmy (1988), the first technical Grammy (1994), and a Scientific and Engineering Academy Award (1999, shared with Robert Ingebretsen, for waveform editing, crossfades, and cut-and-paste techniques for digital audio editing). He also served on the technical panel that examined the famous 18½-minute gap in the Nixon Watergate tapes.
 
-## What Was Created
+## What It Took
 
 Soundstream's product was an integrated digital recording and editing system: an analog front end, analog-to-digital conversion, a tape transport using computer/instrumentation tape for storage, error handling, and — crucially — software for computer-based editing. The hard problem was integration. Early digital audio had to overcome limits in converters, storage bandwidth, clock stability, and editing interfaces, and the result had to actually sound better than good analog tape and survive real recording sessions.
 

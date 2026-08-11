@@ -11,8 +11,8 @@
 **Coordinates:** 40.766686, -111.887425
 **Location Precision:** exact
 **Location Source:** https://www.sba.gov/district/utah
-**Website:** https://www.sba.gov/district/utah
-**Updated:** 2026-07-14
+**Website:** https://www.sba.gov/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -23,7 +23,7 @@ The SBA Utah District Office is the federal small-business doorway for Utah. It 
 
 SBA matters because many founders hear "funding" and assume venture capital. SBA-backed loans, counseling partners, and federal contracting programs can be more relevant for service businesses, manufacturers, veterans, rural firms, and businesses with tangible revenue or assets.
 
-## Who It Helps
+## Who It's For
 
 The Utah District Office serves small businesses across all 29 Utah counties. It is relevant for owners who need to understand SBA funding programs, counseling, contracting certifications, disaster recovery, or lender and partner referrals.
 
@@ -31,7 +31,7 @@ The Utah District Office serves small businesses across all 29 Utah counties. It
 
 The official page says the office helps with SBA services including funding programs, counseling, federal contracting certifications, and disaster recovery. It can also connect small businesses to partner organizations, lenders, and community groups.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

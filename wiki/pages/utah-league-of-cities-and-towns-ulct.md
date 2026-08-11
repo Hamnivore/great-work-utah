@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Other
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -11,8 +11,8 @@
 **Coordinates:** 40.767978, -111.874350
 **Location Precision:** exact
 **Location Source:** https://www.ulct.utah.gov/about/
-**Website:** https://www.ulct.utah.gov/
-**Updated:** 2026-07-14
+**Website:** https://www.ulct.org/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -30,9 +30,12 @@ Per Startup State and historical ULCT role: information, training, and technical
 
 ## How To Access It
 
-- [Official website](https://www.ulct.utah.gov/) · https://www.ulct.utah.gov/
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.ulct.org/) · https://www.ulct.org/
 - Email: [info@ulct.org](mailto:info@ulct.org)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-league-of-cities-towns-ulct/
+
 
 ## Cost / Eligibility
 

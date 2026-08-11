@@ -11,7 +11,8 @@
 **Region:** Salt Lake City
 **Website:** https://www.intactis.bio/
 **Careers:** https://www.intactis.bio/
-**Updated:** 2026-07-14
+**Domain:** computing, health-bio
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
 **Hero:** /img/heroes/front/intactis-bio-1600.webp
 **Hero caption:** *AI-generated illustration of a microfluidic biochip cradling living neural tissue, wired to a silicon microelectrode array — temporary synthetic placeholder, not a photograph of the actual Intactis Bio device. Replace with a license-cleared Intactis Bio image before any production use.*

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.utahfarmersmarketnetwork.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,12 +25,12 @@ Find-a-market directory and map, Farmers Market Manager Handbook, SNAP/DUFB and 
 
 ## How To Access It
 
-Browse resources free on the site; apply for membership via the Membership page (application + payment QR code).
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://www.utahfarmersmarketnetwork.org/) · https://www.utahfarmersmarketnetwork.org/
-- [Membership](https://www.utahfarmersmarketnetwork.org/membership) · https://www.utahfarmersmarketnetwork.org/membership
 - Email: [info@utahfarmersmarketnetwork.org](mailto:info@utahfarmersmarketnetwork.org)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-farmers-market-network/
+
 
 ## Cost / Eligibility
 

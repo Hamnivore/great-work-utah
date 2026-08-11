@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://business.utah.gov/contact/
 **Website:** https://startup.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +27,7 @@ The resource filter matters because it gives the wiki a state-sanctioned taxonom
 
 The available evidence suggests Startup State is trying to become that front door. The wiki can improve on it by explaining tradeoffs, fit, uncertainty, and next steps rather than only listing options.
 
-## Who It Helps
+## Who It's For
 
 Startup State is broadly useful for Utah entrepreneurs at any lifecycle stage: thinking about a business, starting, growing, seeking funding, finding events, or looking for support organizations.
 
@@ -37,7 +37,7 @@ It is especially useful as an intake surface for people who do not yet know the 
 
 The public resource page provides a searchable filter and category dimensions for topic, stage, community, industry, and location. The broader site includes startup journey pages, funding navigation, events, news, and a route for organizations to submit additional resources.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** hereditary cancer genetics, BRCA testing, gene patents, clinical genomics
+**Domain:** health-bio
 **Era:** 1991-present; core BRCA sequencing and commercialization in the 1990s
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,7 +14,7 @@
 **Location Precision:** exact
 **Location Source:** https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5
 **Website:** https://supreme.justia.com/cases/federal/us/569/576/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Pull:** *Utah's genealogy-powered cancer genetics helped create, and then legally reshape, the clinical market for inherited-risk testing.*
 
 ## Summary
@@ -22,13 +23,13 @@ Myriad Genetics was founded in 1991 by Mark Skolnick, a University of Utah genet
 
 Myriad was central to the sequencing and commercialization of BRCA1 and BRCA2 testing. It built a clinical testing business around inherited cancer risk and, through aggressive patent enforcement, held a powerful position over the U.S. BRCA testing market until the 2013 Supreme Court decision in *Association for Molecular Pathology v. Myriad Genetics* ruled that naturally occurring DNA sequences cannot be patented.
 
-## Why It Matters
+## Impact
 
 BRCA testing is among the most actionable forms of genetic information in medicine. People with pathogenic BRCA1 or BRCA2 variants face substantially elevated breast and ovarian cancer risks, and test results can change screening, prevention, surgery, and family counseling decisions.
 
 The Myriad story also changed law and industry structure. It proved that clinical genetic testing could be a serious business, then became the test case for whether naturally occurring genes could be privately controlled. The Supreme Court ruling opened competition in genetic testing and reshaped the boundary between discovery and invention in molecular diagnostics.
 
-## What Was Built
+## What It Took
 
 The hard problem was end-to-end translation before genomics was routine: use family studies to find disease-linked regions, sequence and validate genes, build a clinical lab, interpret variants, convince physicians and payers, and scale testing.
 

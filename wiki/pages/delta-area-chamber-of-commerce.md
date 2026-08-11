@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Delta, UT
 **Utah Location:** Delta, UT
 **Region:** Delta
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.deltautahchamber.com/
 **Website:** https://www.deltautahchamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,11 +29,12 @@ Monthly luncheons; community festivals and newsletters; member directory and new
 
 ## How To Access It
 
-- Official site: https://www.deltautahchamber.com/
-- Office: 75 West Main Street, Delta, UT 84624 (Tue/Thu 9:00–1:00)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.deltautahchamber.com/) · https://www.deltautahchamber.com/
 - Email: [deltautahchamber@gmail.com](mailto:deltautahchamber@gmail.com)
-- Phone: (435) 317-9108
 - Startup State listing: https://startup.utah.gov/business-resource/delta-area-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

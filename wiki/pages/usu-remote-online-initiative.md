@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Start a Business
+**Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://extension.usu.edu/remoteworkcertificate/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,9 +25,11 @@ Certified Remote Work Professional (1-month, 25-hour course); E-Commerce Acceler
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://extension.usu.edu/remoteworkcertificate/) · https://extension.usu.edu/remoteworkcertificate/
-- Select the relevant course page (remote work, e-commerce, sales, leadership, or job search) and follow enrollment instructions
 - Startup State listing: https://startup.utah.gov/business-resource/usu-remote-online-initiative/
+
 
 ## Cost
 

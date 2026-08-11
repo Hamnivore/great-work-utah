@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.uvu.edu/innovation/contact/index.php
 **Website:** https://www.uvu.edu/innovation/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,12 @@ Student, faculty, and partnership opportunity portals; programs including Career
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.uvu.edu/innovation/) · https://www.uvu.edu/innovation/
 - Email: [bgodoy@uvu.edu](mailto:bgodoy@uvu.edu)
-- Join the Innovation Academy email list via the site for events and open positions
 - Startup State listing: https://startup.utah.gov/business-resource/utah-valley-university-innovation-center-academy/
+
 
 ## Cost
 

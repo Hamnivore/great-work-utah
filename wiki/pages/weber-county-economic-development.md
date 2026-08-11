@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Late Stage Growth, Relocate a Business to Utah
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Ogden, UT
 **Utah Location:** Weber County, UT
 **Region:** Weber County
@@ -11,8 +11,8 @@
 **Coordinates:** 41.2231757, -111.9703339
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Weber+County+Economic+Development+2380+Washington+Boulevard+Ogden+UT
-**Website:** https://webercountyutah.gov/economic_development/
-**Updated:** 2026-07-14
+**Website:** https://webercountyutah.gov/weberedp/new/index.html
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,12 +29,12 @@ Direct ED director contact, linkage to Northern Utah Economic Alliance, economic
 
 ## How To Access It
 
-Contact the economic development director or use the official department page.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://webercountyutah.gov/economic_development/) · https://webercountyutah.gov/economic_development/
+- [Official website](https://webercountyutah.gov/weberedp/new/index.html) · https://webercountyutah.gov/weberedp/new/index.html
 - Email: [srussell@webercountyutah.gov](mailto:srussell@webercountyutah.gov)
-- Phone: 801-399-8419
 - Startup State listing: https://startup.utah.gov/business-resource/weber-county-economic-development/
+
 
 ## Cost / Eligibility
 

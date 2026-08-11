@@ -31,7 +31,7 @@ WordPerfect and Novell are the two pillars of Utah's pre-"Silicon Slopes" softwa
 
 WordPerfect became the best-selling word processor in the United States by the mid-1980s and reached as much as 60% of the worldwide word-processing market by the early 1990s, with especially deep adoption in law firms. Novell NetWare reached roughly a two-thirds share of the network-operating-system market at its early-1990s peak, with over half a million NetWare networks installed and tens of millions of users. For a stretch, Novell was the second-largest personal-computer software company in the world, behind only Microsoft.
 
-## What Was Created
+## What It Took
 
 WordPerfect was a keyboard-driven, function-key-centered word processor known for a clean "sparse" screen and its distinctive "Reveal Codes" view, which let users see and edit the hidden formatting codes inside a document. It ran on a wide range of machines and operating systems, and the company became famous for free, extensive telephone support at a time when that was rare. WordPerfect 4.2 (1986) and especially 5.1 (1989) set the DOS standard.
 

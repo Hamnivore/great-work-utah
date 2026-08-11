@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Ogden, UT
 **Utah Location:** Weber County, UT
 **Region:** Weber County
@@ -12,14 +13,14 @@
 **Location Precision:** exact
 **Location Source:** https://www.ogdenweberchamber.com/staff/
 **Website:** https://www.ogdenweberchamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Ogden-Weber Chamber of Commerce is Weber County's primary business membership organization, representing 990+ member organizations. Verified on the official site (2026-07-14): members get marketing through chamber communication channels, professional and leadership development, legislative advocacy, and operational savings on insurance and employee benefits. The chamber runs committees including Small Business Council, Women in Business, Leadership Northern Utah, and Legislative Affairs, plus a quarterly Membership 360 orientation for new and prospective members.
 
-## Who It Helps
+## Who It's For
 
 Weber County businesses of any size — from solo operators to 500+ employee organizations — seeking networking, visibility, advocacy, and employee-benefit programs. Also useful for new Ogden-area business owners who want structured introductions to the local business community.
 
@@ -27,7 +28,7 @@ Weber County businesses of any size — from solo operators to 500+ employee org
 
 Verified member benefits include customer-reach marketing, employee development programs, community and legislative advocacy, sponsored insurance and benefits plans, a searchable member directory, community guide, event calendar (100+ annual events per Startup State), and committee-based networking (Small Business Council, Women in Business, Professional Development, Military Affairs, Spikers ambassadors).
 
-## How To Access It
+## How To Use It
 
 - Browse benefits and join via the official site: https://www.ogdenweberchamber.com/
 - Attend a quarterly Membership 360 session at the Weber Center for an overview of committees and benefits.

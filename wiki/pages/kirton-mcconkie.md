@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** startup law, corporate formation, venture financing, M&A, securities, IP, general counsel
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, Lehi, and St. George, UT
 **Region:** statewide
@@ -15,7 +16,7 @@
 **Additional Map Location:** 2600 W Executive Pkwy, Suite 400, Lehi, UT 84048 | 40.4277780, -111.8919324 | exact | https://www.kirtonmcconkie.com/contact/
 **Additional Map Location:** 301 N 200 E, Suite 3A, St. George, UT 84770 | 37.1134047, -113.5796157 | exact | https://www.kirtonmcconkie.com/contact/
 **Website:** https://www.kirtonmcconkie.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -30,7 +31,7 @@ Many first-time Utah founders get the early legal layer wrong: a cap table that 
 
 A full-service corporate practice matters here because the same firm that forms the company can also paper the first priced round and run the sell-side of an acquisition years later — without the founder re-explaining the business to a new set of lawyers each time.
 
-## How They Help
+## Who They Help
 
 Based on the firm's public practice descriptions, Kirton McConkie can help a founder with:
 

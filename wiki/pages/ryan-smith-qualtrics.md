@@ -4,10 +4,11 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** enterprise software, experience management, Utah tech ecosystem, civic leadership
+**Domain:** computing
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Updated:** 2026-06-19
+**Updated:** 2026-08-11
 **Relates:** cites [Profile: Ryan Smith — Qualtrics Co-Founder](ryan-smith-qualtrics-bio.md) · https://greatutah.work/pages/ryan-smith-qualtrics-bio.md · https://www.qualtrics.com/company/about/
 
 ## Summary
@@ -22,11 +23,11 @@ Smith's Qualtrics run is the defining proof point of Utah enterprise software at
 
 The Qualtrics playbook — build in Utah, serve enterprise buyers globally, exit at scale, stay. For founders and the ecosystem, Smith's primary contribution is as a case study and civic anchor, not a day-to-day advisor. He has spoken publicly about company culture, the deliberate choice to stay in Utah, and what it takes to compete globally from the Wasatch Front.
 
-## What They Are Looking For
+## What They're Looking For
 
 Not known from public sources. Smith appears focused on the Utah Jazz and remaining engaged with Qualtrics's direction as a majority-private-equity-controlled company. Ecosystem events and civic leadership remain his primary public outputs.
 
-## Proof of Work
+## Track Record
 
 - Co-founded Qualtrics (2002); SAP acquisition for $8B (2018); NASDAQ IPO (2021); $12.5B take-private (2023)
 - Maintained Utah headquarters and Utah workforce through SAP ownership and post-IPO phases

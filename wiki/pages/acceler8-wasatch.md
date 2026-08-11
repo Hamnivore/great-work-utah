@@ -8,7 +8,7 @@
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.acceler8wasatch.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,11 +27,12 @@ Per the Startup State listing: ecosystem-building support for innovation and ent
 
 ## How To Access It
 
-- Listed website: https://www.acceler8wasatch.com/ (unreachable during verification)
-- Email: [info@uammi.org](mailto:info@uammi.org) (Startup State listing — may route through UAMMI partner)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.acceler8wasatch.com/) · https://www.acceler8wasatch.com/
+- Email: [info@uammi.org](mailto:info@uammi.org)
 - Startup State listing: https://startup.utah.gov/business-resource/acceler8-wasatch/
 
-Contact the listed email to confirm whether Acceler8 Wasatch is still active and which partner organization now hosts programming.
 
 ## Cost
 
@@ -42,7 +43,7 @@ No public cost information available; official site is down.
 Potentially aerospace/defense and hard-tech founders seeking northern Utah ecosystem connections — but only after confirming current programming through UAMMI or Startup State staff. Do not recommend strongly until a live official source is restored.
 
 
-## Evidence## Evidence
+## Evidence
 
 - Wayback snapshot: https://web.archive.org/web/20241216133901/https://www.acceler8wasatch.com/
 

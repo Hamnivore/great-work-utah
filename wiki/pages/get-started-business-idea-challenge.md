@@ -7,8 +7,8 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/business-resource/get-started-business-idea-challenge/
-**Updated:** 2026-07-14
+**Website:** https://startup.utah.gov/get-started/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -45,9 +45,10 @@ Potential fit for idea-stage Utah founders who need a small validation budget an
 - Topics: Funding, Start a Business
 - Stages: Idea (pre-revenue), Product Built (pre-revenue)
 - Communities: Multicultural, New American, Rural, Student, Veteran, Women
-- Industries: broad industry list on Startup State card
-- Locations: statewide (all 29 counties on Startup State card)
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
 - Listing modified: 2024-12-10T12:56:30
+
 
 ## Evidence
 

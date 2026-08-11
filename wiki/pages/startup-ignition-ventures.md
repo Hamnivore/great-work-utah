@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.startupignition.com/bootcamp/courses/provo-18
 **Website:** https://startupignition.com/ventures
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +21,7 @@ Startup Ignition Ventures (SIV) is a Utah-based pre-seed venture fund that inves
 
 SIV is best treated as an early check and founder-development partner, not a passive capital source.
 
-## Who It Helps
+## Who It's For
 
 SIV targets pre-seed founders building B2B software, AI, or SaaS businesses who can show customer validation and are preparing for their first institutional-style round. It may especially fit Utah and Intermountain West founders already connected to Startup Ignition education or community programs.
 
@@ -29,14 +29,14 @@ SIV targets pre-seed founders building B2B software, AI, or SaaS businesses who 
 
 The official site describes pre-seed investment plus structured founder support: ToolSuite (AI-powered validation workflow), mentor access, portfolio community, and transparent diligence through SIV Instant (initial response within 24 hours). The fund reports 23+ portfolio companies and ties into Startup Ignition Bootcamp and Academy pathways.
 
-## How To Access It
+## How To Use It
 
-Start with the Ventures site, then use the public application path.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://startupignition.com/ventures) · https://startupignition.com/ventures
-- Apply for funding: https://startupignition.com/ventures (Pitch SIV / Apply for Funding)
 - Email: [ventures@startupignition.com](mailto:ventures@startupignition.com)
 - Startup State listing: https://startup.utah.gov/business-resource/startup-ignition-ventures/
+
 
 ## Cost / Eligibility
 

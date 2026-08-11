@@ -3,12 +3,13 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities
+**Domain:** capital-programs
 **Primary Location:** Monticello, UT
 **Utah Location:** Monticello, UT
 **Region:** Monticello
 **Website:** https://members.monticellocoworking.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -23,7 +24,7 @@ Remote workers, entrepreneurs, and small businesses in southeastern Utah (San Ju
 
 Coworking lounge access, reservable conference room (seats up to 12 at the table or 25 auditorium-style), two privacy booths, lounge meeting area, and small private offices for monthly rental. Amenities listed include 24/7 member access, WiFi, furnished offices, kitchen, lockers, printing, and security.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://members.monticellocoworking.com/) · https://members.monticellocoworking.com/
 - Hours: Monday–Friday 8:45 AM–7:00 PM; closed weekends
@@ -39,7 +40,7 @@ Membership and punch-pass pricing are presented on the booking site (not machine
 Southeastern Utah operators who need flexible workspace and meeting rooms without relocating to a metro incubator. A weak fit for founders needing structured accelerator programming, manufacturing tools, or capital access on site.
 
 
-## Evidence## Evidence
+## Evidence
 
 - [Official website](https://members.monticellocoworking.com/) · https://members.monticellocoworking.com/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/

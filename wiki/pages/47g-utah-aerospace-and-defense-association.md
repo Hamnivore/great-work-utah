@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.linkedin.com/company/47g
 **Website:** https://www.47g.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

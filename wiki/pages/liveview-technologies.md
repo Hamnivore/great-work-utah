@@ -16,7 +16,8 @@
 **Additional Map Location:** LVT Manufacturing, 151 E 3450 N, Spanish Fork, UT 84660 | 40.1546825, -111.6539214 | exact | https://www.lvt.com/contact
 **Website:** https://www.lvt.com
 **Careers:** https://job-boards.greenhouse.io/liveviewtechnologiesinc
-**Updated:** 2026-07-14
+**Domain:** computing, aerospace-defense
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/lvt-mobile-surveillance-unit-2026/1600/1100
 **Pull:** *Solar-powered, rapidly deployable surveillance trailers and AI video — one of Utah's largest private security-tech companies.*

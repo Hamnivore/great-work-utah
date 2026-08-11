@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Marketing and Sales
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -11,8 +11,8 @@
 **Coordinates:** 37.1004513, -113.5705685
 **Location Precision:** exact
 **Location Source:** https://innovation.utahtech.edu/contact-us/
-**Website:** https://innovation.utahtech.edu/business-resource-center/
-**Updated:** 2026-07-14
+**Website:** https://innovation.utahtech.edu/business-resource-center-at-dsu/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ No-cost business consultations; startup roadmap support; connections to business
 
 ## How To Access It
 
-- [Official website](https://innovation.utahtech.edu/business-resource-center/) · https://innovation.utahtech.edu/business-resource-center/
-- Email [businesshelp@utahtech.edu](mailto:businesshelp@utahtech.edu) or call 435-652-7741; office at Atwood Innovation Plaza #175
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://innovation.utahtech.edu/business-resource-center-at-dsu/) · https://innovation.utahtech.edu/business-resource-center-at-dsu/
+- Email: [businesshelp@utahtech.edu](mailto:businesshelp@utahtech.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-tech-university-atwood-innovation-center/
+
 
 ## Cost
 

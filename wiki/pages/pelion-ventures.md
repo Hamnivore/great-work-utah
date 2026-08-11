@@ -4,11 +4,12 @@
 **Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://pelionvp.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -24,7 +25,7 @@ Early-stage technology founders building software businesses — especially B2B 
 - Early-stage venture capital for software-based technology companies
 - Portfolio support from an established Utah venture platform
 
-## How To Access
+## How To Use It
 
 - Contact through the official site
 - [Official website](https://pelionvp.com/) · https://pelionvp.com/

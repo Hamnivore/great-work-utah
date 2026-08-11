@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.nucleusutah.org/grow
 **Website:** https://www.nucleusutah.org/grow
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,12 @@ SBIR/STTR topic matching, proposal development and editing, monthly SBIR 101 wor
 
 ## How To Access It
 
-- [Nucleus Grow](https://www.nucleusutah.org/grow) · https://www.nucleusutah.org/grow
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.nucleusutah.org/grow) · https://www.nucleusutah.org/grow
 - Email: [grow@nucleusutah.org](mailto:grow@nucleusutah.org)
-- Attend the monthly SBIR 101 workshop (first Wednesday of each month), then schedule a consultation
 - Startup State listing: https://startup.utah.gov/business-resource/utah-innovation-center/
+
 
 ## Cost / Eligibility
 

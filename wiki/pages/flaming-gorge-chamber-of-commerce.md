@@ -3,19 +3,19 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Daggett County, UT
 **Utah Location:** Daggett County, UT
 **Region:** Daggett County
 **Website:** https://www.flaminggorgecountry.com/Chamber-of-Commerce/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Flaming Gorge Chamber of Commerce serves Daggett County and the Flaming Gorge tourism region. Verified on the official site (2026-07-14): the chamber acts as the regional marketing organization, sponsors year-round area events, and holds regular meetings for area business issues and community growth. Annual membership dues are published at $60, with free business listing on flaminggorgecountry.com and in the Flaming Gorge Adventure Guide.
 
-## Who It Helps
+## Who It's For
 
 Daggett County and Flaming Gorge-area businesses — especially tourism, recreation, and hospitality operators — seeking regional marketing exposure and event participation.
 
@@ -23,11 +23,13 @@ Daggett County and Flaming Gorge-area businesses — especially tourism, recreat
 
 Regional tourism marketing; chamber membership with website and Adventure Guide listing; sponsorship and execution of popular summer events (fireworks, parades); meeting agendas and minutes for area business forums; P.O. Box 122, Manila, UT 84046.
 
-## How To Access It
+## How To Use It
 
-- Chamber page: https://www.flaminggorgecountry.com/Chamber-of-Commerce/
-- Submit membership form and fees per on-page instructions (include brochure or business card for web listing)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.flaminggorgecountry.com/Chamber-of-Commerce/) · https://www.flaminggorgecountry.com/Chamber-of-Commerce/
 - Startup State listing: https://startup.utah.gov/business-resource/flaming-gorge-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

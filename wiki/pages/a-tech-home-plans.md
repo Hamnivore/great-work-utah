@@ -8,14 +8,14 @@
 **Utah Location:** Davis County, UT
 **Region:** Davis County
 **Website:** https://startup.utah.gov/resources/
-**Updated:** 2026-05-09
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
-A‑TECH Home Plans is a Utah-based residential design firm with over 20 years of experience and 400+ completed projects. Specializing in custom homes, remodels, ADUs, and additions, we provide tailored design solutions that blend creativity, functionality, and local building expertise. From concept to construction plans, we help bring your vision to life—efficiently and affordably.
+A‑TECH Home Plans was listed in the Startup State directory as a Davis County residential-design firm serving custom-home, remodel, ADU, and addition projects. The imported listing claimed more than 20 years of experience and 400 completed projects; those figures have not been independently verified.
 
-This page was bulk-imported from the Startup State resource CSV so the resource is discoverable in the wiki. It needs a future editorial pass against the provider's current official page before the wiki makes strong recommendations from it.
+This page was bulk-imported from the Startup State resource CSV. The listing no longer appears in the live directory, and a current official page was not independently verified on 2026-08-11. Treat the page as a lead to a commercial provider, not as a currently endorsed state resource.
 
 ## Who It Helps
 
@@ -35,7 +35,7 @@ The imported description suggests this resource may provide support related to:
 
 ## How To Access It
 
-Start with the official link or contact information from the CSV, then verify the current program details before recommending it to a founder.
+Verify that the provider is still operating and confirm scope, pricing, and credentials before making a referral.
 
 - [Official website](https://atechhomeplans.com/)
 - Email: [enperetti2007@gmail.com](mailto:enperetti2007@gmail.com)

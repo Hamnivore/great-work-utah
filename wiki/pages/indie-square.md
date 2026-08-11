@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Murray, UT
 **Utah Location:** Murray, UT
 **Region:** Murray
 **Website:** https://www.indiesquare.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,9 +25,12 @@ Colocation office space, meeting and event venues, member community connections,
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.indiesquare.org/) · https://www.indiesquare.org/
-- Schedule a tour via the site; email [community@indiesquare.org](mailto:community@indiesquare.org) or call (801) 613-7150
+- Email: [community@indiesquare.org](mailto:community@indiesquare.org)
 - Startup State listing: https://startup.utah.gov/business-resource/indie-square/
+
 
 ## Cost
 

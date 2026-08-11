@@ -19,13 +19,13 @@ The Utah Test and Training Range is a Department of Defense range complex in Uta
 
 The modern range traces through Wendover, Hill, and Dugway range complexes and was redesignated as UTTR under Air Force Systems Command in 1979. It is one of the reasons Utah's aerospace and defense ecosystem is not only about companies and bases, but about physical test infrastructure.
 
-## Why It Matters
+## Impact
 
 Advanced aircraft and weapons need space. Supersonic flight, standoff weapons, cruise missiles, electronic instrumentation, large-force exercises, and live ordnance cannot be tested realistically over ordinary land. UTTR provides the safety footprint, airspace, terrain, instrumentation, and range operations needed before systems are used in war.
 
 The range also sits inside a larger Utah defense geography: Hill Air Force Base, Dugway Proving Ground, the former Wendover Army Air Field, solid-rocket manufacturing in northern Utah, and the West Desert's sparse population and huge open spaces.
 
-## What Was Built
+## What It Took
 
 The hard problem is making dangerous, fast, long-range, instrumented tests both useful and controlled. That requires more than empty desert: airspace management, target complexes, telemetry, communications, radar tracking, mission control, explosive-ordnance handling, environmental compliance, scheduling, and coordination among services and contractors.
 

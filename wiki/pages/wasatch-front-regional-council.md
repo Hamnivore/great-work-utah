@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Relocate a Business to Utah
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Davis County, UT; Morgan County, UT; Salt Lake County, UT; Tooele County, UT; Weber County, UT
 **Region:** Wasatch Front
@@ -11,8 +11,8 @@
 **Coordinates:** 40.7680904, -111.9039983
 **Location Precision:** exact
 **Location Source:** https://wfrc.org/contact/
-**Website:** https://wfrc.org/
-**Updated:** 2026-07-14
+**Website:** https://wfrc.org/contact/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,11 @@ Transportation Improvement Program and long-range planning, Wasatch Choice Visio
 
 ## How To Access It
 
-Use wfrc.org program pages (Funding & Assistance, Maps & Data) or contact WFRC for project-specific technical assistance.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://wfrc.org/) · https://wfrc.org/
+- [Official website](https://wfrc.org/contact/) · https://wfrc.org/contact/
 - Startup State listing: https://startup.utah.gov/business-resource/wasatch-front-regional-council/
+
 
 ## Cost / Eligibility
 

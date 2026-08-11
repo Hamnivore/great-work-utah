@@ -18,13 +18,13 @@ Thiokol opened its Wasatch Division facility near Promontory, Utah, in 1956. The
 
 The most visible civilian symbol is the Space Shuttle Solid Rocket Booster, whose segments were manufactured in Utah and provided most of the thrust at liftoff. The less comfortable historical reality is that much of the facility's first importance came from nuclear-delivery systems and missile programs.
 
-## Why It Matters
+## Impact
 
 Solid rocket motors solve a different problem than liquid engines. They can sit ready for long periods, fire quickly, and deliver enormous thrust with comparatively simple launch operations. That made them central to missile readiness and later to heavy-lift launch architecture.
 
 Utah's contribution was industrial: making very large solid motors repeatably enough that national programs could depend on them. The work shaped the Minuteman and Polaris era, the Shuttle era, and the Space Launch System booster lineage.
 
-## What Was Built
+## What It Took
 
 The facility built chemistry and process control as much as hardware. Large solid motors need propellant that burns predictably, bonds reliably, tolerates storage and temperature changes, and can be inspected for flaws that would become catastrophic at ignition. The Shuttle booster program pushed those disciplines to an iconic scale.
 

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Marketing and Sales
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
 **Region:** Vernal
 **Website:** https://www.vernaldowntown.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,11 +25,12 @@ Business networking and training sessions, downtown events and promotions, resou
 
 ## How To Access It
 
-Browse Resources and News & Events on the official site, subscribe to the newsletter, or email to get involved.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://www.vernaldowntown.org/) · https://www.vernaldowntown.org/
 - Email: [vernaldt@gmail.com](mailto:vernaldt@gmail.com)
 - Startup State listing: https://startup.utah.gov/business-resource/vernal-downtown-alliance/
+
 
 ## Cost / Eligibility
 

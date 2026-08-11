@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
-**Focus:** Funding
+**Focus:** Funding, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://sorensonimpactfoundation.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

@@ -3,19 +3,20 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Parowan, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.ruralutahcc.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Rural Utah Chamber Coalition (RUCC) is a partnership of rural chamber executives, board members, elected leaders, and government liaisons advocating for rural Utah communities. Verified on ruralutahcc.org: RUCC holds monthly meetings with government updates and grant training, partners with elected leaders, and provides resources for rural chamber success.
 
-## Who It Helps
+## Who It's For
 
 Rural Utah chamber leaders and board members; elected officials and economic development liaisons in non-metro counties; businesses indirectly through stronger rural chamber programming — individual founders typically engage via their local chamber.
 
@@ -23,7 +24,7 @@ Rural Utah chamber leaders and board members; elected officials and economic dev
 
 Monthly coalition meetings (grant info, government updates, executive training), advocacy for rural chamber issues, training library, chamber collaboration tools, RUCC conference, membership directory, and email/calendar subscriptions for rural ED news.
 
-## How To Access It
+## How To Use It
 
 Register on ruralutahcc.org, subscribe to emails/calendar, or contact info@ruralutahcc.org for membership.
 

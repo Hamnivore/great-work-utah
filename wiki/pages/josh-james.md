@@ -4,10 +4,11 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** enterprise SaaS, web analytics, business intelligence, Utah tech ecosystem
+**Domain:** computing
 **Primary Location:** Utah Valley, UT
 **Utah Location:** Utah Valley, UT
 **Region:** Utah Valley
-**Updated:** 2026-06-19
+**Updated:** 2026-08-11
 **Relates:** cites [Profile: Josh James — Omniture and Domo](josh-james-domo-bio.md) · https://greatutah.work/pages/josh-james-domo-bio.md · https://www.domo.com/company
 
 ## Summary
@@ -22,11 +23,11 @@ James's two companies form the clearest through-line of Silicon Slopes as an ent
 
 Operational depth in building enterprise data products and analytics companies. His primary ecosystem contribution is the Omniture exit and the downstream operator community it created, alongside Domo as an ongoing existence proof of a Utah-built public cloud software company.
 
-## What They Are Looking For
+## What They're Looking For
 
 Not known from public sources. James appears primarily focused on leading Domo through its next strategic phase. His Utah civic engagement suggests continued openness to ecosystem-level conversations.
 
-## Proof of Work
+## Track Record
 
 - Co-founded Omniture (1996); NASDAQ IPO (2006); Adobe acquisition for $1.8B (2009)
 - Founded Domo (2010); NASDAQ IPO (2018, ticker DOMO)

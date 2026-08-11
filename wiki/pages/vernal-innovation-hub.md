@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
 **Region:** Vernal
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.vernalinnovationhub.com/uintahspeedpitch
 **Website:** https://www.vernalinnovationhub.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ Coworking open workspace, dedicated desks, private offices, hourly conference an
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.vernalinnovationhub.com/) · https://www.vernalinnovationhub.com/
-- Book a tour via the site; email: [smillett@vernal.gov](mailto:smillett@vernal.gov)
+- Email: [smillett@vernal.gov](mailto:smillett@vernal.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/vernal-innovation-hub/
+
 
 ## Cost
 

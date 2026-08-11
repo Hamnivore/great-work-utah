@@ -15,7 +15,8 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Huntsman+Cancer+Institute+2000+Circle+of+Hope+Salt+Lake+City+UT
 **Website:** https://healthcare.utah.edu/huntsmancancerinstitute
 **Careers:** https://healthcare.utah.edu/huntsmancancerinstitute/about-us/careers
-**Updated:** 2026-07-14
+**Domain:** health-bio
+**Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
 **Hero:** https://picsum.photos/seed/huntsman-cancer-institute-research-2026/1600/1100
 **Pull:** *The Mountain West's only NCI Comprehensive Cancer Center — and the place where more inherited-cancer genes have been found than anywhere else.*

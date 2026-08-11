@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.utahalliance.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,12 +25,12 @@ Quarterly statewide training meetings in rotating host cities, membership networ
 
 ## How To Access It
 
-Review membership options on the official site; events and resources are listed under Events and Resources.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://www.utahalliance.com/) · https://www.utahalliance.com/
-- [About / membership](https://www.utahalliance.com/about) · https://www.utahalliance.com/about
 - Email: [utahalliance@utahalliance.com](mailto:utahalliance@utahalliance.com)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-alliance-for-economic-development/
+
 
 ## Cost / Eligibility
 

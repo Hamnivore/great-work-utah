@@ -8,7 +8,7 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://crosscreek.vc/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,10 +27,12 @@ Late-stage investment access through Cross Creek fund relationships; portfolio e
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://crosscreek.vc/) · https://crosscreek.vc/
-- Email: [info@crosscreek.vc](mailto:info@crosscreek.vc) · T. 801.214.0010
-- Office: 505 Wakara Way #215, Salt Lake City, UT 84108
+- Email: [info@crosscreek.vc](mailto:info@crosscreek.vc)
 - Startup State listing: https://startup.utah.gov/business-resource/cross-creek/
+
 
 ## Cost
 

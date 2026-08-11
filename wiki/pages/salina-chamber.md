@@ -3,19 +3,19 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salina, UT
 **Utah Location:** Salina, UT
 **Region:** Salina
 **Website:** https://www.salina.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 Startup State lists the Salina Chamber with `salina.utah.gov`, which is the Salina City government site — not a chamber homepage. Verified on Salina City's local-organizations page (2026-07-14): the active business group is the **North Sevier Chamber of Commerce** (PO Box 113, chamber@salinaut.org, (435) 650-6821), meeting first Thursdays at member restaurants. The previously linked `salinaut.com` domain did not load. Treat this page as a URL mismatch until Startup State or the chamber publishes a working official site.
 
-## Who It Helps
+## Who It's For
 
 Sevier Valley businesses around Salina seeking a local chamber network — likely through the North Sevier Chamber of Commerce rather than the city website.
 
@@ -23,11 +23,13 @@ Sevier Valley businesses around Salina seeking a local chamber network — likel
 
 Per Salina City's organizations listing: monthly chamber meetings, business networking among Sevier Valley members, and contact via chamber@salinaut.org. Startup State's imported description (1,200+ member nonprofit) could not be verified on any live official chamber site reviewed.
 
-## How To Access It
+## How To Use It
 
-- Salina City local organizations (lists North Sevier Chamber): https://www.salina.utah.gov/explore/local_organizations.php
-- Email listed for North Sevier Chamber: [chamber@salinaut.org](mailto:chamber@salinaut.org), (435) 650-6821
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.salina.utah.gov/) · https://www.salina.utah.gov/
 - Startup State listing: https://startup.utah.gov/business-resource/salina-chamber/
+
 
 ## Cost / Eligibility
 

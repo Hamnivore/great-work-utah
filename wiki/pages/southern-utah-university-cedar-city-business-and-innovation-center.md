@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Funding
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
 **Region:** Cedar City
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.suu.edu/regional/bic/
 **Website:** https://www.suu.edu/regional/bic/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,12 @@ Gateway access to Utah SBDC counseling, Utah APEX Accelerator, SUU Startup, and 
 
 ## How To Access It
 
-- [SUU BIC portal](https://www.suu.edu/regional/bic/) · https://www.suu.edu/regional/bic/
-- [Innovation Center](https://innovationcenter.cc/) · https://innovationcenter.cc/
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.suu.edu/regional/bic/) · https://www.suu.edu/regional/bic/
 - Email: [brc@suu.edu](mailto:brc@suu.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/southern-utah-university-cedar-city-business-innovation-center/
+
 
 ## Cost
 

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Marketing and Sales
+**Focus:** Entrepreneurship Communities, Late Stage Growth, Other
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -12,14 +12,14 @@
 **Location Precision:** exact
 **Location Source:** https://downtownfarmerstg.com/
 **Website:** https://downtownfarmerstg.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Downtown Farmers Market in St. George is a year-round Saturday market at Vernon Worthen Park. Verified on downtownfarmerstg.com: the market runs May–October 8am–12pm and November–April 10am–2pm (closed January), hosts vendors selling local produce and artisan goods, and offers SNAP/DUFB redemption on-site.
 
-## Who It Helps
+## Who It's For
 
 Local food and artisan vendors in Washington County; shoppers seeking community markets; producers needing a regular St. George sales channel with SNAP/DUFB access.
 
@@ -27,13 +27,13 @@ Local food and artisan vendors in Washington County; shoppers seeking community 
 
 Weekly vendor marketplace, vendor application path ("Become A Vendor"), SNAP & Double Up Food Bucks redemption, sponsor opportunities, and community events (e.g., Dixie Days, Holiday Village) listed on the site.
 
-## How To Access It
+## How To Use It
 
-Shop Saturdays at Vernon Worthen Park; vendors use the Become A Vendor section on the official site for application and booth information.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://downtownfarmerstg.com/) · https://downtownfarmerstg.com/
-- Location: 300 South 400 East, St. George, UT 84770
 - Startup State listing: https://startup.utah.gov/business-resource/st-george-downtown-farmers-market/
+
 
 ## Cost / Eligibility
 

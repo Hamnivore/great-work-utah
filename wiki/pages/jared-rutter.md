@@ -4,10 +4,11 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** biochemistry, metabolomics, allosteric drug discovery, university commercialization, life sciences
+**Domain:** health-bio
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Updated:** 2026-06-19
+**Updated:** 2026-08-11
 **Hero:** https://picsum.photos/seed/jared-rutter-uofu-biochem-2026/800/600
 
 ## Summary
@@ -24,11 +25,11 @@ Atavistik's lead programs target AKT1 and JAK2 mutations implicated in cancer an
 
 Rutter's public profile is primarily that of a research scientist and academic entrepreneur: deep expertise in metabolite-protein biology, cofounded company leadership experience, and demonstrated ability to attract elite life-sciences investors to Utah-origin science. As a still-active faculty member, his laboratory continues to produce the science that Atavistik and future spinouts may draw on.
 
-## What They Are Looking For
+## What They're Looking For
 
 Not publicly stated. As a faculty entrepreneur, likely oriented toward high-quality research talent, graduate and postdoctoral fellows interested in metabolomics and structural biology, and collaborators who can advance clinical programs from Utah academic science.
 
-## Proof of Work
+## Track Record
 
 - Co-developed MIDAS/AMPS metabolite-protein interaction platform (published *Science*, 2023)
 - Co-founded Atavistik Bio (2021); company raised ~$299M through Series B including Column Group, Lux Capital, Regeneron Ventures, Nextech Invest

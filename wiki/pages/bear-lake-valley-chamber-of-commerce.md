@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Rich County, UT
 **Utah Location:** Rich County, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Rich County
 **Website:** https://bearlakechamber.com/
@@ -26,9 +26,12 @@ Membership benefits listed on the official site include networking, business hig
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://bearlakechamber.com/) · https://bearlakechamber.com/
 - Email: [director@bearlakechamber.com](mailto:director@bearlakechamber.com)
 - Startup State listing: https://startup.utah.gov/business-resource/bear-lake-valley-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

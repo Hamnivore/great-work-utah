@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Late Stage Growth, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://business.utah.gov/rural/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,12 +25,11 @@ RCOG competitive grants for rural local governments, Rural County Grants, REDI g
 
 ## How To Access It
 
-Start at the CRD hub, open the specific program page (RCOG, REDI, etc.), and contact GOEO rural staff or business@utah.gov for eligibility questions.
+Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://business.utah.gov/rural/) · https://business.utah.gov/rural/
 - Email: [business@utah.gov](mailto:business@utah.gov)
-- Phone: (801) 538-8680
 - Startup State listing: https://startup.utah.gov/business-resource/utah-center-for-rural-development/
+
 
 ## Cost / Eligibility
 

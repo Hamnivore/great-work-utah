@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Start a Business
+**Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -42,7 +42,7 @@
 **Additional Map Location:** 305 N Main St, Suite 100, Tooele, UT 84074 | 40.536608, -112.299056 | exact | https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf
 **Additional Map Location:** 1050 W Market Dr, Vernal, UT 84078 | 40.454321, -109.548471 | exact | https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf
 **Website:** https://jobs.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -59,9 +59,11 @@ Job search and labor-market resources; employer recruiting access to active job 
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://jobs.utah.gov/) · https://jobs.utah.gov/
-- Choose Find a Job, Manage Your Business, or Apply for Assistance from the homepage; use the events calendar for workshops and job fairs
 - Startup State listing: https://startup.utah.gov/business-resource/utah-department-of-workforce-services/
+
 
 ## Cost
 

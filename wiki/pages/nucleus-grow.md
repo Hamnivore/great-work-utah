@@ -13,7 +13,7 @@
 **Location Source:** https://www.nucleusutah.org/grow
 **Website:** https://www.nucleusutah.org/grow
 **Domain:** capital-programs
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -24,7 +24,7 @@ Nucleus Grow is Utah's official SBIR/STTR support path for small companies pursu
 
 This is one of the highest-leverage resources in the wiki for research-backed founders because it sits before dilution and before obvious venture readiness. A first-time deep-tech founder may not know whether NIH, NSF, DoD, DOE, NASA, USDA, or another agency is the right fit. Nucleus Grow appears designed to help with exactly that translation.
 
-## Who It Helps
+## Who It's For
 
 Nucleus Grow is best for Utah-headquartered companies working on early-stage technology with real R&D risk and potential federal-agency fit. Likely fits include life sciences, AI, advanced manufacturing, cleantech, defense-adjacent technology, frontier hardware, and university-originated products.
 
@@ -36,7 +36,7 @@ The public page describes support for opportunity matching, proposal development
 
 Nucleus Grow also connects to [Utah Technology Innovation Funding](utif.md), which can help eligible SBIR/STTR applicants with microgrant or bridge-funding support.
 
-## How To Access It
+## How To Use It
 
 The official page recommends attending an SBIR 101 workshop, creating a business or business license, scheduling a consultation, and starting SAM.gov registration. The page also lists federal-agency resources for searching SBIR/STTR topics.
 

@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Audience:** researchers, university spinouts, technical founders, commercialization helpers
 **Focus:** research translation, SBIR/STTR, university spinouts, Nucleus programs
-**Updated:** 2026-05-09
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Overview
@@ -13,6 +13,16 @@
 This guide is for Utah researchers and deep-tech founders who are trying to move serious work from lab, thesis, prototype, or invention disclosure toward a useful company or real-world deployment. It is not a universal ranking. The criteria here are stage fit, evidence of technical uncertainty, Utah research connection, funding path, and whether the next step reduces ambiguity.
 
 The core question is: what kind of help do you need next?
+
+## If You Need To Disclose Or License University IP
+
+If the invention originates at the University of Utah, the door before any commercialization program is the [University of Utah Technology Licensing Office](university-of-utah-technology-licensing-office.md) (TLO — formerly known as the PIVOT Center, renamed 2023). Disclosure of a patentable or licensable invention should happen before publication or public presentation; TLO's disclosure, IP-protection, and licensing decisions determine what a spinout can legally do next, including whether it can enter a program like Nucleus MarketEdge or Altitude Labs.
+
+Best fit: a University of Utah faculty member, staff researcher, or qualifying student/postdoc with an invention who hasn't yet disclosed it, or a founder who needs to confirm who owns the IP behind a planned spinout before approaching investors or an accelerator.
+
+## If You Need Shared Wet Lab Space
+
+[Where to Find Wet Lab Space in Utah](where-to-find-wet-lab-space-in-utah.md) routes the thin shared-bench market — primarily [Altitude Labs](altitude-labs.md) — and warns against renting space before disclosure and market path are in motion.
 
 ## If You Are Still Testing Whether A Company Should Exist
 
@@ -68,6 +78,8 @@ Not every commercialization question is a deep-tech funding question. A research
 
 ## Evidence
 
+- [University of Utah Technology Licensing Office](university-of-utah-technology-licensing-office.md) · https://greatutah.work/pages/university-of-utah-technology-licensing-office.md
+- [Where to Find Wet Lab Space in Utah](where-to-find-wet-lab-space-in-utah.md) · https://greatutah.work/pages/where-to-find-wet-lab-space-in-utah.md
 - [Nucleus Institute](nucleus-institute.md) · https://greatutah.work/pages/nucleus-institute.md
 - [Nucleus MarketEdge](nucleus-marketedge.md) · https://greatutah.work/pages/nucleus-marketedge.md
 - [Nucleus Grow](nucleus-grow.md) · https://greatutah.work/pages/nucleus-grow.md
@@ -77,10 +89,11 @@ Not every commercialization question is a deep-tech funding question. A research
 - [Utah APEX Accelerator](apex-accelerator.md) · https://greatutah.work/pages/apex-accelerator.md
 - [Utah SBDC](utah-sbdc.md) · https://greatutah.work/pages/utah-sbdc.md
 - [SCORE Utah](score-utah.md) · https://greatutah.work/pages/score-utah.md
+- [Altitude Labs](altitude-labs.md) · https://greatutah.work/pages/altitude-labs.md
 
 ## Open Questions
 
-- Which university technology-transfer offices should be added as helper pages?
+- Which BYU / USU / Utah Tech technology-transfer offices should be added as companion resource pages now that the U of U TLO page exists?
 - Which Utah research spinouts have public evidence strong enough for venture pages?
 - What is the right checklist for deciding between SBIR/STTR, equity, licensing, and industry partnership?
 - Which regulated research areas are likely to benefit from Utah's sandbox instead of needing federal regulatory counsel first?

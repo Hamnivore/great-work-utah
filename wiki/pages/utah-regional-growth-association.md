@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Relocate a Business to Utah
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.utrga.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,10 +25,11 @@ Infrastructure investment support, redevelopment-area acceleration, regional gro
 
 ## How To Access It
 
-Contact URGA through its official site for partnership or community strategy conversations.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://www.utrga.org/) · https://www.utrga.org/
 - Startup State listing: https://startup.utah.gov/business-resource/utah-regional-growth-association/
+
 
 ## Cost / Eligibility
 

@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT
 **Region:** Park City
@@ -12,14 +13,14 @@
 **Location Precision:** exact
 **Location Source:** https://www.parkcitychamber.com/about-us/
 **Website:** https://www.parkcitychamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Park City Chamber of Commerce & Visitors Bureau represents 1,000+ partner businesses in Park City's mountain economy. Verified on the official site (2026-07-14): partners get referrals and exposure on visitparkcity.com, discounted ski passes, partner logo/media gallery access, newsletters, networking events, policy positions, housing information, and connections to the Women's Business Center. Mission emphasizes responsible growth, conservation, and community stewardship ("Mountainkind").
 
-## Who It Helps
+## Who It's For
 
 Park City and Summit County businesses — especially tourism, hospitality, retail, and professional services — seeking partner marketing, policy voice, and employee benefits like ski passes.
 
@@ -27,7 +28,7 @@ Park City and Summit County businesses — especially tourism, hospitality, reta
 
 Partner directory and visitparkcity.com exposure; discounted Deer Valley and Park City Mountain ski passes; partner newsletter and events; policy and economic research resources; housing information for employers; WBC referral pathway; volunteer and community engagement programs.
 
-## How To Access It
+## How To Use It
 
 - Become a partner: https://www.parkcitychamber.com/partners/join/
 - Events: https://www.parkcitychamber.com/events/

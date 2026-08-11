@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://business.thechamber.org/list/searchalpha/i
 **Website:** https://www.impactutah.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -20,7 +20,7 @@
 iMpact Utah appears in the Startup State import as a manufacturing-support nonprofit (operations, training, automation, cybersecurity). As of 2026-07-14 the official domain fails TLS (`ERR_SSL_PROTOCOL_ERROR`) in both curl and headless Chrome. A December 2024 Wayback snapshot still shows Utah MEP Network framing — for live recommendations prefer [Utah MEP](utah-mep.md) until impactutah.org is restored or a successor URL is confirmed.
 
 
-## Who It Helps
+## Who It's For
 
 The imported record points to Utah manufacturing companies and operators, especially later-stage manufacturers that need help improving operations, sales, leadership, automation, cybersecurity, or productivity.
 
@@ -32,7 +32,7 @@ The CSV import describes consulting and training services for manufacturers, inc
 
 Treat those claims as unverified until an official provider page, archive, or current partner page confirms the active program model.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

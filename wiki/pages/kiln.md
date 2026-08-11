@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Holladay, Lehi, Park City, Provo, Salt Lake City, St. George, UT; Kiln Cabin
 **Region:** statewide
@@ -17,8 +18,8 @@
 **Additional Map Location:** Kiln Salt Lake City, 26 S Rio Grande St, Suite 2072, Salt Lake City, UT 84101 | 40.7687816, -111.9044144 | exact | https://kiln.com/communities/salt-lake-city/
 **Additional Map Location:** Kiln St. George, 1575 S River Rd, St. George, UT 84790 | 37.0818400, -113.5526301 | exact | https://kiln.com/communities/st-george/
 **Additional Map Location:** Kiln Cabin, 9049 Timphaven Rd, Sundance, UT 84604 | 40.3956286, -111.5908962 | exact | https://kiln.com/communities/sundance-kiln-cabin/
-**Website:** https://kiln.com/
-**Updated:** 2026-07-14
+**Website:** https://kiln.com
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -33,7 +34,7 @@ Remote workers, freelancers, small teams, and growth-stage companies in Utah who
 
 Coworking (Access and Club tiers), lockable furnished private offices (1–15 people), enterprise studio suites (15–100 people), meeting and event spaces, community teams, curated events, podcast studios, wellness rooms, and cross-location network access within the Kiln portfolio.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://kiln.com/) · https://kiln.com/
 - Book a tour or message the team via the site

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.uschamber.com/co/chambers/utah
 **Website:** https://www.upichamber.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,11 +29,12 @@ UPIC mentorship and ambassador programs, grant information pages, Pacific Island
 
 ## How To Access It
 
-Explore programs on upichamber.org and use the JOIN section for membership; contact admin email for summit or mentorship questions.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://www.upichamber.org/) · https://www.upichamber.org/
 - Email: [admin@upichamber.org](mailto:admin@upichamber.org)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-pacific-islander-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

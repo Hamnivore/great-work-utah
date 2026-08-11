@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Cache County, UT
 **Utah Location:** Cache County, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Cache County
 **Map Location:** Cache Valley Chamber of Commerce, 73 N Main St, Suite 210, Logan, UT 84321
@@ -30,11 +30,12 @@ Membership benefits include a business directory, newsletter, event calendar, ne
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://cachechamber.com/) · https://cachechamber.com/
 - Email: [info@cachechamber.com](mailto:info@cachechamber.com)
-- [Join the chamber](https://cachechamber.com/) · https://cachechamber.com/
-- [Events calendar](https://business.cachechamber.com/events/calendar) · https://business.cachechamber.com/events/calendar
 - Startup State listing: https://startup.utah.gov/business-resource/cache-valley-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

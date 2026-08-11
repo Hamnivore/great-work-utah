@@ -12,7 +12,8 @@
 **Location Precision:** exact
 **Location Source:** https://people.utah.edu/basic.hml?eid=259658297
 **Website:** https://www.nucleusutah.org/
-**Updated:** 2026-07-14
+**Domain:** capital-programs
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +28,7 @@ Nucleus matters because many Utah deep-tech opportunities fail at the translatio
 
 The available public evidence suggests Nucleus is building exactly that connective tissue. Its official site describes work across talent, commercialization, capital, solutions, and place, while its program pages show specific paths through Nucleus Grow, Nucleus Fund, MarketEdge, UTIF, ProLab, and related initiatives.
 
-## How They Help
+## Who They Help
 
 Nucleus can help a founder or researcher diagnose the next useful doorway:
 

@@ -11,8 +11,8 @@
 **Coordinates:** 41.027594, -111.925289
 **Location Precision:** exact
 **Location Source:** https://gopb.utah.gov/wp-content/uploads/2024/02/ERG2024.pdf
-**Website:** https://utahdefensealliance.com/
-**Updated:** 2026-07-14
+**Website:** https://utahdefensealliance.com/home/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,10 +31,12 @@ Mission advocacy for Utah military installations (Hill AFB, Tooele Army Depot, D
 
 ## How To Access It
 
-- [Official website](https://utahdefensealliance.com/) · https://utahdefensealliance.com/
-- Member resources: https://utahdefensealliance.com/members/
-- Email: [kjsullivan51@yahoo.com](mailto:kjsullivan51@yahoo.com) (Startup State listing)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://utahdefensealliance.com/home/) · https://utahdefensealliance.com/home/
+- Email: [kjsullivan51@yahoo.com](mailto:kjsullivan51@yahoo.com)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-defense-alliance/
+
 
 ## Cost
 
@@ -45,7 +47,7 @@ Membership terms and event costs are not published on the public homepage. Verif
 Aerospace/defense companies and suppliers that need installation-aware advocacy and industry community — especially those past product-market fit and exploring government or prime-contractor relationships. Pair with [Utah APEX Accelerator](apex-accelerator.md) or [47G](47g-utah-aerospace-and-defense-association.md) for procurement and ecosystem navigation. A weak fit for consumer startups with no defense angle.
 
 
-## Evidence## Evidence
+## Evidence
 
 - [Official website](https://utahdefensealliance.com/) · https://utahdefensealliance.com/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/

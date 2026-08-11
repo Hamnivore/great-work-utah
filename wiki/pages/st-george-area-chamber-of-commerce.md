@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
@@ -12,14 +12,14 @@
 **Location Precision:** exact
 **Location Source:** https://stgeorgechamber.com/about/boards/
 **Website:** https://stgeorgechamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The St. George Area Chamber of Commerce supports 1,000+ businesses and nonprofits in Washington County's largest city. Verified on the official site (2026-07-14): members access business resources, training, in-person and digital networking, and government advocacy. The chamber works with local, state, and federal economic partners to grow jobs and prosperity.
 
-## Who It Helps
+## Who It's For
 
 St. George and greater Washington County businesses and nonprofits seeking training, networking, resources, and legislative advocacy in Utah's fastest-growing metro area.
 
@@ -27,12 +27,13 @@ St. George and greater Washington County businesses and nonprofits seeking train
 
 Member resources and training programs; in-person and digital networking; advocacy with government leaders; economic partnership collaborations; investor/sponsor tiers (Platinum, Gold, Silver) visible on homepage.
 
-## How To Access It
+## How To Use It
 
-- Official site: https://stgeorgechamber.com/
-- Explore Resources, Training, Networking, and Advocacy sections
-- Office: 136 North 100 East, St. George, UT 84770
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://stgeorgechamber.com/) · https://stgeorgechamber.com/
 - Startup State listing: https://startup.utah.gov/business-resource/st-george-area-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

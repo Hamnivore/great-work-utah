@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Late Stage Growth, Relocate a Business to Utah, Marketing and Sales
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.edcutah.org/support/our-investors
 **Website:** https://www.edcutah.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,12 +29,12 @@ End-to-end site selection assistance, Utah and out-of-state comparative data, on
 
 ## How To Access It
 
-Contact EDCUtah through the website connect flow or email for expansion/relocation projects.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://www.edcutah.org/) · https://www.edcutah.org/
-- Email: [connect@edcutah.org](mailto:connect@edcutah.org) · 1-801-364-3631
-- Address: 201 South Main Street, Suite 425, Salt Lake City, UT 84111
+- Email: [connect@edcutah.org](mailto:connect@edcutah.org)
 - Startup State listing: https://startup.utah.gov/business-resource/edc-utah-economic-development-corporation-of-utah/
+
 
 ## Cost / Eligibility
 

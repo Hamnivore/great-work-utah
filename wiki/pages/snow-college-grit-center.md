@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Funding
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Ephraim, UT
 **Utah Location:** Ephraim, UT
 **Region:** Ephraim
@@ -12,7 +12,7 @@
 **Coordinates:** 39.3571168, -111.5869919
 **Location Precision:** exact
 **Location Source:** https://omni.snow.edu/offices/grit-center/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ Entrepreneurship Seminar Series with visiting founders; Bootstrap Your Business 
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.snow.edu/offices/grit-center/index.html) · https://www.snow.edu/offices/grit-center/index.html
-- Email [snowcollege@snow.edu](mailto:snowcollege@snow.edu) or call 435.283.7564; follow @grit_center on Instagram for events
+- Email: [snowcollege@snow.edu](mailto:snowcollege@snow.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/snow-college-grit-center/
+
 
 ## Cost
 

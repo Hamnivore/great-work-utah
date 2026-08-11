@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Funding, Taxes and Finance
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Kaysville, UT
 **Utah Location:** Kaysville, UT
 **Region:** Kaysville
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Davis+Technical+College+550+E+300+S+Kaysville+UT+84037
 **Website:** https://brc.davistech.edu/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,11 +31,12 @@ Small Business Development Center (SBDC) consulting on business plans and growth
 
 ## How To Access It
 
-- [Davis Tech community / BRC overview](https://www.davistech.edu/community) · https://www.davistech.edu/community
-- BRC site: https://brc.davistech.edu/ (timed out during verification)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://brc.davistech.edu/) · https://brc.davistech.edu/
 - Email: [brc@davistech.edu](mailto:brc@davistech.edu)
-- Kaysville: 450 Simmons Way, Kaysville, UT 84037 · 801-593-2299
 - Startup State listing: https://startup.utah.gov/business-resource/business-resource-center-davis-tech-college/
+
 
 ## Cost
 

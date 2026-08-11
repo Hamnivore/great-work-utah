@@ -9,7 +9,7 @@
 **Region:** Park City
 **Website:** https://www.parkcityangels.com/
 **Domain:** capital-programs
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -26,7 +26,7 @@ Early-stage founders seeking angel capital and mentor access. The group evaluate
 - Mentorship and industry expertise from experienced operators
 - Screening and due-diligence process for member investment decisions
 
-## How To Access
+## How To Use It
 
 - Submit an application through the official site
 - [Official website](https://www.parkcityangels.com/) · https://www.parkcityangels.com/

@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.trade.gov/utah-salt-lake-city
 **Website:** https://www.trade.gov/utah-salt-lake-city
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,10 +31,12 @@ Export counseling from local trade specialists, access to U.S. Commercial Servic
 
 ## How To Access It
 
-- [Utah Salt Lake City office page](https://www.trade.gov/utah-salt-lake-city) · https://www.trade.gov/utah-salt-lake-city
-- Contact a trade specialist through the office "Contact Us" flow on Trade.gov
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.trade.gov/utah-salt-lake-city) · https://www.trade.gov/utah-salt-lake-city
 - Email: [Daniel.Bruner@trade.gov](mailto:Daniel.Bruner@trade.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/u-s-commercial-service/
+
 
 ## Cost / Eligibility
 

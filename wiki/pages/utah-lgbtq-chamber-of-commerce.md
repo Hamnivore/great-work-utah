@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.utahlgbtqchamber.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,11 +25,12 @@ Member benefits listed on the official site include business exposure, peer supp
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.utahlgbtqchamber.org/) · https://www.utahlgbtqchamber.org/
 - Email: [boardofdirectors@utahlgbtqchamber.org](mailto:boardofdirectors@utahlgbtqchamber.org)
-- [Member directory](https://www.utahlgbtqchamber.org/) · https://www.utahlgbtqchamber.org/
-- [Events calendar](https://www.utahlgbtqchamber.org/) · https://www.utahlgbtqchamber.org/
 - Startup State listing: https://startup.utah.gov/business-resource/utah-lgbtq-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

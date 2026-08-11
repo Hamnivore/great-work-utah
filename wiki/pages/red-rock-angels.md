@@ -4,11 +4,12 @@
 **Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
 **Region:** St. George
 **Website:** https://redrockangels.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,7 +26,7 @@ Early-stage founders in or connected to Southern Utah seeking angel funding, pit
 - Paid startup services: pitch-deck consultation, mock pitch sessions, fundraising strategy, and bundled investor-ready packages
 - Investor-readiness feedback from an angel-group perspective
 
-## How To Access
+## How To Use It
 
 - Apply or pitch via the official site; book startup services through listed offerings
 - [Official website](https://redrockangels.com/) · https://redrockangels.com/

@@ -4,11 +4,12 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** IP, patents, technology transactions, software, biotech, medical devices, deep tech
+**Domain:** capital-programs, health-bio
 **Primary Location:** Salt Lake City, UT; Park City, UT
 **Utah Location:** Salt Lake City, UT; Park City, UT
 **Region:** statewide
 **Website:** https://mabr.com/
-**Updated:** 2026-06-18
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +22,7 @@ The firm is not just a patent-prosecution shop on its website. Its public servic
 
 For Utah deep-tech founders, the first legal bottleneck is often not "incorporate the company." It is whether the technical work can be protected, licensed from a university, disclosed to partners, used in SBIR/STTR proposals, or financed without creating a later IP problem. A Utah firm with public depth in patents, technology transactions, and technical industries is therefore a useful helper page.
 
-## How They Help
+## Who They Help
 
 Publicly listed services include patent prosecution, international patent prosecution, patent disputes, post-issuance proceedings, trademark prosecution and disputes, copyright registration and disputes, portfolio management, opinions and counseling, technology transfers and transactions, commercial contracts and licensing, corporate transactions, privacy and data security, product-safety counseling, and regulatory and industry-practice compliance.
 

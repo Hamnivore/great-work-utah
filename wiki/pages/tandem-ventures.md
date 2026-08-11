@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.sec.gov/Archives/edgar/data/1940476/000194047624000002/0001940476-24-000002-index.html
 **Website:** https://tandeminvest.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

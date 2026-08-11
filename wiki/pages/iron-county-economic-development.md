@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Cedar City, UT
 **Utah Location:** Iron County, UT
 **Region:** Iron County
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.cedarcityut.gov/Directory.aspx?did=10
 **Website:** https://www.cedarcityut.gov/2357/Economic-Development
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -21,7 +21,7 @@ Cedar City's Economic Development office promotes business growth, company attra
 
 This is a municipal economic-development front door, not a standalone loan fund.
 
-## Who It Helps
+## Who It's For
 
 Businesses expanding in or relocating to Cedar City/Iron County, especially growth-stage employers and site selectors evaluating southern Utah. Also useful to local leaders tracking development news and available properties.
 
@@ -29,11 +29,13 @@ Businesses expanding in or relocating to Cedar City/Iron County, especially grow
 
 Economic-development marketing and regional data, news on major local projects, and a linked commercial property search tool (Utah Resimplifi map centered on Cedar City). Staff support for business attraction and expansion inquiries is implied through the city department channel.
 
-## How To Access It
+## How To Use It
 
-- [Cedar City Economic Development](https://www.cedarcityut.gov/2357/Economic-Development) · https://www.cedarcityut.gov/2357/Economic-Development
-- Property search map linked from the department page (Resimplifi Utah map)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.cedarcityut.gov/2357/Economic-Development) · https://www.cedarcityut.gov/2357/Economic-Development
 - Startup State listing: https://startup.utah.gov/business-resource/iron-county-economic-development/
+
 
 ## Cost / Eligibility
 

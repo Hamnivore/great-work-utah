@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Relocate a Business to Utah, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
@@ -12,14 +13,14 @@
 **Location Precision:** exact
 **Location Source:** https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
 **Website:** https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 Verified on the official site (2026-07-14): Logan City's Economic Development office helps businesses locate, grow, and navigate city resources in Cache Valley. Public pages cover site selection, economic data, redevelopment agency (RDA) information, business licensing links, and a curated list of available business resources.
 
-## Who It Helps
+## Who It's For
 
 Business owners, entrepreneurs, and site selectors evaluating Logan or Cache Valley who need city-level economic development contact, site search help, or links to local business resources.
 
@@ -27,7 +28,7 @@ Business owners, entrepreneurs, and site selectors evaluating Logan or Cache Val
 
 City economic development services include site selection assistance (lease or buy), economic data, RDA/project-area information, links to business licensing and permits, utility services, and an available-resources page listing regional programs. Director Kirk Jensen is the primary contact for site and development inquiries.
 
-## How To Access It
+## How To Use It
 
 - [Economic Development home](https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php) · https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
 - [Find a site](https://www.loganutah.gov/government/mayor_s_office/economic_development/find_a_site.php) · https://www.loganutah.gov/government/mayor_s_office/economic_development/find_a_site.php
@@ -49,3 +50,6 @@ Founders or operators considering a Logan location, expansion, or city permits w
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php) · https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
 
+## Open Questions
+
+- Which city-administered incentives or active project areas are currently open to new applicants?

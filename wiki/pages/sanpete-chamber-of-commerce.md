@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Sanpete County, UT
 **Utah Location:** Sanpete County, UT
 **Region:** Sanpete County
@@ -11,15 +11,15 @@
 **Coordinates:** 39.3541819, -111.5775665
 **Location Precision:** exact
 **Location Source:** https://business.slchamber.com/list/member/sanpete-county-chamber-of-commerce-105612
-**Website:** https://www.sanpetechamber.org/
-**Updated:** 2026-07-14
+**Website:** https://sanpetechamberofcommerce.org/
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Sanpete County Chamber of Commerce connects local businesses across the county's communities. Verified on `sanpetechamber.org` (2026-07-14; `sanpetechamberofcommerce.org` redirects here): members get directory listing, events calendar, job board, resource center, tiered membership from $75/year plus a $25 setup fee up to $1,000 Platinum Plus with premium marketing, ribbon cuttings, and newsletter features.
 
-## Who It Helps
+## Who It's For
 
 Sanpete County businesses of any size seeking networking, marketing visibility, job-board access, and chamber events across Ephraim, Manti, Mount Pleasant, and surrounding towns.
 
@@ -27,13 +27,14 @@ Sanpete County businesses of any size seeking networking, marketing visibility, 
 
 Member directory and resource center; events calendar and job board; tiered memberships (Copper through Platinum Plus) with escalating digital exposure, luncheon tickets, newsletter features, and ribbon-cutting support; international chamber tour programs; "Passport to Summer" community promotion.
 
-## How To Access It
+## How To Use It
 
-- Official site: https://www.sanpetechamber.org/
-- Join: click "Become a Member" on homepage
-- Phone: (435) 749-4316
-- Email: [info@sanpetechamber.org](mailto:info@sanpetechamber.org)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://sanpetechamberofcommerce.org/) · https://sanpetechamberofcommerce.org/
+- Email: [info@sanpetechamberofcommerce.org](mailto:info@sanpetechamberofcommerce.org)
 - Startup State listing: https://startup.utah.gov/business-resource/sanpete-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

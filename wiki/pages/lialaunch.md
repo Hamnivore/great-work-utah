@@ -3,12 +3,13 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.lialaunch.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -17,7 +18,7 @@ LiaLaunch Ventures is a Utah-based strategic advisory and investment fund focuse
 
 The site emphasizes ideation-through-scale support rather than a single open-application accelerator format.
 
-## Who It Helps
+## Who It's For
 
 Women founders in Utah seeking early capital, structured business-launch guidance, or competition-based funding opportunities. Sector-agnostic at the marketing level; verify fit for each program path.
 
@@ -25,7 +26,7 @@ Women founders in Utah seeking early capital, structured business-launch guidanc
 
 Strategic advisory with coaching and launch guides (company registration, business planning), early-stage investment for selected ventures, and pitch competitions that include expert coaching and investor/judge exposure. Each offering has its own "Learn more" path on the site.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://www.lialaunch.com/) · https://www.lialaunch.com/
 - Explore offerings: Strategic Advisory, Early Investment, Pitch Competitions (linked from homepage)

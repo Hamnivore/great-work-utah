@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Wasatch County, UT
 **Utah Location:** Wasatch County, UT
 **Region:** Wasatch County
 **Website:** https://thewwba.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,9 +25,12 @@ WWBA offers recurring networking and mastermind meetings (often at UVU Wasatch C
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://thewwba.org/) · https://thewwba.org/
 - Email: [wasatchwomensbusinessalliance@gmail.com](mailto:wasatchwomensbusinessalliance@gmail.com)
 - Startup State listing: https://startup.utah.gov/business-resource/wasatch-womens-business-alliance/
+
 
 ## Cost / Eligibility
 

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Other
+**Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://ushe.edu/custom-fit/
 **Website:** https://ushe.edu/custom-fit/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,11 @@ Customized training plans through regional Custom Fit institutions — covering 
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://ushe.edu/custom-fit/) · https://ushe.edu/custom-fit/
-- Select your regional Custom Fit provider on the official site and contact that institution to design a training plan
 - Startup State listing: https://startup.utah.gov/business-resource/custom-fit-training/
+
 
 ## Cost / Eligibility
 

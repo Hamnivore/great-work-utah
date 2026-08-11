@@ -8,7 +8,7 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://1mcslc.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -25,12 +25,12 @@ Weekly presentations, peer Q&A, community guidelines emphasizing support over se
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://1mcslc.com/) · https://1mcslc.com/
 - Email: [saltlake@1millioncups.com](mailto:saltlake@1millioncups.com)
-- Location: The Neighborhood Hive, 2065 E 2100 South, Salt Lake City, UT 84108
-- Schedule: Wednesdays at 9:00 AM (verify on official site)
-- [Apply to present](https://1mcslc.com/) · https://1mcslc.com/
 - Startup State listing: https://startup.utah.gov/business-resource/1-million-cups-salt-lake/
+
 
 ## Cost / Eligibility
 

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://utahden.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,9 +27,12 @@ Industry storytelling, historical context for Utah's digital entertainment roots
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://utahden.org/) · https://utahden.org/
-- Email: [info@utahden.org](mailto:info@utahden.org) to contribute content or inquire about involvement
+- Email: [info@utahden.org](mailto:info@utahden.org)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-digital-entertainment-network/
+
 
 ## Cost / Eligibility
 

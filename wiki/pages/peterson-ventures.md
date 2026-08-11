@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.petersonventures.com/contact/
 **Website:** https://www.petersonventures.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,7 +30,7 @@ Seed-stage founders building software, digital commerce, fintech, or health-rela
 - Strategic support from a founder-oriented investment team
 - Access to a long-running Utah venture network
 
-## How To Access
+## How To Use It
 
 - Contact the firm through the official site
 - [Official website](https://www.petersonventures.com/) · https://www.petersonventures.com/

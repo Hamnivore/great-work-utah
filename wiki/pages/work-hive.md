@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://workhiveslc.com/
 **Website:** https://workhiveslc.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,10 +29,12 @@ Open coworking, dedicated desks, private offices, three conference rooms, three 
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://workhiveslc.com/) · https://workhiveslc.com/
-- Schedule a tour via the site (advertised as ~1 minute to book)
-- Phone: 801-923-4589 · Email: [hello@workhiveSLC.com](mailto:hello@workhiveSLC.com)
+- Email: [hello@workhiveSLC.com](mailto:hello@workhiveSLC.com)
 - Startup State listing: https://startup.utah.gov/business-resource/work-hive/
+
 
 ## Cost
 

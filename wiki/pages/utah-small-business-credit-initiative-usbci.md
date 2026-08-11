@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://business.utah.gov/contact/
 **Website:** https://business.utah.gov/usbci/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -39,6 +39,7 @@ Start with the official website, then confirm current programs before recommendi
 - Email: [capitalaccess@utah.gov](mailto:capitalaccess@utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-small-business-credit-initiative-usbci/
 
+
 ## Cost / Eligibility
 
 Not fully specified on the Startup State card. Verify current cost (if any), lender network, geographic coverage, and eligibility on the official page.
@@ -51,11 +52,12 @@ Founders and Main Street operators who need debt / credit access rather than equ
 
 - Startup State ID: 2592 (slug `utah-small-business-credit-initiative-usbci`)
 - Topics: Funding
-- Stages: —
+- Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue)
 - Communities: —
-- Industries: broad industry list on Startup State card
-- Locations: statewide counties listed on Startup State card
-- Listing modified: from live catalog 2026-07-14
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
+- Locations: Beaver, Box Elder, Cache, Carbon, Daggett, Davis, Duchesne, Emery, Garfield, Grand, Iron, Juab, Kane, Millard, Morgan, Piute, Rich, Salt Lake, San Juan, Sanpete, Sevier, Summit, Tooele, Uintah, Utah, Wasatch, Washington, Wayne, Weber
+- Listing modified: 2024-12-10T12:03:38
+
 
 ## Evidence
 

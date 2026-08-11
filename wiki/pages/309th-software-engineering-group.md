@@ -51,6 +51,10 @@ The 309th anchors Hill AFB and the Ogden Air Logistics Complex as Utah's deepest
 - [309th Software Engineering Group overview](https://www.hill.af.mil/News/Article-Display/Article/2555867/) · https://www.hill.af.mil/News/Article-Display/Article/2555867/ — official Hill AFB article on the organization.
 - [Kessel Run](https://kesselrun.af.mil/) · https://kesselrun.af.mil/ — DoD DevSecOps context associated with modern Air Force software delivery practices.
 
+## See Also
+
+- [Hill Air Force Base](hill-air-force-base.md) · https://greatutah.work/pages/hill-air-force-base.md — the host installation, covering the base as a whole, the Ogden Air Logistics Complex, and the fighter wings the 309th supports.
+
 ## Open Questions
 
 - Clearance requirements are an absolute gate — what are realistic timelines and disqualifiers for candidates without prior clearance?
@@ -59,3 +63,8 @@ The 309th anchors Hill AFB and the Ogden Air Logistics Complex as Utah's deepest
 - Public portfolio-building is impossible on classified work — how do engineers here manage long-term career visibility?
 - Mission ethics: the page should not treat weapons software as neutral — what frameworks do thoughtful engineers use to decide fit?
 - The legacy tier note ranked this as strong but not globally category-defining — does that framing hold for someone optimizing for combat-aircraft software impact rather than startup equity?
+
+## See Also
+
+- [Hill Air Force Base](hill-air-force-base.md) · https://greatutah.work/pages/hill-air-force-base.md — installation and OO-ALC context for 309th careers
+- [Williams International](williams-international.md) · https://greatutah.work/pages/williams-international.md — Ogden gas-turbine OEM, northern Utah aerospace manufacturing

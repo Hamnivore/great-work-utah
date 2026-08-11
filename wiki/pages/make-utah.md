@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business, Late Stage Growth
+**Focus:** Entrepreneurship Communities
+**Domain:** capital-programs
 **Primary Location:** Pleasant Grove, UT
 **Utah Location:** Pleasant Grove, UT
 **Region:** Pleasant Grove
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://makeutah.org/space-license-agreement/
 **Website:** https://makeutah.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +28,7 @@ Hard-tech and product-focused entrepreneurs in Utah County and the Wasatch Front
 
 Coworking and research-development space; prototyping equipment access; industry partnerships and mentorships; events; and pathways from concept through commercialization. Startup State also cites 50,000+ square feet of collaborative space.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://makeutah.org/) · https://makeutah.org/
 - Email: [info@makeutah.org](mailto:info@makeutah.org)

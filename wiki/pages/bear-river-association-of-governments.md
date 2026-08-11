@@ -3,10 +3,10 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Logan, UT
 **Utah Location:** Box Elder County, UT; Cache County, UT; Rich County, UT
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Domain:** culture-place
 **Region:** Bear River region
 **Map Location:** Bear River Association of Governments, 170 N Main Street, Logan, UT 84321
@@ -30,13 +30,11 @@ Community Development Block Grant administration, local planning assistance (gen
 
 ## How To Access It
 
-Start at the Community & Economic Development page for planning or CDBG questions; use Central Intake for human-services programs.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://brag.utah.gov/) · https://brag.utah.gov/
-- [Community & Economic Development](https://brag.utah.gov/community-economic-development/) · https://brag.utah.gov/community-economic-development/
-- Email (C&ED): [shawnm@brag.utah.gov](mailto:shawnm@brag.utah.gov) · 801-514-4444
-- Logan office: (435) 752-7242
 - Startup State listing: https://startup.utah.gov/business-resource/bear-river-association-of-governments/
+
 
 ## Cost / Eligibility
 

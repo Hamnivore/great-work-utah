@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Moab, UT
 **Utah Location:** Grand County, UT
 **Region:** Grand County
@@ -12,14 +13,14 @@
 **Location Precision:** exact
 **Location Source:** https://moabchamber.com/about-the-chamber/
 **Website:** https://moabchamber.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 The Moab Area Chamber of Commerce connects and empowers Grand County businesses in a tourism-driven economy. Verified on the official site (2026-07-14): members access a business directory, events calendar, join flow, and chamber advocacy with city and county officials. The chamber describes itself as a one-stop shop for Moab businesses and champions collaboration across local employers.
 
-## Who It Helps
+## Who It's For
 
 Moab and Grand County businesses — tourism, outdoor recreation, hospitality, and local services — seeking networking, advocacy, and community promotion.
 
@@ -27,7 +28,7 @@ Moab and Grand County businesses — tourism, outdoor recreation, hospitality, a
 
 Member directory; events calendar (summits, festivals, marathons); membership join and login; chamber luncheons for peer networking; advocacy with city and county officials per member testimonials; "Discover Moab" visitor promotion tie-ins.
 
-## How To Access It
+## How To Use It
 
 - Official site: https://moabchamber.com/
 - Join: https://moabchamber.com/ (Join the Chamber)

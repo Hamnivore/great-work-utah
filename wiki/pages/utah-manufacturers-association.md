@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
-**Focus:** Late Stage Growth
+**Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://manufacturingutah.com/contact-us/
 **Website:** https://manufacturingutah.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

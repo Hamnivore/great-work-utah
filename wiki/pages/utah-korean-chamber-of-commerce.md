@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
+**Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.linkedin.com/company/utah-korean-chamber-of-commerce
 **Website:** https://www.utahkcc.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,10 +31,12 @@ Business advocacy, networking events, newsletter updates, sponsorship/partnershi
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.utahkcc.org/) · https://www.utahkcc.org/
-- Join / learn more via homepage "Join Us" and "Learn More" flows
 - Email: [utahkcc@gmail.com](mailto:utahkcc@gmail.com)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-korean-chamber-of-commerce/
+
 
 ## Cost / Eligibility
 

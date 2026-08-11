@@ -5,13 +5,15 @@
 **Confidence:** Medium
 **Focus:** regional airline, aviation, aircraft leasing, air transportation, commercial aviation
 **Roles:** manufacturing-operations, clinical-regulatory, field-skilled-trades
-**Stage:** Public (NASDAQ: SKYW), S&P 600 component
-**Location:** St. George, UT
 **Ownership:** public
 **Domain:** aerospace-defense
+**Primary Location:** St. George, UT
+**Utah Location:** St. George, UT (headquarters); Salt Lake City, UT (training, office, and maintenance facilities)
 **Region:** St. George, UT
-**Updated:** 2026-07-14
-**Needs-reviewed:** 2026-07-14
+**Website:** https://inc.skywest.com/
+**Careers:** https://www.skywest.com/skywest-airline-jobs/
+**Updated:** 2026-08-11
+**Needs-reviewed:** 2026-08-11
 **Pull:** *The largest regional-airline holding company in the US flies under United, Delta, American, and Alaska livery — from a St. George, Utah headquarters most passengers never notice.*
 
 ## Summary
@@ -28,17 +30,18 @@ SkyWest is headquartered in St. George, anchoring southern Utah's economy in a w
 
 ## What They Need Now
 
-Likely ongoing needs include pilots and maintenance technicians — the industry-wide pilot shortage has hit regional carriers hardest — plus regulatory/FAA compliance staff and fleet-planning/network-scheduling analysts as SkyWest negotiates scope-clause flying with mainline partners and integrates its Contour Airlines stake. Confirm current openings via SkyWest's own careers channels rather than this page; this section is inferred from industry context, not a direct posting.
+SkyWest's official careers site currently organizes hiring around pilots, A&P mechanics, flight attendants, avionics, dispatch, airport operations, safety and quality, customer support, and corporate functions. The durable need is operational capacity: flight crews, maintenance and avionics technicians, dispatchers, and airport-operations staff who can keep a large scheduled fleet moving safely. Use the careers link above for current openings and locations.
 
 ## Open Questions
 
 - Current fleet mix and scope-clause terms with United/Delta/American/Alaska — these agreements set SkyWest's growth ceiling and should be verified against the latest 10-K rather than marketing copy.
 - Trajectory of the 25% Contour Airlines stake acquired in 2024 — is SkyWest expected to increase ownership, and how does Contour's essential-air-service model complement SkyWest Charter?
-- Current CEO/executive leadership as of 2026 — public sources list Chip Childs as CEO/president and James Welch as chairman as of the last available update; reverify against the latest proxy statement.
-- Whether SkyWest has Utah-based maintenance, training, or engineering facilities beyond the St. George HQ worth documenting separately — this page covers the corporate entity only.
+- How much of the company's planned E175 delivery program through 2032 will translate into net Utah employment rather than staffing elsewhere in its network.
+- Whether the Salt Lake City training, office, and maintenance footprint should eventually be mapped as an additional public site; the 2025 Form 10-K confirms the facilities but does not give a site address.
 
 ## Evidence
 
-- [SkyWest, Inc. — Wikipedia](https://en.wikipedia.org/wiki/SkyWest,_Inc.) — corporate history, subsidiaries, financials, leadership.
+- [SkyWest 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/skyw-20251231x10k.htm) — SEC filing supporting the St. George headquarters, Salt Lake City facilities, 15,775 employees, $4.1 billion revenue, $428.3 million net income, operating structure, and aircraft commitments.
 - [SkyWest Airlines — official fact sheet](https://www.skywest.com/about-skywest-airlines/facts) — fleet, destinations, passenger volume (company self-reported).
 - [SkyWest, Inc. corporate site — Who We Are](https://inc.skywest.com/corporate-information/who-we-are/) — holding-company structure and subsidiaries (company self-reported).
+- [SkyWest Airlines careers](https://www.skywest.com/skywest-airline-jobs/) — official career families and application path.

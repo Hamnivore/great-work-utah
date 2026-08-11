@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Domain:** capital-programs
 **Primary Location:** Nephi, UT
 **Utah Location:** Juab County, UT
 **Region:** Juab County
@@ -12,14 +13,14 @@
 **Location Precision:** exact
 **Location Source:** https://business.utah.gov/statewide-economic-development-contacts/
 **Website:** https://juabcounty.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
 
 Juab County Economic Development is the county government's business-facing entry point for Nephi and Juab County. Verified on `juabcounty.gov` (2026-07-14): the county site publishes business licenses, building permits, and property-tax tools, but its Business section currently says "More Information Coming Soon." Utah GOED's statewide directory lists Juab County Economic Development Agency with director Brent Boswell at 160 North Main Street, Nephi — use that contact path for relocation, expansion, or incentive questions until the county business page is populated.
 
-## Who It Helps
+## Who It's For
 
 Businesses considering startup, relocation, or expansion in Juab County, and existing county operators needing permits, licenses, or county-level economic-development guidance.
 
@@ -27,7 +28,7 @@ Businesses considering startup, relocation, or expansion in Juab County, and exi
 
 County government business services verified on the official site: building permits, business license applications, greenbelt information, and property tax payment. Economic-development advising is routed through the county ED director listed in Utah GOED's statewide contacts directory rather than detailed program pages on the county site.
 
-## How To Access It
+## How To Use It
 
 - County business hub: https://juabcounty.gov/business/
 - Utah GOED statewide ED contacts (Juab County Economic Development Agency): https://business.utah.gov/statewide-economic-development-contacts/

@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Start a Business, Relocate a Business to Utah, Taxes and Finance, International Trade
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://business.utah.gov/contact/
 **Website:** https://business.utah.gov/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,13 +29,12 @@ Statewide programs directory (grants, incentives, APEX, CRD, USBCI, Opportunity 
 
 ## How To Access It
 
-Start at business.utah.gov Programs & Services or the Startup State hub; use program-specific pages for applications.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://business.utah.gov/) · https://business.utah.gov/
 - Email: [business@utah.gov](mailto:business@utah.gov)
-- Phone: (801) 538-8680
-- Address: 60 East South Temple, Suite 300, Salt Lake City, UT 84111
 - Startup State listing: https://startup.utah.gov/business-resource/utah-governors-office-of-economic-opportunity/
+
 
 ## Cost / Eligibility
 

@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Stub
 **Confidence:** Low
-**Focus:** Entrepreneurship Communities
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Iron County, UT
 **Utah Location:** Iron County, UT
 **Region:** Iron County
 **Website:** https://visionironcounty.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -45,9 +45,10 @@ If VIC is inactive, route Iron County founders to verified neighbors such as [So
 - Topics: Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 - Stages: Growing, Idea (pre-revenue), Product Built (pre-revenue), Product Built (revenue), Ready to Exit/Sell
 - Communities: Rural
-- Industries: broad industry list on Startup State card
+- Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
 - Locations: Beaver, Garfield, Iron, Kane, Washington
 - Listing modified: 2024-12-10T13:08:25
+
 
 ## Evidence
 

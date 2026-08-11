@@ -16,8 +16,8 @@
 **Careers:** https://www.domo.com/company/careers
 **Website:** https://www.domo.com
 **Domain:** computing
-**Updated:** 2026-07-14
-**Needs-reviewed:** 2026-06-19
+**Updated:** 2026-08-11
+**Needs-reviewed:** 2026-08-11
 **Hero:** https://picsum.photos/seed/domo-agentic-bi-american-fork-2026/1600/1100
 **Pull:** *Josh James's second act — unified business data with natural-language and agentic analytics for mid-market decision-makers.*
 **Relates:** cites [Official Website: Domo](domo-official-website.md) · https://greatutah.work/pages/domo-official-website.md · https://www.domo.com
@@ -27,7 +27,7 @@
 
 Domo is a cloud-native business intelligence and data integration platform headquartered in American Fork, Utah. Founded in 2010 by Josh James — who previously co-founded Omniture, later acquired by Adobe — Domo connects hundreds of data sources (databases, spreadsheets, SaaS applications) and delivers dashboards, embedded analytics, and low-code app-building tools. The company went public on NASDAQ in 2018 (ticker: DOMO) and serves midsize to large enterprises across retail, financial services, healthcare, and manufacturing.
 
-Since 2024–2025, Domo has pivoted explicitly toward agentic AI through its Domo.AI platform, letting business users build AI agents against their own unified data without writing SQL.
+Since 2024, Domo has emphasized AI throughout its data-products platform, including natural-language analysis, AI-assisted formulas and SQL, and agent tasks inside workflows. On February 19, 2026, its board began a formal review of strategic alternatives that could include an investment, sale, or business combination; Domo said there was no timetable or assurance of a transaction.
 
 ## Impact
 
@@ -39,7 +39,7 @@ The impact case is direct via deployment to enterprise and mid-market customers.
 
 Domo builds a single cloud platform that replaces fragmented BI stacks with a mobile-first system aimed at non-technical users. Core capabilities include data pipeline automation, a broad connector ecosystem, executive-friendly dashboards, embedded analytics, and low-code app building.
 
-The 2024–2025 product emphasis is Domo.AI — an agentic platform where business users can query data in natural language, generate dashboards with AI assistance, and build agents grounded in their organization's data model. The hard engineering problem is not visualization alone: schemas change across systems, fields mean different things in different contexts, and an LLM layer must answer questions correctly without hallucinating — requiring careful grounding, constrained generation, and visible source attribution.
+Domo's current product emphasis is Domo.AI across the data-product workflow: natural-language analysis, AI-assisted formulas and SQL, and agent tasks embedded in workflows. The hard engineering problem is not visualization alone: schemas change across systems, fields mean different things in different contexts, and an LLM layer must answer questions correctly without hallucinating — requiring careful grounding, constrained generation, and visible source attribution.
 
 ## What They Need Now
 
@@ -56,6 +56,8 @@ Domo is headquartered in American Fork and is one of Utah's largest publicly tra
 ## Evidence
 
 - [Official Website: Domo](domo-official-website.md) · https://greatutah.work/pages/domo-official-website.md · https://www.domo.com
+- [Domo: Board initiates strategic-alternatives review (2026-02-19)](https://www.domo.com/news/press/domo-to-explore-strategic-alternatives-and-reaffirms-certain-fy2026-guidance) · https://www.domo.com/news/press/domo-to-explore-strategic-alternatives-and-reaffirms-certain-fy2026-guidance — official company release; confirms the review, possible outcomes, and lack of a timetable
+- [Domo AI product page](https://www.domo.com/ai) · https://www.domo.com/ai — current official description of AI-assisted analysis and data-product development
 
 ## See Also
 
@@ -63,7 +65,8 @@ Domo is headquartered in American Fork and is one of Utah's largest publicly tra
 
 ## Open Questions
 
-- How much of Domo's 2024–2025 agentic AI narrative translates into durable customer adoption versus marketing repositioning in a crowded BI market?
+- How much of Domo's AI product narrative translates into durable customer adoption versus marketing repositioning in a crowded BI market?
+- What, if anything, results from the board's strategic-alternatives review announced in February 2026?
 - Which deployment metrics, customer counts, and performance claims can be independently verified beyond official sources?
 - Public small/mid-cap volatility and quarterly pressure may limit mission autonomy — how does that affect engineering culture and product bets?
 - BI competes with Snowflake, Databricks, Tableau/Salesforce, Power BI, Looker, ThoughtSpot, and Sigma from adjacent angles — where does Domo win consistently today?

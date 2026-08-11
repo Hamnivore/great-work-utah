@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Funding, Late Stage Growth
+**Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT
 **Region:** Uinta Basin
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.ubaog.org/contact-us
 **Website:** https://www.ubaog.org/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,11 +29,12 @@ Community development and economic development district services, CDBG business 
 
 ## How To Access It
 
-Browse Programs on ubaog.org; watch for CDBG business grant announcements on the homepage; contact staff for economic development district questions.
+Start with the official website, then confirm current programs before recommending.
 
 - [Official website](https://www.ubaog.org/) · https://www.ubaog.org/
 - Email: [laurieb@ubaog.org](mailto:laurieb@ubaog.org)
 - Startup State listing: https://startup.utah.gov/business-resource/uinta-basin-association-of-governments/
+
 
 ## Cost / Eligibility
 

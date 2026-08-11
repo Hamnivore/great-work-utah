@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** shared wet-lab space, biotech accelerator, techbio commercialization, pre-seed funding
+**Focus:** Entrepreneurship Communities, Relocate a Business to Utah
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -12,7 +12,8 @@
 **Location Precision:** exact
 **Location Source:** https://www.altitudelab.org/old-site/old-home
 **Website:** https://www.altitudelab.org/
-**Updated:** 2026-07-14
+**Domain:** health-bio, capital-programs
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

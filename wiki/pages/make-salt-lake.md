@@ -3,7 +3,8 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Entrepreneurship Communities
+**Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
@@ -11,8 +12,8 @@
 **Coordinates:** 40.7668049, -111.910492
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Make+Salt+Lake+663+West+100+South+Salt+Lake+City+UT
-**Website:** https://makesaltlake.org
-**Updated:** 2026-07-14
+**Website:** http://makesaltlake.org
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +28,7 @@ Makers, hardware founders, and product entrepreneurs in the Salt Lake City area 
 
 Shared makerspace access and tool labs for digital fabrication, woodworking, metalworking, textiles, and electronics. The Startup State listing also references prototyping support and entrepreneur-facing guidance around business planning, marketing, patents, and funding pathways — verify which services are currently staffed versus member self-serve.
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://makesaltlake.org) · https://makesaltlake.org
 - Email [info@makesaltlake.org](mailto:info@makesaltlake.org) and use the site's membership or tour flows

@@ -4,12 +4,13 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** immuno-oncology, tumor vasculature, anti-angiogenesis, university spinout
+**Roles:** biology-life-sciences, clinical-regulatory
 **Stage:** Preclinical (funding unknown)
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Updated:** 2026-07-14
-**Needs-reviewed:** 2026-07-14
+**Needs-reviewed:** 2026-08-11
 **Hero:** https://picsum.photos/seed/batu-biologics-2026/1600/1100
 **Relates:** cites [Official Website: Batu Biologics](batu-biologics-official-website.md) · https://greatutah.work/pages/batu-biologics-official-website.md
 
@@ -31,7 +32,7 @@ Without a clear public mechanism description, the specific product and different
 
 ## What They Need Now
 
-Unknown. Given limited public presence and a preclinical stage, likely needs include non-dilutive federal funding (SBIR/STTR), early angel or seed investment from oncology-focused investors, academic collaborators for preclinical studies, and regulatory guidance for eventual IND filing.
+The University of Utah's current startup portfolio marks Batu Biologics active, but no public openings were found. At its reported preclinical stage, the smallest supported contributor needs are oncology researchers for mechanism and preclinical validation and clinical-regulatory expertise for an eventual IND path. Funding needs may also exist, but no current financing request was verified.
 
 ## Who Could Help
 

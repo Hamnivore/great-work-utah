@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities
+**Domain:** capital-programs
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
 **Region:** Ogden
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://themonarchogden.com/
 **Website:** https://themonarchogden.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -27,7 +28,7 @@ Artists, makers, creative entrepreneurs, salon professionals, and event organize
 
 Creative studio memberships, premier event venues, gallery exhibition space, salon suites for independent beauty professionals, retail/creative workshop space, on-site dining, and a public events calendar (open studios, markets, live music).
 
-## How To Access It
+## How To Use It
 
 - [Official website](https://themonarchogden.com/) · https://themonarchogden.com/
 - Explore creative studios, venues, and happenings sections; email [info@themonarchogden.com](mailto:info@themonarchogden.com) for studio or event inquiries

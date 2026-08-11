@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://www.workboxcompany.com/
 **Website:** https://www.workboxcompany.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,9 +29,12 @@ Workspace (private offices and coworking), meeting and event spaces, Workbox Ven
 
 ## How To Access It
 
+Start with the official website, then confirm current programs before recommending.
+
 - [Official website](https://www.workboxcompany.com/) · https://www.workboxcompany.com/
-- Use the contact form and select Salt Lake City / City Center, or email [info@workboxcompany.com](mailto:info@workboxcompany.com)
+- Email: [info@workboxcompany.com](mailto:info@workboxcompany.com)
 - Startup State listing: https://startup.utah.gov/business-resource/workbox/
+
 
 ## Cost
 

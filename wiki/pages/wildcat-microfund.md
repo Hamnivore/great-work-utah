@@ -3,12 +3,12 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
-**Focus:** Funding, Start a Business
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Ogden, UT
 **Utah Location:** statewide
 **Region:** statewide
 **Website:** https://www.weber.edu/wildcat-microfund/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary

@@ -11,7 +11,6 @@
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Domain:** culture-place
-**Domain-flagged:** review
 **Region:** Salt Lake City
 **Map Location:** 3 Triad Center, Suite 500, Salt Lake City, UT 84180
 **Coordinates:** 40.7703066, -111.9001844

@@ -28,7 +28,7 @@ If implantable BCIs become practical medical products, the Utah Array lineage ma
 
 The deeper impact is infrastructural: hundreds of labs globally use Utah Array hardware as a recording standard, which makes the design part of the substrate for an entire emerging field rather than a single company's product line.
 
-## What Was Created
+## What It Took
 
 The Utah Array packages many microelectrodes on a small grid that can be implanted on the cortical surface. Blackrock's commercial systems — including the Utah Array, NeuroPort, and related recording hardware — translate that platform into research-grade and medically regulated configurations.
 

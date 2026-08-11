@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
-**Focus:** Entrepreneurship Communities, Start a Business
+**Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Price, UT
 **Utah Location:** Price, UT
 **Region:** Price
@@ -12,7 +12,7 @@
 **Location Precision:** exact
 **Location Source:** https://seenutah.org/
 **Website:** https://www.btac.business/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -31,9 +31,12 @@ Per Startup State listing: coworking and incubation space, commercial kitchen re
 
 ## How To Access It
 
-- Listed website: https://www.btac.business/ (server error during verification)
+Start with the official website, then confirm current programs before recommending.
+
+- [Official website](https://www.btac.business/) · https://www.btac.business/
 - Email: [info@btac.business](mailto:info@btac.business)
 - Startup State listing: https://startup.utah.gov/business-resource/business-technical-assistance-center/
+
 
 ## Cost
 

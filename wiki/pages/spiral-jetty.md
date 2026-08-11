@@ -22,13 +22,13 @@ Robert Smithson's *Spiral Jetty* is a 1,500-foot-long counterclockwise earthwork
 
 Sometimes the piece is submerged. Sometimes it reappears crusted in salt. That instability is not a failure of preservation; it is one reason the work has remained alive in art history.
 
-## Why It Matters
+## Impact
 
 *Spiral Jetty* helped make Land art legible as a major postwar form. Sculpture could be a place, a process, a film, an essay, a map, a pilgrimage, and a changing encounter with geological time. It left the museum without becoming ordinary public decoration.
 
 Its influence is unusually durable because it works at several distances: as an aerial icon, as a remote site visit, as a film and text, as an environmental-stewardship problem, and as a classroom example of art that cannot be separated from site.
 
-## What Was Built
+## What It Took
 
 Smithson designed and directed a monumental but simple form: a coil large enough to register against the scale of Great Salt Lake, built from local materials and open to weathering. The work's practical construction required heavy equipment and local earthmoving. Its conceptual construction required making change, remoteness, entropy, and documentation part of the piece.
 

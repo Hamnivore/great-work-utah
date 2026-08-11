@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
+**Domain:** capital-programs
 **Primary Location:** Cottonwood Heights, UT
 **Utah Location:** statewide
 **Region:** statewide
@@ -12,7 +13,7 @@
 **Location Precision:** exact
 **Location Source:** https://kickstart.com/faq
 **Website:** https://www.kickstartfund.com/
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Summary
@@ -29,7 +30,7 @@ Seed-stage founders in the Mountain West building companies with traction or a c
 - Regional expertise and founder support from a long-running Mountain West fund
 - Portfolio network across Utah and Colorado
 
-## How To Access
+## How To Use It
 
 - Reach out through the official site or known partner channels
 - [Official website](https://www.kickstartfund.com/) · https://www.kickstartfund.com/

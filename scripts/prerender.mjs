@@ -39,7 +39,7 @@ const TYPE_PLURAL = {
 
 const NAV = [
   ['/search', 'search'],
-  ['/v/needs', 'looking for work'],
+  ['/v/by-role', 'looking for work'],
   ['/v/by-region', 'by place'],
   ['/map', 'map'],
   ['/v/guides', 'founding'],
@@ -487,7 +487,7 @@ function notFoundPage() {
           <ul>
             <li><a href="/search">Search the wiki</a></li>
             <li><a href="/v/index">Master index</a> — everything, by type</li>
-            <li><a href="/v/needs">Who needs people right now</a></li>
+            <li><a href="/v/by-role">Browse by kind of work</a></li>
             <li><a href="/v/guides">Founding and growing</a></li>
             <li><a href="/about">What this is and who makes it</a></li>
           </ul>

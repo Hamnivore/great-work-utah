@@ -22,7 +22,7 @@ function NotFound() {
           master index
         </a>
         {' · '}
-        <a href="/v/needs" className="text-twilight">
+        <a href="/v/by-role" className="text-twilight">
           looking for work
         </a>
         {' · '}
@@ -64,7 +64,7 @@ function SiteRoutes() {
               <a href="/search" className="text-twilight-soft hover:text-twilight">
                 search
               </a>
-              <a href="/v/needs" className="text-twilight-soft hover:text-twilight">
+              <a href="/v/by-role" className="text-twilight-soft hover:text-twilight">
                 looking for work
               </a>
               <a href="/v/by-region" className="text-twilight-soft hover:text-twilight">

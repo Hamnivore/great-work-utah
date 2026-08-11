@@ -30,6 +30,8 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
   assert.ok(view)
   assert.match(view, /"@type":"CollectionPage"/)
   assert.doesNotMatch(view, /"@type":"Article"/)
+  assert.match(view, /href="\/v\/by-role">looking for work<\/a>/)
+  assert.doesNotMatch(view, /href="\/v\/needs">looking for work<\/a>/)
 
   const metaDoc = renderDocument('meta', 'about')
   assert.ok(metaDoc)

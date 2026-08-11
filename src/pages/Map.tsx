@@ -46,6 +46,7 @@ type LocationResponse = {
 const PLACES = ['All Utah', 'Salt Lake City', 'Provo', 'Ogden', 'St. George', 'Logan', 'Lehi', 'Park City', 'Moab', 'Cedar City', 'Milford']
 const TYPE_LABELS: Record<string, string> = { all: 'All', venture: 'Ventures', person: 'People', resource: 'Resources', helper: 'Helpers', work: 'Work' }
 const escapeAttribute = (value: string) => value.replace(/[&"<>]/g, (character) => ({ '&': '&amp;', '"': '&quot;', '<': '&lt;', '>': '&gt;' })[character] || character)
+const humanPageUrl = (page: string) => page.replace(/^(https?:\/\/[^/]+)?\/pages\/([a-z0-9-]+)\.md$/, '$1/p/$2')
 
 function FitResults({ results }: { results: LocationResult[] }) {
   const map = useMap()
@@ -232,7 +233,7 @@ export function MapPage() {
                 <Popup>
                   <strong>{result.title}</strong><br />
                   {result.location.label}<br />
-                  <a href={result.page}>Open page</a>
+                  <a href={humanPageUrl(result.page)}>Open page</a>
                 </Popup>
               </Marker>
               )
@@ -258,7 +259,7 @@ export function MapPage() {
               <p className="mt-2 text-sm leading-snug text-ink-soft">{result.focus}</p>
               <p className="mt-2 text-xs leading-snug text-ink-soft">{result.location.label}</p>
               <div className="mt-3 flex items-center gap-4 text-xs">
-                <a href={result.page} className="inline-flex items-center gap-1 text-twilight">Read page <ExternalLink size={12} /></a>
+                <a href={humanPageUrl(result.page)} className="inline-flex items-center gap-1 text-twilight">Read page <ExternalLink size={12} /></a>
                 <a href={result.location.provenance} target="_blank" rel="noreferrer" className="text-twilight-soft">Location source</a>
               </div>
             </article>

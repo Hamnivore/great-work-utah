@@ -1,0 +1,13 @@
+{
+  "source_page": "biofire-diagnostics-official-website.md",
+  "requested_url": "https://www.biofiredx.com",
+  "final_url": "https://www.biofiredx.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:19.955Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "63ad647a304034ab16b8b9b1ef5839361ec7a58cf2e7b93f7b5bade213c1e03c",
+  "text_sha256": "a2fb4c6808482fa10d15dc0bedd856a155aa2a784966ac0e8481a130868cc543",
+  "text_chars": 4190,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "instructure-official-website.md",
+  "requested_url": "https://www.instructure.com",
+  "final_url": "https://www.instructure.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:52.858Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "e9d936fc72480f42495fc94d31a14d5a048af2ede5dd07992bf6b8c5c23d95f9",
+  "text_sha256": "e1d46b517d68c8abadbbf6309d84696a2eb140d900cdb98dd4ebf28711e4f8d2",
+  "text_chars": 12428,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

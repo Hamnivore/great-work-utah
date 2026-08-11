@@ -1,0 +1,13 @@
+{
+  "source_page": "electric-power-systems-official-website.md",
+  "requested_url": "https://epsenergy.com",
+  "final_url": "https://epsenergy.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:38.926Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "621ff94eb54e4f53340d9a8fc400c1e112842b4ae1afb63adb440348834fc674",
+  "text_sha256": "205db70a49ad10ca1b1a9a9f016e92797aedd17253872540fef12e07dc496584",
+  "text_chars": 1857,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -13,7 +13,6 @@
 **Location Source:** https://suazocenter.org/
 **Website:** https://suazocenter.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

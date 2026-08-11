@@ -13,7 +13,6 @@
 **Website:** https://music.ai
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
-**Hero:** https://picsum.photos/seed/music-ai-studio/1600/1100
 **Pull:** *50 million users, an Apple App of the Year, and a bet that AI should pay musicians — not replace them.*
 **Relates:** cites [Official Website: Music AI](music-ai-official-website.md) · https://greatutah.work/pages/music-ai-official-website.md · https://music.ai
 

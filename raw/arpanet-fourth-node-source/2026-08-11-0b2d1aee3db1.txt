@@ -1,0 +1,196 @@
+Node 4: What's in a name? - University Information Technology - The University of Utah
+Skip to content
+Search Site:
+Powered by
+Search Campus:
+Powered by
+Search Campus
+Campus Alert
+The University of Utah
+University Information Technology (UIT)
+Services
+Service Catalog
+Box
+CIS
+Google Workspace
+Microsoft 365 (UMAIL)
+Service Quick Links
+Departments
+Governance
+overview
+Committees
+CIO Office
+About the CIO
+Uit Leadership
+Support Staff
+Strategic plans
+About
+About UIT
+ORG Charts
+Job Openings
+Job Openings
+Student Program
+IT Policies
+Committees
+IT Organization Memberships
+Node 4
+Campus IT HELP DESK (801-581-4000)
+About the help desk
+U of U IT KNOWLEDGE BASE
+IT guides
+TWO-FACTOR AUTHENTICATION
+Account access and IT security settings
+Password tester
+Start-of-semester help
+Search
+Reveal Menu
+Reveal Menu
+Main Navigation
+Main Menu
+Home
+U of U IT Knowledge Base
+Campus IT Help Desk
+About the Help Desk
+IT guides
+Account access and IT security settings
+Password tester
+Start-of-semester help
+Services
+Service Catalog
+Box
+CIS
+Google Workspace
+Microsoft 365 (UMail)
+Service Quick Links
+Governance
+Overview
+Committees
+CIO Office
+About the CIO
+UIT Leadership
+Support staff
+Strategic Plans
+Departments
+About
+About UIT
+Org charts
+Jobs
+Job openings
+Student program
+IT policies
+Committees
+IT organization memberships
+Node 4
+Subscribe to UIT News
+Home
+Node 4
+Posts
+2017
+August
+current page: Node 4: What's in a name?
+You’re accessing archived content
+This is archived content from the UIT website. Information may be outdated, and links
+may no longer function. Please contact stratcomm@it.utah.edu if you have any questions about archived content.
+What's in a name?
+August 30, 2017 Jesse Drake
+In the case of Node 4, the U's role in the birth of the internet
+Learn more from Marriott Library's ARPANET Project .
+Since October 2013 Node 4 has been the University's source for UIT news.
+Every so often, someone asks, “What does Node 4 mean?”
+The short answer is: In 1969, the University of Utah’s Computer Science Department
+became the fourth node of ARPANET , the world's first packet-switching computer network and precursor of today’s internet.
+Here's the long answer.
+The internet can’t be traced back to any single inventor or birthplace, but an oft-quoted
+origin story involves the Cold War, Sputnik, fear of falling behind the Soviets, and
+tensions around a nuclear attack.
+In 1957, news of humanity’s first artificial Earth satellite received a lackadaisical
+reception in the Soviet Union. Not so in the United States, where it shattered the
+popular belief that America was far-and-away the world’s leading technological superpower.
+For many Americans, Sputnik was stunning proof that the U.S. was lagging behind in
+the “Space Race.”
+A significant science and engineering gap has since been discounted as hype , but competition begets innovation, and in 1958, the U.S. federal government founded
+the National Aeronautics and Space Administration (NASA) and the Department of Defense’s Advanced Research Projects Agency (ARPA),
+organizations tasked with developing space-age technologies (e.g., rockets, weapons
+and computers). ARPA later gained a "D," becoming the Defense Advanced Research Projects Agency (DARPA).
+According to The History Channel , after Sputnik, scientists and military experts were especially worried about an
+attack on the nation’s telephone system, which made long-distance communication possible:
+In 1962, a scientist from M.I.T. and ARPA named J.C.R. Licklider proposed a solution
+to this problem: a “galactic network” of computers that could talk to one another.
+Such a network would enable government leaders to communicate even if the Soviets
+destroyed the telephone system.
+In 1965, another M.I.T. scientist developed a way of sending information from one
+computer to another that he called “packet switching.” Packet switching breaks data
+down into blocks, or packets, before sending it to its destination. That way, each
+packet can take its own route from place to place. Without packet switching, [ARPANET]
+… would have been just as vulnerable to enemy attacks as the phone system.
+1969 ARPANET diagram from logs at UCLA ( Computer History Museum )
+In 1969, the University of Utah became the fourth node on the ARPANET – the first
+outside of California to join the network (after UCLA, Stanford Research Institute
+and the University of California Santa Barbara), an effort spearheaded by Computer
+Science Professor Ivan Sutherland, Ph.D., an A.M. Turing Award-winner .
+Later that year, the first “node-to-node” message between research labs at UCLA and
+Stanford was delivered. “LOGIN” – albeit short and simple – crashed the network after
+the Stanford computer only received the "L" and "O."
+The political backdrop of the internet’s early development may have been the Cold
+War, but the social force behind these technologies was undeniably in academia.
+"We have found that, in the process of connecting machines and operating systems together,
+a great deal of rapport has been established between personnel at the various network
+node sites. The resulting mixture of ideas, discussions, disagreements, and resolutions
+has been highly refreshing and beneficial to all involved, and we regard the human
+interaction as a valuable by-product of the main effect."
+- Stephen Carr, Stephen Crocker and Vinton Cerf, Feb. 1970
+For a more detailed lifecycle of ARPANET, check out Marriott Library’s ARPANET Timeline Project (1969-1980).
+Former School of Computing Professor Lee Hollaar, Ph.D., talks about what it was like when the U was a node
+on the ARPANET.
+There you have it: The story behind the name Node 4, and the U's distinguished place
+in the history of the internet.
+Share this article:
+Tags:
+Node 4 Search
+Node 4
+Our monthly newsletter includes news from UIT and other campus/ University of Utah
+Health IT organizations, features about UIT employees, IT governance news, and various
+announcements and updates.
+Subscribe
+Categories
+Digital Learning Technologies
+Employee Feature
+IT Governance
+IT Leadership Spotlight
+IT Security News
+Kudos
+Meet Your Colleagues
+Network News
+PMO Corner
+Software
+Student Success
+Featured Posts
+University Information Technology
+The University of Utah
+102 S. 200 East, STE. 110
+Salt Lake City, UT 84111
+801-581-4000
+Stay in Touch
+Find Us
+Contact Us
+Webmaster
+Quick Links
+CIS
+UMail
+IT SERVICE CATALOG
+NODE 4
+SOFTWARE CATALOG
+U of U IT KNOWLEDGE BASE
+U of U IT SERVICES STATUS
+© 2026 The University of Utah
+Nondiscrimination & Accessibility
+Disclaimer
+Privacy
+Credits & Attributions
+About the U
+Media Contacts
+X
+Facebook
+Instagram
+Youtube
+Last Updated: 4/21/26

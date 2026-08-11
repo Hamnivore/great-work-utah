@@ -16,7 +16,6 @@
 **Careers:** https://www.octanner.com/company/careers
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/oc-tanner-culture-cloud-2026/1600/1100
 **Pull:** *Nearly a century of making people feel valued at work — now delivered through software.*
 
 ## Summary

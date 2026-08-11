@@ -1,0 +1,516 @@
+Utah Data Center - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Search
+Search
+Appearance
+Donate
+Create account
+Log in
+Personal tools
+Donate
+Create account
+Log in
+Contents
+move to sidebar
+hide
+(Top)
+1
+Purpose
+2
+Structure
+3
+See also
+4
+References
+5
+External links
+Toggle the table of contents
+Utah Data Center
+10 languages
+العربية
+Deutsch
+فارسی
+Français
+Italiano
+Nederlands
+Português
+Русский
+Svenska
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Switch to legacy parser
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikidata item
+Appearance
+move to sidebar
+hide
+Coordinates : 40°25′37″N 111°56′02″W ﻿ / ﻿ 40.427°N 111.934°W ﻿ / 40.427; -111.934
+From Wikipedia, the free encyclopedia
+NSA data storage facility
+NSA's Utah Data Center
+Part of a series on
+Global surveillance
+Disclosures
+Origins
+Pre-2013
+Snowden
+Reactions
+Systems
+List of government mass surveillance projects
+XKeyscore
+PRISM
+ECHELON
+Sentient
+Carnivore
+Dishfire
+Stone Ghost
+Tempora
+Frenchelon
+Fairview
+MYSTIC
+DCSN
+Boundless Informant
+Bullrun
+Pinwale
+Stingray
+SORM
+RAMPART-A
+Mastering the Internet
+Jindalee Operational Radar Network
+Selected agencies
+FVEY
+ASD
+CSE
+GCSB
+GCHQ
+NSA
+BND
+BSSN
+CNI
+DIH
+DGSE
+KGB
+MSS
+JSCU
+Secret police
+Spetssvyaz
+Unit 8200
+Places
+The Doughnut
+Fort Meade
+Menwith Hill
+Pine Gap
+Southern Cross Cable
+Utah Data Center
+Bad Aibling Station
+Dagger Complex
+GCHQ Bude
+Laws
+Five Eyes
+UKUSA Agreement
+Lustre
+U.S.
+USA Freedom Act
+FISA amendments
+EU
+Data Retention Directive
+Data Protection Directive
+GDPR
+China
+National Intelligence Law
+Cybersecurity Law
+UK
+Investigatory Powers Act 2016
+Proposed changes
+U.S.
+FISA Improvements Act
+Other proposals
+Concepts
+Mass surveillance
+Corporate
+Industry
+Culture of fear
+Secure communication
+Security sector governance and reform
+SIGINT
+Call detail record
+Surveillance issues in smart cities
+Surveillance abuse
+Related topics
+Intelligence field
+Espionage
+Intelligence agency
+Cryptography
+Tor
+VPNs
+TLS
+Human rights
+Privacy
+Liberty
+Satellites
+Stop Watching Us
+Nothing to hide argument
+v
+t
+e
+The Utah Data Center ( UDC ), also known as the Intelligence Community Comprehensive National Cybersecurity Initiative Data Center , [ 1 ] is a data storage facility for the United States Intelligence Community that is designed to store data estimated to be on the order of exabytes or larger. [ 2 ] Its purpose is to support the Comprehensive National Cybersecurity Initiative (CNCI), though its precise mission is classified. [ 3 ] The National Security Agency (NSA) leads operations at the facility as the executive agent for the Director of National Intelligence . [ 4 ] It is located at Camp Williams near Bluffdale, Utah , between Utah Lake and Great Salt Lake and was completed in May 2014 at a cost of $1.5 billion. [ 5 ]
+Purpose
+[ edit ]
+Critics believe that the data center has the capability to process "all forms of communication, including the complete contents of private emails, cell phone calls, and Internet searches, as well as all types of personal data trails—parking receipts, travel itineraries, bookstore purchases, and other digital 'pocket litter'." [ 6 ] In response to claims that the data center would be used to illegally monitor email of U.S. citizens, in April 2013 an NSA spokesperson said, "Many unfounded allegations have been made about the planned activities of the Utah Data Center, ... one of the biggest misconceptions about NSA is that we are unlawfully listening in on, or reading emails of, U.S. citizens. This is simply not the case." [ 4 ]
+In April 2009, officials at the United States Department of Justice acknowledged that the NSA had engaged in large-scale overcollection of domestic communications in excess of the United States Foreign Intelligence Surveillance Court 's authority but claimed that the acts were unintentional and had since been rectified. [ 7 ]
+In August 2012, The New York Times published short documentaries by independent filmmakers titled The Program , [ 8 ] based on interviews with former NSA technical director and whistleblower William Binney . The project had been designed for foreign signals intelligence (SIGINT) collection, but Binney alleged that after the September 11 terrorist attacks , controls that limited unintentional collection of data pertaining to U.S. citizens were removed, prompting concerns by him and others that the actions were illegal and unconstitutional. Binney alleged that the Bluffdale facility was designed to store a broad range of domestic communications for data mining without warrants. [ 9 ]
+Documents leaked to the media in June 2013 described PRISM , a national security computer and network surveillance program operated by the NSA, as enabling in-depth surveillance on live Internet communications and stored information. [ 10 ] [ 11 ] Reports linked the data center to the NSA's controversial expansion of activities, which store extremely large amounts of data. Privacy and civil liberties advocates raised concerns about the unique capabilities that such a facility would give to intelligence agencies. [ 12 ] [ 13 ] "They park stuff in storage in the hopes that they will eventually have time to get to it," said James Lewis, a cyberexpert at the Center for Strategic and International Studies , "or that they'll find something that they need to go back and look for in the masses of data." But, he added, "most of it sits and is never looked at by anyone." [ 14 ]
+The UDC was expected to store Internet data, as well as telephone records from the controversial NSA telephone call database, MAINWAY , when it opened in 2013. [ 15 ]
+In light of the controversy over the NSA's involvement in the practice of mass surveillance in the United States , and prompted by the 2013 mass surveillance disclosures by ex-NSA contractor Edward Snowden , the Utah Data Center was hailed by The Wall Street Journal as a "symbol of the spy agency's surveillance prowess". [ 16 ]
+Binney has said that the facility was built to store recordings and other content of communications, not only for metadata . [ 17 ]
+According to an interview with Snowden, the project was initially known as the Massive Data Repository within NSA, but was renamed to Mission Data Repository due to the former sounding too "creepy". [ 18 ]
+Structure
+[ edit ]
+Utah Data Center area layout
+The structure provides 1 to 1.5 million sq ft (93,000 to 139,000 m 2 ) , [ 19 ] [ 20 ] [ 21 ] with 100,000 sq ft (9,300 m 2 ) of data center space and more than 900,000 sq ft (84,000 m 2 ) of technical support and administrative space. [ 6 ] [ 19 ]
+An article by Forbes estimates the storage capacity as between 3 and 12 exabytes as of 2013, based on analysis of unclassified blueprints, but mentions Moore's Law , meaning that advances in technology could be expected to increase the capacity by orders of magnitude in the coming years. [ 2 ]
+Toward the end of the project's construction it was plagued by electrical problems in the form of "massive power surges" [ 22 ] that damaged equipment. [ 16 ] This delayed its opening by a year. [ 22 ]
+The finished structure is characterized as a Tier III data center , with over a million square feet, that cost over 1.5 billion dollars to build. Of the million square feet, 100,000 square feet are dedicated to the data center. The other 900,000 square feet are utilized as technical support and administrative space.
+See also
+[ edit ]
+Utah portal
+United States portal
+Politics portal
+Big data
+Cyberethics
+Electronic Communications Privacy Act
+FISA Amendments Act of 2008
+Multiprogram Research Facility
+Privacy law
+Secrecy of correspondence
+Texas Cryptologic Center
+Electronic Frontier Foundation
+References
+[ edit ]
+↑ "NSA Utah Data Center" . Facilities Magazine . 14 September 2011. Archived from the original on 26 January 2017 . Retrieved 24 April 2013 .
+1 2 Kashmir Hill (July 24, 2013). "Blueprints Of NSA's Ridiculously Expensive Data Center In Utah Suggest It Holds Less Info Than Thought" . Forbes . Retrieved 2013-07-29 .
+↑ Fidel, Steve (6 January 2011). "Utah's $1.5 billion cyber-security center under way" . Deseret News . Archived from the original on January 9, 2011 . Retrieved 29 March 2013 .
+1 2 Shalal-Esa, Andrea (15 April 2013). "U.S. agency denies data center to monitor citizens' emails" . Reuters . Retrieved 16 April 2013 .
+↑ Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (September 17, 2014). "MilCon Status Report - August, 2014 - Under Secretary of Defense for AT&L" . Archived from the original on December 10, 2014 . Retrieved April 16, 2015 .
+1 2 Bamford, James (March 15, 2012). "The NSA Is Building the Country's Biggest Spy Center (Watch What You Say)" . Wired . Archived from the original on April 4, 2012 . Retrieved December 13, 2025 .
+↑ Eric Lichtblau and James Risen (April 15, 2009). "Officials Say U.S. Wiretaps Exceeded Law" . The New York Times . Retrieved September 5, 2012 .
+↑ Poitras, Laura (August 22, 2012). "The Program" . The New York Times . Retrieved August 5, 2016 .
+↑ Lawson, Kent, "What Does the NSA Know About You?" Archived 2013-10-21 at the Wayback Machine , Private WiFi, August 27, 2012
+↑ Gellman, Barton ; Poitras, Laura (June 6, 2013). "US Intelligence Mining Data from Nine U.S. Internet Companies in Broad Secret Program" . The Washington Post . Retrieved June 11, 2013 .
+↑ Greenwald, Glenn ; MacAskill, Ewen (June 9, 2013). "Edward Snowden: The Whistleblower Behind Revelations of NSA Surveillance" . The Guardian . Hong Kong . Retrieved June 9, 2013 . {{ cite news }} : CS1 maint: multiple names: authors list ( link )
+↑ James Risen & Eric Lichtblau (June 8, 2013). "How the U.S. Uses Technology to Mine More Data More Quickly" . The New York Times . Retrieved June 11, 2013 .
+↑ Howard Berkes (June 10, 2013). "Amid Data Controversy, NSA Builds Its Biggest Data Farm" . National Public Radio . Retrieved June 11, 2013 .
+↑ Scott Shane and David E. Sanger, "Job Title Key to Inner Access Held by Snowden" , New York Times , June 30, 2013
+↑ Thomas Burr (June 6, 2013). "Phone records could end up at NSA's Utah Data Center" . Salt Lake Tribune . Retrieved June 11, 2013 .
+1 2 Siobhan Gorman (7 October 2013). "Meltdowns Hobble NSA Data Center" . The Wall Street Journal . Retrieved 19 October 2013 . The Utah facility, one of the Pentagon's biggest U.S. construction projects, has become a symbol of the spy agency's surveillance prowess, which gained broad attention in the wake of leaks from NSA contractor Edward Snowden.
+↑ "NSA Collects 'Word for Word' Every Domestic Communication, Says Former Analyst" . PBS NewsHour . 1 August 2013.
+↑ James Bamford (August 2014). "Edward Snowden: The Untold Story" . Wired .
+1 2 Kenyon, Henry (Jan 7, 2011). "New NSA data center breaks ground on construction -- Defense Systems" . Defense Systems. Archived from the original on 5 October 2011 . Retrieved 11 August 2011 .
+↑ "NSA to store yottabytes in Utah data centre" . CNET Networks . Archived from the original on 23 June 2013 . Retrieved 11 August 2011 .
+↑ Bamford, James. "Who's in Big Brother's Database? by James Bamford" . The New York Review of Books . Retrieved 11 August 2011 .
+1 2 "NSA data center 'crippled' by huge power surges" . DatacenterDynamics. October 8, 2013. Archived from the original on February 4, 2015 . Retrieved April 27, 2014 .
+External links
+[ edit ]
+Wikimedia Commons has media related to Utah Data Center .
+"James Bamford: Inside the NSA's Largest Secret Domestic Spy Center, part 1" . YouTube . 21 March 2012. & "part 2" . YouTube . 21 March 2012.
+Greenwald, Glenn; MacAskill, Ewen; Poitras, Laura (9 June 2013). "Edward Snowden: NSA Whistleblower" . The Guardian . London.
+v
+t
+e
+National Security Agency
+Locations
+Alaska Mission Operations Center
+Colorado Cryptologic Center
+Consolidated Intelligence Center
+CSSG
+European Cryptologic Center
+European Technical Center
+Fort Meade
+Friendship Annex
+Georgia Cryptologic Center
+Hawaii Cryptologic Center
+Interagency Training Center
+Kent Island
+Misawa Security Operations Center
+Multiprogram Research Facility
+Pine Gap
+RAF Menwith Hill
+Roaring Creek
+Room 641A
+Salt Creek
+Sugar Grove
+Texas Cryptologic Center
+Utah Data Center
+Leaders
+Ralph Canine
+John A. Samford
+Laurence Hugh Frost
+Gordon Blake
+Marshall Carter
+Noel Gayler
+Samuel C. Phillips
+Lew Allen
+Bobby Ray Inman
+Lincoln D. Faurer
+William Eldridge Odom
+Bill Studeman
+John Michael McConnell
+Kenneth Minihan
+Michael Hayden
+Keith B. Alexander
+Michael S. Rogers
+Paul Nakasone
+Divisions
+CSS
+Special Collection Service
+SSO
+TAO
+NSOC
+Technology
+ANT catalog
+FROSTBURG
+HARVEST
+Secure Terminal Equipment (STE)
+STU-I
+STU-II
+STU-III
+WARRIOR PRIDE
+Controversy
+2010s global surveillance disclosures
+Church Committee
+Edward Snowden
+LOVEINT
+James Bamford
+NSA warrantless surveillance (2001–2007)
+Pike Committee
+Russ Tice
+Thomas Andrews Drake
+Thomas Tamm
+Matthew Aid
+Programs
+Boundless Informant
+Dropmire
+ECHELON
+Fairview
+Insider Threat Program
+MUSCULAR
+MYSTIC
+PRISM
+Real Time Regional Gateway
+Stellar Wind
+TRAILBLAZER
+Turbulence
+Upstream
+XKeyscore
+Databases
+DISHFIRE
+Main Core
+MAINWAY
+MARINA
+PINWALE
+Other
+Dundee Society
+Dunk (mascot)
+Institute for Defense Analyses
+National Cryptologic Museum
+National Cryptologic School
+National Vigilance Park
+NSA Hall of Honor
+VENONA
+Vulnerabilities Equities Process
+Zendian Problem
+v
+t
+e
+War on terror
+September 11 attacks
+War in Afghanistan (2001–2021) ( Withdrawal )
+Iraq War (2003–2011) ( Withdrawal )
+Participants
+Operational
+ISAF
+Operation Enduring Freedom participants
+Afghanistan
+Northern Alliance
+Iraq ( Iraqi Armed Forces )
+NATO
+Pakistan
+United Kingdom
+United States
+European Union
+Philippines
+Ethiopia
+Targets
+Individuals
+Osama bin Laden
+Hamza bin Laden
+Anwar al-Awlaki
+Sirajuddin Haqqani
+Jalaluddin Haqqani
+Anas Haqqani
+Khalil Haqqani
+Hafiz Saeed
+Mahmoud Mohamed Ahmed Bahaziq
+Abu Bakr al-Baghdadi
+Factions
+al-Qaeda
+al-Qaeda in the Arabian Peninsula
+Abu Sayyaf
+Al-Shabaab
+Boko Haram
+Harkat-ul-Jihad al-Islami
+Hizbul Mujahideen
+Islamic Courts Union
+Jaish-e-Mohammed
+Jemaah Islamiyah
+Lashkar-e-Taiba
+Taliban
+Islamic Movement of Uzbekistan
+Islamic State
+Conflicts
+Operation
+Enduring Freedom
+War in Afghanistan
+OEF – Philippines
+Georgian involvement in the Iraq War
+OEF – Horn of Africa
+OEF – Trans Sahara
+Drone strikes in Pakistan
+Other
+Operation Active Endeavour
+Insurgency in the Maghreb (2002–present)
+Insurgency in the North Caucasus
+Moro conflict in the Philippines
+Iraq War
+Iraqi insurgency
+Operation Linda Nchi
+Terrorism in Saudi Arabia
+Insurgency in Khyber Pakhtunkhwa
+War in Somalia (2006–2009)
+2007 Lebanon conflict
+al-Qaeda insurgency in Yemen
+Policies
+Patriot Act (2001)
+Torture Memos (2002)
+Military Commissions Act of 2006
+Military Commissions Act of 2009
+President's Surveillance Program
+Protect America Act of 2007
+Rollback
+Terrorist Surveillance Program
+Related
+Abu Ghraib torture and prisoner abuse
+Axis of evil
+Bush Doctrine
+Clash of Civilizations
+Cold War
+Combatant Status Review Tribunal
+Criticism of the war on terror
+CIA black sites
+Killing of Ayman al-Zawahiri
+Killing of Osama bin Laden
+Enhanced interrogation techniques
+Extrajudicial prisoners
+Extraordinary rendition
+Guantanamo Bay detention camp
+Iranian Revolution
+Islamic terrorism
+Islamism
+Operation Noble Eagle
+Operation Eagle Assist
+Situation Room photograph
+State Sponsors of Terrorism
+Targeted killing
+Targeted Killing in International Law
+Targeted Killings: Law and Morality in an Asymmetrical World
+Unitary executive theory
+Unlawful combatant
+CAGE
+Category
+Commons
+40°25′37″N 111°56′02″W ﻿ / ﻿ 40.427°N 111.934°W ﻿ / 40.427; -111.934 [[Geographic coordinate system|Coordinates]]: {{#parsoid\u0000fragment:45}}<span class=\"plainlinks nourlexpansion\">[https://geohack.toolforge.org/geohack.php?pagename=Utah_Data_Center&params=40.427_N_111.934_W_region:US-UT_type:landmark <span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°25′37″N</span> <span class=\"longitude\">111°56′02″W</span></span></span><span class=\"geo-multi-punct\">&#xfeff; / &#xfeff;</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.427°N 111.934°W</span><span style=\"display:none\">&#xfeff; / <span class=\"geo\">40.427; -111.934</span></span></span>]</span>[[Category:Pages using gadget WikiMiniAtlas]]</span>"}}'/>
+Retrieved from " https://en.wikipedia.org/w/index.php?title=Utah_Data_Center&oldid=1356373555 "
+Categories : Buildings and structures in Salt Lake County, Utah
+Counterterrorism in the United States
+Government buildings in Utah
+Government databases in the United States
+Law enforcement databases in the United States
+Mass surveillance
+National Security Agency facilities
+Privacy of telecommunications
+Surveillance
+Data centers
+Supercomputer sites
+2014 establishments in Utah
+Hidden categories: Articles with short description
+Short description is different from Wikidata
+Use American English from August 2025
+All Wikipedia articles written in American English
+Webarchive template wayback links
+CS1 maint: multiple names: authors list
+Pages using gadget WikiMiniAtlas
+Coordinates on Wikidata
+This page was last edited on 27 May 2026, at 10:51 (UTC) .
+Page was rendered with Parsoid .
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Search
+Search
+Toggle the table of contents
+Utah Data Center
+10 languages
+Add topic

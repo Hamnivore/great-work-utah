@@ -1,0 +1,13 @@
+{
+  "source_page": "safeut-frontline-official-page.md",
+  "requested_url": "https://safeut.org/frontline",
+  "final_url": "https://safeut.org/frontline",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:00.121Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "108f7bbdd3fa14a3bd29c48e75bd6924665cc41d29d96234124dff2238a533c2",
+  "text_sha256": "4cc558145fcc8e052f5d6759eafc8c7d223f4636dad315d6ae29e5130092feaf",
+  "text_chars": 7030,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

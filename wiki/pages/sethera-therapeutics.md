@@ -12,7 +12,6 @@
 **Website:** https://setheratx.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/sethera-therapeutics-2026/1600/1100
 **Pull:** *Enzymatic peptide cross-linking to make unstable peptides drug-like — platform bet, very early.*
 **Relates:** cites [Official Website: Sethera Therapeutics](sethera-therapeutics-official-website.md) · https://greatutah.work/pages/sethera-therapeutics-official-website.md · https://setheratx.com
 

@@ -1,0 +1,16 @@
+{
+  "source_page": "safeut-school-model-policy.md",
+  "requested_url": "https://schools.utah.gov/schoolsafetycenter/_sscresources/_sscresourcedocs/SchoolSafeUTModelPolicy.pdf",
+  "final_url": "https://schools.utah.gov/schoolsafetycenter/_sscresources/_sscresourcedocs/SchoolSafeUTModelPolicy.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:01.105Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "7a55941add73a278efabb3e767d0256e5359f9695d2e3a0c3d1cdeb1134149e0",
+  "text_sha256": "52b25cceef375bd502fa537959cbe3806403bb8ffdab28ba9db397f7f1965edf",
+  "text_chars": 6689,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 4,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

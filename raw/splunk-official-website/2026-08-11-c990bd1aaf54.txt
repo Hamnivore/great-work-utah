@@ -1,0 +1,402 @@
+Splunk | Unified Security & Observability for Digital Resilience
+Deutsch
+Francais
+日本語
+한국어
+中文
+繁體中文
+Search
+Search
+Platform
+Back
+Products
+Cloud Platform
+Leverage a flexible data platform offered as a service
+Enterprise
+Unify security and observability with a data platform
+Platform overview
+Capabilities
+Artificial Intelligence
+Activate agentic operations
+Federated Search
+Unify search across different sources
+Data Management
+Optimize pipelines and control costs
+AI Toolkit
+Build, test, and deploy custom AI
+Splunk MCP Server
+Connect AI to Splunk data securely
+Use Cases
+Data Optimization
+Manage data, storage, and costs
+IT Modernization
+Maximize IT impact with AIOps
+IT Service Health
+Analyze service health from one view
+View all use cases
+See Splunk Cloud Platform in action
+Explore the product tour
+Security
+Back
+Products
+Enterprise Security
+Unify TDIR with the AI-powered SecOps platform
+Security overview
+Capabilities
+SIEM
+Detect and stop threats
+SOAR
+Accelerate and automate response
+UEBA
+Detect user and entity anomalies
+Detection Studio
+Develop and monitor detections
+Artificial Intelligence
+Scale with AI and AgenticOps
+View all capabilities
+Use Cases
+Advanced Threat Detection
+Uncover insider threats and attacks
+Automation and Orchestration
+Streamline incident response
+Compliance
+Access easy auditing and reporting
+Security Monitoring
+Centralize data for complete visibility
+View all use cases
+Power the agentic SOC
+Learn more
+Explore Splunk Enterprise Security
+Take the product tour
+Observability
+Back
+Products
+Observability Cloud
+Gain real-time visibility across any environment
+IT Service Intelligence
+Protect service performance with AIOps
+AppDynamics
+Optimize apps with full-stack insight
+Observability overview
+Capabilities
+Application Performance Monitoring
+Troubleshoot performance issues
+Infrastructure Monitoring
+Monitor clouds, containers, and on-prem
+Digital Experience Analytics
+Analyze user experiences
+Agent Observability
+Monitor agents, models, and costs
+AI SRE
+Troubleshoot with agentic AI
+Use Cases
+Alert Noise Reduction
+Correlate and prioritize alerts
+Cloud Monitoring Optimization
+Manage cloud performance and costs
+End-User Experiences
+Detect and prevent user issues
+Microservices Troubleshooting
+Debug problems in microservices
+View all use cases
+Build a leading observability practice with Splunk AI
+Learn more
+Explore Splunk Infrastructure Monitoring
+Take the product tour
+Industries
+Back
+Aerospace and Defense
+Communications and Media
+Energy and Utilities
+Financial Services
+Healthcare
+Higher Education
+Manufacturing
+Nonprofits
+Online Services
+Public Sector
+Retail
+Technology
+View all industries
+Reduce Financial Crime and Fraud in Financial Services
+Read the brief
+A Strategic Approach for AI Implementation in Discrete Manufacturing
+Download now
+See Across Every System to Maximize Network Resilience
+Read the e-book
+Resources
+Back
+Get Started
+Get Started with Splunk
+Splunkbase
+Splunk Lantern
+Community and User Groups
+Customer Success
+Resource Center
+Contact Sales
+Learn
+Training and Certification
+Documentation
+Product Tours
+Blogs
+Events
+.conf26
+Why Splunk
+Why Splunk
+Awards and Recognition
+Customer Stories
+Splunk vs. the Competition
+Partners
+Pricing
+Search
+Support
+Back
+Support
+Customer Support
+Support Portal
+Partners
+Contact Us
+Splunk Answers
+System Status
+Cisco Support
+AppDynamics Support
+Product Security Updates
+Log In
+Back
+Log In
+Log In
+Sign Up
+My Dashboard
+Instances
+My Training
+Logout
+events logo
+Trials & Downloads
+Search
+Get hands-on with Splunk at .conf26
+Join us in person from September 14–17 in Denver, Colorado for an immersive learning and networking experience.
+Register now
+Introducing Splunk Agent Observability
+Powered by the Galileo acquisition. Observe and secure AI agents, models, and infrastructure.
+Learn more
+Trusted by leaders worldwide
+Splunk is now a Cisco company
+Find out more
+When disruption isn't an option
+Trust the unified platform for security and observability at massive scale.
+Digital resilience platform
+Unify cross-domain machine data at petabyte scale into contextualized, trusted intelligence. Give teams and AI a complete foundation to preempt issues and activate AgenticOps.
+Explore Splunk Platform
+x
+Model content data
+Agentic SOC
+Unify threat detection, investigation, and response with AI and built-in Cisco Talos threat intel. Use AI to anticipate, find, and stop emerging threats at machine speed.
+Explore Splunk Security
+x
+Model content data
+Agentic observability
+See the business impact of every performance problem across any stack, owned and unowned networks, and AI workloads. Use AI to predict, preempt, and investigate fast.
+Explore Splunk Observability
+x
+Model content data
+AI built for observability and security
+AI needs data visibility and context to deliver useful results at scale. Uncover cross-domain insights and boost productivity with AI you can trust that runs on Splunk.
+Discover AI capabilities
+Watch overview
+The Splunk ecosystem
+2000+ integrations
+Connect, extend, and act on your data with integrations and apps on Splunkbase — across cloud, SaaS, IT, and machine data from OT and IoT. Instrument with native open Telemetry support, SDKs, and agents.
+Visit Splunkbase
+Why the world’s leading enterprises trust Splunk
+$120B
+in market capitalization protected
+8M
+traces and 50M spans captured
+Progressive Protects Customers and Revenue with Splunk
+If we can show that monitoring was able to pick up prior to a service disruption, we’re able
+to
+show
+that the investments we make in the monitoring tool are giving the business value.
+Jon Moore, Domain Architect, Progressive Insurance
+Read the story
+All
+stories
+›
+75%+
+faster issue detection
+90%
+fewer backend issues
+Singapore Airlines Elevates Customer Experience with Splunk
+With Splunk, Singapore Airlines can now find and fix issues faster — maximizing service uptime, optimizing customer experience, and keeping the brand’s reputation sky-high.
+Read the story
+All
+stories
+›
+3x
+faster threat response times
+€10B
+($10.45B) projected in e-commerce sales by 2026
+Carrefour Responds to Security Threats 3x Faster with Splunk Cloud Platform
+We get so much value from Splunk. It maximizes the insights we gain from analyzing detection use cases, rather than wasting time creating rules or struggling with a tool that’s too complicated.
+Romaric Ducloux, SOC Analyst, Carrefour
+Read the story
+All
+stories
+›
+10x
+faster MTTR
+25k
+hours saved per month with automation
+Specsavers Sees 10x Faster MTTR with Splunk
+Splunk has made every team's life easier.
+Andy Slater, Observability and Automation Lead, Specsavers
+Read the story
+All
+stories
+›
+Market recognition
+Leader in security and observability
+Splunk is the only vendor named a leader in consecutive reports for SIEM and observability from global analyst firms.
+View awards and recognition
+Resources
+Trending industry research
+The State of Observability
+See why leaders generate 53% higher ROI from their observability practice compared to their peers.
+Get the report
+The State of Observability
+See why leaders generate 53% higher ROI from their observability practice compared to their peers.
+Get the report
+State of Security 2025
+See how security teams can boost SOCs to overcome gaps, threats, and inefficiencies.
+Get the report
+The CISO Report 2026
+Learn how CISOs are transforming AI risk into AI-powered resilience.
+Read the report
+The New Rules of Data Management
+Learn how to reduce data complexity and costs to drive better outcomes.
+Read the report
+x
+Splunk use cases and solutions
+Splunk’s extensible data platform powers industry-leading security and observability solutions, plus custom applications. Here are just a few use cases and solutions.
+Compliance
+Advanced threat detection
+Fraud prevention
+AI-driven incident prediction (AIOps)
+Application performance monitoring (APM)
+Alert noise reduction
+Compliance
+Adhere to compliance requirements
+Splunk automates compliance monitoring, streamlines audits, and delivers real-time security visibility, helping organizations quickly report and prove adherence to standards like PCI, HIPAA, GDPR, and more.
+Learn about compliance solutions
+Advanced threat detection
+Rapidly detect advanced persistent threats (APTs)
+Splunk’s behavioral analytics, machine learning, and risk scoring help analysts surface anomalies and defend against insider threats, credential access and compromise, lateral movement, and living off the land attacks.
+Explore threat detection methods
+Fraud prevention
+Streamline fraud detection and response
+Quickly detect, investigate, and respond to fraud activities with consistency and collaboration. Splunk helps you analyze, measure, and manage fraud risk through specialized reporting and visualizations.
+See advanced fraud detection
+AI-driven incident prediction (AIOps)
+Protect service performance with AIOps
+Splunk IT Service Intelligence (ITSI) uses AI and machine learning to identify anomalies, correlate data from multiple monitoring sources into a single live view, reduce alert noise, and proactively prevent outages.
+Learn about ITSI and AIOps
+Application performance monitoring (APM)
+Troubleshoot and optimize performance
+Spot issues in real time anywhere in the stack, from third-party APIs, the network, down to the code level. Splunk helps you accelerate MTTR with AI assistants, see impact on business KPIs, and optimize performance of SAP systems.
+Discover more about APM
+Alert noise reduction
+Prioritize alerts with confidence
+Monitor, detect, and resolve incidents from one place and reduce noise with automated event correlation, real-time and predictive performance dashboards, and integration with IT service management tools.
+Explore alert noise reduction
+Customer ratings and reviews
+November 14, 2025
+User-Friendly Interface Offers Real-Time Security Threat Detection
+Splunk has proven useful in monitoring and analyzing machine data, particularly in the scope of security and IT Operations.
+Product:
+Splunk Enterprise
+Read full review
+May 03, 2025
+Provides real-time visibility for improved operational performance
+I can see any logs or anything related to the server or services we want to monitor, and the metrics are a good function.
+Product:
+Splunk Observability Cloud
+Read full review
+October 21, 2025
+Monitors and correlates data across more than 20 client environments
+By consolidating 3 legacy SIEM tools into Splunk ES, we reduced licensing and infrastructure costs by about 30 percent annually.
+Product:
+Splunk Enterprise Security
+Read full review
+Get connected
+Start your journey with Splunk
+From defending against cyber threats to scaling business performance, Splunk is with you every step of the way. Have questions? Reach out to our team.
+Contact Splunk
+Explore product tours
+COMPANY
+COMPANY
+About Splunk
+Careers
+How Splunk Compares
+Newsroom
+Partners
+Splunk Policy Positions
+Splunk Protects
+SURGe
+Why Splunk?
+PRODUCTS
+PRODUCTS
+Free Trials & Downloads
+All Product Tours
+Pricing
+View All Products
+SPLUNK SITES
+SPLUNK SITES
+.conf
+Documentation
+Training & Certification
+Splunk Store
+Videos
+View All Resources
+LEARN
+LEARN
+What Is SIEM?
+Splunk Universal Forwarder
+OpenTelemetry: An Introduction
+Metrics For The SOC
+What Is Observability?
+IT & Systems Monitoring: An Overview
+Reliability Metrics
+LLMs vs SLMs: What’s The Difference?
+IT & Tech Spending For 2025
+View All Articles
+CONTACT SPLUNK
+CONTACT SPLUNK
+Contact Sales
+Contact Us
+USER REVIEWS
+USER REVIEWS
+Gartner Peer Insights™
+PeerSpot
+TrustRadius
+LANGUAGES
+LANGUAGES
+Deutsch
+Français
+日本語
+한국어
+简体中文
+繁體中文
+Splunk Global Footer Logo
+X
+Facebook
+LinkedIn
+YouTube
+Instagram
+Legal
+Privacy
+Sitemap
+Cookies / Do not sell or share my personal data
+Website Terms of Use
+Modern Slavery
+© 2005 - 2026 Splunk LLC All rights reserved.
+&times;

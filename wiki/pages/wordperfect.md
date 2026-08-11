@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://savagetaylor.com/TIL/TIL10073.pdf
 **Updated:** 2026-07-14
-**Hero:** https://picsum.photos/seed/wordperfect-corporation-orem-history-2026/1600/1100
 **Pull:** *Before Microsoft Word won, there was WordPerfect — built in Orem, Utah, and for a decade the most widely used word processor on Earth.*
 
 ## Summary

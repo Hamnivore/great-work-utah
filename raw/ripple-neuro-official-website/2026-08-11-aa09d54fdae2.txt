@@ -1,0 +1,176 @@
+Custom Neuroscience Research Tools - Ripple Neuro
+System Architecture
+Products
+Grapevine Processors
+Trek
+Front Ends
+Nano2 and Nano2+Stim
+Pico and Pico+Stim
+Link R-32
+EMG
+Accessories
+Analog & Digital IO Modules
+Adapters
+Applications
+Non-Human Primate
+Brain Computer Interface
+Closed Loop Stimulation
+Implantable Technologies
+Small Animal
+Acute and Head-Fixed
+Awake Behaving
+Closed Loop Stimulation
+Large Animal
+Closed Loop Stimulation
+Implantable Technologies
+Contact
+Product Inquiries & Sales
+Contact Technical Support
+Collaboration Inquiries
+Support
+Contact Technical Support
+Software Downloads & Updates
+Manuals & Documentation
+Projects & Examples
+News & Events
+About
+About Ripple Neuro
+Clinical Projects
+Careers At Ripple
+System Architecture
+Products
+Grapevine Processors
+Trek
+Front Ends
+Nano2 and Nano2+Stim
+Pico and Pico+Stim
+Link R-32
+EMG
+Accessories
+Analog & Digital IO Modules
+Adapters
+Applications
+Non-Human Primate
+Brain Computer Interface
+Closed Loop Stimulation
+Implantable Technologies
+Small Animal
+Acute and Head-Fixed
+Awake Behaving
+Closed Loop Stimulation
+Large Animal
+Closed Loop Stimulation
+Implantable Technologies
+Contact
+Product Inquiries & Sales
+Contact Technical Support
+Collaboration Inquiries
+Support
+Contact Technical Support
+Software Downloads & Updates
+Manuals & Documentation
+Projects & Examples
+News & Events
+About
+About Ripple Neuro
+Clinical Projects
+Careers At Ripple
+LEARN MORE
+PORTABLE WIRELESS
+PROCESSORS
+Discover Excellence in Neuroscience
+EVERY CHANNEL, EVERY TIME
+SIMULTANEOUS RECORDING AND STIMULATION
+Record and stimulate on every channel. Developed under DARPA, DoD and SBIR funding, Ripple’s proprietary ASICs offer exceptional signal quality and low noise in a compact package.
+LEARN MORE »
+SMARTER. SMALLER. WIRELESS.
+PORTABLE
+PROCESSORS
+Featuring on-board processing and wireless control, Ripple’s flagship processor, the Trek, untethers you from conventional constraints of behavioral electrophysiology.
+LEARN MORE »
+NOVEL TECH FOR NOVEL APPLICATIONS.
+IMPLANTABLE TECHNOLOGIES
+No percutaneous leads, no implanted batteries, just electrophysiology. Driven by a passionate team of recovering experimentalists, Ripple is developing devices that eliminate infection prone percutaneous connections with the same data quality as traditional recording methods.
+LEARN MORE »
+Questions? We’re here to help.
+As a company founded and run by neuroscience researchers, Ripple is uniquely capable of helping you plan and grow your projects, as well as providing you with the best tools available for truly novel research.
+REQUEST A DEMO OR QUOTE
+Product Inquiries & Sales
+Technical Support
+Collaboration Inquiries
+OUR PRODUCTS PROVIDE
+Optimized Data
+Acquisition
+Electrical
+Stimulation
+Real Time
+Processing
+Wireless Data
+Transmission
+Real-time neural interface processors providing stimulation and recording for programmable control of ephys experiments.
+Real-time neural interface processors providing stimulation and recording for programmable control of ephys experiments.
+GRAPEVINE PROCESSOR
+TREK
+Most portable, powerful processor available. A completely wearable neuroscience solution, with wireless communication and on-board data storage.
+GRAPEVINE FRONT ENDS
+Nano2 and Nano2+Stim
+Ripple Neuro’s flagship line for animal studies, the Nano2 line of Front Ends puts powerful electrophysiology in a sleek package. Perfect for both acute and chronic experiments, the Nano2s are small enough for rats yet robust enough for non-human primates. Designed for high-impedance microelectrodes, the Nano2+Stim can stimulate and record simultaneously on every channel. The stimulation variant allows for unique stimulation waveforms on all channels concurrently.
+Link R-32
+The next generation of implantable electrophysiology is here. Ripple Neuro’s Link R-32 implant is the next frontier, providing invasive recordings without the concerns of infection and percutaneous leads. external transceiver is magnetically coupled with the implanted receiver, inductively powering the implant and allowing for state-of-the-art wireless data telemetry across the skin.
+Pico and Pico+Stim
+Designed specifically for small animal electrophysiology, the Pico Front Ends utilize the same ASIC technology as the Nano2 line but in an even smaller form factor. Perform your closed loop recording and stimulation with the smallest commercially available technology. Available in 16 and 32 channel options, the Pico line is ideal for recording from acute linear probes and chronically implanted electrode arrays.
+EMG
+Ripple Neuro’s Grapevine EMG Front End is designed from ground up to acquire seamless multi-modal electrophysiology data. Combine EMG with other physiological signals such as ECG & respiration in one device, making the workflow powerful yet intuitive and easy.
+Our research focuses on the neural basis of decision-making. Ripple’s versatile hardware allows us to observe and manipulate individual decisions as they are unfolding. The ability to record from and stimulate networks of neurons gives us a snapshot of the neural information available to guide each action.
+– MARLENE COHEN, PhD, University of Pittsburgh
+For studying the brain, going with Ripple is a no brainer. Ripple’s high channel count ephys equipment allows us to record quality signals from multiple brain areas and allows us to modulate activity in one area while observing direct effects in another.
+– CAMILO LIBEDINSKY, PhD, National University of Singapore
+We implanted the EMG telemetry system using custom-made patch electrodes. The entire system worked well with clean signals that have lasted years.
+– ANDY SCHWARTZ, PhD, University of Pittsburgh
+Ripple’s flexibility and ease-of-use enables a wide-array of applications for recording and stimulation in the peripheral nervous system. Its software versatility allows convenient third- party system integration and flexible programming of adaptive closed-loop systems. This helps drive our projects towards long- term functionality and clinical translation
+– TIM BRUNS, PhD, University of Michigan
+All Ripple products are designed, built and serviced in-house, resulting in the most cutting edge systems and products, and unmatched support.
+265 W Central Ave
+Millcreek, UT 84107 USA
+1-801-413-0139
+Applications
+Products
+Support
+Contact
+News & Events
+Human Electrophysiology
+CONTACT SALES
+REQUEST DEMO
+CONTACT TECH SUPPORT
+© , Ripple Neuro.
+Start typing and press Enter to search
+COVID-19 Update
+We wish you health and safety during this COVID-19 crisis. At Ripple, we are monitoring the situation closely and updating our policies and procedures in accordance with the latest CDC guidelines . To ensure the wellbeing of our team members, the majority have transitioned to remote work and we have instituted safety protocols for critical personnel who will remain on-site at our facility in Salt Lake City, UT.
+We know that the scientific community remains hard at work during these uncertain times, either still in lab conducting essential research or operating remotely. Please be assured that our Sales and Support teams are always available to answer your questions about products and software. If you have an order started or planned with Ripple, we understand that your orders are vital to your research. Given the precautions we have implemented we expect minimal impact to our production capabilities and will continue to process orders as quickly as possible. If you have questions, please don’t hesitate to email our support staff ( support@rppl.com ). We are all in this together and will work to accommodate everyone’s needs.
+Stay healthy and safe.
+×
+Contact Sales
+Your Name (required)
+Organization (required)
+Your Email (required)
+Telephone
+Message
+×
+Contact Tech Support
+Your Name (required)
+Your Email (required)
+Your support question
+×
+Request A Demo Or Quote
+Your Name (required)
+Organization (required)
+Your Email (required)
+Telephone
+Message
+Animal models used (please note if you are working with humans)
+Model Systems
+Spike/LFP ECoG EEG EMG Other
+Electrode Type
+Number of Channels
+Experimental Design Notes
+×

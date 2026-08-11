@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://rodatherm.com
+**Archive:** https://web.archive.org/web/20260725232904/https://rodatherm.com/
+**Archived:** 2026-07-25
 **Publisher:** Rodatherm Energy Corporation
-**Accessed:** 2026-06-19
+**Raw:** raw/rodatherm-energy-official-website/2026-08-11-18f1bc2725d0.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -15,17 +18,32 @@ Rodatherm's official website describes a privately held geothermal power generat
 
 ## Useful Claims
 
-- Rodatherm Energy Corporation is a privately held geothermal power company with primary focus on the Great Basin region.
-- The company distinguishes its Waterless Geothermal System (WGS) as a closed-loop approach that does not consume freshwater.
-- The site states Rodatherm possesses a land base capable of sustaining more than 300 MW of versatile baseload and dispatchable power generation.
-- A September 2025 press release on the site announces a $38 million oversubscribed Series A — described as the largest first venture raise for a geothermal startup — led by Evok Innovations with participation from TDK Ventures, Toyota Ventures, TechEnergy Ventures, and others.
-- The press release says Series A funds will build and deploy a pilot geothermal system in Utah, with a pathway to expand to a 100 MW system at the same site using project financing.
-- Rodatherm claims its closed-loop system achieves 50% higher efficiency than water-based binary-cycle geothermal, uses 5× less fluid, has no freshwater consumption, and enables placement in populated areas with a small surface footprint.
-- The company operates from Calgary, Alberta, Canada, and Salt Lake City, Utah. CEO is Curtis Cook.
+- Rodatherm markets Waterless Geothermal Systems (WGS) as closed-loop, waterless geothermal power deployable near demand centers.
+- The capture describes a pilot project underway in Milford, Utah, with first electrons targeted for late 2026.
+- The page previously asserted a large land-base power capacity and a Series A raise; this capture does not show those figures.
+- Rodatherm claims comparative efficiency advantages over water-based binary-cycle geothermal and smaller fluid use; this capture describes waterless, closed-loop pads under five acres but not comparative efficiency percentages.
+- The page previously listed Calgary, Alberta and Salt Lake City offices and CEO Curtis Cook; this capture does not show locations or leadership names.
+
+## Verbatim
+
+> "Waterless Geothermal Systems™ (WGS™) deployable at infrastructure scale, to meet our world's growing energy needs."
+> — Home page, hero
+
+> "Rodatherm's Waterless Geothermal Systems™ ( WGS™) deliver firm, clean baseload power that can site near cities, industrial corridors, and major load centers in months, not years."
+> — Home page, demand shift
+
+> "Our pads take up less than 5 acres and consume no water, bringing geothermal to places where it was previously inaccessible."
+> — Home page, "Sites Near Demand"
+
+> "Rodatherm's first pilot project is underway in Milford, Utah, with first electrons targeted for late 2026."
+> — Home page, pilot project
+
+> "Closed-loop, fracking-free architecture avoids water management complexities; it permits smoothly under existing development and safety frameworks."
+> — Home page, "Low Regulatory Friction"
 
 ## Reliability Notes
 
-This is an official company source. Efficiency, cost, and scalability claims are company assertions until validated by independent pilot data and third-party LCOE analysis. The Series A size and "largest first raise" framing are verifiable from the press release but reflect investor marketing. Closed-loop geothermal comparables (e.g., Eavor Technologies) exist; relative performance at commercial scale remains an open engineering question.
+This is an official company source. Series A size, 300 MW land-base, comparative efficiency percentages, and leadership/location details on this page were not reconfirmed in the 2026-08-11 capture. Efficiency, cost, and scalability claims are company assertions until validated by independent pilot data and third-party LCOE analysis.
 
 ## Related Pages
 

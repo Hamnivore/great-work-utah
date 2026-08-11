@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-ag-safeut-far-more-than-an-app.md",
+  "requested_url": "https://attorneygeneral.utah.gov/far-more-than-just-an-app/",
+  "final_url": "https://attorneygeneral.utah.gov/far-more-than-just-an-app/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:29.479Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "e25c3dade862a4a7dc40365195b42aab25ccfd075c8af1dee9d6b1f42c3a857e",
+  "text_sha256": "0c82b50671e16f705072e81bccd49c0b16641e95a6cc255c2992d8e1a10ed086",
+  "text_chars": 10660,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

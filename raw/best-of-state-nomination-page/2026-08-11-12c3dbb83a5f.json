@@ -1,0 +1,13 @@
+{
+  "source_page": "best-of-state-nomination-page.md",
+  "requested_url": "https://www.bestofstate.org/nominate",
+  "final_url": "https://www.bestofstate.org/nominate",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:33:21.912Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "f6b2dc3b4df48c01df57fb5ff61916850efec74e4d3c26baea78ee7beb61f33d",
+  "text_sha256": "12c3dbb83a5f671123b5992c389a7c3f127a076ebb0a37907b2dd16d4617bb9b",
+  "text_chars": 2779,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

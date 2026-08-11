@@ -1,0 +1,13 @@
+{
+  "source_page": "varda-space-official-website.md",
+  "requested_url": "https://www.varda.com",
+  "final_url": "https://www.varda.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:58.846Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "056b9f47f8fe529a62a7c80019917df6d03d693f8edddff87fd45cc89639d176",
+  "text_sha256": "43970b6dea1a646991a839755d6c47e874602617f722305ad2cfae86149c39f9",
+  "text_chars": 1330,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

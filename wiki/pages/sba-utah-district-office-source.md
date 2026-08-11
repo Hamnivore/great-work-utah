@@ -3,26 +3,36 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Federal Agency Page
+**Source Type:** official-page
 **URL:** https://www.sba.gov/district/utah
+**Archive:** https://web.archive.org/web/20260618225616/https://www.sba.gov/district/utah
+**Archived:** 2026-06-18
 **Publisher:** U.S. Small Business Administration
-**Accessed:** 2026-05-09
+**Raw:** raw/sba-utah-district-office-source/2026-08-11-ab3a86e3c772.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-05-09
 
 ## Summary
 
-The SBA Utah District Office page describes the federal small-business office serving all 29 Utah counties. It says the office helps with SBA funding programs, counseling, federal contracting certifications, disaster recovery, and connections to partner organizations, lenders, and community groups.
+The SBA Utah District Office page is the federal agency's Utah landing page. The captured text
+points businesses to registration guidance, state and federal resources, and lenders.
 
 ## Useful Claims
 
-- The Utah District Office serves the entire state of Utah.
-- The office lists Salt Lake City and St. George locations.
-- Its services include SBA funding programs, counseling, federal contracting certifications, and disaster recovery.
-- It can connect small businesses to partner organizations, lenders, and community groups.
+- The page directs businesses to guidance on registration, state and federal resources, and lenders.
+
+## Verbatim
+
+> "Learn how to register your business, access state and federal resources, and find lenders in our area."
+> — “Doing business in our area”
 
 ## Reliability Notes
 
 This is an official SBA page and a strong source for service scope and public access routes. Program terms, loan availability, certification rules, and event dates should be verified before making a time-sensitive recommendation.
+
+The captured page text is mostly navigation chrome and event listings. It does not support the
+earlier claims about county coverage, office locations, or every named SBA service, so those claims
+were removed pending a capture that contains them.
 
 ## Related Pages
 

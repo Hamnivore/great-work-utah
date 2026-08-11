@@ -1,0 +1,595 @@
+Portfolio - Altitude Lab
+Demo Day Portfolio Apply
+Apply
+Demo Day
+Portfolio
+How Altitude Works
+Investors & Partners
+Resources for Founders
+About
+Portfolio
+View Startups
+Altitude Lab Startups:
+Filter
+Jan 26 Cohort
+STATUS
+Clear
+Alumni
+Resident
+INDUSTRY
+Clear
+Med Device (Therapeutic)
+Health Tech
+Med Device (Computational)
+TechBio
+Digital Health
+Drug Discovery
+Other
+Research Use
+Diagnostics
+Therapeutics
+Clear All
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Alumni
+3Helix
+Engineering platform collagen technology to diagnose fibrosis and advance tissue regeneration science.
+3Helix
+Alumni
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2015
+Therapeutics
+Resident
+Anziva Pharmaceuticals
+Developing smarter formulations of proven drugs, with an early focus on non opioid pain products.
+Anziva Pharmaceuticals
+Resident
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2024
+Therapeutics
+Alumni
+Aumenta Biosciences
+Discovering autoimmune and cancer immunotherapies inspired by the microbiome.
+Aumenta Biosciences
+Alumni
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2021
+Therapeutics
+Resident
+Bioparin
+Developing engineered macrophage cell therapies that infiltrate solid tumors, reverse immune suppression, and activate broader anti-tumor immune responses.
+Bioparin
+Resident
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2025
+Therapeutics
+Bioparin
+Resident
+Bonneville Bio
+Developing small-molecule therapeutics for solid tumors, including renal cancer, colorectal cancer, and melanoma, led by a team with 30 years of combined experience across three prior therapeutic companies.
+Bonneville Bio
+Resident
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2023
+Therapeutics
+Resident
+Caelium
+Developing a first-in-class, brain-penetrant microtubule stabilizer to preserve neuronal structure and address shared neurodegenerative pathologies.
+Caelium
+Resident
+true
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2025
+Therapeutics
+Resident
+CaLycia Biosciences
+Developing engineered myeloid cell therapies that leverage macrophages’ tumor-homing ability to infiltrate solid tumors and reverse local immune suppression, enabling a broader anti-tumor immune response.
+CaLycia Biosciences
+Resident
+true
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2025
+Therapeutics
+Alumni
+Conduit Bio
+Improving drug discovery success rates by putting a digital cell into every laboratory
+Conduit Bio
+Alumni
+false
+Research Use
+Website
+Email
+LinkedIn
+Est.
+2021
+Research Use
+Resident
+DigiBeat Health Monitoring Systems
+AI-guided cardiac screening to bring specialist-level heart care into clinics and homes.
+DigiBeat Health Monitoring Systems
+Resident
+true
+Med Device (Computational)
+Health Tech
+Website
+Email
+LinkedIn
+Est.
+2021
+Med Device (Computational)
+Health Tech
+Alumni
+Dock Technologies
+Helping frontline clinicians meet time-critical deadlines with point-of-care tracking and reminder systems.
+Dock Technologies
+Alumni
+false
+Health Tech
+Website
+Email
+LinkedIn
+Est.
+2014
+Health Tech
+Resident
+Elnora AI
+An AI agent that generates and optimizes biomedical lab protocols for biotech and pharma teams.
+Elnora AI
+Resident
+false
+TechBio
+Research Use
+Website
+Email
+LinkedIn
+Est.
+2024
+TechBio
+Research Use
+Alumni
+Elute Inc.
+Deploying novel polymer-controlled drug delivery devices to treat orthopedic and other surgical bone infections.
+Elute Inc.
+Alumni
+false
+Therapeutics
+Med Device (Therapeutic)
+Website
+Email
+LinkedIn
+Est.
+2016
+Therapeutics
+Med Device (Therapeutic)
+Resident
+EoSight Diagnostics
+Providing noninvasive, point-of-care diagnostics to provide efficicent and economical eosinophilic disease tracking for chronic rhinosinusitis patients.
+EoSight Diagnostics
+Resident
+true
+Diagnostics
+Website
+Email
+LinkedIn
+Est.
+2025
+Diagnostics
+Resident
+Eris Biotech
+Developing a first-in-class, oral immunotherapy that inhibits exosome biogenesis to prevent tumor-driven immune evasion and train body to fight cancer.
+Eris Biotech
+Resident
+true
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2023
+Therapeutics
+Alumni
+Evolution Bio
+Evolution Bio is a biotechnology company using its directed evolution technology to optimize drug candidates across a broad range of therapeutic targets.
+Evolution Bio
+Alumni
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2022
+Therapeutics
+Resident
+Eyescreen
+Eyescreen uses a proprietary ex vivo ERG platform to measure light-evoked electrical responses from post-mortem human retinal tissue, enabling rapid functional testing of drug safety and efficacy in a clinically relevant human model.
+Eyescreen
+Resident
+false
+Research Use
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2023
+Research Use
+Therapeutics
+Alumni
+Freyya
+Developing the first wearable, real-time biofeedback device to change the paradigm of pelvic floor care.
+Freyya
+Alumni
+false
+Med Device (Computational)
+Health Tech
+Website
+Email
+LinkedIn
+Est.
+2019
+Med Device (Computational)
+Health Tech
+Alumni
+Imessa
+A research tools company developing automated nanoparticle characterization platforms for drug delivery systems used in oncology, vaccines, and gene therapies.
+Imessa
+Alumni
+false
+Research Use
+Website
+Email
+LinkedIn
+Est.
+2022
+Research Use
+Resident
+Intactis Bio Corp
+Develops neural tissue-based computing designed to deliver high-performance AI/ML computation with ultra-low energy consumption.
+Intactis Bio Corp
+Resident
+false
+Other
+Website
+Email
+LinkedIn
+Est.
+2024
+Other
+Alumni
+Known Medicine (now Pathos)
+Building a predictive engine to determine the right treatment for every cancer.
+Known Medicine (now Pathos)
+Alumni
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2020
+Therapeutics
+Alumni
+Leash Bio
+Leash Biosciences uses large-scale automated screening of protein targets against proprietary chemical libraries to discover selective drug candidates and build datasets that enable advanced AI-driven affinity prediction.
+Leash Bio
+Alumni
+false
+Therapeutics
+TechBio
+Website
+Email
+LinkedIn
+Est.
+2021
+Therapeutics
+TechBio
+Resident
+Light-Hope Diagnostics, Inc
+Revolutionizing cancer diagnostics by developing non-invasive microRNA-based tests for early cancer detection worldwide, without cold chain management.
+Light-Hope Diagnostics, Inc
+Resident
+false
+Diagnostics
+Website
+Email
+LinkedIn
+Est.
+2024
+Diagnostics
+Alumni
+Monere
+Develop a point-of-care, non-invasive, easily accessible method for screening anemia.
+Monere
+Alumni
+false
+Digital Health
+Health Tech
+Website
+Email
+LinkedIn
+Est.
+2023
+Digital Health
+Health Tech
+Alumni
+NanoSpot.ai
+Delivering AI-driven diagnostics to the palm of your hand.
+NanoSpot.ai
+Alumni
+false
+Diagnostics
+Website
+Email
+LinkedIn
+Est.
+2021
+Diagnostics
+Alumni
+NephroNovus
+Pioneering the battle against chronic kidney disease by exploring groundbreaking biochemical pathways and utilizing advanced computational techniques.
+NephroNovus
+Alumni
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2023
+Therapeutics
+Alumni
+NexEos
+Detecting inflammation in eosinophilic diseases with leading diagnostics and therapies.
+NexEos
+Alumni
+false
+Diagnostics
+Website
+Email
+LinkedIn
+Est.
+2020
+Diagnostics
+Alumni
+Peel Therapeutics
+A clinical-stage biotech developing evolution-inspired therapies, including elephant-derived p53 and other nature-based mechanisms, to treat cancer and immune diseases.
+Peel Therapeutics
+Alumni
+false
+Therapeutics
+TechBio
+Website
+Email
+LinkedIn
+Est.
+2021
+Therapeutics
+TechBio
+Resident
+Prism AI
+AI platform that analyzes multi-omics data to identify biomarkers predicting disease and treatment response for diagnostic and companion diagnostic development.
+Prism AI
+Resident
+false
+Therapeutics
+TechBio
+Website
+Email
+LinkedIn
+Est.
+2024
+Therapeutics
+TechBio
+Alumni
+QUANTiSCOPE
+AI Enterprise Solutions for Image-Based Drug Discovery and Beyond.
+QUANTiSCOPE
+Alumni
+false
+TechBio
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2022
+TechBio
+Therapeutics
+Alumni
+Rebel Medicine
+Rebel Medicine develops long-acting injectable drug delivery systems for controlled release from days to months, including ALX006 for post-surgical pain and a platform for ultra-long-acting therapeutics like GLP-1s.
+Rebel Medicine
+Alumni
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2020
+Therapeutics
+Resident
+Sethera Therapeutics
+Developing constrained peptide therapeutics using an integrated AI, mRNA display, and phage display platform to enable large-scale screening and accelerate drug discovery.
+Sethera Therapeutics
+Resident
+false
+Therapeutics
+TechBio
+Website
+Email
+LinkedIn
+Est.
+2024
+Therapeutics
+TechBio
+Alumni
+Snow Canyon Therapeutics
+Snow Canyon Therapeutics develops small-molecule therapies for neurodegenerative diseases by activating NRF2 to reduce oxidative stress, including programs in ALS.
+Snow Canyon Therapeutics
+Alumni
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2022
+Therapeutics
+Alumni
+Spect
+Our mission is to prevent blindness with the early detection of eye disease, and using the resulting proprietary data set to build a platform for healthcare data analytics.
+Spect
+Alumni
+false
+Diagnostics
+Website
+Email
+LinkedIn
+Est.
+2017
+Diagnostics
+Alumni
+Spire Therapeutic
+Providing drug-free noninvasive therapies.
+Spire Therapeutic
+Alumni
+false
+Med Device (Therapeutic)
+Website
+Email
+LinkedIn
+Est.
+2023
+Med Device (Therapeutic)
+Resident
+Sunac Therapeutics
+Pioneering single-dose regenerative gene therapies to reverse cellular drivers of osteoarthritis and degenerative disc disease.
+Sunac Therapeutics
+Resident
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2023
+Therapeutics
+Alumni
+SymbioCellTech
+SymbioCellTech is a preclinical cellular therapeutics company developing Neo-Islets™, engineered clusters of islet cells and MSCs, to enable insulin-producing cell therapy for diabetes.
+SymbioCellTech
+Alumni
+false
+Therapeutics
+Website
+Email
+LinkedIn
+Est.
+2014
+Therapeutics
+Alumni
+Symposium
+AI-powered clinical development to supercharge medical innovation.
+Symposium
+Alumni
+false
+Therapeutics
+TechBio
+Website
+Email
+LinkedIn
+Est.
+2023
+Therapeutics
+TechBio
+Alumni
+Teiko Bio
+Unlocking immune response to guide life changing therapies.
+Teiko Bio
+Alumni
+false
+Therapeutics
+TechBio
+Website
+Email
+LinkedIn
+Est.
+2020
+Therapeutics
+TechBio
+Resident
+Vira Regen
+Vira Regen develops noninvasive electroceutical and bioelectric stimulation technologies to activate the body’s natural repair processes for treating injuries and diseases.
+Vira Regen
+Resident
+false
+Med Device (Therapeutic)
+Website
+Email
+LinkedIn
+Est.
+2023
+Med Device (Therapeutic)
+Alumni
+Vistim Labs
+Improving outcomes for patients suffering from neurodegenerative disease with next-gen screening diagnostics
+Vistim Labs
+Alumni
+false
+Diagnostics
+Website
+Email
+LinkedIn
+Est.
+2021
+Diagnostics
+Company
+Portfolio
+Investors/Partners
+About
+Press
+Access
+ApplY
+How Altitude Works
+Founder Resources
+Engage
+Contact
+info@altitudelab.org
+48 S Rio Grande Street,
+Salt Lake City, UT, 84101
+©2026 Altitude Lab Privacy Policy The Recursion Charitable Foundation, under which Altitude Lab operates, has filed for 501(c)(3) status.

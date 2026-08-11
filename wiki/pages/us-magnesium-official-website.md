@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://usmagnesium.com
+**Archive:** https://web.archive.org/web/20260607191810/https://usmagnesium.com/
+**Archived:** 2026-06-07
 **Publisher:** US Magnesium LLC
-**Accessed:** 2026-06-18
+**Raw:** raw/us-magnesium-official-website/2026-08-11-380e1664957c.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -19,6 +22,17 @@ US Magnesium's official website describes the company as the largest producer of
 - The company describes itself as a world leader in primary magnesium production, refining, electrolysis, and recycling.
 - Public materials claim advanced electrolysis technology minimizing air emissions and energy use, plus solar-energy utilization.
 - The site lists career openings and contact information for the Rowley plant and Salt Lake office.
+
+## Verbatim
+
+> "US Magnesium is the largest producer of primary magnesium in North America, operating facilities on the Great Salt Lake where magnesium has been produced since 1972."
+> — Home page, body
+
+> "US Magnesium is a world leader in the production and management of primary magnesium through its active participation in all major aspects of the industry: technology, refining, electrolysis and recycling."
+> — Home page, body
+
+> "Environmental commitment is highlighted by the development and utilization of state-of-the-art magnesium electrolysis technology, minimizing both air emissions and energy requirements, alongside the extensive use of solar energy."
+> — Home page, body
 
 ## Reliability Notes
 

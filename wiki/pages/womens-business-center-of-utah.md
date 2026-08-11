@@ -14,7 +14,6 @@
 **Additional Map Location:** 510 W 800 S, Cedar City, UT 84720 | 37.664119, -113.069922 | exact | https://www.wbcutah.org/contact
 **Website:** https://wbcutah.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

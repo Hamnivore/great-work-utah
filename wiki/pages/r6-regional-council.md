@@ -14,7 +14,6 @@
 **Location Source:** https://r6.utah.gov/contact/
 **Website:** https://r6.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

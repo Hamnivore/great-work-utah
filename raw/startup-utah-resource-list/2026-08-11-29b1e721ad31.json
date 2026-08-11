@@ -1,0 +1,13 @@
+{
+  "source_page": "startup-utah-resource-list.md",
+  "requested_url": "https://startup.utah.gov/resources/",
+  "final_url": "https://startup.utah.gov/resources/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T19:52:46.441Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ab61e5c450620aceccc2845cf70ec266f51b1dd1e2ea9b0e92a587bbce714aa5",
+  "text_sha256": "29b1e721ad31f4907145078de798eb1e43d47a72501b820a536e9251ae4c9069",
+  "text_chars": 1426,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

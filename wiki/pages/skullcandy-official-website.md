@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.skullcandy.com
+**Archive:** https://web.archive.org/web/20260727190505/https://www.skullcandy.com/
+**Archived:** 2026-07-27
 **Publisher:** Skullcandy
-**Accessed:** 2026-06-19
+**Raw:** raw/skullcandy-official-website/2026-08-11-15c961bea46f.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -16,14 +19,37 @@ Skullcandy's official website describes a consumer audio brand selling headphone
 ## Useful Claims
 
 - The site positions Skullcandy as a consumer audio brand spanning headphones, earbuds, gaming products, speakers, and bundles.
-- Current product lines include Crusher ANC 2 (sensory bass headphones with active noise canceling), Method 360 ANC earbuds (marketed with "Sound by Bose"), and Dime 360 true wireless earbuds.
-- The site advertises limited-edition collections and brand collaborations (for example, Skullcandy x Realtree).
-- Skullcandy Rewards offers members free shipping on orders over $49, events, and special rewards via a free Soundlab account.
-- Standard commerce policies include a 1-year limited warranty and easy returns.
+- Current homepage highlights include Crusher sensory-bass headphones (1080 ANC and 720 lines), Method 360 earbuds, and Sound by Bose collaborations.
+- Skullcandy Soundlab offers members free shipping (thresholds vary on the page: over $49 for members vs. over $175 in the promo banner).
+- The page previously listed Crusher ANC 2, Dime 360, Skullcandy x Realtree, a 1-year warranty, and easy returns; those exact labels are not on this capture.
+
+## Verbatim
+
+> "Skullcandy | Headphones, Earbuds, Gaming, and Speakers"
+> — Page title
+
+> "From the legendary bass of Crusher Evo to the secure fit of Method 360 and the everyday convenience
+> of Push Open 720, now's the time to upgrade your soundtrack."
+> — Home page, product promo
+
+> "Sensory Bass Headphones with Sound by Bose Technology"
+> — Home page, Crusher 1080 ANC product card
+
+> "Create your FREE Soundlab account for instant access to free shipping. Skullcandy events, special
+> rewards, and more."
+> — Home page, Soundlab Rewards
+
+> "Free Shipping Over $49 for Members"
+> — Home page, promo banner
+
+> "Save over 50% | Free shipping on orders over $175"
+> — Home page, top promo bar
 
 ## Reliability Notes
 
 This is an official company source. It is useful for current product categories, brand positioning, and retail policies. Founding history, acquisition details, philanthropic foundation claims, and leadership information from legacy intake should be cross-checked with press coverage or corporate filings before being used as high-confidence evidence.
+
+**Drift note.** Product SKUs and commerce policies on the 2026-08-11 homepage differ from earlier intake (Crusher ANC 2 → Crusher 1080/720 lineup; Realtree collaboration and 1-year warranty language not visible on this capture).
 
 ## Related Pages
 

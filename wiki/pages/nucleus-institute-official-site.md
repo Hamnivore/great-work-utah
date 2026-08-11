@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.nucleusutah.org/
+**Archive:** https://web.archive.org/web/20260729141543/https://www.nucleusutah.org/
+**Archived:** 2026-07-29
 **Publisher:** The Nucleus Institute
-**Accessed:** 2026-05-09
+**Raw:** raw/nucleus-institute-official-site/2026-08-11-f12c2e676775.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-05-09
 
 ## Summary
@@ -15,12 +18,24 @@ The Nucleus Institute official site describes Nucleus as a Utah innovation hub t
 
 ## Useful Claims
 
-- Nucleus connects students, researchers, founders, and mentors to high-impact work.
-- Nucleus helps university research and technologies move from concept to company.
-- Nucleus names Nucleus Fund and Nucleus Grow as capital-related programs for research-backed ventures.
-- Nucleus describes Convergence Hall at The Point as a flagship space in a broader statewide innovation-district network.
+- Nucleus convenes industry, academia, and government to drive Utah innovation.
+- Nucleus works to equip Utah innovators and close funding and commercialization gaps for scaling ideas.
+- The page previously named Nucleus Fund and Nucleus Grow as capital programs and described Convergence Hall at The Point as a flagship innovation-district space; this capture shows only navigation labels and a Convergence Hall news headline.
+
+## Verbatim
+
+> "Nucleus convenes , educates , and funds innovation in Utah — designated by the state to bring together industry, academia, and government to drive economic growth and tackle our biggest challenges."
+> — Home page, mission
+
+> "Nucleus closes the funding, commercialization, and policy gaps that prevent great ideas from scaling with the singular mission of giving Utah’s best innovations what they need to grow."
+> — Home page, funding role
+
+> "The Nucleus Institute Announces Convergence Hall: Utah’s First Innovation Campus"
+> — Home page, news listing
 
 ## Reliability Notes
+
+The capture does not substantiate the specific student/researcher/founder/mentor connection claim, concept-to-company wording, named Fund/Grow descriptions, or the statewide innovation-district network.
 
 This is an official institutional source, so it is useful for describing Nucleus's own programs, mission, and public positioning. It should not be treated as neutral proof of program outcomes.
 

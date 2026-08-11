@@ -1,0 +1,13 @@
+{
+  "source_page": "atavistik-bio-official-website.md",
+  "requested_url": "https://atavistikbio.com",
+  "final_url": "https://atavistikbio.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:17.106Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "5e01727ae49f895cc9b5341e8b65f8cb8397f89b7f08cf7428ac4261a9ce89a7",
+  "text_sha256": "d25431bf4cc6c354db820fdb88a31298b3e77e1a1e61cbe308a5dc383719f07d",
+  "text_chars": 1689,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -3,10 +3,12 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Program Website
+**Source Type:** official-page
 **URL:** https://utahsbdc.org/
+**Archive:** https://web.archive.org/web/20260518020126/https://utahsbdc.org/
+**Archived:** 2026-05-18
 **Publisher:** Utah Small Business Development Center
-**Accessed:** 2026-05-09
+**Retrieved:** 2026-08-11
 **Updated:** 2026-05-09
 
 ## Summary

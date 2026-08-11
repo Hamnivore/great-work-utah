@@ -1,0 +1,190 @@
+Why I'm Building Utahn
+{socials = window.socials})"
+data-dropcap
+>
+Skip to content
+{ document.querySelector('[data-progress-bar]').setAttribute('value',getScrollPercent()) })"
+@scroll.window="document.querySelector('[data-progress-bar]').setAttribute('value',getScrollPercent())"
+>
+{ initDropdown($el, 'z-50 min-w-[calc(100%_+_16px)] text-sm absolute top-0 border-t-[2.5px] border-typ flex flex-col gap-0.25 shadow-lg rounded-theme py-1.5 px-2 -ml-2 mt-8.5 opacity-0 invisible bg-bgr') })">
+Sign In
+Subscribe
+Menu
+Topics
+-Politics
+-Business
+-Religion
+-Sports
+-Culture
+-Letters
+Events
+Sections
+Twitter
+Bluesky
+Discord
+Github
+Instagram
+Linkedin
+Mastodon
+Pinterest
+Reddit
+Telegram
+Threads
+Tiktok
+Whatsapp
+Youtube
+RSS
+Search
+{ initDropdown($el, 'hidden opacity-0 invisible basis-full flex-col gap-0.5 text-sm border-t border-brd-soft') })"
+>
+Search
+Close
+Topics
+-Politics
+-Business
+-Religion
+-Sports
+-Culture
+-Letters
+Events
+Sections
+Sponsorships
+About
+Contact
+Newsletters
+Bounties
+Editorial Charter
+Terms of Use
+Privacy Notice
+CA Notice of Collection
+Cookie Policy
+Cookie Settings
+Subscribe
+Follow us
+Twitter
+Bluesky
+Discord
+Github
+Instagram
+Linkedin
+Mastodon
+Pinterest
+Reddit
+Telegram
+Threads
+Tiktok
+Whatsapp
+Youtube
+RSS
+Letters
+Why I'm Building Utahn
+We won't tell you what to think. We will tell you what we found and where we got it.
+By
+Clint Betts
+Published:
+July 26, 2026, 4:59 pm
+Last updated:
+August 02, 2026, 12:09 pm
+Share
+{ copied = false; shareOpen = false; }, 2000)"
+title="Copy link"
+aria-label="Copy">
+{shareOpen = false}, 2000)">
+Share to X
+{shareOpen = false}, 2000)">
+Share to Bluesky
+{shareOpen = false}, 2000)">
+Share to Facebook
+{shareOpen = false}, 2000)">
+Share to LinkedIn
+{shareOpen = false}, 2000)">
+Share by email
+To the extent I attended college for a reason other than the need for student loans to feed my growing family, I wanted to learn how to write and communicate. I was fascinated by the power words had to change or expand upon reality. I grew up reading the likes of George Orwell, Ernest Hemingway, and Hunter S. Thompson. I was as interested in the lives these men led as in their writing.
+It's not an exaggeration to say Orwell's essay "Shooting an Elephant" changed my life. It was the first time I realized nonfiction could move a reader in the same way fiction does. In the piece, Orwell writes, "Afterwards, of course, there were endless discussions about the shooting of the elephant. The owner was furious, but he was only an Indian and could do nothing." The horrific honesty of that second sentence. Some people don't matter as much as others? My word, I guess my kid brain intuitively knew society behaved this way, but seeing it in writing hit me like a cold shower.
+I thought about the last sentence of that essay every day for a month. "I often wondered whether any of the others grasped that I had done it solely to avoid looking a fool." That summed up my life to that point. Sums up a fair amount of my life since, to be honest.
+Hemingway's novels shaped my perspective of masculinity as a teenager. In particular, The Old Man and the Sea helped me understand perseverance, sacrifice, and man's innate need to get out of bed and do something worthwhile. "The Snows of Kilimanjaro" made me want to write sad stories, but it was Hemingway's nonfiction writing, the dispatches he wrote as a war correspondent, that inspired me most.
+Then there's Hunter S. Thompson. The drugs and alcohol masked (and probably helped him cope with) an unabashed willingness to hold the powerful to account. We rightly remember him most for Fear and Loathing: On the Campaign Trail '72 , " The Kentucky Derby Is Decadent and Depraved ," and, of course, Fear and Loathing in Las Vegas .
+But when I think of journalism, I think of the film adaptation of Thompson's novel The Rum Diary . Paul Kemp, played by Johnny Depp , sits at a typewriter inside a rundown apartment in Puerto Rico and writes the following.
+"I want to make a promise to you, the reader. And I don't know if I can fulfill it tomorrow, or even the day after that. But I put the bastards of this world on notice that I do not have their best interests at heart. I will try and speak for my reader. That is my promise. And it will be a voice made of ink and rage."
+To my mind, those words embody the reason journalism exists. To hold power to account. Without fear or favor, no matter the cost. It's not about which rich person, family, or organization owns or once owned what media company. It's not about access or notoriety. It's about continuously searching for the truth, on behalf of the powerless and the everyday citizen, for no other purpose.
+Orwell wrote about Burma. Hemingway wrote about Spain and Cuba. Thompson wrote about Las Vegas and the campaign trail. They didn't write about here. But Wallace Stegner , one of the inspirations behind Utahn, did just that. He spent part of his childhood in Salt Lake City, taught at the University of Utah, and made a Pulitzer Prize-worthy career out of arguing that the West was not the empty stage the rest of the country imagined.
+In Wolf Willow , he divided westerners into boomers, who came to take what they could and moved on, and stickers, who stayed and made a place. Utah is having that same argument right now. The question underneath everything that has happened here in the last 15 years is whether a boom produces any stickers.
+I bring all of this up because it explains why I'm building Utahn .
+Utah is changing, and the numbers are not subtle. The state's technology cluster produced $29.2 billion in 2010. In 2025 it produced $69.8 billion. Over the same stretch, prices in Utah rose 39 percent , and rent here now runs above the national average in a state that used to be cheap.
+The Great Salt Lake is shrinking, and the dust it leaves behind blows into the valleys where most of us live. Data centers are being sited in places whose residents learned about them from a celebrity CEO or rezoning notice. Nobody put any of this on a ballot.
+Our leaders, elected or otherwise, must answer some simple questions. What will Utah look like when America celebrates its 300th anniversary? Has a coherent strategy or vision been presented? Do Utahns know what the strategy is? Do they agree with it? What future do Utahns want?
+Our leaders were elected or otherwise placed in positions of power to find answers to these questions. The role of a journalist, at least one worthy of the title, is to test the answers our leaders give and report what holds up. Someone has to do that work, and there are fewer of those people here every year.
+Medill's researchers found that the steepest percentage losses in newspaper employment nationwide occurred in three states, one of those being Utah. The Salt Lake Tribune, whose inaugural nonprofit board I sat on for a year, employed 148 newsroom staff in 2011 and about 60 by 2019 , the year it converted to nonprofit status. It has grown since . Most newsrooms have not. The Deseret News cut 43% of its staff in a single day in 2010.
+Since July 2024, three Utah papers have closed . The Wasatch Wave, founded in Heber City in 1889, printed its last edition in July 2025 after 136 years. In January, KUER and PBS Utah cut a tenth of their combined staff after Congress rescinded federal funding for public media and the Corporation for Public Broadcasting voted to dissolve itself .
+The state of Utah got bigger and richer while the number of people covering its leaders and the impact of their decisions shrank.
+A journal should seek answers from leaders about their decisions and plans. Satisfactory answers : altogether different from what's published in a press release or spoken into a microphone. The truth, to put it bluntly. Something that's becoming almost impossible to ascertain.
+Utahn is an attempt to find truth amid an information tsunami. We named it Utahn, not Utah, on purpose. Utah is a place. A Utahn is a person. Governments come and go. The people stay, and the question is whether they know what is being decided on their behalf.
+Utahn exists because journalism is essential infrastructure for self-government. When journalism declines, citizens lose the information they need to make decisions, participate in civic life, and hold power accountable.
+We cover politics and business because that is where power sits. We cover culture, sports, letters, and the outdoors because that is where a place tells you what it actually values. A state is not only its legislature.
+Utahns deserve an independent voice that answers to no one but the community it serves.
+Trust in media has collapsed, and much of that collapse is deserved. Too many institutions abandoned impartiality while still claiming the mantle of objectivity. They slant coverage. They minimize inconvenient facts. Editorial boards tell readers what to conclude, as if readers cannot think for themselves.
+We reject that model.
+Utahn has no editorial board. We do not endorse candidates for any office at any level of government. We do not believe a journal like ours should tell you what to think. Our job is to give you accurate, complete information. We trust you to take it from there.
+We will also tell you where we stand because you deserve to know who is providing you with the information. In that spirit, now is as good a time as any to mention that I'm the CEO and co-founder of Silicon Slopes . I helped build a fair amount of what this journal intends to spend years examining. I know the people in those rooms, and I have made the arguments they make. Utahn will cover Silicon Slopes companies and issues, and when it does, you should read that coverage with this in mind.
+Utahn has no investors. We show our work. We link to primary sources. When we summarize coverage from other outlets, we link to the original. When we get something wrong, we fix it in the open and keep a public archive of every correction.
+Orwell shot the elephant to avoid looking like a fool. Most bad journalism is a version of that. Writing for the crowd standing behind you instead of the reader in front of you. I've done it myself. This is my attempt to build something that speaks for all Utahns.
+We will get things wrong. Tell us when we do. Better yet, tell us what we are missing, because the list of things happening in this state that nobody is covering is longer than any newsroom can chase on its own.
+Contact me directly at clint@utahn.com.
+Clint Betts
+Clint Betts is Utahn's publisher. He's also the co-founder and CEO of Silicon Slopes. He lives in Utah with his wife and four kids. Contact: clint@utahn.com
+All articles
+Tags:
+Letters
+More in Letters
+See all
+Letters
+How Utahn Uses AI
+Utah publishes an enormous amount of material that is technically available and functionally unread. We built agents to read it.
+By
+Clint Betts
+/
+2 Aug 2026
+Letters
+What Future Do Utahns Want?
+Silicon Slopes accomplished its mission. Now what?
+By
+Clint Betts
+/
+23 Jul 2026
+Twitter
+Bluesky
+Discord
+Github
+Instagram
+Linkedin
+Mastodon
+Pinterest
+Reddit
+Telegram
+Threads
+Tiktok
+Whatsapp
+Youtube
+RSS
+{ Array.from($el.querySelectorAll('.is-subitem')).forEach(item => { const itemName = item.querySelector('a span'); itemName.textContent = itemName.textContent.trim().slice(1); }); })">
+Topics
+-Politics
+-Business
+-Religion
+-Sports
+-Culture
+-Letters
+Events
+Sections
+Sponsorships
+About
+Contact
+Newsletters
+Bounties
+Editorial Charter
+Terms of Use
+Privacy Notice
+CA Notice of Collection
+Cookie Policy
+Cookie Settings
+&copy;2026 Utahn .

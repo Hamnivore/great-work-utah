@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://www.bigchamber.org/about
 **Website:** https://www.bigchamber.org/
-**Layout:** field-guide
 
 ## Summary
 

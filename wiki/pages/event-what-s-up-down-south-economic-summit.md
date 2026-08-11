@@ -13,7 +13,6 @@
 **Location Source:** https://whatsupdownsouth.org/
 **Website:** https://whatsupdownsouth.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

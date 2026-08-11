@@ -18,8 +18,6 @@
 **Careers:** https://hypercraftusa.com/careers/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/hypercraft-powertrain-provo/1600/1100
-**Hero caption:** *Placeholder image. A license-clean photograph of a Hypercraft powertrain or vehicle integration is still needed — see Open Questions.*
 **Pull:** *Standardized hybrid-electric propulsion, pitched as a platform OEMs can build on rather than a bespoke part.*
 
 ## Summary

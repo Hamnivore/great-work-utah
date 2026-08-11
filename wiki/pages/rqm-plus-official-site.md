@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.rqmplus.com/
+**Archive:** https://web.archive.org/web/20260804111408/https://www.rqmplus.com/
+**Archived:** 2026-08-04
 **Publisher:** RQM+
-**Accessed:** 2026-06-18
+**Raw:** raw/rqm-plus-official-site/2026-08-11-3769c7b47670.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -20,6 +23,32 @@ RQM+'s official site describes the company as a medtech CRO providing regulatory
 - The solutions listed include regulatory and quality, clinical trials, lab and material science, and reimbursement.
 - The site describes outsourcing, professional consulting, and staff-augmentation engagement models.
 - The footer lists a United States headquarters in Cary, North Carolina, and a European headquarters in Altrincham, United Kingdom.
+
+## Verbatim
+
+> "RQM+ is The MedTech CRO – a full-service partner adding expertise from concept to post-market."
+> — Home page, hero
+
+> "Regulatory & Quality"
+> — Home page, solutions section
+
+> "Clinical Trials"
+> — Home page, solutions section
+
+> "Lab & Material Science"
+> — Home page, solutions section
+
+> "Reimbursement"
+> — Home page, solutions section
+
+> "5000 Centregreen Way Suite 100 Cary, NC 27513 United States (U.S.)"
+> — Footer, United States HQ
+
+> "3rd Floor, 1 Ashley Road Altrincham, Cheshire, WA14 2DT United Kingdom (UK)"
+> — Footer, Europe HQ
+
+> "Customizable and scalable outsourcing scoped for entire projects, specific functions, or defined parts of a function."
+> — Home page, outsourcing
 
 ## Reliability Notes
 

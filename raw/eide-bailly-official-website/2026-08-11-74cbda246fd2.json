@@ -1,0 +1,13 @@
+{
+  "source_page": "eide-bailly-official-website.md",
+  "requested_url": "https://www.eidebailly.com/locations/salt-lake-city",
+  "final_url": "https://www.eidebailly.com/locations/salt-lake-city",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:38.432Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "3fabf61fceb3e7901d3043af749e72e27882b0beac26a653b0f9f1f419b0b72e",
+  "text_sha256": "74cbda246fd2a20b5918ce49652eeca45b532ffbb0a6b5d19d5a4c4ad442cc33",
+  "text_chars": 2306,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

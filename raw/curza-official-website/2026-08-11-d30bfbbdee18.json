@@ -1,0 +1,13 @@
+{
+  "source_page": "curza-official-website.md",
+  "requested_url": "https://curza.com",
+  "final_url": "https://www.curza.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:34.314Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "fb6c800ba86532195f3e262413b29da99c126d538609800c1a923858139f3408",
+  "text_sha256": "d30bfbbdee1895d1656b8ecff3c9cb8fd2b93cd7f3ebe02c7cef2d16f5ea1c12",
+  "text_chars": 1949,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "code-adventure-official-website.md",
+  "requested_url": "https://www.codeadventure.net/",
+  "final_url": "https://www.codeadventure.net/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:35:43.554Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "41d374ee80ac33454d175e3ea7302be1230f8d0c7aec66c055714c248e207e60",
+  "text_sha256": "8cc235e9259ea86871c95394b14ee463f3b384c55543dad82f3fe4d249508a48",
+  "text_chars": 3371,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

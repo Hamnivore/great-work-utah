@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Stub
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** technology transfer, former name, redirect
 **Domain:** capital-programs, health-bio
 **Primary Location:** Salt Lake City, UT
@@ -29,6 +29,7 @@ Follow the link to [University of Utah Technology Licensing Office](university-o
 
 - Does the pivotcenter.utah.edu domain still resolve to the current site? (Fetched 2026-08-11: yes, it served the same Technology Licensing Office content under the old domain, with no visible redirect notice — a trap for anyone assuming the domain name is stale.)
 - Several existing wiki pages ([Altitude Labs](altitude-labs.md), [Huntsman Cancer Institute](huntsman-cancer-institute.md), [Dave Bearss](dave-bearss.md)) still say "PIVOT Center" in prose, which is accurate for events that happened while that was the office's name (e.g., Altitude Lab's 2020 launch). Should those be edited to add the current name, or left as historically accurate?
+- **Confidence is capped at Medium because the rename has no primary record behind it.** The 2023-10-31 date, and with it this page's only substantive claim, rests on the university's own `@theU` announcement — an institution publishing about itself, which is self-reported, not primary. No registry can help: the office is an administrative unit, not a legal entity, so it has no EIN, UEI, or state registration, and federal award and patent records name only "University of Utah" or "University of Utah Research Foundation" regardless of what the office was called that year. The candidate primary records, neither yet checked: the revision history of the university's technology-commercialization policy in its Regulations Library, which names the responsible office and carries dated revisions, and Utah Board of Higher Education minutes if the change went before the board. If neither names the office, Medium is the ceiling for this page and that is the correct answer.
 
 ## Evidence
 

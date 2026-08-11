@@ -1,0 +1,13 @@
+{
+  "source_page": "iris-biomedical-official-website.md",
+  "requested_url": "https://irismeddesign.com/about-us/",
+  "final_url": "https://irismeddesign.com/about-us/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:16:24.252Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "0ee9da5103a8a815305bc6af9b6ff7dd5fda8d6871f4784987545f7368b341fc",
+  "text_sha256": "1e64cd0058e677e5ba9ace5dccbe80144eb64820be5bf11e08bc7f31fd2581f2",
+  "text_chars": 4125,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

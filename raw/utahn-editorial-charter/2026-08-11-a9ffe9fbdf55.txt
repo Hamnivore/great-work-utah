@@ -1,0 +1,196 @@
+Utahn Journalism
+{socials = window.socials})"
+>
+Skip to content
+{ initDropdown($el, 'z-50 min-w-[calc(100%_+_16px)] text-sm absolute top-0 border-t-[2.5px] border-typ flex flex-col gap-0.25 shadow-lg rounded-theme py-1.5 px-2 -ml-2 mt-8.5 opacity-0 invisible bg-bgr') })">
+Sign In
+Subscribe
+Menu
+Topics
+-Politics
+-Business
+-Religion
+-Sports
+-Culture
+-Letters
+Events
+Sections
+Twitter
+Bluesky
+Discord
+Github
+Instagram
+Linkedin
+Mastodon
+Pinterest
+Reddit
+Telegram
+Threads
+Tiktok
+Whatsapp
+Youtube
+RSS
+Search
+{ initDropdown($el, 'hidden opacity-0 invisible basis-full flex-col gap-0.5 text-sm border-t border-brd-soft') })"
+>
+Search
+Close
+Topics
+-Politics
+-Business
+-Religion
+-Sports
+-Culture
+-Letters
+Events
+Sections
+Sponsorships
+About
+Contact
+Newsletters
+Bounties
+Editorial Charter
+Terms of Use
+Privacy Notice
+CA Notice of Collection
+Cookie Policy
+Cookie Settings
+Subscribe
+Follow us
+Twitter
+Bluesky
+Discord
+Github
+Instagram
+Linkedin
+Mastodon
+Pinterest
+Reddit
+Telegram
+Threads
+Tiktok
+Whatsapp
+Youtube
+RSS
+Utahn Journalism
+Editorial Charter
+Utahn exists to serve the people of Utah with journalism that informs, empowers, and strengthens our communities. We believe local journalism is essential infrastructure for representative democracy. Its decline has left citizens without the information they need to govern themselves.
+Trust in media has collapsed, and much of that collapse is deserved. Too many institutions abandoned impartiality while still claiming the mantle of objectivity. Editorial boards issue endorsements as if readers cannot form their own conclusions. Coverage is slanted, inconvenient facts are minimized, and preferred narratives are amplified. The problem is not journalists who hold perspectives. The problem is institutions that put their thumb on the scale while pretending to be neutral.
+Utahn is built on different incentives. We believe readers can think for themselves when given accurate, complete information. We believe journalists with clear perspectives can do excellent work when they are honest about where they stand. We believe the role of a journal is to create the conditions for good journalism, then get out of the way.
+This charter establishes the principles, standards, and commitments that guide all journalism published under the Utahn name. It applies to the platform, its editors, and every journalist who publishes through it.
+Article I: Mission and Purpose
+1.1 Core Mission
+Utahn provides Utahns with the information they need to participate in civic life, make informed decisions, and hold power accountable. We pursue truth without fear or favor, serving all Utahns regardless of geography, political affiliation, or economic status.
+1.2 Platform Purpose
+Utahn serves independent journalists by providing distribution, infrastructure, legal protection, institutional credibility, and the resources necessary to build sustainable journalism businesses. We do not dictate coverage or editorial direction.
+1.3 Commitment to Utah
+We are a Utah institution serving Utah communities. Our coverage prioritizes local impact. National and international news is presented through the lens of its effect on Utahns, with clear attribution to original sources.
+Article II: Editorial Independence
+2.1 Separation of Editorial and Business
+Editorial decisions are made solely on journalistic merit. No advertiser, sponsor, investor, or business partner may influence what stories are pursued, how they are reported, or whether they are published. This wall is absolute.
+2.2 Journalist Autonomy
+Independent journalists who publish through Utahn retain full editorial control over their beats. The platform offers editorial support, fact-checking assistance, and design resources, but final editorial decisions rest with the journalist. Utahn editors do not kill stories for business reasons, advertiser pressure, or political convenience.
+2.3 No Institutional Editorial Board
+This is one of our most important commitments. Utahn does not maintain a traditional editorial board that issues institutional opinions on matters of policy or politics. We do not believe a newspaper should tell readers what to think. Too many publications use the editorial page to nudge readers toward preferred conclusions while claiming to serve the public interest. We reject that model entirely. Our role is to provide the information readers need to form their own conclusions. The quality of our journalism is our argument. We trust readers to take it from there.
+2.4 No Institutional Candidate Endorsements
+Utahn does not endorse candidates for any office at any level of government. Endorsements by news organizations create conflicts of interest and undermine reader trust. Individual journalists may express personal views on candidates and policies. Such views represent only the journalist, never Utahn.
+Article III: Standards
+The standards in this article apply to all content published under the Utahn name, whether by platform editors or independent journalists.
+3.1 Accuracy
+Every fact published must be verified by the journalist who publishes it. When certainty is not possible, the level of confidence must be clearly stated. We do not publish rumors, speculation presented as fact, or unverified claims without explicit labeling. Speed never trumps accuracy.
+3.2 Fairness
+All subjects of critical coverage will be given the opportunity to respond in full on the Utahn platform. Responses appear within the original piece without editing or commentary. We present multiple perspectives on contested issues and let Utahns make up their own minds.
+3.3 Independence
+Journalists must be free from obligations to any interest other than the public’s right to know. They must not accept gifts, favors, or special treatment from any source or subject. Utahn itself does not participate in political activities.
+3.4 Transparency
+Show your work. Link to primary sources. Publish relevant documents. Explain reporting methods. Readers should be able to evaluate the evidence and reach their own conclusions. Acknowledge uncertainty and the limits of what you know.
+3.5 Humanity
+Treat subjects with dignity. Real people are affected by our coverage. Weigh public interest against potential harm, particularly when covering private citizens, victims, and vulnerable populations. Minimize harm while still publishing what the public needs to know.
+3.6 News vs. Opinion
+News reporting and opinion content must be clearly distinguished. News stories present verified facts without advocacy. Opinion, analysis, and commentary are explicitly labeled. Headlines accurately reflect content without sensationalism.
+3.7 Source Attribution
+Identify sources whenever possible. Anonymous sources should be used only when necessary to obtain information of significant public interest that cannot be obtained otherwise. When anonymity is granted, explain why without revealing identity. Anonymous sources are never used for personal attacks.
+3.8 Aggregated Content
+When Utahn editors summarize coverage from other outlets, they provide clear attribution and links to original sources. We add value through Utah-specific context, not by republishing others’ work.
+3.9 AI-Assisted Content
+Utahn uses AI to read documents, assemble data, and surface the questions worth asking. Utahn does not use it to write stories, aggregate other outlets' reporting, or produce additional versions of work we've already published. Every piece is reported, written, and edited by a journalist. AI is never used to fabricate quotes, invent facts, or generate opinion content. We disclose whenever AI is used.
+Article IV: Disclosure and Conflicts
+4.1 Conflicts of Interest
+Journalists must disclose any financial, personal, or professional relationships that could create a conflict of interest. This includes investments, family relationships, past employment, and organizational memberships. Disclosure appears within the relevant story.
+4.2 Recusal
+When conflicts cannot be adequately addressed through disclosure, journalists must recuse themselves. This is not a punishment. It protects both journalistic credibility and reader trust.
+4.3 Financial Transparency
+Utahn publishes an annual transparency report detailing major revenue sources, including the percentage of revenue from subscriptions, sponsorships, civic bounties, and institutional partnerships.
+Article V: Sponsorship and Advertising
+5.1 Clear Labeling
+All sponsored content, advertising, and paid partnerships are clearly and prominently labeled. Sponsored content is visually distinct from editorial content. The words “sponsored,” “advertisement,” or “paid partnership” appear in plain language, not buried in fine print.
+5.2 Advertiser Independence
+Advertisers and sponsors have no influence over editorial content. They may not review stories before publication, request changes to coverage, or receive favorable treatment as a condition of advertising. Advertisers are held to the same scrutiny as any other subject.
+5.3 Prohibited Sponsors
+Utahn does not accept sponsorship from political campaigns, foreign governments, or organizations that are the subject of active journalistic investigations on the platform. Gray areas are resolved in favor of editorial independence.
+Article VI: Civic Bounties
+One of the things that makes Utahn different is that readers can directly fund the accountability journalism they want to see. Civic bounties let communities put money behind investigations into matters of public concern. The mechanism is simple. The protections around it are not.
+6.1 Editorial Independence
+Contributors to civic bounties have no influence over investigative findings. Funds are escrowed by the platform, and journalists are paid regardless of what they discover. If an investigation yields no newsworthy findings, the journalist is still compensated. Contributors understand before funding that they are supporting independent journalism, not purchasing a predetermined outcome.
+6.2 Transparency
+The total amount raised for each bounty is publicly disclosed. Major contributors above a platform-set threshold are disclosed unless anonymity serves a legitimate protective purpose. The resulting investigation includes a note explaining it was funded through reader contributions.
+6.3 Topic Selection
+Bounty topics are proposed by readers but accepted at editorial discretion. We do not accept bounties that target individuals for harassment, pursue frivolous claims, or serve narrow private interests. The platform reserves the right to decline or refund any bounty that does not meet editorial standards.
+Article VII: Corrections and Accountability
+7.1 Commitment to Correction
+We correct errors promptly, clearly, and completely. There is no error too small to correct and no story too important to fix. We are thankful to readers who bring errors to our attention.
+7.2 Correction Format
+Corrections appear prominently with the original story, clearly stating what was wrong and what is correct. The original error is preserved for transparency. Significant corrections are noted at the top of the story. Minor corrections may appear at the bottom with a timestamp.
+7.3 Clarifications
+When content is accurate but potentially misleading, we add clarifications that provide additional context. Clarifications are labeled and distinguished from corrections of factual errors.
+7.4 Retractions
+In rare cases where a story’s fundamental premise is wrong, we issue a retraction explaining what happened and why. Retracted stories remain accessible with clear labeling. We do not memory-hole mistakes.
+7.5 Correction Archive
+A searchable archive of all corrections is maintained and publicly accessible. If patterns of errors emerge, they are investigated and addressed through improved editorial processes.
+Article VIII: Data, Privacy, and Public Records
+8.1 Public Records
+Utahn maintains a public records infrastructure as a shared resource for all platform journalists. We assist with FOIA and GRAMA requests, maintain a searchable archive of obtained documents, and build institutional knowledge on navigating Utah’s public records system. This archive is a public good, not a competitive advantage.
+8.2 Source Protection
+We protect the identity of confidential sources to the full extent of the law. We do not maintain records that could compromise source identity. We will fight legal attempts to compel source disclosure. Journalists are never required to reveal sources to platform editors or administrators.
+8.3 Reader Privacy
+Subscriber information is private. We do not sell reader data. We collect only the information necessary to deliver our services. Readers can access, correct, and delete their personal information. Our privacy practices are documented in a plain-language privacy policy.
+Article IX: Closing Commitment
+This charter is our promise to Utahns. We will pursue truth relentlessly, serve the public interest unfailingly, and earn reader trust daily. We will build an institution worthy of the communities we serve.
+We put Utahns first.
+Twitter
+Bluesky
+Discord
+Github
+Instagram
+Linkedin
+Mastodon
+Pinterest
+Reddit
+Telegram
+Threads
+Tiktok
+Whatsapp
+Youtube
+RSS
+{ Array.from($el.querySelectorAll('.is-subitem')).forEach(item => { const itemName = item.querySelector('a span'); itemName.textContent = itemName.textContent.trim().slice(1); }); })">
+Topics
+-Politics
+-Business
+-Religion
+-Sports
+-Culture
+-Letters
+Events
+Sections
+Sponsorships
+About
+Contact
+Newsletters
+Bounties
+Editorial Charter
+Terms of Use
+Privacy Notice
+CA Notice of Collection
+Cookie Policy
+Cookie Settings
+&copy;2026 Utahn .

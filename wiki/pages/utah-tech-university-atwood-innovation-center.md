@@ -13,7 +13,6 @@
 **Location Source:** https://innovation.utahtech.edu/contact-us/
 **Website:** https://innovation.utahtech.edu/business-resource-center-at-dsu/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

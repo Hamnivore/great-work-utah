@@ -1,0 +1,13 @@
+{
+  "source_page": "sundance-institute-official-site.md",
+  "requested_url": "https://www.sundance.org",
+  "final_url": "https://www.sundance.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:42.556Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ce66bb1e13dd21ff15396b95166f4d68a70eab66ea96154cbb9383a40e44db81",
+  "text_sha256": "99b8fb4d5e3943b3b608c70ae6a266f09afc6645cc415ede2d1df011f3587fcb",
+  "text_chars": 6150,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

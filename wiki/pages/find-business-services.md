@@ -6,7 +6,6 @@
 **Audience:** founders, operators, researchers, service providers, helpers
 **Focus:** business services, procurement, regulation, capital, workforce, international expansion
 **Updated:** 2026-06-18
-**Layout:** field-guide
 
 ## Overview
 

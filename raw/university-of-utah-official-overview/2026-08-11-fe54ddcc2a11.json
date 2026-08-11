@@ -1,0 +1,13 @@
+{
+  "source_page": "university-of-utah-official-overview.md",
+  "requested_url": "https://about.utah.edu/",
+  "final_url": "https://about.utah.edu/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:18:28.916Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "46392df71d8b40897e8528d50ff704d49b0cdbc45df5d469358117d87ac1ed4a",
+  "text_sha256": "fe54ddcc2a110353471839b27757f56237db61116a71aacb870774fc6d5ebedf",
+  "text_chars": 16563,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

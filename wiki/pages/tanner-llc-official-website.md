@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://tannerco.com/
+**Archive:** https://web.archive.org/web/20260721012843/https://tannerco.com/
+**Archived:** 2026-07-21
 **Publisher:** Tanner LLC
-**Accessed:** 2026-06-18
 **Updated:** 2026-06-18
 
 ## Summary

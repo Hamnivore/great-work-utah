@@ -1,0 +1,13 @@
+{
+  "source_page": "safeut-data-dashboard.md",
+  "requested_url": "https://safeut.org/data-dashboard",
+  "final_url": "https://safeut.org/data-dashboard",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:59.825Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "900dafc55e686c7b5ea5e922b3314224750baa8acfc179b6c32423500a4c2859",
+  "text_sha256": "f323a2f6066f12a3dd80ea22fc771b0c7f3ad13b96625115fb886c1f6654c516",
+  "text_chars": 1149,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

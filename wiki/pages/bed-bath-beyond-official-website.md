@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.bedbathandbeyond.com
+**Archive:** https://web.archive.org/web/20260804190219/https://www.bedbathandbeyond.com/
+**Archived:** 2026-08-04
 **Publisher:** Bed Bath & Beyond, Inc.
-**Accessed:** 2026-06-19
+**Raw:** raw/bed-bath-beyond-official-website/2026-08-11-dfe2bae27c1c.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -16,11 +19,26 @@ The Bed Bath & Beyond consumer website is the primary retail storefront for Bed 
 ## Useful Claims
 
 - The site presents Bed Bath & Beyond as an online retailer offering furniture, bedding, bath, patio, rugs, cookware, décor, storage, jewelry, watches, and fashion at competitive prices.
-- Public investor materials linked from the domain describe the company as an e-commerce-focused retailer headquartered in Murray, Utah, owning Bed Bath & Beyond, Overstock, buybuy BABY, and related brands.
-- According to SEC filings referenced in public investor relations, the corporate entity changed its name from Overstock.com, Inc. to Beyond, Inc. in November 2023, then to Bed Bath & Beyond, Inc. in August 2025, with the NYSE ticker moving from BYON to BBBY effective August 29, 2025.
-- The company states it acquired Bed Bath & Beyond brand intellectual property in 2023 following the legacy retailer's bankruptcy.
+- The footer lists Bed Bath & Beyond, Inc. at 433 W Ascension Way, Suite 300, Murray, UT 84123.
+- The page previously asserted corporate rename history (Overstock.com → Beyond → Bed Bath & Beyond), NYSE ticker changes, and 2023 bankruptcy IP acquisition from investor materials; this capture does not show those details.
+
+## Verbatim
+
+> "Bed Bath & Beyond | The Best Deals Online: Furniture, Bedding, Rugs, Kitchen Essentials & More"
+> — Home page title
+
+> "Shop BedBathAndBeyond.com and find the best online deals on everything for your home. We work every day to bring you discounts on new products across our entire store. Whether you're looking for memorable gifts or everyday essentials, you can buy them here for less."
+> — Home page, footer brand copy
+
+> "© Copyright 2026, Bed Bath & Beyond, Inc."
+> — Footer
+
+> "433 W Ascension Way, Suite 300, Murray, UT 84123 | 1-800-843-2446"
+> — Footer, corporate address
 
 ## Reliability Notes
+
+The capture is a commerce home page. It does not substantiate corporate name/ticker history, portfolio ownership, or the 2023 intellectual-property acquisition; those claims require the cited investor materials and SEC filings as separate source records.
 
 This is an official company source. It is useful for current brand positioning, product categories, and corporate narrative, but financial performance, customer counts, and turnaround progress should be cross-checked with SEC filings (10-K, 10-Q, 8-K) and third-party retail analytics before being used as high-confidence evidence.
 

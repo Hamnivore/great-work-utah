@@ -13,7 +13,6 @@
 **Careers:** https://corporate.beyond.com/corporate/careers
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/overstock-bed-bath-beyond-murray-2026/1600/1100
 **Pull:** *From discount liquidation pioneer to Bed Bath & Beyond brand steward — a Utah e-commerce company with an unusually winding corporate identity.*
 **Relates:** cites [Official Website: Bed Bath & Beyond](bed-bath-beyond-official-website.md) · https://greatutah.work/pages/bed-bath-beyond-official-website.md · https://www.bedbathandbeyond.com
 

@@ -1,0 +1,92 @@
+Coreform Isogeometric Analysis for Abaqus software
+PRODUCT ▾
+Coreform Cubit Advanced hex meshing
+Coreform IGA for Abaqus Nonlinear FEA directly from CAD
+Homepage
+Products
+Technology
+Company
+Resources
+Case studies
+Forums
+Documentation
+Downloads
+Webinars
+Contact us
+Login
+Login
+Request evaluation
+Rethink model prep for FEA
+Model preparation is the slowest, most painful part of simulation. Coreform software radically improves this, from enabling nonlinear analysis on fully-detailed CAD, to Python-scriptable hex meshing.
+Explore our products
+See the technology
+Founded in 2014 · Headquartered in Orem, Utah
+WHERE TO START
+YOU USE ABAQUS
+Run isogeometric analysis directly from CAD.
+Coreform IGA for Abaqus →
+YOU USE ANOTHER SOLVER
+Get high-quality meshing and faster model prep.
+Coreform Cubit →
+WHY WE EXIST
+Model prep is the bottleneck. We attack it from both ends.
+Getting from a design to an accurate simulation usually means hours of geometry cleanup and meshing before you ever hit solve. Coreform builds the tools that shrink that gap: world-class meshing when you need a mesh, and isogeometric analysis when you use Abaqus and can’t get a timely mesh with your current tools. Either way, you spend less time preparing models and more time trusting results.
+Since 2014
+Building geometry, meshing, and simulation tools that make analysis faster and more accurate.
+Inc. 5000
+The fastest-growing CAE company on the list, 2020 to 2023.
+Mesh it or skip it
+Best-in-class hex meshing with Coreform Cubit, and direct-from-CAD analysis with IGA.
+PRODUCTS
+Pick the entry point that fits your work.
+From the meshing toolkit trusted in production today to simulation that runs directly from CAD.
+NEW
+Coreform IGA for Abaqus
+Run Abaqus simulations directly on fully-featured CAD. It is still Abaqus, now driven directly from CAD.
+Learn more →
+Coreform Cubit
+Advanced hex meshing software for FEA and CFD, with industry-leading geometry preparation and Python automation.
+Learn more →
+FOR INTEGRATORS
+Coreform IGA Kernel
+Our next-generation IGA kernel, built to plug into existing solvers.
+Explore an integration →
+THE TECHNOLOGY
+Two technologies, built on deep foundations.
+Coreform products rest on decades of research. One reimagines how analysis runs on geometry, the other comes from the lab that has led hex meshing for a generation.
+COREFORM IGA
+Analysis on exact CAD
+Coreform IGA runs simulation on the same smooth spline math your CAD is built from, so you get accurate results with far fewer elements and the manual meshing step largely disappears.
+Read the technology deep dive →
+COREFORM CUBIT
+Leading hex meshing algorithms from Sandia
+Cubit is developed by Sandia National Laboratories, which has led the world in hexahedral meshing research for decades. Coreform is its exclusive commercial distributor, bringing that capability to industry.
+Explore Coreform Cubit →
+THE COMPANY
+Developed by the people who built the field.
+Coreform’s owners include world experts in isogeometric analysis and computational geometry, among them Dr. Thomas J.R. Hughes, the inventor of isogeometric analysis and a member of the National Academy of Sciences. The company is supported by commercial and government partners, including the US Department of Energy.
+About the team →
+Spend less time on model prep, whatever you simulate.
+Explore our products, or talk with our team about your hardest simulation problems.
+Explore products
+Talk to us
+Follow
+Follow
+Follow
+Follow
+Products
+core form IGA for Abaqus
+core form Cubit
+Support
+Case studies
+Forum
+Documentation
+Downloads
+Webinars
+Company
+About us
+Request evaluation
+News
+Sales
+Contact us
+© 2026 Coreform, Inc., All Rights Reserved

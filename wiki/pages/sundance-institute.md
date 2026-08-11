@@ -13,8 +13,6 @@
 **Careers:** https://sundance.hrmdirect.com/employment/job-openings.php?search=true
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** /img/heroes/front/sundance-1600.webp
-**Hero caption:** *The Mary G. Steiner Egyptian Theatre on Main Street, Park City, on the eve of the 2024 Sundance Film Festival — photograph by Frank Schulenburg via WikiPortraits (Wikimedia Commons, CC BY-SA 4.0).*
 **Pull:** *Forty years of artist labs, in a mountain town, that quietly underwrote much of American independent cinema.*
 
 ## Summary

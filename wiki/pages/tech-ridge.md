@@ -13,7 +13,6 @@
 **Location Source:** https://business.stgeorgechamber.com/members/member/tech-ridge-9578
 **Website:** https://techridge.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

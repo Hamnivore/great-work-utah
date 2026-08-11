@@ -74,7 +74,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Other, Start a Business"
       }
     },
     {
@@ -239,6 +239,34 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "AI Builder Day",
+        "type": "resource",
+        "url": "/pages/ai-builder-day.md",
+        "siteId": "ai-builder-day:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "AI hackathon, sponsor bounty tracks, beginner onboarding, team formation, Utah County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.891,
           40.7608
         ]
@@ -305,8 +333,11 @@ export default {
         "provenance": "https://www.altitudelab.org/old-site/old-home",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
-        "focus": "shared wet-lab space, biotech accelerator, techbio commercialization, pre-seed funding"
+        "domains": [
+          "health-bio",
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Relocate a Business to Utah"
       }
     },
     {
@@ -330,8 +361,39 @@ export default {
         "provenance": "https://www.ancestry.com/corporate/contact",
         "anchorKind": "site",
         "region": "Lehi",
-        "domains": [],
+        "domains": [
+          "computing",
+          "health-bio",
+          "culture-place"
+        ],
         "focus": "genealogy, family history, consumer genomics, historical records, digitization"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Apa Sherpa Foundation",
+        "type": "resource",
+        "url": "/pages/apa-sherpa-foundation.md",
+        "siteId": "apa-sherpa-foundation:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "Nepal education, Khumbu region, Sherpa community development, 501(c)(3) philanthropy"
       }
     },
     {
@@ -355,8 +417,11 @@ export default {
         "provenance": "https://business.utah.gov/contact/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
-        "focus": "Late Stage Growth, Marketing and Sales, Start a Business"
+        "domains": [
+          "capital-programs",
+          "aerospace-defense"
+        ],
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -381,7 +446,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -469,6 +534,33 @@ export default {
         ]
       },
       "properties": {
+        "title": "ARUP Laboratories",
+        "type": "venture",
+        "url": "/pages/arup-laboratories.md",
+        "siteId": "arup-laboratories:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "clinical laboratory, anatomic pathology, reference testing, esoteric diagnostics, laboratory medicine, nonprofit academic lab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
         "title": "Atavistik Bio",
         "type": "venture",
         "url": "/pages/atavistik-bio.md",
@@ -531,7 +623,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -657,7 +749,10 @@ export default {
         "provenance": "https://www.baxteraerospace.com/careers/",
         "anchorKind": "site",
         "region": "St. George",
-        "domains": [],
+        "domains": [
+          "aerospace-defense",
+          "materials-mfg"
+        ],
         "focus": "unmanned aircraft, deployable communications, ISR, defense, emergency response, advanced manufacturing"
       }
     },
@@ -685,7 +780,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Other"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -712,7 +807,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -739,7 +834,62 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89,
+          37.29
+        ]
+      },
+      "properties": {
+        "title": "Best Friends Animal Society",
+        "type": "venture",
+        "url": "/pages/best-friends-animal-society.md",
+        "siteId": "best-friends-animal-society:37.290000,-111.890000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Kane County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Kane County",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "no-kill animal welfare, animal sanctuary, shelter network, Kanab, national shelter data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.67,
+          40.12
+        ]
+      },
+      "properties": {
+        "title": "Bidi Contracting",
+        "type": "venture",
+        "url": "/pages/bidi-contracting.md",
+        "siteId": "bidi-contracting:40.120000,-111.670000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Utah County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah County",
+        "domains": [
+          "materials-mfg",
+          "computing"
+        ],
+        "focus": "construction estimating, subcontractor discovery, bid management"
       }
     },
     {
@@ -766,7 +916,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -936,6 +1086,60 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.6587,
+          40.3209
+        ]
+      },
+      "properties": {
+        "title": "Blue Raven Solar",
+        "type": "venture",
+        "url": "/pages/blue-raven-solar.md",
+        "siteId": "blue-raven-solar:40.320900,-111.658700",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1403 N Research Way, Orem, UT 84097",
+        "precision": "exact",
+        "provenance": "https://us.sunpower.com/",
+        "anchorKind": "site",
+        "region": "Orem",
+        "domains": [
+          "energy"
+        ],
+        "focus": "residential solar, direct-to-consumer installation, Orem Utah operations, SunPower ownership chain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8536,
+          38.4889
+        ]
+      },
+      "properties": {
+        "title": "Blundell Geothermal Plant",
+        "type": "venture",
+        "url": "/pages/blundell-geothermal-plant.md",
+        "siteId": "blundell-geothermal-plant:38.488900,-112.853600",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Blundell geothermal plant area, near Milford, UT",
+        "precision": "approximate",
+        "provenance": "https://www.eia.gov/electricity/data/browser/",
+        "anchorKind": "site",
+        "region": "Beaver County",
+        "domains": [
+          "energy"
+        ],
+        "focus": "geothermal power, utility generation, hydrothermal plant operations, PacifiCorp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -112.0156834,
           41.508708
         ]
@@ -955,7 +1159,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -982,7 +1186,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Relocate a Business to Utah, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1009,7 +1213,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -1044,6 +1248,33 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.9069,
+          40.8486
+        ]
+      },
+      "properties": {
+        "title": "Bunnell Incorporated",
+        "type": "venture",
+        "url": "/pages/bunnell-incorporated.md",
+        "siteId": "bunnell-incorporated:40.848600,-111.906900",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "North Salt Lake regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "North Salt Lake",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "high-frequency jet ventilation, neonatal intensive care, Life Pulse ventilator, pulmonary interstitial emphysema, respiratory distress syndrome"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.9238049,
           41.0300464
         ]
@@ -1061,7 +1292,7 @@ export default {
         "anchorKind": "site",
         "region": "Kaysville",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding, Taxes and Finance"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -1086,7 +1317,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding, International Trade, Taxes and Finance"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -1094,24 +1325,24 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.8362394,
-          39.5957889
+          -110.8111104,
+          39.5940948
         ]
       },
       "properties": {
         "title": "Business Technical Assistance Center",
         "type": "resource",
         "url": "/pages/business-technical-assistance-center.md",
-        "siteId": "business-technical-assistance-center:39.595789,-110.836239",
+        "siteId": "business-technical-assistance-center:39.594095,-110.811110",
         "siteIndex": 0,
         "siteCount": 1,
-        "mapLocation": "252 S Fairgrounds Rd, Price, UT 84501",
+        "mapLocation": "375 S. Carbon Ave, Price, UT 84501",
         "precision": "exact",
-        "provenance": "https://seenutah.org/",
+        "provenance": "https://web.archive.org/web/20250325062537/https://www.btac.business/",
         "anchorKind": "site",
         "region": "Price",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -1165,7 +1396,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1246,7 +1477,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1273,7 +1504,35 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities, Funding"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Carterra",
+        "type": "venture",
+        "url": "/pages/carterra.md",
+        "siteId": "carterra:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio",
+          "materials-mfg"
+        ],
+        "focus": "surface plasmon resonance, microfluidics, monoclonal antibody characterization, high-throughput biosensors, biotherapeutics discovery"
       }
     },
     {
@@ -1300,7 +1559,7 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1328,6 +1587,33 @@ export default {
           "health-bio"
         ],
         "focus": "antibiotics, antimicrobial resistance, biotech CEO, mission-driven pharma, Gram-negative bacteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.5236
+        ]
+      },
+      "properties": {
+        "title": "CHOICE Humanitarian",
+        "type": "helper",
+        "url": "/pages/choice-humanitarian.md",
+        "siteId": "choice-humanitarian:40.523600,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "392 E 12300 S Ste J, Draper, UT 84020",
+        "precision": "exact",
+        "provenance": "https://projects.propublica.org/nonprofits/organizations/742494806",
+        "anchorKind": "site",
+        "region": "Draper",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "international development, village-led poverty alleviation, rural expeditions, Utah nonprofit"
       }
     },
     {
@@ -1407,7 +1693,90 @@ export default {
         "domains": [
           "culture-place"
         ],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Clozd",
+        "type": "venture",
+        "url": "/pages/clozd.md",
+        "siteId": "clozd:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing",
+          "capital-programs"
+        ],
+        "focus": "decision intelligence, customer feedback, win-loss analysis, qualitative research, enterprise software"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Code Adventure Utah",
+        "type": "resource",
+        "url": "/pages/code-adventure-utah.md",
+        "siteId": "code-adventure-utah:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "girls coding camp, youth technology education, software engineering, cybersecurity, data analytics, UX design"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "CompHealth",
+        "type": "venture",
+        "url": "/pages/comphealth.md",
+        "siteId": "comphealth:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "locum tenens, physician staffing, rural hospital coverage, temporary clinicians, healthcare workforce"
       }
     },
     {
@@ -1646,6 +2015,34 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.7208,
+          40.3433
+        ]
+      },
+      "properties": {
+        "title": "Crumbl",
+        "type": "venture",
+        "url": "/pages/crumbl.md",
+        "siteId": "crumbl:40.343300,-111.720800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lindon regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lindon",
+        "domains": [
+          "culture-place",
+          "materials-mfg"
+        ],
+        "focus": "cookies, dessert franchise, weekly rotating menu, food tech, franchise systems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.55077,
           37.098317
         ]
@@ -1662,7 +2059,9 @@ export default {
         "provenance": "https://bioutah.org/culmination-bio-raises-10m-from-amgen-ventures-and-merck-global-health-innovation-fund-to-bring-longitudinal-health-data-to-biopharma/",
         "anchorKind": "site",
         "region": "St. George",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "clinical data platform, longitudinal patient data, drug discovery, diagnostics, biotech spinout"
       }
     },
@@ -1715,7 +2114,35 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Other"
+        "focus": "Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "CycloKinetics",
+        "type": "venture",
+        "url": "/pages/cyclokinetics.md",
+        "siteId": "cyclokinetics:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "aerospace-defense",
+          "energy"
+        ],
+        "focus": "aerospace and defense propellants, missile fuel, rocket propellant, advanced fuels"
       }
     },
     {
@@ -1741,6 +2168,33 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.19446,
+          38.16065
+        ]
+      },
+      "properties": {
+        "title": "Cyrq Energy",
+        "type": "venture",
+        "url": "/pages/cyrq-energy.md",
+        "siteId": "cyrq-energy:38.160650,-113.194460",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Thermo No. 1 geothermal plant area, near Milford, UT",
+        "precision": "approximate",
+        "provenance": "https://www.gridinfo.com/plant/thermo-no-1/57353",
+        "anchorKind": "site",
+        "region": "Beaver County",
+        "domains": [
+          "energy"
+        ],
+        "focus": "geothermal power, plant operations, binary-cycle plants, hydrothermal resources"
       }
     },
     {
@@ -1790,7 +2244,7 @@ export default {
         "anchorKind": "regional",
         "region": "Kaysville",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1815,7 +2269,7 @@ export default {
         "anchorKind": "site",
         "region": "Davis County",
         "domains": [],
-        "focus": "Funding, Late Stage Growth, Relocate a Business to Utah, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1865,7 +2319,7 @@ export default {
         "anchorKind": "site",
         "region": "Delta",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -1891,6 +2345,33 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "religious publishing, broadcasting, faith media, LDS Church, radio, television, journalism"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.887431,
+          40.423474
+        ]
+      },
+      "properties": {
+        "title": "DigiCert",
+        "type": "venture",
+        "url": "/pages/digicert.md",
+        "siteId": "digicert:40.423474,-111.887431",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "2801 North Thanksgiving Way, Suite 500, Lehi, UT 84048",
+        "precision": "exact",
+        "provenance": "https://privacy.digicert.com/policies/en/?name=job-candidate-privacy-notice",
+        "anchorKind": "site",
+        "region": "Lehi",
+        "domains": [
+          "computing"
+        ],
+        "focus": "public-key infrastructure, certificate lifecycle management, digital trust, DNS, post-quantum security"
       }
     },
     {
@@ -1967,7 +2448,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Relocate a Business to Utah, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2116,7 +2597,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "materials-mfg"
+        ],
         "focus": "mining equipment, mechanical engineering, underground mining, industrialization, Salt Lake City manufacturing"
       }
     },
@@ -2170,7 +2653,7 @@ export default {
         "anchorKind": "site",
         "region": "Emery County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2328,7 +2811,7 @@ export default {
         "anchorKind": "site",
         "region": "Escalante",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -2378,7 +2861,7 @@ export default {
         "anchorKind": "regional",
         "region": "Moab",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -2403,7 +2886,7 @@ export default {
         "anchorKind": "regional",
         "region": "Kane County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -2428,7 +2911,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth, Funding"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -2453,7 +2936,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales, Taxes and Finance"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -2582,7 +3065,7 @@ export default {
         "anchorKind": "regional",
         "region": "Daggett County",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2667,6 +3150,33 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Fourth Street Clinic",
+        "type": "resource",
+        "url": "/pages/fourth-street-clinic.md",
+        "siteId": "fourth-street-clinic:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "integrated health care for people experiencing homelessness"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.9297,
           40.5622
         ]
@@ -2692,6 +3202,34 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Furnace",
+        "type": "venture",
+        "url": "/pages/furnace-outbound.md",
+        "siteId": "furnace-outbound:37.096500,-113.568400",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [
+          "computing",
+          "capital-programs"
+        ],
+        "focus": "outbound sales, email infrastructure, campaign operations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.0717,
           37.67555
         ]
@@ -2710,6 +3248,33 @@ export default {
         "region": "southwestern Utah",
         "domains": [],
         "focus": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9178,
+          40.7126
+        ]
+      },
+      "properties": {
+        "title": "Globus Relief",
+        "type": "venture",
+        "url": "/pages/globus-relief.md",
+        "siteId": "globus-relief:40.712600,-111.917800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1032 W 2610 S, Salt Lake City, UT 84119",
+        "precision": "exact",
+        "provenance": "https://globusrelief.org/about",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "medical supply recovery, humanitarian logistics, donated equipment, international health, Salt Lake City"
       }
     },
     {
@@ -2759,7 +3324,7 @@ export default {
         "anchorKind": "site",
         "region": "Grand County",
         "domains": [],
-        "focus": "Late Stage Growth, Relocate a Business to Utah"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2812,7 +3377,7 @@ export default {
         "anchorKind": "regional",
         "region": "Nephi",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2837,7 +3402,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -2861,8 +3426,38 @@ export default {
         "provenance": "https://www.byu.edu/contact",
         "anchorKind": "site",
         "region": "Provo",
-        "domains": [],
+        "domains": [
+          "materials-mfg"
+        ],
         "focus": "materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "Halda",
+        "type": "venture",
+        "url": "/pages/halda.md",
+        "siteId": "halda:40.233800,-111.658500",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [
+          "culture-place",
+          "computing"
+        ],
+        "focus": "AI enrollment platform, higher education, K-12 recruitment, student engagement, omnichannel communications, edtech"
       }
     },
     {
@@ -2913,7 +3508,10 @@ export default {
         "provenance": "https://www.byu.edu/contact",
         "anchorKind": "site",
         "region": "Provo",
-        "domains": [],
+        "domains": [
+          "culture-place",
+          "computing"
+        ],
         "focus": "acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering"
       }
     },
@@ -2966,7 +3564,7 @@ export default {
         "anchorKind": "site",
         "region": "Heber City",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -2991,7 +3589,7 @@ export default {
         "anchorKind": "site",
         "region": "Heber City",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3016,7 +3614,7 @@ export default {
         "anchorKind": "site",
         "region": "Heber Valley",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3042,6 +3640,33 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "clinical decision support, medical informatics, electronic health records, hospital systems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7208,
+          40.3433
+        ]
+      },
+      "properties": {
+        "title": "Helpside",
+        "type": "venture",
+        "url": "/pages/helpside.md",
+        "siteId": "helpside:40.343300,-111.720800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lindon regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lindon",
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "small-business infrastructure, payroll, benefits, human resources, professional employer organization"
       }
     },
     {
@@ -3105,6 +3730,60 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.973,
+          41.1237
+        ]
+      },
+      "properties": {
+        "title": "Hill Air Force Base",
+        "type": "venture",
+        "url": "/pages/hill-air-force-base.md",
+        "siteId": "hill-air-force-base:41.123700,-111.973000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Hill Air Force Base regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Hill Air Force Base",
+        "domains": [
+          "aerospace-defense"
+        ],
+        "focus": "depot maintenance, fighter jet sustainment, ICBM sustainment, flight test, defense engineering workforce, economic impact"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6385,
+          40.3398
+        ]
+      },
+      "properties": {
+        "title": "Hope Squad",
+        "type": "venture",
+        "url": "/pages/hope-squad.md",
+        "siteId": "hope-squad:40.339800,-111.638500",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "5455 N River Run Dr, Provo, UT 84604",
+        "precision": "exact",
+        "provenance": "https://hopesquad.com/mission-history",
+        "anchorKind": "site",
+        "region": "Provo",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "peer suicide prevention, school mental health, gatekeeper training, Provo, Hope 4 Utah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.8348741,
           40.7722538
         ]
@@ -3121,8 +3800,37 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=Huntsman+Cancer+Institute+2000+Circle+of+Hope+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, translational medicine, life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5894,
+          37.0789
+        ]
+      },
+      "properties": {
+        "title": "Huntsman World Senior Games",
+        "type": "venture",
+        "url": "/pages/huntsman-world-senior-games.md",
+        "siteId": "huntsman-world-senior-games:37.078900,-113.589400",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1572 S Dixie Dr Ste 103, St. George, UT 84770",
+        "precision": "approximate",
+        "provenance": "https://projects.propublica.org/nonprofits/organizations/870447330",
+        "anchorKind": "site",
+        "region": "Washington County",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "senior athletics, multi-sport competition, active aging, St. George, international amateur sports"
       }
     },
     {
@@ -3147,7 +3855,7 @@ export default {
         "anchorKind": "regional",
         "region": "Hurricane",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3200,7 +3908,7 @@ export default {
         "anchorKind": "site",
         "region": "Provo",
         "domains": [],
-        "focus": "Start a Business, Entrepreneurship Communities, Funding"
+        "focus": "startup incubator, founder community, coworking, makerspace, prototype space, commercial kitchen, warehouse, funding"
       }
     },
     {
@@ -3277,7 +3985,7 @@ export default {
         "anchorKind": "regional",
         "region": "Murray",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Other"
       }
     },
     {
@@ -3353,8 +4061,40 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "computing",
+          "health-bio"
+        ],
         "focus": "biological computing, hybrid biosilicon AI, neuromorphic compute, deep tech"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Intergalactic",
+        "type": "venture",
+        "url": "/pages/intergalactic.md",
+        "siteId": "intergalactic:37.096500,-113.568400",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [
+          "aerospace-defense",
+          "space-science",
+          "materials-mfg"
+        ],
+        "focus": "aerospace thermal management, spacecraft systems, environmental control, cleanroom manufacturing, flight hardware"
       }
     },
     {
@@ -3378,7 +4118,9 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=LDS+Hospital+8th+Avenue+and+C+Street+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "healthcare delivery science, clinical quality improvement, learning health system, process control"
       }
     },
@@ -3405,6 +4147,33 @@ export default {
         "region": "statewide",
         "domains": [],
         "focus": "exports, international expansion, trade missions, foreign investment, diplomacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Interval AI",
+        "type": "venture",
+        "url": "/pages/interval-ai.md",
+        "siteId": "interval-ai:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing"
+        ],
+        "focus": "artificial intelligence, business workflows, early-stage software"
       }
     },
     {
@@ -3507,7 +4276,34 @@ export default {
         "anchorKind": "site",
         "region": "Iron County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8389,
+          40.5649
+        ]
+      },
+      "properties": {
+        "title": "IVUmed",
+        "type": "resource",
+        "url": "/pages/ivumed.md",
+        "siteId": "ivumed:40.564900,-111.838900",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Sandy regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Sandy",
+        "domains": [
+          "health-bio"
+        ],
+        "focus": "global surgery, urology training, teach-the-teacher, low-resource settings, pediatric urology"
       }
     },
     {
@@ -3531,7 +4327,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "biochemistry, metabolomics, allosteric drug discovery, university commercialization, life sciences"
       }
     },
@@ -3556,8 +4354,37 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "JobNimbus",
+        "type": "venture",
+        "url": "/pages/jobnimbus.md",
+        "siteId": "jobnimbus:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing"
+        ],
+        "focus": "contractor business management, roofing CRM, project management, payments, vertical SaaS, construction technology"
       }
     },
     {
@@ -3581,7 +4408,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Utah Valley",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "enterprise SaaS, web analytics, business intelligence, Utah tech ecosystem"
       }
     },
@@ -3606,8 +4435,10 @@ export default {
         "provenance": "https://business.utah.gov/statewide-economic-development-contacts/",
         "anchorKind": "site",
         "region": "Juab County",
-        "domains": [],
-        "focus": "Entrepreneurship Communities, Funding"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -3631,7 +4462,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "South Jordan",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "B2B SaaS, visual collaboration, enterprise software, founder leadership"
       }
     },
@@ -3656,8 +4489,38 @@ export default {
         "provenance": "https://gardner.utah.edu/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Other"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8338,
+          41.737
+        ]
+      },
+      "properties": {
+        "title": "KEVA Locks",
+        "type": "venture",
+        "url": "/pages/keva-locks.md",
+        "siteId": "keva-locks:41.737000,-111.833800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Logan regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Logan",
+        "domains": [
+          "materials-mfg",
+          "computing"
+        ],
+        "focus": "smart locks, rental access, property operations"
       }
     },
     {
@@ -3681,7 +4544,9 @@ export default {
         "provenance": "https://kickstart.com/faq",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -3706,7 +4571,9 @@ export default {
         "provenance": "https://kiln.com/communities/holladay/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -3731,7 +4598,9 @@ export default {
         "provenance": "https://kiln.com/communities/lehi/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -3756,7 +4625,9 @@ export default {
         "provenance": "https://kiln.com/communities/park-city/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -3781,7 +4652,9 @@ export default {
         "provenance": "https://kiln.com/communities/provo/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -3806,7 +4679,9 @@ export default {
         "provenance": "https://kiln.com/communities/salt-lake-city/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -3831,7 +4706,9 @@ export default {
         "provenance": "https://kiln.com/communities/st-george/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -3856,7 +4733,9 @@ export default {
         "provenance": "https://kiln.com/communities/sundance-kiln-cabin/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -3908,7 +4787,9 @@ export default {
         "provenance": "https://www.kirtonmcconkie.com/contact/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "startup law, corporate formation, venture financing, M&A, securities, IP, general counsel"
       }
     },
@@ -3933,7 +4814,9 @@ export default {
         "provenance": "https://www.kirtonmcconkie.com/contact/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "startup law, corporate formation, venture financing, M&A, securities, IP, general counsel"
       }
     },
@@ -3958,7 +4841,9 @@ export default {
         "provenance": "https://www.kirtonmcconkie.com/contact/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "startup law, corporate formation, venture financing, M&A, securities, IP, general counsel"
       }
     },
@@ -3983,7 +4868,9 @@ export default {
         "provenance": "https://www.kirtonmcconkie.com/contact/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "startup law, corporate formation, venture financing, M&A, securities, IP, general counsel"
       }
     },
@@ -4019,6 +4906,34 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Leland",
+        "type": "venture",
+        "url": "/pages/leland.md",
+        "siteId": "leland:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "culture-place",
+          "computing"
+        ],
+        "focus": "career coaching, expert marketplace, AI education, professional development, community learning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.7762899,
           40.3560867
         ]
@@ -4035,7 +4950,10 @@ export default {
         "provenance": "https://www.lvt.com/contact",
         "anchorKind": "site",
         "region": "American Fork",
-        "domains": [],
+        "domains": [
+          "computing",
+          "aerospace-defense"
+        ],
         "focus": "physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription"
       }
     },
@@ -4060,7 +4978,10 @@ export default {
         "provenance": "https://www.lvt.com/contact",
         "anchorKind": "site",
         "region": "American Fork",
-        "domains": [],
+        "domains": [
+          "computing",
+          "aerospace-defense"
+        ],
         "focus": "physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription"
       }
     },
@@ -4085,8 +5006,10 @@ export default {
         "provenance": "https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php",
         "anchorKind": "site",
         "region": "Logan",
-        "domains": [],
-        "focus": "Relocate a Business to Utah, Start a Business"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4137,8 +5060,10 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=Make+Salt+Lake+663+West+100+South+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -4162,8 +5087,38 @@ export default {
         "provenance": "https://makeutah.org/space-license-agreement/",
         "anchorKind": "site",
         "region": "Pleasant Grove",
-        "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Late Stage Growth"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "hard-tech incubator, makerspace, prototype space, R&D workspace, manufacturing, founder community"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.80858,
+          40.633418
+        ]
+      },
+      "properties": {
+        "title": "MasterControl",
+        "type": "venture",
+        "url": "/pages/mastercontrol.md",
+        "siteId": "mastercontrol:40.633418,-111.808580",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "MasterControl headquarters, Old Mill Corporate Center III, 6350 South 3000 East, Cottonwood Heights, UT 84121",
+        "precision": "exact",
+        "provenance": "https://www.mastercontrol.com/contact/",
+        "anchorKind": "site",
+        "region": "Cottonwood Heights",
+        "domains": [
+          "health-bio",
+          "computing"
+        ],
+        "focus": "quality management software, manufacturing execution systems, life sciences compliance, GxP, regulated manufacturing, SaaS"
       }
     },
     {
@@ -4187,8 +5142,10 @@ export default {
         "provenance": "https://mavencreateslc.com/",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -4212,7 +5169,9 @@ export default {
         "provenance": "https://www.mercatopartners.com/contact",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding, Late Stage Growth"
       }
     },
@@ -4264,8 +5223,10 @@ export default {
         "provenance": "https://moabchamber.com/about-the-chamber/",
         "anchorKind": "site",
         "region": "Grand County",
-        "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4289,7 +5250,9 @@ export default {
         "provenance": "https://themonarchogden.com/",
         "anchorKind": "site",
         "region": "Ogden",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities"
       }
     },
@@ -4314,8 +5277,10 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Monticello",
-        "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -4339,8 +5304,10 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Morgan County",
-        "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4364,8 +5331,37 @@ export default {
         "provenance": "https://www.morgancountyutah.gov/contact",
         "anchorKind": "site",
         "region": "Morgan County",
-        "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9289,
+          40.5898
+        ]
+      },
+      "properties": {
+        "title": "Mountain Heights Academy",
+        "type": "resource",
+        "url": "/pages/mountain-heights-academy.md",
+        "siteId": "mountain-heights-academy:40.589800,-111.928900",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "9067 S 1300 W Suite 204, West Jordan, UT 84088",
+        "precision": "exact",
+        "provenance": "https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?Search=1&ID=490013801285",
+        "anchorKind": "site",
+        "region": "West Jordan",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "online charter school, open educational resources, Utah grades 7-12, digital learning"
       }
     },
     {
@@ -4389,7 +5385,9 @@ export default {
         "provenance": "https://magutah.gov/contact/",
         "anchorKind": "site",
         "region": "Mountainland",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -4414,8 +5412,10 @@ export default {
         "provenance": "https://magutah.gov/contact/",
         "anchorKind": "site",
         "region": "Mountainland",
-        "domains": [],
-        "focus": "Funding, Late Stage Growth"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4439,8 +5439,10 @@ export default {
         "provenance": "https://magutah.gov/contact/",
         "anchorKind": "site",
         "region": "Mountainland",
-        "domains": [],
-        "focus": "Funding, Late Stage Growth"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4545,7 +5547,9 @@ export default {
         "provenance": "https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "hereditary cancer genetics, BRCA testing, gene patents, clinical genomics"
       }
     },
@@ -4554,26 +5558,54 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8243704,
-          40.7638577
+          -111.952317,
+          40.7765567
         ]
       },
       "properties": {
         "title": "Myriad Genetics",
         "type": "venture",
         "url": "/pages/myriad-genetics.md",
-        "siteId": "myriad-genetics:40.763858,-111.824370",
+        "siteId": "myriad-genetics:40.776557,-111.952317",
         "siteIndex": 0,
         "siteCount": 1,
-        "mapLocation": "320 Wakara Way, Salt Lake City, UT 84108",
+        "mapLocation": "322 North 2200 West, Salt Lake City, UT 84116",
         "precision": "exact",
-        "provenance": "https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5",
+        "provenance": "https://www.sec.gov/Archives/edgar/data/899923/000089992326000018/mygn-20251231.htm",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
           "health-bio"
         ],
         "focus": "molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Neighbor",
+        "type": "venture",
+        "url": "/pages/neighbor.md",
+        "siteId": "neighbor:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "peer-to-peer storage, parking marketplace, local asset utilization"
       }
     },
     {
@@ -4647,8 +5679,10 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Northern Utah",
-        "domains": [],
-        "focus": "Late Stage Growth, Relocate a Business to Utah, Marketing and Sales"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4700,7 +5734,9 @@ export default {
         "provenance": "https://www.nowcfo.com/wp-content/uploads/2022/09/NOW_CFO_BrandGuide_Q1_2022.pdf",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance operations"
       }
     },
@@ -4725,7 +5761,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Bluffdale",
-        "domains": [],
+        "domains": [
+          "aerospace-defense"
+        ],
         "focus": "intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security"
       }
     },
@@ -4804,7 +5842,9 @@ export default {
         "provenance": "https://people.utah.edu/basic.hml?eid=259658297",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "commercialization, talent matching, early-stage capital, research translation, Utah innovation"
       }
     },
@@ -4829,7 +5869,10 @@ export default {
         "provenance": "https://www.nucleusutah.org/marketedge",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs",
+          "computing"
+        ],
         "focus": "research commercialization, professors, PhDs, postdocs, market discovery"
       }
     },
@@ -4854,7 +5897,10 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=Nusano+4061+West+Parkway+Boulevard+West+Valley+City+UT",
         "anchorKind": "site",
         "region": "West Valley City",
-        "domains": [],
+        "domains": [
+          "health-bio",
+          "energy"
+        ],
         "focus": "medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, advanced manufacturing"
       }
     },
@@ -4904,8 +5950,10 @@ export default {
         "provenance": "https://www.ogdenweberchamber.com/staff/",
         "anchorKind": "site",
         "region": "Weber County",
-        "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -4929,8 +5977,94 @@ export default {
         "provenance": "https://www.sec.gov/Archives/edgar/data/1357525/000104746909008514/0001047469-09-008514-index.htm",
         "anchorKind": "site",
         "region": "Utah County",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "software, SaaS, web analytics, digital marketing, enterprise software"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11,
+          41.01
+        ]
+      },
+      "properties": {
+        "title": "Orbit Irrigation Products",
+        "type": "venture",
+        "url": "/pages/orbit-irrigation-products.md",
+        "siteId": "orbit-irrigation-products:41.010000,-112.110000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Davis County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Davis County",
+        "domains": [
+          "materials-mfg",
+          "energy"
+        ],
+        "focus": "residential irrigation, smart watering, sprinklers, drip irrigation, water conservation, B-hyve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "Orem Library Makerspace",
+        "type": "resource",
+        "url": "/pages/orem-library-makerspace.md",
+        "siteId": "orem-library-makerspace:40.296900,-111.694600",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [
+          "culture-place",
+          "materials-mfg",
+          "computing"
+        ],
+        "focus": "public makerspace, 3D printing, media digitization, podcast recording, creative software, equipment checkout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.58111,
+          38.56028
+        ]
+      },
+      "properties": {
+        "title": "Ormat Technologies",
+        "type": "venture",
+        "url": "/pages/ormat-technologies.md",
+        "siteId": "ormat-technologies:38.560280,-112.581110",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Cove Fort geothermal power plant, 1185 East Sulphurdale Road, Cove Fort, UT 84713",
+        "precision": "exact",
+        "provenance": "https://www.gridinfo.com/plant/cove-fort/58570",
+        "anchorKind": "site",
+        "region": "Beaver County",
+        "domains": [
+          "energy"
+        ],
+        "focus": "geothermal energy, geothermal plant operations, binary-cycle equipment manufacturing, grid infrastructure"
       }
     },
     {
@@ -5032,7 +6166,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake County; Utah County",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
@@ -5112,8 +6248,10 @@ export default {
         "provenance": "https://www.parkcitychamber.com/about-us/",
         "anchorKind": "site",
         "region": "Park City",
-        "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -5137,7 +6275,9 @@ export default {
         "provenance": "https://parsonsbehle.com/locations/law-firms-salt-lake-city",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "technology law, IP transactions, licensing, securities, emerging companies, venture financing"
       }
     },
@@ -5190,7 +6330,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -5215,7 +6357,9 @@ export default {
         "provenance": "https://www.petersonventures.com/contact/",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -5240,7 +6384,10 @@ export default {
         "provenance": "https://www.roadsideamerica.com/story/27927",
         "anchorKind": "site",
         "region": "Beaver",
-        "domains": [],
+        "domains": [
+          "culture-place",
+          "computing"
+        ],
         "focus": "invention, television, electronics, signal scanning, Utah-born inventors"
       }
     },
@@ -5290,7 +6437,9 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=Pitted+Ventures+9815+South+Monroe+Street+Sandy+UT",
         "anchorKind": "site",
         "region": "Sandy",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -5395,8 +6544,10 @@ export default {
         "provenance": "https://www.join-portal.com/location/salt-lake-city",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -5420,7 +6571,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salem",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "fractional CFO, outsourced finance, forecasting, cash-flow management, fundraising prep, outsourced HR"
       }
     },
@@ -5472,7 +6625,9 @@ export default {
         "provenance": "https://r6.utah.gov/contact/",
         "anchorKind": "site",
         "region": "Central Utah",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
@@ -5498,7 +6653,8 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [
-          "aerospace-defense"
+          "aerospace-defense",
+          "materials-mfg"
         ],
         "focus": "propulsion valves, precision manufacturing, spacecraft components, fluid control, aerospace supply chain"
       }
@@ -5577,7 +6733,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "St. George",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -5627,8 +6785,11 @@ export default {
         "provenance": "https://pscdocs.utah.gov/electric/16docs/16035T09/288519UtBusLtrRESched348-9-16.pdf",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
-        "focus": "Funding"
+        "domains": [
+          "capital-programs",
+          "energy"
+        ],
+        "focus": "Funding, Other"
       }
     },
     {
@@ -5652,7 +6813,9 @@ export default {
         "provenance": "https://r6.utah.gov/contact/",
         "anchorKind": "site",
         "region": "Central Utah",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -5677,7 +6840,9 @@ export default {
         "provenance": "https://serda.utah.gov/contact",
         "anchorKind": "site",
         "region": "Southeastern Utah",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -5702,7 +6867,9 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=RevRoad+412+W+Rivers+Edge+Dr+Provo+UT+84604",
         "anchorKind": "site",
         "region": "Provo",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding"
       }
     },
@@ -5727,8 +6894,10 @@ export default {
         "provenance": "https://richfieldareachamber.com/contact/",
         "anchorKind": "site",
         "region": "Richfield",
-        "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "domains": [
+          "capital-programs"
+        ],
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -5788,6 +6957,33 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "Rotor",
+        "type": "venture",
+        "url": "/pages/rotor.md",
+        "siteId": "rotor:40.296900,-111.694600",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [
+          "computing"
+        ],
+        "focus": "home-services CRM, recurring revenue, field-service software, sales automation, vertical SaaS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.7,
           40.25
         ]
@@ -5804,7 +7000,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Utah Valley",
-        "domains": [],
+        "domains": [
+          "aerospace-defense"
+        ],
         "focus": "RF engineering, synthetic aperture radar, defense technology, hardware startups"
       }
     },
@@ -5829,8 +7027,37 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "computing"
+        ],
         "focus": "enterprise software, experience management, Utah tech ecosystem, civic leadership"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "SalesRabbit",
+        "type": "venture",
+        "url": "/pages/salesrabbit.md",
+        "siteId": "salesrabbit:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing"
+        ],
+        "focus": "field sales software, canvassing, sales operations"
       }
     },
     {
@@ -5855,7 +7082,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salina",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -5907,7 +7134,7 @@ export default {
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -5932,7 +7159,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Start a Business"
+        "focus": "Entrepreneurship Communities, Start a Business"
       }
     },
     {
@@ -5957,7 +7184,7 @@ export default {
         "anchorKind": "site",
         "region": "Sandy",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -6007,7 +7234,7 @@ export default {
         "anchorKind": "site",
         "region": "San Juan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6032,7 +7259,7 @@ export default {
         "anchorKind": "site",
         "region": "San Juan County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6207,7 +7434,7 @@ export default {
         "anchorKind": "site",
         "region": "Sanpete County",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6284,7 +7511,9 @@ export default {
         "provenance": "https://www.sba.gov/district/utah",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Funding, Late Stage Growth, Start a Business"
       }
     },
@@ -6388,7 +7617,7 @@ export default {
         "anchorKind": "site",
         "region": "Sevier County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6446,6 +7675,33 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.0011,
+          40.6916
+        ]
+      },
+      "properties": {
+        "title": "Sistema Utah",
+        "type": "resource",
+        "url": "/pages/sistema-utah.md",
+        "siteId": "sistema-utah:40.691600,-112.001100",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "West Valley City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "West Valley City",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "El Sistema, after-school orchestra, free music education, West Valley City, Title I schools"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -112.0833003,
           38.7760654
         ]
@@ -6463,7 +7719,7 @@ export default {
         "anchorKind": "site",
         "region": "Central Utah",
         "domains": [],
-        "focus": "Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6524,6 +7780,33 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "SkyWest, Inc.",
+        "type": "venture",
+        "url": "/pages/skywest-inc.md",
+        "siteId": "skywest-inc:37.096500,-113.568400",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [
+          "aerospace-defense"
+        ],
+        "focus": "regional airline, aviation, aircraft leasing, air transportation, commercial aviation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.5869919,
           39.3571168
         ]
@@ -6541,7 +7824,7 @@ export default {
         "anchorKind": "site",
         "region": "Ephraim",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -6566,7 +7849,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Funding"
+        "focus": "Funding, Other"
       }
     },
     {
@@ -6590,7 +7873,10 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "culture-place",
+          "computing"
+        ],
         "focus": "audio engineering, signal processing, digital recording, music technology, university spinout"
       }
     },
@@ -6616,7 +7902,7 @@ export default {
         "anchorKind": "site",
         "region": "Southeastern Utah",
         "domains": [],
-        "focus": "Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6641,7 +7927,7 @@ export default {
         "anchorKind": "site",
         "region": "Southeastern Utah",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6666,7 +7952,7 @@ export default {
         "anchorKind": "site",
         "region": "Cedar City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -6691,7 +7977,7 @@ export default {
         "anchorKind": "site",
         "region": "Cedar City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -6720,6 +8006,31 @@ export default {
           "aerospace-defense"
         ],
         "focus": "space systems, sensors, satellites, defense, student workforce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9045,
+          40.5342
+        ]
+      },
+      "properties": {
+        "title": "Spectrum Solutions",
+        "type": "venture",
+        "url": "/pages/spectrum-solutions.md",
+        "siteId": "spectrum-solutions:40.534200,-111.904500",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "12248 S. Lone Peak Pkwy., Suite 106, Draper, UT 84020",
+        "precision": "exact",
+        "provenance": "https://api.fda.gov/device/510k.json?search=k_number:K223497&limit=1",
+        "anchorKind": "site",
+        "region": "Draper",
+        "domains": [],
+        "focus": "saliva collection devices, SDNA-1000, COVID-19 specimen collection, microbial nucleic acid stabilization, in vitro diagnostics accessories, Draper manufacturing"
       }
     },
     {
@@ -6794,7 +8105,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6819,7 +8130,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -6844,7 +8155,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Late Stage Growth, Other"
       }
     },
     {
@@ -6927,6 +8238,35 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -113.08,
+          41.52
+        ]
+      },
+      "properties": {
+        "title": "Stratos Data Center",
+        "type": "work",
+        "url": "/pages/stratos-data-center.md",
+        "siteId": "stratos-data-center:41.520000,-113.080000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Box Elder County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Box Elder County",
+        "domains": [
+          "energy",
+          "materials-mfg",
+          "aerospace-defense"
+        ],
+        "focus": "hyperscale data centers, energy infrastructure, advanced manufacturing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.891,
           40.7608
         ]
@@ -6971,7 +8311,35 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Funding, Start a Business, Taxes and Finance"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.498,
+          40.6461
+        ]
+      },
+      "properties": {
+        "title": "SubcontractorHub",
+        "type": "venture",
+        "url": "/pages/subcontractorhub.md",
+        "siteId": "subcontractorhub:40.646100,-111.498000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Park City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Park City",
+        "domains": [
+          "computing",
+          "energy"
+        ],
+        "focus": "contractor operations, solar software, roofing software, artificial intelligence"
       }
     },
     {
@@ -6996,7 +8364,7 @@ export default {
         "anchorKind": "site",
         "region": "Summit County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -7045,7 +8413,9 @@ export default {
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "digital health, musculoskeletal care, physical therapy, remote care, AI-powered rehabilitation"
       }
     },
@@ -7154,6 +8524,33 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "TCN",
+        "type": "venture",
+        "url": "/pages/tcn.md",
+        "siteId": "tcn:37.096500,-113.568400",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [
+          "computing"
+        ],
+        "focus": "cloud contact centers, customer communications, call-center software"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.8940472,
           40.7106435
         ]
@@ -7198,7 +8595,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Relocate a Business to Utah, Start a Business, Entrepreneurship Communities"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -7227,6 +8624,34 @@ export default {
           "computing"
         ],
         "focus": "digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, life sciences"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Teiko Bio",
+        "type": "venture",
+        "url": "/pages/teiko-bio.md",
+        "siteId": "teiko-bio:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio",
+          "computing"
+        ],
+        "focus": "clinical-trial immune profiling, flow cytometry, blood preservation, bioinformatics"
       }
     },
     {
@@ -7301,7 +8726,35 @@ export default {
         "anchorKind": "site",
         "region": "Logan",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.856426,
+          40.741375
+        ]
+      },
+      "properties": {
+        "title": "The INN Between",
+        "type": "venture",
+        "url": "/pages/the-inn-between.md",
+        "siteId": "the-inn-between:40.741375,-111.856426",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "1216 E 1300 S, Salt Lake City, UT 84105",
+        "precision": "exact",
+        "provenance": "https://tibhospice.org/about/frequently-asked-questions",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio",
+          "culture-place"
+        ],
+        "focus": "medical respite, end-of-life care, homelessness, hospice housing, Salt Lake City"
       }
     },
     {
@@ -7326,7 +8779,34 @@ export default {
         "anchorKind": "site",
         "region": "Sandy",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Funding, Marketing and Sales"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "The Other Side Academy",
+        "type": "venture",
+        "url": "/pages/the-other-side-academy.md",
+        "siteId": "the-other-side-academy:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "culture-place"
+        ],
+        "focus": "therapeutic community, addiction recovery, reentry, peer-led rehabilitation, social enterprise, Delancey Street model"
       }
     },
     {
@@ -7559,7 +9039,7 @@ export default {
         "anchorKind": "site",
         "region": "Uinta Basin",
         "domains": [],
-        "focus": "Funding, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -7584,7 +9064,7 @@ export default {
         "anchorKind": "site",
         "region": "Uinta Basin",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -7609,7 +9089,7 @@ export default {
         "anchorKind": "site",
         "region": "Uinta Basin",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding"
       }
     },
     {
@@ -7634,7 +9114,7 @@ export default {
         "anchorKind": "site",
         "region": "Uintah County",
         "domains": [],
-        "focus": "Funding, Late Stage Growth, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -7658,8 +9138,96 @@ export default {
         "provenance": "https://www.google.com/maps/search/?api=1&query=Lassonde+Studios+1701+Student+Life+Way+Salt+Lake+City+UT",
         "anchorKind": "site",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "University of Utah PIVOT Center",
+        "type": "resource",
+        "url": "/pages/university-of-utah-pivot-center.md",
+        "siteId": "university-of-utah-pivot-center:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "capital-programs",
+          "health-bio"
+        ],
+        "focus": "technology transfer, former name, redirect"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8365,
+          40.7495
+        ]
+      },
+      "properties": {
+        "title": "University of Utah Technology Licensing Office",
+        "type": "resource",
+        "url": "/pages/university-of-utah-technology-licensing-office.md",
+        "siteId": "university-of-utah-technology-licensing-office:40.749500,-111.836500",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "303 Chipeta Way, #14, Salt Lake City, UT 84108",
+        "precision": "approximate",
+        "provenance": "https://technologylicensing.utah.edu/",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [
+          "capital-programs",
+          "health-bio"
+        ],
+        "focus": "invention disclosure, university IP licensing, faculty startups, research commercialization, technology transfer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "University of Utah",
+        "type": "resource",
+        "url": "/pages/university-of-utah.md",
+        "siteId": "university-of-utah:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "culture-place",
+          "health-bio",
+          "computing",
+          "capital-programs"
+        ],
+        "focus": "public higher education, research, academic health care, technology commercialization"
       }
     },
     {
@@ -7685,6 +9253,62 @@ export default {
         "region": "Tooele County",
         "domains": [],
         "focus": "primary magnesium production, critical minerals, Great Salt Lake brine, aerospace and defense metals, industrial process engineering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6946,
+          40.2969
+        ]
+      },
+      "properties": {
+        "title": "US Synthetic",
+        "type": "venture",
+        "url": "/pages/us-synthetic.md",
+        "siteId": "us-synthetic:40.296900,-111.694600",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Orem regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Orem",
+        "domains": [
+          "materials-mfg",
+          "energy"
+        ],
+        "focus": "synthetic diamond, polycrystalline diamond cutters, high-pressure high-temperature synthesis, drilling tools, diamond bearings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "USANA Health Sciences",
+        "type": "venture",
+        "url": "/pages/usana.md",
+        "siteId": "usana:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "health-bio",
+          "materials-mfg"
+        ],
+        "focus": "nutritional supplements, skincare, direct selling, health-product manufacturing"
       }
     },
     {
@@ -7784,7 +9408,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Other"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -7809,7 +9433,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -7884,7 +9508,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Funding, Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -7909,7 +9533,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -7934,7 +9558,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -7959,7 +9583,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -7984,7 +9608,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8009,7 +9633,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8034,7 +9658,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8059,7 +9683,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8084,7 +9708,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8109,7 +9733,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8134,7 +9758,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8159,7 +9783,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8184,7 +9808,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8209,7 +9833,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8234,7 +9858,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8259,7 +9883,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8284,7 +9908,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8309,7 +9933,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8334,7 +9958,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8359,7 +9983,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8384,7 +10008,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8409,7 +10033,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8434,7 +10058,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8459,7 +10083,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8484,7 +10108,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8509,7 +10133,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8534,7 +10158,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8559,7 +10183,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8584,7 +10208,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8609,7 +10233,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8634,7 +10258,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8659,7 +10283,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -8684,7 +10308,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -8709,7 +10333,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -8786,7 +10410,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Funding, Start a Business, Relocate a Business to Utah, Taxes and Finance, International Trade"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -8811,7 +10435,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -8836,7 +10460,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -8861,7 +10485,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth, Relocate a Business to Utah"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -8919,6 +10543,34 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "Utah Kids Code Camp",
+        "type": "resource",
+        "url": "/pages/utah-kids-code-camp.md",
+        "siteId": "utah-kids-code-camp:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "youth coding education, free technology classes, volunteer instruction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.881687,
           40.424573
         ]
@@ -8936,7 +10588,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -8961,7 +10613,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Other"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -8986,7 +10638,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -9010,8 +10662,11 @@ export default {
         "provenance": "https://utah-mep.org/contact-us/",
         "anchorKind": "site",
         "region": "statewide",
-        "domains": [],
-        "focus": "Late Stage Growth"
+        "domains": [
+          "capital-programs",
+          "materials-mfg"
+        ],
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -9036,7 +10691,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Funding, Start a Business"
+        "focus": "Funding"
       }
     },
     {
@@ -9061,7 +10716,7 @@ export default {
         "anchorKind": "regional",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -9136,7 +10791,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Marketing and Sales, Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Other"
       }
     },
     {
@@ -9161,7 +10816,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Funding, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -9561,7 +11216,7 @@ export default {
         "anchorKind": "site",
         "region": "St. George",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -9613,7 +11268,7 @@ export default {
         "anchorKind": "site",
         "region": "Orem",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -9637,7 +11292,9 @@ export default {
         "provenance": "https://www.uvu.edu/woodbury/entrepreneurship/",
         "anchorKind": "site",
         "region": "Orem",
-        "domains": [],
+        "domains": [
+          "capital-programs"
+        ],
         "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
@@ -9740,7 +11397,7 @@ export default {
         "anchorKind": "regional",
         "region": "Hildale",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -9845,7 +11502,7 @@ export default {
         "anchorKind": "site",
         "region": "Vernal",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -9870,7 +11527,7 @@ export default {
         "anchorKind": "regional",
         "region": "Vernal",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -9895,7 +11552,7 @@ export default {
         "anchorKind": "site",
         "region": "Vernal",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -9920,7 +11577,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business, Marketing and Sales"
+        "focus": "Entrepreneurship Communities, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -9945,7 +11602,7 @@ export default {
         "anchorKind": "regional",
         "region": "Iron County",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance"
       }
     },
     {
@@ -9970,7 +11627,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "Marketing and Sales, Other"
+        "focus": "Entrepreneurship Communities, Other"
       }
     },
     {
@@ -10003,6 +11660,34 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.6585,
+          40.2338
+        ]
+      },
+      "properties": {
+        "title": "Wagevo",
+        "type": "venture",
+        "url": "/pages/wagevo.md",
+        "siteId": "wagevo:40.233800,-111.658500",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Provo regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Provo",
+        "domains": [
+          "capital-programs",
+          "computing"
+        ],
+        "focus": "earned wage access, payroll integration, employee financial wellness, hourly workers, fintech"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.9039983,
           40.7680904
         ]
@@ -10020,7 +11705,7 @@ export default {
         "anchorKind": "site",
         "region": "Wasatch Front",
         "domains": [],
-        "focus": "Late Stage Growth, Relocate a Business to Utah"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -10045,7 +11730,7 @@ export default {
         "anchorKind": "regional",
         "region": "Wasatch County",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business"
       }
     },
     {
@@ -10070,7 +11755,7 @@ export default {
         "anchorKind": "regional",
         "region": "Washington",
         "domains": [],
-        "focus": "Entrepreneurship Communities"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -10095,7 +11780,7 @@ export default {
         "anchorKind": "regional",
         "region": "Washington",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
       }
     },
     {
@@ -10230,7 +11915,7 @@ export default {
         "anchorKind": "site",
         "region": "Ogden",
         "domains": [],
-        "focus": "Late Stage Growth, Start a Business"
+        "focus": "Late Stage Growth"
       }
     },
     {
@@ -10255,7 +11940,35 @@ export default {
         "anchorKind": "site",
         "region": "Weber County",
         "domains": [],
-        "focus": "Funding, Late Stage Growth, Relocate a Business to Utah"
+        "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.01,
+          41.201
+        ]
+      },
+      "properties": {
+        "title": "Williams International",
+        "type": "venture",
+        "url": "/pages/williams-international.md",
+        "siteId": "williams-international:41.201000,-112.010000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "3450 Sam Williams Drive, Ogden, UT 84401",
+        "precision": "exact",
+        "provenance": "https://enviro.epa.gov/triexplorer/release_fac_profile?TRI=84403WLLMS3450S&TRILIB=TRIQ1",
+        "anchorKind": "site",
+        "region": "Ogden",
+        "domains": [
+          "aerospace-defense",
+          "materials-mfg"
+        ],
+        "focus": "small gas turbine engines, business jet propulsion, cruise missile propulsion, precision manufacturing, engine MRO"
       }
     },
     {
@@ -10455,7 +12168,7 @@ export default {
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [],
-        "focus": "Entrepreneurship Communities, Start a Business"
+        "focus": "Entrepreneurship Communities"
       }
     },
     {
@@ -10557,7 +12270,7 @@ export default {
         "anchorKind": "site",
         "region": "statewide",
         "domains": [],
-        "focus": "International Trade, Late Stage Growth"
+        "focus": "Entrepreneurship Communities, Late Stage Growth"
       }
     },
     {
@@ -10595,6 +12308,31 @@ export default {
         ]
       },
       "properties": {
+        "title": "YESCO",
+        "type": "venture",
+        "url": "/pages/yesco.md",
+        "siteId": "yesco:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [],
+        "focus": "electric signs, neon, custom signage, sign service, billboards, Las Vegas Strip signage, architectural lighting"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
         "title": "Zanskar Geothermal",
         "type": "venture",
         "url": "/pages/zanskar-geothermal.md",
@@ -10611,6 +12349,34 @@ export default {
           "computing"
         ],
         "focus": "geothermal exploration, AI for earth sciences, climate, firm clean power"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8508,
+          40.3916
+        ]
+      },
+      "properties": {
+        "title": "Zaymo",
+        "type": "venture",
+        "url": "/pages/zaymo.md",
+        "siteId": "zaymo:40.391600,-111.850800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Lehi regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Lehi",
+        "domains": [
+          "computing",
+          "capital-programs"
+        ],
+        "focus": "ecommerce, interactive email, embedded checkout, marketing software"
       }
     }
   ]

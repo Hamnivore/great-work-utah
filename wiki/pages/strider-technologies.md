@@ -14,7 +14,6 @@
 **Domain:** aerospace-defense
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/strider-strategic-intelligence-utah-2026/1600/1100
 **Pull:** *AI-assisted strategic intelligence for organizations exposed to nation-state risk.*
 
 ## Summary

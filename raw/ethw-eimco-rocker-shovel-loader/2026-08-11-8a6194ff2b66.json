@@ -1,0 +1,13 @@
+{
+  "source_page": "ethw-eimco-rocker-shovel-loader.md",
+  "requested_url": "https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B",
+  "final_url": "https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:40.316Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "e044df28949bcbc6a049c572bb4322e6c3b4236c4173c971f10f6ec351dcc6ee",
+  "text_sha256": "8a6194ff2b668e3b3e70713ac1a476249e831af615d6b630f854314d0e6a1a7d",
+  "text_chars": 2361,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

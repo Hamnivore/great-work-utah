@@ -14,7 +14,6 @@
 **Location Source:** https://mavencreateslc.com/
 **Website:** https://mavencreateslc.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

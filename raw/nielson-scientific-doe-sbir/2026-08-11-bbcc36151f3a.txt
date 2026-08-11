@@ -1,0 +1,116 @@
+Award | SBIR
+Skip to main content
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock
+( )
+or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Menu
+Contact
+Us
+Login
+Register
+Dashboard Login
+Please choose from one of the login options below:
+External User Login
+SBA Employee Login
+About
+Learn how we help, and about our programs
+About
+Find Local Assistance
+Participating Agencies
+Policy Directives
+Impact
+See how our mission and goals affect small businesses
+Impact
+Economic and Annual Reports
+Success Stories
+Annual Report Archive
+Portfolio
+Interact with our SBIR/STTR portfolio’s data sets
+Portfolio - Award Data
+Portfolio - Company Data
+API Documentation
+Data Resources
+Data Dictionary
+Apply
+Better understand the application process and eligibility
+Apply
+Find Topics and Solicitations
+Frequently Asked Questions (FAQ)
+Lab to Market Hub
+Program Tutorials
+Community
+Stay connected with our innovation ecosystem
+Community
+Event Spotlight
+News and Events
+Newsletter Sign-up
+Federal and State Technology (FAST)
+Growth Accelerator Fund Competition (GAFC)
+Award
+Portfolio Data
+Back to Award Search
+Scalable High-density Superconducting Flex Cables and Circuits
+Awardee
+NIELSON SCIENTIFIC LLC
+2778 N 600 E
+LEHI, UT, 84043-3474
+USA
+Award Year: 2024
+UEI: MVTBKVUKLCZ3
+HUBZone Owned: No
+Woman Owned: No
+Socially and Economically Disadvantaged: No
+Congressional District: 3
+Tagged as:
+SBIR
+Phase II
+Awarding Agency
+DOE
+Total Award Amount: $1,150,000
+Contract Number: DE-SC0023907
+Agency Tracking Number: 284414
+Solicitation Topic Code: C56-37c
+Solicitation Number: DE-FOA-0003279
+Abstract
+There is a growing need for high-density superconducting flex cables for a variety of applications including quantum computing, quantum communications, quantum sensing, and ultra-sensitive high-pixel-count instruments and focal plane arrays for the study of space. However, traditional flex circuit manufacturing methods cannot achieve the high channel density necessary for these applications, and silicon/thin-film microfabrication techniques are slow, expensive, and cannot meet the needed production quantity and overall cable size requirements. The proposed manufacturing approach will enable scalable, economical high-density superconducting flex cable production by combining elements of traditional flex circuit manufacturing with a new proprietary ôdirect writeö nano-ablation process developed by Nielson Scientific. The nano-ablation technology enables the rapid fabrication of sub-micron scale features across large areas, eliminating the slow and costly steps required by lithography-based fabrication, and enabling the feature sizes necessary for high-density channels in the flex cables. In the Phase I project, we fabricated and tested high-density superconducting flex cable prototypes using the proposed manufacturing approach and demonstrated experimentally that it is a viable manufacturing pathway for functional high-density superconducting flex cables. In testing at cryogenic temperatures, the prototype superconducting flex cables demonstrated a superconducting transition with trace widths on the order of 50 Ám and less. In addition, a feasibility study was performed to verify the scalability of the proposed manufacturing technology, the viability of creating stripline structures with at least three metal layers, and the commercial need for the proposed high-density superconducting flex cable technology. The proposed Phase II project will include R&amp;D for all aspects of the proposed high-density superconducting flex cable technology, including multiple rounds of design, fabrication, and testing at cryogenic temperatures. At the end of the Phase II project, all aspects of the proposed technology will be developed to the point that high-density superconducting flex cables will be able to be delivered to initial customers for testing. The most significant commercial applications of the proposed technology are in the quantum technology industries, including quantum computing, quantum communications, and quantum sensing. The proposed high-density superconducting flex cable technology is enabling for the further advancement of quantum computers which require a significant increase in control and readout connections as the number of qubits in the quantum computers is expanded. Currently available superconducting cables are too bulky and expensive and do not provide the needed thermal isolation to allow the continued advancement of quantum computers.
+Award Schedule
+2024
+Solicitation Year
+2024
+Award Year
+September 10, 2024
+Award Start Date
+September 9, 2026
+Award End Date
+Principal Investigator
+Name: Gregory Nielson
+Phone: (505) 999-6963
+Email: greg.nielson@nielsonscientific.com
+Business Contact
+Name: Gregory Nielson
+Phone: (505) 999-6963
+Email: greg.nielson@nielsonscientific.com
+Research Institution
+Name: N/A
+Site Map
+Privacy Policy
+Report Fraud, Waste & Abuse
+Open Government
+Advocacy
+SBA Inspector General
+SBA Connect Accessibility
+Small Business Innovation Research (SBIR)
+and Small Business Technology Transfer (STTR)
+USA.gov
+SBA.gov
+Subscribe to our Newsletter &rarr;
+Your information will only be used in accordance with our website privacy policy
+Need website support or have feedback?
+Contact Us

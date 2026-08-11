@@ -1,0 +1,13 @@
+{
+  "source_page": "nbc-kami-rita-everest-record-2024.md",
+  "requested_url": "https://www.nbcnews.com/news/world/sherpa-guide-kami-rita-climbs-mount-everest-record-30th-time-rcna153456",
+  "final_url": "https://www.nbcnews.com/news/world/sherpa-guide-kami-rita-climbs-mount-everest-record-30th-time-rcna153456",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:13.933Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "fb93d4f0625c198c789c99f82b3567e43abe53c03acefb0c85a45379c8cad1aa",
+  "text_sha256": "301d9f17f5ceb20348eba326f7816f5988c88de2f24f3638cca5dc8dd1fd859b",
+  "text_chars": 4515,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

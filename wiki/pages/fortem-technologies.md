@@ -18,7 +18,6 @@
 **Domain:** aerospace-defense
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/fortem-skydome-counter-uas-2026/1600/1100
 **Pull:** *TrueView radar, DroneHunter interceptors, and SkyDome — the airspace defense stack for the small-drone era.*
 
 ## Summary

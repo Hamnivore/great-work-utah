@@ -1,0 +1,43 @@
+{
+  "source_page": "utah-kids-code-camp-2026-announcements.md",
+  "origin": "authenticated scraper capture (public channels only; DMs are never collected)",
+  "scraper_data": "authenticated Slack export supplied at capture time",
+  "messages": [
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1779115594160029",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Phil Gilmore",
+      "date": "2026-05-18T14:46:34.160Z",
+      "ts": "1779115594.160029"
+    },
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1781643127518249?thread_ts=1781099671.909789&cid=CHNQPPQKB",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Phil Gilmore",
+      "date": "2026-06-16T20:52:07.518Z",
+      "ts": "1781643127.518249"
+    },
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1781643456296059",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Phil Gilmore",
+      "date": "2026-06-16T20:57:36.296Z",
+      "ts": "1781643456.296059"
+    },
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1785250179864269",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Phil Gilmore",
+      "date": "2026-07-28T14:49:39.864Z",
+      "ts": "1785250179.864269"
+    }
+  ],
+  "captured_at": "2026-08-11T22:45:40.637Z",
+  "text_sha256": "ef75c8f4894887d4a19ca40ad959ca4c8cea7a2e1629c2589640ef8d7ae135cd",
+  "text_chars": 3175,
+  "extractor": "scripts/capture-slack-sources.mjs"
+}

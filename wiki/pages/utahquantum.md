@@ -12,7 +12,6 @@
 **Website:** https://utahquantum.org
 **Updated:** 2026-06-18
 **Needs-reviewed:** 2026-06-18
-**Hero:** https://picsum.photos/seed/utahquantum-qsi-salt-lake-2026/1600/1100
 **Pull:** *A Utah-based quantum systems integrator trying to bridge labs, industry, and government around practical adoption.*
 
 ## Summary

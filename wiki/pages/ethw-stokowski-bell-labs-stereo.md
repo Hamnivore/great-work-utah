@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Academic Article
-**URL:** https://ethw.org/Leopold_Stokowski_and_Bell_Labs,_a_Sound_Collaboration
+**Source Type:** reference
+**URL:** https://ethw.org/Leopold_Stokowski_and_Bell_Labs%2C_a_Sound_Collaboration
+**Archive:** https://web.archive.org/web/20251206204631/https://ethw.org/Leopold_Stokowski_and_Bell_Labs%2C_a_Sound_Collaboration
+**Archived:** 2025-12-06
 **Publisher:** Engineering and Technology History Wiki (IEEE)
-**Accessed:** 2026-06-19
+**Retrieved:** 2026-08-11
+**Raw:** raw/ethw-stokowski-bell-labs-stereo/2026-08-11-923a0cdf474d.txt
 **Updated:** 2026-06-19
 
 ## Summary
@@ -24,6 +27,14 @@ An Engineering and Technology History Wiki article documenting the collaboration
 ## Reliability Notes
 
 ETHW is an editorially curated wiki maintained by the IEEE History Center, making it a stronger specialist source than general encyclopedias for engineering history. Articles are contributed by historians and engineers and are subject to editorial review. Still a secondary source; Bell Labs technical reports and contemporary press accounts should anchor specific date and technical claims.
+
+## Verbatim
+
+> Constitution Hall, Washington D.C., April 27, 1933. People filled the auditorium at AT&T’s invitation to hear the Philadelphia Orchestra. The Orchestra’s long time conductor Leopold Stokowski was on hand; his orchestra was not. Instead, three large loudspeakers graced the stage.
+
+> The concert began. At the Academy of Music in Philadelphia, the orchestra began playing Bach. Three state-of-the-art wide-range Bell Labs microphones picked up the sound. AT&T transmitted the outputs over three specially prepared, wide bandwidth telephone wires to Washington, where they were amplified and sent into the auditorium via newly designed loudspeakers specially crafted by Bell Labs for the event.
+
+Locator: Opening section.
 
 ## Related Pages
 

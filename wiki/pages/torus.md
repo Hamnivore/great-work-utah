@@ -19,8 +19,6 @@
 **Careers:** https://www.torus.co/careers
 **Website:** https://www.torus.co/
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/torus-flywheel-slc/1600/1100
-**Hero caption:** *Placeholder image. A license-clean photograph of a Torus flywheel unit or the GigaOne campus is still needed — see Open Questions.*
 **Pull:** *Spinning steel plus batteries, built in Utah, aimed at the grid's hardest short-duration problems.*
 **Relates:** cites [Official Website: Torus](torus-official-website.md) · https://greatutah.work/pages/torus-official-website.md · https://www.torus.co/
 
@@ -40,7 +38,7 @@ The impact case is real but unproven at the scale the company is targeting. Grid
 
 Torus describes a "full-stack energy platform": storage (flywheel + battery), management software, cybersecurity, and generation services, deployed as distributed modular units that can be linked into a "grid operating system." The company says its units provide frequency and voltage support for utility partners and peak shaving, emergency backup, and power-quality services for commercial and industrial customers. [Source: Torus $200M Magnetar Investment](torus-magnetar-raise.md)
 
-The manufacturing story is central. Torus grew from a prototype in Springville, Utah into a 40,000-square-foot facility, and is now building GigaOne, a 540,000-square-foot campus in Salt Lake City, with a stated goal of scaling to more than one gigawatt of capacity per quarter within three years. It received a TIME Best Invention of 2024 award and a 2025 R&D 100 Award. Those production targets are aspirations, not delivered capacity.
+The manufacturing story is central. Torus says it grew from a Springville prototype into a 40,000-square-foot facility and is preparing a 540,000-square-foot GigaOne campus, targeting more than one gigawatt per quarter within three years. It also reports 2024 TIME and 2025 R&D 100 recognition ([Magnetar announcement](torus-magnetar-raise.md)). Those production targets are aspirations, not delivered capacity.
 
 ## What They Need Now
 Hiring concentrates on standing up GigaOne manufacturing and field ops in the Salt Lake area: mechanical and manufacturing engineers and leads, CNC / tube-laser / waterjet fabrication specialists, manufacturing technicians, embedded-systems and firmware engineers, electrical test technicians, journeyman electricians for field operations, and environmental engineering. The April 2026 equipment-financing facility from Trinity Capital points to a hardware-heavy capital structure where manufacturing throughput is the bottleneck. [Source: Trinity Capital Equipment Financing for Torus](torus-trinity-equipment-financing.md)
@@ -64,7 +62,7 @@ Torus is a genuinely Utah-rooted hard-tech company: founded in the state, protot
 ## Open Questions
 
 - **Founding date / founders.** Torus's own materials say founded 2021; an internal note suggested ~2018 with founders Nate Walkingshaw and Gilbert Lee. Verify the date and current leadership before stating either definitively.
-- **Capital structure.** A $200M raise from Magnetar (an alternative-asset manager with energy-credit experience) plus equipment financing may indicate project-finance-style deployment rather than pure venture scaling. Understand the mix of equity vs. debt before drawing conclusions about runway.
+- **Capital structure.** A $200M investment from Magnetar plus up to $35M of equipment financing may indicate project-finance-style deployment rather than pure venture scaling ([Magnetar announcement](torus-magnetar-raise.md); [Trinity financing](torus-trinity-equipment-financing.md)).
 - **Unit economics.** Whether the hybrid flywheel-battery system is cost-competitive against lithium-only short-duration storage at deployed scale is the core unproven question.
 - **Scope shift.** Torus repositioned from earlier home/edge energy management toward "modular power plants" for utilities and data centers; verify how cleanly the underlying technology carried across.
 - **Imagery.** Hero is a deterministic picsum placeholder. A license-clean photo of a Torus unit or GigaOne (company press kit, with rights cleared) should replace it.

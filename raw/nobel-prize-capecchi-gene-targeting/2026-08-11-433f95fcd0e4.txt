@@ -1,0 +1,130 @@
+The Nobel Prize in Physiology or Medicine 2007 - Press release - NobelPrize.org
+Skip to content
+Nobel Prize
+Toggle Mobile Menu
+Nobel Prizes & laureates
+All Nobel Prizes
+All Nobel Prizes 2025
+Physics prize
+Chemistry prize
+Medicine prize
+Literature prize
+Peace prize
+Prize in economic sciences
+About
+About the prize
+Alfred Nobel
+Award ceremonies
+Nomination
+Organisation
+Stories
+Educational
+Events & museums
+Search by term.
+Search
+Nobel Prize in Physiology or Medicine 2007
+Summary
+Laureates
+Mario R. Capecchi
+Sir Martin J. Evans
+Oliver Smithies
+Prize announcement
+Press release
+Popular information
+Advanced information
+Award ceremony speech
+Award ceremony video
+Banquet video
+Speed read
+Share this
+Facebook
+X
+LinkedIn
+Email this page
+Press release
+Navigate to:
+Summary - Mario R. Capecchi - Sir Martin J. Evans - Oliver Smithies Prize announcement Press release Popular information Advanced information Award ceremony speech Award ceremony video Banquet video Speed read
+English
+English (pdf)
+Swedish
+Swedish (pdf)
+8 October 2007
+The Nobel Assembly at Karolinska Institutet has today decided to award
+The Nobel Prize in Physiology or Medicine for 2007 jointly to
+Mario R. Capecchi , Martin J. Evans and Oliver Smithies
+for their discoveries of “principles for introducing specific gene modifications in mice by the use of embryonic stem cells”
+Summary
+This year’s Nobel Laureates have made a series of ground-breaking discoveries concerning embryonic stem cells and DNA recombination in mammals. Their discoveries led to the creation of an immensely powerful technology referred to as gene targeting in mice . It is now being applied to virtually all areas of biomedicine – from basic research to the development of new therapies.
+Gene targeting is often used to inactivate single genes. Such gene “knockout” experiments have elucidated the roles of numerous genes in embryonic development, adult physiology, aging and disease. To date, more than ten thousand mouse genes (approximately half of the genes in the mammalian genome) have been knocked out. Ongoing international efforts will make “knockout mice” for all genes available within the near future.
+With gene targeting it is now possible to produce almost any type of DNA modification in the mouse genome, allowing scientists to establish the roles of individual genes in health and disease. Gene targeting has already produced more than five hundred different mouse models of human disorders, including cardiovascular and neuro-degenerative diseases, diabetes and cancer.
+Modification of genes by homologous recombination
+Information about the development and function of our bodies throughout life is carried within the DNA. Our DNA is packaged in chromosomes, which occur in pairs – one inherited from the father and one from the mother. Exchange of DNA sequences within such chromosome pairs increases genetic variation in the population and occurs by a process called homologous recombination. This process is conserved throughout evolution and was demonstrated in bacteria more than 50 years ago by the 1958 Nobel Laureate Joshua Lederberg .
+Mario Capecchi and Oliver Smithies both had the vision that homologous recombination could be used to specifically modify genes in mammalian cells and they worked consistently towards this goal.
+Capecchi demonstrated that homologous recombination could take place between introduced DNA and the chromosomes in mammalian cells. He showed that defective genes could be repaired by homologous recombination with the incoming DNA. Smithies initially tried to repair mutated genes in human cells. He thought that certain inherited blood diseases could be treated by correcting the disease-causing mutations in bone marrow stem cells. In these attempts Smithies discovered that endogenous genes could be targeted irrespective of their activity. This suggested that all genes may be accessible to modification by homologous recombination.
+Embryonic stem cells – vehicles to the mouse germ line
+The cell types initially studied by Capecchi and Smithies could not be used to create gene-targeted animals. This required another type of cell, one which could give rise to germ cells. Only then could the DNA modifications be inherited.
+Martin Evans had worked with mouse embryonal carcinoma (EC) cells, which although they came from tumors could give rise to almost any cell type. He had the vision to use EC cells as vehicles to introduce genetic material into the mouse germ line. His attempts were initially unsuccessful because EC cells carried abnormal chromosomes and could not therefore contribute to germ cell formation. Looking for alternatives Evans discovered that chromosomally normal cell cultures could be established directly from early mouse embryos. These cells are now referred to as embryonic stem (ES) cells .
+The next step was to show that ES cells could contribute to the germ line (see Figure). Embryos from one mouse strain were injected with ES cells from another mouse strain. These mosaic embryos (i.e. composed of cells from both strains) were then carried to term by surrogate mothers. The mosaic offspring was subsequently mated, and the presence of ES cell-derived genes detected in the pups. These genes would now be inherited according to Mendel’s laws.
+Evans now began to modify the ES cells genetically and for this purpose chose retroviruses, which integrate their genes into the chromosomes. He demonstrated transfer of such retroviral DNA from ES cells, through mosaic mice, into the mouse germ line. Evans had used the ES cells to generate mice that carried new genetic material.
+Two ideas come together – homologous recombination in ES cells
+By 1986 all the pieces were at hand to begin generating the first gene targeted ES cells. Capecchi and Smithies had demonstrated that genes could be targeted by homologous recombination in cultured cells, and Evans had contributed the necessary vehicle to the mouse germ line – the ES-cells. The next step was to combine the two.
+For their initial experiments both Smithies and Capecchi chose a gene (hprt) that was easily identified. This gene is involved in a rare inherited human disease (Lesch-Nyhan syndrome). Capecchi refined the strategies for targeting genes and developed a new method (positive-negative selection, see Figure) that could be generally applied.
+Birth of the knockout mouse – the beginning of a new era in genetics
+The first reports in which homologous recombination in ES cells was used to generate gene-targeted mice were published in 1989. Since then, the number of reported knockout mouse strains has risen exponentially. Gene targeting has developed into a highly versatile technology. It is now possible to introduce mutations that can be activated at specific time points, or in specific cells or organs, both during development and in the adult animal.
+Gene targeting is used to study health and disease
+Almost every aspect of mammalian physiology can be studied by gene targeting. We have consequently witnessed an explosion of research activities applying the technology. Gene targeting has now been used by so many research groups and in so many contexts that it is impossible to make a brief summary of the results. Some of the later contributions of this year’s Nobel Laureates are presented below.
+Gene targeting has helped us understand the roles of many hundreds of genes in mammalian fetal development. Capecchis research has uncovered the roles of genes involved in mammalian organ development and in the establishment of the body plan. His work has shed light on the causes of several human inborn malformations.
+Evans applied gene targeting to develop mouse models for human diseases. He developed several models for the inherited human disease cystic fibrosis and has used these models to study disease mechanisms and to test the effects of gene therapy.
+Smithies also used gene targeting to develop mouse models for inherited diseases such as cystic fibrosis and the blood disease thalassemia. He has also developed numerous mouse models for common human diseases such as hypertension and atherosclerosis.
+In summary, gene targeting in mice has pervaded all fields of biomedicine. Its impact on the understanding of gene function and its benefits to mankind will continue to increase over many years to come.
+Mario R. Capecchi , born 1937 in Italy, US citizen, PhD in Biophysics 1967, Harvard University, Cambridge, MA, USA. Howard Hughes Medical Institute Investigator and Distinguished Professor of Human Genetics and Biology at the University of Utah, Salt Lake City, UT, USA.
+Sir Martin J. Evans , born 1941 in Great Britain, British citizen, PhD in Anatomy and Embryology 1969, University College, London, UK. Director of the School of Biosciences and Professor of Mammalian Genetics, Cardiff University, UK.
+Oliver Smithies , born 1925 in Great Britain, US citizen, PhD in Biochemistry 1951, Oxford University, UK. Excellence Professor of Pathology and Laboratory Medicine, University of North Carolina at Chapel Hill, NC, USA.
+High resolution image (pdf 900 kb)
+To cite this section
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach 2026. Tue. 11 Aug 2026. <https://www.nobelprize.org/prizes/medicine/2007/press-release/>
+Go to the top of the page
+Explore prizes and laureates
+Look for popular awards and laureates in different fields, and discover the history of the Nobel Prize.
+Select the category or categories you would like to filter by
+Physics
+Chemistry
+Medicine
+Literature
+Peace
+Economic Sciences
+Select the category or categories you would like to filter by
+Physics
+Chemistry
+Medicine
+Literature
+Peace
+Economic Sciences
+-
+Choose a year you would like to search in
++
+Explore
+About the Nobel Prize organisation
+The Nobel Foundation
+Tasked with a mission to manage Alfred Nobel's fortune and has ultimate responsibility for fulfilling the intentions of Nobel's will.
+The prize-awarding institutions
+For more than a century, these academic institutions have worked independently to select Nobel Prize laureates.
+Outreach organisations
+Several outreach organisations and activities have been developed to inspire generations and disseminate knowledge about the Nobel Prize.
+Press
+Contact
+FAQ
+Privacy policy
+Terms of use
+For developers
+Media player
+Careers
+Join us
+Facebook
+Twitter
+Instagram
+Youtube
+LinkedIn
+Nobel Prize
+Copyright &copy; Nobel Prize Outreach 2026
+Scroll to top

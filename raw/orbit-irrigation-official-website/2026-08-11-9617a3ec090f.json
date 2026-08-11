@@ -1,0 +1,13 @@
+{
+  "source_page": "orbit-irrigation-official-website.md",
+  "requested_url": "https://www.orbitonline.com/",
+  "final_url": "https://www.orbitonline.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:44:06.579Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "4a54afbe47ca72c9d041a91acfa645bcbf54053ca60c1045c24ad4647bdb4e93",
+  "text_sha256": "9617a3ec090f617df08d4685722f4539ebd504a115e0b6e2a3e4522945c2bc47",
+  "text_chars": 15255,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

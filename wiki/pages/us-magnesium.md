@@ -13,7 +13,6 @@
 **Website:** https://usmagnesium.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/us-magnesium-great-salt-lake-rowley-2026/1600/1100
 **Pull:** *North America's largest primary magnesium producer — strategic metal from Great Salt Lake brine, now in bankruptcy.*
 
 ## Summary

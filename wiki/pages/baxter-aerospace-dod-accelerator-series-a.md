@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Press Release
+**Source Type:** press-release
 **URL:** https://www.businesswire.com/news/home/20250724456980/en/The-DoD-Accelerator-Managed-by-Accuidity-Capital-Management-Announces-a-%246-Million-Series-A-Investment-in-Baxter-Aerospace
+**Archive:** https://web.archive.org/web/20251017113857/https://www.businesswire.com/news/home/20250724456980/en/The-DoD-Accelerator-Managed-by-Accuidity-Capital-Management-Announces-a-%246-Million-Series-A-Investment-in-Baxter-Aerospace
+**Archived:** 2025-10-17
 **Publisher:** Forge Global Holdings / Accuidity Capital Management (via Business Wire)
-**Accessed:** 2026-06-18
 **Updated:** 2026-06-18
 
 ## Summary

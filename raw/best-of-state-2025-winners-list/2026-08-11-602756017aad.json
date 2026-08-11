@@ -1,0 +1,16 @@
+{
+  "source_page": "best-of-state-2025-winners-list.md",
+  "requested_url": "https://www.bestofstate.org/__l5e/assets-v1/1a1ae534-b5f4-4d81-a8f0-394011da6318/2025_bos_winners.pdf",
+  "final_url": "https://www.bestofstate.org/__l5e/assets-v1/1a1ae534-b5f4-4d81-a8f0-394011da6318/2025_bos_winners.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:31:51.577Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "9d652597806ffe0bb492b53bf7331cecea91f1e51d704da998a3fc6c861725bb",
+  "text_sha256": "602756017aad67641402f1c2b9f3fe742332f6c5a7bc8d5e694905da90c07935",
+  "text_chars": 262535,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 60,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

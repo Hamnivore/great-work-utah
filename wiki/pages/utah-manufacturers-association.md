@@ -13,7 +13,6 @@
 **Location Source:** https://manufacturingutah.com/contact-us/
 **Website:** https://manufacturingutah.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

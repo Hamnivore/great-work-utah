@@ -1,0 +1,13 @@
+{
+  "source_page": "intan-technologies-official-website.md",
+  "requested_url": "https://intantech.com/",
+  "final_url": "https://intantech.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:53.317Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "9c2ca475bfe7cf528a880803f6e2829deed50fb0bcd5f80479ff56ea162d3eb6",
+  "text_sha256": "962c9943ee53d3a898fbdd4cfc92925dcd8342b71f7cd6042c9a8b3cf80dcf2d",
+  "text_chars": 2799,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

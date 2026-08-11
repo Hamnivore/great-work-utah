@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
-**URL:** https://ramasd.com
+**Source Type:** official-page
+**URL:** https://ram.space/
+**Archive:** https://web.archive.org/web/20260721121744/https://ram.space/
+**Archived:** 2026-07-21
 **Publisher:** RAM Aviation, Space & Defense
-**Accessed:** 2026-06-19
+**Raw:** raw/ram-aviation-space-defense-official-website/2026-08-11-696eda3042d6.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -15,17 +18,28 @@ RAM Aviation Space Defense's official website describes a St. George, Utah preci
 
 ## Useful Claims
 
-- RAM describes itself as designing and manufacturing precision propulsion valves and flow-control components for the aerospace, defense, and space sectors from its St. George, Utah facility.
-- The company cites flight-qualification on the SpaceX Dragon crew and cargo capsule, which carries astronauts and supplies to the International Space Station.
-- RAM is described as a propulsion partner for Sierra Space's Dream Chaser spaceplane in-space propulsion system.
-- ISS deorbit thruster control components are listed among planned hardware roles, with ISS decommissioning targeted for 2031.
-- The company was founded in 1975 by Ray and Melzie Ganowsky and describes continuous founder-family ownership over its 50-year history.
-- RAM lists approximately 300 employees and references decades of accumulated qualification history with NASA, SpaceX, and DoD as its core competitive moat.
-- The 47G Utah aerospace and defense consortium lists RAM as a member organization.
+- RAM manufactures custom rotary and linear solenoids, propulsion valves, and LVDT/RVDT sensors for aerospace and defense applications.
+- The page previously described a St. George, Utah facility and flight-qualification on SpaceX Dragon, Sierra Space Dream Chaser, and ISS deorbit hardware; this capture does not mention location or those programs.
+- The company was founded in 1975.
+- The page previously listed headcount; this capture does not show employee totals.
+- The 47G Utah aerospace and defense consortium lists RAM as a member organization — not shown in this capture.
+
+## Verbatim
+
+> "Since our inception in 1975, RAM has refined its capabilities to become the premier producer of custom rotary and linear solenoids in the world."
+> — Solenoids section
+
+> "Our valves will allow you to handle flow and distribution in any of your systems with compatibility with a variety of fluid applications, including hydraulics, propellants, oxidizers, and hot or cold air bleed."
+> — Valves section
+
+> "Using our precision Linear and Rotary Variable Differential Transformers (LVDTs and RVDTs), your systems will receive accurate and repeatable measurements during motion, every time."
+> — Sensors section
 
 ## Reliability Notes
 
-This is an official company source for a private, family-held business. Customer integrations (SpaceX Dragon, Dream Chaser, ISS deorbit) come from company claims and should be cross-checked against customer program announcements and NASA or Sierra Space materials. Headcount (~300), founding date (1975), and ownership structure are consistent with third-party reporting (St. George News 50-year retrospective). Dream Chaser program schedule uncertainty at Sierra Space may affect RAM's near-term workload.
+This is an official company source for a private, family-held business. This capture is a product-focused homepage without customer-program, headcount, or consortium listings. Customer integrations (SpaceX Dragon, Dream Chaser, ISS deorbit) and headcount figures on this page were not reconfirmed here and should be cross-checked against customer program announcements and third-party reporting.
+
+The legacy `ramasd.com` URL redirects to the company's current `ram.space` domain; the product identity and 1975 history in the capture confirm this is a canonical-domain move.
 
 ## Related Pages
 

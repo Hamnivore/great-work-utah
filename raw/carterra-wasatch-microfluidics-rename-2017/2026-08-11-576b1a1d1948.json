@@ -1,0 +1,13 @@
+{
+  "source_page": "carterra-wasatch-microfluidics-rename-2017.md",
+  "requested_url": "https://carterra-bio.com/news/wasatch-microfluidics-announces-name-change-to-carterra-inc-and-new-high-throughput-spr-instrument/",
+  "final_url": "https://carterra-bio.com/news/wasatch-microfluidics-announces-name-change-to-carterra-inc-and-new-high-throughput-spr-instrument/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:37.899Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "29ac7ee0e4e76a670e328fee26aa45f1d064bd025fe1ea962456be9ce85b07db",
+  "text_sha256": "576b1a1d194801f613cafd34abc319ad10707cf30103d02be4bc9876b181e6c3",
+  "text_chars": 6178,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

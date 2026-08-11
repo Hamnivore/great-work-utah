@@ -1,0 +1,13 @@
+{
+  "source_page": "karl-sun-lucid-bio.md",
+  "requested_url": "https://lucid.co/about",
+  "final_url": "https://lucid.co/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:58.883Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "66242fdd1b91469b55f67200ad098e62cbe206cee3cdac74e2ee42d17d167ee1",
+  "text_sha256": "988b693d65c31c04863ecb1c523f49bb3929add45901e8979f750fd47b34771c",
+  "text_chars": 4469,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

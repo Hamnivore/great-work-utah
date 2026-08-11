@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Salt+Lake+Chamber+175+East+400+South+Salt+Lake+City+UT
 **Website:** https://slchamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

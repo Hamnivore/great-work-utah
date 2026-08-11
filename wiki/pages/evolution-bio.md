@@ -12,7 +12,6 @@
 **Website:** https://www.english.biochem.utah.edu
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
-**Hero:** https://picsum.photos/seed/evolution-bio-vegas-gpcr-platform-2026/1600/1100
 **Pull:** *Mammalian directed evolution for GPCRs — the drug industry's hardest, highest-value target class.*
 **Relates:** cites [English Lab (University of Utah)](evolution-bio-english-lab.md) · https://greatutah.work/pages/evolution-bio-english-lab.md · https://www.english.biochem.utah.edu, [VEGAS as a Platform for Facile Directed Evolution in Mammalian Cells](evolution-bio-vegas-cell-paper.md) · https://greatutah.work/pages/evolution-bio-vegas-cell-paper.md · https://pubmed.ncbi.nlm.nih.gov/31280962/
 

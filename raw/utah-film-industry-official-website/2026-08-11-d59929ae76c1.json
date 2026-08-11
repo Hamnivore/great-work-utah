@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-film-industry-official-website.md",
+  "requested_url": "https://film.utah.gov",
+  "final_url": "https://film.utah.gov/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:53.438Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "6f0e74ee58b7b2a288d3d5eab41ab86b487aeb5cf773dc86c75d5b52a58ce38f",
+  "text_sha256": "d59929ae76c1bd0f050394fca191b6081d927e558851e02a209de0d6c70aff6b",
+  "text_chars": 6495,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

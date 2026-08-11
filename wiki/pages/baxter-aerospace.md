@@ -18,7 +18,6 @@
 **Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/baxter-dragonfly-vtol-uas-2026/1600/1100
 **Pull:** *Long-endurance VTOL drones and deployable satellite comms for austere, connectivity-denied environments.*
 
 ## Summary

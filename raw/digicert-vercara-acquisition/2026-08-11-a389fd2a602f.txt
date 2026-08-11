@@ -1,0 +1,103 @@
+DigiCert to Acquire Vercara, Strengthening Its Position as a Leader in Digital Trust | News & Insights | TA
+Skip Navigation
+Investor Login
+About
++ Open menu
+TA News & Insights
+TA Portfolio Company Gong cha to be Acquired by Bain Capital
+View TA News
+Approach
+Responsible Investing
+Global Offices
+Culture & Careers
+Find Portfolio Jobs
+(Link opens in new window)
+Team
++ Open menu
+Team News & Insights
+TA Announces Global 2026 Mid-Year Promotions
+View Team News
+By Office
+Boston
+Menlo Park
+Austin
+London
+Mumbai
+Hong Kong
+By Office
++
+Boston
+Menlo Park
+Austin
+London
+Mumbai
+Hong Kong
+By Role
+Investment Team
+Strategic Resource Group
+Capital Markets Group
+Investor Relations
+Corporate Staff
+Senior Advisors
+By Role
++
+Investment Team
+Strategic Resource Group
+Capital Markets Group
+Investor Relations
+Corporate Staff
+Senior Advisors
+Portfolio
++ Open menu
+Portfolio News & Insights
+FGE NexantECA Acquires Square Commodities, Accelerating Its Green Molecules Strategy
+View Portfolio Company News
+By Sector
+Business Services
+Consumer
+Financial Services
+Healthcare
+Technology
+Driving Value
+News & Insights
+Investor Login
+Date Aug. 14, 2024
+DigiCert to Acquire Vercara, Strengthening Its Position as a Leader in Digital Trust
+Addition of Vercara will expand DigiCert’s capabilities to protect organizations from increased threat of cyberattacks
+LEHI, Utah – DigiCert, a leading provider of digital trust, backed by Clearlake Capital Group, L.P. (together with its affiliates, “Clearlake”), Crosspoint Capital Partners L.P. (“Crosspoint”), and TA Associates Management L.P. (“TA”), today announced that it has entered into a definitive agreement to acquire Vercara from Golden Gate Capital and GIC. Vercara is a leading provider of cloud-based services that secure the online experience, including managed Authoritative Domain Name System (DNS) and Distributed Denial-of-Service (DDoS) security offerings that protect organizations’ networks and applications. The acquisition will expand DigiCert’s capabilities to protect organizations of all sizes from the growing number of cyberattacks organizations experience each day. Terms of the transaction were not disclosed.
+The acquisition of Vercara complements DigiCert’s core PKI and certificate management infrastructure that protects and authenticates people, websites, content, software, and devices. Vercara’s industry-recognized UltraDNS product is an enterprise-grade managed authoritative DNS service that securely delivers fast and accurate query responses to websites and other vital online assets, ensuring 100% website availability along with built-in security for superior protection. Vercara’s UltraDDoS Protect, UltraWAF, UltraAPI, and UltraEdge solutions provide layers of protection for organizations’ web applications and infrastructure. By combining with Vercara, DigiCert will be positioned to provide customers with a unified DNS and certificate management experience, including more efficient domain control validation and simplified DNS configuration.
+“The addition of Vercara into our portfolio further advances DigiCert’s goal of delivering digital trust for the real world,” said Amit Sinha, CEO of DigiCert. “We believe the combination of Vercara’s talent and suite of products with DigiCert’s technology, distribution and scale will help ensure customers will get a broader set of solutions that protect them at every stage and layer of online engagement, all from a single vendor. We look forward to working with the Vercara team to continue delivering digital trust to our customers.”
+"The team at Vercara has created leading DNS and application security solutions that serve and protect the world’s largest brands, including top e-commerce, financial, and media companies," said Colin Doherty, CEO of Vercara. “The combination of Vercara’s and DigiCert's talent and industry-leading product portfolios is expected to further bolster Vercara’s dedication to securing the online experience and building digital trust. Together, we will help position customers for continued success in operating increasingly complex enterprises."
+"DNS and certificates go hand-in-hand to establish trust on the internet,” said Todd Hinders, CEO of Edg.io. “The ability to streamline certificate domain validation via UltraDNS and the ability to manage this with DigiCert’s Trust Lifecycle Manager will significantly reduce the time and complexity when provisioning certificates. The future integration means fewer manual steps and a much smoother workflow, enhancing both our security posture and operational productivity.”
+“This strategic acquisition represents an important milestone in our growth vision for DigiCert,” said Prashant Mehrotra, Partner at Clearlake. “Vercara further strengthens the technology DigiCert provides its customers to protect against an increasingly sophisticated cybersecurity threat environment, and we believe this additional product offering will accelerate DigiCert’s leadership position in digital trust.”
+“Every organization depends vitally on IT web infrastructure. Two core pillars of that infrastructure are DNS and TLS/SSL. The combination of DigiCert and Vercara unites these two pillars to deliver automated digital trust to even the most sophisticated global enterprises,” said Greg Clark, Managing Partner, Crosspoint Capital.
+“We believe the combination of Vercara and DigiCert sets a new standard for building trust into the digital world,” said Jason Werlin, Managing Director at TA. “We are excited by the opportunities that this acquisition presents for DigiCert to deliver even more comprehensive, mission-critical solutions to its customers.”
+“During our partnership, Vercara cemented its position as a cloud security solutions leader, and continually enhanced its technological capabilities to deliver on its customers’ evolving and increasingly complex needs,” said Matt Crump, Managing Director at Golden Gate Capital. “We wish the companies well and look forward to seeing Vercara continue to flourish as part of DigiCert.”
+The acquisition is subject to customary closing conditions and is expected to close this year.
+Sidley Austin LLP served as legal advisor to DigiCert. Barclays served as the exclusive financial advisor to Vercara. Paul, Weiss, Rifkind, Wharton & Garrison LLP served as legal advisor to Vercara.
+About DigiCert
+DigiCert is a leading global provider of digital trust, enabling individuals and businesses to engage online with the confidence that their footprint in the digital world is secure. DigiCert® ONE, the platform for digital trust, provides organizations with centralized visibility and control over a broad range of public and private trust needs, securing websites, enterprise access and communication, software, identity, content and devices. DigiCert pairs its award-winning software with its industry leadership in standards, support and operations, and is the digital trust provider of choice for leading companies around the world. For more information, visit  www.digicert.com or follow on LinkedIn .
+About Vercara
+Vercara is a purpose-built, global, cloud-based security platform that provides layers of protection to safeguard businesses’ online presence, no matter where attacks originate or where they are aimed. Delivering the industry’s highest-performing solutions and supported by unparalleled 24/7 human expertise and hands-on guidance, top global brands depend on Vercara to protect their networks and applications against threats and downtime. Vercara’s suite of cloud-based services is secure, reliable, and available, delivering peace of mind and ensuring that businesses and their customers experience exceptional interactions all day, every day. Pressure-tested in the world’s most tightly regulated and high-traffic verticals, Vercara’s mission-critical security portfolio provides best-in-class DNS and application and network security (including DDoS and WAF) services to its Global 5000 customers and beyond. For more information, visit Vercara.com .
+About Clearlake
+Founded in 2006, Clearlake Capital Group, L.P. is an investment firm operating integrated businesses across private equity, credit, and other related strategies. With a sector-focused approach, the firm seeks to partner with experienced management teams by providing patient, long-term capital to dynamic businesses that can benefit from Clearlake’s operational improvement approach, O.P.S.® The firm’s core target sectors are technology, industrials, and consumer. Clearlake currently has over $80 billion of assets under management, and its senior investment principals have led or co-led over 400 investments. The firm is headquartered in Santa Monica, CA with affiliates in Dallas, TX, London, UK and Dublin, Ireland. More information is available at www.clearlake.com .
+About TA
+TA is a leading global growth private equity firm with offices in Boston, Menlo Park, Austin, London, Mumbai and Hong Kong. Focused on targeted sectors within five industries – technology, healthcare, financial services, consumer and business services – the firm invests in profitable, growing companies around the world with opportunities for sustained growth. Investing as either a majority or minority investor, the firm employs a long-term approach, utilizing its strategic resources to help management teams build lasting value in growth companies. TA has raised $65 billion in capital and has invested in more than 560 companies since its founding in 1968.
+About Crosspoint Capital Partners
+Crosspoint Capital Partners is a private equity investment firm focused on the cybersecurity, privacy and infrastructure software markets. Crosspoint has assembled a group of highly successful operators, investors and sector experts to partner with foundational technology companies and drive differentiated returns. Crosspoint has offices in Menlo Park, CA and Boston, MA. For more information visit: www.crosspointcapital.com .
+About Golden Gate Capital
+Golden Gate Capital is a San Francisco-based private equity firm with approximately $20 billion in cumulative committed capital. With a long-term investment philosophy, the principals of Golden Gate Capital have a long history of investing across a wide range of industries and transaction types, including going privates, corporate divestitures, and recapitalizations, as well as debt and public equity investments. For more information, visit www.goldengatecap.com .
+About Approach Responsible Investing Global Offices Culture & Careers
+Find Portfolio Jobs
+(Link opens in new window)
+Team Portfolio Driving Value News & Insights Investor Login
+Investor Login
+Boston
+Menlo Park
+Austin
+London
+Mumbai
+Hong Kong
+©2026 TA Associates Management, LP. All Rights Reserved.
+Privacy Terms of Use Fraudulent Activity Warning Sitemap
+(Link opens in new window) (Link opens in new window)

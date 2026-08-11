@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://deseretbook.com
+**Archive:** https://web.archive.org/web/20260707192703/https://www.deseretbook.com/
+**Archived:** 2026-07-07
 **Publisher:** Deseret Book Company (Deseret Management Corporation)
-**Accessed:** 2026-06-19
+**Raw:** raw/deseret-book-bonneville-official-website/2026-08-11-5058ff14dd33.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -15,15 +18,15 @@ The Deseret Book website is the primary consumer-facing presence for the publish
 
 ## Useful Claims
 
-- Deseret Book's site presents a full retail and publishing catalog including Shadow Mountain titles, LDS devotional and doctrinal books, music, and children's content, with ~40 retail stores.
-- Bonneville International's site (bonneville.com) lists ~20 radio stations across major US markets including Seattle, San Francisco, Phoenix, Denver, and Salt Lake City.
-- KSL.com serves as the digital presence for KSL-TV (NBC affiliate, Salt Lake City) and KSL Radio — the dominant local news operation in Utah.
-- Deseret Management Corporation's site (deseretmanagement.com) describes the Church's for-profit holding company structure and lists major portfolio entities including Deseret Book, Bonneville, and the Deseret News.
-- The sites consistently reflect the Church's values framing without making explicit editorial statements about Church ownership or hierarchical oversight.
+- The captured Deseret Book homepage presents a retail catalog spanning books, scriptures and church curriculum, art, music, games, missionary goods, and temple-related products.
+- The capture includes a store locator, careers path, and manuscript and product-submission links.
+- The prior claims about store count, Shadow Mountain, Bonneville stations, KSL, Deseret Management Corporation, ownership, and editorial framing are not in this Deseret Book capture and require separate source artifacts.
 
 ## Reliability Notes
 
-These are official company and institutional sources. They are useful for confirming property counts, brand portfolio structure, and public-facing mission statements. They are not useful for understanding editorial constraints, internal Church-media governance, or the tension between institutional alignment and journalistic independence at KSL and the Deseret News — those questions require outside journalism and academic sources.
+The 2026-08-11 capture of deseretbook.com is mostly navigation and e-commerce chrome with almost no substantive institutional content; no ## Verbatim section was added.
+
+Despite the plural title, the raw capture contains only Deseret Book's homepage. It cannot substantiate Bonneville, KSL, Deseret Management Corporation, ownership, station-count, or editorial-governance claims. Separate captures of bonneville.com, ksl.com, and deseretmanagement.com are needed before those claims can be quoted here.
 
 ## Related Pages
 

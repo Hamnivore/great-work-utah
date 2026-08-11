@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-forge-official.md",
+  "requested_url": "https://www.energy.gov/hgeo/geothermal/forge",
+  "final_url": "https://www.energy.gov/hgeo/geothermal/forge",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:53.621Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "96794a9e7b2b50e18fb7c182c2f90ed831d52df8e439b95c1fd934a04e86c03f",
+  "text_sha256": "3127cc3dd2b172845710321c73757f0a330cba931a761828417f551ec14afe7c",
+  "text_chars": 17866,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -13,7 +13,6 @@
 **Location Source:** https://business.utah.gov/contact/
 **Website:** https://business.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

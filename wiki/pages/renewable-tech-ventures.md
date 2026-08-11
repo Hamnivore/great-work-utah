@@ -14,7 +14,6 @@
 **Location Source:** https://pscdocs.utah.gov/electric/16docs/16035T09/288519UtBusLtrRESched348-9-16.pdf
 **Website:** https://www.renewablevc.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

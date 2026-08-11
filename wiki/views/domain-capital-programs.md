@@ -1,6 +1,12 @@
 # capital-programs — sector hub
 
-Generated from `**Domain:**` metadata (167/644 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (240/868 pages attributed so far — coverage grows with the attribution rollout).
+
+## Players
+
+- [Acima](/pages/acima.md) · `https://greatutah.work/pages/acima.md` · Draper · lease-to-own financing, retail payments, consumer financial technology
+- [Helpside](/pages/helpside.md) · `https://greatutah.work/pages/helpside.md` · Lindon · small-business infrastructure, payroll, benefits, human resources, professional employer organizati…
+- [Wagevo](/pages/wagevo.md) · `https://greatutah.work/pages/wagevo.md` · Provo · earned wage access, payroll integration, employee financial wellness, hourly workers, fintech
 
 ## Money & programs
 
@@ -15,7 +21,7 @@ Generated from `**Domain:**` metadata (167/644 pages attributed so far — cover
 - [LiaLaunch](/pages/lialaunch.md) · `https://greatutah.work/pages/lialaunch.md` · statewide · Entrepreneurship Communities, Funding, Late Stage Growth
 - [Logan City Economic Development](/pages/logan-city-economic-development.md) · `https://greatutah.work/pages/logan-city-economic-development.md` · Logan · Entrepreneurship Communities, Funding, Late Stage Growth
 - [Make Salt Lake](/pages/make-salt-lake.md) · `https://greatutah.work/pages/make-salt-lake.md` · Salt Lake City · Entrepreneurship Communities
-- [Make Utah](/pages/make-utah.md) · `https://greatutah.work/pages/make-utah.md` · Pleasant Grove · Entrepreneurship Communities
+- [Make Utah](/pages/make-utah.md) · `https://greatutah.work/pages/make-utah.md` · Pleasant Grove · hard-tech incubator, makerspace, prototype space, R&D workspace, manufacturing, founder community
 - [Maschoff Brennan](/pages/maschoff-brennan.md) · `https://greatutah.work/pages/maschoff-brennan.md` · statewide · IP, patents, technology transactions, software, biotech, medical devices, deep tech
 - [Maven CREATE](/pages/maven-create.md) · `https://greatutah.work/pages/maven-create.md` · Salt Lake City · Entrepreneurship Communities
 - [Mercato Partners](/pages/mercato-partners.md) · `https://greatutah.work/pages/mercato-partners.md` · statewide · Funding, Late Stage Growth
@@ -51,10 +57,29 @@ Generated from `**Domain:**` metadata (167/644 pages attributed so far — cover
 - [Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md) · `https://greatutah.work/pages/richfield-chamber-of-commerce.md` · Richfield · Entrepreneurship Communities, Funding, Late Stage Growth
 - [Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md) · `https://greatutah.work/pages/rural-utah-chamber-coalition.md` · statewide · Entrepreneurship Communities, Funding, Late Stage Growth
 - [Salt Lake Angels](/pages/salt-lake-angels.md) · `https://greatutah.work/pages/salt-lake-angels.md` · Salt Lake City · Funding
+- [SBA Utah District Office](/pages/sba-utah-district-office.md) · `https://greatutah.work/pages/sba-utah-district-office.md` · statewide · Funding, Late Stage Growth, Start a Business
+- [University of Utah Lassonde Entrepreneurship Institute](/pages/university-of-utah-lassonde-entrepreneurship-institute.md) · `https://greatutah.work/pages/university-of-utah-lassonde-entrepreneurship-institute.md` · Salt Lake City · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 - [University of Utah PIVOT Center](/pages/university-of-utah-pivot-center.md) · `https://greatutah.work/pages/university-of-utah-pivot-center.md` · Salt Lake City · technology transfer, former name, redirect
 - [University of Utah Technology Licensing Office](/pages/university-of-utah-technology-licensing-office.md) · `https://greatutah.work/pages/university-of-utah-technology-licensing-office.md` · Salt Lake City · invention disclosure, university IP licensing, faculty startups, research commercialization, techno…
+- [Utah MEP](/pages/utah-mep.md) · `https://greatutah.work/pages/utah-mep.md` · statewide · Entrepreneurship Communities, Late Stage Growth
+- [Utah State Surplus Property](/pages/utah-state-surplus-property.md) · `https://greatutah.work/pages/utah-state-surplus-property.md` · statewide · state surplus property, public auctions, used vehicles, heavy equipment, office furniture, governme…
+- [Utah Valley University Baugh Entrepreneurship Institute](/pages/utah-valley-university-uvu-entrepreneur-institute.md) · `https://greatutah.work/pages/utah-valley-university-uvu-entrepreneur-institute.md` · Orem · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 - [Utah Technology Innovation Funding](/pages/utif.md) · `https://greatutah.work/pages/utif.md` · statewide · SBIR, STTR, microgrants, nonrecourse loans, R&D funding
+
+## Who they need right now
+
+- [Acima](/pages/acima.md) · `https://greatutah.work/pages/acima.md`: The official Acima board currently includes a manager of data intelligence in Draper. The role is a concrete signal that the company is investing in its analytics and data organization; the broader board should be checked for current engineering, finance and operations openings before applying. *(reviewed 2026-08-11)*
+- [Helpside](/pages/helpside.md) · `https://greatutah.work/pages/helpside.md`: The official careers page currently advertises business-development work tied to reaching founders and HR leaders. Recent recruiting also included paid, hybrid Lindon internships in product management and strategy/corporate development, supporting a broader durable fit for commercially minded operators, product generalists, analysts, and early-career finance or strategy talent. Applicants should … *(reviewed 2026-08-11)*
+- [Wagevo](/pages/wagevo.md) · `https://greatutah.work/pages/wagevo.md`: Wagevo's live company job listing on August 11, 2026 sought a **Founding Account Executive**, full-time and in-office in Utah County. This is a full-cycle sales role: test employer verticals and buyer personas, run outbound through LinkedIn, email, phone, and in-person outreach, close customers, and help define the repeatable sales motion. The posting says prior account-executive experience is pr… *(reviewed 2026-08-11)*
 
 ## Also relevant (primary elsewhere)
 
 - [Altitude Labs](/pages/altitude-labs.md) · `https://greatutah.work/pages/altitude-labs.md` — primary: health-bio
+- [Clint Betts](/pages/clint-betts.md) · `https://greatutah.work/pages/clint-betts.md` — primary: culture-place
+- [Clozd](/pages/clozd.md) · `https://greatutah.work/pages/clozd.md` — primary: computing
+- [Furnace](/pages/furnace-outbound.md) · `https://greatutah.work/pages/furnace-outbound.md` — primary: computing
+- [Military Installation Development Authority](/pages/military-installation-development-authority.md) · `https://greatutah.work/pages/military-installation-development-authority.md` — primary: aerospace-defense
+- [University of Utah](/pages/university-of-utah.md) · `https://greatutah.work/pages/university-of-utah.md` — primary: culture-place
+- [Utah Film Center Fiscal Sponsorship](/pages/utah-film-center-fiscal-sponsorship.md) · `https://greatutah.work/pages/utah-film-center-fiscal-sponsorship.md` — primary: culture-place
+- [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` — primary: computing
+- [Zaymo](/pages/zaymo.md) · `https://greatutah.work/pages/zaymo.md` — primary: computing

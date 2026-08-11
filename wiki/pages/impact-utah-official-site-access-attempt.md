@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Low
-**Source Type:** Official Website Access Attempt
+**Source Type:** official-page
 **URL:** https://www.impactutah.org/
+**Archive:** https://web.archive.org/web/20250723123707/https://www.impactutah.org/
+**Archived:** 2025-07-23
 **Publisher:** iMpact Utah
-**Accessed:** 2026-06-18
 **Updated:** 2026-06-18
 
 ## Summary

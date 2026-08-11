@@ -1,0 +1,13 @@
+{
+  "source_page": "torus-official-website.md",
+  "requested_url": "https://www.torus.co/",
+  "final_url": "https://www.torus.co/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:48.618Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "077c0ef3f072f3d39634899c0ab22751724a22f38c1e46d699313b86de553339",
+  "text_sha256": "cd4b0f6bed96b7a08480d3100140b03cfd25b0e9d8c568be542802596e1eab90",
+  "text_chars": 2461,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

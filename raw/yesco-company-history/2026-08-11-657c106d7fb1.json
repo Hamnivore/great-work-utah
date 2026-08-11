@@ -1,0 +1,13 @@
+{
+  "source_page": "yesco-company-history.md",
+  "requested_url": "https://www.yesco.com/history/",
+  "final_url": "https://www.yesco.com/history/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:01.622Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "4c2aad48dafa0fc95965ff92e4a244b35ea0597a4e031f8ed5e218bd54d77634",
+  "text_sha256": "657c106d7fb1f520a66fd4d9ec602419338d9e29d4a833b251b2cbef56aa3619",
+  "text_chars": 26478,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

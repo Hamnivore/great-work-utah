@@ -1,0 +1,13 @@
+{
+  "source_page": "wordperfect-novell-historical-sources.md",
+  "requested_url": "https://www.wordperfect.com/en/",
+  "final_url": "https://www.wordperfect.com/en/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:12:01.099Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "a43f40b55322c8a666377f0ea7e4eed7aefc065c953fae137f0a504b23b677ac",
+  "text_sha256": "a3c6890fee48b19d38f81f94183437f64930dec9f468fc2610d5ce103b1deccf",
+  "text_chars": 2047,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

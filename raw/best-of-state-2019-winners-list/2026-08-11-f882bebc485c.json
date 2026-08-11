@@ -1,0 +1,16 @@
+{
+  "source_page": "best-of-state-2019-winners-list.md",
+  "requested_url": "https://web.archive.org/web/20220406004717id_/https://bestofstate.org/pdf/2019_BOS_Winners_lowres.pdf",
+  "final_url": "https://web.archive.org/web/20220406004717id_/https://bestofstate.org/pdf/2019_BOS_Winners_lowres.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:31:53.839Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "d20e3d64aabd760c320e9e90ca2db831a2ae5141538cead8d2d0523b7f584341",
+  "text_sha256": "f882bebc485ca2e2bce8b413aa6aa16af31a608ff15200ab6c125fe27f60b078",
+  "text_chars": 85048,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 60,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

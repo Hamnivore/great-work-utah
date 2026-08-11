@@ -21,34 +21,33 @@
 **Website:** https://web.sandbox.ing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/sandbox-utah-entrepreneurship-education-2026/1600/1100
 **Pull:** *One accredited year spent building a venture-scale startup — not writing business plans.*
 **Relates:** cites [Official Website: Sandbox](sandbox-official-website.md) · https://greatutah.work/pages/sandbox-official-website.md · https://web.sandbox.ing
 
 ## Summary
 
-Sandbox is a private program (Sandbox LLC, CEO Chris Crittenden) that embeds a full-time startup-building experience inside accredited university degrees. Launched at BYU in 2020, it replaces much of the senior-year classroom with roughly 18 credits spent founding a real software company — cohort, mentors, capital access, and demo-day included.
+Sandbox is a private program that embeds a full-time startup-building experience inside accredited university degrees.
 
-The official site reports over a dozen venture-backed Sandbox companies at a combined $262M valuation and six Y Combinator acceptances. Sandbox is now live at multiple Utah campuses and expanding to the University of Utah in Fall 2026, testing whether a BYU-tuned model travels to public research universities.
+The official site reports over a dozen venture-backed Sandbox companies at a combined $262M valuation and six Y Combinator acceptances. [Official Website: Sandbox](sandbox-official-website.md) Current campus-by-campus dates require separate university evidence.
 
 ## Impact
 
 Standard undergraduate paths select for compliance and funnel graduates into wage employment — even among students who would thrive as founders. Most university entrepreneurship programs remain theory-heavy and extracurricular. Sandbox inverts that: students build venture-scale companies for academic credit without dropping out.
 
-If the model replicates across Utah higher ed, it could shift where founders originate — not requiring dropout, relocation to San Francisco, or admission to a top CS program. Early outcomes (YC acceptances, raised valuations, reported salary premiums for alumni) are promising for a program founded in 2020, but the five-year track record is still short and the expansion to less-selective state schools is an open experiment.
+If the model replicates across Utah higher ed, it could shift where founders originate — not requiring dropout or relocation to San Francisco. Its self-reported early outcomes are promising, but the track record is still short and replication across institutions remains an open experiment.
 
 ## What They Are Building
 
 Two program tracks appear on the official site:
 
-1. **University Programs** — for-credit senior-year (and upper-division) experiences integrated with partner schools. Students from entrepreneurship, computer science, and other majors form teams, receive workspace and mentorship, and launch software startups over two semesters culminating in demo day.
-2. **Sandbox Fellowship** — a 12-month, full-time program at a Sandbox Space in Provo, UT, for ~65 fellows building without distraction; leads to a Masters of Computer Science and Innovation ($6,300/semester × 3 semesters; federal loans cited as available).
+1. **University Programs** — for-credit experiences integrated with partner schools.
+2. **Sandbox Fellowship** — a 12-month, full-time program leading to a master's degree. [Official Website: Sandbox](sandbox-official-website.md)
 
-Partner institutions (per official site and university announcements) include BYU, Utah State University, Utah Tech University, Utah Valley University, University of Utah (Fall 2026), plus expansion campuses such as BYU-Idaho, Boise State University, Northern Arizona University, and University of Louisville.
+Partner institutions should be verified through each university's current public program materials before recommendation.
 
 The program explicitly selects for venture-scale software startups — not small-business operators or nonprofit founders.
 
-Finding a cofounder is part of the product, not merely a possible side effect. The Fellowship advertises a cohort of committed builders working side-by-side so participants can learn whom they collaborate with well; Sandbox outcome stories include founders who report meeting their cofounders in the program. A 2024 participant independently described the cohort as one of Utah's strongest pools of people actively seeking cofounders. The same participant reported a $2,000 entry cost when unaffiliated with a school in 2024, but that historical figure is not independently verified and should not be confused with current Fellowship tuition.
+The cohort structure may help participants meet collaborators, but current cofounder-matching practices, tuition, and access terms are not established by the captured public source.
 
 ## What They Need Now
 
@@ -65,7 +64,6 @@ Sandbox is a distinct lane in Utah's education ecosystem. It complements — rat
 ## Evidence
 
 - [Official Website: Sandbox](sandbox-official-website.md) · https://greatutah.work/pages/sandbox-official-website.md · https://web.sandbox.ing
-- [Sandbox Participant Report — 2024 Access And Cofounder Experience](sandbox-participant-report-2024.md) · https://greatutah.work/pages/sandbox-participant-report-2024.md
 
 ## See Also
 

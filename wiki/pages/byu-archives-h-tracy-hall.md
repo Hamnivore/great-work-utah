@@ -3,10 +3,9 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** University Page
+**Source Type:** official-page
 **URL:** https://archives.lib.byu.edu/agents/people/2364
 **Publisher:** Brigham Young University Special Collections and Archives
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

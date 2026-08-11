@@ -17,7 +17,13 @@
     "startup-state:sync": "node scripts/sync-startup-state-from-api.mjs",
     "startup-state:check:strict": "node scripts/check-startup-state-resources.mjs --strict",
     "links:recover": "node scripts/recover-broken-links.mjs --write-report",
-    "links:recover:browser": "node scripts/recover-broken-links.mjs --write-report --browser"
+    "links:recover:browser": "node scripts/recover-broken-links.mjs --write-report --browser",
+    "sources:migrate": "node scripts/migrate-source-metadata.mjs",
+    "sources:retrieve": "node scripts/migrate-source-metadata.mjs --write --probe",
+    "sources:capture": "node scripts/capture-raw-sources.mjs",
+    "identifiers": "node scripts/resolve-identifiers.mjs",
+    "identifiers:write": "node scripts/resolve-identifiers.mjs --write",
+    "identifiers:audit": "node scripts/resolve-identifiers.mjs --audit"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.21",
@@ -43,6 +49,7 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.5.0",
     "marked": "^18.0.7",
+    "pdfjs-dist": "^6.2.108",
     "tailwindcss": "^4.2.0",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.58.2",

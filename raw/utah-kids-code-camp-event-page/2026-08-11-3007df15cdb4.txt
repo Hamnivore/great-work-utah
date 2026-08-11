@@ -1,0 +1,137 @@
+Kids Code Camp 2026 | Utah Geek Events
+Home
+Events
+Code Of Conduct, Diversity and Inclusion
+Login
+Kids Code Camp 2026
+Kids Code Camp 2026
+Register Here
+Date: Saturday, August 1st, 2026
+Neumont University
+143 South Main Street
+Salt Lake City, UT
+84111
+All classes/sessions are FREE!!!
+You're never too young to start learning how to program! Join us for a half-day of coding instruction for kids of all ages (5+) and abilities. There are two classes per session in topics like Scratch, Python, JavaScript, Unity 3D, Electronics, and more! In each class, we'll teach them how to write a fun game on that platform.
+Session Information.
+We will have 5 sessions with up to 4 different classes to choose from on each timeslot.
+We will have a Setup Session for those who need help preparing for their sessions.
+Computers will NOT be provided. Please ensure that you bring a laptop for the kids to use during the event.
+Time
+Room 1
+Room 2
+Room 3
+Room 4
+8:00 am
+Registration Begins
+Registration Begins
+Registration Begins
+Registration Begins
+8:15-9:00 am
+Setup/Install
+Setup/Install
+Setup/Install
+Setup/Install
+9:00-10:15am
+Scratch 1
+Python
+Minecraft
+10:30-11:45 am
+Scratch 2
+JavaScript
+Godot
+Arduino / Electronics
+12:00-1:15 pm
+Scratch 3
+MonoGame
+1:15-2:15 pm
+Lunch Break
+Lunch Break
+Lunch Break
+Lunch Break
+2:15-3:30 pm
+Scratch 4
+Unity 3D
+Minecraft
+Project Help**
+3:45-5:00 pm
+Roblox
+** Come here if you need assistance with a game from other sessions
+Parking Downtown
+We suggest City Creek Mall or the Regent Street parking lot behind the Eccles Theater. There is NO street parking downtown on Saturdays. You can also ride the train and walk down from City Creek. We do NOT offer any parking validation or any reimbursement for parking.
+Scratch 1 - Introduction to Scratch
+Scratch 1 - Scratchy Goes on a Quest for the Golden Kitty
+Beginner Level - Ages 5+
+Scratch is a great way to introduce children to programming. It has relatively few concepts that need to be mastered before they can begin exploring and creating by themselves. Most kids really love having this kind of platform to express their creativity.
+In this lesson we're going to be teaching concepts of:
+Learning how computers take instructions literally
+Learn basic terms like sprite, backdrop, sensing, etc.
+Learn basic concepts of programming, namely:
+Looping
+Branching
+Math
+Algorithms
+Each child should have their own computer. This will be all done online so no additional software is needed on the computer.
+Please ensure you have your account information for https://scratch.mit.edu/
+Scratch 2 - Moonlander
+Scratch 2 - Moonlander Game
+Easy Level - Scratch 1 Required -Ages 6+
+Build the classic Moon Lander game using Scratch!
+In this lesson we're going to be teaching concepts of:
+Keyboard Input
+Game Sequencing
+Graphics Effects
+Variable Display
+Frame rate as applied to physics (gravity & thrust)
+Each child should have their own computer. This will be all done online so no additional software is needed on the computer.
+Please ensure you have your account information for https://scratch.mit.edu/
+Scratch 3 - Super Scratchy
+Scratch 3 - Super Scratchy
+Easy Level - Scratch 1 & 2 Required - Ages 8+
+Building upon what you learned in Scratch 1 and 2, we're going to build a really cool `Super Scratchy` Game! We'll learn about PreFabs, Clones, Collision Detection, Random Number Generation, and more!
+Each child should have their own computer. This will be all done online so no additional software is needed on the computer.
+Please ensure you have your account information for https://scratch.mit.edu/
+Unity 3D - Rocket Maze
+Unity 3d - Rocket Maze
+Advanced Level - Unity Download Required - Ages 12+
+Unity is one of the best game development engines out there. Though it can seem daunting at first, it's easy to master a few basic concepts that we go over in the lesson. We will be giving you everything you need to build your first original game. If you're brave enough, you won't want to miss this.
+Each child should have their own computer with Unity installed and plenty of open memory space. To download Unity, go here and download Unity Hub. Once that is installed, go to the installs tab and install the latest version of Unity. The presenter will use Unity 6.4 (6000.4.10f), but it doesn't really matter what version you use.
+JavaScript - Tetris
+JavaScript - Tetris
+Beginner Level - Ages 10+
+Have you ever thought about how the web works and how to create the sites and tools we use every day? JavaScript is the language that powers the internet and can be used for many different kinds of applications. In this session, we will be creating a Tetris clone that works very similarly to the original. We will cover the basics of programming (including things like variables and functions) as well as some of the more advanced pieces of a web page.
+Come learn how to create a game with one of the most used languages in the world.
+Python - Lunar Lander
+Beginner Level - Age 10+
+Navigate your landing pod gently to the landing pad! Miss the mark and you'll crash! Come in too hot and you'll be rubble! A lesson in physics the fun way. We will learn how to do graphics, sound and keyboard control in Python and leave room for expansion for the kids to do at home.
+Please sign up for an account at https://replit.com/
+Godot - Black Hole
+Advanced Level - Ages 14+
+Godot is a powerful alternative to Unity that is fully FOSS software. In this session, we will build a game where you will try to swallow up the earth with a black hole.
+This class will teach C#, sprites, text, animation, game design, and keyboard control.
+Please download before class: https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_mono_win64.zip
+Electronics - Arduino
+Electronics - Arduino
+Intermediate Level - Age 12+
+Arduinos are really tiny, very inexpensive computers. In this session we'll show you how to integrate with electronic circuits, program a few basic examples, and finish with the classic Simon game.
+An account for TinkerCad is required. Please make sure you have this information ahead of the class.
+https://www.tinkercad.com/
+Minecraft: Education Edition
+Minecraft Education Edition
+Beginner Level - Ages 6+
+For this section of Kids Code Camp, we will be learning about coding principles using the popular game Minecraft. Students may already be familiar with this system, as it is a tool used by many educators to teach coding principles. We will start from the beginning, though, so no one will be left out.
+We will start by getting to know how to use the Agent in Minecraft to automate work for us, and we will move on to more complicated examples like building structures. We will also use some classic programming challenges to build things like pyramids in Minecraft.
+This should be an exciting program for students as it will allow them to create and build in a world in which they are likely already used to playing. So, come join the fun!
+Requirements
+Minecraft Education Edition, which can be downloaded here: https://education.minecraft.net/get-started
+You need to have a valid school email to do this lesson. Please make sure your school district has licencing for the kids for this product. Licenses can also be purchased by following the instructions at https://edusupport.minecraft.net/hc/en-us/articles/360061369812-Purchase-Commercial-Licenses
+MonoGame - Gorillas
+MonoGame - Gorillas Game
+Advanced Level - Ages 14+
+Gorillas is a video game written in QBasic many years ago. The filename was "gorilla.bas". We will remake the game using C# and MonoGame. Two gorillas atop a city skyline take turns throwing bananas at each other! Adjust the angle and velocity of your throw to control the trajectory of your banana.
+This class will teach MonoGame, sprites, text, transparency, animation, sound, random number generation, keyboard control.
+Please setup your computer before the class by following the instructions here:
+https://docs.monogame.net/articles/getting_started/1_setting_up_your_os_for_development_windows.html?tabs=android
+Volunteer and Help Bring More to the Community
+We need your help this year! Consider giving back to the community and help support this free event. The session content is already available for those willing to teach or assist with the various sessions. To get started, simply fill out the volunteer form ( https://forms.gle/FS4dasGLD36YLi2K6 ). If you have something specific you're wanting to help with, then please let me know either in the Google form of via email. Please also invite your friends or colleagues to volunteer.
+&copy; 2026 - Utah Geek Events

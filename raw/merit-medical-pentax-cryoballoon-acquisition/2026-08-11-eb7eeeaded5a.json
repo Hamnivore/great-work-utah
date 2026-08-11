@@ -1,0 +1,13 @@
+{
+  "source_page": "merit-medical-pentax-cryoballoon-acquisition.md",
+  "requested_url": "https://www.utahbusiness.com/press-releases/2025/10/22/merit-medical-signs-asset-purchase-pentax-medical-acquire-c2-cryoballoon-technology/",
+  "final_url": "https://www.utahbusiness.com/press-releases/2025/10/22/merit-medical-signs-asset-purchase-pentax-medical-acquire-c2-cryoballoon-technology/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:13.795Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "e6b0f2e5908064e6a5a7313b968cc19d0fde2ccaece1fb78d3071e89d5ed6d6e",
+  "text_sha256": "eb7eeeaded5aea3e6e00d693611c017a9d801002d94b69108ca75de858c86b04",
+  "text_chars": 9746,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

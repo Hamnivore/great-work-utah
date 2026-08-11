@@ -3,10 +3,9 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Peer-Reviewed Journal Article
+**Source Type:** peer-reviewed
 **URL:** https://doi.org/10.1126/sciadv.abp8636
 **Publisher:** Science Advances (AAAS)
-**Accessed:** 2026-07-14
 **Updated:** 2026-07-14
 
 ## Summary

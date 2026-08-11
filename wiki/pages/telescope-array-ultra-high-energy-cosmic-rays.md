@@ -16,20 +16,18 @@
 **Website:** https://www.telescopearray.org/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-05-09
-**Hero:** /img/heroes/front/telescope-array-1600.webp
-**Hero caption:** *The Black Rock Mesa fluorescence-detector site of the Telescope Array, west of Delta, Utah — photograph by John N. Matthews / telescopearray.org (Wikimedia Commons, CC BY-SA 3.0).*
 **Pull:** *Hundreds of square kilometers of Utah desert, listening for the most energetic particles ever measured.*
 **Relates:** cites [Official Website: Telescope Array Project](telescope-array-official-website.md) · https://greatutah.work/pages/telescope-array-official-website.md · https://www.telescopearray.org/
 
 ## Summary
 
-The Telescope Array is the largest ultra-high-energy cosmic-ray observatory in the Northern Hemisphere, spread across the high desert west of Delta, Utah. It is led by the University of Utah and the University of Tokyo, with hundreds of surface scintillation detectors and three air-fluorescence telescope stations watching the atmosphere for extensive air showers caused by the rarest, most energetic particles known to physics. It began operations in 2008 and continues today; the TAx4 expansion is increasing the detector area to catch even rarer events.
+The Telescope Array is an ultra-high-energy cosmic-ray observatory west of Delta, Utah, led by the University of Utah and University of Tokyo. Its official site says data collection began in 2007 and describes 507 surface stations across about 700 square kilometers ([official source](telescope-array-official-website.md)).
 
 For the Great Work Utah wiki, the Telescope Array is the entry that most embodies "wait, *that's* in Utah?" — a globally important physics observatory that exists in the state largely because Utah's high desert offers the dark skies, dry atmosphere, and wide flat space that the experiment requires.
 
 ## Impact
 
-Utah's cosmic-ray lineage runs from the University of Utah's Fly's Eye experiment (which detected the famous 1991 "Oh-My-God particle," still one of the highest-energy events ever recorded) through HiRes and into the Telescope Array as a long-running international observatory. Two especially visible Telescope Array results stand out: the 2014 report of a possible cosmic-ray "hotspot" beneath the Big Dipper, and the 2023 *Science* paper on the Amaterasu particle — the second-highest-energy cosmic ray ever observed, with no clear astrophysical source pointing back to its arrival direction.
+Utah's cosmic-ray lineage runs from the University of Utah's Fly's Eye experiment through HiRes and into the Telescope Array. The existing capture supports the current array and expansion, but not the historical event dates and priority claims previously summarized here.
 
 The impact case is a basic-research one: understanding where ultra-high-energy cosmic rays come from is one of the open questions in astrophysics, and any answer reshapes how we think about the most energetic processes in the universe.
 

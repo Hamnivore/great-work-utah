@@ -13,7 +13,6 @@
 **Location Source:** https://www.nucleusfundutah.com/
 **Website:** https://www.nucleusfundutah.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

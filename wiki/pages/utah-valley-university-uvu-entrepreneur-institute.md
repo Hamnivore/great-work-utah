@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Useful
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
@@ -12,8 +12,8 @@
 **Location Precision:** exact
 **Location Source:** https://www.uvu.edu/woodbury/entrepreneurship/
 **Website:** https://www.uvu.edu/woodbury/entrepreneurship/
+**Domain:** capital-programs
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 
@@ -63,3 +63,4 @@ It is less direct for nonstudent companies unless they are mentoring, sponsoring
 - Which programs are open to non-UVU students?
 - What are current ZinnStarter and VentureCon deadlines, award amounts, and eligibility rules?
 - Which UVU pathways best serve women entrepreneurs through We Lift?
+- **Confidence is capped at Medium because no primary record for this institute could be found.** Searched 2026-08-11: no federal award in USAspending names the institute, ZinnStarter, or VentureCon, and UVU's federal awards are Department of Education programs (GEAR UP, CARES Act, Strengthening Institutions) unrelated to it. The institute is a university unit, so it has no identifier of its own. Two registry records exist for the parent institutions and neither carries a claim on this page: UVU itself appears in the IRS Utah exempt-organizations extract at EIN 87-0280648 (501(c)(3), exemption ruling 2007-08, no filing requirement), and the **Utah Valley University Foundation** at EIN 87-0036944 does file. The Foundation's Form 990 is the most promising primary next stop, because it is where a named gift such as the Baugh endowment and any institute-restricted funds would be reported; the Utah Board of Higher Education's program-approval records are the other. The provider-reported program metrics this page already flags — funding awarded, students served, mentors, active student businesses — should not be repeated as fact until one of those records carries them.

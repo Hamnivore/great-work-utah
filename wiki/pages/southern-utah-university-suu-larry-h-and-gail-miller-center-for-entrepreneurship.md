@@ -13,7 +13,6 @@
 **Location Source:** https://www.suu.edu/business/entrepreneurship/contact.html
 **Website:** https://www.suu.edu/business/entrepreneurship/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -17,7 +17,6 @@
 **Website:** https://deseretbook.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/deseret-book-bonneville-2026/1600/1100
 **Pull:** *The largest faith-media conglomerate in the American West — publishing, radio, and television wholly owned by the LDS Church and serving millions of members globally.*
 **Relates:** cites [Official Website: Deseret Book / Bonneville](deseret-book-bonneville-official-website.md) · https://greatutah.work/pages/deseret-book-bonneville-official-website.md · https://deseretbook.com
 

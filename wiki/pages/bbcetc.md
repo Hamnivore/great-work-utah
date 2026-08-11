@@ -9,7 +9,6 @@
 **Region:** no verified Utah presence
 **Website:** https://bbcetc.com/
 **Updated:** 2026-06-18
-**Layout:** field-guide
 
 ## Summary
 

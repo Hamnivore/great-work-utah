@@ -1,0 +1,13 @@
+{
+  "source_page": "spire-therapeutic-official-website.md",
+  "requested_url": "https://spire.us/",
+  "final_url": "https://spire.us/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:40.701Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "de17f9abba8ce3fa3deb589e6922031b3c6ea4b69455d76d2e0a9d1d312a7e1d",
+  "text_sha256": "55fd941c84c1ea7b206d2c988c9334c7cc518b9fbcc62f38f37e3830c2c2c373",
+  "text_chars": 1644,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -13,7 +13,6 @@
 **Location Source:** https://www.startupignition.com/bootcamp/courses/provo-18
 **Website:** https://startupignition.com/ventures
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

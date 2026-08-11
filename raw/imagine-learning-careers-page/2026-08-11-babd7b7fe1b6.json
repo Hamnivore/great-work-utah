@@ -1,0 +1,13 @@
+{
+  "source_page": "imagine-learning-careers-page.md",
+  "requested_url": "https://www.imaginelearning.com/about/careers/",
+  "final_url": "https://www.imaginelearning.com/about/careers/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:12.127Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "80bf965bc0bd0847fc03365c8ff5dc2be47b29dcd062b4d2a8c5f6bb233039dd",
+  "text_sha256": "babd7b7fe1b6818694148622cb1c0d2008a67aaf03e2e56e054762633acf54c0",
+  "text_chars": 15263,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

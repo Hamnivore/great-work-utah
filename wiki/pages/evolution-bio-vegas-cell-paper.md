@@ -3,10 +3,10 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Peer-Reviewed Paper
+**Source Type:** peer-reviewed
 **URL:** https://pubmed.ncbi.nlm.nih.gov/31280962/
 **Publisher:** Cell (English JG et al., 2019)
-**Accessed:** 2026-06-19
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary

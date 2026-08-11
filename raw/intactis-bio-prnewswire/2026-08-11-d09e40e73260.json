@@ -1,0 +1,13 @@
+{
+  "source_page": "intactis-bio-prnewswire.md",
+  "requested_url": "https://www.prnewswire.com/news-releases/lab-grown-neurons-say-hello-world-and-perform-matrix-math-on-automated-platform-intactis-bio-corp-raises-250k-from-nucleus-fund-302724652.html",
+  "final_url": "https://www.prnewswire.com/news-releases/lab-grown-neurons-say-hello-world-and-perform-matrix-math-on-automated-platform-intactis-bio-corp-raises-250k-from-nucleus-fund-302724652.html",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:52.976Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "903317411866f52fd37636b3e841b7f24fd6c5973f82f711f7d260c31064e040",
+  "text_sha256": "d09e40e732604abc37501a008f78328ba962da9e2348a60d5d0659fe844d290f",
+  "text_chars": 12267,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

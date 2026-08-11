@@ -1,0 +1,16 @@
+{
+  "source_page": "spectrum-solutions-fda-k223497-decision-letter.md",
+  "requested_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223497.pdf",
+  "final_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223497.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:06.456Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "a9b75558cf69481a3f625351e22390360bd582467bd78b8a73fea006d6db9618",
+  "text_sha256": "553284e5b67df4ae38dc64666877e6e261a648b7eefe3ab086a7eb8aa9d1bded",
+  "text_chars": 23617,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 11,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

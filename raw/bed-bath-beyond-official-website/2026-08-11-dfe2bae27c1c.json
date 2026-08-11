@@ -1,0 +1,13 @@
+{
+  "source_page": "bed-bath-beyond-official-website.md",
+  "requested_url": "https://www.bedbathandbeyond.com",
+  "final_url": "https://www.bedbathandbeyond.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:19.241Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "bytes_sha256": "a2d8721848665ce2304ccea1b18f4694caf04deb2c2def8feec79b5abba2d242",
+  "text_sha256": "dfe2bae27c1cec455270e0a712690dbadb23927d29e934cfc8aa625ef938c39d",
+  "text_chars": 14195,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

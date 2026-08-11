@@ -13,7 +13,6 @@
 **Location Source:** https://www.gohebervalley.com/Contact-Us/
 **Website:** https://www.gohebervalley.com/chamber/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

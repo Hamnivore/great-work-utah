@@ -1,0 +1,13 @@
+{
+  "source_page": "the-other-side-village-official-website.md",
+  "requested_url": "https://theothersidevillage.com/",
+  "final_url": "https://theothersidevillage.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:48:17.394Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "91a38c2e452297cd76f5bee6cc310e7a56cb68609232d77852b440eac0b4c751",
+  "text_sha256": "35fa535d68e4af6f119f81d8487fe5335a6ce7bc92c3d8dfb37941349cb9b0f2",
+  "text_chars": 5758,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -13,7 +13,6 @@
 **Location Source:** https://film.utah.gov/locations/
 **Website:** https://film.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

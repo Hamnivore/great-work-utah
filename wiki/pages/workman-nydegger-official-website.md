@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.wnlaw.com/
+**Archive:** https://web.archive.org/web/20260606104921/http://www.wnlaw.com/
+**Archived:** 2026-06-06
 **Publisher:** Workman Nydegger
-**Accessed:** 2026-06-18
+**Raw:** raw/workman-nydegger-official-website/2026-08-11-0a4aa918933f.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -15,14 +18,23 @@ Workman Nydegger's official website describes a Salt Lake City intellectual-prop
 
 ## Useful Claims
 
-- The firm states it is a full-service IP firm serving clients "whether you are a solo inventor, a startup, or a Fortune 500 company," covering patent, trademark, copyright, and trade-secret work plus post-grant proceedings and IP litigation. [Services page]
-- The "About" page says many attorneys came from engineering, software, and science backgrounds, and describes the firm as the "Intermountain West's largest IP firm," founded over four decades ago.
-- The firm says it will "customize a pricing model" for each client and emphasizes budget transparency ("never found a good reason to 'surprise' our clients").
-- The firm reports recognition in Chambers USA (2026) and the IAM Patent 1000 (Utah jurisdiction), and publicizes a $9.4M patent jury verdict won for Utah-based SnapPower.
+- The firm's homepage presents Workman Nydegger as an intellectual-property firm focused on building and litigating IP assets.
+- The page previously asserted full-service IP coverage for solo inventors through Fortune 500 clients, Intermountain West scale claims, custom pricing, and Chambers/IAM recognition with a SnapPower verdict; those statements are not on this 2026-08-11 homepage capture.
+
+## Verbatim
+
+> "As artisans of our craft, we innovatively build IP assets and passionately litigate IP interests."
+> — Home page, hero
+
+> "From our skilled technical experience to the custom solutions we deliver, we approach our trade as
+> an art form."
+> — Home page, hero
 
 ## Reliability Notes
 
 Official, self-published firm source. Strong for stated focus, technical depth, and office location; weaker as neutral proof of outcomes. Chambers and IAM rankings are independent reputational corroboration. Litigation results are firm-reported and case-specific.
+
+**Capture gap.** This fetch captured only the firm homepage. Services/About-page claims about client types, firm scale, pricing transparency, rankings, and case results recorded earlier are not present in this capture and were not reconfirmed here.
 
 ## Related Pages
 

@@ -9,7 +9,6 @@
 **Region:** Vernal
 **Website:** https://www.vernaldowntown.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

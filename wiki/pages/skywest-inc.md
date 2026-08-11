@@ -18,11 +18,11 @@
 
 ## Summary
 
-SkyWest, Inc. is a St. George, Utah-based holding company (NASDAQ: SKYW) whose primary subsidiary, SkyWest Airlines, is the largest regional airline in the United States by fleet size. SkyWest does not sell tickets under its own name; it operates flights as a capacity-purchase partner for United Express, Delta Connection, American Eagle, and Alaska SkyWest, carrying more than 46 million passengers in 2025 to roughly 260 destinations with a fleet of about 500 aircraft. The company also owns SkyWest Leasing (aircraft leasing) and, since early 2024, a 25% stake in Contour Airlines. SkyWest Airlines began flying in 1972; the current holding-company structure, SkyWest, Inc., was formalized in 2005.
+SkyWest, Inc. is a St. George, Utah-based holding company (NASDAQ: SKYW) whose primary subsidiary operates regional flights for major carriers. Its 2025 fleet, passenger, destination, ownership, and corporate-history figures are reported in the company's [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/skyw-20251231x10k.htm).
 
 ## Impact
 
-As the largest US regional-airline holding company, SkyWest is connective tissue for the national air-travel network: it flies the short-haul legs that feed mainline hubs for all four major US carriers and is often the only air-service provider for smaller Western markets (much of rural Utah, Idaho, Nevada, and the Mountain West) that mainline carriers won't serve directly. With roughly 15,800 employees and 2025 revenue near $4.1 billion (record net income of $428 million, up 33% year-over-year), it is one of Utah's largest employers and one of the state's few Fortune-tier public companies headquartered outside the Wasatch Front. Its scale and dispatch reliability materially affect commercial air-service access across the interior West.
+SkyWest is connective tissue for the national air-travel network, flying short-haul legs that feed mainline hubs. Its 2025 filing reports 15,775 employees, about $4.1 billion revenue, and $428.3 million net income ([2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/skyw-20251231x10k.htm)).
 
 ## Utah Context
 

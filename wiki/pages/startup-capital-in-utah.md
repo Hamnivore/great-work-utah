@@ -6,7 +6,6 @@
 **Audience:** founders, researchers, helpers, investors
 **Focus:** startup capital, non-dilutive funding, SBIR/STTR, deep tech, Utah
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Overview
 

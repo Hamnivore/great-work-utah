@@ -1,0 +1,13 @@
+{
+  "source_page": "the-other-side-academy-official-website.md",
+  "requested_url": "https://www.theothersideacademy.com/",
+  "final_url": "https://www.theothersideacademy.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:48:14.966Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "8c7e821667561d155157a5d9c71c70bb6774c1dce6bd89ca2d81816384857c75",
+  "text_sha256": "50046eb608045707c90eec58db2c93d8d3a8a61158d5725d9e507c324e0d9f88",
+  "text_chars": 4631,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "best-friends-no-kill-goal-page.md",
+  "requested_url": "https://bestfriends.org/no-kill-2025",
+  "final_url": "https://bestfriends.org/no-kill",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:47:15.022Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "132cb1843db77b12cee905cd6776cd818381f15abcbda44aefa98ce85b58ef19",
+  "text_sha256": "e3cfb8047180540dd901fc8604bf0afd43498a2d96a90d61283e74c998f1f186",
+  "text_chars": 8074,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "now-cfo-official-site.md",
+  "requested_url": "https://nowcfo.com/",
+  "final_url": "https://nowcfo.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:16.677Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "e6fbeb74c23e52b84dd95d5548c72492029265b66dedb0f7199a5114ff490d9d",
+  "text_sha256": "c49241df6fa07243c4220107e39ca963247ec4bb6259a2f504cb4dae9c2d9df8",
+  "text_chars": 9038,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

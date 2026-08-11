@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Press Release
+**Source Type:** press-release
 **URL:** https://www.blackstone.com/news/press/blackstone-completes-acquisition-of-ancestry-leading-online-family-history-business-for-4-7-billion/
+**Archive:** https://web.archive.org/web/20260521112751/https://www.blackstone.com/news/press/blackstone-completes-acquisition-of-ancestry-leading-online-family-history-business-for-4-7-billion/
+**Archived:** 2026-05-21
 **Publisher:** Blackstone
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 **Relates:** cites [Ancestry](ancestry.md) · https://greatutah.work/pages/ancestry.md
 

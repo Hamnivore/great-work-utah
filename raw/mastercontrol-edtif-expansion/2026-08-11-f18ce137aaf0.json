@@ -1,0 +1,13 @@
+{
+  "source_page": "mastercontrol-edtif-expansion.md",
+  "requested_url": "https://business.utah.gov/tax-credits/mastercontrol-solutions-inc-expands-in-salt-lake-county/",
+  "final_url": "https://business.utah.gov/tax-credits/mastercontrol-solutions-inc-expands-in-salt-lake-county/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:12.323Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "6edf0557122dd25718147db5b97ff00d16dd3c6b45f87e484c598d63485b1176",
+  "text_sha256": "f18ce137aaf0fc78918515087ba31464fe54a7704eb0af71dc15808d8f26fe56",
+  "text_chars": 4090,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

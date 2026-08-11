@@ -1,0 +1,13 @@
+{
+  "source_page": "safeut-utah-code-hb373.md",
+  "requested_url": "https://le.utah.gov/~2019/bills/hbillenr/HB0373.htm",
+  "final_url": "https://le.utah.gov/~2019/bills/hbillenr/HB0373.htm",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:00.304Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "ef5bbd87e8812806adbc2510937838385b47a5932eb5a95d7b10c1de33fc1942",
+  "text_sha256": "3439eb3cf3fac3ce137f8b2bf8b4115d161248340e48bc416194d732dc824cdf",
+  "text_chars": 28567,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

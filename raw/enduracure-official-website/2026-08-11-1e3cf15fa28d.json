@@ -1,0 +1,13 @@
+{
+  "source_page": "enduracure-official-website.md",
+  "requested_url": "https://enduracure.com",
+  "final_url": "https://www.enduracure.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:39.395Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "6f4e57f02ac6fce9fe6a37ff5108eb228cdea704901e0f77196519180d2a6362",
+  "text_sha256": "1e3cf15fa28dbc184ab6e0411c4dc8be3f11404296ce7b0c4d36fd758a2e997f",
+  "text_chars": 2068,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

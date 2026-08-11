@@ -1,0 +1,13 @@
+{
+  "source_page": "crumbl-franchising-official-page.md",
+  "requested_url": "https://crumbl.com/franchising",
+  "final_url": "https://crumbl.com/franchising",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:44:23.799Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "5a710eb3f7445611ac274a043099c160882a369154ff4991f46f98a584ff0cde",
+  "text_sha256": "df37c57c86218d362d2238ede3fbbd2d94570950903a38fc5e37e83678adf688",
+  "text_chars": 5803,
+  "extractor": "manual curl + extractText"
+}

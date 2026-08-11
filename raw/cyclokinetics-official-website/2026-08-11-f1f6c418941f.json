@@ -1,0 +1,13 @@
+{
+  "source_page": "cyclokinetics-official-website.md",
+  "requested_url": "https://cyclokinetics.com/",
+  "final_url": "https://cyclokinetics.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:34.468Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "49c30233c21ca7f1e859a53a816cb8eb3a6314d59f4b85be709adc7f81dfdb8d",
+  "text_sha256": "f1f6c418941fec930f9a4d8716e0afbf5767aa729db7d62e1b1ff3e550767665",
+  "text_chars": 12051,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

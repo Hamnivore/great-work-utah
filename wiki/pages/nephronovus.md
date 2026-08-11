@@ -16,7 +16,6 @@
 **Website:** https://altitudelab.org/portfolio
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
-**Hero:** https://picsum.photos/seed/nephronovus-renal-fibrosis-2026/1600/1100
 **Pull:** *Father–son drug-discovery bet on reversing renal fibrosis — incubator-validated premise, almost no public pipeline.*
 **Relates:** cites [Altitude Lab Portfolio: NephroNovus](nephronovus-altitude-lab-portfolio.md) · https://greatutah.work/pages/nephronovus-altitude-lab-portfolio.md · https://altitudelab.org/portfolio
 

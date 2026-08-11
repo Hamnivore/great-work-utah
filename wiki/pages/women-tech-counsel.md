@@ -13,7 +13,6 @@
 **Location Source:** https://wtccareers.com/contact-us/
 **Website:** https://www.womentechcouncil.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-population-database-official.md",
+  "requested_url": "https://uofuhealth.utah.edu/huntsman/utah-population-database",
+  "final_url": "https://uofuhealth.utah.edu/huntsman/utah-population-database",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:56.238Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ffad35c1c6b81ca995d71d630a3a9184e80297592d4991d9f53978c4f25d21d4",
+  "text_sha256": "42eb195e8e5d4a349990cd53d2a40b77fbc01af593907a7782206526450456a2",
+  "text_chars": 3986,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "arup-laboratories-official-website.md",
+  "requested_url": "https://www.aruplab.com/about",
+  "final_url": "https://www.aruplab.com/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:48:39.901Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "70007ee41ca000ca1eaba83112763200dec559c5bbc03abebe943fb0f6ba40cc",
+  "text_sha256": "c1ae5642ee409fed227ae4cc8a45a278d72c3643521dc382aac4dbdf111a7cb0",
+  "text_chars": 12227,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

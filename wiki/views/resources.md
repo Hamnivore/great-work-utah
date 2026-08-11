@@ -1,4 +1,4 @@
-# resource — 225 pages
+# resource — 246 pages
 
 Grants, accelerators, facilities, capital paths, programs. One line per page; fetch the page for detail and evidence.
 
@@ -9,15 +9,18 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [A Bolder Way Forward](/pages/a-bolder-way-forward.md) · `https://greatutah.work/pages/a-bolder-way-forward.md` · Other · conf:M
 - [A-Tech home plans](/pages/a-tech-home-plans.md) · `https://greatutah.work/pages/a-tech-home-plans.md` · Other, Rural · conf:L
 - [Acceler8 Wasatch](/pages/acceler8-wasatch.md) · `https://greatutah.work/pages/acceler8-wasatch.md` · Entrepreneurship Communities, Late Stage Growth · conf:L
+- [AI Builder Day](/pages/ai-builder-day.md) · `https://greatutah.work/pages/ai-builder-day.md` · AI hackathon, sponsor bounty tracks, beginner onboarding, team formation, Utah County · conf:M
 - [Ai Seminar for Small Businesses & Non-Profits](/pages/ai-seminar-for-small-businesses-and-non-profits.md) · `https://greatutah.work/pages/ai-seminar-for-small-businesses-and-non-profits.md` · Other, Any, Aerospace and Defense, Agriculture · conf:L
 - [Album](/pages/album.md) · `https://greatutah.work/pages/album.md` · Funding · conf:M
 - [Altitude Labs](/pages/altitude-labs.md) · `https://greatutah.work/pages/altitude-labs.md` · Entrepreneurship Communities, Relocate a Business to Utah · conf:M
+- [Apa Sherpa Foundation](/pages/apa-sherpa-foundation.md) · `https://greatutah.work/pages/apa-sherpa-foundation.md` · Nepal education, Khumbu region, Sherpa community development, 501(c)(3) philanthropy · conf:M
 - [Utah APEX Accelerator](/pages/apex-accelerator.md) · `https://greatutah.work/pages/apex-accelerator.md` · Late Stage Growth · conf:M
 - [Apprenticeship Utah](/pages/apprenticeship-utah.md) · `https://greatutah.work/pages/apprenticeship-utah.md` · Late Stage Growth · conf:M
 - [Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md) · `https://greatutah.work/pages/atwood-innovation-plaza.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [Bear Lake Regional Commission](/pages/bear-lake-regional-commission.md) · `https://greatutah.work/pages/bear-lake-regional-commission.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Bear Lake Valley Chamber of Commerce](/pages/bear-lake-valley-chamber-of-commerce.md) · `https://greatutah.work/pages/bear-lake-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Bear River Association of Governments](/pages/bear-river-association-of-governments.md) · `https://greatutah.work/pages/bear-river-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Best of State Awards](/pages/best-of-state-awards.md) · `https://greatutah.work/pages/best-of-state-awards.md` · awards program, recognition, Utah organizations, self-nomination, evidence calibration · conf:M
 - [BIG Chamber (Beaver, Iron, Garfield)](/pages/big-chamber-beaver-iron-garfield.md) · `https://greatutah.work/pages/big-chamber-beaver-iron-garfield.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [BIO Utah](/pages/bio-utah.md) · `https://greatutah.work/pages/bio-utah.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [BIOHive Utah](/pages/biohive-utah.md) · `https://greatutah.work/pages/biohive-utah.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
@@ -26,13 +29,14 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Brigham Young University (BYU) - Rollins Center](/pages/brigham-young-university-byu-rollins-center.md) · `https://greatutah.work/pages/brigham-young-university-byu-rollins-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md) · `https://greatutah.work/pages/business-resource-center-davis-tech-college.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [Business Resource Center - Utah Tech University](/pages/business-resource-center-utah-tech-university.md) · `https://greatutah.work/pages/business-resource-center-utah-tech-university.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Business Technical Assistance Center](/pages/business-technical-assistance-center.md) · `https://greatutah.work/pages/business-technical-assistance-center.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:L
+- [Business Technical Assistance Center](/pages/business-technical-assistance-center.md) · `https://greatutah.work/pages/business-technical-assistance-center.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [Cache Valley Chamber of Commerce](/pages/cache-valley-chamber-of-commerce.md) · `https://greatutah.work/pages/cache-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Carbon County Chamber of Commerce](/pages/carbon-county-chamber-of-commerce.md) · `https://greatutah.work/pages/carbon-county-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Carbon County Economic Development](/pages/carbon-county-economic-development.md) · `https://greatutah.work/pages/carbon-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Cedar City Area Chamber of Commerce](/pages/cedar-city-area-chamber-of-commerce.md) · `https://greatutah.work/pages/cedar-city-area-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Church and State](/pages/church-and-state.md) · `https://greatutah.work/pages/church-and-state.md` · Entrepreneurship Communities · conf:M
 - [Clearfield Job Corps](/pages/clearfield-job-corps.md) · `https://greatutah.work/pages/clearfield-job-corps.md` · Late Stage Growth · conf:M
+- [Code Adventure Utah](/pages/code-adventure-utah.md) · `https://greatutah.work/pages/code-adventure-utah.md` · girls coding camp, youth technology education, software engineering, cybersecurity, data analytics, UX design · conf:M
 - [Convoi Ventures](/pages/convoi-ventures.md) · `https://greatutah.work/pages/convoi-ventures.md` · Funding · conf:M
 - [Coworking Space in Salt Lake City - Offices.net](/pages/coworking-space-in-salt-lake-city-offices-net.md) · `https://greatutah.work/pages/coworking-space-in-salt-lake-city-offices-net.md` · Entrepreneurship Communities · conf:M
 - [Cross Creek](/pages/cross-creek.md) · `https://greatutah.work/pages/cross-creek.md` · Funding, Late Stage Growth · conf:M
@@ -57,6 +61,8 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [First Step Entrepreneur](/pages/first-step-entrepreneur.md) · `https://greatutah.work/pages/first-step-entrepreneur.md` · Entrepreneurship Communities, Any, Aerospace and Defense, Agriculture · conf:L
 - [Five County Association of Governments](/pages/five-county-association-of-governments.md) · `https://greatutah.work/pages/five-county-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Flaming Gorge Chamber of Commerce](/pages/flaming-gorge-chamber-of-commerce.md) · `https://greatutah.work/pages/flaming-gorge-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Forge Utah](/pages/forge-utah.md) · `https://greatutah.work/pages/forge-utah.md` · developer community, meetups, hack nights, engineering leadership roundtables, conference, statewide event calendar · conf:M
+- [Fourth Street Clinic](/pages/fourth-street-clinic.md) · `https://greatutah.work/pages/fourth-street-clinic.md` · integrated health care for people experiencing homelessness · conf:M
 - [FSTEP Idea Explorer](/pages/fstep-idea-explorer.md) · `https://greatutah.work/pages/fstep-idea-explorer.md` · Start a Business, Any, Aerospace and Defense, Agriculture · conf:L
 - [FutureReady Utah](/pages/futureready-utah.md) · `https://greatutah.work/pages/futureready-utah.md` · Other · conf:M
 - [Get Started: Business Idea Challenge](/pages/get-started-business-idea-challenge.md) · `https://greatutah.work/pages/get-started-business-idea-challenge.md` · Funding, Start a Business · conf:L
@@ -69,11 +75,12 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Heber Valley Chamber of Commerce](/pages/heber-valley-chamber-of-commerce.md) · `https://greatutah.work/pages/heber-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Heber Valley Economic Development](/pages/heber-valley-economic-development.md) · `https://greatutah.work/pages/heber-valley-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Hurricane Valley Chamber of Commerce](/pages/hurricane-valley-chamber-of-commerce.md) · `https://greatutah.work/pages/hurricane-valley-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [iHub](/pages/ihub.md) · `https://greatutah.work/pages/ihub.md` · Entrepreneurship Communities, Funding, Start a Business · conf:M
+- [iHub](/pages/ihub.md) · `https://greatutah.work/pages/ihub.md` · startup incubator, founder community, coworking, makerspace, prototype space, commercial kitchen, warehouse, funding · conf:M
 - [iMpact Utah](/pages/impact-utah.md) · `https://greatutah.work/pages/impact-utah.md` · Entrepreneurship Communities, Late Stage Growth · conf:L
 - [Indie Square](/pages/indie-square.md) · `https://greatutah.work/pages/indie-square.md` · Entrepreneurship Communities, Other · conf:M
 - [International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md) · `https://greatutah.work/pages/international-trade-and-diplomacy.md` · exports, international expansion, trade missions, foreign investment, diplomacy · conf:M
 - [Iron County Economic Development](/pages/iron-county-economic-development.md) · `https://greatutah.work/pages/iron-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [IVUmed](/pages/ivumed.md) · `https://greatutah.work/pages/ivumed.md` · global surgery, urology training, teach-the-teacher, low-resource settings, pediatric urology · conf:M
 - [Juab County Economic Development](/pages/juab-county-economic-development.md) · `https://greatutah.work/pages/juab-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [JustBuild](/pages/justbuild.md) · `https://greatutah.work/pages/justbuild.md` · founder community, AI builders, cofounder discovery, hackathons, coworking, Slack · conf:M
 - [Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md) · `https://greatutah.work/pages/kem-c-gardner-policy-institute.md` · Other · conf:M
@@ -83,21 +90,25 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [LiaLaunch](/pages/lialaunch.md) · `https://greatutah.work/pages/lialaunch.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Logan City Economic Development](/pages/logan-city-economic-development.md) · `https://greatutah.work/pages/logan-city-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Make Salt Lake](/pages/make-salt-lake.md) · `https://greatutah.work/pages/make-salt-lake.md` · Entrepreneurship Communities · conf:M
-- [Make Utah](/pages/make-utah.md) · `https://greatutah.work/pages/make-utah.md` · Entrepreneurship Communities · conf:M
+- [Make Utah](/pages/make-utah.md) · `https://greatutah.work/pages/make-utah.md` · hard-tech incubator, makerspace, prototype space, R&D workspace, manufacturing, founder community · conf:M
 - [Maven CREATE](/pages/maven-create.md) · `https://greatutah.work/pages/maven-create.md` · Entrepreneurship Communities · conf:M
 - [Mercato Partners](/pages/mercato-partners.md) · `https://greatutah.work/pages/mercato-partners.md` · Funding, Late Stage Growth · conf:M
+- [Military Installation Development Authority](/pages/military-installation-development-authority.md) · `https://greatutah.work/pages/military-installation-development-authority.md` · military land development, project-area governance, public infrastructure, economic development · conf:M
 - [Moab Chamber of Commerce](/pages/moab-chamber-of-commerce.md) · `https://greatutah.work/pages/moab-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Monarch](/pages/monarch.md) · `https://greatutah.work/pages/monarch.md` · Entrepreneurship Communities · conf:M
 - [Monticello Coworking Space](/pages/monticello-coworking-space.md) · `https://greatutah.work/pages/monticello-coworking-space.md` · Entrepreneurship Communities · conf:M
 - [Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md) · `https://greatutah.work/pages/morgan-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:L
 - [Morgan County Economic Development](/pages/morgan-county-economic-development.md) · `https://greatutah.work/pages/morgan-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Mountain Heights Academy](/pages/mountain-heights-academy.md) · `https://greatutah.work/pages/mountain-heights-academy.md` · online charter school, open educational resources, Utah grades 7-12, digital learning · conf:M
 - [Mountain Land Association of Governments' Revolving Loan Fund (RLF)](/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md) · `https://greatutah.work/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md` · Funding · conf:M
 - [Mountainland Association of Governments](/pages/mountainland-association-of-governments.md) · `https://greatutah.work/pages/mountainland-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Northern Utah .NET Users Group](/pages/northern-utah-dotnet-users-group.md) · `https://greatutah.work/pages/northern-utah-dotnet-users-group.md` · .NET software development, peer learning, technical meetups, AI-assisted development · conf:M
 - [Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md) · `https://greatutah.work/pages/northern-utah-economic-alliance.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Nucleus Fund](/pages/nucleus-fund.md) · `https://greatutah.work/pages/nucleus-fund.md` · early-stage capital, deep tech, university spinouts, commercialization · conf:M
 - [Nucleus Grow](/pages/nucleus-grow.md) · `https://greatutah.work/pages/nucleus-grow.md` · SBIR, STTR, non-dilutive funding, deep tech, research commercialization · conf:M
 - [Nucleus MarketEdge](/pages/nucleus-marketedge.md) · `https://greatutah.work/pages/nucleus-marketedge.md` · research commercialization, professors, PhDs, postdocs, market discovery · conf:M
 - [Ogden-Weber Chamber of Commerce](/pages/ogden-weber-chamber-of-commerce.md) · `https://greatutah.work/pages/ogden-weber-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Orem Library Makerspace](/pages/orem-library-makerspace.md) · `https://greatutah.work/pages/orem-library-makerspace.md` · public makerspace, 3D printing, media digitization, podcast recording, creative software, equipment checkout · conf:H
 - [Pacific Island Chamber of Commerce (PICC)](/pages/pacific-island-chamber-of-commerce-picc.md) · `https://greatutah.work/pages/pacific-island-chamber-of-commerce-picc.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Park City Angels](/pages/park-city-angels.md) · `https://greatutah.work/pages/park-city-angels.md` · Funding · conf:M
 - [Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md) · `https://greatutah.work/pages/park-city-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
@@ -105,6 +116,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Peterson Ventures](/pages/peterson-ventures.md) · `https://greatutah.work/pages/peterson-ventures.md` · Funding · conf:M
 - [Pitted Ventures](/pages/pitted-ventures.md) · `https://greatutah.work/pages/pitted-ventures.md` · Funding · conf:L
 - [Portal Warehousing](/pages/portal-warehousing.md) · `https://greatutah.work/pages/portal-warehousing.md` · Entrepreneurship Communities · conf:M
+- [Primary Children's Hospital](/pages/primary-childrens-hospital.md) · `https://greatutah.work/pages/primary-childrens-hospital.md` · pediatric hospital care, complex illness and injury, pediatric education and research · conf:M
 - [R6 Regional Council](/pages/r6-regional-council.md) · `https://greatutah.work/pages/r6-regional-council.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Red Rock Angels](/pages/red-rock-angels.md) · `https://greatutah.work/pages/red-rock-angels.md` · Funding · conf:M
 - [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `https://greatutah.work/pages/renewable-tech-ventures.md` · Funding, Other · conf:M
@@ -113,6 +125,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [RevRoad](/pages/revroad.md) · `https://greatutah.work/pages/revroad.md` · Funding · conf:M
 - [Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md) · `https://greatutah.work/pages/richfield-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md) · `https://greatutah.work/pages/rural-utah-chamber-coalition.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [SafeUT](/pages/safeut.md) · `https://greatutah.work/pages/safeut.md` · crisis chat, school safety tips, youth mental health, suicide prevention, statewide K-12 and higher education, first re… · conf:M
 - [Salina Chamber](/pages/salina-chamber.md) · `https://greatutah.work/pages/salina-chamber.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:L
 - [Salt Lake Angels](/pages/salt-lake-angels.md) · `https://greatutah.work/pages/salt-lake-angels.md` · Funding · conf:M
 - [Salt Lake Chamber](/pages/salt-lake-chamber.md) · `https://greatutah.work/pages/salt-lake-chamber.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
@@ -124,11 +137,12 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Sanpete Chamber of Commerce](/pages/sanpete-chamber-of-commerce.md) · `https://greatutah.work/pages/sanpete-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Savory Fund](/pages/savory-fund.md) · `https://greatutah.work/pages/savory-fund.md` · Funding, Late Stage Growth · conf:M
 - [SBA Thrive](/pages/sba-thrive.md) · `https://greatutah.work/pages/sba-thrive.md` · Late Stage Growth · conf:M
-- [SBA Utah District Office](/pages/sba-utah-district-office.md) · `https://greatutah.work/pages/sba-utah-district-office.md` · Funding, Late Stage Growth, Start a Business · conf:H
+- [SBA Utah District Office](/pages/sba-utah-district-office.md) · `https://greatutah.work/pages/sba-utah-district-office.md` · Funding, Late Stage Growth, Start a Business · conf:M
 - [SCORE Utah](/pages/score-utah.md) · `https://greatutah.work/pages/score-utah.md` · Close or Exit a Business, Funding, Marketing and Sales · conf:M
 - [Sevier County Economic Development](/pages/sevier-county-economic-development.md) · `https://greatutah.work/pages/sevier-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Signal Peak Ventures](/pages/signal-peak-ventures.md) · `https://greatutah.work/pages/signal-peak-ventures.md` · Funding · conf:M
 - [Silicon Slopes](/pages/silicon-slopes.md) · `https://greatutah.work/pages/silicon-slopes.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Sistema Utah](/pages/sistema-utah.md) · `https://greatutah.work/pages/sistema-utah.md` · El Sistema, after-school orchestra, free music education, West Valley City, Title I schools · conf:M
 - [Six County Association of Governments](/pages/six-county-association-of-governments.md) · `https://greatutah.work/pages/six-county-association-of-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Snow College - GRIT Center](/pages/snow-college-grit-center.md) · `https://greatutah.work/pages/snow-college-grit-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Sorenson Impact Fund](/pages/sorenson-impact-fund.md) · `https://greatutah.work/pages/sorenson-impact-fund.md` · Funding, Other · conf:M
@@ -159,9 +173,10 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Uinta Basin Tech - Entrepreneur Center](/pages/uinta-basin-tech-entrepreneur-center.md) · `https://greatutah.work/pages/uinta-basin-tech-entrepreneur-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Uintah Basin Economic Development District](/pages/uintah-basin-economic-development-district.md) · `https://greatutah.work/pages/uintah-basin-economic-development-district.md` · Close or Exit a Business, Entrepreneurship Communities, Funding · conf:M
 - [Uintah County Economic Development](/pages/uintah-county-economic-development.md) · `https://greatutah.work/pages/uintah-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
-- [University of Utah Lassonde Entrepreneurship Institute](/pages/university-of-utah-lassonde-entrepreneurship-institute.md) · `https://greatutah.work/pages/university-of-utah-lassonde-entrepreneurship-institute.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:H
-- [University of Utah PIVOT Center](/pages/university-of-utah-pivot-center.md) · `https://greatutah.work/pages/university-of-utah-pivot-center.md` · technology transfer, former name, redirect · conf:H
+- [University of Utah Lassonde Entrepreneurship Institute](/pages/university-of-utah-lassonde-entrepreneurship-institute.md) · `https://greatutah.work/pages/university-of-utah-lassonde-entrepreneurship-institute.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [University of Utah PIVOT Center](/pages/university-of-utah-pivot-center.md) · `https://greatutah.work/pages/university-of-utah-pivot-center.md` · technology transfer, former name, redirect · conf:M
 - [University of Utah Technology Licensing Office](/pages/university-of-utah-technology-licensing-office.md) · `https://greatutah.work/pages/university-of-utah-technology-licensing-office.md` · invention disclosure, university IP licensing, faculty startups, research commercialization, technology transfer · conf:M
+- [University of Utah](/pages/university-of-utah.md) · `https://greatutah.work/pages/university-of-utah.md` · public higher education, research, academic health care, technology commercialization · conf:M
 - [USU Remote Online Initiative](/pages/usu-remote-online-initiative.md) · `https://greatutah.work/pages/usu-remote-online-initiative.md` · Late Stage Growth · conf:M
 - [Utah Alliance for Economic Development](/pages/utah-alliance-for-economic-development.md) · `https://greatutah.work/pages/utah-alliance-for-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Utah Asian Chamber of Commerce (UACC)](/pages/utah-asian-chamber-of-commerce-uacc.md) · `https://greatutah.work/pages/utah-asian-chamber-of-commerce-uacc.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
@@ -176,18 +191,21 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md) · `https://greatutah.work/pages/utah-digital-entertainment-network.md` · Entrepreneurship Communities, Funding, Other, Start a Business · conf:M
 - [Utah Division of Outdoor Recreation](/pages/utah-division-of-outdoor-recreation.md) · `https://greatutah.work/pages/utah-division-of-outdoor-recreation.md` · Entrepreneurship Communities · conf:M
 - [Utah Farmers Market Network](/pages/utah-farmers-market-network.md) · `https://greatutah.work/pages/utah-farmers-market-network.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Utah Film Center Fiscal Sponsorship](/pages/utah-film-center-fiscal-sponsorship.md) · `https://greatutah.work/pages/utah-film-center-fiscal-sponsorship.md` · fiscal sponsorship, independent film, tax-deductible donations, film grants, filmmaker fundraising · conf:H
 - [Utah Film Commission](/pages/utah-film-commission.md) · `https://greatutah.work/pages/utah-film-commission.md` · Entrepreneurship Communities · conf:M
+- [Utah Geek Events](/pages/utah-geek-events.md) · `https://greatutah.work/pages/utah-geek-events.md` · community technology events, volunteer-led coding education · conf:M
 - [Utah Governor's Office of Economic Opportunity](/pages/utah-governor-s-office-of-economic-opportunity.md) · `https://greatutah.work/pages/utah-governor-s-office-of-economic-opportunity.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [Utah Hispanic Chamber of Commerce](/pages/utah-hispanic-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-hispanic-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Utah Inland Port Authority](/pages/utah-inland-port-authority.md) · `https://greatutah.work/pages/utah-inland-port-authority.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Utah Innovation Center](/pages/utah-innovation-center.md) · `https://greatutah.work/pages/utah-innovation-center.md` · Funding · conf:M
 - [Utah Innovation Fund](/pages/utah-innovation-fund.md) · `https://greatutah.work/pages/utah-innovation-fund.md` · Funding · conf:M
+- [Utah Kids Code Camp](/pages/utah-kids-code-camp.md) · `https://greatutah.work/pages/utah-kids-code-camp.md` · youth coding education, free technology classes, volunteer instruction · conf:M
 - [Utah Korean Chamber of Commerce](/pages/utah-korean-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-korean-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Utah League of Cities & Towns (ULCT)](/pages/utah-league-of-cities-and-towns-ulct.md) · `https://greatutah.work/pages/utah-league-of-cities-and-towns-ulct.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Utah LGBTQ+ Chamber of Commerce](/pages/utah-lgbtq-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-lgbtq-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Utah Manufacturers Association](/pages/utah-manufacturers-association.md) · `https://greatutah.work/pages/utah-manufacturers-association.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [Utah Medicaid](/pages/utah-medicaid.md) · `https://greatutah.work/pages/utah-medicaid.md` · health coverage, medical assistance, low-income healthcare, CHIP, long-term care · conf:H
-- [Utah MEP](/pages/utah-mep.md) · `https://greatutah.work/pages/utah-mep.md` · Entrepreneurship Communities, Late Stage Growth · conf:H
+- [Utah MEP](/pages/utah-mep.md) · `https://greatutah.work/pages/utah-mep.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [Utah Microloan Fund (UMLF)](/pages/utah-microloan-fund-umlf.md) · `https://greatutah.work/pages/utah-microloan-fund-umlf.md` · Funding · conf:M
 - [Utah Muslim Civic League (UMCL)](/pages/utah-muslim-civic-league-umcl.md) · `https://greatutah.work/pages/utah-muslim-civic-league-umcl.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:L
 - [Utah Native American Chamber of Commerce](/pages/utah-native-american-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-native-american-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
@@ -200,12 +218,15 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Utah SBDC](/pages/utah-sbdc.md) · `https://greatutah.work/pages/utah-sbdc.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative-usbci.md` · Funding · conf:M
 - [Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative.md` · small business lending, capital access, lender-backed capital, underserved founders · conf:M
+- [Utah State Surplus Property](/pages/utah-state-surplus-property.md) · `https://greatutah.work/pages/utah-state-surplus-property.md` · state surplus property, public auctions, used vehicles, heavy equipment, office furniture, government inventory · conf:H
 - [Utah State University Center for Entrepreneurship](/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md) · `https://greatutah.work/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` · Utah technology events, meetups, community calendar · conf:M
 - [Utah Tech University - Atwood Innovation Center](/pages/utah-tech-university-atwood-innovation-center.md) · `https://greatutah.work/pages/utah-tech-university-atwood-innovation-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Utah Tourism Association](/pages/utah-tourism-association.md) · `https://greatutah.work/pages/utah-tourism-association.md` · Entrepreneurship Communities · conf:M
 - [Utah Valley University Innovation Center/Academy](/pages/utah-valley-university-innovation-center-academy.md) · `https://greatutah.work/pages/utah-valley-university-innovation-center-academy.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
-- [Utah Valley University Baugh Entrepreneurship Institute](/pages/utah-valley-university-uvu-entrepreneur-institute.md) · `https://greatutah.work/pages/utah-valley-university-uvu-entrepreneur-institute.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:H
+- [Utah Valley University Baugh Entrepreneurship Institute](/pages/utah-valley-university-uvu-entrepreneur-institute.md) · `https://greatutah.work/pages/utah-valley-university-uvu-entrepreneur-institute.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Utah Water Savers](/pages/utah-water-savers.md) · `https://greatutah.work/pages/utah-water-savers.md` · water conservation rebates, lawn replacement, waterwise landscaping, smart irrigation, fixture replacement · conf:H
+- [UtahJS](/pages/utahjs.md) · `https://greatutah.work/pages/utahjs.md` · JavaScript development, technical meetups, volunteer developer community, annual conference · conf:M
 - [Utah Technology Innovation Funding](/pages/utif.md) · `https://greatutah.work/pages/utif.md` · SBIR, STTR, microgrants, nonrecourse loans, R&D funding · conf:M
 - [UZONA - Hildale Chamber of Commerce](/pages/uzona-hildale-chamber-of-commerce.md) · `https://greatutah.work/pages/uzona-hildale-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Vernal Area Chamber of Commerce](/pages/vernal-area-chamber-of-commerce.md) · `https://greatutah.work/pages/vernal-area-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M

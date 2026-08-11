@@ -13,7 +13,6 @@
 **Location Source:** https://www.vernalinnovationhub.com/uintahspeedpitch
 **Website:** https://www.vernalinnovationhub.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

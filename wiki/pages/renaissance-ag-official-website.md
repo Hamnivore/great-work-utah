@@ -3,10 +3,9 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Low
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.renaissance-ag.com
 **Publisher:** Renaissance Ag
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

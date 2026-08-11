@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://photopharmics.com
+**Archive:** https://web.archive.org/web/20260607013207/https://www.photopharmics.com/
+**Archived:** 2026-06-07
 **Publisher:** PhotoPharmics, Inc.
-**Accessed:** 2026-06-19
+**Raw:** raw/photopharmics-official-website/2026-08-11-4ac026c30e37.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -23,7 +26,23 @@ PhotoPharmics' official website describes a clinical-stage medical device compan
 - Recent site news highlights a Phase 3 "Light for PD" trial nearing completion, Phase 2 results published in *Neurotherapeutics*, and board expansion to support clinical execution and commercialization.
 - The site offers patient information, investor inquiry paths, and email updates for followers of the scientific and regulatory journey.
 
+## Verbatim
+
+> "Celeste® is an investigational device being studied to better understand the role of retinal and circadian signaling pathways in Parkinson’s disease."
+> — Home page, product introduction
+
+> "Parkinson’s disease affects more than 11 million people worldwide, a number expected to grow significantly in the coming decades."
+> — Home page, disease context
+
+> "Celeste® is an investigational photo-neuromodulation device being evaluated for Parkinson’s disease."
+> — Home page, clinical status
+
+> "Celeste® is an investigational device and has not been authorized for marketing"
+> — Home page, regulatory disclaimer
+
 ## Reliability Notes
+
+The capture does not substantiate the page's specific non-invasive/home-use description; that detail requires a separate product or trial source.
 
 This is an official company source. It is useful for product positioning, mechanism framing, and trial-status announcements, but efficacy claims, enrollment counts, and regulatory timelines should be cross-checked with clinical trial registries, peer-reviewed publications, and independent reporting before being treated as high-confidence evidence.
 

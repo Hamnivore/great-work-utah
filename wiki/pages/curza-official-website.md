@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://curza.com
+**Archive:** https://web.archive.org/web/20260608121151/https://www.curza.com/
+**Archived:** 2026-06-08
 **Publisher:** Curza
-**Accessed:** 2026-06-19
+**Raw:** raw/curza-official-website/2026-08-11-d30bfbbdee18.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -21,6 +24,20 @@ Curza's official website describes a small-molecule therapeutics company develop
 - Additional program areas mentioned include ribosomal antibiotics for ESKAPE "superbugs" and antibiofilm antibiotics for infections such as tuberculosis, diabetic ulcers, Lyme disease, and cystic fibrosis-related infections.
 - The site cites WHO framing of antibiotic resistance as a major global health threat.
 - Company address listed: 650 Komas Drive, Suite 202, Salt Lake City, UT 84108.
+
+## Verbatim
+
+> "Cūrza is a small-molecule therapeutics company that has developed several structurally distinct classes of proprietary drugs focused on infectious diseases."
+> — Home page, technology
+
+> "Our lead program, CZ-02 is a new class of broad spectrum antibiotics, focused on ESKAPE pathogens, with a focus on drug-resistant Gram-negative bacteria."
+> — Home page, lead program
+
+> "Inspired by a natural product, this class targets an unexploited binding site of the bacterial ribosome."
+> — Home page, lead program
+
+> "650 Komas Drive, Suite 202 Salt Lake City, UT 84108"
+> — Home page, contact footer
 
 ## Reliability Notes
 

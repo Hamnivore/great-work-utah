@@ -14,7 +14,6 @@
 **Website:** https://www.nucleusutah.org/utif
 **Domain:** capital-programs
 **Updated:** 2026-07-14
-**Layout:** field-guide
 
 ## Summary
 

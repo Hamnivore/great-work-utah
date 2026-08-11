@@ -1,0 +1,13 @@
+{
+  "source_page": "strider-official-website.md",
+  "requested_url": "https://www.striderintel.com/",
+  "final_url": "https://www.striderintel.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:42.382Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "33cd4abc0f11e6d6b678d573fa4f38d7d8076fb6fde0788bdc37d9a36a44c4fe",
+  "text_sha256": "d3f336bfc61441797977530b9983d6a58165ed1849e881e70851f2ec0bc92597",
+  "text_chars": 6526,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -8,7 +8,6 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Updated:** 2026-06-19
-**Hero:** https://picsum.photos/seed/davis-smith-cotopaxi-founder-2026/800/600
 
 ## Summary
 

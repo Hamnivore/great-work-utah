@@ -9,7 +9,6 @@
 **Region:** Murray
 **Website:** https://www.indiesquare.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

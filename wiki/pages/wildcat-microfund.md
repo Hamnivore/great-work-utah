@@ -9,7 +9,6 @@
 **Region:** statewide
 **Website:** https://www.weber.edu/wildcat-microfund/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://rippleneuro.com
+**Archive:** https://web.archive.org/web/20260608022341/https://rippleneuro.com/
+**Archived:** 2026-06-08
 **Publisher:** Ripple Neuro
-**Accessed:** 2026-06-19
+**Raw:** raw/ripple-neuro-official-website/2026-08-11-aa09d54fdae2.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -15,17 +18,31 @@ Ripple Neuro's official website describes a line of neural recording and stimula
 
 ## Useful Claims
 
-- Ripple describes the Grapevine as supporting up to 512 channels of simultaneous neural recording and stimulation.
-- The Trek system is described as portable, palm-sized, and wireless, enabling neural recording in freely moving subjects.
-- The company says it was founded as a University of Utah spinout and has been operational since 2004.
-- Ripple states that its systems have been used in major DARPA and DoD-funded neural engineering programs.
-- NIH HEAL-funded neuromodulation research is listed as an active program area.
-- Ripple Neuromed is presented as the clinical development arm focused on implantable neuromodulation.
-- Products are marketed exclusively to research neuroscience labs and clinical research programs, not consumer BCI.
+- Ripple describes portable, wireless Trek processors and Grapevine front-end systems for simultaneous neural recording and stimulation.
+- The company says its ASICs were developed under DARPA, DoD, and SBIR funding.
+- The page previously asserted 512 Grapevine channels, a University of Utah spinout founding in 2004, NIH HEAL program work, and a Ripple Neuromed clinical arm; none of those appear on this 2026-08-11 homepage capture.
+- Products are marketed to neuroscience research users (researchers, labs); consumer BCI is not mentioned on this capture.
+
+## Verbatim
+
+> "Record and stimulate on every channel. Developed under DARPA, DoD and SBIR funding, Ripple's
+> proprietary ASICs offer exceptional signal quality and low noise in a compact package."
+> — Home page, product hero
+
+> "Featuring on-board processing and wireless control, Ripple's flagship processor, the Trek, untethers
+> you from conventional constraints of behavioral electrophysiology."
+> — Home page, Trek section
+
+> "As a company founded and run by neuroscience researchers, Ripple is uniquely capable of helping you
+> plan and grow your projects, as well as providing you with the best tools available for truly novel
+> research."
+> — Home page, contact section
 
 ## Reliability Notes
 
 Official company source. Strongest for product specifications, system architecture, and program areas. Channel counts, waveform quality, and stimulation artifact rejection claims should be cross-checked with published neuroscience literature citing Ripple systems. Ownership structure, funding details, and revenue are not disclosed on the website.
+
+**Capture gap.** Specifications such as 512-channel Grapevine capacity, explicit University of Utah spinout history, operational since 2004, NIH HEAL listings, and Ripple Neuromed were recorded from earlier site material and are absent from this homepage capture.
 
 ## Related Pages
 

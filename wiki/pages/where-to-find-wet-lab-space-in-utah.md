@@ -6,7 +6,6 @@
 **Audience:** life-sciences founders, academic spinouts, SBIR teams needing bench space
 **Focus:** wet-lab space, biotech incubators, shared lab, Altitude Lab, university facilities
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Overview
 

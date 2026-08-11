@@ -13,7 +13,6 @@
 **Location Source:** https://www.utahcounties.org/about-pages/about
 **Website:** https://www.uacnet.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -1,0 +1,555 @@
+August 18, 2021
+
+Gary K. Price
+Head of Regulatory Affairs and Quality Assurance
+Infinity BiologiX LLC
+30 Knightsbridge Road
+Piscataway, NJ 08854
+
+Device: Infinity BiologiX TaqPath SARS-CoV-2 Assay
+EUA: EUA200090
+Company: Infinity BiologiX LLC
+Indication: This test is indicated for the following indications for use:
+Qualitative detection of nucleic acid from Severe Acute
+Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in
+oropharyngeal (throat) swab, nasopharyngeal swab, anterior nasal
+swab, mid-turbinate nasal swab, and bronchoalveolar lavage
+(BAL) fluid from individuals suspected of COVID-19 by their
+healthcare provider.
+When determined to be appropriate by a healthcare provider, this
+test is also for use with saliva specimens that are self-collected at
+home using the IBX Saliva Collection Kit or that are collected in a
+healthcare setting by individuals using the Spectrum Solutions
+SDNA-1000 Saliva Collection Device.
+This test is also for the qualitative detection of nucleic acid from
+SARS-CoV-2 in pooled saliva samples containing up to 5
+individual saliva specimens that are self-collected at home using
+the IBX Saliva Collection Kit or that are collected in a healthcare
+setting by individuals using the Spectrum Solutions SDNA-1000
+Saliva Collection Device, when determined to be appropriate by
+healthcare provider.
+Authorized Laboratories: Testing is limited to Infinity BiologiX LLC laboratories, located at
+Nelson Biological Sciences, C-Wing, 604 Allison Road,
+Piscataway, NJ 08854 and 3510 Hopkins Place, Bldg 4, Oakdale,
+MN 55128, which are certified under Clinical Laboratory
+Improvement Amendments of 1988 (CLIA), 42 U.S.C. §263a and
+meet requirements to perform high-complexity tests.
+Dear Mr. Price:
+
+Page 2 – Gary K. Price, Infinity BiologiX LLC
+
+On April 10, 2020, based on a request from Rutgers Clinical Genomics Laboratory at RUCDR
+Infinite Biologics – Rutgers University (“Rutgers”), the Food and Drug Administration (FDA)
+issued a letter determining that the Rutgers Clinical Genomics Laboratory TaqPath SARS-CoV-
+2 Assay met the criteria for issuance under section 564(c) of the Act to be eligible for
+authorization under the March 31, 2020, Emergency Use Authorization (EUA) for Molecular-
+based Laboratory Developed Tests for Detection of Nucleic Acid from SARS-CoV-2 (High
+Complexity LDT umbrella EUA) for the qualitative detection of nucleic acid from SARS-CoV-
+2 in respiratory specimens collected from individuals suspected of COVID-19 by their
+healthcare provider, pursuant to Section 564 of the Federal Food, Drug, and Cosmetic Act (the
+Act) (21 U.S.C. §360bbb-3). As authorized under the High Complexity LDT umbrella EUA,
+testing was limited to the single laboratory that developed the authorized test and that is
+certified under CLIA, 42 U.S.C. §263a, to perform high complexity tests pursuant to the Scope
+of Authorization and Conditions of Authorization of that EUA.
+1
+Based on your requests, on
+May 7, 2020,
+2
+September 18, 2020,
+3
+and November 13, 2020.
+4
+FDA authorized the use of the
+assay with revisions incorporated. FDA granted updates to the authorized labeling on
+November 30, 2020
+5
+, March 11, 2021
+6
+and May 27, 2021.
+7
+
+1
+In this case testing was limited to Rutgers Clinical Genomics Laboratory (RCGL) at RUCDR Infinite Biologics –
+Rutgers University, Piscataway, NJ, that is a CLIA, 42 U.S.C. §263a, certified high-complexity laboratory.
+2
+On April 30, 2020, FDA received a request from Rutgers to revise the Scope of Authorization and thus, the test’s
+intended use as originally specified by the High Complexity LDT umbrella EUA, to include home collection of
+saliva specimens using the Spectrum Solutions LLC SDNA-1000 Saliva Collection Device when determined to be
+appropriate by a healthcare provider. In response to that request, because the requested revision to the test’s
+intended use was beyond the Scope of Authorization of the High Complexity LDT umbrella EUA, FDA authorized
+the use of the Rutgers Clinical Genomics Laboratory TaqPath SARS-CoV-2 Assay, pursuant to section 564 of the
+Act and the Scope of Authorization (Section II) and Conditions of Authorization (Section IV) of the May 7, 2020
+letter of authorization, for the qualitative detection of nucleic acid from SARS-CoV-2 in oropharyngeal (throat)
+swab, nasopharyngeal swab, anterior nasal swab, mid-turbinate nasal swab, and bronchoalveolar lavage (BAL) fluid
+from individuals suspected of COVID-19 by their healthcare provider. As part of the authorization, the Spectrum
+Solutions LLC SDNA-1000 Saliva Collection Device could be used to self-collect saliva specimens at home or in a
+healthcare setting by individuals when determined to be appropriate by a healthcare provider. In the May 7, 2020,
+letter, testing was limited to Rutgers Clinical Genomics Laboratory (RCGL) at RUCDR Infinite Biologics – Rutgers
+University, Piscataway, NJ, that is a CLIA, 42 U.S.C. §263a, certified high-complexity laboratory.
+3
+On August 12 and 13, 2020, FDA received requests from Rutgers and Infinity BiologiX LLC, respectively, to
+amend the EUA for the Rutgers Clinical Genomics Laboratory TaqPath SARS-CoV-2 Assay to transfer the EUA
+from Rutgers to Infinity BiologiX LLC and update the device name to Infinity BiologiX TaqPath SARS-CoV-2
+Assay. On September 18, 2020, additional revisions to the May 7, 2020, letter included revisions to (1) update the
+authorized labeling, (2) revise the Conditions of Authorization to apply to Infinity BiologiX LLC, and (3) add
+appropriate Conditions of Authorization for authorized distributors.
+4
+On October 29, 2020, FDA received a request from Infinity BiologiX LLC to add a second Infinity BiologiX LLC
+authorized laboratory at 3510 Hopkins Place, Bldg 4, Oakdale, MN 55128.
+5
+On November 30, 2020, your request was granted to add an authorized distributor to distribute the IBX Saliva
+Collection Kit under the brand name AZOVA At-Home COVID-19 Test Collection Kit for use with the Infinity
+BiologiX TaqPath SARS-CoV-2 Assay.
+6
+On March 11, 2021, your request was granted to add an authorized distributor to distribute the IBX Saliva
+Collection Kit under the brand name Wellness 4 Humanity SDNA-1000 Saliva Collection Kit for use with the
+Infinity BiologiX TaqPath SARS-CoV-2 Assay.
+7
+On May 27, 2021, your supplement was acknowledged via email to update the EUA Summary of your product
+with results from testing with the FDA SARS-CoV-2 Reference Panel.
+
+Page 3 – Gary K. Price, Infinity BiologiX LLC
+
+On June 23, 2021, you
+8
+requested to further amend this EUA. Based on that request, and having
+concluded that revising the November 13, 2020, EUA is appropriate to protect the public health
+or safety under section 564(g)(2)(C) of the Act (21 U.S.C. § 360bbb-3(g)(2)(C)), FDA is
+reissuing the November 13, 2020, letter in its entirety with the revisions incorporated.
+9
+Accordingly, your product
+10
+is hereby authorized pursuant to section 564 of the Act when used
+pursuant to the Scope of Authorization (Section II) and Conditions of Authorization (Section IV)
+of this reissued letter.
+
+On February 4, 2020, pursuant to Section 564(b)(1)(C) of the Act, the Secretary of the
+Department of Health and Human Services (HHS) determined that there is a public health
+emergency that has a significant potential to affect national security or the health and security of
+United States citizens living abroad, and that involves the virus that causes COVID-19.
+Pursuant to Section 564 of the Act, and on the basis of such determination, the Secretary of
+HHS then declared that circumstances exist justifying the authorization of emergency use of in
+vitro diagnostics for detection and/or diagnosis of the virus that causes COVID-19 subject to the
+terms of any authorization issued under Section 564(a) of the Act.
+11
+
+FDA considered the totality of scientific information available in authorizing the emergency use
+of your product for the indication above. A summary of the performance information FDA
+relied upon is contained in the EUA Summary (identified below).
+
+Having concluded that the criteria for issuance of this authorization under Section 564(c) of the
+Act are met, I am authorizing the emergency use of your product, described in the Scope of
+Authorization Section of this letter (Section II), subject to the terms of this authorization.
+
+I. Criteria for Issuance of Authorization
+
+I have concluded that the emergency use of your product meets the criteria for issuance of an
+authorization under Section 564(c) of the Act, because I have concluded that:
+
+8
+For ease of reference, this EUA will use the term “you” and related terms to refer to Infinity BiologiX LLC.
+9
+The revisions to the November 13, 2020, letter and authorized labeling include: (1) update the point of contact, (2)
+update the intended use to include a claim for the “qualitative detection of nucleic acid from SARS-CoV-2 in pooled
+saliva samples containing up to 5 individual saliva specimens that are self-collected at home using the IBX Saliva
+Collection Kit or that are collected in a healthcare setting by individuals using the Spectrum Solutions SDNA-1000
+Saliva Collection Device, when determined to be appropriate by healthcare provider” and associated updates to the
+Healthcare Provider and Patient Fact Sheets, laboratory SOPs, EUA Summary and Letter of Authorization to reflect
+the updated indication, (3) updates to the Conditions of Authorization to add new Conditions related to circulating
+variants (Conditions K. and L.) and conditions associated with the updated intended use for pooling (Conditions U.,
+V. and W.); (4) addition of new laboratory SOPs related to the new intended use and also updates to the previous
+laboratory SOPs, and (5) updates to the IFU, Conditions of Authorization, Healthcare Provider and Patient Fact
+Sheets to reflect language used in more recent authorizations.
+10
+For ease of reference, this EUA will use the term “your product” to refer to the entire test system – e.g., the
+Infinity BiologiX TaqPath SARS-CoV-2 Assay, controls, ancillary reagents, other materials, the Spectrum Solutions
+SDNA-1000 Saliva Collection Device, and the IBX Saliva Collection Kit – authorized under this EUA as outlined in
+the Scope of Authorization (Section II) and Conditions of Authorization (Section IV).
+11
+U.S. Department of Health and Human Services, Determination of a Public Health Emergency and Declaration
+that Circumstances Exist Justifying Authorizations Pursuant to Section 564(b) of the Federal Food, Drug, and
+Cosmetic Act, 21 U.S.C. § 360bbb-3. 85 FR 7316 (February 7, 2020).
+
+Page 4 – Gary K. Price, Infinity BiologiX LLC
+
+1. The SARS-CoV-2 can cause a serious or life-threatening disease or condition,
+including severe respiratory illness, to humans infected by this virus;
+
+2. Based on the totality of scientific evidence available to FDA, it is reasonable to believe
+that your product may be effective in diagnosing COVID-19, and that the known and
+potential benefits of your product when used for diagnosing COVID-19, outweigh the
+known and potential risks of your product; and
+
+3. There is no adequate, approved, and available alternative to the emergency use of your
+product.
+12
+
+II. Scope of Authorization
+
+I have concluded, pursuant to Section 564(d)(1) of the Act, that the scope of this authorization is
+limited to the indication above.
+
+Authorized Product Details
+
+Your product is a test system that includes the Infinity BiologiX TaqPath SARS-CoV-2 Assay,
+controls, ancillary reagents, other materials, the Spectrum Solutions SDNA-1000 Saliva
+Collection Device, and the IBX Saliva Collection Kit. The product is authorized to be distributed
+and used as described in this letter, despite the fact that the product does not meet certain
+requirements otherwise required by applicable federal law.
+
+The test is a qualitative test for the detection of nucleic acid from SARS-CoV-2 in oropharyngeal
+(throat) swab, nasopharyngeal swab, anterior nasal swab, mid-turbinate nasal swab, and
+bronchoalveolar lavage (BAL) fluid from individuals suspected of COVID-19 by their healthcare
+provider.
+
+When determined to be appropriate by a healthcare provider, this test is also for use with saliva
+specimens that are self-collected at home using the IBX Saliva Collection Kit or that are
+collected in a healthcare setting by individuals using the Spectrum Solutions SDNA-1000 Saliva
+Collection Device.
+
+This test is also for the qualitative detection of nucleic acid from SARS-CoV-2 in pooled saliva
+samples containing up to 5 individual saliva specimens that are self-collected at home using the
+IBX Saliva Collection Kit or that are collected in a healthcare setting by individuals using the
+Spectrum Solutions SDNA-1000 Saliva Collection Device, when determined to be appropriate
+by healthcare provider. Negative results from pooled testing should not be treated as definitive. If
+a patient’s clinical signs and symptoms are inconsistent with a negative result or results are
+necessary for patient management, the patient should be considered for individual testing.
+Specimens included in pools with a positive and indeterminate result must be tested individually
+prior to reporting a result. Specimens with low viral loads may not be detected in sample pools
+due to decreased sensitivity in pooled testing.
+
+12
+No other criteria of issuance have been prescribed by regulation under Section 564(c)(4) of the Act.
+
+Page 5 – Gary K. Price, Infinity BiologiX LLC
+
+Testing is limited to Infinity BiologiX, Nelson Biological Sciences, C-Wing, 604 Allison Road,
+Piscataway, NJ 08854, and 3510 Hopkins Place, Bldg 4, Oakdale, MN 55128, which are certified
+under CLIA, 42 U.S.C. §263a and meet requirements to perform high-complexity tests.
+
+The SARS-CoV-2 nucleic acid is generally detectable in respiratory and saliva specimens during
+the acute phase of infection. Positive results are indicative of the presence of SARS-CoV-2
+nucleic acid; clinical correlation with patient history and other diagnostic information is
+necessary to determine patient infection status. Positive results do not rule out bacterial infection
+or co-infection with other viruses. Negative results do not preclude SARS-CoV-2 infection and
+should not be used as the sole basis for patient management decisions. Negative results must be
+combined with clinical observations, patient history, and epidemiological information. Negative
+results for SARS-CoV-2 RNA from saliva should be confirmed by testing of an alternative
+specimen type if clinically indicated.
+
+To use your test, SARS-CoV-2 nucleic acid is first extracted, isolated and purified from in
+oropharyngeal (throat) swab, nasopharyngeal swab, anterior nasal swab, mid-turbinate nasal
+swab, saliva and BAL fluid. The purified nucleic acid is then reverse transcribed into cDNA
+followed by PCR amplification and detection using an authorized real-time (RT) PCR
+instrument. Your test uses all commercially sourced materials or other authorized materials and
+authorized ancillary reagents commonly used in clinical laboratories as described in the
+authorized labeling.
+
+Your test requires the following control materials, or other authorized control materials (as may
+be requested under Condition I. below), that are to be run as outlined in the authorized labeling.
+All controls listed below must generate expected results in order for a test to be considered valid,
+as outlined in the authorized labeling (described below):
+
+• Internal Control – MS2 Phage – added to each specimen and the negative control
+prior to extraction - controls for specimen quality and demonstrates that nucleic acid
+was generated by the extraction process.
+• Positive Control - monitors the integrity of the RT-PCR reagents and process.
+• Negative Control – monitors for cross-contamination during RNA extraction and RT-
+PCR.
+• No Template (Negative) Control - Nuclease-free, molecular-grade water used to
+monitor non-specific amplification, cross-contamination during experimental setup,
+and nucleic acid contamination of reagents.
+
+Your test also requires the use of additional authorized materials and authorized ancillary
+reagents that are not included with your product and which are described in the authorized
+labeling.
+
+The above described test is authorized to be accompanied with the EUA Summary (available at
+https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-
+authorizations-medical-devices/in-vitro-diagnostics-euas), the Infinity BiologiX LLC Standard
+Operating Procedures (SOPs) bundle,
+13
+and the following product-specific information
+
+13
+The SOP bundle consists of the following: 103-0010 Sample Registration and Accessioning in IBX LIMS, 503-
+
+Page 6 – Gary K. Price, Infinity BiologiX LLC
+
+pertaining to the emergency use, which is required to be made available to healthcare providers
+and patients:
+
+• Fact Sheet for Healthcare Providers: Infinity BiologiX LLC - Infinity BiologiX
+TaqPath SARS-CoV-2 Assay
+• Fact Sheet for Patients: Infinity BiologiX LLC - Infinity BiologiX TaqPath
+SARS-CoV-2 Assay
+
+The above described product, when accompanied by the Infinity BiologiX LLC Standard
+Operating Procedures (SOPs) bundle (see footnote 13) the EUA Summary (identified above) and
+the two Fact Sheets is authorized to be distributed to and used by the authorized laboratories (i.e.,
+limited to Infinity BiologiX, Nelson Biological Sciences, C-Wing, 604 Allison Road,
+Piscataway, NJ 08854, and 3510 Hopkins Place, Bldg 4, Oakdale, MN 55128) under this EUA,
+despite the fact that it does not meet certain requirements otherwise required by applicable
+federal law.
+
+The IBX Saliva Collection Kit and Spectrum Solutions SDNA-1000 Saliva Collection Device
+when accompanied by the “Patient Self-collection Kit and Collection Process SOP – Telehealth”
+and “Patient Self-collection Kit and Collection Process SOP” instructions (for the IBX Saliva
+Collection Kit) and patient instructions that accompany the Spectrum Solutions SDNA-1000
+Saliva Collection Device, are authorized to be distributed and used as part of the above described
+product for use with the test as set forth in this EUA.
+
+“Authorized labeling” refers to the EUA Summary, Infinity BiologiX LLC SOPs bundle (see
+footnote 13), two Fact Sheets, “Patient Self-collection Kit and Collection Process SOP –
+Telehealth” and “Patient Self-collection Kit and Collection Process SOP” instructions (for the
+IBX Saliva Collection Kit) and patient instructions that accompany the Spectrum Solutions
+SDNA-1000 Saliva Collection Device.
+
+I have concluded, pursuant to Section 564(d)(2) of the Act, that it is reasonable to believe that
+the known and potential benefits of your product, when used consistent with the Scope of
+Authorization of this letter (Section II), outweigh the known and potential risks of your product.
+
+I have concluded, pursuant to Section 564(d)(3) of the Act, based on the totality of scientific
+evidence available to FDA, that it is reasonable to believe that your product may be effective for
+the indication above, when used consistent with the Scope of Authorization of this letter (Section
+II), pursuant to Section 564(c)(2)(A) of the Act.
+
+FDA has reviewed the scientific information available to FDA, including the information
+supporting the conclusions described in Section I above, and concludes that your product (as
+described in the Scope of Authorization of this letter (Section II)) meets the criteria set forth in
+
+0013 Infinity Biologix Clinical Genomics Laboratory TaqPath SARS-CoV-2 Assay, 503-0017 Infinity BiologiX
+Taqpath SARS-CoV-2 Testing with Pooling Methodology, 2003-0360 Purification of Viral DNA-RNA Using the
+Chemagic 360 with the Thermo TaqPath COVID-19 Assay, 2003-0425 Purification of Viral DNA-RNA Using the
+Chemagic 360 with Pooled Source Samples, 2003-0426 Transfer of Saliva Samples to Intermediate Tubes and
+DWPs on Hamilton STAR and STARlet, 2003-0451 Saliva based pooling sample deconvolution for retesting and
+reporting in Project Destiny.
+
+Page 7 – Gary K. Price, Infinity BiologiX LLC
+
+Section 564(c) of the Act concerning safety and potential effectiveness.
+
+The emergency use of your product under this EUA must be consistent with, and may not
+exceed, the terms of this letter, including the Scope of Authorization (Section II) and the
+Conditions of Authorization (Section IV). Subject to the terms of this EUA and under the
+circumstances set forth in the Secretary of HHS's determination under Section 564(b)(1)(C) of
+the Act described above and the Secretary of HHS’s corresponding declaration under Section
+564(b)(1) of the Act, your product is authorized for the indication above.
+
+III. Waiver of Certain Requirements
+
+I am waiving the following requirements for your product during the duration of this EUA:
+
+• Current good manufacturing practice requirements, including the quality system
+requirements under 21 CFR Part 820 with respect to the design, manufacture,
+packaging, labeling, storage, and distribution of your product.
+
+IV. Conditions of Authorization
+
+Pursuant to Section 564(e) of the Act, I am establishing the following conditions on this
+authorization:
+
+Infinity BiologiX LLC (You) and Authorized Distributor(s)
+14
+
+A. You and authorized distributors will make available all instructions related to the self-
+collection of saliva specimens using the IBX Saliva Collection Kit and Spectrum
+Solutions SDNA-1000 Saliva Collection Device, both in the shipped kit and on your
+website.
+
+B. Through a process of inventory control, you and authorized distributor(s) will maintain
+records of the numbers and locations to which the IBX Saliva Collection Kit and/or
+Spectrum Solutions SDNA-1000 Saliva Collection Device are distributed.
+
+C. You and authorized distributor(s) will maintain customer complaint files on record. You
+will report to FDA any significant complaints about usability or deviations from the
+established performance characteristics of which you become aware.
+
+D. You and authorized distributor(s) are authorized to make available additional
+information relating to the emergency use of your product that is consistent with, and
+does not exceed, the terms of this letter of authorization.
+
+Infinity BiologiX LLC (You)
+
+14
+“Authorized Distributor(s)” are identified by you, Infinity BiologiX LLC, in your EUA submission as an entity
+allowed to distribute the IBX Saliva Collection Kit and/or Spectrum Solutions SDNA-1000 Saliva Collection
+Device.
+
+Page 8 – Gary K. Price, Infinity BiologiX LLC
+
+E. Your product must comply with the following labeling requirements: the intended use
+statement (21 CFR 809.10(a)(2), (b)(2)); adequate directions for use (21 U.S.C. 352(f)),
+(21 CFR 809.10(b)(5), (7), and (8)); appropriate limitations on the use of the device
+including information required under 21 CFR 809.10(a)(4); and any available
+information regarding performance of the device, including requirements under 21 CFR
+809.10(b)(12).
+
+F. You will make available on your website(s) the Fact Sheet for Healthcare Providers and
+the Fact Sheet for Patients.
+
+G. You will notify FDA of any authorized distributor(s) of the IBX Saliva Collection Kit
+and/or Spectrum Solutions SDNA-1000 Saliva Collection Device, including the name,
+address, and phone number of any authorized distributor(s).
+
+H. You will provide authorized distributor(s), relevant public health authorities, and the two
+authorized laboratories with a copy of this EUA and communicate to authorized
+distributor(s), relevant public health authorities, and the two authorized laboratories any
+subsequent amendments that might be made to this EUA and the authorized
+accompanying materials.
+
+I. You may request changes to this EUA for your product, including to the Scope of
+Authorization (Section II in this letter) or to the authorized labeling, including requests to
+make available additional authorized labeling specific to an authorized distributor. Such
+additional labeling may use another name for the product but otherwise must be
+consistent with the authorized labeling, and not exceed the terms of authorization of this
+letter. Any request for changes to this EUA should be submitted to the Division of
+Microbiology (DMD)/Office of Health Technology 7 (OHT7)-Office of In Vitro
+Diagnostics and Radiological Health (OIR)/Office of Product Evaluation and Quality
+(OPEQ)/Center for Devices and Radiological Health (CDRH) and require appropriate
+authorization from FDA prior to implementation.
+
+J. You will evaluate the analytical limit of detection and assess traceability of your test
+with any FDA-recommended reference material(s), if requested by FDA.
+15
+After
+submission to and concurrence with the data by FDA, FDA will update the EUA
+Summary to reflect the additional testing.
+
+K. You must evaluate the impact of SARS-CoV-2 viral mutations on your product’s
+performance. Such evaluations must occur on an ongoing basis and must include any
+additional data analysis that is requested by FDA in response to any performance
+concerns you or FDA identify during routine evaluation. Additionally, if requested by
+FDA, you must submit records of these evaluations for FDA review within 48 hours of
+the request. If your evaluation identifies viral mutations that affect the stated expected
+performance of your device, you must notify FDA immediately.
+
+15
+Traceability refers to tracing analytical sensitivity/reactivity back to an FDA-recommended reference material.
+FDA may request, for example, that you perform this study in the event that we receive reports of adverse events
+concerning your product.
+
+Page 9 – Gary K. Price, Infinity BiologiX LLC
+
+L. If requested by FDA, you must update your labeling within 7 calendar days to include
+any additional labeling risk mitigations identified by FDA, such as those related to the
+impact of viral mutations on test performance. Such updates will be made in
+consultation with, and require concurrence of, DMD/OHT7-OIR/OPEQ/CDRH.
+
+M. You will ensure authorized laboratories using your product have a process in place for
+reporting test results to healthcare providers and relevant public health authorities, as
+appropriate.
+
+N. You will have a process in place to track adverse events, including any occurrence of
+false results with your product, including with the IBX Saliva Collection Kit and
+Spectrum Solutions SDNA-1000 Saliva Collection Device, and report any such events
+to FDA pursuant to 21 CFR Part 803. Serious adverse events, especially unexpected
+biosafety concerns, should immediately be reported to DMD/OHT7-OIR/OPEQ/CDRH
+(via email: CDRH-EUA-Reporting@fda.hhs.gov).
+
+O. You will collect information on the performance of your product. You will report to
+FDA any suspected occurrence of false positive or flase negative results and signficiant
+devciations from the established performance characteristics of the product of which
+you become aware.
+
+Authorized Laboratories
+
+P. Authorized laboratories using your product will include with test result reports, all
+authorized Fact Sheets. Under exigent circumstances, other appropriate methods for
+disseminating these Fact Sheets may be used, which may include mass media.
+
+Q. Authorized laboratories using your product will use your product as outlined in the
+authorized labeling. Deviations from the authorized procedures, including the
+authorized instruments, authorized extraction methods, authorized clinical specimen
+types, authorized control materials, authorized other ancillary reagents and authorized
+materials required to use your product are not permitted.
+
+R. Authorized laboratories that receive your product will notify the relevant public health
+authorities of their intent to run your product prior to initiating testing.
+
+S. Authorized laboratories using your product will have a process in place for reporting test
+results to healthcare providers and relevant public health authorities, as appropriate.
+
+T. Authorized laboratories will collect information on the performance of your product and
+report to DMD/OHT7-OIR/OPEQ/CDRH (via email: CDRH-EUA-
+Reporting@fda.hhs.gov) and you (via email: IBX-COVID19@inifinity-biologix.com or
+phone: 1-732-445-1498) any suspected occurrence of false positive or false negative
+results and significant deviations from the established performance characteristics of
+your product of which they become aware.
+
+Page 10 – Gary K. Price, Infinity BiologiX LLC
+
+U. Authorized laboratories using specimen pooling strategies when testing patient
+specimens with your product must include with test result reports for specific patients
+whose specimen(s) were the subject of pooling, a notice that pooling was used during
+testing and that “Patient specimens with low viral loads may not be detected in sample
+pools due to the decreased sensitivity of pooled testing.”
+
+V. Authorized laboratories implementing pooling strategies for testing patient specimens
+must use the “Specimen Pooling Implementation and Monitoring Guidelines” available
+in the authorized labeling to evaluate the appropriateness of continuing to use such
+strategies based on the recommendations in the protocol.
+
+W. Authorized laboratories must keep records of specimen pooling strategies implemented
+including type of strategy, date implemented, and quantities tested, and test result data
+generated as part of the Protocol for Monitoring of Specimen Pooling Testing Strategies.
+For the first 12 months from the date of their creation, such records will be made
+available to FDA within 48 business hours for inspection upon request, and will be made
+available within a reasonable time after 12 months from the date of their creation.
+
+X. All laboratory personnel using your product must be appropriately trained in molecular
+techniques and use appropriate laboratory and personal protective equipment when
+handling this product, and use your product in accordance with the authorized labeling.
+
+Infinity BiologiX (You), Authorized Distributors and Authorized Laboratories
+
+Y. You, authorized distributors, and authorized laboratories using your product will ensure
+that any records associated with this EUA are maintained until otherwise notified by
+FDA. Such records will be made available to FDA for inspection upon request.
+
+Conditions Related to Printed Materials, Advertising and Promotion
+
+Z. All descriptive printed matter, advertising and promotional materials relating to the use
+of your product shall be consistent with the authorized labeling, as well as the terms set
+forth in this EUA and meet the requirements set forth in section 502(a), (q)(1), and (r) of
+the Act, as applicable, and FDA implementing regulations.
+
+AA. No descriptive printed matter, advertising or promotional materials relating to the use of
+your product may represent or suggest that this test is safe or effective for the detection of
+SARS-CoV-2.
+
+BB. All descriptive printed matter, advertising and promotional materials relating to the use
+of your product shall clearly and conspicuously state that:
+
+• This product has not been FDA cleared or approved, but has been authorized for
+emregency use by FDA under an EUA for use by authorized laboratories;
+
+Page 11 – Gary K. Price, Infinity BiologiX LLC
+
+• This product has been authorized only for the detection of nucleic acid from
+SARS-CoV-2, not for any other viruses or pathogens; and
+
+• The emergency use of this product is only authorized for the duration of the
+declaration that circumstances exist justifying the authorization of emergency use
+of in vitro diagnostics for detection and/or diagnosis of COVID-19 under Section
+564(b)(1) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. § 360bbb-
+3(b)(1), unless the declaration is terminated or authorization is revoked sooner.
+
+The emergency use of your product as described in this letter of authorization must comply
+with the conditions and all other terms of this authorization.
+
+V. Duration of Authorization
+
+This EUA will be effective until the declaration that circumstances exist justifying the
+authorization of the emergency use of in vitro diagnostics for detection and/or diagnosis of
+COVID-19 is terminated under Section 564(b)(2) of the Act or the EUA is revoked under
+Section 564(g) of the Act.
+
+Sincerely,
+
+____________________________
+RADM Denise M. Hinton
+Chief Scientist
+Food and Drug Administration
+
+Enclosure

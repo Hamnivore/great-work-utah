@@ -13,7 +13,6 @@
 **Location Source:** https://veterans.utah.gov/venue/utah-veteran-business-resource-center/
 **Website:** https://utahvbrc.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

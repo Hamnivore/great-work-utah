@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Press Release
+**Source Type:** press-release
 **URL:** https://tether.io/news/tether-takes-strategic-stake-in-leading-brain-computer-interface-company-blackrock-neurotech/
+**Archive:** https://web.archive.org/web/20260706232428/https://tether.io/news/tether-takes-strategic-stake-in-leading-brain-computer-interface-company-blackrock-neurotech/
+**Archived:** 2026-07-06
 **Publisher:** Tether
-**Accessed:** 2026-05-09
 **Updated:** 2026-05-09
 
 ## Summary

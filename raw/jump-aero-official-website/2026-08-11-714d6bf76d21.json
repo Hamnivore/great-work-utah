@@ -1,0 +1,13 @@
+{
+  "source_page": "jump-aero-official-website.md",
+  "requested_url": "https://jumpaero.com",
+  "final_url": "https://jumpaero.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:58.039Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "08957345be409e4105ea4acc370303b41d6c31821fdbaec4fd5074c4dd47bed7",
+  "text_sha256": "714d6bf76d21f783a6856c3958a17317e33cbd334e5ba9bfee3c39d201b3fdd7",
+  "text_chars": 830,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

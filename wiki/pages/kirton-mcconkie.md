@@ -17,7 +17,6 @@
 **Additional Map Location:** 301 N 200 E, Suite 3A, St. George, UT 84770 | 37.1134047, -113.5796157 | exact | https://www.kirtonmcconkie.com/contact/
 **Website:** https://www.kirtonmcconkie.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

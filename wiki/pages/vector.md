@@ -18,7 +18,7 @@
 
 Vector is a Bluffdale, Utah defense company founded in 2024 that equips U.S. and allied special operations forces with attritable drone systems procured, upgraded, and replaced at the speed of modern conflict. Its "Modern Warfare as a Service" model delivers ongoing hardware, tactical integration training, doctrine updates, and refreshes under subscription rather than traditional one-time procurement.
 
-Special Operations Command validated the approach with a multi-year contract (values undisclosed), designating Vector a chosen capability provider. The company raised approximately $61M within roughly fourteen months of founding, reached about 150 employees, earned the Pentagon Under Secretary of Defense for Research and Engineering Top Gun Trophy, and received DIU Blue and Green List approval for domestic supply chain and cyber resilience.
+Special Operations Command reportedly validated the approach with a multi-year contract, designating Vector a chosen capability provider. Secondary reports also describe rapid fundraising and hiring, but this wiki has no captured source page supporting the amounts or headcount. The company reports receiving a Pentagon research-and-engineering award and DIU supply-chain and cyber-resilience approvals.
 
 ## Impact
 

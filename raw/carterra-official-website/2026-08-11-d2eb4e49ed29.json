@@ -1,0 +1,13 @@
+{
+  "source_page": "carterra-official-website.md",
+  "requested_url": "https://carterra-bio.com/",
+  "final_url": "https://carterra-bio.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:36.606Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "87799c68e1fc78decde0d9008bbcb87238bbf5cb628be2e0d1a770037dee90d8",
+  "text_sha256": "d2eb4e49ed292edcb759ebe964e8c2a167fb67e5ebcc1b7d7fe5fbaf643aa896",
+  "text_chars": 7224,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

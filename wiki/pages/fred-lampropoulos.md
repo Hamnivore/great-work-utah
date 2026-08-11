@@ -8,7 +8,6 @@
 **Utah Location:** South Jordan, UT
 **Region:** South Jordan
 **Updated:** 2026-06-19
-**Hero:** https://picsum.photos/seed/fred-lampropoulos-merit-medical/1600/1100
 **Relates:** helps [Merit Medical Systems](merit-medical.md) · https://greatutah.work/pages/merit-medical.md
 
 ## Summary
@@ -27,7 +26,7 @@ The direct impact is visible in scale: millions of procedures annually that use 
 
 Based on his public record as a long-tenure founder-operator of a large public medical-device company, Lampropoulos's experience appears to include:
 
-- Building and scaling a regulated medical-device manufacturer from founding through $1B+ annual revenue
+- Building and scaling a regulated medical-device manufacturer from founding to global public-company scale
 - Operating in FDA-regulated environments across 510(k) and PMA pathways over multiple regulatory cycles
 - Managing public-company governance, investor relations, and capital allocation as founder-CEO
 - Integrating acquired product lines and manufacturing systems into an existing quality footprint
@@ -43,7 +42,7 @@ No public statements of current personal interests or priorities following the C
 
 - Founded Merit Medical Systems in 1987 in South Jordan, UT
 - Led Merit as founder-operator for approximately 38 years
-- Grew company to NASDAQ listing (MMSI), ~$1.3B annual revenue, 6,000+ global employees
+- Grew the company to a NASDAQ listing (MMSI) and a global workforce
 - Positioned Merit as the largest medical-device employer in the Mountain West
 - Oversaw acquisitions including Pentax C2 CryoBalloon for gastrointestinal cryotherapy (late 2025)
 - Oversaw launch of Micro ACE advanced micro-access system
@@ -78,5 +77,5 @@ No direct personal email, phone, or unverified social profiles are listed here.
 - What is Lampropoulos's specific role, if any, at Merit Medical following the October 2025 CEO transition? Board chair, executive chair, or retired?
 - What does his personal record of philanthropic or civic engagement in Utah look like? Not confirmed here.
 - Are there publicly documented advisory relationships or board seats outside Merit Medical?
-- The ~$1.3B revenue and 6,000-employee figures come from secondary public coverage and should be verified against Merit Medical's most recent annual report before use in high-stakes recommendations.
+- Current revenue and employee figures should be verified against Merit Medical's most recent annual report before use in high-stakes recommendations.
 - A cleared portrait or facility photograph should replace the placeholder hero before this page is rendered prominently.

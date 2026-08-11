@@ -1,0 +1,183 @@
+How the Utah Array is advancing BCI science
+Medical Design and Outsourcing
+Home
+Medical Device Business
+Mergers & Acquisitions
+Financial
+Regulatory
+Applications
+Cardiovascular
+Devices
+Imaging
+Implantables
+Medical Equipment
+Orthopedic
+Surgical
+Technologies
+Supplies and Components Index
+Contract Manufacturing
+Components
+Electronics
+Extrusions
+Materials
+Motion Control
+Prototyping
+Pumps
+Tubing
+MedTech Resources
+Medtech Events in 2026
+The 2025 Medtech Big 100
+Medical Device Handbook
+MedTech 100 Index
+Subscribe to Print Magazine
+DeviceTalks
+Digital Editions
+eBooks
+Educational Assets
+Manufacturer Search
+Podcasts
+Webinars / Digital Events
+Whitepapers
+Voices
+Views
+Video
+2026 Leadership
+2025 Winners
+2024 Winners
+2023 Winners
+2022 Winners
+2021 Winners
+Women in Medtech
+Advertise
+Subscribe
+How the Utah Array is advancing BCI science
+October 31, 2022 By MDO Contributors Network
+Blackrock Neurotech’s Utah array is used in its brain-computer interface to sense brain signals. [Photo courtesy of Blackrock]
+This gold-standard brain-computer interface technology is creating a platform for better patient outcomes.
+Florian Solzbacher, Blackrock Neurotech
+Brain-computer interface (BCI) science has seen exciting advances and heightened public attention in recent years, and for good reason. The promise of BCI for individuals with paralysis is monumental: To intuitively restore communication, control external devices, and provide the independence that many able-bodied people take for granted.
+Sitting at the core of today’s BCI innovation is a tiny device that has quietly powered advances in the field for decades: the Utah Array.
+Studied in humans since 2004, this bundle of microelectrodes, also known as the NeuroPort Array, remains the only FDA-cleared high-channel microelectrode platform that can record signals from individual neurons and that is used in BCI applications for movement disorders. In clinical studies, it has been successfully surgically implanted in the brain tissue of patients with paralysis for up to eight years (and counting) to record movement intentions and restore physical sensations, resulting in life-changing applications for the patients.
+Because of its extensive safety and efficacy profile and the quality of neural data it gathers, the Utah Array is often considered the gold standard of BCI technology. But it’s more than just a useful research tool — the Utah Array is driving BCI innovation and unlocking practical, clinical solutions for patients with paralysis.
+( Read MassDevice’s roundup of seven BCI companies you need to know. )
+Blackrock Neurotech’s Utah array [Photo courtesy of Blackrock]
+What is the Utah Array?
+The Utah Array is a high-channel count microelectrode array invented by Richard Normann at the University of Utah. Initially intended for applications in visual prosthesis, over time it became widely adopted by the neuroengineering community as the gold standard tool for basic and applied research.
+The array gathers neural signals from up to 100 channels per device, and it’s the only BCI implant with documented long-term stability and safety in humans. It has been studied in dozens of patients for a total of more than 30,000 days, demonstrating groundbreaking performance.
+The Utah Array has earned commercial FDA clearance for monitoring electrical activity in the brain for 30 days or less, and Blackrock is pursuing clearance for long-term implantation, which will enable commercialization of the BCI platform as a clinical therapy. In studies where Investigational Device Exemptions have allowed implants to remain in place chronically, the Utah Array has been shown to successfully restore function in patients with paralysis and ALS for up to eight years so far. Research is underway to examine how the Utah Array could potentially treat chronic pain and other neurological conditions. A modified version is used in efforts to restore hearing.
+Ultimately, the Utah Array is best thought of not as a single device but a family of devices and form factors and as the core of a larger platform and workflow. Blackrock is actively working with partners to design processes that result in optimal outcomes post-operation (such as avoiding tissue damage or immune response to the implant) and ensure long-term patient safety and higher quality of life.
+Because the Utah Array has been proven to work safely and effectively for years on end, the Blackrock team has turned its attention to making its BCI commercially available as a medical device, bringing the technology out of the lab and into patient homes.
+Critical components of Utah Array BCI devices
+The Utah Array has a few key performance features:
+100 active electrode channels per implant; can be customized up to 1,024 channels
+Typical configurations include four to six devices (400-600 electrodes)
+Ability to reliably pick up signals from both individual neurons and a summation of high-resolution signals
+Variety of connector types for acute or chronic recording
+Electrode site metal options: iridium oxide or platinum
+Standard electrode lengths: 0.5-1.5 mm (research) or 1.0-1.5 mm (clinical)
+Advantages, challenges and opportunities for the future
+The Utah Array’s largest advantage over other BCI electrodes currently in development is its longevity and safety. No other neural implant used in BCI applications has a comparable safety and efficacy profile demonstrated over years of clinical research. In terms of safety, the Utah Array has had no FDA-reported serious adverse events related to the implant since it was first implanted in humans in 2004.
+An engineering challenge that Blackrock and other BCI companies face is how to increase channel count and/or develop other higher-density arrays. At this point in time, the Utah Array remains the highest density recording electrode long-term tested in humans. In animal research, no higher channel count array has chronically demonstrated the ability to work reliably in cortex with comparable lifetimes.
+In addition, there is a risk-reward tradeoff with higher-density electrodes. Electrode count should always be driven by application needs, which in turn are determined by customer needs and physiology. Many neuroprosthetics and communication tool applications that interface with motor intent perform well with hundreds-to-one-thousand electrode channels. More channels may cause additional injury to tissue that is harder to heal without adding significant performance benefits. A higher concentration of electrodes alone may not automatically lead to better-performing applications.
+Furthermore, the electrode array is only one key component in an entire system and value chain. A keen understanding of the use case, clinical and caretaker workflows, surgical procedures, electronics, firmware and software design and user interfaces —combined with advanced algorithms and machine learning approaches — enables the performance that users experience in the field. That allows them to translate thought-to-text with speeds approaching able-bodied people (150 characters per minute) and to control a computer or mobility devices, allowing patients to truly regain independence and function.
+Some use cases do require higher channel count, such as applications for memory and vision. For these applications, Blackrock has developed novel electrodes with 10,000 channels and beyond.
+While Blackrock engineers are developing higher density electrodes that optimize the risk-reward tradeoff, the near-term opportunity of the Utah Array is its application as a medical device. In its current form, the Utah Array powers a BCI platform that, once available in a commercial medical device, will change the way paralysis and neurological disorders are treated.
+The Utah Array is the tiny component that is already fulfilling this life-changing promise. And it’s just the beginning.
+Florian Solzbacher is the co-founder and chairman of Blackrock Neurotech [Photo courtesy of Blackrock]
+Florian Solzbacher is the co-founder and chairman of Blackrock Neurotech and professor and chair of the Department of Electrical and Computer Engineering at the University of Utah. A leading authority on chronically implantable sensors for electrophysiological and chemical biomarkers, Solzbacher drives the technological vision for Blackrock with a focus on restorative tech for neurological conditions. He is the author of over 200 journal and conference publications, five book chapters and 22 invention disclosures, pending patents, or patents.
+The opinions expressed in this post are the author’s only and do not necessarily reflect those of MedicalDesignandOutsourcing.com or its employees.
+How to join the MDO Contributors Network
+Related Articles Read More >
+This Edwards innovation may have solved the leading cause of tissue valve failure
+After founding device companies worth billions, Manny Villafaña says his newest will be bigger than all of them combined
+Researchers develop noninvasive technology to monitor brain blood flow during surgery
+Too good to be true? PFA design lessons from an R&D engineer
+EXPAND YOUR KNOWLEDGE AND STAY CONNECTED
+Get the latest medical device business news, application and technology trends.
+GET THE ENEWSLETTER
+DeviceTalks Weekly
+See More >
+MDO Digital Edition
+Subscribe to Medical Design & Outsourcing. Bookmark, share and interact with the leading medical design engineering magazine today.
+Back Issues
+Subscribe
+MEDTECH 100 INDEX
+Market Summary > Current Price
+The
+MedTech 100 is a financial index calculated using the BIG100 companies covered in
+Medical Design and Outsourcing.
+Click for Index Details >>
+Cookie Settings
+New MedTech Resource
+MassDevice
+The Medical Device Business Journal. MassDevice is the leading medical device news business journal telling the stories of the devices that save lives.
+Connect with Medical Design & Outsourcing on Social Media
+Medical Design and Outsourcing
+MassDevice
+DeviceTalks
+MedTech100 Index
+Medical Tubing + Extrusion
+Medical Design Sourcing
+Drug Delivery Business News
+Drug Discovery & Development
+Pharmaceutical Processing World
+R&D World
+About Us/Contact
+Advertise With Us
+Subscribe to Print Magazine
+Subscribe to our E-Newsletter
+Listen to our Weekly Podcasts
+Join our DeviceTalks Tuesdays Discussion
+Copyright &copy; 2026 Arrowfly, LLC. All Rights Reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Arrowfly LLC. Site Map | Privacy Policy | RSS
+Search Medical Design & Outsourcing
+Home
+Medical Device Business
+Mergers & Acquisitions
+Financial
+Regulatory
+Applications
+Cardiovascular
+Devices
+Imaging
+Implantables
+Medical Equipment
+Orthopedic
+Surgical
+Technologies
+Supplies and Components Index
+Contract Manufacturing
+Components
+Electronics
+Extrusions
+Materials
+Motion Control
+Prototyping
+Pumps
+Tubing
+MedTech Resources
+Medtech Events in 2026
+The 2025 Medtech Big 100
+Medical Device Handbook
+MedTech 100 Index
+Subscribe to Print Magazine
+DeviceTalks
+Digital Editions
+eBooks
+Educational Assets
+Manufacturer Search
+Podcasts
+Webinars / Digital Events
+Whitepapers
+Voices
+Views
+Video
+2026 Leadership
+2025 Winners
+2024 Winners
+2023 Winners
+2022 Winners
+2021 Winners
+Women in Medtech
+Advertise
+Subscribe
+Cookie Settings

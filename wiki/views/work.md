@@ -1,7 +1,8 @@
-# work — 34 pages
+# work — 37 pages
 
 Historical and current proofs of great Utah work. One line per page; fetch the page for detail and evidence.
 
+- [Apa Sherpa's Everest Summits](/pages/apa-sherpa-everest-summits.md) · `https://greatutah.work/pages/apa-sherpa-everest-summits.md` · mountaineering, Everest, Sherpa guides, altitude records, retirement · conf:M
 - [Army Short-Range Reconnaissance UAS](/pages/army-short-range-reconnaissance-uas.md) · `https://greatutah.work/pages/army-short-range-reconnaissance-uas.md` · defense manufacturing, small drones, ISR, battlefield reconnaissance, domestic industrial base · conf:L
 - [University of Utah ARPANET Fourth Node](/pages/arpanet-fourth-node.md) · `https://greatutah.work/pages/arpanet-fourth-node.md` · internet history, packet switching, computer science, ARPA research · conf:M
 - [Atmospheric Waves Experiment](/pages/atmospheric-waves-experiment.md) · `https://greatutah.work/pages/atmospheric-waves-experiment.md` · space instrumentation, upper atmosphere, atmospheric physics, Space Dynamics Laboratory, NASA · conf:M
@@ -19,7 +20,7 @@ Historical and current proofs of great Utah work. One line per page; fetch the p
 - [Harvey Fletcher and Stereophonic Sound](/pages/harvey-fletcher-stereophonic-sound.md) · `https://greatutah.work/pages/harvey-fletcher-stereophonic-sound.md` · acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering · conf:H
 - [HELP Clinical Decision Support System](/pages/help-clinical-decision-support-system.md) · `https://greatutah.work/pages/help-clinical-decision-support-system.md` · clinical decision support, medical informatics, electronic health records, hospital systems · conf:M
 - [High-Density Sustainable Aviation Fuels](/pages/high-density-sustainable-aviation-fuels.md) · `https://greatutah.work/pages/high-density-sustainable-aviation-fuels.md` · sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense · conf:L
-- [Intermountain Clinical Quality Improvement](/pages/intermountain-clinical-quality-improvement.md) · `https://greatutah.work/pages/intermountain-clinical-quality-improvement.md` · healthcare delivery science, clinical quality improvement, learning health system, process control · conf:H
+- [Intermountain Clinical Quality Improvement](/pages/intermountain-clinical-quality-improvement.md) · `https://greatutah.work/pages/intermountain-clinical-quality-improvement.md` · healthcare delivery science, clinical quality improvement, learning health system, process control · conf:M
 - [Iomega Zip Drive](/pages/iomega-zip-drive.md) · `https://greatutah.work/pages/iomega-zip-drive.md` · hardware, storage, consumer computing, peripherals, 1990s PC era · conf:H
 - [Jarvik-7 Artificial Heart](/pages/jarvik-7-artificial-heart.md) · `https://greatutah.work/pages/jarvik-7-artificial-heart.md` · medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support · conf:H
 - [MOXIE Solid Oxide Electrolysis Stack](/pages/moxie-solid-oxide-electrolysis-stack.md) · `https://greatutah.work/pages/moxie-solid-oxide-electrolysis-stack.md` · space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy · conf:H
@@ -29,10 +30,12 @@ Historical and current proofs of great Utah work. One line per page; fetch the p
 - [Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md) · `https://greatutah.work/pages/pons-fleischmann-cold-fusion.md` · scientific ethics, replication, electrochemistry, institutional behavior, science communication · conf:H
 - [Soundstream and Commercial Digital Audio Recording](/pages/soundstream-digital-audio-recording.md) · `https://greatutah.work/pages/soundstream-digital-audio-recording.md` · audio engineering, signal processing, digital recording, music technology, university spinout · conf:H
 - [Spiral Jetty](/pages/spiral-jetty.md) · `https://greatutah.work/pages/spiral-jetty.md` · Land art, Great Salt Lake, site-specific sculpture, contemporary art · conf:M
+- [Stratos Data Center](/pages/stratos-data-center.md) · `https://greatutah.work/pages/stratos-data-center.md` · hyperscale data centers, energy infrastructure, advanced manufacturing · conf:M
 - [Thiokol Solid Rocket Motors](/pages/thiokol-solid-rocket-motors.md) · `https://greatutah.work/pages/thiokol-solid-rocket-motors.md` · solid rocket motors, aerospace manufacturing, launch systems, defense industrial base · conf:M
 - [Utah Array BCI Platform](/pages/utah-array-bci-platform.md) · `https://greatutah.work/pages/utah-array-bci-platform.md` · brain-computer interfaces, neural engineering, intracortical electrodes, medical devices · conf:M
 - [University of Utah Computer Graphics Program](/pages/utah-computer-graphics-program.md) · `https://greatutah.work/pages/utah-computer-graphics-program.md` · computer graphics, rendering, human-computer interaction, software history · conf:M
+- [Utah Congregate Care Oversight Reform](/pages/utah-congregate-care-oversight-reform.md) · `https://greatutah.work/pages/utah-congregate-care-oversight-reform.md` · youth residential treatment, congregate care licensing, restraint and seclusion, state inspection regime, incident repo… · conf:M
 - [Utah FORGE](/pages/utah-forge.md) · `https://greatutah.work/pages/utah-forge.md` · enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering · conf:M
 - [Utah Population Database](/pages/utah-population-database.md) · `https://greatutah.work/pages/utah-population-database.md` · genetic epidemiology, genealogy, medical records, population health infrastructure · conf:M
 - [Utah Test and Training Range](/pages/utah-test-and-training-range.md) · `https://greatutah.work/pages/utah-test-and-training-range.md` · military test ranges, aerospace and defense, restricted airspace, weapons evaluation · conf:M
-- [WordPerfect and Novell](/pages/wordperfect-and-novell.md) · `https://greatutah.work/pages/wordperfect-and-novell.md` · software, word processing, networking, personal computing, Utah Valley · conf:H
+- [WordPerfect and Novell](/pages/wordperfect-and-novell.md) · `https://greatutah.work/pages/wordperfect-and-novell.md` · software, word processing, networking, personal computing, Utah Valley · conf:M

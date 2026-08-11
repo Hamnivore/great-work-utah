@@ -1,0 +1,13 @@
+{
+  "source_page": "creative-commons-open-high-school-curriculum-2010.md",
+  "requested_url": "https://creativecommons.org/2010/09/07/the-open-high-school-of-utah-releases-open-educational-curriculum-under-cc-by/",
+  "final_url": "https://creativecommons.org/2010/09/07/the-open-high-school-of-utah-releases-open-educational-curriculum-under-cc-by/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:19.824Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "c8b8b3934b8dca600a08caaf5d04d36f9e72e623c7c2bac92066c0f3646b1a9f",
+  "text_sha256": "f3fdf9593513875776f3888b0dc35486a68d15ed861ad86fc373427efb3452c4",
+  "text_chars": 3633,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

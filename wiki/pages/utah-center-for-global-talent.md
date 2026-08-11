@@ -9,7 +9,6 @@
 **Region:** statewide
 **Website:** https://business.utah.gov/global-talent/
 **Updated:** 2026-05-09
-**Layout:** field-guide
 
 ## Summary
 

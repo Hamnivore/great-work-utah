@@ -1,0 +1,13 @@
+{
+  "source_page": "ivumed-official-website.md",
+  "requested_url": "https://www.ivumed.org/",
+  "final_url": "https://www.ivumed.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:14.273Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "dc6b08bd0899d45ada147f9f87c484b41f6d377df3586256ceb4f86ebf3fa54c",
+  "text_sha256": "0b0f88477b1ca9d2b945038eb02d10c5838b0d9b82a28a63a3b84d08f0a43bc9",
+  "text_chars": 4169,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

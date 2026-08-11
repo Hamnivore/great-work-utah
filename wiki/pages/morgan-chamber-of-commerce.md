@@ -10,7 +10,6 @@
 **Region:** Morgan County
 **Website:** https://www.morganutahchamber.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

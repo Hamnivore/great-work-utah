@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** News Article
+**Source Type:** news
 **URL:** https://www.domo.com/company
+**Archive:** https://web.archive.org/web/20260305113943/https://www.domo.com/company
+**Archived:** 2026-03-05
 **Publisher:** Domo, Inc. / Utah Business / Deseret News
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

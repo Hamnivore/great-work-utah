@@ -14,7 +14,6 @@
 **Location Source:** https://kickstart.com/faq
 **Website:** https://www.kickstartfund.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

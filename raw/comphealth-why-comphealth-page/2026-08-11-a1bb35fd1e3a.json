@@ -1,0 +1,13 @@
+{
+  "source_page": "comphealth-why-comphealth-page.md",
+  "requested_url": "https://www.comphealth.com/why-comphealth",
+  "final_url": "https://comphealth.com/why-comphealth",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:16.497Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "b236642321a8f094642b24eb120b806659d8d221f3c8805e29c1db49e70cb1c8",
+  "text_sha256": "a1bb35fd1e3a5575edc811b870cfe79149c4de9e5e6cb1069a0385ba66e3978a",
+  "text_chars": 9419,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

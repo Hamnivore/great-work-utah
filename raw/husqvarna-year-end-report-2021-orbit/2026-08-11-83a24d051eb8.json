@@ -1,0 +1,16 @@
+{
+  "source_page": "husqvarna-year-end-report-2021-orbit.md",
+  "requested_url": "https://www.husqvarnagroup.com/sites/husqvarna/files/pr/202202023277-1.pdf",
+  "final_url": "https://www.husqvarnagroup.com/sites/husqvarna/files/pr/202202023277-1.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:45:41.068Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "3ca7d48145ad53e3173d96985b0091f930c18339dd6564781c04a62a899479f7",
+  "text_sha256": "83a24d051eb86a030b1b19f35ee7d925d043c91eb36301325a7e061fee12404e",
+  "text_chars": 57447,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 22,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

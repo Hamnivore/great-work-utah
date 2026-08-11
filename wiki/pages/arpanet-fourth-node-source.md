@@ -3,11 +3,14 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official University Article
+**Source Type:** reference
 **URL:** https://it.utah.edu/node4/posts/2017/august/node4-history.php
+**Archive:** https://web.archive.org/web/20260515203146/https://it.utah.edu/node4/posts/2017/august/node4-history.php
+**Archived:** 2026-05-15
 **Publisher:** University Information Technology, University of Utah
-**Accessed:** 2026-06-18
-**Updated:** 2026-06-18
+**Raw:** raw/arpanet-fourth-node-source/2026-08-11-0b2d1aee3db1.txt
+**Retrieved:** 2026-08-11
+**Updated:** 2026-08-11
 
 ## Summary
 
@@ -20,9 +23,19 @@ The University of Utah UIT "Node 4" article explains the name of the university'
 - It links the claim to the University's institutional memory and points readers to Marriott Library's ARPANET project.
 - The article is useful for the local Utah claim but is explicitly archived and may have stale external links.
 
+## Verbatim
+
+> "The short answer is: In 1969, the University of Utah’s Computer Science Department became the fourth node of ARPANET , the world's first packet-switching computer network and precursor of today’s internet."
+> — Article opening
+
+> "For a more detailed lifecycle of ARPANET, check out Marriott Library’s ARPANET Timeline Project (1969-1980)."
+> — Article conclusion
+
 ## Reliability Notes
 
 This is an official University of Utah article and is good evidence for the institution's own public framing of the Node 4 claim. It should be strengthened with primary ARPA, BBN, UCLA/SRI/UCSB/Utah network maps, or archival documents before the work page is promoted beyond Draft.
+
+Typed `reference` rather than `press-release`, corrected 2026-08-11. It is a 2017 explainer about where the department's news channel got its name, recounting events of 1969 — a history essay, which `attributes.md` places at the secondary tier alongside an agency's own history writing. `press-release` claimed it was an announcement the university issued about something it was doing, which would have made a retrospective look like a contemporaneous record of the node going live. The distinction matters most on exactly this kind of page, where the events described are half a century older than the document describing them.
 
 ## Related Pages
 

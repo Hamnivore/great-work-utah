@@ -9,7 +9,6 @@
 **Updated:** 2026-06-21
 **Domain:** energy
 **Region:** Beaver County
-**Hero:** https://picsum.photos/seed/tim-latimer-2026/1600/1100
 **Pull:** *Co-founder and CEO of Fervo Energy — repurposing oil-and-gas drilling to unlock firm, carbon-free geothermal power.*
 **Relates:** helps [Fervo Energy](fervo-energy.md) · https://greatutah.work/pages/fervo-energy.md
 **Relates:** cites [Profile: Tim Latimer — Fervo Energy](tim-latimer-fervo-bio.md) · https://greatutah.work/pages/tim-latimer-fervo-bio.md · https://www.fervo.com/about
@@ -18,7 +17,7 @@
 
 Tim Latimer is the co-founder and CEO of Fervo Energy, a Houston-based company developing next-generation geothermal power using horizontal drilling and reservoir engineering techniques adapted from the oil and gas industry. Latimer has a background in energy engineering and recognized that the directional-drilling and hydraulic-fracturing playbook perfected by oil and gas operators could unlock hot-rock geothermal potential at commercial scale — something conventional vertical-well geothermal could not achieve.
 
-Fervo's Utah connection is direct and substantial: the company's flagship project, Cape Station in Beaver County, is a 400 MW enhanced geothermal system intended to deliver round-the-clock carbon-free electricity. Fervo publicly filed an S-1 for a Nasdaq listing (ticker FRVO) in April 2026 with an amendment in May 2026, marking a potential transition from private to public company.
+Fervo's Utah connection is direct and substantial: Cape Station in Beaver County has a stated 400 MW target, while Fervo's 2026 SEC filing documents its proposed Nasdaq listing ([Fervo Energy](fervo-energy.md); [IPO prospectus](fervo-energy-ipo-prospectus-2026.md)).
 
 ## Impact
 
@@ -39,8 +38,8 @@ Fervo in active growth mode needs drilling engineers, reservoir engineers, geosc
 
 ## Track Record
 
-- Co-founded Fervo Energy; CEO through S-1 filing (April–May 2026, Nasdaq FRVO)
-- Cape Station: 400 MW EGS project, Beaver County, Utah
+- Co-founded Fervo Energy; CEO through its 2026 SEC filing ([IPO prospectus](fervo-energy-ipo-prospectus-2026.md))
+- Cape Station: stated 400 MW EGS target in Beaver County ([Fervo Energy](fervo-energy.md))
 - PPA signed with Google; project finance from Goldman Sachs; BHP as strategic investor
 - Stanford energy engineering background; prior oil-and-gas industry experience
 
@@ -58,6 +57,7 @@ Fervo Energy official channels; energy conference circuit (CERAWeek, Clean Energ
 
 - [Profile: Tim Latimer — Fervo Energy](tim-latimer-fervo-bio.md) · https://greatutah.work/pages/tim-latimer-fervo-bio.md · https://www.fervo.com/about
 - [Fervo Energy](fervo-energy.md) · https://greatutah.work/pages/fervo-energy.md — company he co-founded and leads
+- [Source: Fervo Energy IPO Prospectus (Form 424B4, May 2026)](fervo-energy-ipo-prospectus-2026.md) · https://greatutah.work/pages/fervo-energy-ipo-prospectus-2026.md · https://www.sec.gov/Archives/edgar/data/1853868/000162828026034849/fervoenergy-424b4.htm — a registration statement signed under liability, and the only source here describing his role that Fervo did not write for publicity.
 
 ## See Also
 

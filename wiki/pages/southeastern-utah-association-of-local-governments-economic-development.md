@@ -13,7 +13,6 @@
 **Location Source:** https://serda.utah.gov/contact
 **Website:** https://seualg.utah.gov/index.php/economic-development/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

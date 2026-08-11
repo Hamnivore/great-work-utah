@@ -11,12 +11,11 @@
 **Region:** Logan
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-08-11
-**Hero:** https://picsum.photos/seed/araknitek-2026/1600/1100
 **Relates:** cites [Official Website: Araknitek](araknitek-official-website.md) · https://greatutah.work/pages/araknitek-official-website.md
 
 ## Summary
 
-Araknitek appears to be a Utah State University spinout commercializing synthetic spider silk proteins developed in the Randy Lewis laboratory — one of the world's most prominent academic programs for recombinant spider silk research. The company was founded around 2012. Limited public information suggests it targets high-performance fibers, medical implant coatings, sutures, and composite materials. Current operational status is unverified.
+Araknitek may have been associated with synthetic spider silk research, but the only linked source page contains no captured document and explicitly does not support a founding date, location, operating status, or technology claims. Those details are unresolved.
 
 ## Impact
 
@@ -32,7 +31,7 @@ Available public information is thin. Araknitek appears to be building a platfor
 - Medical implant coatings and biodegradable sutures
 - Three-dimensional-printed medical scaffolding materials
 
-The core technical challenge is producing spider silk proteins in sufficient quantity and at low enough cost to compete with existing high-performance synthetics. Bolt Threads, a California company that raised over $200 million to commercialize similar technology, illustrates the difficulty: the science is real, but commercial-scale production has proven extremely hard.
+The core technical challenge would be producing spider silk proteins in sufficient quantity and at low enough cost to compete with existing high-performance synthetics. No captured evidence establishes Araknitek's approach or progress.
 
 ## What They Need Now
 
@@ -54,8 +53,8 @@ Utah State University's Randy Lewis laboratory is one of the most cited academic
 
 ## Open Questions
 
-- No public careers/jobs page found; company operational status is unverified (founded ~2012).
-- Is Araknitek still operationally active as of 2026? The company was founded in 2012 and current status is unverified.
+- No public careers/jobs page or verified founding record was found.
+- Is Araknitek still operationally active? Its current status and founding date are unverified.
 - Has the Randy Lewis lab created a newer or differently named commercialization vehicle that supersedes Araknitek?
 - What is Araknitek's website URL, if it still maintains a public web presence?
 - Has the company received any SBIR, STTR, or private funding since founding?

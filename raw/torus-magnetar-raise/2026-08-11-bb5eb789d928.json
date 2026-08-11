@@ -1,0 +1,13 @@
+{
+  "source_page": "torus-magnetar-raise.md",
+  "requested_url": "https://www.torus.co/news/torus-raises-200-million-from-magnetar-deployment-of-modular-power-plants",
+  "final_url": "https://www.torus.co/news/torus-raises-200-million-from-magnetar-deployment-of-modular-power-plants",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:47.987Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "59a083681f9020e296b989f57fe9c5ff18bf1d14a50dac1750c53d9ff3c0648b",
+  "text_sha256": "bb5eb789d928aebc212ef2dd9a90dce82d7567782a0da2a5a6abf9935a564bed",
+  "text_chars": 9056,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

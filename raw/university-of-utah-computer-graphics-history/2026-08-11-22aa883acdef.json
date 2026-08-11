@@ -1,0 +1,13 @@
+{
+  "source_page": "university-of-utah-computer-graphics-history.md",
+  "requested_url": "https://www.cs.utah.edu/about/history/",
+  "final_url": "https://www.cs.utah.edu/resources/history/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:49.582Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "c020c3952a37d1218e19523910a847c83a2cfd4e517798f1b4221f3fd44bd812",
+  "text_sha256": "22aa883acdef1028a170e3fb518ba298e58dfe668fcd99e3c155961f78542e05",
+  "text_chars": 13371,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

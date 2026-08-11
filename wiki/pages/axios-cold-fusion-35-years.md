@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** News Article
+**Source Type:** news
 **URL:** https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann
+**Archive:** https://web.archive.org/web/20260415160910/https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann
+**Archived:** 2026-04-15
 **Publisher:** Axios Salt Lake City
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

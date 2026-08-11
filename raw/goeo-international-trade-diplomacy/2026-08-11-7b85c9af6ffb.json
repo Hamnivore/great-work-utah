@@ -1,0 +1,13 @@
+{
+  "source_page": "goeo-international-trade-diplomacy.md",
+  "requested_url": "https://business.utah.gov/international/",
+  "final_url": "https://business.utah.gov/international/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:45.938Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "c6fe6109754225d5d87da6e0281bd063680594295f217cab1168fc1cc7b61133",
+  "text_sha256": "7b85c9af6ffb744530d0fc4c0af8f322ac1e1d31d5d2cd10187e16891838e2ec",
+  "text_chars": 4046,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

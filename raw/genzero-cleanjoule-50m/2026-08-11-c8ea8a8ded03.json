@@ -1,0 +1,13 @@
+{
+  "source_page": "genzero-cleanjoule-50m.md",
+  "requested_url": "https://genzero.co/cleanjoule-announces-us50m-investment-by-international-consortium-to-accelerate-sustainable-aviation-fuel-production/",
+  "final_url": "https://genzero.co/cleanjoule-announces-us50m-investment-by-international-consortium-to-accelerate-sustainable-aviation-fuel-production/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:45.752Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "aa9efed270de22e38428d4b7f6b2aafa51e69e56ec0da497787eb36f902a8c0c",
+  "text_sha256": "c8ea8a8ded0310de1dc82109b33c1c384e61776ad5c87d3970285d69b46fecb4",
+  "text_chars": 11617,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

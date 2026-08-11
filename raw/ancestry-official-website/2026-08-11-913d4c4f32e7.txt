@@ -1,0 +1,301 @@
+Ancestry | Family Tree, Genealogy & Family History Records
+Renewal and Cancellation Terms for further&nbsp;details.","db__globalVariableName":"lg.dnaAA","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. ","db__globalVariableName":"lg.traits","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. Offer only available with DNA purchase. Offer is for new and returning subscribers only and not for renewal of current subscriptions. Limit one&nbsp;$1 subscription per user. Your World Explorer subscription will automatically renew at $99.95 every three months after the introductory 3-month offer. If you don\u2019t want to renew, cancel at least two days before your renewal date by visiting Account Settings or by contacting us. See our Renewal&nbsp;and&nbsp;Cancellation&nbsp;Terms for further details.","db__globalVariableName":"lg.dnaBundle","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Terms apply.","db__globalVariableName":"lg.couponsOf","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription. ","db__globalVariableName":"lg.dnaSub","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Traits included with active&nbsp;subscription.","db__globalVariableName":"lg.traitsOf","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Offer only available with DNA purchase. Package offers are for new and returning subscribers only and not for renewal of current subscriptions. Your World Explorer subscription will automatically renew at $99.95 every 3 months until you cancel by visiting your Account Settings or by contacting us. See our Renewal and Cancellation Terms for further&nbsp;details.","db__globalVariableName":"lg.dnaWE","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription. Pricing for U.S. customers&nbsp;only.","db__globalVariableName":"lg.logout","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Offers available for new gift memberships only and not for renewal of current gift&nbsp;memberships.","db__globalVariableName":"lg.giftSelOf","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription.","db__globalVariableName":"lg.dna","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Terms apply.","db__globalVariableName":"lg.fhOf","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription. ","db__globalVariableName":"lg.dnaTraits","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"","db__globalVariableName":"lg.giftsOf","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription.","db__globalVariableName":"lg.origins","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping.","db__globalVariableName":"lg.acomOf","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Free trial terms&nbsp;apply.","db__globalVariableName":"lg.couponsFT","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Offer only available with DNA purchase. For new and returning subscribers only and not for renewal of current subscriptions. Limit one $1 subscription per user. Your subscription will automatically renew at $99.95 every 3 months until you cancel by visiting your Account Settings or by contacting us. See our Renewal and Cancellation Terms for&nbsp;further&nbsp;details.","db__globalVariableName":"lg.ofBundle","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Free trial terms&nbsp;apply.","db__globalVariableName":"lg.acomFT","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"AncestryDNA kit required to access these features. If you previously purchased Traits, your access will not be&nbsp;affected.","db__globalVariableName":"lg.dnaReq","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Keep in mind that this is a one-time, non-renewing membership and you will only be billed for the cost of the membership you select&nbsp;above.","db__globalVariableName":"lg.giftSelMem","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription. Package offers are for new and returning subscribers only and not for renewal of current subscriptions. Limit one $1 subscription per user. Your World Explorer subscription will automatically renew at $99.95 every 3 months or your All Access subscription will automatically renew at $149 every 3 months until you cancel by visiting your Account Settings or by contacting us. See our Renewal and Cancellation Terms for further&nbsp;details.","db__globalVariableName":"lg.dnaNS","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. Limit one $1 subscription per user. The subscription included in this package automatically renews every 3 months. ","db__globalVariableName":"lg.dnaSet","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping.","db__globalVariableName":"lg.rowFooter","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Traits included with active&nbsp;subscription.","db__globalVariableName":"lg.traitsBundle","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Some customers who have taken older AncestryDNA tests may not be able to view all traits immediately. Traits included with active&nbsp;subscription.","db__globalVariableName":"lg.traitsAdd","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Excludes shipping. More traits may be available in the future at an additional cost. Some DNA features require an Ancestry&nbsp;subscription.","db__globalVariableName":"lg.compKits","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Free trial terms&nbsp;apply.","db__globalVariableName":"lg.fhFT","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"Gift membership offer is available for new gift memberships only and not for renewal of current gift memberships. Terms&nbsp;apply.","db__globalVariableName":"lg.giftsMem","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"{\"dnaAA\":\"Offer only available with DNA purchase. Package offers are for new and returning subscribers only and not for renewal of current subscriptions. Your All Access subscription will automatically renew at $149 every 3 months until you cancel by visiting your Account Settings or by contacting us. See our Renewal and Cancellation Terms for further&nbsp;details.\",\"traits\":\"Excludes shipping. \",\"dnaBundle\":\"Excludes shipping. Offer only available with DNA purchase. Offer is for new and returning subscribers only and not for renewal of current subscriptions. Limit one&nbsp;$1 subscription per user. Your World Explorer subscription will automatically renew at $99.95 every three months after the introductory 3-month offer. If you don\\u2019t want to renew, cancel at least two days before your renewal date by visiting Account Settings or by contacting us. See our Renewal&nbsp;and&nbsp;Cancellation&nbsp;Terms for further details.\",\"couponsOf\":\"Terms apply.\",\"dnaSub\":\"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription. \",\"traitsOf\":\"Traits included with active&nbsp;subscription.\",\"dnaWE\":\"Offer only available with DNA purchase. Package offers are for new and returning subscribers only and not for renewal of current subscriptions. Your World Explorer subscription will automatically renew at $99.95 every 3 months until you cancel by visiting your Account Settings or by contacting us. See our Renewal and Cancellation Terms for further&nbsp;details.\",\"logout\":\"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription. Pricing for U.S. customers&nbsp;only.\",\"giftSelOf\":\"Offers available for new gift memberships only and not for renewal of current gift&nbsp;memberships.\",\"dna\":\"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription.\",\"fhOf\":\"Terms apply.\",\"dnaTraits\":\"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription. \",\"giftsOf\":\"\",\"origins\":\"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription.\",\"acomOf\":\"Excludes shipping.\",\"couponsFT\":\"Free trial terms&nbsp;apply.\",\"ofBundle\":\"Offer only available with DNA purchase. For new and returning subscribers only and not for renewal of current subscriptions. Limit one $1 subscription per user. Your subscription will automatically renew at $99.95 every 3 months until you cancel by visiting your Account Settings or by contacting us. See our Renewal and Cancellation Terms for&nbsp;further&nbsp;details.\",\"acomFT\":\"Free trial terms&nbsp;apply.\",\"dnaReq\":\"AncestryDNA kit required to access these features. If you previously purchased Traits, your access will not be&nbsp;affected.\",\"giftSelMem\":\"Keep in mind that this is a one-time, non-renewing membership and you will only be billed for the cost of the membership you select&nbsp;above.\",\"dnaNS\":\"Excludes shipping. Some DNA features require an Ancestry&nbsp;subscription. Package offers are for new and returning subscribers only and not for renewal of current subscriptions. Limit one $1 subscription per user. Your World Explorer subscription will automatically renew at $99.95 every 3 months or your All Access subscription will automatically renew at $149 every 3 months until you cancel by visiting your Account Settings or by contacting us. See our Renewal and Cancellation Terms for further&nbsp;details.\",\"dnaSet\":\"Excludes shipping. Limit one $1 subscription per user. The subscription included in this package automatically renews every 3 months. \",\"rowFooter\":\"Excludes shipping.\",\"traitsBundle\":\"Traits included with active&nbsp;subscription.\",\"traitsAdd\":\"Some customers who have taken older AncestryDNA tests may not be able to view all traits immediately. Traits included with active&nbsp;subscription.\",\"compKits\":\"Excludes shipping. More traits may be available in the future at an additional cost. Some DNA features require an Ancestry&nbsp;subscription.\",\"fhFT\":\"Free trial terms&nbsp;apply.\",\"giftsMem\":\"Gift membership offer is available for new gift memberships only and not for renewal of current gift memberships. Terms&nbsp;apply.\"}","db__globalVariableName":"lg","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"63","db__globalVariableName":"cl.afrGrp","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"450,000","db__globalVariableName":"cl.yearBk","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"100+","db__globalVariableName":"cl.traits","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"300 million","db__globalVariableName":"cl.newsObt","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"70 billion","db__globalVariableName":"cl.ancRec","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"100","db__globalVariableName":"cl.traitsN","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"3,600+","db__globalVariableName":"cl.dnaReg","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"130 million","db__globalVariableName":"cl.trees","db__action":"setVariable"},{"db__trigger":"onPageLoad","db__globalVariableValue":"{\"afrGrp\":\"63\",\"yearBk\":\"450,000\",\"traits\":\"100+\",\"newsObt\":\"300 million\",\"ancRec\":\"70 billion\",\"traitsN\":\"100\",\"dnaReg\":\"3,600+\",\"trees\":\"130 million\"}","db__globalVariableName":"cl","db__action":"setVariable"}]}">
+GENEALOGY
+DNA
+Digitize
+FREE TRIAL
+LOG IN
+LOG IN
+SIGN UP
+SIGN UP
+New Year’s Sale
+New Year’s Sale
+Find your family’s story with
+50%* OFF a 6-month membership.
+Find your family’s story with
+50%* OFF a 6-month membership.
+Find your family’s story with
+50%* OFF a 6-month membership.
+Save now
+*Sale ends 13 Jan at
+10am ET. Terms apply.
+You’ve got questions.
+We’ve got ancestors.
+You’ve got questions.
+We’ve got ancestors.
+You’ve got questions.
+We’ve got ancestors.
+Who are you? Where do you come from?
+Who are you? Where do you come from?
+Who are you? Where do you come from?
+Ancestry ® Family History and AncestryDNA will help
+you answer those questions.
+Ancestry ® Family History and AncestryDNA will
+help you answer those questions.
+Ancestry ® Family History and AncestryDNA will help you answer those questions.
+Each illuminates a different part of your history.
+Used together, they will help you build the most
+complete picture of your heritage possible.
+Each illuminates a different part of your history. Used together, they will help you build the most complete picture of your heritage possible.
+Try Ancestry Free
+Get a membership + DNA
+Try Ancestry Free
+Get a membership + DNA
+Free trial terms apply.
+Free trial terms apply.
+You’ve got questions.
+We’ve got ancestors. You’ve got questions.
+We’ve got ancestors. You’ve got questions.
+We’ve got ancestors.
+Curious about your family history? You’ve come to the right place.
+Curious about your family history?
+You’ve come to the right place.
+Try Ancestry free
+Free trial terms apply.
+NEW! See how records can reveal untold stories about our families. NEW! See how records can reveal untold stories about our families. NEW! See how records can reveal untold stories about our families.
+See record examples
+With two products that
+help you connect
+Your Ancestry ® Family History membership and AncestryDNA
+can work separately, or enhance each other by showing you different
+kinds of information about your history.
+Your Ancestry ® Family History
+membership and AncestryDNA
+can work separately, or enhance each
+other by showing you different
+kinds of information about your history.
+Family History is who you’re from.
+Family History is
+who you’re from.
+Learn more
+Your membership serves as a vital hub for not just building a family tree, but for the ongoing exploration and preservation of your ancestors' stories through historical records.
+Your membership serves as a vital hub for not just building a family tree, but for the ongoing exploration and preservation of your ancestors' stories through historical records.
+Learn more
+DNA is where you’re from.
+DNA is where
+you’re from.
+Learn more
+With a simple saliva test, we combine advanced genetic science and the world’s largest consumer DNA database to help pinpoint specific places in the world your family comes from.
+With a simple saliva test, we combine advanced genetic science and the world’s largest consumer DNA database to help pinpoint specific places in the world your family comes from.
+Learn more
+Pick how you want to explore your story.
+Pick how you want to explore your story.
+Whether you want to build your family tree or discover your origins, you’ve got options.
+Whether you want to build your family tree or discover your origins, you’ve got options.
+50% OFF 6-MONTH MEMBERSHIPS
+Family History
+Family History
+From
+$ 59 / 6 mo. * SAVE $60
+Reg. $119
+What's included:
+Included Access to U.S. records
+Included Build a family tree
+Included Get tools that guide you to
+new discoveries
+A membership gives you access to the world’s largest and ever-growing collection of family history records, photos, and personal stories.
+See offers
+*Ends 16 Jan 2026 at 10am ET. Terms apply.
+What's included:
+Included Access to U.S. records
+Included Build a family tree
+Included Get tools that guide you to new discoveries
+DNA
+DNA
+From
+$ 99 .00 *
+What's included:
+Included See a breakdown of where you
+come from
+Included Trace your ancestors' journey
+over time
+Included See your DNA matches and
+how you're related
+This simple test gives you detailed insights about your family's origins, across 3,600+ places around the world, including 68 new and updated regions.
+Get a DNA kit
+*Excludes shipping.
+What's included:
+Included See a breakdown of where you come from
+Included Trace your ancestors' journey over time
+Included See your DNA matches and how you're related
+Family History + DNA
+Family History + DNA
+From
+$ 100 .00 *
+What's included:
+Included Access all U.S. and
+international records
+Included Learn which ancestors connect
+you to your matches
+Included See how your genes influence
+75+ traits
+Get the combined benefits of an Ancestry World Explorer membership and AncestryDNA—plus unlock advanced DNA features.
+Get a membership + DNA
+*Terms apply.
+What's included:
+Included Access all U.S. and international records
+Included Learn which ancestors connect you to your matches
+Included See how your genes influence 75+ traits
+Learn more about what you can do with Ancestry.
+Discovering your family history is a journey, and we’re here to guide you.
+Get a deeper understanding of our products, learn from experts, and find inspiration that can show you how exciting and meaningful this experience can be.
+Watch helpful how-tos.
+From Building a Tree 101 to DNA 101 to more advanced expert tips and tricks, webinars go in-depth with lively lessons.
+Discover more
+Get started with a quick survey.
+Not sure where to begin? This questionnaire can help.
+Answer a few questions and we can point you to the right product, explain features, and give you a preview of what you could discover.
+Start our questionnaire
+Explore our Curiosity Center.
+We’ve collected some of our favorite customer stories, articles, blog posts, and videos to show what’s possible.
+Explore more
+Learn more about what you can do with Ancestry.
+Discovering your family history is a journey, and we’re here to guide you.
+Get started with a quick survey.
+Not sure where to begin? This questionnaire can help.
+Start our questionaire
+Watch helpful how-tos.
+From Building a Tree 101 to DNA 101 to more advanced expert tips and tricks, webinars go in-depth with lively lessons.
+Discover more
+Explore our Curiosity Center.
+We’ve collected some of our favorite customer stories, articles,
+blog posts, and videos to show what’s possible.
+Explore more
+Ancestry Family History
+and AncestryDNA
+Ancestry Family History and AncestryDNA
+Your Ancestry Family History membership and AncestryDNA
+can work separately, or enhance each other by showing you different
+kinds of information about your history.
+Your Ancestry Family History
+membership and AncestryDNA
+can work separately, or enhance each
+other by showing you different
+kinds of information about your history.
+Family History is who you’re from.
+Family History is
+who you’re from.
+Learn more
+Your membership serves as a vital hub for not just building a family tree, but for the ongoing exploration and preservation of your ancestors' stories through historical records.
+Your membership serves as a vital hub for not just building a family tree, but for the ongoing exploration and preservation of your ancestors' stories through historical records.
+Learn more
+DNA is where you’re from.
+DNA is where
+you’re from.
+Learn more
+With a simple saliva test, we combine advanced genetic science and the world’s largest consumer DNA database to help pinpoint specific places in the world your family comes from.
+With a simple saliva test, we combine advanced genetic science and the world’s largest consumer DNA database to help pinpoint specific places in the world your family comes from.
+Learn more
+NEW! Professional digitization with AncestryPreserve
+Collect all your family keepsakes—home videos, audio tapes, photos, documents, and more—and we’ll professionally digitize and add them to your gallery, making it easy to share with your loved ones.
+Get started
+Get started
+Choose a path to explore your story.
+Choose a path to
+explore your story.
+Whether you want to build your family tree or discover your origins, you’ve got options.
+Whether you want to build your family tree or discover your origins, you’ve got options.
+Family History
+Family History
+From
+$ 24 .99 /mo.
+What's included:
+Included Access to U.S. records
+Included Build a family tree
+Included Get tools that guide you to
+new discoveries
+A membership gives you access to the world’s largest and ever-growing collection of family history records, photos, and personal stories.
+Start a 14-day free trial
+What's included:
+Included Access to U.S. records
+Included Build a family tree
+Included Get tools that guide you to new discoveries
+DNA
+DNA
+From
+$ 99 .00
+What's included:
+Included See a breakdown of where you
+come from
+Included Trace your ancestors' journey
+over time
+Included See your DNA matches and
+how you're related
+This simple test gives you detailed insights about your family's origins across 3,600+ places around the world, including ancestral regions and journeys.
+Get a DNA kit
+Excludes shipping.
+What's included:
+Included See a breakdown of where you come from
+Included Trace your ancestors' journey over time
+Included See your DNA matches and how you're related
+Family History + DNA
+Family History + DNA
+From
+$ 100 .00
+What's included:
+Included Access all U.S. and
+international records
+Included Learn which ancestors connect
+you to your matches
+Included See how your genes influence
+100+ traits
+Get the combined benefits of an Ancestry World Explorer membership and AncestryDNA—plus unlock advanced DNA features.
+Get a membership + DNA
+Terms apply.
+What's included:
+Included Access all U.S. and international records
+Included Learn which ancestors connect you to your matches
+Included See how your genes influence 100+ traits
+Learn more about what you can do with Ancestry.
+Discovering your family history is a journey, and we’re here to guide you.
+Get a deeper understanding of our products, learn from experts, and find inspiration that can show you how exciting and meaningful this experience can be.
+Watch helpful how-tos.
+From Building a Tree 101 to DNA 101 to more advanced expert tips and tricks, webinars go in-depth with lively lessons.
+Discover more
+Get started with a quick survey.
+Not sure where to begin? This questionnaire can help.
+Answer a few questions and we can point you to the right product, explain features, and give you a preview of what you could discover.
+Start our questionnaire
+Explore Ancestry Daily.
+Check in each day for some of our favorite customer stories, videos, articles, and more.
+Explore more
+Learn more about what you can do with Ancestry.
+Discovering your family history is a journey, and we’re here to guide you.
+Get started with a quick survey.
+Not sure where to begin? This questionnaire can help.
+Start our questionaire
+Watch helpful how-tos.
+From Building a Tree 101 to DNA 101 to more advanced expert tips and tricks, webinars go in-depth with lively lessons.
+Discover more
+Explore Ancestry Daily.
+Check in each day for some of our favorite customer stories, videos, articles, and more.
+Explore more
+Genealogy Resources
+Name Meaning
+Historical Person Search
+Genealogy
+Obituaries
+Historical Collections
+Vital Records
+Census Records
+Military Records
+All Records
+Family Trees
+Create a Family Tree
+Pedigree Charts
+Search Public Trees
+AI Assistant
+Terms, privacy, & more
+Support Center
+About Us
+Ancestry Blog
+Gift Memberships
+Site Map
+Swag Shop
+Careers
+&copy; 1997-2026 Ancestry
+Privacy
+Terms and Conditions
+Corporate Information
+Patent
+Accessibility

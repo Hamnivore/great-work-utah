@@ -12,6 +12,12 @@ Normative. Pages live flat in `pages/`, one namespace; everything else about org
 
 **P4 — Pages are edited; views are compiled.** Contributors touch exactly one thing: the page in `pages/`. Every view regenerates from metadata (`node scripts/build-views.mjs`). If a change seems to need a hand-edit to a view, the metadata is wrong or a generator is missing a view.
 
+**P5 — Capture evidence, don't link to it.** A URL is a pointer, not a record. For sources a public
+institution is obliged to keep (filings, award records, datasets, papers), capture the **key** — the
+identifier plus the accession/award/DOI — so the record stays retrievable by a machine forever. For
+everything else, capture the **bytes**: an archive snapshot plus the verbatim sentences the claims
+rest on. A figure that cannot be quoted from a captured source is not a figure this wiki asserts.
+
 ## Roles
 
 `**Roles:**` identifies the broad families of contributors an entity says it currently needs. It is optional, applies only to pages with `## What They Need Now`, and is compiled into role views for people looking for work. Each value must be supported by the needs section: tag the work the entity is asking people to do, not its sector, its `Focus`, technologies or ingredients it uses, or every profession that could conceivably work there.
@@ -57,6 +63,86 @@ Use the smallest supported set of broad role families. For example, a biotech ve
 5. Place/topic pages are legitimate atoms (`culture-place` primary by default, area-label region).
 6. Openings are not atoms: needs live on the org page, one bullet per role-family per business line.
 
+## P5 precedents (evidence capture)
+
+Worked out on the first three pages taken all the way down — `myriad-genetics.md` (public company),
+`fervo-energy.md` (registrant with a live project), `business-technical-assistance-center.md` (dead
+website). Plan and phasing: `research/design/raw-source-capture.md`.
+
+1. **The identifier comes before the research.** Resolve `cik`, `ein`, `uei`, `ror`, or
+   `utah-entity` first; every later figure is then a query, not a search. Myriad's CIK made its
+   revenue, net loss, headcount, and headquarters address a five-minute pull.
+2. **One source page per artifact, even from the same filer.** Fervo's IPO prospectus and its Q1
+   10-Q are two pages, because they are two documents with different dates and different numbers —
+   P2 applied to filings.
+3. **A newer primary source supersedes an older self-reported one, and the page says so.** Fervo's
+   2023 groundbreaking release announced Cape Station at 400 MW; the 2026 prospectus states 500 MW
+   under construction. The page carries the current figure, names the earlier one with its date, and
+   does not silently drop it. Never average conflicting sources, and never leave the conflict
+   unstated.
+4. **A dead website is not a dead subject, and the registry decides which.** BTAC's site has
+   returned HTTP 500 since spring 2025, and its Confidence was Low for that reason. The IRS
+   exempt-organization record shows the entity active and filing for tax period 2025-12 — so the
+   organization is documented as operating while its site is documented as broken. Resolve existence
+   questions against a registry before downgrading a page or calling a subject defunct.
+5. **Primary records correct metadata, including location.** The 10-K's principal-executive-offices
+   address moved Myriad's map point off a stale research-park address; the 990 registration and the
+   org's own archived site agreed on BTAC's street address against a third-party directory listing.
+   When a primary record contradicts a map tuple, the primary record wins and becomes the
+   `Location Source`.
+6. **Quote before you lose it.** BTAC's amenities are only knowable now from a 2025-03-25 snapshot
+   taken twelve days before the site broke. Anything self-reported gets `Archive` + `## Verbatim` at
+   the moment it is cited, not when someone notices the 404.
+7. **A reusable dataset is its own source page.** The Utah IRS Business Master File extract is one
+   `Source Type: dataset` page that any nonprofit page can cite with its own EIN, rather than 200
+   near-identical pages. Cite the dataset page and record the row's key inline.
+8. **Sometimes the ephemeral source is the accurate one, and it is citable.** `nunug.org` has a news
+   feed stopping in 2020 and a next-meeting slot reading TBA, so from its website the group looks
+   dead; it has in fact met monthly since a March 2026 "comeback meeting" announced in a public
+   community Slack. Kids Code Camp's event page shows its final date as though the camp had never
+   been rescheduled from June. In both cases the durable public artifact is *less* accurate about the
+   present than the ephemeral one. Capture it as `Source Type: testimony` with self-contained quotes —
+   the maintainer's ruling on which workspaces are citable, and the fields such a page must omit, is
+   normative in `attributes.md`, "Community-channel testimony". **Sandbox Slack is leads-only and is
+   never a source.**
+9. **Write dated things so they stay true after the date passes.** Pages are written once and often
+   not touched for a year, so a page built around "this weekend", "upcoming", "next month", or "will
+   be" is wrong within days and silently misleads every reader after that. Anchor every instance to an
+   absolute date and phrase it so the sentence survives: *"Part 2 was scheduled for August 14–15,
+   2026, in Lehi"* stays true forever; *"AI Builder Day is coming up this Friday"* is false by
+   Saturday. Put the durable material — what the thing is, who it is for, how it works, what it costs
+   — in the body, and confine dates to instances. Where the outcome matters, make the gap explicit in
+   `## Open Questions` (*"did the August 2026 edition run as scheduled, and what came of it?"*) so the
+   page names its own staleness instead of asserting a stale fact. This applies to recurring programs
+   (P2 precedent 3), conferences, cohorts, deadlines, and funding rounds alike.
+10. **An agent that cannot re-derive a citation flags it; it does not delete it.** Learned the hard way
+   on 2026-08-11, when two agents worked this corpus concurrently and one removed the other's
+   testimony pages and its IRS-resolved `**Identifiers:**` values, rewriting a page to say the
+   evidence "does not establish" a fact a federal record did establish. In a diff, deletion is
+   indistinguishable from cleanup, and it silently destroys primary-record work that cost real effort
+   to resolve. If a citation looks unsupportable, say so in `## Open Questions` or in
+   `research/`, and leave the evidence in place for an editor.
+8. **Tier follows the speaker, not the letterhead.** A `.gov` or `.edu` URL is not primary by
+   domain. A record an institution created under a duty is primary; a page it published about
+   itself is `official-page` or `press-release`, and a history essay it published is `reference`.
+   The 2026-08-11 migration found eleven pages typed `Government Record`, four of which were agency
+   news articles and history essays — keeping their old label would have promoted press releases to
+   primary tier and made the Confidence rubric decorative.
+9. **A permanent record behind an impermanent link still needs capturing.** BTAC's 990 data is
+   permanent at the IRS and was cited through ProPublica; Iomega's 10-K was cited through a
+   third-party EDGAR mirror. Prefer the issuing body's URL, and where that is not practical, treat
+   the page as fragile and capture it. Lint reports these as `primary-behind-mirror`.
+10. **A quote is checkable or it is just our word.** Every self-reported or secondary source page
+    carries a `**Raw:**` capture in `raw/`, and lint requires each `## Verbatim` blockquote to be a
+    literal substring of it (`verbatim-not-in-raw`). This is what makes the corpus's excerpts
+    evidence rather than assertion, and it is the reason to capture the document at the moment you
+    quote it.
+11. **There is no legacy tier and no grandfather clause.** A vocabulary that tolerates 49 values
+    enforces nothing: until 2026-08-11 the Confidence check silently skipped every page whose
+    `Source Type` it did not recognize, which was 220 of 231 source pages. When a schema changes,
+    migrate the whole corpus in one pass with a script whose mapping a reviewer can audit, and let
+    the remaining work show up as a counted backlog rather than an exemption.
+
 ## Page templates (required sections by Type)
 
 - **venture**: Summary · Impact · Utah Context · What They Need Now · Open Questions · Evidence (+ optional Who Could Help, See Also)
@@ -65,7 +151,22 @@ Use the smallest supported set of broad role families. For example, a biotech ve
 - **person**: Summary · Track Record · What They're Looking For · Evidence
 - **helper**: Summary · Who They Help · Evidence
 - **guide**: free-form; must cite fact pages rather than restating them
-- **source**: what the artifact is, what it supports, retrieval date/URL
+- **source**: Summary · Useful Claims · Reliability Notes · Related Pages, plus `**Source Type:**`
+  (closed vocabulary), `**Publisher:**` and `**URL:**`. `**Retrieved:**` is written by scripts, never
+  by hand. Self-reported and secondary tiers add `**Archive:**` / `**Archived:**`, a `**Raw:**`
+  capture, and a `## Verbatim` section of exact quotes; primary tiers cited at their issuing body
+  record the accession number, award ID, or DOI instead (see `attributes.md`, "Verbatim excerpts and
+  archives"). Every figure in `## Useful Claims` must be quotable from `## Verbatim`, and every
+  `## Verbatim` quote must appear in the `**Raw:**` capture.
+  `## Useful Claims` is bounded by the document: it says what *this* document establishes, not what
+  is true about the subject. A founding year, an executive's name, or a metric that the document does
+  not contain belongs on a fact page that cites a document which does — even when the fact is
+  certainly correct. Where the claim matters and nothing supports it yet, write the document's
+  silence instead ("the homepage does not state a founding date"), which keeps the gap visible; or
+  hand the claim to the page that owns it with a normal `[link](other-page.md)`. Lint enforces the
+  mechanical half of this (`claim-anchor-not-in-raw`: dates and magnitudes absent from the capture).
+  One source page describes one document, or several documents that share one `Source Type` — never
+  a mix of tiers, which no single value can honestly label.
 
 Impact sections argue the charter's dimensions — depth, breadth, permanence, bounds, counterfactual — as prose with reasoning, plus `**Bet:**` where the work is contrarian.
 

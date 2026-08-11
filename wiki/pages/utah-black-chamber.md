@@ -13,7 +13,6 @@
 **Location Source:** https://www.linkedin.com/company/utah-black-chamber
 **Website:** https://www.utahblackchamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

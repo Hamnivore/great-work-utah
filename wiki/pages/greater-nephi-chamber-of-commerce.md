@@ -9,7 +9,6 @@
 **Region:** Nephi
 **Website:** https://www.nephichamber.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

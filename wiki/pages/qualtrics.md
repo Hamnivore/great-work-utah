@@ -26,13 +26,13 @@
 
 Qualtrics is a Utah-born enterprise software company that pioneered the experience management (XM) category. Its platform lets organizations collect, analyze, and act on feedback from customers, employees, and other stakeholders through surveys, dashboards, predictive analytics, and increasingly LLM-driven understanding of unstructured responses.
 
-Founded in 2002 in Provo by Ryan Smith, Scott Smith, Jared Smith, and Stuart Orgill, Qualtrics grew into the largest software company built in Utah. SAP acquired it for $8 billion in 2018 — the largest acquisition in SAP's history at the time — then spun it out via an independent IPO on NASDAQ (XM) in 2021. Silver Lake and CPPIB took Qualtrics private in 2023 for approximately $12.5 billion.
+Qualtrics was founded in Provo and grew into a major experience-management software company. The current captured official source does not establish its founding date, acquisition values, IPO, or take-private chronology, so those details require separate filing or transaction sources.
 
 ## Impact
 
 Qualtrics anchors Silicon Slopes. Its scale — thousands of engineers in Utah on production enterprise software, a recruiting pipeline from BYU and the University of Utah, and a founder lineage that has seeded other Utah companies — makes it a reference point for what a Utah-built global SaaS company can become.
 
-On the applied-AI angle: Qualtrics sits on one of the largest databases of human experience feedback in the world. Its XM/os platform applies LLMs to summarize open-text responses, predict churn from signal patterns, route alerts to managers, and auto-draft responses. This is applied AI at distribution scale — tens of thousands of enterprise customers, including a majority of the Fortune 500. The marginal impact per improvement is small, but the aggregate surface area for real-world decision improvement is large.
+On the applied-AI angle, Qualtrics applies LLMs to experience feedback to summarize open-text responses, predict churn from signal patterns, route alerts to managers, and draft responses. Its distribution scale is material, though customer-count and Fortune ranking claims need a captured source.
 
 ## What They Are Building
 
@@ -61,7 +61,7 @@ The company helped establish Provo/Orem as a destination for enterprise SaaS alo
 
 ## Open Questions
 
-- How has Silver Lake private-equity ownership changed operating cadence, hiring, and product investment since the 2023 take-private?
+- How has private-equity ownership changed operating cadence, hiring, and product investment?
 - Which AI feature claims (summarization accuracy, churn prediction, cost per item) can be independently verified beyond marketing materials?
 - The current placeholder hero should be swapped for a cleared corporate or facilities image; using a generic photograph could imply access or endorsement that is not present.
 - Scott Smith's current role and public visibility are less documented than Ryan Smith's; confirm biographical details before creating a dedicated people page.

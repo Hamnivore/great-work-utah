@@ -12,7 +12,6 @@
 **Website:** https://spire.us/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/spire-therapeutic-diadem-2026/1600/1100
 **Pull:** *Surgery-free, drug-free deep-brain neuromodulation for pain and depression — if Phase 3 confirms Phase 2.*
 **Relates:** cites [Official Website: Spire Therapeutics](spire-therapeutic-official-website.md) · https://greatutah.work/pages/spire-therapeutic-official-website.md · https://spire.us/
 

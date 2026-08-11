@@ -13,7 +13,6 @@
 **Location Source:** https://downtownfarmerstg.com/
 **Website:** https://downtownfarmerstg.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

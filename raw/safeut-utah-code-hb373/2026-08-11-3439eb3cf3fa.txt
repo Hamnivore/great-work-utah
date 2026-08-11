@@ -1,0 +1,452 @@
+Utah Legislature HB0373
+1 STUDENT SUPPORT AMENDMENTS
+2 2019 GENERAL SESSION
+3 STATE OF UTAH
+4 Chief Sponsor: Steve Eliason
+5 Senate Sponsor: Ann Millner
+6 Cosponsors:
+7 Karen Kwan
+Mike Winder
+8
+9 LONG TITLE
+10 General Description:
+11 This bill amends provisions related to student support and health services.
+12 Highlighted Provisions:
+13 This bill:
+14 ▸ defines terms;
+15 ▸ changes the name of the School Safety and Crisis Line to the SafeUT Crisis Line;
+16 ▸ amends provisions related to the SafeUT Crisis Line and the SafeUT and School
+17 Safety Commission, including provisions related to the University Neuropsychiatric
+18 Institute charging a fee for the use of the SafeUT Crisis Line;
+19 ▸ repeals a grant program related to the SafeUT Crisis Line;
+20 ▸ amends provisions related to mobile crisis outreach teams;
+21 ▸ authorizes the State Board of Education (board) to distribute money to local
+22 education agencies (LEAs) for personnel who provide school-based mental health
+23 support;
+24 ▸ requires the board to establish a formula for distribution of money to LEAs;
+25 ▸ enacts requirements on LEAs to receive money;
+26 ▸ requires the board to make rules related to money for the personnel;
+27 ▸ requires the Division of Substance Abuse and Mental Health to coordinate and
+28 make recommendations with the board and the Department of Health related to Medicaid
+29 reimbursement for school-based health services;
+30 ▸ enacts other provisions related to student mental health support; and
+31 ▸ makes technical and conforming changes.
+32 Money Appropriated in this Bill:
+33 This bill appropriates in fiscal year 2020:
+34 ▸ to the State Board of Education - Minimum School Program - Related to Basic
+35 School Programs - Student Health and Counseling Support Program, as an ongoing
+36 appropriation:
+37 • from the Education Fund, $26,000,000;
+38 ▸ to the State Board of Education - Minimum School Program - Related to Basic
+39 School Programs - Student Health and Counseling Support Program, as a one-time
+40 appropriation:
+41 • from the Education Fund, One-time, ($10,000,000);
+42 ▸ to the Department of Human Services - Division of Substance Abuse and Mental
+43 Health - Community Mental Health Services, as an ongoing appropriation:
+44 • from the General Fund, ($500,000); and
+45 ▸ to the University of Utah - SafeUT Crisis Text and Tip Line - SafeUT Operations,
+46 as an ongoing appropriation:
+47 • from the Education Fund, $1,770,000.
+48 Other Special Clauses:
+49 This bill provides coordination clauses.
+50 Utah Code Sections Affected:
+51 AMENDS:
+52 53F-2-519 , as last amended by Laws of Utah 2018, Chapter 396 and renumbered and
+53 amended by Laws of Utah 2018, Chapter 107
+54 53G-8-202 , as renumbered and amended by Laws of Utah 2018, Chapter 3
+55 53G-8-203 , as renumbered and amended by Laws of Utah 2018, Chapter 3
+56 53G-9-703 , as renumbered and amended by Laws of Utah 2018, Chapter 3
+57 62A-15-116 , as enacted by Laws of Utah 2018, Chapter 414
+58 ENACTS:
+59 53F-2-415 , Utah Code Annotated 1953
+60 62A-15-117 , Utah Code Annotated 1953
+61 RENUMBERS AND AMENDS:
+62 53B-17-1201 , (Renumbered from 53E-10-501, as renumbered and amended by Laws of
+63 Utah 2018, Chapter 1)
+64 53B-17-1202 , (Renumbered from 53E-10-502, as renumbered and amended by Laws of
+65 Utah 2018, Chapter 1)
+66 53B-17-1203 , (Renumbered from 53E-10-503, as renumbered and amended by Laws of
+67 Utah 2018, Chapter 1)
+68 53B-17-1204 , (Renumbered from 53E-10-504, as renumbered and amended by Laws of
+69 Utah 2018, Chapter 1)
+70 REPEALS:
+71 53E-10-505 , as renumbered and amended by Laws of Utah 2018, Chapter 1
+72 53E-10-506 , as enacted by Laws of Utah 2018, Chapter 414
+73 Utah Code Sections Affected by Coordination Clause:
+74 53B-17-1203 , Utah Code Annotated 1953
+75 53B-17-1204 , Utah Code Annotated 1953
+76 53E-1-201 , as enacted by Laws of Utah 2018, Chapter 1
+77
+78 Be it enacted by the Legislature of the state of Utah:
+79 Section 1. Section 53B-17-1201 , which is renumbered from Section 53E-10-501 is
+80 renumbered and amended to read:
+81 Part 12. SafeUT Crisis Line
+82 [ 53E-10-501 ]. 53B-17-1201. Definitions.
+83 As used in this part:
+84 (1) "Commission" means the SafeUT and School Safety [ and Crisis Line ] Commission
+85 established in Section [ 53E-10-503 ] 53B-17-1203 .
+86 (2) "University Neuropsychiatric Institute" means the mental health and substance
+87 abuse treatment institute within the University of Utah Hospitals and Clinics.
+88 Section 2. Section 53B-17-1202 , which is renumbered from Section 53E-10-502 is
+89 renumbered and amended to read:
+90 [ 53E-10-502 ]. 53B-17-1202. SafeUT Crisis Line established.
+91 The University Neuropsychiatric Institute shall:
+92 (1) establish a [ School Safety and ] SafeUT Crisis Line to provide:
+93 (a) a means for an individual to anonymously report:
+94 (i) unsafe, violent, or criminal activities, or the threat of such activities at or near a
+95 public school;
+96 (ii) incidents of bullying, cyber-bullying, harassment, or hazing; and
+97 (iii) incidents of physical or sexual abuse committed by a school employee or school
+98 volunteer; and
+99 (b) crisis intervention, including suicide prevention, to individuals experiencing
+100 emotional distress or psychiatric crisis;
+101 (2) provide the services described in Subsection (1) 24 hours a day, seven days a week;
+102 and
+103 (3) when necessary, or as required by law, promptly forward a report received under
+104 Subsection (1)(a) to appropriate:
+105 (a) school officials; and
+106 (b) law enforcement officials.
+107 Section 3. Section 53B-17-1203 , which is renumbered from Section 53E-10-503 is
+108 renumbered and amended to read:
+109 [ 53E-10-503 ]. 53B-17-1203. SafeUT and School Safety Commission
+110 established -- Members.
+111 (1) There is created the SafeUT and School Safety [ and Crisis Line ] Commission
+112 composed of the following members:
+113 (a) one member who represents the Office of the Attorney General, appointed by the
+114 attorney general;
+115 (b) one member who represents the Utah public education system, appointed by the
+116 State Board of Education;
+117 (c) one member who represents the Utah System of Higher Education, appointed by the
+118 State Board of Regents;
+119 (d) one member who represents the Utah Department of Health, appointed by the
+120 executive director of the Department of Health;
+121 (e) one member of the House of Representatives, appointed by the speaker of the
+122 House of Representatives;
+123 (f) one member of the Senate, appointed by the president of the Senate;
+124 (g) one member who represents the University Neuropsychiatric Institute, appointed by
+125 the chair of the commission;
+126 (h) one member who represents law enforcement who has extensive experience in
+127 emergency response, appointed by the chair of the commission;
+128 (i) one member who represents the Utah Department of Human Services who has
+129 experience in youth services or treatment services, appointed by the executive director of the
+130 Department of Human Services; and
+131 (j) two members of the public, appointed by the chair of the commission.
+132 (2) (a) Except as provided in Subsection (2)(b), members of the commission shall be
+133 appointed to four-year terms.
+134 (b) The length of the terms of the members shall be staggered so that approximately
+135 half of the committee is appointed every two years.
+136 (c) When a vacancy occurs in the membership of the commission, the replacement
+137 shall be appointed for the unexpired term.
+138 (3) (a) The attorney general's designee shall serve as chair of the commission.
+139 (b) The chair shall set the agenda for commission meetings.
+140 (4) Attendance of a simple majority of the members constitutes a quorum for the
+141 transaction of official commission business.
+142 (5) Formal action by the commission requires a majority vote of a quorum.
+143 (6) (a) Except as provided in Subsection (6)(b), a member may not receive
+144 compensation, benefits, per diem, or travel expenses for the member's service.
+145 (b) Compensation and expenses of a member who is a legislator are governed by
+146 Section 36-2-2 and Legislative Joint Rules, Title 5, Legislative Compensation and Expenses.
+147 (7) The Office of the Attorney General shall provide staff support to the commission.
+148 Section 4. Section 53B-17-1204 , which is renumbered from Section 53E-10-504 is
+149 renumbered and amended to read:
+150 [ 53E-10-504 ]. 53B-17-1204. SafeUT and School Safety Commission duties
+151 -- LEA governing board duties -- Fees.
+152 (1) As used in this section:
+153 (a) "LEA governing board" means:
+154 (i) for a school district, the local school board;
+155 (ii) for a charter school, the charter school governing board; or
+156 (iii) for the Utah Schools for the Deaf and the Blind, the State Board of Education.
+157 (b) "Local education agency" or "LEA" means:
+158 (i) a school district;
+159 (ii) a charter school; or
+160 (iii) the Utah Schools for the Deaf and the Blind.
+161 (2) The commission shall coordinate:
+162 [ (1) ] (a) statewide efforts related to the [ School Safety and ] SafeUT Crisis Line; and
+163 [ (2) ] (b) with the State Board of Education and the State Board of Regents to promote
+164 awareness of the services available through the [ School Safety and ] SafeUT Crisis Line.
+165 (3) An LEA governing board shall inform students, parents, and school personnel
+166 about the SafeUT Crisis Line.
+167 (4) (a) Except as provided in Subsection (4)(b), the University Neuropsychiatric
+168 Institute may charge a fee to an institution of higher education or other entity for the use of the
+169 SafeUT Crisis Line in accordance with the method described in Subsection (4)(c).
+170 (b) The University Neuropsychiatric Institute may not charge a fee to the State Board
+171 of Education or a local education agency for the use of the SafeUT Crisis Line.
+172 (c) The commission shall establish a standard method for charging a fee described in
+173 Subsection (4)(a).
+174 Section 5. Section 53F-2-415 is enacted to read:
+175 53F-2-415. Student health and counseling support -- Qualifying personnel --
+176 Distribution formula -- Rulemaking.
+177 (1) As used in this section, "qualifying personnel" means a school counselor or other
+178 counselor, school psychologist or other psychologist, school social worker or other social
+179 worker, or school nurse who:
+180 (a) is licensed; and
+181 (b) collaborates with educators and a student's parent on:
+182 (i) early identification and intervention of the student's academic and mental health
+183 needs; and
+184 (ii) removing barriers to learning and developing skills and behaviors critical for the
+185 student's academic achievement.
+186 (2) (a) Subject to legislative appropriations, and in accordance with Subsection (2)(b),
+187 the state board shall distribute money appropriated under this section to LEAs to provide in a
+188 school targeted school-based mental health support, including clinical services and
+189 trauma-informed care, through employing or entering into contracts for services provided by
+190 qualifying personnel.
+191 (b) (i) The state board shall, after consulting with LEA governing boards, develop a
+192 formula to distribute money appropriated under this section to LEAs.
+193 (ii) The state board shall ensure that the formula described in Subsection (2)(b)(i)
+194 incentivizes an LEA to provide school-based mental health support in collaboration with the
+195 local mental health authority of the county in which the LEA is located.
+196 (3) To qualify for money under this section, an LEA shall submit to the state board a
+197 plan that includes:
+198 (a) measurable goals approved by the LEA governing board on improving student
+199 safety, student engagement, school culture, or academic achievement;
+200 (b) how the LEA intends to meet the goals described in Subsection (3)(a) through the
+201 use of the money;
+202 (c) how the LEA is meeting the requirements related to parent education described in
+203 Section 53G-9-703 ; and
+204 (d) whether the LEA intends to provide school-based mental health support in
+205 collaboration with the local mental health authority of the county in which the LEA is located.
+206 (4) The state board shall distribute money appropriated under this section to an LEA
+207 that qualifies under Subsection (3):
+208 (a) based on the formula described in Subsection (2)(b); and
+209 (b) in an amount of money that the LEA equally matches using local or unrestricted
+210 state money.
+211 (5) An LEA may not use money distributed by the state board under this section to
+212 supplant federal, state, or local money previously allocated to employ or enter into contracts for
+213 services provided by qualified personnel.
+214 (6) The state board shall make rules that establish:
+215 (a) procedures for submitting a plan for and distributing money under this section;
+216 (b) the formula the state board will use to distribute money to LEAs described in
+217 Subsection (2)(b); and
+218 (c) in accordance with Subsection (7), annual reporting requirements for an LEA that
+219 receives money under this section.
+220 (7) An LEA that receives money under this section shall submit an annual report to the
+221 state board, including:
+222 (a) progress toward achieving the goals submitted under Subsection (3)(a);
+223 (b) if the LEA discontinues a qualifying personnel position, the LEA's reason for
+224 discontinuing the position; and
+225 (c) how the LEA, in providing school-based mental health support, complies with the
+226 provisions of Section 53E-9-203 .
+227 (8) Beginning on or before July 1, 2019, the state board shall provide training that
+228 instructs school personnel on the impact of childhood trauma on student learning, including
+229 information advising educators against practicing medicine, giving a diagnosis, or providing
+230 treatment.
+231 (9) The state board may use up to 2% of an appropriation under this section for costs
+232 related to the administration of the provisions of this section.
+233 (10) Notwithstanding the provisions of this section, money appropriated under this
+234 section may be used, as determined by the state board, for:
+235 (a) the SafeUT Crisis Line described in Section 53B-17-1202 ; or
+236 (b) youth suicide prevention programs described in Section 53G-9-702 .
+237 Section 6. Section 53F-2-519 is amended to read:
+238 53F-2-519. Appropriation for school nurses.
+239 (1) The State Board of Education shall distribute money appropriated for school nurses
+240 to award grants to school districts and charter schools that:
+241 (a) provide an equal amount of matching funds; and
+242 (b) do not supplant other money used for school nurses.
+243 (2) (a) A school district or charter school that is awarded a grant under this section
+244 shall require each school nurse employed by the school district or charter school to complete
+245 two hours of continuing nurse education on the emotional and mental health of students.
+246 (b) The continuing nurse education described in Subsection (2)(a) shall include training
+247 on:
+248 (i) the awareness of, screening for, and triaging to appropriate treatment for mental
+249 health problems;
+250 (ii) trauma-informed care;
+251 (iii) signs of mental illness;
+252 (iv) alcohol and substance abuse;
+253 (v) response to acute mental health crises; and
+254 (vi) suicide prevention, including information about the 24-hour availability of the
+255 [ School Safety and ] SafeUT Crisis Line established under Section [ 53E-10-502 ] 53B-17-1202 .
+256 Section 7. Section 53G-8-202 is amended to read:
+257 53G-8-202. Public school discipline policies -- Basis of the policies --
+258 Enforcement.
+259 (1) The Legislature recognizes that every student in the public schools should have the
+260 opportunity to learn in an environment which is safe, conducive to the learning process, and
+261 free from unnecessary disruption.
+262 (2) (a) To foster such an environment, each local school board or governing board of a
+263 charter school, with input from school employees, parents and guardians of students, students,
+264 and the community at large, shall adopt conduct and discipline policies for the public schools
+265 in accordance with Section 53G-8-211 .
+266 (b) A district or charter school shall base its policies on the principle that every student
+267 is expected:
+268 (i) to follow accepted rules of conduct; and
+269 (ii) to show respect for other people and to obey persons in authority at the school.
+270 (c) (i) On or before September 1, 2015, the State Board of Education shall revise the
+271 conduct and discipline policy models for elementary and secondary public schools to include
+272 procedures for responding to reports received through the [ School Safety and ] SafeUT Crisis
+273 Line under Subsection [ 53E-10-502 ] 53B-17-1202 (3).
+274 (ii) Each district or charter school shall use the models, where appropriate, in
+275 developing its conduct and discipline policies under this chapter.
+276 (d) The policies shall emphasize that certain behavior, most particularly behavior
+277 which disrupts, is unacceptable and may result in disciplinary action.
+278 (3) The local superintendent and designated employees of the district or charter school
+279 shall enforce the policies so that students demonstrating unacceptable behavior and their
+280 parents or guardians understand that such behavior will not be tolerated and will be dealt with
+281 in accordance with the district's conduct and discipline policies.
+282 Section 8. Section 53G-8-203 is amended to read:
+283 53G-8-203. Conduct and discipline policies and procedures.
+284 (1) The conduct and discipline policies required under Section 53G-8-202 shall
+285 include:
+286 (a) provisions governing student conduct, safety, and welfare;
+287 (b) standards and procedures for dealing with students who cause disruption in the
+288 classroom, on school grounds, on school vehicles, or in connection with school-related
+289 activities or events;
+290 (c) procedures for the development of remedial discipline plans for students who cause
+291 a disruption at any of the places referred to in Subsection (1)(b);
+292 (d) procedures for the use of reasonable and necessary physical restraint in dealing with
+293 students posing a danger to themselves or others, consistent with Section 53G-8-302 ;
+294 (e) standards and procedures for dealing with student conduct in locations other than
+295 those referred to in Subsection (1)(b), if the conduct threatens harm or does harm to:
+296 (i) the school;
+297 (ii) school property;
+298 (iii) a person associated with the school; or
+299 (iv) property associated with a person described in Subsection (1)(e)(iii);
+300 (f) procedures for the imposition of disciplinary sanctions, including suspension and
+301 expulsion;
+302 (g) specific provisions, consistent with Section 53E-3-509 , for preventing and
+303 responding to gang-related activities in the school, on school grounds, on school vehicles, or in
+304 connection with school-related activities or events;
+305 (h) standards and procedures for dealing with habitual disruptive or unsafe student
+306 behavior in accordance with the provisions of this part; and
+307 (i) procedures for responding to reports received through the [ School Safety and ]
+308 SafeUT Crisis Line under Subsection [ 53E-10-502 ] 53B-17-1202 (3).
+309 (2) (a) Each local school board shall establish a policy on detaining students after
+310 regular school hours as a part of the district-wide discipline plan required under Section
+311 53G-8-202 .
+312 (b) (i) The policy described in Subsection (2)(a) shall apply to elementary school
+313 students, grades kindergarten through six.
+314 (ii) The board shall receive input from teachers, school administrators, and parents and
+315 guardians of the affected students before adopting the policy.
+316 (c) The policy described in Subsection (2)(a) shall provide for:
+317 (i) notice to the parent or guardian of a student prior to holding the student after school
+318 on a particular day; and
+319 (ii) exceptions to the notice provision if detention is necessary for the student's health
+320 or safety.
+321 Section 9. Section 53G-9-703 is amended to read:
+322 53G-9-703. Parent education -- Mental health -- Bullying -- Safety.
+323 (1) (a) Except as provided in Subsection (4), a school district shall offer a seminar for
+324 parents of students in the school district that:
+325 (i) is offered at no cost to parents;
+326 (ii) begins at or after 6 p.m.;
+327 (iii) is held in at least one school located in the school district; and
+328 (iv) covers the topics described in Subsection (2).
+329 (b) (i) A school district shall annually offer one parent seminar for each 11,000
+330 students enrolled in the school district.
+331 (ii) Notwithstanding Subsection (1)(b)(i), a school district may not be required to offer
+332 more than three seminars.
+333 (c) A school district may:
+334 (i) develop its own curriculum for the seminar described in Subsection (1)(a); or
+335 (ii) use the curriculum developed by the State Board of Education under Subsection
+336 (2).
+337 (d) A school district shall notify each charter school located in the attendance
+338 boundaries of the school district of the date and time of a parent seminar, so the charter school
+339 may inform parents of the seminar.
+340 (2) The State Board of Education shall:
+341 (a) develop a curriculum for the parent seminar described in Subsection (1) that
+342 includes information on:
+343 (i) substance abuse, including illegal drugs and prescription drugs and prevention;
+344 (ii) bullying;
+345 (iii) mental health, depression, suicide awareness, and suicide prevention, including
+346 education on limiting access to fatal means;
+347 (iv) Internet safety, including pornography addiction; and
+348 (v) the [ School Safety and ] SafeUT Crisis Line established in Section [ 53E-10-502 ]
+349 53B-17-1202 ; and
+350 (b) provide the curriculum, including resources and training, to school districts upon
+351 request.
+352 (3) The State Board of Education shall report to the Legislature's Education Interim
+353 Committee, by the October 2015 meeting, on:
+354 (a) the progress of implementation of the parent seminar;
+355 (b) the number of parent seminars conducted in each school district;
+356 (c) the estimated attendance reported by each school district;
+357 (d) a recommendation of whether to continue the parent seminar program; and
+358 (e) if a local school board has opted out of providing the parent seminar, as described
+359 in Subsection (4), the reasons why a local school board opted out.
+360 (4) (a) A school district is not required to offer the parent seminar if the local school
+361 board determines that the topics described in Subsection (2) are not of significant interest or
+362 value to families in the school district.
+363 (b) If a local school board chooses not to offer the parent seminar, the local school
+364 board shall notify the State Board of Education and provide the reasons why the local school
+365 board chose not to offer the parent seminar.
+366 Section 10. Section 62A-15-116 is amended to read:
+367 62A-15-116. Mobile crisis outreach team expansion.
+368 (1) In consultation with the [ Crisis Line ] Mental Health Crisis Line Commission,
+369 established in Section [ 53E-10-503 ] 63C-18-202 , the division shall award grants for the
+370 development of five mobile crisis outreach teams:
+371 (a) (i) in counties of the second, third, fourth, fifth, or sixth class; or
+372 (ii) in counties of the first class, if no more than two mobile crisis outreach teams are
+373 operating or have been awarded a grant to operate in the county; and
+374 (b) to provide mental health crisis services 24 hours per day, 7 days per week, and
+375 every day of the year.
+376 (2) The division shall prioritize the award of a grant described in Subsection (1) to
+377 entities, based on:
+378 (a) the number of individuals the proposed mobile crisis outreach team will serve; and
+379 (b) the percentage of matching funds the entity will provide to develop the proposed
+380 mobile crisis outreach team.
+381 (3) An entity does not need to have resources already in place to be awarded a grant
+382 described in Subsection (1).
+383 (4) In consultation with the [ Crisis Line ] Mental Health Crisis Line Commission,
+384 established in Section [ 53E-10-503 ] 63C-18-202 , the division shall make rules, in accordance
+385 with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for the application and award
+386 of the grants described in Subsection (1).
+387 Section 11. Section 62A-15-117 is enacted to read:
+388 62A-15-117. Medicaid reimbursement for school-based health services -- Report
+389 to Legislature.
+390 (1) As used in this section, "individualized education program" or "IEP" means a
+391 written statement for a student with a disability that is developed, reviewed, and revised in
+392 accordance with the Individuals with Disabilities Education Act, 20 U.S.C. Sec. 1400 et seq.
+393 (2) The division shall coordinate with the State Board of Education, the Department of
+394 Health, and stakeholders to address and develop recommendations related to:
+395 (a) the expansion of Medicaid reimbursement for school-based health services,
+396 including how to expand Medicaid-eligible school-based services beyond the services for
+397 students with IEPs; and
+398 (b) other areas concerning Medicaid reimbursement for school-based health services,
+399 including the time threshold for medically necessary IEP services.
+400 (3) The division, the State Board of Education, and the Department of Health shall
+401 jointly report the recommendations described in Subsection (2) to the Education Interim
+402 Committee on or before August 15, 2019.
+403 Section 12. Repealer.
+404 This bill repeals:
+405 Section 53E-10-505 , State Board of Education and local boards of education to
+406 update policies and promote awareness.
+407 Section 53E-10-506 , Higher education implementation of School Safety and Crisis
+408 Line.
+409 Section 13. Appropriation.
+410 The following sums of money are appropriated for the fiscal year beginning July 1,
+411 2019, and ending June 30, 2020. These are additions to amounts previously appropriated for
+412 fiscal year 2020. Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures
+413 Act, the Legislature appropriates the following sums of money from the funds or accounts
+414 indicated for the use and support of the government of the state of Utah.
+415 ITEM 1
+416 To State Board of Education - Minimum School Program - Related to Basic School
+417 Programs
+418 From Education Fund $26,000,000
+419 From Education Fund, One-time ($10,000,000)
+420 Schedule of Programs:
+421 Student Health and Counseling
+422 Support Program $16,000,000
+423 The Legislature intends that the State Board of Education use the appropriation
+424 provided under this item for the purposes described in Section 53F-2-415 .
+425 ITEM 2
+426 To Department of Human Services - Division of Substance Abuse and Mental Health
+427 From General Fund ($500,000)
+428 Schedule of Programs:
+429 Community Mental Health Services ($500,000)
+430 ITEM 3
+431 To University of Utah - SafeUT Crisis Text and Tip Line
+432 From Education Fund $1,770,000
+433 Schedule of Programs:
+434 SafeUT Operations $1,770,000
+435 Section 14. Coordinating H.B. 373 with S.B. 14 -- Substantive language.
+436 If this H.B. 373 and S.B. 14, Education Reporting Requirements, both pass and become
+437 law, it is the intent of the Legislature that the Office of Legislative Research and General
+438 Counsel prepare the Utah Code database for publication by:
+439 (1) inserting the following language as a new Subsection 53E-1-201 (2)(j):
+440 "(j) the report described in Section 62A-15-117 by the Division of Substance Abuse
+441 and Mental Health, the State Board of Education, and the Department of Health regarding
+442 recommendations related to Medicaid reimbursement for school-based health services;"; and
+443 (2) renumbering remaining subsections accordingly.
+444 Section 15. Coordinating H.B. 373 with H.B. 27 -- Superseding technical and
+445 substantive amendments.
+446 If this H.B. 373 and H.B. 27, Public Education Definitions Amendments, both pass and
+447 become law, it is the intent of the Legislature that when the Office of Legislative Research and
+448 General Counsel prepares the Utah Code database for publication:
+449 (1) Section 53B-17-1203 in this bill supersedes Section 53E-10-503 in H.B. 27; and
+450 (2) Section 53B-17-1204 in this bill supersedes Section 53E-10-504 in H.B. 27.

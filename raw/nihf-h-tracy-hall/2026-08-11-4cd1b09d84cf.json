@@ -1,0 +1,13 @@
+{
+  "source_page": "nihf-h-tracy-hall.md",
+  "requested_url": "https://www.invent.org/inductees/h-tracy-hall",
+  "final_url": "https://www.invent.org/inductees/h-tracy-hall",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:16.100Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "476c85862bcdc98ddbcad26279b47d342ff84743a5b57b7dddd5ee2b6bea762c",
+  "text_sha256": "4cd1b09d84cfef9684af5b416d820a8dd6cde374c3e082c0e182dc8c8cbac54a",
+  "text_chars": 4413,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

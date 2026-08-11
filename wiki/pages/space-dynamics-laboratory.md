@@ -18,8 +18,6 @@
 **Domain:** space-science, aerospace-defense
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** /img/heroes/front/space-dynamics-1600.webp
-**Hero caption:** *The SDL auditorium building at sunrise, North Logan, Utah — photograph by Jacobkhed (Wikimedia Commons, CC BY-SA 4.0).*
 **Pull:** *Utah State University's UARC, with more than four hundred space missions and the moon visible above the auditorium.*
 **Relates:** cites [Official Website: Space Dynamics Laboratory](space-dynamics-laboratory-official-website.md) · https://greatutah.work/pages/space-dynamics-laboratory-official-website.md · https://www.sdl.usu.edu
 

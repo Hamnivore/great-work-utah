@@ -20,7 +20,6 @@
 **Additional Map Location:** Kiln Cabin, 9049 Timphaven Rd, Sundance, UT 84604 | 40.3956286, -111.5908962 | exact | https://kiln.com/communities/sundance-kiln-cabin/
 **Website:** https://kiln.com
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

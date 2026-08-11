@@ -13,7 +13,6 @@
 **Location Precision:** exact
 **Location Source:** https://umac.utahtech.edu/art-in-the-city/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

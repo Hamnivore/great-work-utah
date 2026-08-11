@@ -12,7 +12,6 @@
 **Website:** https://www.rebelmedicine.com/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/rebel-medicine-alevatrix-2026/1600/1100
 **Pull:** *A 72-hour injectable local anesthetic that could spare opioids after routine surgery — if it beats an entrenched incumbent.*
 **Relates:** cites [Official Website: Rebel Medicine](rebel-medicine-official-website.md) · https://greatutah.work/pages/rebel-medicine-official-website.md · https://www.rebelmedicine.com/
 

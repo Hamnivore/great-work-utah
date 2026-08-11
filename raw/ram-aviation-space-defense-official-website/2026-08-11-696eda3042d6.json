@@ -1,0 +1,13 @@
+{
+  "source_page": "ram-aviation-space-defense-official-website.md",
+  "requested_url": "https://ramasd.com",
+  "final_url": "https://ram.space/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:27.562Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "6ea03f6855eeb2e49332307598145d5277ea9dde0cd01326f8a969322ebc4ba5",
+  "text_sha256": "696eda3042d648fa074885e1ac9e86fbbe086e4eb9be34dfc576ad01ed3fde3e",
+  "text_chars": 3875,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

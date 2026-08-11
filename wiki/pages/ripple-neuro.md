@@ -13,7 +13,6 @@
 **Careers:** https://rippleneuro.com/careers-at-ripple/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/ripple-neuro-2026/1600/1100
 **Pull:** *The instruments that make invasive neuroscience possible — 512 channels of real-time neural recording, in a palm-sized wireless system, built over 20 years from the same University of Utah lineage as the Utah Array.*
 **Relates:** cites [Official Website: Ripple Neuro](ripple-neuro-official-website.md) · https://greatutah.work/pages/ripple-neuro-official-website.md · https://rippleneuro.com
 

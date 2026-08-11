@@ -1,0 +1,13 @@
+{
+  "source_page": "ancestry-official-website.md",
+  "requested_url": "https://www.ancestry.com/",
+  "final_url": "https://www.ancestry.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:15.086Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "d7b75c51c96034f75c197cef7f579c3a4cc8e3b1467dddccfdfcd95addbf6158",
+  "text_sha256": "913d4c4f32e721e2f0db98a6250c873251a6df05d4286bd38c0fb1eb3bc17741",
+  "text_chars": 24006,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

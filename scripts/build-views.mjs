@@ -56,7 +56,41 @@ for (const f of fs.readdirSync(PAGES).sort()) {
     needs: clip(section(raw, 'What They Need Now'), 400),
     needsReviewed: meta(raw, 'Needs-reviewed'),
     summary: clip(section(raw, 'Summary'), 150),
+    stage: meta(raw, 'Stage'),
+    era: meta(raw, 'Era'),
+    audience: meta(raw, 'Audience'),
+    evidence: section(raw, 'Evidence'),
   })
+}
+
+// Stage and Era were written as free prose — 131 distinct values across 135 pages — so nothing
+// could group them. Rather than rewrite every page to a vocabulary chosen after the fact, the
+// grouping key is derived here and the author's own words are printed beside it, which keeps the
+// judgment visible and the derivation reversible. Same shape as Region deriving from Utah Location.
+const STAGES = [
+  ['defunct-or-unknown', /\b(defunct|dissolved|wound down|ceased|status unverified|unknown)\b/i],
+  ['acquired', /\b(acquired|acquisition|subsidiary|owned by|[a-z]-owned)\b/i],
+  ['public', /\b(publicly traded|public (company|industrial)|NASDAQ|NYSE|IPO)\b/i],
+  ['university-research', /\b(university research|research (institute|lab|group)|academic (lab|center))\b/i],
+  ['government-or-nonprofit', /\b(government|federal|state agency|nonprofit|non-profit|501\(c\)|university (program|center|institute))\b/i],
+  ['clinical-or-preclinical', /\b(clinical-stage|preclinical|pre-clinical|Phase [I1-3]|IND-track|FDA)\b/i],
+  ['early-stage', /\b(early|seed|pre-revenue|spinout|stealth|Series A|STTR|SBIR|Y Combinator|venture-backed|founded 202[3-9])\b/i],
+  ['growth', /\b(growth|Series [B-Z]|scaling|expansion|expanding|commercializing)\b/i],
+  ['established', /\b(established|mature|profitable|operational|commercial|private)\b/i],
+]
+const stageKey = (s) => (STAGES.find(([, re]) => re.test(s)) || ['unclassified'])[0]
+
+const ERAS = [
+  ['pre-1900', (y) => y < 1900],
+  ['1900–1949', (y) => y < 1950],
+  ['1950–1979', (y) => y < 1980],
+  ['1980–1999', (y) => y < 2000],
+  ['2000–2019', (y) => y < 2020],
+  ['2020–present', () => true],
+]
+const eraKey = (s) => {
+  const y = Number((s.match(/\b(1[6-9]\d{2}|20\d{2})\b/) || [])[1])
+  return y ? ERAS.find(([, f]) => f(y))[0] : 'undated'
 }
 
 const line = (p, extra = '') => `- [${p.title}](${p.url}) · \`${p.path}\` · ${clip(p.focus || p.summary, 120)} · conf:${p.conf}${extra}\n`
@@ -70,7 +104,13 @@ for (const [t, desc] of Object.entries(TYPES)) {
   let out = `# ${t} — ${sel.length} pages\n\n${desc}. One line per page; fetch the page for detail and evidence.\n`
   if (t === 'helper') out += `\nFor free mentorship and the full routing map, start at [find-an-advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\` — this list is mostly paid specialists, not SCORE/SBDC.\n`
   out += `\n`
-  for (const p of sel) out += t === 'venture' && p.needs ? `${line(p).trimEnd()}\n  needs: ${clip(p.needs, 280)}\n` : line(p)
+  // A guide's `**Audience:**` is who it was written for, which is the one thing a reader needs
+  // to decide whether to open it — and it was previously written on the page and shown nowhere.
+  for (const p of sel) {
+    if (t === 'venture' && p.needs) out += `${line(p).trimEnd()}\n  needs: ${clip(p.needs, 280)}\n`
+    else if (t === 'guide' && p.audience) out += `${line(p).trimEnd()}\n  for: ${clip(p.audience, 200)}\n`
+    else out += line(p)
+  }
   write(`${PLURAL[t]}.md`, out)
 }
 
@@ -172,6 +212,60 @@ if (regional.length) {
   write('by-region.md', reg)
 }
 
+// ---- by stage and by era ----
+// Both carry the same caveat, stated on the view itself rather than in a doc nobody fetches:
+// these attributes are asserted in metadata and cited by nothing. A reader who wants to act on
+// "this company is public" has to go to the page and find out whether anything supports it.
+const UNSOURCED = (field, n) =>
+  `\n> **These groupings are not yet evidence.** \`**${field}:**\` is asserted in page metadata and no\n> source page backs it, so a line here is a claim the wiki has not checked — unlike Domain or\n> Region, which describe placement rather than fact. ${n} pages carry it. Treat this view as an\n> index to verify from, not a finding. The author's own wording is printed beside each entry.\n`
+
+const staged = pages.filter((p) => p.stage)
+if (staged.length) {
+  let out = `# By stage\n\nGenerated from \`**Stage:**\` metadata (${staged.length} pages). The grouping key is derived from the free-text value at build time; the original text follows each entry.\n${UNSOURCED('Stage', staged.length)}`
+  const by = {}
+  for (const p of staged) (by[stageKey(p.stage)] ||= []).push(p)
+  for (const [k, sel] of Object.entries(by).sort()) {
+    out += `\n## ${k} (${sel.length})\n\n`
+    for (const p of sel) out += `- [${p.title}](${p.url}) · \`${p.path}\` · ${clip(p.stage, 110)}\n`
+  }
+  write('by-stage.md', out)
+}
+
+const dated = pages.filter((p) => p.era)
+if (dated.length) {
+  let out = `# By era\n\nGenerated from \`**Era:**\` metadata (${dated.length} pages), grouped by the earliest year the value names. Mostly historical work, so periods overlap — a page appears once, under its beginning.\n${UNSOURCED('Era', dated.length)}`
+  const by = {}
+  for (const p of dated) (by[eraKey(p.era)] ||= []).push(p)
+  const order = [...ERAS.map(([k]) => k), 'undated']
+  for (const k of order.filter((k) => by[k])) {
+    out += `\n## ${k} (${by[k].length})\n\n`
+    for (const p of by[k]) out += `- [${p.title}](${p.url}) · \`${p.path}\` · ${clip(p.era, 110)}\n`
+  }
+  write('by-era.md', out)
+}
+
+// ---- evidence graph ----
+// The inverse of every Evidence section: which pages rest on each source. This is what the
+// hand-written `**Relates:**` field was approximating one page at a time — and because it is
+// derived from the citations themselves it cannot drift out of agreement with them. The orphan
+// list is the part no page can show you: a source nothing cites is either a page whose work was
+// never finished, or evidence collected for a claim that did not survive.
+const sourcePages = pages.filter((p) => p.type === 'source')
+const citedBy = new Map(sourcePages.map((p) => [p.file, []]))
+for (const p of pages) {
+  if (p.type === 'source') continue
+  for (const m of p.evidence.matchAll(/\]\(([a-z0-9-]+\.md)\)/g)) citedBy.get(m[1])?.push(p)
+}
+const rested = sourcePages.filter((p) => citedBy.get(p.file).length)
+const orphans = sourcePages.filter((p) => !citedBy.get(p.file).length)
+let graph = `# Evidence graph\n\nEvery \`Type: source\` page and what rests on it, inverted from the \`## Evidence\` sections of the corpus (${sourcePages.length} sources, ${rested.length} cited). Generated from the citations themselves, so it cannot disagree with them.\n\n## Sources and what they support\n\n`
+for (const p of rested.sort((a, b) => citedBy.get(b.file).length - citedBy.get(a.file).length || a.title.localeCompare(b.title))) {
+  graph += `- [${p.title}](${p.url}) · \`${p.path}\` — ${citedBy.get(p.file).map((c) => `[${c.title}](${c.url})`).join(', ')}\n`
+}
+graph += `\n## Cited by nothing (${orphans.length})\n\nA source page nothing cites is unfinished work, not a finding: either the page it was gathered for was never written, or the claim it was gathered for did not survive. Cite it or say on the page why it stands alone.\n\n`
+for (const p of orphans) graph += `- [${p.title}](${p.url}) · \`${p.path}\`\n`
+write('evidence.md', graph)
+
 // ---- master index ----
 const count = (t) => pages.filter((p) => p.type === t).length
 write('index.md', `# greatutah.work — master index
@@ -196,6 +290,9 @@ All pages live flat at \`${BASE}/pages/{slug}.md\`; every view below is generate
 - [needs](needs.md) · \`${BASE}/views/needs.md\` — every stated "what they need now," one line each: the hiring view
 - [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` — organizations grouped by the people they need
 - [by-region](by-region.md) · \`${BASE}/views/by-region.md\` — attributed pages by Utah location
+- [evidence](evidence.md) · \`${BASE}/views/evidence.md\` — every source and what rests on it, inverted from the Evidence sections; includes the sources nothing cites
+- [by-era](by-era.md) · \`${BASE}/views/by-era.md\` — ${dated.length} pages by when the work happened *(metadata assertion, not yet sourced)*
+- [by-stage](by-stage.md) · \`${BASE}/views/by-stage.md\` — ${staged.length} ventures by maturity and ownership *(metadata assertion, not yet sourced)*
 - Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md) \`${BASE}/views/domain-${d}.md\``).join(' · ')}
 `)
 

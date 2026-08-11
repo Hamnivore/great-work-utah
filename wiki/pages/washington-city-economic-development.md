@@ -9,7 +9,6 @@
 **Region:** Washington
 **Website:** https://washingtoncity.org/development/economicdevelopment
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

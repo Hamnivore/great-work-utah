@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.wsgr.com/en/about-us/offices/salt-lake-city.html
+**Archive:** https://web.archive.org/web/20260807015855/https://www.wsgr.com/en/about-us/offices/salt-lake-city.html
+**Archived:** 2026-08-07
 **Publisher:** Wilson Sonsini Goodrich & Rosati
-**Accessed:** 2026-06-18
 **Updated:** 2026-06-18
 
 ## Summary

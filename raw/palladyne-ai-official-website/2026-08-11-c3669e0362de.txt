@@ -1,0 +1,190 @@
+Embodied AI & Robotics Software | Palladyne AI Skip to content
+CONTACT US
+Products AI Software
+Palladyne™ IQ
+Palladyne™ Pilot
+SwarmOS™
+Components
+IntelliSwarm™
+UAS
+SwarmStrike™
+Gremlin-X™
+IAI
+Mini HARPY
+HARPY
+HAROP
+Engineering services Overview
+Manufacturing Overview
+Sectors Served Aerospace & Defense
+Public Safety
+Industrial
+Company About Us
+IAI Partnership
+Press Releases
+Stay Informed
+Careers
+Contact Us
+Resources Applications
+Whitepapers
+Blog
+Investors
+Products AI Software Palladyne™ IQ
+Palladyne™ Pilot
+SwarmOS™
+Components Brain X2
+IntelliSwarm™
+UAS SwarmStrike™
+Gremlin-X™
+IAI Mini HARPY
+HARPY
+HAROP
+Engineering services Overview
+Manufacturing Overview
+Sectors Served Defense
+Public Safety
+Commercial
+Company About Us
+IAI Partnership
+Press Releases
+Stay Informed
+Careers
+Contact Us
+Resources Applications
+Whitepapers
+Blog
+Investors
+AI That Acts
+in the Real World
+Most AI thinks. Palladyne AI acts.
+Intelligence that must operate in the physical world cannot wait for the cloud. It must perceive locally, decide in milliseconds, and execute at the point of action, in GPS-denied airspace, on contested battlefields, and on factory floors where latency can mean a failed mission or a missed command. Nature solved this architecture long ago. Palladyne AI built it for machines.
+Our embodied AI platform powers two businesses: a vertically integrated Aerospace & Defense company, from software and edge silicon through loitering munitions to sovereign U.S. manufacturing, and an industrial software platform that makes your existing robots poly-functional, not just automated.
+This is not theoretical. It is deployed today.
+Aerospace & Defense
+Industrial Automation
+From Thinking to Acting
+AI has made machines remarkably good at thinking. Centralized systems can analyze vast data, generate strategies, and optimize decisions at scale.
+But in the real world, thinking is not the bottleneck. Execution is.
+AI has made machines remarkably good at thinking. Centralized systems can analyze vast data, generate strategies, and optimize decisions at scale.
+Read: Cloud AI Thinks. Edge Autonomy Acts.
+The Architecture: DECA
+Our architecture, Decentralized Embodied Collaborative Autonomy (DECA), is built on how biological intelligence actually works: each system perceives locally, decides in real time, acts continuously, and collaborates directly with other systems. Coordination emerges through collaboration, not central control.
+The cloud defines the mission and centralized systems define the plan. Palladyne AI executes it.
+Read: Cloud AI Thinks. Edge Autonomy Acts.
+Where This Matters
+One Edge AI platform. Two businesses deploying it in the world’s most demanding environments.
+Aerospace & Defense
+Vertically integrated from software to munitions to manufacturing:
+Loitering munitions: SwarmStrike™, Gremlin-X™
+Oracle-Class Wolf Pack Swarming
+Missiles and weapons systems
+Avionics and mission-critical control
+U.S. sovereign manufacturing
+ITAR compliant, NDAA aligned
+Explore Aerospace & Defense Solutions
+Industrial
+Industrial asset-light software platform deployed on your existing robots. No cloud dependency.
+No hardware replacement
+Pick and place
+Surface preparation
+Assembly and sub-assembly
+Increased uptime
+Professional deployment services
+Industrial & Logistics Solutions
+Edge AI Platform
+Palladyne™ IQ
+Palladyne™ Pilot
+SwarmOS™
+IntelliSwarm™
+Cloud-free. On-device. The shared intelligence layer for both businesses.
+Built for Real-World Deployment
+Palladyne AI is not building toward a future state. These systems exist, operate, and perform under conditions where other AI cannot function.
+SwarmStrike™ & Gremlin-X™
+Strike systems with Oracle-Class Wolf Pack Swarming
+SwarmOS™
+Patented multi-agent collaboration for drone swarms
+Palladyne™ Pilot
+Autonomous flight intelligence, edge-native, GPS-denied capable
+Palladyne™ IQ
+Embodied intelligence for industrial robots: surface treatment and pick and place
+BRAIN X2
+Proprietary edge compute silicon built for DECA architectures
+U.S. Manufacturing
+Precision-engineered, domestically manufactured, ITAR compliant
+Whitepaper
+From Remote Control to Collaborative Swarm Intelligence
+Defining the True Levels of Swarm Autonomy for Drones
+Download Whitepaper
+Whitepaper
+Cloud AI Thinks. Edge Autonomy Acts.
+How the Next AI Platform Layer Embodies the Architecture of Human and Biological Swarm Intelligence
+Download Whitepaper
+A Familiar Pattern
+Every major computing shift follows the same trajectory: centralization first, then distribution at scale. Mainframes gave way to PCs. Data centers gave way to the cloud. Now intelligence is leaving the cloud and moving to the machines themselves.
+This shift is not optional. Physics, latency, and the demands of real-world operation require it.
+Palladyne AI is not waiting for that transition to happen. We are building the architecture that defines it.
+Contact Us
+Investor Relations
+AI Software
+Palladyne™ IQ
+Palladyne™ Pilot
+SwarmOS™
+Palladyne™ IQ
+Palladyne™ Pilot
+SwarmOS™
+Components
+IntelliSwarm™
+IntelliSwarm™
+UAS
+SwarmStrike™
+Gremlin-X™
+SwarmStrike™
+Gremlin-X™
+IAI products
+Mini Harpy
+HARPY
+HAROP
+Mini Harpy
+HARPY
+HAROP
+Services
+Engineering Services
+Manufacturing
+Engineering Services
+Manufacturing
+Sectors Served
+Aerospace & Defense
+Public Safety
+Industrial
+Aerospace & Defense
+Public Safety
+Industrial
+Company
+About Us
+Press
+Stay Informed
+Investors
+Careers
+Contact Us
+About Us
+Press
+Stay Informed
+Investors
+Careers
+Contact Us
+Resources
+Applications
+Whitepapers
+Blog
+Applications
+Whitepapers
+Blog
+Stay Informed
+" * " indicates required fields
+Email
+This field is for validation purposes and should be left unchanged.
+Email *
+© 2026 Palladyne AI Corp.
+Privacy
+External Links
+Privacy
+External Links

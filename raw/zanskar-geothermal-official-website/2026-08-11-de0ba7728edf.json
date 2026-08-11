@@ -1,0 +1,13 @@
+{
+  "source_page": "zanskar-geothermal-official-website.md",
+  "requested_url": "https://zanskar.com",
+  "final_url": "https://zanskar.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:12:01.674Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "c7e639358a5b1c57a6e66321dafecce92e54f655b3b6d4d04a635fa6a4525174",
+  "text_sha256": "de0ba7728edfef7aa2f3c5143e23a0a8dafc501c13e705fc72e21e95b2d967d1",
+  "text_chars": 5507,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

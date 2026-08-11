@@ -1,0 +1,14 @@
+{
+  "source_page": "huntsman-world-senior-games-official-website.md",
+  "requested_url": "https://seniorgames.net/about",
+  "final_url": "https://seniorgames.net/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:17.127706Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "aedbad69a502e7112d4cc98103890c2d2a60595d9b78cc6390a1932a46137968",
+  "text_sha256": "df17cec6cab1b21338f69c9ad44baa75ddd76123f35763f4282e09817f33e771",
+  "text_chars": 5913,
+  "extractor": "manual prismic-json extraction from live HTML source",
+  "note": "Site requires JavaScript to render in browsers; standard capture returned insufficient text. Quotes extracted from Prismic CMS JSON embedded in HTML source."
+}

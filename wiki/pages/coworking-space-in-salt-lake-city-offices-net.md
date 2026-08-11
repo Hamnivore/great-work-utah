@@ -9,7 +9,6 @@
 **Region:** Salt Lake City
 **Website:** https://offices.net/ut/salt-lake-city/coworking/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "ionic-mt-official-website.md",
+  "requested_url": "https://ionicmt.com",
+  "final_url": "https://ionicmt.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:54.282Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "63808ad29fdb3e1977f8370776ef274be63165a683b052bd4e568edb74be9aba",
+  "text_sha256": "c4bfcc0a4fee2eaa6b578d2c4b22df9098589ce97c728a78bd5a86e88b8d1885",
+  "text_chars": 2686,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

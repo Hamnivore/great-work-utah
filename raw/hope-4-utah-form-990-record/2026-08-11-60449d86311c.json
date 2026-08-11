@@ -1,0 +1,13 @@
+{
+  "source_page": "hope-4-utah-form-990-record.md",
+  "requested_url": "https://projects.propublica.org/nonprofits/organizations/900969731",
+  "final_url": "https://projects.propublica.org/nonprofits/organizations/900969731",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:50.928Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "0dbcd5b0984d839227a0689cafd7966e265f23c7457146c9ba830be2176832b1",
+  "text_sha256": "60449d86311c3c5928b8070fc6572e158bec4d5c03edb6e238bc50ecd4868171",
+  "text_chars": 17857,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

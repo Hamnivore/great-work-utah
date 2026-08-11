@@ -1,0 +1,13 @@
+{
+  "source_page": "nces-mountain-heights-academy-record.md",
+  "requested_url": "https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?Search=1&ID=490013801285",
+  "final_url": "https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?Search=1&ID=490013801285",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:08.440Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "e1469ab31b04659d80ec4d5ad8ef32fec5233741e5c2bbe550dc32eca4b59487",
+  "text_sha256": "68769284584153b3691d486997e7380d6410a18434c59a06404efefc7a3af90a",
+  "text_chars": 3073,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

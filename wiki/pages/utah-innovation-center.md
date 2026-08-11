@@ -13,7 +13,6 @@
 **Location Source:** https://www.nucleusutah.org/grow
 **Website:** https://www.nucleusutah.org/grow
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

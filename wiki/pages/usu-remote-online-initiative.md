@@ -9,7 +9,6 @@
 **Region:** statewide
 **Website:** https://extension.usu.edu/remoteworkcertificate/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

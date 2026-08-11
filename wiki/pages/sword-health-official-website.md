@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://swordhealth.com/
+**Archive:** https://web.archive.org/web/20260608233932/https://swordhealth.com/
+**Archived:** 2026-06-08
 **Publisher:** Sword Health
-**Accessed:** 2026-06-25
 **Updated:** 2026-06-25
 
 ## Summary

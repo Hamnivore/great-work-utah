@@ -1,0 +1,13 @@
+{
+  "source_page": "halia-therapeutics-official-website.md",
+  "requested_url": "https://haliatx.com",
+  "final_url": "https://haliatx.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:50.420Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "347af7ab2854063edc71ba85f48a3e279f668cc7cb0c5dc821f0a5418ec73938",
+  "text_sha256": "78be0498837eb64536c4876429ab366dc638e47b95d7b720ed5f001ce966a401",
+  "text_chars": 3845,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

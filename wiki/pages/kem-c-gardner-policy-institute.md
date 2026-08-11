@@ -14,7 +14,6 @@
 **Location Source:** https://gardner.utah.edu/
 **Website:** https://gardner.utah.edu/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

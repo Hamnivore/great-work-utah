@@ -1,0 +1,13 @@
+{
+  "source_page": "tim-latimer-fervo-bio.md",
+  "requested_url": "https://www.fervo.com/about",
+  "final_url": "https://www.fervo.com/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:47.321Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "b19011807c6887e54856ef197c2a3da911cea1b6f29f863522dbd61c0ab80d53",
+  "text_sha256": "8bfbbefdd1bda8f411285d3c44346bb832e3a680f3198f38d7401f9f81ccbe02",
+  "text_chars": 585,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

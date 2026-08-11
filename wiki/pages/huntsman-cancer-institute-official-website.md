@@ -3,28 +3,41 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://healthcare.utah.edu/huntsmancancerinstitute
+**Archive:** https://web.archive.org/web/20260729013214/https://healthcare.utah.edu/huntsmancancerinstitute/
+**Archived:** 2026-07-29
 **Publisher:** Huntsman Cancer Institute / University of Utah Health
-**Accessed:** 2026-06-18
-**Updated:** 2026-06-18
+**Raw:** raw/huntsman-cancer-institute-official-website/2026-08-11-008c4d0614d3.txt
+**Retrieved:** 2026-08-11
+**Updated:** 2026-08-11
 
 ## Summary
 
-Official University of Utah Health and NCI pages about Huntsman Cancer Institute, including the September 2025 press release announcing Bradley Cairns as CEO, the NCI Office of Cancer Centers profile, the 2025 Vineyard groundbreaking announcement, and University of Utah pages describing the U2TAH therapeutics accelerator.
+Official Huntsman Cancer Institute homepage on University of Utah Health, describing the institute's research-and-care mission, Salt Lake City footprint (more than 1 million square feet, community clinics, and regional affiliate hospitals), and patient-support services.
 
 ## Useful Claims
 
-- HCI is the NCI-designated Comprehensive Cancer Center for Utah, Idaho, Montana, Nevada, and Wyoming, and describes itself as serving the largest land-area catchment of any US cancer center.
-- HCI was founded by Jon M. and Karen Huntsman; it reports more than 400 open clinical trials and more than 300 research teams.
-- HCI states that more genes for inherited cancers have been discovered there than at any other cancer center; the Utah Population Database underpins much of that work.
-- Bradley Cairns, PhD, a chromatin/epigenetics biologist and longtime University of Utah researcher, became CEO on September 1, 2025, succeeding Mary Beckerle.
-- The University of Utah Therapeutic Accelerator Hub (U2TAH) is a partnership of HCI, the College of Pharmacy, and the PIVOT Center, publicly described as established in October 2020 with a $22.5M commitment and led by senior managing director David Bearss; all disease areas are eligible.
-- HCI and University of Utah Health broke ground in 2025 on a new Comprehensive Cancer Center in Vineyard, Utah.
+- HCI's current homepage describes more than 1 million square feet at its Salt Lake City location, three community clinics, seven regional affiliate hospitals, and two planned locations.
+- The site presents cancer research, clinical care, education, and patient-support services as parts of one institution serving the Mountain West.
+- Earlier claims about NCI designation and catchment, founders, trial and research-team counts, inherited-cancer discoveries, executive succession, U2TAH, and the Vineyard groundbreaking are not present in this homepage capture and require their own source artifacts.
+
+## Verbatim
+
+> "From an empty hillside to a global leader in research and care in just over 25 years, Huntsman Cancer Institute is transforming the way cancer is understood, prevented, detected, treated, and survived."
+> — Home page, institutional overview
+
+> "With more than 1 million square feet at our Salt Lake City location, 3 community clinics, 7 regional affiliate hospitals, and 2 future locations planned, we deliver better outcomes for patients across the Mountain West and beyond."
+> — Home page, institutional overview
+
+> "We are here to provide medical care and the emotional and compassionate support you and your family deserve during and after treatment."
+> — Home page, patient support
 
 ## Reliability Notes
 
 University and NCI pages are strong primary/institutional sources for designation, leadership, and program descriptions. Press releases are reliable for what the institution publicly commits to but are promotional in tone. The U2TAH founding date and current scope appear in different framings across sources (founding ~2020 versus later expansion); verify before strong claims. Patient volumes and funding totals are not pinned to primary figures here.
+
+The 2026-08-11 capture is a general homepage and does not contain most of the specific institutional-history and program claims previously listed. Those claims were not reconfirmed and now remain explicit source-research needs.
 
 ## Related Pages
 

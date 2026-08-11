@@ -1,0 +1,13 @@
+{
+  "source_page": "deseret-news-imagine-learning-weld-north-2014.md",
+  "requested_url": "https://www.deseret.com/2014/4/22/20539939/education-technology-company-imagine-learning-sold-will-remain-in-provo/",
+  "final_url": "https://www.deseret.com/2014/4/22/20539939/education-technology-company-imagine-learning-sold-will-remain-in-provo/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:12.639Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "64b620ed34d67eb171399f680d416ff8d457122b1bc85be9b063b68f7d12a657",
+  "text_sha256": "3ed0007fcc03928a174d0796998db6591c7f74c8070ef027dc4e66c3be012071",
+  "text_chars": 6050,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

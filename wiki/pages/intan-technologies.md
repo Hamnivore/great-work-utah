@@ -13,7 +13,6 @@
 **Careers:** https://intantech.com/careers.html
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/intan-technologies-neural-ics-2026/1600/1100
 **Pull:** *Off-the-shelf amplifier chips that let neuroscience labs record from hundreds of neurons without building custom front-end electronics.*
 **Relates:** cites [Official Website: Intan Technologies](intan-technologies-official-website.md) · https://greatutah.work/pages/intan-technologies-official-website.md · https://intantech.com/
 

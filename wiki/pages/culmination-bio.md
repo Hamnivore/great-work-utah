@@ -17,21 +17,20 @@
 **Domain:** health-bio
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/culmination-bio-clinical-data-2026/1600/1100
 **Pull:** *Forty years of Intermountain patient records — clinical, omics, tissue, and claims — organized for discovery partnerships.*
 **Relates:** cites [Official Website: Culmination Bio](culmination-bio-official-website.md) · https://greatutah.work/pages/culmination-bio-official-website.md · https://www.culmination.com
 
 ## Summary
 
-Culmination Bio is a biotech subsidiary of Intermountain Health, launched in 2022 and based in St. George, Utah. It converts Intermountain's longitudinal patient data — clinical records, omics, tissue samples, diagnostics, claims, and EMR fields — into a platform for therapeutic-target discovery, diagnostics, and care-process insights sold through data-access and collaboration partnerships.
+Culmination Bio is described as a biotech company connected to Intermountain Health. The existing raw capture is a redirected Intermountain page rather than Culmination's document, so launch date and headquarters are not treated as established here.
 
-For the wiki, Culmination is one of Utah's clearest examples of a health-system data asset being productized outside traditional hospital quality-improvement programs. Amgen Ventures and Merck Global Health Innovation Fund backed a $10M round in 2023, signaling pharma interest in the dataset.
+For the wiki, Culmination is an example of a health-system data asset being productized outside traditional hospital quality-improvement programs. The earlier financing claim requires a captured primary announcement.
 
 ## Impact
 
-Drug discovery fails often because early biological hypotheses are wrong. Longitudinal population-scale data — linking clinical outcomes to molecular measurements over decades — is one of the best available tools for forming better hypotheses. Intermountain Health operates 33 hospitals and 385 clinics across nine states; Culmination says its data lake spans 40+ years of de-identified records, more than 9 million archival clinical tissue samples, and ongoing prospective enrollment.
+Drug discovery fails often because early biological hypotheses are wrong. Culmination has described a longitudinal clinical-data and tissue asset, but the existing raw capture is unusable and does not support the earlier scale figures.
 
-The counterfactual: without a dedicated spinout, much of this data would likely remain siloed inside the health system for internal quality and research projects rather than structured for external pharma discovery pipelines. A Merck collaboration focused on autoimmune disease (24 months) is one public template for how partnerships may work.
+Without a dedicated spinout, much of this data could remain siloed inside the health system. A reported Merck collaboration may provide a partnership template, but its duration is not established by captured evidence.
 
 ## What They Are Building
 

@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Press Release
+**Source Type:** press-release
 **URL:** https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history
+**Archive:** https://web.archive.org/web/20250918053808/https://americanhistory.si.edu/press/releases/dr-jarvik-presents-artificial-hearts-smithsonians-national-museum-american-history
+**Archived:** 2025-09-18
 **Publisher:** Smithsonian's National Museum of American History
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

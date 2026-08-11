@@ -1,0 +1,13 @@
+{
+  "source_page": "mastercontrol-official-website.md",
+  "requested_url": "https://www.mastercontrol.com",
+  "final_url": "https://www.mastercontrol.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:12.461Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "eed8e00ce5cb1671f42aa3f906d35276eff22395b5258920158e65e977c33329",
+  "text_sha256": "c52c3dcb8b5321c1cc561890572d12902c85b91d815983ebf4056539e7a8e92d",
+  "text_chars": 7296,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

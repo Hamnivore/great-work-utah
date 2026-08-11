@@ -1,0 +1,13 @@
+{
+  "source_page": "asi-construction-softbank.md",
+  "requested_url": "https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/",
+  "final_url": "https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:16.188Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "51905e4fcbeea9d5fadc44ab205a6b5eb8dd7c3491111d60a001d77517a4b998",
+  "text_sha256": "528709ad4ff021cba8e248fb3fe170828d8fc495f267b4a50f007389d186541b",
+  "text_chars": 10483,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

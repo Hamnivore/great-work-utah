@@ -1,0 +1,13 @@
+{
+  "source_page": "the-other-side-academy-how-it-works.md",
+  "requested_url": "https://www.theothersideacademy.com/how-it-works",
+  "final_url": "https://www.theothersideacademy.com/how-it-works-1",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:48:15.569Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "919ba910ac348afa7e3d88c8249afca9986a8a199370b7a44935091e9240fb00",
+  "text_sha256": "867f5e9979725c6b62ade124c8943661c81416a5ade08cca60d77f43ec05e76b",
+  "text_chars": 4693,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

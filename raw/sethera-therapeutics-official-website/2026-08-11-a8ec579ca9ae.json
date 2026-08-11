@@ -1,0 +1,13 @@
+{
+  "source_page": "sethera-therapeutics-official-website.md",
+  "requested_url": "https://setheratx.com",
+  "final_url": "https://setheratx.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:35.563Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "b712998989bbc980f08df6f80be16e1212602968957f271f595e5ef40d6de85b",
+  "text_sha256": "a8ec579ca9ae8c70a6a7e93da4e433dabc2592e14f38f1637e6576ed23890146",
+  "text_chars": 4969,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

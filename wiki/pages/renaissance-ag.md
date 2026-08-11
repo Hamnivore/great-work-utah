@@ -12,7 +12,6 @@
 **Website:** https://www.renaissance-ag.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/renaissance-ag-pasturebox/1600/1100
 **Pull:** *A self-contained hydroponic container that produces 2,000 lbs of fresh livestock feed per day on less than 10% of the water pasture grazing requires — built for Utah ranchers in the driest stretch of the American West.*
 **Relates:** cites [Official Website: Renaissance Ag](renaissance-ag-official-website.md) · https://greatutah.work/pages/renaissance-ag-official-website.md · https://www.renaissance-ag.com
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-business-orbit-product-lifecycle-2018.md",
+  "requested_url": "https://www.utahbusiness.com/archive/2018/06/13/there-and-back-the-lifecycle-of-a-utah-product/",
+  "final_url": "https://www.utahbusiness.com/archive/2018/06/13/there-and-back-the-lifecycle-of-a-utah-product/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:44:08.349Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "44461c4a7f82ac7cd27c26f23ca539b34df192b478b1a79bbd1cda9a7d18d4e8",
+  "text_sha256": "c5a3852e936d4ccb64af7876c144017e9c9fb308c86369b07a5c3f3bc8f626ea",
+  "text_chars": 6683,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

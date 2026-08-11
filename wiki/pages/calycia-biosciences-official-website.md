@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.calyciabioscience.com
+**Archive:** https://web.archive.org/web/20260216140051/https://www.calyciabioscience.com/
+**Archived:** 2026-02-16
 **Publisher:** CaLycia Bioscience
-**Accessed:** 2026-06-19
+**Raw:** raw/calycia-biosciences-official-website/2026-08-11-4e3d3d28be2d.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -23,6 +26,23 @@ CaLycia Bioscience's official website describes a Salt Lake City biotechnology c
 - **CALYM-001** (glioblastoma) is the lead intracranial program, listed at **in vivo validation** with **pre-IND** as the next milestone.
 - **CALYM-002** (melanoma brain metastasis) is a platform-extension program in **early discovery**.
 - The site states the company has **robust in-vitro and in-vivo datasets** and a **scalable ex-vivo production base**, and offers secure data-room access to qualified institutional investors and strategic partners for seed-financing discussions.
+
+## Verbatim
+
+> "We are a Salt Lake City-based biotechnology company developing novel macrophage cell therapies."
+> — Home page, hero
+
+> "By leveraging the unique biology of macrophages, we are engineering solutions specifically designed to infiltrate, remodel, and treat aggressive solid tumors of the brain."
+> — Home page, hero body
+
+> "Our approach uses local administration into the brain, bypassing systemic barriers entirely."
+> — Home page, "Overcoming the Limits of CNS Drug Delivery"
+
+> "Modifying the patient's own macrophages with specific targeting receptors and persistent immune-activating payloads to dictate anti-tumor behavior."
+> — Home page, platform step 1
+
+> "Robust In-Vitro & In-Vivo Datasets"
+> — Home page, pipeline footer
 
 ## Reliability Notes
 

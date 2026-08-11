@@ -13,7 +13,6 @@
 **Location Precision:** exact
 **Location Source:** https://omni.snow.edu/offices/grit-center/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

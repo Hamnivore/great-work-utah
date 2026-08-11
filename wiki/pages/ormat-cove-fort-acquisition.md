@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Press Release
+**Source Type:** press-release
 **URL:** https://investor.ormat.com/news-events/news/news-details/2024/Ormat-Completed-the-Acquisition-of-Contracted-Operating-Geothermal-and-Solar-Assets-From-Enel-Green-Power-North-America/default.aspx
+**Archive:** https://web.archive.org/web/20240322134710/https://investor.ormat.com/news-events/news/news-details/2024/Ormat-Completed-the-Acquisition-of-Contracted-Operating-Geothermal-and-Solar-Assets-From-Enel-Green-Power-North-America/default.aspx
+**Archived:** 2024-03-22
 **Publisher:** Ormat Technologies, Inc.
-**Accessed:** 2026-08-11
 **Updated:** 2026-08-11
 
 ## Summary

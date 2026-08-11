@@ -1,0 +1,93 @@
+May 4, 2026
+
+
+Box Elder County Commission
+1 S. Main Street
+Brigham City, UT 84302
+
+Subject: Department of Environmental Quality Permitting Requirements
+
+
+Dear Commissioners,
+
+The Utah Department of Environmental Quality (DEQ) is providing this correspondence to clarify
+the permitting responsibilities and regulatory oversight required for the proposed data center and
+supporting power plant project in Box Elder County. Our objective is to ensure the Commission
+understands the rigorous standards for any Utah facility that discharges into waters of the state,
+creates emissions into Utah’s airshed, or requires a public drinking water system.
+
+Air Quality Permitting (Division of Air Quality)
+
+The Utah Division of Air Quality (DAQ) implements the Utah Air Conservation Act, and has
+delegated authority from the U.S. EPA to implement the federal Clean Air Act. Before any
+construction can begin, the developer must obtain an Approval Order (AO) that evaluates
+projected air pollutant emissions and mandates specific control Techniques.
+
+An Approval Order is granted if the applicant demonstrates the following:
+
+   ●​ Best Available Control Technology (BACT): Use of the highest standard of technology to
+      minimize emissions.
+   ●​ NAAQS Compliance: Demonstration through air pollutant dispersion modeling (using
+      local Box Elder meteorology) that emissions will not violate National Ambient Air Quality
+      Standards.
+   ●​ New Source Performance Standards (NSPS): Compliance with federal standards for all
+      selected emission sources.
+   ●​ Prevention of Significant Deterioration (PSD): Ensuring that local air quality is protected
+      from significant degradation.
+                                       195 North 1950 West • Salt Lake City, UT
+                           Mailing Address: PO Box 144870 • Salt Lake City, UT 84114-4870
+                          Telephone (801) 536-4300 • Fax (801) 536-4301 • TDD 800 346-3128
+                                                    www.deq.utah.gov
+                                             Printed on 100% recycled paper
+Page 2
+
+
+Current Status: No Notice of Intent (NOI) has been submitted to date. A draft permit will be
+subject to a 30-day public comment period and a public hearing if requested.
+
+
+Drinking Water Regulatory Oversight (Division of Drinking Water)
+
+The Utah Division of Drinking Water (DDW) has delegated authority from the U.S. EPA to
+implement the federal Safe Drinking Water Act. Based on current project understanding, DDW
+assumes the data center and power plant will operate as separate Public Water Systems (PWS),
+sourcing water from independent groundwater wells.
+
+Infrastructure & Operations
+   ●​ Separation of Systems: Drinking water systems must be physically separate from water
+       used for cooling, fire protection, or power generation.
+   ●​ Source Approval: Wells must be designed to DDW standards, including rigorous source
+       protection and potential treatment depending on water quality.
+   ●​ Facilities: Systems must meet minimum storage and pressure requirements, likely
+       necessitating dedicated tanks and pump stations.
+   ●​ Certified Operators: Each system must be managed by a Certified Water Operator
+       responsible for all testing, including monthly bacteria sampling.
+   ●​ Reporting: Systems are subject to annual fees, regular inspections, and continuous
+       reporting to ensure public health safety.
+
+
+Water Quality Permitting (Division of Water Quality)
+
+The Division of Water Quality (DWQ) is responsible for protecting the waters of the state
+under the Utah Water Quality Act and delegated authority from the U.S. EPA to implement the
+federal Clean Water Act. Permits are required for all surface water and groundwater discharges to
+waters of the state. These permits include a rigorous public notice process to ensure community
+awareness and involvement.
+
+   ●​ Discharge Permits: This is the primary mechanism for pollution prevention. Permits are
+      required for all discharges, whether to surface waters or ground waters.
+   ●​ Protection of Use: The Division’s processes ensure that discharges do not harm the
+      designated uses of state waters.
+
+
+We are available to provide additional information on our regulatory oversight and these technical
+requirements as project details evolve.
+
+
+Sincerely,
+Page 3
+
+Ashley Sumner
+Deputy Director
+Utah Department of Environmental Quality
+

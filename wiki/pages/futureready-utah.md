@@ -13,7 +13,6 @@
 **Location Source:** https://www.futurereadyutah.org/
 **Website:** http://futurereadyutah.org
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "lassonde-entrepreneurship-institute-official-site.md",
+  "requested_url": "https://lassonde.utah.edu/",
+  "final_url": "https://lassonde.utah.edu/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:00.785Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "5b55a6719ac783cc56936f985cd57478503c077cf5a710e55c5e966de61c39b7",
+  "text_sha256": "d2d492a1b43167bb1a44e8eeec8106add5746d2d79a4d981145dab9d2f115a44",
+  "text_chars": 4862,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

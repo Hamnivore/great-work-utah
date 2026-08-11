@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Draft
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.pluralsight.com
+**Archive:** https://web.archive.org/web/20260808170638/https://www.pluralsight.com/
+**Archived:** 2026-08-08
 **Publisher:** Pluralsight
-**Accessed:** 2026-06-19
+**Raw:** raw/pluralsight-official-website/2026-08-11-b7bad5330c86.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -20,6 +23,20 @@ Pluralsight's official website describes an online technology skills platform fo
 - The site describes enterprise team upskilling alongside individual subscriptions.
 - The site promotes AI-focused learning content and AI-assisted features in the learning experience.
 - The site covers major technology domains including cloud platforms, programming languages, cybersecurity, and data.
+
+## Verbatim
+
+> "Learn from the best with 6,500+ expert-led courses"
+> — Home page, "Courses"
+
+> "Benchmark skills with over 500 skill assessments"
+> — Home page, "Skill IQ"
+
+> "Go from foundation to expert with curated learning journeys"
+> — Home page, "Learning paths"
+
+> "Test skills with 3,500+ real-world scenarios"
+> — Home page, "Hands-on labs"
 
 ## Reliability Notes
 

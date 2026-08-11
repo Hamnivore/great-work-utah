@@ -1,0 +1,13 @@
+{
+  "source_page": "wgu-competency-based-education.md",
+  "requested_url": "https://www.wgu.edu/about/competency-based-education.html",
+  "final_url": "https://www.wgu.edu/student-experience/how-you-learn.html",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:47:24.465Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "67dad0e835797a36d9df616228acd6d7962d3185ab2a7955da6bcd01fa974ff1",
+  "text_sha256": "4ff331f4655078e00057468dc1ba9586405c6f422ddd72d06c594c58daf0e85a",
+  "text_chars": 25120,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

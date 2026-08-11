@@ -13,7 +13,6 @@
 **Location Source:** https://www.utah.gov/pmn/sitemap/publicbody/2218.html
 **Website:** https://www.emerycountychamber.com/emery-economic-development.html
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

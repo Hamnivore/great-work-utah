@@ -13,7 +13,6 @@
 **Location Source:** https://business.utah.gov/statewide-economic-development-contacts/
 **Website:** https://www.summitcountyutah.gov/609/Economic-Development
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

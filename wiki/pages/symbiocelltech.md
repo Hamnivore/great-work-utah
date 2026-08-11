@@ -12,7 +12,6 @@
 **Website:** https://symbiocelltech.com/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/symbiocelltech-neo-islets-diabetes-2026/1600/1100
 **Pull:** *3D islet–MSC clusters that aim to restore insulin without lifetime immunosuppression — if the immune isolation holds in humans.*
 **Relates:** cites [Official Website: SymbioCellTech](symbiocelltech-official-website.md) · https://greatutah.work/pages/symbiocelltech-official-website.md · https://symbiocelltech.com/
 
@@ -20,13 +19,13 @@
 
 SymbioCellTech is a Salt Lake City biotechnology company developing Neo-Islets — three-dimensional clusters of culture-expanded insulin-expressing pancreatic cells co-packaged with mesenchymal stem cells (MSCs). The thesis is local immune isolation: MSCs within each cluster shield islet cells from autoimmune and allo-immune attack, eliminating the need for systemic anti-rejection drugs that accompany conventional islet transplantation.
 
-The company won the American Diabetes Association Innovation Challenge Award in 2024. Per its official website, it has reported positive preclinical results and ongoing canine studies, with an outpatient intraperitoneal administration route targeting omental engraftment. Founding science traces to clinical academic investigators at the University of Utah and University of Hamburg.
+The company says it won the American Diabetes Association Innovation Challenge Award in 2024 ([official website](symbiocelltech-official-website.md)). Other preclinical and institutional-origin details require additional captured evidence.
 
 ## Impact
 
 Type 1 diabetes affects roughly 16 million people worldwide who depend on daily insulin and glucose monitoring. Even rigorous therapy carries long-term complication risk — multi-organ failure, vascular disease, blindness, and reduced life expectancy. Islet transplantation can restore glucose control but typically requires lifelong immunosuppression with serious infection, cancer, and kidney risks, and donor scarcity limits scale (conventional protocols may require multiple pancreas donors per patient).
 
-If Neo-Islets achieve durable euglycemia without systemic immunosuppression at manufacturable scale (~80 doses per donor pancreas, per company claims), the impact would be a functional cure rather than incremental improvement — restoring portal insulin delivery physiology instead of subcutaneous injection. Type 2 diabetes adaptation is also described as underway.
+If Neo-Islets achieve durable euglycemia without systemic immunosuppression at manufacturable scale, the impact would be a functional cure rather than incremental improvement. The earlier dose-per-donor figure is not present in captured evidence.
 
 ## What They Are Building
 

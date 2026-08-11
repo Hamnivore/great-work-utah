@@ -13,7 +13,6 @@
 **Location Source:** https://www.linkedin.com/company/utah-korean-chamber-of-commerce
 **Website:** https://www.utahkcc.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

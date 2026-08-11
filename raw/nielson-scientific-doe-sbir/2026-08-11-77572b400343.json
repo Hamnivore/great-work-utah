@@ -1,0 +1,13 @@
+{
+  "source_page": "nielson-scientific-doe-sbir.md",
+  "requested_url": "https://science.osti.gov/sbir",
+  "final_url": "https://science.osti.gov/sbir",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:15.846Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "f2e6d84554c9cd3dadd6dd793fe1be808e1333a127ee577febfe23061714eaee",
+  "text_sha256": "77572b400343ad746f62bf1721e95d8e20f133e7e9bfd4659fa72d0144cbc4e9",
+  "text_chars": 5272,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

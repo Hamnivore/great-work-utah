@@ -18,7 +18,6 @@
 **Website:** https://oxeonenergy.com
 **Careers:** https://www.oxeonenergy.com/careers
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/oxeon-energy-2026/1600/1100
 **Pull:** *The same solid oxide cells that made oxygen on Mars are now being scaled to produce green hydrogen on Earth.*
 **Relates:** cites [Official Website: OxEon Energy](oxeon-energy-official-website.md) · https://greatutah.work/pages/oxeon-energy-official-website.md · https://oxeonenergy.com
 

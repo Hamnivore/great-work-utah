@@ -1,9 +1,10 @@
 # energy — sector hub
 
-Generated from `**Domain:**` metadata (167/644 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (240/868 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
+- [Blue Raven Solar](/pages/blue-raven-solar.md) · `https://greatutah.work/pages/blue-raven-solar.md` · Orem · residential solar, direct-to-consumer installation, Orem Utah operations, SunPower ownership chain
 - [Blundell Geothermal Plant](/pages/blundell-geothermal-plant.md) · `https://greatutah.work/pages/blundell-geothermal-plant.md` · Beaver County · geothermal power, utility generation, hydrothermal plant operations, PacifiCorp
 - [Cyrq Energy](/pages/cyrq-energy.md) · `https://greatutah.work/pages/cyrq-energy.md` · Beaver County · geothermal power, plant operations, binary-cycle plants, hydrothermal resources
 - [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `https://greatutah.work/pages/energy-fuels-white-mesa.md` · San Juan County · uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes
@@ -22,6 +23,7 @@ Generated from `**Domain:**` metadata (167/644 pages attributed so far — cover
 
 ## Proof it can be done here
 
+- [Stratos Data Center](/pages/stratos-data-center.md) · `https://greatutah.work/pages/stratos-data-center.md` · Box Elder County · hyperscale data centers, energy infrastructure, advanced manufacturing
 - [Utah FORGE](/pages/utah-forge.md) · `https://greatutah.work/pages/utah-forge.md` · Beaver County · enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering
 
 ## People
@@ -30,11 +32,12 @@ Generated from `**Domain:**` metadata (167/644 pages attributed so far — cover
 
 ## Who they need right now
 
+- [Blue Raven Solar](/pages/blue-raven-solar.md) · `https://greatutah.work/pages/blue-raven-solar.md`: Public careers/marketing on the SunPower-branded site emphasize residential sales, installation, and field operations; no separate Blue Raven careers URL was verified on capture. See https://us.sunpower.com/ for current postings. *(reviewed 2026-08-11)*
 - [Blundell Geothermal Plant](/pages/blundell-geothermal-plant.md) · `https://greatutah.work/pages/blundell-geothermal-plant.md`: Utility geothermal plants typically need plant operators, maintenance technicians, electrical and mechanical craft, and occasional engineering support for outages and capital projects. PacifiCorp hiring is corporate — search Rocky Mountain Power / PacifiCorp careers for Utah generation roles rather than a plant-specific board. Clearance is usually not required; rural relocation willingness is. *(reviewed 2026-08-11)*
 - [Cyrq Energy](/pages/cyrq-energy.md) · `https://greatutah.work/pages/cyrq-energy.md`: Public careers detail for Utah specifically is thin on a plain fetch of cyrqenergy.com. Durable role families for a binary geothermal operator include plant operators and O&M technicians, reservoir / production engineers, geochemists, instrumentation and controls staff, and field drilling/workover contractors. Verify openings on Cyrq's own site or LinkedIn before recommending a Utah application p… *(reviewed 2026-08-11)*
 - [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `https://greatutah.work/pages/energy-fuels-white-mesa.md`: Hiring spans mill-site chemistry, lab, and operations roles at White Mesa alongside corporate functions in Lakewood, CO. Broader fit still includes chemical-process engineers, metallurgists, radiation-safety specialists, environmental-compliance experts, community-relations leaders, regulatory counsel, maintenance and operations talent, project-finance people, and operators who understand both nu… *(reviewed 2026-07-14)*
 - [EnergySolutions](/pages/energy-solutions.md) · `https://greatutah.work/pages/energy-solutions.md`: Nuclear engineers, environmental compliance specialists, health physicists, operations managers, transportation logistics staff, and regulatory affairs professionals. Cleared positions for DOE-site work are common. *(reviewed 2026-07-14)*
-- [Fervo Energy](/pages/fervo-energy.md) · `https://greatutah.work/pages/fervo-energy.md`: Needs span plant and field engineering (power, electrical, instrumentation & controls, operations, reservoir engineering and data science), supply-chain and category management for drilling and plant equipment, environmental permitting, software and agentic-AI engineering, and a growing finance / accounting / IR bench as the company scales toward public markets. Internships recur each summer. The… *(reviewed 2026-07-14)*
+- [Fervo Energy](/pages/fervo-energy.md) · `https://greatutah.work/pages/fervo-energy.md`: Fervo employed 199 full-time and part-time employees as of December 31, 2025 ([prospectus](fervo-energy-ipo-prospectus-2026.md)) — a small company building a very large plant, which is the shape of the hiring pressure. Needs span plant and field engineering (power, electrical, instrumentation & controls, operations, reservoir engineering and data science), supply-chain and category management for… *(reviewed 2026-07-14)*
 - [Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md) · `https://greatutah.work/pages/ionic-mt.md`: Hiring centers on hydrometallurgy and separation-process chemical engineering (acid leaching, impurity removal, crystallization, solids handling for high-purity materials). Broader needs still include process engineers and electrochemists across mining-to-cell development, plus supply-chain and business-development people who understand automotive and defense procurement qualification cycles. *(reviewed 2026-07-14)*
 - [Ormat Technologies](/pages/ormat-technologies.md) · `https://greatutah.work/pages/ormat-technologies.md`: Ormat's own careers portal and current external job listings point to plant-operations and engineering roles that would apply directly to Cove Fort — plant operators, operations-and-maintenance engineers, geochemists, and instrumentation/controls staff who keep a binary-cycle facility running — alongside corporate functions with clear geothermal-development ties: procurement/buyer roles for plant… *(reviewed 2026-08-11)*
 - [OxEon Energy](/pages/oxeon-energy.md) · `https://greatutah.work/pages/oxeon-energy.md`: Hiring frames around manufacturing scale-up — engineering, manufacturing, operations, and business development as capacity ramps. That aligns with the longer-standing need for electrochemists, ceramics and materials scientists, thermal systems engineers, and manufacturing process engineers who can take small-batch SOEC production to factory scale; industrial-hydrogen chemical engineers remain rel… *(reviewed 2026-07-14)*
@@ -56,6 +59,9 @@ Generated from `**Domain:**` metadata (167/644 pages attributed so far — cover
 - [Hypercraft](/pages/hypercraft.md) · `https://greatutah.work/pages/hypercraft.md` — primary: aerospace-defense
 - [MOXIE Solid Oxide Electrolysis Stack](/pages/moxie-solid-oxide-electrolysis-stack.md) · `https://greatutah.work/pages/moxie-solid-oxide-electrolysis-stack.md` — primary: space-science
 - [Nusano](/pages/nusano.md) · `https://greatutah.work/pages/nusano.md` — primary: health-bio
+- [Orbit Irrigation Products](/pages/orbit-irrigation-products.md) · `https://greatutah.work/pages/orbit-irrigation-products.md` — primary: materials-mfg
 - [Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md) · `https://greatutah.work/pages/pons-fleischmann-cold-fusion.md` — primary: culture-place
 - [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `https://greatutah.work/pages/renewable-tech-ventures.md` — primary: capital-programs
+- [SubcontractorHub](/pages/subcontractorhub.md) · `https://greatutah.work/pages/subcontractorhub.md` — primary: computing
+- [US Synthetic](/pages/us-synthetic.md) · `https://greatutah.work/pages/us-synthetic.md` — primary: materials-mfg
 - [Wasatch Ionics](/pages/wasatch-ionics.md) · `https://greatutah.work/pages/wasatch-ionics.md` — primary: aerospace-defense

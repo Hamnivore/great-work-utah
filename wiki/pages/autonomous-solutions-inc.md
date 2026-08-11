@@ -4,7 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** off-road vehicle autonomy, industrial fleet automation, OEM-agnostic robotics, mining, agriculture, construction, logistics
-**Roles:** software-engineering, hardware-engineering, sales-business-development, field-skilled-trades
+**Roles:** software-engineering, data-science, hardware-engineering, sales-business-development, field-skilled-trades
 **Stage:** Established private company (founded 2000; Utah State University spinout; expanding in 2025–2026)
 **Primary Location:** Mendon, UT
 **Utah Location:** Mendon, UT; Lehi, UT
@@ -17,13 +17,12 @@
 **Website:** https://asirobots.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/asi-mobius-off-road-autonomy-2026/1600/1100
 **Pull:** *Twenty-five years of OEM-agnostic autonomy for tractors, haul trucks, and industrial fleets — Mobius at industrial scale.*
 **Relates:** cites [Source: ASI Construction Launch with SoftBank and Lehi Office](asi-construction-softbank.md) · https://greatutah.work/pages/asi-construction-softbank.md · https://asirobots.com/asi-launches-into-heavy-construction-market-with-softbank-group/
 
 ## Summary
 
-Autonomous Solutions, Inc. (ASI) is a Mendon, Utah company that automates off-road industrial vehicles — tractors, haul trucks, dozers, loaders, yard trucks, and landscaping equipment — through an OEM-agnostic software platform called Mobius. Founded in 2000 as a Utah State University spinout, ASI has spent 25 years integrating autonomy across 100+ vehicle models in mining, agriculture, construction, logistics, and landscaping. [Official Website: Autonomous Solutions, Inc.](autonomous-solutions-inc-official-website.md)
+Autonomous Solutions, Inc. (ASI) is a Mendon, Utah company that automates off-road industrial vehicles through an OEM-agnostic software platform called Mobius. Its captured homepage says Mobius works with 100+ vehicle types; the earlier founding-date and longevity claims are not present in the capture ([official website](autonomous-solutions-inc-official-website.md)).
 
 For the wiki, ASI is one of Utah's most durable robotics companies: real deployments at industrial scale, a credible exit history (selling its mining business unit to Epiroc), and recent expansion including a Lehi office, SoftBank-backed construction automation, and a 2026 acquisition of Scythe Robotics.
 
@@ -31,7 +30,7 @@ For the wiki, ASI is one of Utah's most durable robotics companies: real deploym
 
 Off-road autonomy is a larger and less-covered economic story than passenger-car autonomy. Mines, farms, construction sites, and freight yards depend on human operators in dangerous, repetitive, labor-short conditions. ASI's public metrics cite hundreds of millions of tons hauled, millions of autonomous miles, and thousands of autonomous hours — deployment footprints, not slideware.
 
-The architectural bet is OEM-agnostic: a platform layer that retrofits onto any manufacturer's vehicle, versus closed stacks from John Deere, Caterpillar, or Komatsu. Both strategies may win in different segments; ASI's 25-year integration library is the moat if customers resist vendor lock-in.
+The architectural bet is OEM-agnostic: a platform layer that retrofits onto multiple manufacturers' vehicles. The captured source supports the vehicle-type count, not the earlier “25-year integration library” claim.
 
 ## What They Are Building
 
@@ -69,5 +68,5 @@ ASI is a flagship Utah robotics story: USU spinout, Mendon roots, growing Wasatc
 - What are current revenue, headcount, and profitability after the mining divestiture and construction expansion?
 - How does SoftBank's strategic involvement shape product priorities and governance?
 - OEM-agnostic positioning competes with better-funded vertically integrated OEMs on every deal — what is ASI's win rate and growth trajectory?
-- Marketing visibility remains modest for a 25-year company; independent third-party validation of deployment scale would strengthen confidence.
+- Independent third-party validation of company longevity and deployment scale would strengthen confidence.
 - Imagery is a deterministic placeholder pending a license-clean Mobius or field-deployment photograph.

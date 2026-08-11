@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://nowcfo.com/
+**Archive:** https://web.archive.org/web/20260718035249/https://nowcfo.com/
+**Archived:** 2026-07-18
 **Publisher:** NOW CFO, LLC
-**Accessed:** 2026-06-18
+**Raw:** raw/now-cfo-official-site/2026-08-11-c49241df6fa0.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -20,6 +23,20 @@ NOW CFO's official site describes a financial consulting firm providing fraction
 - The about page describes fractional, interim, project-based CFO services and full-time placement.
 - The locations page and about page present a national service footprint.
 - The footer states that NOW CFO is not a CPA firm.
+
+## Verbatim
+
+> "Flexible Accounting and Finance Solutions Built to Scale"
+> — Home page hero
+
+> "We offer scalable support across every level of the finance function, including fractional financial leadership, project-based engagements, and permanent hires for accounting and finance roles."
+> — Home page, company description
+
+> "We provide outsourced, fractional, and temporary CFO, Controller, and operational accounting services that suit the needs of your business."
+> — Home page, consultation section
+
+> "© 2026 NOW CFO, LLC. All Rights Reserved. NOW CFO is not a CPA Firm."
+> — Footer
 
 ## Reliability Notes
 

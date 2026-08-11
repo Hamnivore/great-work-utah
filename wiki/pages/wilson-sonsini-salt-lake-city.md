@@ -13,7 +13,6 @@
 **Location Source:** https://www.wsgr.com/en/about-us/offices/salt-lake-city.html
 **Website:** https://www.wsgr.com/en/about-us/offices/salt-lake-city.html
 **Updated:** 2026-07-14
-**Layout:** field-guide
 
 ## Summary
 

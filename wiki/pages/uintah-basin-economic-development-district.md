@@ -13,7 +13,6 @@
 **Location Source:** https://www.ubaog.org/economic-development-district
 **Website:** https://www.ubaog.org/economic-development-district
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

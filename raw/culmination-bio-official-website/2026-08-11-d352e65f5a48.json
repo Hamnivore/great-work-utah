@@ -1,0 +1,13 @@
+{
+  "source_page": "culmination-bio-official-website.md",
+  "requested_url": "https://www.culmination.com",
+  "final_url": "https://intermountainhealthcare.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:33.497Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "42d7c025bb2ee4963801018e2925195ad60e3b1205de190ed8c781f441301ac9",
+  "text_sha256": "d352e65f5a480560236d27a083a1c266b7da09b0760c853915b8b29f53e1bbae",
+  "text_chars": 5009,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

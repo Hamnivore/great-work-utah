@@ -1,0 +1,13 @@
+{
+  "source_page": "utahn-editorial-charter.md",
+  "requested_url": "https://utahn.com/utahn-journalism/",
+  "final_url": "https://utahn.com/utahn-journalism/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:05:36.254Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "f70dc889230fa8c8ca06108ccf74852de5558f85f487e1c1475856f2f30843fe",
+  "text_sha256": "a9ffe9fbdf55eb0891533a52c0d4a33b2ddc54cff3347cfab5b01fd0ef0778df",
+  "text_chars": 13594,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

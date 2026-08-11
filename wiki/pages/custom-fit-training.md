@@ -13,7 +13,6 @@
 **Location Source:** https://ushe.edu/custom-fit/
 **Website:** https://ushe.edu/custom-fit/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

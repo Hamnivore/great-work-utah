@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://cachechamber.com/contact-us/
 **Website:** https://cachechamber.com/
-**Layout:** field-guide
 
 ## Summary
 

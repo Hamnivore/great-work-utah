@@ -13,7 +13,6 @@
 **Location Source:** https://www.suu.edu/regional/bic/
 **Website:** https://www.suu.edu/regional/bic/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

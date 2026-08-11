@@ -1,0 +1,213 @@
+FORGE | Department of Energy
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A lock (
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Policy & Priorities
+Main Menu
+Policy & Priorities
+View all Policy & Priorities
+Increase American Energy Production
+Expanding domestic energy resources to support national needs and economic growth.
+Energy Innovation
+Driving research and development to shape the future of energy systems and technologies.
+Energy Exports
+Supporting global energy markets through U.S. energy production and trade.
+Affordable Energy for Consumers
+Promoting access to reliable and cost-effective energy for households and businesses.
+Strategic Petroleum Reserve (SPR)
+Managing emergency fuel reserves to support national energy security.
+Nuclear Security
+Maintaining the safety, security, and effectiveness of the nation’s nuclear deterrent.
+Nuclear Energy
+Advancing nuclear technologies to support energy, security, and innovation goals.
+Energy Reliability
+Ensuring consistent and dependable energy delivery across the nation.
+Energy Infrastructure
+Strengthening and modernizing the systems that produce, deliver, and store energy.
+Leadership & Organization
+Main Menu
+Leadership & Organization
+View all Leadership & Organization
+Chris Wright
+Secretary of Energy
+James Danly
+Deputy Secretary of Energy
+Leadership & Organization Pages
+Staff Offices
+Supporting DOE operations through policy, administration, and mission services.
+Science and Innovation Program Offices
+Leading scientific research and technology development across priority areas.
+Independent Offices
+Providing oversight and specialized functions across key areas of the Department.
+Energy Program Offices
+Managing programs that support energy production, efficiency, and delivery.
+National Laboratories
+Advancing research and innovation through DOE’s National Laboratory System.
+Nuclear Security Offices
+Overseeing national security efforts related to nuclear safety and defense.
+Featured
+Hydrocarbons and Geothermal Energy Office
+Topics
+Main Menu
+Topics
+View all Topics
+Energy Sources
+Learn about the resources and technologies used to produce power across the United States.
+Energy Usage
+Explore how energy is consumed in homes, businesses, transportation, and industry.
+Policy
+Understand the laws, regulations, and strategies that guide energy decisions and national priorities.
+Science & Innovation
+See how research, discovery, and new technologies are shaping the future of energy.
+Economy
+Discover how energy affects jobs, markets, investment, and economic growth.
+National Security & Safety
+Learn how energy systems support resilience, infrastructure protection, and public safety.
+News & Events
+Main Menu
+News & Events
+View all News & Events
+Press Releases
+August 10, 2026
+Energy Secretary Continues Progress to Strengthen Energy Reliability in Puerto Rico
+As Puerto Rico faces rising electricity demand and hurricane season, DOE continues… Read more
+View all Press Releases
+Fact Sheets
+FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived
+Fact Sheet: Operational Closure of Radioactive Liquid Waste Tanks
+Fact Sheet: Liquid Waste Tank Farms
+View all Fact Sheets
+Upcoming Events
+Aug 12
+11:00AM EDT - 7:30PM EDT
+Hanford EM SSAB Meeting (August 2026)
+Aug 12
+6:00PM EDT - 8:00PM EDT
+Oak Ridge EM SSAB Meeting (August 2026)
+Aug 12
+9:00PM EDT - 11:00PM EDT
+CONNECT Series Community Update Meeting
+View all Events
+About
+Main Menu
+About
+Mission
+Supporting USA energy, science, and security priorities.
+History & Achievements
+Nobel Prize Laureates
+Contact Us
+Access general information and ways to connect with the Department of Energy.
+Careers
+Internships & Fellowships
+Apprenticeships & Workforce Development
+Work at DOE
+Funding Opportunities
+Breadcrumb
+Home
+Topics
+Geothermal
+FORGE
+FORGE
+The U.S. Department of Energy (DOE) Office of Geothermal Frontier Observatory for Research in Geothermal Energy (FORGE) initiative is a dedicated field site in Milford, Utah, where scientists and engineers can develop, test, and accelerate breakthroughs in enhanced geothermal systems (EGS) technologies and techniques.
+Led by the University of Utah – Energy & Geoscience Institute (EGI) in association with multiple partner organizations , the Utah FORGE project area is rural, covering less than five square miles, and is situated near the town of Milford in Beaver County, Utah’s Renewable Energy Corridor . This part of the Milford Valley hosts a wind farm, solar photovoltaic plant, a geothermal plant, and several hog farms from which biogas is harvested. The FORGE effort includes robust instrumentation, data collection, and data dissemination to capture and share information and activities in real time. The site’s cutting-edge research, coupled with an innovative collaboration and management platform, helps scientists identify a replicable, commercial pathway to EGS.
+FORGE Research
+FORGE research and development (R&D) activities focus on strengthening our understanding of the key mechanisms controlling EGS success—specifically, how to initiate and sustain fracture networks in basement rock formations. This critical knowledge will be used to design and test a methodology for developing large-scale, economically sustainable heat exchange systems, paving the way for a rigorous and reproducible approach that will reduce industry development risk and facilitate EGS commercialization. The R&D activities include innovative drilling techniques, reservoir stimulation techniques, well connectivity and flow-testing efforts, and other related activities.
+Throughout the life of the FORGE initiative, the R&D priorities will shift to accommodate technology advancements, allowing FORGE to be a dynamic, flexible effort that adjusts to the latest challenges in the energy frontier.
+The FORGE initiative field site in Milford, Utah.
+Photo credit: FORGE
+Research and Development
+During Phase 3, the FORGE initiative released two R&D solicitations that were open to the public and subject to a rigorous, transparent merit review process in line with the spirit of DOE standards. The two solicitations resulted in 30 subcontracts for research and technology testing. All entities (e.g., industry, universities, federally funded research and development centers, non-profit organizations, government agencies) were eligible to submit proposals to these solicitations as individual entities or teams.
+Solicitation 2020-1
+On April 28, 2020, DOE announced up to $46 million for projects to develop and test technology to foster innovation in EGS in the following Topic Areas:
+Devices suitable for sectional (zonal) isolation along both cased and open-hole wellbores under geothermal conditions
+Estimation of stress parameters
+Field-scale characterization of reservoir stimulation and evolution over time, including thermal, hydrological, mechanical, and chemical (THMC) effects
+Stimulation and configuration of Utah FORGE wells
+Integrated laboratory and modeling studies of the interactions among THMC processes
+On February 24, 2021, DOE announced that the University of Utah selected 17 projects to receive up to $46 million in funding for cutting-edge, domestic, and carbon-free geothermal projects with potential to supply power to homes in the United States. For information on these 17 projects, visit the FORGE R&D webpage .
+Solicitation 2022-2
+On August 15, 2022, DOE announced up to $44 million for projects to develop and test technology to foster innovation in EGS in the following Topic Areas:
+Adaptive induced seismicity monitoring protocols
+Alternative stimulation schemes
+Field scale experiments to measure heat-sweep efficiency
+High temperature proppants
+Multiset straddle packers for open hole operations
+On November 14, 2023, DOE announced that the University of Utah selected 13 projects under this solicitation to build on FORGE’s existing EGS work and focus on reproducible solutions and dissemination of technical data. For information on these 13 projects, visit the FORGE R&D webpage .
+FORGE News and Highlights
+FORGE continues to generate news and successes. Here are some notable highlights:
+Seven-Fold Decrease in On Bottom Drilling Time
+Drilling costs can comprise 50% or more of the total capital costs for geothermal energy projects. Reducing drilling costs is essential to expanding the use of geothermal, and increasing drilling rates is a key way to achieve this goal. FORGE has demonstrated a seven-fold decrease in on bottom drilling time— from 440 hours to 60 hours at an equivalent depth of 6,000 feet ! In 2022, the FORGE team partnered with researchers at Texas A&M University to implement physics-based drilling approaches developed in oil and gas (O&G)—known as “Limiter Redesign”—which had yet to see sustainable success in the more extreme drilling conditions of geothermal. FORGE successfully applied this approach, combined with the use of advanced drill bits (polycrystalline diamond compact, or PDC, bits), leading to remarkable improvements at FORGE. Reducing the cost of drilling is key to increasing deployment of EGS and next generation geothermal and leveraging this FORGE success will dramatically enhance the commercial viability of all geothermal technologies.
+Source: Dupriest, Fred, and Sam Noynaert. 2022. “Drilling Practices and Workflows for Geothermal Operations.” Paper presented at the IADC/SPE International Drilling Conference and Exhibition, Galveston, Texas, USA, March 2022. https://doi.org/10.2118/208798-MS.
+Geothermal Reservoir Successfully Created at FORGE
+FORGE has achieved substantial success in well drilling, reservoir stimulation, and in the creation of an EGS . Between October 2020 and April 2024, the FORGE team drilled two, first-of-their-kind wells and performed multiple innovative stimulations that created a strong subsurface flow pathway that did not previously exist. The result: FORGE successfully created a geothermal reservoir from scratch , completing a crucial step in the Utah FORGE initiative’s goal of de-risking tools and technologies required for making EGS technologies commercially viable.
+FORGE Builds Relationships in Beaver County
+As the Utah FORGE site continues to pursue its technical goals for EGS, FORGE staff are also engaging with local residents and students to increase awareness about the renewable energy that can be harnessed through the heat beneath their feet. This outreach work is helping local officials, residents, and businesses understand geothermal energy, and forging substantive relationships and understanding with the community as the site’s technical capacity has expanded. Through school visits, teacher workshops, community events, competitions, and much more, the FORGE team has been a consistent and visible presence , so much so that Beaver County Commissioner Tammy Pearson has publicly praised them for being phenomenal partners.
+Watch FORGE's video celebrating their local community and thanking them for supporting the work to advance geothermal and other renewable energy technologies.
+Successful Multi-Zone Stimulation Increases Pathways in Hot Rock
+The FORGE project has driven innovation in multi-zone stimulation of hard hot granitic rock using zonal isolation technology. Zonal isolation technology allows for the segmentation of a wellbore into multiple permeable zones to create many pathways between injection and production wells. The O&G industry made breakthroughs in this technology in recent decades, and these advances are being adapted to EGS development via the Office of Geothermal-funded FORGE initiative and geothermal startups’ commercial developments. In 2024, FORGE built on previous successful stimulations (both at FORGE and by geothermal startups) and used multizone stimulation via pump-down drillable plugs in a large diameter (7 inch) and deviated (65 degrees) well at temperatures greater than 200 ° C for the purposes of EGS reservoir creation. These advances in multi-zone stimulation, achieved through a DOE-funded project and industry further advancing the technology and methods, are enabling expansion of EGS deployment across the country .
+FORGE Fosters Growth by Sharing Terabytes of Data
+Collecting and analyzing data about drilling and the subsurface is vital to optimize drilling approaches, understand and mitigate risks, reduce costs, and foster growth in the relatively small geothermal industry. Making those data publicly available is also essential, particularly for next-generation geothermal technologies like EGS.
+FORGE has and continues to generate a prolific amount of data that is maintained on the Geothermal Data Repository (GDR), including microseismic catalogs, well logs, drilling and stimulation data, and much more. The FORGE team has also created wiki pages describing key operations and providing links to specific data on the GDR. FORGE's contributions to the GDR, which total more than 133 terabytes of data as of May 2026, foster transparency and enable advances for other researchers, academia, investors, insurers, and geothermal companies .
+Information is power—the more these data are analyzed, understood, and used by the research community and other prospective players in the EGS space, the more likely EGS is to reach deployment goals.
+Drilling Success!
+FORGE 16A Drilling Rig
+In February 2021, the Office of Geothermal announced that FORGE broke ground —literally—in new and exciting ways. And in January 2023, Utah FORGE released a video exploring the successful completion of a three-stage hydraulic stimulation of its first highly deviated injection well and deployment of seismic monitoring tools.
+Fiber optic Cable Advances Understanding of EGS
+To supplement existing surface and subsurface monitoring, FORGE uses fiberoptic cable to continuously monitor strain, temperature, and acoustics in the subsurface. These fiberoptic cables are difficult to deploy, and successful implementation depended on a collaboration with an expert in fiberoptic cable deployment with experience in the O&G industry. During the second FORGE stimulation and subsequent flow testing, these monitoring assets were implemented to provide better understanding of flow in the subsurface and changes to the EGS reservoir through time . They will also help to continuously monitor seismic activity in the EGS reservoir . Over their lifespan, these monitoring assets will generate terabytes of data, advancing the collective understanding and evolution of EGS reservoirs.
+FORGE Welcomes Visitors
+Photo Credit: Eric Larson, Flash Point SLC
+The team at Utah FORGE regularly welcomes government leaders and others interested in the benefits of geothermal energy and ongoing work at FORGE. Guests have included DOE's former Energy Secretary Jennifer M. Granholm, former Deputy Secretary David Turk, former Undersecretary David Crane, and former Assistant Principal Deputy Assistant Secretary (EERE) Alejandro Moreno, as well as former Senator Mitt Romney, Utah Governor Spencer Cox, Colorado Governor Jared Polis, and many others.
+Check out Utah FORGE VIP visitor highlight reel .
+Visit Utah FORGE Virtually
+Viewers can explore the various wells and surrounding areas, check out aerial flyovers and 360-degree views, and even “walk” on a rig!
+Visit Now
+FORGE Phases and Sites
+View a larger version of this graphic
+The FORGE initiative contains three phases . Currently in phase three, the Utah FORGE team , led by the University of Utah–Energy & Geoscience Institute in association with multiple partner organizations , is a dedicated laboratory for developing, testing, and accelerating breakthroughs in EGS technologies to advance the use of geothermal resources. The Utah FORGE team is currently drilling full-size wells spanning 15 square miles near Milford, Utah, in eastern Beaver County.
+Resources
+Technical Resources and Reports
+As with all data from Office of Geothermal-funded projects, all data collected and generated by the FORGE initiative are publicly available on the Geothermal Data Repository (GDR) . Additionally, all reports about FORGE R&D projects can be accessed on OSTI .
+Legacy Resources
+Frontier Observatory for Research in Geothermal Energy: A Roadmap , 2019: The roadmap, funded by the Office of Geothermal and developed by the Institute for Defense Analyses Science and Technology Policy Institute, provides technical research recommendations to the Office of Geothermal, FORGE’s Science and Technology Analysis Team (STAT), and the broader research community for the five years of FORGE’s operation. While the roadmap’s components are focused primarily on FORGE, the roadmap activities also contribute to the knowledge and understanding of how to build future large-scale, economically sustainable EGS systems beyond the FORGE site.
+Contact Information
+For questions about current FORGE activity, please review FORGE contact information or email doe.geothermal@ee.doe.gov .
+Subscribe to Geothermal Emails
+Receive updates on geothermal funding opportunities, events, publications, and activities in your inbox.
+Email
+Committed to Restoring America’s Energy Dominance.
+Follow Us
+Link to Facebook
+Link to Instagram
+Link to Linkedin
+Link to Youtube
+Link to X
+Link to Flickr
+Quick Links
+Newsroom
+Contact Us
+Careers
+Resources
+Budget & Performance
+Directives, Delegations, & Requirements
+Freedom of Information Act (FOIA)
+Inspector General
+Privacy Program
+Federal Government
+USA.gov
+The White House
+Open Gov
+Accessibility
+Privacy
+Information Quality
+No Fear Act
+Web Policies
+Vulnerability Disclosure Program
+Whistleblower Protection
+Equal Employment Opportunity
+Notice of Court Orders

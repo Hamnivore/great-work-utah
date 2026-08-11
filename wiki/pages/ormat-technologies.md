@@ -19,13 +19,12 @@
 **Ownership:** public
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-08-11
-**Hero:** https://picsum.photos/seed/ormat-cove-fort-beaver-county-2026/1600/1100
 **Pull:** *Utah geothermal didn't start with Fervo — Ormat has owned, built, or supplied equipment to every operating plant in Beaver County, and now runs one of them.*
 **Relates:** cites [Official Website: Ormat Technologies](ormat-technologies-official-website.md) · https://greatutah.work/pages/ormat-technologies-official-website.md · https://ormat.com; cites [Official Source: Ormat Cove Fort Acquisition](ormat-cove-fort-acquisition.md) · https://greatutah.work/pages/ormat-cove-fort-acquisition.md · https://investor.ormat.com/news-events/news/news-details/2024/Ormat-Completed-the-Acquisition-of-Contracted-Operating-Geothermal-and-Solar-Assets-From-Enel-Green-Power-North-America/default.aspx
 
 ## Summary
 
-Ormat Technologies, Inc. (NYSE: ORA) is a Reno, Nevada-based geothermal company with roots back to 1965, and the only vertically integrated firm in its industry: it designs and manufactures its own binary-cycle power units (the Ormat Energy Converter), then builds, owns, and operates geothermal, recovered-energy, and energy-storage plants on top of them. In Utah, Ormat owns and operates the Cove Fort geothermal power plant in Beaver County — a 25 MW binary facility it acquired from Enel Green Power North America in January 2024 — and holds new Bureau of Land Management leases next to it for two additional plants, Cove Fort 2 and Cove Fort North.
+Ormat Technologies, Inc. (NYSE: ORA) is a Reno, Nevada-based geothermal company with roots back to 1965, and the only vertically integrated firm in its industry: it designs and manufactures its own binary-cycle power units (the Ormat Energy Converter), then builds, owns, and operates geothermal, recovered-energy, and energy-storage plants on top of them. In Utah, Ormat owns and operates the Cove Fort geothermal power plant in Beaver County — a 25 MW binary facility it acquired from Enel Green Power North America in January 2024 ([acquisition source](ormat-cove-fort-acquisition.md)) — and holds new Bureau of Land Management leases next to it for two additional plants, Cove Fort 2 and Cove Fort North.
 
 Ormat's Utah relationship is older than that acquisition. Ormat Nevada Inc. supplied the binary "bottoming cycle" unit that expanded PacifiCorp's neighboring Blundell geothermal plant in 2007, and built and financed Cyrq Energy's Thermo No. 1 plant near Milford under a 2011 EPC contract. By the time Fervo Energy broke ground on Cape Station in 2023, Ormat equipment or ownership already touched every operating geothermal plant in the county.
 
@@ -33,7 +32,7 @@ For a reader researching Utah geothermal, Ormat is the conventional-hydrothermal
 
 ## Impact
 
-Ormat's Utah impact is not a moonshot claim; it is proven, revenue-generating baseload capacity already on the grid. Cove Fort has sold power to the Salt River Project under a long-term PPA since it was commissioned in 2013, and Ormat's June 2026 completion of a 5 MW performance upgrade shows the asset is still being optimized rather than left to run down after a change of ownership. The depth of this impact is narrow but real: one operating plant, incrementally improved, plus two more plants staged for development on adjacent BLM leases (Cove Fort 2 targeting a 2027 commercial operation date; Cove Fort North at an earlier stage).
+Ormat's Utah impact is not a moonshot claim; it is proven, revenue-generating baseload capacity already on the grid. Cove Fort has sold power to the Salt River Project under a long-term PPA since it was commissioned in 2013, and Ormat reports completing a 5 MW performance upgrade in June 2026 ([official website](ormat-technologies-official-website.md)). The depth of this impact is narrow but real: one operating plant, incrementally improved, plus two more plants staged for development on adjacent BLM leases.
 
 The breadth case is more about ecosystem completeness than headline megawatts. Ormat's decades of equipment sales and EPC work at Blundell (PacifiCorp) and Thermo No. 1 (Cyrq Energy) mean Utah's conventional hydrothermal buildout has depended on the same company now expanding as an owner-operator. That gives Utah's geothermal cluster — Fervo's fracture-based EGS, Zanskar's exploration AI, Rodatherm's closed-loop pilot, and Utah FORGE's public research — a working commercial base case next door: geothermal that already pays for itself at a smaller, hydrothermal-resource scale, before any of the newer approaches prove out at theirs.
 
@@ -41,9 +40,9 @@ The bounds are set by resource geology and permitting pace, not technology risk:
 
 ## What They Are Building
 
-Cove Fort is a two-unit, 25 MW binary-cycle plant (two 12.5 MW Ormat Energy Converter units) that has operated since December 2013, first under Enel Green Power, then Ormat since the January 2024 acquisition closed. Ormat paid $271 million for the whole Enel Green Power North America portfolio — Cove Fort plus Nevada's Salt Wells and Stillwater Hybrid plants and two greenfield development rights, one of which sits directly adjacent to Cove Fort. In June 2026, Ormat completed a 5 MW upgrade at Cove Fort as part of its stated plan to integrate its own OEC equipment and improve the acquired portfolio's performance.
+Cove Fort is a two-unit, 25 MW binary-cycle plant that has operated since December 2013, first under Enel Green Power, then Ormat since the January 2024 acquisition closed. Ormat paid $271 million for the whole Enel Green Power North America portfolio — Cove Fort plus Nevada's Salt Wells and Stillwater Hybrid plants and two greenfield development rights, one of which sits directly adjacent to Cove Fort ([acquisition source](ormat-cove-fort-acquisition.md)). In June 2026, Ormat reported completing a 5 MW upgrade at Cove Fort ([official website](ormat-technologies-official-website.md)).
 
-In December 2024, Ormat secured 1,678 acres of Utah BLM leases specifically to support two new plants next to Cove Fort: Cove Fort 2 (exploration expected to begin 2025, targeting a 2027 commercial operation date, pending resource confirmation) and Cove Fort North (a later-stage, undated project). Company-wide, Ormat reports roughly 1.8 GW of generating portfolio (geothermal, solar, and energy storage combined), $990 million in 2025 revenue, and about 1,650–1,700 employees across three business segments: Electricity (owns and operates plants), Product (designs, manufactures, and sells OEC equipment and turnkey EPC), and Energy Storage (battery systems).
+In December 2024, Ormat secured 1,678 acres of Utah BLM leases specifically to support two new plants next to Cove Fort ([official website](ormat-technologies-official-website.md)). Company-wide portfolio, revenue, and employee figures need a captured annual filing before being repeated here.
 
 ## What They Need Now
 
@@ -87,5 +86,5 @@ This gives the newer, higher-profile Utah geothermal cluster a working baseline:
 
 - Cove Fort 2's targeted 2027 commercial operation date is explicitly conditioned by Ormat on "resource availability"; verify exploration results before treating it as a committed timeline.
 - No confirmed count of current Cove Fort-specific job openings: Ormat's careers site and jobs map are JavaScript-rendered and did not return Utah-specific listings to this fetcher. A human applicant should use https://www.ormat.com/en/company/careers/jobs-map/ directly.
-- The relative sizing of Cove Fort (25 MW), Blundell (~33-38 MW), and Thermo No. 1 (14 MW) against Fervo's planned 400 MW Cape Station has not been independently verified beyond the cited plant records; treat all MW figures here as nameplate/EIA-reported capacity, not generation.
+- Relative plant sizing has not been independently verified beyond the cited plant records; treat all capacity figures here as nameplate or EIA-reported capacity, not generation.
 - The current hero image is an unrelated stock placeholder (picsum.photos), not a Cove Fort or Ormat photograph; replace with a license-clean plant image before production use.

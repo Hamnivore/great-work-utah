@@ -3,11 +3,12 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Press Release
+**Source Type:** press-release
 **URL:** https://investor.cisco.com/news/news-details/2024/Cisco-Completes-Acquisition-of-Splunk/default.aspx
+**Archive:** https://web.archive.org/web/20260729225612/https://investor.cisco.com/news/news-details/2024/Cisco-Completes-Acquisition-of-Splunk/default.aspx
+**Archived:** 2026-07-29
 **Publisher:** Cisco Systems, Inc.
 **Published:** 2024-03-18
-**Accessed:** 2026-07-11
 **Updated:** 2026-07-11
 
 ## Summary

@@ -9,7 +9,6 @@
 **Region:** Daggett County
 **Website:** https://www.flaminggorgecountry.com/Chamber-of-Commerce/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

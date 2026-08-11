@@ -1,0 +1,103 @@
+Search for Public Schools - Mountain Heights Academy (490013801285)
+Search for Public Schools
+Directory Information (2025-2026 school year)
+Search Results
+Modify Search
+Data Notes/Grant IDs
+Help
+School Name:
+Mountain Heights Academy
+NCES School ID:
+490013801285
+State School ID:
+UT-9F-9F600
+District Name:
+Mountain Heights Academy
+NCES District ID:
+4900138
+State District ID:
+UT-9F
+Mailing Address: 9067 S 1300 W Suite 204 WEST JORDAN UT, 84088
+Physical Address: 9067 S 1300 W Suite 204
+WEST JORDAN UT, 84088
+Phone:
+(801) 721-6329
+Type:
+Regular school
+Status:
+Open
+Charter:
+Yes
+Supervisory Union #:
+N/A
+Grade Span:
+7 - 12
+7
+8
+9
+10
+11
+12
+Website: http://www.mountainheightsacademy.org/
+School Details (2024-2025 school year)
+County: Salt Lake County
+Locale: Suburban, Large (21)
+Total Students: 864
+Classroom Teachers (FTE): 74.07
+Student/Teacher Ratio: 11.66
+Note: Starting SY 2022-23, Magnet and Title I status data are no longer included in the CCD release. For Magnet status, refer to the Civil Rights Data Collection ; for ESSA Title I status, refer to ED Data Express .
+Enrollment Characteristics (2024-2025 school year)
+Enrollment by Grade:
+7
+8
+9
+10
+11
+12
+Students
+49
+100
+133
+159
+238
+185
+Enrollment by Gender:
+Male
+Female
+Students
+402
+461
+Enrollment by Race/Ethnicity:
+American Indian/
+Alaska Native
+Asian
+Black
+Hispanic
+White
+Native Hawaiian/
+Pacific Islander
+Two or More Races
+Students
+3
+9
+12
+124
+671
+10
+34
+Free lunch eligible 1 : 140
+Reduced-price lunch eligible 1 : 0
+Free and reduced-price lunch eligible total 1 : 140
+Free lunch eligible by Direct Certification 2 : –
+Note: Details may not add to totals.
+Note : The inclusion or exclusion of a school in this locator does NOT constitute an endorsement of the school and should NOT be used in any way to infer the accreditation status of the school.
+Source: CCD Public school data 2024-2025, 2025-2026 school years
+Notes:
+The unduplicated number of students who are eligible to participate in the Free Lunch and Reduced-Price Lunch Programs under the National School Lunch Act of 1946.
+The unduplicated number of students who are eligible for the National School Lunch Program (NSLP) through direct certification (e.g., children that are in households that receive Supplemental Nutrition Assistance (SNAP) or other assistance). Please see this blog post for more information regarding free or reduced-price lunch and direct certification eligibility counts in CCD.
+* denotes a column with data from 2024-2025
+[ &dagger; ] indicates that the data are not applicable. For example, the enrollment and staff characteristics for schools that opened in the 2025-2026 school year will not be available until the full 2025-2026 file is released.
+[ – ] indicates that the data are missing.
+[ &Dagger; ] indicates that the data do not meet NCES data quality standards.
+The directory information on school name, address, and phone number are preliminary data from initial submissions of school level data for 2025-2026.
+Data provided on student membership and staffing are from the official school level data for 2024-2025.

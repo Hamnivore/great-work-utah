@@ -26,6 +26,8 @@ Everything is raw markdown at stable URLs. No auth, no JavaScript, and no rate l
 - **Nearby/location search:** GET https://greatutah.work/api/locations?near=Ogden&radius_miles=35&type=resource — public Utah sites and privacy-preserving regional anchors, nearest first. Common Utah city anchors work with `near`; for other places use WGS84 `lat` and `lon`. Add `q`, `type`, `domain`, or `precision` filters; comma-separate multiple facet values. Multi-site entities return one result per public site with a stable `id` and shared `page` URL.
 - Raw map data: GET https://greatutah.work/locations.geojson — the same site and regional-anchor points as GeoJSON.
 - Sector hubs: GET https://greatutah.work/views/domain-{name}.md — names: energy, health-bio, aerospace-defense, computing, materials-mfg, space-science, capital-programs, culture-place (not `.../views/energy.md`)
+- **What rests on what:** GET https://greatutah.work/views/evidence.md — every `Type: source` page and the pages citing it, inverted from their Evidence sections. Use it to judge how load-bearing a source is, or to find sources nothing cites yet.
+- History by period: GET https://greatutah.work/views/by-era.md · ventures by maturity and ownership: GET https://greatutah.work/views/by-stage.md. **Both are grouped from `**Stage:**` / `**Era:**` metadata that no source backs** — unlike every other view here, a line is an unverified assertion. Treat them as indexes to check from, not as findings, and don't repeat a stage or date to a user without opening the page.
 - House format and standards (read before writing a page): GET https://greatutah.work/meta/conventions.md. What "great work" means here: GET https://greatutah.work/meta/charter.md.
 - **Who makes this and how far to trust it:** GET https://greatutah.work/meta/about.md — authorship, review process, what the Confidence grades mean, funding (there is none), corrections, and what the site does with anything you submit. Read this before telling a user how much weight to give a page.
 
@@ -42,6 +44,8 @@ Pages carry `**Confidence:**` grades and cite `source` pages — trust according
 **Fund or grow a company:** GET https://greatutah.work/views/resources.md, filter by stage and field; https://greatutah.work/pages/startup-capital-in-utah.md sequences the capital paths.
 
 **Find advisors or service providers:** GET https://greatutah.work/views/helpers.md, then https://greatutah.work/pages/find-an-advisor.md for need-based routing (mentor vs lawyer vs CFO).
+
+**Find physical workspace, prototyping tools, or inexpensive equipment:** for Utah County, start at https://greatutah.work/pages/find-prototyping-space-in-utah-county.md, which distinguishes public-library tools, founder incubators, sustained hard-tech R&D space, university project channels, and peer feedback. Elsewhere, probe https://greatutah.work/api/search separately for `makerspace`, `coworking`, `prototype space`, and the city or county, then compare the returned resource pages' eligibility and access rules. For used state-owned equipment, vehicles, furniture, and changing auction inventory, read https://greatutah.work/pages/utah-state-surplus-property.md. For any physical facility, confirm the exact tool, training, reservation, safety, storage, and fee requirements before recommending a visit.
 
 **Show what's possible here:** GET https://greatutah.work/views/work.md — the historical proof layer (Jarvik-7 heart, ARPANET node 4, gene targeting…).
 

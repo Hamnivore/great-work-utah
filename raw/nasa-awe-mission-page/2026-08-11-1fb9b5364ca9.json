@@ -1,0 +1,13 @@
+{
+  "source_page": "nasa-awe-mission-page.md",
+  "requested_url": "https://science.nasa.gov/mission/awe/",
+  "final_url": "https://science.nasa.gov/mission/awe/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:14.662Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "217a9e283c5909610acafc99f7f4472fb326859f02d3cbaf0225eb8b407bc790",
+  "text_sha256": "1fb9b5364ca903fc600a5a403e7ef0360862d6cd589e7bc9e8e36a124aaed913",
+  "text_chars": 16168,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

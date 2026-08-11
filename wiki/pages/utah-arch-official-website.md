@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://arch.cs.utah.edu
+**Archive:** https://web.archive.org/web/20260211043915/https://arch.cs.utah.edu/
+**Archived:** 2026-02-11
 **Publisher:** University of Utah School of Computing
-**Accessed:** 2026-06-19
+**Raw:** raw/utah-arch-official-website/2026-08-11-407197697f49.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -15,11 +18,26 @@ The Utah Arch Research Group's official website describes the group's research f
 
 ## Useful Claims
 
-- The site presents the group's research agenda spanning FHE hardware accelerators, ML accelerators, and post-silicon compute substrates including 3D nanofabric and processing-in-memory architectures.
-- Publications are listed at top computer architecture and systems security venues: HPCA, ASPLOS, ISCA, and IEEE S&P.
-- Funding sources listed include NSF and DARPA, consistent with federally funded academic hardware research.
-- Industry collaborations are referenced, connecting the group to design teams at major technology companies and emerging FHE hardware companies.
-- PhD alumni are noted as flowing into hardware design roles at major technology companies including Apple, NVIDIA, Google, and Intel.
+- The site describes research on memory systems, machine learning accelerators, neuromorphic architectures, hardware ray-tracing, and memory security at the University of Utah School of Computing.
+- Recent publications listed include work at ASPLOS, IEEE S&P, HPCA, ISCA, MICRO, and related venues, including encrypted-inference and lattice-cryptography hardware and a 3D nanofabric ML accelerator paper.
+- Claims about NSF/DARPA funding, industry collaborations, and PhD alumni placements at specific companies are not in this capture.
+
+## Verbatim
+
+> "The Utah Arch research group is involved in Computer Architecture and VLSI Research at the School of Computing, University of Utah."
+> — Home page, group overview
+
+> "The group's current research focuses on memory systems, machine learning accelerators, neuromorphic architectures, hardware ray-tracing, and memory security."
+> — Home page, group overview
+
+> "Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference - S&P 2024"
+> — Home page, recent publications
+
+> "A Multiply-and-Accumulate Array for Machine Learning Applications Based on a 3D Nanofabric Flow - IEEE Transactions on Nanotechnology 2021."
+> — Home page, recent publications
+
+> "Dvé: Improving DRAM Reliability and Performance On-Demand via Coherent Replication - ISCA 2021."
+> — Home page, recent publications
 
 ## Reliability Notes
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "merit-medical-official-website.md",
+  "requested_url": "https://www.merit.com",
+  "final_url": "https://www.merit.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:12.604Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "cafe42e53e47b6fd3ab187285913f41fde8593b7d4752635f54ef05f5d7949d6",
+  "text_sha256": "486bb88355db87c42a6b7119b824e1f34082a8d71a436b0f58c8e9fe9cc6d094",
+  "text_chars": 7171,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

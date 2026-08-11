@@ -18,8 +18,6 @@
 **Domain:** health-bio, computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/weave-lehi-hq/1600/1100
-**Hero caption:** *Placeholder image. Weave is headquartered in Lehi, Utah; a license-clean photo of its office or product has not yet been sourced.*
 **Pull:** *Applied AI shipped into tens of thousands of small healthcare practices — voice agents and automated workflows where the receptionist used to be the bottleneck.*
 
 ## Summary

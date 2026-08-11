@@ -18,7 +18,6 @@
 **Domain:** aerospace-defense
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
-**Hero:** https://picsum.photos/seed/teal-black-widow-srr-suas-2026/1600/1100
 **Pull:** *American-made squad-level reconnaissance drones — and the Army's Short Range Reconnaissance Program of Record.*
 
 ## Summary

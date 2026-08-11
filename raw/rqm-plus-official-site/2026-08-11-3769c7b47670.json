@@ -1,0 +1,13 @@
+{
+  "source_page": "rqm-plus-official-site.md",
+  "requested_url": "https://www.rqmplus.com/",
+  "final_url": "https://www.rqmplus.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:29.425Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "749ff6a67c44ac2877d2a4d1f89de6d078bee657642b061201678f964915cbcc",
+  "text_sha256": "3769c7b476706df088cd0aafe3484bc45109c54c6f646971692bb48997888499",
+  "text_chars": 8955,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

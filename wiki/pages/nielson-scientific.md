@@ -17,7 +17,6 @@
 **Careers:** https://nielsonscientific.com/jobs-1
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/nielson-scientific-2026/1600/1100
 **Pull:** *A DOE SBIR awardee from the Utah Innovation Center cohort — domain unknown, but the signal is worth following.*
 **Relates:** cites [DOE SBIR Award Database: Nielson Scientific](nielson-scientific-doe-sbir.md) · https://greatutah.work/pages/nielson-scientific-doe-sbir.md · https://science.osti.gov/sbir
 **Relates:** cites [Official Website: Nielson Scientific](nielson-scientific-official-website.md) · https://greatutah.work/pages/nielson-scientific-official-website.md

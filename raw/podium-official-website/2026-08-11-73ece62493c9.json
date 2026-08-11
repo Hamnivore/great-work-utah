@@ -1,0 +1,13 @@
+{
+  "source_page": "podium-official-website.md",
+  "requested_url": "https://www.podium.com",
+  "final_url": "https://www.podium.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:25.750Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "2d6330733c27a7b3d5f2c9ad3a48350898f48bbc9157fa6b2c36e73add3d58aa",
+  "text_sha256": "73ece62493c9588896ac0623d047372a0dfc5f811ef18ae7d188f34da339f69c",
+  "text_chars": 9935,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

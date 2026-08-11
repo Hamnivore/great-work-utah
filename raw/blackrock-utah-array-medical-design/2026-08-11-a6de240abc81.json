@@ -1,0 +1,13 @@
+{
+  "source_page": "blackrock-utah-array-medical-design.md",
+  "requested_url": "https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/",
+  "final_url": "https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:21.128Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "3c93731ec49a9b0ea5309f71566cb7bac9a2c375b1326cf24309a6f253f22e2c",
+  "text_sha256": "a6de240abc81ba4b469e93c6f388930c945594f0ed307096c4044ee70b384a19",
+  "text_chars": 11285,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

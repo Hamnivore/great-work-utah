@@ -1,0 +1,13 @@
+{
+  "source_page": "huntsman-world-senior-games-official-website.md",
+  "requested_url": "https://web.archive.org/web/20260417181412/https://seniorgames.net/about",
+  "final_url": "https://web.archive.org/web/20260417181412/https://seniorgames.net/about",
+  "via_archive": true,
+  "fetched_at": "2026-08-11T22:40:49.966Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "b5a516843369a49c9524ce7f24460c50b6cd706f9130b30b6109034e5ff9c5cb",
+  "text_sha256": "d72ccb8c5d54c26537f8d022a11fad31e7044552df04069bb2a4e40a6d157006",
+  "text_chars": 292,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

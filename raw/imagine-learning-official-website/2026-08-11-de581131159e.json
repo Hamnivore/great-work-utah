@@ -1,0 +1,13 @@
+{
+  "source_page": "imagine-learning-official-website.md",
+  "requested_url": "https://www.imaginelearning.com/",
+  "final_url": "https://www.imaginelearning.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:42:35.793Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ec86cc815bb2761dfb030fd7d9bcb6e99893806f1d8ed65d993111a985d46e7c",
+  "text_sha256": "de581131159e5679c0b0b398d65dab4a004359eaac727a7cb375216e2a127b2d",
+  "text_chars": 19482,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

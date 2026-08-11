@@ -6,7 +6,6 @@
 **Audience:** researchers, university spinouts, technical founders, commercialization helpers
 **Focus:** research translation, SBIR/STTR, university spinouts, Nucleus programs
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Overview
 

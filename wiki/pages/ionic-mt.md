@@ -18,7 +18,6 @@
 **Careers:** https://ionicmt.com/company/careers
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/ionic-mt-manufacturing-2026/1600/1100
 **Pull:** *Utah's halloysite clay deposits hold a domestic answer to the EV battery anode problem — nano-silicon from a natural nanostructured mineral, no complex synthesis required.*
 **Relates:** cites [Official Website: Ionic MT](ionic-mt-official-website.md) · https://greatutah.work/pages/ionic-mt-official-website.md · https://ionicmt.com
 

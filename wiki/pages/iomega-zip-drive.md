@@ -26,7 +26,7 @@ The Zip drive arrived in the awkward but important gap between floppies and the 
 
 ## Impact
 
-Zip was the most visible "superfloppy" of the late 1990s and a genuine mass-market hit. Iomega's revenue leapt from roughly $362 million in 1995 to about $1.2 billion in 1996, reaching about $1.7 billion by the end of 1997, with around 2,000 Utah employees and a peak market valuation near $7 billion. For a stretch, OEMs including Apple, Dell, and Gateway offered internal Zip drives as factory options.
+Zip was the most visible "superfloppy" of the late 1990s and a genuine mass-market hit. Iomega's revenue leapt from roughly $362 million in 1995 to about $1.2 billion in 1996, reaching about $1.7 billion by the end of 1997, with around 2,000 Utah employees ([Standard-Examiner source](iomega-standard-examiner-2012.md)). A secondary retrospective estimates peak market valuation near $7 billion; that figure has not been verified from a filing. For a stretch, OEMs including Apple, Dell, and Gateway offered internal Zip drives as factory options.
 
 The deeper impact was cultural and practical: Zip normalized the idea of high-capacity, rewritable, pocketable personal storage during the exact years when ordinary users suddenly had large files (desktop publishing, scanned images, presentations, multimedia, games) but no cheap, universal way to move or back them up. It made large-file portability feel normal before the technologies that ultimately replaced it were ready.
 
@@ -34,7 +34,7 @@ The deeper impact was cultural and practical: Zip normalized the idea of high-ca
 
 The Zip drive packaged Iomega's removable-media engineering (descended from its earlier Bernoulli products) into a cheap, friendly, mass-market peripheral. The original external models shipped in parallel-port versions for IBM PC-compatibles and SCSI versions for Macs and PCs, used Winchester-style "nanoslide" heads with a special air-bearing surface and a linear voice-coil motor, and were fast enough to run applications directly from the disk. The hardware had a distinctive industrial design and color and came with software to organize and copy data.
 
-The hard problem was not exotic engineering but consumer integration: high-capacity removable storage at consumer price, size, and ease of use. Earlier removable-cartridge systems served professional niches; Zip's success was as much about media pricing (cartridges around $15-20), retail distribution, and brand marketing as about raw mechanism.
+The hard problem was not exotic engineering but consumer integration: high-capacity removable storage at consumer price, size, and ease of use. Earlier removable-cartridge systems served professional niches; Zip's success was as much about media pricing, retail distribution, and brand marketing as about raw mechanism. A primary source for historical cartridge prices has not been captured.
 
 ## Why It Mattered
 

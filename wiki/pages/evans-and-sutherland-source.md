@@ -3,10 +3,9 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Archive Record; Historical Website
+**Source Type:** reference
 **URL:** https://archivespace.lib.utah.edu/agents/corporate_entities/2243; https://www.historyofcg.com/pages/evans-sutherland-/
 **Publisher:** University of Utah Special Collections; History of Computer Graphics
-**Accessed:** 2026-06-18
 **Updated:** 2026-06-18
 
 ## Summary

@@ -43,7 +43,6 @@
 **Additional Map Location:** 1050 W Market Dr, Vernal, UT 84078 | 40.454321, -109.548471 | exact | https://jobs.utah.gov/UI/Employer/Public/Empadv/Spring_2026.pdf
 **Website:** https://jobs.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

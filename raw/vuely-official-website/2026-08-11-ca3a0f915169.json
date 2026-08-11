@@ -1,0 +1,13 @@
+{
+  "source_page": "vuely-official-website.md",
+  "requested_url": "https://vuely.co/",
+  "final_url": "https://vuely.co/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:22:09.972Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "aceb736c550f9fc99762810f36adb7a21a83146a6bb1514c17eead34126b2b8b",
+  "text_sha256": "ca3a0f91516903a973f199608a03a04e433356b7c7c625321f99e0aa93b4a214",
+  "text_chars": 8850,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

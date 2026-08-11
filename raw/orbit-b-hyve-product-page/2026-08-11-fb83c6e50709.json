@@ -1,0 +1,13 @@
+{
+  "source_page": "orbit-b-hyve-product-page.md",
+  "requested_url": "https://www.orbitonline.com/pages/what-is-b-hyve",
+  "final_url": "https://www.orbitonline.com/pages/what-is-b-hyve",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:44:06.971Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "18d696bc6a6c024059b6602fb5931c809b61ba29bfac8604da028700989b4505",
+  "text_sha256": "fb83c6e507096ebf230ad4df2b523ef32d086d6b300fbf9baeea55a4cd083bf8",
+  "text_chars": 9444,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

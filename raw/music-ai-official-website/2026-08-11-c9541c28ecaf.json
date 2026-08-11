@@ -1,0 +1,13 @@
+{
+  "source_page": "music-ai-official-website.md",
+  "requested_url": "https://music.ai",
+  "final_url": "https://music.ai/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:14.124Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "4334c65fcf11cc8a80e3dc900997189610d44173d075f2e31f38a52314488f37",
+  "text_sha256": "c9541c28ecaf4cab180e8691573c109c1929bb0dd6ec6fc147bc735b0a10468d",
+  "text_chars": 1461,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

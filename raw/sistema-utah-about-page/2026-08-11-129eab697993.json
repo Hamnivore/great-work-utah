@@ -1,0 +1,13 @@
+{
+  "source_page": "sistema-utah-about-page.md",
+  "requested_url": "https://www.sistemautah.org/about.html",
+  "final_url": "https://www.sistemautah.org/about.html",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:25.220Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ca033a847ef9fcb485aa38050a269882390e756016a6898f3d53a367792118f9",
+  "text_sha256": "129eab697993858cfff42a7ebfdff80601ce00f2e1656c0f41d0c4e9256e4761",
+  "text_chars": 3501,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

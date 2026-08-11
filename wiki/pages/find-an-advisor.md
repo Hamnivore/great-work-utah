@@ -6,7 +6,6 @@
 **Audience:** Utah founders, researchers, first-time CEOs, operators raising or commercializing
 **Focus:** mentors, professional advisors, legal counsel, accounting, fractional CFO, IP, commercialization
 **Updated:** 2026-07-14
-**Layout:** field-guide
 
 ## Overview
 

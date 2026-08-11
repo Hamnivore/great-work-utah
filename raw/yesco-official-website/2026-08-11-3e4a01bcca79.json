@@ -1,0 +1,13 @@
+{
+  "source_page": "yesco-official-website.md",
+  "requested_url": "https://www.yesco.com/",
+  "final_url": "https://www.yesco.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:01.367Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "b91f7c0ea25c427d5fad918aa761c39d017b0b20f08394ac73c684f607960419",
+  "text_sha256": "3e4a01bcca798b8ae291deb7b9af63bb1e908240945531ab30f3a17838a71c0b",
+  "text_chars": 5392,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "autonomous-solutions-inc-official-website.md",
+  "requested_url": "https://asirobots.com",
+  "final_url": "https://asirobots.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:17.289Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "1d6cafa8fe899ff1e45240a858c5b0b52ddbdd0208bb92979e6bb64b5aaa1dbd",
+  "text_sha256": "9f83a232752f921a09eab5b7508bbaf960125bf7bad576869facb34507b1d37f",
+  "text_chars": 14813,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

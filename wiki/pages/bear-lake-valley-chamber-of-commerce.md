@@ -10,7 +10,6 @@
 **Domain:** culture-place
 **Region:** Rich County
 **Website:** https://bearlakechamber.com/
-**Layout:** field-guide
 
 ## Summary
 

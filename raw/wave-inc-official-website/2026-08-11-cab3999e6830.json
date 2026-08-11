@@ -1,0 +1,13 @@
+{
+  "source_page": "wave-inc-official-website.md",
+  "requested_url": "https://www.wavecharging.com/",
+  "final_url": "https://www.wavecharging.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:59.484Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "33ebf2feaf72b2c94115a5438257943e587b98e8eabb339433d60d90f00f2d51",
+  "text_sha256": "cab3999e68301e8e2aa122e4f82f0dd923100af6ca8b46850813ec076318ee58",
+  "text_chars": 4433,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

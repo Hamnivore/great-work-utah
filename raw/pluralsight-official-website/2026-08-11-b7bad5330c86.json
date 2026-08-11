@@ -1,0 +1,13 @@
+{
+  "source_page": "pluralsight-official-website.md",
+  "requested_url": "https://www.pluralsight.com",
+  "final_url": "https://www.pluralsight.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:25.412Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "9e8c0d73111444e97eb0104da8453a9a78e6fa57db07a260dc66e11edb28af0f",
+  "text_sha256": "b7bad5330c86e78cd1c84f533942308879e8f5ba023b6f927d34d85843fa9c97",
+  "text_chars": 8603,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

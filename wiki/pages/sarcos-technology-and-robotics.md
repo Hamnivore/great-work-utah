@@ -18,7 +18,6 @@
 **Domain:** materials-mfg, aerospace-defense
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-25
-**Hero:** https://picsum.photos/seed/sarcos-guardian-xo-exoskeleton-2026/1600/1100
 **Pull:** *Full-body powered exoskeletons and remote-manipulation robots for the workers who move heavy things in dangerous places.*
 **Relates:** cites [Official Website: Sarcos](sarcos-official-website.md) · https://greatutah.work/pages/sarcos-official-website.md · https://palladyneai.com/
 
@@ -50,7 +49,7 @@ Sarcos has deep roots in the University of Utah's robotics and bioengineering tr
 
 ## Evidence
 
-- [Official Website: Sarcos](https://www.sarcos.com) · https://www.sarcos.com
+- [Official Website: Sarcos / Palladyne AI](sarcos-official-website.md) · https://greatutah.work/pages/sarcos-official-website.md · https://palladyneai.com/
 
 ## See Also
 

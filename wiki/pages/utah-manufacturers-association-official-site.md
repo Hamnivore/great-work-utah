@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://manufacturingutah.com/
+**Archive:** https://web.archive.org/web/20260521011954/https://manufacturingutah.com/
+**Archived:** 2026-05-21
 **Publisher:** Utah Manufacturers Association
-**Accessed:** 2026-06-18
+**Raw:** raw/utah-manufacturers-association-official-site/2026-08-11-0d0e8bedef29.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -18,6 +21,17 @@ The Utah Manufacturers Association official site describes UMA as a statewide ma
 - UMA says it has served Utah manufacturing since 1905 and represents more than 1,200 manufacturing and service-provider companies statewide.
 - Public navigation highlights workforce, safety, advocacy, membership, networking, events, consulting, member benefits, and partner/service-provider relationships.
 - The site includes current events and news, which suggests the association is active.
+
+## Verbatim
+
+> "What Utah Makes, Makes Utah"
+> — Home page, hero
+
+> "Representing Utah's manufacturers and providing training, benefits, and networking opportunities to strengthen and grow."
+> — Home page, hero subhead
+
+> "The Utah Manufacturers Association (UMA) has been the leading alliance for the manufacturing community in Utah since 1905. We represent over 1200 manufacturing and service providers, big and small, in every inch of Utah."
+> — Home page, "Who is UMA"
 
 ## Reliability Notes
 

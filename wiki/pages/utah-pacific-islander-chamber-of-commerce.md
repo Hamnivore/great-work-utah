@@ -13,7 +13,6 @@
 **Location Source:** https://www.uschamber.com/co/chambers/utah
 **Website:** https://www.upichamber.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

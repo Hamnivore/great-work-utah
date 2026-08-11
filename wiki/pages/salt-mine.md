@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Salt+Mine+Productive+Workspace+7984+S+1300+E+Sandy+UT+84094
 **Website:** https://meetatsaltmine.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

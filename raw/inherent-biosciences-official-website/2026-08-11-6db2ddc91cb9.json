@@ -1,0 +1,13 @@
+{
+  "source_page": "inherent-biosciences-official-website.md",
+  "requested_url": "https://www.inherentbio.com",
+  "final_url": "https://www.inherentbio.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:52.634Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "db7ccd83f29fce45c4e25700504fba5429bea8fc5eee16665959610d5b2a00bb",
+  "text_sha256": "6db2ddc91cb961b5c9e1629164bcba75cc54565ce21da24d73b97f33515356d8",
+  "text_chars": 1787,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

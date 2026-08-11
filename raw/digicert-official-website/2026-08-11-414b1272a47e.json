@@ -1,0 +1,13 @@
+{
+  "source_page": "digicert-official-website.md",
+  "requested_url": "https://www.digicert.com/about",
+  "final_url": "https://www.digicert.com/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:07:00.963Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "9a429bf8709f37ea619a0a780a76ac6e0872e37f77268a5e08819c2d92d15baf",
+  "text_sha256": "414b1272a47efb1703856f126b0e898c024ab10fe65e3069321329797671cbd9",
+  "text_chars": 11176,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

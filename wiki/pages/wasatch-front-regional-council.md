@@ -13,7 +13,6 @@
 **Location Source:** https://wfrc.org/contact/
 **Website:** https://wfrc.org/contact/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -18,7 +18,6 @@
 **Website:** https://epsenergy.com
 **Careers:** https://epsenergy.com/about-electric-power-systems/careers/
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/electric-power-systems-2026/1600/1100
 **Pull:** *Building aviation-grade battery propulsion systems that can actually earn FAA certification — the hardest gate in electric aviation.*
 **Relates:** cites [Official Website: Electric Power Systems](electric-power-systems-official-website.md) · https://greatutah.work/pages/electric-power-systems-official-website.md · https://epsenergy.com
 
@@ -54,7 +53,7 @@ Useful helpers include FAA designees (DERs) with battery or propulsion system ex
 
 ## Utah Context
 
-EPS is part of a growing Utah aerospace and eVTOL cluster anchored by the 2034 Winter Olympics planning process. The state's $69M incentive package to EPS signals that Utah is treating electric aviation propulsion as a strategic economic development priority. North Logan places EPS near Utah State University, though no deep research affiliation has been found — the company appears to be more engineering execution than fundamental research spinout.
+EPS is part of a growing Utah aerospace and eVTOL cluster anchored by the 2034 Winter Olympics planning process. A reported state incentive package signals that Utah is treating electric aviation propulsion as a strategic economic development priority, but its value and structure need a captured state record. North Logan places EPS near Utah State University, though no deep research affiliation has been found — the company appears to be more engineering execution than fundamental research spinout.
 
 ## Evidence
 
@@ -69,6 +68,6 @@ EPS is part of a growing Utah aerospace and eVTOL cluster anchored by the 2034 W
 
 - What is EPS's current FAA certification timeline and which specific certification basis (14 CFR Part 21, ASTM standards) are they pursuing?
 - Which customer contracts are confirmed vs. in negotiation post-EPiC 2.0 announcement?
-- How is the $69M state incentive structured — grants, tax credits, infrastructure investment?
+- What is the verified value and structure of the state incentive — grants, tax credits, or infrastructure investment?
 - What is the competitive position relative to ZeroAvia, magniX, and other propulsion providers as the eVTOL market consolidates?
 - The placeholder hero should be replaced with a cleared product or facilities image when rights are confirmed.

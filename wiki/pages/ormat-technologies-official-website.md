@@ -3,10 +3,10 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://ormat.com
 **Publisher:** Ormat Technologies, Inc.
-**Accessed:** 2026-08-11
+**Retrieved:** 2026-08-11
 **Updated:** 2026-08-11
 
 ## Summary
@@ -21,6 +21,8 @@ Ormat Technologies' corporate site describes a Reno, Nevada-based geothermal com
 - Ormat's 2025 Form 10-K (filed with the SEC) lists Ormat Nevada Inc. as its principal U.S. operating subsidiary and confirms Doron Blachar as CEO.
 
 ## Reliability Notes
+
+The Wayback Machine holds a snapshot of this URL from 2026-06-10 (<https://web.archive.org/web/20260610104838/http://www.ormat.com/>), but it preserves no readable content — the archived body is a shell of a few hundred characters, almost all of it the archive banner's own markup, because the site renders its text in JavaScript that the crawler never ran. It is recorded here rather than in **Archive:**, which is reserved for a snapshot that would actually let a reader check a claim after the live page is gone. This page therefore still owes a real archive capture.
 
 Official company source, strongest for corporate structure, mission framing, and portfolio totals. The careers/jobs-map pages are JavaScript-rendered and did not yield readable Utah-specific job listings to this fetcher; a human applicant should use the site directly. Utah-specific operating facts (Cove Fort capacity, acquisition terms) are better sourced to the investor press releases and EIA-derived plant data cited on the venture page.
 

@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Website
-**URL:** https://www.army.mil/dugwaygarrison/
+**Source Type:** official-page
+**URL:** https://www.army.mil/dugway
+**Archive:** https://web.archive.org/web/20260514035716/https://www.army.mil/dugway
+**Archived:** 2026-05-14
 **Publisher:** U.S. Army
-**Accessed:** 2026-06-18
+**Retrieved:** 2026-08-11
+**Raw:** raw/dugway-proving-ground-source/2026-08-11-3f767f0df685.txt
 **Updated:** 2026-06-18
 
 ## Summary
@@ -24,6 +27,12 @@ The U.S. Army's Dugway Proving Ground page describes the installation's mission,
 ## Reliability Notes
 
 This is official Army evidence and is strong for current mission, location, public-facing capabilities, and institutional self-description. It is not adequate for a full historical or ethical account; open-air testing, environmental exposures, secrecy, and community impacts need independent and declassified sources.
+
+## Verbatim
+
+> DPG is responsible for testing and evaluating nearly all Department of Defense (DoD) chemical and biological defense equipment and capabilities. Within its nearly 800,000 acres, there are numerous state-of-the-art laboratories, unique test chambers and extensive field test grids.
+
+Locator: History.
 
 ## Related Pages
 

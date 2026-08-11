@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Resource Partner Page
+**Source Type:** official-page
 **URL:** https://www.score.org/ut/
+**Archive:** https://web.archive.org/web/20260528040713/https://www.score.org/ut/
+**Archived:** 2026-05-28
 **Publisher:** SCORE
-**Accessed:** 2026-05-09
 **Updated:** 2026-05-09
 
 ## Summary

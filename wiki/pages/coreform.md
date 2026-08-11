@@ -17,21 +17,20 @@
 **Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/coreform-isogeometric-analysis-2026/1600/1100
 **Pull:** *Run finite element analysis directly on fully featured CAD geometry — without the mesh-generation bottleneck.*
 **Relates:** cites [Official Website: Coreform](coreform-official-website.md) · https://greatutah.work/pages/coreform-official-website.md · https://coreform.com
 
 ## Summary
 
-Coreform is a Utah-based engineering simulation company commercializing isogeometric analysis (IGA) — finite element analysis run directly on CAD geometry using the same spline basis for both design and simulation. Founded in 2014 and based in Orem, the company builds Coreform IGA solvers and related preprocessing tools such as Coreform Cubit.
+Coreform is a Utah-based engineering simulation company commercializing isogeometric analysis (IGA). It says it was founded in 2014 and is headquartered in Orem ([official site](coreform-official-website.md)).
 
-For the wiki, Coreform matters because it attacks one of the most persistent bottlenecks in engineering simulation: mesh generation and geometry defeaturing consume a large share of analyst time before any physics is solved. The company was founded by researchers connected to the IGA field that Thomas Hughes and collaborators introduced in 2005.
+Coreform attacks a persistent engineering-simulation bottleneck: mesh generation and geometry cleanup. The captured source does not establish the earlier historical claim about IGA's origin.
 
 ## Impact
 
 The impact case is strongest where high-fidelity simulation is load-bearing but design iteration is slow because meshing and geometry cleanup dominate the workflow. Coreform's public positioning argues that IGA removes the geometry-to-mesh translation step by letting engineers simulate on fully featured CAD models.
 
-If that workflow proves robust at production scale, the benefit propagates across aerospace structures, automotive crashworthiness, biomedical implant design, nuclear components, and other physics-heavy domains. A DOE SBIR Phase II award (2023) funds coupling Coreform Flex to MOOSE, the Idaho National Laboratory nuclear simulation framework — a signal that IGA is being evaluated in one of the most safety-critical simulation domains.
+If that workflow proves robust at production scale, the benefit could propagate across multiple physics-heavy domains. The stated DOE SBIR award requires a dedicated captured federal record before it is asserted here.
 
 The counterfactual is bounded but real: if IGA remains mostly academic, simulation cost and design-cycle time stay high across every field that depends on CAE.
 

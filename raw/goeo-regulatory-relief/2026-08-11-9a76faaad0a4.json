@@ -1,0 +1,13 @@
+{
+  "source_page": "goeo-regulatory-relief.md",
+  "requested_url": "https://business.utah.gov/regulatory-relief/",
+  "final_url": "https://business.utah.gov/regulatory-relief/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:45.983Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "442d73a8c009aef303bddbb4aedae9c5190a4ab635b91310008fb6cdb2869505",
+  "text_sha256": "9a76faaad0a4df919ed6ecfe8c25b712ef4386239074ab717d5f63e041862afa",
+  "text_chars": 12389,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -9,7 +9,6 @@
 **Region:** Salt Lake City
 **Website:** https://offices.co/usa/salt-lake-city/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

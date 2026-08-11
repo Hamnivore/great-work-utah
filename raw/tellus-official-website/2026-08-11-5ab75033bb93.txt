@@ -1,0 +1,132 @@
+TELLUS Air Quality Monitoring Data and Solutions
+Air Quality Map
+AirView Map
+About AirView
+Air Monitors
+Use Cases
+Community Health
+Home & Personal Use
+Partnerships & Other
+Schools, K-12
+Workplace Safety (IH)
+Resources
+About Us
+About Air Pollutants
+Beta Testing
+Getting Started
+Help Center
+News • Blog
+RMA Form
+Scholarly Articles
+Shop
+Hamburger Toggle Menu
+Contact Us
+TELLUS Home Page
+Air Quality Monitoring Solutions
+Professional-grade data and air monitors used by cities, businesses, communities, news stations, schools, researchers, and more!
+Start Monitoring Today
+About AirView
+Professional-Grade Air Monitoring
+Lab-grade reliability with a budget-friendly build. Choose the pollutants you want to track and we’ll build a custom AirU Pro air quality monitor.
+Real-time monitoring
+Customizable
+Self-calibrating
+Local and cloud-based data
+Scalable to your projects
+About Our Air Monitors
+View White Paper
+Everyday air quality monitoring
+AirU+
+The AirU+ is a compact, single-pollutant monitor designed to track PM2.5, the most common air pollutant that impacts health. Ideal for personal use or small-scale applications, it provides reliable, real-time data for cleaner air.
+Buy Now
+Discover our new dashboard
+Explore air quality data in real-time now with faster speed, an upgraded dashboard, new analytics, and a fresh design.
+View AirView Dashboard Upgrade
+Personal Air Monitoring
+Home
+Community/City Initiatives
+Cities
+Workplace Safety / IH
+Work
+Use Our Data
+API / iframe
+Pollutant Maps
+Get real-time air quality maps powered by CoreDI . View trends, compare locations, and integrate third-party data all in one place.
+Data & Analytics
+Access live data dashboards, custom alerts, and historical analytics. AirView’s API makes it easy to connect your own sensors, systems, or apps.
+Start Your Project
+Notifications
+Trigger smart alerts and share localized air quality data with your team or community. Designed for schools, cities, and industries.
+Our secret sauce
+CoreDI is an advanced platform for air quality data modeling and analysis, designed to turn raw sensor readings into actionable insights.
+Built on 20+ years of rigorous validation and supported by the National Science Foundation and the University of Utah.
+Learn More
+Scholarly Articles
+“TELLUS made it easy to set up the air quality monitoring that our community
+members desired.”
+Jeffrey Moore
+Energy & Environment Manager - City of Aurora
+Example Case Study
+Pricing That Fits Your Project
+Project scopes vary, and so do budgets. Equipment needs, deployment size, and reporting requirements all play a role in pricing. That’s why we work with you directly to create a cost-effective solution. Contact us to talk through your project and get tailored pricing.
+We typically respond within 24 hours on weekdays.
+Air Quality News
+Gas Stoves and Indoor Air: How Families Can Protect Themselves
+Introduction Gas stoves are convenient, but new research shows they...
+Read More
+November 6, 2025
+Air Pollution May Increase Risk of Mental Health Disorders, Study Finds
+A large-scale study conducted in Rome, Italy, suggests that long-term...
+Read More
+November 3, 2025
+Tracking 20 Years of PM2.5 Trends in the Western U.S.
+A new long-term study evaluated how sources of fine particulate...
+Read More
+October 20, 2025
+The Indoor Air Quality and Healthy Schools Act: Prioritizing Health Where It Matters Most
+Poor indoor air quality (IAQ) is one of the most...
+Read More
+October 15, 2025
+Load More
+TELLUS
+Home Page
+AirView™
+Home Use
+Community Health
+Industrial Hygiene
+Business & Partnerships
+Home Page
+AirView™
+Home Use
+Community Health
+Industrial Hygiene
+Business & Partnerships
+Resources
+Dashboard
+Getting Started
+About Us
+Contact Us
+FAQs
+Scholarly Articles
+RMA Form
+Dashboard
+Getting Started
+About Us
+Contact Us
+FAQs
+Scholarly Articles
+RMA Form
+Terms
+Terms of service
+TELLUS Privacy Policy
+End User License Agreement (EULA)
+Terms of service
+TELLUS Privacy Policy
+End User License Agreement (EULA)
+2319 South Foothill Drive, Suite 100/140 Salt Lake City, Utah 84109
+Phone: +1 (801) 410-0240
+Technical Support:
+support@tellusensors.com
+Sales Support:
+sales@tellusensors.com
+Copyright © 2025 TELLUS Networked Sensor Solutions, Inc.

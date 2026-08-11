@@ -3,11 +3,14 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://asirobots.com
+**Archive:** https://web.archive.org/web/20260512122326/https://asirobots.com/
+**Archived:** 2026-05-12
 **Publisher:** Autonomous Solutions, Inc. (ASI)
-**Accessed:** 2026-06-18
-**Updated:** 2026-06-18
+**Raw:** raw/autonomous-solutions-inc-official-website/2026-08-11-9f83a232752f.txt
+**Retrieved:** 2026-08-11
+**Updated:** 2026-08-11
 
 ## Summary
 
@@ -16,12 +19,22 @@ ASI's official website describes a 25-year-old Utah company providing OEM-agnost
 ## Useful Claims
 
 - ASI markets Mobius as a fleet command-and-control platform supporting 100+ vehicle types across mixed OEM fleets.
-- Public deployment metrics include 379M tons hauled, 4.51M autonomous miles, 971K loads hauled, 784K autonomous hours, 42K acres tilled, and operations across 10 industries (company-reported).
+- The homepage includes an "ASI By The Numbers" heading, but this capture does not render the deployment totals (tons hauled, autonomous miles, loads, hours, acres tilled) that ASI has displayed on other site pages; treat those metrics as company-reported until captured from a page that shows them.
 - Industries served: heavy construction, logistics, agriculture, and landscaping.
-- Recent company news on the site includes a Lehi, Utah office opening (June 2025), Dallas–Fort Worth expansion (July 2025), SoftBank-backed heavy-construction launch, Scythe Robotics acquisition (March 2026), Great Place to Work certification (2025), and divestiture of ASI Mining to Epiroc (2021).
+- Recent company news on the site includes a Lehi, Utah office opening (June 2025), Dallas–Fort Worth expansion (July 2025), SoftBank-backed heavy-construction launch, Scythe Robotics acquisition (March 2026), Great Place to Work certification (2025), and divestiture of ASI Mining to Epiroc (headline present; closing year not stated in this capture).
 - Headquarters: Mendon, Utah.
 
+## Verbatim
+
+> "AI-powered brand-agnostic autonomous solutions engineered to transform operation efficiency, safety, and performance with data-driven insights in the most challenging environments."
+> — Home page, platform description
+
+> "ASI's Mobius platform works with 100+ vehicle types — regardless of who built them."
+> — Home page, mixed-fleet comparison
+
 ## Reliability Notes
+
+The capture supports Mobius's mixed-fleet positioning and 100+ vehicle types, but does not show the listed deployment totals, headquarters, or most dated company-news claims; those predate this capture and were not reconfirmed here.
 
 Official company source. Product categories, Mobius positioning, and corporate milestones are reliable at a high level. Deployment statistics and competitive comparison tables are company-reported marketing claims and should be treated as medium-confidence until independently audited. Press releases embedded on the site are leads, not neutral evidence.
 

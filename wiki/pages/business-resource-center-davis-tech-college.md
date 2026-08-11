@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Davis+Technical+College+550+E+300+S+Kaysville+UT+84037
 **Website:** https://brc.davistech.edu/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

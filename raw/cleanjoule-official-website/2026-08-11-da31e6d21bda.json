@@ -1,0 +1,13 @@
+{
+  "source_page": "cleanjoule-official-website.md",
+  "requested_url": "https://cleanjoule.com",
+  "final_url": "https://cleanjoule.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:27.633Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "0d687e55fcd45177bfba4e2867672bd84b0525e3d14b75e5100b44dd78b1f1fd",
+  "text_sha256": "da31e6d21bdad03ac27b3747d6ae89c0b8537ac301a9884058adf23c10b68662",
+  "text_chars": 1392,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

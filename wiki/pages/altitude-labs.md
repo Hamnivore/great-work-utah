@@ -14,7 +14,6 @@
 **Website:** https://www.altitudelab.org/
 **Domain:** health-bio, capital-programs
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

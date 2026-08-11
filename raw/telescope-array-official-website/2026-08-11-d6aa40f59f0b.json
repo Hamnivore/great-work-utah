@@ -1,0 +1,13 @@
+{
+  "source_page": "telescope-array-official-website.md",
+  "requested_url": "https://www.telescopearray.org/",
+  "final_url": "http://jws001.dyndns-home.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:45.011Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "ab774da41438418d0faa98e6d50a329ac9974dbcf79416073376f3e5450fe6d1",
+  "text_sha256": "d6aa40f59f0b36d9b96f3478608a8e26a0538a570d6e8a3bbe51647ccd5d596c",
+  "text_chars": 10357,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

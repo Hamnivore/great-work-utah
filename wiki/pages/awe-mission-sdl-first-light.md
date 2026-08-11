@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official mission update
+**Source Type:** official-page
 **URL:** https://www.awemission.org/media-resources/news/2024-01-05-sdl-captures-first-light-from-awe
+**Archive:** https://web.archive.org/web/20240621192102/https://www.awemission.org/media-resources/news/2024-01-05-sdl-captures-first-light-from-awe
+**Archived:** 2024-06-21
 **Publisher:** AWE Mission
-**Accessed:** 2026-08-11
 **Updated:** 2026-08-11
 
 ## Summary

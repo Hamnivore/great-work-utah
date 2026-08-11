@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://music.ai
+**Archive:** https://web.archive.org/web/20260804201016/https://music.ai/
+**Archived:** 2026-08-04
 **Publisher:** Music AI (Moises Inc.)
-**Accessed:** 2026-06-19
+**Raw:** raw/music-ai-official-website/2026-08-11-c9541c28ecaf.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -17,13 +20,25 @@ Music AI's official website describes the company's AI-powered music tools platf
 
 - The site positions music.ai as an AI music platform for musicians, producers, and creators, with the Moises app as the primary consumer-facing product.
 - Source separation (isolating vocals, instruments, and individual stems from mixed recordings) is described as the core capability — enabling remixing, practice, transcription, and composition.
-- The site references 50 million registered users and the Apple iPad App of the Year award (2024).
-- Licensed voice cloning is described as a feature allowing artists to license their voice for AI synthesis while retaining control and compensation — framed as an ethical alternative to unlicensed scraping.
-- The Series A announcement (music.ai/blog/press/music-ai-raises-40m-series-a/) confirms $40M raised in January 2025 from Connect Ventures (CAA+NEA), Kickstart, Samsung Next, and Pelion.
-- Notable artist-investors mentioned include Steve Aoki, 3LAU, Freddy Wexler, and Alexander23.
-- Founders listed: Geraldo Ramos (CEO), Eddie Hsu, Jardson Almeida.
+- The page previously asserted registered-user counts, an Apple iPad App of the Year award, licensed voice cloning, Series A funding and named investors, artist-investors, and founder names; this capture does not show those details.
+
+## Verbatim
+
+> "Founded in 2019, Music AI operates globally with a diverse team across the USA, Brazil, and Europe."
+> — Home page, company overview
+
+> "Every day, our technologies process over two million minutes of audio, fueling creativity and innovation for millions worldwide."
+> — Home page, company overview
+
+> "Moises is the creative suite for musicians. It's the essential toolkit to help artists practice, perform, create, and collaborate from anywhere."
+> — Home page, Moises
+
+> "The Music AI Platform offers AI audio models to power businesses. Built for scale and powered by state-of-the-art, ethical AI solutions—delivering the highest-quality audio separation available."
+> — Home page, Music AI Platform
 
 ## Reliability Notes
+
+The capture does not substantiate 50 million users, the 2024 Apple award, licensed voice cloning, the $40M Series A and investors, artist-investors, or founder names; those require the referenced press and product pages.
 
 This is an official company source. It is useful for product positioning, feature descriptions, and the ethical AI framing the company uses publicly. The 50M user figure is registered users, not paying subscribers — conversion and revenue figures are not disclosed publicly. Voice-cloning licensing terms, royalty structures, and artist onboarding processes would require additional sources to verify. Competitive positioning claims should be cross-checked with independent audio-AI coverage.
 

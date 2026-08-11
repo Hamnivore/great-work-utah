@@ -14,7 +14,6 @@
 **Region:** Salt Lake City
 **Website:** https://www.calyciabioscience.com
 **Ownership:** private
-**Hero:** https://picsum.photos/seed/calycia-macrophage-gbm-2026/1600/1100
 **Pull:** *Engineered macrophages delivered locally into the brain — a CAR-T alternative built for solid CNS tumors.*
 **Relates:** cites [Official Website: CaLycia Biosciences](calycia-biosciences-official-website.md) · https://greatutah.work/pages/calycia-biosciences-official-website.md · https://www.calyciabioscience.com
 

@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://brag.utah.gov/contact/
 **Website:** https://brag.utah.gov/
-**Layout:** field-guide
 
 ## Summary
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "farnsworth-linda-hall-library.md",
+  "requested_url": "https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/",
+  "final_url": "https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:42.621Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "4065381585b6a367bf64c9f7b4be4dc572dbb1f3a202cc8faeadf460955dd31c",
+  "text_sha256": "42be8b015b9ff64694cf4a6c3844f5c7015dceef041ccd8ebb61939db0211bd9",
+  "text_chars": 14302,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

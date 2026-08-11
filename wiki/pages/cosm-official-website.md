@@ -3,10 +3,12 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://cosm.com
+**Archive:** https://web.archive.org/web/20260801163143/https://www.cosm.com/
+**Archived:** 2026-08-01
 **Publisher:** Cosm
-**Accessed:** 2026-06-19
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary

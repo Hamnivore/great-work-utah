@@ -1,0 +1,561 @@
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 0 5 . 0 2
+Silver Spring, MD 20993
+www.fda.gov
+
+Spectrum Solutions, LLC February 17, 2023
+Katie Compton
+Vice President of Quality Assurance and Regulatory Affairs
+12248 South Lone Peak Pkwy, Ste 106
+Draper, Utah 84020
+
+Re: K223497
+Trade/Device Name: Spectrum Saliva Collection Device
+Regulation Number: 21 CFR 866.2950
+Regulation Name: Microbial Nucleic Acid Storage And Stabilization Device
+Regulatory Class: Class II
+Product Code: QBD
+Dated: November 18, 2022
+Received: November 21, 2022
+
+Dear Katie Compton:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+K223497 - Katie Compton Page 2
+
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+Sincerely,
+
+Noel J. Gerald, Ph.D.
+Branch Chief
+Bacterial Respiratory and Medical Countermeasures Branch
+Division of Microbiology Devices
+OHT7: Office of In Vitro Diagnostics
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+
+Enclosure
+
+Noel J. Gerald -S
+
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Food and Drug Administration
+Indications for Use
+
+Form Approved: OMB No. 0910-0120
+Expiration Date: 06/30/2023
+See PRA Statement below.
+
+510(k) Number (if known)
+
+Device Name
+Saliva Collection
+
+Indications for Use (Describe)
+The Spectrum Solutions Saliva Collection Device is designed for use in the non-invasive collection, inactivation, and
+stabilization of viral nucleic acids for in vitro diagnostic testing of saliva samples. The device is intended to inactivate and
+stabilize human clinical saliva samples from the collection site to the laboratory at room temperature. The saliva sample is
+stabilized and suitable for use with legally marketed molecular diagnostic devices. The device is intended to be used by a
+health care provider for samples suspected of containing SARS-CoV-2.
+
+Type of Use (Select one or both, as applicable)
+
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+
+510(K) SUMMARY
+
+Submitter’s Name and Address:
+Spectrum Solutions
+12248 S. Lone Peak Parkway, Ste 106
+Draper, UT 84020
+
+Contact Name and Information:
+Katie Compton
+VP of Quality Assurance and Regulatory Affairs
+Spectrum Solutions, LLC.
+801- 569-0465 x215 (office)
+801-719-8558 (cell)
+Katie@spectrumsolution.com
+
+Date prepared:
+November 18, 2022
+
+Device Information:
+Trade/Proprietary Name: Spectrum Solutions Saliva Collection Device
+Common or Usual Name: SDNA 1000
+Classification Name: Microbial nucleic acid storage and stabilization device
+Classification Number: Class II, 21 CFR 866.2950
+Product Code: QBD
+
+Predicate Device:
+510(k) Number Device Manufacturer
+K202641 DNA/RNA Shield Collection Tube ZYMO Research
+
+Device Description:
+The Spectrum Solutions Saliva Collection device consists of a plastic tube designed for the
+collection of human saliva samples, a funnel, a cap with a stem flare, and a fluid chamber
+containing Spectrum’s inactivating media. Sample collection is conducted under the supervision
+of a Health care provide. The user deposits their saliva into the collection tube with the aid of the
+attached funnel, the user removes the funnel and replaces it with the cap. Upon twisting and
+closing the cap, the stabilizing solution is released into the tube and mixed with the saliva.
+
+Indications for Use/Intended Use:
+The Spectrum Solutions Saliva Collection Device is designed for use in the non-invasive
+collection, inactivation, and stabilization of viral nucleic acids for in vitro diagnostic testing of
+saliva samples. The device is intended to inactivate and stabilize human clinical saliva samples
+from the collection site to the laboratory at room temperature. The saliva sample is stabilized
+and suitable for use with legally marketed molecular diagnostic devices. The device is intended
+to be used by a health care provider for samples suspected of containing SARS-CoV-2.
+
+Technological Characteristics:
+The proposed device shares the same technological characteristics found in the predicate device
+and other cleared saliva collection devices on the market.
+Feature: Device: K223497 Predicate: K202641
+
+Device Trade Name
+Spectrum Solutions Saliva
+Collection Device
+DNA/RNA Shield Collection Tube
+
+General Device Characteristic
+Similarities
+
+Intended Use/Indications For
+Use
+
+The Spectrum Solutions Saliva
+Collection Device is designed
+for use in the non-invasive
+collection, inactivation, and
+stabilization of viral nucleic
+acids for in vitro diagnostic
+testing of saliva samples. The
+device is intended to inactivate
+and stabilize human clinical
+saliva samples from the
+collection site to the laboratory
+at room temperature. The
+saliva sample is stabilized and
+suitable for use with legally
+marketed molecular diagnostic
+devices. The device is intended
+to be used by a health care
+provider for samples suspected
+of containing SARS-CoV-2.
+
+The DNA/RNA Shield collection
+tube is intended for the
+stabilization and inactivation of
+upper and lower respiratory
+human specimens suspected of
+containing SARS-CoV-2. These
+devices can be used for
+collection transport and storage
+of specimens at ambient
+temperatures (20-25°C).
+Specimens collected and stored
+in a DNA/RNA Shield™ collection
+tube are suitable for use with
+legally marketed molecular
+diagnostic devices.
+
+Additive/Reagent
+Nucleic Acid Stabilization
+solution
+Same
+
+Analyte RNA from SARS-CoV-2 Same
+Limit of Detection 250 GEC/ml (20 GEC/reaction) Same
+
+Specimen Stability
+SARS-CoV-2 for 28 days at 20-
+25 °C
+Same
+
+Transport Media
+Disrupt/lyses lipid membranes,
+inactivates enzymes, and
+stabilizes nucleic acids
+Same
+
+Material Medical-grade polypropylene Same
+Sterility Non-Sterile Same
+General Device Characteristic
+Differences
+
+Specimen Type Saliva only
+Upper, lower respiratory, and
+saliva
+
+Device Material
+Tube - Polypropylene Funnel
+Polypropylene
+Cap - Polypropylene & HDPE
+
+Plastic Collection Tube pre-filled
+with DNA/RNA Shield transport
+media.
+
+Spectrum’s Nucleic Acid
+Stabilization Solution
+
+Inactivation test
+Greater than 4 Log viral
+reduction in 10 seconds
+Greater than 2 log viral
+reduction in 30 minutes
+
+The Spectrum Solutions Saliva Collection Device is substantially equivalent to the legally
+marketed predicate device. The Spectrum Solutions Saliva Collection Device has the same
+intended use and similar indications for use, technological characteristics, and principles of
+operation as its predicate device. Performance data demonstrates that the Spectrum Solutions
+Saliva Collection Device is as safe and effective.
+
+Based on the technical characteristics and the results of the performance testing, the Spectrum
+Solutions Saliva Collection Device is substantially equivalent to the predicate.
+
+Performance Data:
+
+Detection Limit
+a) Limit of Detection (LoD) testing was conducted to determine the lowest concentration of
+whole genome (Genome Equivalent Copies; GEC) that contains measurable nucleic acids
+that can be repeatedly recovered from the transport media with greater than 95% accuracy.
+LoD was obtained by spiking the Spectrum SDNA-1000 collection device containing negative
+matrix (saliva + preservative) with various concentrations of SARS-CoV-2 before RNA
+samples were extracted using the MagMAX Viral/Pathogen II (MVP II) Nucleic Acid Isolation
+Kit performed with the KingFisher Flex Purification System and then amplifying using the
+TaqPath COVID-19 Combo Kit using the Applied Biosystems QuantStudio 5 (QS5) Fast Real-
+Time PCR System. The RNA extraction and RT-PCR kits contained an internal MS2 Phage
+control to monitor the integrity of nucleic acid extraction and RT-PCR for each specimen. Ct
+values and detection of virus were determined using the EUA IFU guidelines and the Applied
+Biosystems COVID-19 Interpretative Software v2.5.
+
+Acceptance criteria for RT-PCR reactions: For the COVID-19 TaqPath assay, Ct values <37 are
+considered positive for SARS-CoV-2. Ct values of 37 to <40 were considered inconclusive and
+those samples retested to determine SARS-CoV-2 status, as per the protocol Qualitative
+Detection of Nucleic Acid from SARS-CoV-2 using the COVID-19 TaqPath Combo Kit (JB-PRO-
+000105, v.2.1). Three gene targets in SARS-CoV-2 were subjected to amplification (ORF1ab,
+N gene, and S gene), with a sample considered positive if 2/3 of these gene targets were
+amplified.
+
+b) Preliminary LoD testing was initially performed by spiking multiple concentrations of SARS-
+CoV-2 GEC into clinically negative matrix (saliva) to achieve final concentrations of 0, 10, 20,
+50, 100, 250, and 500 GEC/reaction. Five samples of each of these contrived concentrations
+were tested with results shown below in Table 1.
+
+Table 1. Preliminary LoD results (preliminary LoD highlighted) 5 samples
+tested/concentrations:
+GEC/reaction Orf1ab
+detection
+ORF1a
+Mean Ct
+N gene
+detection
+N gene
+Mean Ct
+S gene
+detection
+S gene
+Mean Ct
+SARS-CoV-2
+positive
+result
+0 0/5 ND 0/5 ND 0/5 ND 0/5
+10 5/5 34.45 0/5 ND 0/5 ND 5/5
+20 5/5 32.89 5/5 33.97 0/5 ND 5/5
+50 5/5 31.81 5/5 31.90 5/5 33.45 5/5
+100 5/5 30.43 5/5 30.30 5/5 31.66 5/5
+250 5/5 29.44 5/5 29.06 5/5 30.13 5/5
+500 5/5 29.05 5/5 28.84 5/5 29.67 5/5
+
+The presumptive LoD based on the preliminary results was 20 GEC/reaction, but preliminary
+results with the 10 GEC/reaction showed that one of the three gene targets was amplified
+(ORF1ab). Therefore, it was possible that 15 GEC/reaction was a better LoD estimate.
+Therefore, both 15 and 20 GEC/reactions were each included in a set of 20 samples for
+confirmatory analysis of LoD (see Table 2). A positive result for a sample was defined as
+amplification of at least 2 of the 3 gene targets from SARS-CoV-2 (ORF1ab, N gene, S gene)
+per the IFU from the authorized device.
+Confirmatory testing supported an LoD of 20 GEC/reaction with 20/20 replicates for
+amplification of ORF1ab and 20/20 replicates for N gene, which met the pre-defined criteria
+for RT-PCR reactions (greater than 95% accuracy for detecting 2/3 targets in samples).
+However, with 15 GEC/reaction, only 16/20 samples met the requirement of 2/3 targets
+amplified (80% accuracy), which fell below the pre-defined criteria. Therefore, 20
+GEC/reaction is the established LoD.
+
+Table 2. Confirmatory LoD results 20 samples tested/concentrations:
+GEC/reaction Orf1ab
+detection
+ORF1a
+Mean Ct
+N gene
+detection
+N gene
+Mean Ct
+S gene
+detection
+S gene
+Mean Ct
+SARS-CoV-2
+positive
+result
+15 20/20 33.92 16/20 35.29 0/20 ND 0/5
+20 20/20 33.81 20/20 35.23 2/20 36.77 5/5
+
+Ct values for each of the three amplified genes of the 20 replicates of the confirmatory tests
+for the 20 GEC/reaction concentration are shown in Table 3.
+
+Table 3. Line data for confirmatory LoD results
+Ct Value
+Replicate ORF1ab N gene S gene
+1 36.14 34.83
+2 33.09 35.84
+3 33.35 36.09
+4 30.03 36.79
+5 34.50 34.48
+6 32.18 36.48
+7 34.60 34.79 36.66
+8 33.55 34.42
+9 33.86 35.72
+10 34.71 36.63
+11 34.06 33.37
+12 34.24 36.01 36.87
+13 33.85 34.47 37.61
+14 32.80 35.45 37.83
+15 34.17 34.02
+16 33.73 34.94 37.64
+17 33.93 36.54 39.65
+18 35.94 34.37
+19 33.15 35.12
+20 34.30 34.28
+AVG: 33.81 35.23 37.71
+SD: 1.29 0.99 1.06
+
+Note: The 69-70del mutation interferes with the detection of the S gene target by the
+TaqPath COVID-19 assay, which may have rendered the S gene target as not detected (“S
+gene target failure”). But due to the multi-target test design, the overall test performance of
+the TaqPath assay is not impacted.
+
+In summary, the LoD testing at 250 GEC/ml (20 GEC/reaction) resulted in 20/20 replicates
+for automated extraction and amplification of SARS-CoV-2 RNA for identification by RT-PCR.
+This is the lowest concentration tested that resulted in > 95% accuracy of detection of
+contrived samples.
+
+Sample Stability
+Stability studies evaluated the stability of SARS-CoV-2 in the Spectrum inactivating media for
+up to 28 days. SARS-CoV-2 samples at 3xLoD (62.5 GEC/reaction; 1562.5 GEC/ml) were used
+to prepare contrived samples with saliva as the matrix from a single negative donor. Studies
+involved using two different device lots to collect two samples (for a total of 4 test samples)
+that were then stored at ambient temperature (20-25
+o
+C) for increasing lengths of time.
+Aliquots of each contrived sample was tested for SARS-CoV-2 using the TaqPath COVID-19
+assay at T=0 and on Days 1, 2, 3, 4, 5, 6, 7, 14, 21, and 28. Aliquots of samples were removed
+and stored at -20
+o
+C at various times and then all aliquots (total of 44 samples) were tested
+as a single testing batch.
+
+Acceptance criteria for stability study:
+1) The TaqPath COVID-19 assay detects 3 targets (Orf1ab, N gene, and S gene). A sample is
+considered positive if at least 2 of the 3 targets are amplified with Ct values <37.
+2) Stability is based upon a variance of no more than +/- 3 Ct for each target at given time
+point from T=0.
+Results of stability testing are shown below in Tables 4 and 5.
+
+Table 4. Ct average, standard deviation, and positive counts for all targets at all time points.
+Time Orf1ab
+Ct average
+Orf1ab
+Ct SD
+Orf1ab
+Positive
+Count
+
+N gene
+Ct average
+N gene
+Ct SD
+N gene
+Positive
+Count
+
+S gene
+Ct average
+S gene
+Ct SD
+S gene
+Positive
+Count
+T0 33.1 0.98 4/4 31.7 0.32 4/4 32.8 0.34 4/4
+D1 31.9 0.85 4/4 31.3 0.45 4/4 33.0 0.49 4/4
+D2 32.4 0.33 4/4 31.4 0.33 4/4 33.8 0.61 4/4
+D3 32.4 0.40 4/4 31.4 0.35 4/4 33.6 0.26 4/4
+D4 32.7 1.23 4/4 31.6 0.46 4/4 34.0 1.74 4/4
+D5 32.7 0.47 4/4 31.5 0.28 4/4 34.2 0.86 4/4
+D6 32.7 0.43 4/4 31.6 0.29 4/4 33.4 0.47 3/4
+D7 33.2 0.87 4/4 31.8 0.32 4/4 34.5 1.15 4/4
+D14 33.7 0.84 4/4 32.1 0.19 4/4 33.8 NA 1/4
+D21 34.4 0.79 4/4 33.1 0.68 4/4 NA NA 0/4
+D28 33.4 3.25 4/4 34.4 0.53 4/4 NA NA 0/4
+
+Table 5. Ct change for each target from T=0 (Day X minus T=0)
+Time Orf1ab Ct change
+from T0
+N gene Ct change
+from T0
+S gene Ct change
+from T0
+T0 NA NA NA
+D1 -1.25 -0.38 0.29
+D2 -0.73 -0.34 1.04
+D3 -0.72 -0.29 0.85
+D4 -0.47 -0.15 1.19
+D5 -0.43 -0.26 1.45
+D6 -0.47 -0.10 0.69
+D7 0.05 0.05 1.75
+D14 0.52 0.38 1.04
+D21 1.28 1.40 ND
+D28 0.24 2.71 ND
+
+43/44 of the samples tested positive for SARS-CoV-2 at all time points during initial testing.
+One Day 21 sampled failed to produce a conclusive result when first tested, but upon
+retesting the sample (per the TaqPath COVID-19 protocol) the sample gave a positive result.
+All samples gave expected internal control results (amplification of MS2 phage nucleic acid)
+to monitor the integrity of nucleic acid extractions and RT-PCR for each sample. There were
+minimal Ct changes over the 28 days of the experiment with the highest variance shown for
+N gene amplification, but at 2.71 it was within 3 Ct compared to T=0. The S gene target did
+show a decreased amount of amplification, but this is in agreement with ‘S gene target
+failure (see table 3 above) and is negligible given the 2/3 gene amplification requirement for
+positive results.
+
+Based upon the pre-defined acceptance criteria, these test results indicate samples are
+stable in the Spectrum inactivating media for up to 28 days.
+
+Inactivation
+An inactivation study was conducted to verify that the Spectrum SDNA-1000 collection
+device inactivates SARS-CoV-2 (eliminates its virucidal properties) as efficiently as the
+predicate device.
+a) Viral inactivation testing of SARS-CoV-2 was conducted using a Virucidal Suspension Test
+(In-Vitro Time-Kill method). Starting with a concentration of a SARS-CoV-2 isolate
+(B.1.1.529 Omicron variant) of 3.2 X 10
+6
+TCID50 (approximately 2.24 X 10
+6
+PFU), viral
+preparations were combined with various combinations of Spectrum inactivating media
+and/or neutralization fluid (for the inactivating media):
+
+Virus Control = virus only (to show virus produces cytopathic effect on tissue culture cells)
+Test = Spectrum’s inactivating media + virus (for 10 sec or for 60 min) + neutralizer (to show
+stabilizing solution inactivates virus)
+Neutralization Control = Spectrum’s inactivating media + neutralizer + virus (to show
+neutralizing solution eliminates virucidal activity of inactivating media)
+Neutralization Toxicity Control = virus + neutralizer (to show neutralizer has no virucidal
+activity)
+Cytotoxicity Control = Spectrum’s inactivating media + neutralizer (to show solutions
+produce not cytotoxic effects)
+Cell Control = maintenance media only (to show health of tissue culture cells)
+
+Following treatment of virus, 10-fold dilutions were made of each preparation and
+incubated with Vero E6 kidney cells that were grow to 80-90% confluency. After a one-hour
+incubation with the treatments listed above, cells were returned to culture conditions and
+incubated before cytopathic effects were determined visually with an inverted compound
+microscope.
+Acceptance criteria for Virucidal Suspension Test: Results met the following acceptance
+criteria.
+1) At least a 4 log10 of TCID50 would be recovered from the virus control
+2) At least a 3 log10 reduction in titer could be demonstrated beyond the cytotoxic level
+3) Spectrum inactivating media was fully neutralized after the timed exposure such that
+the difference in virus titer for the Neutralization Control, Neutralization Toxicity
+Control, and Virus Control did not exceed 1.0 log10.
+
+Three different lots of devices were tested for viricidal activity, with each test performed in
+two replicates per device. Plating of each replicate was performed four times. Results of
+testing for one device lot are summarized in Table 6.
+
+Table 6. Viral Inactivation Summary
+
+At the 1:10,000 dilution the virus is completely cytopathic with the host cells (Virus control)
+but completely inactivated at 10-second or 60-minute exposures to the inactivating media
+(Test). The virucidal action of the inactivating media was stopped by the neutralization
+solution (Neutralization control). The neutralization solution was shown to have no
+cytopathic effect on the cell mono layer or the virus (Neutralizer Toxicity Control). The
+inactivating media and the neutralizer combined did not produce any cytotoxic effects
+(Cytotoxicity control) on the cell mono layer.
+
+Under the experimental conditions described above the Spectrum inactivating media
+inactivates SARS-CoV-2 by an average of >4.00 log10 (>99.99%) following a 10-second
+exposure and by an average of >4.00 log10 (>99.99%) following a 60-minute exposure. The
+Spectrum SDNA-1000 collection device with inactivating media showed no cytotoxicity of
+Vero6 cells when used at a 1:1000 dilution.
+
+Conclusion:
+The Spectrum Solutions Saliva Collection devices have the same intended purpose,
+indications and technological characteristics as the predicate.
+
+The Spectrum Solutions Saliva Collection device does not raise different questions regarding
+safety and effectiveness as compared to predicate device. The proposed device is as safe, as
+effective, and performs as well as or better than the predicate device. The information
+submitted in this premarket notification supports a substantial equivalence decision.

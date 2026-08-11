@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://marriott.byu.edu/cet/about/contact-us/
 **Website:** https://marriott.byu.edu/cet/
-**Layout:** field-guide
 
 ## Summary
 

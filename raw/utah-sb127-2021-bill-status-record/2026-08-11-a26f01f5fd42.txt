@@ -1,0 +1,90 @@
+{
+"bill":"SB0127",
+"version":"SB0127S01",
+"shorttitle":"Human Services Program Amendments",
+"sponsor":"MCKELMK",
+"floorsponsor":"BRAMMB",
+"generalprovisions":"This bill modifies provisions related to human services programs.",
+"hilightedprovisions":"This bill:
+defines terms;
+provides incident reporting requirements for persons licensed by the Office of Licensing;
+requires the Office of Licensing to review certain policies and procedures established by a human services program;
+requires a human services program to publicly post the Office of Licensing's contact information;
+requires the Office of Licensing to inspect each congregate care program multiple times a year;
+describes when a congregate care program may use a restraint or seclusion;
+requires a congregate care program to maintain suicide prevention policies;
+prohibits a human services program from engaging in sex and gender based discrimination; and
+makes technical changes.",
+"monies":"None",
+"attorney":"Christopher Williams",
+"fiscalanalyst":"Clare Tobin Lence",
+"lastaction":"Governor Signed",
+"lastactionowner":"Lieutenant Governor's office for filing",
+"lastactiontime":"2021-03-22T16:54:11.000Z",
+"trackingid":"UEQEUYUARB",
+"subjects": [
+"Juveniles"
+,"Substance Abuse"
+,"Mental Health"
+,"Judicial Operations"
+,"Human Services"
+,"Department of Human Services"
+,"Human Services Licensure"
+,"Office of Licensing"
+,"Substance Use Disorder Treatment"
+],
+"codesections": [
+"62A-2-101"
+,"62A-2-106"
+,"62A-2-118"
+,"62A-2-120"
+,"62A-2-123"
+,"62A-2-124"
+],
+"actionhistory": [
+{"date":"2021-01-25", "action":"Bill Numbered but not Distributed","location":"Legislative Research and General Counsel"}
+,{"date":"2021-01-25", "action":"Numbered Bill Publicly Distributed","location":"Legislative Research and General Counsel"}
+,{"date":"2021-01-26", "action":"Senate/ received bill from Legislative Research","location":"Waiting for Introduction in the Senate"}
+,{"date":"2021-01-26", "action":"Senate/ 1st reading (Introduced)","location":"Senate Rules Committee"}
+,{"date":"2021-02-04", "action":"Senate/ to standing committee","location":"Senate Judiciary, Law Enforcement, and Criminal Justice Committee"}
+,{"date":"2021-02-08", "action":"Senate Comm - Substitute Recommendation","location":"Senate Judiciary, Law Enforcement, and Criminal Justice Committee"}
+,{"date":"2021-02-08", "action":"Senate Comm - Amendment Recommendation","location":"Senate Judiciary, Law Enforcement, and Criminal Justice Committee"}
+,{"date":"2021-02-08", "action":"Senate Comm - Favorable Recommendation","location":"Senate Judiciary, Law Enforcement, and Criminal Justice Committee"}
+,{"date":"2021-02-09", "action":"LFA/ fiscal note sent to sponsor","location":"Senate Judiciary, Law Enforcement, and Criminal Justice Committee"}
+,{"date":"2021-02-09", "action":"Senate/ comm rpt/ substituted/ amended","location":"Senate Judiciary, Law Enforcement, and Criminal Justice Committee"}
+,{"date":"2021-02-09", "action":"Senate/ placed on 2nd Reading Calendar","location":"Senate 2nd Reading Calendar"}
+,{"date":"2021-02-09", "action":"LFA/ fiscal note publicly available","location":"Senate 2nd Reading Calendar"}
+,{"date":"2021-02-11", "action":"Senate/ 2nd reading","location":"Senate 2nd Reading Calendar"}
+,{"date":"2021-02-11", "action":"Senate/ passed 2nd reading","location":"Senate 3rd Reading Calendar"}
+,{"date":"2021-02-16", "action":"Senate/ 3rd reading","location":"Senate 3rd Reading Calendar"}
+,{"date":"2021-02-16", "action":"Senate/ passed 3rd reading","location":"Clerk of the House"}
+,{"date":"2021-02-16", "action":"Senate/ to House","location":"Clerk of the House"}
+,{"date":"2021-02-16", "action":"House/ received from Senate","location":"Clerk of the House"}
+,{"date":"2021-02-16", "action":"Senate/ received fiscal note from Fiscal Analyst","location":"Clerk of the House"}
+,{"date":"2021-02-16", "action":"House/ 1st reading (Introduced)","location":"House Rules Committee"}
+,{"date":"2021-02-17", "action":"House/ to standing committee","location":"House Health and Human Services Committee"}
+,{"date":"2021-02-23", "action":"House Comm - Favorable Recommendation","location":"House Health and Human Services Committee"}
+,{"date":"2021-02-24", "action":"House/ committee report favorable","location":"House Health and Human Services Committee"}
+,{"date":"2021-02-24", "action":"House/ return to Rules due to fiscal impact","location":"House Rules Committee"}
+,{"date":"2021-03-02", "action":"House/ Rules to 3rd Reading Calendar","location":"House 3rd Reading Calendar for Senate bills"}
+,{"date":"2021-03-02", "action":"House/ 2nd reading","location":"House 3rd Reading Calendar for Senate bills"}
+,{"date":"2021-03-02", "action":"House/ 3rd reading","location":"House 3rd Reading Calendar for Senate bills"}
+,{"date":"2021-03-02", "action":"House/ floor amendment failed","location":"House 3rd Reading Calendar for Senate bills"}
+,{"date":"2021-03-02", "action":"House/ floor amendment failed","location":"House 3rd Reading Calendar for Senate bills"}
+,{"date":"2021-03-02", "action":"House/ passed 3rd reading","location":"House Speaker"}
+,{"date":"2021-03-02", "action":"House/ signed by Speaker/ returned to Senate","location":"Senate President"}
+,{"date":"2021-03-02", "action":"House/ to Senate","location":"Senate President"}
+,{"date":"2021-03-03", "action":"Senate/ received from House","location":"Senate President"}
+,{"date":"2021-03-03", "action":"Senate/ signed by President/ sent for enrolling","location":"Legislative Research and General Counsel / Enrolling"}
+,{"date":"2021-03-04", "action":"Bill Received from Senate for Enrolling","location":"Legislative Research and General Counsel / Enrolling"}
+,{"date":"2021-03-04", "action":"Draft of Enrolled Bill Prepared","location":"Legislative Research and General Counsel / Enrolling"}
+,{"date":"2021-03-15", "action":"Enrolled Bill Returned to House or Senate","location":"Senate Secretary"}
+,{"date":"2021-03-15", "action":"Senate/ enrolled bill to Printing","location":"Senate Secretary"}
+,{"date":"2021-03-15", "action":"Senate/ received enrolled bill from Printing","location":"Senate Secretary"}
+,{"date":"2021-03-15", "action":"Senate/ to Governor","location":"Executive Branch - Governor"}
+,{"date":"2021-03-22", "action":"Governor Signed","location":"Lieutenant Governor's office for filing"}
+],
+"comrecommend": [
+],
+"agendas": [
+]}

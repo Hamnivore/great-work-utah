@@ -1,0 +1,13 @@
+{
+  "source_page": "nucleus-institute-official-site.md",
+  "requested_url": "https://www.nucleusutah.org/",
+  "final_url": "https://www.nucleusutah.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:18.654Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "113f1389b7ad8a1a2159af97e4545ea6b3343f702867209ca1d345e8403b5d54",
+  "text_sha256": "f12c2e676775d83ffc02b1041cf73d4c455eb0995872e3d7aab1b536b7f0c8c3",
+  "text_chars": 2922,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

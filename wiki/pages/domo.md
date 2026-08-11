@@ -18,7 +18,6 @@
 **Domain:** computing
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-08-11
-**Hero:** https://picsum.photos/seed/domo-agentic-bi-american-fork-2026/1600/1100
 **Pull:** *Josh James's second act — unified business data with natural-language and agentic analytics for mid-market decision-makers.*
 **Relates:** cites [Official Website: Domo](domo-official-website.md) · https://greatutah.work/pages/domo-official-website.md · https://www.domo.com
 **Relates:** helps [Josh James](josh-james.md) · https://greatutah.work/pages/josh-james.md

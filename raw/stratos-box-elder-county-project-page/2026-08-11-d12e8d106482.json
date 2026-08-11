@@ -1,0 +1,13 @@
+{
+  "source_page": "stratos-box-elder-county-project-page.md",
+  "requested_url": "https://www.boxeldercountyut.gov/641/Stratos-Project",
+  "final_url": "https://www.boxeldercountyut.gov/641/Stratos-Project",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:41.884Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "8bfb8f52b2daf02f17112ecf6a31d69b2660c956f829ba26f8eeac344f9fd11b",
+  "text_sha256": "d12e8d106482bcd4de49516a513007ccd678529d742e2bd814f23970316c7467",
+  "text_chars": 4669,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

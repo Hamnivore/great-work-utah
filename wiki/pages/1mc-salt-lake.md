@@ -9,7 +9,6 @@
 **Region:** Salt Lake City
 **Website:** http://www.1mcslc.com
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "globus-relief-form-990-record.md",
+  "requested_url": "https://projects.propublica.org/nonprofits/organizations/841369453",
+  "final_url": "https://projects.propublica.org/nonprofits/organizations/841369453",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:51.163Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "adb29a8e594bdfcbeee94276b45c6ff99b63352c1790571ec812ac67cb622d2b",
+  "text_sha256": "4d05a15db357a2eb10a8f52294c111e6b5db65a36c317f213f13fbbf668bab09",
+  "text_chars": 28140,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

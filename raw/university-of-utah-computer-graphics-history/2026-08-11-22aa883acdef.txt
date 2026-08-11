@@ -1,0 +1,248 @@
+History – Kahlert School of Computing
+Skip to main content
+Undergraduate
+Academic Programs
+Academic Programs
+AI Degrees
+Prospective Students
+Why Study Computing?
+Why Utah?
+Student Resources
+Academic Advisor Info
+Planning Your Degree
+Academic Resources
+Academic Policies
+SoC Canvas Page
+Tutoring
+Misconduct Policy
+Clubs & Organizations
+Course Permission Codes
+Graduate
+Academic Programs
+Programs Overview
+MS and PhD Programs
+Master of Software Development
+BS/MS Program
+Certificate Programs
+AI Degrees
+Prospective Students
+Admissions Overview
+Admission Requirements
+Research Areas
+Deadline Details
+Required Supporting Documents
+Financial Support and Costs
+International Applicants
+Application
+After you Apply
+After you are Accepted
+PhD Placements
+Current Students
+Student Handbook
+Graduate Students’ FAQ
+Information for New Graduates
+Graduate Student Resources
+GradSAC
+TA Application
+Misconduct Policy
+People
+Employees
+Administration
+Faculty
+Staff
+Postdocs
+Clubs & Organizations
+Cybersecurity Club
+Association for Computing Machinery
+Utah Center for Broadening Participation in Computing
+Women In Computing
+Grad CS Women
+News & Events
+Current Happenings at the Kahlert School of Computing
+SoC Events Calendar
+COMPUTE Magazine
+Organick Lecture Series
+Research
+Research Areas
+Research Day
+Technical Reports
+Undergraduate Research
+Resources
+Faculty Hiring
+Student Success Coaches
+Student Wellness
+Student Concerns
+Computer Support
+Travel and DSS forms
+MEB Room Calendar
+History
+Marketing and Communications Submission Form
+Donate
+Search
+History
+“Almost every influential person in the modern computer-graphics community either passed through the University of Utah or came into contact with it in some way.”
+From The Algorithmic Image: Graphic Visions of the Computer Age, by Robert Rivlin
+Major contributions by Utah faculty and alumni
+Developed the oldest algebraic mathematics package (REDUCE) still in use.
+First interactive graphics program, Sketchpad.
+First method for representing surface textures in graphical images.
+Gouraud smooth shading model for computer graphics.
+Invention of magnetic ink printing technology.
+The Johnson counter logic circuit.
+Phong lighting model for shading with highlights.
+Pioneering work in asynchronous circuits.
+Pioneering work in computer animation.
+Pioneering work in computer art.
+Pioneering work in digital music recording.
+Pioneering work in graphical user interfaces.
+Pioneering work in stack machine architectures.
+Time Line: Distinguished Utah faculty and alumni
+David Evans, Computer Science Faculty 1965-1980
+Founded the computer science department and was its first chairman from 1965-1973
+Co-founder of Evans & Sutherland
+More
+Ivan Sutherland, Computer Science Faculty 1968-1974
+ACM Turing Award (1988) for numerous contributions to computer graphics.
+1998 IEEE Medal: John von Neumann Medal “for pioneering contributions to computer graphics and microelectronic design and leadership in the support of computer science and engineering research”.
+First recipient of the ACM SIGGRAPH Coons Award for contributions to computer graphics.
+Co-founder of Evans & Sutherland
+Inventor of the first interactive graphics program with geometric constraints, Sketchpad
+Developed head-mounted display technology – an early example of virtual reality
+Member of the National Academy of Sciences and the National Academy of Engineering.
+More
+Robert Barton, Computer Science Faculty 1968-1973
+Invented the first stack machine architecture.
+Principal architect of all Burroughs computers.
+First recipient of the Eckert-Mauchly Award in 1979
+Co-inventor of dataflow.
+Tom Stockham, Computer Science Faculty 1969-1981
+Created the field of digital recording.
+1998 IEEE Medal: Jack S. Kilby Signal Processing Medal “for pioneering the field of digital audio processing”.
+Founder of Soundstream Inc., which pioneered digital music recording and editing that led to the large-scale production of compact discs and CD players.
+One of six experts selected to determine whether someone had deliberately erased Nixon’s White House tapes in the Watergate scandal (the infamous 18.5 minute gap). The panel’s results provided evidence of a cover-up, which led to President Nixon’s resignation.
+Recipient of the first Technical Grammy Award from the National Academy of Recording Arts & Sciences in 1993.
+Recipient of an Emmy Award from the National Academy of Television Arts & Sciences in 1988.
+Genesis: Tom Stockham, The Father Of Digital Audio Recording
+More
+Alan Kay, Ph.D. 1969
+Developed the notion of a graphical user interface at Xerox PARC, which led to the design of Apple MacIntosh computers.
+Developed Smalltalk
+Fellow at Apple Computer
+Recipient of the 2003 ACM Turing Award
+More
+John Warnock, Ph.D. 1969
+Worked on the Illiac 4 Project, a NASA space flight simulator, and airplane simulators at Evans & Sutherland
+Developed the Warnock recursive subdivision algorithm for hidden surface elimination.
+Founder of Adobe Systems , which developed the Postscript language for desktop publishing.
+More
+Gordon Romney, Ph.D. 1969
+Invented the first system and patent for assembling, manipulating and rendering perspective, colored images of 3-D objects on a raster scan display eliminating hidden surfaces and shading visible surfaces.
+Created the first 3-D digital alphabet and rendered it graphically.
+Professor of Cybersecurity and Computer Science at University of San Diego (USD).
+Director of Center for Cyber Security Engineering and Technology of the Shiley-Marcos School of Engineering (USD).
+Former faculty at Brigham Young University
+Founder of ARCANVS the first Certification Authority for healthcare under HIPAA
+Inventor of the privacy De-Identification patent for anonymizing personal data
+Inventor of the Virtual Instruction Cloud — the basis for MOOC online instruction
+Member of the Citibank team that created the first ATM
+Team Lead that produced the first PC clone for NCR/ADDS/Acer
+Certified Ethical Hacker
+Chuck Seitz, Computer Science Faculty 1970-1973
+Pioneer in asynchronous circuits.
+Co-designer of the first graphics machine, LDS-1 (Line Drawing System).
+Designed the Cosmic Cube machine as a research prototype that led to the design of the Intel iPSC.
+Founder of Myricom
+Ronald Resch, Computer Science Faculty 1969-1979
+Pioneer in the field of computer art.
+Built the first physical structure designed entirely with computer-aided geometric modeling software: a large Easter egg which is still standing in Vegreville, Alberta, Canada. Vegreville prides itself as “The Easter Egg Capitol of the World”.
+Had major art exhibits in national galleries of sculptures he designed and modeled using computers. The sculptures were appreciated by the art community without regard for the computer contribution.
+Produced a computer animated film of a flight through a proposed architectural structure of my design. The design was an example of my geometric development of “the Space Curve as a Folded Edge”. The method of making the animated film turned out to be of historic importance.20 years after the production of this animation I was called as an expert witness in “Ampex v. Abekas” (a patent infringement case between ADO Ampex the plaintiff and Abekas as defendant). The defense legal research team of Hopkins and Carley determined that I was the first person ever to demonstrate computer assisted “key frame animation” with the “Betweening” being done by cubic spline interpolation.
+Alan Ashton, Ph.D. 1970
+Former faculty at Brigham Young University
+Founder of WordPerfect
+Tony Hearn , Computer Science Faculty 1971-1980
+Second department chairman, 1973-1980.
+Dr. Hearn’s work has had a significant international impact on research in fundamental areas of mathematics, computer science and theoretical physics.
+Developed the oldest algebraic mathematics package (REDUCE) still in active use.
+In 2009, Hearn released REDUCE as open-source, granting access to the original program files. LINK
+Received honorary degrees from Brock University and Erlangen-Nuremberg University.
+Duane Call, Ph.D. 1971
+Former faculty at Brigham Young University
+Founder of Computer Systems Architects (CSA)
+Designer of FPS-120 supercomputer, specializing in vector calculations
+Henri Gouraud, Ph.D. 1971
+Developed the Gouraud shading method for polygon smoothing – a simple rendering method that dramatically improved the appearance of objects.
+Elliott Organick, Computer Science Faculty 1973-1985
+Founder of SIGSCE (ACM Special Interest Group on Computer Science Education).
+Won Outstanding Contributions to Computer Science Education award from SIGSCE in March 1985.
+Author of several widely used computer science textbooks, including A FORTRAN Primer (later revised as FORTRAN IV ), Computer Science: A First Course , and Programming Language Structures
+Bui Tuong-Phong, Ph.D. 1973
+Invented the Phong shading method and Phong reflection model. Used for capturing highlights in graphical images by modeling specular reflection. Phong’s lighting model is still one of the most widely used methods for illumination in computer graphics.
+Developed the first algorithm for simulating specular phenomenon.
+Bui Tuong-Phong, Robert McDermott, Jim Clark and Raphael Rom created the very first computer graphics generated picture that looks like its physical model: the VW bug.
+More
+Ed Catmull, Ph.D. 1974
+Pioneer in computer animation
+Developed the first computer animation course in the world.
+Co-founder of Pixar Animation Studios , a leading computer graphics company which has done work for LucasFilm and was recently involved in the production of the movie Toy Story .
+Received a technical Academy Award (with Tom Porter, Tom Duff, and Alvy Ray Smith) on March 2, 1996 in Beverly Hills from the Academy of Motion Picture Arts and Sciences (AMPAS) for “pioneering inventions in Digital Image Compositing”.
+More
+Jim Clark, Ph.D. 1974
+Rebuilt the head-mounted display and 3-D wand to see and interact with 3-dimensional graphic spaces.
+Former faculty at Stanford University
+Founder of Silicon Graphics Inc.,
+Founder of Netscape Communications Corporation
+Founder of Healtheon/WebMD
+more
+Henry Fuchs, Ph.D. 1975
+Federico Gil Professor, University of North Carolina at Chapel Hill.
+Research in high-performance graphics hardware; 3D medical imaging; head-mounted display and virtual environments.
+Founder of Pixel Planes
+Martin Newell, Ph.D. 1975, Computer Science Faculty 1977-1979
+Developed procedural modeling for object rendering
+Co-developed the Painter’s algorithm for surface rendering
+Founder of Ashlar, Inc. , which develops computer-assisted design software.
+More
+Frank Crow, Ph.D. 1975
+Developed anti-aliasing methods for edge smoothing
+Former faculty at University of Texas at Austin and Ohio State University
+More
+Martin Griss, Computer Science Faculty 1977-1983
+Developed Portable Standard LISP (PSL).
+Suhas Patil, Computer Science Faculty 1977-1981
+Founder of CIRRUS Logic (originally known as Patil Systems)
+Developed the first Petri Net-based circuit synthesis system for asynchronous circuit design.
+James Blinn, Ph.D. 1978
+Invented the first method for representing surface textures in graphical images.
+Scientist at JPL, where he worked on computer animation of the Voyager fly-bys.
+Produced a PBS series called The Mechanical Universe , which used animation to teach the basic principles of physics and mathematics.
+Collaborates with Tom Apostle on Project Mathematics! , an educational video series about mathematics.
+Telle Whitney, B.S. 1978
+Former CEO and President of the Anita Borg Institute for Women and Technology.
+Co-founder of the Grace Hopper Celebration of Women in Computing along with Anita Borg in 1994.
+Co-foundeder of the National Center for Women & Information Technology (NCWIT).
+Received the Women’s Venture Fund Highest Leaf Award in 2008.
+Received the ACM Distinguished Service Award in 2009.
+Received the Marie Pistilli Women in Electronic Design Automation (EDA) Achievement Award in 2009.
+Jim Kajiya, Ph.D. 1979
+Developed the frame buffer concept for storing and displaying single-raster images.
+Robert Johnson, Computer Science Faculty 1987-1993
+Invented the magnetic ink printing technology used on virtually every check we write.
+Invented the Johnson counter logic circuit.
+Former Vice President of Engineering for Burroughs.
+Brian Barsky, Ph.D. 1981
+Faculty member at University of California, Berkeley.
+Fellow, American Academy of Optometry
+Developed beta splines and methods to link computer graphics, geometric modeling, vision science, and optometry.
+Uri Weiser, Ph.D. 1981
+Recipient of the Eckert-Mauchly Award 2016
+For information about the current faculty and research projects in the Kahlert School of Computing at the University of Utah, click here .
+DISCLAIMER: We have tried to be as accurate and fair as possible, but please let us know if you find any errors, notice important omissions, or have additional information that might benefit this page!
+coleman@cs.utah.edu
+The University of Utah was one of the first four independent network nodes of the internet. The first successful transmission was on October 29, 1969. (See ARPANET )
+Kahlert School of Computing
+50 Central Campus Dr., Room 3190
+Salt Lake City, UT 84112
+(801) 581-8224
+contact@cs.utah.edu
+© Kahlert School of Computing at the University of Utah | Disclaimer | Privacy Policy | Nondiscrimination Statement | Computer Support

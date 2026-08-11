@@ -10,7 +10,6 @@
 **Website:** https://www.parkcityangels.com/
 **Domain:** capital-programs
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

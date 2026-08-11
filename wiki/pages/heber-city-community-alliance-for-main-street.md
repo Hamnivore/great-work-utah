@@ -13,7 +13,6 @@
 **Location Source:** https://www.gohebervalley.com/Contact-Us/
 **Website:** https://hebercity-cams.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -9,7 +9,6 @@
 **Region:** Logan
 **Website:** https://huntsman.usu.edu/ecenter/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

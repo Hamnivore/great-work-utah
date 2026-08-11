@@ -12,12 +12,11 @@
 **Website:** https://thera-tpharmaceutics.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/thera-t-pharmaceutics-2026/1600/1100
 **Relates:** cites [Official Website: Thera-T Pharmaceutics](thera-t-pharmaceutics-official-website.md) · https://greatutah.work/pages/thera-t-pharmaceutics-official-website.md · https://thera-tpharmaceutics.com
 
 ## Summary
 
-Thera-T Pharmaceutics is an early-stage University of Utah College of Pharmacy spinout, incubated at U2TAH (Huntsman Cancer Institute therapeutics accelerator), developing MATCH — Multi-Antigen T-Cell Hybridizers — a self-assembling two-component construct designed to direct T cells to multiple cancer antigens simultaneously. The company targets B-cell leukemias, lymphomas, and multiple myeloma. Founder Tommy Gambles is a postdoctoral researcher building on Dr. Jindřich Kopeček's polymer immunotherapy laboratory. The company received the University of Utah's 2025 Breakthrough Technology of the Year award. Animal studies are ongoing; approximately $400K in funding has been raised.
+Thera-T Pharmaceutics is an early-stage company developing MATCH — Multi-Antigen T-Cell Hybridizers — for B-cell leukemias, lymphomas, and multiple myeloma ([official website](thera-t-pharmaceutics-official-website.md)). The captured homepage does not support the earlier award, funding, founder, or incubation claims.
 
 ## Impact
 
@@ -25,7 +24,7 @@ Blood cancer immunotherapy has produced genuine clinical successes — CAR-T the
 
 The self-assembling two-component design carries a second potential advantage: current CAR-T manufacturing requires viral vector engineering of patient T cells, a process that is expensive, slow, and difficult to standardize. MATCH's non-viral, self-assembling approach could substantially reduce manufacturing complexity and cost if it performs in clinical settings as the design intends.
 
-The U of U's 2025 Breakthrough Technology of the Year award signals institutional recognition of the approach, though preclinical validation is the relevant evidentiary bar.
+Institutional recognition has been reported, but a captured award record is needed before stating its date or title.
 
 ## What They Are Building
 

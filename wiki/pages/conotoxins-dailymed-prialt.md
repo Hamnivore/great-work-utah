@@ -3,10 +3,10 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Government Record
+**Source Type:** government-record
 **URL:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b025d8ed-937d-4597-9ad1-0b2f6e0ee5b1
 **Publisher:** U.S. National Library of Medicine / DailyMed (FDA-sourced label)
-**Accessed:** 2026-06-19
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary

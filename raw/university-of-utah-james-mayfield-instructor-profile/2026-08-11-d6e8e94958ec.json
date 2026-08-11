@@ -1,0 +1,13 @@
+{
+  "source_page": "university-of-utah-james-mayfield-instructor-profile.md",
+  "requested_url": "https://continue.utah.edu/osher/instructor/592479",
+  "final_url": "https://continue.utah.edu/osher/instructor/592479",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:48.967Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ff559d72b1a253e1e8f65a917308103070cff151764737e4019ada4a61e7c202",
+  "text_sha256": "d6e8e94958ecbb0b32c7515a568863b8392b1cd3dfbac985ca28a772fa2080ae",
+  "text_chars": 2939,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

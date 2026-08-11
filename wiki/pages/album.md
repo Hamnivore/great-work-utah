@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Album+3451+N+Triumph+Blvd+Suite+200+Lehi+UT+84043
 **Website:** https://www.album.vc/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

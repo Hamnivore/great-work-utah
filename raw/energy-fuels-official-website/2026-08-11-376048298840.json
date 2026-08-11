@@ -1,0 +1,13 @@
+{
+  "source_page": "energy-fuels-official-website.md",
+  "requested_url": "https://www.energyfuels.com/",
+  "final_url": "https://www.energyfuels.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:39.740Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "aa19969ef1e4f638331c770781035e155c7e3149145aa1cd0aa55610ee40b4df",
+  "text_sha256": "376048298840ce81e059ec185663b4a87c2e449ca91d5e575df24e12046a0e2a",
+  "text_chars": 8366,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

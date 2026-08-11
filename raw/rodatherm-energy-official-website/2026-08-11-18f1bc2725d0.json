@@ -1,0 +1,13 @@
+{
+  "source_page": "rodatherm-energy-official-website.md",
+  "requested_url": "https://rodatherm.com",
+  "final_url": "https://rodatherm.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:29.282Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "056feb845a01b2b59d6c80964571aa572951419cecf377f9370f9b0175532487",
+  "text_sha256": "18f1bc2725d0a61d8d347ce1b30ab49e7f2c5eb6b959ce9399fb7aa21ecc2009",
+  "text_chars": 4155,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

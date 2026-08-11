@@ -1,0 +1,13 @@
+{
+  "source_page": "soundstream-digital-recording-sources.md",
+  "requested_url": "https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states",
+  "final_url": "https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:38.024Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "031c0b0103b2f44c821aa34c97f16d7fd137fb5297f07bf7984e67e086450245",
+  "text_sha256": "59d53cb103b67f0fa51c0834fc6c350a892420f1d3e13e5d0adb16aaa53fc121",
+  "text_chars": 67756,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

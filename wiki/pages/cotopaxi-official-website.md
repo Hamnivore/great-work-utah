@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.cotopaxi.com
+**Archive:** https://web.archive.org/web/20260809180926/https://www.cotopaxi.com/
+**Archived:** 2026-08-09
 **Publisher:** Global Uprising, PBC dba Cotopaxi
-**Accessed:** 2026-06-19
+**Raw:** raw/cotopaxi-official-website/2026-08-11-39bda1142216.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -19,15 +22,37 @@ Cotopaxi's official website describes an outdoor gear and apparel brand organize
 - Product categories include packs and bags, women's and men's apparel, travel essentials, and named collections such as Del Día, Allpa travel packs, and Coraza luggage.
 - The site says 1% of annual revenue goes to the Cotopaxi Foundation, a Utah-based private 501(c)(3) nonprofit.
 - Customer donations received by Cotopaxi are distributed monthly to the Cotopaxi Foundation, which the site describes as the next step in expanding grantmaking and community impact.
-- The about page says Cotopaxi supports people affected by poverty, with a primary focus on Latin America, through nonprofits working in health care, education, and livelihoods.
+- The page previously described a primary Latin America focus and nonprofit work in health care, education, and livelihoods; this homepage capture does not reconfirm those program details.
 - The site advertises a "Guaranteed for Good" program including U.S. returns and exchanges, lifetime warranty, repairs, and trade-in paths.
-- Sustainability materials say 100% of Cotopaxi products contain materials that are repurposed, recycled, or responsibly certified by a third party.
+- The page previously said 100% of products contain repurposed, recycled, or responsibly certified materials; that claim is absent from this capture.
 - The site publishes impact reports and compliance documents, including supplier and policy materials.
-- The site identifies Davis Smith as founder and chairman and ties the brand name to the Cotopaxi volcano in Ecuador.
+- The founder/chairman identity and brand-name origin previously recorded here are absent from this capture.
+
+## Verbatim
+
+> "Global Uprising, PBC dba Cotopaxi ("Cotopaxi") distributes 100% of the monetary donations that it
+> receives from its customers to the Cotopaxi Foundation on a monthly basis."
+> — Home page, donation disclosure
+
+> "The Cotopaxi Foundation is a Utah-based private 501c3 nonprofit organization."
+> — Home page, foundation description
+
+> "Giving is core to the Cotopaxi model. The foundation is the next step in terms of doing more good.
+> 1% of our annual revenue goes to the Cotopaxi Foundation, which aims to boost our grantmaking,
+> democratize our impact, and help us make a bigger difference in the communities we touch."
+> — Home page, foundation description
+
+> "Truly sustainable design includes a backup plan. If there's a problem with your gear, we'll happily
+> repair it, replace it, credit your return, or reward you for trading it in."
+> — Home page, Guaranteed for Good
 
 ## Reliability Notes
 
+This capture does not support the earlier Latin America program detail, universal responsible-materials claim, founder identity, or brand-name origin. Those claims need captures of the relevant about, sustainability, and leadership pages.
+
 This is an official company source. It is high-confidence for product categories, mission language, the foundation revenue model, and the company's own sustainability claims. It is not neutral evidence for impact outcomes, competitive position, cumulative donation totals, or operational performance. B Corp certification should be cross-checked against B Lab, and leadership transitions should be cross-checked against direct company communications or reliable business press.
+
+**Capture gap.** This home-page capture does not substantiate several claims on the page: named product collections (Del Día, Allpa, Coraza), the about-page poverty focus in Latin America, the 100% repurposed/recycled/responsibly certified materials claim, Davis Smith as founder, or the Cotopaxi volcano name origin. Those require the about, sustainability, or product subpages.
 
 ## Related Pages
 

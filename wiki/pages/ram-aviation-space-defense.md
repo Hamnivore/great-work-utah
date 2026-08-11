@@ -18,19 +18,18 @@
 **Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/ram-aviation-space-defense-2026/1600/1100
 **Pull:** *The precision propulsion valves keeping ISS astronauts alive, the Dragon capsule flying, and Dream Chaser on track — built quietly in St. George for 50 years.*
 **Relates:** cites [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md) · https://greatutah.work/pages/ram-aviation-space-defense-official-website.md · https://ramasd.com
 
 ## Summary
 
-RAM Aviation, Space & Defense is a St. George, Utah company founded in 1975 by Ray and Melzie Ganowsky, manufacturing precision propulsion valves and flow-control components for spacecraft, missiles, and military aircraft. Private and founder-family owned through five decades of continuous operation, RAM supplies flight-critical hardware to SpaceX (Dragon capsule), Sierra Space (Dream Chaser), NASA, and DoD programs.
+RAM Aviation, Space & Defense is a St. George, Utah company founded in 1975, manufacturing precision propulsion valves and flow-control components for spacecraft, missiles, and military aircraft. [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md)
 
-RAM valves are on the SpaceX Dragon capsule that ferries crew and cargo to the International Space Station. When the ISS is decommissioned in 2031, the thrusters that safely deorbit it will be controlled by RAM components. RAM is Sierra Space's partner for in-space propulsion on Dream Chaser. These are not aspirational claims — they are integrated parts in working flight hardware that is keeping astronauts alive today and will participate in one of the defining space events of this decade.
+RAM says its valves support the SpaceX Dragon capsule and hardware for the ISS deorbit mission; the captured source does not establish a deorbit date. [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md)
 
 ## Impact
 
-Propulsion valves are the kind of component that almost no one thinks about and everything depends on. A single failed valve has killed missions and imperiled crew. A company that has spent 50 years machining valves that do not fail in vacuum, at cryogenic temperatures, with hypergolic propellants, is part of a small global set that the space industry cannot function without.
+Propulsion valves are the kind of component that almost no one thinks about and everything depends on. A company operating since 1975 has had time to accumulate specialized manufacturing knowledge. [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md)
 
 The impact is indirect but load-bearing: RAM does not change the world on its own, but every NASA crewed mission, every commercial LEO program, and every new spacecraft needs parts like RAM's. They are to the space age what precision bearing manufacturers were to the industrial revolution — invisible infrastructure that makes everything else possible.
 
@@ -44,7 +43,7 @@ The design-validate-qualify cycle for a new propulsion valve on a human-rated sp
 
 ## What They Need Now
 
-RAM likely recruits mechanical engineers with serious interest in precision machining and fluid and gas dynamics, materials scientists with propellant-compatibility expertise, quality assurance engineers willing to build careers at the intersection of hardware testing and regulatory qualification, and skilled precision machinists. This is a career where the output is components that go on spacecraft and last 20 years.
+RAM likely recruits mechanical engineers with serious interest in precision machining and fluid and gas dynamics, materials scientists with propellant-compatibility expertise, quality assurance engineers, and skilled precision machinists.
 
 St. George, UT base offers lower cost of living than aerospace hubs in Florida, Texas, or California, which may matter to engineers who want to stay in the Mountain West.
 
@@ -54,7 +53,7 @@ Aerospace OEM relationships (SpaceX, Sierra Space, L3, Boeing) that expand RAM's
 
 ## Utah Context
 
-RAM is one of Utah's clearest examples of a 50-year aerospace manufacturing institution that has quietly accumulated irreplaceable capability. St. George has a smaller aerospace cluster than the Wasatch Front, but RAM demonstrates that serious flight-hardware manufacturing can establish durable roots in southern Utah. The 47G Utah aerospace association includes RAM as a member, connecting the company to the broader state ecosystem.
+RAM is a longstanding aerospace manufacturing institution dating to 1975. [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md) St. George has a smaller aerospace cluster than the Wasatch Front, but RAM demonstrates that serious flight-hardware manufacturing can establish durable roots in southern Utah.
 
 The private, founder-family ownership structure is relevant to Utah's entrepreneurial character: RAM has grown without venture capital, maintained mission focus across decades, and built a business where quality and qualification history are the moat rather than growth metrics.
 

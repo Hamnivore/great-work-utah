@@ -9,7 +9,6 @@
 **Region:** statewide
 **Website:** https://justbuild.ing/
 **Updated:** 2026-07-14
-**Layout:** field-guide
 **Relates:** cites [JustBuild Official Website](justbuild-official-website.md) · https://greatutah.work/pages/justbuild-official-website.md · https://justbuild.ing/
 
 ## Summary

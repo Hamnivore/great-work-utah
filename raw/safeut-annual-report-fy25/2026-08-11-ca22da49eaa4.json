@@ -1,0 +1,16 @@
+{
+  "source_page": "safeut-annual-report-fy25.md",
+  "requested_url": "https://safeut.utahhealth.acsitefactory.com/sites/g/files/zrelqx271/files/media/documents/2026/safeut_annualreport_fy25_digital-2_0.pdf",
+  "final_url": "https://safeut.utahhealth.acsitefactory.com/sites/g/files/zrelqx271/files/media/documents/2026/safeut_annualreport_fy25_digital-2_0.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:26.389Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "b093e2c7265845c3810cc9e738e41fc43715d7b2183a145bb96caff7545f5a33",
+  "text_sha256": "ca22da49eaa46bd7ca5e715aab45c4379aec29a90d929e4f03b458c7a77aa16c",
+  "text_chars": 27410,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 28,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

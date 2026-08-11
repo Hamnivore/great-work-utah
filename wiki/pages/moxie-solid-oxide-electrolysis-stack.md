@@ -24,7 +24,7 @@
 
 MOXIE — the Mars Oxygen In-Situ Resource Utilization Experiment — was a toaster-sized payload on NASA's Perseverance rover that produced oxygen from the carbon dioxide atmosphere of Mars. The Utah-built component was the Solid OXide Electrolyzer (SOXE) stack: the high-temperature electrochemical core designed, developed, and manufactured by OxEon Energy in North Salt Lake. OxEon's stack split compressed Martian CO₂ into oxygen ions and carbon monoxide at high temperature, then recombined the oxygen ions into molecular oxygen.
 
-MOXIE first produced oxygen on Mars on April 20, 2021. Over 16 total runs through August 2023, it generated 122 grams of oxygen total, reached 12 grams per hour at peak efficiency, and achieved 98% purity or better. A 2022 paper in Science Advances — with OxEon engineers Joseph Hartvigsen and Singaravelu Elangovan as coauthors — described MOXIE as the first demonstration of in-situ resource utilization on another planet.
+MOXIE first produced oxygen on Mars on April 20, 2021. Over 16 total runs through August 2023, it generated 122 grams of oxygen total, reached 12 grams per hour at peak efficiency, and achieved 98% purity or better ([NASA mission report](nasa-moxie-completes-mission.md)). A 2022 paper in Science Advances — with OxEon engineers Joseph Hartvigsen and Singaravelu Elangovan as coauthors — described MOXIE as the first demonstration of in-situ resource utilization on another planet.
 
 ## Impact
 

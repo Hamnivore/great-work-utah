@@ -1,0 +1,13 @@
+{
+  "source_page": "the-inn-between-official-website.md",
+  "requested_url": "https://tibhospice.org/",
+  "final_url": "https://tibhospice.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:50:42.673Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "393d2b96df53ac7767d2c474cd8172d29fa9ed9be30b2bc3932fe82666f607a8",
+  "text_sha256": "cff660bc28dc23e25be61c90d53f4920a791c0684f8ec24d677b967c4402916b",
+  "text_chars": 31564,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

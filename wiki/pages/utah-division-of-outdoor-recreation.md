@@ -13,7 +13,6 @@
 **Location Source:** https://recreation.utah.gov/boating-overview-original/life-jackets-boating-safety/ten-things-you-need-to-know-before-you-boat/
 **Website:** https://recreation.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

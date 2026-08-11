@@ -15,7 +15,6 @@
 **Additional Map Location:** MAG Vineyard Office, 478 S Geneva Rd, Vineyard, UT 84059 | 40.2885089, -111.7342922 | exact | https://magutah.gov/contact/
 **Website:** https://mountainland.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

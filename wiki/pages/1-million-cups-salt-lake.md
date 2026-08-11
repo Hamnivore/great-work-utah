@@ -9,11 +9,10 @@
 **Region:** Salt Lake City
 **Website:** https://1mcslc.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 
-Verified on the official site (2026-07-14): 1 Million Cups Salt Lake is a weekly peer community for founders, entrepreneurs, and small business owners. Each week two presenters share an idea, startup, or business for 6–8 minutes followed by ~10 minutes of audience Q&A at The Neighborhood Hive in Sugar House.
+1 Million Cups Salt Lake is described as a peer community for founders, entrepreneurs, and small business owners. The captured wiki evidence does not preserve presentation timing, presenter count, or the current venue, so those details require confirmation.
 
 ## Who It's For
 

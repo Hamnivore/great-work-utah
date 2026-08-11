@@ -10,7 +10,6 @@
 **Domain:** culture-place
 **Region:** Rich County
 **Website:** http://www.bearlakeregionalcommission.org/
-**Layout:** field-guide
 
 ## Summary
 

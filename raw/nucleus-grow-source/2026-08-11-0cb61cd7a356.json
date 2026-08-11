@@ -1,0 +1,13 @@
+{
+  "source_page": "nucleus-grow-source.md",
+  "requested_url": "https://www.nucleusutah.org/grow",
+  "final_url": "https://www.nucleusutah.org/grow",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:18.094Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "34a46572bfa7902aa2b722ee9885e7a8b8c6af293f48b85913bb310e9da368e6",
+  "text_sha256": "0cb61cd7a3566773a715210cd31412424eb8047532283201dd69171c0fdd63fb",
+  "text_chars": 13403,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

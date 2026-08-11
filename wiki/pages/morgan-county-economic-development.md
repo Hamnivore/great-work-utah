@@ -14,7 +14,6 @@
 **Location Source:** https://www.morgancountyutah.gov/contact
 **Website:** https://www.morgancountyinfo.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

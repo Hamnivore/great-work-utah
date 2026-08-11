@@ -9,7 +9,6 @@
 **Updated:** 2026-06-21
 **Domain:** health-bio
 **Region:** Salt Lake City
-**Hero:** https://picsum.photos/seed/chad-testa-2026/1600/1100
 **Pull:** *CEO leading Curza's first-in-class antibiotic program against drug-resistant Gram-negative bacteria — filling a gap no new class has addressed in nearly 50 years.*
 **Relates:** helps [Curza](curza.md) · https://greatutah.work/pages/curza.md
 
@@ -21,9 +20,9 @@ Testa runs Curza at the intersection of academic spinout commercialization, biod
 
 ## Impact
 
-Antimicrobial resistance kills an estimated 700,000 people per year globally; projections reach 10 million by 2050 without new drug classes. Testa leads the only Utah-based company with a clinical-stage program directly targeting that gap for the hardest-to-treat Gram-negative pathogens (ESKAPE organisms: E. coli, Klebsiella, Acinetobacter, Pseudomonas).
+Antimicrobial resistance is a large global health problem, but this page's former mortality projections were not supported by an existing wiki source. Testa leads a Utah company targeting hard-to-treat Gram-negative pathogens.
 
-The DTRA partnership — a reported $75M award with University of Florida collaborators over a multi-year horizon — signals that ESKAPE pathogens are not merely a public-health problem but a biodefense priority, which gives Curza unusual access to non-dilutive government funding that private AMR startups rarely secure.
+Curza reports a DTRA partnership with University of Florida collaborators, signaling that ESKAPE pathogens are also a biodefense priority; the award amount requires a captured government record.
 
 ## What They Offer
 
@@ -38,8 +37,8 @@ Testa and Curza need medicinal chemists, microbiologists, and ribosome biochemis
 
 ## Track Record
 
-- CEO of Curza since founding; guided company through $40M+ in grant and impact-investment raises
-- Led DTRA partnership (~$75M with University of Florida)
+- CEO of Curza and operator of a grant- and impact-funded biotechnology company
+- Led a DTRA partnership with University of Florida collaborators
 - Managed CARB-X and Novo Holdings REPAIR Fund relationships
 - University of Utah spinout commercialization in a notoriously difficult market
 

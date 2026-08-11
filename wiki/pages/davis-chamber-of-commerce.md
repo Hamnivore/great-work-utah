@@ -9,7 +9,6 @@
 **Region:** Kaysville
 **Website:** https://davischamberofcommerce.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

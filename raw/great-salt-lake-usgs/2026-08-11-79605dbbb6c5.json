@@ -1,0 +1,13 @@
+{
+  "source_page": "great-salt-lake-usgs.md",
+  "requested_url": "https://www.usgs.gov/centers/utah-water-science-center/science/great-salt-lake",
+  "final_url": "https://www.usgs.gov/centers/utah-water-science-center/science/great-salt-lake",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:50.285Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "144d8300c2df4d35e56328dc32d226ce428f7bdba6f73d1b771e7539f5ac95ca",
+  "text_sha256": "79605dbbb6c5f40b6d28a1ae3b8de62dbee9a2a33300ab1952f88a4e104e52d9",
+  "text_chars": 12282,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

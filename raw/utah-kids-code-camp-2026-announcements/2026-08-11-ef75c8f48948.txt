@@ -1,0 +1,77 @@
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Phil Gilmore
+date: 2026-05-18T14:46:34.160Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1779115594160029
+
+Kids Code Camp 2026 has been rescheduled for Aug 1!
+
+~*Kids Code Camp 2026*~
+~Join us for a day of coding for kids!  For all kids ages 5+ .~
+
+~Date:  Saturday June 20, 2026.~
+~Location: Neumont College of Computer Science~
+
+```You're never too young to start learning how to program! Join us for a half-day of coding instruction for kids of all ages (5+) and abilities. There are two classes per session in topics like Scratch, Python, JavaScript, Unity 3D, Electronics, and more! In each class, we'll teach them how to write a fun game on that platform.```
+~Registration and Event Info:~
+~<https://kidscodecamp.org>~
+
+~Volunteers of all kinds needed!  Please sign up here:~
+~<https://docs.google.com/forms/d/e/1FAIpQLSfr-X77NbuY5ClcPQCwT0TymhmBx0IYU-uQX1pCJq9N8mF45Q/viewform>~
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Phil Gilmore
+date: 2026-06-16T20:52:07.518Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1781643127518249?thread_ts=1781099671.909789&cid=CHNQPPQKB
+
+The calendar is missing my Kids Code Camp event!  June 20.
+
+<http://kidscodecamp.org|kidscodecamp.org>
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Phil Gilmore
+date: 2026-06-16T20:57:36.296Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1781643456296059
+
+*Utah Kids Code Camp 2026 Needs Volunteers!  This weekend!*
+
+<http://kidscodecamp.org|kidscodecamp.org>
+
+We are critically short of help for our Kids Code Camp event THIS WEEKEND!  Saturday, June 20.
+
+This is not only a great way to give back to the community, it is also a great opportunity for new developers or college students to pad their resume!  You also don't have to stay for the whole day if you have other things going on.
+
+If you or anyone you know can help the kids in the classrooms, please fill out our volunteer form online as soon as you can!  Please spread the word!
+
+Volunteer form:
+<https://forms.gle/FS4dasGLD36YLi2K6>
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Phil Gilmore
+date: 2026-07-28T14:49:39.864Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1785250179864269
+
+*Utah Kids Code Camp 2026*
+_August 1st - Please share the flyer and spread the word!_
+
+Join us for a day of coding for kids!  For all kids ages 5+ .
+
+Date:  Saturday Aug 1, 2026.
+Location: Neumont College of Computer Science
+
+```You're never too young to start learning how to program! Join us for a day of coding instruction for kids of all ages (5+) and abilities. There are two classes per session in topics like Scratch, Python, JavaScript, Unity 3D, Electronics, and more! In each class, we'll teach them how to write a fun game on that platform.```
+
+Registration and Event Info (Registration is required!):
+<https://kidscodecamp.org|kidscodecamp.org>
+
+Volunteers of all kinds are needed! Please sign up here:
+<https://docs.google.com/forms/d/e/1FAIpQLSfr-X77NbuY5ClcPQCwT0TymhmBx0IYU-uQX1pCJq9N8mF45Q/viewform|docs.google.com/forms/…/viewform>

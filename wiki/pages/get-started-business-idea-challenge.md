@@ -9,7 +9,6 @@
 **Region:** statewide
 **Website:** https://startup.utah.gov/get-started/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

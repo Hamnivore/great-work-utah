@@ -1,0 +1,13 @@
+{
+  "source_page": "bioparin-official-website.md",
+  "requested_url": "https://technologylicensing.utah.edu/news-events/startups/bioparin-sttr-grant",
+  "final_url": "https://technologylicensing.utah.edu/news-events/startups/bioparin-sttr-grant",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:16:32.450Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "e0aacca639e897d2ca80e42b7bc9f3dc83f34c395594a9449da34a28dee24785",
+  "text_sha256": "b5a049acb31860e7f53215178b21821cdc0321474e3c2a5edf89bacd07959841",
+  "text_chars": 9755,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

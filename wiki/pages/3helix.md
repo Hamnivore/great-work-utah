@@ -12,7 +12,6 @@
 **Website:** https://www.3helix.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/3helix-2026/1600/1100
 **Pull:** *Peptides that bind damaged collagen specifically — diagnostics, therapeutics, and a cosmetics entry through BASF.*
 **Relates:** cites [Official Website: 3Helix](3helix-official-website.md) · https://greatutah.work/pages/3helix-official-website.md · https://www.3helix.com
 

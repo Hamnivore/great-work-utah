@@ -10,7 +10,6 @@
 **Region:** statewide
 **Website:** https://www.biohive.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

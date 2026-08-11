@@ -1,0 +1,13 @@
+{
+  "source_page": "great-salt-lake-official-website.md",
+  "requested_url": "https://ffsl.utah.gov/public-lands/great-salt-lake/",
+  "final_url": "https://ffsl.utah.gov/state-lands/sovereign-lands/great-salt-lake/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:46.382Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "3ef0085b6c9fe4bc5ff90c941d76e1f5b4b9c457e2e73a60e641d6e746d3dc85",
+  "text_sha256": "85467b02ebcb45f554790e66522d40d4237ce54c72ab2b652fd29d916515eeb9",
+  "text_chars": 8498,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -3,10 +3,9 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://neurorobotics.utah.edu
 **Publisher:** University of Utah, Department of Electrical and Computer Engineering
-**Accessed:** 2026-06-18
 **Updated:** 2026-06-18
 
 ## Summary

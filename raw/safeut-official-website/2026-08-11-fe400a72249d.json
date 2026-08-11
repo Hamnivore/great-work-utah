@@ -1,0 +1,13 @@
+{
+  "source_page": "safeut-official-website.md",
+  "requested_url": "https://safeut.org/",
+  "final_url": "https://safeut.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:59.531Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "990402960fcbde6a387998d6538075516e49f263195d68c4f5142615f8537eee",
+  "text_sha256": "fe400a72249dbd36edfb81e903c0279386228fe11318ac1392cb2685168a47e7",
+  "text_chars": 8384,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

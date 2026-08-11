@@ -1,0 +1,13 @@
+{
+  "source_page": "btac-official-website-archive.md",
+  "requested_url": "https://web.archive.org/web/20250325062537/https://www.btac.business/",
+  "final_url": "https://web.archive.org/web/20250325062537/https://www.btac.business/",
+  "via_archive": true,
+  "fetched_at": "2026-08-11T19:52:45.882Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "e6387b9db711674fdd0561568cefeb69fa80d7e742e431ffca5634d4ba9ee80d",
+  "text_sha256": "daec9c85154b483d74e28463be33e4405b1081aa0de5960d50e05529efca7d1b",
+  "text_chars": 2110,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

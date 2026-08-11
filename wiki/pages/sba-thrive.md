@@ -9,7 +9,6 @@
 **Region:** statewide
 **Website:** https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

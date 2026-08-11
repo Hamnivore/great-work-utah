@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.hill.af.mil/
+**Archive:** https://web.archive.org/web/20260626041830/https://www.hill.af.mil/
+**Archived:** 2026-06-26
 **Publisher:** 75th Air Base Wing Public Affairs, U.S. Air Force
-**Accessed:** 2026-08-11
 **Updated:** 2026-08-11
 
 ## Summary

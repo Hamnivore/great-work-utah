@@ -13,7 +13,6 @@
 **Location Source:** https://www.wtcutah.com/
 **Website:** https://www.wtcutah.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

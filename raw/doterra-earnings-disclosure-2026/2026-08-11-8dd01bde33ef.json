@@ -1,0 +1,16 @@
+{
+  "source_page": "doterra-earnings-disclosure-2026.md",
+  "requested_url": "https://media.doterra.com/us/en/flyers/opportunity-and-earning-disclosure-summary.pdf",
+  "final_url": "https://media.doterra.com/us/en/flyers/opportunity-and-earning-disclosure-summary.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:56:41.021Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "37c80d8a54447721959dd62ae55e04067f59ac0127d1e98786579b075ede3789",
+  "text_sha256": "8dd01bde33ef6e8c9d3d0ed53f95fe7ae8ae9779992b43f80d728ed6fe7762e5",
+  "text_chars": 4132,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 2,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

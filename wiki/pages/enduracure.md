@@ -12,7 +12,6 @@
 **Website:** https://enduracure.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/enduracure-manufacturing-2026/1600/1100
 **Pull:** *Flexible electronics on polymer substrates that perform normally in use but dissolve on demand — unlocking end-of-life recovery of the chips, metals, and materials now buried in e-waste.*
 **Relates:** cites [Official Website: EnduraCure](enduracure-official-website.md) · https://greatutah.work/pages/enduracure-official-website.md · https://enduracure.com
 

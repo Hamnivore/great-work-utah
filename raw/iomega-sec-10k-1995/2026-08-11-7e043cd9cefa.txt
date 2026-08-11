@@ -1,0 +1,2393 @@
+10-K
+1
+IOMEGA CORPORATION ANNUAL 10-K FOR 1994
+PART I
+ITEM 1. BUSINESS:
+Iomega Corporation ("Iomega" or the "Company") designs, manufactures and
+markets removable data storage devices, including magnetic disk drives based on
+Bernoulli Technology (registered trademark) , tape backup drives based on the
+industry standard QIC (quarter inch tape) format, and Zip (trademark)
+removable cartridge drives. The Company also markets a removable hard disk
+cartridge which is compatible with certain drives manufactured by SyQuest
+Technology, Inc. ("SyQuest") and utilizes rigid media, and Floptical
+(registered trademark) disk drives. The Company also designs, manufactures
+and markets subsystems and removable disks and cartridges for use with drives
+marketed by the Company. The Company was incorporated in Delaware in April
+1980.
+Products
+Iomega's product lines include Bernoulli disk drives and related removable
+media disks, Ditto (trademark) QIC tape drives and related tape media, Zip
+removable cartridge disk drives and media cartridges, Floptical disk drives
+and related media disks and SyQuest-compatible removable hard disk cartridges.
+Following is a description of the Company's principal products:
+Bernoulli Products: These 5.25-inch half-height drives are removable
+storage devices based on the Company's Bernoulli Technology, which allows
+spinning flexible media to be precisely stabilized next to a read/write
+head with aerodynamic contours. The Company's Bernoulli drives are
+designed to combine the high capacity and rapid access generally
+associated with rigid "Winchester" disk drives with the media removability
+and expandable storage capacity generally associated with floppy disk
+drives and tape drives. The Company's Bernoulli drives and the associated
+disks are sold both in the form of a complete storage subsystem for IBM
+PC-compatible personal, laptop and notebook computers, Apple Macintosh
+personal and notebook computers, and SUN and other leading workstation
+products, and in the form of components for integration into larger
+systems by original equipment manufacturers (OEMs) or value added
+resellers (VARs). The Bernoulli drives use advanced Reed-Solomon error
+correction and come in 230, 150, 90, 44, and 20 megabyte (MB) disk drive
+capacities. They also come in external, internal and transportable
+versions.
+During 1994, the majority of the Company's Bernoulli sales came from the
+Bernoulli 150 drive and media cartridges. The Bernoulli MultiDisk 150
+drive began shipping in October 1992 and was Iomega's first drive to use
+multiple capacity disks - 35, 65, 105 and 150MB. It is also capable of
+reading and writing to 90MB disks and reading 44MB disks of previous
+Bernoulli drives. The product has self-cleaning heads, which are designed
+to improve user convenience during operation. The Company began shipping
+the Bernoulli 230 drive in September 1994 and expects the Bernoulli 230 to
+account for a significant portion of 1995 Bernoulli sales. The Bernoulli
+230 drive is capable of reading and writing 150 and 90MB disks and reading
+44MB disks of previous Bernoulli drives.
+_________________________
+Iomega, Bernoulli, and Bernoulli Technology are registered trademarks of,
+and the Iomega logo, Ditto, Zip, MultiDisk and Tape 250 are trademarks of
+Iomega Corporation. Floptical is a registered trademark of Insite
+Peripherals, Inc. All other company and product names mentioned are
+trademarks of their respective companies.
+Tape Products: The Iomega Tape 250 (now known as Ditto 250) drives were
+the industry's first commercially available QIC-standard, 1-inch high tape
+drives. These drives have a capacity of 250MB with data compression and
+are dual speed (500/1,000 kilobytes per second (Kbps)). Tape products are
+attached to the standard floppy interface in IBM PC-compatible computers.
+The parallel port Ditto 250 attaches to the printer parallel port on IBM
+PC compatible computers. The drives are shipped with application software
+for both Microsoft DOS and Microsoft Windows. The Company began shipping
+these products in June 1992. A significant portion of the Company's sales
+in 1994 were derived from tape products. In March 1995, the Company
+renamed and expanded its tape family, which is now known as the Ditto
+family of tape products. In late 1994, the Company began shipping Ditto
+420. In March 1995, the Company announced and began to ship the Ditto 850
+and 1700. The Company expects tape products to account for a significant
+portion of sales in 1995.
+Zip Products: Iomega started shipping 100MB Zip drives in March 1995.
+Two versions of the drive are currently offered: a parallel port version
+for use with IBM PC-compatible computers and a SCSI version for use with
+Apple Macintosh computers or IBM PC-compatible computers which have a SCSI
+adapter board. 100MB media cartridges are currently offered with a 25MB
+version planned. Also offered is a line of accessories. Zip is an
+external drive with a unique industrial design and color. It features a
+window to allow visibility of the cartridge being used, rubber feet for
+standing either flat or on its side, indicator lights and a finger slot
+for easy cartridge insertion. The parallel port version features printer
+pass through to allow normal operation of a printer which is often
+attached to the parallel port of the computer. The SCSI version has two
+connectors to allow it to be used in a daisy chained set-up with other
+SCSI devices. The drive's performance is such that application programs
+can be run directly from the Zip drive. The Zip drive comes with software
+to help users organize and copy their data. Software read/write protect
+is another feature for users to secure and protect their data.
+Floptical Products: Iomega's Floptical 3.5-inch, 21MB drives are read
+and write compatible with standard 720 kilobytes (KB) and 1.44MB floppy
+disk drives. The Company began shipping this product in October 1992.
+The Company has discontinued the development and manufacture of Floptical
+disk drives. However, the Company will continue to sell its remaining
+inventory and retains distribution rights to future generation Floptical
+drives.
+Subsystems: The Company provides an entire line of subsystems and
+software drivers for its Bernoulli and tape products. The subsystems are
+designed to work with multiple computer types, enabling users to move
+their storage device from machine to machine as their needs change.
+Models are available in single drive, dual drive, PC powered, and internal
+configurations. Software drivers are supplied to simplify the integration
+of the drive into the computer system. Drivers are supplied for leading
+operating systems including DOS 6.x, Microsoft Windows 3.x, Apple's
+Macintosh System 6.x and 7.x, and IBM's OS/2.
+Media: The Company manufactures removable disks using purchased media and
+sells them in multiple versions for use with its Bernoulli subsystems and
+drives. The Company has a five-year limited warranty on the disks used in
+its 230, 150, 90, 44, and 20MB Bernoulli drives. In addition, the Company
+provides tape cartridges manufactured for the Company to be used with its
+Ditto 250, 420, 720 and 1700 drives with a two-year limited warranty. The
+Company assembles Zip cartridges to be used with its Zip drive with a one-
+year limited warranty.
+The Company has distribution rights for removable hard disk cartridges
+manufactured by Nomai, S.A. in France. The cartridges are compatible with
+certain SyQuest 5.25" drives and utilize rigid media manufactured by IBM.
+The products come with a five-year limited warranty.
+Product Technology and Features
+Magnetic and optical storage drives such as rigid disk drives, tape drives,
+and floppy disk drives, are used as mass memory devices in computer systems to
+store and retrieve digital information. These devices are used to access data
+while the computer is in operation, provide storage backup for other memory
+devices, store data for archival purposes, and transport data between systems.
+Bernoulli Products: Disk drives store data on media which has either a
+rigid or flexible substrate coating with a thin layer of magnetic material
+which permits the recording, erasing and re-recording of data. As the
+media disk rotates in the disk drive, read/write heads record data on the
+disk or retrieve stored data from the disk. Flexible disk drives use thin
+plastic disks (flexible substrate) that are protected by a lightweight
+envelope and are removable from the drive mechanism. Rigid disk drives,
+known as fixed, hard or "Winchester" drives, use rigid aluminum disks that
+are either fixed permanently in the drive mechanism or contained in a
+removable sealed cartridge.
+The Company's Bernoulli drives differ from both floppy and Winchester disk
+drives in basic design and technology. The Company has applied Bernoulli
+principles of fluid mechanics to provide an aerodynamic coupling between
+the flexible media and recording head. The patented head contour creates
+a vacuum between the head and media to create a stable and intimate
+contact at the read/write gap, thus achieving very high linear densities.
+Because the Bernoulli head/disk interface is aerodynamically "soft", a
+particle of contamination can flow through the interface without permanent
+damage to the media or head. Similarly, shock and vibration, which can
+disable a rigid disk drive, may cause a recoverable error but little or no
+damage to the media or head in the Company's disk drives.
+Tape Products: Iomega's tape drives and subsystems are primarily designed
+to back-up and protect against loss of data stored on hard disk drives in
+IBM PC-compatible computers. The Iomega tape drives have a beltless
+design which the Company believes improves reliability. Tape drives are
+believed to be superior to floppy disk drives as backup devices due to the
+much higher capacity of the minicartridge used in tape drives to
+distribute, store and transfer software and data. The storage media used
+by Iomega's tape products is the industry-standard QIC-compatible series
+minicartridges.
+Zip Products: Iomega's Zip drives are designed for multiple uses: data
+transport, data back-up and hard drive expansion. The Zip drive utilizes
+high capacity flexible media and removability technologies developed in
+the Company's original Bernoulli products. It uses Winchester style
+nanoslide heads with a special airbearing surface combined with a unique
+linear voice coil motor. The drive reads and writes both the 3.5" 25MB
+and 100MB Zip cartridges.
+Floptical Products: Iomega's Floptical drives are based on technology
+licensed by the Company on a non-exclusive basis from Insite Peripherals,
+Inc. The Floptical drive utilizes the same read/write technology found in
+standard 3.5-inch floppy drives and is able to read and write to
+standard 3.5-inch floppy disks. Floptical disks are similar to standard
+floppy disks with the addition of an optical pattern on one surface. This
+pattern may be created either by stamping or by laser etching. The
+Company has developed a laser etching production process.
+SyQuest Compatible Disks: These removable hard disk cartridges are
+designed to be compatible with certain 5.25" disk drives marketed by
+SyQuest Technology, Inc. ("SyQuest"). The removable hard disk cartridges
+are manufactured for the Company by Nomai, S.A. in France.
+New Products and Product Development
+The Company operates in an industry that is subject to rapid technological
+change, and its ability to compete successfully depends upon, among other
+factors, its ability to anticipate such change. Accordingly, the Company
+continues to seek to improve its current lines of product offerings and to
+pursue the development of new products. In particular, there are projects
+underway to develop higher capacity tape products and to develop high
+capacity, high performance removable storage devices. During 1994, 1993 and
+1992, the Company's research and development expenses were $15,438,000,
+$18,972,000, and $21,959,000, respectively (or 10.9%, 12.9%, and 15.8%,
+respectively, of sales).
+In October 1994, the Company announced its ZIP product, a 25MB and 100MB
+removable cartridge disk drive. The product capitalizes on the Company's core
+technical competencies: high capacity flexible media, heads with unique air
+bearing surfaces, and removability. The Company has applied for and is in the
+process of applying for a number of patents and copyrights in connection with
+the Zip product.
+The ZIP drive is intended for the consumer/mass market. Also, the Company
+is continuing development of product(s) for the high performance market
+currently served by its Bernoulli products. A 230MB version of the Bernoulli
+product family was introduced to the market in September 1994.
+In August 1991, the Company entered into a joint development agreement with
+AIWA Company, Ltd., Japan (AIWA) to develop a very high capacity 4 millimeter
+(MM) Helico-scanning device based on DAT technology. The Company sold its
+rights to AIWA in July 1994.
+In January 1992, the Company acquired certain assets, including
+intellectual property, of Springer Technologies, Inc., of Fremont, California.
+These assets were being used by the Company in the development of proprietary
+thin film head technology for possible application in future mass storage
+products. In February 1994, the Company sold this development operation to AIWA
+Research and Development, Inc., a subsidiary of AIWA. The Company has retained
+rights to purchase thin film heads from AIWA.
+In April 1990, the Company established a division located in San
+Diego, California, to develop magnetic tape drive products. The Company began
+shipping its Tape 250 products in June 1992 and the Tape 420 in November 1994.
+In March 1995, the Company renamed its tape product line Ditto and introduced
+the Ditto 850 and Ditto 1700 which the Company began shipping in March 1995.
+In January 1989, the Company entered into a technology licensing agreement
+with Insite Peripherals, Inc. ("Insite") for rights to use Insite's Floptical
+data recording technology. Under the licensing agreement, the Company has the
+nonexclusive option to manufacture and sell Floptical products developed by
+Insite and to participate in the development, manufacture, and sale of new
+products based on Floptical technology. The Company began shipping a 21MB laser
+Floptical drive in October 1992. In March 1994, the Company discontinued the
+development and manufacturing of Floptical disk drives, but retains the rights
+to manufacture and distribute in the future.
+The Company expects to continue to invest in the development of new drives
+and disks as well as the expansion of its family of products to include other
+technologies. Such product expansion may be accomplished through internal
+development, the acquisition of businesses or technologies, or the use of other
+companies' products in subsystems. The Company also expects to invest in cost
+reduction efforts for the manufacture of its existing products in 1995.
+Marketing
+The Company markets and sells storage subsystems, system components and
+media through several distribution channels.
+The Company sells its products primarily through distributors and OEMs
+located throughout the United States, Canada, South America, the Far East and
+Europe. Domestically, the Company's distributors sell storage subsystems to
+dealers, national retail chains, superstores, mail order companies, value added
+resellers (VARs), and franchisees for resale to end users, and sell the
+Company's drives to OEMs. OEMs and VARs incorporate the Company's drives and
+drive subsystems into systems and microcomputers designed for a wide range of
+applications. In addition, the Company is increasing its sales presence in the
+retail channels to sell its new Zip and Ditto product lines. These retail
+channels include computer superstores, mail order catalogs, office supply
+superstores, consumer electronics superstores, and specialty computer stores who
+sell directly to end users.
+The Company's Federal Systems Group addresses Federal government
+requirements through sales to Federal systems integrators and Federal
+resellers.
+The Company sells its products outside of North America primarily through
+international distributors, which accounted for approximately 37% of the total
+Company's sales in 1994. The Company has increased its sales efforts in the
+European market in the past several years. Sales are accomplished primarily
+through sales offices located in Germany, Belgium, Spain, Norway, the United
+Kingdom, Italy, and France. The Company began invoicing in foreign currencies
+in January 1992.
+The Company has contracts with certain of its customers which, in the event
+of a price decrease, allow those customers, subject to certain limitations,
+credit equal to the difference between the price originally paid and the new
+decreased price on units in the customers' inventories on the date of the price
+decrease. When a price decrease is anticipated, the Company establishes
+reserves for amounts estimated to be reimbursed to qualifying customers.
+As of December 31, 1994, the Company's sales, marketing and service
+organization consisted of 147 salespersons, sales support and service personnel
+worldwide.
+Manufacturing
+Bernoulli Products: The Company manufactures its Bernoulli drives by
+assembling various components, subcomponents and prefabricated parts
+manufactured by it or outside vendors. The Company manufactures its disk
+drive mechanism and the media cartridge used with its products. In
+manufacturing its disks, the Company processes flexible media obtained
+from outside vendors by placing a magnetic pattern on the media for head
+positioning and then inserting the media into a protective shell, which is
+manufactured by a vendor to the Company's specifications. The Company's
+Bernoulli drives and subsystems are currently manufactured as standard
+products with standard configurations.
+Tape Products: The Company manufactures its tape drives by assembling
+various components, subcomponents and prefabricated parts manufactured by
+the Company or outside suppliers. The Company tests these products to
+meet applicable industry standards. The Company packages its tape drives
+for sale to both end users and OEMs.
+Zip Products: The drive has been designed to be easily manufactured. The
+Company manufactures its Zip drives and cartridges by assembling various
+components, subcomponents and prefabricated assemblies manufactured for it
+by outside suppliers. The Company uses its servowriting technology to
+place a magnetic pattern on the flexible media to allow the drive to
+accurately find and follow the "tracks" which are used to magnetically
+store the customer's data.
+The Company depends on the continued and reliable supply of integrated
+circuits, media and other components and certain manufacturing equipment from
+several key vendors. The Company currently purchases media, read/write
+positioning assemblies, read/write heads, certain custom integrated circuits,
+actuator subassemblies, motors and certain other mechanical devices and
+assemblies from single manufacturers. The read/write positioning assemblies
+used in the Company's Bernoulli drives are purchased from SKF Textilmaschinen-
+Komponenten GmbH pursuant to a supply agreement which expires on September 30,
+1997. The Company purchases other material from single source suppliers on a
+purchase order basis. Any failure or delay by its vendors to supply required
+items could have an adverse material effect on the Company's business.
+The Company has not experienced disruptions in its supply of critical
+components, other than disruptions in the ordinary course of business that have
+not had a material effect on the Company's business or operations.
+Competition
+The data storage industry is highly competitive. The Company competes with
+a number of companies that have financial, manufacturing and marketing resources
+greater than those of the Company and may also compete with licensees of the
+Company's products.
+Bernoulli Products: The Company's Bernoulli drives compete with other
+data storage devices that are available to personal computer users,
+primarily Winchester drives (including fixed, removable drive, removable
+disk and card-mounted versions), and 3.5" and 5.25" Magneto-Optical (MO)
+products. The Company's drives compete in the end user market with
+internal and external storage subsystems, primarily with subsystems based
+on removable Winchester drives and disks and 3.5" Magneto-Optical
+products. The Company's Bernoulli products compete in the market with a
+full range of storage products, including Winchester drives, removable
+Winchester drives, and high performance tape drives.
+Tape Products: The Company's Ditto tape drives compete with other QIC and
+DC2000-type products (which includes QIC and Irwin) in the entry level
+tape back-up market. The Company believes that this is a growing segment
+of the market due to the greater need for backups resulting from increased
+Winchester drive capacities. The data transfer rate for this class of
+tape drives is relatively slow and since tapes do not provide random
+access their usage is normally restricted to back-up applications. The
+Company sees the tape and Bernoulli markets as complementary markets with
+price and performance segmentation between these product families.
+The Company competes in the end user market with several internal and
+external tape products, including parallel port interface products.
+DC2000-type products currently offer capacities up to 1.7GB with
+compression. The tape market is considered a commodity market and,
+therefore, is very price competitive.
+ZIP Products: The Company's newly introduced ZIP products have many of
+the same competitors as its Bernoulli products and tape products. In
+addition, there are emerging technologies that are considered as
+competitive with the ZIP products. These emerging technologies include
+MD-Data, high capacity Floptical, and several recordable CD-ROM
+technologies.
+Floptical Products: The Company's Floptical drives compete with standard
+and high density floppy disk drives. The Company's Floptical drives also
+compete with floptical drives manufactured by Insite.
+SyQuest Compatible Disks: The removable hard disk cartridges directly
+compete with SyQuest's own removable cartridges and cartridges from other
+companies. The product is dependent on the drive manufacturer's success
+in developing an installed base in the market.
+Because the market in which the Company competes may be defined in a
+variety of different ways, both broadly (e.g., data storage) and narrowly (e.g.,
+removable disk drive storage devices for personal computers), the Company
+believes that any attempt to identify the companies that it considers to be
+dominant in its industry would be both difficult and possibly misleading.
+However, the Company does believe that it faced more direct competition from
+removable storage devices for personal computers in 1994 than in any previous
+year and the Company expects that direct competition to continue and possibly
+increase in 1995. In the tape market, there are two major competitors -- Conner
+Periphials, Inc. and Colorado Memory Systems, a division of Hewlett Packard
+Company.
+The Company believes that most purchasers of its products distinguish among
+competitive products on the basis of some or all of the following criteria:
+price (cost per unit and cost per megabyte of storage capacity), performance
+(speed and capacity), functionality (reliability, product size and removability)
+and security of data.
+An additional competitive consideration, particularly in the OEM market,
+is the size (form factor) of the drive. Winchester and floppy drives are
+available in 8-inch, 5.25-inch, 3.5-inch, 2.5-inch and 1.8-inch form
+factors. The most common form factor for Winchester drives is 3.5-inches. The
+Company currently offers 5.25-inch Bernoulli drives, 3.5-inch Tape, 3.5-
+inch Floptical drives, and external 3.5-inch ZIP drives.
+The data storage industry is characterized by rapid technological
+development. The introduction by a competitor of products with superior
+performance or substantially lower prices would adversely affect the Company's
+business.
+Patents
+The Company owns 38 United States and 17 foreign patents, and has filed 39
+U.S. and 3 foreign patents pending. Although the Company believes that its
+patents and patent applications have significant value, the Company also relies
+on copyrights and trade secrets to protect its technology. In addition, rapidly
+changing industry technology makes the Company's future success dependent
+primarily upon the technical competence and creative skill of its personnel.
+The Company has licensed from Insite certain rights relating to the Company's
+Floptical drives and related media. The Company also believes that it will be
+necessary or desirable for it to obtain licenses in connection with one or more
+of its future products, and believes, based on industry practice, that such
+licenses should be generally obtainable.
+The Company does not believe that the manufacture or sale of its current
+products infringes any patents or other intellectual property rights or requires
+any license from others.
+Principal Customers
+During the year ended December 31, 1994, sales to Ingram Micro D, Inc., a
+major distributor, accounted for 11% of sales.
+Backlog
+Purchasers of the Company's products do not generally provide the Company
+with long-term delivery schedules. Accordingly, backlog is generally not
+material to an understanding of the Company's business, and the Company's
+backlog at any time is not generally indicative of future levels of sales.
+Government Contracts
+No material portion of the Company's business is subject to renegotiation
+of profits or termination of contracts at the election of the United States
+government.
+Environmental Matters
+Compliance with federal, state and local environmental protection laws had
+no material effect on the Company in 1994 and is not expected to have a material
+effect in 1995.
+Employees
+As of December 31, 1994, the Company employed 886 persons (749 full-time
+and 137 part-time), including 94 in research and development, 560 in
+manufacturing, 110 in sales, marketing and service, 70 in general management and
+administration, and 52 in the European operations. During 1994, the Company
+completed restructuring actions which resulted in the elimination of
+approximately 200 positions from all levels of the organization.
+Foreign Sales
+Prior to July 1992, the Company's sales to foreign customers were primarily
+export sales. In July 1992, the Company's German subsidiary began to ship and
+invoice the majority of the Company's European sales. The Company still exports
+to areas outside of Europe. Export sales (excluding European sales subsequent
+to July 1992) for the years ended December 31, 1994, 1993 and 1992 were
+$6,133,000, $7,534,000, and $21,041,000, respectively. Export sales represented
+4% of total sales in 1994, 5% in 1993, and 15% in 1992. Foreign sales of the
+German subsidiary represented another 33% of total sales in 1994, 23% in 1993,
+and 10% in 1992. For the details of geographic regions, see "Note 10,
+Operations By Geographic Region", to the Company's audited financial
+statements for the year ended December 31, 1994. Sales to foreign customers
+were primarily to customers located in Europe. The Company began billing in
+foreign currencies in January 1992, therefore increasing its exposure to
+changes in exchange rates. However, the Company is hedging its cash flows by
+utilizing forward exchange contracts.
+ITEM 2. PROPERTIES:
+The Company leases the facilities described in the following table:
+Size Expiration
+Location (sq. ft.) of Lease Principal Use
+Roy, UT 24,000 May 1996 Administrative/Training
+Roy, UT 24,000 November 1995 Manufacturing
+Roy, UT 76,000 November 1997 Manufacturing
+Roy, UT 27,000 November 1995 Administrative/Marketing
+Roy, UT 14,000 November 1995 Administrative/Infor. Systems
+Roy, UT 36,000 May 1996 Research and Development
+San Diego, CA 11,000 July 2002 Research and Development
+The Company also has rented a 20,000 square foot facility in Freiburg,
+Germany for use as its European headquarters.
+In addition, the Company leases a total of approximately 10,000 square feet
+for small sales offices, typically on a short-term basis, in Pleasanton,
+California; Dedham, Massachusetts; Dallas, Texas; Atlanta, Georgia; Vienna,
+Virginia; Costa Mesa, California; Hoffman Estate, Illinois; Toronto, Canada;
+Brussels, Belgium; Middlesex, Great Britain; Oslo, Norway; Milano, Italy;
+Madrid, Spain; and Cretail, France.
+ITEM 3. LEGAL PROCEEDINGS:
+There are no legal proceedings, other than ordinary routine litigation
+incidental to its business, to which the Company or its subsidiaries is a party
+or of which any of their property is the subject.
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS:
+No matters were submitted to a vote of the Company's security holders
+during the quarter ended December 31, 1994.
+EXECUTIVE OFFICERS OF THE COMPANY
+Kim B. Edwards, 47, joined the Company as President and Chief Executive
+Officer on January 1, 1994. Mr. Edwards served as President and Chief Executive
+Officer of Gates Energy Products, Inc., a manufacturer of rechargeable batteries
+and the successor of General Electric Battery Division, from March 1993 to
+December 1993, and previously served in various other executive positions after
+joining Gates Energy Products, Inc. in January 1987.
+Leonard C. Purkis, 46, joined the Company as Senior Vice President and
+Chief Financial Officer on March 1, 1995. Mr. Purkis joined Iomega following 12
+years at General Electric Co., where his most recent assignment was as Senior
+Vice President of Finance at GE Capital Fleet Services. He also held positions
+in the Financial Services, Lighting and Plastics businesses, with assignments in
+Europe and the U.S.
+Srini Nageshwar, 53, was promoted to Senior Vice President - European
+Operations in April 1991. Mr. Nageshwar joined the Company in January 1991 as
+Vice President - European Operations. Prior to joining the Company, Mr.
+Nageshwar was Executive Vice President for Marketing, Sales and Operations of
+OAZ Communications, a network fax server company, from February 1990 to December
+1990. Prior to that, he was President and Chief Operating Officer of Cumulus
+Corporation, a memory peripherals manufacturing company, from January 1989 to
+February 1990. Prior to that, Mr. Nageshwar spent 24 years in marketing and
+general management positions with Hewlett-Packard Company, most recently as
+Value-Added Business Manager.
+Anton J. Radman, Jr., 42, is Senior Vice President - Sales and Marketing.
+Previously, he served as Senior Vice President - Corporate Development and
+Floptical Product Line Manager from January 1993 to June 1993. He also served
+as Senior Vice President - Corporate Development from December 1989 to January
+1993. Mr. Radman was also President of the Bernoulli Optical Systems Co.
+(BOSCO) subsidiary of Iomega from April 1990 to January 1993. Mr. Radman
+joined the Company in April 1980 and his previous positions with the Company
+have included Vice President - Research and Development, Vice President - OEM
+Products and Sales Manager, and Senior Vice President - Micro Bernoulli
+Division from April 1988 until December 1989.
+Leon J. Staciokas, 67, is Senior Vice President and Chief Internal
+Operations Officer. Mr. Staciokas joined the Company in August 1987 as Senior
+Vice President - Operations. He served as acting Chief Executive Officer of the
+Company from October 1993 until January 1994.
+John G. Thompson, 54, was promoted to Vice President - Corporate
+Manufacturing in January 1993. Prior to that, Mr. Thompson was Vice President
+-Materials, Procurement and Engineering Services from March 1988 to January
+1992. Mr. Thompson was Vice President/Controller of the Company from January
+1988 until March 1988.
+Donald R. Sterling, 58, was promoted to Vice President, Corporate Counsel
+and Secretary in April 1994. Prior to that, he was Vice President for Legal
+Affairs and Secretary from August 1993 to March 1994. Mr. Sterling joined the
+Company in September 1988.
+Executive officers are elected on an annual basis and serve at the
+discretion of the Board of Directors.
+PART II
+ITEM 5. MARKET FOR THE COMPANY'S COMMON STOCK AND RELATED STOCKHOLDER
+MATTERS:
+The information required by this item is found in the section entitled
+"Securities" of the Company's 1994 Annual Report, which section is incorporated
+herein by reference.
+ITEM 6. SELECTED FINANCIAL DATA:
+The information required by this item is found in the tables entitled
+"Trends in Operations" and "Financial Conditions and Trends" of the Company's
+1994 Annual Report, which tables are incorporated herein by reference.
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS:
+The information required by this item is found in the section entitled
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" of the Company's 1994 Annual Report, which section is incorporated
+herein by reference.
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA:
+The information required by this item is contained in the section entitled
+"Financial and Operating Highlights" of the Company's 1994 Annual Report, which
+section is incorporated herein by reference, and in the financial statements and
+schedules referred to in the Index to Consolidated Financial Statements and
+Consolidated Financial Statement Schedules, filed as a part of this Annual
+Report on Form 10-K.
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE:
+Not applicable.
+PART III
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT:
+The information required by this item appears in the section entitled
+"ELECTION OF DIRECTORS - Nominees" of the Company's Proxy Statement for its 1995
+annual meeting of stockholders and the section of such Proxy Statement entitled
+"ELECTION OF DIRECTORS - Board and Committee Meetings", which sections are
+incorporated herein by reference. Information regarding executive officers of
+the Company is furnished in Part I of this Annual Report on Form 10-K under the
+heading "Executive Officers of the Company."
+ITEM 11. EXECUTIVE COMPENSATION:
+The information required by this item appears in the sections entitled
+"ELECTION OF DIRECTORS -- Director's Compensation", "ELECTION OF DIRECTORS --
+Executive Compensation", "ELECTION OF DIRECTORS -- Employment and Severance
+Agreements" and "ELECTION OF DIRECTORS -- Certain Business Relationships" of the
+Company's Proxy Statement for its 1995 annual meeting of stockholders, which
+sections are incorporated herein by reference.
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT:
+The information required by this item is contained in the section entitled
+"Beneficial Ownership of Common Stock" of the Company's Proxy Statement for its
+1995 annual meeting of stockholders, which section is incorporated herein by
+reference.
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS:
+The information required by this item is contained in the sections entitled
+"ELECTION OF DIRECTORS -- Employment and Severance Agreements" and "ELECTION
+OF DIRECTORS -- Certain Business Relationships" of the Company's Proxy
+Statement for its 1995 annual meeting of stockholders, which sections are
+incorporated herein by reference.
+PART IV
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K:
+(a) The following documents are filed as part of or are included in this
+Annual Report on Form 10-K:
+1. The financial statements listed in the Index to Consolidated
+Financial Statements and Consolidated Financial Statement
+Schedules, filed as a part of this Annual Report on Form 10-K.
+2. The financial statement schedule listed in the Index to
+Consolidated Financial Statements and Consolidated Financial
+Statement Schedules, filed as a part of this Annual Report on
+Form 10-K.
+3. The exhibits listed in the Exhibit Index filed as a part of
+this Annual Report on Form 10-K.
+(b) Reports on Form 8-K: No reports on Form 8-K were filed by the
+Company during the last quarter of the year ended December 31, 1994.
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+IOMEGA CORPORATION
+By: Kim B. Edwards
+Chief Executive Officer
+Date: March 29, 1995
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+Name Title Date
+--------------- --------------------------- -----
+Chief Executive Officer and
+Kim B. Edwards Director (Principal executive
+officer)
+Senior Vice President-Finance,
+Leonard C. Purkis Chief Financial Officer and
+Treasurer (Principal financial
+and accounting officer)
+David J. Dunn Chairman of Board of Directors March 29, 1995
+Willem H.J. Andersen Director
+Robert P. Berkowitz Director
+Anthony L. Craig Director
+Michael J. Kucha Director
+John R. Myers Director
+John E. Nolan Director
+The Honorable Director
+John E. Sheehan
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS AND CONSOLIDATED
+FINANCIAL STATEMENT SCHEDULES
+The following consolidated financial statements appear in the Company's
+1994 Annual Report to Stockholders and are incorporated herein by reference:
+Description
+-------------
+Report of Independent Public Accountants
+Consolidated Balance Sheets at December 31, 1994 and 1993
+Consolidated Statements of Operations for the Years Ended
+December 31, 1994, 1993 and 1992
+Consolidated Statements of Shareholders' Equity for the
+Years Ended December 31, 1994, 1993 and 1992
+Consolidated Statements of Cash Flows for the Years Ended
+December 31, 1994, 1993 and 1992
+Notes to Consolidated Financial Statements
+The following schedules are included in this Annual Report on Form 10-K:
+Description
+------------
+Report of Independent Public Accountants on Consolidated
+Financial Statement Schedules
+II - Valuation and Qualifying Accounts
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+ON CONSOLIDATED FINANCIAL STATEMENT SCHEDULES
+To Iomega Corporation:
+We have audited in accordance with generally accepted auditing standards,
+the consolidated financial statements included in Iomega Corporation's annual
+report to stockholders incorporated by reference in this Form 10-K, and have
+issued our report thereon dated January 25, 1995. Our audit was made for the
+purpose of forming an opinion on those statements taken as a whole. The
+schedule listed in the index is the responsibility of the Company's management
+and is presented for the purpose of complying with the Securities and Exchange
+Commission's rules and is not part of the basic financial statements. This
+schedule has been subjected to the auditing procedures applied in the audit of
+the basic financial statements and, in our opinion, fairly states in all
+material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+ARTHUR ANDERSEN LLP
+Salt Lake City, Utah
+January 25, 1995
+IOMEGA CORPORATION AND SUBSIDIARIES
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+Additions
+Balance at charged to Balance
+beginning costs and at end
+Description of period expenses Deductions of period
+(In thousands)
+ALLOWANCE FOR DOUBTFUL ACCOUNTS:
+Year ended December 31, 1994 $1,547 $ 323 $ (243)* $ 1,627
+Year ended December 31, 1993 $ 901 $ 792 $ (146)* $ 1,547
+Year ended December 31, 1992 $ 933 $ 17 $ (49)* $ 901
+PRICE PROTECTION AND PROMOTION RESERVE:
+Year ended December 31, 1994 $ 67 $1,143 $(1,041)** $ 169
+Year ended December 31, 1993 $ 73 $2,403 $(2,409)** $ 67
+Year ended December 31, 1992 $ 58 $ 639 $ (624)** $ 73
+ACCRUED RESTRUCTURING COSTS:
+Year ended December 31, 1994 $6,818 $ 875 $(7,693) $ -
+Year ended December 31, 1993 $ 0 $8,080 $(1,262) $ 6,818
+OTHER RESTRUCTURING RESERVES:
+Year ended December 31, 1994 $4,649 $2,063 $(6,712) $ -
+Year ended December 31, 1993 $ 0 $4,649 $ - $ 4,649
+* Represents write-offs of Accounts Receivable
+** Credits granted against Accounts Receivable
+EXHIBIT 23.1
+CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+As independent public accountants, we hereby consent to the
+incorporation of our reports included or incorporated by reference in this
+Form 10-K, into the Company's previously filed Registration Statements on
+Form S-8, File Nos. 2-87671, 33-13083, 33-20432, 33-23822, 33-41083, and
+33-54438.
+ARTHUR ANDERSEN LLP
+Salt Lake City, Utah
+March 29, 1995
+EXHIBIT INDEX
+The following exhibits are filed as part of this Annual Report on
+Form 10-K:
+Exhibit
+Number Description
+------------- -----------------------
+3.1 (1) Restated Certificate of Incorporation of the Company, as
+amended
+3.2 (1) By-Laws of the Company, as amended
+4.1 (1) Article Fourth of Restated Certificate of Incorporation of
+the Company and Certificate of Designation of Series A and
+Series B Convertible Preferred Stock (included in
+Exhibit 3.1)
+10.1 (11) Lease dated January 6, 1993 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+relating to Iomega Park Building No. 1
+10.2 (2) Lease dated June 21, 1991 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+relating to Iomega Park Building No. 2
+10.3 (3) Lease dated November 9, 1992 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+relating to Iomega Park Building No. 3
+10.4 (3) Lease dated November 9, 1992 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+relating to Iomega Park Building No. 4
+10.5 (4) Lease Agreement dated October 29, 1984 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+(formerly with Western Mortgage Loan Corporation)
+(including an Amendment thereto dated January 30, 1986)
+relating to Iomega Park Building (Parking Lot) No. 5
+10.6 (11) Lease dated January 6, 1993 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+relating to Iomega Park Building No. 6
+10.7 (2) Lease dated June 21, 1991 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+relating to Iomega Park Building No. 7
+10.7(a) Amendment to Lease dated May 20, 1994 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+relating to Iomega Park Building No. 7
+10.8 (3) Lease dated November 9, 1992 between the Company and
+Damson/Birtcher Realty Income Fund-II, Limited Partnership
+relating to Iomega Park Building No. 8
+10.9 (11) Aircraft Lease Agreement, dated April 8, 1993, between the
+Company and Beehawk Aviation, Inc.
+**10.10 (2) 1981 Stock Option Plan of the Company, as amended
+**10.11 (2) 1987 Stock Option Plan of the Company, as amended
+**10.12 (2) 1987 Director Option Plan of the Company, as amended
+10.13 (12) 1994 Iomega Incentive Plan
+10.13(a)(12) 1994 Iomega Incentive Plan for Tony Radman
+10.13(b)(12) 1994 Iomega Incentive Plan for Leon Staciokas
+10.13(c)(12) 1994 Iomega Incentive Plan for Don Sterling
+10.13(d)(12) 1994 Iomega Incentive Plan for Srini Nageshwar
+10.13(e)(12) 1994 Iomega Incentive Plan for John Thompson
+**10.14 (2) Employment Letter dated March 23, 1990 between the Company
+and Farouk Al-Nasser
+**10.15 (2) Employment Letter dated January 11, 1991 between the
+Company and Srini Nageshwar
+**10.16 Employment Letter dated November 29, 1993 between the
+Company and Kim Edwards
+**10.17 (3) Expatriate Agreement dated January 1, 1992 between the
+Company and Srini Nageshwar
+10.18 (6) Agreement of Leasing dated as of December 26, 1984 between
+the Company and Lease Financing Corporation
+*10.19 (3) Agreement dated April 24, 1987 between the Company and SKF
+Textilmaschinen-Komponenten GmbH
+*10.19(a)(2) Third Modification dated October 17, 1991 to the Agreement
+between the Company and SKF Textilmaschinen-Komponenten GmbH
+*10.19(b)(11) Fourth Modification dated February 2, 1994 to the Agreement
+between the Company and SKF Textilmaschinen-Komponenten GmbH
+10.20 (3) Form of Indemnification Agreement between the Company and
+each of its directors
+10.21 (7) Rights Agreement dated as of July 28, 1989 between the
+Company and The First National Bank of Boston, as Rights Agent
+10.21(a)(8) Amendment No. 1 dated September 24, 1990 to Rights
+Agreement dated as of July 28, 1989 between the Company
+and The First National Bank of Boston
+**10.22 Indemnity Agreement, dated April 21, 1994, between the
+Company and Srini Nageshwar
+**10.23 (10) Settlement Agreement, dated October 1, 1993, between the
+Company and Phillip Krumb
+**10.24 (11) Settlement Agreement, dated January 17, 1994, between the
+Company and Farouk Al-Nasser
+**10.25 (11) Secured Installment Promissory Note, dated September 17,
+1993, between the Company and Fred Wenninger
+**10.26 Secured Installment Promissory Note, dated January 6, 1995,
+between the Company and Phillip P. Krumb
+**10.27 (11) Letter Agreement, dated April 13, 1993, between the Company
+and Farouk Al-Nasser
+**10.28 (11) Letter Agreement, dated April 13, 1993, between the Company
+and Anton J. Radman, Jr.
+13.1 Portions of the Company's 1994 Annual Report (which is not
+deemed to be "filed" except to the extent that portions
+thereof are expressly incorporated by reference in this
+Annual Report on Form 10-K)
+21.1 (11) Subsidiaries of the Company
+23.1 Consent of Independent Public Accountants (appears on page
+17 of this Annual Report on Form 10-K)
+27 Financial Data Schedule
+* Confidential treatment previously granted as to certain
+portions.
+** Management contract or compensation plan or arrangement
+required to be filed as an exhibit pursuant to Item 14(c)
+of Form 10-K.
+(1) Incorporated herein by reference to the exhibits to the
+Company's Quarterly Report on Form 10-Q for the period
+ended July 4, 1993.
+(2) Incorporated herein by reference to the exhibits to the
+Company's Annual Report on Form 10-K for the year ended
+December 31, 1991.
+(3) Incorporated herein by reference to the exhibits to the
+Company's Annual Report on Form 10-K for the year ended
+December 31, 1992.
+(4) Incorporated herein by reference to the exhibits to the
+Company's Annual Report on Form 10-K for the year ended
+December 31, 1990.
+(5) Incorporated herein by reference to the exhibits to the
+Company's Annual Report on Form 10-K for the year ended
+December 31, 1989.
+(6) Incorporated herein by reference to the exhibits to the
+Company's Registration Statement on Form S-1
+(File No. 2-96209).
+(7) Incorporated herein by reference to the exhibits to the
+Company's Current Report on Form 8-K filed on August 12, 1989.
+(8) Incorporated herein by reference to the exhibits to the
+Company's Amendment No. 1 to Current Report on Form 8-K
+filed on September 25, 1990.
+(9) Incorporated herein by reference to the exhibits to the
+Company's Amendment No. 1 to Annual Report on Form 10-K for
+the year ended December 31, 1992.
+(10) Incorporated herein by reference to the exhibits to the
+Company's Quarterly Report on Form 10-Q for the period
+ended October 3, 1993.
+(11) Incorporated herein by reference to the exhibits to the
+Company's Annual Report on Form 10-K for the year ended
+December 31, 1993.
+(12) Incorporated herein by reference to the exhibits to the
+Company's Quarterly Report on Form 10-Q for the period
+ended October 2, 1994.
+EX-10.7A
+2
+EXHIBIT 10.7(a)
+AGREEMENT TO EXTEND LEASE
+This Agreement is made and entered into as of this 20th day of May, 1994, by and
+between Damson/Birtcher Realty Income Fund-II, Limited Partnership (hereinafter
+called "Landlord") and IOMEGA Corporation (hereinafter called "Tenant") with
+respect to the following facts:
+WITNESSETH:
+A. Landlord and Tenant entered into a certain lease dated June 21, 1991, (the
+"Lease") under which Landlord demised to Tenant the Property commonly
+known as Building 7, consisting of approximately 70,000 square feet; and
+B. Said Lease is scheduled to expire by lapse of time on May 31, 1994; and
+C. Landlord and Tenant desire to amend said Lease so as to extend the Term
+thereof and to establish the rents payable thereunder during such period;
+and
+D. It is intended by this Agreement to amend said Lease;
+NOW, THEREFORE, in consideration of the Property, and of the covenants and
+agreements herein set forth, it is agreed that the Lease be hereby amended from
+and after the date hereof as follows:
+1) Section 1.05 of the Lease, entitled Lease Term, is hereby extended for a
+period of forty-two (42) months, commencing on the last day of the initial
+Term of the Lease and expiring on the 30th day of November, 1997, unless
+the Lease shall sooner terminate as provided therein.
+2) For the period from the first day of June, 1994, through and including the
+30th day of November, 1997, Tenant shall pay to Landlord as Base Rent over
+and above the other and additional payments to be made by Tenant for the
+Property, the sum of One Million Three Hundred Twenty-eight Thousand Four
+Hundred Twenty and 82/100 Dollars ($1,328,420.82) payable monthly in
+advance on the first day of each and every calendar month as follows:
+Period Monthly Base Rent
+June 1, 1994 through and
+including November 30, 1995 $30,828.41
+December 1, 1995 through and
+including November 30, 1996 $31,753.26
+December 1, 1996 through and
+including November 30, 1997 $32,705.86
+all at the place and in the manner in the Lease provided.
+3) Except as herein specifically amended, all terms, provisions, covenants,
+and conditions of the Lease shall remain unchanged and in full force and
+effect, and the same are hereby ratified and confirmed.
+TENANT LANDLORD
+IOMEGA CORPORATION Damson/Birtcher Realty Income
+Fund-II, Limited Partnership
+By: /s/ C. David Correll By: Birtcher Investments
+Its: Authorized Agent
+Its: Dir. of Corporate Facilities
+By: /s/ Michael S. Buzar
+Date: May 27, 1994
+Its: Senior Vice President
+Date: June 2, 1994
+EX-10.16
+3
+EXHIBIT 10.16
+IDANTA PARTNERS LTD.
+4660 LaJolla Village Drive
+Suite 775
+San Diego, California 92122
+(619) 452-9690
+Fax (619) 452-2013
+November 29, 1993
+Mr. Kim Edwards
+By Federal Express to:
+Turkey Creek Subdivision
+10603 N.W. 67th Way
+Alachua, Florida 32615
+And By Mail to:
+Box 43
+Turkey Creek
+Alachua, Florida 32615
+Dear Kim:
+As we discussed on the telephone this morning, Tony Craig, while he still has
+some calls outstanding, has essentially completed his reference checks and
+our offer to you of the position of President/CEO at Iomega Corporation is
+unqualified. This letter is to document the details of our offer:
+Cash Compensation: $240,000 initial base salary plus a cash bonus which
+could amount to $160,000. The details of how the bonus will be structured
+are to be worked out between you and Tony Craig for approval by the Board.
+I am hoping that you will work out a program which will be satisfactory for
+a number of years. As we discussed, it may be that criteria change over the
+years, but hopefully by a pre-arranged formula. We also agreed that
+notwithstanding the company's performance against the established criteria,
+the minimum bonus for 1994 would be $80,000.
+Stock Options: You will receive, at the time of your employment, options on
+200,000 shares of Iomega common stock at a price equal to the market price
+at the close of business on the last day of trading before you join. 20% of
+the options will vest as of your starting date and 20% will vest on each of
+the four subsequent anniversary dates.
+Benefits: All benefits, including medical insurance, dental insurance, life
+insurance, 401k, four weeks' vacation, etc. will go into full effect
+immediately upon employment.
+Relocation Expenses: Coverage of all normal expenses associated with buying and
+selling a home, temporary storage charges, house hunting, moving insurance, and
+temporary living costs.
+Mr. Kim Edwards
+Page Two
+November 29, 1993
+Transfer Allowance: A lump sum of one month's salary (grossed up for state and
+federal taxes) to compensate for miscellaneous and settling-in expenses.
+Home Sale Protection: Iomega will reimburse the difference between the
+actual selling price of your home and the average of the highest two of
+three appraisals if the actual selling price is less than the average of the
+two highest appraisals. In the event that the home has not sold after six
+months from the initial listing, Iomega will purchase the home at the average
+of the two highest of three appraisals.
+Tax Offset: Iomega will defray the total tax effects on all items of
+reimbursable expense which is considered taxable income and for which no
+corresponding tax deduction is available. The amount of tax defrayal will be
+determined by using your anticipated income tax rate and will be added to
+your gross income.
+Employment Contract: Severance of up to twelve months' salary if discharged for
+reasons other than fraud or other illegal acts. Severance pay will be paid
+at the annual salary rate prevailing at the time of discharge on a monthly
+basis until you are re-employed. If you are re-employed at less than your
+ending salary rate at Iomega, payments for the differential will be made
+until the expiration of the twelve-month period. You agree, if terminated,
+to use reasonable efforts to find re-employment.
+Employment Date: Employment to be effective January 1, 1994.
+I hope the foregoing is satisfactory and covers the items we have discussed.
+If you feel there are any discrepancies, please let me know.
+I hope you and your wife have an enjoyable visit to Utah. It's too bad you
+don't have time to do a little skiing. I understand it is very good.
+Best regards,
+Sincerely,
+David J. Dunn
+DJD:kc
+cc: Board of Directors
+EX-10.22
+4
+EXHIBIT 10.22
+AGREEMENT BETWEEN
+IOMEGA CORPORATION AND SRINI NAGESHWAR
+THIS AGREEMENT is entered into by and between Iomega Corporation,
+a Delaware Corporation (the "Corporation") and Srini Nageshwar
+("Mr. Nageshwar").
+On August 28, 1986, the Corporation established a GmbH in Munich,
+Germany under the name of Iomega GmbH. Iomega GmbH was registered
+in Munich on September 15, 1986. Its name was changed to Iomega
+Europe GmbH ("the GmbH") and on April 7, 1993, was registered in
+the Commercial Register in Freiburg, Germany.
+The Corporation is represented by Mr. Kim B. Edwards, President and
+Chief Executive Officer and Board Member of said Corporation.
+Mr. Nageshwar was nominated as Gaeschaeftsfuehrer of the GmbH by
+its shareholders. As Gaeschaeftsfuehrer of the GmbH, Mr. Nageshwar
+is subject to potential liabilities under German law. To prevent
+hardship for Mr. Nageshwar, the parties hereto agree as follows:
+1. The Corporation will indemnify and hold Mr. Nageshwar
+harmless against each liability whatsoever arising out of
+all business transactions carried on by Mr. Nageshwar in
+the name of the GmbH; provided, however, that such right
+of indemnity exists only to the extent that the
+liabilities incurred by Mr. Nageshwar under the name of
+the GmbH are in accordance with the delegated power given
+by the Directors of Iomega Corporation as limited by
+Section 145 of the Delaware General Corporation Law.
+Section 145 provides, in part, that a corporation shall
+have the power to indemnify an employee against
+liabilities arising out of proceedings (other than a
+derivative action) to which he is a party "by reason of
+the fact that he is ... [an] employee or agent of the
+corporation" provided that "he acted in good faith and in
+a manner he reasonably believed to be in or not opposed
+to the best interests of the corporation, and, with
+respect to any criminal action or proceeding, had no
+reasonable cause to believe his conduct was unlawful."
+This section further provides that with respect to
+derivative actions, a corporation shall have the power to
+indemnify an employee or agent against certain expenses
+arising out of such action provided that he "acted in
+good faith and in a manner he reasonably believed to be
+in or not opposed to the best interests of the
+corporation" and provided further that "no
+indemnification shall be made in respect of any claim,
+issue or matter as to which such person shall have been
+adjudged to be liable to the corporation unless and only
+to the extent that the Court of Chancery or the court in
+which such action or suit was brought shall determine
+upon application that, despite the adjudication of
+liability but in view of all the circumstances of the
+case, such person is fairly and reasonably entitled to
+indemnity for such expenses which the Court of Chancery
+or such other court shall deem proper." Section 145
+further provides that any such indemnification shall be
+made only "upon a determination that the indemnification
+of the director, officer, employee or agent is proper in
+the circumstances because he has met the applicable
+standard of conduct set forth in [the preceding
+sentences]."
+2. Subject to the above, Mr. Nageshwar is hereby granted the
+following authority, subject to the Corporation's
+policies and guidelines, as amended from time to time,
+the current policies and guidelines being those stated in
+the Attachment hereto:
+- To conclude lease contracts for the offices of the
+established GmbH, to purchase office furniture and
+equipment and to rent or acquire telephone and fax
+facilities for this office.
+- To hire employees and conclude labour contracts for
+GmbH employees.
+- To lease cars for executives of the GmbH in
+accordance with the Corporation's car policy.
+- To distribute, market and service computer
+equipment and computer accessories according to the
+subject matter of the GmbH.
+- To conclude with third parties and the
+administrations any agreements necessary or useful
+for the operation of the GmbH and to sign contracts
+and undertakings relating thereto.
+3. This Agreement is subject to German law.
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement
+on the dates shown below.
+/s/ Kim B. Edwards 4/21/94
+Kim B. Edwards Date
+President and Chief Executive Officer
+Iomega Corporation
+/s/ Srini Nageshwar 4/21/84
+Srini Nageshwar Date
+Managing Director
+Iomega Europe GmbH
+EX-10.26
+5
+EXHIBIT 10.26
+SECURED INSTALLMENT PROMISSORY NOTE
+$283,425.00 Roy, Utah January 6, 1995
+The undersigned promises to pay to the order of Iomega Corporation in Roy,
+Utah or at such other place as the holder hereof may designate in writing, the
+sum of Two Hundred Eighty Three Thousand Four Hundred Twenty-Five Dollars
+($283,425.00) in one (1) installment with interest at prime rate which is 7 3/4
+percent, payable on the unpaid balance. Stock certificates representing 165,625
+shares of Iomega Corporation common stock will be held as collateral until the
+note has been paid in full. The installment shall be paid on or before one (1)
+year from the date of the Note, as shown above.
+This Note may be prepaid from time to time in whole or in part without
+permission or penalty.
+Any balance unpaid on the maturity of this Note shall bear interest
+thereafter, both before and after judgement, at the annual percentage rate
+stated above.
+Presentment, demand, protest, notice of dishonor and extension of time
+without notice are hereby waived, and the undersigned consents to the release of
+any security, or any part thereof, with or without substitution.
+/s/ Phillip P. Krumb 8400 Datapoint Drive
+Phillip P. Krumb Address
+____________________________________
+January 6, 1995 ____________________________________
+Date
+EX-13.1
+6
+EXHIBIT 13.1
+FINANCIAL AND OPERATING HIGHLIGHTS
+Iomega Corporation and Subsidiaries
+Financial Highlights
+For Years Ended December 31, 1994 1993
+------- ------
+(In thousands, except per share data)
+Sales $141,380 $147,123
+Cost of Sales 92,453 92,585
+Operating Expenses 49,809 71,965
+Net Loss (1,882) (14,525)
+Net Loss per Common Share $ (0.10) $ (0.80)
+Weighted Average Number of Shares Outstanding 18,473 18,106
+Share Price : High $ 4.50 $ 6.60
+Low 1.60 1.90
+Quarterly Financial Information
+For Year Ended December 31, 1994: Qtr 1 Qtr 2 Qtr 3 Qtr 4 Total Year
+------- ------- ------- ------- -----------
+(In thousands, except per share data)
+Sales $34,506 $32,867 $35,534 $38,473 $141,380
+Gross Margin 10,600 12,016 12,495 13,816 48,927
+Net Income (Loss) (5,391) (238) 2,468 1,279 (1,882)
+Net Income(Loss) per Common Share $ (0.29) $ (0.01) $ 0.13 $ 0.07 $ (0.10)
+For Year Ended December 31, 1993: Qtr 1 Qtr 2 Qtr 3 Qtr 4 Total Year
+(In thousands, except per share data)
+Sales $36,995 $36,495 $36,086 $37,547 $147,123
+Gross Margin 15,593 14,809 13,810 10,326 54,538
+Net Income (Loss) Before Cumulative
+Effect of Accounting Change (1,125) 942 329 (17,008) (16,862)
+Net Income (Loss) 1,212 942 329 (17,008) (14,525)
+Net Income (Loss) per Common Share
+Before Cumulative Effect of
+Accounting Change $(0.06) $ 0.05 $ 0.02 $(0.92) $ (0.93)
+Net Income (Loss) per Common Share $ 0.06 $ 0.05 $ 0.02 $(0.92) $ (0.80)
+Operating Highlights
+As of Year End December 31, 1994 1993
+------- --------
+Employees 886 1,077
+Facilities (square feet) 242,000 275,000
+Earnings per share, outstanding shares and share prices have
+been retroactively adjusted to reflect the 5-for-4 stock split in
+November 1994 (See Note 2 to financial statements).
+FINANCIAL REVIEW
+Iomega Corporation and Subsidiaries
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations
+TRENDS IN OPERATIONS
+The following table indicates the trends in certain components of the
+consolidated statements of operations for each of the last five years.
+For Years Ended December 31, 1994 1993 1992 1991 1990
+------- ------- ------- ------- -------
+(In Thousands, except per share data)
+Sales $141,380 $147,123 $139,174 $136,566 $120,442
+Cost of Sales 92,453 92,585 74,090 68,404 62,232
+Gross Margin 48,927 54,538 65,084 68,162 58,210
+Selling, General & Admin. 36,862 38,862 37,572 34,323 31,378
+Research and Development 15,438 18,972 21,959 17,939 13,009
+Restructuring Costs (Reversal) (2,491) 14,131 - - -
+Operating Income (Loss) (882) (17,427) 5,553 15,900 13,823
+Interest Income 871 620 1,102 1,844 2,287
+Interest Expense 15 70 54 55 157
+Other Income (Expense) 52 221 (456) (128) (411)
+Income Taxes 1,908 206 1,474 5,236 1,584
+Net Income (Loss) Before
+Cumulative Effect of
+Accounting Change (1,882) (16,862) 4,671 12,325 13,958
+Net Income (Loss) (1,882) (14,525) 4,671 12,325 13,958
+Net Income (Loss) per Common
+Share Before Cumulative
+Effect of Accounting Change $ (0.10) $ (0.93) $ 0.23 $ 0.60 $ 0.68
+Net Income (Loss) per Common
+Share $ (0.10) $ (0.80) $ 0.23 $ 0.60 $ 0.68
+Total Personnel 886 1,077 1,270 1,153 1,006
+Earnings per share have been retroactively adjusted to reflect the 5-for-4
+stock split in November 1994 (See Note 2 to financial statements).
+RESULTS OF OPERATIONS
+The following table indicates the percentage relationships of income and
+expense items included in the consolidated statements of operations for each
+of the years ended December 31, 1994, 1993, and 1992, and the percentage
+changes of absolute dollars in these items for 1994 and 1993 as compared to
+the prior year.
+As a Percentage of Percentage
+Increase
+Total Sales ( Decrease)
+For Years Ended December 31, 1994 1993 1992 1994 vs 1993 1993 vs 1992
+------- ------- ------- ------------ ------------
+Sales 100.0% 100.0% 100.0% (3.9)% 5.7%
+Cost of Sales 65.4 62.9 53.2 (0.1) 25.0
+Gross Margin 34.6 37.1 46.8 (10.3) (16.2)
+Operating Expenses:
+Selling, General
+and Administrative 26.1 26.4 27.0 (5.2) 3.4
+Research and Development 10.9 12.9 15.8 (18.6) (13.6)
+Restructuring Costs
+(Reversal) (1.8) 9.6 - N/A N/A
+Total Operating Expenses 35.2 48.9 42.8 (30.8) 20.9
+Operating Income (Loss) (0.6) (11.8) 4.0 94.9 (413.8)
+Interest Income 0.6 0.4 0.8 40.5 (43.7)
+Interest Expense - - - (78.6) -
+Other Income (Expense) - 0.1 (0.4) (76.5) 148.5
+Income (Loss) before Income
+Taxes and Cumulative Effect
+of Accounting Change 0.0 (11.3) 4.4 100.2 (371.0)
+Income Taxes (1.3) (0.2) (1.0) 826.2 (86.0)
+Net Income (Loss) before
+Cumulative Effect of
+Accounting Change (1.3) (11.5) 3.4 88.8 (461.0)
+Cumulative Effect of
+Accounting Change - 1.6 - N/A N/A
+Net Income (Loss) (1.3)% (9.9)% 3.4% 87.0% (411.0)%
+1994 was a year of transition for the Company as operations were restructured
+and redirected towards new development and marketing activities. As a result,
+the Company recorded a net loss for the year of $1.9 million or $0.10 per
+common share on sales of $141.4 million.
+The Company's gross margin percentage in 1994 was 34.6% compared to 37.1% in
+1993. This decline in gross margin percentage was offset by a reduction in
+operating expenses (excluding restructuring items). Therefore, excluding the
+restructuring items for both years, the Company's operating loss before taxes
+was $3.4 million in 1994, as compared to a $3.3 million loss in 1993.
+Cash and temporary investments increased slightly from $18.8 million at
+December 31, 1993 to $19.8 million at December 31, 1994, and working capital
+increased from $30.5 million to $34.8 million during 1994.
+The Company expects revenues to increase in 1995 as a result of the new Zip
+products that it announced in 1994 and expects to start shipping in the first
+half of 1995. The Company also expects tape sales to increase, while sales of
+the Bernoulli product line are expected to decrease. The Company expects to
+experience losses in the first two quarters of 1995 due to the costs of
+introducing the new Zip products and the newly redesigned tape products, as
+well as the continuing cost of development efforts of other unannounced
+products that the Company expects to start shipping in the second half of
+1995. The Company further expects its cash and working capital positions to
+decrease in 1995 based on budgeted capital expenditures and working capital
+requirements to fund these new product activities. The Company expects to be
+profitable in the second half of 1995. However, there can be no assurance
+that revenues will increase, unannounced products will ship on time, or that
+the Company will return to profitability in 1995.
+The following table depicts 1994 sales, gross margin percentage, pretax income
+(loss) and net income (loss) on a quarterly basis.
+1st Qtr 2nd Qtr 3rd Qtr 4th Qtr
+-------- -------- ------- -------
+(In millions)
+Sales $ 34.5 $ 32.9 $35.5 $ 38.5
+Gross Margin % 30.7% 36.6% 35.2% 35.9%
+Income (Loss) Before Income Taxes (2.7) (0.2) 1.0 1.9
+Net Income (Loss) $ (5.4) $ (0.2) $ 2.5 $ 1.3
+RESTRUCTURING ACTIONS
+During 1993, the Company recorded $14.1 million in restructuring costs
+relating to the write-offs of certain assets and the establishment of accruals
+and reserves for future restructuring of the Company's business, including the
+disposal of a portion of the Company's research and development operations,
+workforce reductions and other consolidation of operations, and other
+restructuring actions necessary to make the Company more customer driven, such
+as product realignment. These restructuring reserves and accruals totaled
+approximately $11.5 million at December 31, 1993.
+During the first quarter of 1994, the Company sold its thin film head
+development operations and discontinued its Floptical development operations.
+During the third quarter of 1994, the Company sold certain assets of its
+Floptical development operations and abandoned a product in the development
+stage. The abandonment of the development product was based on customer
+surveys which indicated there was not a demand for the product. During the
+fourth quarter of 1994, the Company disposed of tooling and other
+manufacturing equipment which had become obsolete due to product design
+changes to make the Company's products more consumer friendly. The Company
+also closed down or relocated several sales offices to streamline operations.
+In addition, the Company has reduced its workforce and paid out severance and
+outplacement costs in connection with two reductions in workforce, one of
+which occurred in January 1994 and the other in June 1994. These actions were
+included in the 1993 restructuring accruals and, therefore, had no impact on
+1994 results of operations.
+At December 31, 1994, the Company has completed the restructuring actions
+related to the costs recorded in 1993. Accordingly, the Company reversed $2.5
+million of restructuring reserves, representing the unused portion of the
+reserves established in December 1993, which served as an offset of operating
+expenses. The reversal of reserves related to workforce reductions and
+consolidation of operations. Due to natural workforce attrition, the Company
+did not have to lay off as many individuals as previously estimated. At the
+end of 1993, management anticipated shutting down or consolidating some major
+operations due to poor performance. Several of these changes were not made
+due to major improvement in the operations' economic performances. However,
+the reversal of these reserves was partially offset by the disposal of
+research and development operations and product realignment which cost more
+than originally anticipated.
+The following table summarizes the activity in these restructuring reserves
+during the year ended December 31, 1994:
+(In thousands)
+Disposal of
+Research & Consolidation
+Development Product Workforce of
+Operations Realignment Reductions Operations Total
+---------- ----------- ---------- ------------ ------
+Reserves at
+December 31, 1993 $ 2,469 $ 3,188 $ 3,540 $ 2,300 $11,497
+Charges against
+reserves (2,972) (3,728) (2,027) (279) (9,006)
+Reversal to
+income 503 540 (1,513) (2,021) (2,491)
+---------- ----------- ---------- ----------- -------
+Reserves at
+December 31, 1994 $ - $ - $ - $ - $ -
+========== =========== =========== =========== ========
+1994 AS COMPARED TO 1993
+Sales decreased by 4% in 1994 when compared to 1993. Significant declines in
+sales of 5.25 inch 44 and 90 megabyte Bernoulli drive products were partially
+offset by increased sales of 5.25 inch 150 and 230 megabyte Bernoulli drive
+products. Bernoulli drive sales dollars in total declined in 1994 as compared
+to 1993. Unit sales of Bernoulli drives were relatively flat in 1994 versus
+1993, but price reductions resulted in lower sales dollars. Bernoulli disk
+sales also declined in 1994 as compared to 1993 in both dollars and units.
+These declines in Bernoulli sales were partially offset by increased sales of
+tape products. Tape drive unit sales doubled in 1994 as compared to 1993,
+while sales dollars increased at a slightly lower rate due to a lower average
+price on tape products in 1994. Sales of the Company's SyQuest compatible
+removable hard disk cartridges increased in 1994, which offset a decline in
+Floptical product sales.
+Sales to the U.S. market declined in 1994 when compared to 1993 as a result of
+decreasing sales of Bernoulli products, which were only partially offset by
+increases in tape product sales. International sales, including export sales,
+increased by approximately 25% and represented 37% of total consolidated sales
+in 1994 compared to 28% in 1993. Substantial increases in sales of tape
+products in Europe were the primary reason for the increased sales in the
+international channels.
+As previously mentioned, the Company expects to begin shipping its new Zip
+product line in the first half of 1995. Although the Company has received
+positive initial reaction to the Zip product line from the marketplace, the
+Company is unable to predict actual sales levels. The Company expects
+increased sales from its tape product line and from additional planned
+removable drive product offerings. These increases will be partially offset
+by a continuing decline in the Bernoulli product business. Sales are expected
+to increase in all channels in 1995, including the retail channel. However,
+there can be no assurance that the anticipated sales increases will be
+realized.
+Cost of sales increased as a percentage of sales from 62.9% in 1993 to 65.4%
+in 1994. The decline in the gross margin percentage is partially due to a
+higher mix of tape products which have lower gross margins than the Bernoulli
+products. In addition, all product lines continue to experience competitive
+price pressures which have resulted in lower selling prices in 1994 when
+compared to 1993. Partially offsetting these factors, both the Bernoulli and
+tape product lines benefitted from significant production cost reductions
+which were realized throughout 1994. Management expects the gross margin
+percentage to decline in 1995 when compared to the overall 1994 rate as a
+result of continuing declines in sales of the higher margin Bernoulli products
+and the increasing sales of the lower margin tape products. In addition, the
+new Zip product line will have lower initial margins than the tape product
+line due to start-up costs and lower volumes. The Zip margins are expected to
+improve as volumes increase and manufacturing processes are improved. Also,
+the Company plans to remain price competitive on all product lines and further
+price decreases are likely. These lower sales prices are expected to be
+partially offset by improvements in material cost and reductions in overhead
+expenses planned for 1995.
+Selling, general and administrative expenses decreased by $2.0 million and
+decreased slightly as a percentage of sales from 26.4% to 26.1%. Decreases in
+sales, general and administrative expenses resulted from restructuring actions
+which occurred in January and June of 1994, including the closing down of the
+Floptical product line, as well as streamlining operations in both the U.S.
+and Europe. Sales and marketing expenses were increased in the latter part of
+1994 to introduce the Zip product line and to reposition the Company's
+marketing strategy worldwide. In addition, selling, general and
+administrative expenses increased in 1994 due to the payment of management
+bonuses. Management plans to decrease selling, general and administrative
+expenses as a percent of sales in 1995 as compared to 1994. The actual levels
+of expenses will be dependent on 1995 sales and the expenses required to
+successfully launch the new Zip product line, as well as other new products
+planned for 1995.
+Research and development expenses decreased by $3.5 million and declined as a
+percentage of sales from 12.9% in 1993 to 10.9% in 1994. The major decline in
+research and development expenses resulted from the sale of the Company's thin
+film head development operation located in Fremont, California in the first
+quarter of 1994 and from closing its Floptical development laboratory located
+in Boulder, Colorado in the first quarter of 1994. Offsetting these decreases
+were increased development spending on the Company's tape product line and
+development costs for the Company's new Zip product line. Management expects
+research and development spending to be approximately the same in absolute
+dollars in 1995 as compared to 1994. Spending on Bernoulli development
+efforts will be decreased in 1995 as compared to 1994, with increased spending
+being planned for tape products, Zip products and other future products.
+As mentioned earlier, the Company's operating expenses were reduced in 1994
+due to the reversal of restructuring reserves totaling $2.5 million. The
+Company had previously recorded restructuring reserves totaling $11.5 million
+at December 31, 1993. During 1993 and 1994, the Company effected most of the
+restructuring actions that had been planned, but due to changing conditions,
+it elected to change the scope and focus of other previously planned
+activities. As a result, the Company no longer required $2.5 million of the
+previously recorded reserves and reversed the unneeded reserves in the fourth
+quarter of 1994. The Company has no remaining restructuring reserves on its
+balance sheet at December 31, 1994.
+Interest income increased by $.3 million in 1994 as compared to 1993 due to a
+slight increase in cash and temporary investments, as well as higher interest
+rates earned on available balances. Other income consists primarily of
+royalties received, offset in part by losses incurred on the writedown of
+computer systems and foreign currency losses.
+In 1993, the Company increased its deferred tax assets as required by
+Statement of Financial Accounting Standards No. 109, "Accounting for Income
+Taxes" (SFAS No. 109). The deferred tax assets net value at December 31, 1993
+was $5.0 million. The realizability of deferred tax assets were reevaluated
+throughout 1994 in light of changing business conditions and uncertainties
+regarding previously contemplated strategies. As a result, the Company
+recorded a tax provision of $3.3 million to increase the valuation allowance
+to cover the realizability of the deferred tax assets to its estimated
+realizable value as of December 31, 1994. In addition to this tax provision
+which was recorded in 1994, the Company recognized a tax benefit of $1.4
+million in the third quarter of 1994 as a result of a change in an estimate on
+the Company's 1993 tax return due to a change in the transfer price on
+products between the Company and its German subsidiary. The change in
+transfer price was a result of an independent economic study. The above items
+resulted in a tax provision for 1994 totaling $1.9 million.
+1993 AS COMPARED TO 1992
+Sales increased by 5.7% in 1993 when compared to 1992. Significant declines
+in sales of 5.25 inch 20, 44 and 90 megabyte Bernoulli drive products were
+partially offset by increased sales of 5.25 inch 150 megabyte Bernoulli drive
+products. Bernoulli drive sales dollars in total declined in 1993 as compared
+to 1992. Unit sales of Bernoulli drives were relatively flat in 1993 versus
+1992, but price reductions resulted in lower sales dollars. Bernoulli disk
+sales also declined in 1993 as compared to 1992 in both dollars and units.
+These declines in Bernoulli sales were more than offset by increased sales of
+tape and Floptical products, resulting in a net increase in total sales.
+On a sales channel basis, sales to the domestic distribution channel were
+relatively flat when compared to 1992, sales to the domestic federal channel
+were down, and sales to the domestic OEM channel increased over 1992.
+International sales, primarily to Europe, increased by approximately 20% and
+represented 28% of total sales in 1993 compared to 25% in 1992. Substantial
+increases in sales of tape products in Europe were the primary reason for the
+increased sales in the international channels.
+Cost of sales increased as a percentage of sales from 53.2% in 1992 to 62.9%
+in 1993. The decline in the gross margin percentage is partially due to a
+higher mix of tape and Floptical products, which have lower gross margins than
+the Bernoulli products. Also, within the Bernoulli products, a 25% price
+reduction announced on September 1, 1993 and a slightly lower mix of higher
+margin disk products resulted in a lower gross margin on Bernoulli products.
+Selling, general and administrative expenses increased by $1.3 million but
+decreased slightly as a percentage of sales from 27.0% to 26.4%. Increases in
+sales and marketing and administrative expenses in Europe plus increases in
+sales and marketing and administrative expenses associated with removable hard
+disk cartridges and increased administrative expenses associated with tape
+products were partially offset by decreases in domestic sales and marketing
+expenses and decreases in other general and administrative expenses.
+Research and development expenses declined by $3.0 million and declined as a
+percentage of sales from 15.8% in 1992 to 12.9% in 1993. The decline in
+research and development expenses was comprised of reductions in Bernoulli,
+Floptical and tape development. These decreases were partially offset by
+increased expenses related to thin film head development.
+The Company recorded restructuring expenses of $14.1 million representing 9.6%
+of sales in 1993.
+Interest income declined by $.5 million in 1993 as compared to 1992 due to a
+slight decline in cash and cash equivalents, as well as lower interest rates
+earned on available balances. The Company recorded $.2 million of other
+income in 1993 comprised of a $.5 million gain on the sale of an idle
+facility, offset by recognition of losses on foreign currency transactions.
+In 1993, the Company recorded an income tax provision of $.2 million. This
+provision represented the net increase in the valuation allowance necessary to
+cover the realizability of the deferred tax assets offset by the tax benefits
+which were recognized as the result of operating losses and tax credits.
+Effective January 1, 1993, the Company adopted SFAS No. 109. In accordance
+with the provisions of SFAS No. 109, the Company recognized the cumulative
+effect of this accounting change totaling $2.3 million in the consolidated
+statement of operations for the year ended December 31, 1993.
+LIQUIDITY AND FINANCIAL RESOURCES
+The Company's liquidity and financial resources improved during 1994 as total
+cash and temporary investments increased by $1.0 million and working capital
+increased by $4.3 million. The Company generated $5.3 million of cash from
+operations. Operating cash flow was partially offset by $4.3 million of cash
+and temporary investments used in investing activities. The major components
+of cash used in investing activities were $7.1 million for purchases of
+equipment and leasehold improvements, which was partially offset by proceeds
+from the sale of discontinued research and development operations. These
+discontinued operations included the previously mentioned sale of the thin
+film head development laboratory, and the sale of certain Floptical assets and
+intellectual properties related to its Floptical product line.
+Accounts receivable decreased by $2.8 million as a result of improved
+collection efforts which resulted in a decrease in the days sales outstanding
+in receivables at the end of 1994. Inventories increased by $3.7 million due
+primarily to higher inventory levels required to support the increase in tape
+product sales. In addition, the Bernoulli inventories increased as a result
+of not meeting sales expectations in the fourth quarter of 1994. Accounts
+payable and accrued liabilities decreased by $3.4 million due primarily to the
+liquidation of $6.8 million of accruals associated with restructuring costs
+which were recorded at the end of 1993. This reduction was partially offset
+by increases related to management bonuses of which the majority was paid in
+the first quarter of 1995.
+During 1994, the Company added $7.1 million in equipment and leasehold
+improvements. The additions were comprised primarily of manufacturing
+production equipment, as well as development assets, personal computers and
+related equipment and software required to support the increasing tape sales
+volumes and to support the new Zip product line. Management expects 1995
+capital expenditures to be higher than 1994 due primarily to manufacturing
+production equipment needed for the Zip product line, new tape products and
+other planned future products.
+The Company expects net cash flows from operating and investing activities in
+1995 to be negative. The Company believes its current cash and temporary
+investments, together with funds expected to be generated from operations,
+will be sufficient to satisfy its cash needs through 1995. However, this will
+depend on the success of the new Zip product line, as well as on the actual
+level of expenditures incurred by the Company for capital equipment and
+working capital required to support unannounced new products that are planned
+to start shipping in the last half of 1995. If demand for the Company's new
+products exceed expectations, the Company may need to obtain working capital
+from financial institutions or other funding sources.
+Inflation has not had a significant impact on the Company's business or
+results of operations in 1994.
+FINANCIAL CONDITIONS AND TRENDS
+December 31, 1994 1993 1992 1991 1990
+------- ------- ------- ------- -------
+(In thousands)
+Cash and Temporary Investments $19,793 $18,804 $19,691 $31,611 $29,107
+Trade Receivables, Net 18,892 21,685 15,482 19,168 13,648
+Inventories 17,318 13,572 18,546 12,019 9,955
+Total Assets 75,833 81,089 86,955 87,046 72,780
+Accounts Payable and Accrued
+Liabilities 25,739 29,023 20,261 21,159 18,035
+Current Portion of Capital Lease
+Obligations - - 11 153 182
+Working Capital 34,818 30,550 35,038 43,165 36,107
+Long-Term Obligations and
+Redeemable Preferred Stock 1,031 976 926 889 994
+Equipment and Leasehold Improvement
+Additions During Year 7,083 6,567 12,980 8,482 5,518
+SECURITIES
+Iomega Common Stock is traded on the Nasdaq National Market under the symbol
+IOMG. As of December 31, 1994, there were 1,977 holders of record of Common
+Stock. The Company has not paid dividends on its Common Stock in the past and
+has no present intention to do so in the future. The following table reflects
+the high and low sales prices for 1994 and 1993, retroactively adjusted for
+the 5-for-4 stock split in November 1994.
+1994 1993
+-------------- --------------
+Price Range of Common Stock: High Low High Low
+----- ---- ----- ----
+1st Quarter $2.50 $1.80 $6.60 $3.10
+2nd Quarter 2.10 1.60 4.10 3.00
+3rd Quarter 3.20 2.10 3.40 2.00
+4th Quarter 4.50 2.30 3.50 1.90
+CONSOLIDATED STATEMENTS OF OPERATIONS
+Iomega Corporation and Subsidiaries
+For Years Ended December 31, 1994 1993 1992
+------- ------- -------
+(In thousands, except per share data)
+Sales $141,380 $147,123 $139,174
+Cost of Sales 92,453 92,585 74,090
+-------- -------- --------
+Gross Margin 48,927 54,538 65,084
+Operating Expenses:
+Selling, general and admin. 36,862 38,862 37,572
+Research and development 15,438 18,972 21,959
+Restructuring costs (reversal) (2,491) 14,131 -
+-------- -------- -------
+Total operating expenses 49,809 71,965 59,531
+Operating Income (Loss) (882) (17,427) 5,553
+Interest income 871 620 1,102
+Interest expense (15) (70) (54)
+Other income (expense) 52 221 (456)
+-------- -------- --------
+Income (Loss) Before Income Taxes
+and Cumulative Effect of
+Accounting Change 26 (16,656) 6,145
+Income Taxes (1,908) (206) (1,474)
+--------- -------- -------
+Net Income (Loss) Before
+Cumulative Effect of
+Accounting Change (1,882) (16,862) 4,671
+Cumulative Effect of Accounting
+Change - 2,337 -
+-------- -------- -------
+Net Income (Loss) $ (1,882) $(14,525) $ 4,671
+======== ======== =======
+Net Income (Loss) Per Common
+Share:
+Net income (loss) before
+cumulative effect of
+accounting change $ (0.10) $ (0.93) $ 0.23
+Cumulative effect of accounting
+change - 0.13 -
+-------- -------- ------
+Net income (loss) $ (0.10) $ (0.80) $ 0.23
+======== ======== ======
+Weighted Average Common Shares
+Outstanding (Includes effects
+of 5-for-4 stock split
+(see Note 2)) 18,473 18,106 20,265
+The accompanying notes to consolidated financial statements
+are an integral part of these statements.
+CONSOLIDATED BALANCE SHEETS
+Iomega Corporation and Subsidiaries
+Assets
+December 31, 1994 1993
+--------- -------
+(In thousands)
+Current Assets:
+Cash and cash equivalents $ 16,861 $ 18,804
+Temporary investments 2,932 -
+Trade receivables, less allowance for doubtful
+accounts of $1,627,000 and $1,547,000,
+respectively 18,892 21,685
+Inventories 17,318 13,572
+Deferred tax assets (net) 477 2,494
+Other current assets 4,077 3,018
+-------- --------
+Total current assets 60,557 59,573
+Equipment and Leasehold Improvements, at cost:
+Machinery and equipment 45,585 53,311
+Leasehold improvements 6,034 6,628
+Furniture and fixtures 4,737 4,459
+Equipment and construction in process 2,837 987
+-------- --------
+59,193 65,385
+Less: Accumulated depreciation and amortization (43,917) (47,025)
+-------- --------
+15,276 18,360
+Deferred Tax Assets (Net) - 2,491
+Other Assets - 665
+-------- --------
+$ 75,833 $ 81,089
+======== ========
+The accompanying notes to consolidated financial statements
+are an integral part of these balance sheets.
+CONSOLIDATED BALANCE SHEETS
+Iomega Corporation and Subsidiaries
+Liabilities and Shareholders' Equity
+December 31, 1994 1993
+-------- --------
+(In thousands)
+Current Liabilities:
+Accounts payable $ 7,228 $ 7,067
+Accrued restructuring costs - 6,818
+Accrued payroll and bonus 3,047 1,947
+Deferred revenue 1,947 1,494
+Accrued vacation 1,954 1,790
+Accrued warranty 3,943 2,497
+Other accrued liabilities 7,620 7,410
+-------- --------
+Total current liabilities 25,739 29,023
+Commitments and Contingencies (Note 4)
+Series A Convertible Preferred Stock, Authorized
+1,200,000 shares; Outstanding 258,816 and
+258,962 shares, respectively (Mandatory
+Redemption Price $5.00 per share) 1,031 976
+Shareholders' Equity:
+Preferred Stock, $0.01 par value; Authorized
+3,300,000 shares, none issued - -
+Series C Junior Participating Preferred
+Stock, Authorized 250,000 shares, none issued - -
+Common Stock, $.0333 par value; Authorized
+30,000,000 shares; issued 18,519,749 and
+18,455,196 shares, respectively (includes
+effects of 5-for-4 stock split (see Note
+2)) 617 590
+Note receivable from shareholder (597) (597)
+Additional paid-in capital 48,258 60,082
+Accumulated earnings 785 2,744
+-------- -------
+49,063 62,819
+Less: 2,891,588 Common Stock treasury
+shares, at cost - (11,729)
+-------- --------
+Total shareholders' equity 49,063 51,090
+-------- --------
+$ 75,833 $ 81,089
+======== ========
+The accompanying notes to consolidated financial statements
+are an integral part of these balance sheets.
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+Iomega Corporation and Subsidiaries
+Note
+Common Stock Receivable Additional
+------------------ from Paid-in Accumulated Treasury
+Shares Amount Shareholder Capital Earnings Stock Total
+--------- ------- ----------- -------- ------------ --------- ------
+(In thousands, except per share data)
+Balances at December 31, 1991 16,961,833 $ 565 $ 0 $ 58,125 $ 12,752 $ (6,597) $ 64,845
+Sale of shares to employees at
+an average price of $2.03
+cash per share 235,131 9 - 471 - - 480
+Purchase of 848,900 shares at
+an average cost of $6.18
+cash per share - - - - - (5,248) (5,248)
+Accretion of Series A Convertible
+Preferred Stock redemption
+premium - - - (50) - - (50)
+Dividends on Series A Convertible
+Preferred Stock - - - - (76) - (76)
+Tax benefit from early dispositions of
+employee stock - - - 200 - - 200
+Recognition of compensation from
+Employee Stock Purchase Plan - - - 60 - - 60
+Issuance of 19,812 treasury shares
+under Employee Stock Purchase
+Plan - - - 86 - 56 142
+Net Income - - - - 4,671 - 4,671
+---------- ------ -------- ------- ------ ------- -------
+Balances at December 31, 1992 17,196,964 574 0 58,892 17,347 (11,789) 65,024
+Sale of shares to employees at
+an average price of $2.06
+cash per share 190,296 6 - 386 - - 392
+Sale of shares to officer at
+an average price of $2.03 per
+share for a note receivable 294,000 10 (597) 587 - - -
+Accretion of Series A Convertible
+Preferred Stock redemption
+premium - - - (51) - - (51)
+Dividends on Series A Convertible
+Preferred Stock - - - - (78) - (78)
+Tax benefit from early dispositions
+of employee stock - - - 214 - - 214
+Recognition of compensation from
+Employee Stock Purchase Plan - - - 84 - - 84
+Issuance of 11,551 treasury
+shares under Employee Stock
+Purchase Plan - - - (30) - 60 30
+Net Loss - - - - (14,525) - (14,525)
+---------- ------ ------ ------- -------- -------
+Balances at December 31, 1993 17,681,260 590 (597) 60,082 2,744 (11,729) 51,090
+Sale of shares to employees at
+an average price of $1.68
+cash per share 157,901 5 - 251 - - 256
+Purchase of 130,000 shares at an
+average cost of $2.35 cash per
+share - - - - - (305) (305)
+Accretion of Series A Convertible
+Preferred Stock redemption premium - - - (55) - - (55)
+Dividends on Series A Convertible
+Preferred Stock - - - - (77) (77)
+Tax benefit from early dispositions of
+employee stock - - - 28 - - 28
+Recognition of compensation from
+Employee Stock Purchase Plan - - - 8 - - 8
+Issuance of 5,057 treasury shares under
+Employee Stock Purchase Plan - - - (17) - 17 -
+Five-for-four Common Stock split
+effected in the form of a 25%
+stock dividend 680,588 22 - (12,039) - 12,017 -
+Net Loss - - - - (1,882) - (1,882)
+---------- -------- ------- --------- ------- ------ -------
+Balances at December 31, 1994 18,519,749 $ 617 $ (597) $ 48,258 $ 785 $ - $49,063
+========== ======== ======= =========== ======= ====== =======
+The accompanying notes to consolidated financial statements
+are an integral part of these statements.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Iomega Corporation and Subsidiaries
+For Years Ended December 31, 1994 1993 1992
+-------- -------- --------
+(In thousands)
+Increase (Decrease) in Cash and Cash
+Equivalents Cash Flows from Operating
+Activities:
+Net Income (Loss) $ (1,882) $(14,525) $ 4,671
+Non-Cash Revenue and Expense Adjustments:
+Depreciation and amortization expense 6,853 8,472 6,447
+Cumulative effect of accounting change - (2,337) -
+Deferred income tax provision 4,508 - -
+Gain on sale of property held for resale - (459) -
+Change in restructuring reserves 1,590 5,554 -
+Other (314) (292) 373
+Changes in Assets and Liabilities:
+Trade receivables (net) 2,793 (6,203) 3,686
+Inventories (3,747) 3,786 (6,527)
+Other current assets (1,135) (694) (645)
+Accounts payable 161 1,696 (659)
+Accrued liabilities (3,516) 6,333 524
+--------- --------- ----------
+Net cash provided from operating
+activities 5,311 1,331 7,870
+Cash Flows from Investing Activities:
+Purchase of equipment and leasehold
+improvements (7,083) (6,567) (12,980)
+Purchase of temporary investments (8,825) - -
+Sale of temporary investments 5,893 - -
+Prepayment of royalties - (1,000) (2,000)
+Proceeds from sale of property held for
+resale - 4,461 -
+Proceeds from sale of research and
+development assets 2,792 - -
+Net (increase) decrease in other assets (10) 343 (151)
+--------- --------- ----------
+Net cash used in investing activities (7,233) (2,763) (15,131)
+Cash Flows from Financing Activities:
+Proceeds from sales of Common Stock 256 402 566
+Tax benefit from early dispositions of
+employee stock 28 214 200
+Principal payments on capitalized lease
+obligations - (11) (153)
+Redemption of Series A Convertible Stock - (2) (2)
+Purchase of treasury stock (305) - (5,248)
+Utilization of treasury stock for Stock
+Purchase Plan - 20 56
+Payment of dividends on Preferred Stock - (78) (78)
+--------- --------- ----------
+Net cash provided from (used in)
+financing activities (21) 545 (4,659)
+--------- --------- ----------
+Net Change in Cash and Cash Equivalents (1,943) (887) (11,920)
+Cash and Cash Equivalents at Beginning of Year 18,804 19,691 31,611
+--------- --------- ----------
+Cash and Cash Equivalents at End of Year $16,861 $18,804 $ 19,691
+========= ========= ==========
+Supplemental Schedule of Non-Cash Investing and
+Financing Activities:
+Net receivable (payable) associated with
+revaluation of forward exchange
+contracts $ (111) $ 49 $ (48)
+Sale of Common Stock for a Note $ - $ 597 $ -
+The accompanying notes to consolidated financial statements
+are an integral part of these statements.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Iomega Corporation and Subsidiaries
+(1) SIGNIFICANT ACCOUNTING POLICIES
+Principles of Consolidation - The consolidated financial statements include
+the accounts of the Company and its wholly owned subsidiaries after
+elimination of all material intercompany accounts and transactions.
+Revenue Recognition - Revenue is recognized when units are shipped to
+customers. However, revenue recognition is deferred on shipments to
+distributors whose inventory is in excess of normal distributor inventory
+requirements. The Company's general policy is not to accept returns of
+product except for those products under warranty or for which the customer has
+a right of return agreement. The deferral of sales in excess of normal
+distributor inventory requirements totaled $1,947,000 and $1,494,000 at
+December 31, 1994 and 1993, respectively, and is recorded in deferred revenue.
+Price Protection - The Company has agreements with certain of its customers
+which, in the event of a price decrease, allow those customers (subject to
+certain limitations) credit equal to the difference between the price
+originally paid and the reduced price on units in the customers' inventories
+at the date of the price decrease. When a price decrease is anticipated, the
+Company establishes reserves for amounts estimated to be reimbursed to the
+qualifying customers.
+Inventories - Inventories include direct materials, direct labor, and
+manufacturing overhead costs and are recorded at the lower of cost (first-in,
+first-out) or market and consist of the following:
+December 31, 1994 1993
+(In thousands)
+Raw materials $ 7,524 $ 6,979
+Work-in-process 4,839 2,030
+Finished goods 4,955 4,563
+------- -------
+$ 17,318 $ 13,572
+====== ======
+Equipment and Leasehold Improvements - When property is retired or otherwise
+disposed of, the book value of the property is removed from the asset and
+related accumulated depreciation and amortization accounts, and the net gain
+or loss is included in the determination of net income. Depreciation is
+provided based on the straight-line method over the following estimated useful
+lives of the property.
+Machinery and equipment 2 - 5 years
+Leasehold improvements 5 years
+Furniture and fixtures 10 years
+Product Development - Product research and development costs are expensed as
+incurred.
+Warranty Costs - A two-year limited warranty is generally provided on the
+Company's disk drives and disk drive subsystems. A one-year limited warranty
+is generally provided on the Company's Floptical drives, and magneto-optical
+disks. A two or five-year limited warranty is generally provided on the tape
+drives and tape media. A five-year limited warranty is generally provided on
+the Company's Bernoulli 5.25 inch disks. The Floptical media carries a
+lifetime warranty. A five-year limited warranty is generally provided on
+certain brands of the removable hard disk cartridges and a lifetime warranty
+is provided on a specific brand. Warranty costs of the removable hard disk
+cartridges are shared with the manufacturer. The estimated warranty costs to
+be incurred are accrued at the time of sale.
+Net Income (Loss) Per Common Share - Net income (loss) per common share is
+based on the weighted average number of shares of Common Stock and dilutive
+common stock equivalent shares outstanding during the year. Common stock
+equivalent shares consist primarily of stock options and convertible preferred
+stock that have a dilutive effect when applying the treasury stock method. In
+periods where losses are recorded, common stock equivalents would decrease the
+loss per share and are therefore not added to weighted average shares
+outstanding. The outstanding shares and earnings per share have been restated
+for all periods presented to reflect the impact of the stock split described
+in Note 2.
+Foreign Currency Translation - For purposes of consolidating foreign
+operations, the Company has determined the functional currency for its foreign
+operations is the U.S. dollar. Therefore, translation gains and losses are
+included in the determination of income as a component of other income and
+expense.
+Income Taxes - The Company recognizes a liability or asset for the deferred
+tax consequences of temporary differences between the tax bases of assets or
+liabilities and their reported amounts in the financial statements. These
+temporary differences will result in taxable or deductible amounts in future
+years when the reported amounts of the assets or liabilities are recovered or
+settled.
+General business tax credits are accounted for using the "liability" method,
+which reduces Federal income tax expense in the year in which these credits
+are generated.
+Cash Equivalents and Temporary Investments - For purposes of cash flows, the
+Company considers all highly liquid debt instruments purchased with maturities
+of three or fewer months to be cash equivalents. Instruments with maturities
+in excess of three months are classified as temporary investments. At
+December 31, 1994, all temporary investments had maturities of less than six
+months. Cash equivalents and temporary investments primarily consist of
+certificates of deposit (CDs), investments in money market mutual funds,
+commercial paper and banker's acceptances and are recorded at cost which
+approximates market. Accordingly, the Company classifies all cash equivalents
+and temporary investments as held to maturity.
+The Company's policy is to invest in high quality commercial paper of
+reputable companies rated at A2P2 or above. The diversification of risk is
+consistent with Company policy to maintain liquidity and ensure safety of
+deposit. The CDs collateralize the letters of credit described in Note 4.
+Reclassifications - Certain reclassifications where made to the 1993 and 1992
+consolidated financial statements to conform with the 1994 presentation.
+(2) STOCK SPLIT
+On October 27, 1994, the Company's Board of Directors declared a 5-for-4 stock
+split which was effected in the form of a 25% Common Stock dividend paid on
+November 23, 1994 to stockholders of record at the close of business on
+November 9, 1994 ("Stock Split"). The Company paid cash in lieu of issuing
+fractional shares. In connection with the Stock Split, the Board of Directors
+approved the issuance of 5 stock options for every 4 stock options outstanding
+and reduced the option price by 25%.
+The transaction has been accounted for as a stock split. Of the shares of
+Common Stock distributed by the Company in connection with the Stock Split,
+approximately 3,017,000 were treasury shares and the remainder were authorized
+but unissued shares. The cost of the treasury shares and authorized but
+unissued shares was recorded as a reduction in additional paid-in capital.
+All earnings per share and outstanding shares have been retroactively restated
+in the financial statements for all periods presented.
+(3) INCOME TAXES
+Income before income taxes is comprised of $208,000 for domestic operations
+and a loss of $182,000 for foreign operations in 1994. Loss before income
+taxes and cumulative effect of accounting change was comprised of $7,338,000
+for domestic operations and $9,318,000 for foreign operations in 1993.
+Income tax (provision)/benefit consists of the following.
+December 31, 1994 1993 1992
+(In thousands)
+Current Income Taxes:
+Federal $ 1,217 $ (164) $ (980)
+State 208 (22) (307)
+Foreign - - -
+-------- --------- ---------
+1,425 (186) (1,287)
+-------- --------- ---------
+Prepaid (Deferred) Taxes:
+Federal (6) 7,486 (187)
+State - - -
+Change in Valuation
+Allowance (3,327) (7,506) -
+-------- --------- ---------
+(3,333) (20) (187)
+-------- --------- ---------
+Income Taxes $ (1,908) $ (206) $ (1,474)
+======== ========= =========
+Effective January 1, 1993, the Company adopted Statement of Financial
+Accounting Standards No. 109, "Accounting for Income Taxes" (SFAS No. 109).
+In accordance with the provisions of SFAS No. 109, the Company recognized the
+cumulative effect of this accounting change totaling $2.3 million in the
+consolidated statement of operations for the year ended December 31, 1993.
+The accounting change resulted in a $3.8 million increase in the deferred tax
+asset. The increase was reduced by a $1.5 million valuation allowance
+resulting in a current benefit of 2.3 million recorded in the first quarter of
+1993. The Company established the $1.5 million valuation allowance for the
+foreign net operating loss carryover and a portion of the other deferred
+assets which may not be realized.
+The valuation allowance for deferred tax assets was increased by $3.2 million
+in the first quarter of 1994. This increase in the valuation allowance was
+partially offset by a $.5 million increase in the deferred tax assets
+resulting in a $2.7 million reduction of the net deferred tax asset. Included
+in the results for the third quarter of 1994 was a current combined federal
+and state tax benefit of $1.4 million. This benefit was due to a change in
+the estimated 1993 transfer price of products sold by the Company to its
+German subsidiary. The change in transfer price was the result of an
+independent economic study.
+At December 31, 1994, the Company had $12.9 million of deferred tax assets.
+The deferred assets have been reduced by a $12.3 million valuation allowance.
+This allowance (an increase for the year of $3.3 million) has been established
+for the foreign net operating loss and research credit carryover assets and
+temporary differences which will not be realized in 1995. The Company has not
+assumed future profitability in determining the realizability of the net
+deferred tax assets.
+The components of and the changes in the net deferred tax assets and
+liabilities for the year ended December 31, 1994 are as follows:
+Deferred
+December 31, (Expense) December 31,
+1993 Benefit 1994
+(In thousands)
+Deferred tax assets:
+Bad debt reserves $ 469 $ 13 $ 482
+Inventory reserves 824 116 940
+Fixed asset reserves 21 15 36
+Accrued expense reserves 2,994 1,602 4,596
+Inventory unicap adjustment 151 9 160
+Foreign net operating loss
+carryover 3,024 (1,531) 1,493
+Research credit carryover 3,480 1,885 5,365
+Intercompany profit in inventory 31 64 95
+Restructuring charges 3,502 (3,502) -
+Other (382) 166 (216)
+-------- -------- --------
+Total deferred tax assets 14,114 (1,163) 12,951
+Valuation allowance (9,006) (3,327) (12,333)
+-------- -------- --------
+Deferred tax asset net of
+valuation allowance 5,108 (4,490) 618
+Deferred tax liabilities:
+Accelerated depreciation (123) (18) (141)
+-------- --------- --------
+Net deferred tax assets $ 4,985 $ (4,508) $ 477
+======== ========= ========
+Cash paid for income taxes was $94,000 in 1994, $1,322,000 in 1993, and
+$2,215,000 in 1992. The Company received cash refunds of $2,247,000 during
+1994.
+For financial reporting purposes, the tax effect of the Company's current and
+cumulative foreign net operating losses are fully considered in the deferred
+tax assets. The Company has a current domestic tax loss which will be carried
+back against prior years' taxable income. The Company has a foreign tax
+operating loss carryforward of $4,950,000.
+As of December 31, 1994, the Company has tax credit carryforwards of
+approximately $5.6 million for financial reporting purposes and $4.5 million
+for regular income tax reporting purposes, expiring on various dates through
+2008. The difference between financial and regular tax credit carryforwards
+is attributable to the assumed carryback of 1994 temporary differences for
+financial reporting purposes to prior years' taxable income.
+The Company's 1994 and 1992 regular federal income tax provision has been
+reduced to the "alternative minimum tax" by general business credit
+carryforwards.
+The difference between income taxes at the statutory tax rate and the actual
+rate is shown in the following table (in thousands).
+December 31, 1994 1993 1992
+Federal Statutory Rate $ (9) $ 5,663 $(2,089)
+Utilization of Tax Credits 4 947 981
+Loss from Foreign Subsidiary - - (708)
+Change in Transfer Price 1,400 - -
+Deductible Items - 21 74
+State Income Taxes (22) 669 (307)
+Increase in deferred asset valuation
+reserve (3,327) (7,506) -
+Foreign Income Taxes - - -
+Other 46 - 575
+-------- -------- -------
+Income Taxes $ (1,908) $ (206) $(1,474)
+======== ======== ========
+(4) COMMITMENTS AND CONTINGENCIES
+Litigation - From time to time, the Company is involved in lawsuits and claims
+generally incidental to its business. It is the opinion of management, after
+discussions with legal counsel, that the ultimate dispositions of these suits
+and claims will not have a material adverse effect on the Company's financial
+statements.
+Lease Commitments - The Company conducts its operations from leased
+facilities. Aggregate lease commitments under non-cancelable operating leases
+in effect at December 31, 1994 are as follows (in thousands):
+Lease
+Years Ending December 31, Commitments
+1995 $1,559
+1996 635
+1997 442
+1998 71
+1999 71
+------
+$2,778
+======
+Total rent expense for the years ended December 31, 1994, 1993 and 1992 was
+approximately $1,989,000, $2,336,000, and $2,128,000, respectively.
+Letters of Credit - The Company has several letters of credit, of which
+approximately $1,000,000 was outstanding at December 31, 1994. These letters
+of credit expire on various dates through July 1995 and are secured by
+Certificates of Deposit.
+Bonus Plan - The Company's Board of Directors adopted a 1994 bonus plan that
+provided for bonus payments to officers and key employees. The payment of the
+1994 bonuses was contingent upon the Company and the employees achieving
+certain objectives. At December 31, 1994, the Company has accrued $1,400,000
+for management bonuses of which the majority will be paid in February 1995.
+Profit Sharing Plan - In 1991, the Company's Board of Directors adopted a
+profit sharing plan that provided for payments to all eligible employees of
+their share of a pool that equaled 6.0% of the Company's annual income before
+income taxes. In 1994, the plan was amended to 5.0% of the Company's annual
+income before income taxes. Employees must complete one year of continuous
+employment to be eligible. Employees receive a share of the profit sharing
+pool based upon their annual salary as a ratio to total annual salaries of all
+eligible employees. The Company paid $505,000 of profit sharing for the 1992
+profit sharing plan. There were no profit sharing payments for fiscal 1993
+and 1994.
+Foreign Exchange Contracts - The Company has commitments to sell foreign
+currencies relating to forward exchange contracts in order to hedge against
+future currency fluctuations. The contracts mature at various dates through
+May 1995. At December 31, 1994, the Company had 7,500,000 Deutsche Marks in
+forward exchange sales contracts outstanding.
+Gains and losses on foreign currency contracts intended to be used to hedge
+operating requirements are reported currently in income. Gains and losses on
+foreign currency contracts intended to meet firm commitments are deferred and
+are recognized as part of the cost of the underlying transaction being hedged.
+At December 31, 1994, all of the Company's forward exchange contracts were
+speculative. The Company's theoretical risk in these transactions is the
+cost of replacing, at current market rates, these contracts in the event of
+default by the counterparty.
+(5) PREFERRED STOCK
+The Company has authorized the issuance of up to 5 million shares of Preferred
+Stock, $.01 par value per share. The Company's Board of Directors has the
+authority, without further shareholder approval, to issue Preferred Stock in
+one or more series and to fix the rights and preferences thereof. During
+1987, in connection with the settlement of litigation, the Company designated
+1,200,000 shares of Preferred Stock as Series A Convertible Preferred Stock.
+These shares were issued in 1989. In July 1989, the Company designated
+250,000 shares of Preferred Stock as Series C Junior Participating Preferred
+Stock in connection with its Shareholder Rights Plan (see Note 6).
+Series A Convertible Preferred Stock - Each share of Series A Convertible
+Preferred Stock (Series A Stock): (1) has a liquidation preference of $5; (2)
+accrues dividends at a rate of 6% (which shall accrue but not be paid if the
+Company's after-tax net income is insufficient to pay them); (3) is
+convertible, provided the fair market value of the Common Stock is at least
+$12 per share, by either the holders of the Series A Stock or the Company,
+into the number of shares of Common Stock determined by dividing $7.50 by the
+fair market value of the Common Stock at the time of conversion; (4) will be
+redeemed by the Company on the tenth anniversary of its issuance at a price of
+$5 plus accrued but unpaid dividends; and (5) has no voting rights, except as
+required by law. At December 31, 1994, the accrued but unpaid dividends were
+$155,000.
+In March 1990, the Company offered to purchase all of the outstanding shares
+of its Series A Stock at a price of $2.00 per share in cash in order to reduce
+the administrative costs and dividend requirements and provide stockholders
+with an opportunity to sell their shares. The Company believes there is
+currently no established trading market for the Series A Stock. In 1990, the
+Company acquired approximately 935,000 shares of Series A Stock for
+approximately $2.0 million. In 1991, the Company acquired 5,388 shares for
+approximately $11,000. In 1992, 1993 and 1994, the Company repurchased a
+minimal number of shares. The Company may repurchase additional shares of
+Series A Stock in the future.
+Series C Junior Participating Preferred Stock - Each share of Series C Junior
+Participating Preferred Stock (Series C Stock) will: (1) have a liquidation
+preference of $125 per share; (2) have rights to dividends, subject to the
+rights of any series of Preferred Stock ranking prior and superior to the
+Series C Stock, when and if declared by the Board of Directors; (3) not be
+redeemable; and (4) have voting rights which entitle the holder to 125 votes
+per share.
+(6) PREFERRED STOCK PURCHASE RIGHTS
+In July 1989, the Company adopted a Shareholder Rights Plan and declared a
+dividend of eight-tenths of one preferred stock purchase right for each
+outstanding share of Common Stock. Under certain conditions, each right may
+be exercised to purchase one one-hundredth of a share of Series C Stock at an
+exercise price of $15. The rights will be exercisable only if a person or
+group has acquired beneficial ownership of 20% or more of the Common Stock or
+announced a tender or exchange offer that would result in such a person or
+group owning 30% or more of the Common Stock. The Company generally will be
+entitled to redeem the rights at $.01 per right at any time until the tenth
+day following public announcement that a 20% stock position has been acquired
+and in certain other circumstances.
+If any person or group becomes a beneficial owner of 25% or more of the Common
+Stock (except pursuant to a tender or exchange offer for all shares at a fair
+price as determined by the outside members of the Board of Directors) or if a
+20% stockholder consolidates or merges into or engages in certain self-dealing
+transactions with the Company, each right not owned by a 20% stockholder will
+enable its holder to purchase such number of shares of Common Stock as is
+equal to the exercise price of the right divided by one-half of the current
+market price of the Common Stock on the date of the occurrence of the event.
+In addition, if the Company engages in a merger or other business combination
+with another person or group in which it is not the surviving corporation or
+in connection with which its Common Stock is changed or converted, or if the
+Company sells or transfers 50% or more of its assets or earning power to
+another person, each right that has not previously been exercised will entitle
+its holder to purchase such number of shares of Common Stock of such other
+person as is equal to the exercise price of the right divided by one-half of
+the current market price of such Common Stock on the date of the occurrence of
+the event.
+(7) STOCK OPTIONS
+Stock Option Plans - The Company has a 1981 Stock Option Plan (the "1981
+Option Plan") and a 1987 Stock Option Plan (the "1987 Option Plan"). The 1981
+Option Plan has expired and no further options may be granted under this plan;
+however, outstanding options previously granted under this plan remain in
+effect. Both plans permit the granting of incentive and nonstatutory stock
+options. The plans cover an aggregate of 6,875,000 shares of Common Stock.
+The exercise price of options granted under the 1987 Option Plan may not be
+less than 100% of the fair market value of the Common Stock at the date of
+grant in the case of incentive stock options, and may not be less than 25% of
+the fair market value of the Common Stock at the date of grant in the case of
+nonstatutory stock options.
+Options under both plans must be exercised within ten years from the date of
+grant in the case of incentive stock options and within ten years and one
+month from the date of grant in the case of nonstatutory stock options, or
+sooner if so specified within the option agreement. At December 31, 1994, the
+Company had reserved an aggregate of 4,535,881 shares for issuance upon
+exercise of options granted or to be granted under these plans.
+The following table presents the aggregate options granted, forfeited, and
+exercised under the 1981 and 1987 Option Plans during 1994, 1993, and 1992 at
+their respective exercise price ranges. All options and option prices have
+been restated for the stock split.
+1994 1993 1992
+--------- --------- ---------
+Options outstanding at January 1, 2,349,723 2,978,051 3,077,150
+Options granted (1994 at prices
+from $1.80 to $3.18; 1993 at
+prices from $2.10 to $5.70;
+1992 at prices from $4.70
+to $8.75 per share) 734,875 101,678 167,954
+Options forfeited (1994 at prices
+from $1.25 to $8.75; 1993 at
+prices from $0.80 to $8.70;
+1992 at prices from $3.00
+to $7.70 per share) (472,797) (124,636) (17,219)
+Options exercised (1994 at prices
+from $0.80 to $2.40; 1993 at
+prices from $0.32 to $3.00;
+1992 at prices from $0.32
+to $4.20 per share) (158,047) (605,370) (249,834)
+---------- ---------- ---------
+Options outstanding at December 31,
+(1994 prices from $0.80 to $8.75;
+1993 prices from $0.80 to $8.75;
+1992 prices from $0.32 to $8.75
+per share) 2,453,754 2,349,723 2,978,051
+========= ========= =========
+Exercisable at December 31, (prices
+ranging from $0.80 to $8.75
+per share) 1,628,687 1,886,950 1,993,749
+========= ========= =========
+Reserves for future grant at
+December 31, 2,082,127 1,831,782 1,808,824
+========= ========= =========
+Director Stock Option Plans - The 1987 Director Stock Option Plan (the
+"Director Plan") covered 250,000 shares of Common Stock. The Director Plan
+provided for the grant to each non-employee director of the Company, on his
+initial election as a director, an option to purchase 31,250 shares of Common
+Stock. The exercise price per share of the option is equal to the fair market
+value of the Company's Common Stock on the date of grant of the option.
+Options become exercisable in five equal annual installments, commencing one
+year from the date of grant, provided the holder continues to serve as a
+director of the Company. Any option granted under the Director Plan must be
+exercised no later than ten years from the date of grant. All options granted
+under the Director Plan are nonstatutory options. Subsequent to year end, the
+Board adopted the 1995 Director Stock Option Plan. This Plan covers 200,000
+shares of Common Stock and provides for the grant to each non-employee
+director of the Company, on his initial election as a director, an option to
+purchase 25,000 shares of Common Stock.
+The following table presents the aggregate options granted, forfeited and
+exercised under the Director Plan during 1994, 1993 and 1992 at their
+respective exercise price ranges. All options and option prices have been
+restated for the stock split.
+1994 1993 1992
+Options outstanding at January 1, 168,750 137,500 156,250
+Options granted at $1.60 per share
+in 1994 and $3.50 per share in 1993 62,500 31,250 -
+Options exercised at $1.70 per share
+in 1994 and $2.20 per share in 1992 (31,250) - (18,750)
+--------- ------- --------
+Options outstanding at December 31, (1994
+at prices from $1.60 to $3.50; 1993
+at prices from $1.70 to $3.50; 1992
+at prices from $1.70 to $2.75 per
+share) 200,000 168,750 137,500
+======= ======= =======
+Exercisable at December 31, (prices
+ranging from $1.60 to $3.50 per share) 100,000 93,750 93,750
+======= ======= =======
+Reserved for future grant at December 31, - 62,500 93,750
+======= ======= =======
+Other Stock Options - In December 1987, the Company granted to each of five of
+the six members of the Board of Directors an option to purchase 31,250 shares
+of Common Stock. The exercise price of these options was $1.20 per share in
+the case of four options, and $1.40 per share in the case of the other option.
+Each option is exercisable in increments of 6,250 shares per year beginning
+one year from the date of grant and must be exercised no later than ten years
+and one month from the date of grant. During 1992, options to purchase 25,000
+shares were exercised at $1.20 per share. At December 31, 1994, options for
+the purchase of 81,250 shares were outstanding and exercisable at prices
+ranging from $1.20 to $1.40 per share.
+(8) STOCK PURCHASE PLAN
+1991 Stock Purchase Plan - On January 25, 1991, the Company's Board of
+Directors approved an employee stock purchase plan for 1991, 1992, and 1993.
+Eligible employees were allowed to purchase Common Stock at market value on
+the date coincident with the distribution of the semiannual profit sharing
+payments. The employee will earn a premium equal to 25% of their original
+purchase on each of the first four anniversaries of purchase provided the
+employee is still employed by the Company and the shares are still held by the
+Company. A total of 1,500,000 shares were approved for the three-year plan
+with 250,000 shares plus the premium of 250,000 shares approved for each year.
+Employees participating in the profit sharing plan used up to 66 % of their
+profit sharing payment to purchase stock. As of December 31, 1994, a total of
+43,641 shares have been purchased pursuant to this plan and a total of 8,836
+of premium shares have been issued under this plan.
+(9) RETIREMENT PLAN
+The Iomega Retirement and Investment Savings (IRIS) Plan permits eligible
+employees to make tax deferred investments through payroll deductions. Each
+year the Company may contribute to the IRIS Plan at the discretion of the
+Board of Directors, based on the prior year's earnings of the Company. The
+IRIS Plan is subject to compliance with Section 401(k) of the Internal Revenue
+Code and the Employee Retirement Income Securities Act of 1974. Under the
+terms of the IRIS Plan, all contributions are immediately vested in full. The
+Company contributed approximately $319,000, $398,000, and $434,000 to the IRIS
+Plan for the years ended December 31, 1994, 1993 and 1992, respectively.
+(10) OPERATIONS BY GEOGRAPHIC REGION
+Prior to July 1992, the Company's sales to foreign customers were primarily
+export sales. In July 1992, the Company's German subsidiary began to ship and
+invoice the majority of the Company's European sales. The Company still
+exports to areas outside of Europe. Export sales (excluding European sales
+subsequent to July 1992) for the years ended December 31, 1994, 1993 and 1992
+were $6,133,000, $7,534,000, and $21,041,000, respectively.
+The Company has two primary geographic regions: domestic and foreign.
+Domestic operations include all U.S. and export operations. Foreign
+operations are comprised of the subsidiary in Germany and sales offices
+located in France, Belgium, the United Kingdom, Spain, Italy and Germany. The
+sales offices in France, Belgium, the United Kingdom, Italy and Spain are
+branches of U.S. subsidiaries. Inventory is transferred from domestic
+operations to the German subsidiary at an arms-length price determined by an
+independent economic study. Following is a summary of the Company's
+operations by geographic location.
+For the Year Ended December 31, 1994:
+Domestic Foreign Intercompany
+Operations Operations Transactions Consolidated
+(In thousands)
+Net Sales:
+To Unaffiliated Customers $ 95,554 $ 45,826 $ - $ 141,380
+To Affiliates 26,393 - (26,393) -
+Cost of Sales 87,305 31,522 (26,374) 92,453
+--------- -------- ----------- ---------
+Gross Margin 34,642 14,304 (19) 48,927
+========= ======== =========== =========
+Operating Expenses 45,049 4,760 - 49,809
+========= ======== =========== =========
+Net Income (Loss) $ (9,729) $ 7,866 $ (19) $ (1,882)
+========= ======== =========== =========
+Identifiable Assets $ 61,696 $ 14,228 $ (91) $ 75,833
+========= ======== =========== =========
+Capital Expenditures $ 5,894 $ 1,189 $ - $ 7,083
+========= ======== ========== =========
+For the Year Ended December 31, 1993:
+Domestic Foreign Intercompany
+Operations Operations Transactions Consolidated
+(In thousands)
+Net Sales:
+To Unaffiliated Customers $ 112,961 $ 34,162 $ - $ 147,123
+To Affiliates 26,750 - (26,750) -
+Cost of Sales 89,984 29,997 (27,396) 92,585
+--------- ---------- --------- ---------
+Gross Margin 49,727 4,165 646 54,538
+========= ========== ========= =========
+Operating Expenses 58,454 13,511 - 71,965
+========= ========== ========= =========
+Net Income (Loss) $ (4,147) $ (11,024) $ 646 $ (14,525)
+========= ========== ========= =========
+Identifiable Assets $ 68,004 $ 13,214 $ (129) $ 81,089
+========= ========= ========= =========
+Capital Expenditures $ 4,920 $ 1,647 $ - $ 6,567
+========= ========= ========= =========
+For the Year Ended December 31, 1992:
+Domestic Foreign Intercompany
+Operations Operations Transactions Consolidated
+(In thousands)
+Net Sales:
+To Unaffiliated Customers $ 125,391 $ 13,783 $ - $ 139,174
+To Affiliates 12,217 - (12,217) -
+Cost of Sales 74,658 10,791 (11,359) 74,090
+--------- --------- ---------- ---------
+Gross Margin 62,950 2,992 (858) 65,084
+========= ========= ========== =========
+Operating Expenses 53,463 6,068 - 59,531
+========= ========= ========== =========
+Net Income (Loss) $ 8,699 $ (3,170) $ (858) $ 4,671
+========= ========= ========= =========
+Identifiable Assets $ 77,507 $ 10,398 $ (950) $ 86,955
+========= ========= ========= =========
+Capital Expenditures $ 11,830 $ 1,150 $ - $ 12,980
+========= ========= ========= =========
+(11) OTHER MATTERS
+Significant Customers - During 1994, sales to Ingram Micro D, Inc. accounted
+for 11% of the Company's sales. During 1993, sales to Ingram Micro D, Inc.
+accounted for 14% of the Company's sales. During 1992, sales to Ingram Micro
+D, Inc. and Merisel, Inc. accounted for 19% and 10%, respectively, of the
+Company's sales. No other single customer accounted for more than 10% of the
+Company's sales during the years indicated.
+Concentration of Credit Risk - The Company markets its products primarily
+through computer product distributors who in turn sell to dealers and their
+franchises for resale to end users. Accordingly, as the Company grants credit
+to its customers, a substantial portion of outstanding accounts receivable are
+due from computer product distributors. At December 31, 1994, the customers
+with the ten highest outstanding accounts receivable balances totaled $7.1
+million or 34% of the gross accounts receivable. At December 31, 1994, the
+outstanding accounts receivable balance from one customer was $3.1 million or
+15% of gross accounts receivable. If any one or a group of these customers'
+receivable balances should be deemed uncollectible it could have a material
+adverse effect on the Company's operations.
+Purchases From Related Parties - The Company purchased inventory items
+totaling $398,000, $372,000, and $538,000 for the years ended December 31,
+1994, 1993, and 1992, respectively, from a vendor having a common director
+with the Company.
+Notes Receivable From Related Parties - In September 1993, the Company loaned
+an executive officer approximately $679,000 as part of the officer's severance
+package; a portion of the loan was used by the executive to exercise stock
+options. This amount of the loan is included in note receivable from
+shareholder in the accompanying consolidated financial statements. The
+Company received a note from the officer which bears interest at an annual
+rate of 4.5% and is payable in two equal annual installments of $340,000 which
+are due on or before January 1995 and January 1996. The note is with full
+recourse and is collateralized by the stock purchased.
+Subsequent to December 31, 1994, the Company loaned another executive officer
+approximately $283,000 as part of the officer's severance package. A portion
+of the loan was used by the executive to exercise stock options. The Company
+received a note from the officer which bears interest at an annual rate of
+7.75% and is payable in full on or before January 1996. The note is with full
+recourse and is collateralized by the stock purchased.
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+Iomega Corporation and Subsidiaries
+To Iomega Corporation:
+We have audited the accompanying consolidated balance sheets of Iomega
+Corporation (a Delaware corporation) and subsidiaries as of December 31, 1994
+and 1993, and the related consolidated statements of operations, shareholders'
+equity and cash flows for each of the three years in the period ended December
+31, 1994. These financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Iomega
+Corporation and subsidiaries as of December 31, 1994 and 1993, and the results
+of their operations and their cash flows for each of the three years in the
+period ended December 31, 1994 in conformity with generally accepted
+accounting principles.
+As explained in Note 3 to the consolidated financial statements, effective
+January 1, 1993, the Company changed its method of accounting for income
+taxes.
+ARTHUR ANDERSEN LLP
+Salt Lake City, Utah
+January 25, 1995
+EX-27
+7
+5
+1000
+12-MOS
+DEC-31-1994
+DEC-31-1994
+16861
+2932
+20519
+(1627)
+17318
+60557
+59193
+43917
+75833
+25739
+0
+617
+1031
+0
+49063
+75833
+141380
+141380
+92453
+49809
+(923)
+0
+15
+26
+1908
+(1882)
+0
+0
+0
+(1882)
+(0.10)
+(0.10)

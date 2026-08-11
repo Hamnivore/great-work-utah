@@ -1,0 +1,16 @@
+{
+  "source_page": "fda-eua200090-infinity-biologix-letter.md",
+  "requested_url": "https://www.fda.gov/media/137773/download",
+  "final_url": "https://www.fda.gov/media/137773/download",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:40.416Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "f4326478bdb6b4deb8ac8a5183012b060f5b793098cd029671e163912a30d755",
+  "text_sha256": "86ae047d9f54ffafb527b869e6e30c27c80776bc643504e74f1c52b0a9192fa8",
+  "text_chars": 32290,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 11,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

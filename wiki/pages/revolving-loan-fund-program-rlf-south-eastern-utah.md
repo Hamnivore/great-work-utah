@@ -14,13 +14,12 @@
 **Location Source:** https://serda.utah.gov/contact
 **Website:** https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 
 The Southeastern Utah Association of Local Governments (SEUALG) administers a Revolving Loan Fund for startups and expanding businesses in Carbon, Emery, Grand, and San Juan counties that cannot obtain traditional bank financing. Job creation or retention is a stated program criterion.
 
-The official SEUALG website was unreachable during verification (July 2026). Program details below draw on Startup State listing text and publicly indexed SEUALG materials; confirm all terms with staff before recommending.
+The official SEUALG website was unreachable during verification. Confirm all terms with staff before recommending.
 
 ## Who It's For
 
@@ -28,19 +27,19 @@ Businesses located in Carbon, Emery, Grand, or San Juan counties that have been 
 
 ## What It Provides
 
-Non-traditional gap loans for uses such as working capital, equipment, leasehold improvements, construction, and land or building purchases. Indexed program FAQs describe loans from $10,000 to $150,000 with repayment periods of roughly 3–10 years.
+The program is described as non-traditional gap lending, but current loan sizes, repayment periods, and eligible uses are not supported by the captured source.
 
 ## How To Use It
 
 - Email: [cotto@seualg.utah.gov](mailto:cotto@seualg.utah.gov) (Startup State listing)
-- Indexed program contact: (435) 613-0031 (Housing/Self Help & Revolving Loan Fund staff)
+- Confirm the current program contact through SEUALG before applying.
 - Startup State listing: https://startup.utah.gov/business-resource/revolving-loan-fund-program-rlf-south-eastern-utah/
 
 Request current application packets and board-review timelines directly — the official program URL did not respond during verification.
 
 ## Cost
 
-Indexed SEUALG/SERDA materials reference a $250 application fee for completed packets and borrower-paid closing costs if approved. Interest rates are described as tied to the prime rate and applicant profile. Verify all fees and terms with SEUALG staff before applying.
+Application fees, closing costs, and interest-rate terms could not be supported by the captured source. Verify all costs with SEUALG staff before applying.
 
 ## Best Fits
 

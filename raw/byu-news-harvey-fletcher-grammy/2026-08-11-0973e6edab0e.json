@@ -1,0 +1,13 @@
+{
+  "source_page": "byu-news-harvey-fletcher-grammy.md",
+  "requested_url": "https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award",
+  "final_url": "https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:24.210Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "bytes_sha256": "6a2f7810bbb4088c3b0fb848c3f564f9042883f60ad31111584733ced048c207",
+  "text_sha256": "0973e6edab0ec4b1ec1f9ad5df2a1ffa8b60bb5710c881163dfbaf72311a79d2",
+  "text_chars": 6275,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

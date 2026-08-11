@@ -14,7 +14,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Make+Salt+Lake+663+West+100+South+Salt+Lake+City+UT
 **Website:** http://makesaltlake.org
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

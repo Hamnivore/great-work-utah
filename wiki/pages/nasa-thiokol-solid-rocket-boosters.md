@@ -3,10 +3,10 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Report
+**Source Type:** government-record
 **URL:** https://www.nasa.gov/history/rogersrep/genindex.htm
 **Publisher:** NASA History / Presidential Commission on the Space Shuttle Challenger Accident
-**Accessed:** 2026-06-18
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary

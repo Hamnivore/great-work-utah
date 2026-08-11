@@ -1,0 +1,13 @@
+{
+  "source_page": "ripple-neuro-official-website.md",
+  "requested_url": "https://rippleneuro.com",
+  "final_url": "https://rippleneuro.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:28.717Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "b009b23be4e9abf2ce48366c3953b8b68dd1974a86a50bdab9f78577303e366f",
+  "text_sha256": "aa09d54fdae2bd219a2d67fa79e4bb5cb4b3d3fb160c4d526c9c1c4fc21deef7",
+  "text_chars": 8077,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

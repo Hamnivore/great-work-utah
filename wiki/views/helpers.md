@@ -1,10 +1,11 @@
-# helper — 12 pages
+# helper — 13 pages
 
 Paid advisors and service providers (counsel, CFO, IP). Free mentors like SCORE/SBDC are Type: resource — see find-an-advisor. One line per page; fetch the page for detail and evidence.
 
 For free mentorship and the full routing map, start at [find-an-advisor](/pages/find-an-advisor.md) · `https://greatutah.work/pages/find-an-advisor.md` — this list is mostly paid specialists, not SCORE/SBDC.
 
 - [BBCetc](/pages/bbcetc.md) · `https://greatutah.work/pages/bbcetc.md` · SBIR, STTR, nondilutive funding, proposal support, grant training, post-award management · conf:M
+- [CHOICE Humanitarian](/pages/choice-humanitarian.md) · `https://greatutah.work/pages/choice-humanitarian.md` · international development, village-led poverty alleviation, rural expeditions, Utah nonprofit · conf:M
 - [Eide Bailly (Utah)](/pages/eide-bailly-utah.md) · `https://greatutah.work/pages/eide-bailly-utah.md` · accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory · conf:M
 - [Kirton McConkie](/pages/kirton-mcconkie.md) · `https://greatutah.work/pages/kirton-mcconkie.md` · startup law, corporate formation, venture financing, M&A, securities, IP, general counsel · conf:M
 - [Maschoff Brennan](/pages/maschoff-brennan.md) · `https://greatutah.work/pages/maschoff-brennan.md` · IP, patents, technology transactions, software, biotech, medical devices, deep tech · conf:M

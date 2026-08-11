@@ -1,0 +1,13 @@
+{
+  "source_page": "nielson-scientific-doe-sbir.md",
+  "requested_url": "https://www.sbir.gov/awards/214122",
+  "final_url": "https://www.sbir.gov/awards/214122",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:14:40.800Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "863ace0d6c651ec6f6e97f2496a373c36b9e55e6059b7e2b00f2503cd027e7db",
+  "text_sha256": "bbcc36151f3aed0343a07fdbaaad71bd06f7466b63fadc324a577b98ce2e8e59",
+  "text_chars": 5522,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

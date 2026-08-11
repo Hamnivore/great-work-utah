@@ -13,7 +13,6 @@
 **Location Source:** https://www.sanjuancountychamber.com/
 **Website:** https://sanjuancountychamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

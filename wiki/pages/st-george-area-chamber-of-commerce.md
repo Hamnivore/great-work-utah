@@ -13,7 +13,6 @@
 **Location Source:** https://stgeorgechamber.com/about/boards/
 **Website:** https://stgeorgechamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

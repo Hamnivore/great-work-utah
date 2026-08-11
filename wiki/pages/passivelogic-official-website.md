@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://passivelogic.com/
+**Archive:** https://web.archive.org/web/20260724082516/https://www.passivelogic.com/
+**Archived:** 2026-07-24
 **Publisher:** PassiveLogic
-**Accessed:** 2026-06-18
+**Raw:** raw/passivelogic-official-website/2026-08-11-b6f064b72323.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -15,16 +18,27 @@ PassiveLogic's official website describes a platform for generalized autonomy th
 
 ## Useful Claims
 
-- PassiveLogic says it created an ecosystem for designing, deploying, operating, and maintaining autonomous systems.
-- The company says its initial application is buildings, which it frames as complex controlled infrastructure and a major energy-use problem.
-- The website identifies the Hive, Sense, Hive Mini, Cells, Quantum digital twins, Autonomy Studio, Blueprint, Creator, Portfolio, and Live as parts of the product ecosystem.
-- PassiveLogic says its headquarters are in Salt Lake City, Utah, with offices in Amsterdam and New Delhi.
-- The company reports Series A, B, and C financing figures on its about page and says its total investment to date is $85 million.
-- PassiveLogic claims pilot projects show roughly 30% energy savings from better building control.
+- PassiveLogic describes buildings as infrastructure that consumes energy and coordinates human activity.
+- The company describes its offering as a physical-AI stack spanning a world model, reasoning agents, and autonomous control systems.
+- The captured homepage says PassiveLogic uses a physics-based world model to make buildings run themselves.
 
 ## Reliability Notes
 
 This is an official company source. It is useful for product structure, mission, headquarters, and self-reported financing. Energy-savings claims and deployment breadth should be verified with customer studies or independent technical evaluations.
+
+The captured homepage text contains placeholder statistics (for example "0,000+" square feet managed), so no deployment or energy-savings figures are asserted here.
+
+## Verbatim
+
+Homepage, hero section:
+
+> Buildings are the largest operating system on Earth. They consume energy, coordinate human activity, and underpin trillions of dollars of economic output.
+>
+> PassiveLogic delivers the full Physical AI stack—from our world model and reasoning agents to autonomous control systems operating in the real world.
+
+Homepage, footer:
+
+> PassiveLogic makes buildings run themselves using our physics-based world model.
 
 ## Related Pages
 

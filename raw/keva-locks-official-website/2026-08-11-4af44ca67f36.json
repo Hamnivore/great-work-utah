@@ -1,0 +1,13 @@
+{
+  "source_page": "keva-locks-official-website.md",
+  "requested_url": "https://www.kevalocks.com/",
+  "final_url": "https://www.kevalocks.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:22:09.666Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "fe7537644db4dbb3b5b295e4798780061bc1378efe76c134d9c9a2e5ee3473dd",
+  "text_sha256": "4af44ca67f364b32c8655344f6197d7e839af33be430c3dbfd459adb3a5430f9",
+  "text_chars": 5599,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

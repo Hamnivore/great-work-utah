@@ -1,0 +1,13 @@
+{
+  "source_page": "army-srr-tranche2-article.md",
+  "requested_url": "https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas",
+  "final_url": "https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:15.499Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "e7eed47af76ea4990e3047eb65785b11851c8c3014bdc1abdf577bd3942d0015",
+  "text_sha256": "3c81fbdb39e16d687fd294fe84076ad0432303ac1726821437033aad28e6c4be",
+  "text_chars": 4100,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

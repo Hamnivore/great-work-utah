@@ -1,0 +1,16 @@
+{
+  "source_page": "ed-oig-wgu-title-iv-audit-2017.md",
+  "requested_url": "https://oig.ed.gov/sites/default/files/reports/2025-06/FY17A05M0009032724v100SECURED.pdf",
+  "final_url": "https://oig.ed.gov/sites/default/files/reports/2025-06/FY17A05M0009032724v100SECURED.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:41:16.687Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "692dbff1628bf049a2d38b21f5acd3c552b884c51034d3c95610ee0d81dc1943",
+  "text_sha256": "64a2a7b6deb0301e0b62d652ed840119945f31ffd4cdf50bbcb13fa324a031b5",
+  "text_chars": 228652,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 93,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

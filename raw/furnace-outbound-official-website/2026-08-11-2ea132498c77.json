@@ -1,0 +1,13 @@
+{
+  "source_page": "furnace-outbound-official-website.md",
+  "requested_url": "https://www.getfurnace.io/",
+  "final_url": "https://www.getfurnace.io/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:22:12.227Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "8fef3dc23766010c97348dddc50af3ba2b303d574a63f9d542b8f734994f12d9",
+  "text_sha256": "2ea132498c777c34fcc30393b5d086f42fccd1f3247ea8cb24a02b4582087df5",
+  "text_chars": 3199,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

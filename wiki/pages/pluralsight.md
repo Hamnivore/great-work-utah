@@ -13,7 +13,6 @@
 **Careers:** https://www.pluralsight.com/careers
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/pluralsight-skills-training-2026/1600/1100
 **Pull:** *On-demand tech skills training for engineers and enterprise teams — from cloud and security to AI upskilling at scale.*
 **Relates:** cites [Official Website: Pluralsight](pluralsight-official-website.md) · https://greatutah.work/pages/pluralsight-official-website.md · https://www.pluralsight.com
 
@@ -52,13 +51,13 @@ Business-service providers may matter for PE-portfolio governance, enterprise co
 
 ## Utah Context
 
-Pluralsight was founded in 2004 and is headquartered in Farmington, Utah, within the Salt Lake City metro area. It is part of the Wasatch Front's edtech and software cluster and helped establish Utah as a credible hub for technology training ventures, not just enterprise SaaS.
+Pluralsight is headquartered in Farmington, Utah, within the Salt Lake City metro area. It is part of the Wasatch Front's edtech and software cluster.
 
-Co-founders include Aaron Skonnard, Keith Brown, Fritz Onion, and Bill Williams. The company went public in 2018, was acquired by Vista Equity Partners in a take-private transaction in 2021, and operates today as a Vista portfolio company. Public reporting and the company's own announcements identify David Zucker as CEO (appointed 2023).
+The captured official source does not establish the company's founding and transaction chronology, current ownership, or current leadership.
 
 ## Ownership and Market Caveats
 
-Pluralsight is privately held and owned by Vista Equity Partners following the 2021 acquisition (reported at roughly $3.5B). Vista's operating model is known to be efficiency-oriented; staff reductions and aggressive financial targets are common across Vista portfolio companies. Mission autonomy is moderate relative to a founder-led startup — strategy is shaped by portfolio economics as well as product vision.
+Pluralsight is privately held; ownership and transaction value require a captured corporate source.
 
 The corporate learning market is crowded and commoditizing. LinkedIn Learning, Coursera, Udemy, O'Reilly, A Cloud Guru, and vendor-native training from AWS, Google, and Microsoft all overlap Pluralsight's core buyer. Pluralsight retains real distribution and a deep technology catalog, but category leadership in a post-AI learning world is not settled.
 

@@ -14,7 +14,6 @@
 **Location Source:** https://magutah.gov/contact/
 **Website:** https://www.gohebervalley.com/Revolving-loan/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

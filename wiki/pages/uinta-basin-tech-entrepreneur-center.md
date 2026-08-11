@@ -13,7 +13,6 @@
 **Location Source:** https://statewide.usu.edu/uintahbasin/directory/contact
 **Website:** https://statewide.usu.edu/uintahbasin/ecenter/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

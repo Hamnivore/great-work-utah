@@ -18,8 +18,6 @@
 **Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://upload.wikimedia.org/wikipedia/commons/e/ec/Family_History_Library_-_Salt_Lake_City%2C_Utah_-_2_May_2020.jpg
-**Hero caption:** *The FamilySearch Library in downtown Salt Lake City — photograph by Beneathtimp (Wikimedia Commons, CC0).*
 **Pull:** *The largest genealogy organization in the world. Free, no account required, and quietly load-bearing for cancer research.*
 
 ## Summary

@@ -13,7 +13,6 @@
 **Location Source:** https://sevieredc.com/contact-us/
 **Website:** https://scedc.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

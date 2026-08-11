@@ -1,0 +1,13 @@
+{
+  "source_page": "us-synthetic-official-website.md",
+  "requested_url": "https://ussynthetic.com/about-us/",
+  "final_url": "https://ussynthetic.com/about-us/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:41:28.050Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "8ba4d5be54d6ed722156d07335040ffba67a1edf1d3a3a4c5779d64dfb6ae070",
+  "text_sha256": "dc7f18f5893ebd848920b0c8ca51bc29fa85003773ee6bf9e60385bddac7750c",
+  "text_chars": 3865,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

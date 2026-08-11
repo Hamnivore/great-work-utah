@@ -1,0 +1,13 @@
+{
+  "source_page": "apa-sherpa-foundation-official-website.md",
+  "requested_url": "https://www.apasherpafoundation.org/",
+  "final_url": "https://www.apasherpafoundation.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:12.059Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ebc4fb2dba4f5e4dcda03946ef429d110762e54e1ea157d382e026b088562ed2",
+  "text_sha256": "14c5e2a7ae17eb7a42ab03486718b92c4819e558e7c93580dd7b7e3c0205c675",
+  "text_chars": 2109,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

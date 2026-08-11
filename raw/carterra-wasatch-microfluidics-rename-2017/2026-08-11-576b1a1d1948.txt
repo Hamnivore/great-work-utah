@@ -1,0 +1,142 @@
+Wasatch Microfluidics Announces Name Change to Carterra Inc. and New High Throughput SPR Instrument - Carterra
+Submit
+Contact Us
+Submit
+Products
+Product Overview
+Carterra Vega
+Carterra Ultra
+Carterra LSA XT
+Carterra LSA
+Sensor Chips
+Kinetics Data Analysis Software TM
+Epitope Data Analysis Software TM
+AI, ML & In Silico Tools
+Testimonials
+Applications
+Overview
+High Throughput Kinetics
+Epitope Binning
+Fc-Gamma Receptor
+GPCR and Transmembrane Proteins
+Quantitation
+Antibody Epitope Mapping
+Therapeutic Areas
+Antibody Formats
+Proximity-Based Degraders
+DNA Encoded Library (DEL)
+Kinase Inhibitors and Fragment Screening
+Vaccine Discovery and Development
+Technology
+Carterra HT-SPR™ Technology
+SPR Overview
+Attend SPR Camp
+Testimonials
+Frequently Asked Questions
+Resources
+Application Notes
+Webinars and Videos
+Podcasts
+White Papers
+Publications
+Brochures & eBook
+Posters
+Symposia
+2026
+2025
+2024
+2023
+2022
+2019
+About Us
+Overview
+Management Team
+Board of Directors
+Testimonials
+Careers
+News
+Blog
+Events
+Contact Us
+Support
+Inquiries
+Customer Login
+Application Training Program
+Attend SPR Camp
+Technical Support Updates
+Store
+05.01.17
+Wasatch Microfluidics Announces Name Change to Carterra Inc. and New High Throughput SPR Instrument
+New corporate name and system reflect the evolution of the Company into a premier provider of biotherapeutic characterization tools.
+Salt Lake City, Utah. Wasatch Microfluidics, Inc. today announced a corporate name change to Carterra, Inc. The new name is based on two core concepts: Car tography (mapping) and terra (worlds); literally meaning “mapping worlds.” This represents the Company’s high-speed, high-resolution label-free biosensor technologies, which are being used by leading pharmaceutical and biotechnology companies to thoroughly explore their large monoclonal antibody (mAb) libraries to discover novel biotherapeutic candidates.
+In parallel, Carterra announced the development of a new fully integrated, high throughput mAb characterization platform, based on its patented microfluidics technology, SPRi detection and industry leading software tools. The Carterra LSA, available in Q1 2018, builds on the Company’s proven expertise in these technologies and will provide its pharma and biotech customers with the ability to rapidly screen large mAb libraries for binding kinetics and identify high-value epitopically diverse candidates. The Carterra LSA utilizes minimal amounts of valuable mAb samples, which, when coupled with its high throughput capabilities and simple experimental setup, increases biotherapeutics discovery efficiency, while reducing costs. Because an antibody’s epitope is innate and cannot be engineered, the Carterra LSA fills a critical unmet need in charting unique antibody space for drug discovery researchers searching for new biotherapeutics.
+Key applications of the Carterra LSA include:
+384 simultaneous label-free binding interactions;
+384×384 epitope binning and mapping studies;
+Kinetic screening of 1000’s of mAbs;
+High throughput mAb quantitation;
+All in 10% of the time and using 1% of the materials and consumables of other systems.
+Carterra’s CEO, Josh Eckman, said, ” We are excited to announce our corporate name change and the development of the Carterra LSA instrument. Our new name reflects the success customers have already achieved by incorporating our technology into their workflows. The Carterra LSA is a game-changing platform that will empower biotechnology and pharmaceutical companies to explore new worlds in biotherapeutic drug discovery that were previously impossible to investigate. Researchers will no longer have to sacrifice speed for data quality, risking the loss of a promising candidate due to a low-resolution screening assay; or bias their selections by focusing on only a few mAbs. We enable high-resolution binding and epitopic information to be gathered on all candidates, so researchers can make well-informed decisions early in the drug discovery process where risks and costs can be significantly mitigated.”
+Please visit our updated website at: www.carterra-bio.com
+About Carterra Inc.
+Mapping new worlds in biotherapeutics discovery
+Carterra offers high throughput label-free analysis platforms for biomolecular interaction analysis. Founded in 2005 and based in Salt Lake City, UT, Carterra is developing the next generation of label-free biosensors for drug discovery and life science research.
+For further information, please contact:
+Josh Eckman
+CEO
+P: 844-642-7635 x700
+Carterra, Inc.
+info@carterra-bio.com
+www.carterra-bio.com
+Get the Latest to Your Inbox
+First Name (Required)
+Last Name (Required)
+Email (Required)
+CAPTCHA
+Submit
+Upcoming Events
+09.28.26 - 10.01.26
+Discovery on Target – 2026
+10.14.26 - 10.15.26
+ELRIG’s Drug Discovery 2026
+10.19.26 - 10.21.26
+World Vaccine Congress Europe – 2026
+11.17.26 - 11.19.26
+PEGS Europe – 2026
+Resources
+Press Release
+Leerink Partners Report Names Carterra a Core Enabler of the $7B “Lab-in-the-Loop” Antibody Discovery Market
+Press Release
+William Blair Analysts Name Carterra a Winner in Life Science Tools for Enabling AI Drug Discovery at Unprecedented Scale
+Publication
+William Blair: From Code to Clinic How AI Is (and Isn’t) Rewriting the Life of a Drug
+Publication
+Cell Reports: Human Neutralizing Antibodies Targeting the Measles Virus Hemagglutinin and Fusion Surface Proteins
+Publication
+Journal of Medicinal Chemistry: On-DNA Binder Confirmation: Increasing Confidence in DEL Hits
+825 N. 300 W. Ste. C309
+Salt Lake City, UT 84103
+Ph: (844) 642-7635
+questions@carterra-bio.com
+Products
+Technology
+About Us
+News
+Events
+Resources
+Blog
+Contact
+Applications
+AI, ML and Synthetic Biology Tools
+Kinetics TM Software
+Epitope TM Analysis Software for Protein:Protein Interactions
+Advanced SPR Platform for High Throughput Kinetics Screening
+Epitope Binning
+Quantitation
+GPCR and Transmembrane Proteins
+Proximity-Based Degraders
+DNA Encoded Library (DEL) Compounds
+Vaccine Discovery and Development
+&copy; 2026 Carterra, Inc. All rights reserved. Unless otherwise noted, Carterra, the Carterra Logo and all other trademarks are property of Carterra, Inc.
+Privacy Policy
+Website by Metropolis Creative

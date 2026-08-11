@@ -17,7 +17,6 @@
 **Website:** https://owletcare.com/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/owlet-baby-care-lehi-2026/1600/1100
 **Pull:** *Connected nursery monitoring from Lehi — sock vitals, cameras, and FDA-cleared products for worried parents.*
 **Relates:** cites [Official Website: Owlet Baby Care](owlet-official-website.md) · https://greatutah.work/pages/owlet-official-website.md · https://owletcare.com/
 

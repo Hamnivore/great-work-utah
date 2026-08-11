@@ -1,0 +1,13 @@
+{
+  "source_page": "best-of-state-past-winners-archive.md",
+  "requested_url": "https://www.bestofstate.org/past-winners?year=2025",
+  "final_url": "https://www.bestofstate.org/past-winners?year=2025",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:31:54.207Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "3d6bc80a667f540832ec1f4163a2c180bcb1d4597a5e4a265b5e268b8f13bc6f",
+  "text_sha256": "ea326b8f3a758e73fe2c69646be320e7b482096fdd8f9d1be8cc577ec6ceb0ec",
+  "text_chars": 672,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

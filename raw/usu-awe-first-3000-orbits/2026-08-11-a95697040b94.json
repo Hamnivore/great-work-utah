@@ -1,0 +1,13 @@
+{
+  "source_page": "usu-awe-first-3000-orbits.md",
+  "requested_url": "https://www.usu.edu/today/story/usu-led-nasa-atmospheric-wave-studying-mission-releases-data-from-first-3000-orbits",
+  "final_url": "https://www.usu.edu/today/story/usu-led-nasa-atmospheric-wave-studying-mission-releases-data-from-first-3000-orbits",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:52.838Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "bytes_sha256": "c9ed2918d0f04450f991b46a3fda992fb4883aeaf64387a7925adf62166b795d",
+  "text_sha256": "a95697040b946d2276fa6b5d61e532b8c0c5a10921b1456820c8bcfb81fc1941",
+  "text_chars": 8761,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

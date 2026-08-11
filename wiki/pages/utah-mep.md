@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Useful
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -12,12 +12,14 @@
 **Location Precision:** exact
 **Location Source:** https://utah-mep.org/contact-us/
 **Website:** https://utah-mep.org/
+**Domain:** capital-programs, materials-mfg
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 
 Utah MEP is a statewide manufacturing-extension resource for Utah companies that want practical help improving sales, productivity, quality, compliance, employee morale, technology adoption, and production systems. Its official site frames the organization as a public/private resource network focused on helping Utah industry thrive.
+
+The federal award record puts a firmer frame around that self-description: Utah MEP is the NIST-designated Manufacturing Extension Partnership center for Utah, operated by the **University of Utah** under cooperative agreement [70NANB21H095](utah-mep-nist-cooperative-agreement.md) through 2026-09-30, with $7,362,990 federal against $10,137,235 non-federal cost share. "Public/private" is literal and statutory — 15 U.S.C. § 278k requires the center to put up at least half the cost itself — and the center is a university program rather than an independent nonprofit.
 
 ## Who It's For
 
@@ -45,10 +47,14 @@ Strong when the company already makes, assembles, or is preparing to manufacture
 
 ## Evidence
 
+- [Source: Utah MEP Center NIST Cooperative Agreement 70NANB21H095](utah-mep-nist-cooperative-agreement.md) · https://greatutah.work/pages/utah-mep-nist-cooperative-agreement.md · https://www.usaspending.gov/award/ASST_NON_70NANB21H095_013 — federal designation, operator, term, statutory 50% cost share, and the $17,500,225 total funding behind the center
 - [Utah MEP Official Site](utah-mep-official-site.md) · https://greatutah.work/pages/utah-mep-official-site.md · https://utah-mep.org/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 
 ## Open Questions
 
-- Which Utah MEP services have subsidized pricing or grant support?
+- Which Utah MEP services have subsidized pricing or grant support? The cooperative agreement explains *why* pricing is opaque — the center must recover at least half its costs from non-federal sources, which is where client fees, state funds, and in-kind contributions come in — but it does not publish a fee schedule.
+- The service catalog on this page is still the center's own description of itself. The award record carries the mandate ("accelerating the usage of appropriate manufacturing technology by smaller U.S. based manufacturing firms") and the money, not the list of offerings; NIST MEP's annual center performance reporting is the record that would make client counts and outcomes primary.
+- The current award ends **2026-09-30**. A reader checking after that date should look for the successor FAIN rather than assume the center lapsed — MEP designations are recompeted, and the same recipient held the 2016–2021 predecessor award.
+- Utah MEP has no federal identifier of its own: the recipient of record is the University of Utah (UEI `LL8GLEVH6MG3`), so no `**Identifiers:**` line is recorded here rather than attach the university's key to a program page.
 - How should the wiki route defense suppliers between Utah MEP, [47G](47g-utah-aerospace-and-defense-association.md), and [Utah APEX Accelerator](apex-accelerator.md)?

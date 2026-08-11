@@ -13,7 +13,6 @@
 **Website:** https://www.varda.com/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/varda-space-capsule-reentry-2026/1600/1100
 **Pull:** *Growing pharmaceutical crystals in orbit and bringing them home — with Utah's test range as an early landing site.*
 
 ## Summary

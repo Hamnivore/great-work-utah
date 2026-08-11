@@ -1,0 +1,13 @@
+{
+  "source_page": "photopharmics-official-website.md",
+  "requested_url": "https://photopharmics.com",
+  "final_url": "https://photopharmics.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:24.826Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "b1fdfca8f5bef469a025d702ed4af1126907baecb9f5e2e8169453de84021e42",
+  "text_sha256": "4ac026c30e37e40378c7c8c82c1f6769f3380eac7b569883b3dbe45a1f027947",
+  "text_chars": 4848,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

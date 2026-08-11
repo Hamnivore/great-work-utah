@@ -9,7 +9,6 @@
 **Region:** Iron County
 **Website:** https://visionironcounty.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -1,0 +1,16 @@
+{
+  "source_page": "utah-sb297-2025-congregate-care-statute.md",
+  "requested_url": "https://le.utah.gov/Session/2025/bills/enrolled/SB0297.pdf",
+  "final_url": "https://le.utah.gov/Session/2025/bills/enrolled/SB0297.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:54:33.241Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "efbe027ed5eb0d38491bb4bdb93845b120354ee88b0bd8d42ed449acdc162e12",
+  "text_sha256": "41cc1b2e99bba0c9a28c759f68e16bfd7642e4e2c844fb8dbf0d46407e1aa5d6",
+  "text_chars": 107882,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 49,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

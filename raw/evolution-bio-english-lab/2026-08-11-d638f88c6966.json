@@ -1,0 +1,13 @@
+{
+  "source_page": "evolution-bio-english-lab.md",
+  "requested_url": "https://www.english.biochem.utah.edu",
+  "final_url": "https://www.english.biochem.utah.edu/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:40.770Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "dd39400fedccf35e390cbdb1d687b6c9ed59e322cf0333554dcef5b75e883157",
+  "text_sha256": "d638f88c69664b4ca3a35efa4f0ca40677959753e5936dac9b1394d9ef92423d",
+  "text_chars": 1305,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

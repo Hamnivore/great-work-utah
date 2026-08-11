@@ -4,13 +4,15 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** mining equipment, mechanical engineering, underground mining, industrialization, Salt Lake City manufacturing
+**Domain:** materials-mfg
 **Era:** 1930s–1960s
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Eureka, Salt Lake City, and Park City, UT
 **Region:** Salt Lake City
 **Website:** https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b
-**Updated:** 2026-06-25
+**Updated:** 2026-08-11
 **Pull:** *A Salt Lake City-designed and manufactured machine mechanized underground hard-rock mining's most brutal manual job and spread to mines on six continents.*
+**Relates:** cites [U.S. Patent 2,134,582 — Royle, "Loading Machine" (EIMCO)](eimco-loading-machine-patent-us2134582.md) · https://greatutah.work/pages/eimco-loading-machine-patent-us2134582.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2134582
 **Relates:** cites [ASME — EIMCO Rocker Shovel Loader, Model 12B Landmark](asme-eimco-rocker-shovel-loader-landmark.md) · https://greatutah.work/pages/asme-eimco-rocker-shovel-loader-landmark.md · https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b
 **Relates:** cites [Engineering and Technology History Wiki — EIMCO Rocker Shovel Loader](ethw-eimco-rocker-shovel-loader.md) · https://greatutah.work/pages/ethw-eimco-rocker-shovel-loader.md · https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B
 
@@ -38,6 +40,7 @@ The Utah tie is unusually strong. The original concept emerged from Utah mining 
 
 ## Evidence
 
+- [U.S. Patent 2,134,582: Royle, "Loading Machine" (EIMCO)](eimco-loading-machine-patent-us2134582.md) · https://greatutah.work/pages/eimco-loading-machine-patent-us2134582.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2134582 — the primary record: filed May 28, 1937, granted Oct. 25, 1938; inventor and assignee both recorded at Salt Lake City, and the improvement stated against the earlier Finlay patents.
 - [ASME: EIMCO Rocker Shovel Loader, Model 12B](https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b) · https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b — [source record](asme-eimco-rocker-shovel-loader-landmark.md) · https://greatutah.work/pages/asme-eimco-rocker-shovel-loader-landmark.md
 - [Engineering and Technology History Wiki: EIMCO Rocker Shovel Loader](https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B) · https://ethw.org/ASME-Landmark%3AEIMCO_Rocker_Shovel_Loader%2C_Model_12B — [source record](ethw-eimco-rocker-shovel-loader.md) · https://greatutah.work/pages/ethw-eimco-rocker-shovel-loader.md
 - [ASME landmark brochure PDF](https://www.asme.org/wwwasmeorg/media/ResourceFiles/AboutASME/Who%20We%20Are/Engineering%20History/Landmarks/212-EIMCO-Rocker-Shovel-Loader-Model-12B.pdf) · https://www.asme.org/wwwasmeorg/media/ResourceFiles/AboutASME/Who%20We%20Are/Engineering%20History/Landmarks/212-EIMCO-Rocker-Shovel-Loader-Model-12B.pdf

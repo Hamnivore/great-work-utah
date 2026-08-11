@@ -1,0 +1,13 @@
+{
+  "source_page": "uvu-baugh-entrepreneurship-institute.md",
+  "requested_url": "https://www.uvu.edu/woodbury/entrepreneurship/",
+  "final_url": "https://www.uvu.edu/woodbury/entrepreneurship/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:57.380Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "e0ce408ccce85029dc36ac4bef2e15c059cb094e6e9930f29f765b6c9f618ce1",
+  "text_sha256": "172cba70e62a530515975f6539341a30253236ee05115fa69a3de894b2bc462f",
+  "text_chars": 6697,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

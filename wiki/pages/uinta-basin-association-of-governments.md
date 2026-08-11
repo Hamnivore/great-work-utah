@@ -13,7 +13,6 @@
 **Location Source:** https://www.ubaog.org/contact-us
 **Website:** https://www.ubaog.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

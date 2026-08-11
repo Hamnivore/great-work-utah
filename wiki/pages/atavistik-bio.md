@@ -13,15 +13,14 @@
 **Careers:** https://jobs.lever.co/atavistik-bio
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/atavistik-bio-2026/1600/1100
 **Pull:** *A proteome-scale map of metabolite-protein allostery — turned into selective small molecules.*
 **Relates:** cites [Official Website: Atavistik Bio](atavistik-bio-official-website.md) · https://greatutah.work/pages/atavistik-bio-official-website.md · https://atavistikbio.com
 
 ## Summary
 
-Atavistik Bio is a clinical-stage biotechnology company founded in 2021 to discover drugs targeting allosteric sites — regulatory pockets distinct from active sites — using a platform that maps metabolite-protein interactions at proteome scale. The company is headquartered in Cambridge, Massachusetts, but originates as a University of Utah spinout from the Jared Rutter laboratory.
+Atavistik Bio is a clinical-stage biotechnology company developing drugs targeting allosteric sites. Its captured official homepage supports the current pipeline, but not the founding date, headquarters, financing history, or University of Utah origin asserted in earlier copy.
 
-Co-founders are Jared Rutter (Professor, U of U Biochemistry, still on faculty) and Ralph DeBerardinis (UT Southwestern). The Rutter lab's MIDAS/AMPS technology — published in *Science* (2023) — provided the first systematic readout suggesting metabolite regulation of proteins is far more widespread than previously appreciated. Atavistik has raised roughly $299M, including a $120M Series B led by Nextech Invest and The Column Group with Lux Capital and Regeneron Ventures participating.
+The current captured source does not establish the founders, platform publication history, or total capital raised. Those claims require a captured primary announcement or durable registry record.
 
 ## Impact
 
@@ -44,7 +43,7 @@ Converting metabolite-binding signals into molecules that work in patients remai
 ## What They Need Now
 Hiring skews chemical sciences and clinical (DMPK, biostatistics) and is Cambridge-based, not Utah-based. Broader fit still includes medicinal chemists, structural biologists, allostery-focused biochemists, computational chemists at the ML/structure intersection, clinical development leaders for oncology and rare-disease trials, and manufacturing/CMC capacity as programs advance.
 
-With $299M raised and typical oncology burn rates, the company will likely need additional capital for later-stage trials even after the 2026 Series B extension.
+Later-stage trials typically require substantial capital, but the captured source does not establish Atavistik's financing position.
 
 ## Who Could Help
 
@@ -69,7 +68,7 @@ Readers evaluating meaningful work in Utah should not mistake Atavistik for a lo
 - Pipeline emphasis appears to have shifted toward HHT for ATV-1601 in 2026 official communications while legacy intake centered AKT1 E17K solid tumors — what is the current status of each indication?
 - Allosteric drug development has high historical attrition; context-dependent binding remains a recurring failure mode.
 - ATV-1601 Phase 1 efficacy is unproven; data will be a major inflection point for the platform narrative.
-- $299M raised implies significant burn; later-stage oncology trials will likely require hundreds of millions more.
+- Total financing and current runway are not established by the captured official homepage.
 - Competition includes Relay Therapeutics, Recursion (allosteric adjacency), and major pharma discovery groups.
 - No allosteric drug from de novo allosteric-site discovery has yet received clinical approval — platform novelty is high, clinical proof is still ahead.
 - The placeholder hero should be replaced with a cleared science or team image when rights are confirmed.

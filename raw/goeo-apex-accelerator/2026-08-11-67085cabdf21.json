@@ -1,0 +1,13 @@
+{
+  "source_page": "goeo-apex-accelerator.md",
+  "requested_url": "https://business.utah.gov/apex/",
+  "final_url": "https://business.utah.gov/apex/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:45.850Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "726f9313b845dc2b385233fc0809d3ae2bea40aef2f8681af7a9125c8d30d56b",
+  "text_sha256": "67085cabdf217202cb4fb53a15efeb95b92da6fec3dd3121149ff4b683c0120b",
+  "text_chars": 16602,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

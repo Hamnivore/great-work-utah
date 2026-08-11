@@ -11,7 +11,6 @@
 **Region:** Salt Lake City
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-08-11
-**Hero:** https://picsum.photos/seed/batu-biologics-2026/1600/1100
 **Relates:** cites [Official Website: Batu Biologics](batu-biologics-official-website.md) · https://greatutah.work/pages/batu-biologics-official-website.md
 
 ## Summary

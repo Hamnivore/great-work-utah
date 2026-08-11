@@ -1,0 +1,13 @@
+{
+  "source_page": "coreform-official-website.md",
+  "requested_url": "https://coreform.com",
+  "final_url": "https://coreform.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:32.434Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "aec9768e7909f0a18a95ef052d5fb0e036792437eb28061e7ce3a7c6146e0f04",
+  "text_sha256": "e8ce99afc91368f49b63deaa81a179d5e96bc5d1bf574adeca25419f0696e0f3",
+  "text_chars": 3673,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

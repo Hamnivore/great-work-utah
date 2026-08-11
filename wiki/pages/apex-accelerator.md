@@ -14,7 +14,6 @@
 **Website:** https://business.utah.gov/apex/
 **Domain:** capital-programs, aerospace-defense
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

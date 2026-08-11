@@ -1,0 +1,13 @@
+{
+  "source_page": "3helix-official-website.md",
+  "requested_url": "https://www.3helix.com",
+  "final_url": "https://www.3helix.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:13.798Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "30973760d18891c308573778165777dea93d7333531d688b0b530563278a26a1",
+  "text_sha256": "5d68764f28b3a867d8301a8828821f1a6975757a331f86568e5514de2d8f05ca",
+  "text_chars": 21654,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

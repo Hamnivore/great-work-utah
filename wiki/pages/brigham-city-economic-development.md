@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://www.bcutah.gov/contact
 **Website:** https://www.bcutah.gov/page/economic-development/
-**Layout:** field-guide
 
 ## Summary
 

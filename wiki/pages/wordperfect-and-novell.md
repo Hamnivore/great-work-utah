@@ -2,7 +2,7 @@
 
 **Type:** work
 **Status:** Draft
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** software, word processing, networking, personal computing, Utah Valley
 **Era:** WordPerfect 1979-1996; Novell 1979/1983-2014; peak influence late 1980s to mid-1990s
 **Primary Location:** Orem and Provo, UT
@@ -29,7 +29,7 @@ Both companies lost their markets to Microsoft in the mid-1990s, but they had al
 
 WordPerfect and Novell are the two pillars of Utah's pre-"Silicon Slopes" software identity. Together they established that Utah Valley could ship globally dominant software, train thousands of engineers and operators, and generate the wealth and talent that seeded later companies.
 
-WordPerfect became the best-selling word processor in the United States by the mid-1980s and reached as much as 60% of the worldwide word-processing market by the early 1990s, with especially deep adoption in law firms. Novell NetWare reached roughly a two-thirds share of the network-operating-system market at its early-1990s peak, with over half a million NetWare networks installed and tens of millions of users. For a stretch, Novell was the second-largest personal-computer software company in the world, behind only Microsoft.
+WordPerfect became a leading word processor, with especially deep adoption in law firms, while Novell NetWare became a dominant network operating system. The current captured WordPerfect product page supports none of the historical market-share, installation, user, or ranking figures previously stated here, so those quantities have been removed pending archival or filing evidence.
 
 ## What It Took
 
@@ -47,7 +47,7 @@ Before NetWare, PCs were mostly standalone. Novell made shared file servers, sha
 
 These two companies are why Utah Valley became a technology center. Alongside the [University of Utah computer graphics program](utah-computer-graphics-program.md) and [Evans & Sutherland](evans-and-sutherland.md) to the north in Salt Lake City, WordPerfect and Novell anchored a parallel, business-software cluster in Provo and Orem rooted at BYU rather than the University of Utah.
 
-The human and financial legacy is direct. When Novell bought WordPerfect in 1994, Ashton and Bastian each received roughly $700 million in Novell stock; Ashton later funded the Thanksgiving Point complex in Lehi. A generation of engineers, product managers, and executives who trained at the two companies went on to populate the later Utah startup ecosystem.
+The human and financial legacy is direct. The acquisition enriched WordPerfect's founders, and Ashton later funded the Thanksgiving Point complex in Lehi, but the individual consideration amounts need a captured transaction record. A generation of engineers, product managers, and executives who trained at the two companies went on to populate the later Utah startup ecosystem.
 
 ## People and Institutions
 
@@ -73,12 +73,17 @@ The human and financial legacy is direct. When Novell bought WordPerfect in 1994
 - [Wikipedia: Novell](https://en.wikipedia.org/wiki/Novell) · https://en.wikipedia.org/wiki/Novell — Provo HQ, ~63% NOS market share, scale figures.
 - [Network World: Novell through the years](https://www.networkworld.com/article/716525/data-center-novell-through-the-years.html) · https://www.networkworld.com/article/716525/data-center-novell-through-the-years.html — 1979/1983 timeline, 70% share, WordPerfect acquisition.
 - [Computerworld: "Mr. NetWare" leaves with Volera](https://www.computerworld.com/article/1572250/mr-netware-leaves-with-volera.html) · https://www.computerworld.com/article/1572250/mr-netware-leaves-with-volera.html — the Major/Powell/Neibaur BYU origin of NetWare.
+- [Official Website: WordPerfect (Corel)](wordperfect-official-website.md) · https://greatutah.work/pages/wordperfect-official-website.md · https://www.wordperfect.com/en/ — what survives of the product under Corel's ownership.
 
 ## See Also
 
-- [WordPerfect and Novell Historical Sources](wordperfect-novell-historical-sources.md) · https://greatutah.work/pages/wordperfect-novell-historical-sources.md · https://www.wordperfect.com/en/
 
 ## Open Questions
 
+- The scale claims that carry this page — ~63% and ~70% NOS share, the ~$700M Novell-stock value of
+  the WordPerfect acquisition — currently rest on Wikipedia and a company-history aggregator. Novell
+  traded as NASDAQ: NOVL, so its 10-Ks and the merger proxy are the primary records for revenue,
+  share, and the acquisition's terms. Capturing those is what would return this page to High.
 - Exact peak WordPerfect market-share figures vary by survey and by "DOS vs. Windows vs. legal vertical" framing; the page uses ranges rather than a single number. A primary market-research citation would tighten this.
 - A stronger primary source (annual report or SEC filing) for Novell's installed-base and revenue peak would raise confidence on specific numbers.
+- The Utah history on this page has no contemporaneous documents behind it. A source page once titled "WordPerfect and Novell Historical Sources" appeared to supply them and did not — the only document it cited was Corel's current product site, which establishes nothing before 2023. What is actually needed: Novell's annual reports and 10-Ks from the 1994 acquisition period, archived WordPerfect Corporation materials, and Utah newspaper coverage from the 1980s. Each is its own source page.

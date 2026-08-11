@@ -13,7 +13,6 @@
 **Location Source:** https://www.trade.gov/utah-salt-lake-city
 **Website:** https://www.trade.gov/utah-salt-lake-city
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://ionicmt.com
+**Archive:** https://web.archive.org/web/20260509130507/https://ionicmt.com/
+**Archived:** 2026-05-09
 **Publisher:** Ionic Mineral Technologies
-**Accessed:** 2026-06-19
+**Raw:** raw/ionic-mt-official-website/2026-08-11-c4bfcc0a4fee.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -16,16 +19,29 @@ Ionic MT's official website describes the company's halloysite clay processing t
 ## Useful Claims
 
 - The site positions Ionic MT as a processor of Utah halloysite clay into nano-silicon anode material (Ionisil) and high-purity alumina (IonAL) for battery applications.
-- The company claims Ionisil at 15% silicon loading doubles anode capacity compared to graphite-only anodes.
-- The site describes the Silicon Ridge lease (4,000+ acres in Juab County, Utah, secured November 2024) as the largest known high-purity halloysite deposit in the United States.
-- Halloysite Hills is described as a wholly owned 550-acre deposit with 2.4 million tons of reserves.
-- The site announces a $29M oversubscribed Series B closing in July 2025.
-- Press materials describe rare earth and critical technology metal discovery at Silicon Ridge as an additional co-product opportunity.
-- The company describes Ionisil as a drop-in blend material compatible with existing battery manufacturing processes.
+- The page previously claimed a specific Ionisil silicon-loading performance multiplier; this capture does not show that figure.
+- The page previously described Silicon Ridge and Halloysite Hills deposit acreage and reserve tonnage; this capture does not show those deposit details.
+- The page previously announced a Series B funding round; this capture does not show funding news.
+- The company describes Ionisil and IonAL as part of an integrated critical-minerals and battery-materials platform derived from Utah feedstock.
+- Press materials describe rare earth and critical technology metal discovery at Silicon Ridge as an additional co-product opportunity — not shown in this capture.
+
+## Verbatim
+
+> "Ionic Mineral Technologies is building the world's most comprehensive hub for rare earths and critical minerals."
+> — Home page, hero
+
+> "Ionisil™ Nano‑Silicon"
+> — Product suite, nano-silicon
+
+> "IonAL™ Boehmite alumina"
+> — Product suite, alumina
+
+> "With a fully permitted mining site and a 74,000 sq. ft. operational processing facility in Provo, the company is positioned to move from pilot to production in months, not years — delivering the critical materials for magnets, semiconductors, and batteries that America urgently needs."
+> — Home page, operations paragraph
 
 ## Reliability Notes
 
-This is an official company source. Product performance claims (15% loading / 2x anode capacity) and recovery economics are company-reported and should be cross-referenced with independent battery cell testing data or published electrochemical characterization before being treated as high-confidence evidence. Mineral reserve estimates are company figures; independent geological verification at these deposits has not been confirmed. The Series B announcement is verifiable through investor filings.
+This is an official company source. This capture is a brief marketing landing page ("Full Site Coming 2026"); performance, deposit, and Series B claims on this page were not reconfirmed here. Product performance and reserve estimates are company-reported and should be cross-referenced with independent testing or geological verification before being treated as high-confidence evidence.
 
 ## Related Pages
 

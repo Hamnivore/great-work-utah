@@ -13,7 +13,6 @@
 **Domain:** health-bio
 **Region:** Salt Lake City
 **Ownership:** private
-**Hero:** https://picsum.photos/seed/bioparin-2026/1600/1100
 **Relates:** cites [Official Website: Bioparin](bioparin-official-website.md) · https://greatutah.work/pages/bioparin-official-website.md
 
 ## Summary

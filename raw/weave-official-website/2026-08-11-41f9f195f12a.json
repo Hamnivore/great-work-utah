@@ -1,0 +1,13 @@
+{
+  "source_page": "weave-official-website.md",
+  "requested_url": "https://www.getweave.com",
+  "final_url": "https://www.getweave.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:12:00.111Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "eb3e7974e83988f9cceba3c2a02ecd47a971a92ef4eb9b8808c7544aa8ac9537",
+  "text_sha256": "41f9f195f12a7c06223c05f58e9aebaae054ace3e0b14c0f35591b4f116428c0",
+  "text_chars": 9349,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

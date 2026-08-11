@@ -1,0 +1,13 @@
+{
+  "source_page": "stratos-mida-project-area-page.md",
+  "requested_url": "https://www.midaut.org/stratos",
+  "final_url": "https://www.midaut.org/stratos",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:42.158Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "e11b7343a6bf00f3a4576979ba1d4cbc458e7093ba91ca810aed17b9873e6687",
+  "text_sha256": "6fe96a0d4693e245a9de5ab950d13a02a2284b2786184b21399889a0d37bb1b4",
+  "text_chars": 7497,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "mountain-heights-academy-official-about-page.md",
+  "requested_url": "https://mountainheightsacademy.org/about",
+  "final_url": "https://mountainheightsacademy.org/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:01.185Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "2932e8f3518516eb39317fc330616cdf239bbdd60e8978aaf68bafbf276907f4",
+  "text_sha256": "598c947c6ccd7256eb397d341d62f2b90dd875020fed04dcc15dd22c2fbd66fc",
+  "text_chars": 6548,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "arpanet-fourth-node-source.md",
+  "requested_url": "https://it.utah.edu/node4/posts/2017/august/node4-history.php",
+  "final_url": "https://it.utah.edu/node4/posts/2017/august/node4-history.php",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:15.856Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "9429fa16b8b3c9701fcf1f6eb3fc97e728c404a73608c22ac9b0d916f696ffb7",
+  "text_sha256": "0b2d1aee3db12f71fb8927541df573cd26277a8b0b461e5433bc5bc98c1e1031",
+  "text_chars": 6613,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

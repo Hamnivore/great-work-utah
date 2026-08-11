@@ -16,19 +16,20 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=University+of+Utah+201+Presidents+Circle+Salt+Lake+City+UT+84112
 **Website:** https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann
 **Pull:** *A press conference before peer review turned the University of Utah into the center of a global controversy — and a lasting lesson in how not to announce a discovery.*
+**Relates:** cites [Fleischmann and Pons — "Electrochemically Induced Nuclear Fusion of Deuterium" (1989)](fleischmann-pons-cold-fusion-paper-1989.md) · https://greatutah.work/pages/fleischmann-pons-cold-fusion-paper-1989.md · https://doi.org/10.1016/0022-0728(89)80006-3
 **Relates:** cites [Source: Axios Salt Lake City — Cold Fusion 35 Years Later](axios-cold-fusion-35-years.md) · https://greatutah.work/pages/axios-cold-fusion-35-years.md · https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann
 
 ## Summary
 
-On March 23, 1989, University of Utah chemists Stanley Pons and Martin Fleischmann held a press conference to announce they had achieved nuclear fusion at room temperature in an electrochemical cell using a palladium cathode in heavy water — what the media called "cold fusion." They claimed the apparatus produced more energy than it consumed, with the excess attributed to nuclear fusion. If true, the result would have meant a practical path to abundant energy from seawater.
+On March 23, 1989, University of Utah chemists Stanley Pons and Martin Fleischmann held a press conference to announce they had achieved nuclear fusion at room temperature in an electrochemical cell using a palladium cathode in heavy water — what the media called "cold fusion." They claimed the apparatus produced more energy than it consumed. [Axios retrospective](axios-cold-fusion-35-years.md)
 
-The announcement was made before conventional peer review. Within weeks, laboratories around the world failed to replicate the effect under controlled conditions. By May 1989, the American Physical Society had effectively rejected the claims. Subsequent investigation pointed to experimental error — likely heat-measurement artifacts — rather than a new energy source. The scientific consensus remains: cold fusion as claimed by Pons and Fleischmann was not validated and does not exist as described.
+The announcement was made before conventional peer review. Within months, laboratories around the world failed to replicate the effect and the claims were discredited. [Axios retrospective](axios-cold-fusion-35-years.md)
 
 This page is intentionally a cautionary account. It belongs in the wiki not because the work was great, but because the episode was historically significant and happened at the University of Utah.
 
 ## Impact
 
-The episode briefly made the University of Utah synonymous with what looked like the discovery of the century. Congress was asked for $25 million to pursue the work. Utah administrators, patent concerns, and media pressure shaped a public announcement that bypassed normal scientific scrutiny.
+The episode briefly made the University of Utah synonymous with what looked like the discovery of the century. The captured sources support the institutional-pressure history but not a proposed federal funding amount. [Axios retrospective](axios-cold-fusion-35-years.md)
 
 The lasting impact is institutional and cultural rather than scientific:
 
@@ -73,6 +74,7 @@ Utah should claim the episode honestly: as a local institutional lesson, not as 
 
 ## Evidence
 
+- [Fleischmann and Pons, "Electrochemically induced nuclear fusion of deuterium", *J. Electroanal. Chem.* 261(2):301–308 (April 1989)](fleischmann-pons-cold-fusion-paper-1989.md) · https://greatutah.work/pages/fleischmann-pons-cold-fusion-paper-1989.md · https://doi.org/10.1016/0022-0728(89)80006-3 — the paper itself, published after the March 23, 1989 press conference. Evidence that the claim was made, where, and when; not evidence that it holds.
 - [Axios Salt Lake City: Cold fusion 35 years later](https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann) · https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann — [source record](axios-cold-fusion-35-years.md) · https://greatutah.work/pages/axios-cold-fusion-35-years.md
 - [Wikipedia: Cold fusion](https://en.wikipedia.org/wiki/Cold_fusion) · https://en.wikipedia.org/wiki/Cold_fusion
 - [Axios Salt Lake City: Cold fusion 35 years later](https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann) · https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann

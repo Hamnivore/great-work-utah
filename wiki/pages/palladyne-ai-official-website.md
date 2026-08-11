@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.palladyneai.com
+**Archive:** https://web.archive.org/web/20260625025138/https://www.palladyneai.com/
+**Archived:** 2026-06-25
 **Publisher:** Palladyne AI Corp.
-**Accessed:** 2026-06-18
+**Raw:** raw/palladyne-ai-official-website/2026-08-11-c3669e0362de.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -16,14 +19,30 @@ Palladyne AI's official web presence (company site and investor-relations newsro
 ## Useful Claims
 
 - Palladyne describes its software as enabling robots and drones to observe, learn, reason, and act autonomously at the edge, without cloud dependency.
-- The company names Palladyne IQ (industrial robot autonomy, released as 2.0) and SwarmOS (collaborative multi-platform autonomy) as core products, with "BRAIN" flight modules and an "IntelliSwarm" integration.
-- Investor releases describe Palladyne as "vertically integrated" following 2025 acquisitions (publicly named GuideTech, Warnke Precision Machining, MKR Fabricators).
-- Q1 2026 release: revenue of $3.5M (up 107% YoY), backlog ~$17M as of March 31, 2026, and reiterated full-year 2026 guidance of $24–27M versus 2025 revenue of ~$5.2M.
-- Trades on NASDAQ under tickers PDYN and PDYNW.
+- The company names Palladyne IQ and SwarmOS as core software products, with IntelliSwarm integration and BRAIN X2 edge compute; this capture does not show a "2.0" release label for Palladyne IQ.
+- The page previously asserted recent acquisitions and quarterly financial guidance; this homepage capture does not show those releases.
+- The page previously noted NASDAQ tickers PDYN and PDYNW; this capture does not show ticker symbols.
+
+## Verbatim
+
+> "Most AI thinks. Palladyne AI acts."
+> — Home page, hero
+
+> "Intelligence that must operate in the physical world cannot wait for the cloud. It must perceive locally, decide in milliseconds, and execute at the point of action, in GPS-denied airspace, on contested battlefields, and on factory floors where latency can mean a failed mission or a missed command."
+> — Home page, opening paragraph
+
+> "Cloud-free. On-device. The shared intelligence layer for both businesses."
+> — Home page, Edge AI Platform
+
+> "Palladyne™ IQ"
+> — Products navigation
+
+> "SwarmOS™"
+> — Products navigation
 
 ## Reliability Notes
 
-This is an official/company source, including SEC-filed and newswire-distributed releases. It is reliable for product names, ticker, corporate structure, and reported historical financials, but forward revenue guidance and "new mid-tier prime" positioning are management projections and marketing, not outcomes. Cross-check growth claims against subsequent reported results before treating them as high-confidence.
+This is an official/company source, including SEC-filed and newswire-distributed releases. This capture is the marketing homepage only; acquisition, financial, and ticker claims on this page were not reconfirmed here. It is reliable for product names and edge-autonomy positioning, but forward revenue guidance and "new mid-tier prime" positioning are management projections and marketing, not outcomes.
 
 ## Related Pages
 

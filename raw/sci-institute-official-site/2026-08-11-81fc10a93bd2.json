@@ -1,0 +1,13 @@
+{
+  "source_page": "sci-institute-official-site.md",
+  "requested_url": "https://www.sci.utah.edu",
+  "final_url": "https://sci.utah.edu/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:34.765Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "f94795f7ac4b1e1a65f84f7b20bc571dc4a6ef7e3ee64e5d8464fe735250eb20",
+  "text_sha256": "81fc10a93bd2a49a23ac3912d6755ea9753b909618bac9f49acc33c5fbf2345d",
+  "text_chars": 4958,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

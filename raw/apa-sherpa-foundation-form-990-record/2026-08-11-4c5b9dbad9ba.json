@@ -1,0 +1,13 @@
+{
+  "source_page": "apa-sherpa-foundation-form-990-record.md",
+  "requested_url": "https://projects.propublica.org/nonprofits/api/v2/organizations/272198169.json",
+  "final_url": "https://projects.propublica.org/nonprofits/api/v2/organizations/272198169.json",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:22Z",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "bytes_sha256": "4c5b9dbad9baa797cd51ee19262281f2ac9cf056f5339965fb8aff439b93ac7e",
+  "text_sha256": "4c5b9dbad9baa797cd51ee19262281f2ac9cf056f5339965fb8aff439b93ac7e",
+  "text_chars": 13269,
+  "extractor": "manual-json-save"
+}

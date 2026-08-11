@@ -1,0 +1,13 @@
+{
+  "source_page": "fervo-cape-station-groundbreaking.md",
+  "requested_url": "https://fervoenergy.com/fervo-energy-breaks-ground-on-the-worlds-largest-next-gen-geothermal-project/",
+  "final_url": "https://fervoenergy.com/fervo-energy-breaks-ground-on-the-worlds-largest-next-gen-geothermal-project/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T19:52:46.018Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "6f55c3ff7d3100c9372aecd62170e95f8830f7e319be9f724307b788834eef2d",
+  "text_sha256": "cef5545cb42234e789c2bb0d8f3783fdac8965d12e6c0081840f92d0a4ec1c54",
+  "text_chars": 5677,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

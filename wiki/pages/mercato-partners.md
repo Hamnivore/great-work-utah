@@ -14,7 +14,6 @@
 **Location Source:** https://www.mercatopartners.com/contact
 **Website:** https://www.mercatopartners.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

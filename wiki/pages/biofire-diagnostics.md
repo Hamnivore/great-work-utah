@@ -19,7 +19,6 @@
 **Careers:** https://jobs.jobvite.com/biofiredx/jobs
 **Website:** https://www.biofiredx.com
 **Ownership:** public
-**Hero:** https://picsum.photos/seed/biofire-filmarray-syndromic-pcr-2026/1600/1100
 **Pull:** *One small sample, dozens of pathogens, an answer in about an hour.*
 
 ## Summary

@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.vivint.com
+**Archive:** https://web.archive.org/web/20260808215913/https://www.vivint.com/
+**Archived:** 2026-08-08
 **Publisher:** Vivint Smart Home (subsidiary of NRG Energy, Inc.)
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

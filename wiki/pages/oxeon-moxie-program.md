@@ -3,10 +3,9 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Company Website
+**Source Type:** official-page
 **URL:** https://oxeonenergy.com/moxie
 **Publisher:** OxEon Energy
-**Accessed:** 2026-07-14
 **Updated:** 2026-07-14
 
 ## Summary

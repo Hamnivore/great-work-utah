@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://byupathway.edu
+**Archive:** https://web.archive.org/web/20260810062900/https://www.byupathway.edu/
+**Archived:** 2026-08-10
 **Publisher:** BYU-Pathway Worldwide
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

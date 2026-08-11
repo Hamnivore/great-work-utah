@@ -1,0 +1,13 @@
+{
+  "source_page": "dia-spiral-jetty.md",
+  "requested_url": "https://diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014/",
+  "final_url": "https://diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:35.671Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ba59d10ec346ec2636af720749baafe5c27e8ae1f6c3ff1a80e0b17628e6f4c3",
+  "text_sha256": "3128007ce12439bf3200115968d111d9cd65ef79f8a3e4eaff1f197ac7c3d7ff",
+  "text_chars": 2846,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

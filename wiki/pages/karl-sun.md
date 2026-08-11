@@ -9,26 +9,25 @@
 **Utah Location:** South Jordan, UT
 **Region:** South Jordan
 **Updated:** 2026-08-11
-**Hero:** https://picsum.photos/seed/karl-sun-2026/1600/1100
 **Pull:** *BYU graduate who co-founded Lucidchart and built one of Utah's largest private SaaS companies.*
 **Relates:** helps [Lucid Software](lucid-software.md) · https://greatutah.work/pages/lucid-software.md
 **Relates:** cites [Profile: Karl Sun — Lucid Software](karl-sun-lucid-bio.md) · https://greatutah.work/pages/karl-sun-lucid-bio.md · https://lucid.co/about
 
 ## Summary
 
-Karl Sun is the co-founder and CEO of Lucid Software, the South Jordan, Utah company behind Lucidchart and Lucidspark. He co-founded Lucid with Ben Dilts in 2010 after both graduated from Brigham Young University. Under Sun's leadership, Lucid grew to serve tens of millions of users — including a large share of Fortune 500 companies — and raised a reported $100M Series E in 2021 at a valuation exceeding $3 billion, making it one of the highest-valued private technology companies ever headquartered in Utah.
+Karl Sun is the co-founder and CEO of Lucid Software, the South Jordan, Utah company behind Lucidchart and Lucidspark. He co-founded Lucid with Ben Dilts in 2010 after both graduated from Brigham Young University. Legacy intake figures for users, fundraising, valuation, and customer penetration are not supported by the captured official biography.
 
 Sun's background is notable for its unusual path: before founding Lucid, he worked at Google in early career roles. He returned to Utah, co-founded Lucid with a BYU classmate, and scaled it without relocating to the Bay Area — a decision that helped cement Silicon Slopes as a legitimate home for enterprise SaaS.
 
 ## Impact
 
-Sun and Dilts built Lucid into the flagship example that Utah can produce a durable, enterprise-grade SaaS company from founding through unicorn scale without leaving the state. Lucid's headcount — reportedly more than 1,000 employees with the majority in Utah — represents one of the larger white-collar engineering and product employment bases in the state.
+Sun and Dilts built Lucid into a flagship example that Utah can produce a durable, enterprise-grade SaaS company without leaving the state. A current primary source is still needed for company headcount and the share employed in Utah.
 
 As CEO through growth and stability, Sun provides a live reference point for enterprise SaaS founders building in Utah: the market for visual collaboration exists globally, the talent can be found locally, and enterprise sales does not require Silicon Valley proximity.
 
 ## What They Offer
 
-- Operator experience scaling a B2B SaaS company from zero to $3B+ valuation
+- Operator experience scaling a B2B SaaS company from founding to global enterprise adoption
 - Deep knowledge of enterprise diagramming, collaboration, and real-time co-editing product challenges
 - Utah-rooted founder network spanning BYU alumni, Silicon Slopes community, and early enterprise SaaS
 - Evidence that staying in Utah rather than relocating is compatible with institutional venture investment and enterprise customer acquisition
@@ -41,7 +40,7 @@ No public signals of advisory or investment activity. As a sitting CEO, Sun's pr
 
 - Co-founded Lucid Software (2010); still CEO as of 2026
 - Oversaw growth to 10M+ users and Fortune 500 penetration
-- Led Series E (2021, reported $100M, $3B+ valuation)
+- Led the company through late-stage private financing; the terms need a captured primary source
 - BYU Computer Science; prior Google experience
 
 ## Good Fits

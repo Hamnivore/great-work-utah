@@ -12,7 +12,6 @@
 **Website:** https://cib.usu.edu
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
-**Hero:** https://picsum.photos/seed/usu-integrated-biosystems-2026/1600/1100
 **Pull:** *Utah State's genomics and bioinformatics core — the land-grant infrastructure doing the ongoing, mostly-unsung work of improving crops and livestock for an arid-land ag region.*
 **Relates:** cites [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md) · https://greatutah.work/pages/usu-integrated-biosystems-official-website.md · https://cib.usu.edu
 

@@ -23,7 +23,6 @@
 **Additional Map Location:** 320 N Aggie Blvd, Vernal, UT 84078 | 40.460030, -109.565800 | exact | https://statewide.usu.edu/uintahbasin/directory/contact
 **Website:** https://utahsbdc.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

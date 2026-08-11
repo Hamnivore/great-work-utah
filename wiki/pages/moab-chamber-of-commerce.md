@@ -14,7 +14,6 @@
 **Location Source:** https://moabchamber.com/about-the-chamber/
 **Website:** https://moabchamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

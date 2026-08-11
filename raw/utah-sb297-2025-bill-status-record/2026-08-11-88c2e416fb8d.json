@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-sb297-2025-bill-status-record.md",
+  "requested_url": "https://le.utah.gov/data/2025GS/SB0297.json",
+  "final_url": "https://le.utah.gov/data/2025GS/SB0297.json",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:54:33.473Z",
+  "http_status": 200,
+  "content_type": "application/json",
+  "bytes_sha256": "2c2d7933e98622ba4ac39fe65581661d28fbd7ccc846d2a5f652d7933a48f641",
+  "text_sha256": "88c2e416fb8dd1dfdb5f7eaadfb933ef3f9e5d114fceaf5a747decdbf4af5993",
+  "text_chars": 36368,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

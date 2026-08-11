@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.striderintel.com/
+**Archive:** https://web.archive.org/web/20260721012939/https://www.striderintel.com/
+**Archived:** 2026-07-21
 **Publisher:** Strider Technologies
-**Accessed:** 2026-06-18
+**Raw:** raw/strider-official-website/2026-08-11-d3f336bfc614.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -15,15 +18,32 @@ Strider's official website describes the company as a strategic intelligence pla
 
 ## Useful Claims
 
-- Strider says its platform is powered by proprietary AI and a risk methodology for geopolitical and nation-state threats.
+- Strider describes Agentic AI and a proprietary risk methodology for geopolitical and nation-state threats.
 - The company lists products for insights, people search, organization search, open-source software risk, Shield, a data catalog, and an intelligence center.
-- Strider says it was co-founded in 2019 by Greg Levesque, Eric Levesque, and Mike Brown.
-- The company says it operates in 15 countries and has more than 250 team members.
+- The page previously asserted Strider was co-founded in 2019 by Greg Levesque, Eric Levesque, and Mike Brown; this capture does not show founding year or full founder roster.
+- The page previously asserted Strider operates in 15 countries with more than 250 team members; this capture does not show those scale figures.
 - Public use cases include state-sponsored risk, third-party due diligence, research security, supply-chain risk management, email security, and falsified-resume screening.
+
+## Verbatim
+
+> "Make faster, more confident decisions with unparalleled insights into state-sponsored threats"
+> — Home page, platform headline
+
+> "Agentic AI discovers and connects global data to surface relevant insight faster."
+> — Home page, "From Data to Decision-Ready Insight"
+
+> "Identify and manage state-sponsored threats related to your people, network, technology, and talent flows"
+> — Products, Insights
+
+> "Screen individuals for nation-state ties and falsified resumes"
+> — Products, People Search
+
+> "Integrate a threat intelligence dataset on state-sponsored actors to your SIEM and DLP systems"
+> — Products, Shield
 
 ## Reliability Notes
 
-This is an official company source, strongest for company positioning, product categories, founders, and self-reported scale. Customer adoption, performance, and funding should be cross-checked with reputable third-party reporting or filings before being treated as high-confidence evidence.
+This is an official company source, strongest for company positioning, product categories, founders, and self-reported scale. Founding-year, founder-roster, and headcount/country figures on this page were not reconfirmed in the 2026-08-11 capture. Customer adoption, performance, and funding should be cross-checked with reputable third-party reporting or filings before being treated as high-confidence evidence.
 
 ## Related Pages
 

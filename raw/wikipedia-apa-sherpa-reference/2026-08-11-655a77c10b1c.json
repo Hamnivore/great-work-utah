@@ -1,0 +1,13 @@
+{
+  "source_page": "wikipedia-apa-sherpa-reference.md",
+  "requested_url": "https://en.wikipedia.org/wiki/Apa_Sherpa",
+  "final_url": "https://en.wikipedia.org/wiki/Apa_Sherpa",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:13.558Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "8a9c067da35c208bf374fc39678d32a0e4ef8ca57ba2f31967fa83d273fe6623",
+  "text_sha256": "655a77c10b1c6dc564c4bba73019985216eb0ab7ed5c8e90cd297ca891dd8cd1",
+  "text_chars": 12930,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

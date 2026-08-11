@@ -1,0 +1,13 @@
+{
+  "source_page": "bbcetc-official-site.md",
+  "requested_url": "https://bbcetc.com/",
+  "final_url": "https://bbcetc.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:18.566Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "185fe946213739647939cf2482f47ca485f1693cb93980b0f71b84906ead4404",
+  "text_sha256": "eca84d93d398005068bb1ce590f1111ea15a31dfd54b3d73f3c09f4c05bfa13c",
+  "text_chars": 1901,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

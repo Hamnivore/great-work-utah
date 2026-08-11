@@ -1,0 +1,13 @@
+{
+  "source_page": "lucid-software-official-website.md",
+  "requested_url": "https://lucid.co/platform/visual-collaboration",
+  "final_url": "https://lucid.co/platform/visual-collaboration",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:16:25.818Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "7b8cf3fa9af3115247ea8c537ca7c1975a2e4f6e244d9bc181ff52df77e863d6",
+  "text_sha256": "5cecde72045baf30f7cd3fee809ac9eec72fca39b83f56cb3d21f851909c556d",
+  "text_chars": 12776,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

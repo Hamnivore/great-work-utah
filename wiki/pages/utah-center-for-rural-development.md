@@ -9,7 +9,6 @@
 **Region:** statewide
 **Website:** https://business.utah.gov/rural/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

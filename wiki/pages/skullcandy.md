@@ -17,7 +17,6 @@
 **Website:** https://www.skullcandy.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/skullcandy-lifestyle-audio-2026/1600/1100
 **Pull:** *Park City-born audio with bass-heavy personality — headphones and earbuds for action sports and everyday listeners.*
 **Relates:** cites [Official Website: Skullcandy](skullcandy-official-website.md) · https://greatutah.work/pages/skullcandy-official-website.md · https://www.skullcandy.com
 

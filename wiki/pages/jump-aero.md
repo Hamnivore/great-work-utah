@@ -13,7 +13,6 @@
 **Careers:** https://jumpaero.com/careers
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/jump-aero-2026/1600/1100
 **Pull:** *A single-seat eVTOL purpose-built for emergency first response — because minutes matter in places roads can't reach.*
 **Relates:** cites [Official Website: Jump Aero](jump-aero-official-website.md) · https://greatutah.work/pages/jump-aero-official-website.md · https://jumpaero.com
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "bamboohr-official-website.md",
+  "requested_url": "https://www.bamboohr.com/",
+  "final_url": "https://www.bamboohr.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:17.905Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "dd7a171f700fb6e059270984f83b4670b51f9a564c260c22484db2bbd252295c",
+  "text_sha256": "859b350ec0d2038f88abc4947cc9849e5e5e8a66bfbd09fd4c4ebe727eaaafa7",
+  "text_chars": 6328,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

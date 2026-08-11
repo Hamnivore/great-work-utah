@@ -1,0 +1,13 @@
+{
+  "source_page": "ethw-stokowski-bell-labs-stereo.md",
+  "requested_url": "https://ethw.org/Leopold_Stokowski_and_Bell_Labs%2C_a_Sound_Collaboration",
+  "final_url": "https://ethw.org/Leopold_Stokowski_and_Bell_Labs%2C_a_Sound_Collaboration",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:16:22.777Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "c9a5756fcb55d2c2b9df1ebd738b76be3386fc78dfffaf522b3e4633606439df",
+  "text_sha256": "923a0cdf474df32dadca9b751b7b1917098c381282e124f7c300e94a9ac79dad",
+  "text_chars": 10361,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

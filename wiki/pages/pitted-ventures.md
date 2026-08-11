@@ -14,7 +14,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Pitted+Ventures+9815+South+Monroe+Street+Sandy+UT
 **Website:** https://pittedventures.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

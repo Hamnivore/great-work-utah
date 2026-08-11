@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
-**URL:** https://www.irisbiomed.com
+**Source Type:** official-page
+**URL:** https://irismeddesign.com/about-us/
+**Archive:** https://web.archive.org/web/20250612153142/https://irismeddesign.com/about-us/
+**Archived:** 2025-06-12
 **Publisher:** Iris Biomedical
-**Accessed:** 2026-06-19
+**Retrieved:** 2026-08-11
+**Raw:** raw/iris-biomedical-official-website/2026-08-11-1e64cd0058e6.txt
 **Updated:** 2026-06-19
 
 ## Summary
@@ -24,6 +27,14 @@ Iris Biomedical's official website describes contract design and manufacturing s
 ## Reliability Notes
 
 This is an official company source. It is reliable for service categories and manufacturing capabilities. Client names, revenue, and specific device performance claims should be cross-checked with peer-reviewed publications from research clients or independent third-party validation.
+
+## Verbatim
+
+> IRIS Biomedical is a wholly owned subsidiary of Ripple Ventures established to provide neurotechnology engineering, and manufacturing services and technology licensing to the medical device industry.
+
+> As an original design manufacturer (ODM) IRIS has designed its core technology platform from the ground up to offer a range of sub-component and complete-system designs. IRIS specializes in high-performance closed-loop neural sensing and stimulation.
+
+Locator: About Us — Company Info.
 
 ## Related Pages
 

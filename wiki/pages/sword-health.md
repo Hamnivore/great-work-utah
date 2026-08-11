@@ -14,13 +14,12 @@
 **Domain:** health-bio
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/sword-health-digital-pt-2026/1600/1100
 **Pull:** *Physical therapy, at home, guided by AI and supervised by a real clinician — and a serious bet that this is just as good as being in the clinic.*
 **Relates:** cites [Official Website: Sword Health](sword-health-official-website.md) · https://greatutah.work/pages/sword-health-official-website.md · https://swordhealth.com/
 
 ## Summary
 
-Sword Health is a digital musculoskeletal (MSK) care company founded in Portugal that established its U.S. headquarters in Salt Lake City in 2017 and has grown into one of the largest digital physical therapy platforms in North America. The platform combines AI-powered motion tracking (via a wearable sensor and smartphone camera), a licensed clinical team who remotely supervise and adapt each patient's program, and a mobile app — delivering personalized physical therapy for back, joint, and muscle conditions at home rather than in a clinic. Sword serves employers and health plans as a benefit, focusing on the roughly $380 billion annual cost of musculoskeletal conditions in the United States.
+Sword Health is a digital musculoskeletal care company combining motion tracking, remote clinical support, and a mobile app. Its linked official source has no raw capture, so the earlier headquarters date, market-position superlative, and national cost figure are not durable enough to assert here.
 
 ## Impact
 
@@ -47,7 +46,7 @@ Sword Health chose Salt Lake City for its U.S. headquarters in 2017, drawn by th
 
 ## Evidence
 
-- [Official Website: Sword Health](https://swordhealth.com) · https://swordhealth.com
+- [Official Website: Sword Health](sword-health-official-website.md) · https://greatutah.work/pages/sword-health-official-website.md · https://swordhealth.com/
 
 ## See Also
 

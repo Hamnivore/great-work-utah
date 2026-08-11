@@ -13,11 +13,10 @@
 **Location Source:** https://www.trumba.com/events-calendar/ut/orem/utah-valley-business-resource-center-events
 **Website:** https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 
-Verified on the official site (2026-07-14): 1 Million Cups Orem is the Utah County chapter of the national 1 Million Cups program, hosted weekly at the UVU Business Resource Center. It gives local entrepreneurs a platform to present ideas, receive feedback, and connect with startups, investors, and service providers.
+The Startup State listing describes 1 Million Cups Orem as a Utah County chapter hosted at the UVU Business Resource Center, where entrepreneurs can present ideas and receive peer feedback ([Startup State source](startup-utah-resource-list.md)).
 
 ## Who It's For
 

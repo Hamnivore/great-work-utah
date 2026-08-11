@@ -4,7 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** smart home, home security, IoT, professional monitoring, consumer hardware
-**Roles:** software-engineering, product-design, sales-business-development, program-project-management, field-skilled-trades
+**Roles:** software-engineering, data-science, product-design, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Subsidiary of NRG Energy (public parent, NYSE: NRG)
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
@@ -17,7 +17,6 @@
 **Website:** https://www.vivint.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/vivint-smart-home-provo-2026/1600/1100
 **Pull:** *Professional-install smart home security at national scale — Utah-built hardware, cloud, and 24/7 monitoring now inside NRG Energy.*
 **Relates:** cites [Official Website: Vivint](vivint-official-website.md) · https://greatutah.work/pages/vivint-official-website.md · https://www.vivint.com
 
@@ -25,7 +24,7 @@
 
 Vivint Smart Home is a Provo, Utah-based smart home and residential security company offering integrated hardware — cameras, sensors, smart locks, thermostats, and hubs — plus professional installation, a mobile app, and 24/7 monitoring. The company traces its roots to APX Alarm Security Solutions, founded in 1999, and rebranded to Vivint in 2011.
 
-Ownership has changed several times. Blackstone acquired Vivint in 2012. Vivint later went public through a 2020 merger with Mosaic Acquisition Corp. (NYSE: VVNT). In March 2023, NRG Energy completed a $2.8 billion acquisition; Vivint now operates as a wholly owned subsidiary of the Houston-based energy company. Public materials from Vivint and NRG describe millions of customers across North America, though exact current counts should be verified in NRG filings rather than marketing copy.
+Ownership has changed several times. Blackstone acquired Vivint, Vivint later went public through a merger with Mosaic Acquisition Corp., and NRG Energy subsequently acquired it. Vivint now operates as a wholly owned subsidiary of the Houston-based energy company. The captured official homepage does not support transaction values, dates, or customer counts; those require NRG filings.
 
 ## Impact
 

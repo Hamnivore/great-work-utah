@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Useful
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -12,8 +12,8 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Lassonde+Studios+1701+Student+Life+Way+Salt+Lake+City+UT
 **Website:** https://lassonde.utah.edu/
+**Domain:** capital-programs
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 
@@ -62,3 +62,4 @@ It is less direct for nonstudent founders, established companies, or researchers
 - Which Lassonde programs are open to non-University of Utah participants?
 - Which programs are best for deep-tech or university-research commercialization versus ordinary student ventures?
 - What are the current award sizes and deadlines for specific competitions and seed-funding programs?
+- **Confidence is capped at Medium because no primary record for this institute could be found.** Searched 2026-08-11: USAspending returns no federal award whose recipient or description names Lassonde (the University of Utah's NSF I-Corps Site awards, 1347345 and 1735781, belong to its Center for Medical Innovation, not to Lassonde), and the institute is a university unit with no separate legal entity, so it has no EIN, UEI, or state registration of its own. The records that would raise this page to High: the Utah Board of Higher Education's program-approval record for the Master of Business Creation and the entrepreneurship degrees, a state appropriation line item for the institute in the Legislature's appropriations reports at `le.utah.gov` or expenditure records at `transparent.utah.gov`, or an award record for Get Seeded / the Utah Entrepreneur Challenge if either is publicly funded. Until one of those is cited, every claim here traces to `lassonde.utah.edu`.

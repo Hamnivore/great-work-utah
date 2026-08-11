@@ -13,7 +13,6 @@
 **Location Source:** https://www.siliconslopes.com/about-us
 **Website:** https://www.siliconslopes.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

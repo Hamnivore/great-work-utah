@@ -1,0 +1,1883 @@
+Enrolled Copy S.B. 297
+
+1 Congregate Care Amendments
+2025 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Michael K. McKell
+House Sponsor: Casey Snider
+2
+3 LONG TITLE
+4 General Description:
+5 This bill addresses congregate care programs.
+6 Highlighted Provisions:
+7 This bill:
+8 ▸ defines terms;
+9 ▸ creates the Congregate Care Advisory Committee (committee);
+10 ▸ authorizes and directs the Office of Licensing (office), in consultation with the
+11 committee, to:
+12 ● set minimum safety requirements for congregate care programs;
+13 ● review proposed admissions criteria that a program submits in connection with an
+14 application for or renewal of licensure; and
+15 ● deny or accept a program's proposed admissions criteria;
+16 ▸ creates the position of congregate care ombudsman (ombudsman);
+17 ▸ authorizes and directs the ombudsman to receive and investigate reports regarding
+18 congregate care programs;
+19 ▸ creates the Licensed Provider Civil Money Penalty Fund;
+20 ▸ denies direct access qualified status for certain individuals;
+21 ▸ establishes requirements for congregate care programs, including that the programs:
+22 ● adopt admissions criteria by which to determine whether an individual child is a
+23 qualified candidate for the program;
+24 ● maintain a list of a child's authorized contacts who may contact the child if the child is
+25 in crisis;
+26 ● notify the authorized contacts and the parent or guardian of a child who is in crisis;
+27 ● post notice within the program regarding the ombudsman;
+
+S.B. 297 Enrolled Copy
+
+28 ● provide a dedicated telephone from which a child or staff may contact the ombudsman
+29 at any time; and
+30 ● provide disclosures to a child, the child's parent or guardian, and the child's authorized
+31 contacts;
+32 ▸ establishes responsibility for payment to a health care facility that provides services to a
+33 child, including transportation costs;
+34 ▸ establishes whistleblower protections for individuals who report a concern to, or who
+35 facilitate or cooperate with, the ombudsman; and
+36 ▸ makes technical changes.
+37 Money Appropriated in this Bill:
+38 None
+39 Other Special Clauses:
+40 This bill provides a special effective date.
+41 Utah Code Sections Affected:
+42 AMENDS:
+43 26B-1-204, as last amended by Laws of Utah 2024, Chapters 240, 404 and 506
+44 26B-1-334, as enacted by Laws of Utah 2023, Chapter 325
+45 26B-2-101, as last amended by Laws of Utah 2024, Chapters 240, 267, 307, and 438
+46 26B-2-104, as last amended by Laws of Utah 2024, Chapters 240, 307
+47 26B-2-107, as last amended by Laws of Utah 2024, Chapters 267, 307
+48 26B-2-120, as last amended by Laws of Utah 2024, Chapter 234
+49 26B-2-124, as renumbered and amended by Laws of Utah 2023, Chapter 305
+50 26B-2-709, as renumbered and amended by Laws of Utah 2024, Chapter 267
+51 ENACTS:
+52 26B-1-336, Utah Code Annotated 1953
+53 26B-2-124.1, Utah Code Annotated 1953
+54 26B-2-124.2, Utah Code Annotated 1953
+55 26B-2-124.3, Utah Code Annotated 1953
+56
+57 Be it enacted by the Legislature of the state of Utah:
+58 Section 1. Section 26B-1-204 is amended to read:
+59 26B-1-204 . Creation of boards, divisions, and offices -- Power to organize
+60 department.
+61 (1) The executive director shall make rules in accordance with Title 63G, Chapter 3, Utah
+
+- 2 -
+
+Enrolled Copy S.B. 297
+
+62 Administrative Rulemaking Act, and not inconsistent with law for:
+63 (a) the administration and government of the department;
+64 (b) the conduct of the department's employees; and
+65 (c) the custody, use, and preservation of the records, papers, books, documents, and
+66 property of the department.
+67 (2) The following policymaking boards, councils, and committees are created within the
+68 Department of Health and Human Services:
+69 (a) Board of Aging and Adult Services;
+70 (b) Utah State Developmental Center Board;
+71 (c) Health Facility Committee;
+72 (d) Health Data Committee;
+73 (e) Child Care Provider Licensing Committee;
+74 (f) Adult Autism Treatment Program Advisory Committee;
+75 (g) Youth Electronic Cigarette, Marijuana, and Other Drug Prevention Committee;[ ]
+76 (h) Congregate Care Advisory Committee; and
+77 [(h)] (i) any boards, councils, or committees that are created by statute in this title.
+78 (3) The following divisions and offices are created within the Department of Health and
+79 Human Services:
+80 (a) relating to operations:
+81 (i) the Division of Finance and Administration;
+82 (ii) the Division of Licensing and Background Checks;
+83 (iii) the Division of Customer Experience;
+84 (iv) the Division of Data, Systems, and Evaluation; and
+85 (v) the Division of Continuous Quality and Improvement;
+86 (b) relating to healthcare administration:
+87 (i) the Division of Integrated Healthcare, which shall include responsibility for:
+88 (A) the state's medical assistance programs; and
+89 (B) behavioral health programs described in Chapter 5, Health Care - Substance
+90 Use and Mental Health;
+91 (ii) the Division of Aging and Adult Services; and
+92 (iii) the Division of Services for People with Disabilities;
+93 (c) relating to community health and well-being:
+94 (i) the Division of Child and Family Services;
+95 (ii) the Division of Family Health;
+
+- 3 -
+
+S.B. 297 Enrolled Copy
+
+96 (iii) the Division of Population Health;
+97 (iv) the Division of Juvenile Justice and Youth Services;
+98 (v) the Office of Families; and
+99 (vi) the Office of Recovery Services; and
+100 (d) relating to clinical services, the Division of Health Access.
+101 (4) The executive director may establish offices to facilitate management of the department
+102 as required by, and in accordance with this title.
+103 (5) From July 1, 2022, through June 30, 2023, the executive director may adjust the
+104 organizational structure relating to the department, including the organization of the
+105 department's divisions and offices, notwithstanding the organizational structure
+106 described in this title.
+107 Section 2. Section 26B-1-334 is amended to read:
+108 26B-1-334 . Licensed Provider Assessment Fund -- Creation -- Deposits -- Uses.
+109 (1) There is created an expendable special revenue fund known as the "Licensed Provider
+110 Assessment Fund" consisting of:
+111 (a) the assessments collected under, and any interest and penalties levied with the
+112 administration of:
+113 (i) [Title 26B, Chapter 2, Part 2, Health Care Facility Licensing and Inspection ]
+114 Chapter 2, Part 2, Health Care Facility Licensing and Inspection Act, except
+115 assessments that comprise the Licensed Provider Civil Money Penalty Fund
+116 pursuant to Section 26B-1-336;
+117 (ii) [Title 26B, Chapter 1, Part 4, Child Care Licensing] Chapter 2, Part 1, Human
+118 Services Programs and Facilities; and
+119 (iii) [Title 26B, Chapter 2, Part 1, Human Services Programs and Facilities] Chapter
+120 2, Part 4, Child Care Licensing;
+121 (b) money appropriated or otherwise made available by the Legislature; and
+122 (c) any interest earned on the fund.
+123 (2) Money in the fund may only be used by the department:
+124 (a) for upgrades to and maintenance of licensing databases and applications;
+125 (b) for training for providers and staff;
+126 (c) to assist individuals during a facility shutdown; or
+127 (d) for administrative expenses, if the administrative expenses for the fiscal year do not
+128 exceed 3% of the money deposited into the fund during the fiscal year.
+129 Section 3. Section 26B-1-336 is enacted to read:
+
+- 4 -
+
+Enrolled Copy S.B. 297
+
+130 26B-1-336 . Licensed Provider Civil Money Penalty Fund.
+131 (1) There is created an expendable special revenue fund known as the "Licensed Provider
+132 Civil Money Penalty Fund" consisting of:
+133 (a) federal civil money penalty funds received under the federal Centers for Medicare
+134 and Medicaid Facility Licensing and Inspection Act, including any existing funds
+135 previously received and allocable to the Division of Licensing and Background
+136 Checks;
+137 (b) money appropriated or otherwise made available by the Legislature; and
+138 (c) any interest earned on the fund.
+139 (2) Money in the fund may only be used by the department under a federally approved state
+140 plan:
+141 (a) to assist individuals effected by a shutdown of a facility or program under this title;
+142 (b) for administrative expenses; or
+143 (c) for allowable activities.
+144 Section 4. Section 26B-2-101 is amended to read:
+145 26B-2-101 . Definitions.
+146 As used in this part:
+147 (1) "Abuse" means the same as that term is defined in Section 80-1-102.
+148 [(1)] (2) "Adoption services" means the same as that term is defined in Section 80-2-801.
+149 [(2)] (3) "Adult day care" means nonresidential care and supervision:
+150 (a) for three or more adults for at least four but less than 24 hours a day; and
+151 (b) that meets the needs of functionally impaired adults through a comprehensive
+152 program that provides a variety of health, social, recreational, and related support
+153 services in a protective setting.
+154 [(3)] (4) "Applicant" means a person that applies for an initial license or a license renewal
+155 under this part.
+156 [(4)] (5)(a) "Associated with the licensee" means that an individual is:
+157 (i) affiliated with a licensee as an owner, director, member of the governing body,
+158 employee, agent, provider of care, department contractor, or volunteer; or
+159 (ii) applying to become affiliated with a licensee in a capacity described in
+160 Subsection [(4)(a)(i).] (5)(a)(i).
+161 (b) "Associated with the licensee" does not include:
+162 (i) service on the following bodies, unless that service includes direct access to a
+163 child or a vulnerable adult:
+
+- 5 -
+
+S.B. 297 Enrolled Copy
+
+164 (A) a local mental health authority described in Section 17-43-301;
+165 (B) a local substance abuse authority described in Section 17-43-201; or
+166 (C) a board of an organization operating under a contract to provide mental health
+167 or substance use programs, or services for the local mental health authority or
+168 substance abuse authority; or
+169 (ii) a guest or visitor whose access to a child or a vulnerable adult is directly
+170 supervised at all times.
+171 [(5)] (6)(a) "Boarding school" means a private school that:
+172 (i) uses a regionally accredited education program;
+173 (ii) provides a residence to the school's students:
+174 (A) for the purpose of enabling the school's students to attend classes at the
+175 school; and
+176 (B) as an ancillary service to educating the students at the school;
+177 (iii) has the primary purpose of providing the school's students with an education, as
+178 defined in Subsection [(5)(b)(i); ] (6)(b)(i); and
+179 (iv)(A) does not provide the treatment or services described in Subsection [(40)(a)]
+180 (44)(a); or
+181 (B) provides the treatment or services described in Subsection [(40)(a)] (44)(a) on a limited
+basis, as
+183 described in Subsection [(5)(b)(ii)] (6)(b)(ii).
+184 (b)(i) For purposes of Subsection [(5)(a)(iii)] (6)(a)(iii), "education" means a course
+185 of study for one or more grades from kindergarten through grade 12.
+186 (ii) For purposes of Subsection [(5)(a)(iv)(B)] (6)(a)(iv)(B), a private school provides
+187 the treatment or services described in Subsection [(40)(a)] (44)(a) on a limited
+188 basis if:
+189 (A) the treatment or services described in Subsection [(40)(a)] (44)(a) are provided
+190 only as an incidental service to a student; and
+191 (B) the school does not:
+192 (I) specifically solicit a student for the purpose of providing the treatment or
+193 services described in Subsection [(40)(a); ] (44)(a); or
+194 (II) have a primary purpose of providing the treatment or services described in
+195 Subsection [(40)(a)] (44)(a).
+196 (c) "Boarding school" does not include a therapeutic school.
+197 [(6)] (7) "Certification" means a less restrictive level of licensure issued by the department.
+
+- 6 -
+
+Enrolled Copy S.B. 297
+
+198 [(7)] (8) "Child" means an individual under 18 years old.
+199 [(8)] (9) "Child placing" means receiving, accepting, or providing custody or care for any
+200 child, temporarily or permanently, for the purpose of:
+201 (a) finding a person to adopt the child;
+202 (b) placing the child in a home for adoption; or
+203 (c) foster home placement.
+204 [(9)] (10) "Child-placing agency" means a person that engages in child placing.
+205 [(10)] (11) "Client" means an individual who receives or has received services from a
+206 licensee.
+207 [(11)] (12)(a) "Congregate care program" means any of the following that provide
+208 services to a child:
+209 (i) an outdoor youth program;
+210 (ii) a residential support program;
+211 (iii) a residential treatment program; or
+212 (iv) a therapeutic school.
+213 (b) "Congregate care program" does not include a human services program that:
+214 (i) is licensed to serve adults; and
+215 (ii) is approved by the office to service a child for a limited time.
+216 [(12)] (13) "Day treatment" means specialized treatment that is provided to:
+217 (a) a client less than 24 hours a day; and
+218 (b) four or more persons who:
+219 (i) are unrelated to the owner or provider; and
+220 (ii) have emotional, psychological, developmental, physical, or behavioral
+221 dysfunctions, impairments, or chemical dependencies.
+222 [(13)] (14) "Department contractor" means an individual who:
+223 (a) provides services under a contract with the department; and
+224 (b) due to the contract with the department, has or will likely have direct access to a
+225 child or vulnerable adult.
+226 [(14)] (15) "Direct access" means that an individual has, or likely will have:
+227 (a) contact with or access to a child or vulnerable adult that provides the individual with
+228 an opportunity for personal communication or touch; or
+229 (b) an opportunity to view medical, financial, or other confidential personal identifying
+230 information of the child, the child's parents or legal guardians, or the vulnerable adult.
+231 [(15)] (16) "Directly supervised" means that an individual is being supervised under the
+
+- 7 -
+
+S.B. 297 Enrolled Copy
+
+232 uninterrupted visual and auditory surveillance of another individual who has a current
+233 background check approval issued by the office.
+234 [(16)] (17) "Director" means the director of the office.
+235 (18) "Division" means the Division of Licensing and Background Checks created under
+236 Section 26B-2-103.
+237 [(17)] (19) "Domestic violence" means the same as that term is defined in Section 77-36-1.
+238 [(18)] (20) "Domestic violence treatment program" means a nonresidential program
+239 designed to provide psychological treatment and educational services to perpetrators and
+240 victims of domestic violence.
+241 [(19)] (21) "Elder adult" means a person 65 years old or older.
+242 [(20)] (22) "Emergency safety intervention" means a tactic used to protect staff or a client
+243 from being physically injured, utilized by an appropriately trained direct care staff and
+244 only performed in accordance with a nationally or regionally recognized curriculum in
+245 the least restrictive manner to restore staff or client safety.
+246 [(21)] (23) "Foster home" means a residence that is licensed or certified by the office for the
+247 full-time substitute care of a child.
+248 (24) "Harm" means the same as that term is defined in Section 80-1-102.
+249 [(22)] (25) "Health benefit plan" means the same as that term is defined in Section
+250 31A-22-634.
+251 [(23)] (26) "Health care provider" means the same as that term is defined in Section
+252 78B-3-403.
+253 [(24)] (27) "Health insurer" means the same as that term is defined in Section 31A-22-615.5.
+254 [(25)] (28)(a) "Human services program" means:
+255 (i) a foster home;
+256 (ii) a therapeutic school;
+257 (iii) a youth program;
+258 (iv) an outdoor youth program;
+259 (v) a residential treatment program;
+260 (vi) a residential support program;
+261 (vii) a resource family home;
+262 (viii) a recovery residence; or
+263 (ix) a facility or program that provides:
+264 (A) adult day care;
+265 (B) day treatment;
+
+- 8 -
+
+Enrolled Copy S.B. 297
+
+266 (C) outpatient treatment;
+267 (D) domestic violence treatment;
+268 (E) child-placing services;
+269 (F) social detoxification; or
+270 (G) any other human services that are required by contract with the department to
+271 be licensed with the department.
+272 (b) "Human services program" does not include:
+273 (i) a boarding school;
+274 (ii) a residential, vocational and life skills program, as defined in Section 13-53-102;
+275 or
+276 (iii) a short-term relief care provider.
+277 [(26)] (29) "Indian child" means the same as that term is defined in 25 U.S.C. Sec. 1903.
+278 [(27)] (30) "Indian country" means the same as that term is defined in 18 U.S.C. Sec. 1151.
+279 [(28)] (31) "Indian tribe" means the same as that term is defined in 25 U.S.C. Sec. 1903.
+280 [(29)] (32) "Intermediate secure treatment" means 24-hour specialized residential treatment
+281 or care for an individual who:
+282 (a) cannot live independently or in a less restrictive environment; and
+283 (b) requires, without the individual's consent or control, the use of locked doors to care
+284 for the individual.
+285 [(30)] (33) "Licensee" means an individual or a human services program licensed by the
+286 office.
+287 [(31)] (34) "Local government" means a city, town, or county.
+288 [(32)] (35) "Minor" means child.
+289 [(33)] (36) "Office" means, except as provided in Section 26B-2-120, the Office of
+290 Licensing within the department.
+291 (37) "Ombudsman" means the congregate care ombudsman created in Section 26B-2-124.2.
+292 [(34)] (38) "Outdoor youth program" means a program that provides:
+293 (a) services to a child [that ] who has:
+294 (i) a chemical dependency; or
+295 (ii) a dysfunction or impairment that is emotional, psychological, developmental,
+296 physical, or behavioral;
+297 (b) a 24-hour outdoor group living environment; and
+298 (c)(i) regular therapy, including group, individual, or supportive family therapy; or
+299 (ii) informal therapy or similar services, including wilderness therapy, adventure
+
+- 9 -
+
+S.B. 297 Enrolled Copy
+
+300 therapy, or outdoor behavioral healthcare.
+301 [(35)] (39) "Outpatient treatment" means individual, family, or group therapy or counseling
+302 designed to improve and enhance social or psychological functioning for those whose
+303 physical and emotional status allows them to continue functioning in their usual living
+304 environment.
+305 [(36)] (40) "Practice group" or "group practice" means two or more health care providers
+306 legally organized as a partnership, professional corporation, or similar association, for
+307 which:
+308 (a) substantially all of the services of the health care providers who are members of the
+309 group are provided through the group and are billed in the name of the group and
+310 amounts received are treated as receipts of the group; and
+311 (b) the overhead expenses of and the income from the practice are distributed in
+312 accordance with methods previously determined by members of the group.
+313 [(37)] (41) "Private-placement child" means a child whose parent or guardian enters into a
+314 contract with a congregate care program for the child to receive services.
+315 [(38)] (42)(a) "Recovery residence" means a home, residence, or facility that meets at
+316 least two of the following requirements:
+317 (i) provides a supervised living environment for individuals recovering from a
+318 substance use disorder;
+319 (ii) provides a living environment in which more than half of the individuals in the
+320 residence are recovering from a substance use disorder;
+321 (iii) provides or arranges for residents to receive services related to the resident's
+322 recovery from a substance use disorder, either on or off site;
+323 (iv) is held out as a living environment in which individuals recovering from
+324 substance abuse disorders live together to encourage continued sobriety; or
+325 (v)(A) receives public funding; or
+326 (B) is run as a business venture, either for-profit or not-for-profit.
+327 (b) "Recovery residence" does not mean:
+328 (i) a residential treatment program;
+329 (ii) residential support program; or
+330 (iii) a home, residence, or facility, in which:
+331 (A) residents, by a majority vote of the residents, establish, implement, and
+332 enforce policies governing the living environment, including the manner in
+333 which applications for residence are approved and the manner in which
+
+- 10 -
+
+Enrolled Copy S.B. 297
+
+334 residents are expelled;
+335 (B) residents equitably share rent and housing-related expenses; and
+336 (C) a landlord, owner, or operator does not receive compensation, other than fair
+337 market rental income, for establishing, implementing, or enforcing policies
+338 governing the living environment.
+339 [(39)] (43) "Regular business hours" means:
+340 (a) the hours during which services of any kind are provided to a client; or
+341 (b) the hours during which a client is present at the facility of a licensee.
+342 [(40)] (44)(a) "Residential support program" means a program that arranges for or
+343 provides the necessities of life as a protective service to individuals or families who
+344 have a disability or who are experiencing a dislocation or emergency that prevents
+345 them from providing these services for themselves or their families.
+346 (b) "Residential support program" includes a program that provides a supervised living
+347 environment for individuals with dysfunctions or impairments that are:
+348 (i) emotional;
+349 (ii) psychological;
+350 (iii) developmental; or
+351 (iv) behavioral.
+352 (c) Treatment is not a necessary component of a residential support program.
+353 (d) "Residential support program" does not include:
+354 (i) a recovery residence; or
+355 (ii) a program that provides residential services that are performed:
+356 (A) exclusively under contract with the department and provided to individuals
+357 through the Division of Services for People with Disabilities; or
+358 (B) in a facility that serves fewer than four individuals.
+359 [(41)] (45)(a) "Residential treatment" means a 24-hour group living environment for four
+360 or more individuals unrelated to the owner or provider that offers room or board and
+361 specialized treatment, behavior modification, rehabilitation, discipline, emotional
+362 growth, or habilitation services for persons with emotional, psychological,
+363 developmental, or behavioral dysfunctions, impairments, or chemical dependencies.
+364 (b) "Residential treatment" does not include a:
+365 (i) boarding school;
+366 (ii) foster home; or
+367 (iii) recovery residence.
+
+- 11 -
+
+S.B. 297 Enrolled Copy
+
+368 [(42)] (46) "Residential treatment program" means a program or facility that provides:
+369 (a) residential treatment; or
+370 (b) intermediate secure treatment.
+371 [(43)] (47) "Seclusion" means the involuntary confinement of an individual in a room or an
+372 area:
+373 (a) away from the individual's peers; and
+374 (b) in a manner that physically prevents the individual from leaving the room or area.
+375 [(44)] (48) "Short-term relief care provider" means an individual who:
+376 (a) provides short-term and temporary relief care to a foster parent:
+377 (i) for less than six consecutive nights; and
+378 (ii) in the short-term relief care provider's home;
+379 (b) is an immediate family member or relative, as those terms are defined in Section
+380 80-3-102, of the foster parent;
+381 (c) is direct access qualified, as that term is defined in Section 26B-2-120;
+382 (d) has been approved to provide short-term relief care by the department;
+383 (e) is not reimbursed by the department for the temporary relief care provided; and
+384 (f) is not an immediate family member or relative, as those terms are defined in Section
+385 80-3-102, of the foster child.
+386 [(45)] (49) "Social detoxification" means short-term residential services for persons who are
+387 experiencing or have recently experienced drug or alcohol intoxication, that are provided
+388 outside of a health care facility licensed under Part 2, Health Care Facility Licensing and
+389 Inspection, and that include:
+390 (a) room and board for persons who are unrelated to the owner or manager of the facility;
+391 (b) specialized rehabilitation to acquire sobriety; and
+392 (c) aftercare services.
+393 [(46)] (50) "Substance abuse disorder" or "substance use disorder" mean the same as
+394 "substance use disorder" is defined in Section 26B-5-501.
+395 [(47)] (51) "Substance abuse treatment program" or "substance use disorder treatment
+396 program" means a program:
+397 (a) designed to provide:
+398 (i) specialized drug or alcohol treatment;
+399 (ii) rehabilitation; or
+400 (iii) habilitation services; and
+401 (b) that provides the treatment or services described in Subsection [(47)(a)] (51)(a) to
+
+- 12 -
+
+Enrolled Copy S.B. 297
+
+402 persons with:
+403 (i) a diagnosed substance use disorder; or
+404 (ii) chemical dependency disorder.
+405 [(48)] (52) "Therapeutic school" means a residential group living facility:
+406 (a) for four or more individuals that are not related to:
+407 (i) the owner of the facility; or
+408 (ii) the primary service provider of the facility;
+409 (b) that serves students who have a history of failing to function:
+410 (i) at home;
+411 (ii) in a public school; or
+412 (iii) in a nonresidential private school; and
+413 (c) that offers:
+414 (i) room and board; and
+415 (ii) an academic education integrated with:
+416 (A) specialized structure and supervision; or
+417 (B) services or treatment related to:
+418 (I) a disability;
+419 (II) emotional development;
+420 (III) behavioral development;
+421 (IV) familial development; or
+422 (V) social development.
+423 [(49)] (53) "Unrelated persons" means persons other than parents, legal guardians,
+424 grandparents, brothers, sisters, uncles, or aunts.
+425 [(50)] (54) "Vulnerable adult" means an elder adult or an adult who has a temporary or
+426 permanent mental or physical impairment that substantially affects the person's ability to:
+427 (a) provide personal protection;
+428 (b) provide necessities such as food, shelter, clothing, or mental or other health care;
+429 (c) obtain services necessary for health, safety, or welfare;
+430 (d) carry out the activities of daily living;
+431 (e) manage the adult's own resources; or
+432 (f) comprehend the nature and consequences of remaining in a situation of abuse,
+433 neglect, or exploitation.
+434 [(51)] (55)(a) "Youth program" means a program designed to provide behavioral,
+435 substance use, or mental health services to minors that:
+
+- 13 -
+
+S.B. 297 Enrolled Copy
+
+436 (i) serves adjudicated or nonadjudicated youth;
+437 (ii) charges a fee for the program's services;
+438 (iii) may provide host homes or other arrangements for overnight accommodation of
+439 the youth;
+440 (iv) may provide all or part of the program's services in the outdoors;
+441 (v) may limit or censor access to parents or guardians; and
+442 (vi) prohibits or restricts a minor's ability to leave the program at any time of the
+443 minor's own free will.
+444 (b) "Youth program" does not include recreational programs such as Boy Scouts, Girl
+445 Scouts, 4-H, and other such organizations.
+446 [(52)] (56)(a) "Youth transportation company" means any person that transports a child
+447 for payment to or from a congregate care program in Utah.
+448 (b) "Youth transportation company" does not include:
+449 (i) a relative of the child;
+450 (ii) a state agency; or
+451 (iii) a congregate care program's employee who transports the child from the
+452 congregate care program that employs the employee and returns the child to the
+453 same congregate care program.
+454 Section 5. Section 26B-2-104 is amended to read:
+455 26B-2-104 . Division responsibilities.
+456 (1) Subject to the requirements of federal and state law, the office shall:
+457 (a) make rules in accordance with Title 63G, Chapter 3, Utah Administrative
+458 Rulemaking Act, to establish:
+459 (i) except as provided in Subsection (1)(a)(ii), basic health and safety standards for
+460 licensees, that shall be limited to:
+461 (A) fire safety;
+462 (B) food safety;
+463 (C) sanitation;
+464 (D) infectious disease control;
+465 (E) safety of the:
+466 (I) physical facility and grounds; and
+467 (II) area and community surrounding the physical facility;
+468 (F) transportation safety;
+469 (G) emergency preparedness and response;
+
+- 14 -
+
+Enrolled Copy S.B. 297
+
+470 (H) the administration of medical standards and procedures, consistent with the
+471 related provisions of this title;
+472 (I) staff and client safety and protection;
+473 (J) the administration and maintenance of client and service records;
+474 (K) staff qualifications and training, including standards for permitting experience
+475 to be substituted for education, unless prohibited by law;
+476 (L) staff to client ratios;
+477 (M) access to firearms; and
+478 (N) the prevention of abuse, neglect, exploitation, harm, mistreatment, or fraud;
+479 (ii) basic health and safety standards for therapeutic schools, that shall be limited to:
+480 (A) fire safety, except that the standards are limited to those required by law or
+481 rule under Title 53, Chapter 7, Part 2, Fire Prevention and Fireworks Act;
+482 (B) food safety;
+483 (C) sanitation;
+484 (D) infectious disease control, except that the standards are limited to:
+485 (I) those required by law or rule under this title, or Title 26A, Local Health
+486 Authorities; and
+487 (II) requiring a separate room for clients who are sick;
+488 (E) safety of the physical facility and grounds, except that the standards are
+489 limited to those required by law or rule under Title 53, Chapter 7, Part 2, Fire
+490 Prevention and Fireworks Act;
+491 (F) transportation safety;
+492 (G) emergency preparedness and response;
+493 (H) access to appropriate medical care, including:
+494 (I) subject to the requirements of law, designation of a person who is
+495 authorized to dispense medication; and
+496 (II) storing, tracking, and securing medication;
+497 (I) staff and client safety and protection that permits the school to provide for the
+498 direct supervision of clients at all times;
+499 (J) the administration and maintenance of client and service records;
+500 (K) staff qualifications and training, including standards for permitting experience
+501 to be substituted for education, unless prohibited by law;
+502 (L) staff to client ratios;
+503 (M) access to firearms; and
+
+- 15 -
+
+S.B. 297 Enrolled Copy
+
+504 (N) the prevention of abuse, neglect, exploitation, harm, mistreatment, or fraud;
+505 (iii) procedures and standards for permitting a licensee to:
+506 (A) provide in the same facility and under the same conditions as children,
+507 residential treatment services to a person 18 years old or older who:
+508 (I) begins to reside at the licensee's residential treatment facility before the
+509 person's 18th birthday;
+510 (II) has resided at the licensee's residential treatment facility continuously since
+511 the time described in Subsection (1)(a)(iii)(A)(I);
+512 (III) has not completed the course of treatment for which the person began
+513 residing at the licensee's residential treatment facility; and
+514 (IV) voluntarily consents to complete the course of treatment described in
+515 Subsection (1)(a)(iii)(A)(III); or
+516 (B)(I) provide residential treatment services to a child who is:
+517 (Aa) at least 12 years old or, as approved by the [office] division, younger
+518 than 12 years old; and
+519 (Bb) under the custody of the department, or one of its divisions; and
+520 (II) provide, in the same facility as a child described in Subsection
+521 (1)(a)(iii)(B)(I), residential treatment services to a person who is:
+522 (Aa) at least 18 years old, but younger than 21 years old; and
+523 (Bb) under the custody of the department, or one of its divisions;
+524 (iv) minimum administration and financial requirements for licensees;
+525 (v) guidelines for variances from rules established under this Subsection (1);
+526 (vi) ethical standards, as described in Subsection 78B-6-106(3), and minimum
+527 responsibilities of a child-placing agency that provides adoption services and that
+528 is licensed under this part;
+529 (vii) what constitutes an "outpatient treatment program" for purposes of this part;
+530 (viii) a procedure requiring a licensee to provide an insurer the licensee's records
+531 related to any services or supplies billed to the insurer[,] and a procedure allowing
+532 the licensee and the insurer to contact the Insurance Department to resolve any
+533 disputes;
+534 (ix) a protocol for the office to investigate and process complaints about licensees;
+535 (x) a procedure for a licensee to:
+536 (A) report the use of a restraint or seclusion within one business day after the day
+537 on which the use of the restraint or seclusion occurs;[ and]
+
+- 16 -
+
+Enrolled Copy S.B. 297
+
+538 (B) report a critical incident within one business day after the day on which the
+539 incident occurs; and
+540 (C) comply with any requirements of this part;
+541 (xi) guidelines for the policies and procedures described in Sections 26B-2-109 and
+542 26B-2-123;
+543 (xii) a procedure for the [office ] division to review and approve the policies and
+544 procedures described in Sections 26B-2-109 and 26B-2-123;[ and]
+545 (xiii) a requirement that each human services program publicly post information that
+546 informs an individual how to submit a complaint about a human services program
+547 to the [office] division; and
+548 (xiv) requirements for disruption plans under Section 26B-2-124;
+549 (b) enforce rules relating to the [office] division;
+550 (c) issue licenses in accordance with this part;
+551 (d) if the United States Department of State executes an agreement with the [office]
+552 division that designates the [office ] division to act as an accrediting entity in
+553 accordance with the Intercountry Adoption Act of 2000, Pub. L. No. 106-279,
+554 accredit one or more agencies and persons to provide intercountry adoption services
+555 pursuant to:
+556 (i) the Intercountry Adoption Act of 2000, Pub. L. No. 106-279; and
+557 (ii) the implementing regulations for the Intercountry Adoption Act of 2000, Pub. L.
+558 No. 106-279;
+559 (e) make rules to implement the provisions of Subsection (1)(d);
+560 (f) conduct surveys and inspections of licensees and facilities in accordance with Section
+561 26B-2-107;
+562 (g) collect licensure fees;
+563 (h) notify licensees of the name of a person within the department to contact when filing
+564 a complaint;
+565 (i) investigate complaints regarding any licensee or human services program;
+566 (j) have access to all records, correspondence, and financial data required to be
+567 maintained by a licensee;
+568 (k) have authority to interview any client, family member of a client, employee, or
+569 officer of a licensee;
+570 (l) have authority to deny, condition, revoke, suspend, or extend any license issued by
+571 the department under this part by following the procedures and requirements of Title
+
+- 17 -
+
+S.B. 297 Enrolled Copy
+
+572 63G, Chapter 4, Administrative Procedures Act;
+573 (m) cooperate with the Division of Child and Family Services to condition, revoke, or
+574 suspend the license of a foster home when a child welfare caseworker from the
+575 Division of Child and Family Services identifies a safety concern with the foster
+576 home;
+577 (n) electronically post notices of agency action issued to a human services program, with
+578 the exception of a foster home, on the [office's ] division's website, in accordance with
+579 Title 63G, Chapter 2, Government Records Access and Management Act; and
+580 (o) upon receiving a local government's request under Section 26B-2-118, notify the
+581 local government of new human services program license applications, except for
+582 foster homes, for human services programs located within the local government's
+583 jurisdiction.
+584 (2) In establishing rules under Subsection (1)(a)(ii)(G), the [office ] division shall require a
+585 licensee to establish and comply with an emergency response plan that requires clients
+586 and staff to:
+587 (a) immediately report to law enforcement any significant criminal activity, as defined
+588 by rule, committed:
+589 (i) on the premises where the licensee operates its human services program;
+590 (ii) by or against its clients; or
+591 (iii) by or against a staff member while the staff member is on duty;
+592 (b) immediately report to emergency medical services any medical emergency, as
+593 defined by rule:
+594 (i) on the premises where the licensee operates[ its human services program] a
+595 program;
+596 (ii) involving its clients; or
+597 (iii) involving a staff member while the staff member is on duty; and
+598 (c) immediately report other emergencies that occur on the premises where the licensee
+599 operates its human services program to the appropriate emergency services agency.
+600 Section 6. Section 26B-2-107 is amended to read:
+601 26B-2-107 . Administrative inspections.
+602 (1) As used in this section:
+603 (a) "Foster home" does not include a residence that is licensed or certified for proctor
+604 care or care by a professional parent.
+605 (b) "Material change" means a significant change in circumstances that may include:
+
+- 18 -
+
+Enrolled Copy S.B. 297
+
+606 (i) a loss or gain of employment;
+607 (ii) a change in marital status;
+608 (iii) a change of individuals living in the home; or
+609 (iv) other changes that may affect a foster child's well-being.
+610 (2)(a) Subject to Subsections (2)(b) and (3), the office may, for the purpose of
+611 ascertaining compliance with this part, enter and inspect on a routine basis the facility
+612 or program of a licensee.
+613 (b)(i) The office shall enter and inspect a congregate care program at least once each
+614 calendar quarter.
+615 (ii) At least two of the inspections described in Subsection (2)(b)(i) shall be
+616 unannounced.
+617 (iii) The division shall verify whether a congregate care program maintains strict
+618 compliance with the program's approved admissions criteria under Section
+619 26B-2-124 at least quarterly.
+620 (c) If another government entity conducts an inspection that is substantially similar to an
+621 inspection conducted by the office, the office may conclude the inspection satisfies
+622 an inspection described in Subsection (2)(b).
+623 (3)(a) Except as provided in Subsection (3)(b):
+624 (i) for the first two years of a foster home's license, the [office] division shall enter
+625 and inspect the facility once each year;
+626 (ii) after a foster home has been licensed for two years, the [office] division shall enter
+627 and inspect the facility once every three years; and
+628 (iii) for a foster home licensed for two or more years as of May 1, 2023, and that was
+629 inspected by the office on or after May 1, 2023, the office may not enter and
+630 inspect the facility until three years after the date of the last inspection.
+631 (b)(i) If a foster home has not had a placement for more than 12 months after the date
+632 of the office's last inspection, the office shall enter and inspect the [facility] home
+633 within 30 days after the date on which the foster home receives a new placement.
+634 (ii) If the license for a foster home is placed on conditions, suspended, or revoked by
+635 the office, or voluntarily returned to the office by the licensee, the office may
+636 enter and inspect the [facility] home on a routine basis.
+637 (iii) If there is a material change to a foster home:
+638 (A) the foster parent shall immediately notify the office of the material change; and
+639 (B) the office shall inspect the foster home as soon as practicable after receiving
+
+- 19 -
+
+S.B. 297 Enrolled Copy
+
+640 notice of or otherwise becoming aware of the material change.
+641 (iv) If a health and safety concern is reported to the office, the office may conduct an
+642 unannounced inspection of the foster home during regular business hours.
+643 (c) Except as provided in Subsection (3)(b)(iv), an inspection of a foster home shall be
+644 announced.
+645 (4) Before conducting an inspection under Subsection (2) or (3), the office shall, after
+646 identifying the person in charge:
+647 (a) give proper identification;
+648 (b) request to see the applicable license;
+649 (c) describe the nature and purpose of the inspection; and
+650 (d) if necessary, explain the authority of the office to conduct the inspection and the
+651 penalty for refusing to permit the inspection as provided in Section 26B-2-707.
+652 (5) In conducting an inspection under Subsection (2) or (3), the office may, after meeting
+653 the requirements of Subsection (4):
+654 (a) inspect the physical facilities;
+655 (b) inspect and copy records and documents;
+656 (c) interview officers, employees, clients, family members of clients, and others; and
+657 (d) observe the licensee in operation.
+658 (6) An inspection conducted under Subsection (2) shall be during regular business hours
+659 and may be announced or unannounced.
+660 (7) The licensee shall make copies of inspection reports available to the public upon request.
+661 (8) The provisions of this section apply to on-site inspections and do not restrict the office
+662 from contacting family members, neighbors, or other individuals, or from seeking
+663 information from other sources to determine compliance with this part.
+664 Section 7. Section 26B-2-120 is amended to read:
+665 26B-2-120 . Background check -- Direct access to children or vulnerable adults.
+666 (1) As used in this section:
+667 (a)(i) "Applicant" means an individual who is associated with a certification,
+668 contract, or licensee with the department under this part and has direct access,
+669 including:
+670 (A) an adoptive parent or prospective adoptive parent, including an applicant for
+671 an adoption in accordance with Section 78B-6-128;
+672 (B) a foster parent or prospective foster parent;
+673 (C) an individual who provides respite care to a foster parent or an adoptive parent
+
+- 20 -
+
+Enrolled Copy S.B. 297
+
+674 on more than one occasion;
+675 (D) an individual who transports a child for a youth transportation company;
+676 (E) an individual who provides certified peer support, as defined in Section
+677 26B-5-610;
+678 (F) an individual who provides peer supports, has a disability or a family member
+679 with a disability, or is in recovery from a mental illness or a substance use
+680 disorder;
+681 (G) an individual who has lived experience with the services provided by the
+682 department, and uses that lived experience to provide support, guidance, or
+683 services to promote resiliency and recovery;
+684 (H) an individual who is identified as a mental health professional, licensed under
+685 Title 58, Chapter 60, Mental Health Professional Practice Act, and engaged in
+686 the practice of mental health therapy, as defined in Section 58-60-102;
+687 (I) an individual, other than the child or vulnerable adult receiving the service,
+688 who is 12 years old or older and resides in a home, that is licensed or certified
+689 by the division;
+690 (J) an individual who is 12 years old or older and is associated with a certification,
+691 contract, or licensee with the department under this part and has or will likely
+692 have direct access;
+693 (K) a foster home licensee that submits an application for an annual background
+694 screening as required by Subsection 26B-2-105(4)(d)(iii); or
+695 (L) a short-term relief care provider.
+696 (ii) "Applicant" does not include:
+697 (A) an individual who is in the custody of the Division of Child and Family
+698 Services or the Division of Juvenile Justice and Youth Services;
+699 (B) an individual who applies for employment with, or is employed by, the
+700 Department of Health and Human Services;
+701 (C) a parent of a person receiving services from the Division of Services for
+702 People with Disabilities, if the parent provides direct care to and resides with
+703 the person, including if the parent provides direct care to and resides with the
+704 person pursuant to a court order; or
+705 (D) an individual or a department contractor who provides services in an adults
+706 only substance use disorder program, as defined by rule adopted by the
+707 Department of Health and Human Services in accordance with Title 63G,
+
+- 21 -
+
+S.B. 297 Enrolled Copy
+
+708 Chapter 3, Utah Administrative Rulemaking Act, and who is not a program
+709 director or a member, as defined by Section 26B-2-105, of the program.
+710 (b) "Application" means a background check application to the office.
+711 (c) "Bureau" means the Bureau of Criminal Identification within the Department of
+712 Public Safety, created in Section 53-10-201.
+713 (d) "Criminal finding" means a record of:
+714 (i) an arrest for a criminal offense;
+715 (ii) a warrant for a criminal arrest;
+716 (iii) charges for a criminal offense; or
+717 (iv) a criminal conviction.
+718 (e) "Direct access" means that an individual has, or likely will have:
+719 (i) contact with or access to a child or vulnerable adult by which the individual will
+720 have the opportunity for personal communication or touch with the child or
+721 vulnerable adult; or
+722 (ii) an opportunity to view medical, financial, or other confidential personal
+723 identifying information of the child, the child's parent or legal guardian, or the
+724 vulnerable adult.
+725 (f)(i) "Direct access qualified" means that the applicant has an eligible determination
+726 by the office within the license and renewal time period; and
+727 (ii) no more than 180 days have passed since the date on which the applicant's
+728 association with a certification, contract, or licensee with the department expires.
+729 (g) "Incidental care" means occasional care, not in excess of five hours per week and
+730 never overnight, for a foster child.
+731 (h) "Licensee" means an individual or a human services program licensed by the
+732 division.
+733 (i) "Non-criminal finding" means a record maintained in:
+734 (i) the Division of Child and Family Services' Management Information System
+735 described in Section 80-2-1001;
+736 (ii) the Division of Child and Family Services' Licensing Information System
+737 described in Section 80-2-1002;
+738 (iii) the Division of Aging and Adult Services' vulnerable adult abuse, neglect, or
+739 exploitation database described in Section 26B-6-210;
+740 (iv) juvenile court arrest, adjudication, and disposition records;
+741 (v) the Sex, Kidnap, and Child Abuse Offender Registry described in Title 77,
+
+- 22 -
+
+Enrolled Copy S.B. 297
+
+742 Chapter 41, Sex, Kidnap, and Child Abuse Offender Registry, or a national sex
+743 offender registry; or
+744 (vi) a state child abuse or neglect registry.
+745 (j) "Office" means the Office of Background Processing within the department.
+746 (k) "Personal identifying information" means:
+747 (i) current name, former names, nicknames, and aliases;
+748 (ii) date of birth;
+749 (iii) physical address and email address;
+750 (iv) telephone number;
+751 (v) driver license or other government-issued identification;
+752 (vi) social security number;
+753 (vii) only for applicants who are 18 years old or older, fingerprints, in a form
+754 specified by the office; and
+755 (viii) other information specified by the office by rule made in accordance with Title
+756 63G, Chapter 3, Utah Administrative Rulemaking Act.
+757 (2) Except as provided in Subsection (12), an applicant or a representative shall submit the
+758 following to the office:
+759 (a) personal identifying information;
+760 (b) a fee established by the office under Section 63J-1-504;
+761 (c) a disclosure form, specified by the office, for consent for:
+762 (i) an initial background check upon association with a certification, contract, or
+763 licensee with the department;
+764 (ii) ongoing monitoring of fingerprints and registries until no longer associated with a
+765 certification, contract, or licensee with the department for 180 days;
+766 (iii) a background check when the office determines that reasonable cause exists; and
+767 (iv) retention of personal identifying information, including fingerprints, for
+768 monitoring and notification as described in Subsections (3)(c) and (4);
+769 (d) if an applicant resided outside of the United States and its territories during the five
+770 years immediately preceding the day on which the information described in
+771 Subsections (2)(a) through (c) is submitted to the office, documentation establishing
+772 whether the applicant was convicted of a crime during the time that the applicant
+773 resided outside of the United States or its territories; and
+774 (e) an application showing an applicant's association with a certification, contract, or a
+775 licensee with the department, for the purpose of the office tracking the direct access
+
+- 23 -
+
+S.B. 297 Enrolled Copy
+
+776 qualified status of the applicant, which expires 180 days after the date on which the
+777 applicant is no longer associated with a certification, contract, or a licensee with the
+778 department.
+779 (3) The office:
+780 (a) shall perform the following duties as part of a background check of an applicant
+781 before the office grants or denies direct access qualified status to an applicant:
+782 (i) check state and regional criminal background databases for the applicant's
+783 criminal history by:
+784 (A) submitting personal identifying information to the bureau for a search; or
+785 (B) using the applicant's personal identifying information to search state and
+786 regional criminal background databases as authorized under Section 53-10-108;
+787 (ii) submit the applicant's personal identifying information and fingerprints to the
+788 bureau for a criminal history search of applicable national criminal background
+789 databases;
+790 (iii) search the Division of Child and Family Services' Licensing Information System
+791 described in Section 80-2-1002;
+792 (iv) search the Sex, Kidnap, and Child Abuse Offender Registry described in Title
+793 77, Chapter 41, Sex, Kidnap, and Child Abuse Offender Registry, or a national
+794 sex offender registry for an applicant 18 years old or older;
+795 (v) search the Division of Child and Family Services' Management Information
+796 System in Section 80-2-1001, if the applicant [is associated with a licensee for ] is:
+797 (A) a prospective foster or adoptive parent[, search the Division of Child and
+798 Family Services' Management Information System described in Section
+799 80-2-1001;] ;
+800 (B) an employee of a congregate care program; or
+801 (C) an adult who lives in a foster home.
+802 (vi) search the Division of Aging and Adult Services' vulnerable adult abuse, neglect,
+803 or exploitation database described in Section 26B-6-210;
+804 (vii) search the juvenile court records for substantiated findings of severe child abuse
+805 or neglect described in Section 80-3-404; and
+806 (viii) search the juvenile court arrest, adjudication, and disposition records, as
+807 provided under Section 78A-6-209;
+808 (b) may conduct all or portions of a background check in connection with determining
+809 whether an applicant is direct access qualified, as provided by rule, made by the
+
+- 24 -
+
+Enrolled Copy S.B. 297
+
+810 office in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act:
+811 (i) for an annual renewal; or
+812 (ii) when the office determines that reasonable cause exists;
+813 (c) may submit an applicant's personal identifying information, including fingerprints, to
+814 the bureau for checking, retaining, and monitoring of state and national criminal
+815 background databases and for notifying the office of new criminal activity associated
+816 with the applicant;
+817 (d) shall track the status of an applicant under this section to ensure that the applicant is
+818 not required to duplicate the submission of the applicant's fingerprints if the applicant
+819 is associated with more than one certification, contract, or licensee with the
+820 department;
+821 (e) shall notify the bureau when a direct access qualified individual has not been
+822 associated with a certification, contract, or licensee with the department for a period
+823 of 180 days;
+824 (f) shall adopt measures to strictly limit access to personal identifying information solely
+825 to the individuals responsible for processing and entering the applications for
+826 background checks and to protect the security of the personal identifying information
+827 the office reviews under this Subsection (3);
+828 (g) as necessary to comply with the federal requirement to check a state's child abuse
+829 and neglect registry regarding any applicant working in a congregate care program,
+830 shall:
+831 (i) search the Division of Child and Family Services' Licensing Information System
+832 described in Section 80-2-1002; and
+833 (ii) require the child abuse and neglect registry be checked in each state where an
+834 applicant resided at any time during the five years immediately preceding the day
+835 on which the application is submitted to the office; and
+836 (h) shall make rules, in accordance with Title 63G, Chapter 3, Utah Administrative
+837 Rulemaking Act, to implement the provisions of this Subsection (3) relating to
+838 background checks.
+839 (4)(a) With the personal identifying information the office submits to the bureau under
+840 Subsection (3), the bureau shall check against state and regional criminal background
+841 databases for the applicant's criminal history.
+842 (b) With the personal identifying information and fingerprints the office submits to the
+843 bureau under Subsection (3), the bureau shall check against national criminal
+
+- 25 -
+
+S.B. 297 Enrolled Copy
+
+844 background databases for the applicant's criminal history.
+845 (c) Upon direction from the office, and with the personal identifying information and
+846 fingerprints the office submits to the bureau under Subsection (3)(c), the bureau shall:
+847 (i) maintain a separate file of the fingerprints for search by future submissions to the
+848 local and regional criminal records databases, including latent prints; and
+849 (ii) monitor state and regional criminal background databases and identify criminal
+850 activity associated with the applicant.
+851 (d) The bureau is authorized to submit the fingerprints to the Federal Bureau of
+852 Investigation Next Generation Identification System, to be retained in the Federal
+853 Bureau of Investigation Next Generation Identification System for the purpose of:
+854 (i) being searched by future submissions to the national criminal records databases,
+855 including the Federal Bureau of Investigation Next Generation Identification
+856 System and latent prints; and
+857 (ii) monitoring national criminal background databases and identifying criminal
+858 activity associated with the applicant.
+859 (e) The [Bureau] bureau shall notify and release to the office all information of criminal
+860 activity associated with the applicant.
+861 (f) Upon notice that an individual who has direct access qualified status will no longer
+862 be associated with a certification, contract, or licensee with the department, the
+863 bureau shall:
+864 (i) discard and destroy any retained fingerprints; and
+865 (ii) notify the Federal Bureau of Investigation when the license has expired or an
+866 individual's direct access to a child or a vulnerable adult has ceased, so that the
+867 Federal Bureau of Investigation will discard and destroy the retained fingerprints
+868 from the Federal Bureau of Investigation Next Generation Identification System.
+869 (5)(a) Except as provided in Subsection (5)(b), the office shall deny direct access
+870 qualified status to an applicant who, within three years from the date on which the
+871 office conducts the background check, was convicted of:
+872 (i) a felony or misdemeanor involving conduct that constitutes any of the following:
+873 (A) an offense identified as domestic violence, lewdness, voyeurism, battery,
+874 cruelty to animals, or bestiality;
+875 (B) a violation of any pornography law, including sexual exploitation of a minor
+876 or aggravated sexual exploitation of a minor;
+877 (C) sexual solicitation or prostitution;
+
+- 26 -
+
+Enrolled Copy S.B. 297
+
+878 (D) a violent offense committed in the presence of a child, as described in Section
+879 76-3-203.10;
+880 (E) an offense included in Title 76, Chapter 4, Part 4, Enticement of a Minor;
+881 (F) an offense included in Title 76, Chapter 5, Offenses Against the Individual;
+882 (G) an offense included in Title 76, Chapter 5b, Sexual Exploitation Act;
+883 (H) an offense included in Title 76, Chapter 7, Offenses Against the Family;
+884 (I) an offense included in Title 76, Chapter 9, Part 4, Offenses Against Privacy;
+885 (J) an offense included in Title 76, Chapter 10, Part 4, Weapons of Mass
+886 Destruction;
+887 (K) an offense included in Title 78B, Chapter 7, Protective Orders and Stalking
+888 Injunctions;
+889 (L) aggravated arson, as described in Section 76-6-103;
+890 (M) aggravated burglary, as described in Section 76-6-203;
+891 (N) aggravated exploitation of prostitution, as described in Section 76-10-1306;
+892 (O) aggravated robbery, as described in Section 76-6-302;
+893 (P) endangering persons in a human services program, as described in Section
+894 26B-2-113;
+895 (Q) failure to report, as described in Section 80-2-609;
+896 (R) identity fraud crime, as described in Section 76-6-1102;
+897 (S) leaving a child unattended in a motor vehicle, as described in Section
+898 76-10-2202;
+899 (T) riot, as described in Section 76-9-101;
+900 (U) sexual battery, as described in Section 76-9-702.1; or
+901 (V) threatening with or using a dangerous weapon in a fight or quarrel, as
+902 described in Section 76-10-506; or
+903 (ii) a felony or misdemeanor offense committed outside of the state that, if committed
+904 in the state, would constitute a violation of an offense described in Subsection
+905 (5)(a)(i).
+906 (b)(i) Subsection (5)(a) does not apply to an applicant who is seeking a position as a
+907 peer support provider or a mental health professional, if the applicant provides
+908 services in a program that serves only adults with a primary mental health
+909 diagnosis, with or without a co-occurring substance use disorder.
+910 (ii) The office shall conduct a comprehensive review of an applicant described in
+911 Subsection (5)(b)(i) in accordance with Subsection (7).
+
+- 27 -
+
+S.B. 297 Enrolled Copy
+
+912 (c) [The] Subject to Subsection (5)(d), the office shall deny direct access qualified status
+913 to an applicant [if] who:
+914 (i) [the office finds that ]a court order prohibits [the applicant ]from having direct
+915 access to a child or vulnerable adult[.] ; or
+916 (ii) is an applicant for a congregate care program and:
+917 (A) is subject to an open investigation for a non-criminal finding; or
+918 (B) has a supported non-criminal finding, excluding a supported finding for
+919 dependency, as defined in Section 80-1-102, within three years from the date
+920 on which the office conducts the background check.
+921 (d)(i) Subsection (5)(c) does not apply retrospectively for congregate care program
+922 employees who have an approved background screening on or before July 1,
+923 2025; or
+924 (ii) notwithstanding Subsection (5)(c)(ii)(A), the division may grant temporary direct
+925 access qualified status to an applicant subject to a condition that the applicant is
+926 directly supervised at all times.
+927 (6) The office shall conduct a comprehensive review of an applicant's background check if
+928 the applicant:
+929 (a) has a felony or class A misdemeanor conviction that is more than three years from
+930 the date on which the office conducts the background check, for an offense described
+931 in Subsection (5)(a);
+932 (b) has a felony charge or conviction that is no more than 10 years from the date on
+933 which the office conducts the background check for an offense not described in
+934 Subsection (5)(a);
+935 (c) has a felony charge or conviction that is more than 10 years from the date on which
+936 the office conducts the background check, for an offense not described in Subsection
+937 (5)(a), with criminal or non-criminal findings after the date of the felony charge or
+938 conviction;
+939 (d) has a class B misdemeanor or class C misdemeanor conviction that is more than
+940 three years and no more than 10 years from the date on which the office conducts the
+941 background check for an offense described in Subsection (5)(a);
+942 (e) has a class B misdemeanor or class C misdemeanor conviction that is more than 10
+943 years from the date on which the office conducts the background check, for an
+944 offense described in Subsection (5)(a), with criminal or non-criminal findings after
+945 the date of conviction;
+
+- 28 -
+
+Enrolled Copy S.B. 297
+
+946 (f) has a misdemeanor charge or conviction that is no more than three years from the
+947 date on which the office conducts the background check for an offense not described
+948 in Subsection (5)(a);
+949 (g) has a misdemeanor charge or conviction that is more than three years from the date
+950 on which the office conducts the background check, for an offense not described in
+951 Subsection (5)(a), with criminal or non-criminal findings after the date of charge or
+952 conviction;
+953 (h) is currently subject to a plea in abeyance or diversion agreement for an offense
+954 described in Subsection (5)(a);
+955 (i) appears on the Sex, Kidnap, and Child Abuse Offender Registry described in Title
+956 77, Chapter 41, Sex, Kidnap, and Child Abuse Offender Registry, or a national sex
+957 offender registry;
+958 (j) has a record of an adjudication in juvenile court for an act that, if committed by an
+959 adult, would be a felony or misdemeanor, if the applicant is:
+960 (i) under 28 years old; or
+961 (ii) 28 years old or older and has been convicted of, has pleaded no contest to, or is
+962 currently subject to a plea in abeyance or diversion agreement for a felony or a
+963 misdemeanor offense described in Subsection (5)(a);
+964 (k) has a pending charge for an offense described in Subsection (5)(a);
+965 (l) has a [listing ] supported finding that occurred no more than 15 years from the date on
+966 which the office conducts the background check in the Division of Child and Family
+967 Services' Licensing Information System described in Section 80-2-1002;
+968 (m) has a [listing] supported finding that occurred more than 15 years from the date on
+969 which the office conducts the background check in the Division of Child and Family
+970 Services' Licensing Information System described in Section 80-2-1002, with
+971 criminal or non-criminal findings after the date of the listing;
+972 (n) has a listing that occurred no more than 15 years from the date on which the office
+973 conducts the background check in the Division of Aging and Adult Services'
+974 vulnerable adult abuse, neglect, or exploitation database described in Section
+975 26B-6-210;
+976 (o) has a listing that occurred more than 15 years from the date on which the office
+977 conducts the background check in the Division of Aging and Adult Services'
+978 vulnerable adult abuse, neglect, or exploitation database described in Section
+979 26B-6-210, with criminal or non-criminal findings after the date of the listing;
+
+- 29 -
+
+S.B. 297 Enrolled Copy
+
+980 (p) has a substantiated finding that occurred no more than 15 years from the date on
+981 which the office conducts the background check of severe child abuse or neglect
+982 under Section 80-3-404 or 80-3-504[ ]; or
+983 (q) has a substantiated finding that occurred more than 15 years from the date on which
+984 the office conducts the background check of severe child abuse or neglect under
+985 Section 80-3-404 or 80-3-504, with criminal or non-criminal findings after the date of
+986 the listing.
+987 (7)(a) The comprehensive review shall include an examination of:
+988 (i) the date of the offense or incident;
+989 (ii) the nature and seriousness of the offense or incident;
+990 (iii) the circumstances under which the offense or incident occurred;
+991 (iv) the age of the perpetrator when the offense or incident occurred;
+992 (v) whether the offense or incident was an isolated or repeated incident;
+993 (vi) whether the offense or incident directly relates to abuse of a child or vulnerable
+994 adult, including:
+995 (A) actual or threatened, nonaccidental physical, mental, or financial harm;
+996 (B) sexual abuse;
+997 (C) sexual exploitation; or
+998 (D) negligent treatment;
+999 (vii) any evidence provided by the applicant of rehabilitation, counseling, psychiatric
+1000 treatment received, or additional academic or vocational schooling completed;
+1001 (viii) the applicant's risk of harm to clientele in the program or in the capacity for
+1002 which the applicant is applying; and
+1003 (ix) if the background check of an applicant is being conducted for the purpose of
+1004 giving direct access qualified status to an applicant seeking a position in a
+1005 congregate care program or to become a prospective foster or adoptive parent, any
+1006 listing in the Division of Child and Family Services' Management Information
+1007 System described in Section 80-2-1001.
+1008 (b) At the conclusion of the comprehensive review, the office shall deny direct access
+1009 qualified status to an applicant if the office finds the approval would likely create a
+1010 risk of harm to a child or vulnerable adult.
+1011 (8) The office shall grant direct access qualified status to an applicant who is not denied
+1012 under this section.
+1013 (9)(a) The office may conditionally grant direct access qualified status to an applicant,
+
+- 30 -
+
+Enrolled Copy S.B. 297
+
+1014 for a maximum of 60 days after the day on which the office sends written notice,
+1015 without requiring that the applicant be directly supervised, if the office:
+1016 (i) is awaiting the results of the criminal history search of national criminal
+1017 background databases; and
+1018 (ii) would otherwise grant direct access qualified status to the applicant under this
+1019 section.
+1020 (b) The office may conditionally grant direct access qualified status to an applicant, for a
+1021 maximum of one year after the day on which the office sends written notice, without
+1022 requiring that the applicant be directly supervised if the office:
+1023 (i) is awaiting the results of an out-of-state registry for providers other than foster and
+1024 adoptive parents; and
+1025 (ii) would otherwise grant direct access qualified status to the applicant under this
+1026 section.
+1027 (c) Upon receiving the results of the criminal history search of a national criminal
+1028 background database, the office shall grant or deny direct access qualified status to
+1029 the applicant in accordance with this section.
+1030 (10)(a) Each time an applicant is associated with a licensee, the department shall review
+1031 the current status of the applicant's background check to ensure the applicant is still
+1032 eligible for direct access qualified status in accordance with this section.
+1033 (b) A licensee may not permit an individual to have direct access to a child or a
+1034 vulnerable adult without being directly supervised unless:
+1035 (i) the individual is the parent or guardian of the child, or the guardian of the
+1036 vulnerable adult;
+1037 (ii) the individual is approved by the parent or guardian of the child, or the guardian
+1038 of the vulnerable adult, to have direct access to the child or the vulnerable adult;
+1039 (iii) the individual is only permitted to have direct access to a vulnerable adult who
+1040 voluntarily invites the individual to visit; or
+1041 (iv) the individual only provides incidental care for a foster child on behalf of a foster
+1042 parent who has used reasonable and prudent judgment to select the individual to
+1043 provide the incidental care for the foster child.
+1044 (c) Notwithstanding any other provision of this section, an applicant who is denied direct
+1045 access qualified status shall not have direct access to a child or vulnerable adult
+1046 unless the office grants direct access qualified status to the applicant through a
+1047 subsequent application in accordance with this section.
+
+- 31 -
+
+S.B. 297 Enrolled Copy
+
+1048 (11) If the office denies direct access qualified status to an applicant, the applicant may
+1049 request a hearing in the department's Office of Administrative Hearings to challenge the
+1050 office's decision.
+1051 (12)(a) This Subsection (12) applies to an applicant associated with a certification,
+1052 contract, or licensee serving adults only.
+1053 (b) A program director or a member, as defined in Section 26B-2-105, of the licensee
+1054 shall comply with this section.
+1055 (c) The office shall conduct a comprehensive review for an applicant if:
+1056 (i) the applicant is seeking a position:
+1057 (A) as a peer support provider;
+1058 (B) as a mental health professional; or
+1059 (C) in a program that serves only adults with a primary mental health diagnosis,
+1060 with or without a co-occurring substance use disorder; and
+1061 (ii) within three years from the date on which the office conducts the background
+1062 check, the applicant has a felony or misdemeanor charge or conviction or a
+1063 non-criminal finding.
+1064 (13)(a) This Subsection (13) applies to an applicant seeking a position in a congregate
+1065 care program, an applicant seeking to provide a prospective foster home, an applicant
+1066 seeking to provide a prospective adoptive home, and each adult living in the home of
+1067 the prospective foster or prospective adoptive home.
+1068 (b) As federally required, the office shall:
+1069 (i) check the child abuse and neglect registry in each state where each applicant
+1070 resided in the five years immediately preceding the day on which the applicant
+1071 applied to be a foster or adoptive parent, to determine whether the prospective
+1072 foster or adoptive parent is listed in the registry as having a substantiated or
+1073 supported finding of child abuse or neglect; and
+1074 (ii) except for applicants seeking a position in a congregate care program, check the
+1075 child abuse and neglect registry in each state where each adult living in the home
+1076 of the prospective foster or adoptive home resided in the five years immediately
+1077 preceding the day on which the applicant applied to be a foster or adoptive parent,
+1078 to determine whether the adult is listed in the registry as having a substantiated or
+1079 supported finding of child abuse or neglect.
+1080 (c) The requirements described in Subsection (13)(b) do not apply to the extent that:
+1081 (i) federal law or rule permits otherwise; or
+
+- 32 -
+
+Enrolled Copy S.B. 297
+
+1082 (ii) the requirements would prohibit the Division of Child and Family Services or a
+1083 court from placing a child with:
+1084 (A) a noncustodial parent under Section 80-2a-301, 80-3-302, or 80-3-303; or
+1085 (B) a relative, other than a noncustodial parent, under Section 80-2a-301, 80-3-302,
+1086 or 80-3-303, pending completion of the background check described in
+1087 Subsections (5), (6), and (7).
+1088 (d) Notwithstanding Subsections (5) through (10), the office shall deny direct access
+1089 qualified status if the applicant has been convicted of:
+1090 (i) a felony involving conduct that constitutes any of the following:
+1091 (A) child abuse, as described in Sections 76-5-109, 76-5-109.2, and 76-5-109.3;
+1092 (B) commission of domestic violence in the presence of a child, as described in
+1093 Section 76-5-114;
+1094 (C) abuse or neglect of a child with a disability, as described in Section 76-5-110;
+1095 (D) intentional aggravated abuse of a vulnerable adult, as described in Section
+1096 76-5-111;
+1097 (E) endangerment of a child or vulnerable adult, as described in Section
+1098 76-5-112.5;
+1099 (F) aggravated murder, as described in Section 76-5-202;
+1100 (G) murder, as described in Section 76-5-203;
+1101 (H) manslaughter, as described in Section 76-5-205;
+1102 (I) child abuse homicide, as described in Section 76-5-208;
+1103 (J) homicide by assault, as described in Section 76-5-209;
+1104 (K) kidnapping, as described in Section 76-5-301;
+1105 (L) child kidnapping, as described in Section 76-5-301.1;
+1106 (M) aggravated kidnapping, as described in Section 76-5-302;
+1107 (N) human trafficking of a child, as described in Section 76-5-308.5;
+1108 (O) an offense described in Title 76, Chapter 5, Part 4, Sexual Offenses;
+1109 (P) sexual exploitation of a minor, as described in Title 76, Chapter 5b, Sexual
+1110 Exploitation Act;
+1111 (Q) aggravated exploitation of a minor, as described in Section 76-5b-201.1;
+1112 (R) aggravated arson, as described in Section 76-6-103;
+1113 (S) aggravated burglary, as described in Section 76-6-203;
+1114 (T) aggravated robbery, as described in Section 76-6-302;
+1115 (U) lewdness involving a child, as described in Section 76-9-702.5;
+
+- 33 -
+
+S.B. 297 Enrolled Copy
+
+1116 (V) incest, as described in Section 76-7-102; or
+1117 (W) domestic violence, as described in Section 77-36-1; or
+1118 (ii) an offense committed outside the state that, if committed in the state, would
+1119 constitute a violation of an offense described in Subsection (13)(d)(i).
+1120 (e) Notwithstanding Subsections (5) through (10), the office shall deny direct access
+1121 qualified status to an applicant if, within the five years from the date on which the
+1122 office conducts the background check, the applicant was convicted of a felony
+1123 involving conduct that constitutes a violation of any of the following:
+1124 (i) aggravated assault, as described in Section 76-5-103;
+1125 (ii) aggravated assault by a prisoner, as described in Section 76-5-103.5;
+1126 (iii) mayhem, as described in Section 76-5-105;
+1127 (iv) an offense described in Title 58, Chapter 37, Utah Controlled Substances Act;
+1128 (v) an offense described in Title 58, Chapter 37a, Utah Drug Paraphernalia Act;
+1129 (vi) an offense described in Title 58, Chapter 37b, Imitation Controlled Substances
+1130 Act;
+1131 (vii) an offense described in Title 58, Chapter 37c, Utah Controlled Substance
+1132 Precursor Act; or
+1133 (viii) an offense described in Title 58, Chapter 37d, Clandestine Drug Lab Act.
+1134 (f) In addition to the circumstances described in Subsection (6), the office shall conduct
+1135 a comprehensive review of an applicant's background check under this section if the
+1136 applicant:
+1137 (i) has an offense described in Subsection (5)(a);
+1138 (ii) has an infraction conviction entered on a date that is no more than three years
+1139 before the date on which the office conducts the background check;
+1140 (iii) has a listing in the Division of Child and Family Services' Licensing Information
+1141 System described in Section 80-2-1002;
+1142 (iv) has a listing in the Division of Aging and Adult Services' vulnerable adult,
+1143 neglect, or exploitation database described in Section 26B-2-210;
+1144 (v) has a substantiated finding of severe child abuse or neglect under Section
+1145 80-3-404 or 80-3-504; or
+1146 (vi) has a listing on the registry check described in Subsection (13)(b) as having a
+1147 substantiated or supported finding of a severe type of child abuse or neglect, as
+1148 defined in Section 80-1-102.
+1149 (14) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+
+- 34 -
+
+Enrolled Copy S.B. 297
+
+1150 office may make rules, consistent with this part, to:
+1151 (a) establish procedures for, and information to be examined in, the comprehensive
+1152 review described in Subsections (6), (7), and (13); and
+1153 (b) determine whether to consider an offense or incident that occurred while an
+1154 individual was in the custody of the Division of Child and Family Services or the
+1155 Division of Juvenile Justice and Youth Services for purposes of granting or denying
+1156 direct access qualified status to an applicant.
+1157 Section 8. Section 26B-2-124 is amended to read:
+1158 26B-2-124 . Congregate care program requirements -- Admissions criteria --
+1159 Costs incurred at health care facilities.
+1160 [(1) As used in this section, "disruption plan" means a child specific plan used:]
+1161 [(a) when the private-placement child stops receiving services from a congregate care
+1162 program; and]
+1163 [(b) for transporting a private-placement child to a parent or guardian or to another
+1164 congregate care program.]
+1165 (1) As used in this section:
+1166 (a) "Admissions criteria" means the risk factors that must be present in the life of a child
+1167 in order for a congregate care program to admit the child to the program.
+1168 (b) "Approved admissions criteria" means the admissions criteria that the division has
+1169 approved pursuant to Section 26B-2-124.1.
+1170 (c) "Critical incident" means an occurrence of any of the following:
+1171 (i) a self-harm, or a suicide emergency, as defined in Section 78B-4-516;
+1172 (ii) a practice that is prohibited under Section 26B-2-123;
+1173 (iii) a restraint, seclusion, or emergency safety intervention under Section 26B-2-123
+1174 occurring at the program, whether it:
+1175 (A) complies with Section 26B-2-123; or
+1176 (B) fails to comply with Section 26B-2-123;
+1177 (iv) a child's request for medical attention, except:
+1178 (A) medical attention that is part of the child's treatment plan; or
+1179 (B) when the medical attention requested does not require professional attention;
+1180 (v) a denial or an unreasonable delay of required medical attention to a child in the
+1181 program;
+1182 (vi) an admittance or a transport of a child in the program to or from a medical
+1183 facility;
+
+- 35 -
+
+S.B. 297 Enrolled Copy
+
+1184 (vii) an incident or allegation of abuse or harm to a child while in the program;
+1185 (viii) an unauthorized departure or attempted unauthorized departure of a child from
+1186 the program;
+1187 (ix) a use of force, coercion, or deception in transporting a child to or from the
+1188 program, unless the program did not conduct or pay for the transport and:
+1189 (A) the program does not know about the use of force, coercion, or deception; or
+1190 (B) if the alleged use of force, coercion, or deception has been reported to the
+1191 division or to the Division of Child and Family Services;
+1192 (x) a child in the program who is in crisis;
+1193 (xi) a police report or investigation involving:
+1194 (A) a child; or
+1195 (B) an individual who has had access to the program;
+1196 (xii) a physical condition of the program's facility that jeopardizes the health, safety,
+1197 or well-being of a child; and
+1198 (xiii) any additional occurrence or condition that the division defines as a critical
+1199 incident in rule.
+1200 (d) "Disruption plan" means instructions and a predetermined protocol, specific to an
+1201 individual child, that a congregate care program implements:
+1202 (i) if the child:
+1203 (A) is in crisis; or
+1204 (B) stops receiving services at a congregate care program; or
+1205 (ii) for transporting a child to:
+1206 (A) a parent or guardian;
+1207 (B) another congregate care program; or
+1208 (C) a health care facility, as that term is defined in Section 78B-3-403, except for
+1209 preventative or non-emergency health care.
+1210 (e) "Qualified candidate" means, for an individual congregate care program's approved
+1211 admissions criteria, a child who meets the program's approved admissions criteria.
+1212 (f)(i) "Risk factors" means objectively identifiable characteristics, elements, or a
+1213 combination of characteristics or elements of a child's life that, if present,
+1214 evidence an ongoing criminogenic, emotional, or behavioral concern that a
+1215 congregate care program can safely address.
+1216 (ii) "Risk factors" include:
+1217 (A) diagnoses defined in the most recent edition of the Diagnostic and Statistical
+
+- 36 -
+
+Enrolled Copy S.B. 297
+
+1218 Manual of Mental Disorders of the American Psychiatric Association; and
+1219 (B) any other characteristic, element, or combination of characteristics or elements
+1220 of a child's life that the office, in consultation with the committee, establishes
+1221 by rule.
+1222 (2) For purposes of this section, congregate care program, as defined in Section 26B-2-101,
+1223 does not include a youth shelter, youth receiving center, or any other short-term or
+1224 temporary setting for children.
+1225 (3) Notwithstanding any provision of this part, a congregate care program may not admit a
+1226 child who the program knew or should have known the program is unqualified or unable
+1227 to:
+1228 (a) safely serve; and
+1229 (b) protect from reasonably foreseeable harm.
+1230 [(2)] (4) A congregate care program shall[ keep the following for a private-placement child
+1231 whose parent or guardian lives outside the state]:
+1232 [(a) regularly updated contact information for the parent or guardian that lives outside
+1233 the state; and]
+1234 [(b) a disruption plan.]
+1235 (a) for each child who is admitted to the program:
+1236 (i) collect and maintain:
+1237 (A) contact information for each individual who the child's parent, guardian, or
+1238 sending government or private agency identifies as an authorized contact; and
+1239 (B) accurate contact information for the child's parent or guardian;
+1240 (ii) prepare a disruption plan tailored to the child; and
+1241 (iii) prepare a suicide prevention plan, tailored to the child, and maintained and
+1242 revised as necessary to maintain the child's safety;
+1243 (b) develop proposed admissions criteria that, if approved by the office:
+1244 (i) prescribe with specificity the criteria by which the program shall determine
+1245 whether a child is a qualified candidate;
+1246 (ii) are appropriate given the program's facilities, staffing, programming, policies,
+1247 procedures, and any other elements of the program designed to safely and
+1248 effectively serve the children who are admitted to the program;
+1249 (iii) subject to Subsection (3), are the determining criteria against which the program
+1250 shall consider and determine whether a child is a qualified candidate; and
+1251 (iv) the program shall utilize to determine whether any child:
+
+- 37 -
+
+S.B. 297 Enrolled Copy
+
+1252 (A) meets the admissions criteria, and therefore is a qualified candidate for the
+1253 program; or
+1254 (B) does not meet the admissions criteria, and therefore is not a qualified
+1255 candidate for the program;
+1256 (c) submit proposed admissions criteria in accordance with Subsection (4)(b) with each
+1257 application for licensure or renewal of licensure;
+1258 (d) subject to Subsection (5), decline to admit a child who does not meet the program's
+1259 approved admissions criteria;
+1260 (e) document and report each critical incident no later than one business day after the
+1261 time at which the incident begins, to:
+1262 (i) the parent or guardian of each child affected by the critical incident; and
+1263 (ii) the office;
+1264 (f) post a conspicuous notice:
+1265 (i) in a common area that is frequently used and generally accessible to each child
+1266 who is admitted to the program;
+1267 (ii) in a bold font that is not less than one inch in height; and
+1268 (iii) that includes the information and statement described in Subsection (7)(a)(i);
+1269 (g) provide a telephone from which a child in the program, staff, or any other individual
+1270 may place a direct call to the ombudsman under Section 26B-2-124.2:
+1271 (i) at any time;
+1272 (ii) without interference;
+1273 (iii) with sufficient privacy to preclude another individual from hearing the
+1274 conversation; and
+1275 (iv) subject to the whistleblower protections under Section 26B-2-124.3; and
+1276 (h) maintain a dedicated business telephone number that directly connects a caller to an
+1277 individual who:
+1278 (i) is physically present at the congregate care program; and
+1279 (ii) who has been trained to and will comply with Subsection (6).
+1280 (5) Notwithstanding the other provisions of this section, the department may grant an
+1281 exception to the admittance requirements of this section for a child who is in the custody
+1282 of the Division of Child and Family Services or the Division of Juvenile Justice and
+1283 Youth Services, if the placement is with a program operated by the department or under
+1284 contract with the department.
+1285 (6) If a child is in crisis, a congregate care program shall:
+
+- 38 -
+
+Enrolled Copy S.B. 297
+
+1286 (a) notify the child's parent or guardian as soon as reasonably possible but not later than
+1287 five hours after the time at which the child's state of crisis first begins; and
+1288 (b) make every reasonable effort to connect a child by telephone to an authorized contact
+1289 who:
+1290 (i) attempts to contact the child by calling the program's telephone number described
+1291 in Subsection (4)(h); and
+1292 (ii) is an authorized contact under Subsection (4)(a)(i).
+1293 (7)(a) A congregate care program shall provide the following information to the persons
+1294 identified in Subsection (7)(b):
+1295 (i) the name, telephone number, email, and address of the ombudsman established
+1296 under Section 26B-2-124.2, immediately below a statement:
+1297 (A) in bold font that is not less than one inch in height; and
+1298 (B) stating "ANY PERSON WHO HAS A COMPLAINT OR A CONCERN
+1299 REGARDING THIS CONGREGATE CARE PROGRAM MAY CONTACT
+1300 THE CONGREGATE CARE OMBUDSMAN:";
+1301 (ii) a list of the child's authorized contacts, including name, contact information, and
+1302 relationship to the child to:
+1303 (A) the child's parent or guardian;
+1304 (B) any other individual designated by the child's parent or guardian as an
+1305 authorized contact; and
+1306 (C) the ombudsman under Section 26B-2-124.2; and
+1307 (iii) on the list described in Subsection (7)(a)(ii):
+1308 (A) a copy of the division rule regarding a child who is in crisis, made pursuant to
+1309 Subsection (12)(a)(iii);
+1310 (B) a notice that the program will notify each authorized contact if the program
+1311 determines that the child is in crisis; and
+1312 (C) a notice that an authorized contact may contact the child by telephone if the
+1313 child is in crisis.
+1314 (b) A congregate care program shall provide the information described in Subsection
+1315 (7)(a) to:
+1316 (i) each child who is admitted to the program;
+1317 (ii) the child's sending government or private agency; and
+1318 (iii) the child's parent or guardian.
+1319 [(3)] (8) If a [private-placement child] child whose parent or guardian resides outside the
+
+- 39 -
+
+S.B. 297 Enrolled Copy
+
+1320 state leaves a congregate care program without following the child's disruption plan, the
+1321 congregate care program shall:
+1322 (a) notify the parent or guardian, office, and local law enforcement authorities;
+1323 (b) assist the state in locating the [private-placement child] child; and
+1324 (c) after the child is located, transport the [private-placement child] child:
+1325 (i) to a parent or guardian;
+1326 (ii) back to the [congregate care ]program; or
+1327 (iii) to another [congregate care ]program.
+1328 (9) A congregate care program may not solicit or accept payment from or on behalf of a
+1329 child, unless:
+1330 (a) the child meets the program's admissions criteria; and
+1331 (b) the child's parent or guardian has executed a contract for the program's services.
+1332 (10)(a) The payment provisions under this Subsection (10) apply if:
+1333 (i) a child is transported to a health care facility; and
+1334 (ii) the child's parent or guardian resides outside the state.
+1335 (b) The payment provisions under this Subsection (10) do not apply to a child who is in
+1336 state custody.
+1337 (c) A health care facility that provides services to a child who was transported from a
+1338 congregate care program to the facility is entitled to payment in accordance with this
+1339 Subsection (10).
+1340 (d)(i) The child's private or public health insurance policy or policies are responsible
+1341 for and shall pay all amounts owed and for which there is coverage.
+1342 (ii) The health care facility shall bill the private or public health insurance policy or
+1343 policies, if any, for which there may be coverage, prior to seeking payment from
+1344 any other person.
+1345 (e) The program at which the child was admitted, if any, immediately prior to
+1346 admittance at the health care facility is liable for and shall pay all amounts owed to
+1347 the health care facility after any insurance payments are received under Subsection
+1348 (10)(d).
+1349 (f)(i) Subject to Subsections (10)(f)(ii) and (iii), if a child is admitted to a health care
+1350 facility for inpatient behavioral health services, the program described in
+1351 Subsection (10)(e) shall pay to the health care facility 70% of the health care
+1352 facility's billed charges for services provided to the child.
+1353 (ii) Notwithstanding Subsection (10)(f)(i), if a health care facility collects payment
+
+- 40 -
+
+Enrolled Copy S.B. 297
+
+1354 from a public or private insurer for any covered services provided under
+1355 Subsection (10)(f)(i), the health care facility may not collect additional amounts
+1356 for those covered services under Subsection (10)(f)(i).
+1357 (iii) For purposes of the Health Information Portability and Accountability Act,
+1358 disclosure of claim payment information by the health care facility meets the
+1359 definition of payment in 45 C.F.R. Sec. 164.501 and is required under this section
+1360 for the purpose of obtaining reimbursement for the provision of health care or
+1361 engaging in collection activities pursuant to 45 C.F.R. Sec. 164.506(c).
+1362 (g) The residential program at which the child was admitted at the time of admittance to
+1363 a health care facility is liable for and shall pay all amounts owed under Subsection
+1364 (10)(c), including the reasonable costs of transport from the health care facility to:
+1365 (i) the child's home state residence;
+1366 (ii) another residential or inpatient care facility or program; or
+1367 (iii) any other lawful destination.
+1368 (h) Nothing in this Subsection (10) may be construed to limit a health care facility's right
+1369 to collect payment for health care services provided.
+1370 [(4)] (11) This section does not apply to a guardian that is a state or agency.
+1371 [(5)] (12) The office shall make rules in accordance with Title 63G, Chapter 3, Utah
+1372 Administrative Rulemaking Act[,] :
+1373 (a) describing:
+1374 [(a)] (i) additional mandatory provisions for a disruption plan;[ ]
+1375 (ii) additional mandatory provisions for a discharge plan;
+1376 (iii) objective criteria that a congregate care program shall apply in determining
+1377 whether a child is in crisis; and
+1378 [(b)] (iv) how a congregate care program shall notify the office when a [
+1379 private-placement child] child begins receiving services[.] ;
+1380 (b) defining key terms; and
+1381 (c) establishing rules necessary to administer this section.
+1382 Section 9. Section 26B-2-124.1 is enacted to read:
+1383 26B-2-124.1 . Congregate Care Advisory Committee.
+1384 (1) As used in this section:
+1385 (a) "Committee" means the Congregate Care Advisory Committee created in Section
+1386 26B-1-204.
+1387 (b) "Level of congregate care" means a designation of:
+
+- 41 -
+
+S.B. 297 Enrolled Copy
+
+1388 (i) "standard congregate care," as defined by the office, in consultation with the
+1389 committee; or
+1390 (ii) "intensive congregate care," as defined by the office, in consultation with the
+1391 committee.
+1392 (c) "Minimum safety requirements" means, with respect to a level of congregate care,
+1393 the set of minimum required policies, procedures, staffing, programming, or other
+1394 elements of the program that the office, in consultation with the committee,
+1395 determines are necessary for a program of that particular level to safely serve a child
+1396 who qualifies for admittance under the program's admissions criteria.
+1397 (d) "Physician" means an individual who is licensed under Title 58, Chapter 67, Utah
+1398 Medical Practice Act, or Title 58, Chapter 68, Utah Osteopathic Medical Practice Act.
+1399 (e) "Risk factors" means the same as that term is defined in Section 26B-1-124.
+1400 (2) The committee shall be composed of eight members, who the office appoints, as follows:
+1401 (a) a physician who is licensed under Title 58, Chapter 67, Utah Medical Practice Act, or
+1402 Title 58, Chapter 68, Utah Osteopathic Medical Practice Act;
+1403 (b) a pediatrician who:
+1404 (i) has experience working with children in behavioral health; and
+1405 (ii) is licensed under Title 58, Chapter 67, Utah Medical Practice Act, or Title 58,
+1406 Chapter 68, Utah Osteopathic Medical Practice Act;
+1407 (c) a psychologist who is licensed under Title 58, Chapter 61, Psychologist Licensing
+1408 Act;
+1409 (d) a marriage and family therapist who is licensed under Title 58, Chapter 60, Mental
+1410 Health Professional Practice Act;
+1411 (e) two licensed therapists who:
+1412 (i) have experience working in congregate care programs, as defined in Section
+1413 26B-2-101; and
+1414 (ii) are licensed under Title 58, Chapter 60, Mental Health Professional Practice Act;
+1415 (f) a licensed therapist who:
+1416 (i) has experience working in juvenile justice; and
+1417 (ii) is licensed under Title 58, Chapter 60, Mental Health Professional Practice Act;
+1418 and
+1419 (g) a community representative who the office designates and who has experience in the
+1420 congregate care industry as:
+1421 (i) an individual who has been an admitted child at a congregate care program;
+
+- 42 -
+
+Enrolled Copy S.B. 297
+
+1422 (ii) a parent or guardian of a child who has been an admitted child at a congregate
+1423 care program; or
+1424 (iii) a current or former owner or staff member of a congregate care program.
+1425 (3) The office is authorized to and shall, in consultation with the committee:
+1426 (a) define the levels of congregate care;
+1427 (b) in accordance with Subsection (4), for each defined level of congregate care, adopt
+1428 by rule a set of applicable minimum safety requirements; and
+1429 (c) for each application for licensure or renewal of licensure:
+1430 (i) review and consider the applicant's proposed admissions criteria;
+1431 (ii) deny a program's proposed admissions criteria if the criteria:
+1432 (A) are inconsistent with the definitions of the levels of care made pursuant to
+1433 Subsection (3)(a); or
+1434 (B) would fail to preclude the admittance of a child for whom the program is not
+1435 designed to address;
+1436 (iii) approve a program's proposed admissions criteria if the criteria are not denied
+1437 under Subsection (3)(c)(ii); and
+1438 (d) designate the program as a standard congregate care program or an intensive
+1439 congregate care program, based on the program's approved admissions criteria.
+1440 (4) The minimum safety requirements under Subsection (3)(b) shall describe the minimum
+1441 operating and safety practices that a program of that level of congregate care shall
+1442 maintain, in terms of:
+1443 (a) services;
+1444 (b) programming;
+1445 (c) facilities;
+1446 (d) staffing;
+1447 (e) policies;
+1448 (f) procedures; or
+1449 (g) any other element or characteristic of a congregate care program that the office, in
+1450 consultation with the committee, determines impacts the safety of the children who
+1451 are admitted.
+1452 (5) A majority of the members of the committee constitutes a quorum, and a vote of the
+1453 majority of the members present constitutes an action of the committee.
+1454 (6) The director of the division shall appoint a chair from the committee's membership.
+1455 (7)(a) The committee shall meet at least monthly until the office, in consultation with the
+
+- 43 -
+
+S.B. 297 Enrolled Copy
+
+1456 committee, has:
+1457 (i) defined the levels of congregate care programs pursuant to Subsection (3)(a); and
+1458 (ii) established applicable minimum safety requirements pursuant to Subsection (3)(b).
+1459 (b) The committee shall meet at least once per quarter after the completion of
+1460 Subsections (7)(a)(i) and (ii).
+1461 (8) A member of the committee may not receive compensation or benefits for the member's
+1462 service but may receive per diem reimbursement and travel expenses in accordance with:
+1463 (a) Section 63A-3-106;
+1464 (b) Section 63A-3-107; and
+1465 (c) rules made by the Division of Finance pursuant to Section 63A-3-106 or 63A-3-107.
+1466 (9) The division shall provide staffing to support the committee.
+1467 (10) The office shall make rules in accordance with Title 63G, Chapter 3, Utah
+1468 Administrative Rulemaking Act, to implement and enforce this section.
+1469 Section 10. Section 26B-2-124.2 is enacted to read:
+1470 26B-2-124.2 . Congregate care ombudsman.
+1471 (1) As used in this section:
+1472 (a) "Ombudsman" means the congregate care ombudsman created under this section.
+1473 (b) "Report" means a communication received by the ombudsman and containing
+1474 information that the ombudsman determines warrants further investigation.
+1475 (2) There is created within the department the title and position of congregate care
+1476 ombudsman.
+1477 (3)(a) The core roles and functions of the ombudsman include:
+1478 (i) serving as a resource and advocate for children admitted to congregate care
+1479 programs; and
+1480 (ii) receiving and investigating reports pertaining to a congregate care program or
+1481 staff.
+1482 (b) The ombudsmann shall meet the following minimum qualifications:
+1483 (i) have an understanding of congregate care services and supports;
+1484 (ii) have an understanding of consumer-oriented public policy advocacy; and
+1485 (iii) have an understanding of public policy and customer advocacy, including at
+1486 minimum:
+1487 (A) a bachelors degree in social work, public policy, or other related field;
+1488 (B) three years of experience in a field related to social work or public policy; or
+1489 (C) a combination of experience and degree that the department deems sufficient.
+
+- 44 -
+
+Enrolled Copy S.B. 297
+
+1490 (4) The ombudsman shall have the following authority and duties:
+1491 (a) to receive and consider communications pertaining to:
+1492 (i) a congregate care program; and
+1493 (ii) any individual who has accessed a congregate care program;
+1494 (b) to investigate, at the ombudsman's discretion, a report for which the department or
+1495 other state agency lacks investigative authority;
+1496 (c) to interview:
+1497 (i) any child admitted to a congregate care program;
+1498 (ii) the parent or guardian of a child admitted to a congregate care program;
+1499 (iii) any individual staff of a congregate care program;
+1500 (iv) a sending or receiving agency or program, whether public or private; or
+1501 (v) any individual who has entered a program within the last year;
+1502 (d) to enter or inspect any physical area of a program's facilities;
+1503 (e) to access, copy, or inspect a program's records, including communications; and
+1504 (f) to observe a program's operations, programming, or facilities.
+1505 (5) The ombudsman shall refer all reports or information received by the ombudsman to the:
+1506 (a) department; and
+1507 (b) any other state or local agency authorized to investigate the report or information.
+1508 (6) The ombudsman shall:
+1509 (a) keep generally accepted business hours; and
+1510 (b) maintain a messaging system to receive calls and collect messages during
+1511 non-operating hours.
+1512 (7) The office shall make rules in accordance with Title 63G, Chapter 3, Utah
+1513 Administrative Rulemaking Act, to implement and enforce this section.
+1514 Section 11. Section 26B-2-124.3 is enacted to read:
+1515 26B-2-124.3 . Whistleblower protections.
+1516 (1) A congregate care program may not take any adverse action against a child or any other
+1517 individual for:
+1518 (a) communicating with the ombudsman;
+1519 (b) cooperating with the ombudsman; or
+1520 (c) facilitating the ombudsman in performing the ombudsman's duties under Section
+1521 26B-2-124.2.
+1522 (2) An adverse action under Subsection (1) includes:
+1523 (a) a termination;
+
+- 45 -
+
+S.B. 297 Enrolled Copy
+
+1524 (b) a demotion;
+1525 (c) a suspension;
+1526 (d) a reduction in hours;
+1527 (e) harassment;
+1528 (f) intimidation;
+1529 (g) creating a hostile work environment;
+1530 (h) threatening to report an employee to licensing agencies or law enforcement without
+1531 cause;
+1532 (i) a reduction in pay, benefits, or access to opportunities; or
+1533 (j) any other action that would deter a reasonable employee from performing any action
+1534 described in Subsection (1).
+1535 Section 12. Section 26B-2-709 is amended to read:
+1536 26B-2-709 . Complaint investigations -- Records.
+1537 (1) As used in this section:
+1538 (a) "Anonymous complainant" means a complainant for whom the department does not
+1539 have the minimum personal identifying information necessary, including the
+1540 complainant's full name, to attempt to communicate with the complainant after a
+1541 complaint has been made.
+1542 (b) "Child care program" means the same as that term is defined in Section 26B-2-401.
+1543 (c) "Confidential complainant" means a complainant for whom the department has the
+1544 minimum personal identifying information necessary, including the complainant's
+1545 full name, to attempt to communicate with the complainant after a complaint has
+1546 been made, but who elects under Subsection (3)(c) not to be identified to the subject
+1547 of the complaint.
+1548 (d) "Exempt provider" means the same as that term is defined in Section 26B-2-401.
+1549 (e) "Subject of the complaint" means the provider about whom the complainant is
+1550 informing the department.
+1551 (2) The department may conduct investigations necessary to enforce the provisions of this
+1552 chapter.
+1553 (3)(a) If the department receives a complaint about a program or facility or an exempt
+1554 provider, the department shall:
+1555 (i) solicit information from the complainant to determine whether the complaint
+1556 suggests actions or conditions that could pose a serious risk to the safety or
+1557 well-being of a client;
+
+- 46 -
+
+Enrolled Copy S.B. 297
+
+1558 (ii) as necessary:
+1559 (A) encourage the complainant to disclose the minimum personal identifying
+1560 information necessary, including the complainant's full name, for the
+1561 department to attempt to subsequently communicate with the complainant;
+1562 (B) if the complaint is against a child care program or an exempt provider, inform
+1563 the complainant that the department may not investigate an anonymous
+1564 complaint;
+1565 (C) if the complaint is not against a child care program or an exempt provider,
+1566 inform the complainant that the department may not use information provided
+1567 by the complainant to substantiate an alleged violation of state law or
+1568 department rule unless the department independently corroborates the
+1569 information;
+1570 (D) inform the complainant that the identity of a confidential complainant may be
+1571 withheld from the subject of a complaint only as provided in Subsection
+1572 (3)(c)(iii); and
+1573 (E) inform the complainant that the department may be limited in its use of
+1574 information provided by a confidential complainant, as provided in Subsection
+1575 (3)(c)(iii)(B); and
+1576 (iii) inform the complainant that a person is guilty of a class B misdemeanor under
+1577 Section 76-8-506 if the person gives false information to the department with the
+1578 purpose of inducing a change in that person's or another person's license,
+1579 certificate, or certification status.
+1580 (b) [If the complainant elects to be an anonymous complainant] If the complaint concerns
+1581 events that occurred more than 48 months before the day on which the complainant
+1582 contacted the department, or if the complaint concerns events that occurred more than
+1583 six months before the complainant contacted the department and involves a child care
+1584 program, the department:
+1585 (i) shall refer the information in the complaint to the Division of Child and Family
+1586 Services within the department, law enforcement, or any other appropriate agency,
+1587 if the complaint suggests actions or conditions which could pose a serious risk to
+1588 the safety or well-being of a client;
+1589 (ii) may not investigate or substantiate the complaint[ if the complaint is against a
+1590 child care program or an exempt provider]; and
+1591 (iii) may, during a regularly scheduled annual survey, inform the provider that is the
+
+- 47 -
+
+S.B. 297 Enrolled Copy
+
+1592 subject of the complaint of allegations or concerns raised by the anonymous
+1593 complainant.
+1594 (c)(i) If the complainant elects to be a confidential complainant, the department shall
+1595 determine whether the complainant wishes to remain confidential:
+1596 (A) only until the investigation of the complaint has been completed; or
+1597 (B) indefinitely.
+1598 (ii) If the complainant elects to remain confidential only until the investigation of the
+1599 complaint has been completed, the department shall disclose the name of the
+1600 complainant to the subject of the complaint at the completion of the investigation,
+1601 but no sooner.
+1602 (iii) If the complainant elects to remain confidential indefinitely, the department:
+1603 (A) notwithstanding Subsection 63G-2-201(5)(b), may not disclose the name of
+1604 the complainant, including to the subject of the complaint; and
+1605 (B) may not use information provided by the complainant to substantiate an
+1606 alleged violation of state law or department rule unless the department
+1607 independently corroborates the information.
+1608 (4)(a) Prior to conducting an investigation of a program or facility or an exempt provider
+1609 in response to a complaint, a department investigator shall review the complaint with
+1610 the investigator's supervisor.
+1611 (b) The investigator may proceed with the investigation only if:
+1612 (i) the supervisor determines the complaint is credible;
+1613 (ii) the complaint is not from an anonymous complainant and against a child care
+1614 program or an exempt provider; and
+1615 (iii) prior to the investigation, the investigator informs the subject of the complaint of:
+1616 (A) except as provided in Subsection (3)(c), the name of the complainant; and
+1617 (B) except as provided in Subsection (4)(c), the substance of the complaint.
+1618 (c) An investigator is not required to inform the subject of a complaint of the substance
+1619 of the complaint prior to an investigation if doing so would jeopardize the
+1620 investigation. However, the investigator shall inform the subject of the complaint of
+1621 the substance of the complaint as soon as doing so will no longer jeopardize the
+1622 investigation.
+1623 (5) If the department is unable to substantiate a complaint, any record related to the
+1624 complaint or the investigation of the complaint:
+1625 (a) shall be classified under Title 63G, Chapter 2, Government Records Access and
+
+- 48 -
+
+Enrolled Copy S.B. 297
+
+1626 Management Act, as:
+1627 (i) a private or controlled record if appropriate under Section 63G-2-302 or
+1628 63G-2-304; or
+1629 (ii) a protected record under Section 63G-2-305; and
+1630 (b) if disclosed in accordance with Subsection 63G-2-201(5)(b), may not identify an
+1631 individual provider, exempt provider, or complainant.
+1632 (6) Any record of the department related to a complaint is a protected record under Title
+1633 63G, Chapter 2, Government Records Access and Management Act, and,
+1634 notwithstanding Subsection 63G-2-201(5)(b), may not be disclosed in a manner that
+1635 identifies an individual program or facility, exempt provider, provider, or complainant.
+1636 Section 13. Effective Date.
+1637 This bill takes effect on July 1, 2025.
+
+- 49 -

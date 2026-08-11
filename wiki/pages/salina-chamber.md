@@ -9,7 +9,6 @@
 **Region:** Salina
 **Website:** https://www.salina.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

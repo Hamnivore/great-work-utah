@@ -38,7 +38,37 @@ These are standing directives. Do not re-litigate them; build on them.
   (duplicate-URL canonicals, crawl-entry links, lastmod, schema types, OG image, source noindex).
   Maintainer still owns www→apex 308 and Search Console / Bing verification; falsifier date is
   ~2026-09-21.
+- [`design/raw-source-capture.md`](design/raw-source-capture.md) — 2026-08-11 plan; not yet
+  implemented. The corpus is a summary of the web (0 verbatim excerpts, 4 archive snapshots against
+  1,214 external URLs, 89% of numeric lines uncited, ~0 stable identifiers). Splits sources into
+  durable registries (capture the identifier; the data is re-derivable) and fragile pages (capture
+  excerpt + snapshot + hash), and specifies the coverage matrix and subagent doctrine that make
+  exhaustiveness computable. **Phase 0 gates everything.**
+- [`raw-data/class-c-private-ephemeral-sources.md`](raw-data/class-c-private-ephemeral-sources.md) —
+  2026-08-11, **ruled on by the maintainer.** The Class A / Class B split above has no room for a
+  source scraped from a community Slack: it can never carry `Retrieved`, `Archive`, or `Raw`, so
+  `verbatim-not-in-raw` cannot check its quotes. **Ruling: the Forge Utah, JustBuild, and NUNUG Slacks
+  are public and citable like a public forum post** (Sandbox stays leads-only; avoid private-ish
+  threads regardless). The remaining open item is mechanical and matters more now that these sources
+  are blessed — a fabricated Slack quote would land undetected, and the fix is to copy cited messages
+  from the scraper's JSONL into `raw/` so the normal check applies. Also records a concurrent-agent
+  collision and its lesson: **an agent that cannot re-derive a citation should flag it, not delete it.**
+- [`raw-data/ingest-queue-2026-08-11.md`](raw-data/ingest-queue-2026-08-11.md) — carry-over from the
+  2026-08-11 scrape ingest: five Utah community pages researched but unwritten (CTO Breakfast, Southern
+  Utah Code Camp, AI Builder Day, Weber State AI Hackathon, Utah Tech Calendar), Carv and Neumont, two
+  triage tables that need rebuilding because the agents that did the work died before reporting, and
+  the verification owed on pages already written. Nothing here needs re-deriving from scratch.
 - [`critiques/`](critiques/) — two external audits of the live site (Claude, ChatGPT), 2026-07-27. Useful diagnosis, wrong framing; see the decision doc above for the adjudication.
+- [`leads/`](leads/) — unverified candidate pages harvested from external catalogs, with the
+  calibration notes that say how much each catalog is worth as evidence. A work queue, not
+  knowledge; nothing in here ships without a primary source.
+  [`leads/2026-08-11-best-of-state-2020-2026.md`](leads/2026-08-11-best-of-state-2020-2026.md) —
+  ~3,200 medal rows across 2020–2026 triaged to 13 Tier 1 leads, ~60 Tier 2, and 7 cluster leads.
+  [`leads/2026-08-11-best-of-state-2003-2019.md`](leads/2026-08-11-best-of-state-2003-2019.md) —
+  the same award recovered from the Wayback Machine for the years the live site dropped, 3,975 rows
+  in [`leads/best-of-state-winners-2003-2019.tsv`](leads/best-of-state-winners-2003-2019.tsv),
+  triaged to 13 Tier 1 leads, ~70 Tier 2, and 5 more cluster leads. Adds the medal-vs-BOSS-statue
+  distinction that the 2020–2026 pass missed.
 
 **The live schema and the live manual are the source of truth, not this directory:**
 `wiki/meta/conventions.md` (placement), `wiki/meta/attributes.md` (metadata registry),
@@ -65,6 +95,11 @@ manual). Earlier `research/design/` copies of those documents were deleted once 
 - **E11 — charter probes:** hand cold agents `wiki/meta/charter.md` + deliberately hard cases (PE-owned beloved institution; defense prime; tiny-deep-joy business; viral-shallow-reach app; failed noble bet) and ask them to prioritize and argue. Divergence between agents = a charter gap to adjudicate — same constitutional loop as placement.
 - **E8 — repetition:** key claims above rest on n=2–4; before publishing externally, re-run the load-bearing comparisons at n≥3 per condition.
 - ~~**E9 — attribution pilot**~~ ✅ 2026-07-09 (`findings/2026-07-09-attribution-pilot.md`): 22 energy pages attributed; metadata-generated sector hub + region view work; keyword classifiers fail at *ranking* (6/21 members were secondary); the attribute→adjudicate→re-probe loop closed 10 convention gaps in one day; hand-edit fan-out is zero by construction. Next: **E10** — run the loop on a second domain (health-bio or aerospace-defense), then attribute all ~390 fact pages and ship the generated views for real.
+- **E13 — evidence durability:** does capturing raw sources (identifier + registry record for durable
+  sources; verbatim excerpt + archive snapshot + hash for fragile ones) let a cold agent verify a
+  claim without leaving the wiki, and does the claim survive the death of its URL? Two probes specified
+  in [`design/raw-source-capture.md`](design/raw-source-capture.md): the cold verification probe (10
+  random load-bearing claims, wiki only) and the dead-URL drill (20 sources, all URLs treated as 404).
 - ~~**E12 — proximity search**~~ ✅ 2026-07-14: five cold probes passed after fixing schema-derived facet rejection and place-name geocoding friction; production endpoint and human map verified at desktop/mobile sizes (`findings/2026-07-14-location-search.md`). Remaining corpus task: coverage expansion beyond 8/393 region-attributed pages.
 
 Note on links inside `findings/`: those files are dated snapshots and may cite design docs, the

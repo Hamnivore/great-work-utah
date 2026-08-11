@@ -1,0 +1,13 @@
+{
+  "source_page": "torus-trinity-equipment-financing.md",
+  "requested_url": "https://www.prnewswire.com/news-releases/trinity-capital-inc-provides-35-million-in-equipment-financing-to-torus-helping-power-american-made-energy-systems-302757993.html",
+  "final_url": "https://www.prnewswire.com/news-releases/trinity-capital-inc-provides-35-million-in-equipment-financing-to-torus-helping-power-american-made-energy-systems-302757993.html",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:48.703Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ace21223fac5bb81b731649f68d6c6fc87b24616f608b03169f354afb969009c",
+  "text_sha256": "9f1ab70dc5bc24a85cd431b7c382a0ae790fc84dd848dee675fff53924843d6c",
+  "text_chars": 13511,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

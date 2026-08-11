@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.traceaq.com/
+**Archive:** https://web.archive.org/web/20260420032235/https://www.traceaq.com/
+**Archived:** 2026-04-20
 **Publisher:** Trace AQ
-**Accessed:** 2026-06-19
+**Raw:** raw/trace-aq-official-website/2026-08-11-04f18dfda522.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -23,6 +26,23 @@ Trace AQ's official website markets physics-based AI air quality forecasting and
 - The ADAPT widget is offered for embedding live air-quality forecasts on third-party websites to drive engagement.
 - Whitepapers are published on topics including degraded air quality impacts on athletic training and the Air Quality Analytics (AQA) physics-based AI forecast engine.
 - Primary customer segment highlighted on the homepage is healthcare ("Air Quality Forecasting & Alerts for HEALTHCARE").
+
+## Verbatim
+
+> "Air Quality Forecasting & Alerts for HEALTHCARE"
+> — Home page, hero
+
+> "Our breakthrough physics-based AI models decode complex atmospheric dynamics, delivering accuracy and reliability when it matters most."
+> — Home page, "Physics-Based AI"
+
+> "Air Quality forecasts, real-time conditions, personalized alerts, health-driven insights. All in one app."
+> — Home page, Flow AQ section
+
+> "Up to 4-day advance air quality forecasting"
+> — Home page, feature list
+
+> "The world's most advanced wildfire smoke and air quality forecasting system."
+> — Home page, Aero section
 
 ## Reliability Notes
 

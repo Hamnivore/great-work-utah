@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://www.carboncountychamber.net/?page_id=369
 **Website:** https://www.carboncountychamber.net/
-**Layout:** field-guide
 
 ## Summary
 

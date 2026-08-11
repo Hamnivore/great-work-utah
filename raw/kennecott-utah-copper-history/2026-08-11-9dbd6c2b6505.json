@@ -1,0 +1,13 @@
+{
+  "source_page": "kennecott-utah-copper-history.md",
+  "requested_url": "https://www.kennecott.com/history",
+  "final_url": "https://www.riotinto.com/operations/us/kennecott",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:00.450Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "0ccc8d6892a76a0132bbdb1364d1e5bbd15724390d81211796deec7c570f20d5",
+  "text_sha256": "9dbd6c2b6505191d93c085fa0275fbbad27a3d173ee23910a728479f5d3ce6a3",
+  "text_chars": 32126,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

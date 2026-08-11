@@ -18,21 +18,20 @@
 **Location Source:** https://catalog.byupathway.edu/academicpolicies/tuition/tuition-fees-other-financial-information
 **Website:** https://byupathway.edu
 **Ownership:** nonprofit
-**Hero:** https://picsum.photos/seed/byu-pathway-global-online-education-2026/1600/1100
 **Pull:** *Accredited degrees at under $8,000 total tuition — delivered online to 180 countries.*
 **Relates:** cites [Official Website: BYU-Pathway Worldwide](byu-pathway-official-website.md) · https://greatutah.work/pages/byu-pathway-official-website.md · https://byupathway.edu
 
 ## Summary
 
-BYU-Pathway Worldwide is a nonprofit online higher-education pathway operated by The Church of Jesus Christ of Latter-day Saints. Founded in its current form in 2017 (building on the 2009 PathwayConnect predecessor), it partners with BYU-Idaho and Ensign College to deliver stackable certificates and accredited degrees fully online at costs far below typical U.S. universities.
+BYU-Pathway Worldwide is a nonprofit online higher-education pathway operated by The Church of Jesus Christ of Latter-day Saints. It partners with BYU-Idaho and Ensign College to deliver stackable certificates and accredited degrees online. The captured evidence does not preserve the founding chronology.
 
-At 88,937 students served in 2025 across 180+ countries, BYU-Pathway is among the largest accredited online higher-education programs by enrollment. Its model combines low tuition, guaranteed discounts, three-year degree pathways, and employment-connection programs — all within a faith-centered community structure.
+BYU-Pathway describes a large international enrollment, low tuition, stackable credentials, and employment-connection programs, but its linked source lacks a raw capture and does not support publishing the earlier figures as durable facts.
 
 ## Impact
 
 Most of the world's population lives where accredited university degrees are unaffordable or inaccessible. BYU-Pathway's counterfactual is partial but real: for many students, the alternative is no post-secondary credential at all.
 
-The mechanism is access at scale — not pedagogical frontier research. U.S. tuition runs roughly $86–$107.50 per credit with 10–50% discounts available to all students; a bachelor's degree estimate on the official site totals roughly $7,000–$8,800 before discounts. Students can earn certificates in a year or less on the path to a degree. The program reports 15,000+ remote job connections for students (2025).
+The mechanism is access at scale, not pedagogical frontier research. Current tuition, discounts, program duration, and employment outcomes require a fresh captured primary source before figures can be asserted.
 
 The harder open question is whether online, faith-network-delivered credentials translate into durable economic mobility in local labor markets — employment outcome data is not independently published.
 

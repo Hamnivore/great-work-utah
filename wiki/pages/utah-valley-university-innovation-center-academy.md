@@ -13,7 +13,6 @@
 **Location Source:** https://www.uvu.edu/innovation/contact/index.php
 **Website:** https://www.uvu.edu/innovation/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

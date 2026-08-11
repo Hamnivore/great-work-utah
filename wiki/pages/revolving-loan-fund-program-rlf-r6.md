@@ -14,11 +14,10 @@
 **Location Source:** https://r6.utah.gov/contact/
 **Website:** https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 
-The R6 Regional Council Revolving Loan Fund (RLF) provides gap financing for small businesses in Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties. The council's programs page and executive-office staff listing confirm an active RLF program managed by Amy Rosquist, but the dedicated RLF URL returns HTTP 404 (verified headless Chrome, 2026-07-14); use the org home and staff contacts below.
+The R6 Regional Council Revolving Loan Fund (RLF) is listed as gap financing for small businesses in Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties, but the dedicated RLF URL is unavailable; use the organization home and verify every term directly.
 
 Treat loan sizes, rates, and application steps as unverified until confirmed directly with R6 staff.
 
@@ -28,7 +27,7 @@ New and expanding small businesses in the six-county R6 service area that need g
 
 ## What It Provides
 
-Revolving loans described in indexed program materials as up to $150,000 for eligible uses including jobs, working capital, equipment, and real estate. Loans are intended to revolve as repayments fund future borrowers.
+Current loan sizes and eligible uses could not be supported from the captured source and must be confirmed directly with program staff.
 
 ## How To Use It
 
@@ -59,4 +58,4 @@ Central Utah businesses with a bankable plan, documented financing gap, and job-
 ## Open Questions
 
 - What is the correct live URL for the R6 RLF application and current loan terms?
-- Are Startup State's cited $20,000–$250,000 ranges still accurate, or is $150,000 the current cap?
+- What are the current minimum and maximum loan amounts?

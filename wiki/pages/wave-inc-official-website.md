@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.wavecharging.com/
 **Publisher:** WAVE Charging (formerly Wireless Advanced Vehicle Electrification)
-**Accessed:** 2026-06-19
+**Raw:** raw/wave-inc-official-website/2026-08-11-cab3999e6830.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -21,6 +22,20 @@ WAVE Charging's official website describes inductive wireless charging systems f
 - Marketing claims include 30–50% fewer charging units versus plug-in infrastructure for some transit deployments, weather-independent operation, sealed systems with minimal maintenance, and no exposed live electrical components at the vehicle interface.
 - The company offers site assessment, custom engineering design, installation support, and optional ongoing technical support services.
 - Public business directories and the company's LinkedIn profile list headquarters at 4752 W California Ave, Salt Lake City, UT 84104.
+
+## Verbatim
+
+> "WAVE delivers 125kW to 500kW+ wireless charging that keeps commercial vehicles moving. No cables, no plugs, no downtime."
+> — Home page, hero
+
+> "High-frequency electromagnetic field transfers up to 500kW through a 5- to 8-inch air gap with 92%+ efficiency."
+> — Home page, "How Wireless Charging Actually Works"
+
+> "Transit agencies reduce charging infrastructure by 50% while maintaining full service schedules."
+> — Home page, "Transit & Shuttle"
+
+> "4752 West California Avenue Suite B-200 Salt Lake City, UT 84104"
+> — Home page, footer
 
 ## Reliability Notes
 

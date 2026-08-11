@@ -14,7 +14,6 @@
 **Location Source:** https://bioutah.org/
 **Website:** https://bioutah.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

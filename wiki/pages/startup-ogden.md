@@ -13,7 +13,6 @@
 **Location Precision:** exact
 **Location Source:** https://www.weber.edu/maps/locations.html
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Fact Sheet
+**Source Type:** official-page
 **URL:** https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
+**Archive:** https://web.archive.org/web/20260420190921/https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
+**Archived:** 2026-04-20
 **Publisher:** Hill Air Force Base, U.S. Air Force
-**Accessed:** 2026-06-18
 **Updated:** 2026-06-18
 
 ## Summary

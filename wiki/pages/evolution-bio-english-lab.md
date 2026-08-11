@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** University Page
+**Source Type:** official-page
 **URL:** https://www.english.biochem.utah.edu
+**Archive:** https://web.archive.org/web/20260319052225/https://www.english.biochem.utah.edu/
+**Archived:** 2026-03-19
 **Publisher:** University of Utah, Department of Biochemistry
-**Accessed:** 2026-06-19
+**Raw:** raw/evolution-bio-english-lab/2026-08-11-d638f88c6966.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -17,14 +20,19 @@ The English Lab website at the University of Utah Department of Biochemistry des
 
 - Lab mission: create and apply molecular tools to control and understand human health and disease.
 - Research combines directed evolution, protein engineering, and pharmacology/biochemistry.
-- VEGAS (Viral Evolution of Genetically Actuated Sequences) is described as a mammalian directed-evolution method invented by Justin English; components are available through Addgene.
-- The lab runs a VEGAS Workshop for collaborators with protocols, issue resolution, and new implementations.
-- Research areas include expanding VEGAS selection paradigms, engineering nanobody libraries to modulate endogenous GPCRs, and GPCR pharmacogenomics — mapping how human GPCR variants alter responses to FDA-approved drugs.
-- Research page states directed-evolution methods historically used yeast and bacteria, but tools developed in those systems often have limited translatable value in mammalian backgrounds; VEGAS was invented to address that gap.
+- The page previously described VEGAS (Viral Evolution of Genetically Actuated Sequences), a VEGAS Workshop, Addgene distribution, and GPCR pharmacogenomics work; this capture does not mention those topics.
+
+## Verbatim
+
+> "We create and apply molecular tools to control and understand human health and disease."
+> — Home page, mission statement
+
+> "We strive to quickly share our discoveries , combining contemporary methods of directed evolution and protein engineering with classic principles of pharmacology and biochemistry ."
+> — Home page, research approach
 
 ## Reliability Notes
 
-University lab website — reliable for research focus, PI affiliation, and platform description. It does not confirm Evolution Bio corporate structure, funding, pharma partnerships, or current commercial offerings. A separate company website for Evolution Bio was not identified during intake; discovery-evolution.com may represent a rebrand or related entity and requires separate verification.
+University lab website — reliable for research focus and platform description on the captured homepage. VEGAS platform details, Addgene distribution, workshop, and GPCR pharmacogenomics claims on this page were not present in the 2026-08-11 capture.
 
 ## Related Pages
 

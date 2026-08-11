@@ -1,0 +1,79 @@
+Forge Utah — Utah's community for engineers, developers, and builders
+forge . utah community ▾ > meetups
+> roundtables
+> Go West Conference
+about
+utah tech calendar
+blog
+[ menu ]
+Join us on Slack
+community
+> meetups
+> roundtables
+> Go West Conference
+about
+utah tech calendar
+blog
+Join us on Slack
+[ back outside ]
+> SHARE. LEARN. BUILD.
+Utah's community for engineers, developers, and builders ▮
+Join us on Slack
+See Meetups →
+Meetups, roundtables, and hack nights run by volunteers, free to attend. The door's open and the neon's on.
+clubhouse online · est. 2015 · not-for-profit
+> ABOUT
+A not-for-profit, run by volunteers
+Forge Utah Foundation is a not-for-profit dedicated to connecting Utah's developers, data scientists, SREs, and tinkerers. No sponsors pushing product, no recruiter pitches — just people who build things, showing each other how.
+If you write code, wrangle data, keep servers alive, or solder things on weekends, you belong here.
+why Forge exists →
+forge@clubhouse: ~
+$ whoami
+utah-technologist
+$ forge join --channel slack
+[ OK ] welcome aboard. see you at the lake.
+$ ▮
+> COMMUNITY
+Three ways in
+Pick a door. They all lead to the same dock.
+$ ./meetups
+Meetups
+Utah Go User Group, Utah Kubernetes, Utah Data Engineering Meetup (UDEM), AI Utah, The Foundry Hack Nights, and more — regular nights across the Wasatch Front and St George.
+see all meetups →
+$ ./roundtables
+Roundtables
+Small-group, no-slides conversations for engineering leaders and senior ICs. Bring a real problem, leave with three ways people have already solved it.
+see the tables →
+$ ./go-west
+Go West Conference
+Our annual single-track conference: a full day of talks from working engineers, priced so anyone can come. No expo hall, no lanyard sponsors.
+about the conference →
+> UTAH TECH CALENDAR
+Every tech event in the state, one calendar
+Ours and everyone else's. See what's happening: utahtechcalendar.com
+Get the calendar →
+Utah's community built for the builders.
+Designed & developed by volunteers of
+Forge Utah Foundation.
+Community
+Meetups
+Roundtables
+Go West Conference
+Utah tech calendar
+Site
+About
+Blog
+Contact
+Connect
+Slack
+YouTube
+GitHub
+X / @ForgeUtah
+LinkedIn
+hello@forgeutah.tech
+▲
+forge utah foundation
+·
+a 501(c)(3) not-for-profit
+·
+est. 2015

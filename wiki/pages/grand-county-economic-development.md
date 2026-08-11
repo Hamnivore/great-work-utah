@@ -13,7 +13,6 @@
 **Location Source:** https://business.moabchamber.com/member-directory/Details/grand-county-economic-development-4249447
 **Website:** https://www.co.grand.co.us/1056/Economic-Development
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

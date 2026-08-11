@@ -1,0 +1,13 @@
+{
+  "source_page": "apa-sherpa-foundation-mission-page.md",
+  "requested_url": "https://www.apasherpafoundation.org/our-mission",
+  "final_url": "https://www.apasherpafoundation.org/who-we-are/our-mission/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:43:12.981Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "86078eaaf4d485eb3f3d41fbbbf6297113ddd2580448aa3794a2d5a7a0a77cd9",
+  "text_sha256": "55835b16a9bf2dd0390cad59d4a8ad9418169bb7c48a41b8ffd10b230d2ad5e8",
+  "text_chars": 1773,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

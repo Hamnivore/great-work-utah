@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** News Article
+**Source Type:** news
 **URL:** https://www.ans.org/news/2025-09-25/article-7408/valar-atomics-breaks-ground-in-utah/
+**Archive:** https://web.archive.org/web/20260728061943/https://www.ans.org/news/2025-09-25/article-7408/valar-atomics-breaks-ground-in-utah/
+**Archived:** 2026-07-28
 **Publisher:** American Nuclear Society (ANS)
-**Accessed:** 2026-06-19
+**Raw:** raw/valar-atomics-ans-groundbreaking/2026-08-11-ccd3e233a7bd.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -20,6 +23,17 @@ This September 25, 2025 article from the American Nuclear Society covers Valar A
 - The San Rafael Energy Research Center in Emery County, Utah is the designated test site for the Ward 250 program.
 - The groundbreaking represents an early physical construction milestone, distinct from later criticality and power-operation milestones.
 - The article provides an independent technical publication's account, corroborating Valar Atomics' own mission-page claims about the Utah test site and program timeline.
+
+## Verbatim
+
+> "El Segundo, Calif.–based reactor start-up Valar Atomics recently announced that it has broken ground on its test reactor, the Ward 250, at Utah San Rafael Energy Lab (USREL), becoming the second company participating in the Department of Energy's Nuclear Reactor Pilot Program to do so."
+> — Article lede
+
+> "A Press release from the Utah Office of Energy Development (OED) details that the Ward 250 is a helium-cooled, TRISO-fueled, high-temperature gas reactor, which is consistent with previous reporting on Valar's reactor projects."
+> — "More details" section
+
+> "USREL is located just outside of Orangeville, Utah, and is operated by the state, falling under the jurisdiction of the OED."
+> — "Utah tie-in" section
 
 ## Reliability Notes
 

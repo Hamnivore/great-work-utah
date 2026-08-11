@@ -1,0 +1,147 @@
+Valar Atomics breaks ground in Utah -- ANS / Nuclear Newswire
+Topics
+Advanced Reactors
+Advocacy
+Conferences
+Decontamination & Decommissioning
+Education
+Environmental Remediation
+Fuel
+Fusion
+Industry
+International
+Isotopes & Radiation
+Nonproliferation
+Nuclear History
+People
+Policy
+Power & Operations
+Research & Applications
+Security
+Standards
+Supply Chain
+Transportation
+Waste Management
+Webinars
+Workforce
+Sources
+Nuclear News
+Radwaste Solutions
+ANS News
+ANS Nuclear Cafe
+Sponsored Content
+Press Releases
+Sign Up
+Buyers Guide
+Access Online Buyers Guide
+Manage/Create Company Listings
+Advertise in Buyers Guides
+Advertise
+Headlines
+For You
+NRC holds public meeting for proposed rule eliminating ALARA
+August 11, 2026, 1:26PM
+NRC shares more on reactor licensing proposed rule at virtual Q&A
+August 11, 2026, 9:32AM
+Diversification and the common ground
+August 11, 2026, 7:04AM
+A message from Gutor
+GUTOR 80: UPS, Battery Charger, & Inverter Solutions for Nuclear Applications, Built to ASME NQA-1
+European fusion studies shed light on disruptive phenomena at plasma edge
+August 10, 2026, 3:44PM
+Capitalizing on community
+August 10, 2026, 12:31PM
+Bills look to boost domestic uranium enrichment, move past Yucca Mountain
+August 10, 2026, 9:31AM
+A message from Studsvik
+Transforming Nuclear Fuel Management with Intelligent Automation
+Onkalo SNF repository passes safety assessment
+August 10, 2026, 7:05AM
+For personalized headlines, please log in/create an account .
+Latest Issue — Aug 2026
+Latest Issue — Jan 2026
+Ageing nuclear assets don't have to mean higher maintenance costs. Discover how HVTS® cladding helps extend the life of PWR secondary system components, reduce outage duration, support ALARA principles, and protect against FAC, erosion-corrosion and other degradation mechanisms. Learn more.
+Learn More
+Advanced Reactors
+Valar Atomics breaks ground in Utah
+September 25, 2025, 9:30AM
+Nuclear News
+The golden ground-breaking shovels for Valar’s USREL site are posed dramatically in front of an American flag hung on a Kiewit excavator. (Source: Valar Atomics)
+El Segundo, Calif.–based reactor start-up Valar Atomics recently announced that it has broken ground on its test reactor, the Ward 250, at Utah San Rafael Energy Lab (USREL), becoming the second company participating in the Department of Energy’s Nuclear Reactor Pilot Program to do so.
+Their success follows that of Aalo Atomics , which in August announced that it had broken ground on its 10-MWe Aalo-X project at Idaho National Laboratory.
+More details: A press release from the Utah Office of Energy Development (OED) details that the Ward 250 is a helium-cooled, TRISO-fueled, high-temperature gas reactor, which is consistent with previous reporting on Valar’s reactor projects. While not directly stated in the press release, Valar founder and CEO Isaiah Taylor has indicated on X and elsewhere that the Ward 250 will be a 100-kWt reactor.
+On Valar’s website , the company’s vision for the Ward is laid out in more detail. Its plan is to create one standardized reactor design to be manufactured at scale and deployed by the hundreds at a behind-the-meter “gigasite.” Aiming to fulfill demand in industrial heat and energy, Valar is tailoring these plans toward hydrogen production, data centers, and synthetic fuel production.
+The OED press release also highlights that Valar has chosen the Kiewit Corporation for engineering and construction work, Goree for architecture and design, and Sprung for the building.
+Utah tie-in: USREL is located just outside of Orangeville, Utah, and is operated by the state, falling under the jurisdiction of the OED. Jeremy Pearson, a former ANS Congressional Fellow and former director of USREL explained to Nuclear Newswire the potential brought by Valar partnering with the lab, saying that USREL is an ideal location for a test reactor project because of strong community support and an existing energy workforce, with the lab being “flanked within minutes on either side by two gigawatt-scale coal power generating stations, as well as active coal mines.”
+Hoping to model similar success at INL, the OED aims to position USREL as “a hub for nuclear industrial heat pilots and demonstrations, to collect data which clears a pathway for licensing of these applications,” Pearson added.
+More broadly, Valar’s entrance into Utah is part of the increasing nuclear momentum in the state, with Nusano, General Matter, and TerraPower all actively pursuing nuclear projects. This momentum has been facilitated by Gov. Spencer Cox’s Operation Gigawatt, which seeks to double power production in the state within a decade.
+AI and data center–driven demand has been a common talking point in Cox’s explanation behind the need for Operation Gigawatt. However, in a video Cox posted to X , executive director of the Utah Department of Natural Resources Joel Ferry highlighted that Valar’s project “plays into the broader goal to create an energy ecosystem that will benefit the state of Utah for years to come.”
+Regulatory woes: Alongside Last Energy and Deep Fission, Valar is involved in the State of Texas et al. v. U.S. Nuclear Regulatory Commission , which challenges the NRC’s ability to license small modular reactors and microreactors.
+In an interview in March, Taylor said, “Our regulatory environment is not formatted in a way that allows entrepreneurs like myself to quickly build a small reactor, test it out in the desert, and see if it works, and this is the only way advanced technology moves forward.”
+To avoid U.S. regulatory burdens, the company began working on deploying a test reactor in the Philippines. The details of this collaboration were further explained in an article on the website Power Philippines , which stated that Valar partnered with the Philippine Nuclear Research Institute to deploy a 100-kWt HTGR (assumedly the same design as the Ward 250) at an undisclosed location in the country.
+Now, with the Nuclear Reactor Pilot Program presenting a path to operate outside of the typical NRC licensing framework, this project at USREL represents the company’s return to the U.S.
+Tags:
+general matter isaiah taylor nrc nuclear reactor pilot program nusano oed operation gigawatt philippines terrapower usrel valar atomics
+Share:
+LinkedIn Twitter Facebook Email
+Related Articles
+NRC holds public meeting for proposed rule eliminating ALARA
+August 11, 2026, 1:26PM
+Nuclear News
+The Nuclear Regulatory Commission has proposed a change to how it will approach standards for radiation protections, notably including the elimination of the “as low as reasonably...
+NRC shares more on reactor licensing proposed rule at virtual Q&A
+August 11, 2026, 9:32AM
+Nuclear News
+The Nuclear Regulatory Commission’s proposed rule on modernizing reactor licensing, safety oversight, and siting practices ran over 550 pages when it was unveiled in July. To address the...
+North Anna power plant seeks ESP renewal
+August 6, 2026, 12:32PM
+Nuclear News
+Dominion Energy Virginia is seeking a 20-year renewal of the early site permit (ESP) the Nuclear Regulatory Commission issued for its North Anna nuclear power plant site in Virginia. North...
+Developers, officials talk advanced reactor outlook with NRC
+July 22, 2026, 5:17PM
+Nuclear News
+The public had a rare opportunity Tuesday morning when the Nuclear Regulatory Commission gathered leaders from the Department of Energy, the Canadian Nuclear Safety Commission, TerraPower,...
+NRC issues draft EA/FONSI for Duane Arnold restart
+August 4, 2026, 3:54PM
+Nuclear News
+Efforts by NextEra Energy to restart the Duane Arnold nuclear power plant as early as 2029 continue to move forward with the Nuclear Regulatory Commission's preliminary environmental...
+TerraPower becomes first advanced reactor company to join INPO
+July 24, 2026, 12:53PM
+Nuclear News
+On July 21, TerraPower announced that it had been accepted into the Institute of Nuclear Power Operations. INPO and TerraPower alike celebrated the development as the first time an advanced...
+NRC, FEMA talk emergency preparedness for Crane restart
+July 30, 2026, 1:54PM
+Nuclear News
+The Nuclear Regulatory Commission held its latest public meeting in central Pennsylvania on Tuesday to provide an update the progress being made to restart the Crane nuclear power plant...
+NRC addresses NEPA proposed rule in public meeting
+July 29, 2026, 7:05AM
+Nuclear News
+Changes that Nuclear Regulatory Commission officials have labeled as significant could be coming to the agency’s environmental review regulations if its proposed rule on National...
+NRC cooperating with Coast Guard, Marine Minerals Administration
+July 27, 2026, 3:43PM
+Nuclear News
+Within the past month, the Nuclear Regulatory Commission has signed memorandums of understanding to increase its cooperation with two U.S. maritime organizations. In late June, the NRC signed...
+NRC proposes radioactive material transportation rules updates
+July 24, 2026, 9:28AM
+Nuclear News
+About three million packages containing radioactive material are transported in the United States every year, and multiple federal agencies work together to ensure the shipments are safe....
+Receive Nuclear News Daily
+Join ANS Today
+Donate Today
+Advancing nuclear science and technology for the benefit of humanity
+Advertising Opportunities
+Navigating Nuclear
+Contact Us
+Facebook
+Twitter
+LinkedIn
+Instagram
+YouTube
+Pinterest
+Nuclear Newswire
+Email Lists
+&copy; Copyright 2026 American Nuclear Society
+Privacy Policy
+Terms of Use
+Invoices
+Media

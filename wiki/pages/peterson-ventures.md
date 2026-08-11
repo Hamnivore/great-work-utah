@@ -14,7 +14,6 @@
 **Location Source:** https://www.petersonventures.com/contact/
 **Website:** https://www.petersonventures.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

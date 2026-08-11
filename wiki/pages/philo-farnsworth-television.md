@@ -15,6 +15,7 @@
 **Location Source:** https://www.roadsideamerica.com/story/27927
 **Website:** https://www.census.gov/about/history/stories/monthly/2023/september-2023.html
 **Updated:** 2026-08-11
+**Relates:** cites [U.S. Patent 1,773,980 — Farnsworth, "Television System"](farnsworth-television-system-patent-us1773980.md) · https://greatutah.work/pages/farnsworth-television-system-patent-us1773980.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/1773980
 **Relates:** cites [U.S. Census Bureau — Philo Farnsworth and the Invention of Television (2023)](farnsworth-census-bureau-history.md) · https://greatutah.work/pages/farnsworth-census-bureau-history.md · https://www.census.gov/about/history/stories/monthly/2023/september-2023.html
 **Relates:** cites [Linda Hall Library — Philo Farnsworth Scientist of the Day](farnsworth-linda-hall-library.md) · https://greatutah.work/pages/farnsworth-linda-hall-library.md · https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/
 **Pull:** *A Utah-born farm boy sketched the idea for electronic television on a high-school chalkboard — and beat RCA to the patent.*
@@ -31,7 +32,7 @@ This page is honest about geography: Farnsworth's roots are Utah, but the landma
 
 Every television broadcast, video call, and electronic image sensor traces conceptually to Farnsworth's insight that images could be scanned and transmitted line by line as electrical signals. Electronic television displaced mechanical systems and became the dominant mass-communication medium of the 20th century.
 
-Farnsworth also won one of the most consequential patent fights in technology history. In a patent-interference suit brought by the Radio Corporation of America (RCA), the U.S. Patent Office ruled in 1935 that Farnsworth — not RCA's Vladimir Zworykin — held priority; the decisive evidence was Tolman's preserved sketch of the chalkboard drawing from 1922. RCA appealed and lost. In 1939, after more than a decade of litigation, RCA agreed to license Farnsworth's patents for $1 million, a rare instance of RCA paying royalties rather than collecting them.
+Farnsworth also won one of the most consequential patent fights in technology history. In a patent-interference suit brought by the Radio Corporation of America (RCA), the U.S. Patent Office ruled in 1935 that Farnsworth — not RCA's Vladimir Zworykin — held priority; the decisive evidence was Tolman's preserved sketch of the chalkboard drawing from 1922. RCA appealed and lost. RCA later agreed to license Farnsworth's patents, a rare instance of RCA paying royalties rather than collecting them. The payment amount still needs a captured primary source.
 
 ## What It Took
 
@@ -67,6 +68,7 @@ By the standard of "great work *done in* Utah," Farnsworth is more of an origin 
 
 ## Evidence
 
+- [U.S. Patent 1,773,980: Farnsworth, "Television System"](farnsworth-television-system-patent-us1773980.md) · https://greatutah.work/pages/farnsworth-television-system-patent-us1773980.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/1773980 — the primary record: filed Jan. 7, 1927, granted Aug. 26, 1930, inventor Philo T. Farnsworth; the image dissector and all-electronic scanning as claimed.
 - [Wikipedia: Philo Farnsworth](https://en.wikipedia.org/wiki/Philo_Farnsworth) · https://en.wikipedia.org/wiki/Philo_Farnsworth — birth in Beaver UT (1906), Sept. 7, 1927 transmission, 1935 patent ruling, 1939 RCA $1M license.
 - [U.S. Census Bureau (2023): Philo Farnsworth and the Invention of Television](https://www.census.gov/about/history/stories/monthly/2023/september-2023.html) · https://www.census.gov/about/history/stories/monthly/2023/september-2023.html — Beaver UT birthplace, Jan. 7, 1927 patent filing, Sept. 7, 1927 demonstration. — [source record](farnsworth-census-bureau-history.md) · https://greatutah.work/pages/farnsworth-census-bureau-history.md
 - [Linda Hall Library: Philo Farnsworth — Scientist of the Day](https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/) · https://www.lindahall.org/about/news/scientist-of-the-day/philo-farnsworth/ — San Francisco lab, image dissector and display tube, the 1927 demonstration. — [source record](farnsworth-linda-hall-library.md) · https://greatutah.work/pages/farnsworth-linda-hall-library.md

@@ -1,0 +1,13 @@
+{
+  "source_page": "us-magnesium-official-website.md",
+  "requested_url": "https://usmagnesium.com",
+  "final_url": "https://usmagnesium.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:52.672Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "89ec6aa25100146891ff80743700d8ef684fae58158f949313b25a75d26106a8",
+  "text_sha256": "380e1664957c0f071ee5721376c5f98f45f4d0006d2c07eacd807f3160607155",
+  "text_chars": 1836,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

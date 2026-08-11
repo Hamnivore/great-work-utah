@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.varda.com
+**Archive:** https://web.archive.org/web/20260805232219/https://www.varda.com/
+**Archived:** 2026-08-05
 **Publisher:** Varda Space Industries, Inc.
-**Accessed:** 2026-06-18
+**Raw:** raw/varda-space-official-website/2026-08-11-43970b6dea1a.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -20,9 +23,23 @@ Varda's official website describes an in-space manufacturing company that develo
 - Public mission materials reference ritonavir as a canonical pharmaceutical example for microgravity crystallization.
 - Varda is a commercial space company, not a Utah-headquartered venture; Utah relevance comes from reentry operations (see [varda-uttr-landing](varda-uttr-landing.md)).
 
+## Verbatim
+
+> "Varda is a microgravity-enabled life sciences company that processes materials in orbit and returns them to Earth."
+> — Home page, hero
+
+> "Built entirely in-house for orbital material processing and reentry"
+> — Home page, platform section
+
+> "Discover unique morphologies and crystal structures in microgravity"
+> — Home page, Biopharma section
+
+> "225 S Aviation Blvd, El Segundo, CA 90245"
+> — Home page, contact
+
 ## Reliability Notes
 
-Official company source — reliable for product positioning and mission framing. Mission counts, funding totals, contract values, and landing-site plans change quickly and should be cross-checked with press coverage, FAA records, and investor disclosures. Marketing claims about pharmaceutical benefits require independent clinical or materials-science validation.
+Official company source — reliable for product positioning and mission framing. Mission counts, funding totals, contract values, and landing-site plans change quickly and should be cross-checked with press coverage, FAA records, and investor disclosures. Marketing claims about pharmaceutical benefits require independent clinical or materials-science validation. **Capture note:** ritonavir as a canonical pharmaceutical example and detailed spacecraft/capsule architecture claims on this page are not stated on this homepage capture.
 
 ## Related Pages
 

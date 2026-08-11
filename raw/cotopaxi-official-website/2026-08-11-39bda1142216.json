@@ -1,0 +1,13 @@
+{
+  "source_page": "cotopaxi-official-website.md",
+  "requested_url": "https://www.cotopaxi.com",
+  "final_url": "https://www.cotopaxi.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:32.982Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "56c838af1c37a6b849969cbdd20781760ec05365b968e029d71e3e73a5198304",
+  "text_sha256": "39bda114221689ed46f77ebc62dfa5a4ab931686648a4971aa63dd520c74431e",
+  "text_chars": 5401,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -19,7 +19,6 @@
 **Domain:** computing, aerospace-defense
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/lvt-mobile-surveillance-unit-2026/1600/1100
 **Pull:** *Solar-powered, rapidly deployable surveillance trailers and AI video — one of Utah's largest private security-tech companies.*
 
 ## Summary

@@ -13,7 +13,6 @@
 **Location Source:** https://business.uintah.gov/
 **Website:** https://business.uintah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

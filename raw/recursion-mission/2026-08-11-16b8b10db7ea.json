@@ -1,0 +1,13 @@
+{
+  "source_page": "recursion-mission.md",
+  "requested_url": "https://www.recursion.com/mission",
+  "final_url": "https://www.recursion.com/mission",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:28.067Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "dee52bec6833c7de813ed07787499cd199d65e679ae462d21eb2e1a352e156ce",
+  "text_sha256": "16b8b10db7ea4da805a3141ab2b0b405207230906a65cacb79d5c93245406ea5",
+  "text_chars": 4317,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

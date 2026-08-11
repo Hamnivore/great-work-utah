@@ -1,0 +1,84 @@
+New data underscores Utah's lax oversight of youth treatment programs | APM Reports
+Illuminating Journalism from American Public Media
+Our Reporting
+Podcasts
+About Us
+Our Reporting Education
+Environment
+Government
+Health
+History
+Policing and Criminal Justice
+Reading
+Teen Treatment Industry
+Podcasts APM Reports Documentaries
+Educate
+Historically Black
+In Deep
+Order 9066
+Sent Away
+Sold a Story
+Sold a Story en español
+About Us Contact Us
+Our Journalists
+Email Notifications
+Collaborations
+Ethics Guidelines
+Impact
+Utah's Youth Treatment Industry
+New data underscores Utah's lax oversight of youth treatment programs
+Over the course of hundreds of inspections, regulators marked the programs as “compliant” 98 percent of the time. And in recent years, the state noted even fewer violations than before.
+March 10, 2021 | by Will Craft and Jessica Schreifels
+Paris Hilton leads a march to the Provo Canyon School, a residential treatment center in Utah she attended as a teen, in October 2020. Rick Egan | The Salt Lake Tribune
+Once a year, an inspector from Utah’s Office of Licensing visits each of the state’s more than 100 treatment programs for teenagers with behavioral problems. The inspections are supposed to keep those vulnerable kids safe by ensuring the companies that run them are following regulations.
+But a new analysis by APM Reports and The Salt Lake Tribune reveals that those inspectors almost never find violations. More than 98 percent of the time, they check the box marked "compliant."
+The analysis casts renewed doubt on Utah’s oversight of its sprawling youth treatment industry, which is a magnet for troubled teens nationwide and has been under scrutiny from lawmakers because of allegations of mistreatment going back decades. It also raises questions about whether recent legislative reforms go far enough.
+The analysis is based on inspection reports covering every residential treatment and wilderness program in Utah, which has a greater concentration of such programs than any other state. The reports consist of 14-page checklists covering questions such as whether paperwork is in order and whether buildings are in good repair.
+The reports are formatted in a way that is difficult to read, and it’s almost impossible to see how a given program stacks up against its competitors. So APM Reports created a computer program to convert the documents into meaningful data.
+DATA Explore the inspection reports
+Across the 670 reports, the data reveals inspectors assessed more than 53,000 items in total. But they documented only 861 deficiencies.
+That means inspectors determined that treatment programs were noncompliant only 1.6 percent of the time.
+The most common ding? Not having the proper employee paperwork.
+Close to half of the 155 programs inspected hadn’t received a single noncompliant rating in the last five years. And the number of deficiencies has steeply declined over the last two years. The state found only 84 deficiencies in 2020, down from 233 in 2018. A whopping 86 percent of facilities inspected in the last year received a perfect score. Most of those inspections were done virtually because of the pandemic.
+“The bar for these facilities was on the floor,” said Caroline Lorson, who works with Breaking Code Silence, an activist group of former residents of teen treatment facilities. “They’re looking at things like, does each bathroom have a toilet? Are the mirrors secured to the wall? They’re looking at building structure and not necessarily methods of treatment or really anything that has to do with treatment at all.”
+Even fewer violations cited in recent years
+SOURCE: Utah Department of Human Services Office of Licensing
+More inspectors coming
+Utah is the epicenter of the “troubled teen” industry in the United States. Over the past five years, more than 12,000 children from across the country have been sent away to Utah for treatment. The industry brings hundreds of millions of dollars into the state’s economy each year and employs thousands of its residents.
+Allegations of abuse have dogged the industry, and they came to a head during this year’s legislative session after former residents, including celebrity Paris Hilton, testified about mistreatment they say they experienced here.
+Lawmakers who heard the emotional testimony apologized to Hilton and others who were mistreated. They swiftly approved a package of reforms with only a handful of opposing votes.
+The new legislation, which still needs the governor’s signature, would require treatment programs to document any instance in which employees physically restrain a child or place them in seclusion. It would prohibit programs from sedating residents or using mechanical restraints, such as a straitjacket, without the state’s prior authorization.
+It also increases the number of annual state inspections from one to four. But unless the inspections become more rigorous, it’s unclear how much effect that will have on conditions in the programs.
+"We are very concerned that the new bill won't be enough to materially improve the situation in these facilities,” Nick Jackson, an attorney with Utah’s Disability Law Center, wrote in an email to The Tribune. “The legislation leaves a lot of issues unaddressed, one of which is the inspection regime."
+Utah’s current checklist is not weighted, so a ripped van seat counts the same as a child complaining they aren’t given enough to eat .
+In response to questions about the small number of violations cited on the inspection checklists, Amanda Slater, the director of Utah’s Office of Licensing, said the new legislation will lead to changes. But she did not explain those changes or say whether she considered the current inspection protocol adequate.
+“We will be updating our rules to align with the statutory changes as a result of this legislative session,” she said in a written statement.
+Republican state Sen. Mike McKell sponsored the bill, which provides an additional $534,000 to hire more inspectors. He argues that will allow the state to catch more problems.
+“We have not had enough employees on the ground inspecting in a way that I think we should be,” he said.
+At The Tribune’s request, national child welfare expert Ronald Davidson reviewed a portion of these inspection reports last fall. Davidson was the director of the Mental Health Policy Program at the University of Illinois at Chicago’s Department of Psychiatry. He retired in 2014.
+He found Utah’s checklist to be “essentially useless” as a way of evaluating care. He noted that most checkmarks were in the “compliant” column, while comment boxes are mostly left blank.
+“Such a questionable methodology suggests either that: a) the state of Utah must have the nation’s best-performing residential treatment centers; or that b) investigators are sleepwalking their way through on-site reviews,” Davidson wrote in his analysis of the records. “Option B seems the more likely explanation.”
+New Beginnings Behavioral Health, foreground, in West Jordan, Utah, was cited for more violations than any other residential treatment facility in the state over the last five years.
+Isaac Hale for The Salt Lake Tribune
+Inspection reports now widely available
+In the past five years, one treatment center had significantly more noncompliance marks than the others. New Beginnings Behavioral Treatment is a small, 11-bed facility in a suburb of Salt Lake City. It accounted for 14 percent of all noncompliant findings, averaging 15 deficiencies per checklist.
+Many of those deficiencies were for not having the right paperwork, such as immunization records for kids and background checks for employees. It was also cited for not reporting “critical incidents” to regulators, which is required any time a child is hurt or seriously ill.
+Femia Pittman, New Beginnings’ chief administrative officer, said in an email these checklists aren’t “used as an indicator of performance or efficacy.”
+“In our experience,” she said, “the DHS Licensing staff and the organization work cooperatively to ensure that the organization comes into compliance with the DHS rules prior to program license expiration.”
+Pittman noted that some of the documentation is a few years old, and said her facility has improved “overall operational performance” using survey data from families and industry experts.
+The inspection reports used for this analysis are now available to the public in a free, searchable database created by The Tribune, KUER and APM Reports. The database has five years of inspections and critical incident reports, and it marks the first time that the public has had access to this sort of documentation.
+Other states — including Minnesota, Arizona, Michigan and Florida — have made databases like this available on their own. But Utah regulators only put the most egregious violations online , in instances where they have threatened to pull a facility’s license unless the company makes changes. In the past two years, one Utah teen treatment center received such a threat. It is now closed.
+McKell, the lawmaker who sponsored the reform bill, said he’s received emails from parents desperate for information on which treatment centers are safe, because the state makes so little information about the facilities available online.
+“I think the Legislature should take a hard look at enhancing our transparency,” he said.
+Will Craft wcraft@apmreports.org
+Jessica Miller covers legal affairs and criminal justice for The Salt Lake Tribune. KUER reporter David Fuchs contributed to this story. It is part of a partnership between APM Reports, KUER and The Salt Lake Tribune. The three news organizations have joined forces to investigate Utah’s teen treatment industry and the state’s oversight of it.
+This work is part of APM Reports' public media accountability initiative , which supports investigative reporting at local media outlets around the country. Support also came from the Corporation for Public Broadcasting.
+Don't miss our next investigation
+Enter your email below to receive notifications of new stories.
+Subscribe
+Our Reporting
+Podcasts
+About Us
+&copy; 2026 Minnesota Public Radio. All Rights Reserved.
+Terms and Conditions
+Privacy Policy

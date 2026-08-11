@@ -1,0 +1,13 @@
+{
+  "source_page": "apm-reports-utah-youth-treatment-inspections-2021.md",
+  "requested_url": "https://www.apmreports.org/story/2021/03/10/new-data-underscores-utahs-lax-oversight-of-youth-treatment-programs",
+  "final_url": "https://www.apmreports.org/story/2021/03/10/new-data-underscores-utahs-lax-oversight-of-youth-treatment-programs",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:54:33.970Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "a0ced3e245fa3b4e96c341bbf523cb233bc0cd58934c527cb068b7e09b1d23a2",
+  "text_sha256": "6ba750890948193d6ce7ebfc4d1b2769308fccc38b260a699eed1f9a9a050b66",
+  "text_chars": 10199,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

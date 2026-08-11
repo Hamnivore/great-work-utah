@@ -1,0 +1,92 @@
+# Source: Best of State 2026 Winners Page
+
+**Type:** source
+**Status:** Useful
+**Confidence:** Medium
+**Source Type:** official-page
+**Publisher:** Best of State Foundation
+**URL:** https://www.bestofstate.org/winners
+**Raw:** raw/best-of-state-2026-winners-page/2026-08-11-ae1d0c3af036.txt
+**Retrieved:** 2026-08-11
+**Updated:** 2026-08-11
+
+## Summary
+
+The program's current-year winners page, carrying the complete 2026 medal directory: 474 winners
+grouped under the ten divisions, one line per category.
+
+The page has two halves and they are not equally trustworthy. The lower half is the real directory.
+The upper half is a set of featured "winner circle" cards, and six of those cards are **placeholder
+content left in a site rebuild** — the same six fictitious organizations repeat, identically, for
+every year from 2020 through 2025, with the same medal numbers and the same one-line descriptions.
+They appear in no year's actual winner list. Anyone ingesting winners from this page has to know
+which half they are reading, which is the main reason this page exists.
+
+## Useful Claims
+
+- **474 medal winners in 2026**, grouped by division: the directory heading describes itself as "a
+  basic listing of all 474 medal winners from the 2026 Best of State awards, grouped by division."
+- **The award's mass is in consumer categories, not in technical ones.** Dining Establishments is the
+  largest division at 95 winners; Science & Technology is the smallest at 21.
+- **The program describes each winner as "selected by a panel of independent judges for sustained
+  excellence in their field."** Self-description; the judging process itself is documented in
+  [the 2025 program book](best-of-state-2025-winners-list.md).
+- **Six featured entries are fabricated demo data:** Cedarbrook Bistro (Fine Dining), Wasatch Atelier
+  (Architecture), Nucleus Labs (Bio-Tech), High Lake Cellars (Beverage), Granite Works (Industrial),
+  and Beacon Wildlands Trust (Non-Profit). Each is presented six times — once for each year 2020
+  through 2025 — with an unchanged medal number and unchanged copy. None appears in the 2026
+  directory below them, nor in the 2025 program book.
+- **David F. Pack, Ph.D. is the 2026 Recreational Coach winner**, which extends into 2026 the
+  repeat-entrant pattern the 2025 program book shows across five categories.
+
+## Verbatim
+
+> "A basic listing of all 474 medal winners from the 2026 Best of State awards, grouped by division."
+> — "Complete 2026 Medal Winner Directory"
+
+> "Dining Establishments 95 winners"
+> — 2026 directory, division heading
+
+> "Science & Technology 21 winners"
+> — 2026 directory, division heading
+
+> "Each winner is selected by a panel of independent judges for sustained excellence in their field. Every profile links to the organization's official website."
+> — "The 2026 Winner Circle"
+
+> "Fine Dining • 2025 Cedarbrook Bistro No. 07 Seasonal mountain cuisine sourced from a 50-mile radius of producers."
+> — Featured cards, 2025
+
+> "Fine Dining • 2020 Cedarbrook Bistro No. 07 Seasonal mountain cuisine sourced from a 50-mile radius of producers."
+> — Featured cards, 2020
+
+> "Recreational Coach David F. Pack, Ph.D."
+> — 2026 directory, Sports & Recreation
+
+## Reliability Notes
+
+**The demo data is the finding, and it should not be softened.** Two of the quotes above are the same
+card five years apart, character for character, medal number included. A site that presents
+"Cedarbrook Bistro, No. 07, Fine Dining" as a 2020 winner and again as a 2025 winner is not
+misremembering a winner; it is rendering seed content. The rebuild appears to be recent — the page
+footer credits an agency and the site's routes are unarchived — and this is the kind of artifact a
+rebuild leaves behind. **Do not ingest those six names**, and treat any *featured* card on this site
+with suspicion unless the same organization also appears in a directory listing or a program book.
+
+**The real directory looks sound**, and it agrees with the winner rows recovered from earlier years:
+Del Sol, Armormax, Odyssey House, St. George Marathon, Rancho Luna Lobos, Club V, and PC Laptops all
+appear in categories consistent with their earlier medals.
+
+**No archive snapshot exists.** `scripts/resolve-archive-snapshots.mjs` found no 200-status capture of
+this route in the CDX index — the rebuilt site's URLs have not been crawled. Until Save Page Now is
+run against them, the claims here rest on the `**Raw:**` capture alone, which is why the capture
+matters more than usual for this page.
+
+**A count is not a roster.** 474 is what the page says it lists. The ten division headings' own
+counts do sum to 474, so the document is at least internally consistent; nothing here verifies that
+the printed rows number 474.
+
+## Related Pages
+
+- [Best of State Awards](best-of-state-awards.md)
+- [Source: Best of State 2025 Awards Program Book (PDF)](best-of-state-2025-winners-list.md)
+- [Source: Best of State Past Winners Archive](best-of-state-past-winners-archive.md)

@@ -1,0 +1,13 @@
+{
+  "source_page": "the-inn-between-frequently-asked-questions.md",
+  "requested_url": "https://tibhospice.org/about/frequently-asked-questions",
+  "final_url": "https://tibhospice.org/about/frequently-asked-questions",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:50:44.519Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "b29d3cc08b8fb91f76936b8d46c6d0bf02ee26c4ec8853bd56aead2500747bef",
+  "text_sha256": "d9b860bfa1c5d00cf612c9e7eae46b57025a1d9bc47fa066f2c6320eb75600fb",
+  "text_chars": 10161,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

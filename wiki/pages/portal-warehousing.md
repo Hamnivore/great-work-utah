@@ -14,7 +14,6 @@
 **Location Source:** https://www.join-portal.com/location/salt-lake-city
 **Website:** https://www.join-portal.com/location/salt-lake-city
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

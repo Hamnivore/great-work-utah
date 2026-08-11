@@ -1,0 +1,13 @@
+{
+  "source_page": "auticon-us-about-us.md",
+  "requested_url": "https://www.auticon.com/us/en/about-us/",
+  "final_url": "https://auticon.com/us/about-us/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:03.749Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "b8fa9cc674c156741c76e6b0a3f88b50c06820ce02a22b9607047bd52d3b061c",
+  "text_sha256": "c9c16293e341c00c3de1d612932d414669cbad2435c71837bd8fa338622a1ecf",
+  "text_chars": 13126,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

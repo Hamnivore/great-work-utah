@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://palladyneai.com/
+**Archive:** https://web.archive.org/web/20260625025138/https://www.palladyneai.com/
+**Archived:** 2026-06-25
 **Publisher:** Palladyne AI
-**Accessed:** 2026-06-25
+**Raw:** raw/sarcos-official-website/2026-08-11-c3669e0362de.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-25
 
 ## Summary
@@ -18,6 +21,17 @@ Palladyne AI is the current public identity of the company formerly known as Sar
 - The former Sarcos business now presents itself publicly as Palladyne AI.
 - The company positions its products around AI and autonomy software for robots and unmanned systems.
 - The site is useful for current product positioning after Sarcos's pivot away from its older hardware-led exoskeleton narrative.
+
+## Verbatim
+
+> "Most AI thinks. Palladyne AI acts."
+> — Home page, hero
+
+> "Our embodied AI platform powers two businesses: a vertically integrated Aerospace & Defense company, from software and edge silicon through loitering munitions to sovereign U.S. manufacturing, and an industrial software platform that makes your existing robots poly-functional, not just automated."
+> — Home page, hero body
+
+> "Strike systems with Oracle-Class Wolf Pack Swarming"
+> — Home page, "Built for Real-World Deployment"
 
 ## Reliability Notes
 

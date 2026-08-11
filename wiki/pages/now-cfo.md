@@ -14,7 +14,6 @@
 **Location Source:** https://www.nowcfo.com/wp-content/uploads/2022/09/NOW_CFO_BrandGuide_Q1_2022.pdf
 **Website:** https://nowcfo.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=The+Mill+at+SLCC+9690+South+300+West+Sandy+UT
 **Website:** https://themillatslcc.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -14,7 +14,6 @@
 **Careers:** https://www.energyfuels.com/careers/
 **Needs-reviewed:** 2026-07-14
 **Updated:** 2026-07-14
-**Hero:** https://picsum.photos/seed/energy-fuels-white-mesa-critical-minerals-2026/1600/1100
 **Pull:** *A Utah mill at the center of a contested U.S. critical-minerals and nuclear-fuel supply-chain strategy.*
 
 ## Summary

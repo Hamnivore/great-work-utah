@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-sb127-2021-bill-status-record.md",
+  "requested_url": "https://le.utah.gov/data/2021GS/SB0127.json",
+  "final_url": "https://le.utah.gov/data/2021GS/SB0127.json",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:58:24.381Z",
+  "http_status": 200,
+  "content_type": "application/json",
+  "bytes_sha256": "e065b29874d3aafc3c057a71ef553f067a99706fd3cbe5ec422ecbd421e664ad",
+  "text_sha256": "a26f01f5fd42666cb026d1a4a7dd07540fc05f8ea41fa607b926b7cf558349cb",
+  "text_chars": 6376,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,94 @@
+About DigiCert | Intelligent Digital Trust | DigiCert
+Virtual Trust Summit: Get expert advice on building trust in AI.
+Watch on demand
+About DigiCert
+Trust built for the AI age
+Securing people, data, devices, and agents in a quantum world.
+Why DigiCert
+Talk to an expert
+/content/dam/digicert/dynamic-media/videos/digicert-one-video-dc-subs.mp4
+The DigiCert story
+DigiCert exists to make digital trust endure. We began by mastering PKI when the internet needed certainty. As lifecycles shrank and complexity accelerated, trust could no longer be managed one certificate at a time.
+Today, DigiCert ONE weaves visibility, automation, and control into resilient infrastructure, so trust works continuously, even as everything else changes.
+Explore DigiCert ONE
+What we do
+DigiCert is a global leader in Intelligent Trust. We protect the digital world by ensuring the security, privacy, and authenticity of every interaction.
+Our AI-powered DigiCert ONE platform unifies PKI, DNS, and certificate lifecycle management to secure infrastructure, software, devices, messages, AI content and agents. See why we're chosen by security leaders in over 180 countries.
+Experience the platform
+/content/dam/dcg/lotties/2026 0113_digicert what we do_v1.lottie
+Life at DigiCert
+From Lehi to London, Sunnyvale to Singapore, DigiCert connects people passionate about building Intelligent Trust around the world.
+Our team collaborates across cultures to redefine how trust works: protecting hospitals, power grids, financial systems, and the digital connections people rely on every day.
+If you're ready to build what's next, you'll find your people here.
+Join our team Explore our values
+Trusted by the world's innovators
+More than 125,000+ customers— including 90%+ of the Fortune 500 —trust DigiCert to secure identity, communications, and integrity across their infrastructure, applications, devices, and AI.
+Explore our customer stories
+style
+highlight, full-width
+Defining the standards behind digital trust
+As AI accelerates, certificate lifespans shrink, and quantum readiness becomes mandatory, DigiCert helps define how digital trust works across the internet.
+Our experts shape industry standards through the CA/Browser Forum, IETF, and ETSI—advancing identity, encryption, certificate governance, and post-quantum security.
+Explore our standards
+style
+large-paragraph
+Meet our leaders
+Dr. Amit Sinha
+Chief Executive Officer
+Dr. Amit Sinha is the CEO and visionary leader driving DigiCert into the era of Intelligent Trust—advancing enterprise security, automation, and resilience for the AI and quantum age. Under Amit's leadership, DigiCert delivered its strongest fiscal year to date in 2025. Previously, he was President of Zscaler, where during a 12-year tenure he helped grow the company from a startup to a NASDAQ-100 company—establishing it as a leader in enterprise security. He serves as an independent board member at Zscaler and DataRobot and advises several startups. Earlier, he held CTO roles at Motorola and AirDefense (acquired by Motorola in 2008).
+Dr. Sinha earned an M.S. and Ph.D. from MIT and a B.Tech. from IIT Delhi, where he graduated summa cum laude and received the President of India Gold Medal. He has authored 25+ papers, contributed to three books, and is the inventor of 39 U.S. patents granted or pending.
+Deepika Chauhan
+Chief Product Officer
+Deepika Chauhan is Chief Product Officer at DigiCert and the architect behind expanding DigiCert ONE, translating Intelligent Trust into platform strategy and execution at enterprise scale. Since joining DigiCert in 2017, she has led customer-obsessed global product and engineering teams driving continued innovation across DigiCert ONE. She oversees product strategy to help organizations deliver trusted security across users, devices, servers, software, and content.
+Previously, she led Strategy and Business Operations for Symantec's Website Security business unit and worked at McKinsey & Company in Silicon Valley on strategic initiatives for technology companies. She began her career in product development on Nokia's mobile browser team. Chauhan holds a B.E. from the University of Delhi, an M.S. from the University of Cincinnati, and an MBA from Dartmouth.
+Dave Packer
+Chief Revenue Officer
+Dave Packer is Chief Revenue Officer at DigiCert and has led the shift in how DigiCert goes to market as the company evolves into an enterprise platform for Intelligent Trust. Under his leadership, DigiCert has moved from selling individual products to offering a unified platform—focused on subscription revenue, long-term customer relationships, and strong enterprise partnerships. He brings more than 30 years of tech industry experience spanning sales leadership, field operations, alliances, and customer success.
+Previously, Packer served as President of Worldwide Field Operations at Matillion and was SVP of Worldwide Field Operations at Ping Identity (eight years) and E2open (six years), both of which completed successful IPOs. He holds an M.S. from the MIT Sloan School of Management and a B.A. in Economics from Claremont McKenna College.
+Jugnu Bhatia
+Chief Financial Officer
+Jugnu Bhatia is Chief Financial Officer at DigiCert, where he is helping drive the company's strong financial performance and strategic growth as it evolves into an enterprise platform for Intelligent Trust. Under his financial leadership, DigiCert has delivered record-breaking revenue growth in consecutive years, strengthened recurring revenue performance, and enhanced operational discipline to support long-term scalability and profitability.
+Previously, he served as SVP, Finance and Chief Accounting Officer at Zscaler, where over an eight-year tenure he supported the company's growth from private to NASDAQ-100 and helped scale annual recurring revenue (ARR) from $100M to more than $2B. He holds an MBA from the University of Illinois at Urbana-Champaign and is a California CPA (inactive) and a Chartered Accountant from India.
+Jason Sabin
+Chief Technology Officer
+Jason Sabin is Chief Technology Officer at DigiCert. Since May 2020, he has led the engineering execution of DigiCert's technology strategy and previously served as Chief Information Officer and Chief Security Officer, helping drive digital transformation across DigiCert's platforms and systems.
+Sabin has 20+ years of identity and security experience and has helped advance digital trust capabilities including certificate lifecycle management, IoT device security, software trust, and content provenance. He holds more than 60 issued patents and studied computer science at Utah Valley University.
+Lakshmi Hanspal
+Chief Trust Officer
+Lakshmi Hanspal serves as DigiCert's first Chief Trust Officer, leading strategy and execution that ensures trust is embedded across its technology, operations, and customer experience as digital and AI ecosystems rapidly evolve. She brings 30+ years of technology and information security experience, including 16 years in financial services and payments. At DigiCert, she oversees regulatory compliance, data protection, and risk management and helps protect the integrity, security, and privacy of customer data.
+Previously, Hanspal served as Global CISO for Amazon Devices & Services and held chief security roles at Box and SAP Ariba, with earlier leadership experience at Bank of America and PayPal. She holds a master's degree in computer science from Boston University and serves on boards for mission-driven organizations.
+Jamie Elvidge
+Chief Customer Success Officer
+Jamie Elvidge is Chief Customer Success Officer at DigiCert, leading the global customer organization and overseeing the end-to-end post-sale experience.
+Since joining DigiCert in 2008, he has helped guide the company through significant growth and transformation, evolving the customer organization to support a modern, recurring revenue model. A key focus has been helping customers automate certificate lifecycle management to improve security and reduce operational complexity. He has also led the adoption of AI-driven support, strengthening documentation, accelerating resolution times, lowering cost to serve, and enhancing the overall customer experience.
+Jamie previously served as Executive Vice President of Customer Service. He holds an MBA from Utah State University and a B.S. in Business Management from Utah Valley University.
+Atri Chatterjee
+Chief Marketing Officer
+Atri Chatterjee is Chief Marketing Officer at DigiCert, shaping the go-to-market narrative for DigiCert ONE—the platform for Intelligent Trust. He leads global marketing for DigiCert's products and services across PKI, DNS, and AI trust, helping organizations improve security, efficiency, and agility.
+With 30+ years of experience across marketing automation, network security, and identity and access management, Chatterjee has held leadership roles at high-growth startups and global enterprises. Before DigiCert, he spent five years at ForgeRock as CMO through the company's $2.3B acquisition by Thoma Bravo and subsequent merger with Ping Identity, where he led growth strategy that nearly quadrupled annual recurring revenue over five years. Earlier, he held senior roles at Zscaler, Act-On Software, and CipherTrust. He holds a B.S. and M.S. in Computer Science from Washington State University and an MBA from the Wharton School.
+Aaron Olsen
+General Counsel
+Aaron Olsen is General Counsel at DigiCert, leading the company’s global legal organization and advising the executive team on legal, regulatory, and strategic matters as DigiCert continues to scale as the platform for Intelligent Trust. He oversees corporate governance, commercial transactions, product and licensing matters, intellectual property strategy, compliance, and risk management, partnering across the business to support growth and innovation.
+Olsen brings experience across technology, regulatory, and commercial legal issues in both private practice and in-house roles. Before joining DigiCert, he practiced at Ray Quinney & Nebeker, where he advised clients on regulatory compliance, advertising, labor and employment, and commercial matters. Earlier in his career, he held roles in regulatory analysis and global marketing operations. Olsen holds a J.D. from the University of Pennsylvania Carey Law School and both an M.A. in Comparative Literature and Classics (where he was awarded a Fulbright Fellowship) and a B.A. in Classical Studies from Brigham Young University.
+Stay current. Stay ahead.
+Explore insights, news, and expertise from DigiCert.
+Newsroom
+Press releases, reports, product announcements, and company news.
+Stay updated
+Blog
+Industry insights, customer features, partner interviews, and more.
+Read the story
+Webinars
+Learn from experts covering everything from PKI to DNS.
+Watch now
+style
+large-paragraph
+Recognized across the globe
+Frost & Sullivan 2026 Global DNS Security Competitive Strategy Leadership Award
+IoT Evolution World 2025 IoT Security Excellence Award
+SiliconANGLE 2025 TechForward Award Finalist
+IoT Evolution World 2025 Product of the Year Award
+style
+highlight
+Ready to make a difference?
+Join our team Talk to an expert

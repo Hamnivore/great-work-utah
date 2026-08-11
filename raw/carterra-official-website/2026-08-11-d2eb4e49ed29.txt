@@ -1,0 +1,175 @@
+Carterra: High Throughput Antibody Screening & Characterization
+Submit
+Contact Us
+Submit
+Products
+Product Overview
+Carterra Vega
+Carterra Ultra
+Carterra LSA XT
+Carterra LSA
+Sensor Chips
+Kinetics Data Analysis Software TM
+Epitope Data Analysis Software TM
+AI, ML & In Silico Tools
+Testimonials
+Applications
+Overview
+High Throughput Kinetics
+Epitope Binning
+Fc-Gamma Receptor
+GPCR and Transmembrane Proteins
+Quantitation
+Antibody Epitope Mapping
+Therapeutic Areas
+Antibody Formats
+Proximity-Based Degraders
+DNA Encoded Library (DEL)
+Kinase Inhibitors and Fragment Screening
+Vaccine Discovery and Development
+Technology
+Carterra HT-SPR™ Technology
+SPR Overview
+Attend SPR Camp
+Testimonials
+Frequently Asked Questions
+Resources
+Application Notes
+Webinars and Videos
+Podcasts
+White Papers
+Publications
+Brochures & eBook
+Posters
+Symposia
+2026
+2025
+2024
+2023
+2022
+2019
+About Us
+Overview
+Management Team
+Board of Directors
+Testimonials
+Careers
+News
+Blog
+Events
+Contact Us
+Support
+Inquiries
+Customer Login
+Application Training Program
+Attend SPR Camp
+Technical Support Updates
+Store
+Meet
+Carterra Vega
+Highlights:
+Carterra Vega screens >20,000 compounds a day
+48-channels of SPR in parallel
+Carterra Vega provides a flexible assay format
+Unrivaled speed for parallel analyte kinetics and array-based analysis
+Carterra Vega turns a week of work into less than a day
+Optional robot for 24/7 unattended operation
+Learn More
+Screen More Molecules Than Ever Before
+Learn More Watch Carterra Vega Video
+“We are pleased to have been a Key Opinion Leader (KOL) during the development of this fantastic parallel 48-channel SPR platform. The Carterra Vega will enable us to screen larger libraries faster and allow our researchers to run a greater number of screening and characterization projects, increasing our labs’ efficiency.”
+Director of Biophysics
+A Top 10 Pharmaceutical Company
+Watch Video:
+Introducing the Carterra Vega for massively parallel screening of large and small molecule binding.
+Carterra’s high-throughput biology solutions advance AI/ML.
+Learn More
+This is what high throughput kinetics looks like .
+Here’s what you can achieve with the highest-throughput SPR platforms on the market:
+Carterra Vega with the plate loading robot delivers >20,000 analyte injections per day – fully unattended
+Carterra Ultra collects up to 48 of these panels a day giving you >4,600 analyte/ligand titrations in 24 hours. Obtain > 200,000 interactions per week in screening mode
+LSA and LSA XT can test 1152 ligands against several antigens in one unattended run
+Carterra’s platforms provide the benefits of high throughput while using < 10% of the sample required by other commercial SPR instruments
+Learn More
+This is what a high-res epitope binning looks like.
+If you’re not binning or just binning 10s of antibodies at a time, you’re not finding out much about your epitope.
+Bin up to 384 × 384 antibodies (Auto analysis of 150,000 sensorgrams)
+Discover the Mechanism of Action quickly and reduce failures in development and the clinic
+Obtain Intellectual Property rights and lock down features that differentiate your antibody from your competitors
+Learn More
+View some of our customer presentations
+Therapeutic Areas
+COVID-19
+Infectious Diseases/Vaccines
+Immuno-Oncology (IO)/Cancer
+Pain
+Auto-Immunity
+Heart Disease
+Antibody Formats
+Discovery Platforms
+Bispecifics
+Antibody-Drug Conjugates
+CAR-T Therapy
+During our testing of the Carterra Ultra, we were able to screen a vast array of molecular interactions in parallel. We’re excited about this revolutionary new SPR platform as it will rapidly accelerate aspects of the drug discovery process by utilizing high-sensitivity biophysical characterization with unparalleled throughput.
+Philip Schwartz, PhD, Drug Discovery Industry Leader
+To match our capacity in generating antibody libraries, we use the Carterra LSA for screening and characterization. Its high throughput capabilities match our highly automated antibody production workflow and shift analytics upstream to the very start of our antibody production. We routinely generate binding kinetics on hundreds of clones in parallel, directly from crude antibody or purified samples using minimal sample.
+Aaron Sato, PhD, Chief Scientific Officer, Biopharma, Twist Bioscience
+Epitope binning data produced on Carterra’s LSA gives us a detailed picture of the epitope landscape of our antibody libraries quickly using crude samples.
+Bill Harriman, PhD, Vice President, Antibody Discovery Services, Ligand Pharmaceuticals
+The Carterra technology…gave us the ability to perform very sensitive high-throughput full-kinetic analysis of unpurified bacterial extracts.
+Raphael Levy, PhD, Director, Antibody Engineering, LakePharma
+The LSA has the throughput to test large numbers of antibodies quickly, and is really good at epitope binning, which other systems do not seem to do as well.
+James Love, PhD, Chief Operations Officer, The Institute for Protein Innovation
+Carterra’s LSA provides the greatest epitope binning capacity available in the biosensor space and it is enabling a paradigm shift here. We know a lot more, sooner, and that makes us more efficient and more productive.
+Christine Bee, PhD, Biophysicist, Large Pharmaceutical Company
+Our LSA is up and running. The first install in Washington State! We’re excited to use it to speed up our therapeutic discovery process.
+Ashok Bandaranayake, PhD, Director of Immunology and Automation, Protein Therapeutics Program, Fred Hutchinson Cancer Research Center
+The Carterra LSA provides a significant increase in throughput for accurate determination of binding kinetics and affinities to help make lead choices much earlier in the discovery process.
+Scott L. Klakamp, PhD
+We recently joined the Carterra family and installed our LSA…. As the main user of this instrument, I must admit that LSA is a sensitive instrument with many potential applications…your team has done a wonderful job!
+Hui Zhou, PhD, Senior Scientist, LinkedUp Bioscience
+Want to Learn More?
+Speak to a Carterra Scientist
+News & Events
+News
+07.27.26
+Leerink Partners Report Names Carterra a Core Enabler of the $7B “Lab-in-the-Loop” Antibody Discovery Market
+Read More
+Webinars
+Massively Parallel SPR Based Fragment Screening on Ligand Arrays
+Watch Webinar
+Publications
+Parallel Measurements of Hundreds of TCR/pMHC Affinities Using The Carterra Surface Plasmon Resonance Technology
+View
+Get the Latest to Your Inbox
+First Name (Required)
+Last Name (Required)
+Email (Required)
+CAPTCHA
+Submit
+825 N. 300 W. Ste. C309
+Salt Lake City, UT 84103
+Ph: (844) 642-7635
+questions@carterra-bio.com
+Products
+Technology
+About Us
+News
+Events
+Resources
+Blog
+Contact
+Applications
+AI, ML and Synthetic Biology Tools
+Kinetics TM Software
+Epitope TM Analysis Software for Protein:Protein Interactions
+Advanced SPR Platform for High Throughput Kinetics Screening
+Epitope Binning
+Quantitation
+GPCR and Transmembrane Proteins
+Proximity-Based Degraders
+DNA Encoded Library (DEL) Compounds
+Vaccine Discovery and Development
+&copy; 2026 Carterra, Inc. All rights reserved. Unless otherwise noted, Carterra, the Carterra Logo and all other trademarks are property of Carterra, Inc.
+Privacy Policy
+Website by Metropolis Creative

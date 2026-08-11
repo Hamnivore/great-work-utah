@@ -1,0 +1,13 @@
+{
+  "source_page": "bunnell-official-website.md",
+  "requested_url": "https://bunl.com/about-bunnell/",
+  "final_url": "https://bunl.com/about-bunnell/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:49:27.765Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "c7599e5db6bb60505ec3352ccbac865ba4873019daaf0874ff8b4e18f3f89214",
+  "text_sha256": "f3ccd5d5ba0ab921036cea52f4769acc10c9c004d8a9677f6b2795257ae61e79",
+  "text_chars": 6460,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "sdl-about.md",
+  "requested_url": "https://www.sdl.usu.edu/company/about/",
+  "final_url": "https://www.sdl.usu.edu/company/about/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:35.225Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "e795703923e277ea5b584f6dcd22b6cb7c5513aa2a9a8df0350af4282e396994",
+  "text_sha256": "d7c4e4d7f37bd1003cbf4d42882ea9359520193122bd66949f698958fa5602c5",
+  "text_chars": 2552,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

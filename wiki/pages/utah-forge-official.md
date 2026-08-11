@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.energy.gov/hgeo/geothermal/forge; https://utahforge.com/
+**Archive:** https://web.archive.org/web/20260807013944/https://www.energy.gov/hgeo/geothermal/forge
+**Archived:** 2026-08-07
 **Publisher:** U.S. Department of Energy; Utah FORGE
-**Accessed:** 2026-06-18
+**Raw:** raw/utah-forge-official/2026-08-11-3127cc3dd2b1.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -19,7 +22,21 @@ The DOE FORGE page and Utah FORGE official site describe the Frontier Observator
 - DOE says the Utah FORGE project is led by the University of Utah's Energy & Geoscience Institute with multiple partner organizations.
 - DOE describes the site as a rural project area of less than five square miles near Milford in Beaver County.
 - DOE says FORGE includes instrumentation, data collection, and data dissemination to support a replicable commercial pathway to enhanced geothermal systems.
-- The Utah FORGE site describes the lab as an underground field laboratory sponsored by DOE, focused on drilling, technology testing, EGS research, data dashboards, project data, R&D data, geoscience maps, seismic monitoring, sample curation, and scientific publications.
+- The Utah FORGE site describes the lab as an underground field laboratory sponsored by DOE, focused on drilling, technology testing, EGS research, data dashboards, project data, R&D data, geoscience maps, seismic monitoring, sample curation, and scientific publications. (This capture is the DOE FORGE page only; the utahforge.com feature list is not reconfirmed here.)
+
+## Verbatim
+
+> "The U.S. Department of Energy (DOE) Office of Geothermal Frontier Observatory for Research in Geothermal Energy (FORGE) initiative is a dedicated field site in Milford, Utah, where scientists and engineers can develop, test, and accelerate breakthroughs in enhanced geothermal systems (EGS) technologies and techniques."
+> — DOE FORGE page, lead paragraph
+
+> "Led by the University of Utah – Energy & Geoscience Institute (EGI) in association with multiple partner organizations , the Utah FORGE project area is rural, covering less than five square miles, and is situated near the town of Milford in Beaver County, Utah's Renewable Energy Corridor ."
+> — DOE FORGE page, lead paragraph
+
+> "The FORGE effort includes robust instrumentation, data collection, and data dissemination to capture and share information and activities in real time."
+> — DOE FORGE page, lead paragraph
+
+> "Currently in phase three, the Utah FORGE team , led by the University of Utah–Energy & Geoscience Institute in association with multiple partner organizations , is a dedicated laboratory for developing, testing, and accelerating breakthroughs in EGS technologies to advance the use of geothermal resources."
+> — DOE FORGE page, "FORGE Phases and Sites"
 
 ## Reliability Notes
 

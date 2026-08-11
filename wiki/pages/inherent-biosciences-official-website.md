@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.inherentbio.com
+**Archive:** https://web.archive.org/web/20260527003009/https://www.inherentbio.com/
+**Archived:** 2026-05-27
 **Publisher:** Inherent Biosciences
-**Accessed:** 2026-06-19
+**Raw:** raw/inherent-biosciences-official-website/2026-08-11-6db2ddc91cb9.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -21,6 +24,17 @@ Inherent Biosciences' official website describes a mission to replace trial-and-
 - Inherent says it uses AI to identify observable epigenetic patterns in sperm correlated with fertility outcomes, with implications for other indications.
 - Path Fertility, described as a division of Inherent Biosciences, markets SpermQT to raise the standard of care in reproductive health and provide more personalized treatment plans.
 - SpermQT is positioned to address inequity in fertility testing and help couples achieve pregnancy faster through better diagnostic signal than count-and-motility alone.
+
+## Verbatim
+
+> "Our vision is to revolutionize trial and error medicine to restore hope"
+> — Home page, hero
+
+> "We are on a mission to use what's inherent in our biology to remove the guesswork in diagnosing and treating complex diseases , starting in reproductive health."
+> — Home page, mission statement
+
+> "Path Fertility, a division of Inherent Biosciences, markets SpermQT to address the inequity in fertility testing and provide couples with more personalized and effective treatment plans to achieve pregnancy faster."
+> — Home page, "What We Do"
 
 ## Reliability Notes
 

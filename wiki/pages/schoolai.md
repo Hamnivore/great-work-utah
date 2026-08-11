@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Focus:** AI in education, personalized learning, K-12 edtech, teacher tools, classroom AI safety
 **Roles:** software-engineering, data-science, program-project-management
-**Stage:** Series A ($25M, April 2025; $32M total raised)
+**Stage:** Venture-backed
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
 **Region:** Lehi
@@ -17,21 +17,20 @@
 **Careers:** https://ats.rippling.com/schoolai/jobs
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/schoolai-classroom-ai-platform-2026/1600/1100
 **Pull:** *Teacher-controlled AI Spaces that adapt to each student — with Mission Control showing who needs help now.*
 **Relates:** cites [Official Website: SchoolAI](schoolai-official-website.md) · https://greatutah.work/pages/schoolai-official-website.md · https://schoolai.com
 
 ## Summary
 
-SchoolAI is a Lehi, Utah company building an AI platform for K-12 classrooms. Founded by former teacher Caleb Hicks (classroom product launched August 2023), it combines teacher-facing AI assistants for lesson prep and administration with **Spaces** — teacher-designed, personalized AI tutors, games, and lessons for students — plus **Mission Control** for real-time visibility into engagement and struggle.
+SchoolAI is a Lehi, Utah company building an AI platform for K-12 classrooms. Founded by former teacher Caleb Hicks, it combines teacher-facing AI assistants for lesson prep and administration with **Spaces** — teacher-designed, personalized AI tutors, games, and lessons for students — plus **Mission Control** for real-time visibility into engagement and struggle.
 
-Press coverage of the April 2025 Series A ($25M led by Insight Partners, $32M total) cites deployment in 1M+ classrooms across 80+ countries and embedding in 400+ U.S. school districts, with strong Utah penetration (often quoted as 80%+ of Utah districts). The company positions itself on managed, safe AI for minors — FERPA/COPPA compliance, crisis flagging, and teacher-configurable guardrails.
+The captured official source does not establish financing totals, classroom reach, country count, or district penetration, so those scale claims are omitted pending a captured funding announcement or primary district records. The company positions itself on managed, safe AI for minors — FERPA/COPPA compliance, crisis flagging, and teacher-configurable guardrails.
 
 ## Impact
 
-Personalized education has been edtech's unfulfilled promise for decades. The teacher-to-student ratio problem is structural: one teacher cannot give 30 students individualized attention simultaneously. SchoolAI's bet is that AI multiplies teacher reach — handling per-student adaptation while surfacing actionable data on who is stuck.
+Personalized education has been edtech's unfulfilled promise for decades. The teacher-to-student ratio problem is structural: one teacher cannot give a full classroom individualized attention simultaneously. SchoolAI's bet is that AI multiplies teacher reach — handling per-student adaptation while surfacing actionable data on who is stuck.
 
-District adoption is the hard gate, and early Utah traction suggests the product cleared initial procurement barriers. The harder question is pedagogical efficacy: engagement and classroom reach are not learning outcomes. The official site cites ESSA Level III promising evidence from a Jordan School District study (28% critical-thinking boost, 2× higher-order reasoning) with independent review attributed to [Instructure](instructure.md) — worth verifying against primary study documents before strong claims.
+District adoption is the hard gate. The harder question is pedagogical efficacy: engagement and classroom reach are not learning outcomes. The official site cites ESSA Level III promising evidence from a Jordan School District study (28% critical-thinking boost, 2× higher-order reasoning) with independent review attributed to Instructure; these are company-cited results pending primary study documents. [Official Website: SchoolAI](schoolai-official-website.md)
 
 ## What They Are Building
 
@@ -44,7 +43,7 @@ Per the official website, SchoolAI's product stack includes:
 5. **Professional Learning** — district training aligned to institutional goals.
 6. **Research pipeline** — ESSA logic models, ethics advisory council, and published studies on teacher prompt behavior and Space design quality.
 
-Safety architecture emphasizes real-time crisis detection, prohibitions on posing as human, contractual bans on training external models on student data, and SOC 2 Type 2 / 1EdTech certification claims.
+Safety architecture emphasizes real-time crisis detection, prohibitions on posing as human, contractual bans on training external models on student data, and SOC 2 Type 2 / 1EdTech certification claims. [Official Website: SchoolAI](schoolai-official-website.md)
 
 ## What They Need Now
 Hiring comes in waves and the careers board is sometimes empty between them. Likely needs still span ML engineers, curriculum and learning-science researchers, district sales and implementation, product engineers, and trust-and-safety operators — the Series A narrative emphasized global expansion, admin/parent products, and implementation team growth. Competition remains intense (Khanmigo, Google Classroom AI, and others).
@@ -73,5 +72,5 @@ SchoolAI is one of the fastest-scaling recent additions to Utah's Silicon Slopes
 - Independent replication of learning-outcome gains beyond company-cited ESSA Level III studies.
 - Depth of daily instructional embedding vs. headline classroom-reach numbers.
 - Defensibility against well-funded competitors with existing district relationships.
-- Founding date ambiguity (2021 mission vs. 2023 classroom launch) and how that affects maturity assessments.
+- Founding and classroom-launch dates need a captured primary source.
 - Whether parent and administrator products planned for post-Series A change the competitive positioning.

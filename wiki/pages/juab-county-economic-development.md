@@ -14,7 +14,6 @@
 **Location Source:** https://business.utah.gov/statewide-economic-development-contacts/
 **Website:** https://juabcounty.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.nps.gov/gosp/index.htm
+**Archive:** https://web.archive.org/web/20260801225746/https://www.nps.gov/gosp/index.htm
+**Archived:** 2026-08-01
 **Publisher:** National Park Service
-**Accessed:** 2026-06-18
+**Raw:** raw/nps-golden-spike/2026-08-11-f92297a04623.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -20,6 +23,14 @@ The National Park Service page for Golden Spike National Historical Park describ
 - The site includes original railroad grade, construction features, and Victorian-era replica locomotives.
 - NPS provides the official park identity, location, visitor context, and history-and-culture entry point for the Golden Spike story.
 - The official page is a stable first citation for the park and should be paired with labor-history sources for Chinese, Irish, Latter-day Saint, and other worker contributions.
+
+## Verbatim
+
+> "One of the greatest technological achievements of the 19th century is the completion of the first transcontinental railroad across the United States."
+> — Park home page, hero
+
+> "Visitors to the park can see the location of the Last Spike Site, 1869 railroad construction features, walk or drive on the original railroad grade, and get an up close view of Victorian era replica locomotives."
+> — Park home page, hero
 
 ## Reliability Notes
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "startup-utah-official-site.md",
+  "requested_url": "https://startup.utah.gov/",
+  "final_url": "https://startup.utah.gov/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:41.402Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "74b3042b601347f8202ce31bf229a3cd37b30c03c91f963ad9c81c2e410d1fb2",
+  "text_sha256": "d852b7e64bfa7fa945eaa2ad3701e2a3c19ecf1e8d4c39193fad6e6bbd839fe5",
+  "text_chars": 3520,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

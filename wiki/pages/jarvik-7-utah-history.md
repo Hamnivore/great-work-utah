@@ -3,10 +3,9 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** University Page
+**Source Type:** official-page
 **URL:** https://medicine.utah.edu/cardiology/about/history/artificial-heart
 **Publisher:** University of Utah School of Medicine, Division of Cardiovascular Medicine
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

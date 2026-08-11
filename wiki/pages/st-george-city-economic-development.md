@@ -13,7 +13,6 @@
 **Location Source:** https://www.utah.gov/pmn/sitemap/publicbody/1087.html
 **Website:** https://sgcityutah.gov/departments/economic_development/index.php
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

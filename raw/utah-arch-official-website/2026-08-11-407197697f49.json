@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-arch-official-website.md",
+  "requested_url": "https://arch.cs.utah.edu",
+  "final_url": "https://arch.cs.utah.edu/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:53.228Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "7a22a1de33f5bdc4f0587110619a7ba2793069eec068b400fc534db3b11366cb",
+  "text_sha256": "407197697f49f4bcc83e05015131e3493dfb16c30c29104e6ae9ce90933ed844",
+  "text_chars": 1763,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

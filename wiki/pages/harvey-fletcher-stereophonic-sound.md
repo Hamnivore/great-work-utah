@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering
+**Domain:** culture-place, computing
 **Era:** 1884-1981 (life); landmark stereo work 1931-1933; posthumous Grammy 2016
 **Primary Location:** Bell Labs, New Jersey
 **Utah Location:** Provo, UT
@@ -13,7 +14,8 @@
 **Location Precision:** exact
 **Location Source:** https://www.byu.edu/contact
 **Website:** https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
+**Relates:** cites [Fletcher — "Auditory Perspective — Basic Requirements" (1934)](fletcher-auditory-perspective-1934.md) · https://greatutah.work/pages/fletcher-auditory-perspective-1934.md · https://doi.org/10.1109/EE.1934.6540356
 **Relates:** cites [BYU News — Harvey Fletcher Posthumous Grammy Award](byu-news-harvey-fletcher-grammy.md) · https://greatutah.work/pages/byu-news-harvey-fletcher-grammy.md · https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award
 **Relates:** cites [Utah History to Go — Harvey Fletcher](utah-history-to-go-harvey-fletcher.md) · https://greatutah.work/pages/utah-history-to-go-harvey-fletcher.md · https://historytogo.utah.gov/fletcher-harvey/
 **Relates:** cites [Engineering and Technology History Wiki — Stokowski and Bell Labs Stereo](ethw-stokowski-bell-labs-stereo.md) · https://greatutah.work/pages/ethw-stokowski-bell-labs-stereo.md · https://ethw.org/Leopold_Stokowski_and_Bell_Labs,_a_Sound_Collaboration
@@ -63,6 +65,7 @@ Fletcher's Utah claim is strong but should be stated carefully. He was born in P
 
 ## Evidence
 
+- [Fletcher, "Auditory perspective — Basic requirements", *Electrical Engineering* 53(1):9–11 (1934)](fletcher-auditory-perspective-1934.md) · https://greatutah.work/pages/fletcher-auditory-perspective-1934.md · https://doi.org/10.1109/EE.1934.6540356 — Fletcher's own paper opening the AIEE auditory-perspective symposium, the technical literature of record for the Bell Labs stereo program.
 - [BYU News: BYU's first physics grad earns posthumous Grammy Award](https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award) · https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award — [source record](byu-news-harvey-fletcher-grammy.md) · https://greatutah.work/pages/byu-news-harvey-fletcher-grammy.md
 - [Utah History to Go: Harvey Fletcher](https://historytogo.utah.gov/fletcher-harvey/) · https://historytogo.utah.gov/fletcher-harvey/ — [source record](utah-history-to-go-harvey-fletcher.md) · https://greatutah.work/pages/utah-history-to-go-harvey-fletcher.md
 - [Engineering and Technology History Wiki: Leopold Stokowski and Bell Labs, a Sound Collaboration](https://ethw.org/Leopold_Stokowski_and_Bell_Labs,_a_Sound_Collaboration) · https://ethw.org/Leopold_Stokowski_and_Bell_Labs,_a_Sound_Collaboration — [source record](ethw-stokowski-bell-labs-stereo.md) · https://greatutah.work/pages/ethw-stokowski-bell-labs-stereo.md

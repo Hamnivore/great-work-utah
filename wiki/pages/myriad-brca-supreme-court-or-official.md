@@ -3,11 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Supreme Court Opinion
-**URL:** https://supreme.justia.com/cases/federal/us/569/576/
-**Publisher:** Justia U.S. Supreme Court Center
-**Accessed:** 2026-06-18
-**Updated:** 2026-06-18
+**Source Type:** government-record
+**URL:** https://www.supremecourt.gov/opinions/boundvolumes/569bv.pdf
+**Publisher:** Supreme Court of the United States (United States Reports, vol. 569)
+**Retrieved:** 2026-08-11
+**Updated:** 2026-08-11
 
 ## Summary
 
@@ -23,7 +23,11 @@ The Supreme Court's 2013 *Association for Molecular Pathology v. Myriad Genetics
 
 ## Reliability Notes
 
-This is a high-quality legal source for the patent holding and the Court's framing of Myriad's contribution. The URL is a reliable public copy rather than the Supreme Court's PDF itself; a future source record could add the official supremecourt.gov slip opinion if the wiki wants strictly official legal URLs.
+This is the authoritative legal source for the patent holding and the Court's framing of Myriad's contribution: cite it as *Association for Molecular Pathology v. Myriad Genetics, Inc.*, 569 U.S. 576 (2013). The URL is the Court's own bound volume of the *United States Reports*, in which this opinion begins at page 576; the volume PDF is large, so page 576 is the locator to jump to.
+
+This page previously cited Justia's copy. Justia is accurate and convenient, but it is a private republisher under no obligation to keep any particular URL alive, and the Court's own volume is both permanent and the text of record — which is why this page needs no archive snapshot. Justia's version remains a reasonable reading copy: <https://supreme.justia.com/cases/federal/us/569/576/>.
+
+The claims above are drawn from the syllabus and opening of the opinion. They are not quoted here because the source is a PDF, which the capture tooling deliberately refuses to convert to text rather than store extraction noise; anyone adding a `## Verbatim` section should quote from the opinion text directly.
 
 ## Related Pages
 

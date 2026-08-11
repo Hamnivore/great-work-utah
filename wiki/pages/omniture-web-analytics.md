@@ -24,11 +24,11 @@
 
 Omniture was a Utah web-analytics company founded in 1996 by Josh James and John Pestana. Its flagship product, SiteCatalyst, and the broader Omniture Online Marketing Suite let website owners measure traffic, conversion, advertising performance, and user behavior at enterprise scale. The company went public on the NASDAQ in 2006 (ticker OMTR).
 
-In September 2009, Adobe agreed to acquire Omniture for about $1.8 billion in cash ($21.50 per share); the deal closed on October 23, 2009. At the time Omniture was based in Orem with roughly 600 employees there. The acquisition pulled Adobe beyond creative tools into web measurement, optimization, and digital marketing, a direction that became central to Adobe's enterprise business and a large continuing Utah presence anchored at the Lehi campus.
+In September 2009, Adobe agreed to acquire Omniture for about $1.8 billion in cash ($21.50 per share); the deal closed on October 23, 2009. At the time Omniture was based in Orem with roughly 600 employees there ([SEC filing](omniture-adobe-sec-14d9-2009.md); [contemporary report](omniture-deseret-news-2009.md)). The acquisition pulled Adobe beyond creative tools into web measurement, optimization, and digital marketing, a direction that became central to Adobe's enterprise business and a large continuing Utah presence anchored at the Lehi campus.
 
 ## Impact
 
-Omniture was one of the most consequential software exits in Utah history and a turning point in the state's reputation as a serious SaaS and marketing-technology hub. The $1.8 billion sale to Adobe validated Utah Valley as a place where a cloud-software company could be built to enterprise scale and sold to a global platform company.
+Omniture was one of the most consequential software exits in Utah history and a turning point in the state's reputation as a serious SaaS and marketing-technology hub. The $1.8 billion sale to Adobe ([SEC filing](omniture-adobe-sec-14d9-2009.md)) validated Utah Valley as a place where a cloud-software company could be built to enterprise scale and sold to a global platform company.
 
 Beyond the transaction, Omniture helped normalize a now-default idea: that a serious website should be instrumented, measured, tested, and tied to revenue. Its products became foundational components of what Adobe later called the Marketing Cloud and then the Experience Cloud / Adobe Analytics. The company also trained and spun out a generation of Utah SaaS operators; Josh James went on to found Domo.
 

@@ -13,7 +13,6 @@
 **Location Source:** https://talentready.ushe.edu/
 **Website:** https://talentready.ushe.edu/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

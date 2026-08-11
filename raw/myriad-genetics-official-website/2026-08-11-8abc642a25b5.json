@@ -1,0 +1,13 @@
+{
+  "source_page": "myriad-genetics-official-website.md",
+  "requested_url": "https://www.myriad.com/",
+  "final_url": "https://myriad.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T19:52:46.341Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "121e6db095ea53d7aecf25915819c47841656c3edcc8a9bd6b31bafbbe5cde5d",
+  "text_sha256": "8abc642a25b5d3302ce4cbcd7fb23a68a91d1ab95ed094242d5f705b25bb0534",
+  "text_chars": 12203,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

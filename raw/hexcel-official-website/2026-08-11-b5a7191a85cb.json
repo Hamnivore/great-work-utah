@@ -1,0 +1,13 @@
+{
+  "source_page": "hexcel-official-website.md",
+  "requested_url": "https://www.hexcel.com/",
+  "final_url": "https://www.hexcel.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:50.865Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "088b01c6225e5da52868bafa086769bb823444ed18872e69d3deda037e06bffd",
+  "text_sha256": "b5a7191a85cb4f9c8223a31c42df383eb4d5ea60dabdaecd0db5b09c7d933319",
+  "text_chars": 11912,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

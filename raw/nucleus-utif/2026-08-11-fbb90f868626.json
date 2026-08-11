@@ -1,0 +1,13 @@
+{
+  "source_page": "nucleus-utif.md",
+  "requested_url": "https://www.nucleusutah.org/utif",
+  "final_url": "https://www.nucleusutah.org/utif",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:19.830Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "cf9c72308991453a72a2fe779ed3c8628e5ff460332a0dc65fee5481ab574bfa",
+  "text_sha256": "fbb90f868626f96638fa83a2941298e867adb2775b54d2f02641a8393803b750",
+  "text_chars": 6567,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

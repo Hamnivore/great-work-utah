@@ -1,0 +1,69 @@
+Sethera &raquo; Sethera Therapeutics
+Skip to content
+Home
+About
+Team
+News
+Publications
+Contact
+Home
+About
+Team
+News
+Publications
+Contact
+Sign up
+Sign up
+A Platform for Synthesis of Stable Peptide Therapeutics
+Enzymatic Peptide Cross-Linking Technology to Redefine Therapeutic Peptide Design
+Read More
+Sethera Therapeutics
+Sethera is revolutionizing peptide-based drug development with our cutting-edge enzymatic cross-linking technology.
+Our platform enables the synthesis of highly stable, polymacrocyclic peptides designed to engage multiple targets simultaneously, offering unparalleled precision in therapeutic design.
+Sethera has a PolyMacrocyclic peptide (pMCP) Discovery Platform that helps partners discover and engineer MCPs with unique architectures and chemistries for targets of all kinds.
+Our platform allows you to:
+Find Quality Hits With The Most Diverse Architectures On The Market
+Accelerate Hit Identification with Streamlined Enzymatic Library Creation
+Generate high quality data to unlock AI’s predictive potential
+Precisely Tune Hits with Essentially Unlimited Noncanonical Building Blocks
+& Install Complex Functionalities with Modular Polymacrocyclic Recombination
+Capabilities
+Applications
+Sethera Therapeutics’ polymacrocyclic peptides are designed to interact with complex biological surfaces, offering a powerful new approach to targeting challenging biological systems. These advanced peptides enable the precise modulation of intricate biological pathways, opening the door to innovative treatments across a wide range of therapeutic areas.
+Technology
+Our technology at Sethera Therapeutics revolves around the enzymatic generation of unique peptide architectures, capable of maintaining stability and functionality under physiological conditions. We are continuously expanding our enzymatic repertoire to create even more options for sophisticated peptide structures, enhancing our ability to address diverse and complex biological challenges.
+Partnerships
+Sethera Therapeutics is seeking partners interested in leveraging our peptide architectures to screen their biological targets. By collaborating with industry leaders and research institutions, we aim to unlock new possibilities in drug discovery and development, providing tailored solutions for a wide array of therapeutic needs.
+Innovations & Vision
+Our cyclization enzyme recognizes programmable sequence motifs to site-specifically install a thioether bond. It can do so multiple times in a single molecule, building diverse macrocycle architectures as small as just 7 atoms, or as large as 13 amino acids– with up to 6 macrocycles per peptide.
+This unlocks complex polymacrocyclic structures previously difficult to synthesize and impossible to screen at scale, enabling broader exploration of sequence-structure space and increasing the chance of finding hits with fewer rounds of screening.
+Up to 20 unique architectural libraries can be constructed in parallel, allowing combinatorial exploration of sequence AND structure space.
+The approach works seamlessly with today’s top macrocycle screening techniques, including phage, mRNA display, and DNA-encoded libraries.
+This flexibility allows tailored screening to specific target constraints and conditions, boosting the chances of identifying hits with unique architectural features.
+During screening, we pool our hits by binding strength and collect sequencing data for the entirety of our libraries.
+Beyond the residues necessary for directing cyclization, the enzymatic process is agnostic to intervening residues, enabling pMCP construction with noncanonical amino acids and even non-peptidic building blocks with no additional considerations. This enables:
+Essentially unlimited customizability of your peptide macrocycles
+Tuning proteolytic stability, membrane permeability, binding affinity
+And more sophisticated downstream conjugation possibilities due to the preservation of chemical handles.
+The Sethera platform can combine multiple candidate macrocycles together to explore larger structures with multi-valent binding motifs .
+The site-selective and programmable nature of our approach means that infinite combinations of pMCPs can be explored in a modular plug-and-play fashion.
+This means that a single polymacrocycle could be designed for multiple targets, enabling complex and highly specific behavior.
+Our platform can combine hits with additional macrocycles to imbue other desirable properties beyond target binding such as membrane permeability and further proteolytic stability.
+The pMCPs are still compatible with nonstandard building blocks, enabling essentially unlimited sophisticated peptide designs
+Sethera Team
+Our Office
+Sethera Therapeutics
+48 S Rio Grande St
+Salt Lake City, UT 84101
+Sethera
+Home
+About
+Team
+News
+Publications
+Contact
+Sethera Therapeutics
+48 S Rio Grande St
+Salt Lake City, UT 84101
+Email Linkedin Twitter / X
+Copyright © 2026 Sethera Therapeutics | Powered by Shyfrog Media

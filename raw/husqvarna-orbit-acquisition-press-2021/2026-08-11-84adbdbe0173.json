@@ -1,0 +1,13 @@
+{
+  "source_page": "husqvarna-orbit-acquisition-press-2021.md",
+  "requested_url": "https://www.husqvarnagroup.com/en/press/husqvarna-group-acquire-orbit-irrigation-us-creating-global-market-leader-residential",
+  "final_url": "https://www.husqvarnagroup.com/en/press/husqvarna-group-acquire-orbit-irrigation-us-creating-global-market-leader-residential",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:44:07.544Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "f3163dd9c4c19503c120418c3772b0623741454ef7b5565c47dbee483b86d880",
+  "text_sha256": "84adbdbe01737337a56f773a71ffcf33f95c3da387a4ecc0985ea6586cfe1d3d",
+  "text_chars": 8589,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

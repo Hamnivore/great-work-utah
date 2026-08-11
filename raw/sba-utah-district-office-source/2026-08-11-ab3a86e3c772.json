@@ -1,0 +1,13 @@
+{
+  "source_page": "sba-utah-district-office-source.md",
+  "requested_url": "https://www.sba.gov/district/utah",
+  "final_url": "https://legacy.sba.gov/district/utah",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:33.692Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "61049b995358069524ba28d1b23a4fd11eecd1ec2fb2e45d206ffb00482ae0fd",
+  "text_sha256": "ab3a86e3c7722e81037ba395877f37946d5ae477f46e31182ebaebbc00dc16bb",
+  "text_chars": 2681,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

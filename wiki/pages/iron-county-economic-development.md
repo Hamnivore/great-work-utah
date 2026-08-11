@@ -13,7 +13,6 @@
 **Location Source:** https://www.cedarcityut.gov/Directory.aspx?did=10
 **Website:** https://www.cedarcityut.gov/2357/Economic-Development
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

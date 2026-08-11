@@ -1,0 +1,118 @@
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Phil Gilmore
+date: 2026-03-10T22:51:22.141Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1773183082141949
+
+<https://nunug.org/|March 2026 NUNUG Meeting Announcement>
+Topic: Comeback meeting - Catch up with .NET!
+Presenter: George Ray
+Date: 2026-03-12
+Time: 06:30PM
+Location: ONLINE (MS Teams) and IN PERSON.  See below.
+
+Description:
+```Join us for our comeback meeting!  The .NET platform has undergone a remarkable transformation over the past few years, shipping a new major version every November.  George Ray will take us on a journey through six versions of .NET — from the stability of .NET 6 through to the AI-integrated powerhouse of .NET 10 — exploring the most impactful features each release brought to the table.
+
+This is a hybrid meeting!
+
+Join us on Teams:
+<https://ift.tt/7HlGo3S>
+
+Join us in person (come fed - food is not provided):
+Mindfire Office
+872 W Heritage Park Blvd STE 200
+Layton, UT```
+
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Phil Gilmore
+date: 2026-04-05T01:48:36.804Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1775353716804219
+
+*Northern Utah .NET Users Group (NUNUG)*
+_April 2026 NUNUG Meeting Announcement_
+
+Topic: High Performance C#
+Presenter: Nate Zaugg
+Date: 2026-04-09 (Thursday)
+Time: 06:30PM
+
+```C# is not just productive, It is fast! Modern .NET has also become a serious platform for high-performance software. In this session, we will explore the language and runtime features that can dramatically change the performance profile of C# applications, including Span<T>, Memory<T>, memory pools, pipelines, UTF-8 processing, allocation avoidance, and other modern capabilities that help reduce overhead and push more work closer to the metal.
+
+We will look at the kinds of bottlenecks these tools solve, where they shine, and where they can be misused. Along the way, we will also compare C#'s performance with peer languages like Go, Java, and Rust, and discuss where .NET is surprisingly competitive, where it still lags, and why. We will also touch on Ahead-of-Time (AoT) compilation, profile-guided optimization, and how far the modern .NET toolchain can take C# when raw speed actually matters.
+
+This is a hybrid meeting!
+
+Join us in-person:	
+
+Mindfire Office
+872 W Heritage Park Blvd STE 200
+Layton, UT
+
+Join us online (MS Teams):
+<https://teams.microsoft.com/meet/27400068611107?p=VfAUB9L4fPC1y2odPl>```
+Learn more at <http://nunug.org|nunug.org>!
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Phil Gilmore
+date: 2026-06-08T16:55:49.919Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1780937749919419
+
+<https://nunug.org/|June 2026 NUNUG Meeting Announcement>
+Topic: Test Driven Development with AI
+Presenter: George Ray
+Date: 2026-06-11
+Time: 06:30PM
+Physical Location: 872 W Heritage Park Blvd STE 200, Layton UT
+Virtual Meeting (MS Teams): <https://ift.tt/NHztJ2R>
+
+Description:
+```Are you tired of wondering if your code change broke a completed feature? Learn how to turn AI into your ultimate pair programmer for covering more code with tests. This session demonstrates how to leverage AI to rapidly build high-quality unit tests using xUnit and FakeItEasy. We will cover everything from generating initial test setups to mocking deep dependencies and identifying sneaky edge cases, ensuring you can ship code with greater confidence.
+This is a hybrid meeting!
+
+Join us in-person (come fed - food will not be provided):
+
+Mindfire Office
+872 W Heritage Park Blvd STE 200
+Layton, UT
+
+Join us online (MS Teams):
+<https://ift.tt/NHztJ2R>
+
+Learn more at <http://nunug.org|nunug.org>!```
+
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Phil Gilmore
+date: 2026-07-06T17:53:49.714Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1783360429714699
+
+*July 2026 NUNUG Meeting Announcement*
+
+Topic: BBQ Party + The Good, The Bad, and The Hallucinated: AI Coding in .NET
+Presenter: Ken Bailey
+Date: 2026-07-09
+Time: 06:30PM
+
+```Join us for for our annual BBQ Party and a practical look at AI-assisted development! AI coding tools are rapidly changing how .NET developers work, but how much of the hype holds up in real projects? This session takes a practical look at AI-assisted development in .NET environments, focusing on what actually works and where things break down.  Come for dinner and a show!
+This is a hybrid meeting!
+
+Join us in-person (come hungry - vegetarian, non-gluten and diabetes-friendly options):
+
+Mindfire Office
+872 W Heritage Park Blvd STE 200
+Layton, UT
+
+Join us online (MS Teams):
+<https://teams.microsoft.com/meet/27400068611107?p=VfAUB9L4fPC1y2odPl>```
+Learn more at <http://nunug.org|nunug.org>!

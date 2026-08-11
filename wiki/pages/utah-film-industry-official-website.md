@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://film.utah.gov
+**Archive:** https://web.archive.org/web/20260707073339/https://film.utah.gov/
+**Archived:** 2026-07-07
 **Publisher:** Utah Governor's Office of Economic Opportunity (Utah Film Commission)
-**Accessed:** 2026-06-19
+**Raw:** raw/utah-film-industry-official-website/2026-08-11-d59929ae76c1.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -21,9 +24,23 @@ The Utah Film Commission's website (film.utah.gov) is the state government's pri
 - It references the state's union crew base, equipment rental availability, and post-production services.
 - Historical production credits referencing Utah landscapes are documented across the site.
 
+## Verbatim
+
+> "Utah has deep roots in the entertainment industry, with thousands of productions filmed in the state since the 1920s. With a competitive incentive program, trained crews, professional vendors, and over 84,000 square miles of diverse and unique landscapes, it's safe to say that Utah has what you're searching for."
+> — Home page, hero
+
+> "We provide support for multiple production types including motion pictures, television, and commercials. From student to studio productions, the Utah Film Commission can assist you when filming in the state."
+> — Home page, "Production"
+
+> "Interested in filming in Utah? The Utah Film Commission markets the entire state of Utah for film, television and commercial production. We foster the development of our local talent and crew, promote our unique locations, industry businesses and the Motion Picture Incentive Program."
+> — Home page, footer call-to-action
+
+> "60 East South Temple, Suite 300 Salt Lake City, UT 84111 800.453.8824 | film@utah.gov"
+> — Home page, footer contact
+
 ## Reliability Notes
 
-This is an official state government source. It is useful for the official structure of Utah's film incentive program, permitting pathways, and production-support contacts. Claims about the competitiveness of Utah's incentives vs. Georgia, New Mexico, or New York require independent comparison — the Film Commission naturally presents Utah favorably. Crew base depth and production volume figures should be cross-checked with industry sources such as Production Weekly or FilmLA for context.
+This is an official state government source. It is useful for the official structure of Utah's film incentive program, permitting pathways, and production-support contacts. Specific regional production hubs (Park City, Kanab, Moab, Monument Valley) were not enumerated on this homepage capture, though diverse locations appear in the locations gallery. Claims about the competitiveness of Utah's incentives vs. Georgia, New Mexico, or New York require independent comparison — the Film Commission naturally presents Utah favorably. Crew base depth and production volume figures should be cross-checked with industry sources such as Production Weekly or FilmLA for context.
 
 ## Related Pages
 

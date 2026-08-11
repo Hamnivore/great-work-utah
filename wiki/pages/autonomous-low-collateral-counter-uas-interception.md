@@ -24,11 +24,11 @@ Fortem Technologies, based in Pleasant Grove and Lindon, Utah, builds autonomous
 
 The core problem Fortem addresses is that cheap quadcopters can threaten airports, military bases, prisons, energy infrastructure, and public events with near-zero cost, while most existing air-defense tools — missiles, guns, broad electronic jamming — are designed for different threats and carry serious collateral risks in civil or dense environments. Drone-on-drone interception is a physically precise answer to a physically precise threat.
 
-Fortem reports more than 70,000 test flights and 5,500 successful drone captures in Utah, with operational deployments in Ukraine, the Middle East, East Asia, and U.S. border and infrastructure contexts. In 2026 the company began deliveries of DroneHunter 5.0 and announced World Cup venue-protection contracts.
+Fortem reports more than 70,000 test flights and 5,500 successful drone captures in Utah, with deployments in Ukraine, the Middle East, and critical-infrastructure contexts ([manufacturing announcement](fortem-manufacturing-hq-2025.md)). Its site lists 2026 DroneHunter 5.0 delivery and World Cup venue-protection announcements, but their bodies are not captured here.
 
 ## Impact
 
-If autonomous low-collateral interception becomes a standard layer of civil and military airspace defense, Fortem's platform could represent a genuine architectural contribution to how institutions protect themselves from small-drone threats. The Lindon manufacturing facility, opened in 2025, has stated capacity for hundreds of systems per month — a claim relevant to whether Utah-built hardware can supply the growing global counter-UAS market.
+If autonomous low-collateral interception becomes a standard layer of civil and military airspace defense, Fortem's platform could represent a genuine architectural contribution. The Lindon facility opened in 2025 and its captured capacity list includes 600 radars, 40 DroneHunter interceptors, 300+ GLAAMs, and 20 drone hangars per month ([manufacturing announcement](fortem-manufacturing-hq-2025.md)).
 
 The moral complexity is real: systems deployed for infrastructure protection have also appeared in active conflict zones where "low collateral" is measured against battlefield norms, not civil-aviation standards.
 

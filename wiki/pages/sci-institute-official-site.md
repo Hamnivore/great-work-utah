@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.sci.utah.edu
+**Archive:** https://web.archive.org/web/20260720164018/https://sci.utah.edu/
+**Archived:** 2026-07-20
 **Publisher:** Scientific Computing and Imaging Institute, University of Utah
-**Accessed:** 2026-05-09
+**Raw:** raw/sci-institute-official-site/2026-08-11-81fc10a93bd2.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-05-09
 
 ## Summary
@@ -18,11 +21,22 @@ The SCI Institute's public site describes its mission, faculty, research groups,
 - SCI is a permanent University of Utah research institute with origins in the early 1990s.
 - Major open-source software releases include SCIRun, ShapeWorks, Seg3D, and FluoRender.
 - Funding is primarily from federal grants (NIH, NSF, DOE, DOD).
-- The institute lists more than 3,000 publications across its history and an extensive alumni pipeline into industry.
+- The page previously asserted a publication total and extensive alumni pipeline; the captured homepage does not show those details.
+
+## Verbatim
+
+> "Empowering our students and scholars to impact society through transformative multidisciplinary computing research"
+> — Home page, hero
+
+> "~4000
+> Publications"
+> — Home page, statistics
 
 ## Reliability Notes
 
 Reliable for the institute's self-description, software releases, faculty roster, and program structure. Not a neutral source for impact framing or software-citation claims; downstream usage statistics should be triangulated with GitHub, Google Scholar, and downstream publication data.
+
+This capture does not show early-1990s founding, named open-source releases (SCIRun, ShapeWorks, Seg3D, FluoRender), or federal-grant funding sources listed above.
 
 ## Related Pages
 

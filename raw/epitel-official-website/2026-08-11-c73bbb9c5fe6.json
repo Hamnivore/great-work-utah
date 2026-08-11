@@ -1,0 +1,13 @@
+{
+  "source_page": "epitel-official-website.md",
+  "requested_url": "https://www.epitel.com/",
+  "final_url": "https://www.epitel.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:40.098Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "3159434b3bcb58689b65d1330a9786137b67d2f176c328744c9684b7db0afa94",
+  "text_sha256": "c73bbb9c5fe66ba0f70b86618c07d0afa66bc566d302a4ecfbaf6ea348907bf9",
+  "text_chars": 6301,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

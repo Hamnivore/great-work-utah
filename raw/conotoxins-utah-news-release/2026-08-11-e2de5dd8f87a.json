@@ -1,0 +1,13 @@
+{
+  "source_page": "conotoxins-utah-news-release.md",
+  "requested_url": "https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/",
+  "final_url": "https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:31.285Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "1b988fc2ba6599f105f87f1d7e10181a64e21aa9efe0607cfe3bf4122efcba79",
+  "text_sha256": "e2de5dd8f87a08848e5a23bd7852640cc9e197c2bbfcecb96bae08960642c178",
+  "text_chars": 4283,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

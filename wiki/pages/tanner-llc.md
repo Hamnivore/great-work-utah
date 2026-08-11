@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Tanner+LLC+36+South+State+Street+Salt+Lake+City+UT
 **Website:** https://tannerco.com/
 **Updated:** 2026-07-14
-**Layout:** field-guide
 
 ## Summary
 

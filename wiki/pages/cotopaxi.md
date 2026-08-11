@@ -19,7 +19,6 @@
 **Careers:** https://cotopaxi.applytojob.com/
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/cotopaxi-gear-for-good-2026/1600/1100
 **Pull:** *Colorful outdoor gear with a built-in give-back model: 1% of revenue to the Cotopaxi Foundation.*
 **Relates:** cites [Official Website: Cotopaxi](cotopaxi-official-website.md) · https://greatutah.work/pages/cotopaxi-official-website.md · https://www.cotopaxi.com
 **Relates:** cites [B Lab Profile: Cotopaxi](cotopaxi-b-lab.md) · https://greatutah.work/pages/cotopaxi-b-lab.md · https://www.bcorporation.net/en-us/find-a-b-corp/company/cotopaxi/

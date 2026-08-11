@@ -1,0 +1,13 @@
+{
+  "source_page": "varda-uttr-landing.md",
+  "requested_url": "https://spacenews.com/varda-capsule-lands-in-utah/",
+  "final_url": "https://spacenews.com/varda-capsule-lands-in-utah/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:59.108Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "cd9a5956badc1ca97fd8c06b84324f9ed1a03ada005eef4e06e54768ee7c74a3",
+  "text_sha256": "a81b4bd051a15c562e2ee7d70bb4b7f041414012b907125fbde647af78027a5c",
+  "text_chars": 7394,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

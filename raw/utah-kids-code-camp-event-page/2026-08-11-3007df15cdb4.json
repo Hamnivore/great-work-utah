@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-kids-code-camp-event-page.md",
+  "requested_url": "https://www.utahgeekevents.com/events/kids-code-camp-2026/",
+  "final_url": "https://www.utahgeekevents.com/events/kids-code-camp-2026/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:33:01.287Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "e92528bcd76f2cbb9eb6f9ea672c6234a0a7a12eebde2da4da5d5bbcb01bf9e2",
+  "text_sha256": "3007df15cdb413464e511b149820d58681f6d2e6ee8331a0def8b4f8d8203cf9",
+  "text_chars": 8602,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

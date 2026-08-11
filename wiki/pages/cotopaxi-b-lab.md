@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Certification Database
+**Source Type:** official-page
 **URL:** https://www.bcorporation.net/en-us/find-a-b-corp/company/cotopaxi/
+**Archive:** https://web.archive.org/web/20260520071546/https://www.bcorporation.net/en-us/find-a-b-corp/company/cotopaxi/
+**Archived:** 2026-05-20
 **Publisher:** B Lab
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

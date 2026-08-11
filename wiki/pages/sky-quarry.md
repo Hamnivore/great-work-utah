@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Focus:** asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen recovery
 **Roles:** manufacturing-operations, clinical-regulatory, marketing-communications, legal-policy
-**Stage:** Public (NASDAQ: SKYQ); commercializing; PR Spring permit application filed June 2025
+**Stage:** Public (NASDAQ: SKYQ); commercializing
 **Primary Location:** Woods Cross, UT
 **Utah Location:** Woods Cross, UT; PR Spring, Uintah County, UT
 **Updated:** 2026-07-14
@@ -18,21 +18,20 @@
 **Website:** https://skyquarry.com
 **Careers:** https://skyquarry.com/careers/
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/sky-quarry-manufacturing-2026/1600/1100
-**Pull:** *Used asphalt shingles are 30% bitumen by weight — Sky Quarry's ECOSolv process recovers 95% of the material and returns it to road and industrial use, tackling one of the larger ignored construction waste streams.*
+**Pull:** *Sky Quarry says its ECOSolv process recovers up to 95% of material and recycles up to 99% of its solvent.*
 **Relates:** cites [Official Website: Sky Quarry](sky-quarry-official-website.md) · https://greatutah.work/pages/sky-quarry-official-website.md · https://skyquarry.com
 
 ## Summary
 
-Sky Quarry (NASDAQ: SKYQ) is a publicly traded Utah company commercializing solvent-based recovery of bitumen and heavy oil from two feedstocks: used asphalt shingles and Utah oil sands at the PR Spring deposit in eastern Utah. Headquartered in Woods Cross with a facility site near Price in eastern Utah, Sky Quarry uses its proprietary ECOSolv solvent-extraction process, which claims 95% material recovery and 99% solvent recycling.
+Sky Quarry (NASDAQ: SKYQ) is a publicly traded Utah company commercializing solvent-based recovery of bitumen and heavy oil from two feedstocks: used asphalt shingles and Utah oil sands at the PR Spring deposit in eastern Utah. Headquartered in Woods Cross, Sky Quarry uses its proprietary ECOSolv solvent-extraction process, which claims up to 95% material recovery and up to 99% solvent recycling. [Official Website: Sky Quarry](sky-quarry-official-website.md)
 
-The company filed a recycling permit application for the PR Spring integrated facility in June 2025. The facility is designed to process 2,000 barrels per day, with projected recovery of approximately 10 million barrels over 15 years from combined oil sands and recycled shingle processing.
+Earlier intake described a PR Spring recycling-permit application and throughput projections, but the current captured official source does not reconfirm those details.
 
 Sky Quarry has a dual-mission character that creates genuine tension: the asphalt shingle recycling side is a credible circular-economy play addressing a largely neglected construction waste stream, while the oil sands extraction side adds new fossil fuel production to the picture.
 
 ## Impact
 
-The shingle recycling case is concrete: over 15 million tons of used asphalt shingles are discarded annually in the United States. Most go to landfill despite being roughly 30% bitumen by weight, mixed with fiberglass, mineral granules, and additives. Extracting that bitumen is a genuine circular-economy opportunity — recovering a fossil-derived product already extracted and refined, rather than extracting it again from the ground.
+The shingle recycling case is concrete: used asphalt shingles contain recoverable bitumen, fiberglass, mineral granules, and additives, and most discarded shingles still go to landfill. Extracting that bitumen is a genuine circular-economy opportunity — recovering a fossil-derived product already extracted and refined, rather than extracting it again from the ground.
 
 The oil sands extraction side of the business reduces the net-positive framing: extracting fresh heavy oil from PR Spring's tar sands is additional fossil fuel production, not circular recovery. The two operations coexist at the same facility for economic reasons — the oil sands processing is the revenue anchor while shingle recycling volumes build.
 
@@ -64,7 +63,7 @@ The Woods Cross headquarters places the company in the North Salt Lake / Davis C
 
 ## Open Questions
 
-- Has the PR Spring recycling permit been approved since the June 2025 application?
+- What is the current status of the PR Spring recycling permit?
 - What are ECOSolv's independently verified material recovery and solvent recycling rates at operational scale, as opposed to company-reported figures?
 - How does the oil sands extraction volume compare to the shingle recycling volume in the facility design, and what is the revenue split?
 - What is the current share float, market cap, and runway for a small-cap public company at this development stage?

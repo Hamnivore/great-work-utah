@@ -14,7 +14,6 @@
 **Careers:** https://jobs.lever.co/Zanskar
 **Website:** https://zanskar.com
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/zanskar-blind-geothermal-discovery-2026/1600/1100
 **Pull:** *AI applied to seismic, geophysical, and historical drilling data — the first new blind-system geothermal discovery in three decades.*
 **Relates:** cites [Official Website: Zanskar Geothermal](zanskar-geothermal-official-website.md) · https://greatutah.work/pages/zanskar-geothermal-official-website.md · https://zanskar.com
 

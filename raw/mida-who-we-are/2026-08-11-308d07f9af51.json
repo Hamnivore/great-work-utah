@@ -1,0 +1,13 @@
+{
+  "source_page": "mida-who-we-are.md",
+  "requested_url": "https://www.midaut.org/who-we-are",
+  "final_url": "https://www.midaut.org/who-we-are",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:18:29.232Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "4d1db8f1222aaf7a6c7fb42c5975692aac5dee1890049f7b71e3f9499125865f",
+  "text_sha256": "308d07f9af513afbf0b994d20935510d18c11cf5f61b870b18031ccc6c8d6d5b",
+  "text_chars": 5470,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

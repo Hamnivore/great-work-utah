@@ -1,0 +1,13 @@
+{
+  "source_page": "omniture-deseret-news-2009.md",
+  "requested_url": "https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/",
+  "final_url": "https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:21.352Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "6bb850401c96c86c96d98426cc8ef4cc4d8d92c2cafbed55f27155d85879c147",
+  "text_sha256": "07b2e396d9922d2ffe96baa2b9bca6eb675975a0171213cb0fe4c1c93a588afa",
+  "text_chars": 6823,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

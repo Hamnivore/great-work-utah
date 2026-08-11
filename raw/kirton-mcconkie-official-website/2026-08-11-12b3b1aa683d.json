@@ -1,0 +1,13 @@
+{
+  "source_page": "kirton-mcconkie-official-website.md",
+  "requested_url": "https://www.kirtonmcconkie.com/",
+  "final_url": "https://www.kirtonmcconkie.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:00.720Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "5cb4843f0e15e84b4c2b19bdd873e258ee690e99197a6c9680e2e1cb4f1b87c5",
+  "text_sha256": "12b3b1aa683df4a12405ba5f7b9bec40b635b82802209ac03ddd5ed1772b5d18",
+  "text_chars": 11132,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

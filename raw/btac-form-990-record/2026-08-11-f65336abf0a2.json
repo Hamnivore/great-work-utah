@@ -1,0 +1,13 @@
+{
+  "source_page": "btac-form-990-record.md",
+  "requested_url": "https://projects.propublica.org/nonprofits/api/v2/organizations/870530362.json",
+  "final_url": "https://projects.propublica.org/nonprofits/api/v2/organizations/870530362.json",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T19:52:42.525Z",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "bytes_sha256": "f65336abf0a2432dc9c3868dfd6eb57c974c3056c182fad45758ed007e5db705",
+  "text_sha256": "f65336abf0a2432dc9c3868dfd6eb57c974c3056c182fad45758ed007e5db705",
+  "text_chars": 16844,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

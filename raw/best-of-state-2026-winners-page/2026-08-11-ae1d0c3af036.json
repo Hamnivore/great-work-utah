@@ -1,0 +1,13 @@
+{
+  "source_page": "best-of-state-2026-winners-page.md",
+  "requested_url": "https://www.bestofstate.org/winners",
+  "final_url": "https://www.bestofstate.org/winners",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:31:54.693Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "ff0cb227cf237b561319fcebf35f19c6e6f20a3593b4304652d70d471c334e1c",
+  "text_sha256": "ae1d0c3af036a840e8f2dddd26152058aa59b7982192bf4db7fe604af58ba0bf",
+  "text_chars": 26770,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

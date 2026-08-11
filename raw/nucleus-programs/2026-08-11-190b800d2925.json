@@ -1,0 +1,13 @@
+{
+  "source_page": "nucleus-programs.md",
+  "requested_url": "https://www.nucleusutah.org/programs",
+  "final_url": "https://www.nucleusutah.org/programs",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:19.394Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "f1bb5c213bd60e23bfc2eb893d764d0ae47bbfabd5bf86bca7b3060e4a60da05",
+  "text_sha256": "190b800d292585a19daf78d59bd11bcbabfbc5aebc6f9fbf391c88aabb05eda7",
+  "text_chars": 8004,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

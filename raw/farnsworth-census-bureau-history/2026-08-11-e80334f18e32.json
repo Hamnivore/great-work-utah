@@ -1,0 +1,13 @@
+{
+  "source_page": "farnsworth-census-bureau-history.md",
+  "requested_url": "https://www.census.gov/about/history/stories/monthly/2023/september-2023.html",
+  "final_url": "https://www.census.gov/about/history/stories/monthly/2023/september-2023.html",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:42.365Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "2a6c8de0608b1634cd5b45c3ae4b6e9aae0962c8210f679f5374640fc54cd631",
+  "text_sha256": "e80334f18e32785a6f6d7c71ff8be96567fc94c76c5b97baa89e937b0fdb6f72",
+  "text_chars": 30159,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

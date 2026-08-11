@@ -7,7 +7,6 @@
 **Focus:** government contracting, procurement, defense industrial base, supplier readiness
 **Derived From:** resources/apex-accelerator, resources/sba-utah-district-office, guides/commercialize-research
 **Updated:** 2026-06-18
-**Layout:** field-guide
 
 ## Summary
 

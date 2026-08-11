@@ -1,0 +1,13 @@
+{
+  "source_page": "liveview-technologies-official-website.md",
+  "requested_url": "https://www.lvt.com",
+  "final_url": "https://www.lvt.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:00.985Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "6c772f5cf9bde921f6c1e468b7c0e74b1def5ee45bb36eb81206c92404d08cf5",
+  "text_sha256": "538feb9277b0a12036bd83c60a33dfe107ea29ca7c236e658d7e087d8db9f73f",
+  "text_chars": 13685,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

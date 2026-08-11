@@ -13,7 +13,6 @@
 **Domain:** health-bio
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/curza-2026/1600/1100
 **Pull:** *A first-in-class ribosome mechanism aimed at drug-resistant Gram-negative bacteria — a gap no new antibiotic class has filled in nearly 50 years.*
 **Relates:** cites [Official Website: Curza](curza-official-website.md) · https://greatutah.work/pages/curza-official-website.md · https://curza.com
 
@@ -21,11 +20,11 @@
 
 Curza is a University of Utah College of Science spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. The company's lead program, CZ-02, targets a clinically undrugged and highly conserved site on the bacterial ribosome — a mechanism Curza positions as the first new class against Gram-negative pathogens in roughly 50 years. CEO Chad Testa leads a mission-driven company funded primarily by government grants and impact investors rather than traditional pharma venture capital.
 
-For the wiki, Curza matters because antibiotic-resistant Gram-negative bacteria (E. coli, Klebsiella, Acinetobacter, Pseudomonas — the ESKAPE pathogens) drive an estimated 700,000 deaths per year globally, with projections reaching 10 million by 2050 if unchecked. Pharma economics have hollowed out the antibiotic pipeline; Curza fills that gap with grant-based funding from organizations willing to fund what markets won't.
+For the wiki, Curza matters because antibiotic-resistant Gram-negative bacteria (E. coli, Klebsiella, Acinetobacter, Pseudomonas — the ESKAPE pathogens) impose a large global mortality burden. This page does not yet carry a captured epidemiological source for a specific annual death count or projection. Pharma economics have hollowed out the antibiotic pipeline; Curza fills that gap with grant-based funding from organizations willing to fund what markets won't.
 
 ## Impact
 
-A new antibiotic approved for drug-resistant Gram-negative infections would save hundreds of thousands of lives per year immediately and blunt the projected mortality surge from antimicrobial resistance. The Defense Threat Reduction Agency's involvement — a reported $75M award with University of Florida partners — signals that drug-resistant bacteria are also a biodefense priority, not only a public-health crisis.
+A new antibiotic approved for drug-resistant Gram-negative infections could reduce substantial mortality and blunt the projected burden of antimicrobial resistance. Reported Defense Threat Reduction Agency involvement signals that drug-resistant bacteria are also a biodefense priority, not only a public-health crisis, but the award amount needs a captured government record.
 
 Curza's CZ-02 compound targets a ribosome site bacteria cannot easily mutate without disrupting core function, offering a resistance-resilience argument that distinguishes the program from incremental scaffold improvements on existing classes.
 
@@ -53,7 +52,7 @@ Useful helpers include CARB-X and other AMR-focused funders, DTRA and biodefense
 
 ## Utah Context
 
-Curza is a University of Utah spinout with original chemistry licensed from the university, headquartered in Salt Lake City. Its funding model — NIH, DTRA, CARB-X, Novo Holdings REPAIR Fund (~$40M total raised per legacy intake) — aligns mission with revenue without pressure to sell to a pharma acquirer that might shelve the drug.
+Curza is a University of Utah spinout with original chemistry licensed from the university, headquartered in Salt Lake City. Its reported funding model includes NIH, DTRA, CARB-X, and the Novo Holdings REPAIR Fund, but the total raised in legacy intake has not been verified against captured primary records.
 
 ## Evidence
 
@@ -64,9 +63,9 @@ Curza is a University of Utah spinout with original chemistry licensed from the 
 - No agent-readable careers/jobs page found (curza.com/careers 404; linked “copy-of-careers” page is news, not openings).
 - Has Curza submitted a Phase 1 IND for CZ-02 since legacy intake?
 - What preclinical efficacy and safety data are publicly available for CZ-02 against prioritized resistant Gram-negative strains?
-- How does the $75M DTRA + University of Florida collaboration timeline (reported 9-year horizon) map to near-term clinical milestones?
+- What are the amount, term, and near-term clinical milestones of the reported DTRA and University of Florida collaboration?
 - What reimbursement or pull-incentive strategy does Curza plan if Phase 3 succeeds, given broken antibiotic commercialization economics?
-- CARB-X award potential (~$4M per legacy intake) is modest relative to full development costs — what is the current funding runway?
+- What is the verified CARB-X award amount and current funding runway?
 - The placeholder hero should be replaced with a cleared facilities or science image when rights are confirmed.
 
 ## See Also

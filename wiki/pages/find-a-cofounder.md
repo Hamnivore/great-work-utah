@@ -6,7 +6,6 @@
 **Audience:** Utah founders, researchers, students, and operators looking for a committed founding partner
 **Focus:** cofounder search, founding teams, talent matching, equity, university and ecosystem networks
 **Updated:** 2026-07-14
-**Layout:** field-guide
 
 ## Overview
 
@@ -94,7 +93,6 @@ Whatever you decide, get the structure right: cofounder equity should vest over 
 - [JustBuild](justbuild.md)
 - [Sandbox](sandbox.md)
 - [JustBuild Official Website](justbuild-official-website.md)
-- [Sandbox Participant Report — 2024 Access And Cofounder Experience](sandbox-participant-report-2024.md)
 - [SCORE Utah](score-utah.md)
 - [Utah SBDC](utah-sbdc.md)
 - [Kirton McConkie](kirton-mcconkie.md)

@@ -1,0 +1,147 @@
+ADA Compliant: 2/3/2023
+School SafeUT Model Policy | 1
+
+School SafeUT Model Policy
+
+Introduction
+The following is an example of a SafeUT policy that schools can use to model their own
+policies when implementing procedures for choosing SafeUT Designated Contacts and
+completing the SafeUT Contact Priority List. This model also contains liability protections of
+those selected as SafeUT Designated Contacts. The impact of SafeUT can be found in each
+year’s SafeUT Annual Report, found here.
+
+[Name of School] SafeUT Policy
+
+I. Purpose and Philosophy
+The SafeUT application operates twenty-four hours a day, seven days a week and serves
+students, educators, and parents/guardians of Utah schools. It allows individuals in crisis to
+connect instantly with a masters-level mental health counselor through chat or a phone call. A
+user can also submit a confidential tip through the SafeUT application if they are concerned
+about another individual or a possible threat to their school. The goal of SafeUT is to provide
+school personnel with time-sensitive information to keep schools and their communities safe.
+The SafeUT program is funded by the Utah State Legislature, and the services are provided by
+the Huntsman Mental Health Institute (HMHI) at the University of Utah.
+
+When a school chooses to enroll in SafeUT, they are required to provide contact information for
+at least three school personnel, known as SafeUT Designated Contacts. These individuals
+receive all tips submitted to their school through SafeUT. A SafeUT mental health counselor
+may also call a SafeUT Designated Contact if a school’s student is at imminent risk of inflicting
+harm to self or others upon the completion of a clinical assessment. These phone calls may be
+made either during or after school hours. When a school has enrolled in SafeUT, the name of
+the school becomes visible in the “Select Your School” list that users see upon initial download
+of the application and when selecting a school to report a confidential tip.
+
+II. Definitions
+A. SafeUT means the crisis line established in Section 53B-17-1202.
+B. SafeUT Mental Health Counselor, referred to herein as “SafeUT Counselor,” means
+masters-level mental health counselor employed by HMHI at the University of Utah who
+receives all SafeUT chats and tips.
+C. SafeUT Designated Contact, referred to herein as “Designated Contact,” means school
+personnel chosen by the school to be listed in the school’s SafeUT profile.
+
+USBE-SafeUT SSS Model Policies (2022)
+
+School SafeUT Model Policy | 2
+
+1. This individual will be forwarded all tips submitted to the school and will follow
+school-outlined response protocols.
+2. They may also be contacted by a SafeUT Counselor if it is determined that a
+student is at imminent risk of harm to self or others upon completion of a clinical
+assessment.
+3. Designated Contacts are granted access to the SafeUT Admin Portal where they
+are expected to complete a module of training videos.
+D. Priority Contact List refers to the prioritized list of Designated Contacts in [Name of
+School]’s SafeUT profile.
+1. SafeUT Counselors will use this list to reach Designated Contacts if a student is at
+imminent risk.
+2. At least one Designated Contact on the Priority Contact List must always be
+reachable by SafeUT Counselors.
+E. SafeUT Admin Portal, referred to herein as “Portal,” is the portal Designated Contacts
+use to view tips, training videos, and possibly edit users and create blackout dates.
+1. The Portal can be accessed via this link.
+F. UCA means Utah Code Annotated.
+G. USC means United States Code.
+
+III. Procedures
+A. [Name of School] shall provide SafeUT with current information for at least three
+Designated Contacts (see Appendix A).
+1. Designated Contacts shall be updated for accuracy as changes occur and
+reviewed annually by either [Name of LEA] personnel or [Name of School]
+personnel.
+2. These individuals may include:
+i. Principal/Director
+ii. Other Administrative personnel
+iii. School-Based Mental Health Professional(s)
+iv. School Resource Officer (SRO)
+v. School professional(s) who is/are most responsive to crisis situations at
+any given time
+vi. LEA-level Administrative personnel for follow-up
+B. Upon identifying Designated Contacts, [Name of School] shall have a procedure to
+create the Priority Contact List using the Portal.
+1. This procedure will ensure at least one Designated Contact can be reached by a
+SafeUT Counselor if a student is at imminent risk of harm to self or others.
+
+USBE-SafeUT SSS Model Policies (2022)
+
+School SafeUT Model Policy | 3
+
+2. It is recommended Designated Contacts coordinate planned time off or schedule
+limitations.
+3. Designated Contacts with administrative privileges may set and update the
+priority of the Priority Contact List at any time using the Portal.
+4. The Priority Contact List shall be updated for accuracy as changes occur and
+reviewed annually by either [Name of LEA] personnel or [Name of School]
+personnel.
+
+IV. Relevant Statutes for Designated Contacts
+Designated Contacts are expected to fully understand and abide by the following statutes.
+A. These laws mandate certain reports:
+1. UCA 62A-4a-403: Mandatory child abuse reporting statute. Suspected child
+abuse or neglect must be reported to the Division of Child and Family Services
+(DCFS) or another law enforcement agency.
+2. UCA 53E-9-203(6)(b)(i): Mandate for teachers to report imminent threats to
+parents.
+3. UCA 53G-9-604(a): School officials must notify parents of bullying and suicide
+threats.
+B. These laws permit information reporting in certain situations:
+1. UCA 53G-9-203(2)(a): Permits school official to provide certain information and
+observations to parents.
+2. 20 USC 1232g and UCA 53E-9-308: Data disclosure of sensitive information
+collected under this model policy may be shared in accordance with the Family
+Educational Rights and Privacy Act (FERPA).
+C. These laws limit liability in certain situations:
+1. UCA 78B-4-501: Good Samaritan Law (a person who renders aid in an emergency
+cannot be held liable unless that person is grossly negligent).
+
+USBE-SafeUT SSS Model Policies (2022)
+
+School SafeUT Model Policy | 4
+
+Appendix: A
+
+School Information Needed for SafeUT Enrollment
+
+Name of School Name of Local Education
+Agency (LEA)
+School Address School Phone Number
+
+Name of Priority Contact 1
+(Emergency Contact)
+(LEA Lead Role)
+
+Title Email Address Cell Phone Number
+
+Name of Priority Contact 2
+(Emergency Contact)
+Title Email Address Cell Phone Number
+
+Name of Priority Contact 3
+(Emergency Contact)
+Title Email Address Cell Phone Number
+
+Current Student
+Enrollment
+Preferred SafeUT
+Enrollment Date
+Preferred Note to Include to Counselors
+(optional)

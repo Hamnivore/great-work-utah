@@ -1,0 +1,13 @@
+{
+  "source_page": "oxeon-energy-official-website.md",
+  "requested_url": "https://oxeonenergy.com",
+  "final_url": "https://www.oxeonenergy.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:22.873Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "4df56dc63bf66b4a448579332ceb059680e1c3a9376b42ac494e9b4667b95b01",
+  "text_sha256": "e65dc6e46b857bb345c941a3573aa71a6ac6672bfe998c3056c6cdcff9354b35",
+  "text_chars": 4212,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

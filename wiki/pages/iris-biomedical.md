@@ -12,7 +12,6 @@
 **Website:** https://www.irisbiomed.com
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
-**Hero:** https://picsum.photos/seed/iris-biomedical-2026/1600/1100
 **Relates:** cites [Official Website: Iris Biomedical](iris-biomedical-official-website.md) · https://greatutah.work/pages/iris-biomedical-official-website.md · https://www.irisbiomed.com
 
 ## Summary

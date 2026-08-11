@@ -12,7 +12,6 @@
 **Website:** https://edentechinc.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/eden-tech-water/1600/1100
 **Pull:** *A centrifuge retrofit that claims to double the freshwater yield of existing desalination plants — built by a Utah Tech spinout in one of the driest corners of the country.*
 **Relates:** cites [Official Website: Eden Technologies](eden-technologies-official-website.md) · https://greatutah.work/pages/eden-technologies-official-website.md · https://edentechinc.com
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "huntsman-cancer-institute-official-website.md",
+  "requested_url": "https://healthcare.utah.edu/huntsmancancerinstitute",
+  "final_url": "https://healthcare.utah.edu/huntsmancancerinstitute/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:51.733Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "131ef921e3e37ef4d949c147741b8951b37cc56409f57f82f5db8bea8433f974",
+  "text_sha256": "008c4d0614d349824f283a05e6877a7102678dad1cf497e03559a7ef93c9d351",
+  "text_chars": 5577,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

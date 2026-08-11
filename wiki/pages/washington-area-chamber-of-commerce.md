@@ -9,7 +9,6 @@
 **Region:** Washington
 **Website:** https://washingtonutchamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

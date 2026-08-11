@@ -1,0 +1,13 @@
+{
+  "source_page": "ryan-smith-qualtrics-bio.md",
+  "requested_url": "https://www.qualtrics.com/news/qualtrics-appoints-jason-maynard-ceo/",
+  "final_url": "https://www.qualtrics.com/news/qualtrics-appoints-jason-maynard-ceo/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:15:58.505Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "5b2955e7cd5fa541e7af1f6688ad153d4b336ac6cc58f918cb1fa292277d4a8c",
+  "text_sha256": "c87c700d20005384507cddbd19d45e82b9b719a2bd84797c21c26a63ce513251",
+  "text_chars": 6892,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

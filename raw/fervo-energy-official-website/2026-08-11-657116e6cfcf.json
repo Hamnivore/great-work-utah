@@ -1,0 +1,13 @@
+{
+  "source_page": "fervo-energy-official-website.md",
+  "requested_url": "https://fervoenergy.com",
+  "final_url": "https://fervoenergy.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T19:52:46.048Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "84a58d2931c3dace8166d45198725544809afec1757f24c15a944844ddc132c4",
+  "text_sha256": "657116e6cfcfc18ea1a5e19f0b7784d5b8a2e22196fa51f216e7bc642436f289",
+  "text_chars": 3063,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Press Release
+**Source Type:** press-release
 **URL:** https://www.nobelprize.org/prizes/medicine/2007/press-release/
+**Archive:** https://web.archive.org/web/20260426094335/https://www.nobelprize.org/prizes/medicine/2007/press-release/
+**Archived:** 2026-04-26
 **Publisher:** Nobel Prize Outreach / The Nobel Assembly at Karolinska Institutet
-**Accessed:** 2026-06-18
+**Raw:** raw/nobel-prize-capecchi-gene-targeting/2026-08-11-433f95fcd0e4.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -20,6 +23,20 @@ The Nobel Prize press release for the 2007 Physiology or Medicine prize announce
 - Capecchi and Smithies are credited with work toward homologous recombination in mammalian cells, while Evans supplied the embryonic stem-cell route to the mouse germ line.
 - The release says Capecchi refined gene-targeting strategies and developed a positive-negative selection method that could be generally applied.
 - The release identifies Capecchi as an HHMI investigator and distinguished professor at the University of Utah in Salt Lake City.
+
+## Verbatim
+
+> "The Nobel Prize in Physiology or Medicine for 2007 jointly to"
+> — Prize announcement
+
+> "for their discoveries of “principles for introducing specific gene modifications in mice by the use of embryonic stem cells”"
+> — Prize citation
+
+> "Capecchi demonstrated that homologous recombination could take place between introduced DNA and the chromosomes in mammalian cells."
+> — Press release, gene targeting
+
+> "Mario R. Capecchi , born 1937 in Italy, US citizen, PhD in Biophysics 1967, Harvard University, Cambridge, MA, USA. Howard Hughes Medical Institute Investigator and Distinguished Professor of Human Genetics and Biology at the University of Utah, Salt Lake City, UT, USA."
+> — Laureate biography
 
 ## Reliability Notes
 

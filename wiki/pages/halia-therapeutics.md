@@ -17,7 +17,6 @@
 **Domain:** health-bio
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-18
-**Hero:** https://picsum.photos/seed/halia-therapeutics-nek7-inflammasome-2026/1600/1100
 **Pull:** *Trying to treat the inflammation underneath aging, not just one disease at a time.*
 
 ## Summary

@@ -1,0 +1,96 @@
+Torus Raises $200 Million to Accelerate Deployment of Modular Power Plants for Utilities, Data Centers, and Industry
+Press Releases
+Torus Raises $200 Million to Accelerate Deployment of Modular Power Plants for Utilities, Data Centers, and Industry
+9.5.2025 | Partnership with Magnetar helps Torus meet rising electricity demand driven by AI, cloud computing, and electrification.
+Inertia-based, flywheel-battery hybrid system delivers faster, more durable energy storage
+Investment comes at inflection point in growth of energy demand driven by artificial intelligence and cloud computing
+Follows partnerships with regulated utilities as well as commercial and industrial customers nationally, underscoring performance and reliability of Torus’ technology
+SOUTH SALT LAKE, Utah, September 9, 2025
+Torus Inc., a full-stack energy platform offering storage, management, security, and generation solutions, today announced a $200 million investment by Magnetar, a leading alternative asset manager. The investment will accelerate the deployment of Torus’ proprietary modular power plants for utilities, data centers, and commercial and industrial customers across the United States.
+A New Kind of Power Plant
+Torus builds small, inertia-based hybrid energy systems that combine the power of mechanical flywheels with the duration of batteries, equipped with enterprise-grade security and software management. Each unit can sit at the edge of the grid or on-site at a facility and respond to grid signals in milliseconds. Linked together, they form a distributed “grid operating system” that gives utilities and businesses a new way to keep power reliable, scalable, and secure. By pioneering the first distributed utility layer, Torus is establishing a critical foundation for a modern, decentralized grid — one that has the potential to reshape the energy economy for decades to come.
+Utility Partnerships
+Torus has received numerous regulatory and technical approvals that unlock its ability to partner with regulated utilities. The company is expanding its existing partnership with PacifiCorp through a memorandum of understanding covering up to 500 megawatts (MW) of demand response capacity, building on a 70 MW agreement signed earlier this year that was filled within six months. These commitments are among the largest of their kind for American-made, grid-responsive energy storage covering Utah, Oregon, Washington, Idaho, Wyoming, and Northern California.
+Torus is at the forefront of redefining energy infrastructure, and this investment will allow the company to accelerate its growth and bring this new utility model to market at scale.” — Dave Snyderman, Managing Partner and Global Head of Alternative Credit & Fixed Income at Magnetar
+Broad Adoption Across Industries
+Beyond utilities, Torus is working with some of the country's largest industrial and commercial companies. Customers such as Snowbird Resorts, Salt Lake Community College, National Vision, and Salt Lake City International Airport (SLC) are designing Torus systems to provide reliability in operations where uptime is critical. Organizations including American Packaging, Schaeffer Industries, JD Machine, and PWDR Resorts have already installed Torus systems and are realizing measurable improvements in operational continuity and grid resilience.[1]
+Meeting Data Center Demand
+Data centers are one of the fastest-growing sources of electricity demand, driven by artificial intelligence and cloud computing. Hyperscale operators need speed and reliability to smooth out AI dynamic load, and Torus technology is designed to deliver both with its hybrid solution compared to traditional chemical battery-only products. With true inertia, millisecond response, and 99.9% uptime, Torus helps operators keep critical facilities online while also serving utilities’ needs at the sub-transmission and distribution level.
+With this investment, we’re building the world’s first distributed utility — connecting small inertial power plants that deliver grid-scale performance at the edge…"
+– Nate Walkingshaw, Torus CEO and co-founder
+Growth & Scale
+Founded in 2021, Torus quickly grew from an initial prototype in Springville, Utah, into a 40,000-square-foot facility producing more than 400 MW annually. The company is now preparing to open GigaOne, a 540,000-square-foot manufacturing campus in Salt Lake City, where production is expected to scale to more than one gigawatt per quarter within three years. A small portion of the investment will be used to support the build out of GigaOne as Torus ramps up production to meet customer demand.
+Leadership Commentary
+“With this investment, we’re building the world’s first distributed utility — connecting small inertial power plants that deliver grid-scale performance at the edge,” said Nate Walkingshaw, CEO and co-founder of Torus. “Our technology has already been deployed more than 230 times this year with over 1GW of facility managed power, proving it’s no longer experimental but essential.”
+“Scaling transformative, capital-intensive industries requires more than technology — it requires patient, flexible capital,” said Dave Snyderman, Managing Partner and Global Head of Alternative Credit & Fixed Income at Magnetar. “Torus is at the forefront of redefining energy infrastructure, and this investment will allow the company to accelerate its growth and bring this new utility model to market at scale.”
+“Torus has built one of the most compelling distributed utility platforms we’ve seen,” said Neil Tiwari, Managing Director at Magnetar, who will be joining Torus’ Board of Directors. “The architecture is reliable, it scales, and it’s coming to market at a time when demand from AI and electrification is surging. We’re excited to leverage our experience investing in high-performance data centers and AI infrastructure to support Torus’ proven team as it builds the grid of the future.”
+We’re excited to leverage our experience investing in high-performance data centers and AI infrastructure to support Torus’ proven team as it builds the grid of the future.”
+— Neil Tiwari, Managing Director at Magnetar
+About Torus
+Torus is building America’s next generation of power infrastructure. Its hybrid inertial-battery systems provide the same stabilizing services as conventional power plants — without combustion or chemicals. Torus technology helps utilities, data centers, and industrial and commercial customers strengthen the grid, integrate renewables, and meet rising energy demand. TIME magazine named the Torus Spin one of the Best Inventions of 2024, and the company won a 2025 R&D 100 Award for innovation. Learn more at torus.co .
+About Magnetar
+Founded in 2005, Magnetar Financial LLC (“Magnetar” or the “Firm”) is a multi-strategy and multi-product alternative investment manager that seeks to achieve stable risk-adjusted returns by opportunistically employing a wide range of alternative credit & fixed income, systematic and venture investment strategies. Magnetar invests across the capital structure in both public and private transactions utilizing both fundamental and quantitative analyses. Currently run by two managing partners – Ross Laser and Dave Snyderman – Magnetar is headquartered in Evanston, Illinois. Magnetar and its affiliates employ a team of approximately 221 professionals as of July 31, 2025 and maintain three satellite offices in New York, London, and Menlo Park.
+Article Correction:
+[1] Updated from "have adopted" to "are designing" — these customers are in active conversations with Torus and engagements are currently underway.
+Media Contacts
+Torus: press@torus.co
+Magnetar: media@magnetar.com
+You May Also Like
+Press Releases
+Torus GigaOne Sets Production Records Six Months After Coming Online
+7.23.2026 | The 545,000-square-foot Salt Lake City facility scales American-made mesh energy infrastructure as Torus grows its workforce and manufacturing footprint.
+Blogs
+The Dispatch: What Helped Solve Our Permitting Challenges?
+7.16.2026 | New energy technology gets approved fastest by showing regulators it already fits their existing rules, not by asking for an exception.
+Stay in touch
+Be the first to learn about our latest projects, product updates, and industry news. By clicking 'Sign Up' you agree to receive emails from Torus. You may unsubscribe at any time.
+Keep up-to-date with the future of energy
+Torus product updates and launches
+Energy education from experts in the field
+Op-Eds and insights from our leadership
+Solutions Utilities
+Industrial
+Data Centers
+Customers
+Solutions
+Utilities
+Industrial
+Data Centers
+Customers
+Products Torus Station
+Torus Spin
+Torus Pulse
+Torus Shield
+Torus Overwatch
+Torus Lasso
+Products
+Torus Station
+Torus Spin
+Torus Pulse
+Torus Shield
+Torus Overwatch
+Torus Lasso
+Company News
+Our Mission
+Careers
+Contact Us
+Company
+News
+Our Mission
+Careers
+Contact Us
+Social Facebook
+Instagram
+X
+LinkedIn
+YouTube
+Social
+Facebook
+Instagram
+X
+LinkedIn
+YouTube
+Torus Homepage © Torus, Inc. 2026
+Terms & Conditions
+Privacy Policy
+Accessibility

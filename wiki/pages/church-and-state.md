@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Church+and+State+370+South+300+East+Salt+Lake+City+UT
 **Website:** https://www.cs1893.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

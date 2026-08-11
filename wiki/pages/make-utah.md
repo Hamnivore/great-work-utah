@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities
+**Focus:** hard-tech incubator, makerspace, prototype space, R&D workspace, manufacturing, founder community
 **Domain:** capital-programs
 **Primary Location:** Pleasant Grove, UT
 **Utah Location:** Pleasant Grove, UT
@@ -14,7 +14,6 @@
 **Location Source:** https://makeutah.org/space-license-agreement/
 **Website:** https://makeutah.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

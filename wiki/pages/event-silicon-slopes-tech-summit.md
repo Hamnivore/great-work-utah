@@ -13,7 +13,6 @@
 **Location Source:** https://www.siliconslopes.com/c/events/summit-2026-innovation-doesn-t-slow-down
 **Website:** https://www.siliconslopes.com/summit
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

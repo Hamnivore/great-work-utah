@@ -14,7 +14,6 @@
 **Careers:** https://www.intelligencecareers.gov/nsa
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/nsa-utah-bluffdale/1600/1100
 **Pull:** *The largest publicly known data center in Utah, classified, contractor-staffed, and the site of documented mass surveillance infrastructure — included here because any honest map of Utah's technical landscape includes it.*
 **Relates:** cites [Official Website: NSA Utah Data Center](nsa-utah-data-center-official-website.md) · https://greatutah.work/pages/nsa-utah-data-center-official-website.md · https://en.wikipedia.org/wiki/Utah_Data_Center
 

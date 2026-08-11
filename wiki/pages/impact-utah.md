@@ -13,7 +13,6 @@
 **Location Source:** https://business.thechamber.org/list/searchalpha/i
 **Website:** https://www.impactutah.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

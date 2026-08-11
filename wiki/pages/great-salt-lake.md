@@ -2,7 +2,7 @@
 
 **Type:** venture
 **Status:** Draft
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** environmental crisis, water policy, lithium extraction, dust mitigation, ecosystem restoration, Utah
 **Primary Location:** Great Salt Lake basin
 **Utah Location:** Great Salt Lake basin
@@ -11,16 +11,16 @@
 **Domain:** culture-place, energy
 **Region:** Great Salt Lake basin
 **Website:** https://ffsl.utah.gov/public-lands/great-salt-lake/
-**Hero:** https://picsum.photos/seed/great-salt-lake-2026/1600/1100
 **Pull:** *73% of its surface area gone, heavy metals in the airshed of 2.5 million people, and the largest single environmental problem in Utah — with no category-defining company working on it yet.*
 **Relates:** cites [Official Website: Great Salt Lake](great-salt-lake-official-website.md) · https://greatutah.work/pages/great-salt-lake-official-website.md · https://ffsl.utah.gov/public-lands/great-salt-lake/
 **Relates:** cites [USGS Great Salt Lake Science](great-salt-lake-usgs.md) · https://greatutah.work/pages/great-salt-lake-usgs.md · https://www.usgs.gov/centers/utah-water-science-center/science/great-salt-lake
+**Relates:** cites [Source: USGS Great Salt Lake Gauge Elevations (NWIS)](great-salt-lake-usgs-gauge-elevations.md) · https://greatutah.work/pages/great-salt-lake-usgs-gauge-elevations.md · https://doi.org/10.5066/F7P55KJN
 
 ## Summary
 
 The Great Salt Lake is not an organization, and no single company is responsible for it. It is here because the lake's collapse is arguably the most important environmental problem in Utah, and readers thinking about where to apply their skills to high-impact work should know the situation clearly — and know that the space for a category-defining company is still wide open.
 
-The lake has lost approximately 73% of its surface area since 1850, from roughly 3,300 square miles at high stand to around 950 square miles at the 2022 record low. The exposed lakebed contains arsenic, antimony, lanthanum, zirconium, and other heavy metals that are now blowing into the airshed of 2.5 million people along the Wasatch Front. Brine shrimp — the base of the ecosystem supporting 10 million migratory birds and a commercial harvesting industry — are threatened by escalating salinity. The primary cause is agricultural water diversion: roughly 70% of Utah's water consumption is agricultural, most of it alfalfa grown and exported for beef production.
+The lake has contracted dramatically from its historical extent and reached a record-low elevation in 2022 ([USGS gauge record](great-salt-lake-usgs-gauge-elevations.md)). The exposed lakebed contains heavy metals that can enter the Wasatch Front airshed as dust. Brine shrimp and the migratory birds they support are threatened by escalating salinity. Agricultural water diversion is a major cause, but this page does not yet carry primary records that quantify surface-area loss, exposed-dust risk, wildlife populations, or sectoral water use.
 
 ## Impact
 
@@ -28,7 +28,7 @@ The problem is structurally difficult to build a company around because the root
 
 ## What They Need Now
 
-**Lithium and mineral extraction** — GSL brine contains lithium, magnesium, and potash. Utah HB 453 (2024) bans evaporative mineral extraction from GSL, making direct lithium extraction (DLE) the only legal path for new ventures. Lilac Solutions (Oakland) completed a 7-month GSL pilot in 2024 recovering 87% of available lithium at 99.97% purity with a 10-year offtake agreement; International Battery Metals has a DLE plant near Salt Lake City. A Utah-native DLE company addressing the GSL specifically hasn't yet emerged at scale. [US Magnesium](us-magnesium.md) is the established incumbent, using evaporative methods on a legacy permit.
+**Lithium and mineral extraction** — GSL brine contains lithium, magnesium, and potash. Utah HB 453 (2024) bans evaporative mineral extraction from GSL, making direct lithium extraction (DLE) the only legal path for new ventures. Company announcements describe a Great Salt Lake DLE pilot and an offtake agreement, but this page has not captured primary evidence for the reported recovery, purity, duration, or commercial terms. International Battery Metals has described a DLE plant near Salt Lake City, another claim awaiting primary documentation. A Utah-native DLE company addressing the GSL specifically hasn't yet emerged at scale. [US Magnesium](us-magnesium.md) is the established incumbent, using evaporative methods on a legacy permit.
 
 **Dust mitigation** — The Owens Lake precedent required billions of dollars and decades of dust-suppression work in California. GSL's exposed lakebed is ten times larger. There is essentially no company working on this at scale. The engineering challenge is massive and the policy/procurement pathway is complex, but the public-health stakes are severe enough that funding would follow a credible technical approach.
 
@@ -46,9 +46,13 @@ The Great Salt Lake connects nearly every Utah industry: [US Magnesium](us-magne
 - [BYU Great Salt Lake Study (2023)](https://www.cpms.byu.edu/great-salt-lake) · https://www.cpms.byu.edu/great-salt-lake
 - [Official Website: Great Salt Lake](great-salt-lake-official-website.md) · https://greatutah.work/pages/great-salt-lake-official-website.md · https://ffsl.utah.gov/public-lands/great-salt-lake/
 - [USGS Great Salt Lake Science](great-salt-lake-usgs.md) · https://greatutah.work/pages/great-salt-lake-usgs.md · https://www.usgs.gov/centers/utah-water-science-center/science/great-salt-lake
+- [Source: USGS Great Salt Lake Gauge Elevations (NWIS)](great-salt-lake-usgs-gauge-elevations.md) · https://greatutah.work/pages/great-salt-lake-usgs-gauge-elevations.md · https://doi.org/10.5066/F7P55KJN — measured lake elevation at both arms, the 2022 record low, and the full 1847-onward series
 
 ## Open Questions
 
-- What is the current lake level (check Utah DNR for latest data — fluctuates year to year)?
+- Lake level, answered by measurement rather than by report: the south-arm gauge at Saltair read 4190.5 feet above NGVD 1929 on 2026-08-11 and the north arm read 4190.1 feet, against a record daily-mean low of 4188.5 feet on 2022-11-07 and a record high of 4211.60 feet — see [Source: USGS Great Salt Lake Gauge Elevations (NWIS)](great-salt-lake-usgs-gauge-elevations.md) · https://greatutah.work/pages/great-salt-lake-usgs-gauge-elevations.md. Re-run the query rather than trusting this sentence; the number moves seasonally.
+- Confidence is Medium because the elevation record is primary but the page's former headline magnitude claims were not. What would raise this page to High: a USGS elevation–area–capacity table for the lake, the Utah Division of Water Resources' published sectoral water-use data, and a cited air-quality or exposed-lakebed study for the dust and heavy-metal claims.
+- The performance and commercial figures attributed to Lilac Solutions' pilot are company-reported and uncited here; a state mineral-lease record or a peer-reviewed pilot writeup would settle them.
+- Utah HB 453 (2024) is cited in prose without a source page. The enrolled bill at `le.utah.gov` is the primary record and should become one.
 - Has any Utah-native DLE venture emerged since Lilac's 2024 GSL pilot?
 - What is the current status of Great Salt Lake Strike Team policy recommendations and legislative follow-through?

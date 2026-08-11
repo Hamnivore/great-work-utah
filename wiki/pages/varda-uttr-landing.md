@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** News Article
+**Source Type:** news
 **URL:** https://spacenews.com/varda-capsule-lands-in-utah/
 **Publisher:** SpaceNews (corroborated by TechCrunch)
-**Accessed:** 2026-06-18
+**Raw:** raw/varda-uttr-landing/2026-08-11-a81b4bd051a1.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -19,7 +20,18 @@ SpaceNews and TechCrunch coverage of the February 21, 2024 landing of Varda Spac
 - The capsule (~90 cm diameter, under 90 kg) flew as part of a Rocket Lab Photon spacecraft launched June 2023 on SpaceX's Transporter-8 rideshare; it carried crystals of the antiviral drug ritonavir grown in microgravity.
 - The landing was delayed for months while Varda secured an FAA commercial reentry license (granted February 14, 2024) and U.S. Air Force approval to land at UTTR, which the Air Force operates.
 - The landing ellipse spanned the southern part of UTTR and neighboring Dugway Proving Ground.
-- Later reporting (TechCrunch, July 2025; robotics.press) indicates Varda is El Segundo, CA-based, founded 2020, has flown three successful missions since 2023, raised $329M+ total including a $187M Series C (July 2025), holds a U.S. Air Force contract, and shifted subsequent landings to Australia's Koonibba Test Range (W-5 landed there January 2026).
+- The page previously asserted later reporting (TechCrunch, July 2025; robotics.press) on Varda's El Segundo headquarters, total funding, subsequent missions, and Australian landings; this capture does not show those details.
+
+## Verbatim
+
+> "In a statement, Varda said that the capsule from its W-Series 1 mission landed at the Utah Test and Training Range (UTTR) west of Salt Lake City at 4:40 p.m. Eastern."
+> — Article body, landing announcement
+
+> "The Varda-developed capsule, about 90 centimeters in diameter and weighing less than 90 kilograms, was part of a Rocket Lab Photon spacecraft launched in June 2023 on SpaceX's Transporter-8 rideshare mission. Varda used the spacecraft to test space manufacturing technologies, producing crystals of a drug called ritonavir that would be returned to Earth in the capsule."
+> — Capsule and mission description
+
+> "The company received an FAA reentry license Feb. 14 and was cleared to perform a landing at UTTR on Feb. 21. The landing site was an ellipse 45 by 35 kilometers within the southern part of UTTR and the neighboring Dugway Proving Ground, according to environmental documents."
+> — Regulatory approvals and landing ellipse
 
 ## Reliability Notes
 

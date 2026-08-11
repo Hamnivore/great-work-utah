@@ -13,7 +13,6 @@
 **Location Source:** https://business.utah.gov/contact/
 **Website:** https://business.utah.gov/usbci/
 **Updated:** 2026-07-14
-**Layout:** field-guide
 
 ## Summary
 

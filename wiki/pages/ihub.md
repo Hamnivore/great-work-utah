@@ -3,7 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
-**Focus:** Entrepreneurship Communities, Funding, Start a Business
+**Focus:** startup incubator, founder community, coworking, makerspace, prototype space, commercial kitchen, warehouse, funding
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
 **Region:** Provo
@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=iHub%20Utah%201555%20N%20Freedom%20Blvd%20Provo%20UT%2084604
 **Website:** https://www.ihubutah.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

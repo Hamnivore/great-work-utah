@@ -246,7 +246,7 @@ function markWantedLinks(html) {
 }
 
 const CONF_RANK = { High: 'conf-high', Medium: '', Low: 'conf-low' }
-const HIDDEN_META = new Set(['Hero', 'Hero caption', 'Pull'])
+const HIDDEN_META = new Set(['Pull'])
 
 /** Each of the three document kinds has a different claim to authority: a corpus
  *  page is an AI-written draft you should verify, a view is compiled from the

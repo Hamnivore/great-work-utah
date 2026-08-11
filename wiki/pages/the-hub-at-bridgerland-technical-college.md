@@ -13,7 +13,6 @@
 **Location Source:** https://btech.edu/contact-us/
 **Website:** https://thehubatbtech.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

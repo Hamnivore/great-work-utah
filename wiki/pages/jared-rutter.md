@@ -9,11 +9,10 @@
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Updated:** 2026-08-11
-**Hero:** https://picsum.photos/seed/jared-rutter-uofu-biochem-2026/800/600
 
 ## Summary
 
-Jared Rutter is a professor in the Department of Biochemistry at the University of Utah and co-founder of [Atavistik Bio](atavistik-bio.md), a clinical-stage biotechnology company commercializing allosteric drug discovery based on metabolite-protein interaction mapping. He co-founded Atavistik in 2021 alongside Ralph DeBerardinis (UT Southwestern). Rutter remains on the University of Utah faculty while the company has grown into a Cambridge, Massachusetts-headquartered operation with approximately $299M raised as of 2026.
+Jared Rutter is a professor in the Department of Biochemistry at the University of Utah and co-founder of [Atavistik Bio](atavistik-bio.md), a clinical-stage biotechnology company commercializing allosteric drug discovery based on metabolite-protein interaction mapping. He co-founded Atavistik alongside Ralph DeBerardinis. Rutter remains on the University of Utah faculty while the company has grown into a Cambridge, Massachusetts-headquartered operation.
 
 ## Impact
 
@@ -32,7 +31,7 @@ Not publicly stated. As a faculty entrepreneur, likely oriented toward high-qual
 ## Track Record
 
 - Co-developed MIDAS/AMPS metabolite-protein interaction platform (published *Science*, 2023)
-- Co-founded Atavistik Bio (2021); company raised ~$299M through Series B including Column Group, Lux Capital, Regeneron Ventures, Nextech Invest
+- Co-founded Atavistik Bio; the current captured official source does not establish cumulative financing
 - ATV-1601 IND cleared; FDA Fast Track designation for HHT (June 2026)
 - University of Utah Biochemistry faculty, with prior work on mitochondrial metabolism and cellular energy sensing
 

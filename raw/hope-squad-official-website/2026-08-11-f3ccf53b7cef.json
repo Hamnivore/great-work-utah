@@ -1,0 +1,13 @@
+{
+  "source_page": "hope-squad-official-website.md",
+  "requested_url": "https://hopesquad.com/",
+  "final_url": "https://www.hopesquad.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:18.136Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "602ecba13c8c965f3b4fbf44b418cdf034a55a81be031608668a67026849bd5e",
+  "text_sha256": "f3ccf53b7cef87931a48f81299e81c354403aa6185cd9ba17604d434da8725d9",
+  "text_chars": 9407,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

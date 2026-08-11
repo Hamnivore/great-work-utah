@@ -18,7 +18,6 @@
 **Careers:** https://passivelogic.teamtailor.com/
 **Website:** https://passivelogic.com/
 **Needs-reviewed:** 2026-06-18
-**Hero:** https://picsum.photos/seed/passivelogic-autonomous-buildings-slc-2026/1600/1100
 **Pull:** *Physics-informed autonomy for the built environment, starting with building controls.*
 
 ## Summary

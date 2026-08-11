@@ -18,7 +18,6 @@
 **Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/bamboohr-hr-platform-lindon-2026/1600/1100
 **Pull:** *People, payroll, and benefits in one SMB-friendly HR platform, built in Utah.*
 **Relates:** cites [Official Website: BambooHR](bamboohr-official-website.md) · https://greatutah.work/pages/bamboohr-official-website.md · https://www.bamboohr.com/
 

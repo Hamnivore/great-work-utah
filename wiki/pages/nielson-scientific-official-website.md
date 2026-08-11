@@ -1,33 +1,28 @@
-# Official Website: Nielson Scientific
+# Source: Nielson Scientific SBIR Portfolio
 
 **Type:** source
 **Status:** Useful
-**Confidence:** Low
-**Source Type:** Official Website
-**URL:** Unknown
-**Publisher:** Nielson Scientific
-**Accessed:** 2026-06-19
+**Confidence:** High
+**Source Type:** government-record
+**URL:** https://www.sbir.gov/portfolio/1239331
+**Publisher:** U.S. Small Business Administration
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
 
-No public website for Nielson Scientific has been identified. The company is known only through its participation in the Utah Innovation Center SBIR support program for a DOE SBIR submission. Until a public website or DOE SBIR award record is located, this source record exists as a placeholder documenting the absence of available public information.
+The federal SBIR company portfolio identifies Nielson Scientific LLC, its Lehi location and UEI, and aggregates the company's SBIR/STTR award history.
 
 ## Useful Claims
 
-- Nielson Scientific received Utah Innovation Center support for a Department of Energy SBIR submission.
-- The company is located in Utah.
-- No domain, technical focus, or founding information is publicly available from current sources.
-- DOE SBIR awardees in Utah from the Innovation Center cohort have historically included substantive deep-tech companies.
+- The portfolio identifies Nielson Scientific LLC in Lehi, Utah, with UEI `MVTBKVUKLCZ3`.
+- It reports the year of first award as 2019 and lists nine Phase I awards and three Phase II awards.
+- The portfolio lists $4,652,265 in total SBIR/STTR awards.
 
 ## Reliability Notes
 
-No public website or primary source has been located. The DOE SBIR database (sbir.doe.gov) is the most direct path to verifying whether an award was made and identifying the grant topic and technical description. Until that search is completed, all claims about Nielson Scientific should be treated as preliminary.
+This federal portfolio is authoritative for the SBIR program's recipient and award aggregation fields. Individual award pages are preferable for project-specific amounts, dates, and abstracts.
 
 ## Related Pages
 
 - [Nielson Scientific](nielson-scientific.md)
-
-## See Also
-
-- [DOE SBIR/STTR database](https://sbir.doe.gov) · https://sbir.doe.gov — search "Nielson Scientific" to identify the grant topic and award status

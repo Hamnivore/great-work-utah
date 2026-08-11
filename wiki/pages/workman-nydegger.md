@@ -13,7 +13,6 @@
 **Location Source:** https://www.wnlaw.com/contact/
 **Website:** https://www.wnlaw.com/
 **Updated:** 2026-07-14
-**Layout:** field-guide
 
 ## Summary
 

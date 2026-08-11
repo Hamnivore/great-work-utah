@@ -1,0 +1,13 @@
+{
+  "source_page": "usu-integrated-biosystems-official-website.md",
+  "requested_url": "https://qanr.usu.edu/biosystems/about",
+  "final_url": "https://qanr.usu.edu/biosystems/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:15:57.966Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "9cc7f4ad4d7f23d376a0ebb15059862b10e574bd55cad034718673bf430d7aed",
+  "text_sha256": "d4741a5a23622fd801f4d9f4993f104fb0d6451dac92a633da6d793f602de95e",
+  "text_chars": 3758,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

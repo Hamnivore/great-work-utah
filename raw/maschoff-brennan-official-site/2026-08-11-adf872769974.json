@@ -1,0 +1,13 @@
+{
+  "source_page": "maschoff-brennan-official-site.md",
+  "requested_url": "https://mabr.com/",
+  "final_url": "https://mabr.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:12.219Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "efaf90ebcb9604f5b6fd1021207dea2b6731bd833d069ec3af7ba43d9d97fd87",
+  "text_sha256": "adf8727699745cddcc3ba7f58975ec38a5c45a79bbafa822180634f4c4fbc3b3",
+  "text_chars": 10654,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

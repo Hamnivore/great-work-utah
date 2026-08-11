@@ -18,7 +18,6 @@
 **Domain:** health-bio, energy
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/nusano-radioisotope-accelerator-2026/1600/1100
 **Pull:** *Building domestic supply for the radioisotopes that next-generation cancer drugs depend on.*
 
 ## Summary
@@ -58,7 +57,7 @@ Nusano adds a genuinely unusual capability to Utah's industrial base: large-scal
 
 ## Open Questions
 
-- Earlier internal framing treated Nusano's ownership as opaque; public sources now confirm a Series C round announced in October 2024 with funding commitments of over $115M. Full investor identities, total capital raised since, and control structure are still not fully public.
+- Earlier internal framing treated Nusano's ownership as opaque; the company reports a Series C round announced in October 2024 with funding commitments of over $115M ([official source](nusano-official-website.md)). Full investor identities, total capital raised since, and control structure are still not fully public.
 - Whether the broad 40-plus isotope mission holds depends on whether any single pharma partner captures the roadmap; the GlyTherix Lu-177 agreement and Ac-225 focus are leads, not the full commercial picture.
 - Production timelines ("late 2025," "full operations") come largely from company statements and press coverage; actual output volumes and cGMP qualification status should be verified before strong claims.
 - Headquarters history is mixed in sources (early materials cite Valencia, California; later coverage describes Nusano as Utah-headquartered). The current corporate HQ and the West Valley City site's role should be confirmed.

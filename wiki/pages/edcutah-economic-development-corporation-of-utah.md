@@ -13,7 +13,6 @@
 **Location Source:** https://www.edcutah.org/support/our-investors
 **Website:** https://www.edcutah.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

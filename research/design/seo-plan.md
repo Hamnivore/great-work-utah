@@ -6,7 +6,7 @@ Audited against production after the static-HTML merge (`3bf7d32`).
 
 ## Why we care, and the limit on how much
 
-Read [`static-html-is-the-second-half.md`](static-html-is-the-second-half.md) first. SEO here is
+Read `[static-html-is-the-second-half.md](static-html-is-the-second-half.md)` first. SEO here is
 not a traffic goal. It is the **push channel of the agent interface**: agents that arrive through
 a search index rather than through `/llms.txt` can only reach the corpus if a search index has it.
 Indexation is the falsifier recorded in that document — if per-page indexation does not improve by
@@ -21,7 +21,11 @@ canonical links, OpenGraph, and JSON-LD. What follows is the cleanup that shippi
 
 ---
 
+
+
 ## P0 — actively harmful, fix first
+
+
 
 ### P0.1 · 656 duplicate URLs, submitted to Google, with no canonical between them — done
 
@@ -38,7 +42,7 @@ The HTML twin self-canonicalises. The markdown twin carried **no canonical signa
 **Fix shipped.**
 
 1. `vercel.json` `routes` add an HTTP `Link` canonical on markdown paths, pointing each file at
-   its HTML twin (`/pages/x.md` → `/p/x`, `/views/x.md` → `/v/x`, `/meta/x.md` → `/x`). Implemented
+  its HTML twin (`/pages/x.md` → `/p/x`, `/views/x.md` → `/v/x`, `/meta/x.md` → `/x`). Implemented
    via `routes` (not the high-level `headers` array) because path-capture interpolation in header
    *values* is documented for `routes` (`$1`) and not for `headers`. Agents keep fetching markdown
    exactly as before.
@@ -49,6 +53,8 @@ header; sitemap URL count is ~430 (HTML corpus minus noindex sources, plus a han
 routes); Search Console "Duplicate without user-selected canonical" stays at zero.
 
 ---
+
+
 
 ### P0.2 · The homepage links to nothing on the site — done
 
@@ -61,6 +67,8 @@ corpus doors.
 
 ---
 
+
+
 ### P0.3 · `www` → apex is a temporary redirect — done 2026-07-27
 
 Maintainer set the Domains-panel redirect to permanent. Verify: the curl below returns `308`.
@@ -71,7 +79,11 @@ $ curl -so /dev/null -w '%{http_code}' https://www.greatutah.work/p/fervo-energy
 
 ---
 
+
+
 ## P1 — signal quality
+
+
 
 ### P1.1 · No `lastmod` in the sitemap — done
 
@@ -101,7 +113,11 @@ uncensored.
 
 ---
 
+
+
 ## P2 — measurement, without which none of this is checkable
+
+
 
 ### P2.1 · No webmaster tooling is verified — needs maintainer
 
@@ -114,11 +130,13 @@ survives redeploys. Drop the file(s) in the repo when the consoles issue them.
 
 ### P2.2 · Baseline and the 8-week check
 
-| Date | Measure | Meaning |
-|---|---|---|
-| at verification | indexed page count, pre-fix | baseline |
-| +4 weeks | indexed `/p/*` count | is P0 working |
-| **~2026-09-21** | indexed `/p/*` count and impressions | **the falsifier** — if flat, the retrieval argument is wrong and only the citation/trust half stands |
+
+| Date            | Measure                              | Meaning                                                                                              |
+| --------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| at verification | indexed page count, pre-fix          | baseline                                                                                             |
+| +4 weeks        | indexed `/p/*` count                 | is P0 working                                                                                        |
+| **~2026-09-21** | indexed `/p/`* count and impressions | **the falsifier** — if flat, the retrieval argument is wrong and only the citation/trust half stands |
+
 
 Record the result in `research/findings/` either way. A negative result is the more valuable one
 and must not be quietly dropped.
@@ -126,7 +144,7 @@ and must not be quietly dropped.
 ### P2.3 · The measurement that actually matters is not a search ranking
 
 Indexation is a proxy. The real question is whether agents arrive. When server logs are available,
-measure the **arrival mix**: requests entering at `/p/*` versus `/llms.txt` versus `/views/*.md`.
+measure the **arrival mix**: requests entering at `/p/`* versus `/llms.txt` versus `/views/*.md`.
 If nothing enters at `/p/*`, the push channel is not real for this corpus regardless of what
 Search Console says — and the HTML layer is then justified by citation and trust alone, which is
 still worth keeping but not worth extending.
@@ -138,16 +156,20 @@ and it is the method this project uses for everything else
 
 ---
 
+
+
 ## Explicit non-goals
 
 - **Keyword optimisation of page prose.** Pages are written for agents and for accuracy. If
-  prerendering ever starts changing how markdown is authored, that is the failure mode named in
-  the design doc.
+prerendering ever starts changing how markdown is authored, that is the failure mode named in
+the design doc.
 - **Chasing AI Overviews / AI Mode placement.** Google states `llms.txt` plays no part in these,
-  and we have no lever on them beyond being crawlable and correct — which is this plan.
+and we have no lever on them beyond being crawlable and correct — which is this plan.
 - **A blog, a link-building programme, or content volume for its own sake.** Coverage grows from
-  the charter, not from a traffic target.
-- **Removing `/llms.txt` or the markdown paths** for any ranking reason whatsoever.
+the charter, not from a traffic target.
+- **Removing** `/llms.txt` **or the markdown paths** for any ranking reason whatsoever.
+
+
 
 ## Sequence
 

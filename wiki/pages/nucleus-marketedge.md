@@ -14,7 +14,6 @@
 **Location Source:** https://www.nucleusutah.org/marketedge
 **Website:** https://www.nucleusutah.org/marketedge
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

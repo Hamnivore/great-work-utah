@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://www.domo.com
+**Archive:** https://web.archive.org/web/20260717062058/https://www.domo.com/
+**Archived:** 2026-07-17
 **Publisher:** Domo, Inc.
-**Accessed:** 2026-06-19
 **Updated:** 2026-06-19
 
 ## Summary

@@ -1,0 +1,54 @@
+Leopold Stokowski and Bell Labs, a Sound Collaboration - Engineering and Technology History Wiki
+Explore
+Browse by Subject
+Encyclopedia
+Oral Histories
+First Hand Histories
+Landmarks/Milestones
+Archives
+Personal Narratives
+Museums
+Random page
+Special pages
+Recent changes
+New pages
+Help
+Contents
+Contact us
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Browse properties
+Talk
+View source
+View history
+English
+Log in
+Request account
+Leopold Stokowski and Bell Labs, a Sound Collaboration
+From ETHW
+Jump to: navigation , search
+Leopold Stokowski and Harvey Fletcher at the control console, Constitution Hall, Washington, 1933. (Courtesy AT&T Archives and History Center)
+Arthur Keller around the time he was preparing the Stokowski recordings for release. (Courtesy AT&T Archives and History Center)
+This article was initially published in the June 2015 issue of IEEE-USA InSight
+Constitution Hall, Washington D.C., April 27, 1933. People filled the auditorium at AT&T’s invitation to hear the Philadelphia Orchestra. The Orchestra’s long time conductor Leopold Stokowski was on hand; his orchestra was not. Instead, three large loudspeakers graced the stage.
+The concert began. At the Academy of Music in Philadelphia, the orchestra began playing Bach. Three state-of-the-art wide-range Bell Labs microphones picked up the sound. AT&T transmitted the outputs over three specially prepared, wide bandwidth telephone wires to Washington, where they were amplified and sent into the auditorium via newly designed loudspeakers specially crafted by Bell Labs for the event. It was the world’s first demonstration of high-fidelity sound in auditory perspective, or as we would call it, stereo. Stokowski and Bell Telephone Laboratories Director of Acoustical Research (and AIEE Fellow) Dr. Harvey Fletcher operated the controls. The frequency response reached up to 16,000 Hz at a time when radio accommodated only 5,000 Hz, and commercial phonograph records only 6,000. There were similar improvements in dynamic range and the evenness of frequency response. The audience found the sound indistinguishable from what they would have heard if the orchestra was in the hall. Fletcher hoped that this would lead to commercial use of AT&T long lines for the transmission of high fidelity music, but that would not actually come for decades, when FM radio provided the means to deliver such sound to listeners after transmission over the AT&T network. This public demonstration was only one event in a decade long collaboration between Stokowski and the Bell Labs Acoustics Research Department.
+Stokowski was not only one of the world’s foremost conductors; he was a technology enthusiast who firmly believed that technology could contribute to the dissemination and spread of classical music. Stokowski and his orchestra made many acoustic phonograph recordings between 1917 and 1924, and were in 1925 among the first to make an Orthophonic recording through the then new electrical recording system licensed by the Victor Company from AT&T. He also arranged to have much of the Philadelphia Orchestra’s 1929-1930 season broadcast nationally over the NBC radio network. But he was universally unhappy with the quality of these recordings or broadcasts.
+Bell Labs and its predecessor, the Western Electric Engineering Department, had been studying ways to improve the transmission, recording, and reproduction of sound since the 1910s as a central part of its mission to perfect the quality of sound for the telephone network. To do so, the researchers wanted to record telephone transmissions. But the phonograph of the day was an acoustic/mechanical device. There was no electricity; and thus no way to directly couple the recording equipment to the telephone. Moreover, the frequency response was limited and uneven.
+A team led by Joseph Maxfield solved the problem by inventing a system for electrical recording. AT&T then licensed the new technology to the recording industry. Victor began issuing electrical “Orthophonic” records in 1925. The improvement in sound astonished listeners. Company researchers soon coupled electrical recording to silent movies; the result was The Jazz Singer and Hollywood’s adoption of sound.
+Bell Labs continued to work on improving the quality of recorded sound. A team led by AIEE Fellow Halsey Frederick invented new recording techniques, including a moving coil recording arm with a diamond or sapphire recording stylus that tracked a groove vertically (hill and dale) rather than laterally, and with a much smaller force. This provided greater dynamic range and less noise then a conventional recording. Alongside this they devised an improved method of preparing masters from the original wax recording; and gold sputtering, which coated the etched wax with a one-molecule layer of gold, which in turn could be electroplated with copper to produce a surface from which stamping masters for records could be made. Their new system provided a frequency response up to 10,000 Hz (up from 6000Hz) with reduced surface noise and an improved 60 dB dynamic range.
+Frederick and his group had begun making experimental recordings using this evolving technology in 1928. Two years later, they invited Stokowski to visit the Labs for a demonstration of their work. Stokowski proved eager to help. Surely he and his orchestra would be a better partner than the orchestra of the Roxy Theater off Times Square. Fletcher and Frederick agreed, and Bell Labs researcher (and future IRE Fellow) Arthur C. Keller and his assistant Irad S. Rafuse installed Bell Lab’s state-of-the-art experimental recording apparatus in a basement room at the orchestra’s home, the Philadelphia Academy of Music, in April 1931 and Bell Labs’ latest microphones in the auditorium. They planned to make experimental recordings at performances and rehearsals throughout the forthcoming 1931-1932 season. Stokowski, for whatever reason, did not share these plans with members of the orchestra. Keller and Rafuse spent many an afternoon or evening recording the orchestra, and then driving the etched wax discs back to Bell Labs in New York where they could be turned into masters for pressing experimental records. While most of the recordings were monaural, there were a few done in stereo, using a pair of recording arms and styli, with one channel being recorded on the outer half of the recording blank, and the other on the inner half.
+Keller and Stokowski gave several talks where they demonstrated the work, including one at a December 1931 joint meeting of the IRE (an IEEE predecessor) and the Society of Motion Picture Engineers. But their recordings, being made for experimental purposes, otherwise remained locked away at Bell Labs.
+Keller and Rafuse continued their stereo work. In 1929, they had developed methods to record both stereo channels in a single groove through multiplexing, where one channel was transposed for recording to a higher frequency range and then transposed back for playback. But doing this compromised frequency response and therefor sound quality. From there they progressed first to recording one channel by vertical cut, and one by lateral, and then to recording both channels at 45-degree angles to one another; only the last produced two channels with equal sound characteristics. But since this was the depths of the Great Depression, they could not convince the Labs to file a patent application until 1936. The patent U.S. 2114471 was issued two years later. Although unknown to Keller and Rafuse, Alan Blumlein, working for EMI in England, independently achieved single-groove stereo recording in 1931, and made an experimental recording with Thomas Beecham and the London Philharmonic Orchestra of Mozart’s Jupiter Symphony in 1934. Both Keller and Blumlein’s work was all but forgotten, only to be rediscovered in the 1950s.
+The Stokowski-Bell Labs collaboration concluded in 1938-1940. Hollywood by this time recorded its sound tracks on film stock, and Harvey Fletcher was seeking to improve the quality of sound on film. So, he recorded Stokowski and the Philadelphia Orchestra on film at the Academy of Music using three microphones recording the orchestra in auditory perspective on three separate tracks of film. Bell Labs then invited a distinguished audience including composer Sergei Rachmaninoff, conductor Arturo Toscanini, IBM President Thomas J. Watson, and Laurence Rockefeller to Carnegie Hall on August 9-10 1940 to hear the recorded performance over specially designed theater loudspeakers. The frequency response extended to 16,000 Hz. Bell Labs was, of course, not Stokowski’s only technical partner. He worked with Disney and RCA on the animated movie Fantasia, where the orchestra was recorded in eight separate tracks, which were mixed in post-production for the multi-tracked “Fantasound” that accompanied the film in its roadshow debut.
+As for Stokowski’s recordings with Bell Labs, after decades of neglect, Bell Labs called Keller out of retirement in 1979 to prepare a selection of the recordings for release. Keller went through over 100 masters and working with a skilled historical recording specialist, Ward Marston, prepared two LPs worth of material, which Bell Labs released distributed in 1979 and 1980. Listening to these discs, it is immediately clear how much better they sound compared to conventional recordings of the 1930s and 1940s. However, these recordings were never intended for sale so contractual arrangements were never made for that eventuality. Therefore, the recordings were given out by Bell Labs, and then allowed to go out of print. While they have never been commercially reissued, you can find the albums for sale online, and many of the recordings through links to this article on the collaboration on the Stokowski.org website.
+For further information on the Stokowski-Bell Labs Collaboration, see Robert McGinn, “Stokowski and the Bell Telephone Laboratories Collaboration in the Development of High-Fidelity Sound” Technology and Culture 24 (January 1983) 38-75.
+Retrieved from " https://ethw.org/w/index.php?title=Leopold_Stokowski_and_Bell_Labs,_a_Sound_Collaboration&oldid=198728 "
+Category : Communications
+This page was last edited on 2 October 2023, at 18:42.
+About ETHW
+Policies and disclaimers

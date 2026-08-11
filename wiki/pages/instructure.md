@@ -18,7 +18,6 @@
 **Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/instructure-canvas-lms-2026/1600/1100
 **Pull:** *Canvas is the default LMS for most U.S. universities — and the distribution surface for whatever AI-in-education becomes.*
 **Relates:** cites [Official Website: Instructure](instructure-official-website.md) · https://greatutah.work/pages/instructure-official-website.md · https://www.instructure.com
 
@@ -26,7 +25,7 @@
 
 Instructure is a Salt Lake City–based educational technology company best known for Canvas, the learning management system used by most major U.S. universities, hundreds of K–12 districts, and corporate training programs worldwide. The company also offers assessment, credentials, and analytics products including Mastery Connect and Canvas Credentials.
 
-Founded in 2008 by Brian Whitmer and Devlin Daley, Instructure went public in 2015, was taken private by Thoma Bravo in 2020, returned to the NYSE as INST in 2021, and was acquired by KKR and Dragoneer in a $4.8 billion take-private deal that closed in November 2024. Canvas remains headquartered in Utah and is one of the defining success stories of the state's Silicon Slopes edtech cluster.
+Founded in 2008 by Brian Whitmer and Devlin Daley, Instructure went public in 2015, was taken private by Thoma Bravo in 2020, returned to the NYSE as INST in 2021, and was later acquired by KKR and Dragoneer. The transaction value previously stated here is not supported by the captured official homepage. Canvas remains headquartered in Utah and is one of the defining success stories of the state's Silicon Slopes edtech cluster.
 
 ## Impact
 

@@ -13,7 +13,6 @@
 **Location Source:** https://weberbasin.jobcorps.gov/contact
 **Website:** https://weberbasin.jobcorps.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

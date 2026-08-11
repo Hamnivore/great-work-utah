@@ -1,0 +1,13 @@
+{
+  "source_page": "us-synthetic-company-history.md",
+  "requested_url": "https://ussynthetic.com/company-history/",
+  "final_url": "https://ussynthetic.com/company-history/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:41:55.702Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "b82f4fb267f5432650109bbc1e045628ac0fe738eebed5e69d001f5992aa9e57",
+  "text_sha256": "7ef44ba8bcd61558e62e3c7f99eb0352b66e7ec0e19ed81d624dd0731c849bb0",
+  "text_chars": 2848,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

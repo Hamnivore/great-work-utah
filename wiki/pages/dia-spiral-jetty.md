@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Collection Record
+**Source Type:** official-page
 **URL:** https://diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014/
+**Archive:** https://web.archive.org/web/20260228083028/https://www.diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014
+**Archived:** 2026-02-28
 **Publisher:** Dia Art Foundation
-**Accessed:** 2026-06-18
+**Raw:** raw/dia-spiral-jetty/2026-08-11-3128007ce124.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -20,6 +23,23 @@ Dia Art Foundation's collection record describes Robert Smithson's *Spiral Jetty
 - The collection record gives the scale as a roughly 1,500-foot-long coil about 15 feet wide.
 - Dia links the work's meaning to Great Salt Lake's fractured rocky landscape, changing water levels, and Smithson's interest in entropy.
 - Dia states that it stewards the work and conducts recurring aerial documentation; it also notes that photo and video material is copyright protected.
+
+## Verbatim
+
+> "Robert Smithson's Spiral Jetty (1970) is a site-specific sculpture that is located at Rozel Point
+> on the northeastern shore of the Great Salt Lake."
+> — Collection record, Overview
+
+> "Made of black basalt rocks, salt crystals, earth, and water, Spiral Jetty is a 1,500-foot-long
+> coil, measuring approximately 15 feet wide, that stretches into the lake."
+> — Collection record, Overview
+
+> "As stewards of Spiral Jetty , Dia is committed to recording changes to the work over time through
+> photographic documentation."
+> — Collection record, Aerial Documentation
+
+> "Photographic and video material of Spiral Jetty is copyright protected."
+> — Collection record, Rights and Reproductions
 
 ## Reliability Notes
 

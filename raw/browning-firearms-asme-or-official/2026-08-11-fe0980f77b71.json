@@ -1,0 +1,13 @@
+{
+  "source_page": "browning-firearms-asme-or-official.md",
+  "requested_url": "https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection",
+  "final_url": "https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:21.671Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "1c4d1910a0b1b7097f703d1047330b1a8c13ef4f5aa59646567fd5f9a0a8328d",
+  "text_sha256": "fe0980f77b71c14c9220c235e2d4ed1e4f847530fa286b08a3601ea775bcc6ff",
+  "text_chars": 4554,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

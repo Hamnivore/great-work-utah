@@ -16,7 +16,6 @@
 **Website:** https://arch.cs.utah.edu
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-06-19
-**Hero:** https://picsum.photos/seed/utah-arch-2026/1600/1100
 **Relates:** cites [Official Website: Utah Arch Research Group](utah-arch-official-website.md) · https://greatutah.work/pages/utah-arch-official-website.md · https://arch.cs.utah.edu
 
 ## Summary

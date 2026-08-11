@@ -14,7 +14,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=RevRoad+412+W+Rivers+Edge+Dr+Provo+UT+84604
 **Website:** https://www.revroad.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

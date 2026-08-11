@@ -13,7 +13,6 @@
 **Location Source:** https://fivecountyecon.org/contact/
 **Website:** http://www.fivecounty.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

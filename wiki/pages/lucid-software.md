@@ -18,7 +18,6 @@
 **Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/lucid-visual-collaboration-2026/1600/1100
 **Pull:** *Lucidchart and Lucidspark — the visual layer where enterprise teams map processes and align on complex ideas.*
 **Relates:** cites [Official Website: Lucid Software](lucid-software-official-website.md) · https://greatutah.work/pages/lucid-software-official-website.md · https://www.lucidsoftware.com
 **Relates:** helps [Karl Sun](karl-sun.md) · https://greatutah.work/pages/karl-sun.md
@@ -27,7 +26,7 @@
 
 Lucid Software is a Utah-based B2B SaaS company behind Lucidchart, a cloud diagramming application, and Lucidspark, a virtual whiteboard for team collaboration. Founded in 2010, the platform enables users to create flowcharts, org charts, network diagrams, wireframes, and other visual documentation collaboratively in real time.
 
-Legacy intake material describes Lucid as serving tens of millions of users worldwide, including a large share of Fortune 500 companies, and as one of Utah's most valuable private technology companies after a reported $100 million Series E in 2021 at a valuation exceeding $3 billion. Those scale and valuation claims should be treated as directional until independently verified.
+Legacy intake material describes Lucid as serving a large global user base and many major enterprises, and as one of Utah's most valuable private technology companies. The captured official source does not support specific user, financing, valuation, or customer-penetration figures.
 
 ## Impact
 
@@ -53,7 +52,7 @@ Useful helpers include enterprise SaaS GTM advisors, integration-platform specia
 
 ## Utah Context
 
-Lucid Software is headquartered in South Jordan, Utah, and was founded by BYU graduates Karl Sun and Ben Dilts. Legacy intake describes more than 1,000 employees with the majority in Utah offices, making Lucid a flagship example of the state's SaaS ecosystem. The company has reportedly participated in local tech community events and university partnerships.
+Lucid Software is headquartered in South Jordan, Utah, and was founded by BYU graduates Karl Sun and Ben Dilts. Legacy intake describes a substantial Utah workforce, but the captured source does not publish a headcount or geographic breakdown. The company has reportedly participated in local tech community events and university partnerships.
 
 ## Evidence
 

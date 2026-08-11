@@ -9,7 +9,6 @@
 **Region:** Salt Lake City
 **Website:** https://www.epicvc.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

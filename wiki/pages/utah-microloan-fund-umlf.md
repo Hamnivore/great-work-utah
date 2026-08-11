@@ -13,7 +13,6 @@
 **Location Source:** https://www.utahmicroloanfund.org/about.html
 **Website:** https://www.utahmicroloanfund.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

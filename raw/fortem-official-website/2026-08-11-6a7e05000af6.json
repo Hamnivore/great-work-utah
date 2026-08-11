@@ -1,0 +1,13 @@
+{
+  "source_page": "fortem-official-website.md",
+  "requested_url": "https://fortemtech.com/",
+  "final_url": "https://fortemtech.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:43.560Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "e0559d01354ea243530a5d996238d80f6c41692e75fd754c4673842bb072d23e",
+  "text_sha256": "6a7e05000af66c53192359c298fdfd8fc870bf8d560587e08d4a83df660cc0d9",
+  "text_chars": 28043,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

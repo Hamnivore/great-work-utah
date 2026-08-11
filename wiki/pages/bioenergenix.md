@@ -13,15 +13,14 @@
 **Domain:** health-bio
 **Region:** Salt Lake City
 **Website:** https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic
-**Hero:** https://picsum.photos/seed/bioenergenix-pask-metabolic-2026/1600/1100
 **Pull:** *A U of U spinout betting metabolic syndrome has a tractable root cause in PASK — public trail goes cold after 2014.*
 **Relates:** cites [University of Utah Health Press Release: BioEnergenix Metabolic Syndrome Spinoff](bioenergenix-uofu-health-press-release.md) · https://greatutah.work/pages/bioenergenix-uofu-health-press-release.md · https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic
 
 ## Summary
 
-BioEnergenix is a biotechnology company described in a 2014 University of Utah Health press release as a **University of Utah spinoff co-founded in 2009** by biochemistry professor Jared Rutter. The stated thesis: treat the shared metabolic dysfunction underlying type 2 diabetes, obesity, and related conditions — not just downstream symptoms — by inhibiting **PASK (PAS kinase)**, an enzyme that modifies SREBP-1c and drives hepatic fat production.
+BioEnergenix is described as a **University of Utah spinoff co-founded in 2009** by biochemistry professor Jared Rutter ([university release](bioenergenix-uofu-health-press-release.md)). Its stated thesis was to treat metabolic dysfunction by inhibiting **PASK (PAS kinase)**.
 
-In rodent studies tied to that release, a BioEnergenix drug candidate blocked PASK activity, lowered liver fatty acids and triglycerides, and partially reversed insulin resistance in diabetes-prone animals. Rutter hoped human clinical trials could begin within a couple of years **as of 2014**.
+In rodent studies tied to that release, a BioEnergenix drug candidate blocked PASK activity, lowered liver fatty acids and triglycerides, and partially reversed insulin resistance in diabetes-prone animals. Rutter hoped human trials could begin within a couple of years **as of 2014** ([university release](bioenergenix-uofu-health-press-release.md)).
 
 **Critical evidence gap:** No official website, recent press release, SEC filing, or clinical-trial registry entry for BioEnergenix was verified during this migration. Current operating status, pipeline stage, headquarters, and funding are **unknown**. Treat all forward-looking 2014 statements as historical, not present fact.
 

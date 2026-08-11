@@ -13,7 +13,6 @@
 **Location Source:** https://business.slchamber.com/list/member/sanpete-county-chamber-of-commerce-105612
 **Website:** https://sanpetechamberofcommerce.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

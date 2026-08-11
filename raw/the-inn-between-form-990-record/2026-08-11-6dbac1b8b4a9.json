@@ -1,0 +1,13 @@
+{
+  "source_page": "the-inn-between-form-990-record.md",
+  "requested_url": "https://projects.propublica.org/nonprofits/organizations/472329595",
+  "final_url": "https://projects.propublica.org/nonprofits/organizations/472329595",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:49:59.181Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "205385e292d5ae95cd7b27a5c624d8139e189316f0fe27f93b518184fcc13927",
+  "text_sha256": "6dbac1b8b4a9c2eb492c13d0a48cd7a8e2f3a843e0850c83b501b499bcecfdfd",
+  "text_chars": 21047,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

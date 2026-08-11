@@ -1,29 +1,41 @@
-# Official Website: Bioparin
+# University of Utah Technology Licensing Office: Bioparin STTR Grant
 
 **Type:** source
 **Status:** Useful
-**Confidence:** Low
-**Source Type:** Official Website
-**URL:** Unknown (search: Bioparin University of Utah)
-**Publisher:** Bioparin
-**Accessed:** 2026-06-19
+**Confidence:** Medium
+**Source Type:** official-page
+**URL:** https://technologylicensing.utah.edu/news-events/startups/bioparin-sttr-grant
+**Publisher:** University of Utah Technology Licensing Office
+**Retrieved:** 2026-08-11
+**Raw:** raw/bioparin-official-website/2026-08-11-b5a049acb318.txt
 **Updated:** 2026-06-19
 
 ## Summary
 
-A confirmed public website URL for Bioparin was not identified in the source material; the legacy intake record suggested searching "Bioparin University of Utah" to find current web presence. Bioparin is a University of Utah spinout, founded around 2023, working on synthetic heparin production. The company has received STTR federal funding. The scientific context for the venture — heparin supply chain fragility, the 2008 contamination crisis, and the technical challenge of synthetic polysaccharide biosynthesis — is well-documented in public sources. Claims specific to Bioparin's approach, team, and progress derive from U of U research spinout records and the STTR funding record.
+The University of Utah Technology Licensing Office describes Bioparin as a university spinout developing synthetic heparin and reports a $306,000 Phase I Small Business Technology Transfer grant supporting scale-up work.
 
 ## Useful Claims
 
-- Bioparin is a University of Utah spinout, founded around 2023.
-- The company has received STTR federal funding (early-stage non-dilutive).
-- Mission: produce heparin synthetically rather than extracting it from pig intestines.
-- Location: Salt Lake City, UT.
-- Stage: early; no major VC round publicly identified.
+- Bioparin is a University of Utah spinout.
+- The university reports that Bioparin received a $306,000 Phase I STTR grant.
+- The company aims to develop synthetic heparin as an alternative to animal-sourced production.
+- The grant supports large-scale heparin biomanufacturing work.
+
+## Verbatim
+
+> Bioparin, a University of Utah spinout, just received a $306,000 Phase I Small Business Technology Transfer (STTR) grant, a federal funding program that supports small businesses collaborating with research institutions to bring innovative technologies to market, to advance its groundbreaking work in synthetic heparin production.
+
+Locator: article body, introductory section.
+
+> Bioparin aims to eliminate reliance on animal-sourced heparin by developing a synthetic variant that offers greater safety, consistency, and availability.
+
+> The STTR grant will support large-scale heparin biomanufacturing, a challenge that has yet to be tackled.
+
+Locator: “Bioparin’s Solution: A Reliable, Scalable Alternative.”
 
 ## Reliability Notes
 
-Official website not confirmed. The 2008 heparin contamination crisis and the global supply chain context are well-documented through FDA public records and academic literature. Claims about Bioparin specifically — team, approach, and STTR phase — are low-confidence until confirmed from a primary source. The venture page notes this URL gap as an open question.
+This is an official university commercialization story, not Bioparin's own website or the federal award record. It is useful for the university relationship and the university's account of the grant, but the award amount and phase should ultimately be joined to the issuing federal record. It does not establish a founding year, headquarters, current operating status, or venture financing.
 
 ## Related Pages
 

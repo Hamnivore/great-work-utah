@@ -1,0 +1,113 @@
+How AI is uncovering hidden geothermal energy resources | MIT Technology Review
+Skip to Content
+MIT Technology Review
+Featured
+Topics
+Newsletters
+Events
+Audio
+MIT Technology Review
+Featured
+Topics
+Newsletters
+Events
+Audio
+Climate change and energy
+How AI is uncovering hidden geothermal energy resources
+Zanskar used AI tools to identify a site that could host a commercial power plant.
+By Casey Crownhart archive page
+December 4, 2025
+Zanskar used AI tools to help revive a New Mexico geothermal plant. Now, the company found a hotspot that could support a new power plant. Courtesy of Zanskar
+Sometimes geothermal hot spots are obvious, marked by geysers and hot springs on the planet’s surface. But in other places, they’re obscured thousands of feet underground. Now AI could help uncover these hidden pockets of potential power.
+A startup company called Zanskar announced today that it’s used AI and other advanced computational methods to uncover a blind geothermal system—meaning there aren’t signs of it on the surface—in the western Nevada desert. The company says it’s the first blind system that’s been identified and confirmed to be a commercial prospect in over 30 years.
+Historically, finding new sites for geothermal power was a matter of brute force. Companies spent a lot of time and money drilling deep wells, looking for places where it made sense to build a plant.
+Related Story
+This startup wants to use beams of energy to drill geothermal wells
+Read next
+Zanskar’s approach is more precise. With advancements in AI, the company aims to “solve this problem that had been unsolvable for decades, and go and finally find those resources and prove that they’re way bigger than previously thought,” says Carl Hoiland, the company’s cofounder and CEO.
+To support a successful geothermal power plant, a site needs high temperatures at an accessible depth and space for fluid to move through the rock and deliver heat. In the case of the new site, which the company calls Big Blind, the prize is a reservoir that reaches 250 °F at about 2,700 feet below the surface.
+As electricity demand rises around the world, geothermal systems like this one could provide a source of constant power without emitting the greenhouse gases that cause climate change.
+The company has used its technology to identify many potential hot spots. “We have dozens of sites that look just like this,” says Joel Edwards, Zanskar’s cofounder and CTO. But for Big Blind, the team has done the fieldwork to confirm its model’s predictions.
+The first step to identifying a new site is to use regional AI models to search large areas. The team trains models on known hot spots and on simulations it creates. Then it feeds in geological, satellite, and other types of data, including information about fault lines. The models can then predict where potential hot spots might be.
+Ask AI Why it matters to you? BETA
+Here’s why this story might matter to you, according to AI. This is a beta feature and AI hallucinates—it might get weird
+A location I care about is .
+Tell me why it matters
+Learn more about how we're using AI.
+One strength of using AI for this task is that it can handle the immense complexity of the information at hand. “If there’s something learnable in the earth, even if it’s a very complex phenomenon that’s hard for us humans to understand, neural nets are capable of learning that, if given enough data,” Hoiland says.
+Once models identify a potential hot spot, a field crew heads to the site, which might be roughly 100 square miles or so, and collects additional information through techniques that include drilling shallow holes to look for elevated underground temperatures.
+Related Story
+2025 Climate Tech Companies to Watch: Fervo Energy and its advanced geothermal power plants
+Read next
+In the case of Big Blind, this prospecting information gave the company enough confidence to purchase a federal lease, allowing it to develop a geothermal plant. With that lease secured, the team returned with large drill rigs and drilled thousands of feet down in July and August. The workers found the hot, permeable rock they expected.
+Next they must secure permits to build and connect to the grid and line up the investments needed to build the plant. The team will also continue testing at the site, including long-term testing to track heat and water flow.
+“There’s a tremendous need for methodology that can look for large-scale features,” says John McLennan, technical lead for resource management at Utah FORGE, a national lab field site for geothermal energy funded by the US Department of Energy. The new discovery is “promising,” McLennan adds.
+Big Blind is Zanskar’s first confirmed discovery that wasn’t previously explored or developed, but the company has used its tools for other geothermal exploration projects. Earlier this year, it announced a discovery at a site that had previously been explored by the industry but not developed. The company also purchased and revived a geothermal power plant in New Mexico.
+And this could be just the beginning for Zanskar. As Edwards puts it, “This is the start of a wave of new, naturally occurring geothermal systems that will have enough heat in place to support power plants.”
+by Casey Crownhart
+Share
+Share story on linkedin
+Share story on facebook
+Share story on email
+Popular
+A startup claims it broke through a bottleneck that’s holding back LLMs Will Douglas Heaven
+A fundamental flaw leaves LLMs strikingly vulnerable to attack Will Douglas Heaven
+Sperm donors need limits, says a European fertility group Jessica Hamzelou
+Inside interoception: The hidden sense of how you feel inside Katherine W. Isaacs
+Deep Dive
+Climate change and energy
+Four nuclear reactors hit a big milestone in the US
+Achieving criticality is just the first step toward power for the grid.
+By Casey Crownhart archive page
+Hacking the atmosphere: Geoengineering gets a reality check
+Researchers are starting to explore the tools and systems we need to develop to cool down the planet.
+By James Temple archive page
+These new solid-state ACs promise a cool future. Scientists aren’t so sure.
+A wave of unconventional coolers are making their way to the air-conditioning market—and aiming to dial down its emissions.
+By Sara Kiley Watson archive page
+Why heat pumps are still so hot in the US
+A key tax credit in the US ended, but heat pump sales are still going strong.
+By Casey Crownhart archive page
+Stay connected
+Illustration by Rose Wong
+Get the latest updates from
+MIT Technology Review
+Discover special offers, top stories,
+upcoming events, and more.
+Enter your email
+Privacy Policy Thank you for submitting your email!
+Explore more newsletters
+It looks like something went wrong.
+We’re having trouble saving your preferences.
+Try refreshing this page and updating them one
+more time. If you continue to get this message,
+reach out to us at
+customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+The latest iteration of a legacy
+Founded at the Massachusetts Institute of Technology in 1899, MIT Technology Review is a world-renowned, independent media company whose insight, analysis, reviews, interviews and live events explain the newest technologies and their commercial, social and political impact.
+READ ABOUT OUR HISTORY
+Advertise with MIT Technology Review
+Elevate your brand to the forefront of conversation around emerging technologies that are radically transforming business. From event sponsorships to custom content to visually arresting video storytelling, advertising with MIT Technology Review creates opportunities for your brand to resonate with an unmatched audience of technology and business elite.
+ADVERTISE WITH US
+© 2026 MIT Technology Review
+About
+About us
+Careers
+Custom content
+Advertise with us
+International Editions
+Republishing
+MIT Alumni News
+Help
+Help & FAQ
+My subscription
+Editorial guidelines
+Privacy policy
+Terms of Service
+Write for us
+Contact us
+linkedin opens in a new window
+instagram opens in a new window
+reddit opens in a new window
+facebook opens in a new window
+rss opens in a new window

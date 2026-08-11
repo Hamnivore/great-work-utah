@@ -1,0 +1,13 @@
+{
+  "source_page": "championx-us-synthetic-sale-announcement-2025.md",
+  "requested_url": "https://www.sec.gov/Archives/edgar/data/1723089/000119312525035322/d846941dex991.htm",
+  "final_url": "https://www.sec.gov/Archives/edgar/data/1723089/000119312525035322/d846941dex991.htm",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:59:39.678Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "23bc6cd11cdb01d4334994d50e3ad83d5e9af6f8525cf8c3f238d653a7736ee0",
+  "text_sha256": "51bfc7fafc47583b033adb2897338e827d594c6e0cbc1748bf9d73a6f5067c80",
+  "text_chars": 10243,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

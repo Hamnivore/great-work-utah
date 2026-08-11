@@ -2,10 +2,11 @@
 
 **Type:** venture
 **Status:** Draft
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense
 **Roles:** software-engineering, physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory
 **Stage:** Established; 80+ years on-site; public defense prime (NYSE: NOC)
+**Identifiers:** cik=0001133421, uei=LRVQERN7YNH9
 **Primary Location:** Promontory, UT
 **Utah Location:** Promontory, UT
 **Region:** Promontory
@@ -14,19 +15,20 @@
 **Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-06-19
-**Hero:** https://picsum.photos/seed/northrop-grumman-promontory-2026/1600/1100
 **Pull:** *The Utah facility where the solid rocket boosters for every Artemis Moon mission — and the solid stages for the US nuclear deterrent — are designed, built, and tested.*
 **Relates:** cites [Official Website: Northrop Grumman](northrop-grumman-promontory-official-website.md) · https://greatutah.work/pages/northrop-grumman-promontory-official-website.md · https://www.northropgrumman.com/what-we-do/space/missions/artemis/program
+**Relates:** cites [Source: Northrop Grumman Form 10-K, Fiscal Year 2025](northrop-grumman-10k-fy2025.md) · https://greatutah.work/pages/northrop-grumman-10k-fy2025.md · https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm
+**Relates:** cites [Source: NASA SLS Booster Contract NNM07AA75C](northrop-grumman-sls-booster-nasa-contract.md) · https://greatutah.work/pages/northrop-grumman-sls-booster-nasa-contract.md · https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE-
 
 ## Summary
 
-The Northrop Grumman facility at Promontory, Utah is the primary US manufacturing and test site for large segmented solid rocket motors. Operating continuously for over 80 years — predating Northrop's acquisition of ATK's propulsion division — the Promontory site builds the Space Launch System (SLS) solid rocket boosters for NASA's Artemis program and the solid propulsion stages for the Sentinel ICBM, the $140B+ replacement for the aging Minuteman III.
+The Northrop Grumman facility at Promontory, Utah is the primary US manufacturing and test site for large segmented solid rocket motors. Operating for decades — predating Northrop's acquisition of ATK's propulsion division — the Promontory site builds the Space Launch System solid rocket boosters for NASA's Artemis program and the solid propulsion stages for the Sentinel ICBM. A current federal acquisition record is needed before stating a total Sentinel program cost.
 
-This entry covers the Promontory facility as a Utah place of work with distinctive significance. It is not a startup and not a venture in the entrepreneurial sense. It is documented here because its work is civilizationally consequential, its Utah employment footprint (~5,000+ engineers and manufacturing personnel) anchors the northern Utah aerospace cluster, and it represents one of the clearest examples anywhere in the Mountain West of work that is genuinely irreplaceable.
+This entry covers the Promontory facility as a Utah place of work with distinctive significance. It is not a startup and not a venture in the entrepreneurial sense. It is documented here because its work is civilizationally consequential, its employment footprint anchors the northern Utah aerospace cluster, and it represents one of the clearest examples anywhere in the Mountain West of work that is genuinely irreplaceable. No captured source provides a site-level headcount.
 
 ## Impact
 
-Every Artemis mission lifts off on solid rocket boosters built at Promontory. Each SLS booster is 153 feet long, 12 feet in diameter, and produces approximately 3.6 million pounds of thrust. Together, the two boosters provide 75% of SLS's total liftoff thrust. The first humans to return to the Moon since Apollo will ride on fire originating from this facility.
+Every Artemis mission lifts off on solid rocket boosters built at Promontory. The boosters provide most of SLS's liftoff thrust, but their dimensions and thrust figures need a captured NASA technical source. The first humans to return to the Moon since Apollo will ride on fire originating from this facility.
 
 The 2024 successful test firing of the BOLE (Booster Obsolescence and Life Extension) motor — described by NASA as "the most powerful segmented solid rocket motor ever built" — represents a from-scratch engineering redesign increasing thrust and modernizing materials while maintaining human-rating. This is not maintenance work; it is frontier propulsion engineering conducted at a rural Utah site.
 
@@ -50,12 +52,14 @@ Not applicable in the startup-ecosystem sense. Northrop Grumman Promontory engag
 
 ## Utah Context
 
-The Promontory facility is one of Utah's largest single-site aerospace employers, with an estimated 5,000+ engineers and manufacturing personnel in Box Elder County. It anchors the northern Utah aerospace cluster and gives the 47G aerospace association much of its gravity. The facility's presence in rural northern Utah has created a decades-long pipeline of aerospace engineering careers that does not require moving to Florida, Texas, or California.
+The Promontory facility is one of Utah's largest single-site aerospace employers, though no site-level headcount has been captured. It anchors the northern Utah aerospace cluster and gives the 47G aerospace association much of its gravity. The facility's presence in rural northern Utah has created a decades-long pipeline of aerospace engineering careers that does not require moving to Florida, Texas, or California.
 
 The ethical dimension of defense-prime and nuclear-weapons work deserves acknowledgment: this wiki documents the work as significant and employing, while noting that individual contributors should think carefully about the specific programs they work on.
 
 ## Evidence
 
+- [Source: NASA SLS Booster Contract NNM07AA75C](northrop-grumman-sls-booster-nasa-contract.md) · https://greatutah.work/pages/northrop-grumman-sls-booster-nasa-contract.md · https://www.usaspending.gov/award/CONT_AWD_NNM07AA75C_8000_-NONE-_-NONE- — a $4,430,784,857 NASA five-segment-booster contract performed at 9160 N Hwy 83, Corinne (Box Elder County), currently modified as "SPACE LAUNCH SYSTEM (SLS) BOOSTER" and awarded sole-source
+- [Source: Northrop Grumman Form 10-K, Fiscal Year 2025](northrop-grumman-10k-fy2025.md) · https://greatutah.work/pages/northrop-grumman-10k-fy2025.md · https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm — Corinne, UT among Space Systems' major operating locations; SLS booster and Sentinel EMD as segment key programs; the $13.3 billion 2020 Sentinel EMD award and its Nunn-McCurdy review
 - [Official Website: Northrop Grumman](northrop-grumman-promontory-official-website.md) · https://greatutah.work/pages/northrop-grumman-promontory-official-website.md · https://www.northropgrumman.com/what-we-do/space/missions/artemis/program
 
 ## See Also
@@ -64,6 +68,8 @@ The ethical dimension of defense-prime and nuclear-weapons work deserves acknowl
 
 ## Open Questions
 
+- Several figures formerly on this page were not carried by either primary source and were removed: booster dimensions and thrust, total Sentinel program cost, and site-level Utah headcount. NASA technical documentation, an Air Force or GAO acquisition report, and Utah workforce data would settle them.
+- The award record and the 10-K both say **Corinne**, not Promontory — Corinne is the plant's postal city. Whether the wiki should title this page by the plant name or the postal city is a naming question worth settling once, since search traffic and federal records disagree.
 - What is the current Sentinel ICBM production schedule and what does Promontory's role look like through the 2030s?
 - What is the BOLE motor's planned transition timeline for operational Artemis missions replacing the legacy SLS booster?
 - How has the Promontory workforce changed under Northrop ownership compared to the legacy ATK/Thiokol era?

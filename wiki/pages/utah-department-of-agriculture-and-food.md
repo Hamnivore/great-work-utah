@@ -13,7 +13,6 @@
 **Location Source:** https://gopb.utah.gov/wp-content/uploads/2024/02/ERG2024.pdf
 **Website:** https://ag.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

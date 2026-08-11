@@ -1,0 +1,13 @@
+{
+  "source_page": "wgu-accreditation.md",
+  "requested_url": "https://www.wgu.edu/about/accreditation.html",
+  "final_url": "https://www.wgu.edu/student-experience/how-you-learn/accreditation.html",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:47:24.995Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "d57a45eb08881582247e41e805714077509996ef93e6b01673f62e67ebe07500",
+  "text_sha256": "2639c6f6f51084145b7513cbb8e9cfea06a8b18837b25f484a1db33c74ca44ef",
+  "text_chars": 35993,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

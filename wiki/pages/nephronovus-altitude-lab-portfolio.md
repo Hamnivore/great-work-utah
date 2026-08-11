@@ -3,11 +3,14 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Low
-**Source Type:** Incubator Portfolio Listing
+**Source Type:** official-page
 **URL:** https://altitudelab.org/portfolio
+**Archive:** https://web.archive.org/web/20260416022113/https://altitudelab.org/portfolio
+**Archived:** 2026-04-16
 **Publisher:** Altitude Lab
-**Accessed:** 2026-06-19
-**Updated:** 2026-06-19
+**Raw:** raw/nephronovus-altitude-lab-portfolio/2026-08-11-2f9082033866.txt
+**Retrieved:** 2026-08-11
+**Updated:** 2026-08-11
 
 ## Summary
 
@@ -20,12 +23,29 @@ Altitude Lab's public portfolio lists NephroNovus as a therapeutics company esti
 - Listed estimated founding year: **2023**.
 - Listed Altitude Lab status: **Alumni** (not currently listed as Resident).
 - Portfolio tagline: "Pioneering the battle against chronic kidney disease by exploring groundbreaking biochemical pathways and utilizing advanced computational techniques."
-- Altitude Lab resident story (April 18, 2025, by Kevin Yang) states NephroNovus targets **renal fibrosis** as a driver of chronic kidney disease progression and describes a father–son co-founding team (Kevin Yang on business/strategy; his father as scientific foundation). That article links to `https://www.altitudelab.org/companies/nephronovus` for more detail; the company profile page did not expose additional structured pipeline data when accessed during migration.
-- A minimal site at `https://www.nephronovus.com/` exists (branding/placeholder layout only); it does not publish mechanism, program, or team details on pages reviewed.
+- A linked Altitude Lab resident story by Kevin Yang states NephroNovus targets **renal fibrosis** as a driver of chronic kidney disease progression and describes a father–son co-founding team — per the linked [resident story](https://altitudelab.org/articles/building-a-startup-with-my-dad-lessons-in-family-boundaries-and-trust), not this portfolio capture.
+- A minimal site at `https://www.nephronovus.com/` exists (branding/placeholder layout only); this capture does not include that site.
+
+## Verbatim
+
+> "Pioneering the battle against chronic kidney disease by exploring groundbreaking biochemical pathways and utilizing advanced computational techniques."
+> — Portfolio page, NephroNovus entry
+
+> "NephroNovus"
+> — Portfolio page, company name
+
+> "Therapeutics"
+> — Portfolio page, industry tag
+
+> "Alumni"
+> — Portfolio page, status tag
+
+> "Est. 2023"
+> — Portfolio page, founding year
 
 ## Reliability Notes
 
-Portfolio listings validate incubator association and high-level positioning, not clinical data, financing, or reproducible science. Alumni status suggests the company completed or exited Altitude Lab residency — this may differ from older intake notes describing active incubation. No peer-reviewed publications, patents, or regulatory filings tying specific assets to NephroNovus were captured in this source record. Team size, disclosed funding, and lead compounds remain unknown in primary materials reviewed.
+Portfolio listings validate incubator association and high-level positioning, not clinical data, financing, or reproducible science. Alumni status suggests the company completed or exited Altitude Lab residency — this may differ from older intake notes describing active incubation. Resident-story claims about renal fibrosis and the co-founding team come from a separate Altitude Lab article linked in See Also; they are not present in this portfolio capture. No peer-reviewed publications, patents, or regulatory filings tying specific assets to NephroNovus were captured in this source record. Team size, disclosed funding, and lead compounds remain unknown in primary materials reviewed.
 
 ## Related Pages
 

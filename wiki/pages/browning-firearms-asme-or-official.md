@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Engineering Landmark
+**Source Type:** official-page
 **URL:** https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
+**Archive:** https://web.archive.org/web/20260418014308/https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
+**Archived:** 2026-04-18
 **Publisher:** American Society of Mechanical Engineers
-**Accessed:** 2026-06-18
+**Raw:** raw/browning-firearms-asme-or-official/2026-08-11-fe0980f77b71.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -20,6 +23,21 @@ ASME's Browning Firearms Collection landmark page recognizes John Moses Browning
 - ASME says Browning held more than 128 patents covering 80 distinct firearms.
 - ASME lists major manufacturers of Browning designs, including Winchester, Remington, Colt, Fabrique Nationale, Savage, and General Motors during wartime.
 - ASME says Browning was born in Ogden, Utah, established an arms factory there with five brothers, and designed firearms in several Ogden workshops.
+
+## Verbatim
+
+> "This collection recognizes the inventive talents of John Moses Browning (1855-1926), a prolific and
+> significant designer of sporting and military firearms, whose designs were known for simplicity,
+> accuracy, and reliability."
+> — Landmark page, main description
+
+> "He held more than 128 patents covering 80 distinct firearms produced by Winchester, Remington, Colt,
+> Fabrique Nationale, Savage, and General Motors (during wartime), among others."
+> — Landmark page, main description
+
+> "Son of a gunsmith, John Browning was born in Ogden, Utah, and established an arms factory there
+> with five brothers."
+> — Landmark page, biography paragraph
 
 ## Reliability Notes
 

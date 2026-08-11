@@ -14,16 +14,15 @@
 **Careers:** https://job-boards.greenhouse.io/valaratomics
 **Website:** https://www.valaratomics.com
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/valar-atomics-2026/1600/1100
 **Pull:** *A C-17-airlifttable nuclear reactor with physics-safe TRISO fuel — bringing baseload power to wherever the grid doesn't reach.*
 **Relates:** cites [Official Website: Valar Atomics](valar-atomics-official-website.md) · https://greatutah.work/pages/valar-atomics-official-website.md · https://www.valaratomics.com
 **Relates:** cites [ANS News: Valar Atomics Breaks Ground in Utah](valar-atomics-ans-groundbreaking.md) · https://greatutah.work/pages/valar-atomics-ans-groundbreaking.md · https://www.ans.org/news/2025-09-25/article-7408/valar-atomics-breaks-ground-in-utah/
 
 ## Summary
 
-Valar Atomics is a San Jose company building the Ward 250 — a 100 kWt high-temperature gas reactor (HTGR) that fits inside a C-17 cargo aircraft and can be airlifted to remote deployment sites. Founded around 2022 by CEO Isaiah Taylor, the company has raised $19M in seed funding. The Ward 250 uses TRISO fuel, which encases each uranium particle in ceramic layers making meltdown physically impossible by design. Valar is building a test reactor at the Utah San Rafael Energy Lab in Emery County, Utah, with a stated goal of achieving first criticality by July 4, 2026.
+Valar Atomics is a California company building the Ward 250, a high-temperature gas reactor using TRISO fuel and helium cooling. The company is building a test reactor at the Utah San Rafael Energy Lab in Emery County ([ANS source](valar-atomics-ans-groundbreaking.md)). The captured sources do not support the previously stated thermal output, aircraft-fit claim, seed funding, founding date, or criticality deadline.
 
-For the wiki, Valar matters because it represents a fundamentally different nuclear scale: not SMRs (100–300 MW), not large plants, but 100 kW units deployable to remote industrial sites, military forward operating bases, and eventually communities without grid access.
+For the wiki, Valar matters because it proposes a fundamentally different, transportable nuclear scale intended for remote industrial and defense uses. Its exact output and deployment envelope still need captured technical evidence.
 
 ## Impact
 
@@ -35,7 +34,7 @@ The July 4, 2026 test reactor milestone, if achieved, would be a meaningful vali
 
 ## What They Are Building
 
-The Ward 250 is a 100 kWt HTGR using TRISO fuel and helium as the working fluid. The design target is air transportability in a C-17 Globemaster III — a constraint that drives the form factor to be genuinely compact. The test reactor at San Rafael Energy Lab in Emery County, Utah is the first physical realization of this design, built to validate the nuclear physics and obtain NRC licensing data for future commercial deployment.
+The Ward 250 is an HTGR using TRISO fuel and helium cooling ([ANS source](valar-atomics-ans-groundbreaking.md)). The test reactor at San Rafael Energy Lab in Emery County is the first physical realization of this design, intended to validate the nuclear physics and support future licensing work. Air-transportability and output claims need a captured technical source.
 
 ## What They Need Now
 Hiring runs heavy for both Hawthorne, CA engineering and the Orangeville, Utah site build-out: construction quality inspectors and supervisors, infrastructure leadership, fuel-plant process technicians, health physicists and HPTs, I&C and maintenance technicians, nuclear operations management, QA laboratory roles, and nuclear supplier-quality engineers. Utah talent is most relevant for site construction, nuclear operations, health physics, and quality at the pilot plant; HQ/design roles remain California-centered.

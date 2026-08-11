@@ -1,0 +1,13 @@
+{
+  "source_page": "flys-eye-hires-cosmic-rays-source.md",
+  "requested_url": "https://science.utah.edu/faculty/why-scientists-havent-solved-the-mystery-of-the-oh-my-god-particle/",
+  "final_url": "https://science.utah.edu/faculty/why-scientists-havent-solved-the-mystery-of-the-oh-my-god-particle/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:43.348Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "21ef770b9e351e38af457d8c73ae19eeedb9e31a5dca75ebe4fda272e9d12587",
+  "text_sha256": "29278e1f8ffb37162b9c9dc0a924dbc4e130758f4d5dc791d8c3b534ee7abb42",
+  "text_chars": 4056,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -2,7 +2,7 @@
 
 **Type:** work
 **Status:** Draft
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** healthcare delivery science, clinical quality improvement, learning health system, process control
 **Era:** late 1980s-present; clinical-process "active management" initiative began 1996
 **Primary Location:** Salt Lake City, UT
@@ -13,9 +13,12 @@
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=LDS+Hospital+8th+Avenue+and+C+Street+Salt+Lake+City+UT
 **Website:** https://en.wikipedia.org/wiki/Intermountain_Health
-**Updated:** 2026-07-14
+**Domain:** health-bio
+**Updated:** 2026-08-11
 **Pull:** *A Utah health system treated care delivery itself as something to measure, engineer, and improve — without flattening clinical judgment.*
-**Relates:** cites [Source: Intermountain Clinical Quality Improvement Sources](intermountain-clinical-quality-improvement-sources.md) · https://greatutah.work/pages/intermountain-clinical-quality-improvement-sources.md · https://en.wikipedia.org/wiki/Intermountain_Health
+**Relates:** cites [Source: Intermountain Health (Wikipedia)](intermountain-health-wikipedia.md) · https://greatutah.work/pages/intermountain-health-wikipedia.md · https://en.wikipedia.org/wiki/Intermountain_Health
+**Relates:** cites [Source: How Intermountain Trimmed Health Care Costs (Health Affairs, 2011)](intermountain-quality-cost-health-affairs-2011.md) · https://greatutah.work/pages/intermountain-quality-cost-health-affairs-2011.md · https://doi.org/10.1377/hlthaff.2011.0358
+**Relates:** cites [Source: Integrated Team-Based Care at Intermountain (JAMA, 2016)](intermountain-team-based-care-jama-2016.md) · https://greatutah.work/pages/intermountain-team-based-care-jama-2016.md · https://doi.org/10.1001/jama.2016.11232
 
 ## Summary
 
@@ -61,15 +64,16 @@ Utah is an unusually good place for this kind of work because Intermountain is a
 
 ## Evidence
 
-- [Source: Intermountain Clinical Quality Improvement Sources](intermountain-clinical-quality-improvement-sources.md) · https://greatutah.work/pages/intermountain-clinical-quality-improvement-sources.md · https://en.wikipedia.org/wiki/Intermountain_Health
+- [Source: Intermountain Health (Wikipedia)](intermountain-health-wikipedia.md) · https://greatutah.work/pages/intermountain-health-wikipedia.md · https://en.wikipedia.org/wiki/Intermountain_Health — encyclopedic background on the health system's scale and national reputation; does not document the quality-improvement program itself
 - [Intermountain Health: Advanced Training Program (ATP)](https://intermountainhealthcare.org/for-professionals/hdi/atp) · https://intermountainhealthcare.org/for-professionals/hdi/atp
 - [AcademyHealth: Brent James, M.D., M.Stat. bio](https://academyhealth.org/about/people/brent-james-md-mstat) · https://academyhealth.org/about/people/brent-james-md-mstat
 - [AHRQ PSNet: In Conversation with Brent C. James](https://psnet.ahrq.gov/perspective/conversation-withbrent-c-james-md-mstat) · https://psnet.ahrq.gov/perspective/conversation-withbrent-c-james-md-mstat
-- [Health Affairs: How Intermountain Trimmed Health Care Costs Through Robust Quality Improvement Efforts](https://doi.org/10.1377/hlthaff.2011.0358) · https://doi.org/10.1377/hlthaff.2011.0358
-- [PubMed: Integrated team-based care at Intermountain](https://pubmed.ncbi.nlm.nih.gov/27552616/) · https://pubmed.ncbi.nlm.nih.gov/27552616/
+- [Source: How Intermountain Trimmed Health Care Costs (Health Affairs, 2011)](intermountain-quality-cost-health-affairs-2011.md) · https://greatutah.work/pages/intermountain-quality-cost-health-affairs-2011.md · https://doi.org/10.1377/hlthaff.2011.0358 — the 1988 start, the variation-management mechanism, and the obstetric protocol's estimated $50 million annual Utah saving, from the program's own leaders in a peer-reviewed journal
+- [Source: Integrated Team-Based Care at Intermountain (JAMA, 2016)](intermountain-team-based-care-jama-2016.md) · https://greatutah.work/pages/intermountain-team-based-care-jama-2016.md · https://doi.org/10.1001/jama.2016.11232 — measured quality, utilization, and cost differences across 27 team-based and 75 traditional primary care practices, including one measure that moved the wrong way
 
 ## Open Questions
 
-- Much of the work was implemented operationally rather than as randomized trials, so the evidence base is uneven; pages that cite specific outcome improvements should source each claim carefully.
+- Much of the work was implemented operationally rather than as randomized trials, so the evidence base is uneven; pages that cite specific outcome improvements should source each claim carefully. The strongest published evidence, the 2016 *JAMA* cohort study, reports associations inside one system, not causal effects.
 - Not every lesson transfers to fragmented markets or hospitals without comparable data infrastructure; results also depend on local culture, leadership, and payer structure.
-- Confirm current ATP scale figures (graduate counts, number of sister programs) against Intermountain's latest published numbers before citing exact totals.
+- Confirm current ATP scale figures (graduate counts, number of sister programs) against Intermountain's latest published numbers before citing exact totals. These remain the page's least-supported claims: they are Intermountain's own reporting, and no primary record on this page carries them.
+- Three specifics still rest on secondary or self-reported material rather than the two papers cited here: the **1996** extension of "active management" to prioritized clinical processes and the count of processes brought under it; the claim that Brent James arrived in Utah in **1986** from the Harvard School of Public Health; and the ATP's alumni and sister-program totals. The 2011 paper dates the program to 1988 and does not enumerate processes. A later peer-reviewed Intermountain methods paper, or the Institute for Health Care Delivery Research's published program documentation, is where each of these should be sourced.

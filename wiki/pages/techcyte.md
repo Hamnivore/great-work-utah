@@ -4,7 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, life sciences
-**Roles:** software-engineering, biology-life-sciences, clinical-regulatory
+**Roles:** software-engineering, data-science, biology-life-sciences, clinical-regulatory
 **Stage:** Private, late growth; $15M raise closed April 2026
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
@@ -18,7 +18,6 @@
 **Domain:** health-bio, computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/techcyte-digital-pathology-fusion-2026/1600/1100
 **Pull:** *AI that reads digitized slides so scarce pathologists can spend their time on the hard cases.*
 
 ## Summary

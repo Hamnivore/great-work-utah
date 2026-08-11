@@ -9,7 +9,6 @@
 **Region:** Davis County
 **Website:** https://startup.utah.gov/resources/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

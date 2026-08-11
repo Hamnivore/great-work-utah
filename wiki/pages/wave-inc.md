@@ -14,7 +14,6 @@
 **Careers:** https://www.wavecharging.com/careers
 **Website:** https://www.wavecharging.com/
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/wave-inc-2026/1600/1100
 **Pull:** *Charging pads embedded in the road, so bus drivers never touch a cable — removing the operational friction that stalls fleet electrification.*
 **Relates:** cites [Official Website: WAVE Charging](wave-inc-official-website.md) · https://greatutah.work/pages/wave-inc-official-website.md · https://www.wavecharging.com/
 

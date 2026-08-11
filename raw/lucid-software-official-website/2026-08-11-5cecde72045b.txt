@@ -1,0 +1,438 @@
+Visual Collaboration | Lucid PINGDOM_CANARY_STRING Skip to Content
+Products Products
+Lucidchart
+Intelligent diagramming
+Lucidspark
+Virtual whiteboarding
+airfocus
+Product management and roadmapping
+Lucid Suite add-ons
+Cloud Accelerator
+Better understand and plan future changes to your cloud infrastructure.
+Process Accelerator
+Standardize and improve governance of process documentation.
+Enterprise Shield
+Add an enhanced layer of fortified security and granular control.
+More info
+AI
+Integrations
+Developer platform
+Professional services
+Security
+Platform overview
+Solutions By initiative
+Digital transformation
+Cloud migration
+Hybrid teams
+AI transformation
+Agile
+By team
+IT
+Engineering
+Product & UX
+Project management
+Operations
+By industry
+Public sector
+Education
+Consulting services
+Healthcare
+Financial Services
+View More
+Resources Getting started
+Help Center
+Lucid Training Labs
+User community
+Templates
+Webinars
+Lucid Blog
+E-books
+Customer stories
+Diagramming resources
+Collaboration resources
+Agile resources
+Company About us
+Careers
+Newsroom
+Contact us
+Enterprise
+Log in
+Contact sales
+Sign up free
+Menu
+Log in
+Contact sales
+Sign up free
+Visual collaboration for effective teamwork
+A work acceleration platform powered by visual collaboration, Lucid brings everyone and everything together. Capture and execute the full picture of work.
+Contact sales
+Capabilities
+Accelerate work from strategy through execution.
+Collaboration
+Work across teams to accomplish common business goals. You can:
+Easily share boards, documents, and permissions with all the right people.
+Facilitate real-time coordination and decision-making in a shared space.
+Create visuals and capture ideas faster with pre-made templates.
+Gauge team sentiment and get aligned with Visual Activities.
+Lucid AI and automation
+Empower teams to maximize efficiency and output. You can:
+Generate ideas and diagrams automatically from text prompts and files.
+Sort, gather, and summarize content on your Lucid canvas.
+Leverage an AI assistant to accomplish work in a conversational way.
+Shared workspaces
+Provide a real-time environment where people can collaborate and access team resources. You can:
+Organize teams and centralize documents with team hubs.
+Pin a dedicated team space that provides a starting point for coordination and information sharing.
+Specify user access levels to team hubs and shared documents.
+Switch between purpose-built tools in Lucidchart and Lucidspark using universal canvas.
+Facilitation and ideation
+Create a collaborative space where teams can brainstorm in real time. You can:
+Keep everyone engaged and on track with powerful Facilitator Tools and Controls, such as voting, private mode, laser pointer, and timer.
+Give contextual feedback with comments and @mentions.
+Convert boards into slide decks with the presentation builder, and use paths to guide participants through content on your board.
+Add breakout boards to enable small group work and discussion.
+Project planning
+Move seamlessly from ideation to planning and action. You can:
+Create Timelines to visualize future plans.
+Add Dynamic Tables to organize ideas and plan visually.
+Plan, organize, and assign tasks with Lucid Cards.
+Estimate the effort required for tasks with team estimation activities.
+Maintain Agile principles by facilitating collaborative, engaging events.
+Data-driven diagrams
+Connect diagrams to data sources and put complex data in context. You can:
+Import data to auto-generate org charts and entity relationship diagrams (ERDs).
+Link diagrams to dynamic external data sources.
+Add conditional formatting rules to provide visual cues based on data.
+Apply formulas to diagrams and associated metadata.
+Diagram as code with Mermaid.
+Solutions for every team
+Collaborate, get aligned, and drive large-scale change across your organization.
+Digital transformation
+Imagine new ways of doing business. Effectively coordinate organization-wide initiatives.
+Learn more
+Product development
+Ideate and plan in a collaborative space. Prioritize work and clarify complex tasks and systems.
+Learn more
+Hybrid teams
+Give dispersed teams a flexible way to connect and collaborate. Boost productivity and transparency.
+Learn more
+Agile
+Facilitate engaging Agile events and collaborate more effectively. Maintain Agile values and principles.
+Learn more
+AI transformation
+Plan and collaborate on AI initiatives. Create the documentation AI agents need to work effectively.
+Learn more
+Cloud migration
+Visualize infrastructure and supporting systems. Design, plan, and collaborate on future changes.
+Learn more
+Lucid products
+Together, Lucidchart for intelligent diagramming and Lucidspark for virtual whiteboarding provide an end-to-end solution for visual collaboration.
+Intelligent diagramming
+Visualize complex ideas, systems, and processes. Build next-generation diagrams with AI, data, and automation.
+Learn more
+Virtual whiteboarding
+Ideate, design, and move into action. Maximize team connection, collaboration, and creativity on an infinite canvas.
+Learn more
+Integrations
+Better collaboration for your apps, too
+With more than 100 custom-built integrations (and counting), Lucid works seamlessly with the apps you already use. Select one below to learn more.
+Go to integrations marketplace
+The following section contains a long list of integration links. Press ESCAPE at any time to skip to the next section
+Zight
+Streamline Icons, Illustrations, Emojis and Elements
+Lucid Cards for Google Sheets
+Anecdotes
+Microsoft Graph Connector
+Optro
+TrackerCheck CMS Integration
+Atlassian Rovo
+Dropbox Embedded Links
+Reco
+Dash AI
+Slack
+ServiceNow
+Gmail
+OneDrive
+Google Sheets
+Zoom
+Google Cloud
+Lucid Cards for Smartsheet (New)
+Google Classroom
+Craft.io
+SCIM
+airfocus Embed
+Embedly
+Lucid MCP for Github and VS Code Copilot
+Microsoft Word
+FloQast
+Coda
+Brandfetch
+Post-it®
+Microsoft Excel Embedded Links
+Dropbox Paper
+Microsoft Teams
+GitBook
+Microsoft PowerPoint
+Jira Embed
+Lucid Cards for Jira
+Microsoft Word Embedded Links
+Zight
+Streamline Icons, Illustrations, Emojis and Elements
+Lucid Cards for Google Sheets
+Anecdotes
+Microsoft Graph Connector
+Optro
+TrackerCheck CMS Integration
+Atlassian Rovo
+Dropbox Embedded Links
+Reco
+Dash AI
+Slack
+ServiceNow
+Gmail
+OneDrive
+Google Sheets
+Zoom
+Google Cloud
+Lucid Cards for Smartsheet (New)
+Google Classroom
+Craft.io
+SCIM
+airfocus Embed
+Embedly
+Lucid MCP for Github and VS Code Copilot
+Microsoft Word
+FloQast
+Coda
+Brandfetch
+Post-it®
+Microsoft Excel Embedded Links
+Dropbox Paper
+Microsoft Teams
+GitBook
+Microsoft PowerPoint
+Jira Embed
+Lucid Cards for Jira
+Microsoft Word Embedded Links
+Zoho Cliq
+Lucid MCP for Cursor
+Nuclino
+Asana
+Lucid Cards for airfocus
+Google Calendar
+Lucid Cards for Smartsheet
+Resmo
+GIPHY
+Google Docs
+Cisco Interactive Whiteboards
+Canvas by Lucid Software
+Quip
+Google Drive
+Google Meet
+SAML
+Okta
+Webex
+Process Triage Facilitator Portal Lucid Extension
+Google Slides
+Ardoq
+Zoho Connect
+Google Meet Interactive Whiteboards
+SAP Business Technology Platform Service Icons
+Rental Car Manager
+Atlassian Smart Link Resolver
+AWS
+GRID
+SAP LeanIX
+Lucid Cards for Asana
+Confluence
+Orbus
+Lucid Cards for Azure DevOps
+Obsidian Security
+GoSearch
+Google Chat
+Dropbox Dash
+Avocor
+Zoho Cliq
+Lucid MCP for Cursor
+Nuclino
+Asana
+Lucid Cards for airfocus
+Google Calendar
+Lucid Cards for Smartsheet
+Resmo
+GIPHY
+Google Docs
+Cisco Interactive Whiteboards
+Canvas by Lucid Software
+Quip
+Google Drive
+Google Meet
+SAML
+Okta
+Webex
+Process Triage Facilitator Portal Lucid Extension
+Google Slides
+Ardoq
+Zoho Connect
+Google Meet Interactive Whiteboards
+SAP Business Technology Platform Service Icons
+Rental Car Manager
+Atlassian Smart Link Resolver
+AWS
+GRID
+SAP LeanIX
+Lucid Cards for Asana
+Confluence
+Orbus
+Lucid Cards for Azure DevOps
+Obsidian Security
+GoSearch
+Google Chat
+Dropbox Dash
+Avocor
+Microsoft Excel
+Lucid Microsoft 365 Excel Integration [Beta]
+Lucid MCP for ChatGPT
+Seezo.io
+Lucid MCP for Glean
+Confluence Cloud Embedded Links
+Loom
+Lucid MCP for Claude
+UVexplorer
+Microsoft SharePoint
+ProcessMaker
+Google Embedded Links
+Box Embedded Links
+Rewatch
+Slack Workflow Steps for Lucid
+Figma
+Lucid Cards for monday.com
+Microsoft PowerPoint Embedded Links
+Scroll Viewport for Confluence
+Cosmo
+Neat
+Icons8 Graphics
+Notion
+Microsoft (Azure/ADFS)
+Salesforce
+Lucid MCP server
+Lucid Cards for Airtable
+BambooHR
+Zoom Rooms Interactive Whiteboards
+Lucid MCP for Codex
+OneLogin
+Comak by JIBB
+Azure
+Falcon Shield
+Microsoft Copilot
+Vectary
+Zoom
+Microsoft Excel
+Lucid Microsoft 365 Excel Integration [Beta]
+Lucid MCP for ChatGPT
+Seezo.io
+Lucid MCP for Glean
+Confluence Cloud Embedded Links
+Loom
+Lucid MCP for Claude
+UVexplorer
+Microsoft SharePoint
+ProcessMaker
+Google Embedded Links
+Box Embedded Links
+Rewatch
+Slack Workflow Steps for Lucid
+Figma
+Lucid Cards for monday.com
+Microsoft PowerPoint Embedded Links
+Scroll Viewport for Confluence
+Cosmo
+Neat
+Icons8 Graphics
+Notion
+Microsoft (Azure/ADFS)
+Salesforce
+Lucid MCP server
+Lucid Cards for Airtable
+BambooHR
+Zoom Rooms Interactive Whiteboards
+Lucid MCP for Codex
+OneLogin
+Comak by JIBB
+Azure
+Falcon Shield
+Microsoft Copilot
+Vectary
+Zoom
+Frequently asked questions
+Learn more about visual collaboration.
+How does the Lucid Visual Collaboration Suite support hybrid teams?
+The Lucid Suite provides a shared virtual space where teams can collaborate from anywhere in real time or asynchronously. Lucid’s interactive capabilities—Visual Activities, breakout boards, voting, emoji reactions, team estimation activities, and more—keep participants engaged and on track. They also foster connection, which is difficult to cultivate among dispersed teams. As a visual platform, Lucid enables collaborators to facilitate meetings and brainstorming sessions, clarify complex information, create and share documentation, and make informed decisions faster.
+Learn more
+What integrations does Lucid support for connecting with task management platforms?
+Lucid integrates with leading task and project management platforms, including airfocus, Airtable, Asana, Azure DevOps, Confluence, Jira, monday.com, and Smartsheet.
+Learn more
+How do team hubs and shared workspaces facilitate project planning?
+Team hubs provide a shared space for centralizing resources and documentation. Within a team hub, you can pin a team space that serves as a home base for coordination. The team space provides a shared workspace where team members can organize content and resources, assign tasks, monitor progress, and more.
+Learn more
+What features are available for managing sharing and permissions in Lucid?
+You can share documents, boards, and folders from your Lucid home page and from within the editor. You can also use a Join ID that allows collaborators to access a document or board for a limited window of time. To manage permissions for collaborators, you can grant access to edit and share, edit, comment, or view. Additionally, within team hubs, team roles and permissions allow users to assign the right level of access to the team and to shared documents within the hub.
+Learn more
+What templates are available to help hybrid teams get started quickly?
+Depending on what your hybrid team is trying to accomplish, any of Lucid’s templates can help you get started faster. To find the right template for your needs, search the Lucid template gallery by keyword or browse by category, including brainstorming, meetings and workshops, teams and organizations, and more.
+Learn more
+How do I use breakout boards in Lucidspark?
+You can add up to 50 breakout boards to your main Lucidspark board. After you select to start a breakout session from the breakout board panel, all breakout boards will be visible to participants and they can select a board to join.
+Learn more
+How can I enable team folders in Lucidchart?
+Team folders can be enabled in Lucidchart for Enterprise users. Lucid admins can choose to allow anyone in the org to create team folders or limit this functionality to admins. Once a team folder is created, you can invite other team members to collaborate by right-clicking on the team folder or any document within the team folder and selecting to share it.
+Learn more
+Collaborate visually with Lucid
+Contact sales
+Get Started
+Enterprise
+Contact Sales
+Pricing
+Products
+Lucidspark
+Lucidchart
+airfocus
+Integrations
+Solutions
+Digital transformation
+Cloud migration
+New product development
+AI transformation
+Diagramming resources
+Collaboration resources
+View more
+Company
+About us
+Newsroom
+Careers
+Contact us
+Customer stories
+Accessibility
+Resources
+Developers
+Security
+Support
+Lucid Training Labs
+User community
+Partners
+Newsletter
+Release notes
+en Deutsch
+English
+Español
+Français
+Italiano
+日本語
+한국인
+Nederlands
+Polski
+Português
+Pусский
+Svenska
+Privacy Legal Cookie privacy choices Cookie policy Your privacy choices
+© 2026 Lucid Software Inc.

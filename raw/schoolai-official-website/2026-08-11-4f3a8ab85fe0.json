@@ -1,0 +1,13 @@
+{
+  "source_page": "schoolai-official-website.md",
+  "requested_url": "https://schoolai.com",
+  "final_url": "https://schoolai.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:33.921Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "6313c4e8ce84cb4ea757055f892c418c87678cf32a1d1185fb6539d97ced6321",
+  "text_sha256": "4f3a8ab85fe025ab91ca1877e508573aed118be9dbd76ec059ce0fe094a83d0a",
+  "text_chars": 11387,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

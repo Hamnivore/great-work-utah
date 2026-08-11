@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://www.carbon.utah.gov/department/economic-development/
 **Website:** https://www.carbon.utah.gov/department/economic-development/
-**Layout:** field-guide
 
 ## Summary
 

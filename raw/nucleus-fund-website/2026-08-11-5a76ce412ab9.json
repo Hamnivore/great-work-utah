@@ -1,0 +1,13 @@
+{
+  "source_page": "nucleus-fund-website.md",
+  "requested_url": "https://www.nucleusfundutah.com/",
+  "final_url": "https://www.nucleusfundutah.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:17.377Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "1e691cfbaad23ce8c688b1d3b17010d65c7151e549bfe65ee756fe5404727c0b",
+  "text_sha256": "5a76ce412ab93c82d9d5b00cb0f459383531b784e67e8a3948e7af063737cd84",
+  "text_chars": 947,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

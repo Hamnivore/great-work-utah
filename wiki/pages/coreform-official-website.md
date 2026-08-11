@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://coreform.com
+**Archive:** https://web.archive.org/web/20260520102520/https://coreform.com/
+**Archived:** 2026-05-20
 **Publisher:** Coreform LLC
-**Accessed:** 2026-06-19
+**Raw:** raw/coreform-official-website/2026-08-11-e8ce99afc913.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -21,6 +24,17 @@ Coreform's official website describes isogeometric analysis (IGA) software for r
 - Use cases highlighted on the site span nuclear energy, automotive development, and other engineering domains.
 - The site publishes customer testimonials from engineering analysts describing faster simulation workflows and reduced mesh-quality burden.
 - The site offers contact sales and free-trial paths for commercial evaluation.
+
+## Verbatim
+
+> "Model preparation is the slowest, most painful part of simulation. Coreform software radically improves this, from enabling nonlinear analysis on fully-detailed CAD, to Python-scriptable hex meshing."
+> — Home page, hero
+
+> "Run isogeometric analysis directly from CAD."
+> — Home page, "Coreform IGA for Abaqus"
+
+> "Coreform IGA runs simulation on the same smooth spline math your CAD is built from, so you get accurate results with far fewer elements and the manual meshing step largely disappears."
+> — Home page, "Coreform IGA" technology section
 
 ## Reliability Notes
 

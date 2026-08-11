@@ -1,0 +1,13 @@
+{
+  "source_page": "us-magnesium-bankruptcy.md",
+  "requested_url": "https://greatsaltlakenews.org/latest-news/salt-lake-tribune/us-magnesiums-bankruptcy-leaves-a-looming-question-what-happens-to-the-great-salt-lake-cleanup",
+  "final_url": "https://greatsaltlakenews.org/latest-news/salt-lake-tribune/us-magnesiums-bankruptcy-leaves-a-looming-question-what-happens-to-the-great-salt-lake-cleanup",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:52.190Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "bafb8946d588397c70888b3c1d832733c647515d0f725322567ac2af9ca62a51",
+  "text_sha256": "82cf9ab7c2c1d3c0df455654e6911a94b2ef9d7eb64c9e86154a66cfe67833e4",
+  "text_chars": 20636,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

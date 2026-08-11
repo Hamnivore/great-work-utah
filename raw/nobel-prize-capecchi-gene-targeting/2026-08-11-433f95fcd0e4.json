@@ -1,0 +1,13 @@
+{
+  "source_page": "nobel-prize-capecchi-gene-targeting.md",
+  "requested_url": "https://www.nobelprize.org/prizes/medicine/2007/press-release/",
+  "final_url": "https://www.nobelprize.org/prizes/medicine/2007/press-release/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:16.243Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ab2b82b0fdb2da9e3bb37a6669ce8ac8943db820bb576b41dd053be87b6e4c4d",
+  "text_sha256": "433f95fcd0e4b3b1d01c377bafc478fd953c1e8d67422080b82f2fd4ace103e9",
+  "text_chars": 10420,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

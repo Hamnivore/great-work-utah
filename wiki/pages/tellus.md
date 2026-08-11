@@ -12,15 +12,14 @@
 **Website:** https://tellusensors.com
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/tellus-2026/1600/1100
 **Pull:** *Twenty years of calibration science turned into a low-cost sensor network that gives communities real-time air quality data at a fraction of what EPA-grade monitors cost.*
 **Relates:** cites [Official Website: TELLUS Networked Sensor Solutions](tellus-official-website.md) · https://greatutah.work/pages/tellus-official-website.md · https://tellusensors.com
 
 ## Summary
 
-TELLUS Networked Sensor Solutions is a Salt Lake City-based environmental monitoring company that builds low-cost, high-accuracy networked air quality sensors and the data infrastructure that makes them scientifically credible. Founded around 2018 as a spinout from the University of Utah College of Engineering (formerly operating as Tetrad Sensor Network Solutions), TELLUS commercializes two decades of academic calibration research into a deployable product: the CoreDI platform and, as of 2023, the AirU Pro hardware.
+TELLUS Networked Sensor Solutions builds networked air-quality sensors and the CoreDI data platform. Its official site says CoreDI rests on 20+ years of validation ([official website](tellus-official-website.md)); the capture does not establish a founding date, spinout history, or product-launch date.
 
-Traditional EPA regulatory-grade air quality monitors cost $100,000–$200,000 each and are deployed sparsely — a major city might have five to ten of them. At that density, air quality data has low spatial resolution. TELLUS's network approach deploys many low-cost sensors, validated against collocated reference instruments and statistically corrected for drift, humidity, and temperature. Salt Lake City's valley air basin — which has some of the worst wintertime PM2.5 pollution in the US due to thermal inversions — has served as both the primary deployment environment and a validation laboratory for the platform. The company has NSF grant backing and is pursuing Series A funding.
+Traditional regulatory-grade air-quality monitors are deployed sparsely, but the earlier cost and city-count figures are not present in captured evidence. TELLUS describes a network approach using lower-cost sensors and a calibration platform.
 
 ## Impact
 

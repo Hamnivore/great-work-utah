@@ -9,7 +9,6 @@
 **Region:** no verified Utah presence
 **Website:** https://www.stopfakes.gov/welcome
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

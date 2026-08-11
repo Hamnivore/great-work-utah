@@ -1,0 +1,13 @@
+{
+  "source_page": "womens-business-center-of-utah-source.md",
+  "requested_url": "https://www.wbcutah.org/",
+  "final_url": "https://www.wbcutah.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:12:00.789Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "36b05a35fb3f6f7724426ccd8d092bb3a5e5e0d008125b3112df2972db2790a7",
+  "text_sha256": "5e44d39b473eec9b78f69fdf81cae924c70a6297e9ea9316f55500494dc53a60",
+  "text_chars": 3934,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

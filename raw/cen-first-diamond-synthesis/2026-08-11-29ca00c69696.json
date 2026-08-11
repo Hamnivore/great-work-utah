@@ -1,0 +1,13 @@
+{
+  "source_page": "cen-first-diamond-synthesis.md",
+  "requested_url": "https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html",
+  "final_url": "https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:26.875Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "b30dd6c8505d20b5624255fc2d0af1746566a01529b012359db2334f5d42c67e",
+  "text_sha256": "29ca00c696967e37e503b1b683d50a2233f07d515d3bc650fb227ca86a6b7070",
+  "text_chars": 8814,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

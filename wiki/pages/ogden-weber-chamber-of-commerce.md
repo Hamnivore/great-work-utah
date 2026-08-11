@@ -14,7 +14,6 @@
 **Location Source:** https://www.ogdenweberchamber.com/staff/
 **Website:** https://www.ogdenweberchamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

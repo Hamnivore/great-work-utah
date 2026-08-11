@@ -2,7 +2,7 @@
 
 **Type:** resource
 **Status:** Draft
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** Funding, Late Stage Growth, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -12,8 +12,8 @@
 **Location Precision:** exact
 **Location Source:** https://www.sba.gov/district/utah
 **Website:** https://www.sba.gov/
+**Domain:** capital-programs
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 
@@ -52,11 +52,13 @@ It is probably not the first answer for a university researcher validating wheth
 
 ## Evidence
 
+- [Source: SBA Awards in Utah, FY2025 (USAspending)](sba-utah-award-records-fy2025.md) · https://greatutah.work/pages/sba-utah-award-records-fy2025.md · https://api.usaspending.gov/api/v2/search/spending_by_award_count/ — 1,964 SBA loan awards with a Utah place of performance in FY2025, and the named, funded Utah counseling and outreach grantees the district office refers people to
 - [SBA Utah District Office Page](sba-utah-district-office-source.md) · https://greatutah.work/pages/sba-utah-district-office-source.md · https://www.sba.gov/district/utah
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 
 ## Open Questions
 
-- Which SBA loan and certification paths are most common for Utah founders by stage and sector?
-- Which SBA lenders or partner organizations should become separate source or helper pages?
-- How should the wiki distinguish SBA loan readiness from venture-capital readiness in persona answers?
+- Which SBA loan and certification paths are most common for Utah founders by stage and sector? The federal award record answers the *shape* of Utah SBA activity — guaranteed lending dominates by three orders of magnitude over grants — but not the sector or stage mix, which needs the SBA 7(a)/504 loan-level data rather than the USAspending rollup.
+- Which SBA lenders or partner organizations should become separate source or helper pages? The FY2025 award record names the candidates: the **Utah SBDC** network funded through Utah State University, the "FAST awardee" grant to the [Utah Governor's Office of Economic Opportunity](utah-governor-s-office-of-economic-opportunity.md), the **Utah Microenterprise Loan Fund**, two Salt Lake Area Chamber of Commerce awards covering Salt Lake City and Cedar City, **Warrior Rising**, and a Salt Lake Community College award recorded as "FY25 WVETP-".
+- How should the wiki distinguish SBA loan readiness from venture-capital readiness in persona answers? Worth noting from the award data that the single largest FY2025 "SBA loan" in Utah was SBIC leverage to a venture fund, so the two are not as separate as the framing suggests.
+- The district office's own service description — all 29 Utah counties, counseling, certifications, disaster recovery — still rests on `sba.gov`. It is a federal agency describing its own jurisdiction, which is strong self-report, but it is self-report: a Federal Register notice or SBA's district-office organizational record would make it primary.

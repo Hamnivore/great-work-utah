@@ -11,7 +11,6 @@
 **Region:** unknown
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
-**Hero:** https://picsum.photos/seed/innosys-manufacturing-2026/1600/1100
 **Pull:** *Hermetic glass-to-metal seals for fiber optic feedthroughs in neutron generator detector assemblies — precision industrial work at the radiation-hardened end of the components market.*
 **Relates:** cites [Official Website: InnoSys](innosys-official-website.md) · https://greatutah.work/pages/innosys-official-website.md
 

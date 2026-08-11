@@ -1,0 +1,13 @@
+{
+  "source_page": "auticon-us-contact.md",
+  "requested_url": "https://www.auticon.com/us/en/contact/",
+  "final_url": "https://auticon.com/us/contact/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:41:05.525Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "59cf41471fa6677b6355ee22cd759894f164f96262408e8af91d60f7893ee809",
+  "text_sha256": "081f7609a64213899ad538bc350c90707ce54775d36a04de8f032af144892dfb",
+  "text_chars": 5052,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

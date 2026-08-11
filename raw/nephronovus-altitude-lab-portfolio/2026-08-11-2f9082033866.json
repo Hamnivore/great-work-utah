@@ -1,0 +1,13 @@
+{
+  "source_page": "nephronovus-altitude-lab-portfolio.md",
+  "requested_url": "https://altitudelab.org/portfolio",
+  "final_url": "https://altitudelab.org/portfolio",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:14.988Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "27c3c3bd2351e894a737398cb490ddc421f656253a99420f89db2358eae6e2bf",
+  "text_sha256": "2f9082033866d46cd0dc033671af0ddd94051a4201bbc84b52fb4084cf5422b3",
+  "text_chars": 10884,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

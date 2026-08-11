@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://neurorobotics.ece.utah.edu
+**Archive:** https://web.archive.org/web/20260412001801/https://neurorobotics.ece.utah.edu/
+**Archived:** 2026-04-12
 **Publisher:** Utah NeuroRobotics Lab, University of Utah (Dept. of Electrical & Computer Engineering)
-**Accessed:** 2026-06-18
+**Raw:** raw/utah-neurorobotics-lab-official-site/2026-08-11-6713d0fa28b2.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -16,13 +19,23 @@ The Utah NeuroRobotics Lab's official site (University of Utah ECE department) d
 ## Useful Claims
 
 - The lab, directed by Dr. Jacob George, develops direct neural interfaces that let amputees control a robotic limb by thought while receiving sensory feedback.
-- Lab posts describe an academic-industry partnership with BIOS (Biologic Input Output Systems), which licensed the underlying technology from the University of Utah in 2022; George serves as BIOS Chief Scientist.
-- The USEAs (Utah Slanted Electrode Arrays) used in the lab's work are manufactured by Blackrock Neurotech, another University of Utah-associated company.
-- A September 2025 post documents a $52,928 industry contract from BIOS to support LUKE Arm translation and prepare a new amputee participant for a one-year take-home clinical trial.
+- The page previously described a BIOS partnership, LUKE Arm translation work, a BIOS industry contract, and Blackrock Neurotech USEA manufacturing; this capture does not show those posts or partners.
+- Lab research links rehabilitation robotics and sensorimotor neural engineering through biologically-inspired artificial intelligence, using wearable and implantable brain-machine interfaces.
+
+## Verbatim
+
+> "Our research seeks to assist and rehabilitate individuals with life-altering neuromuscular impairments (e.g., stroke, spinal cord injury, limb loss)."
+> — Home page, research overview
+
+> "Our research links rehabilitation robotics and sensorimotor neural engineering through biologically-inspired artificial intelligence. We leverage wearable and implantable brain-machine interfaces to restore and/or enhance human function."
+> — Home page, research overview
+
+> "Welcome to the Utah NeuroRobotics Lab Directed by Prof. Jacob A. George ."
+> — Home page, header
 
 ## Reliability Notes
 
-This is an official academic-lab source, reliable for the lab's research focus, personnel, funding announcements, and named partners. Lab and university communications can emphasize positive milestones, so clinical-readiness and performance claims should be weighed alongside the peer-reviewed literature (e.g., the 2025 Journal of NeuroEngineering and Rehabilitation paper on the bidirectional wireless system). Note the URL is on the ECE subdomain; confirm the canonical address before external citation.
+This is an official academic-lab source, reliable for the lab's research focus and director named on the homepage. BIOS partnership, LUKE Arm contract, and Blackrock USEA claims on this page were not present in the 2026-08-11 capture (which shows only the homepage, not individual news posts).
 
 ## Related Pages
 

@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-history-to-go-harvey-fletcher.md",
+  "requested_url": "https://historytogo.utah.gov/fletcher-harvey/",
+  "final_url": "https://historytogo.utah.gov/fletcher-harvey/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:53.717Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "2a5f96a02443a8341ae87f9151c5eb37d17d8609672cbdc16180417898477727",
+  "text_sha256": "3df56a1edc1be8239b89579b410dfc17db8a0f4a40758cb2da5e3b4bf00d5351",
+  "text_chars": 4369,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

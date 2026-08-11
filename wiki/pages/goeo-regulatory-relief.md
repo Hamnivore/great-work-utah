@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Program Page
+**Source Type:** official-page
 **URL:** https://business.utah.gov/regulatory-relief/
+**Archive:** https://web.archive.org/web/20260713123528/https://business.utah.gov/regulatory-relief/
+**Archived:** 2026-07-13
 **Publisher:** Utah Governor's Office of Economic Opportunity
-**Accessed:** 2026-05-09
+**Raw:** raw/goeo-regulatory-relief/2026-08-11-9a76faaad0a4.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-05-09
 
 ## Summary
@@ -19,6 +22,23 @@ The GOEO Regulatory Relief page describes Utah's Office of Regulatory Relief and
 - The sandbox is meant to help entrepreneurs test market demand and gather data that may later inform regulatory change.
 - Participation requires an application questionnaire and demonstration proposal.
 - The page lists authorized, pending, and previous sandbox participants and describes a suggestion-box process for regulatory reform proposals.
+
+## Verbatim
+
+> "The Office of Regulatory Relief administers a general regulatory sandbox created by the Utah
+> Legislature in 2021."
+> — Home page, opening
+
+> "The sandbox allows businesses to experiment with products, production methods, or services that
+> would normally not fit within the state's regulatory environment for one year."
+> — Home page, opening
+
+> "To participate in the sandbox, companies must complete an Application Questionnaire and
+> Demonstration Proposal document ."
+> — Home page, application requirements
+
+> "Another way Utah residents and organizations can participate is through the suggestion box."
+> — Home page, Suggestion Box section
 
 ## Reliability Notes
 

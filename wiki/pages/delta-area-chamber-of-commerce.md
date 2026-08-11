@@ -13,7 +13,6 @@
 **Location Source:** https://www.deltautahchamber.com/
 **Website:** https://www.deltautahchamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

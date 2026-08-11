@@ -1,0 +1,13 @@
+{
+  "source_page": "university-of-utah-technology-licensing-office-official-website.md",
+  "requested_url": "https://technologylicensing.utah.edu/",
+  "final_url": "https://technologylicensing.utah.edu/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:50.817Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "8e9a36781ac33ef80f0ed4ad571fd8dec970dcb6df1400886d194f876bf512db",
+  "text_sha256": "288f2085763bcf74d43f79f1adbbfd4875aba1d76b2a1d1837d0940f966b6daf",
+  "text_chars": 17254,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

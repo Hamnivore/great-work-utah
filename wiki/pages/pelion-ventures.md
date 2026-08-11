@@ -10,7 +10,6 @@
 **Region:** Salt Lake City
 **Website:** https://pelionvp.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

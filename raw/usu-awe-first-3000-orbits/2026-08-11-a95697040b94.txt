@@ -1,0 +1,191 @@
+USU-Led NASA Atmospheric Wave-Studying Mission Releases Data From First 3,000 Orbits
+Utah State University sites use cookies. By continuing to use this site you accept our privacy and cookie policy .
+I agree
+Skip to content
+Apply
+Visit
+Give
+Calendar
+A-Z Index
+Directory
+Libraries
+QUICK LINKS
+MyUSU
+SEARCH
+Utah State TODAY
+Close search
+Search Utah State University:
+I want to search
+All USU sites
+People
+Search terms
+Submit search
+&times;
+Utah State TODAY
+Open main menu
+Close
+Open search
+Home
+Explore Stories
+Close
+Explore Stories
+Arts & Humanities
+Business & Society
+Health & Wellness
+Land & Environment
+Science & Technology
+Teaching & Learning
+Campus Life
+Athletics
+University Affairs
+Series
+Topics
+Statewide Stories
+Close
+Statewide Stories
+Statewide Enterprise
+Extension
+Statewide Campuses
+Blanding Region
+Brigham City Region
+Kaysville
+Southwest Region
+Uintah Basin
+USU Eastern
+Moab
+Tooele
+Wasatch Region
+In Focus
+Resources
+Close
+Resources
+Contact us
+USU Pressroom
+USU in the News
+Submit a Press Release
+RSS Feed
+Search Stories
+Subscribe
+Quick Links
+Close
+Quick Links
+Apply
+Visit
+Give
+Calendar
+A-Z Index
+Directory
+Libraries
+MyUSU
+Science & Technology
+USU-Led NASA Atmospheric Wave-Studying Mission Releases Data From First 3,000 Orbits
+Physics Professor Ludger Scherliess discusses first data collected by Space Dynamics Laboratory-built instrument aboard the International Space Station, which is transmitting never-captured-before images of naturally occurring atmospheric disturbances to Earth.
+By Mary-Ann Muffoletto &vert; March 17, 2025
+Full Size
+Swaths of images captured by USU's NASA-funded Atmospheric Wave Experiment instrument aboard the International Space Station and placed atop a U.S. map. USU and NASA researchers released the first images of the never-before-captured-from-space atmospheric phenomena. The collected data is now publicly available.
+&times;
+Download
+Close
+Download
+Following the 3,000th orbit of NASA’s AWE (Atmospheric Waves Experiment) aboard the International Space Station, Utah State University and NASA researchers publicly released the mission’s first trove of scientific data, crucial to investigating how and why subtle changes in Earth’s atmosphere cause disturbances, as well as how these atmospheric disturbances impact technological systems on the ground and in space.
+“We’ve released the first 3,000 orbits of data collected by the AWE instrument in space and transmitted back to Earth,” said USU Physics Professor Ludger Scherliess, principal investigator for the mission. “This is a view of atmospheric gravity waves never captured before.”
+Available online , the data release contains more than 5 million individual images of nighttime airglow and atmospheric gravity wave observations collected by the instrument’s four cameras, as well as derived temperature and airglow intensity swaths of the ambient air and the waves.
+“AWE is providing incredible images and data to further understand what we only first observed less than a decade ago,” said Esayas Shume, AWE program scientist at NASA Headquarters in Washington.“We are thrilled to share this influential data set with the larger scientific community and look forward to what will be discovered.”
+Atmospheric gravity waves occur naturally in Earth’s atmosphere and are formed by Earth’s weather and topography. Scientists have studied the enigmatic phenomena for years, but mainly from a few select sites on Earth’s surface.
+“With data from AWE, we can now begin near-global measurements and studies of the waves and their energy and momentum on scales from tens to hundreds and even thousands of kilometers,” Scherliess said. “This opens a whole new chapter in this field of research.”
+Data from AWE will also provide insight into how terrestrial and space weather interactions affect satellite communications, navigation and tracking.
+“We’ve become very dependent on satellites for applications we use every day, including GPS navigation,” Scherliess said. “AWE is an attempt to bring science about atmospheric gravity waves into focus, and to use that information to better predict space weather that can disrupt satellite communications. We will work closely with our collaborators to better understand how these observed gravity waves impact space weather.”
+The tuba-shaped AWE instrument , known as the Advanced Mesospheric Temperature Mapper or AMTM, consists of four identical telescopes. It is mounted to the exterior of the International Space Station, where it has a view of Earth.
+As the space station orbits Earth, the AMTM’s telescopes capture 7,000-mile-long swaths of the planet’s surface, recording images of atmospheric gravity waves as they move from the lower atmosphere into space. The AMTM measures and records the brightness of light at specific wavelengths, which can be used to create air and wave temperature maps. These maps can reveal the energy of these waves and how they are moving through the atmosphere.
+To analyze the data and make it publicly available, AWE researchers and students at USU developed new software to tackle challenges that had never been encountered before.
+“Reflections from clouds and the ground can obscure some of the images, and we want to make sure the data provide clear, precise images of the power transported by the waves,” Scherliess said. “We also need to make sure the images coming from the four separate AWE telescopes on the mapper are aligned correctly. Further, we need to ensure stray light reflections coming off the solar panels of the space station, along with moonlight and city lights, are not masking the observations.”
+As the scientists move forward with the mission, they’ll investigate how gravity wave activity changes with seasons around the globe. Scherliess looks forward to seeing how the global science community will use the AWE observations.
+“Data collected through this mission provides unprecedented insight into the role of weather on the ground on space weather,” he said.
+AWE is led by Utah State University in Logan, Utah, and it is managed by the Explorers Program Office at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Utah State University’s Space Dynamics Laboratory built the AWE instrument and provides the mission operations center. The AWE instrument was launched into space aboard a SpaceX Falcon 9 rocket from Cape Canaveral in November 2023.
+Full Size
+AWE's principal investigator, Ludger Scherliess, briefs collaborators on initial analysis of early AWE data. Information from the NASA-funded mission is helping scientists better understand how weather on Earth affects weather in space. (Credit: SDL/Allison Bills)
+&times;
+Download
+Close
+Download
+WRITER
+Mary-Ann Muffoletto
+Communications Specialist
+College of Arts & Sciences
+435-797-3517
+maryann.muffoletto@usu.edu
+CONTACT
+Ludger Scherliess
+AWE Mission Principal Investigator
+Department of Physics
+435-797-7189
+ludger.scherliess@usu.edu
+TOPICS
+Space 171 stories
+Physics 120 stories
+NASA 105 stories
+SDL 99 stories
+SHARE
+Comments and questions regarding this article may be directed to the contact person listed on this page.
+Next Story in Science & Technology
+August 05, 2026 1591
+USU Launches New Robotics Degree in Partnership with Tech Colleges
+The new bachelor's degree in Robotics, Automation and Control Systems combines technical training with the professional skills needed to become leaders in manufacturing and automated industries.
+Read the Story
+See Also
+July 28, 2026 1993
+Space Dynamics Lab Innovates Layered Defense Against Unmanned Aircraft Systems
+As unmanned aircraft systems become more capable and widely available, SDL is helping protect against this emerging threat by developing new technologies.
+Trending on Utah State Today
+Read the Story
+UNIVERSITY AFFAIRS
+July 16, 2026 3762
+Utah DMV Releases Two New USU License Plates That Support Student Scholarships, Athletics
+Read the Story
+BUSINESS & SOCIETY
+July 23, 2026 2883
+As the Story Goes: USU Broadcast Journalism Undergrad Pursues TV News Internship
+Read the Story
+SCIENCE & TECHNOLOGY
+July 22, 2026 2865
+Is AI Good or Bad for Preparing Engineers? A Utah State Professor Gets NSF Funding to Find Out
+Read the Story
+HEALTH & WELLNESS
+July 17, 2026 2437
+Ask an Expert: What You Need to Know About Cyclosporiasis
+FOLLOW US
+USU Facebook
+USU Twitter
+USU YouTube
+USU Instagram
+USU LinkedIn
+Old Main Hill,
+Logan, UT
+84322
+(435) 797-1000
+EXPLORE STORIES
+Browse Archives
+Explore Topics
+Explore Series
+USU in the News
+RESOURCES
+About USU
+For Media
+USU Leadership
+Utah State Magazine
+SUBSCRIBE
+Receive our weekly newsletter.
+Subscribe to Utah State Today
+Email
+Subscribe
+Maps & Directions
+Search USU
+Campus Safety
+Jobs
+Contact
+Disclaimers
+Copyright
+Privacy
+Accessibility
+Non-Discrimination
+Back to top of the page

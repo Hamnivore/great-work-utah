@@ -1,0 +1,13 @@
+{
+  "source_page": "arup-uofu-pathology-about-us.md",
+  "requested_url": "https://medicine.utah.edu/pathology/about-us",
+  "final_url": "https://medicine.utah.edu/pathology/about-us",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:48:42.175Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "4b3dbb22ea6cb589208b09b7b65fc854c2d55fb8e00c1710226f58de6827d66c",
+  "text_sha256": "e2b045f0e88a49ad6b6bca2809e88dfad2da6f99636731468bac1d220e4ef18c",
+  "text_chars": 3543,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

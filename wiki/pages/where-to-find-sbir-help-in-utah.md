@@ -7,7 +7,6 @@
 **Focus:** SBIR, STTR, non-dilutive funding, proposal readiness
 **Derived From:** resources/nucleus-grow, resources/utif, resources/utah-innovation-center, guides/startup-capital-in-utah
 **Updated:** 2026-06-18
-**Layout:** field-guide
 
 ## Summary
 

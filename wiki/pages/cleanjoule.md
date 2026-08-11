@@ -17,18 +17,17 @@
 **Location Source:** https://www.linkedin.com/company/cleanjoule
 **Website:** https://cleanjoule.com
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/cleanjoule-2026/1600/1100
 **Relates:** cites [Official Website: CleanJoule](cleanjoule-official-website.md) · https://greatutah.work/pages/cleanjoule-official-website.md · https://cleanjoule.com
 
 ## Summary
 
-CleanJoule is a Salt Lake City-based biofuels company, founded around 2020, that produces biomanufactured aviation fuel and rocket propellant intended to outperform petroleum-derived fuels on energy density. Its CycloSAF product has roughly 10 percent higher energy density than standard Jet-A aviation fuel; its SpaceSAF product is designed as a drop-in replacement for RP-1 rocket propellant (used in engines such as SpaceX's Merlin) with over 4 percent higher energy density. The company is backed by airline operators as strategic investors — Frontier Airlines, Wizz Airlines, and Volaris — along with Indigo Partners and GenZero. As of late 2024 the company was pursuing ASTM certification for CycloSAF and building toward its first full-scale US manufacturing plant.
+CleanJoule is a Salt Lake City-based biofuels company, founded around 2020, that produces biomanufactured aviation fuel and rocket propellant intended to outperform petroleum-derived fuels on energy density. Its CycloSAF product has roughly 10 percent higher energy density than standard Jet-A aviation fuel; its SpaceSAF product is designed as a drop-in replacement for RP-1 rocket propellant (used in engines such as SpaceX's Merlin) with over 4 percent higher energy density ([official website](cleanjoule-official-website.md)). The company is backed by airline operators as strategic investors — Frontier Airlines, Wizz Airlines, and Volaris — along with Indigo Partners and GenZero. As of late 2024 the company was pursuing ASTM certification for CycloSAF and building toward its first full-scale US manufacturing plant.
 
 ## Impact
 
 Sustainable aviation fuel is one of the harder decarbonization problems: commercial aviation cannot readily electrify, hydrogen fuel is not near-term practical for most aircraft, and most existing SAF requires blending with conventional jet fuel or carries a cost premium. CleanJoule's differentiation is thermodynamic rather than environmental: CycloSAF's higher energy density gives operators a performance benefit, not just a sustainability credential. Airlines can carry more payload or extend range on the same fuel weight. That eliminates the adoption friction most climate-tech companies face — operators benefit directly, rather than accepting a penalty in exchange for reduced emissions.
 
-The SpaceSAF logic is similar but applied to launch vehicles. In rocket propulsion, a 4 percent improvement in propellant energy density is meaningful for payload-to-orbit calculations and could enable sustainable launch without redesigning existing engines.
+The SpaceSAF logic is similar but applied to launch vehicles. CleanJoule reports a 4 percent improvement in propellant energy density ([official website](cleanjoule-official-website.md)), which would be meaningful for payload-to-orbit calculations if independently validated.
 
 If ASTM certification is achieved and manufacturing scales successfully, CleanJoule's products would be drop-in replacements across existing aviation and launch infrastructure — an unusually low adoption barrier for a deep decarbonization technology.
 
@@ -38,8 +37,8 @@ CleanJoule operates a feedstock-flexible biochemical conversion process — the 
 
 Key products:
 
-- **CycloSAF** — sustainable aviation fuel with approximately 10 percent higher energy density than Jet-A; ASTM certification in progress as of late 2024.
-- **SpaceSAF** — drop-in replacement for RP-1 rocket kerosene, announced late 2024 with 4 percent or higher energy density advantage; certification progress and launch customer status not publicly confirmed.
+- **CycloSAF** — sustainable aviation fuel with approximately 10 percent higher energy density than Jet-A ([official website](cleanjoule-official-website.md)); ASTM certification in progress as of late 2024.
+- **SpaceSAF** — drop-in replacement for RP-1 rocket kerosene, announced late 2024 with 4 percent or higher energy density advantage ([official website](cleanjoule-official-website.md)); certification progress and launch customer status not publicly confirmed.
 
 The company was building its first full-scale US manufacturing facility in 2025, representing the transition from process development to industrial production.
 

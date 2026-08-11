@@ -1,0 +1,13 @@
+{
+  "source_page": "wavetronix-official-website.md",
+  "requested_url": "https://www.wavetronix.com/",
+  "final_url": "https://www.wavetronix.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:59.642Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "503b968007f8f7ac934fc3a5ae23c44ad8d1692c10866eadbc2ce6608f26f1af",
+  "text_sha256": "15aebadae4e25227d57c7399fad755b6e59751fc1c2823f88166c6ea8cb94f78",
+  "text_chars": 5381,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

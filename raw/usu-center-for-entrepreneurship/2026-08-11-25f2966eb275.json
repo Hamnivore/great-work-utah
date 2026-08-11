@@ -1,0 +1,13 @@
+{
+  "source_page": "usu-center-for-entrepreneurship.md",
+  "requested_url": "https://huntsman.usu.edu/ecenter/",
+  "final_url": "https://huntsman.usu.edu/ecenter/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:52.971Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "8a15d6fb86d4784be03cfb882a5377b97a2c0221f8798bd5b1b542c0615ca32a",
+  "text_sha256": "25f2966eb2756d0e34f8686d8fef53bead1c71f7ba9e6d33275267ee569abab8",
+  "text_chars": 5733,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,179 @@
+Philo Farnsworth - The Linda Hall Join our email list and be the first to learn about new programs, events, and collections updates!
+Sign Up
+ABOUT THE LINDA HALL
+Our Story
+Board of Trustees
+Leadership Team
+Annual Report
+Strategic Plan
+CAREERS
+Career Opportunities
+NEWS
+Scientist of the Day
+ARBORETUM
+Arboretum BioBlitz
+RESEARCH RESEARCH AT THE LIBRARY
+Access Library Account
+Using the Library
+Reference Services
+Document Delivery & Image Reproduction
+COLLECTIONS
+History of Science
+Curated and Digital Collections
+RESEARCH GUIDES
+Patent & Trademark Resource Center
+FELLOWSHIPS
+Meet Our Fellows
+Frequently Asked Questions
+Apply for Fellowships
+EVENTS CALENDAR
+Videos
+Summer Reading Challenge
+Arboretum BioBlitz
+Bartlett Lecture Series
+EXHIBITIONS
+Alchemy of Knowledge
+Digital Exhibitions
+HOST YOUR EVENT AT THE LIBRARY
+LEARNING LEARNING
+Digital Exhibitions
+STEM EDUCATORS
+How Do I Become? Series
+STEM Futures Showcase
+Kansas City Invention Convention
+GIVING SUPPORTING THE LIBRARY
+Volunteer Opportunities
+Planned Giving
+Book Donations
+DONATE NOW
+Membership
+Corporate, Foundation, and Strategic Partnerships
+SEARCH Search
+Advanced Search
+Search the catalog
+Search the site
+Tuesday, August 11, 2026
+Open today 4 PM - 11 PM
+ABOUT THE LINDA HALL
+Our Story
+Board of Trustees
+Leadership Team
+Annual Report
+Strategic Plan
+CAREERS
+Career Opportunities
+NEWS
+Scientist of the Day
+ARBORETUM
+Arboretum BioBlitz
+RESEARCH RESEARCH AT THE LIBRARY
+Access Library Account
+Using the Library
+Reference Services
+Document Delivery & Image Reproduction
+COLLECTIONS
+History of Science
+Curated and Digital Collections
+RESEARCH GUIDES
+Patent & Trademark Resource Center
+FELLOWSHIPS
+Meet Our Fellows
+Frequently Asked Questions
+Apply for Fellowships
+EVENTS CALENDAR
+Videos
+Summer Reading Challenge
+Arboretum BioBlitz
+Bartlett Lecture Series
+EXHIBITIONS
+Alchemy of Knowledge
+Digital Exhibitions
+HOST YOUR EVENT AT THE LIBRARY
+LEARNING LEARNING
+Digital Exhibitions
+STEM EDUCATORS
+How Do I Become? Series
+STEM Futures Showcase
+Kansas City Invention Convention
+GIVING SUPPORTING THE LIBRARY
+Volunteer Opportunities
+Planned Giving
+Book Donations
+DONATE NOW
+Membership
+Corporate, Foundation, and Strategic Partnerships
+Search
+Advanced Search
+Search the catalog
+Search the site
+Tuesday, August 11, 2026
+Open today 4 PM - 11 PM
+The Linda Hall
+News
+Scientist of the Day
+Philo Farnsworth
+Statue of Philo Farnsworth, National Statuary Hall, Washington, D.C., sculpted by James R. Avati, 1990 (Architect of the Capitol)
+Scientist of the Day
+Philo Farnsworth
+AUGUST 19, 2021
+Scientist of the Day - Philo Farnsworth
+August 19, 2021
+Philo Farnsworth, an American inventor and telecommunications pioneer, was born in Beaver City, Utah on Aug. 19, 1906. Farnsworth is sometimes referred to as “The Father of Television.” In fact, television had many parents, and scientists and engineers had been attempting to transmit images electronically – with varying degrees of success – long before Farnsworth became interested in the subject. He later recalled reading about their efforts in popular science magazines like Science and Invention after finishing chores on his family’s farm in Idaho.
+Most early television experiments relied on mechanisms, such as perforated discs or rotating mirrors, to divide an image into lines. Each line was then projected onto a photoelectric sensor that produced electrical signals corresponding to its brightness. In theory, those signals could then be used to recreate the original image, but reliance on mechanical scanning limited the transmission speed and resolution of the resulting picture. While plowing the fields in 1921, fourteen-year-old Philo Farnsworth realized that it might be possible to address both of those issues using a completely electronic approach.
+After giving the matter some additional thought, Farnsworth described his new television system to his high-school science teacher, Justin Tolman. As part of this discussion, he sketched a schematic for a camera tube that would focus an optical image on a photoelectric surface, creating a pattern of electrical charges based on the brightness of the incident light ( second image ). Magnetic coils would move this “electron image” back-and-forth in front of a metal cylinder (the anode) on the other end of the tube. The anode effectively scanned the image line-by-line, generating a current after each pass as a result of the charges passing in front of it. Those currents could then be sent to a cathode ray tube, which reproduced the original picture by sweeping an electron beam back-and-forth across a phosphor-coated screen, just like a plow moving row-by-row across a field.
+Drawing made by Philo Farnsworth for Justin Tolman in 1922, of an electronic television camera (Indiana History Blog)
+Tolman was impressed and encouraged the aspiring inventor to continue his studies and build a working television prototype. After graduating high school, Farnsworth briefly enrolled at Brigham Young University before withdrawing due to financial difficulties. He started a radio repair business in Salt Lake City and took a second job working for a charitable giving campaign. The latter position brought him into contact with George Everson and Leslie Gorrell, a pair of professional fundraisers who were intrigued by Farnsworth’s ideas and willing to invest in his invention. With their backing, Farnsworth and his wife Elma “Pem” Farnsworth (née Gardner) relocated to California in May 1926 and started working on television full time.
+After a brief stint in Los Angeles, Farnsworth set up a laboratory on the second floor of 202 Green Street in San Francisco. He assembled a team of engineers and technicians, including his brother-in-law Cliff Gardner, who studied glassblowing to assist with the manufacture of the two crucial components of his television system: the image dissector (camera tube) and the oscillite (picture tube) ( third image ). Farnsworth originally hoped to assemble a functional television system by early 1927, but various technical difficulties postponed the initial demonstration until that fall. On Sep. 7, 1927, Farnsworth’s team successfully transmitted the image of a black line on a slide. Other simple shapes followed, including a triangle and a dollar sign, the latter of which amused the bankers that Everson and Gorrell persuaded to fund the project.
+Schematic diagrams of Philo Farnsworth’s image dissector camera (Fig. 2, left) and oscillite picture tube (Fig. 3, right) from Philo T. Farnsworth, “An Electrical Scanning System for Television,” Radio Craft , Dec. 1930 (Linda Hall Library)
+Despite these promising early results, Farnsworth soon confirmed that his electronic television system could only transmit silhouettes. He devoted himself to improving the image dissector so that it could capture brighter, sharper images, but progress was slow, and his investors were losing patience. After the stock market crashed in 1929, they urged the inventor to find a corporate backer. Farnsworth extended invitations to representatives from leading electronics firms, including the Radio Corporation of America (RCA).
+RCA’s president, David Sarnoff , saw television as the natural successor to radio and had hired Westinghouse engineer Vladimir Zworykin to oversee the technology’s development. Zworykin had been experimenting with electronic television since the early 1920s and was eager to meet Farnsworth and evaluate his inventions. He traveled to San Francisco in 1930 and praised the improved image dissector, which by then was producing clearer pictures than any of his cameras. In a report to Sarnoff, however, he acknowledged that the camera had a major flaw. After converting an optical image into a series of electrons, the image dissector had no way to store those electrons between scans. Consequently, it needed extremely bright lights to produce a high-quality picture.
+Zworykin returned to RCA’s research laboratories in Camden, New Jersey and focused on perfecting his iconoscope, a camera tube which possessed the storage capacity that the image dissector lacked. In 1931, Farnsworth partnered with RCA’s longtime rival in radio manufacturing, Philco, in hopes of preventing Sarnoff and Zworykin from dominating the television industry. He set up a new laboratory in Philadelphia, just across the Delaware River from RCA, and started making experimental television broadcasts. This alliance with Philco proved short-lived. In 1933, Farnsworth established a new company (Farnsworth Television Incorporated) where he could improve his image dissector without any outside interference. The following year, he made headlines by hosting the first public demonstration of an all-electronic television system at the Franklin Institute ( fourth image ).
+Philo Farnsworth captures footage of a pair of dancers during the first public demonstration of electronic television at the Franklin Institute in Aug. 1934. (The Franklin Institute)
+Farnsworth’s successes frustrated David Sarnoff, who viewed the inventor as a threat to RCA’s ability to commercialize Zworykin’s television system. He originally offered to buy Farnsworth’s entire portfolio of television patents, but when that plan failed, he turned to RCA’s legal department. In May 1932, the corporation launched a patent-interference case, claiming that Farnsworth’s 1930 patent for a television system infringed on a patent application Zworykin had filed seven years earlier. The crux of the case revolved around the process of forming an electronic image. Zworykin claimed to have built a prototype television based on this concept as early as 1919, but none of his colleagues at Westinghouse or RCA could definitively recall seeing it in operation. To demonstrate that their client’s ideas predated Zworykin’s, Farnsworth’s lawyers reached out to his former teacher, Justin Tolman, who had kept the image dissector sketch that Farnsworth had made in 1922.
+After three years of litigation, the court ruled in Farnsworth’s favor in 1935. Much to Sarnoff’s chagrin, RCA’s monopoly on television technology would remain incomplete. While the company could move forward with plans to start broadcasting using Zworykin’s iconoscope, it had become clear that the next generation of cameras would benefit from some of Farnsworth’s inventions. In an unprecedented break from company policy, in 1939, RCA agreed to pay Farnsworth royalties to make use of his patents.
+With this victory over RCA, Farnsworth confirmed his status as a major figure in the development of electronic television, yet he still struggled to commercialize the technology. He purchased a radio manufacturing plant in Fort Wayne, Indiana, and hoped to begin producing television receivers before his patents expired in the 1940s. Those plans were put on hold following the outbreak of World War II, but even before then Farnsworth had begun to suffer from physical and mental exhaustion. He withdrew from his company’s day-to-day operations until after the war, when he once again attempted to enter the television market. Ultimately, Farnsworth’s company was unable to compete with RCA, Philco, and other established players in the electronics market, and the Fort Wayne plant was sold to International Telephone and Telegraph (ITT) in 1949.
+The ITT sale marked the end of Farnsworth’s involvement with television. In his later years, he turned his attention to other projects, most notably an ambitious effort to harness nuclear fusion as a power source. As the broadcasting industry matured, Farnsworth’s name faded into obscurity, to the point that when he appeared on a 1957 episode of I’ve Got a Secret , none of the panelists recognized him or connected him with the technology that made their show possible.
+Commemorative stamps honoring four American inventors (Charles Steinmetz, Edwin Armstrong, Nikola Tesla, and Philo Farnsworth) issued by the United States Postal Service in 1983. (Mystic Stamp Company)
+Philo Farnsworth continued working as a technical consultant for ITT until 1967 and passed away in 1971. His death received little notice in the press, but his friends and family continued to call attention to his inventions. Thanks to their efforts, the state of California designated the site of Farnsworth’s San Francisco laboratory as a historical landmark in 1981. Two years later, the US Postal Service featured Farnsworth on a set of stamps honoring American inventors, alongside Charles Steinmetz , Edwin Armstrong , and Nikola Tesla ( fifth image, above ). The state of Utah also commissioned a sculpture of their native son, which was placed on display in the National Statuary Hall of the United States Capitol in 1990 ( first image ).
+In addition to these honors, Farnsworth’s life inspired several noteworthy pieces of popular culture. Aaron Sorkin referenced his early television experiments in an episode of the short-lived ABC series, Sports Night , and subsequently wrote a Broadway play, The Farnsworth Invention , which presented a somewhat romanticized version of the inventor’s interactions with RCA. Farnsworth was also the namesake (and ancestor) of eccentric 31st-century scientist Hubert Farnsworth on the animated series, Futurama. Such tributes may seem frivolous, but they reflect a growing awareness among the American public, not just historians and engineers, of Philo Farnworth and his contributions to the creation of television.
+Benjamin Gross, Vice President for Research and Scholarship, Linda Hall Library. Comments or corrections are welcome; please direct to grossb@lindahall.org .
+More
+George of Trebizond
+Scientist of the Day
+August 11, 2026
+Jonas Moore
+Scientist of the Day
+August 10, 2026
+hipparchus
+Scientist of the Day
+August 7, 2026
+Josef Pallenberg
+Scientist of the Day
+August 6, 2026
+Octavius Morgan
+Scientist of the Day
+August 5, 2026
+Library Hours
+Monday - Friday
+10 AM - 5 PM
+Second Saturday
+10 AM - 2 PM
+Telephone
+816.363.4600
+Address
+5109 Cherry Street
+Kansas City, Missouri
+64110-2498
+Using the Library
+Careers
+Visit Us
+My Library Account
+Privacy Policy
+Acceptable Use Policy
+Terms and Conditions
+Library Rules
+The Linda Hall on Facebook
+The Linda Hall on Vimeo
+The Linda Hall on Instagram
+The Linda Hall on Youtube
+© 2026 , The Linda Hall: Science Library and Arboretum, All Rights Reserved

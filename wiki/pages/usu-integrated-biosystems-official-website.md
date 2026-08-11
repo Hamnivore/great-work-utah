@@ -3,10 +3,11 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Medium
-**Source Type:** Official Website
-**URL:** https://cib.usu.edu
+**Source Type:** official-page
+**URL:** https://qanr.usu.edu/biosystems/about
 **Publisher:** Utah State University
-**Accessed:** 2026-06-19
+**Raw:** raw/usu-integrated-biosystems-official-website/2026-08-11-d4741a5a2362.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -15,15 +16,21 @@ The USU Center for Integrated BioSystems website describes the center's mission,
 
 ## Useful Claims
 
-- The site describes CIB's core service offerings: next-generation sequencing, genotyping, and bioinformatics analysis pipelines for agricultural and biological research.
-- Research focus areas include plant genomics, animal genomics (livestock and aquaculture), and agricultural microbiology — oriented toward Utah State's land-grant mission in arid-land and intermountain agriculture.
-- The site lists faculty affiliates and staff scientists, giving a picture of the center's scale and expertise.
-- Service pricing, sample submission procedures, and turnaround times are described, reflecting the center's role as a shared infrastructure resource for USU and external partners.
-- Links to the Utah Agricultural Experiment Station (uaes.usu.edu) and USU College of Agriculture and Applied Sciences (caas.usu.edu) provide institutional context.
+- CIB describes itself as an interdisciplinary center for research and integrated education.
+- It offers core laboratory services, biotechnology training programs, and grant-writing resources to the campus community, industry, and institutions worldwide.
+- The page says its scientists and staff work on bioprocessing projects for academic and industrial clients.
 
 ## Reliability Notes
 
 This is an official university source. It is reliable for the center's stated mission, service portfolio, and current personnel. Research output claims should be cross-checked with USU's publication database or Google Scholar for CIB-affiliated faculty. Industry partnership details and any commercial arrangements are not typically disclosed on university center websites and would require direct outreach to confirm.
+
+## Verbatim
+
+About page, “Message From The Director”:
+
+> Welcome to the Center for Integrated BioSystems (CIB) at Utah State University. As an interdisciplinary center for research and integrated education, we offer core laboratory services, biotechnology training programs, and grant writing resources to the campus community, as well as industry and institutions world-wide.
+>
+> The CIB’s scientists and staff bring experience and expertise to bio-processing projects, whether large or small, for both academic and industrial clients.
 
 ## Related Pages
 

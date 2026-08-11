@@ -13,7 +13,6 @@
 **Location Source:** https://serda.utah.gov/contact
 **Website:** https://serda.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

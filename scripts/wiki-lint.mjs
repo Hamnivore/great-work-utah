@@ -4,8 +4,12 @@
 // their content, it only checks that wiki/views/index.md exists (a reminder that
 // `node scripts/build-views.mjs` needs to be (re)run). See AGENTS.md.
 import fs from "node:fs/promises";
+import fsSync from "node:fs";
 import path from "node:path";
 import process from "node:process";
+import { verbatimNotInRaw } from "./lib/verbatim.mjs";
+import { unsupportedClaimAnchors } from "./lib/claims.mjs";
+import { isMandatedHost, isReferenceHost, isAuthWalledHost } from "./lib/hosts.mjs";
 
 const REPO_ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const WIKI_ROOT = path.join(REPO_ROOT, "wiki");
@@ -44,6 +48,76 @@ const ROLE_VOCAB = [
   "people-operations",
 ];
 
+// Source Type vocabulary and the evidence tier each value carries, from
+// meta/attributes.md "Source Type and tiers". Tier is a property of the type, not
+// a separate attribute: primary sources are kept by an institution under a mandate,
+// self-reported and secondary ones are not and must be captured (Archive + Verbatim).
+const SOURCE_TYPE_TIERS = {
+  filing: "primary",
+  "government-record": "primary",
+  dataset: "primary",
+  "peer-reviewed": "primary",
+  patent: "primary",
+  preprint: "secondary",
+  news: "secondary",
+  reference: "secondary",
+  testimony: "secondary",
+  "official-page": "self-reported",
+  "press-release": "self-reported",
+};
+const SOURCE_TYPE_VOCAB = Object.keys(SOURCE_TYPE_TIERS);
+const CAPTURE_REQUIRED_TIERS = new Set(["self-reported", "secondary"]);
+
+// Primary tier only excuses a page from capture when its URL points at a host obliged to
+// keep the record (scripts/lib/hosts.mjs): a 10-K cited through a third-party EDGAR mirror,
+// or IRS 990 data cited through a nonprofit aggregator, is a primary *record* behind a link
+// nobody must keep, and it needs capturing like any other fragile URL. See
+// meta/attributes.md, "Raw captures".
+
+// Whether **URL:** names something that can actually be fetched. `Unknown` is a legitimate
+// value meaning "no official page could be confirmed", not a malformed URL.
+function isFetchableUrl(value) {
+  if (!value) return false;
+  try {
+    return /^https?:$/.test(new URL(value.trim()).protocol);
+  } catch {
+    return false;
+  }
+}
+
+function hostOf(url) {
+  try {
+    return new URL(String(url).split(/[;,]\s*/)[0]).hostname;
+  } catch {
+    return "unparseable URL";
+  }
+}
+
+// meta/attributes.md "Identifiers". A wrong key is worse than no key, so shapes are
+// checked strictly and unknown keys are rejected rather than passed through.
+const IDENTIFIER_SHAPES = {
+  cik: /^\d{10}$/,
+  ein: /^\d{2}-\d{7}$/,
+  uei: /^[A-Za-z0-9]{12}$/,
+  lei: /^[A-Za-z0-9]{20}$/,
+  ror: /^0[a-z0-9]{8}$/,
+  orcid: /^\d{4}-\d{4}-\d{4}-\d{3}[\dX]$/,
+  "utah-entity": /^\d{5,}(-\d{4})?$/,
+  wikidata: /^Q\d+$/,
+};
+const IDENTIFIER_TYPES = new Set(["venture", "person", "helper", "resource", "work"]);
+
+// A "figure" is a number a reader would repeat: money, a percentage, a physical or
+// human quantity, or a comma-grouped number. Deliberately excludes bare small
+// integers and bare years, which are noise rather than claims.
+const FIGURE_RE =
+  /\$\s?\d[\d,]*(?:\.\d+)?\s*(?:million|billion|trillion)?|\d[\d,]*(?:\.\d+)?\s*(?:%|percent|MW|GW|kW|MWh|GWh|megawatts?|gigawatts?|kilowatts?|acres?|tons?|tonnes?|square feet|sq\.? ?ft|employees|jobs|patients|students|beds|wells|users|customers)|\d{1,3}(?:,\d{3})+(?:\.\d+)?/gi;
+// Non-global twin: `test()` on a /g/ regex advances lastIndex between calls.
+const FIGURE_TEST_RE = new RegExp(FIGURE_RE.source, "i");
+const MAGNITUDES = { million: 1e6, billion: 1e9, trillion: 1e12 };
+const ARCHIVE_URL_RE = /^https:\/\/web\.archive\.org\/web\/\d{4,14}(?:id_)?\/\S+$/;
+const ISO_DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+
 // Required section headers by Type, from meta/conventions.md "Page templates".
 // guide is free-form and source's requirement is prose-shaped (not a fixed header
 // list), so neither is checked here.
@@ -54,6 +128,26 @@ const TEMPLATE_SECTIONS = {
   person: ["Summary", "Track Record", "What They're Looking For", "Evidence"],
   helper: ["Summary", "Who They Help", "Evidence"],
 };
+
+// Every bold-prefix key the corpus is allowed to carry. This exists because an unrecognized key
+// is not inert: it is a claim written in the metadata register, where readers grant it the
+// authority of a checked field, and nothing checks it. A misspelling (**Regoin:**) silently
+// drops a page out of every regional view while still looking attributed on the page. Keeping
+// the set closed also forces new fields through meta/attributes.md, which is the only place a
+// visiting agent will look to find out what a field means.
+const METADATA_KEYS = new Set([
+  // identity and grading
+  "Type", "Status", "Updated", "Confidence", "Focus", "Domain", "Domain-flagged", "Region",
+  "Needs-reviewed", "Identifiers", "Era", "Stage", "Roles", "Ownership", "Careers", "Audience",
+  // the document a source page is about
+  "Website", "URL", "Publisher", "Published", "Source Type", "Retrieved", "Archive", "Archived",
+  "Raw", "Derived From",
+  // map tuple
+  "Primary Location", "Utah Location", "Map Location", "Coordinates", "Location Precision",
+  "Location Source", "Additional Map Location",
+  // presentation, consumed by the generators
+  "Relates", "Pull",
+]);
 
 const NEEDS_SECTION_RE = /^## What They Need Now\s*$/m;
 const SECTION_HEADER_RE = /^## (.+?)\s*$/gm;
@@ -130,6 +224,159 @@ function parseSectionHeaders(content) {
   return sections;
 }
 
+// Body text of one `## Section`, up to the next `## ` heading. Same idiom as the
+// generators in build-views.mjs so a section reads the same everywhere.
+function sectionBody(content, name) {
+  const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const match = content.match(new RegExp(`## ${escaped}\\s+([\\s\\S]*?)(?=\\n## |$)`));
+  return match ? match[1].trim() : "";
+}
+
+// -- Raw captures ----------------------------------------------------------
+// raw/ holds captured source documents with none of our content in them. Captures are
+// immutable (the filename carries the content hash), so they can be loaded once and
+// compared against by substring. See meta/attributes.md, "Raw captures".
+const rawCaptures = new Map(); // repo-relative path -> captured text
+const captureFinalUrl = new Map(); // repo-relative .txt path -> URL the bytes actually came from
+const captureStatus = new Map(); // repo-relative .txt path -> HTTP status the fetch returned
+
+function loadRawCaptures() {
+  const rawDir = path.join(REPO_ROOT, "raw");
+  let dirs;
+  try {
+    dirs = fsSync.readdirSync(rawDir, { withFileTypes: true });
+  } catch {
+    return; // no raw store yet
+  }
+  for (const dir of dirs) {
+    if (!dir.isDirectory()) continue;
+    const abs = path.join(rawDir, dir.name);
+    for (const file of fsSync.readdirSync(abs)) {
+      const rel = `raw/${dir.name}/${file}`;
+      if (file.endsWith(".txt")) {
+        rawCaptures.set(rel, fsSync.readFileSync(path.join(abs, file), "utf8"));
+        continue;
+      }
+      if (!file.endsWith(".json")) continue;
+      try {
+        const sidecar = JSON.parse(fsSync.readFileSync(path.join(abs, file), "utf8"));
+        if (sidecar.final_url && !sidecar.via_archive) {
+          captureFinalUrl.set(rel.replace(/\.json$/, ".txt"), sidecar.final_url);
+        }
+        if (typeof sidecar.http_status === "number") {
+          captureStatus.set(rel.replace(/\.json$/, ".txt"), sidecar.http_status);
+        }
+      } catch {
+        // A malformed sidecar loses the redirect check, not the quote check.
+      }
+    }
+  }
+}
+
+function rawCaptureExists(rel) {
+  return rawCaptures.has(rel);
+}
+
+// Registrable-ish domain: enough to tell "the site moved to a new company" from "the site
+// added a www". Deliberately naive about multi-part public suffixes (.co.uk) — this feeds a
+// warning a human reads, not an automated rewrite.
+function registrableDomain(url) {
+  try {
+    const parts = new URL(String(url).trim()).hostname.toLowerCase().replace(/^www\./, "").split(".");
+    return parts.slice(-2).join(".");
+  } catch {
+    return null;
+  }
+}
+
+// A capture fetched from a domain the page does not cite is the most dangerous artifact in
+// the store: it looks like evidence and quotes cleanly, but the words belong to somebody
+// else. One dead venture's URL redirected to a hospital system's homepage, and an agent
+// dutifully quoted the hospital.
+//
+// Not every off-site redirect is wrong, which is why this warns instead of refusing: a
+// company gets acquired and its domain forwards to the parent, a project serves its
+// canonical name from another host. The page just has to say so — naming the destination
+// domain in the prose clears this, because then a reader knows whose words they are reading.
+function captureRedirectedOffSite(rel, pageUrl, content) {
+  const finalUrl = captureFinalUrl.get(rel);
+  if (!finalUrl || !pageUrl) return null;
+  const cited = registrableDomain(pageUrl.split(/[;,]\s*/)[0]);
+  const actual = registrableDomain(finalUrl);
+  if (!cited || !actual || cited === actual) return null;
+  return content.includes(actual) ? null : actual;
+}
+
+// Same host, different path: the page cites one document and the capture holds another. Far
+// quieter than an off-site redirect and just as corrosive, because everything downstream keys
+// off **URL:** rather than off the bytes — `resolve-archive-snapshots.mjs` asks the Wayback
+// Machine about the *cited* path, so a page whose URL still names the pre-redirect location
+// gets a snapshot of a document it does not quote, or a truthful-sounding "no snapshot exists"
+// for a URL that has not existed in years. Seven pages carried this before it was checked.
+function captureMovedOnHost(rel, pageUrl) {
+  const finalUrl = captureFinalUrl.get(rel);
+  if (!finalUrl || !pageUrl) return null;
+  try {
+    const cited = new URL(pageUrl.split(/[;,]\s*/)[0].trim());
+    const actual = new URL(finalUrl);
+    if (registrableDomain(cited.href) !== registrableDomain(actual.href)) return null; // capture-off-site's job
+    const citedPath = `${cited.pathname.replace(/\/$/, "")}${cited.search}`;
+    const actualPath = `${actual.pathname.replace(/\/$/, "")}${actual.search}`;
+    return citedPath === actualPath ? null : actual.href;
+  } catch {
+    return null;
+  }
+}
+
+function quotesMissingFromCapture(verbatim, rel) {
+  const rawText = rawCaptures.get(rel);
+  return rawText ? verbatimNotInRaw(verbatim, rawText) : [];
+}
+
+function rawCaptureText(rel) {
+  return rawCaptures.get(rel) || "";
+}
+
+// Numeric value of a figure match, scaled by any magnitude word, so "$824.5 million"
+// and the XBRL fact "824500000" compare equal.
+function figureValue(raw) {
+  const digits = raw.replace(/,/g, "").match(/\d+(?:\.\d+)?/);
+  if (!digits) return null;
+  let value = Number(digits[0]);
+  if (!Number.isFinite(value)) return null;
+  const magnitude = raw.toLowerCase().match(/million|billion|trillion/);
+  if (magnitude) value *= MAGNITUDES[magnitude[0]];
+  return value;
+}
+
+// Quoted material is read permissively — every number in it counts, including the bare
+// integers of a machine-readable fact block ("totrevenue 109245", "val 824500000") — and
+// both the plain and magnitude-scaled reading of each. Only the claim side is strict.
+function supportedFigureValues(text) {
+  const values = [];
+  // Unwrap blockquote markers first: a quote that line-breaks between "$70.0" and
+  // "million" still carries the figure.
+  const flat = text.replace(/^\s*>\s?/gm, " ").replace(/\s+/g, " ");
+  for (const match of flat.matchAll(/-?\d[\d,]*(?:\.\d+)?(?:\s*(?:million|billion|trillion))?/gi)) {
+    const plain = match[0].replace(/,/g, "").match(/-?\d+(?:\.\d+)?/);
+    if (plain) values.push(Math.abs(Number(plain[0])));
+    const scaled = figureValue(match[0]);
+    if (scaled !== null) values.push(Math.abs(scaled));
+  }
+  return values.filter((v) => Number.isFinite(v));
+}
+
+// Rounding is honest reporting, not a mismatch: "$461.8 million" for 461,836,000 is
+// within 0.5%, while "roughly $110,000" for 109,245 (0.7%) is a number the quote does
+// not actually carry.
+function figureIsSupported(value, supported) {
+  return supported.some((candidate) => {
+    if (candidate === value) return true;
+    const scale = Math.max(Math.abs(candidate), Math.abs(value));
+    return scale > 0 && Math.abs(candidate - value) / scale <= 0.005;
+  });
+}
+
 function localMarkdownTarget(rawTarget) {
   if (!rawTarget || rawTarget.startsWith("#")) return null;
   if (/^[a-z][a-z0-9+.-]*:/i.test(rawTarget)) return null; // scheme (http:, mailto:, ...)
@@ -166,8 +413,34 @@ const stats = {
   needsReviewedCount: 0,
   rolesAttributed: 0,
   mapAttributed: 0,
+  identifierAttributed: 0,
+  identifierEligible: 0,
+  sourcePages: 0,
+  sourceTypeStandard: 0,
+  retrievedAttributed: 0,
+  captureRequired: 0,
+  captureArchived: 0,
+  captureVerbatim: 0,
+  captureRaw: 0,
+  sourcesWithoutUrl: 0,
+  sourcesAuthWalled: 0,
+  figureLines: 0,
+  figureLinesCited: 0,
 };
 const wanted = new Map(); // target filename -> Set of referencing pages
+// Work owed on pages that are otherwise valid. Reported as one finding per kind with
+// every affected file named (not a sample), because the point is that the number is
+// visible and shrinking — not that individual pages are exempt. Nothing here is a
+// grandfather clause: a page in a backlog bucket is a page the corpus admits is unproven.
+const backlog = {
+  "missing-archive": [],
+  "missing-verbatim": [],
+  "missing-raw": [],
+  "primary-behind-mirror": [],
+};
+const sourceTier = new Map(); // source filename -> tier
+const sourcePages = new Set(); // every filename with Type: source, tiered or not
+const evidenceCitations = new Map(); // fact filename -> { confidence, line, cited: Set, inProse: Map }
 
 async function lintPage(filename) {
   const filePath = path.join(PAGES_DIR, filename);
@@ -177,6 +450,20 @@ async function lintPage(filename) {
   const headers = parseAttributeHeaders(lines, h1Index);
   const sections = parseSectionHeaders(content);
   const hasNeedsSection = NEEDS_SECTION_RE.test(content);
+
+  // -- Unregistered metadata keys (warning) ---------------------------------
+  // `Accessed` and `Location` are deliberately absent from METADATA_KEYS but reported
+  // elsewhere with instructions specific to them; warning twice would bury the useful message.
+  for (const [key, header] of headers) {
+    if (METADATA_KEYS.has(key) || key === "Accessed" || key === "Location") continue;
+    addFinding(
+      "warning",
+      "unknown-metadata-key",
+      filePath,
+      `**${key}:** is not a registered attribute. Check the spelling against wiki/meta/attributes.md, or register it there and in METADATA_KEYS if the field is real — an unregistered key looks checked and is not.`,
+      header.line
+    );
+  }
 
   // -- Type ------------------------------------------------------------
   const typeHeader = headers.get("Type");
@@ -439,6 +726,360 @@ async function lintPage(filename) {
     }
   }
 
+  // -- Identifiers: the join key into public registries ---------------------
+  const identifiersHeader = headers.get("Identifiers");
+  if (type && IDENTIFIER_TYPES.has(type)) stats.identifierEligible += 1;
+  if (identifiersHeader && identifiersHeader.value) {
+    if (type && !IDENTIFIER_TYPES.has(type)) {
+      addFinding(
+        "error",
+        "unexpected-identifiers",
+        filePath,
+        `**Identifiers:** applies to ${[...IDENTIFIER_TYPES].join(" · ")} pages, not Type: ${type}. A filing's own accession or award number belongs in the page body.`,
+        identifiersHeader.line
+      );
+    } else {
+      stats.identifierAttributed += 1;
+    }
+    const seenKeys = new Set();
+    for (const token of identifiersHeader.value.split(",").map((t) => t.trim()).filter(Boolean)) {
+      const match = token.match(/^([a-z-]+)=(.+)$/);
+      if (!match) {
+        addFinding("error", "invalid-identifier", filePath, `**Identifiers:** entry "${token}" is not \`key=value\`.`, identifiersHeader.line);
+        continue;
+      }
+      const [, key, value] = match;
+      const shape = IDENTIFIER_SHAPES[key];
+      if (!shape) {
+        addFinding(
+          "error",
+          "invalid-identifier",
+          filePath,
+          `**Identifiers:** key "${key}" is outside the closed vocabulary (${Object.keys(IDENTIFIER_SHAPES).join(" · ")}).`,
+          identifiersHeader.line
+        );
+      } else if (!shape.test(value)) {
+        addFinding("error", "invalid-identifier", filePath, `**Identifiers:** "${key}=${value}" does not match the registered shape ${shape}.`, identifiersHeader.line);
+      }
+      if (seenKeys.has(key)) {
+        addFinding("error", "duplicate-identifier", filePath, `**Identifiers:** repeats key "${key}".`, identifiersHeader.line);
+      }
+      seenKeys.add(key);
+    }
+  }
+
+  // -- Source pages: tier, capture, and quote-backed claims ------------------
+  if (type === "source") {
+    stats.sourcePages += 1;
+    sourcePages.add(filename);
+    const sourceTypeHeader = headers.get("Source Type");
+    let tier = null;
+    if (!sourceTypeHeader || !sourceTypeHeader.value) {
+      addFinding("error", "missing-attribute", filePath, "Missing required **Source Type:** attribute on a Type: source page.");
+    } else if (SOURCE_TYPE_VOCAB.includes(sourceTypeHeader.value)) {
+      stats.sourceTypeStandard += 1;
+      tier = SOURCE_TYPE_TIERS[sourceTypeHeader.value];
+      sourceTier.set(filename, tier);
+    } else {
+      // The vocabulary is closed with no grace period: an unrecognized value leaves the
+      // page untiered, and an untiered page is invisible to the Confidence check, which
+      // is how a freeform vocabulary quietly disables enforcement.
+      addFinding(
+        "error",
+        "invalid-source-type",
+        filePath,
+        `**Source Type:** "${sourceTypeHeader.value}" is not in the closed vocabulary (${SOURCE_TYPE_VOCAB.join(" · ")}). Run \`node scripts/migrate-source-metadata.mjs\`.`,
+        sourceTypeHeader.line
+      );
+    }
+
+    // `official-page` and `press-release` assert a speaker, not just a document. Pointing one
+    // at an encyclopedia or a business directory attributes that host's words to the subject.
+    const selfReportedType = sourceTypeHeader?.value === "official-page" || sourceTypeHeader?.value === "press-release";
+    const sourceUrl = headers.get("URL")?.value;
+    if (selfReportedType && sourceUrl && isReferenceHost(sourceUrl.split(/[;,]\s*/)[0])) {
+      addFinding(
+        "error",
+        "self-reported-type-on-reference-host",
+        filePath,
+        `**Source Type:** ${sourceTypeHeader.value} says the subject is speaking in its own voice, but **URL:** points at ${hostOf(sourceUrl)}, which speaks for itself. Retype this as \`reference\` and credit that publisher, or cite the subject's own site.`,
+        sourceTypeHeader.line
+      );
+    }
+
+    if (headers.has("Accessed")) {
+      addFinding(
+        "error",
+        "hand-typed-accessed",
+        filePath,
+        "**Accessed:** is not an attribute. Retrieval dates are written by scripts as **Retrieved:** — run `node scripts/migrate-source-metadata.mjs --write --probe`.",
+        headers.get("Accessed").line
+      );
+    }
+
+    const retrievedHeader = headers.get("Retrieved");
+    if (retrievedHeader && retrievedHeader.value) {
+      if (!ISO_DATE_RE.test(retrievedHeader.value)) {
+        addFinding("error", "invalid-retrieved", filePath, `**Retrieved:** "${retrievedHeader.value}" must be \`YYYY-MM-DD\`.`, retrievedHeader.line);
+      } else {
+        stats.retrievedAttributed += 1;
+        if (Date.now() - new Date(retrievedHeader.value).getTime() > STALE_MS) {
+          addFinding("warning", "stale-retrieval", filePath, `**Retrieved:** ${retrievedHeader.value} is older than ~6 months — re-fetch and check for drift.`, retrievedHeader.line);
+        }
+      }
+    }
+
+    const archiveHeader = headers.get("Archive");
+    const archivedHeader = headers.get("Archived");
+    if (archiveHeader?.value && !archivedHeader?.value) {
+      addFinding("error", "incomplete-archive", filePath, "**Archive:** requires **Archived:** (the snapshot's capture date).", archiveHeader.line);
+    }
+    if (archivedHeader?.value && !archiveHeader?.value) {
+      addFinding("error", "incomplete-archive", filePath, "**Archived:** requires **Archive:** (the snapshot URL).", archivedHeader.line);
+    }
+    if (archiveHeader?.value && !ARCHIVE_URL_RE.test(archiveHeader.value)) {
+      addFinding("error", "invalid-archive", filePath, "**Archive:** must be one bare `https://web.archive.org/web/<timestamp>/<url>` snapshot URL.", archiveHeader.line);
+    }
+    if (archivedHeader?.value && !ISO_DATE_RE.test(archivedHeader.value)) {
+      addFinding("error", "invalid-archived", filePath, `**Archived:** "${archivedHeader.value}" must be \`YYYY-MM-DD\`.`, archivedHeader.line);
+    }
+
+    // A heading with nothing under it used to satisfy the verbatim requirement, because an empty
+    // section body is whitespace and whitespace is truthy. That silently inflated the coverage
+    // figure the whole capture effort is measured by. Content means a blockquote, or a fenced
+    // block — dataset and API pages record machine output (JSON fields, a gauge reading, a CDX
+    // row) in fences rather than quotes, and those are verified by the query recorded beside
+    // them, so seven legitimate pages carry no `>` at all.
+    // One source page describes one document (conventions.md). The way that rule gets broken is
+    // always the same: a page is created as a bundle of "sources" on a topic, and its `Publisher`
+    // ends up naming a committee — "Wikipedia contributors, health-policy journalism, and public
+    // reference sources". Such a page cannot carry an honest `Source Type`, a single `URL`, or a
+    // capture, and it hides its own gaps: one titled "WordPerfect and Novell Historical Sources"
+    // claimed a 1994 acquisition and a BYU origin while the only document it cited was Corel's
+    // current product page. Requiring a conjunction alongside the collective noun keeps a genuine
+    // single publisher like "Wikipedia contributors (Wikimedia Foundation)" out of it.
+    const publisherValue = headers.get("Publisher")?.value || "";
+    if (/(,| and )/i.test(publisherValue) && /\b(sources|contributors|journalism|various|multiple|others)\b/i.test(publisherValue)) {
+      addFinding(
+        "warning",
+        "source-bundles-publishers",
+        filePath,
+        `**Publisher:** names several publishers at once ("${publisherValue}"), so this page is a bundle rather than one document. Split it: one source page per document, each with its own **URL:**, **Source Type:**, and capture.`,
+        headers.get("Publisher")?.line
+      );
+    }
+
+    const verbatim = sectionBody(content, "Verbatim");
+    const verbatimHasContent = /^\s*>/m.test(verbatim) || /```/.test(verbatim);
+    const urlHeader = headers.get("URL");
+    const rawHeader = headers.get("Raw");
+
+    // A missing **Retrieved:** is meaningful — it is how the corpus says "nobody has got a 200
+    // out of this URL" — so a page that plainly did fetch must not look like one that did not.
+    // The way this happens is never deliberate: an agent captures the document, then rewrites
+    // the page around its new quotes and carries **Raw:** across while dropping the fields it
+    // did not author. Twelve pages inverted their own liveness signal that way in one sitting.
+    if (rawHeader?.value && !retrievedHeader?.value && captureStatus.get(rawHeader.value.trim()) === 200) {
+      addFinding(
+        "warning",
+        "retrieved-missing-despite-capture",
+        filePath,
+        "The capture recorded HTTP 200, but **Retrieved:** is absent — which reads as a dead URL. This field is script-owned: run `node scripts/migrate-source-metadata.mjs --write --probe` rather than typing a date.",
+        rawHeader.line
+      );
+    }
+
+    // Capture is owed when nobody is obliged to keep the artifact: either the tier is
+    // self-reported/secondary, or the tier is primary but the cited URL is a mirror.
+    const fragileUrl = Boolean(urlHeader?.value) && !isMandatedHost(urlHeader.value.split(/[;,]\s*/)[0]);
+    // ...but only if there is a document at all. A source page may legitimately record an
+    // unresolved lead — `**URL:** Unknown`, stating that no official page could be confirmed
+    // (see meta/attributes.md, which holds araknitek-official-website.md up as the precedent
+    // for a page like that being *finished*). Charging those pages archive, raw, and verbatim
+    // debt puts work in the backlog that cannot ever be done, and a backlog with permanently
+    // unpayable entries is one people learn to discount. They are counted separately below.
+    const hasDocument = isFetchableUrl(urlHeader?.value?.split(/[;,]\s*/)[0]);
+    if (!hasDocument) stats.sourcesWithoutUrl += 1;
+    // A community-channel permalink is a narrower case, and only one of the three obligations
+    // is genuinely impossible for it. A signed-out fetch gets 200 and a login shell, and the
+    // Internet Archive cannot crawl past that either — so **Archive:** can never exist and
+    // billing it is billing work nobody can do. **Raw:** and **Verbatim:** are a different
+    // matter: the messages were captured with a real session and live in the scraper's
+    // export, so `scripts/capture-slack-sources.mjs` can write them into raw/ and the
+    // substring check applies exactly as it does anywhere else. Those two stay owed, because
+    // they are the only thing standing between the corpus and an invented quote.
+    const authWalled = isAuthWalledHost(urlHeader?.value?.split(/[;,]\s*/)[0]);
+    if (authWalled) stats.sourcesAuthWalled += 1;
+    const captureOwed = Boolean(tier) && hasDocument && (CAPTURE_REQUIRED_TIERS.has(tier) || fragileUrl);
+
+    if (captureOwed) {
+      stats.captureRequired += 1;
+      if (archiveHeader?.value) stats.captureArchived += 1;
+      else if (!authWalled) backlog["missing-archive"].push(`${filename} (${sourceTypeHeader.value})`);
+      if (verbatimHasContent) stats.captureVerbatim += 1;
+      else backlog["missing-verbatim"].push(`${filename} (${sourceTypeHeader.value})`);
+      if (rawHeader?.value) stats.captureRaw += 1;
+      else backlog["missing-raw"].push(`${filename} (${sourceTypeHeader.value})`);
+      // A permanent record cited through a mirror is a real defect, but a fixable one, and
+      // there are two honest fixes: point at the issuing body, or capture the mirror so the
+      // document outlives it. Only flag when neither has happened. Warning a fully captured
+      // page forever would train readers to scroll past this code — and some primary records
+      // genuinely have no fetchable URL at the issuer (IRS 990 data is the standing case).
+      //
+      // Capture here means raw + verbatim, deliberately not archive: a snapshot is a
+      // third-party courtesy that cannot be obtained for every document — no crawler indexes
+      // a JSON API response — whereas the committed bytes and the checked quotes are what
+      // actually make the record survive the mirror. A missing snapshot is still reported, by
+      // missing-archive, which is the bucket that means it.
+      const captured = Boolean(rawHeader?.value) && Boolean(verbatim);
+      if (tier === "primary" && fragileUrl && !captured) {
+        backlog["primary-behind-mirror"].push(`${filename} (${hostOf(urlHeader.value)})`);
+      }
+    }
+
+    // The raw capture is what makes a quote checkable rather than merely consistent.
+    if (rawHeader?.value) {
+      const rawRel = rawHeader.value.trim();
+      if (!rawRel.startsWith("raw/")) {
+        addFinding("error", "invalid-raw", filePath, "**Raw:** must be a repo-relative path under `raw/`.", rawHeader.line);
+      } else if (!rawCaptureExists(rawRel)) {
+        addFinding("error", "missing-raw-file", filePath, `**Raw:** ${rawRel} does not exist. Captures are immutable — never rename or delete one.`, rawHeader.line);
+      } else {
+        // Checked whether or not the page quotes the capture: a capture of the wrong site is
+        // a defect on its own, and the page that has not quoted it yet is precisely the one
+        // where the mistake is still invisible.
+        const offSite = captureRedirectedOffSite(rawRel, urlHeader?.value, content);
+        if (offSite) {
+          addFinding(
+            "warning",
+            "capture-off-site",
+            filePath,
+            `**URL:** was followed to ${offSite}, so the capture holds that site's words, not this one's. Point **URL:** at where the document now lives, or name ${offSite} on the page and say why the redirect is legitimate.`,
+            rawHeader.line
+          );
+        } else {
+          const moved = captureMovedOnHost(rawRel, urlHeader?.value);
+          if (moved) {
+            addFinding(
+              "warning",
+              "capture-url-drift",
+              filePath,
+              `**URL:** redirected to ${moved}, which is what was captured. Everything downstream trusts **URL:** over the bytes — archive resolution asks about the path you cite — so point **URL:** at the document this page actually quotes and re-run \`node scripts/resolve-archive-snapshots.mjs --write\`.`,
+              urlHeader?.line ?? rawHeader.line
+            );
+          }
+        }
+        for (const quote of quotesMissingFromCapture(verbatim, rawRel)) {
+          addFinding(
+            "error",
+            "verbatim-not-in-raw",
+            filePath,
+            `A ## Verbatim quote is not present in ${rawRel}: "${quote.slice(0, 90)}${quote.length > 90 ? "…" : ""}". Quote the document exactly, or re-capture it if the page changed.`
+          );
+        }
+        // Quoting honestly and then claiming more than the document says is the defect the
+        // verbatim check cannot see, and the one three audits actually found. See lib/claims.mjs.
+        // Both sections describe the document, so both are bounded by it. Summary is checked
+        // because that is the text views and search results surface: a stale figure there is
+        // read by more people than one buried in a bullet.
+        for (const section of ["Useful Claims", "Summary"]) {
+          const strayAnchors = unsupportedClaimAnchors(sectionBody(content, section), rawCaptureText(rawRel));
+          if (strayAnchors.length === 0) continue;
+          const named = strayAnchors.slice(0, 5).map((a) => `${a.text} (${a.kind})`).join(", ");
+          addFinding(
+            // An error, not a warning: the corpus is at zero, and the failure mode is a page that
+            // reads as sourced while asserting something its own document does not. A warning here
+            // would accumulate exactly the pages nobody should be able to add.
+            "error",
+            "claim-anchor-not-in-raw",
+            filePath,
+            `${strayAnchors.length} date(s)/figure(s) in ## ${section} appear nowhere in ${rawRel}: ${named}. On a source page this section is bounded by the document — move the claim to a fact page that cites a document supporting it, or say plainly that this capture does not carry it.`
+          );
+        }
+      }
+    }
+
+    // Every figure claimed must be quotable from the artifact. Claim lines that cite
+    // another page are that page's responsibility (supersession notes, cross-refs).
+    if (verbatim) {
+      const supported = supportedFigureValues(verbatim);
+      const unsupported = [];
+      // One claim = one bullet, continuation lines folded in, so a wrapped claim is
+      // read whole and the cross-reference exemption applies to the whole claim.
+      const claims = [];
+      for (const rawLine of sectionBody(content, "Useful Claims").split("\n")) {
+        if (/^\s*[-*]\s/.test(rawLine) || claims.length === 0) claims.push(rawLine.trim());
+        else claims[claims.length - 1] += ` ${rawLine.trim()}`;
+      }
+      for (const claim of claims) {
+        if (/\]\([^)\s]+\.md/.test(claim)) continue;
+        for (const match of claim.matchAll(FIGURE_RE)) {
+          const value = figureValue(match[0]);
+          if (value === null) continue;
+          if (!figureIsSupported(Math.abs(value), supported)) unsupported.push(match[0].trim());
+        }
+      }
+      if (unsupported.length > 0) {
+        addFinding(
+          "warning",
+          "claim-figure-not-in-verbatim",
+          filePath,
+          `${unsupported.length} figure(s) in ## Useful Claims are not carried by ## Verbatim: ${[...new Set(unsupported)].slice(0, 5).join(", ")}. Quote the sentence or drop the number.`
+        );
+      }
+    }
+  }
+
+  // -- Fact pages: what the Evidence section actually cites, and figure provenance --
+  if (type && TEMPLATE_SECTIONS[type]) {
+    const evidence = sectionBody(content, "Evidence");
+    const cited = new Set();
+    for (const match of evidence.matchAll(MARKDOWN_LINK_RE)) {
+      const target = localMarkdownTarget(match[1]);
+      if (target && !target.includes("/")) cited.add(target);
+    }
+    // Where else the page reaches for a source page, so a citation made only in prose can be
+    // told from one the Evidence section actually lists. **Relates:** counts as prose here: it
+    // holds the same `cites [Page](slug.md)` links and was in practice being used as a second,
+    // unreadable Evidence section — three sources were reachable from nothing else.
+    const inProse = new Map();
+    const relates = headers.get("Relates");
+    if (relates?.value) {
+      for (const match of relates.value.matchAll(MARKDOWN_LINK_RE)) {
+        const target = localMarkdownTarget(match[1]);
+        if (target && !target.includes("/") && !cited.has(target)) inProse.set(target, relates.line);
+      }
+    }
+
+    const skipped = new Set(["Evidence", "See Also", "Related Pages"]);
+    let currentSection = null;
+    for (const [index, line] of lines.entries()) {
+      const heading = line.match(/^## (.+?)\s*$/);
+      if (heading) {
+        currentSection = heading[1].trim();
+        continue;
+      }
+      if (currentSection === null || skipped.has(currentSection)) continue;
+      for (const match of line.matchAll(MARKDOWN_LINK_RE)) {
+        const target = localMarkdownTarget(match[1]);
+        if (target && !target.includes("/") && !cited.has(target) && !inProse.has(target)) {
+          inProse.set(target, index + 1);
+        }
+      }
+      if (/^\*\*[^:]+:\*\*/.test(line)) continue;
+      if (!FIGURE_TEST_RE.test(line)) continue;
+      stats.figureLines += 1;
+      if (/\]\([^)\s]+\.md/.test(line) || /https?:\/\//.test(line)) stats.figureLinesCited += 1;
+    }
+
+    evidenceCitations.set(filename, {
+      confidence: confidenceHeader?.value ?? null,
+      line: confidenceHeader?.line ?? null,
+      cited,
+      inProse,
+    });
+  }
+
   // -- Domain-flagged adjudication queue -----------------------------------
   const flaggedHeader = headers.get("Domain-flagged");
   if (flaggedHeader && flaggedHeader.value) {
@@ -476,6 +1117,7 @@ async function lintPage(filename) {
 }
 
 // -- run ---------------------------------------------------------------------
+loadRawCaptures();
 const pageFiles = await listPages();
 stats.totalPages = pageFiles.length;
 
@@ -499,6 +1141,82 @@ for (const { target, referrers } of wantedPages) {
     null,
     `${target} does not exist — referenced by ${referrers.length} page(s): ${referrers.slice(0, 5).join(", ")}${referrers.length > 5 ? ", ..." : ""}`
   );
+}
+
+// A source page reached from the prose but absent from ## Evidence is the failure mode that
+// disables the check below, because that one reads the Evidence section and nothing else. The
+// sequence is ordinary: an agent finds a filing, writes a source page for it, works the finding
+// into the Impact paragraph where it belongs, and never returns to the list at the bottom. The
+// page now rests on a primary record that the corpus cannot see it resting on — so the grade
+// goes ungoverned, the source looks uncited from the other direction, and a later reader
+// auditing "what is this page built on" gets the wrong answer. Same session, three pages.
+for (const [filename, { cited, inProse }] of evidenceCitations) {
+  const unlisted = [...inProse].filter(([target]) => sourcePages.has(target) && !cited.has(target));
+  for (const [target, line] of unlisted) {
+    addFinding(
+      "error",
+      "source-cited-outside-evidence",
+      path.join(PAGES_DIR, filename),
+      `${target} is a Type: source page cited in the prose but missing from ## Evidence, so nothing downstream counts it as evidence for this page. Add it to ## Evidence.`,
+      line
+    );
+  }
+}
+
+// Confidence: High requires a primary-tier source among the pages it cites
+// (meta/attributes.md, "Source Type and tiers"). Every source page now carries a tier, so
+// this sees the whole corpus; a cited page with no tier is a page that is not a source
+// page at all, which other checks handle.
+for (const [filename, { confidence, line, cited }] of evidenceCitations) {
+  if (confidence !== "High" || cited.size === 0) continue;
+  const tiers = [...cited].map((target) => sourceTier.get(target)).filter(Boolean);
+  if (tiers.length === 0 || tiers.includes("primary")) continue;
+  addFinding(
+    "warning",
+    "confidence-without-primary",
+    path.join(PAGES_DIR, filename),
+    `**Confidence:** High but every tiered source cited is ${[...new Set(tiers)].join("/")}. A subject's own site is not primary evidence — cite a filing, award record, dataset, or paper, or drop to Medium.`,
+    line
+  );
+}
+
+// Capture backlog: one finding per kind, naming every affected page. Not a sample — an
+// unarchived source is a claim with a fuse on it, and the list is the work queue.
+const BACKLOG_MESSAGES = {
+  "missing-archive": (n) => `${n} source page(s) owe an **Archive:** snapshot — the claim dies with the URL`,
+  "missing-verbatim": (n) => `${n} source page(s) owe a ## Verbatim excerpt — nothing survives the URL`,
+  "missing-raw": (n) => `${n} source page(s) owe a **Raw:** capture — the quote cannot be checked against the document`,
+  "primary-behind-mirror": (n) =>
+    `${n} primary-tier source page(s) cite a host nobody must preserve and have not captured it — point the URL at the issuing body, or finish the capture (archive + raw + verbatim)`,
+};
+// The console gets the count and a handful of examples; the full lists go to a generated
+// report. A 215-name warning line is not transparency, it is a wall nobody reads — and an
+// unread warning is the same as an exemption.
+const BACKLOG_REPORT = path.join(REPO_ROOT, "research", "raw-data", "capture-backlog.md");
+const backlogEntries = Object.entries(backlog).filter(([, e]) => e.length);
+for (const [code, entries] of backlogEntries) {
+  addFinding(
+    "warning",
+    code,
+    null,
+    `${BACKLOG_MESSAGES[code](entries.length)}. First: ${entries.slice(0, 3).join(", ")}${entries.length > 3 ? ` — full list in ${path.relative(REPO_ROOT, BACKLOG_REPORT)}` : ""}`
+  );
+}
+if (backlogEntries.length) {
+  const report = [
+    "# Capture backlog",
+    "",
+    `Generated by \`node scripts/wiki-lint.mjs\` on ${new Date().toISOString().slice(0, 10)}. Regenerate rather than edit.`,
+    "",
+    "Every page here is valid and typed; what it lacks is evidence that outlives its URL.",
+    "This is the Phase 2 work queue — see `research/design/raw-source-capture.md`.",
+    "",
+  ];
+  for (const [code, entries] of backlogEntries) {
+    report.push(`## ${code} (${entries.length})`, "", ...entries.map((e) => `- ${e}`), "");
+  }
+  fsSync.mkdirSync(path.dirname(BACKLOG_REPORT), { recursive: true });
+  fsSync.writeFileSync(BACKLOG_REPORT, report.join("\n"));
 }
 
 // views/index.md must exist (reminder to run build-views.mjs); we do not otherwise scan views/.
@@ -537,6 +1255,13 @@ const summary = {
       legacyLocation: `${stats.legacyLocation}/${stats.totalPages}`,
       map: `${stats.mapAttributed}/${stats.totalPages}`,
       roles: `${stats.rolesAttributed}/${stats.needsSectionCount}`,
+      identifiers: `${stats.identifierAttributed}/${stats.identifierEligible}`,
+      sourceType: `${stats.sourceTypeStandard}/${stats.sourcePages}`,
+      retrieved: `${stats.retrievedAttributed}/${stats.sourcePages}`,
+      archive: `${stats.captureArchived}/${stats.captureRequired}`,
+      verbatim: `${stats.captureVerbatim}/${stats.captureRequired}`,
+      raw: `${stats.captureRaw}/${stats.captureRequired}`,
+      citedFigures: `${stats.figureLinesCited}/${stats.figureLines}`,
     },
   needsReviewed: {
     pagesWithNeedsSection: stats.needsSectionCount,
@@ -561,6 +1286,15 @@ if (json) {
   console.log(`  Legacy Location remaining: ${summary.coverage.legacyLocation}`);
   console.log(`  Map location coverage: ${summary.coverage.map}`);
   console.log(`  Roles coverage: ${summary.coverage.roles} pages with a "What They Need Now" section`);
+  console.log(`  Identifier coverage: ${summary.coverage.identifiers} eligible pages`);
+  console.log(`  Source Type in vocabulary: ${summary.coverage.sourceType} source pages`);
+  console.log(`  Retrieved (script-written) coverage: ${summary.coverage.retrieved} source pages`);
+  console.log(`  Archive coverage: ${summary.coverage.archive} source pages that owe capture`);
+  console.log(`  Verbatim coverage: ${summary.coverage.verbatim} source pages that owe capture`);
+  console.log(`  Raw capture coverage: ${summary.coverage.raw} source pages that owe capture`);
+  console.log(`  Sources with no resolvable URL: ${stats.sourcesWithoutUrl} (owe no capture; owe a URL)`);
+  console.log(`  Auth-walled community sources: ${stats.sourcesAuthWalled} (owe raw + verbatim; no archive is possible)`);
+  console.log(`  Cited figures: ${summary.coverage.citedFigures} numeric lines on fact pages`);
   console.log(`  Domain-flagged (adjudication queue): ${stats.domainFlagged}`);
   console.log(
     `  Needs-reviewed: ${stats.needsReviewedCount} present / ${stats.needsSectionCount} pages have a "What They Need Now" section`

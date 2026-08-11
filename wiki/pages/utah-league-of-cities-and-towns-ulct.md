@@ -13,7 +13,6 @@
 **Location Source:** https://www.ulct.utah.gov/about/
 **Website:** https://www.ulct.org/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

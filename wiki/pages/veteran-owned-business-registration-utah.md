@@ -9,7 +9,6 @@
 **Region:** statewide
 **Website:** https://vbr.veterans.utah.gov/s/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

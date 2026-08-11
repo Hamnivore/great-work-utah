@@ -1,0 +1,13 @@
+{
+  "source_page": "fourth-street-clinic-official-website.md",
+  "requested_url": "https://fourthstreetclinic.org/",
+  "final_url": "https://fourthstreetclinic.org/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:18:28.036Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "ef777aaf529ec72eec2d69be4c900defc3d5d8928f1dcb077df163ffaf7c6ec0",
+  "text_sha256": "10a46b4b29b46a958417b3dac0461110a850a4a3eac0bc39968ed09f367a7d87",
+  "text_chars": 24440,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

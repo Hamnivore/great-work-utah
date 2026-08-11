@@ -14,7 +14,6 @@
 **Location Source:** https://www.parkcitychamber.com/about-us/
 **Website:** https://www.parkcitychamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

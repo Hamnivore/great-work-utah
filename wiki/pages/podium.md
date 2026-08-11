@@ -18,13 +18,12 @@
 **Domain:** computing
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/podium-local-business-platform-2026/1600/1100
 **Pull:** *One inbox for every message, review, and payment a local business needs to handle.*
 **Relates:** cites [Official Website: Podium](podium-official-website.md) · https://greatutah.work/pages/podium-official-website.md · https://www.podium.com
 
 ## Summary
 
-Podium is a Lehi, Utah cloud-software company that gives local businesses — automotive dealers, dental practices, home-service companies, retail shops — a single platform for customer text messaging, online review management, web chat, and payment collection. Founded in 2014 by Eric Rea and Dennis Steele, Podium grew quickly on the back of a simple insight: local businesses were drowning in disconnected tools for customer communication while their customers increasingly wanted to interact by text. The company reached unicorn status by 2019 and has raised hundreds of millions in venture funding from Accel, Summit Partners, GV (Google Ventures), and others.
+Podium is a Lehi, Utah cloud-software company serving local businesses. Its current captured homepage positions the product as an AI employee that manages customer journeys and lead response. [Official Website: Podium](podium-official-website.md) Founding, financing, valuation, and older product-module claims require separate captured sources.
 
 ## Impact
 
@@ -36,10 +35,10 @@ The review-management component has a direct bottom-line impact: online ratings 
 
 The core Podium product is a unified communications inbox: inbound and outbound SMS, Google and Facebook message handling, web chat widgets, automated review-request campaigns, and an integrated payments layer that lets businesses collect payments via text link. The platform integrates with popular vertical-specific business software — dealer management systems, practice management tools, field-service software — so the communication layer sits on top of existing workflows rather than replacing them.
 
-In 2024–2025, Podium has leaned heavily into AI: automated response drafting, conversation intelligence, and lead qualification via AI chat are now part of the pitch. The AI bet positions Podium as "autonomous communications" for local business rather than just a messaging aggregator.
+Podium now leans heavily into AI. The current captured homepage emphasizes lead conversion and around-the-clock response rather than the older product taxonomy. [Official Website: Podium](podium-official-website.md)
 
 ## What They Need Now
-Hiring is heavy on AI go-to-market and delivery (AI customer success, vertical onboarding specialists, AI software sales), plus analytics engineering, account management, and SDRs. Broader fit still includes backend/mobile/AI software engineers, product managers with local-business domain knowledge, and implementation teams for vertical markets (automotive, healthcare, home services). The company is headquartered in Lehi and has grown its headcount meaningfully since the 2019 unicorn raise.
+Hiring is heavy on AI go-to-market and delivery, plus analytics engineering, account management, and SDRs. The company is headquartered in Lehi; current headcount requires a separate source.
 
 ## Who Could Help
 
@@ -51,7 +50,7 @@ Podium is one of Silicon Slopes' most prominent unicorns — a homegrown SaaS co
 
 ## Evidence
 
-- [Official Website: Podium](https://www.podium.com) · https://www.podium.com
+- [Official Website: Podium](podium-official-website.md) · https://greatutah.work/pages/podium-official-website.md · https://www.podium.com
 
 ## See Also
 
@@ -61,7 +60,7 @@ Podium is one of Silicon Slopes' most prominent unicorns — a homegrown SaaS co
 
 ## Open Questions
 
-- Current valuation, revenue, and ARR following post-2021 market corrections in SaaS — is the company still at or above unicorn valuation?
+- What are the company's current valuation, revenue, and ARR?
 - How does the AI-communication push compare against emerging competitors like Birdeye, Broadly, and the major CRM platforms building text-messaging layers?
 - What is the current ownership structure and exit timeline — IPO, acquisition, or continued private growth?
 - The placeholder hero should be swapped for a cleared product or team image when rights are confirmed.

@@ -1,0 +1,13 @@
+{
+  "source_page": "best-friends-animal-society-official-website.md",
+  "requested_url": "https://bestfriends.org/about",
+  "final_url": "https://bestfriends.org/who-we-are",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:47:14.326Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "47f8a44b603809309412bdb899ff2ba38bdea90faebd5dd057a816a5a4847594",
+  "text_sha256": "bc1f0f032a76987174d41463fdb8332d1fdb7309780960731137bfc9706228c8",
+  "text_chars": 8273,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

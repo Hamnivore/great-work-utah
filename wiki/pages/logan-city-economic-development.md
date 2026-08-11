@@ -14,7 +14,6 @@
 **Location Source:** https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
 **Website:** https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

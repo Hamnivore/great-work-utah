@@ -17,7 +17,6 @@
 **Careers:** https://www.cosm.com/careers/positions
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
-**Hero:** https://picsum.photos/seed/cosm-dome-slc/1600/1100
 **Pull:** *Nearly 100 NVIDIA GPUs per dome, 70 years of planetarium engineering, and a bet that the future of live sports is a shared room, not a solo headset.*
 **Relates:** cites [Official Website: Cosm](cosm-official-website.md) · https://greatutah.work/pages/cosm-official-website.md · https://cosm.com
 

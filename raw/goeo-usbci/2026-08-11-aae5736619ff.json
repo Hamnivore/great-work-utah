@@ -1,0 +1,13 @@
+{
+  "source_page": "goeo-usbci.md",
+  "requested_url": "https://business.utah.gov/usbci/",
+  "final_url": "https://business.utah.gov/usbci/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:46.019Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "37b8bdc8e582bd897e78087a2f3ac35169b52972c568c9644feb5e4f041b816f",
+  "text_sha256": "aae5736619ffe753f9ee765add319db93f9692bafdb5eabe337e8d9e3efc6113",
+  "text_chars": 18091,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

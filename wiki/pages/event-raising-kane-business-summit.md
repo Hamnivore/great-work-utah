@@ -9,7 +9,6 @@
 **Region:** Kane County
 **Website:** https://www.raisingkanesummit.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

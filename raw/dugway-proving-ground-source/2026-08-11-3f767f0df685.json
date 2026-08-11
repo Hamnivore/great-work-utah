@@ -1,0 +1,13 @@
+{
+  "source_page": "dugway-proving-ground-source.md",
+  "requested_url": "https://www.army.mil/dugway",
+  "final_url": "https://www.army.mil/dugway",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T21:16:22.255Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "55f58d31ae40ca4d41ab02e4a4723f919cb4daa6238d0e923c645fdbb45bb2ca",
+  "text_sha256": "3f767f0df68580dfef3ba4bb78be5b997589eca6957aa04225219b72fb20525a",
+  "text_chars": 16659,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

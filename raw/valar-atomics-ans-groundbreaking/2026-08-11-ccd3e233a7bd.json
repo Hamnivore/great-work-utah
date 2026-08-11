@@ -1,0 +1,13 @@
+{
+  "source_page": "valar-atomics-ans-groundbreaking.md",
+  "requested_url": "https://www.ans.org/news/2025-09-25/article-7408/valar-atomics-breaks-ground-in-utah/",
+  "final_url": "https://www.ans.org/news/2025-09-25/article-7408/valar-atomics-breaks-ground-in-utah/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:58.248Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "1f43389bea7e2b27d426d4d7ae88de2b37cd1e9886bf7bc40764e815a87f1306",
+  "text_sha256": "ccd3e233a7bd90969bb643af1b6cfdc3b97b2a964103d9f580635450a8a0f1b2",
+  "text_chars": 9497,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

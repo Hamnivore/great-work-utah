@@ -1,0 +1,13 @@
+{
+  "source_page": "bioenergenix-uofu-health-press-release.md",
+  "requested_url": "https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic",
+  "final_url": "https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:19.820Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "6df09d0f3f18d640913eedbb8a8c17d0b8d34d42a0e297ae46a785a5c779e318",
+  "text_sha256": "8d0ab251d64a2967a22acc3d8d7fb1641f38a714e3a9a34b051db112aa3cc00b",
+  "text_chars": 6051,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

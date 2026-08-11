@@ -13,7 +13,6 @@
 **Location Source:** https://www.uii.utah.gov/pmn/sitemap/publicbody/6413.html
 **Website:** https://inlandportauthority.utah.gov/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

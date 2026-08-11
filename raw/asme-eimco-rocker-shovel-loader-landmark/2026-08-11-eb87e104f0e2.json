@@ -1,0 +1,13 @@
+{
+  "source_page": "asme-eimco-rocker-shovel-loader-landmark.md",
+  "requested_url": "https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b",
+  "final_url": "https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:16.867Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "a961bc156955b4210ba2f838463d5c7ed1ce30ed9949073613fd7b2ce86d2e77",
+  "text_sha256": "eb87e104f0e28207d67ca3712c12ffbc8a048f0f1c95c2cfacb1bdd34b210532",
+  "text_chars": 6142,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

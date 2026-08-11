@@ -1,0 +1,13 @@
+{
+  "source_page": "intermountain-clinical-quality-improvement-sources.md",
+  "requested_url": "https://en.wikipedia.org/wiki/Intermountain_Health",
+  "final_url": "https://en.wikipedia.org/wiki/Intermountain_Health",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:53.781Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "0907f739c3aede8b05fa1c39c1b68aa8db058cc11c9a1205c727c09297baade4",
+  "text_sha256": "c75d8bf71a72e7dda78bb75db415a7c813887743a13ee03974444b396267b5e7",
+  "text_chars": 21660,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

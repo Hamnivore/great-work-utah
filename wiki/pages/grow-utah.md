@@ -13,7 +13,6 @@
 **Location Source:** https://growutah.com/about
 **Website:** https://www.growutah.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

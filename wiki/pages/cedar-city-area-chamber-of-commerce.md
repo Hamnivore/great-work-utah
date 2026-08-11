@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://www.cedarcitychamber.org/
 **Website:** https://www.cedarcitychamber.org/
-**Layout:** field-guide
 
 ## Summary
 

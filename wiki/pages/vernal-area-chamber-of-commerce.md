@@ -13,7 +13,6 @@
 **Location Source:** https://www.vernalchamber.com/
 **Website:** https://www.vernalchamber.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

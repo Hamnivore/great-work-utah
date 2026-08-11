@@ -1,0 +1,13 @@
+{
+  "source_page": "nsa-utah-data-center-official-website.md",
+  "requested_url": "https://en.wikipedia.org/wiki/Utah_Data_Center",
+  "final_url": "https://en.wikipedia.org/wiki/Utah_Data_Center",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:16.948Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "4cc39af2e80082c6fd4307fd1d20860fc093f1d3348e676c8d78d1eff24fd0b2",
+  "text_sha256": "db457f91b1784df06c47942d3bdb9aaaf233029370784e257a4d42947270278f",
+  "text_chars": 18133,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

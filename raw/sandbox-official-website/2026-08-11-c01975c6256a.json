@@ -1,0 +1,13 @@
+{
+  "source_page": "sandbox-official-website.md",
+  "requested_url": "https://web.sandbox.ing",
+  "final_url": "https://web.sandbox.ing/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:30.207Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "d88fa750e89821468271f2c9b7585c9fee894771b5d33bbaa7115a9e5cd60647",
+  "text_sha256": "c01975c6256a8e943cba74973019e88ba0ef5812673a7309ebb9c2ba6e07bf9d",
+  "text_chars": 4443,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

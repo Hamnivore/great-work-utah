@@ -1,0 +1,13 @@
+{
+  "source_page": "deseret-book-bonneville-official-website.md",
+  "requested_url": "https://deseretbook.com",
+  "final_url": "https://www.deseretbook.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:35.096Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "bytes_sha256": "c4bbae31a7c1f2d1f5b9f3d2173d6e4c2448ad0d383438578c507774f28e60b0",
+  "text_sha256": "5058ff14dd339f8775d301985e404d1044230db858f9d9e2ffb7cc2381df6164",
+  "text_chars": 3121,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

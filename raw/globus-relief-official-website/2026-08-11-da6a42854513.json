@@ -1,0 +1,13 @@
+{
+  "source_page": "globus-relief-official-website.md",
+  "requested_url": "https://globusrelief.org/about",
+  "final_url": "https://globusrelief.org/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:19.178Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "9738974ecadd2d4ed7d2c1889528a9a8fbb3e07a665e592579997b7d95fe6a41",
+  "text_sha256": "da6a42854513d0dd2e26534c32e22b54f253bc342cdd841e079795ae78c09203",
+  "text_chars": 2721,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

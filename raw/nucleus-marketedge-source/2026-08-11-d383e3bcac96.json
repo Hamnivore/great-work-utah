@@ -1,0 +1,13 @@
+{
+  "source_page": "nucleus-marketedge-source.md",
+  "requested_url": "https://www.nucleusutah.org/marketedge",
+  "final_url": "https://www.nucleusutah.org/marketedge",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:11:19.022Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "556592fe0934ee1ce6b675a7ac3498237c6cd42f9fd1863b9e5916082480aef7",
+  "text_sha256": "d383e3bcac96cb5286adb855712f812811460b8b200095841f8c77b5718d497b",
+  "text_chars": 3072,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

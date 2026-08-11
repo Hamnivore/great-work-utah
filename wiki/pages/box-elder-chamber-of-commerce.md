@@ -14,7 +14,6 @@
 **Location Precision:** exact
 **Location Source:** https://members.boxelderchamber.com/contact
 **Website:** https://www.boxelderchamber.com/
-**Layout:** field-guide
 
 ## Summary
 

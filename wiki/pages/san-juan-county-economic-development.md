@@ -13,7 +13,6 @@
 **Location Source:** https://sanjuancountyut.gov/econdev/page/monticello-coworking-space
 **Website:** https://www.sjcutaheconomicdevelopment.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

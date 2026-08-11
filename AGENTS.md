@@ -95,6 +95,27 @@ Put the **best live** URL in `**Website:**`. Cite Wayback under Evidence when th
 gone. Add confirmed typo/redirect fixes to `url-aliases.json`. Playbook:
 `research/link-recovery/README.md`.
 
+## Identifiers (the registry join key)
+
+`**Identifiers:**` (`cik`, `ein`, `ror`, `uei`, …) is what turns "find a primary source for this
+company" into a fetch instead of a search. Resolve them with the script, never by memory:
+
+- `npm run identifiers` — dry run; proposes candidates and writes
+  `research/raw-data/identifier-resolution.md` (generated, not in Git).
+- `npm run identifiers:write` — applies **only** matches it could corroborate by name against the
+  registry's own record. Never overwrites an identifier a page already carries.
+- `npm run identifiers:audit` — re-derives identifiers the corpus already has and reports
+  agreement. Run this after changing the matching rules; it is the only guard on precision.
+
+A wrong key is worse than no key: every later harvest inherits it, and nothing downstream can tell a
+corroborated identifier from a guessed one. Anything ambiguous goes to the report for adjudication —
+recording nothing and saying why in `## Open Questions` is a finished page, not an unfinished one.
+
+Two traps the audit found. **A registry's state is corroboration, not a requirement** — Fervo files
+from Houston and drills in Beaver County, so demanding a Utah address rejects correct matches.
+**Prefer the entity's own registrant over its parent**: a subsidiary page carrying the acquirer's
+CIK will hand a harvester the parent's consolidated financials (see `blue-raven-solar.md`).
+
 ## Before interface / navigation / contribution work
 
 Read `research/README.md` first — it records the standing maintainer directives (radical

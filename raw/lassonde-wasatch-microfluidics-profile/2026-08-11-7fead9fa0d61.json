@@ -1,0 +1,13 @@
+{
+  "source_page": "lassonde-wasatch-microfluidics-profile.md",
+  "requested_url": "https://lassonde.utah.edu/wasatch-microfluidics-from-the-lassonde-institute-to-pfizer-research-offices/",
+  "final_url": "https://lassonde.utah.edu/wasatch-microfluidics-from-the-lassonde-institute-to-pfizer-research-offices/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:40:38.700Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "57f4f019b987f9736367ee7805af9b2325e5c5ff6cd23405bdb47a10f884ba91",
+  "text_sha256": "7fead9fa0d61cb6852d796441de1b039ae7be578c736f513ea292bb917fb2da4",
+  "text_chars": 6541,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

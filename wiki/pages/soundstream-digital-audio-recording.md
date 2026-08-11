@@ -4,13 +4,15 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** audio engineering, signal processing, digital recording, music technology, university spinout
+**Domain:** culture-place, computing
 **Era:** 1975-1985
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
 **Website:** https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states
-**Updated:** 2026-06-18
+**Updated:** 2026-08-11
 **Pull:** *The first commercial digital recording company in the United States grew out of a University of Utah engineer's quarrel with analog tape.*
+**Relates:** cites [U.S. Patent 4,202,018 — Stockham / Soundstream, Error Recognition and Correction](soundstream-error-correction-patent-us4202018.md) · https://greatutah.work/pages/soundstream-error-correction-patent-us4202018.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4202018
 
 ## Summary
 
@@ -58,7 +60,8 @@ That connection places Soundstream squarely inside Utah's signal-and-computing r
 
 ## Evidence
 
-- [Source: Soundstream Digital Recording Sources](soundstream-digital-recording-sources.md) · https://greatutah.work/pages/soundstream-digital-recording-sources.md · https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states
+- [U.S. Patent 4,202,018: Stockham / Soundstream, error recognition and correction of recorded digital information](soundstream-error-correction-patent-us4202018.md) · https://greatutah.work/pages/soundstream-error-correction-patent-us4202018.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/4202018 — the primary record: filed Sept. 27, 1978 and granted May 6, 1980, inventor Thomas G. Stockham Jr., assignee Soundstream, Inc. of Utah; documents the 16-bit linear signal chain and the main/backup-track error handling.
+- [Source: Soundstream and Commercial Digital Recording (JARP, 2012)](soundstream-jarp-article.md) · https://greatutah.work/pages/soundstream-jarp-article.md · https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states
 - [Journal on the Art of Record Production: Soundstream — the introduction of commercial digital recording in the United States](http://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states/) · http://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states/ — scholarly account of the company, founding (May 1975), and Stockham's background and honors.
 - [Audio Engineering Society: Tom Stockham and Digital Audio Recording](http://www.aes-media.org/historical/html/recording.technology.history/stockham.html) · http://www.aes-media.org/historical/html/recording.technology.history/stockham.html — AES historical record of Stockham's awards and the Soundstream system.
 - [Wikipedia: Soundstream](https://en.wikipedia.org/wiki/Soundstream) · https://en.wikipedia.org/wiki/Soundstream — system specs (16-bit, 50 kHz), label list, 18 recorders, Caruso restoration, Telarc collaboration.
@@ -67,6 +70,7 @@ That connection places Soundstream squarely inside Utah's signal-and-computing r
 
 ## Open Questions
 
-- Digital recording was developing internationally in the 1970s (Denon and others); the "first in the U.S." claim is well supported but should not be read as "first in the world."
+- Digital recording was developing internationally in the 1970s (Denon and others); the "first in the U.S." claim is well supported but should not be read as "first in the world." It is also the one claim here that no primary document can settle — a priority superlative is a judgment across the record, so it rests on the scholarly account in the *Journal on the Art of Record Production* rather than on the Soundstream patents.
+- The May 1975 founding date is not carried by a primary record. Utah Division of Corporations registration for Soundstream, Inc. would settle it, and would also confirm the Utah incorporation the patent's assignment history implies.
 - Sources vary on exact sampling rates across Soundstream's machine generations (prototype ~37.5 kHz up to 50 kHz); the page gives the range.
 - The roles of additional early collaborators (the legacy seed names Malcolm Low as a cofounder) are less well documented in public sources and should be verified before raising confidence on co-founder attribution.

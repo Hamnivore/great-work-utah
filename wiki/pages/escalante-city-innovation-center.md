@@ -13,7 +13,6 @@
 **Location Precision:** exact
 **Location Source:** https://www.escalantecity-utah.com/wp-content/uploads/2024/03/Escalante-General-Plan-.pdf
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

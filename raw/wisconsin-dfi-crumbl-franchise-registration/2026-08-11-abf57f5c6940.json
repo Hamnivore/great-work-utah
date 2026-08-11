@@ -1,0 +1,13 @@
+{
+  "source_page": "wisconsin-dfi-crumbl-franchise-registration.md",
+  "requested_url": "https://apps.dfi.wi.gov/apps/FranchiseSearch/details.aspx?hash=2091896335&id=638417",
+  "final_url": "https://apps.dfi.wi.gov/apps/FranchiseSearch/details.aspx?hash=2091896335&id=638417",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:44:38.981Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "e3160d77092405a4471060f94014fd1798f39bcfb010b4859845227cc59b9736",
+  "text_sha256": "abf57f5c69403ab740c20de23682cc4961d3a984ae99afad103d77d102843043",
+  "text_chars": 1218,
+  "extractor": "manual curl + extractText"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "best-of-state-award-categories-page.md",
+  "requested_url": "https://www.bestofstate.org/categories",
+  "final_url": "https://www.bestofstate.org/categories",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:33:21.255Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "27a4c0789c2ba6076f824371c941179639505358f8a83c2d9a966ae7d9503a83",
+  "text_sha256": "f358307bee4afdfcd3ea317244cb54d3ef64fa135704672b59b53bd5af649b67",
+  "text_chars": 21214,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

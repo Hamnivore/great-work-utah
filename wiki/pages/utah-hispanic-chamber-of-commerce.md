@@ -14,7 +14,6 @@
 **Additional Map Location:** 7181 S Campus View Dr, West Jordan, UT 84084 | 40.620495, -111.983019 | exact | https://utahhcc.com/contact-us/
 **Website:** https://utahhcc.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

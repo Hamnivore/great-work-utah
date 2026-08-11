@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Focus:** materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation
+**Domain:** materials-mfg
 **Era:** first diamond synthesis 1954 (at GE); Utah press work 1955-1970s
 **Primary Location:** General Electric Research Laboratory, Schenectady, NY
 **Utah Location:** Brigham Young University, Provo, UT
@@ -13,7 +14,9 @@
 **Location Precision:** exact
 **Location Source:** https://www.byu.edu/contact
 **Website:** https://www.invent.org/inductees/h-tracy-hall
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
+**Relates:** cites [U.S. Patent 2,918,699 — Hall, "High Pressure Press" (tetrahedral press)](hall-tetrahedral-press-patent-us2918699.md) · https://greatutah.work/pages/hall-tetrahedral-press-patent-us2918699.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2918699
+**Relates:** cites [U.S. Patent 3,159,876 — Hall, "High Pressure Press" (cubic press)](hall-cubic-press-patent-us3159876.md) · https://greatutah.work/pages/hall-cubic-press-patent-us3159876.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/3159876
 **Relates:** cites [National Inventors Hall of Fame — H. Tracy Hall](nihf-h-tracy-hall.md) · https://greatutah.work/pages/nihf-h-tracy-hall.md · https://www.invent.org/inductees/h-tracy-hall
 **Relates:** cites [Chemical & Engineering News — First Diamond Synthesis, 50 Years Later](cen-first-diamond-synthesis.md) · https://greatutah.work/pages/cen-first-diamond-synthesis.md · https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html
 **Relates:** cites [BYU Special Collections — H. Tracy Hall Biography](byu-archives-h-tracy-hall.md) · https://greatutah.work/pages/byu-archives-h-tracy-hall.md · https://archives.lib.byu.edu/agents/people/2364
@@ -53,6 +56,7 @@ Hall's Utah connection is direct and durable: a University of Utah Ph.D. who bui
 - **Francis Bundy, Herbert Strong, Robert Wentorf** — GE Project Superpressure colleagues; part of the contested credit story around the first synthesis.
 - **M. Duane Horton and Bill J. Pope** — BYU colleagues associated with the company effort that became MegaDiamond.
 - **MegaDiamond / Novatek ecosystem** — Provo-area companies tied to industrial diamond and high-pressure technology.
+- **[US Synthetic](us-synthetic.md)** — Orem, founded April 1978, the industrial descendant of this line. Bill Pope's son Louis managed MegaDiamond's manufacturing plant for five years, helping design its hydraulic presses, before founding US Synthetic with his father as its first president ([Deseret News, 1998](deseret-news-us-synthetic-1998.md)); the company says it presses polycrystalline diamond on cubic press technology of its own design. Bill Pope later founded Diamicron to apply the same materials work to diamond-coated orthopedic implants ([Deseret News, 2010](deseret-news-bill-pope-obituary-2010.md)).
 
 ## Lessons for Builders
 
@@ -63,14 +67,18 @@ Hall's Utah connection is direct and durable: a University of Utah Ph.D. who bui
 
 ## Evidence
 
+- [U.S. Patent 2,918,699: Hall, "High Pressure Press" — the tetrahedral press](hall-tetrahedral-press-patent-us2918699.md) · https://greatutah.work/pages/hall-tetrahedral-press-patent-us2918699.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2918699 — the primary record for the four-anvil design: filed Apr. 28, 1958 from Provo, granted Dec. 29, 1959.
+- [U.S. Patent 3,159,876: Hall, "High Pressure Press" — the cubic press](hall-cubic-press-patent-us3159876.md) · https://greatutah.work/pages/hall-cubic-press-patent-us3159876.md · https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/3159876 — the six-anvil successor, granted Dec. 8, 1964, and the document in which Hall records its descent from the tetrahedral press.
 - [National Inventors Hall of Fame: H. Tracy Hall](https://www.invent.org/inductees/h-tracy-hall) · https://www.invent.org/inductees/h-tracy-hall — [source record](nihf-h-tracy-hall.md) · https://greatutah.work/pages/nihf-h-tracy-hall.md
 - [Chemical & Engineering News: First Diamond Synthesis, 50 Years Later — a Murky Picture of Who Deserves Credit](https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html) · https://cen.acs.org/articles/82/i5/First-Diamond-Synthesis-50-Years.html — [source record](cen-first-diamond-synthesis.md) · https://greatutah.work/pages/cen-first-diamond-synthesis.md
 - [BYU Special Collections: H. Tracy Hall biography](https://archives.lib.byu.edu/agents/people/2364) · https://archives.lib.byu.edu/agents/people/2364 — [source record](byu-archives-h-tracy-hall.md) · https://greatutah.work/pages/byu-archives-h-tracy-hall.md
 - [Wikipedia: H. Tracy Hall](https://en.wikipedia.org/wiki/H_Tracy_Hall) · https://en.wikipedia.org/wiki/H_Tracy_Hall
 - [H. Tracy Hall Foundation](https://www.htracyhall.org/) · https://www.htracyhall.org/
+- [Source: Deseret News — "US Synthetic got rocky start" (1998)](deseret-news-us-synthetic-1998.md) · https://greatutah.work/pages/deseret-news-us-synthetic-1998.md · https://www.deseret.com/1998/6/21/19386584/us-synthetic-got-rocky-start/ — contemporaneous reporting on the commercial line running out of these presses.
+- [Source: Deseret News — Bill Pope Obituary Feature (2010)](deseret-news-bill-pope-obituary-2010.md) · https://greatutah.work/pages/deseret-news-bill-pope-obituary-2010.md · https://www.deseret.com/2010/12/18/20161471/diamond-expert-bill-pope-leaves-behind-legacy-of-hard-work-curiosity/ — on Bill Pope's part in carrying the press work from BYU into MegaDiamond and US Synthetic.
 
 ## Open Questions
 
 - Accounts of Hall's role and recognition at GE are historically charged; this page should keep distinguishing clean attribution (the Belt design, the Dec. 16, 1954 run) from contested credit.
-- A future `ventures/megadiamond.md` page would be a natural cross-link target; it does not yet exist.
-- Confirm the exact founding date and corporate history of MegaDiamond and Novatek against primary sources before stating them precisely.
+- A `megadiamond.md` page would be a natural cross-link target and does not yet exist. Neither does one for Diamicron. [US Synthetic](us-synthetic.md) now exists and carries the downstream half of this story.
+- Confirm the exact founding date and corporate history of MegaDiamond and Novatek against primary sources before stating them precisely. The only source the corpus currently holds for the MegaDiamond founding trio is a 2010 newspaper obituary quoting a company CEO ([Deseret News](deseret-news-bill-pope-obituary-2010.md)) — well-placed but interested, and no registration record has been pulled.

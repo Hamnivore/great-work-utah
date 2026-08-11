@@ -16,7 +16,6 @@
 **Additional Map Location:** Eide Bailly Orem office, 1061 S 800 E, Suite 120, Orem, UT 84097 | 40.2777286, -111.6761151 | exact | https://www.eidebailly.com/locations/orem
 **Website:** https://www.eidebailly.com/locations/salt-lake-city
 **Updated:** 2026-07-14
-**Layout:** field-guide
 
 ## Summary
 

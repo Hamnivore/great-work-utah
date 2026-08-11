@@ -1,0 +1,13 @@
+{
+  "source_page": "best-of-state-about-page.md",
+  "requested_url": "https://www.bestofstate.org/about",
+  "final_url": "https://www.bestofstate.org/about",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:31:54.883Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "0a4846162df71bc4542226ed5132cced414ca2fd21ebba723bfbb0621de57a17",
+  "text_sha256": "309bb8fef2743bce9bcdfe9a2b7ddef7011318a2206350ddc25de85ec1c8d1a3",
+  "text_chars": 991,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -1,0 +1,13 @@
+{
+  "source_page": "utahn-why-im-building-utahn-essay.md",
+  "requested_url": "https://utahn.com/why-im-building-utahn/",
+  "final_url": "https://utahn.com/why-im-building-utahn/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:06:45.383Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "fe1a3a1fbb5e233c71e85599cd85a08b2d86b1b6b3562322c30357aed6d19e3d",
+  "text_sha256": "9233610066bf8b51a00dde2b71c645b1ced5be73c5724722b5cdb3ff27a990e4",
+  "text_chars": 11494,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

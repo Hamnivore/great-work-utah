@@ -1,0 +1,13 @@
+{
+  "source_page": "act-aerospace-official-website.md",
+  "requested_url": "https://actaero.com",
+  "final_url": "https://actaero.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:14.607Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "e6d0f2d82cb1c6b77477bb455a7a2a3a1b7246b8ac20753d021e90491ceb8019",
+  "text_sha256": "7b70a70f6554bd3a8b74d400ddcc90aa0b0866adfb9d189353dfaa06d94569c0",
+  "text_chars": 2689,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

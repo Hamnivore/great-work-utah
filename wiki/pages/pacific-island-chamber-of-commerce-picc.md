@@ -10,7 +10,6 @@
 **Region:** Salt Lake County; Utah County
 **Website:** https://www.pik2ar.org/picc
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

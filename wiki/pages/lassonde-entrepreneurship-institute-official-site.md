@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://lassonde.utah.edu/
+**Archive:** https://web.archive.org/web/20260609215232/https://lassonde.utah.edu/
+**Archived:** 2026-06-09
 **Publisher:** University of Utah Lassonde Entrepreneurship Institute
-**Accessed:** 2026-06-18
+**Raw:** raw/lassonde-entrepreneurship-institute-official-site/2026-08-11-d2d492a1b431.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-18
 
 ## Summary
@@ -18,6 +21,19 @@ The Lassonde Entrepreneurship Institute official site describes the University o
 - Lassonde says it welcomes University of Utah students who want to become founders, creators, or change-makers.
 - Public paths include Lassonde Studios, programs and academics, events, workshops, Get Seeded, Make Program, Lassonde DevLab, Hours with Experts, competitions, company launch support, Bench to Bedside, entrepreneurship classes, and related community programs.
 - The site includes current event listings and startup examples.
+
+## Verbatim
+
+> "Welcome to the nationally ranked hub for student entrepreneurs and innovators at the University of
+> Utah. Whether you want a deep dive or only have an hour, the Lassonde Institute has something for all
+> students to learn how to become a founder, creator or change-maker."
+> — Home page, welcome section
+
+> "All students are welcome to live, create, launch here."
+> — Home page, hero
+
+> "Live. Create. Launch."
+> — Home page, tagline
 
 ## Reliability Notes
 

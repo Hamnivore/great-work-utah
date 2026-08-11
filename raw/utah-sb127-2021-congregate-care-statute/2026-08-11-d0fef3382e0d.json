@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-sb127-2021-congregate-care-statute.md",
+  "requested_url": "https://le.utah.gov/~2021/bills/sbillenr/SB0127.htm",
+  "final_url": "https://le.utah.gov/~2021/bills/sbillenr/SB0127.htm",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T22:54:32.625Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes_sha256": "31ab59e74d9b25265e8e7e83b03b3372f8131c65848d7c7441a2bc9c8e254027",
+  "text_sha256": "d0fef3382e0df382c3e4f491bec18cc51b6bf58425223b65bbc3892bf5c28d2d",
+  "text_chars": 64891,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

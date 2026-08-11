@@ -14,7 +14,6 @@
 **Location Source:** https://parsonsbehle.com/locations/law-firms-salt-lake-city
 **Website:** https://parsonsbehle.com/
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

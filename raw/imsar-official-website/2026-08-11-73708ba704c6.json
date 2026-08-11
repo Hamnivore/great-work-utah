@@ -1,0 +1,13 @@
+{
+  "source_page": "imsar-official-website.md",
+  "requested_url": "https://www.imsar.com/",
+  "final_url": "https://www.imsar.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:52.300Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "f296f636670fe285bdf1cef92c4aaf06812ced587699bc8db481e1a56c017358",
+  "text_sha256": "73708ba704c6e60f269cbfe1e364c88157fe7a90b5aecaaeaaaf5926f6f337df",
+  "text_chars": 6589,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

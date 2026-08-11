@@ -1,0 +1,13 @@
+{
+  "source_page": "bidi-contracting-official-website.md",
+  "requested_url": "https://www.bidicontracting.com/",
+  "final_url": "https://struvia.co/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:22:09.225Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "3799b14e6699aee8d05fa052d19e35ad925d485af0152062f65083e9c86c78a6",
+  "text_sha256": "9a75d24eef972a874e3612303001f62491c4509dadc0c5c926a6eb846a802c68",
+  "text_chars": 7659,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

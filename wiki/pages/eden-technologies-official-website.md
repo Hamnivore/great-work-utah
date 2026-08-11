@@ -3,10 +3,13 @@
 **Type:** source
 **Status:** Useful
 **Confidence:** Low
-**Source Type:** Official Website
+**Source Type:** official-page
 **URL:** https://edentechinc.com
+**Archive:** https://web.archive.org/web/20260527020922/https://www.edentechinc.com/
+**Archived:** 2026-05-27
 **Publisher:** Eden Technologies
-**Accessed:** 2026-06-19
+**Raw:** raw/eden-technologies-official-website/2026-08-11-d2a663747443.txt
+**Retrieved:** 2026-08-11
 **Updated:** 2026-06-19
 
 ## Summary
@@ -15,16 +18,34 @@ Eden Technologies' official website describes the Reverse Osmosis Centrifuge (RO
 
 ## Useful Claims
 
-- The ROC applies centrifugal force to the reverse osmosis brine-side process to extract more water before disposal.
-- The company claims approximately 2x freshwater yield improvement and a 15% recovery rate increase over conventional reverse osmosis operation.
-- Pilot deployments are reported with Navajo Nation and in Saudi Arabia — two contexts with very different water chemistry and operational environments.
-- The company was founded in 2020 as a spinout from Utah Tech University by Hunter Manz (CEO) and Zachary Manweiler.
-- Funding as of 2023: approximately $750K seed plus $250K from the Utah Innovation Fund.
-- Zero liquid discharge is presented as a design goal — full water extraction leaving only solid mineral waste.
+- Eden says its patented Reverse Osmosis Centrifuge delivers up to twice as much freshwater from high-salinity water with less waste, enabling zero liquid discharge and brine mining.
+- The site names brine mining, seawater and brackish desalination, and oil-and-gas produced water as applications.
+- Utah Tech University and the Utah Innovation Fund appear in the site's partnership list.
+- The current homepage lists a Lockhart, Texas address.
+- The prior recovery-rate improvement figure, pilot deployments, 2020 spinout and founders, and funding amounts do not appear in this capture and require separate sources.
+
+## Verbatim
+
+> "High-recovery desalination is here! Our patented Reverse Osmosis Centrifuge (ROC) delivers up to 2× more freshwater from high-salinity water with less waste, unlocking zero liquid discharge (ZLD) and brine mining."
+> — Home page, hero
+
+> "ROC is uniquely suited to treat and concentrate  high-salinity brines, complex brines, enabling mineral recovery and reducing ZLD system loads."
+> — Home page, brine mining
+
+> "Brine Mining Seawater and Brackish Desalination Oil & Gas Produced Water"
+> — Home page, applications
+
+> "Partnerships IDEASHIP UTAH TECH UNIVERSITY UTAH INNOVATION FUND PROTO TOWN 021 VC TPWC AQUA ADVISE BALKY STUDIO GENE'S MACHINE"
+> — Home page, partnerships
+
+> "A. 1309 Westwood Rd. Lockhart, TX 78644"
+> — Home page, footer
 
 ## Reliability Notes
 
-This is a company's own website at early seed stage. Claims about performance (2x yield, 15% recovery improvement) are company-reported from small-scale or pilot tests; independent engineering validation at industrial scale has not been published. The site is the primary public source for Eden Tech's own description of the technology, but all performance figures should be treated as self-reported until independently verified. KUER and Utah Business coverage corroborate the funding and founding narrative but not the technical performance claims.
+This is a company's own website at early seed stage. Claims about performance (2x yield and other recovery improvements) are company-reported from small-scale or pilot tests; independent engineering validation at industrial scale has not been published. The site is the primary public source for Eden Tech's own description of the technology, but all performance figures should be treated as self-reported until independently verified. KUER and Utah Business coverage corroborate the funding and founding narrative but not the technical performance claims.
+
+The 2026-08-11 capture supports the 2× marketing claim but not the earlier recovery-rate figure, pilot locations, founding details, or funding amounts. It also shows a current Texas address, a material location change from the page's earlier Utah framing.
 
 ## Related Pages
 

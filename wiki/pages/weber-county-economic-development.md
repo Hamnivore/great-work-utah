@@ -13,7 +13,6 @@
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Weber+County+Economic+Development+2380+Washington+Boulevard+Ogden+UT
 **Website:** https://webercountyutah.gov/weberedp/new/index.html
 **Updated:** 2026-08-11
-**Layout:** field-guide
 
 ## Summary
 

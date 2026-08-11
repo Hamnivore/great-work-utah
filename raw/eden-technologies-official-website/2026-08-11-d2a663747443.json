@@ -1,0 +1,13 @@
+{
+  "source_page": "eden-technologies-official-website.md",
+  "requested_url": "https://edentechinc.com",
+  "final_url": "https://www.edentechinc.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T20:10:37.855Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "d3d7e6ca607d50c5ca77e9d0d78e2821f1ef2970bd00187c2f0a598706f87be7",
+  "text_sha256": "d2a6637474434ba986716216b29588145872ddb56a68f51d030b52e1b56a16e1",
+  "text_chars": 2167,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -27,7 +27,7 @@ Southern Utah entrepreneurs and small-business owners — including those in Was
 
 No-cost one-on-one consultations; business plan and marketing strategy help; LLC launch support; government-contracting and export guidance; mentor connections; workspace referrals; a startup roadmap resource; and links to vetted regional service providers.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -21,7 +21,7 @@ The Utah Korean Chamber of Commerce (UKCC) supports Korean and broader Utah busi
 
 The site focuses on chamber membership and business networking—not direct lending or startup grants.
 
-## Who It Helps
+## Who It's For
 
 Korean-American entrepreneurs, Utah small business owners, and professionals seeking culturally connected networking, advocacy, and local market information.
 
@@ -29,7 +29,7 @@ Korean-American entrepreneurs, Utah small business owners, and professionals see
 
 Business advocacy, networking events, newsletter updates, sponsorship/partnership channels, and local market insight resources. Upcoming events are listed publicly on the homepage with RSVP links.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -24,7 +24,7 @@ Teen and student entrepreneurs in Utah seeking mentorship, workshops, and peer c
 
 Per the Startup State listing: mentorship from experienced operators, events and workshops, networking opportunities, and free resources aimed at teen founders. Treat specific program names, schedules, and mentor categories as unverified until the site is reachable.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

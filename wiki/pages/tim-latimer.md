@@ -33,11 +33,11 @@ Cape Station in Utah is the clearest expression of that thesis: a project in a s
 - Connection to the emerging enhanced geothermal investment community (Google, Goldman Sachs, BHP)
 - Field operations experience in Utah's Great Basin geothermal belt
 
-## What They Are Looking For
+## What They're Looking For
 
 Fervo in active growth mode needs drilling engineers, reservoir engineers, geoscientists, project finance professionals, and construction leaders. The S-1 filing suggests capital formation and public-market readiness is a current priority for Latimer personally.
 
-## Proof of Work
+## Track Record
 
 - Co-founded Fervo Energy; CEO through S-1 filing (April–May 2026, Nasdaq FRVO)
 - Cape Station: 400 MW EGS project, Beaver County, Utah

@@ -27,7 +27,7 @@ Snow College students from any major who want rural entrepreneurship exposure, s
 
 Entrepreneurship Seminar Series with visiting founders; Bootstrap Your Business pitch competition; pitch events with funding opportunities; entrepreneurial-mindset skill development (problem solving, initiative, opportunity recognition, and related competencies); and GRIT Center contact/support at 435.283.7564.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

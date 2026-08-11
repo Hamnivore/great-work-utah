@@ -33,7 +33,7 @@ Utah SBDC is a practical first stop for founders who need one-on-one help turnin
 
 SBDC is valuable because many Utah founders need a trustworthy operator-level conversation before they need a pitch deck, investor intro, or accelerator. It is especially useful for founders outside the obvious venture-capital path: rural operators, main-street businesses, veteran founders, service businesses, manufacturing shops, and early founders who need to understand basic viability.
 
-## Who It Helps
+## Who It's For
 
 Utah SBDC helps aspiring entrepreneurs, new business owners, and existing small businesses. It appears especially relevant for founders who want no-cost consulting and local context.
 
@@ -41,7 +41,7 @@ Utah SBDC helps aspiring entrepreneurs, new business owners, and existing small 
 
 Public SBDC pages describe confidential, no-cost consulting and training. Local center pages describe support with startup guidance, business planning, marketing, financial forecasting, cash flow, lender preparation, pricing, operations, scaling, hiring, and leadership development.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

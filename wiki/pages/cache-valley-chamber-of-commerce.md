@@ -20,7 +20,7 @@
 
 Verified on the official site (2026-07-14): The Cache Valley Chamber of Commerce serves Cache Valley businesses with networking, advocacy, a business directory, events, and programs such as Women in Business and Leadership Lunch. Public pages emphasize credibility, community visibility, and tools for local business growth.
 
-## Who It Helps
+## Who It's For
 
 Business owners and operators in Cache County and the broader Cache Valley who want a local chamber network, event access, and regional business visibility.
 
@@ -28,7 +28,7 @@ Business owners and operators in Cache County and the broader Cache Valley who w
 
 Membership benefits include a business directory, newsletter, event calendar, networking programs (including Women in Business and Leadership Lunch), and chamber advocacy. The site also highlights Entrepreneurial Latinos of Northern Utah as a related community event.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 
@@ -45,9 +45,13 @@ Paid chamber membership; join through the official site for current tiers and pr
 
 Logan-area and Cache Valley founders who need local networking, credibility, and recurring business events rather than statewide capital or accelerator programs.
 
+## Open Questions
+
+- What are the current membership tiers and dues for small or newly formed businesses?
+- Which recurring programs are open to nonmembers?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://cachechamber.com/) · https://cachechamber.com/
-

@@ -32,7 +32,7 @@ The significance is twofold. Tactically, if every platoon can see beyond the nex
 
 Tranche 1 fielding reached 16-plus brigades by August 2025, and Army Tranche 2 production began that same month with Teal as a selected vendor. If Black Widow proves reliable under field conditions and the production line meets Army demand, Utah will have contributed a durable piece of the domestic small-drone industrial base.
 
-## What Was Created
+## What It Took
 
 A rucksack-portable small UAS with fiber-optic and RF communications options, day/night sensor payloads, secure data links, and integration into soldier-facing control software. Teal designed Black Widow from the start for battlefield use rather than adapting a commercial drone: Blue UAS compliance, modular repair, jam-resistance, and U.S. supply chains are built in rather than bolted on. The manufacturing and integration work is done in Salt Lake City.
 

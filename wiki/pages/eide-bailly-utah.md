@@ -39,7 +39,7 @@ From the firm's public service pages, Eide Bailly can help with:
 - **R&D tax credits** — identifying and claiming federal and state credits, including payroll-tax offset for qualifying startups.
 - **Core CPA services** — tax, audit, and broader advisory, with a national network behind a local team.
 
-## Best-Fit Founders
+## Who They Help
 
 The strongest fit is a Utah company that wants CFO-level finance support without a full-time hire, an R&D-intensive startup that should be capturing tax credits, or a founder who values having a national firm's resources reachable through a local office.
 

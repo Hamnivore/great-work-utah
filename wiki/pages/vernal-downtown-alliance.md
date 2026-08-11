@@ -15,7 +15,7 @@
 
 The Vernal Downtown Alliance is a nonprofit focused on revitalizing downtown Vernal through the Main Street Approach. Verified on vernaldowntown.org: it supports local businesses with networking, education, events, and partnerships with Utah Main Street and Main Street America to strengthen downtown economic vitality.
 
-## Who It Helps
+## Who It's For
 
 Downtown Vernal business owners, prospective storefront operators, and community partners working on placemaking, events, and local retail/hospitality growth in Uintah County's core.
 
@@ -23,7 +23,7 @@ Downtown Vernal business owners, prospective storefront operators, and community
 
 Business networking and training sessions, downtown events and promotions, resource connections for members, Main Street program alignment, and advocacy for a vibrant downtown Vernal.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

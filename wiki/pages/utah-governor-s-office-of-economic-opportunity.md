@@ -19,7 +19,7 @@
 
 The Utah Governor's Office of Economic Opportunity (GOEO / Go Utah) is the state's primary economic development agency. Verified on business.utah.gov: GOEO runs business recruitment and expansion, grants and incentives, rural development (CRD), APEX Accelerator procurement help, international business programs, tourism, film, broadband, USBCI capital access, regulatory relief, and the Startup State resource hub.
 
-## Who It Helps
+## Who It's For
 
 Utah entrepreneurs and businesses at all stages; companies relocating to Utah; rural employers; veterans and underserved communities via targeted programs; founders navigating state grants, incentives, or government contracting.
 
@@ -27,7 +27,7 @@ Utah entrepreneurs and businesses at all stages; companies relocating to Utah; r
 
 Statewide programs directory (grants, incentives, APEX, CRD, USBCI, Opportunity Zones, etc.), business recruitment and expansion support, rural and capital-access programs, international trade and diplomacy center, Utah Elevated strategy resources, events including One Utah Summit, and business@utah.gov as a general intake line.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -24,7 +24,7 @@ The Women's Business Center of Utah is a statewide support resource for women en
 
 WBCUtah is important because founder support is not only about sector and stage. Community context matters. A woman founder in Cedar City, St. George, Salt Lake City, or a rural county may need both practical business help and a support environment designed for women business owners.
 
-## Who It Helps
+## Who It's For
 
 The strongest fit is a Utah woman entrepreneur or aspiring entrepreneur who wants one-on-one advising, training, templates, and a community of peers and support providers. The public pages also describe support for entrepreneurs at different stages, from exploring an idea to growing an established business.
 
@@ -32,7 +32,7 @@ The strongest fit is a Utah woman entrepreneur or aspiring entrepreneur who want
 
 WBCUtah's public pages describe free advising, workshops, trainings, resources, templates, and support with business planning, legal and foundational issues, capital access, marketing, financial management, operations, and growth.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

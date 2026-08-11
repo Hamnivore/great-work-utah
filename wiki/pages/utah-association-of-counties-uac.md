@@ -21,7 +21,7 @@ The Utah Association of Counties (UAC) is the statewide association representing
 
 Include in the wiki because Startup State lists it, but route entrepreneurs to county economic-development offices or business resource centers for hands-on company support.
 
-## Who It Helps
+## Who It's For
 
 County commissioners, county staff, and appointed officials seeking training, policy advocacy, and peer networks. Secondary relevance to founders only when navigating county-level permits, incentives, or rural programs administered through counties.
 
@@ -29,7 +29,7 @@ County commissioners, county staff, and appointed officials seeking training, po
 
 Annual conference and events, policy steering committees, legal and training resources for counties, job board for county government roles, and partner-sponsored programming. Contact: admin@utahcounties.org, (801) 265-1331, 5397 S Vine St, Murray, UT 84107.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

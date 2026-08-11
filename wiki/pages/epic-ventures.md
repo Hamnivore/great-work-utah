@@ -25,7 +25,7 @@ Early-stage technology founders in SaaS, healthcare, biotech, security, fintech,
 - University of Utah Ventures partnership for regional university-linked deal flow
 - Portfolio support from an established Utah venture platform
 
-## How To Access
+## How To Use It
 
 - Contact through the official site
 - [Official website](https://www.epicvc.com/) · https://www.epicvc.com/

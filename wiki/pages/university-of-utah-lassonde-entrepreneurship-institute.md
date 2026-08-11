@@ -33,7 +33,7 @@ The official site points to Lassonde Studios, programs and academics, events, la
 
 The page also highlights student startup examples and current events, which makes it useful for seeing the active program surface.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

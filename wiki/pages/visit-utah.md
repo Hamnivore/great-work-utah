@@ -27,7 +27,7 @@ Utah hospitality, recreation, and tourism businesses that benefit from statewide
 
 The live site offers destination guides, itineraries, event listings, travel stories, responsible-travel resources, accessibility information, and free Utah travel guides. It functions as the primary consumer discovery engine for Utah tourism rather than a business-advising office.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.visitutah.com/) · https://www.visitutah.com/
 - Email: [info@visitutah.com](mailto:info@visitutah.com)

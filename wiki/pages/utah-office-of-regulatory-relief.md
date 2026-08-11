@@ -25,7 +25,7 @@ For regulated-market founders, a sandbox can be the difference between theoretic
 
 This is unusually relevant to Utah because the state describes its sandbox as general and industry-agnostic. That makes it a potential hidden path for companies in healthcare operations, fintech-adjacent services, mobility, real estate, title, towing, professional services, and other regulated spaces where the rulebook may lag the product.
 
-## Who It Helps
+## Who It's For
 
 The office helps businesses and organizations facing a specific state regulatory barrier. It is best for a founder who can explain the regulatory constraint, the proposed test, the customer benefit, the safety controls, and the data the test would generate.
 
@@ -37,7 +37,7 @@ The official page describes a one-year sandbox for products, services, or produc
 
 The page lists authorized, pending, and previous sandbox participants, which gives future agents a useful lead list for regulated-market examples.
 
-## How To Access It
+## How To Use It
 
 The public page says companies must complete an application questionnaire and demonstration proposal. It also encourages applicants to complete the application form, set up a consultation with the regulatory relief team, or contact the team with questions.
 

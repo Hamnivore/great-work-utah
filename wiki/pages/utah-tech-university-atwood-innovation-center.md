@@ -27,7 +27,7 @@ Southern Utah entrepreneurs and small-business owners — including rural operat
 
 No-cost business consultations; startup roadmap support; connections to business-resource providers; private and semi-private incubator workspace; and access to adjacent Innovation Plaza services such as makerspace prototyping, innovation guidance, and STEM outreach (verify scope per service line).
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

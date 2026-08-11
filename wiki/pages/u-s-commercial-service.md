@@ -21,7 +21,7 @@ The U.S. Commercial Service is the U.S. Department of Commerce export-promotion 
 
 The Salt Lake City office serves Utah exporters statewide.
 
-## Who It Helps
+## Who It's For
 
 Utah manufacturers, service providers, and growth-stage companies with U.S.-made products or services ready to explore or expand international sales. Useful for first-time exporters and experienced exporters entering new countries.
 
@@ -29,7 +29,7 @@ Utah manufacturers, service providers, and growth-stage companies with U.S.-made
 
 Export counseling from local trade specialists, access to U.S. Commercial Service global network resources, local event information, export success-case references, and connections to partner agencies (DEC, EXIM, SBA). The site also links to national programs such as Discover Global Markets and Export Week training.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

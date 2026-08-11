@@ -24,7 +24,7 @@ Early-stage technology founders seeking venture capital from a Utah firm with a 
 - Early-stage venture capital for technology companies
 - Portfolio and team support through the Run Ventures platform
 
-## How To Access
+## How To Use It
 
 - Contact through the official site
 - [Official website](https://www.spv.com/) · https://www.spv.com/

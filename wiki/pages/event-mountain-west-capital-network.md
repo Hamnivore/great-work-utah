@@ -23,7 +23,7 @@ Utah growth-company founders, investors, advisors, and service providers — esp
 
 The official site describes membership-oriented networking with signature events: Utah 100 (fastest-growing companies), Deal Flow report on Utah equity and M&A activity, Entrepreneur of the Year, executive golf tournament, business forums with Utah leaders, and the Winners' Circle podcast. MWCN emphasizes financial, intellectual, and human capital connections.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.mwcn.org/) · https://www.mwcn.org/
 - Email: [info@mwcn.org](mailto:info@mwcn.org)

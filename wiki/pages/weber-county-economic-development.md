@@ -19,7 +19,7 @@
 
 Weber County Economic Development supports business growth and quality of life across Weber County through a holistic, partnership-driven approach. Verified on webercountyutah.gov/economic_development: the department connects businesses to NUEA, public infrastructure districts, the West Weber industrial and renewable-energy hub, and county-led clean-energy projects.
 
-## Who It Helps
+## Who It's For
 
 Businesses starting, expanding, or relocating in Weber County; site selectors evaluating Ogden and northern Utah industrial land; operators interested in infrastructure districts or county partnership programs.
 
@@ -27,7 +27,7 @@ Businesses starting, expanding, or relocating in Weber County; site selectors ev
 
 Direct ED director contact, linkage to Northern Utah Economic Alliance, economic development finance tools (public infrastructure districts), West Weber industrial district information, and county-led renewable energy partnership examples (e.g., landfill methane projects).
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

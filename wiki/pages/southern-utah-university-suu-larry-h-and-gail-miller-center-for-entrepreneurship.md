@@ -27,7 +27,7 @@ SUU students from any major who want entrepreneurial coursework, mentoring, comp
 
 Entrepreneurship programming across education, experience, and elevation pillars; access to staff in BUS 115; event and speaker-series schedules; and pathways to practice starting, managing, and exiting businesses. Specific competitions and funding amounts should be confirmed on active event pages.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

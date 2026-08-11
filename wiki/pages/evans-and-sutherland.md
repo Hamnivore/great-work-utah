@@ -22,13 +22,13 @@ Evans & Sutherland was founded in 1968 by David Evans and Ivan Sutherland, both 
 
 The company built vector graphics workstations and visual simulation systems at a time when no ordinary vendor could supply the hardware Utah researchers and defense customers needed. In the early 1970s, it acquired General Electric's flight-simulator division and became a major supplier of visual systems for military and commercial flight training.
 
-## Why It Matters
+## Impact
 
 The University of Utah graphics program produced ideas, but ideas needed hardware. Evans & Sutherland helped make interactive 3D manipulation, shaded graphics, terrain rendering, and visual simulation practical outside a research paper. The company's systems trained pilots, served defense programs, and helped create the commercial category that later graphics workstation and GPU companies would expand.
 
 It also functioned as a talent bridge. People who later shaped Silicon Graphics, Pixar, Adobe, and other parts of the visual-computing industry passed through Utah's university-company orbit.
 
-## What Was Built
+## What It Took
 
 Products such as the LDS-1 Line Drawing System, Picture System displays, Shaded Picture System, and later image generators gave users real-time visual control over 3D geometry and synthetic scenes. These were expensive, specialized systems, but they proved that computer graphics could be operational infrastructure, not just a lab demonstration.
 

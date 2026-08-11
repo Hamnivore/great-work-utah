@@ -22,13 +22,13 @@ On May 10, 1869, the Central Pacific and Union Pacific railroads met at Promonto
 
 For the wiki, the Golden Spike is less an invention than a hinge. It made Utah the site where a continental transport network visibly snapped into place.
 
-## Why It Matters
+## Impact
 
 The railroad compressed cross-country travel from months to roughly a week and changed the economics of the American West. People, goods, mail, military power, information, and capital could move at a different speed. Utah's location on the line made the territory part of a national commerce system and helped shape Salt Lake City's later role as a regional hub.
 
 The impact was not only positive. The railroad accelerated settler expansion and the displacement of Native nations. It also depended on immigrant labor, especially Chinese workers on the Central Pacific side, whose contribution was central and long underrecognized.
 
-## What Was Built
+## What It Took
 
 The technical artifact was 1,907 miles of connected rail between Omaha and Sacramento, but the achievement was broader: surveying, finance, federal land policy, labor mobilization, track-laying logistics, explosives, tunneling, bridgework, water and timber provisioning, and coordination across vast distances.
 

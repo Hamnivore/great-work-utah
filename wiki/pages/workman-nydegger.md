@@ -39,7 +39,7 @@ From the firm's public service descriptions, Workman Nydegger can help with:
 
 The firm publicly says it customizes a pricing model per client and tries to avoid surprising clients on cost — useful for an early-stage budget.
 
-## Best-Fit Founders
+## Who They Help
 
 The strongest fit is a Utah founder whose competitive moat is technical — a device, a chemistry, an algorithm, a manufacturing method — and who needs a patent filed, a portfolio built, or an IP position defended. University spinouts and researchers commercializing patented work are a natural fit, as are hardware and medical-device teams.
 

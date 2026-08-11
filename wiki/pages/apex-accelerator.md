@@ -26,7 +26,7 @@ APEX matters because government contracting is a high-friction market that can l
 
 It is especially useful in the Great Work wiki because many strong Utah builders are defense-adjacent or supplier-adjacent. APEX is not just a generic small-business resource; it is a route into a customer channel that can change the shape of a company.
 
-## Who It Helps
+## Who It's For
 
 APEX helps Utah businesses that want to pursue procurement opportunities, especially companies that can sell products or services to defense, federal, state, or local government buyers.
 
@@ -36,7 +36,7 @@ Strong fits include advanced manufacturing shops, software or cyber companies wi
 
 The official page describes free statewide one-on-one counseling, group counseling, workshops, contracting-assistance training, bid-match help, marketing-to-government support, database-registration help, small-business certification guidance, and solicitation-document review.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

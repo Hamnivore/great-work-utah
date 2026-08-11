@@ -27,7 +27,7 @@ Entrepreneurs and small businesses in Box Elder, Cache, and Rich counties at any
 
 One-on-one business counseling (startup, merger/acquisition, sale, planning, finance, marketing, sales); Innovation Zone makerspace with photo/video lab, sound booth, 3D printers, laser engraver, CNC, sewing, and vinyl tools; certified commercial incubator kitchen; Custom Fit customized workforce training; business education workshops and incubator office space; and APEX regional government-contracting support.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

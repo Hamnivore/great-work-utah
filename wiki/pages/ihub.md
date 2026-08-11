@@ -32,7 +32,7 @@ Early-stage Utah founders — especially students and pre-revenue builders in Ut
 - Warehouse and fulfillment staging space
 - Events and a large Utah founder mentor network
 
-## How To Access
+## How To Use It
 
 - Apply to the Founders Floor on the official site
 - [Official website](https://www.ihubutah.org/) · https://www.ihubutah.org/

@@ -17,7 +17,7 @@ This was a one-time, free seminar in downtown Salt Lake City for small businesse
 
 The event no longer appears in the live Startup State directory, and no recurring edition was verified on 2026-08-11. Keep this page as a historical record of the listing; do not direct founders to it as an upcoming seminar.
 
-## Who It Helps
+## Who It's For
 
 The CSV lists this resource for these communities:
 
@@ -42,7 +42,7 @@ The imported description suggests this resource may provide support related to:
 
 - Other
 
-## How To Access It
+## How To Use It
 
 The registration page and contact below are retained as historical evidence. Check the organizer for a newly announced event rather than attempting to register for the 2025 seminar.
 

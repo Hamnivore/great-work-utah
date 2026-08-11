@@ -27,7 +27,7 @@ Utah outdoor-recreation businesses, trail and infrastructure builders, tourism o
 
 The official site covers boating safety and commercial boating programs, OHV education and permits, trail development and the Utah Trails Conference, the Utah Outdoor Recreation Grant (UORG) and other grants, business recruitment for outdoor-recreation companies, stewardship and safety education, the Outdoor Recreation Summit, newsletters, and economic-impact reporting (site cites $9.5B+ annual outdoor-recreation economic contribution).
 
-## How To Access
+## How To Use It
 
 - [Official website](https://recreation.utah.gov/) · https://recreation.utah.gov/
 - Email: [jasoncurry@utah.gov](mailto:jasoncurry@utah.gov)

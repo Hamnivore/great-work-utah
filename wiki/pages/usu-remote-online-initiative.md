@@ -23,7 +23,7 @@ Rural Utah residents seeking remote employment skills, rural small-business and 
 
 Certified Remote Work Professional (1-month, 25-hour course); E-Commerce Accelerator (six-week mentoring program); Certified Sales and Communication Professional; Certified Remote Work Leader; Remote Job Search skills course; Negotiation for Remote Work; high-school remote-work curriculum; and newsletter/podcast/success-story resources through CREDET.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

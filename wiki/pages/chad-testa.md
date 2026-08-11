@@ -32,11 +32,11 @@ The DTRA partnership — a reported $75M award with University of Florida collab
 - University of Utah technology-transfer and licensing navigation experience
 - Mission-driven leadership model for pharma work where standard commercial incentives are absent
 
-## What They Are Looking For
+## What They're Looking For
 
 Testa and Curza need medicinal chemists, microbiologists, and ribosome biochemists for the lead program; CMC and regulatory support for IND preparation; and additional government and impact grant connections to fund through Phase 1 and beyond. Operators motivated by AMR mission and biodefense relevance rather than typical VC pharma return timelines tend to fit best.
 
-## Proof of Work
+## Track Record
 
 - CEO of Curza since founding; guided company through $40M+ in grant and impact-investment raises
 - Led DTRA partnership (~$75M with University of Florida)

@@ -31,7 +31,7 @@ Utah life-sciences companies, suppliers, and ecosystem partners that need advoca
 - Legislative tracking, news, awards, and industry events
 - Partnership with [BIOHive Utah](biohive-utah.md) on ecosystem convening
 
-## How To Access
+## How To Use It
 
 - Explore membership on the official site or contact BioUtah staff
 - [Official website](https://bioutah.org/) · https://bioutah.org/

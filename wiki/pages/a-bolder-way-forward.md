@@ -15,7 +15,7 @@
 
 Verified on uwlp.usu.edu/abwf and Startup State (2026-07-14): A Bolder Way Forward is a statewide initiative housed in Utah State University's Utah Women & Leadership Project (UWLP). Its Entrepreneurship spoke targets barriers that limit women-owned business growth and longevity in Utah — including access to capital, mentors, affordable childcare, and awareness of business training resources — through research, convenings, toolkits, and community partnerships.
 
-## Who It Helps
+## Who It's For
 
 Utah women entrepreneurs and the organizations that support them — statewide, across industries and business stages listed on Startup State.
 
@@ -23,7 +23,7 @@ Utah women entrepreneurs and the organizations that support them — statewide, 
 
 Research-based resources, toolkits, women's network directories, a community calendar of Utah events for girls and women, trainings, and the Entrepreneurship spoke's focus on removing structural barriers to women-owned business success. UWLP also publishes policy briefs and hosts events through USU.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

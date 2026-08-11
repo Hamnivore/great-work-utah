@@ -19,7 +19,7 @@
 
 The Utah Inland Port Authority (UIPA) is a state organization developing sustainable logistics solutions to support Utah's economic growth. Verified on inlandportauthority.utah.gov: UIPA coordinates regional project areas statewide, emphasizes collaboration, sustainability, and accountability, and positions Utah as a global trade and logistics hub while engaging communities on supply-chain growth.
 
-## Who It Helps
+## Who It's For
 
 Companies in logistics, distribution, manufacturing, and trade-adjacent industries exploring Utah port project areas; local governments and developers coordinating infrastructure near UIPA zones; businesses seeking state-level logistics partnership — not typical early-stage SaaS founders.
 
@@ -27,7 +27,7 @@ Companies in logistics, distribution, manufacturing, and trade-adjacent industri
 
 Regional project-area planning (Northwest Quadrant, Tooele Valley, Golden Spike, and others), logistics strategy resources, community engagement on port development, newsletters and public updates, and a contact path for feedback and involvement.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

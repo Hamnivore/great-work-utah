@@ -57,7 +57,7 @@ Job seekers (including veterans, refugees, and people with disabilities via dedi
 
 Job search and labor-market resources; employer recruiting access to active job seekers; unemployment insurance account management; assistance program navigation; specialized services (veterans, refugees, Pre-ETS for students with disabilities, child care finder, hot jobs list); and statewide events such as virtual job fairs.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

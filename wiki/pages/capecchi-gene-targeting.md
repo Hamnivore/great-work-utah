@@ -23,13 +23,13 @@ Mario Capecchi joined the University of Utah in 1973 and spent decades developin
 
 Capecchi shared the 2007 Nobel Prize in Physiology or Medicine with Evans and Smithies for discoveries involving embryonic stem cells and DNA recombination in mammals. For the wiki, the Utah claim is not that the whole method was invented by one person in one place. The claim is narrower and stronger: Capecchi's Utah lab made targeted mammalian gene modification practical enough to become one of the central tools of modern biomedical research.
 
-## Why It Matters
+## Impact
 
 Knockout mice changed how biologists asked causal questions. Instead of waiting for natural mutations or using random mutagenesis, researchers could disable a chosen gene and observe development, physiology, disease, and drug response in a whole organism. Cancer, neurodegeneration, cardiovascular disease, immunology, metabolic disease, and developmental biology all absorbed the tool.
 
 The intellectual move also anticipates later genome editing. CRISPR uses different molecular machinery and is often faster, but the basic experimental logic is familiar: choose a genomic target, alter it deliberately, and use the resulting organism or cell to learn function.
 
-## What Was Built
+## What It Took
 
 The hard technical problem was rarity. Homologous recombination in mammalian cells happens infrequently, and random DNA integration is much easier than a precise replacement at the intended locus. Capecchi's positive-negative selection strategy helped separate correctly targeted cells from the much larger background of incorrect integrations.
 

@@ -31,7 +31,7 @@ Synthetic diamond reshaped cutting, grinding, polishing, drilling, and heat mana
 
 The cubic press, in particular, had outsized industrial reach. Hall transferred cubic-press technology abroad around 1960, and the design family became the workhorse of large-scale synthetic-diamond-powder production — much of the world's industrial diamond powder is now made on cubic presses descended from his designs.
 
-## What Was Created
+## What It Took
 
 The hard problem in diamond synthesis is not only chemistry; it is equipment. Turning graphite into diamond requires very high pressure, high temperature, a metal catalyst, precise containment, and — crucially — repeatability, in a machine that does not destroy itself or contaminate the sample. Small changes in anvil geometry, stress distribution, heating, and sample assembly separate a useful run from a failure.
 

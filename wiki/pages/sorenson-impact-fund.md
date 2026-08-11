@@ -25,7 +25,7 @@ Mission-driven entrepreneurs building scalable solutions for underserved communi
 - Capital for social enterprises addressing global and community challenges
 - Part of the broader Sorenson Impact platform
 
-## How To Access
+## How To Use It
 
 - Use Apply for funding on the official site
 - [Official website](https://sorensonimpactfoundation.org/) · https://sorensonimpactfoundation.org/

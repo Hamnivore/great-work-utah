@@ -19,7 +19,7 @@
 
 Uintah County Economic Development promotes sustainable growth in northeastern Utah between Salt Lake City and Colorado. Verified on business.uintah.gov: the department highlights county economic data, local events, grants and resources, and a business-friendly open-door policy for entrepreneurs expanding in Uintah County.
 
-## Who It Helps
+## Who It's For
 
 Businesses starting or expanding in Uintah County and the Uintah Basin; operators seeking county grants, incentives, or local economic data; entrepreneurs who need a direct county ED contact in Vernal.
 
@@ -27,7 +27,7 @@ Businesses starting or expanding in Uintah County and the Uintah Basin; operator
 
 County economic snapshot and news, grants and resources directory, starting-a-business guidance links, micro-grant information, and staff liaison for business recruitment and retention in Uintah County.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

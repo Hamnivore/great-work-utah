@@ -27,7 +27,7 @@ Utah employers who need structured on-the-job training pipelines, and individual
 
 Employer resources to start apprenticeship programs and access incentives; career-seeker pathways to find apprenticeships; nationally or industry-recognized credentials; incremental wage progression; and published statewide program statistics (4,800+ active apprentices, 293 registered programs, and related outcome data on the homepage).
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

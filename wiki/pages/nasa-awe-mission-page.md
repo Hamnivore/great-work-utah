@@ -1,29 +1,28 @@
-# Official Source: NASA Atmospheric Waves Experiment Mission Page
+# NASA: AWE Mission Page
 
 **Type:** source
 **Status:** Useful
 **Confidence:** High
-**Source Type:** Official mission record
+**Source Type:** Official mission page
 **URL:** https://science.nasa.gov/mission/awe/
-**Publisher:** NASA Science
+**Publisher:** NASA
 **Accessed:** 2026-08-11
 **Updated:** 2026-08-11
 
 ## Summary
 
-NASA's mission record describes the Atmospheric Waves Experiment, its November 2023 launch and International Space Station installation, its Advanced Mesospheric Temperature Mapper, and its objective of observing atmospheric gravity waves through infrared airglow near the mesopause.
+NASA's mission page describes the Atmospheric Waves Experiment, its International Space Station vantage point, science objective, launch, and participating institutions.
 
 ## Useful Claims
 
-- AWE launched on November 9, 2023, and was installed on the International Space Station on November 18, 2023.
-- The mission observed atmospheric gravity waves to study energy flow between the lower atmosphere, upper atmosphere, and near-Earth space environment.
-- Its single instrument was a four-telescope, wide-field infrared imager looking toward the mesopause near 87 kilometers altitude.
-- NASA lists Goddard Space Flight Center for mission design and management and identifies the instrument as the Advanced Mesospheric Temperature Mapper.
-- The mission page explains the intended connection between AWE observations, ionospheric variability, and communication, navigation, and tracking systems.
+- AWE observes atmospheric gravity waves in airglow to study how lower-atmosphere weather affects the upper atmosphere and space weather.
+- The instrument launched to the International Space Station in November 2023.
+- Utah State University's Space Dynamics Laboratory built the instrument, and the science team is led from Utah State University.
+- Four infrared telescopes map temperature and gravity-wave structure near the mesopause.
 
 ## Reliability Notes
 
-This is NASA's authoritative overview for mission dates, configuration, objectives, and agency framing. The live page was updated after the mission ended and now uses past tense; it should not be used alone to establish specific USU or SDL contractual responsibilities, detailed data-release counts, or the scientific significance of results.
+This is NASA's primary mission record and is strong evidence for purpose, hardware, institutional roles, and chronology. It is not evidence that AWE has already improved operational forecasts; that requires later results.
 
 ## Related Pages
 

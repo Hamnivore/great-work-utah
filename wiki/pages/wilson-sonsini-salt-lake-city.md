@@ -31,7 +31,7 @@ The official emerging-companies page says the firm counsels entrepreneurs and yo
 
 The Salt Lake City office page adds Utah-specific evidence: a local office, Utah-headquartered clients, Utah-related venture financing and IPO claims, and local lawyers tied to corporate, governance, regulatory, litigation, IP, life-sciences, medical-device, and consumer-products work.
 
-## Best-Fit Founders
+## Who They Help
 
 Likely fits include venture-scale software, AI, life-sciences, medical-device, diagnostics, defense-tech, clean-tech, semiconductor, and university-spinout companies that expect institutional financing, complex governance, sophisticated commercial contracts, or strategic transactions.
 

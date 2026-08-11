@@ -27,7 +27,7 @@ UVU students seeking real-world project experience, faculty building interdiscip
 
 Student, faculty, and partnership opportunity portals; programs including Career & Internship Center, e2i, Education Abroad, Experience Fellows, Empowered, Excelerate, Faculty Externships, FanX Studios, Huntsman Cancer Institute collaboration, Jobs CEO Council, MajorQuest, Professional Mentorships, Service Learning, Undergraduate Research & Creative Works, and Workforce Alignment.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

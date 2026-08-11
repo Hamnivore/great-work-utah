@@ -27,7 +27,7 @@ Utah startup and existing small-business owners declined by banks — including 
 
 Microloans (after required orientation), business advising, the Banking on Women program, and free virtual small-business classes statewide on topics such as social media, cash flow, HR, financials, and business planning.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

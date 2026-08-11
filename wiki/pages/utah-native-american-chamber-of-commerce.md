@@ -15,7 +15,7 @@
 
 Verified on the official site (2026-07-14): The Utah Native American Chamber of Commerce advocates for Indigenous entrepreneurship in Utah with the tagline "Building Prosperity Through Native Entrepreneurship." Public pages emphasize advocacy, education, empowerment, and promotion of Native-owned businesses through events and a growing economic network.
 
-## Who It Helps
+## Who It's For
 
 Native American and Indigenous entrepreneurs in Utah, plus allies and partners seeking to support Native business development and tribal economic collaboration.
 
@@ -23,7 +23,7 @@ Native American and Indigenous entrepreneurs in Utah, plus allies and partners s
 
 The chamber offers event listings (such as community powwows), an email list for Native Utah business news, and a platform to connect Indigenous entrepreneurs for economic development and partnerships.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 
@@ -40,9 +40,13 @@ Membership and event costs vary; check the official site for current join paths 
 
 Indigenous founders and Native-owned businesses in Utah seeking community, visibility, and chamber networking — not a substitute for SBIR coaching or CDFI lending unless a specific program is listed.
 
+## Open Questions
+
+- What membership categories, dues, and geographic or tribal eligibility requirements apply today?
+- Which business-development, contracting, and networking programs are currently accepting participants?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.utncoc.com/) · https://www.utncoc.com/
-

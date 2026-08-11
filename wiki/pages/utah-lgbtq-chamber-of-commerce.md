@@ -15,7 +15,7 @@
 
 Verified on the official site (2026-07-14): The Utah LGBTQ+ Chamber of Commerce is open to businesses of all sizes, sole proprietors, and individuals regardless of sexuality, gender identity, or gender expression. Public pages highlight networking, a member directory, events, job board access, member offers, DEI programming (Workplace Connect), and pathways to NGLCC LGBT Business Enterprise certification.
 
-## Who It Helps
+## Who It's For
 
 LGBTQ+ and allied Utah business owners, employers, and professionals seeking chamber networking, visibility, inclusion programming, and LGBTBE certification support.
 
@@ -23,7 +23,7 @@ LGBTQ+ and allied Utah business owners, employers, and professionals seeking cha
 
 Member benefits listed on the official site include business exposure, peer support and mentoring, member-to-member discounts and referrals, job-board posting, events calendar access, Workplace Connect ERG roundtables, and Safe Zone Utah training referrals. The chamber is also planning an LGBTQ+ Visitors Center in downtown Salt Lake City.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 
@@ -40,9 +40,13 @@ Paid chamber membership; join through the official site. Open to corporations, s
 
 LGBTQ+ and allied founders who want statewide chamber networking, DEI visibility, and certification pathways — not deep-tech SBIR proposal writing or venture equity.
 
+## Open Questions
+
+- What are the current membership tiers, dues, and eligibility rules for businesses and individual professionals?
+- Which networking, procurement, or certification programs are active in the current calendar year?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.utahlgbtqchamber.org/) · https://www.utahlgbtqchamber.org/
-

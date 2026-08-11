@@ -22,13 +22,13 @@ On December 5, 1969, the University of Utah came online as the fourth node of th
 
 The connection used a DEC PDP-10 computer and arrived inside the same University of Utah computing environment that David Evans and Ivan Sutherland were building with ARPA support. The graphics program is the more famous Utah computing story, but the ARPANET node is the infrastructure layer underneath it: Utah was present at the beginning of networked computing.
 
-## Why It Matters
+## Impact
 
 ARPANET demonstrated that packet-switching networks could work across real distance: data could be broken into packets, routed through a network, and reassembled at the destination. TCP/IP, the commercial internet, and the World Wide Web came later, but ARPANET is one of the direct infrastructural ancestors of all of them.
 
 Utah's fourth-node role matters because it was part of the original test, not a late add-on. The network needed geographically separated research machines, and the University of Utah had enough ARPA-funded computing credibility to belong in that first group.
 
-## What Was Built
+## What It Took
 
 The hard problem was not merely plugging in a computer. ARPANET required interface message processors, host protocols, leased lines, program managers, researchers, and institutions willing to use a new kind of network before its value was obvious.
 

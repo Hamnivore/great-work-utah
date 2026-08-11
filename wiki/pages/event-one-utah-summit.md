@@ -23,7 +23,7 @@ Utah business leaders, economic-development stakeholders, rural community repres
 
 The official site describes a multi-day summit with sponsor opportunities and registration information. Programming focuses on Utah's economic future with emphasis on rural and statewide coordination (exact 2026 agenda on official site).
 
-## How To Access
+## How To Use It
 
 - [Official website](https://oneutahsummit.utah.gov/) · https://oneutahsummit.utah.gov/
 - Email: [lisonbee@suu.edu](mailto:lisonbee@suu.edu)

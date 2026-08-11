@@ -29,7 +29,7 @@ The official site organizes its marketplace around sales, leadership, compliance
 
 Utah MEP emphasizes custom plans and access to professionals who have worked with hundreds of Utah manufacturers.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://utah-mep.org/) · https://utah-mep.org/
 - Email: [info@utah-MEP.org](mailto:info@utah-MEP.org)

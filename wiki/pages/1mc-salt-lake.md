@@ -17,7 +17,7 @@
 
 Events run Wednesdays at 9 a.m. at The Neighborhood Hive (2065 E 2100 S, Salt Lake City).
 
-## Who It Helps
+## Who It's For
 
 Early-stage founders, side-project builders, small business owners, students, and community supporters who want low-pressure feedback, local connections, and practice presenting. Open to anyone willing to follow community guidelines (support-first, no hard selling).
 
@@ -25,7 +25,7 @@ Early-stage founders, side-project builders, small business owners, students, an
 
 Weekly in-person community events, presenter slots, networking with peers and local service providers, and optional volunteer or sponsor roles. Presenters can share an idea, project, or operating business and receive structured audience questions.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

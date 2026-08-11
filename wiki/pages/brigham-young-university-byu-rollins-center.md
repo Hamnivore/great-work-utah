@@ -28,7 +28,7 @@ BYU students interested in entrepreneurship, technology ventures, and scalable s
 
 Courses, lecture series, competitions, conferences, workshops, mentoring, Sandbox-style venture support, Entrepreneur Founders Organization networking, Miller Grants, and programming aimed at helping students hold equity in tech or scalable startups by graduation.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

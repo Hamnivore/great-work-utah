@@ -19,7 +19,7 @@
 
 The Delta Area Chamber of Commerce supports Millard County businesses with resources, events, and community connections. Verified on the official site (2026-07-14): the chamber operates from the RJ Law Community Center at 75 West Main Street, Delta, with office hours Tuesday and Thursday 9:00–1:00 and phone availability Monday–Friday 8:00–5:00. The site publishes monthly luncheons, community festivals (Snow Goose Festival), member news, and a join flow.
 
-## Who It Helps
+## Who It's For
 
 Delta and Millard County businesses seeking local networking, event participation, and chamber-led community promotion.
 
@@ -27,7 +27,7 @@ Delta and Millard County businesses seeking local networking, event participatio
 
 Monthly luncheons; community festivals and newsletters; member directory and news blog; business safety and fraud education posts; join/serve/succeed membership pathway.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -25,7 +25,7 @@ USBCI is important because many Utah businesses need credit, not venture capital
 
 The program gives the wiki a more honest capital path for founders who need loan participation, flexible credit, or lender-backed financing.
 
-## Who It Helps
+## Who It's For
 
 USBCI helps Utah small businesses that can work through a lender and pass underwriting but may need public capital participation or loss protection to make the loan feasible.
 
@@ -38,7 +38,7 @@ The official page describes two main loan structures:
 - Loan Participation Program support for collateralized loans, with the public program buying a portion of the loan to expand credit access and lower blended interest rates.
 - Capital Access Program support for loans to businesses without collateral or businesses that need flexible financing, using a loan-loss reserve structure.
 
-## How To Access It
+## How To Use It
 
 Businesses apply through USBCI lending partners and economic development organizations. The lender disburses and manages the loan after program eligibility review and lender underwriting.
 

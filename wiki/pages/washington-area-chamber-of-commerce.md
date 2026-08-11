@@ -15,7 +15,7 @@
 
 The Washington Area Chamber of Commerce supports businesses in Washington City and the greater Washington area of Washington County. Verified on the live site (2026-07-14): the chamber promotes the area as a travel and shopping destination while connecting businesses with the community and government. Site title: Washington Area Chamber of Commerce, Washington City, Utah.
 
-## Who It Helps
+## Who It's For
 
 Washington City and nearby Washington County businesses seeking local promotion, community connections, and chamber advocacy in Utah's Dixie region.
 
@@ -23,7 +23,7 @@ Washington City and nearby Washington County businesses seeking local promotion,
 
 Business-community connection; tourism and shopping destination promotion; chamber membership pathway on official WordPress site; local advocacy framing per Startup State and live site positioning.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

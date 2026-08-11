@@ -27,7 +27,7 @@ Utah tech founders, operators, investors, and community members at growth stage 
 
 The organization's public presence centers on community events and the [Silicon Slopes Tech Summit](event-silicon-slopes-tech-summit.md), with programming aimed at Utah's tech ecosystem. Summit and main-site details should be confirmed on the official domain before recommending specific dates or ticket tiers.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.siliconslopes.com/) · https://www.siliconslopes.com/
 - [Summit](https://www.siliconslopes.com/summit) · https://www.siliconslopes.com/summit

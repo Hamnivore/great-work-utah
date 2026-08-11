@@ -29,7 +29,7 @@ Utah manufacturers and manufacturing-service providers that want industry connec
 
 The official site highlights workforce programs, safety offerings, advocacy, membership benefits, networking, events, consulting, healthcare plans, 401(k) options, workers' compensation discounts, awards, and partner relationships.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://manufacturingutah.com/) · https://manufacturingutah.com/
 - Email: [info@manufacturingutah.com](mailto:info@manufacturingutah.com)

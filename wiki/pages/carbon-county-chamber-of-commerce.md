@@ -20,7 +20,7 @@
 
 The Carbon County Chamber of Commerce advocates for businesses across Carbon County. Verified on the official site (2026-07-14): the chamber invites businesses to join, publishes chamber news, and lists contact phone (435) 637-2788. Carbon County Economic Development's site also names the chamber as an active partner for networking, training, and business advocacy in the county.
 
-## Who It Helps
+## Who It's For
 
 Carbon County businesses — especially Price, Helper, Wellington, and East Carbon operators — seeking local advocacy, networking, and chamber-led community promotion.
 
@@ -28,7 +28,7 @@ Carbon County businesses — especially Price, Helper, Wellington, and East Carb
 
 Chamber membership and join pathway; business advocacy referenced in county ED materials; chamber news and events on official site; local voice for Carbon County employers per county economic-development partnerships.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

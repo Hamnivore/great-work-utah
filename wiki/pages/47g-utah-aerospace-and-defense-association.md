@@ -33,7 +33,7 @@ The official site lists an integrated accelerator platform with access to govern
 
 It also points to initiatives such as Project Alta, hard-tech events, a sector jobs board, business resources, and the Zero Gravity Summit.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

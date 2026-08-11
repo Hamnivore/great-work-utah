@@ -24,7 +24,7 @@ Utah Technology Innovation Funding, or UTIF, is a state-backed funding support p
 
 UTIF is small compared with a federal award, but it can be strategically important. A first-time SBIR/STTR proposal can require registrations, technical writing, budgeting, compliance work, and time away from product development. A microgrant or bridge loan can make the federal funding path more realistic for a small technical team.
 
-## Who It Helps
+## Who It's For
 
 UTIF helps Utah small companies developing novel technology and products through SBIR/STTR. The strongest fit is a company that has identified a specific open federal opportunity and is working with [Nucleus Grow](nucleus-grow.md) on the application path.
 
@@ -35,7 +35,7 @@ The official page describes two funding opportunities:
 - Microgrants for eligible Phase I applicants after successful submission of a Phase I SBIR/STTR proposal.
 - Nonrecourse loans for eligible Phase I winners seeking gap funding before a Phase II SBIR/STTR proposal.
 
-## How To Access It
+## How To Use It
 
 The official page says applicants must identify a specific eligible and open SBIR/STTR solicitation before applying. It also says UTIF applications should be submitted at least four weeks before the related federal SBIR/STTR deadline.
 

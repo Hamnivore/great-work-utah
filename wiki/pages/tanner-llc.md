@@ -27,7 +27,7 @@ Accounting becomes a gating function at predictable moments: a venture round whe
 
 A firm that does audits, M&A due diligence, and SEC-reporting consultation can give a Utah company financials that survive outside scrutiny — which is exactly what raises and exits require.
 
-## How They Help
+## Who They Help
 
 From the firm's public service descriptions, Tanner LLC can help with:
 

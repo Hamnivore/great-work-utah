@@ -24,7 +24,7 @@ Utah residents with very early business ideas who may qualify for low-pressure m
 
 Startup State and the official funding journey page reference the Business Idea Challenge alongside other Utah competitions. Specific milestone amounts, timelines, and application mechanics could not be verified from a readable live program page on 2026-07-14.
 
-## How To Access
+## How To Use It
 
 - [Startup State business-resource card](https://startup.utah.gov/business-resource/get-started-business-idea-challenge/) · https://startup.utah.gov/business-resource/get-started-business-idea-challenge/
 - [Fund your small business — competitions list](https://startup.utah.gov/fund-small-business/) · https://startup.utah.gov/fund-small-business/

@@ -24,7 +24,7 @@ Pre-seed founders building AI or B2B software who want a Utah-connected first in
 - Pre-seed venture capital focused on AI and B2B software
 - Early founder backing from formation stage
 
-## How To Access
+## How To Use It
 
 - Reach out through the official site contact paths
 - [Official website](https://www.grix.vc/) · https://www.grix.vc/

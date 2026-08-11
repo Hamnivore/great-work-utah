@@ -27,7 +27,7 @@ Companies — especially tech and growth-stage employers — seeking office, ret
 
 The official site markets office availability (Container Park shipping-container creative offices, Terminal 1 Class A creative office campus), retail space, residential options (including Signal Peak Apartments), fitness amenities (333-step stair path, 5K Rim Trail access), event pavilion space, and on-site property management contact for leasing inquiries.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://techridge.com/) · https://techridge.com/
 - Contact: 475 S. Donlee Dr., St. George, UT 84770 · +1 435-850-7820

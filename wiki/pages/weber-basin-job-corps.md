@@ -27,7 +27,7 @@ Eligible young adults ages 16–24 seeking tuition-free residential career train
 
 Hands-on career-technical instruction in multiple trades; residential housing and meals; medical care; supportive campus community; and Job Corps career-preparation services. Confirm active offerings on the center's current training pages.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -27,7 +27,7 @@ Solopreneurs, remote workers, growing startups, and established companies that w
 
 Workspace (private offices and coworking), meeting and event spaces, Workbox Ventures support for early-stage companies, member programming, scalable memberships, and a multi-city network that now includes access to 30+ locations nationally per the site's current banner.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

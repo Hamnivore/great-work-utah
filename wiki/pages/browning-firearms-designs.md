@@ -23,13 +23,13 @@ John Moses Browning was born in Ogden, Utah Territory, learned gunsmithing in hi
 
 The designs were manufactured and distributed by companies including Winchester, Colt, Remington, Fabrique Nationale, Savage, and wartime industrial partners. The lineage includes the Winchester Model 1885, Browning Auto-5 shotgun, Colt M1911 pistol, Browning Automatic Rifle, M1917 and M1919 machine guns, and the design path that led to the M2 .50-caliber machine gun.
 
-## Why It Matters
+## Impact
 
 Browning helped make repeating, semi-automatic, and automatic firearms reliable enough for mass use. That changed military arms, police weapons, sporting firearms, hunting, aircraft and vehicle armament, and the firearms industry itself.
 
 The counterfactual is not that automatic weapons would never have existed. It is that the transition from hand-operated arms to reliable self-loading and automatic mechanisms would likely have been slower, more fragmented, and less dominated by a few durable mechanical designs.
 
-## What Was Built
+## What It Took
 
 Firearms design is violent precision engineering. The mechanism has to cycle under heat, pressure, recoil, dirt, ammunition variation, and manufacturing constraints while remaining accurate and operable. Browning's gift was mechanical clarity: locking systems, recoil and gas-operation concepts, autoloading pistol slides, feed mechanisms, and architectures that factories could produce at scale.
 

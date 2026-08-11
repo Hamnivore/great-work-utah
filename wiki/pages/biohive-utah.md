@@ -27,7 +27,7 @@ Life-sciences and health-innovation founders, operators, students, and ecosystem
 - Sub-communities for health tech, women in tech/science, returnships, and students
 - Partnership with [BIO Utah](bio-utah.md) on industry community building
 
-## How To Access
+## How To Use It
 
 - Explore Get Involved and event pages on the official site
 - [Official website](https://www.biohive.com/) · https://www.biohive.com/

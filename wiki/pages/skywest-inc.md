@@ -9,7 +9,7 @@
 **Domain:** aerospace-defense
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT (headquarters); Salt Lake City, UT (training, office, and maintenance facilities)
-**Region:** St. George, UT
+**Region:** St. George
 **Website:** https://inc.skywest.com/
 **Careers:** https://www.skywest.com/skywest-airline-jobs/
 **Updated:** 2026-08-11

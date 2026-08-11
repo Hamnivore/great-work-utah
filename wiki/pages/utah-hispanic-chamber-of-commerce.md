@@ -20,7 +20,7 @@
 
 Verified on the official site (2026-07-14): The Utah Hispanic Chamber of Commerce has served Hispanic businesses in Utah since 1991. Public pages describe advocacy, support, a member directory, events, and affiliation with SOMOS, positioning UHCC as a benchmark resource for Hispanic business creation, development, and promotion statewide.
 
-## Who It Helps
+## Who It's For
 
 Hispanic-owned and Hispanic-serving businesses across Utah, plus sponsors and partners supporting Utah's Hispanic business community.
 
@@ -28,7 +28,7 @@ Hispanic-owned and Hispanic-serving businesses across Utah, plus sponsors and pa
 
 The chamber offers advocacy, business guidance, a searchable member directory, events (listed on Facebook and Eventbrite), sponsor opportunities, and links to the Utah Somos Foundation Scholarship. Public messaging emphasizes solving doubts, concerns, and barriers to business growth.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 
@@ -45,9 +45,13 @@ Membership and sponsorship costs vary; check the official site. Open to Hispanic
 
 Hispanic founders and main-street operators who want chamber advocacy, directory visibility, and community events — not a substitute for SBIR coaching or venture capital unless a specific program is listed.
 
+## Open Questions
+
+- What are the chamber's current membership tiers, dues, and application requirements?
+- Which advertised business-support programs are accepting participants now, and which are limited to members?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://utahhcc.com/) · https://utahhcc.com/
-

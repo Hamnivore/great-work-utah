@@ -30,7 +30,7 @@ Utah pre-seed founders who are builders first — especially in consumer tech, f
 - Community events connecting founders and operator LPs
 - Mentor and LP network drawn from Utah tech operators
 
-## How To Access
+## How To Use It
 
 - Contact through the official site
 - [Official website](https://www.convoiventures.com/) · https://www.convoiventures.com/

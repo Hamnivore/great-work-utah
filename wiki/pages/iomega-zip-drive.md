@@ -30,7 +30,7 @@ Zip was the most visible "superfloppy" of the late 1990s and a genuine mass-mark
 
 The deeper impact was cultural and practical: Zip normalized the idea of high-capacity, rewritable, pocketable personal storage during the exact years when ordinary users suddenly had large files (desktop publishing, scanned images, presentations, multimedia, games) but no cheap, universal way to move or back them up. It made large-file portability feel normal before the technologies that ultimately replaced it were ready.
 
-## What Was Created
+## What It Took
 
 The Zip drive packaged Iomega's removable-media engineering (descended from its earlier Bernoulli products) into a cheap, friendly, mass-market peripheral. The original external models shipped in parallel-port versions for IBM PC-compatibles and SCSI versions for Macs and PCs, used Winchester-style "nanoslide" heads with a special air-bearing surface and a linear voice-coil motor, and were fast enough to run applications directly from the disk. The hardware had a distinctive industrial design and color and came with software to organize and copy data.
 

@@ -27,7 +27,7 @@ Utah veterans, active-duty service members, reservists, National Guard members, 
 
 The official site offers one-on-one business advisor sessions, the STRIVE program (Startup Training Resources to Inspire Veteran Entrepreneurship — one of seven U.S. sites in partnership with Syracuse University's Institute for Veterans and Military Families), webinars and an annual conference, Silicon Slopes Military Support programming, and guidance on registering in the Utah Veteran-Owned Business Registry.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://utahvbrc.org/) · https://utahvbrc.org/
 - [Book a 1-to-1 business advisor session](https://utahvbrc.org/contact/) · https://utahvbrc.org/contact/

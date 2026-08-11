@@ -24,11 +24,11 @@ Smith's visible story — founder childhood in developing countries, brand that 
 
 Public record reflects Smith primarily as a brand-builder and mission-driven entrepreneur: product vision, community-oriented marketing, and the ability to attract talent, capital, and customers motivated by social purpose alongside quality. He has spoken publicly about building a company whose mission is intrinsic to its product strategy rather than a marketing add-on.
 
-## What They Are Looking For
+## What They're Looking For
 
 Not publicly stated. Based on public signals, likely interested in other founders pursuing mission-aligned consumer businesses, conversations about impact entrepreneurship in the Mountain West, and collaborators who understand outdoor industry, supply chain, and brand.
 
-## Proof of Work
+## Track Record
 
 - Founded Cotopaxi in Salt Lake City; built it into a nationally recognized outdoor brand with B Corp status
 - Grew the brand's Questival — a social-media-driven outdoor adventure event — into a national marketing platform

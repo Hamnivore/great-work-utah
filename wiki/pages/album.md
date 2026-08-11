@@ -28,7 +28,7 @@ Early-stage technology founders seeking seed or early venture capital from a Uta
 - Early-stage venture capital for technology startups
 - Portfolio support from a Utah venture team
 
-## How To Access
+## How To Use It
 
 - Contact through the official site
 - [Official website](https://www.album.vc/) · https://www.album.vc/

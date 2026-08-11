@@ -33,7 +33,7 @@ The official page describes entrepreneurship coursework, lecture series, worksho
 
 It also reports program-level metrics such as funding awarded, students served, active mentors, and current student businesses; treat those as provider-reported.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

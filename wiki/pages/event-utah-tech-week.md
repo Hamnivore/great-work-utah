@@ -23,7 +23,7 @@ Anyone in Utah's tech community — founders, investors, operators, students, an
 
 The site lists Utah Tech Week October 26–30, 2026. Hosts submit events to a master list (no fee or sponsorship required to host beyond meeting posted criteria). Attendees register for updates and access the consolidated event calendar (released to registrants). Opening and closing parties and open hangout spaces are described as community-wide entry points.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.utahtechweek.com/) · https://www.utahtechweek.com/
 - Register on the site for the master event list and calendar access

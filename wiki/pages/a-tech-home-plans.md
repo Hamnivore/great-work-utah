@@ -17,7 +17,7 @@ A‑TECH Home Plans was listed in the Startup State directory as a Davis County 
 
 This page was bulk-imported from the Startup State resource CSV. The listing no longer appears in the live directory, and a current official page was not independently verified on 2026-08-11. Treat the page as a lead to a commercial provider, not as a currently endorsed state resource.
 
-## Who It Helps
+## Who It's For
 
 The CSV lists this resource for these communities:
 
@@ -33,7 +33,7 @@ The imported description suggests this resource may provide support related to:
 
 - Other
 
-## How To Access It
+## How To Use It
 
 Verify that the provider is still operating and confirm scope, pricing, and credentials before making a referral.
 

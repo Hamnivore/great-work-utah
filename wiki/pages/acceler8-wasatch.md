@@ -25,7 +25,7 @@ Startup State tags this for founders statewide, with an aerospace-and-defense in
 
 Per the Startup State listing: ecosystem-building support for innovation and entrepreneurship across Utah, with aerospace/defense as an initial anchor industry. Specific services (events, funding, mentoring, space) are not verifiable on a live official page.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

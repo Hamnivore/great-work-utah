@@ -20,7 +20,7 @@
 
 BIG Chamber of Commerce serves Beaver, Iron, and Garfield counties with a mission to elevate business prosperity and encourage healthy communities. Verified on the official site (2026-07-14): the chamber covers three counties (Beaver, Iron/Gateway to National Parks, and Garfield/tourism country), offers membership join, business directory, networking events, advocacy for local businesses, and community event promotion.
 
-## Who It Helps
+## Who It's For
 
 Businesses across Beaver, Iron, and Garfield counties — tourism, agriculture, energy, and Main Street operators — seeking tri-county networking, advocacy, and community events.
 
@@ -28,7 +28,7 @@ Businesses across Beaver, Iron, and Garfield counties — tourism, agriculture, 
 
 Tri-county business directory; membership join pathway; business networking events; advocacy content ("Advocacy Matters" series); community event calendar; county profiles for Beaver, Iron, and Garfield on homepage.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

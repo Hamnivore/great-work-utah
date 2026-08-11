@@ -17,7 +17,7 @@ The Utah Muslim Civic League (UMCL) is described in Startup State as a nonprofit
 
 Treat UMCL primarily as a civic and community organization unless staff confirm business programs.
 
-## Who It Helps
+## Who It's For
 
 Utah Muslim residents and community leaders focused on civic participation, advocacy, and community resources. Startup State also tags multicultural entrepreneurs; verify whether UMCL offers business-specific programming beyond civic engagement.
 
@@ -25,7 +25,7 @@ Utah Muslim residents and community leaders focused on civic participation, advo
 
 Per Startup State: voter education, leadership development, advocacy, and community resource initiatives representing Utah's Muslim population. Business mentorship, marketing, or funding services are not confirmed on a live official site in this pass.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

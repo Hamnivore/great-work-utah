@@ -29,7 +29,7 @@ Medicine often knows what should happen but fails to deliver it reliably. Interm
 
 That made Intermountain a leading reference case for the "learning health system" idea: routine care generates data, the data improves practice, and improved practice generates better evidence. The influence reached well beyond Utah through patient-safety, quality, and value-based-care work nationally.
 
-## What Was Created
+## What It Took
 
 The hard problem was changing care without suppressing clinical judgment. Guidelines are easy to write and hard to make useful at the bedside. Intermountain had to build enough measurement infrastructure, feedback, and clinician trust that protocols were visibly tied to outcomes — and that warranted exceptions stayed possible.
 

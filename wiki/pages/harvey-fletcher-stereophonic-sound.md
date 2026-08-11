@@ -31,7 +31,7 @@ Stereo sound is now so ordinary it is invisible. Nearly every music recording, f
 
 The headline demonstration came on April 27, 1933, when the Philadelphia Orchestra played in Philadelphia while the sound was captured by wide-range Bell Labs microphones, carried over specially prepared telephone lines, and reproduced through three channels of loudspeakers in Constitution Hall in Washington, D.C. Audiences found it nearly indistinguishable from a live orchestra in the room — the first public demonstration of high-fidelity sound "in auditory perspective."
 
-## What Was Created
+## What It Took
 
 The hard problem was that reproducing sound convincingly is not just louder playback; it requires capturing and reconstructing the spatial and spectral cues the ear uses to locate and judge sound. Fletcher's team pushed frequency response and dynamic range far beyond contemporary radio and phonograph records and used multiple channels to preserve spatial information.
 

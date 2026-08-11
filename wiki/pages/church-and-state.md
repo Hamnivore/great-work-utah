@@ -27,7 +27,7 @@ Downtown Salt Lake City entrepreneurs, creatives, and remote workers who want a 
 
 Daytime coworking and marketplace atmosphere; tenant spaces for independent small businesses; community events; and evening event-venue rental with historic architecture (stained glass, arches). The site invites visitors to work, shop, and meet on site.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

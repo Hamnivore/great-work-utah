@@ -27,7 +27,7 @@ Utah entrepreneurs from idea stage through scaling — especially those in Davis
 
 Coworking and incubator workspace ("Work Here"); education tracks ("Learn Here"); networking and community ("Network Here"); intake form routing founders by business stage; and partner support areas including launching, marketing, bookkeeping, funding, leadership, import/export, sales, scaling, and manufacturing.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

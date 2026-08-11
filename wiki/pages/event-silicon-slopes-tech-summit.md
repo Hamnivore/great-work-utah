@@ -27,7 +27,7 @@ Utah tech founders, growth-stage operators, investors, and community members see
 
 The summit site (linked from Silicon Slopes) is the canonical source for dates, venues, speakers, and tracks. Startup State import referenced multi-venue programming (UCCU Center at Utah Valley University and Salt Palace Convention Center) and Startup Alley for emerging companies — confirm current-year details on the official summit page before recommending.
 
-## How To Access
+## How To Use It
 
 - [Official summit page](https://www.siliconslopes.com/summit) · https://www.siliconslopes.com/summit
 - [Silicon Slopes](https://www.siliconslopes.com/) · https://www.siliconslopes.com/

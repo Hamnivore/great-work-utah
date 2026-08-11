@@ -27,7 +27,7 @@ Utah filmmakers, production companies, crew, vendors, students, property owners 
 
 The official site offers production support for motion picture, TV, and commercial projects; Utah location scouting resources; a motion-picture incentive program; crew and support-services directories; Film Ready Utah community resources; job listings for local crew and extras; guidance for listing properties as filming locations; career-path resources for newcomers; green-production practices; and a Filmed in Utah archive.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://film.utah.gov/) · https://film.utah.gov/
 - Email: [film@utah.gov](mailto:film@utah.gov)

@@ -20,7 +20,7 @@
 
 The Cedar City Chamber of Commerce supports business prosperity in Iron County. Verified on the official site (2026-07-14): the chamber offers membership join, member directory, events calendar, and account login at 510 W 800 S, Cedar City. Contact: (435) 586-4484, office@cedarcitychamber.org.
 
-## Who It Helps
+## Who It's For
 
 Cedar City and Iron County businesses seeking local networking, member directory visibility, and chamber events.
 
@@ -28,7 +28,7 @@ Cedar City and Iron County businesses seeking local networking, member directory
 
 Member directory; events calendar; join and member login; chamber contact and accessibility information; local business community hub for Iron County.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

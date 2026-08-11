@@ -23,7 +23,7 @@ Utah tourism operators, destination marketers, hospitality businesses, and indus
 
 The site describes UTIA as the collective voice of Utah's visitor economy, with education and advocacy for the tourism sector. Public pages highlight industry scale (reported $12.71B direct visitor spending in 2023, 159,800 tourism jobs), legislative updates, research tools, networking, member login, and conference sponsorship.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://utahtourism.org/) · https://utahtourism.org/
 - For state tourism office programs, see [Utah Office of Tourism](utah-office-of-tourism.md)

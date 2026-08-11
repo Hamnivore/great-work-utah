@@ -80,12 +80,11 @@ This gives the newer, higher-profile Utah geothermal cluster a working baseline:
 - [Zanskar Geothermal](zanskar-geothermal.md) · https://greatutah.work/pages/zanskar-geothermal.md — AI-driven geothermal exploration; names Ormat among the developers its exploration platform could de-risk
 - [Rodatherm Energy](rodatherm-energy.md) · https://greatutah.work/pages/rodatherm-energy.md — closed-loop pilot targeting sedimentary basins that conventional plants like Cove Fort cannot access
 - [Utah FORGE](utah-forge.md) · https://greatutah.work/pages/utah-forge.md — DOE-funded enhanced-geothermal field laboratory in the same Beaver County corridor
-- [Blundell](blundell-geothermal-plant.md) · https://greatutah.work/pages/blundell-geothermal-plant.md — PacifiCorp's neighboring geothermal plant near Milford; no dedicated wiki page yet, see Open Questions
-- [Cyrq Energy](cyrq-energy.md) · https://greatutah.work/pages/cyrq-energy.md — operates Thermo No. 1 near Milford; no dedicated wiki page yet, see Open Questions
+- [Blundell](blundell-geothermal-plant.md) · https://greatutah.work/pages/blundell-geothermal-plant.md — PacifiCorp's neighboring geothermal plant near Milford
+- [Cyrq Energy](cyrq-energy.md) · https://greatutah.work/pages/cyrq-energy.md — operates Thermo No. 1 near Milford
 
 ## Open Questions
 
-- **Blundell and Cyrq Energy currently lack dedicated wiki pages.** Both are real, currently-operating Beaver County geothermal plants (PacifiCorp's Blundell since 1984; Cyrq Energy's Thermo No. 1 since 2013) with enough public documentation (Wikipedia, Utah Geological Survey records, EIA-860 data, and — for Cyrq — the company's own locations page) to support at least a stub page. They are linked here as wanted-queue entries rather than written up, since this task's scope was the Ormat/Cove Fort page; a future pass should decide whether Cyrq Energy warrants its own venture page (it is a multi-state geothermal operator, not Utah-only) and whether Blundell warrants a `Type: work` or venture-adjacent page analogous to Utah FORGE's treatment.
 - Cove Fort 2's targeted 2027 commercial operation date is explicitly conditioned by Ormat on "resource availability"; verify exploration results before treating it as a committed timeline.
 - No confirmed count of current Cove Fort-specific job openings: Ormat's careers site and jobs map are JavaScript-rendered and did not return Utah-specific listings to this fetcher. A human applicant should use https://www.ormat.com/en/company/careers/jobs-map/ directly.
 - The relative sizing of Cove Fort (25 MW), Blundell (~33-38 MW), and Thermo No. 1 (14 MW) against Fervo's planned 400 MW Cape Station has not been independently verified beyond the cited plant records; treat all MW figures here as nameplate/EIA-reported capacity, not generation.

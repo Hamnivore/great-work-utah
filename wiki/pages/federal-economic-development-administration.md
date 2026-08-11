@@ -15,7 +15,7 @@
 
 The U.S. Economic Development Administration (EDA), within the Department of Commerce, invests in regional innovation and competitiveness nationwide. EDA.gov describes grant programs for infrastructure, technical assistance, disaster recovery, and economic resilience — Utah communities and organizations compete for EDA funding through regional notices of funding opportunity.
 
-## Who It Helps
+## Who It's For
 
 Utah cities, counties, tribes, universities, and economic development organizations building regional projects; businesses indirectly through EDA-funded infrastructure and innovation hubs — EDA generally funds eligible entities, not individual startups.
 
@@ -23,7 +23,7 @@ Utah cities, counties, tribes, universities, and economic development organizati
 
 Federal grants (e.g., Public Works, Economic Adjustment, Build to Scale, disaster recovery), technical assistance, regional collaboration requirements, and partnership with Utah's EDA Economic Development Districts (SERDA, WFRC, etc.).
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

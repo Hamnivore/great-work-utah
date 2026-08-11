@@ -19,7 +19,7 @@
 
 EDCUtah is Utah's statewide public-private economic development organization helping companies relocate or expand in Utah. Verified on edcutah.org: EDCUtah offers site selection support, comparative research, access to 200+ local partners, business retention and expansion services, and navigation of state and local incentive programs for companies of all sizes.
 
-## Who It Helps
+## Who It's For
 
 Site selection teams and corporate expansion leaders; Utah companies planning multi-location growth; communities and partners in EDCUtah's investor network — less direct support for pre-revenue solo founders.
 
@@ -27,7 +27,7 @@ Site selection teams and corporate expansion leaders; Utah companies planning mu
 
 End-to-end site selection assistance, Utah and out-of-state comparative data, on-the-ground site analysis coordination, incentive program navigation, connection to investor-network experts (real estate, legal, utilities, workforce), and published research on Utah's business climate.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

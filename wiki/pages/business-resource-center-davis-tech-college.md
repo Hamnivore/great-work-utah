@@ -29,7 +29,7 @@ Entrepreneurs and small-business owners in Davis, Morgan, Salt Lake, Tooele, and
 
 Small Business Development Center (SBDC) consulting on business plans and growth strategies; workforce education and Custom Fit training; government-contracting assistance; open lobby workspace; incubator and shared membership office rentals; conference room rentals; and business financial planning support.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

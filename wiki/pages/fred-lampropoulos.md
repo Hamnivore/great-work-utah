@@ -35,11 +35,11 @@ Based on his public record as a long-tenure founder-operator of a large public m
 
 Specific advisory, board, or mentoring availability beyond the public record is not confirmed here.
 
-## What They Are Looking For
+## What They're Looking For
 
 No public statements of current personal interests or priorities following the CEO transition have been identified from sources reviewed in this pass. The October 2025 succession to Martha Aronson is recent enough that his post-founder role has not been fully documented publicly. Individuals interested in connecting should pursue institutional paths through Merit Medical.
 
-## Proof of Work
+## Track Record
 
 - Founded Merit Medical Systems in 1987 in South Jordan, UT
 - Led Merit as founder-operator for approximately 38 years

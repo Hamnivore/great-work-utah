@@ -30,7 +30,7 @@ Utah companies — especially growth-stage operators — pursuing export sales, 
 - Grant and funding support for trade opportunities such as STEP
 - Foreign-trade zone and tariff-briefing resources
 
-## How To Access
+## How To Use It
 
 - Start with Get Started on the official site or contact WTC Utah
 - [Official website](https://www.wtcutah.com/) · https://www.wtcutah.com/

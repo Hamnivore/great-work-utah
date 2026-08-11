@@ -29,7 +29,7 @@ Utah agricultural producers, food businesses, and rural operators seeking state 
 
 Open and upcoming grant programs (for example grazing improvement, predatory-animal control, and salinity-reduction projects listed on the grants page), agricultural loans, USDA resource navigation, marketing and economic-development services, conservation initiatives, and webinars on federal identifiers such as UEIs for grant eligibility.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

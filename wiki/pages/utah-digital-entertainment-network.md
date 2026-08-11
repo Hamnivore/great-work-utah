@@ -17,7 +17,7 @@ The Utah Digital Entertainment Network (UDEN) is a nonprofit, volunteer-led trad
 
 Treat UDEN as a community connector and industry voice, not an accelerator or fund.
 
-## Who It Helps
+## Who It's For
 
 Utah game developers, filmmakers, digital-media builders, educators, and creative-tech professionals seeking industry community and statewide promotion of Utah's entertainment ecosystem.
 
@@ -25,7 +25,7 @@ Utah game developers, filmmakers, digital-media builders, educators, and creativ
 
 Industry storytelling, historical context for Utah's digital entertainment roots, and a contact path (info@utahden.org) to add organizations or content to the network. The site references statewide creative anchors (EAE, BYU Animation, IGDA Utah, esports programs) but does not publish a structured service menu.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -29,7 +29,7 @@ Founders with at least an MVP and ideally early revenue or product-market-fit si
 - Operating network including The Stable founder community
 - Revenue-driving support for portfolio companies
 
-## How To Access
+## How To Use It
 
 - Contact the team through the official site
 - [Official website](https://tandeminvest.com/) · https://tandeminvest.com/

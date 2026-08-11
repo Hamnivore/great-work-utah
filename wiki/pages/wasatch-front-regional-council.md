@@ -19,7 +19,7 @@
 
 The Wasatch Front Regional Council (WFRC) is the metropolitan planning organization for Box Elder, Davis, Morgan, Salt Lake, Tooele, and Weber counties. Verified on wfrc.org: WFRC coordinates transportation planning, regional visioning (Wasatch Choice), economic development strategy, community development block grants, and technical assistance for Wasatch Front communities serving 2+ million residents.
 
-## Who It Helps
+## Who It's For
 
 Local governments and developers planning transportation or land-use projects; businesses needing regional planning data or CDBG pathways; community leaders implementing Wasatch Choice vision — not direct founder coaching.
 
@@ -27,7 +27,7 @@ Local governments and developers planning transportation or land-use projects; b
 
 Transportation Improvement Program and long-range planning, Wasatch Choice Vision technical assistance, capital funding guidance for qualifying projects, maps and regional data, Comprehensive Economic Development Strategy, active transportation and station-area planning support, and CDBG administration.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -27,7 +27,7 @@ Utah entrepreneurs and SLCC-linked founders at idea, pre-revenue, or revenue sta
 
 Business incubator programming organized around Work Here (workspace), Learn Here (education), and Network Here (community); intake through a Get Started form that captures business stage and resource needs; and featured client success stories on the public site.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -29,7 +29,7 @@ If AWE's dataset materially improves models of upper-atmosphere dynamics or spac
 
 The broader significance is that terrestrial weather and space weather are typically treated as separate domains with separate agencies, models, and scientific communities. AWE is aimed at the seam between them. Better understanding of vertical coupling could improve GPS accuracy, protect satellite and communication infrastructure, and help predict ionospheric disturbances that affect aviation and national security systems.
 
-## What Was Created
+## What It Took
 
 SDL built the AWE science instrument: a four-camera infrared imaging array that observes airglow emissions in the hydroxyl and oxygen layers near the mesopause. The instrument was designed, fabricated, integrated, tested, and delivered for ISS installation. USU also leads mission science operations.
 

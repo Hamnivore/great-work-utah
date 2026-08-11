@@ -21,11 +21,11 @@ Bearss represents a connective tissue role in Utah life sciences: he works in th
 
 Deep experience in academic drug discovery at the University of Utah, oncology and inflammation expertise, and network connections across Utah's life-sciences ecosystem — particularly the HCI, PIVOT Center, and U2TAH triangle. For therapeutics founders, Bearss represents a potential pathway into U of U resources, collaboration, and commercialization infrastructure.
 
-## What They Are Looking For
+## What They're Looking For
 
 Not known from public sources. Inference: most likely interested in scientifically credible drug programs with university roots, particularly those targeting chronic inflammation, aging biology, or cancer.
 
-## Proof of Work
+## Track Record
 
 - Senior Managing Director, U2TAH (University of Utah Therapeutic Accelerator Hub, $22.5M commitment)
 - Founder, [Halia Therapeutics](halia-therapeutics.md) — lead program ofirnoflast (HT-6184), first-in-class allosteric NEK7 inhibitor in clinical trials

@@ -25,7 +25,7 @@ Utah early-stage founders who need small non-dilutive capital tied to milestone 
 - Milestone-based funding using Lean Startup and Business Model Canvas framing
 - Business-network and capital-access support through Weber State's entrepreneurship ecosystem
 
-## How To Access
+## How To Use It
 
 - Follow current GetFUNDED instructions on the official page
 - [Official website](https://www.weber.edu/wildcat-microfund/) · https://www.weber.edu/wildcat-microfund/

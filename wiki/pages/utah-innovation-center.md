@@ -19,7 +19,7 @@
 
 Verified on the official site (2026-07-14): Nucleus Grow (formerly Utah Innovation Center) is Utah's official SBIR/STTR resource partner under the Nucleus Institute. It helps Utah-headquartered deep-tech and life-sciences companies prepare competitive federal non-dilutive funding proposals through coaching, workshops, proposal review, and connections across Utah's innovation network.
 
-## Who It Helps
+## Who It's For
 
 Utah-headquartered for-profit companies with a Utah business license pursuing SBIR/STTR funding — especially deep tech, life sciences, AI, advanced manufacturing, and cleantech ventures at pre-commercial R&D stages.
 
@@ -27,7 +27,7 @@ Utah-headquartered for-profit companies with a Utah business license pursuing SB
 
 SBIR/STTR topic matching, proposal development and editing, monthly SBIR 101 workshops, agency-specific guidance (NIH, NSF, DoD, DOE, USDA, NASA, and others), SAM.gov registration support, and links to the Utah Technology Innovation Fund (UTIF) microgrants and nonrecourse loans for SBIR applicants. Nucleus Grow is also Utah's FAST Partnership awardee.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

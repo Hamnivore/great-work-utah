@@ -19,7 +19,7 @@ The Utah Center for Global Talent helps businesses understand pathways to recrui
 
 Talent shortages are often treated as a generic recruiting problem. This resource is more specific: Utah has internationally trained professionals, immigrant entrepreneurs, multilingual workers, and employers who need help navigating foreign-labor questions responsibly. For founders and operators in manufacturing, healthcare, STEM, education, hospitality, logistics, and growth-stage services, that can be a meaningful workforce advantage.
 
-## Who It Helps
+## Who It's For
 
 The center is relevant for Utah employers that are trying to understand immigrant workforce integration, international talent pathways, work authorization, employment-based visa concepts, naturalization resources, and connections to organizations serving new Americans.
 
@@ -31,7 +31,7 @@ The official page describes coordination, strategy, convening, and advising. It 
 
 The page also gathers many links to workforce, credentialing, English-language, and immigration legal-service resources.
 
-## How To Access It
+## How To Use It
 
 The official page provides program information, newsletters, webinars, and contact routes. Founders should use it as a discovery and referral source, then verify any legal or immigration-specific question with qualified counsel or official federal resources.
 

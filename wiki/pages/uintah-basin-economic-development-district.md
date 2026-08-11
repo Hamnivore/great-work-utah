@@ -21,7 +21,7 @@ The Uintah Basin Economic Development District (UBEDD), housed within the Uintah
 
 The original RLF page is marked under construction; the CARES Act RLF program description and application contacts are live.
 
-## Who It Helps
+## Who It's For
 
 Businesses located in Daggett, Duchesne, or Uintah counties seeking gap financing, COVID-affected business recovery support, or regional economic-development planning resources. Also relevant to community leaders working on basin-wide CEDS priorities.
 
@@ -29,7 +29,7 @@ Businesses located in Daggett, Duchesne, or Uintah counties seeking gap financin
 
 Revolving loan fund financing ($5,000–$250,000 per published CARES Act guidelines), CEDS regional strategy documents, and staff support for loan applications and board review. Published loan uses include working capital, land/building purchase, and COVID-related rent/payroll/utilities.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

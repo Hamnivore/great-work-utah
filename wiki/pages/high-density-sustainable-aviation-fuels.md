@@ -32,7 +32,7 @@ Long-haul aviation is exceptionally hard to decarbonize. Batteries are too heavy
 
 The defense claim is about performance, not carbon. Higher-energy-density fuels can extend aircraft range and endurance, reduce aerial refueling requirements, increase missile range, or improve launch payload without modifying vehicle geometry. These claims, if validated by independent testing, represent serious strategic value for the US military.
 
-## What Was Created
+## What It Took
 
 The CJ1 industrial manufacturing facility in Salt Lake City is the first Utah-based facility producing both civil SAF and defense aerospace propellants from the same feedstock and process infrastructure. CycloSAF is in the ASTM International qualification process for commercial aviation use. CycloKinetics reports deliveries under defense contracts began in Q2 2025, though named platforms and test data remain largely non-public.
 

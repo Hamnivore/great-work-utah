@@ -25,7 +25,7 @@ Family offices, foundations, endowments, and institutional investors seeking div
 
 Institutional investment access across private growth equity, private credit, portfolio management, wealth advisory, hedge-fund strategies, sports PE, and real estate PE. The firm emphasizes collaborative, multi-discipline investment teams rooted in the Eccles family legacy.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

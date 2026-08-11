@@ -17,7 +17,7 @@ Washington City's Economic Development division supports business growth in one 
 
 The page emphasizes Washington City's location within the rapidly growing Washington County metro.
 
-## Who It Helps
+## Who It's For
 
 Entrepreneurs considering retail or local service businesses in Washington City, and existing operators planning relocation or expansion within southwest Utah.
 
@@ -25,7 +25,7 @@ Entrepreneurs considering retail or local service businesses in Washington City,
 
 Municipal economic-development guidance on starting or expanding a business, regional growth context (population and market reach), and collaborative project prioritization aligned with city economic centers. Contact staff for site-selection and development questions.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -31,6 +31,7 @@ Generated from `**Domain:**` metadata (167/644 pages attributed so far — cover
 ## Who they need right now
 
 - [BYU-Pathway Worldwide](/pages/byu-pathway.md) · `https://greatutah.work/pages/byu-pathway.md`: Likely needs span curriculum development, learning-platform engineering, student success and advising at global scale, localization (language and cultural adaptation), employment-partnership development, and operations staff comfortable within a faith-affiliated nonprofit structure. The Portuguese expansion and three-year degree model suggest ongoing product and accreditation work. *(reviewed 2026-07-14)*
+- [Great Salt Lake](/pages/great-salt-lake.md) · `https://greatutah.work/pages/great-salt-lake.md`: **Lithium and mineral extraction** — GSL brine contains lithium, magnesium, and potash. Utah HB 453 (2024) bans evaporative mineral extraction from GSL, making direct lithium extraction (DLE) the only legal path for new ventures. Lilac Solutions (Oakland) completed a 7-month GSL pilot in 2024 recovering 87% of available lithium at 99.97% purity with a 10-year offtake agreement; International Batt… *(reviewed 2026-08-11)*
 
 ## Also relevant (primary elsewhere)
 

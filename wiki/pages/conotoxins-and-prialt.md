@@ -31,7 +31,7 @@ Severe-pain treatment has long leaned on opioids, which are effective but carry 
 
 The broader conotoxin program mattered beyond one drug. Conotoxins became standard probes for sodium channels, calcium channels, nicotinic acetylcholine receptors, NMDA receptors, and other molecular machinery, giving neuroscientists worldwide a reusable library of reagents and drug leads.
 
-## What Was Created
+## What It Took
 
 The hard technical problem was that venom is messy: hundreds of similar-looking small peptides, knotted by disulfide bonds, present in tiny quantities, with powerful biological effects. The Utah lab had to purify individual components, determine their structures, synthesize analogs, identify their molecular targets, and connect a toxin's effect on an animal to a human-relevant mechanism.
 

@@ -26,7 +26,7 @@ The mine continues to operate today. Rio Tinto has invested in extending its lif
 
 Copper is foundational infrastructure: electrical wiring, plumbing, motors, and now EV powertrains and grid cables. Bingham Canyon's scale drove down copper prices in the early twentieth century and supplied a significant fraction of U.S. copper demand through both World Wars and into the postwar industrial expansion. The open-pit mass-mining template developed here became the standard approach for large copper, gold, and iron mines globally — the same techniques now dominate the industry worldwide.
 
-## What Was Created
+## What It Took
 
 Jackling and his colleagues developed and industrialized mass-mining: drill-blast-haul at scale, concentrator technology capable of handling low-grade ore, and the logistics to move millions of tons of rock economically. The technical achievement was not just building a larger mine but proving that ore too dilute for conventional methods could support enormous industrial throughput.
 

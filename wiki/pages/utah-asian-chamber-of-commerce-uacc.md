@@ -17,7 +17,7 @@ The Utah Asian Chamber of Commerce (UACC) is a 501(c)(6) organization promoting 
 
 The public site highlights membership enrollment and sponsor visibility more than open grant or loan programs.
 
-## Who It Helps
+## Who It's For
 
 Asian professionals, entrepreneurs, and Utah businesses seeking chamber networking, mentorship, and community visibility through a multicultural business association.
 
@@ -25,7 +25,7 @@ Asian professionals, entrepreneurs, and Utah businesses seeking chamber networki
 
 Membership access to chamber events, mentorship connections, business resources, and sponsor-backed programming. The homepage directs prospects to membership details and a contact form for joining.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

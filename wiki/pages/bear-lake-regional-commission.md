@@ -16,7 +16,7 @@
 
 Verified on the official site (2026-07-14): The Bear Lake Regional Commission coordinates growth management and regional planning across Bear Lake County, Idaho and Rich County, Utah. Its public mission emphasizes protecting Bear Lake through coordination, cooperation, and education while working across multiple state and local jurisdictions on planning, recreation, and environmental issues.
 
-## Who It Helps
+## Who It's For
 
 Regional planners, local governments, property owners, and tourism or recreation stakeholders in the Bear Lake region — not a typical startup advising or funding resource.
 
@@ -24,7 +24,7 @@ Regional planners, local governments, property owners, and tourism or recreation
 
 The commission publishes regional planning documents, meeting agendas, and resources related to Bear Lake zoning, trails, special-event permits, and cross-border coordination. It serves as a regional convener rather than a business incubator or lender.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 
@@ -41,9 +41,13 @@ Public regional commission; no membership fee listed. Relevant for Bear Lake / R
 
 Tourism, recreation, or land-use stakeholders in Rich County who need regional planning context — weak fit for early-stage founders seeking capital, mentoring, or accelerator support.
 
+## Open Questions
+
+- Which planning or technical-assistance requests can businesses bring directly to the commission?
+- What is the commission's current meeting and public-comment schedule?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](http://www.bearlakeregionalcommission.org/) · http://www.bearlakeregionalcommission.org/
-

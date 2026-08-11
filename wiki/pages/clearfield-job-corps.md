@@ -28,7 +28,7 @@ Young adults ages 16–24 who qualify for the federal Job Corps program and want
 
 Career technical training, academic support toward high school diploma or GED, residential campus services, hands-on skills development, and advanced career training pathways. Specific trade programs should be confirmed on the center's current training catalog.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

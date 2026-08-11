@@ -44,6 +44,11 @@ Advising and many orientations are low-cost or free; specific courses and worksh
 
 Spanish- or English-preferring founders who need hands-on business planning, QuickBooks training, financing education, or CDFI-linked capital support — especially strong for underserved and Latino entrepreneurs statewide.
 
+## Open Questions
+
+- Which current services are free, and what are the fees for each scheduled course or workshop?
+- What lending products and borrower eligibility requirements are currently available?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md

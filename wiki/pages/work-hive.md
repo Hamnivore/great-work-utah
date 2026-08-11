@@ -27,7 +27,7 @@ Freelancers, remote workers, and small businesses in the Salt Lake Valley who wa
 
 Open coworking, dedicated desks, private offices, three conference rooms, three phone rooms, lounge and library space, full kitchen with coffee, color printing, bike storage, adjustable-height desks, and 24-hour member access. The downtown HQ (opened 2025) adds expanded meeting space, event space, rooftop terrace, and building gym access per site announcements.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

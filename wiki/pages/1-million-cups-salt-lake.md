@@ -15,7 +15,7 @@
 
 Verified on the official site (2026-07-14): 1 Million Cups Salt Lake is a weekly peer community for founders, entrepreneurs, and small business owners. Each week two presenters share an idea, startup, or business for 6–8 minutes followed by ~10 minutes of audience Q&A at The Neighborhood Hive in Sugar House.
 
-## Who It Helps
+## Who It's For
 
 Salt Lake City-area founders, students, business owners, service providers, and investors who want low-pressure feedback and community — not a pitch competition or investor deal-flow event.
 
@@ -23,7 +23,7 @@ Salt Lake City-area founders, students, business owners, service providers, and 
 
 Weekly presentations, peer Q&A, community guidelines emphasizing support over selling, a Slack community, presenter applications, and sponsor/volunteer opportunities.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 
@@ -40,9 +40,13 @@ Free to attend; apply to present through the official site. Open community event
 
 Early-stage founders practicing a short presentation and gathering honest peer feedback in Salt Lake City — weak fit for founders seeking structured curriculum or capital introductions.
 
+## Open Questions
+
+- Is The Neighborhood Hive still the regular venue for every weekly session?
+- How far in advance are presenter applications currently scheduled?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://1mcslc.com/) · https://1mcslc.com/
-

@@ -29,7 +29,7 @@ Entrepreneurs, remote workers, and small businesses in Carbon, Emery, Grand, and
 
 Per Startup State listing: coworking and incubation space, commercial kitchen rental, fiber internet, 24-hour access, and flexible office plans. Specific advising, funding, or accelerator programming is not confirmed on a live official page.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

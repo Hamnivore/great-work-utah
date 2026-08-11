@@ -17,7 +17,7 @@ Offices.net is a national coworking and flex-office listing service, not a singl
 
 Treat it as a comparison directory; pricing and membership terms come from each building operator.
 
-## Who It Helps
+## Who It's For
 
 Founders, freelancers, and small teams comparing coworking and flex-space options across Salt Lake City, North Salt Lake, West Valley City, and nearby suburbs.
 
@@ -25,7 +25,7 @@ Founders, freelancers, and small teams comparing coworking and flex-space option
 
 Searchable coworking listings with amenity descriptions (Wi-Fi, meeting rooms, reception, 24-hour access, day passes). Users call the published broker line (+1 800 215 0286) or request information through individual listing pages.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

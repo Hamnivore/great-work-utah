@@ -27,7 +27,7 @@ USU Uintah Basin students seeking an entrepreneurship minor, internships, or SEE
 
 Entrepreneurship minor coursework; free Grow Your Business course covering resources, branding, marketing strategy, and diversification; SEED and other internships; student competitions; and incubator space. Center hours are posted Mondays and Wednesdays 2:00–4:00 pm at USU Vernal, Room 236.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

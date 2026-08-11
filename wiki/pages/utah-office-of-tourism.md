@@ -27,7 +27,7 @@ Utah tourism, hospitality, and outdoor-recreation businesses; destination market
 
 The official site highlights statewide destination marketing tied to [Visit Utah](visit-utah.md), the Utah Tourism Conference (hosted with the Utah Tourism Industry Association), cooperative marketing grant interviews, Going Global training (virtual sessions for businesses marketing to international visitors), quarterly stakeholder surveys, film/tourism cross-promotion updates, industry newsletters, and economic-impact reporting.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://travel.utah.gov/) · https://travel.utah.gov/
 - Email: [info@visitutah.com](mailto:info@visitutah.com)

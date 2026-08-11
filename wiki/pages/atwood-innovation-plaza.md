@@ -27,7 +27,7 @@ Utah Tech students, faculty, and community entrepreneurs building or commerciali
 
 No-cost business consultations via the [Business Resource Center](business-resource-center-utah-tech-university.md); makerspace with prototyping and small-run manufacturing; innovation guidance for patents, trademarks, and proof of concept; STEM outreach classes and camps; private and semi-private offices; pitch competitions; and mentor/fund pathways listed on the site.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

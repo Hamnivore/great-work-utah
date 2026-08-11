@@ -19,7 +19,7 @@
 
 The Vernal Area Chamber of Commerce promotes business and community in the Uintah Basin. Verified on the official site (2026-07-14): the chamber offers membership, a member directory and business catalog, events calendar, ribbon-cutting and grand-opening support through its Dinah-Mites ambassadors, and community recognitions including Business of the Month. Tagline on site: "Promoting Business and Community Greatness."
 
-## Who It Helps
+## Who It's For
 
 Uintah Basin businesses — especially Vernal-area operators — seeking local visibility, networking events, ribbon cuttings, and chamber-led community promotion.
 
@@ -27,7 +27,7 @@ Uintah Basin businesses — especially Vernal-area operators — seeking local v
 
 Member directory and business catalogs; events calendar; membership join flow; Dinah-Mites ambassador support for grand openings, ribbon cuttings, and community events; Business of the Month and beautification awards; office at 134 West Main Street, Vernal.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

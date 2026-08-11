@@ -21,11 +21,11 @@ Solzbacher turned a decades-long University of Utah neuroengineering research pr
 
 Deep experience commercializing neural-interface hardware from a university research base; understanding of FDA IDE and PMA pathways for active implantable devices; network connections across the global BCI research community and the Utah neuroengineering cluster specifically.
 
-## What They Are Looking For
+## What They're Looking For
 
 Not known from public sources. Inference: most likely engaged with neuroengineering, hard-technology medical devices, and university spinout questions in the neural-interface space.
 
-## Proof of Work
+## Track Record
 
 - Co-founded Blackrock Neurotech (2008), commercializing the Utah Electrode Array
 - Led Blackrock through two decades of clinical research tool deployment across 30,000+ implantation days

@@ -25,7 +25,7 @@ Venture-backed growth companies and fund managers exploring late-stage or pre-IP
 
 Late-stage investment access through Cross Creek fund relationships; portfolio exposure to high-growth companies in sectors such as consumer internet, enterprise software, and cybersecurity. The site highlights 85+ active managers, 250+ fund investments, and a portfolio including companies such as AppDynamics, Braze, and HubSpot.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

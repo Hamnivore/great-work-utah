@@ -28,7 +28,7 @@ Underground mines of the early-to-mid twentieth century could drill and blast fa
 
 The machine's rocker-shovel mechanism solved a specific mechanical problem: doing a shoveling motion inside a cramped, rail-bound tunnel using mine-available compressed air. The operator drove a bucket into the muck pile, then actuated a bucket drive that rolled the bucket upward and rearward, throwing the rock into a mine car behind the machine. This mechanism was rugged enough for rock impact, dust, water, vibration, bad track, and rough maintenance.
 
-## What Was Created
+## What It Took
 
 The EIMCO Model 12B became an ASME Historic Mechanical Engineering Landmark and defined an entire machine category: the rocker shovel, mucker, or overshot loader. Its design and the manufacturing ecosystem around it at EIMCO's Salt Lake City plant made the company an internationally recognized mining-equipment supplier with licensed production on multiple continents.
 

@@ -17,7 +17,7 @@ First Step Entrepreneur (FSTEP) was imported as a six-week online cohort program
 
 This page was bulk-imported from the Startup State resource CSV so the resource remains discoverable. The listing no longer appears in the live Startup State directory, and the provider's current enrollment status, schedule, and price were not verified on 2026-08-11. Treat it as a historical lead until the provider confirms that the program is operating.
 
-## Who It Helps
+## Who It's For
 
 The CSV lists this resource for these communities:
 
@@ -42,7 +42,7 @@ The imported description suggests this resource may provide support related to:
 
 - Entrepreneurship Communities
 
-## How To Access It
+## How To Use It
 
 Use the provider link or imported contact information only to ask whether the program is still operating. Do not rely on the former cohort price or assume applications are open.
 

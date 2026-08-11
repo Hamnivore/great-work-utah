@@ -27,7 +27,7 @@ Utah entrepreneurs at idea or pre-revenue stage who want contest-based validatio
 
 The site describes ongoing startup contests (30+ held since 2008, with over $1M in reported cash and services awarded), the RAMP startup accelerator for new products, Concept to Company statewide innovation contests, LIFT (an eight-week outdoor-recreation accelerator), challenge events tied to industry problems, the Utah Startup Connectory directory, and a Utah investors/funding-sources page.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.growutah.com/) · https://www.growutah.com/
 - [Contests & accelerators](https://www.growutah.com/contests-accelerators) · https://www.growutah.com/contests-accelerators

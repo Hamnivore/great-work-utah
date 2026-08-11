@@ -27,7 +27,7 @@ Entrepreneurs, remote workers, and small businesses in the Uintah Basin (Daggett
 
 Coworking open workspace, dedicated desks, private offices, hourly conference and multimedia rooms, mail handling, high-speed internet, business-development classes, and the annual Rise & Thrive Business Speed Pitch for startups.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

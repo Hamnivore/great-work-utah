@@ -18,13 +18,13 @@ Dugway Proving Ground is a U.S. Army test facility in Utah's West Desert, establ
 
 After U.S. policy shifted away from offensive chemical and biological weapons, Dugway's public mission became defense testing: masks, suits, detectors, shelters, decontamination systems, and military or first-responder preparation for chemical, biological, radiological, and explosive hazards.
 
-## Why It Matters
+## Impact
 
 Defense against chemical and biological threats depends on test infrastructure where equipment can be challenged under realistic conditions. Dugway became one of the few places in the United States with the land, containment facilities, instrumentation, and institutional experience to do that work at scale.
 
 The uncomfortable part is that the same infrastructure was built for weapons programs the United States later renounced. Dugway is therefore both a technical capability story and a warning about how defense infrastructure can carry unresolved harm.
 
-## What Was Built
+## What It Took
 
 Chemical and biological defense is hard because laboratory success often fails in field conditions. Wind, dust, heat, equipment fit, agent persistence, sensor false positives, human error, and decontamination chemistry all matter. Dugway's contribution was the instrumented desert-scale environment where those variables could be tested.
 

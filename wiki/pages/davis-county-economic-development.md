@@ -19,7 +19,7 @@
 
 Davis County Community and Economic Development is a one-stop shop for business recruitment, retention, and entrepreneurial support in Davis County. Verified on daviscountyutah.gov/ced: the office provides site and incentive coordination, business retention visits, a county business development loan fund, partnerships with NUEA and EDCUtah, and strategic planning across 15 cities.
 
-## Who It Helps
+## Who It's For
 
 Businesses recruiting or expanding in Davis County; entrepreneurs connected through Northfront Business Resource Center; site selectors evaluating aerospace, manufacturing, distribution, or tech clusters along the Wasatch Front north of Salt Lake City.
 
@@ -27,7 +27,7 @@ Businesses recruiting or expanding in Davis County; entrepreneurs connected thro
 
 Business recruitment (sites, demographics, workforce liaisons, stacked incentives), retention and expansion visits, Davis Loan Fund for Economic Development, entrepreneurial mentoring, Davis COG coordination, economic snapshot and strategic plan resources, and links to state and NUEA partners.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

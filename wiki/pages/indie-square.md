@@ -23,7 +23,7 @@ Utah nonprofit organizations and changemakers — the site states it works prima
 
 Colocation office space, meeting and event venues, member community connections, newsletter updates, and availability/pricing information for workspace and meeting rooms. Amenities are framed around shared resources that help nonprofits operate more efficiently together.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

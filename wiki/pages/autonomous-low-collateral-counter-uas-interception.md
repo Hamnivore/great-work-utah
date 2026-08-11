@@ -32,7 +32,7 @@ If autonomous low-collateral interception becomes a standard layer of civil and 
 
 The moral complexity is real: systems deployed for infrastructure protection have also appeared in active conflict zones where "low collateral" is measured against battlefield norms, not civil-aviation standards.
 
-## What Was Created
+## What It Took
 
 A system stack combining compact TrueView radar for detection and tracking, DroneHunter autonomous interceptors, and SkyDome command-and-control software for networked airspace management. The technical claim is a low-size, weight, and power radar family capable of tracking small, low-flying drones at close range, paired with interceptors that can act autonomously once a threat is confirmed — removing reaction-time limitations of human-in-the-loop systems. DroneHunter 5.0 (2026) is the current generation, designed around counter-swarm scenarios.
 

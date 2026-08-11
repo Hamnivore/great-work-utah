@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Audience:** founders, researchers, helpers, investors
 **Focus:** startup capital, non-dilutive funding, SBIR/STTR, deep tech, Utah
-**Updated:** 2026-07-14
+**Updated:** 2026-08-11
 **Layout:** field-guide
 
 ## Overview
@@ -13,6 +13,8 @@
 This guide helps Utah founders distinguish between capital paths instead of treating every funding source as interchangeable. The criteria are stage, dilution, technical risk, research origin, eligibility, and whether the money advances the next credible milestone.
 
 This is a first pass focused on Nucleus-related capital plus official business-service pathways that can prevent founders from confusing every money question with venture capital. Many angel and VC names already exist as **Low-confidence stubs** in [resources](/views/resources.md) (often with polluted Focus tags) — treat those as a watchlist to verify on the firm’s own site, not as recommendations. A fuller sequencing of private capital belongs in a later revision of this guide.
+
+University researchers with an invention still at a Utah campus should read [Commercialize Research in Utah](commercialize-research.md) first — for University of Utah IP, that starts at the [Technology Licensing Office](university-of-utah-technology-licensing-office.md) (formerly PIVOT Center) before any capital conversation.
 
 ## Non-Dilutive R&D Funding
 

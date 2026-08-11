@@ -20,7 +20,7 @@
 
 Carbon County Economic Development recruits and supports businesses across Price, Helper, Wellington, and East Carbon. Verified on the official site (2026-07-14): the department promotes a business-friendly environment with local, state, and federal incentives, shovel-ready sites, fiber access, rail and highway logistics, workforce ties to USU Eastern, and programs including the Rural County Grant. Director contact: Shanny Wilson, cced@carbon.utah.gov, (435) 636-3295.
 
-## Who It Helps
+## Who It's For
 
 Businesses expanding or relocating to Carbon County — especially manufacturing, logistics, tourism, and energy-transition projects — and existing employers needing incentive navigation or site data.
 
@@ -28,7 +28,7 @@ Businesses expanding or relocating to Carbon County — especially manufacturing
 
 Business recruitment and expansion support; Rural County Grant program; business tools and incentives pages; interactive economic-development maps; workforce and education partnerships (USU Eastern, Carbon School District); tourism and Carbon Corridor promotion; SBDC-Price referral pathway.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

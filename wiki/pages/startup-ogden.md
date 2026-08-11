@@ -27,7 +27,7 @@ Ogden-area entrepreneurs, remote workers, and small teams who want coworking ins
 
 Flexible workspace options (hot desks and dedicated desks), conference rooms, an online member portal for bookings and community, and proximity to downtown Ogden amenities. The Nexudus site confirms the location brand and member portal infrastructure.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

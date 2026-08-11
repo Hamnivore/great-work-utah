@@ -27,7 +27,7 @@ Utah employers building talent pipelines, educators seeking industry partnership
 
 Utah Adopt-a-School business-to-K-12 partnerships; Pathways (industry experience with guaranteed job interview on completion); TRAC (split time between classroom and paid work experience); and Utah Works (short-term technical skills training leading to high-demand careers).
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

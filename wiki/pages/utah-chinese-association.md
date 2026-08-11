@@ -17,7 +17,7 @@ The Utah Chinese Association (UCA) is a 501(c)(3) nonprofit described in Startup
 
 PICC lists UCA as part of the Living Color Chamber Alliance, suggesting some business-network overlap.
 
-## Who It Helps
+## Who It's For
 
 Utah's Chinese and broader multicultural communities seeking cultural events, heritage programming, and potential business-network connections through allied chamber alliances. Direct entrepreneurship services are not confirmed on a live official site in this pass.
 
@@ -25,7 +25,7 @@ Utah's Chinese and broader multicultural communities seeking cultural events, he
 
 Per Startup State: cultural festivals, museum and heritage programming, and community events. Per PICC alliance listing: participation in a multi-chamber business network alongside other multicultural chambers. Verify current business offerings directly with UCA staff.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

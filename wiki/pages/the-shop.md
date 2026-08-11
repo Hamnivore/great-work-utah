@@ -27,7 +27,7 @@ Professionals, entrepreneurs, remote workers, and small teams who want a downtow
 
 Flexible access (on-demand), Commons memberships with 24/7 workspace access, private offices, virtual office and mail services, conference rooms, high-speed Wi-Fi, printing, staffed reception, networking events, and member perks. The community team hosts regular programming and amenities such as coffee and fountain drinks.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

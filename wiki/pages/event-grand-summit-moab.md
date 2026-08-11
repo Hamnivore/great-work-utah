@@ -23,7 +23,7 @@ Moab and southeastern Utah business owners, tourism operators, and community lea
 
 The official site markets a premiere Moab business event with sponsor/exhibitor tiers and online registration (2024 checkout link). Startup State import described keynotes, panels, and breakout sessions on sustainable tourism and economic development — confirm the next agenda on the official site.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.grandsummitmoab.com/) · https://www.grandsummitmoab.com/
 - Email: [Nicole@powerhouse.events](mailto:Nicole@powerhouse.events)

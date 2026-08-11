@@ -19,7 +19,7 @@
 
 Verified on the official site (2026-07-14): 1 Million Cups Orem is the Utah County chapter of the national 1 Million Cups program, hosted weekly at the UVU Business Resource Center. It gives local entrepreneurs a platform to present ideas, receive feedback, and connect with startups, investors, and service providers.
 
-## Who It Helps
+## Who It's For
 
 Utah County founders and entrepreneurs who want a recurring weekly community for presentation practice and peer feedback — not formal investor pitching.
 
@@ -27,7 +27,7 @@ Utah County founders and entrepreneurs who want a recurring weekly community for
 
 Weekly 1 Million Cups sessions with presentation slots, audience feedback, and networking among Utah County entrepreneurs, investors, and service providers at the UVU Business Resource Center.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 
@@ -44,9 +44,13 @@ Free community event; contact organizers for current schedule and presenter sign
 
 Utah County early-stage founders who want weekly peer feedback in a 1 Million Cups format — verify current meeting time on the official 1MC page before recommending.
 
+## Open Questions
+
+- What is the chapter's current weekly meeting time and presenter application process?
+- Does the chapter currently serve all three counties named in the Startup State listing?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut) · https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
-

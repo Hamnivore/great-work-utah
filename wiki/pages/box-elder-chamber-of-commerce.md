@@ -20,7 +20,7 @@
 
 Verified on the official site (2026-07-14): The Box Elder Chamber of Commerce is the county's membership-based business organization, focused on business support, community connections, and leadership and advocacy for Box Elder County. Public pages describe it as a catalyst and convener for existing and new businesses in northern Utah.
 
-## Who It Helps
+## Who It's For
 
 Box Elder County business owners and operators — including new and established businesses — who want local networking, visibility, advocacy, and chamber programs rather than statewide venture or lending services.
 
@@ -28,7 +28,7 @@ Box Elder County business owners and operators — including new and established
 
 Member benefits described on the official site include business support, community connections, leadership and advocacy, a member directory, networking events, promotional tools, and programs such as Peach Days. The chamber positions itself as a resource for businesses starting or growing in Box Elder County.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 
@@ -45,9 +45,13 @@ Chamber membership is paid; specific tiers and fees are listed on the membership
 
 Main-street and local operators in Brigham City, Tremonton, and surrounding Box Elder communities who want a county chamber network, event access, and local advocacy — not deep-tech SBIR coaching or equity fundraising.
 
+## Open Questions
+
+- Which membership tier is the best fit for a solo founder or pre-revenue business?
+- Are any chamber programs available to nonmembers?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://www.boxelderchamber.com/) · https://www.boxelderchamber.com/
-

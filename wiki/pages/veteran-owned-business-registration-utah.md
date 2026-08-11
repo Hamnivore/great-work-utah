@@ -23,7 +23,7 @@ Utah veteran business owners who want public discoverability as a verified veter
 
 The VBRC site describes a searchable public registry where verified veteran-owned businesses can be found and supported. Registration requires veteran-status verification by the Utah Department of Veterans & Military Affairs and business-license verification by VBRC.
 
-## How To Access
+## How To Use It
 
 - [Registry portal](https://vbr.veterans.utah.gov/s/) · https://vbr.veterans.utah.gov/s/ (select **Register Business**)
 - [VBRC overview of the registry](https://utahvbrc.org/) · https://utahvbrc.org/

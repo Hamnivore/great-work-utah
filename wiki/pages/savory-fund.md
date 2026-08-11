@@ -29,7 +29,7 @@ Restaurant and food-and-beverage operators with proven concepts seeking growth c
 - Operating support in real estate, recruiting, marketing, technology, and multi-unit rollout
 - Portfolio-scale infrastructure from an operator-founded team
 
-## How To Access
+## How To Use It
 
 - Use Join the Portfolio or contact paths on the official site
 - [Official website](https://savoryfund.com/) · https://savoryfund.com/

@@ -27,7 +27,7 @@ Southern Utah business owners, executives, and community leaders — especially 
 
 The official site schedules the summit at the Dixie Convention Center (1835 S Convention Center Dr, St. George). The January 14, 2027 edition includes breakfast and lunch, an exhibit hall, keynotes (listed speakers include Kem C. Gardner Policy Institute economist Phil Dean and SBA advocate Trent Staggs), and two breakout blocks. General admission is listed at $200. The site also retains a separate Rural Utah Data Symposium ticket dated January 15, 2026; do not treat that legacy listing as a 2027 add-on without confirmation.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://whatsupdownsouth.org/) · https://whatsupdownsouth.org/
 - Purchase tickets via the official site ticket section

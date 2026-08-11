@@ -483,10 +483,6 @@ Generated from `**Region:**` metadata (410 pages with a region). Sector hubs sti
 
 - [Wavetronix](/pages/wavetronix.md) · `https://greatutah.work/pages/wavetronix.md` · computing
 
-## St. George, UT
-
-- [SkyWest, Inc.](/pages/skywest-inc.md) · `https://greatutah.work/pages/skywest-inc.md` · aerospace-defense
-
 ## St. George
 
 - [Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md) · `https://greatutah.work/pages/atwood-innovation-plaza.md` · resource
@@ -498,6 +494,7 @@ Generated from `**Region:**` metadata (410 pages with a region). Sector hubs sti
 - [Intergalactic](/pages/intergalactic.md) · `https://greatutah.work/pages/intergalactic.md` · aerospace-defense, space-science, materials-mfg
 - [RAM Aviation, Space & Defense](/pages/ram-aviation-space-defense.md) · `https://greatutah.work/pages/ram-aviation-space-defense.md` · aerospace-defense, materials-mfg
 - [Red Rock Angels](/pages/red-rock-angels.md) · `https://greatutah.work/pages/red-rock-angels.md` · capital-programs
+- [SkyWest, Inc.](/pages/skywest-inc.md) · `https://greatutah.work/pages/skywest-inc.md` · aerospace-defense
 - [St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md) · `https://greatutah.work/pages/st-george-area-chamber-of-commerce.md` · resource
 - [St. George City Economic Development](/pages/st-george-city-economic-development.md) · `https://greatutah.work/pages/st-george-city-economic-development.md` · resource
 - [St George Downtown Farmers Market](/pages/st-george-downtown-farmers-market.md) · `https://greatutah.work/pages/st-george-downtown-farmers-market.md` · resource

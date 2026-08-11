@@ -27,7 +27,7 @@ Entrepreneurs and small-business owners in southern Utah (Iron, Beaver, Garfield
 
 Gateway access to Utah SBDC counseling, Utah APEX Accelerator, SUU Startup, and the Innovation Center — which offers free 3D printing, digital media studio, conference room, and laser-engraving resources for startups and small businesses. Partner network includes SCORE, Women's Business Center, Cedar City Chamber, and GOEO.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

@@ -26,7 +26,7 @@ Early-stage founders seeking angel capital and structured group due diligence. S
 - Potential angel investment and mentorship for selected companies
 - Forum for deal flow, member research, and investment decisions
 
-## How To Access
+## How To Use It
 
 - Contact SLCA through the official site for founder engagement
 - [Official website](https://slcangels.org/) · https://slcangels.org/

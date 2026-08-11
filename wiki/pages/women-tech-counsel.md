@@ -27,7 +27,7 @@ Women and allies in Utah tech — from high-school students exploring STEM throu
 
 Public programs include SheTech (high-school STEM activation), the Women Tech Awards, Innovation Summit events, research reports on women in tech leadership and workplace flexibility, corporate inclusion programming, partner events, and a community the site describes as 10,000+ professionals. Contact email on site: info@womentechcouncil.org.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.womentechcouncil.com/) · https://www.womentechcouncil.com/
 - Email: [info@womentechcouncil.org](mailto:info@womentechcouncil.org)

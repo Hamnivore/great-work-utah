@@ -29,7 +29,7 @@ Defense contractors, aerospace suppliers, installation-adjacent businesses, and 
 
 Mission advocacy for Utah military installations (Hill AFB, Tooele Army Depot, Dugway, Camp Williams, UTTR, and others); events and advocacy programming; member resources; documents and links; and economic-impact messaging tied to Utah's defense industry.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

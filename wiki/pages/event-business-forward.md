@@ -23,7 +23,7 @@ Utah executives, founders, and senior operators who want actionable strategies a
 
 The official site offers keynotes, four breakout blocks with tracks (Lead, Grow, Innovate, Impact, AI hands-on workshops), optional Breakfast With an Expert (free with early-bird tickets while spots last), lunch panel, and VIP after party. Listed speakers include Utah operators and investors across sectors.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://forward.utahbusiness.com/) · https://forward.utahbusiness.com/
 - Early-bird tickets listed June 16 – August 31 before the November 10, 2026 event

@@ -6,6 +6,7 @@
 **Focus:** environmental crisis, water policy, lithium extraction, dust mitigation, ecosystem restoration, Utah
 **Primary Location:** Great Salt Lake basin
 **Utah Location:** Great Salt Lake basin
+**Needs-reviewed:** 2026-08-11
 **Updated:** 2026-06-19
 **Domain:** culture-place, energy
 **Region:** Great Salt Lake basin
@@ -21,11 +22,11 @@ The Great Salt Lake is not an organization, and no single company is responsible
 
 The lake has lost approximately 73% of its surface area since 1850, from roughly 3,300 square miles at high stand to around 950 square miles at the 2022 record low. The exposed lakebed contains arsenic, antimony, lanthanum, zirconium, and other heavy metals that are now blowing into the airshed of 2.5 million people along the Wasatch Front. Brine shrimp — the base of the ecosystem supporting 10 million migratory birds and a commercial harvesting industry — are threatened by escalating salinity. The primary cause is agricultural water diversion: roughly 70% of Utah's water consumption is agricultural, most of it alfalfa grown and exported for beef production.
 
-## Why No Company Has Claimed This
+## Impact
 
 The problem is structurally difficult to build a company around because the root cause (agricultural water diversion) requires policy change, and policy is slower and harder than technology. The adjacent opportunities are real, but they require patience: direct-lithium-extraction economics depend on water pricing that doesn't yet reflect scarcity; dust mitigation is hard to monetize; water-efficiency technology competes with cheap federally subsidized water. That structural gap is precisely why the opportunity is real — the market failures are large enough that an entrepreneur who navigates them well could build something consequential.
 
-## Commercial Opportunities
+## What They Need Now
 
 **Lithium and mineral extraction** — GSL brine contains lithium, magnesium, and potash. Utah HB 453 (2024) bans evaporative mineral extraction from GSL, making direct lithium extraction (DLE) the only legal path for new ventures. Lilac Solutions (Oakland) completed a 7-month GSL pilot in 2024 recovering 87% of available lithium at 99.97% purity with a 10-year offtake agreement; International Battery Metals has a DLE plant near Salt Lake City. A Utah-native DLE company addressing the GSL specifically hasn't yet emerged at scale. [US Magnesium](us-magnesium.md) is the established incumbent, using evaporative methods on a legacy permit.
 

@@ -25,7 +25,7 @@ Utah farmers, ranchers, food producers, artisans, and rural operators who grow, 
 - Marketing visibility for Utah-sourced agricultural and food products
 - Connections to farmers markets and local-food campaigns
 
-## How To Access
+## How To Use It
 
 - Explore membership via the official site
 - [Official website](https://utahsown.org/) · https://utahsown.org/

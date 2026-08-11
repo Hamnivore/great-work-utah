@@ -29,7 +29,7 @@ The official page points to the Entrepreneurship Minor, Entrepreneur Leadership 
 
 Compared with some other university pages, the public page provides a clear menu of offerings but less detail on costs, award amounts, or live deadlines, so those should be verified at the specific program level.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

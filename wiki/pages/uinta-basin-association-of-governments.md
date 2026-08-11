@@ -19,7 +19,7 @@
 
 The Uintah Basin Association of Governments (UBAOG) unifies Daggett, Duchesne, and Uintah counties for economic and social development. Verified on ubaog.org: UBAOG runs housing, weatherization, HEAT utility assistance, food pantries, Basin Transit, aging services, community development (including CDBG business grants), and economic development district programs.
 
-## Who It Helps
+## Who It's For
 
 Basin residents needing housing or utility aid; local governments in the tri-county area; businesses applying for CDBG business grants or regional ED support; employers coordinating with UBAOG community programs.
 
@@ -27,7 +27,7 @@ Basin residents needing housing or utility aid; local governments in the tri-cou
 
 Community development and economic development district services, CDBG business grant applications (when posted), housing rehabilitation, HEAT assistance, food pantries, transit (BTA), aging and volunteer services, weatherization, and planning/resource management support.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

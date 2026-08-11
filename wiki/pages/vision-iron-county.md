@@ -25,7 +25,7 @@ The import pointed to rural Iron County stakeholders — businesses, residents, 
 
 The CSV described community planning surveys (Vision 2050), stakeholder coordination on land use, transportation, natural resources, and economic development. None of this is confirmed on the live domain today.
 
-## How To Access
+## How To Use It
 
 - Listed URL (parked): https://visionironcounty.org/
 - Alternate contact from Startup State import: [office@cedarcitychamber.org](mailto:office@cedarcitychamber.org) via Cedar City Area Chamber of Commerce

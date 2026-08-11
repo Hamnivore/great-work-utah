@@ -18,13 +18,13 @@ Fly's Eye and its successor, the High Resolution Fly's Eye, were University of U
 
 The original Fly's Eye detector became famous for the October 15, 1991 event nicknamed the Oh-My-God particle: a cosmic ray with an estimated energy of about 3.2 x 10^20 electron volts. HiRes then extended the Utah program with improved optics, stereo observing, and years of measurements of the high-energy cosmic-ray spectrum.
 
-## Why It Matters
+## Impact
 
 The Oh-My-God particle was more than a record. Its energy was above the level where interactions with the cosmic microwave background should strongly limit how far ordinary protons can travel. That made it a clean problem for astrophysics: either a nearby source could accelerate particles to extreme energies, the particle was not what scientists assumed, or propagation and source physics needed revision.
 
 HiRes mattered in a different way. After the famous outlier, the field needed enough calibrated observations to know whether the predicted Greisen-Zatsepin-Kuzmin suppression appeared in the spectrum. The HiRes collaboration reported early strong evidence for that suppression, turning a theoretical expectation into an observed feature of the highest-energy cosmic-ray sky.
 
-## What Was Built
+## What It Took
 
 The hard problem was measuring rare, indirect, transient events precisely enough to do particle astrophysics. The particles arrive at vanishingly low rates. They do not land neatly in a lab detector. They create moving, kilometer-scale atmospheric cascades, and the experiment has to reconstruct the original particle's energy, direction, and shower development from faint light collected across desert distances.
 

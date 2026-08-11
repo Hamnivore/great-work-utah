@@ -27,7 +27,7 @@ Startup founders, tech workers, remote teams, and event organizers in the south 
 
 Community workspace (weekday access), dedicated desks with 24/7 access, executive private offices, day passes and punch passes, private meeting rooms for 2–14 people, collaborative rooms for 15–30, and large events for 30–250 with AV and catering options. The site also promotes team offsites and conference-room booking.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

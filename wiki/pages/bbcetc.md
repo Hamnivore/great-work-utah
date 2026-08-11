@@ -25,7 +25,7 @@ For deep-tech founders, SBIR/STTR is often a company-building path rather than j
 
 BBCetc publicly lists research grant assistance, SBIR/STTR training, post-award grants/contracts management, programs for entrepreneurial support organizations, TABA, CMMC, live workshops, on-demand webinars, and agency-specific SBIR/STTR information for DoD, NIH, and NSF.
 
-## Best-Fit Founders
+## Who They Help
 
 Likely fits include technical founders with a plausible federal R&D topic who need hands-on proposal support, SBIR/STTR training, post-award management help, agency-specific guidance, or support beyond what a local free program can provide.
 

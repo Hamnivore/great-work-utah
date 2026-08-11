@@ -21,11 +21,11 @@ Pluralsight became one of the clearest examples of a Utah company scaling a B2B 
 
 Experience building a developer-education and technical-skills platform to IPO scale; enterprise SaaS go-to-market expertise; Utah tech ecosystem seniority from the Silicon Slopes founding generation.
 
-## What They Are Looking For
+## What They're Looking For
 
 Not known from public sources. Post-CEO transition, Skonnard's current public profile and availability are less well documented; confirm before expecting ecosystem engagement.
 
-## Proof of Work
+## Track Record
 
 - Co-founded Pluralsight (2004); NASDAQ IPO (2018); Vista Equity take-private (2021)
 - Served as CEO through the public company phase

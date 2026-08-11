@@ -22,13 +22,13 @@ HELP, short for Health Evaluation through Logical Processing, was a hospital inf
 
 The distinctive thing was not just digitizing hospital records. HELP connected structured clinical data to medical logic and knowledge modules so the system could generate alerts, reminders, protocols, antibiotic guidance, ventilator support, blood-product guidance, and other decision support inside routine care.
 
-## Why It Matters
+## Impact
 
 Modern medicine depends on electronic health records and clinical decision support, but in the 1970s and 1980s that future was not obvious. Many hospital systems were mainly administrative or billing tools. HELP made the stronger claim that a hospital computer could help clinicians make better decisions while patients were being treated.
 
 It became one of the reference systems in medical informatics, alongside Regenstrief and VA systems, for showing how computerized patient data and executable medical knowledge could fit into clinical workflow. It also helped give Intermountain's later quality-improvement work a data-rich base.
 
-## What Was Built
+## What It Took
 
 The hard problem was not storing facts. HELP had to ingest messy hospital data quickly enough to matter, represent medical rules in executable form, send advice to clinicians without breaking workflow, and remain trusted in a high-stakes environment where bad alerts could be ignored or dangerous.
 

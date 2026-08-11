@@ -23,7 +23,7 @@ Rural Utah business owners, operators, and community leaders in Kane County and 
 
 The official site describes a full-day summit at the Kanab Event Center with breakfast and lunch, exhibitor area, keynotes (2026 lineup included Trent Staggs as SBA regional advocate), county and city updates, tourism and economic-development briefings, and local business storytelling sessions. The next advertised edition is January 2027.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.raisingkanesummit.com/) · https://www.raisingkanesummit.com/
 - Join the site mailing list for registration announcements

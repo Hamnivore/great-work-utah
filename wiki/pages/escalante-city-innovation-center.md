@@ -29,7 +29,7 @@ Remote workers, entrepreneurs, and small teams seeking professional workspace in
 
 Per Startup State listing: furnished private offices, meeting room with conference table and display, and flexible workspace rental terms. Specific programming beyond space (advising, funding, events) is not confirmed on a live official page.
 
-## How To Access It
+## How To Use It
 
 Start with the official website, then confirm current programs before recommending.
 

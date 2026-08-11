@@ -8,6 +8,7 @@
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
 **Region:** Orem
+**Needs-reviewed:** 2026-08-11
 **Map Location:** Former WordPerfect Campus, 1555 N Technology Way, Orem, UT 84057
 **Coordinates:** 40.3234160, -111.6800590
 **Location Precision:** exact
@@ -37,6 +38,10 @@ WordPerfect Corporation's engineering culture also contributed to Utah's talent 
 Founders Alan Ashton (a BYU computer science professor) and Bruce Bastian (his graduate student) built the first version of WordPerfect for a BYU systems administrator's specific needs in 1979. The company grew in Orem throughout the 1980s, became one of Utah's first technology anchors, and at its height employed thousands in the Utah Valley workforce. The eventual sale to Novell and then Corel is often cited as a missed opportunity — Utah's first major software success was absorbed by outside ownership rather than remaining a Utah-independent company — but the talent and capital that came out of the company's growth compounded into the state's later successes.
 
 WordPerfect's story is the canonical opening chapter of the Silicon Slopes narrative: the proof that Utah could build global software, not just manufacture or service it.
+
+## What They Need Now
+
+WordPerfect is documented here for its historical Utah impact, not as a verified active Utah organization seeking contributors. No current Utah-specific hiring, partnership, or volunteer need is established by the evidence on this page.
 
 ## Evidence
 

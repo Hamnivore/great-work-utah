@@ -28,7 +28,7 @@ Early-stage life-science and techbio founders — especially first-time academic
 
 The official site describes cohort-based residency with onboarding (12–20 weeks), weekly investor meetings, industry-veteran coaching, roughly 20,000 sq ft of lab and office space on Recursion's campus, a national investor network, and financial awards including the Trail Angel Grant (one year of membership and expert guidance), the Chris and Summer Gibson Fellowship (reported $80,000 stipend plus lab/office space for first-time academic founders), and Altitude Lab Fund pre-seed investments (reported $100,000–$250,000 for peer-reviewed-grant holders). The site reports portfolio companies raising over $205M with an 85% seed success rate — treat those as provider-reported outcomes.
 
-## How To Access
+## How To Use It
 
 - [Official website](https://www.altitudelab.org/) · https://www.altitudelab.org/
 - [Apply](https://www.altitudelab.org/apply) · https://www.altitudelab.org/apply

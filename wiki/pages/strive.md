@@ -40,6 +40,11 @@ Free to eligible participants. Funded in part by a grant agreement with the U.S.
 
 Military-connected Utah founders with an early-stage idea who want cohort training plus ongoing VBRC advising — not for established companies seeking executive scaling programs.
 
+## Open Questions
+
+- What are the dates, application deadline, and delivery format for the next Utah cohort?
+- How many applicants are admitted per cohort?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md

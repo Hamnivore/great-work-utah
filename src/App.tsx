@@ -69,10 +69,10 @@ function SiteRoutes() {
                 looking for work
               </a>
               <Link to="/map" className="text-twilight-soft hover:text-twilight">
-                location
+                map
               </Link>
               <a href="/v/guides" className="text-twilight-soft hover:text-twilight">
-                founding
+                founder resources
               </a>
               <a href="/about" className="text-twilight-soft hover:text-twilight">
                 about

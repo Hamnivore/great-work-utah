@@ -73,7 +73,7 @@ export function MapPage() {
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(true)
   const [locating, setLocating] = useState(false)
-  const [type, setType] = useState('all')
+  const [type, setType] = useState('venture')
   const [locationQuery, setLocationQuery] = useState('')
   const [origin, setOrigin] = useState<Origin | null>(null)
   const [radius, setRadius] = useState(35)

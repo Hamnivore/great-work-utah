@@ -32,7 +32,8 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
   assert.doesNotMatch(view, /"@type":"Article"/)
   assert.match(view, /href="\/v\/by-role">looking for work<\/a>/)
   assert.doesNotMatch(view, /href="\/v\/needs">looking for work<\/a>/)
-  assert.match(view, /href="\/map">location<\/a>/)
+  assert.match(view, /href="\/map">map<\/a>/)
+  assert.match(view, /href="\/v\/guides">founder resources<\/a>/)
   assert.doesNotMatch(view, /href="\/v\/by-region">by place<\/a>/)
 
   const metaDoc = renderDocument('meta', 'about')

@@ -40,8 +40,8 @@ const TYPE_PLURAL = {
 const NAV = [
   ['/search', 'search'],
   ['/v/by-role', 'looking for work'],
-  ['/map', 'location'],
-  ['/v/guides', 'founding'],
+  ['/map', 'map'],
+  ['/v/guides', 'founder resources'],
   ['/about', 'about'],
   ['/contribute', 'contribute'],
 ]

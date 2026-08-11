@@ -1,8 +1,8 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState, type FormEvent } from 'react'
 import L from 'leaflet'
-import { MapContainer, Marker, Popup, TileLayer, Tooltip, useMap } from 'react-leaflet'
+import { CircleMarker, MapContainer, Marker, Popup, TileLayer, Tooltip, useMap } from 'react-leaflet'
 import MarkerClusterGroup from 'react-leaflet-cluster'
-import { ExternalLink, LocateFixed, MapPin, RotateCcw } from 'lucide-react'
+import { ExternalLink, LocateFixed, Search, X } from 'lucide-react'
 import 'leaflet/dist/leaflet.css'
 import 'leaflet.markercluster/dist/MarkerCluster.css'
 
@@ -43,21 +43,28 @@ type LocationResponse = {
   results: LocationResult[]
 }
 
-const PLACES = ['All Utah', 'Salt Lake City', 'Provo', 'Ogden', 'St. George', 'Logan', 'Lehi', 'Park City', 'Moab', 'Cedar City', 'Milford']
+type Origin = { label: string; latitude: number; longitude: number }
+
 const TYPE_LABELS: Record<string, string> = { all: 'All', venture: 'Ventures', person: 'People', resource: 'Resources', helper: 'Helpers', work: 'Work' }
 const escapeAttribute = (value: string) => value.replace(/[&"<>]/g, (character) => ({ '&': '&amp;', '"': '&quot;', '<': '&lt;', '>': '&gt;' })[character] || character)
 const humanPageUrl = (page: string) => page.replace(/^(https?:\/\/[^/]+)?\/pages\/([a-z0-9-]+)\.md$/, '$1/p/$2')
 
-function FitResults({ results }: { results: LocationResult[] }) {
+function FitResults({ results, origin }: { results: LocationResult[]; origin: Origin | null }) {
   const map = useMap()
   useEffect(() => {
+    if (!results.length && origin) {
+      map.setView([origin.latitude, origin.longitude], 10)
+      return
+    }
     if (!results.length) return
     if (results.length === 1) {
       map.setView([results[0].location.latitude, results[0].location.longitude], 11)
       return
     }
-    map.fitBounds(results.map((result) => [result.location.latitude, result.location.longitude]), { padding: [32, 32], maxZoom: 11 })
-  }, [map, results])
+    const points = results.map((result) => [result.location.latitude, result.location.longitude] as [number, number])
+    if (origin) points.push([origin.latitude, origin.longitude])
+    map.fitBounds(points, { padding: [32, 32], maxZoom: 11 })
+  }, [map, origin, results])
   return null
 }
 
@@ -65,10 +72,11 @@ export function MapPage() {
   const [response, setResponse] = useState<LocationResponse | null>(null)
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(true)
+  const [locating, setLocating] = useState(false)
   const [type, setType] = useState('all')
-  const [precision, setPrecision] = useState('all')
-  const [place, setPlace] = useState('All Utah')
-  const [radius, setRadius] = useState('50')
+  const [locationQuery, setLocationQuery] = useState('')
+  const [origin, setOrigin] = useState<Origin | null>(null)
+  const [radius, setRadius] = useState(35)
   const [selected, setSelected] = useState<string | null>(null)
 
   const load = (query = '') => {
@@ -101,13 +109,39 @@ export function MapPage() {
 
   const results = useMemo(() => (response?.results || []).filter((result) => {
     if (type !== 'all' && result.type !== type) return false
-    if (precision !== 'all' && result.location.precision !== precision) return false
+    if (origin && result.location.distanceMiles != null && result.location.distanceMiles > radius) return false
     return true
-  }), [response, type, precision])
+  }), [origin, radius, response, type])
 
-  const searchPlace = () => {
-    if (place === 'All Utah') return load()
-    load(`&near=${encodeURIComponent(place)}&radius_miles=${radius}`)
+  const applyOrigin = (next: Origin) => {
+    setOrigin(next)
+    setLocationQuery(next.label)
+    load(`&lat=${next.latitude}&lon=${next.longitude}`)
+  }
+
+  const searchLocation = async (event: FormEvent) => {
+    event.preventDefault()
+    const q = locationQuery.trim()
+    if (!q) {
+      setError('Enter a Utah address, city, or ZIP code.')
+      return
+    }
+    setLocating(true)
+    setError('')
+    try {
+      const res = await fetch('/api/geocode', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ q }),
+      })
+      const body = await res.json()
+      if (!res.ok) throw new Error(body.error?.message || 'Location lookup failed.')
+      applyOrigin(body.location as Origin)
+    } catch (reason) {
+      setError(reason instanceof Error ? reason.message : String(reason))
+    } finally {
+      setLocating(false)
+    }
   }
 
   const useMyLocation = () => {
@@ -115,15 +149,27 @@ export function MapPage() {
       setError('Location access is not available in this browser.')
       return
     }
-    setLoading(true)
+    setLocating(true)
+    setError('')
     navigator.geolocation.getCurrentPosition(
-      ({ coords }) => load(`&lat=${coords.latitude}&lon=${coords.longitude}&radius_miles=${radius}`),
+      ({ coords }) => {
+        applyOrigin({ label: 'Your location', latitude: coords.latitude, longitude: coords.longitude })
+        setLocating(false)
+      },
       () => {
-        setLoading(false)
-        setError('Location access was unavailable. Choose a Utah place instead.')
+        setLocating(false)
+        setError('Location access was unavailable. Enter an address, city, or ZIP code instead.')
       },
       { enableHighAccuracy: false, timeout: 8000 },
     )
+  }
+
+  const clearOrigin = () => {
+    setOrigin(null)
+    setLocationQuery('')
+    setRadius(35)
+    setSelected(null)
+    load()
   }
 
   return (
@@ -140,31 +186,27 @@ export function MapPage() {
         </a>
       </div>
 
-      <div className="map-toolbar mb-4 flex flex-wrap items-end gap-3 border-y border-sandstone/40 py-3">
-        <label className="grid gap-1 text-xs font-medium text-twilight-soft">
-          Near
-          <select value={place} onChange={(event) => setPlace(event.target.value)}>
-            {PLACES.map((name) => <option key={name}>{name}</option>)}
-          </select>
-        </label>
-        <label className="grid gap-1 text-xs font-medium text-twilight-soft">
-          Radius
-          <select value={radius} onChange={(event) => setRadius(event.target.value)} disabled={place === 'All Utah'}>
-            <option value="15">15 miles</option>
-            <option value="35">35 miles</option>
-            <option value="50">50 miles</option>
-            <option value="100">100 miles</option>
-          </select>
-        </label>
-        <button type="button" className="map-command" onClick={searchPlace}>
-          <MapPin size={16} /> Show
-        </button>
-        <button type="button" className="map-icon-button" onClick={useMyLocation} title="Use my location" aria-label="Use my location">
-          <LocateFixed size={17} />
-        </button>
-        <button type="button" className="map-icon-button" onClick={() => { setPlace('All Utah'); setType('all'); setPrecision('all'); load() }} title="Reset map" aria-label="Reset map">
-          <RotateCcw size={17} />
-        </button>
+      <div className="map-toolbar mb-4 border-y border-sandstone/40 py-3">
+        <form className="map-location-search" onSubmit={searchLocation}>
+          <label htmlFor="map-origin">Distance from</label>
+          <div className="map-location-field">
+            <Search size={17} aria-hidden="true" />
+            <input id="map-origin" value={locationQuery} onChange={(event) => setLocationQuery(event.target.value)} placeholder="Address, city, or ZIP code" autoComplete="postal-code" />
+            {origin && <button type="button" onClick={clearOrigin} title="Clear location" aria-label="Clear location"><X size={16} /></button>}
+          </div>
+          <button type="submit" className="map-command" disabled={locating}>{locating ? 'Finding…' : 'Find'}</button>
+          <button type="button" className="map-command map-locate" onClick={useMyLocation} disabled={locating}>
+            <LocateFixed size={16} /> Use my location
+          </button>
+        </form>
+        {origin && (
+          <div className="map-radius">
+            <label htmlFor="map-radius">Within <strong>{radius} miles</strong></label>
+            <input id="map-radius" type="range" min="5" max="150" step="5" value={radius} onChange={(event) => setRadius(Number(event.target.value))} />
+            <span>5</span><span>150 mi</span>
+          </div>
+        )}
+        <p className="map-location-note">Your search is sent to Esri to find a point; greatutah.work does not save it.</p>
       </div>
 
       <div className="mb-4 flex flex-wrap items-center gap-4">
@@ -173,14 +215,6 @@ export function MapPage() {
             <button key={value} type="button" aria-pressed={type === value} onClick={() => setType(value)}>{label}</button>
           ))}
         </div>
-        <label className="flex items-center gap-2 text-xs text-ink-soft">
-          Precision
-          <select value={precision} onChange={(event) => setPrecision(event.target.value)}>
-            <option value="all">All points</option>
-            <option value="exact">Exact sites</option>
-            <option value="approximate">Approximate anchors</option>
-          </select>
-        </label>
       </div>
 
       {error && <p className="mb-4 border-l-2 border-orange pl-3 text-sm text-ink-soft">{error}</p>}
@@ -192,7 +226,12 @@ export function MapPage() {
               attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
               url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
-            <FitResults results={results} />
+            <FitResults results={results} origin={origin} />
+            {origin && (
+              <CircleMarker center={[origin.latitude, origin.longitude]} radius={8} pathOptions={{ color: '#ffffff', weight: 3, fillColor: '#27231f', fillOpacity: 1 }}>
+                <Tooltip direction="top" offset={[0, -8]} opacity={0.96}>{origin.label}</Tooltip>
+              </CircleMarker>
+            )}
             <MarkerClusterGroup
               chunkedLoading
               maxClusterRadius={46}
@@ -244,7 +283,7 @@ export function MapPage() {
 
         <div className="map-results" aria-live="polite">
           <div className="mb-3 flex items-center justify-between text-xs text-ink-soft">
-            <span>{loading ? 'Loading sites...' : `${results.length} shown`}</span>
+            <span>{loading ? 'Loading sites...' : origin ? `${results.length} within ${radius} miles` : `${results.length} statewide`}</span>
             <span><i className="map-dot exact" /> public site <i className="map-dot approximate ml-2" /> regional</span>
           </div>
           {!loading && results.map((result) => (

@@ -297,6 +297,58 @@ textarea {
   color: var(--color-ink);
   padding: 0.35rem 1.9rem 0.35rem 0.55rem;
 }
+.map-location-search {
+  display: grid;
+  grid-template-columns: minmax(260px, 1fr) auto auto;
+  gap: 0.5rem;
+  align-items: end;
+}
+.map-location-search > label {
+  grid-column: 1 / -1;
+  color: var(--color-twilight-soft);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.map-location-field {
+  display: flex;
+  min-height: 2.65rem;
+  align-items: center;
+  gap: 0.55rem;
+  border: 1px solid color-mix(in srgb, var(--color-sandstone) 70%, transparent);
+  border-radius: 4px;
+  background: white;
+  padding: 0 0.7rem;
+  color: var(--color-twilight-soft);
+}
+.map-location-field:focus-within {
+  border-color: var(--color-twilight);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-twilight) 12%, transparent);
+}
+.map-location-field input {
+  min-width: 0;
+  flex: 1;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+}
+.map-location-field button { display: grid; place-items: center; color: var(--color-twilight-soft); }
+.map-radius {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.25rem 0.75rem;
+  align-items: center;
+  margin-top: 0.9rem;
+}
+.map-radius label { grid-column: 1 / -1; color: var(--color-ink-soft); font-size: 0.78rem; }
+.map-radius input { grid-column: 1 / -1; width: 100%; accent-color: var(--color-twilight); cursor: pointer; }
+.map-radius span { color: var(--color-twilight-soft); font-size: 0.65rem; }
+.map-radius span:last-child { text-align: right; }
+.map-location-note { margin-top: 0.65rem; color: var(--color-ink-soft); font-size: 0.68rem; }
 .map-command,
 .map-icon-button {
   display: inline-flex;
@@ -311,6 +363,7 @@ textarea {
   font-size: 0.8rem;
   font-weight: 600;
 }
+.map-command:disabled { cursor: wait; opacity: 0.55; }
 .map-icon-button { width: 2.25rem; padding: 0; }
 .map-command:hover,
 .map-icon-button:hover { background: var(--color-paper-deep); }
@@ -393,6 +446,9 @@ textarea {
   .assistant-grid { grid-template-columns: repeat(2, 1fr); }
   .home-secondary { margin-top: 4rem; }
   .map-page { width: calc(100vw - 2rem); }
+  .map-location-search { grid-template-columns: 1fr auto; }
+  .map-location-field { grid-column: 1 / -1; }
+  .map-locate { justify-self: stretch; }
   .map-layout { grid-template-columns: 1fr; min-height: auto; }
   .map-canvas { min-height: 52vh; }
   .map-results { max-height: none; border-left: 0; border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 45%, transparent); }

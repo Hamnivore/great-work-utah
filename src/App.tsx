@@ -47,6 +47,7 @@ function NotFound() {
 function SiteRoutes() {
   const location = useLocation()
   const isHome = location.pathname === '/'
+  const isMap = location.pathname === '/map'
 
   return (
     <>
@@ -56,7 +57,7 @@ function SiteRoutes() {
         </Routes>
       ) : (
         <div className="mx-auto flex min-h-screen w-full max-w-2xl flex-col px-5">
-          <header className="flex items-baseline justify-between border-b border-sandstone/50 py-4">
+          <header className={`flex items-baseline justify-between border-b border-sandstone/50 py-4 ${isMap ? 'w-[min(1120px,calc(100vw-2.5rem))] self-center' : ''}`}>
             <Link to="/" className="font-display text-lg text-twilight no-underline">
               Great Work — Utah
             </Link>
@@ -67,11 +68,8 @@ function SiteRoutes() {
               <a href="/v/by-role" className="text-twilight-soft hover:text-twilight">
                 looking for work
               </a>
-              <a href="/v/by-region" className="text-twilight-soft hover:text-twilight">
-                by place
-              </a>
               <Link to="/map" className="text-twilight-soft hover:text-twilight">
-                map
+                location
               </Link>
               <a href="/v/guides" className="text-twilight-soft hover:text-twilight">
                 founding

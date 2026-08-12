@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT

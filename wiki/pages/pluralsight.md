@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** edtech, skills training, workforce upskilling, AI learning, enterprise L&D
 **Roles:** sales-business-development
 **Stage:** Established (PE-owned)

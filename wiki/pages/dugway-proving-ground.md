@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** military test infrastructure, chemical and biological defense, West Desert, defense ethics
 **Era:** 1942-present
 **Primary Location:** Tooele County, UT

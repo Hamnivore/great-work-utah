@@ -3,16 +3,19 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
+**Tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://www.utahmcl.com/
+**Website:** https://startup.utah.gov/business-resource/utah-muslim-civic-league-umcl/
 **Updated:** 2026-08-11
 
 ## Summary
 
-The Utah Muslim Civic League (UMCL) describes its mission as educating and empowering Utah residents to participate in civic and nonpolitical action. Its official website publishes voter-engagement, advocacy, refugee-resource, and community-participation material. Any direct business-incubation or funding services listed in Startup State remain unverified.
+The Utah Muslim Civic League (UMCL) describes its mission as educating and empowering Utah residents to participate in civic and nonpolitical action. Its website published voter-engagement, advocacy, refugee-resource, and community-participation material. Any direct business-incubation or funding services listed in Startup State remain unverified.
+
+The organization's domain, `utahmcl.com`, stopped resolving between July and August 2026: a DNS lookup against public resolvers returns NXDOMAIN, and the last archived capture is 2026-07-03. Whether UMCL has wound down, rebranded, or simply let the registration lapse is unknown, so the fields below describe the archived site, not a live one.
 
 Treat UMCL primarily as a civic and community organization unless staff confirm business programs.
 
@@ -22,33 +25,37 @@ Utah Muslim residents and community leaders focused on civic participation, advo
 
 ## What It Provides
 
-UMCL's official site documents voter engagement, advocacy, and community-resource initiatives representing Utah's Muslim population. Business mentorship, marketing, or funding services are not documented on the official homepage reviewed in August 2026.
+UMCL's site documented voter engagement, advocacy, and community-resource initiatives representing Utah's Muslim population. Business mentorship, marketing, or funding services were not documented on the homepage reviewed in August 2026.
 
 ## How To Use It
 
-Start with the official website, then confirm current programs before recommending.
+There is no live official site. Confirm the organization still operates before recommending it to anyone.
 
-- [Official website](https://www.utahmcl.com/) · https://www.utahmcl.com/
-- Email: [info@utahmcl.com](mailto:info@utahmcl.com)
-- Startup State listing: https://startup.utah.gov/business-resource/utah-muslim-civic-league-umcl/
+- Startup State listing (live): https://startup.utah.gov/business-resource/utah-muslim-civic-league-umcl/
+- LinkedIn page (live, not maintained by this wiki): https://www.linkedin.com/company/utah-muslim-civic-league
+- Email: [info@utahmcl.com](mailto:info@utahmcl.com) — the domain no longer resolves, so this address is likely dead too
+- Archived homepage: https://web.archive.org/web/20260703022320/https://www.utahmcl.com/
 
 
 ## Cost / Eligibility
 
-Not stated on the official homepage. Contact UMCL by email for program participation and any business-facing offerings.
+Not stated on the archived homepage, and there is no live site to check. Any program participation would have to be arranged directly with staff, whom this page cannot currently route you to.
 
 ## Best Fits
 
-Muslim community members seeking civic engagement and community resources in Utah—after confirming the site is active and clarifying any business programs.
+Nobody, until someone confirms the organization is still operating. Startup State still lists UMCL, but a state directory entry outlives the organizations it lists.
 
-Poor fit as a verified startup funding or accelerator resource until business services are confirmed.
+Poor fit as a verified startup funding or accelerator resource: business services were never confirmed even while the site was up.
 
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
-- [Official website](https://www.utahmcl.com/) · https://www.utahmcl.com/
+- Wayback snapshot of the official homepage (last live capture, 2026-07-03): https://web.archive.org/web/20260703022320/https://www.utahmcl.com/
+
+> **Link status (2026-08-11):** `utahmcl.com` and `www.utahmcl.com` return NXDOMAIN from public resolvers; last archived 200 was 2026-07-03. `**Website:**` moved to the live Startup State record.
 
 ## Open Questions
 
+- Is UMCL still operating, and under what domain or parent organization?
 - Does UMCL offer any business mentorship, chamber, or funding programs beyond civic engagement?

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C*
 **Focus:** electric signs, neon, custom signage, sign service, billboards, Las Vegas Strip signage, architectural lighting
 **Ownership:** founder-led private
 **Primary Location:** Salt Lake City, UT

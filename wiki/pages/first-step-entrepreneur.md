@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Stub
 **Confidence:** Low
+**Tier:** F
 **Focus:** Entrepreneurship Communities, Any, Aerospace and Defense, Agriculture
 **Primary Location:** Utah
 **Utah Location:** statewide

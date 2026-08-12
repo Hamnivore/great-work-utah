@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D*
 **Focus:** developer community, meetups, hack nights, engineering leadership roundtables, conference, statewide event calendar
 **Domain:** computing, culture-place
 **Identifiers:** ein=84-3886600

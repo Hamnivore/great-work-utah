@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
+**Tier:** F
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Price, UT

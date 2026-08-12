@@ -38,6 +38,7 @@ const TYPE_PLURAL = {
 }
 
 const NAV = [
+  ['/v/tier-list', 'tier list'],
   ['/search', 'search'],
   ['/v/by-role', 'looking for work'],
   ['/map', 'map'],
@@ -81,7 +82,7 @@ function mapHref(href, kind, name) {
   const m = resolved.match(/^\/(pages|views|meta)\/([a-z0-9-]+)\.md$/)
   if (!m) return resolved
   if (m[1] === 'pages') return `/p/${m[2]}`
-  if (m[1] === 'views') return `/v/${m[2]}`
+  if (m[1] === 'views') return m[2] === 'index' ? '/v' : `/v/${m[2]}`
   return META_SLUG(m[2])
 }
 
@@ -410,14 +411,16 @@ function searchPage() {
             <option value="source">sources</option>
           </select>
         </form>
-        <p class="search-status" id="status" role="status">Loading the index…</p>
+        <p class="search-status" id="status" role="status">
+          Search runs in your browser. If it does not start, <a href="/v">browse the master index</a>.
+        </p>
         <ul class="search-results" id="results"></ul>
         <div class="provenance">
           <p>
             This searches titles, focus lines, and summaries. For exact phrase matching over the
             full text of every page, agents should use
             <a href="/llms.txt">the search endpoint documented in /llms.txt</a>, or browse
-            <a href="/v/index">the master index</a>.
+            <a href="/v">the master index</a>.
           </p>
         </div>
         </article>`
@@ -493,7 +496,7 @@ function notFoundPage() {
           <h2>Humans</h2>
           <ul>
             <li><a href="/search">Search the wiki</a></li>
-            <li><a href="/v/index">Master index</a> — everything, by type</li>
+            <li><a href="/v">Master index</a> — everything, by type</li>
             <li><a href="/v/by-role">Browse by kind of work</a></li>
             <li><a href="/v/guides">Founding and growing</a></li>
             <li><a href="/about">What this is and who makes it</a></li>
@@ -526,7 +529,9 @@ function notFoundPage() {
 /** dir → the human route each document in it is published at. */
 export const DOC_DIRS = [
   ['pages', (n) => `/p/${n}`],
-  ['views', (n) => `/v/${n}`],
+  // Vercel cleanUrls normalizes an index document to its directory URL.
+  // Publish that URL directly so the canonical never points at a redirect.
+  ['views', (n) => (n === 'index' ? '/v' : `/v/${n}`)],
   ['meta', (n) => META_SLUG(n)],
 ]
 
@@ -535,6 +540,24 @@ function readDir(dir) {
     .readdirSync(path.join(WIKI, dir))
     .filter((f) => f.endsWith('.md'))
     .sort()
+}
+
+/** A few facts in About and llms.txt describe the generated corpus and must not
+ * be copied by hand. Keeping tokens in the source makes the dependency visible
+ * while the published markdown, text, and HTML always carry build-current
+ * values. */
+export function expandBuildFacts(raw, buildDate = today()) {
+  const pages = readDir('pages')
+  const pageBodies = pages.map((file) => fs.readFileSync(path.join(WIKI, 'pages', file), 'utf8'))
+  const facts = {
+    BUILD_DATE: buildDate,
+    PAGE_COUNT: pages.length,
+    DOMAIN_COUNT: pageBodies.filter((body) => /^\*\*Domain:\*\*/m.test(body)).length,
+    REGION_COUNT: pageBodies.filter((body) => /^\*\*Region:\*\*/m.test(body)).length,
+  }
+  return raw.replace(/\{\{(BUILD_DATE|PAGE_COUNT|DOMAIN_COUNT|REGION_COUNT)\}\}/g, (_, key) =>
+    String(facts[key]),
+  )
 }
 
 /** Render one wiki document to a complete HTML page. Exported so `npm run dev`
@@ -546,10 +569,12 @@ export function renderDocument(dir, name) {
   const route = DOC_DIRS.find(([d]) => d === dir)?.[1]
   if (!route) return null
   const url = route(name)
+  const source = fs.readFileSync(file, 'utf8')
+  const raw = dir === 'meta' && name === 'about' ? expandBuildFacts(source) : source
   const doc = renderDoc({
     kind: dir,
     name,
-    raw: fs.readFileSync(file, 'utf8'),
+    raw,
     rawUrl: `/${dir}/${name}.md`,
     url,
   })
@@ -557,6 +582,31 @@ export function renderDocument(dir, name) {
 }
 
 export { searchPage, notFoundPage }
+
+/** Give each JavaScript-only route an honest first response for crawlers,
+ * previews, and no-JS clients. React replaces #root when it starts. */
+export function spaShellPage(shell, { url, title, description, fallback }) {
+  const fullTitle = `${title} — ${SITE}`
+  let page = shell
+    .replace(/<title>[^<]*<\/title>/, `<title>${esc(fullTitle)}</title>`)
+    .replace(/<meta\s+name="description"\s+content="[^"]*"\s*\/?>/, `<meta name="description" content="${esc(description)}" />`)
+    .replace(/<link\s+rel="canonical"\s+href="[^"]*"\s*\/?>/, `<link rel="canonical" href="${BASE}${url}" />`)
+    .replace(/<meta\s+property="og:title"\s+content="[^"]*"\s*\/?>/, `<meta property="og:title" content="${esc(fullTitle)}" />`)
+    .replace(/<meta\s+property="og:description"\s+content="[^"]*"\s*\/?>/, `<meta property="og:description" content="${esc(description)}" />`)
+    .replace(/<meta\s+property="og:url"\s+content="[^"]*"\s*\/?>/, `<meta property="og:url" content="${BASE}${url}" />`)
+
+  // Vite moves the module script into <head>, so anchor the replacement to
+  // </body> instead of assuming a script follows #root. The last closing div
+  // before </body> is the root shell's closing tag in both source and output.
+  const rootStart = page.indexOf('<div id="root">')
+  const bodyEnd = page.lastIndexOf('</body>')
+  const rootEnd = page.lastIndexOf('</div>', bodyEnd)
+  if (rootStart === -1 || rootEnd === -1 || rootEnd < rootStart) {
+    throw new Error(`Cannot find #root shell while generating ${url}`)
+  }
+  page = `${page.slice(0, rootStart)}<div id="root">${fallback}</div>${page.slice(rootEnd + 6)}`
+  return page
+}
 
 // ---------- CLI ----------
 
@@ -600,6 +650,9 @@ function main() {
       const type = meta(raw, 'Type')
       const updated = meta(raw, 'Updated')
       write(`${url.replace(/^\//, '')}.html`, renderDocument(dir, name))
+      if (dir === 'meta' && name === 'about') {
+        fs.writeFileSync(path.join(DIST, 'meta', file), expandBuildFacts(raw, buildDate))
+      }
       count++
 
       const noindexSource = dir === 'pages' && type === 'source'
@@ -616,6 +669,15 @@ function main() {
   write('search.html', searchPage())
   write('404.html', notFoundPage())
 
+  // The manual ships from public/ and is the first thing an agent reads, so the
+  // corpus size it quotes is expanded here rather than maintained by hand.
+  const manual = path.join(DIST, 'llms.txt')
+  if (!fs.existsSync(manual)) {
+    console.error('dist/llms.txt missing — the agent manual did not reach the build output.')
+    process.exit(1)
+  }
+  fs.writeFileSync(manual, expandBuildFacts(fs.readFileSync(manual, 'utf8'), buildDate))
+
   // /map and /contribute are React SPA routes. With cleanUrls, a rewrite to
   // /index.html 404s (extension stripped at build time); emit real shells so
   // /map and /contribute resolve from the filesystem like /search.
@@ -624,8 +686,25 @@ function main() {
     console.error('dist/index.html missing — cannot emit /map and /contribute shells.')
     process.exit(1)
   }
-  fs.copyFileSync(spaShell, path.join(DIST, 'map.html'))
-  fs.copyFileSync(spaShell, path.join(DIST, 'contribute.html'))
+  const shell = fs.readFileSync(spaShell, 'utf8')
+  fs.writeFileSync(
+    path.join(DIST, 'map.html'),
+    spaShellPage(shell, {
+      url: '/map',
+      title: 'Map of consequential work across Utah',
+      description: 'Explore public sites and regional anchors for consequential companies, labs, programs, people, and projects across Utah.',
+      fallback: '<main style="max-width:42rem;margin:4rem auto;padding:0 1.25rem;font-family:Georgia,serif;line-height:1.6"><h1>Work across Utah</h1><p>Loading the interactive map of public sites and regional anchors.</p><p><a href="/views/by-region.md">Browse the location index as Markdown</a>.</p></main>',
+    }),
+  )
+  fs.writeFileSync(
+    path.join(DIST, 'contribute.html'),
+    spaShellPage(shell, {
+      url: '/contribute',
+      title: 'Contribute',
+      description: 'Report something missing, stale, or wrong in greatutah.work, or propose an edit through its public review process.',
+      fallback: '<main style="max-width:42rem;margin:4rem auto;padding:0 1.25rem;font-family:Georgia,serif;line-height:1.6"><h1>Contribute</h1><p>Leave a short note about something missing or wrong, or propose a page edit. The contribution form loads with JavaScript.</p><p><a href="https://github.com/Hamnivore/great-work-utah/issues">Open a GitHub issue instead</a>, or read the <a href="/llms.txt">agent contribution instructions</a>.</p></main>',
+    }),
+  )
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
     .map(sitemapEntry)

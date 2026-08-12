@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** High
+**Tier:** D
 **Focus:** project-based computer science degrees, accelerated undergraduate model, employer enterprise projects, downtown Salt Lake City campus
 **Identifiers:** ein=13-4237385
 **Primary Location:** Salt Lake City, UT

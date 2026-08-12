@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Davis County, UT; Morgan County, UT; Salt Lake County, UT; Tooele County, UT; Weber County, UT

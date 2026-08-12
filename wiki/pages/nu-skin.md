@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** High
+**Tier:** B
 **Focus:** personal care, nutritional supplements, beauty devices, direct selling, contract manufacturing
 **Stage:** Established; public (NYSE: NUS), contracting
 **Ownership:** public

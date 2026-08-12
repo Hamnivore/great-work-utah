@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** clinical decision support, medical informatics, electronic health records, hospital systems
 **Era:** 1967-present in successor forms; major HELP development in the 1970s-1990s
 **Primary Location:** LDS Hospital, Salt Lake City, UT

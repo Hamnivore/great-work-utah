@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** aerospace thermal management, spacecraft systems, environmental control, cleanroom manufacturing, flight hardware
 **Roles:** hardware-engineering, manufacturing-operations, software-engineering, product-design, sales-business-development
 **Primary Location:** St. George, UT

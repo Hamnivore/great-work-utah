@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** statewide tech event aggregation, automated schema.org ingestion, nightly refresh, no-signup index
 **Primary Location:** Cottonwood Heights, UT
 **Utah Location:** Cottonwood Heights, UT

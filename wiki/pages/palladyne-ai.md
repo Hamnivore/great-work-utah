@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** embodied AI, collaborative autonomy, edge inference, defense technology, robotics
 **Roles:** software-engineering, manufacturing-operations, sales-business-development, marketing-communications
 **Stage:** Public company (NASDAQ: PDYN); vertically integrated defense and industrial AI

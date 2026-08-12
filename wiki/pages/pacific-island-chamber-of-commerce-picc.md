@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Domain:** capital-programs
 **Primary Location:** Salt Lake County, UT; Utah County, UT

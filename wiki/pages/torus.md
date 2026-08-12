@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing
 **Roles:** software-engineering, manufacturing-operations, field-skilled-trades
 **Stage:** Growth ($200M from Magnetar, Sept 2025; ~$267M+ raised to date)

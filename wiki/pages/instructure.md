@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** edtech, learning management systems, Canvas LMS, AI in education
 **Roles:** software-engineering, data-science, product-design
 **Stage:** Established (PE-backed, formerly public)

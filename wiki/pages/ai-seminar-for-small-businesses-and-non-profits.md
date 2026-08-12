@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Stub
 **Confidence:** Low
+**Tier:** F
 **Focus:** Other, Any, Aerospace and Defense, Agriculture
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

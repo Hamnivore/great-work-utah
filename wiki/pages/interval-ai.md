@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** unranked
 **Focus:** artificial intelligence, business workflows, early-stage software
 **Roles:** software-engineering, sales-business-development, product-design
 **Stage:** Early-stage operating company; self-reported $1M ARR in June 2026

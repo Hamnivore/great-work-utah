@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Heber City, UT

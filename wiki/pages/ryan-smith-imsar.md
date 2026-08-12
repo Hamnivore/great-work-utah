@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** RF engineering, synthetic aperture radar, defense technology, hardware startups
 **Domain:** aerospace-defense
 **Primary Location:** Utah Valley, UT

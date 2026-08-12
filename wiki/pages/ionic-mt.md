@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain
 **Roles:** physical-sciences, manufacturing-operations, sales-business-development
 **Stage:** Private; Series B ($29M, oversubscribed, July 2025)

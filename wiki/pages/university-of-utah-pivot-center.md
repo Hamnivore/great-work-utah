@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Stub
 **Confidence:** Medium
+**Tier:** F
 **Focus:** technology transfer, former name, redirect
 **Domain:** capital-programs, health-bio
 **Primary Location:** Salt Lake City, UT

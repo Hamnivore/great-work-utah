@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** agricultural genomics, bioinformatics, land-grant research, arid-land crops, livestock genetics
 **Roles:** data-science, biology-life-sciences
 **Stage:** Established university research center

@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** startup counsel, venture financings, life sciences, medical devices, IP, corporate governance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

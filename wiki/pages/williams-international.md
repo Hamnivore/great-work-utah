@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** small gas turbine engines, business jet propulsion, cruise missile propulsion, precision manufacturing, engine MRO
 **Roles:** hardware-engineering, software-engineering, manufacturing-operations
 **Stage:** Established; privately held since 1955; Ogden, UT site operating since 1978 and expanding

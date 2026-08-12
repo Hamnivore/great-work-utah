@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum
 **Roles:** sales-business-development
 **Stage:** Expanding (founded 2020 at BYU; multi-campus rollout)

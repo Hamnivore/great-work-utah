@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** El Sistema, after-school orchestra, free music education, West Valley City, Title I schools
 **Primary Location:** Draper, UT
 **Utah Location:** West Valley City, UT (two program sites at American Preparatory schools)

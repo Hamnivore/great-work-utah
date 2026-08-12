@@ -123,6 +123,15 @@ textarea {
   font-family: var(--font-sans);
   font-size: 0.72rem;
 }
+/* The one door out of the handoff page, for the human who came to read rather than to delegate. */
+.home-aside {
+  margin-top: 1.6rem;
+  color: var(--color-ink-soft);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  line-height: 1.55;
+  text-align: center;
+}
 .compatibility-note {
   margin-top: 0.8rem;
   border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 45%, transparent);

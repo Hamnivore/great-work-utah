@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Nepal education, Khumbu region, Sherpa community development, 501(c)(3) philanthropy
 **Identifiers:** ein=27-2198169
 **Primary Location:** Lehi, UT

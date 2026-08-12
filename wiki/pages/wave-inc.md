@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** wireless charging, fleet electrification, inductive power transfer, transit, logistics
 **Roles:** software-engineering, hardware-engineering, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Commercial; operational — transit, port, and logistics deployments

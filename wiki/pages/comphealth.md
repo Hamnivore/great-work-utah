@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** locum tenens, physician staffing, rural hospital coverage, temporary clinicians, healthcare workforce
 **Identifiers:** cik=0001356792, ein=51-0319328
 **Stage:** Private; brand of CHG Healthcare (CHG Management, Inc.) — parent filed a withdrawn 2006 IPO (S-1)

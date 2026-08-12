@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** synthetic diamond, polycrystalline diamond cutters, high-pressure high-temperature synthesis, drilling tools, diamond bearings
 **Identifiers:** cik=0001757974, ein=87-0342600
 **Roles:** manufacturing-operations, hardware-engineering, physical-sciences, field-skilled-trades

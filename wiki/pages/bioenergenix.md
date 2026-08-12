@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** F
 **Focus:** metabolic syndrome, PASK inhibition, diabetes, obesity, NAFLD/NASH, University of Utah spinout
 **Roles:** biology-life-sciences, physical-sciences, clinical-regulatory
 **Stage:** Unknown as of 2026; last primary public signal is 2014 preclinical partnership press release

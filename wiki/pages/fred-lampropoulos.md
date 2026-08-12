@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** medical devices, interventional cardiology, manufacturing, founder-operator, public company leadership
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT

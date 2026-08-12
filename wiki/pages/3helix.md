@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** collagen hybridizing peptides, diagnostics, drug delivery, histopathology, collagen damage
 **Identifiers:** cik=0002001622, ein=47-3181487
 **Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory, sales-business-development

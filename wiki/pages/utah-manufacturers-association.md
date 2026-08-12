@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Identifiers:** ein=87-0187660
 **Primary Location:** Utah

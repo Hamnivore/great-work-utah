@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** smart home, home security, IoT, professional monitoring, consumer hardware
 **Roles:** software-engineering, data-science, product-design, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Subsidiary of NRG Energy (public parent, NYSE: NRG)

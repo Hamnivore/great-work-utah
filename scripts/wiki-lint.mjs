@@ -20,6 +20,13 @@ const VIEWS_DIR = path.join(WIKI_ROOT, "views");
 const TYPE_VOCAB = ["venture", "person", "helper", "resource", "work", "guide", "source"];
 const STATUS_VOCAB = ["Stub", "Draft", "Useful"];
 const CONFIDENCE_VOCAB = ["High", "Medium", "Low"];
+// The impact ladder. Rubric and rulings in wiki/meta/tiers.md. A trailing `*` is the hype-tier bump
+// (ruling 9): one step, marked so stripping asterisks recovers the pure displacement ranking.
+const TIER_VOCAB = ["S", "A", "B", "C", "D", "F", "unranked"];
+const TIER_RE = /^(S|A|B|C|D|F|unranked)(\*)?$/;
+const TIER_TYPES = ["venture", "person", "helper", "resource", "work"];
+// A tier this high asserts the page argues its own bounds, so the argument has to exist.
+const TIER_NEEDS_IMPACT = new Set(["S", "A", "B"]);
 const DOMAIN_VOCAB = [
   "energy",
   "health-bio",
@@ -137,7 +144,7 @@ const TEMPLATE_SECTIONS = {
 // visiting agent will look to find out what a field means.
 const METADATA_KEYS = new Set([
   // identity and grading
-  "Type", "Status", "Updated", "Confidence", "Focus", "Domain", "Domain-flagged", "Region",
+  "Type", "Status", "Updated", "Confidence", "Tier", "Focus", "Domain", "Domain-flagged", "Region",
   "Needs-reviewed", "Identifiers", "Era", "Stage", "Roles", "Ownership", "Careers", "Audience",
   // the document a source page is about
   "Website", "URL", "Publisher", "Published", "Source Type", "Retrieved", "Archive", "Archived",
@@ -521,6 +528,58 @@ async function lintPage(filename) {
       `**Confidence:** "${confidenceHeader.value}" is outside the closed vocabulary (${CONFIDENCE_VOCAB.join(" · ")}).`,
       confidenceHeader.line
     );
+  }
+
+  // -- Tier (required on fact pages; see wiki/meta/tiers.md) --------------
+  const tierHeader = headers.get("Tier");
+  if (TIER_TYPES.includes(type) && (!tierHeader || !tierHeader.value)) {
+    addFinding(
+      "error",
+      "missing-attribute",
+      filePath,
+      `Missing required **Tier:** attribute (required for ${TIER_TYPES.join(", ")}). Assign one from the ladder in wiki/meta/tiers.md, or **Tier:** unranked when the page is too thin to argue bounds from — that escape hatch is honest, a silent guess is not.`
+    );
+  }
+  if (tierHeader && tierHeader.value) {
+    const raw = tierHeader.value.trim();
+    const match = TIER_RE.exec(raw);
+    if (!match) {
+      addFinding(
+        "error",
+        "invalid-tier",
+        filePath,
+        `**Tier:** "${raw}" is outside the closed vocabulary (${TIER_VOCAB.join(" · ")}), each optionally suffixed "*" for the hype-tier bump. See wiki/meta/tiers.md.`,
+        tierHeader.line
+      );
+    } else {
+      if (!TIER_TYPES.includes(type)) {
+        addFinding(
+          "warning",
+          "tier-on-wrong-type",
+          filePath,
+          `**Tier:** does not apply to Type: ${type} — evidence artifacts and wiki apparatus displace nothing, so ranking them is a category error.`,
+          tierHeader.line
+        );
+      }
+      if (match[2] && match[1] === "S") {
+        addFinding(
+          "error",
+          "invalid-tier",
+          filePath,
+          `**Tier:** "S*" is not allowed: the hype-tier bump may reach A* but never S (tiers.md ruling 9), because the top of the ladder is a claim about the world.`,
+          tierHeader.line
+        );
+      }
+      if (TIER_NEEDS_IMPACT.has(match[1]) && !sections.has("Impact")) {
+        addFinding(
+          "warning",
+          "tier-without-impact",
+          filePath,
+          `**Tier:** ${raw} claims this page argues its own bounds, but there is no "## Impact" section. A tier of B or above requires one whatever the Type (tiers.md, "Hooks into the machinery") — write the argument or lower the tier.`,
+          tierHeader.line
+        );
+      }
+    }
   }
 
   // -- Focus (required except Type: source) ------------------------------

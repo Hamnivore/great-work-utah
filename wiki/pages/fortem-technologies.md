@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** counter-UAS, radar, autonomous systems, defense, critical infrastructure
 **Identifiers:** cik=0001736071, ein=81-2463428
 **Roles:** software-engineering, hardware-engineering, manufacturing-operations, legal-policy, program-project-management, field-skilled-trades

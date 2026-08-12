@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** hardware architecture, ML accelerators, fully homomorphic encryption, privacy-preserving ML, 3D nanofabric, computer architecture
 **Roles:** software-engineering, data-science, hardware-engineering
 **Stage:** University research group; NSF and DARPA funded

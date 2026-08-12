@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** technology law, IP transactions, licensing, securities, emerging companies, venture financing
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

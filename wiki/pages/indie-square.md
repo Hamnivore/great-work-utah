@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Murray, UT
 **Utah Location:** Murray, UT

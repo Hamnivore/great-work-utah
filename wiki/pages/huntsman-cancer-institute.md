@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, translational medicine, life sciences
 **Identifiers:** ror=03v7tx966
 **Roles:** data-science, biology-life-sciences, clinical-regulatory, legal-policy, program-project-management

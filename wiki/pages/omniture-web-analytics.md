@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** C
 **Focus:** software, SaaS, web analytics, digital marketing, enterprise software
 **Domain:** computing
 **Era:** 1996-2009 as an independent company; continued inside Adobe

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** unranked
 **Focus:** synthetic spider silk, biomaterials, advanced materials, university spinout
 **Roles:** manufacturing-operations
 **Stage:** Unknown (founded 2012; current operational status unverified)

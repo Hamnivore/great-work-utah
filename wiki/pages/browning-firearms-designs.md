@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** firearms design, mechanical engineering, defense history, Ogden manufacturing
 **Era:** 1878-1926
 **Primary Location:** Ogden, UT

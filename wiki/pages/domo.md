@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS
 **Identifiers:** cik=0001505952, ein=27-3687433
 **Roles:** software-engineering, data-science, product-design

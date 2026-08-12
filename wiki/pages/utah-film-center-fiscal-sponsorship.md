@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
+**Tier:** D
 **Focus:** fiscal sponsorship, independent film, tax-deductible donations, film grants, filmmaker fundraising
 **Domain:** culture-place, capital-programs
 **Primary Location:** Salt Lake City, UT

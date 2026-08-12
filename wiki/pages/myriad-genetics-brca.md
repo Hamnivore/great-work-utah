@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** hereditary cancer genetics, BRCA testing, gene patents, clinical genomics
 **Domain:** health-bio
 **Era:** 1991-present; core BRCA sequencing and commercialization in the 1990s

@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** Entrepreneurship Communities, Relocate a Business to Utah
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

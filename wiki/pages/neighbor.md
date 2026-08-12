@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** C
 **Focus:** peer-to-peer storage, parking marketplace, local asset utilization
 **Domain:** computing, culture-place
 **Roles:** software-engineering, data-science, product-design, sales-business-development, marketing-communications

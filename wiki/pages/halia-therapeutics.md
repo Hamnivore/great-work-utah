@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life sciences
 **Identifiers:** cik=0001829255, ein=82-2679083
 **Roles:** biology-life-sciences, physical-sciences, clinical-regulatory, program-project-management

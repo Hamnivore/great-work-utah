@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monitoring
 **Roles:** software-engineering, data-science, hardware-engineering, clinical-regulatory, program-project-management
 **Stage:** Commercializing; FDA-cleared REMI system in clinical use

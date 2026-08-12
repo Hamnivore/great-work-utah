@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Late Stage Growth
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT

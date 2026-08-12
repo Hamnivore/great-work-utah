@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** neural recording, electrophysiology, integrated circuits, neuroscience infrastructure, brain-computer interfaces
 **Roles:** software-engineering, hardware-engineering
 **Stage:** Established private company; widely deployed research ICs

@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** C
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

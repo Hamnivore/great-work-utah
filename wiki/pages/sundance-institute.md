@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** independent film, immersive storytelling, artist development, film festivals, nonprofit arts
 **Identifiers:** ein=87-0361394, ror=02apk8p19
 **Roles:** marketing-communications

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing
 **Roles:** software-engineering, hardware-engineering, manufacturing-operations, sales-business-development, field-skilled-trades
 **Stage:** Private established company

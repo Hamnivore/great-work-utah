@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** JavaScript development, technical meetups, volunteer developer community, annual conference
 **Primary Location:** Utah
 **Utah Location:** Lehi, UT; Salt Lake City, UT

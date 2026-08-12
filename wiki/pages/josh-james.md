@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** enterprise SaaS, web analytics, business intelligence, Utah tech ecosystem
 **Domain:** computing
 **Primary Location:** Utah Valley, UT

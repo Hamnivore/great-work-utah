@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** neuroengineering, brain-computer interfaces, medical devices, university spinouts
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

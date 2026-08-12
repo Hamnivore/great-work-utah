@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
+**Tier:** D
 **Focus:** health coverage, medical assistance, low-income healthcare, CHIP, long-term care
 **Domain:** health-bio
 **Primary Location:** Utah

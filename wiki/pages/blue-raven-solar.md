@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** High
+**Tier:** C
 **Focus:** residential solar, direct-to-consumer installation, Orem Utah operations, SunPower ownership chain
 **Identifiers:** cik=0001657054, ein=46-5434577
 **Stage:** Subsidiary division of SunPower Inc. (CIK 0001838987) after 2024 bankruptcy sale; previously acquired by SunPower Corp. in 2021

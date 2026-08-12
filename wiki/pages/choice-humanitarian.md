@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** international development, village-led poverty alleviation, rural expeditions, Utah nonprofit
 **Identifiers:** ein=74-2494806
 **Primary Location:** Draper, UT

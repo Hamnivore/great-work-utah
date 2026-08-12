@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** S
 **Focus:** acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering
 **Domain:** culture-place, computing
 **Era:** 1884-1981 (life); landmark stereo work 1931-1933; posthumous Grammy 2016

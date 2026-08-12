@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** B
 **Focus:** space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy
 **Era:** 2010s–2023 Mars operations; Earth-scale follow-through ongoing
 **Primary Location:** North Salt Lake, UT

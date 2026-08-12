@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** military test ranges, aerospace and defense, restricted airspace, weapons evaluation
 **Era:** 1940s-present; UTTR designation in 1979
 **Primary Location:** Utah Test and Training Range, UT

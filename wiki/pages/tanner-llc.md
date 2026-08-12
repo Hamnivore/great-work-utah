@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** accounting, audit/assurance, tax, M&A due diligence, SEC reporting, advisory
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT; Lehi, UT

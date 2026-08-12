@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** genealogy, civilizational records, OCR, record linkage, population genetics, scientific infrastructure
 **Roles:** software-engineering, data-science, marketing-communications, legal-policy, program-project-management
 **Stage:** Established institution; predecessor (Genealogical Society of Utah) founded 1894

@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** solid rocket motors, aerospace manufacturing, launch systems, defense industrial base
 **Era:** 1956-present
 **Primary Location:** Promontory and Brigham City, UT

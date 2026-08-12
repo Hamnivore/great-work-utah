@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** space instrumentation, upper atmosphere, atmospheric physics, Space Dynamics Laboratory, NASA
 **Era:** 2023–present
 **Primary Location:** International Space Station

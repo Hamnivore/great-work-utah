@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** employee recognition, corporate culture, HR technology, workplace engagement
 **Roles:** software-engineering, manufacturing-operations, product-design, sales-business-development, people-operations
 **Stage:** Private; founded 1927; Salt Lake City HQ

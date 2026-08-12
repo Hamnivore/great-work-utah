@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** AI drug discovery, life sciences, computational biology
 **Identifiers:** cik=0001601830, ein=46-4099738
 **Roles:** software-engineering, data-science, biology-life-sciences, physical-sciences, clinical-regulatory

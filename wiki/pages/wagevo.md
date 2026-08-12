@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** earned wage access, payroll integration, employee financial wellness, hourly workers, fintech
 **Roles:** sales-business-development
 **Primary Location:** Provo, UT

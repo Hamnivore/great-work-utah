@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D*
 **Focus:** technology leadership peer group, monthly breakfast, Chatham House Rules, Utah County
 **Primary Location:** American Fork, UT
 **Utah Location:** American Fork, UT

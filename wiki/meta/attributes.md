@@ -27,6 +27,7 @@ The authoritative list of page metadata. Lint and the view generators parse this
 | Website | venture, helper, resource, work | optional | bare `https://` URL (no markdown link) — official site | needs board, agent shortlists |
 | Careers | venture, helper, resource | optional | bare `https://` URL (no markdown link) of the org's general careers/jobs page or its own ATS board — never a single posting, an aggregator, or a raw ATS API endpoint | needs board, job-seeker next step |
 | Ownership | venture | optional (candidate for required) | founder-led private · private · public · PE-owned · nonprofit · government | judgment layer (see charter.md) |
+| Tier | venture, person, helper, resource, work | yes | S · A · B · C · D · F · unranked, optionally suffixed `*` — the impact ladder; rubric, rulings, and worked cases in [`tiers.md`](tiers.md) | tier list view, gem surfacing, index lines, wanted-queue ordering |
 | URL | source | yes | the one document this source page is about, or `Unknown` when no official page could be confirmed | capture, archive resolution, tier checks, lint |
 | Publisher | source | optional | who published the document, when that is not the subject itself | attribution by a reader |
 | Published | source | optional | `YYYY-MM-DD` the document itself carries, distinct from `Retrieved` | dating a claim to the document, not the fetch |

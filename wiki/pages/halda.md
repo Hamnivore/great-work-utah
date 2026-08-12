@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** AI enrollment platform, higher education, K-12 recruitment, student engagement, omnichannel communications, edtech
 **Roles:** sales-business-development, program-project-management
 **Stage:** Private growth company; founded 2021

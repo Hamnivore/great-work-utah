@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Other
 **Primary Location:** Washington, DC
 **Utah Location:** statewide

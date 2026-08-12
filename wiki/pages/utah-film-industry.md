@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** film production, location services, tax incentives, crew base, visual storytelling, landscape
 **Roles:** manufacturing-operations, marketing-communications, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Ecosystem / cluster

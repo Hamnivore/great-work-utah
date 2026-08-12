@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** unmanned aircraft, deployable communications, ISR, defense, emergency response, advanced manufacturing
 **Roles:** hardware-engineering, manufacturing-operations, sales-business-development, field-skilled-trades
 **Stage:** Series A ($6M, 2025)

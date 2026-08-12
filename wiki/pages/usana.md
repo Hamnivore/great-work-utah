@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** High
+**Tier:** C
 **Focus:** nutritional supplements, skincare, direct selling, health-product manufacturing
 **Domain:** health-bio, materials-mfg
 **Roles:** software-engineering, finance-accounting, marketing-communications, clinical-regulatory, sales-business-development

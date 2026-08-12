@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** outbound sales, email infrastructure, campaign operations
 **Domain:** computing, capital-programs
 **Primary Location:** St. George, UT

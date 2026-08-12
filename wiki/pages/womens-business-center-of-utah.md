@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide

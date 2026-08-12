@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** S
 **Focus:** medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support
 **Domain:** health-bio
 **Era:** 1967–1990 (development); December 2, 1982 (landmark implant)

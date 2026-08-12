@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** C
 **Focus:** pediatric hospital care, complex illness and injury, pediatric education and research
 **Identifiers:** ror=053hkmn05
 **Primary Location:** Salt Lake City, UT

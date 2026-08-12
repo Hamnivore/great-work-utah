@@ -39,13 +39,38 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
   const metaDoc = renderDocument('meta', 'about')
   assert.ok(metaDoc)
   assert.match(metaDoc, /"@type":"WebPage"/)
+  assert.doesNotMatch(metaDoc, /\{\{[A-Z_]+\}\}/)
+  assert.match(metaDoc, /\d+ of \d+ pages carry a <code>\*\*Domain:\*\*<\/code> line/)
+
+  const master = renderDocument('views', 'index')
+  assert.match(master, /rel="canonical" href="https:\/\/greatutah\.work\/v"/)
 
   const maintained = renderDocument('pages', 'arpanet-fourth-node')
   assert.match(maintained, /<aside class="maintainer-notes"/)
   assert.match(maintained, /<h2[^>]*>Maintainer Notes<\/h2>/)
   assert.match(maintained, /before promoting this page beyond Draft/)
 
-  assert.match(searchPage(), /og:image" content="https:\/\/greatutah\.work\/og\.png"/)
+  const search = searchPage()
+  assert.match(search, /og:image" content="https:\/\/greatutah\.work\/og\.png"/)
+  assert.match(search, /Search runs in your browser/)
+  assert.match(search, /href="\/v">browse the master index<\/a>/)
+  assert.doesNotMatch(search, /Loading the index/)
+})
+
+test('SPA shells have route-specific metadata and useful no-JS fallbacks', async () => {
+  const { spaShellPage } = await import(PRERENDER)
+  const shell = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8')
+  const map = spaShellPage(shell, {
+    url: '/map',
+    title: 'Map',
+    description: 'Map description',
+    fallback: '<main><h1>Work across Utah</h1></main>',
+  })
+  assert.match(map, /<title>Map — Great Work — Utah<\/title>/)
+  assert.match(map, /rel="canonical" href="https:\/\/greatutah\.work\/map"/)
+  assert.match(map, /property="og:url" content="https:\/\/greatutah\.work\/map"/)
+  assert.match(map, /<h1>Work across Utah<\/h1>/)
+  assert.doesNotMatch(map, /<h1>Ask better questions about Utah\.<\/h1>/)
 })
 
 test('prerender SEO: sitemap drops markdown twins and source pages', async (t) => {
@@ -76,5 +101,33 @@ test('prerender SEO: sitemap drops markdown twins and source pages', async (t) =
   // cleanUrls serves these as /map and /contribute; without them those routes 404.
   assert.ok(fs.existsSync(path.join(ROOT, 'dist', 'map.html')))
   assert.ok(fs.existsSync(path.join(ROOT, 'dist', 'contribute.html')))
+  assert.match(fs.readFileSync(path.join(ROOT, 'dist', 'map.html'), 'utf8'), /greatutah\.work\/map/)
+  assert.match(fs.readFileSync(path.join(ROOT, 'dist', 'contribute.html'), 'utf8'), /<h1>Contribute<\/h1>/)
+  const aboutMarkdown = fs.readFileSync(path.join(ROOT, 'dist', 'meta', 'about.md'), 'utf8')
+  assert.doesNotMatch(aboutMarkdown, /\{\{[A-Z_]+\}\}/)
+
+  // The first sentence an agent reads states the corpus size; it is generated,
+  // so it can never drift from the corpus the way a hand-written count did.
+  const manual = fs.readFileSync(path.join(ROOT, 'dist', 'llms.txt'), 'utf8')
+  const pageCount = fs
+    .readdirSync(path.join(ROOT, 'wiki', 'pages'))
+    .filter((f) => f.endsWith('.md')).length
+  assert.doesNotMatch(manual, /\{\{[A-Z_]+\}\}/)
+  assert.match(manual, new RegExp(`${pageCount} pages, written and maintained`))
+
+  // The master index is published at bare /v, so /v/index must not be the only
+  // way in: vercel.json redirects it and carries the matching canonical.
+  const vercelConfig = JSON.parse(fs.readFileSync(path.join(ROOT, 'vercel.json'), 'utf8'))
+  assert.ok(
+    vercelConfig.redirects.some((r) => r.source === '/v/index' && r.destination === '/v'),
+    '/v/index must redirect to /v — it was a live URL before the index moved',
+  )
+  assert.ok(
+    vercelConfig.routes.some(
+      (r) => r.src === '^/views/index\\.md$' && r.headers.Link.includes('/v>'),
+    ),
+    '/views/index.md must advertise /v as its canonical, not /v/index',
+  )
+
   assert.match(rebuilt.stdout, /spa shells/)
 })

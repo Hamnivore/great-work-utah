@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** S
 **Focus:** invention, television, electronics, signal scanning, Utah-born inventors
 **Domain:** culture-place, computing
 **Era:** 1906-1971 (life); 1927 first electronic transmission

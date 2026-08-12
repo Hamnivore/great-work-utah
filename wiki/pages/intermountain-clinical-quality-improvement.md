@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** healthcare delivery science, clinical quality improvement, learning health system, process control
 **Era:** late 1980s-present; clinical-process "active management" initiative began 1996
 **Primary Location:** Salt Lake City, UT

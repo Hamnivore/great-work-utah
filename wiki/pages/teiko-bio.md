@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** clinical-trial immune profiling, flow cytometry, blood preservation, bioinformatics
 **Identifiers:** cik=0001885101, ein=85-3245497
 **Domain:** health-bio, computing

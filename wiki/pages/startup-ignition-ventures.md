@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** Funding
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT

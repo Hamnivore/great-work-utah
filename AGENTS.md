@@ -15,11 +15,11 @@ A small React app (`src/`) now covers only the three routes that need to run cod
 
 ## Layout
 
-- `wiki/pages/` — the corpus, one flat namespace, ~600 markdown files. **The only thing
+- `wiki/pages/` — the corpus, one flat namespace, ~900 markdown files. **The only thing
   contributors edit.**
 - `wiki/meta/` — the schema: `conventions.md` (principles + precedents for placement),
   `attributes.md` (metadata registry), `charter.md` (what "great work" means; used to
-  prioritize, never to gatekeep).
+  prioritize, never to gatekeep), `tiers.md` (the impact ladder — read before assigning a `**Tier:**`).
 - `wiki/views/` — **generated, never hand-edited**: master index, type indexes, the needs
   board, sector hubs, by-region.
 
@@ -50,6 +50,13 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
 5. Prefer official/primary sources; press releases are leads, not proof. Cite `Type: source`
    pages from Evidence sections.
 6. Domain/Region attribution is mid-rollout. When you touch a page, attribute it.
+7. Every fact page carries a `**Tier:**` — the impact ladder, `S` through `F` plus `unranked`, rubric
+   and nine rulings in `wiki/meta/tiers.md`. A new page needs one; `unranked` is the honest answer when
+   the page is too thin to argue bounds from. `B` or above requires an `## Impact` section, and lint
+   enforces it. Tier ranks **magnitude, never sign**, and is independent of Confidence.
+   Assigning tiers in bulk: rate with subagents that write TSVs and never touch `wiki/`, then apply
+   centrally with `node scripts/apply-tiers.mjs` (dry run by default, `--write` to edit). The first
+   corpus-wide run, its method, and the page-framing defects it surfaced are in `research/tier-list/`.
 
 ## Working on the site
 
@@ -61,7 +68,11 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
   `dist/contribute.html`. Under `cleanUrls`, rewrite destinations must omit `.html`
   (`/index`, not `/index.html`) or they 404. Markdown paths (`/pages|views|meta/*.md`) carry
   an HTTP `Link` canonical to their HTML twin via `routes` (capture `$1` — the high-level
-  `headers` array does not interpolate path captures into values). Note the file is
+  `headers` array does not interpolate path captures into values). The master index is the one
+  exception: `cleanUrls` serves an index document at its directory URL, so it is prerendered to
+  `dist/v.html` and published at bare `/v`. `/v/index` is therefore a 308 to `/v`, and
+  `/views/index.md` needs its own canonical `routes` entry ahead of the generic one (which
+  excludes `index` by lookahead so a path never collects two `Link` headers). Note the file is
   schema-validated on deploy and rejects unknown keys, so it cannot carry comments; document
   routing changes here instead.
 - Build: `npm run build` (build views → build locations → `tsc -b` → `vite build` → copy

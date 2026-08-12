@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** unranked
 **Focus:** directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell screening
 **Roles:** biology-life-sciences, sales-business-development, legal-policy
 **Stage:** Early; Nucleus Fund, University of Utah, and Altitude Lab backing (circa 2022)

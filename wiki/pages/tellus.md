@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** air quality monitoring, environmental sensing, low-cost sensors, calibration, public health infrastructure
 **Identifiers:** cik=0002020009, ein=88-0906446
 **Roles:** software-engineering, data-science, hardware-engineering, sales-business-development, field-skilled-trades

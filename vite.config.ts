@@ -29,7 +29,9 @@ function serveWiki(): Plugin {
 function servePrerendered(): Plugin {
   const ROUTES: [RegExp, string][] = [
     [/^\/p\/([a-z0-9-]+)$/, 'pages'],
-    [/^\/v\/([a-z0-9-]+)$/, 'views'],
+    // The master index is published at the bare /v, the way cleanUrls serves an
+    // index document; the capture is absent there and defaults to index.
+    [/^\/v(?:\/([a-z0-9-]+))?$/, 'views'],
     [/^\/(about|charter|conventions|attributes)$/, 'meta'],
   ]
   return {
@@ -37,6 +39,15 @@ function servePrerendered(): Plugin {
     configureServer(server) {
       server.middlewares.use(async (req, res, next) => {
         const url = (req.url || '').split('?')[0]
+        if (url === '/llms.txt') {
+          // The build expands corpus facts into the manual; do it here too so
+          // dev never shows a raw token where production shows a number.
+          const mod = await server.ssrLoadModule('/scripts/prerender.mjs')
+          const raw = fs.readFileSync(path.join(import.meta.dirname, 'public', 'llms.txt'), 'utf8')
+          res.setHeader('Content-Type', 'text/plain; charset=utf-8')
+          res.end(mod.expandBuildFacts(raw))
+          return
+        }
         if (url === '/search' || ROUTES.some(([re]) => re.test(url))) {
           // Imported per request so edits to the renderer take effect without a restart.
           const mod = await server.ssrLoadModule('/scripts/prerender.mjs')
@@ -47,7 +58,7 @@ function servePrerendered(): Plugin {
             for (const [re, dir] of ROUTES) {
               const m = url.match(re)
               if (m) {
-                html = mod.renderDocument(dir, m[1])
+                html = mod.renderDocument(dir, m[1] ?? 'index')
                 break
               }
             }

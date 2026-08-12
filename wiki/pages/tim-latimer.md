@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** geothermal energy, enhanced geothermal systems, climate infrastructure, energy transition
 **Primary Location:** Houston, TX
 **Utah Location:** Beaver County, UT

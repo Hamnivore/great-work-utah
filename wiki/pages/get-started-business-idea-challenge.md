@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Low
+**Tier:** F
 **Focus:** Funding, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide

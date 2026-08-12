@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** St. George, UT

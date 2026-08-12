@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Stub
 **Confidence:** Low
+**Tier:** F
 **Focus:** Other, Rural
 **Primary Location:** Davis County, UT
 **Utah Location:** Davis County, UT

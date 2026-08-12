@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Utah journalism, independent reporters, public-interest reporting, editorial transparency
 **Stage:** New publication; public founder essay and editorial charter published in 2026
 **Ownership:** private

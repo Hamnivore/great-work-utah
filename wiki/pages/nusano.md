@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, advanced manufacturing
 **Identifiers:** cik=0001721322
 **Roles:** physical-sciences, manufacturing-operations, clinical-regulatory

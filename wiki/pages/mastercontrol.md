@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** quality management software, manufacturing execution systems, life sciences compliance, GxP, regulated manufacturing, SaaS
 **Roles:** software-engineering, product-design, program-project-management, clinical-regulatory
 **Stage:** Established, privately held; $150M Series A growth investment from Sixth Street Growth (2022) at a reported $1.3B valuation

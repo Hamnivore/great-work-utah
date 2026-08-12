@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** girls coding camp, youth technology education, software engineering, cybersecurity, data analytics, UX design
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** founder community, AI builders, cofounder discovery, hackathons, coworking, Slack
 **Primary Location:** Utah County, UT
 **Utah Location:** statewide

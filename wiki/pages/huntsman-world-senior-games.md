@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** senior athletics, multi-sport competition, active aging, St. George, international amateur sports
 **Roles:** program-project-management, field-skilled-trades, marketing-communications, people-operations
 **Stage:** Established nonprofit event; founded 1987 as World Senior Games; Huntsman sponsorship from 1989

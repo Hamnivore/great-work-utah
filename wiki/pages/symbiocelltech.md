@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** Type 1 diabetes, cell therapy, Neo-Islets, mesenchymal stem cells, islet transplantation, regenerative medicine
 **Identifiers:** cik=0001575304, ein=45-4903780
 **Roles:** biology-life-sciences, manufacturing-operations, clinical-regulatory, program-project-management

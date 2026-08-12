@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** B
 **Focus:** public-key infrastructure, certificate lifecycle management, digital trust, DNS, post-quantum security
 **Roles:** software-engineering
 **Stage:** Established global cybersecurity company; private-equity backed

@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** biochemistry, metabolomics, allosteric drug discovery, university commercialization, life sciences
 **Domain:** health-bio
 **Primary Location:** Salt Lake City, UT

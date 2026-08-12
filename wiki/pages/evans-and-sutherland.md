@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** computer graphics, flight simulation, real-time 3D, graphics hardware
 **Era:** 1968-present; peak graphics and simulation influence in the 1970s-1980s
 **Primary Location:** Salt Lake City, UT

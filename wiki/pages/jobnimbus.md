@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** contractor business management, roofing CRM, project management, payments, vertical SaaS, construction technology
 **Roles:** software-engineering, sales-business-development, marketing-communications, program-project-management
 **Stage:** Private growth company; $330M Sumeru Equity Partners-led growth investment (2024)

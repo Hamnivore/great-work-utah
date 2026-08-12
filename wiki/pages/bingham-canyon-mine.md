@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** S
 **Focus:** mining, copper, mass-mining, industrial engineering, extractive industry
 **Era:** 1906–present
 **Primary Location:** Bingham Canyon (Copperton), UT

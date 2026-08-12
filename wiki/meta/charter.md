@@ -1,6 +1,6 @@
 # Charter — what constitutes great work
 
-**Status:** v2, 2026-07-09. Used for categorizing and prioritizing. Never for keeping work out of the wiki.
+**Status:** v3, 2026-08-11 (v2 2026-07-09; v3 adds the tier list). Used for categorizing and prioritizing. Never for keeping work out of the wiki.
 
 ## The metric
 
@@ -18,12 +18,39 @@ Priors that shift estimates: long-focused people have outsized outcomes; busines
 
 Judge loosely; the world needs believers. But always name the bet: what has to become true, and where evidence is thin.
 
+## The tier list
+
+The metric above is a ranking, so every fact page carries one: **`**Tier:**`** — `S`, `A`, `B`, `C`,
+`D`, `F`, or `unranked`, optionally suffixed `*`. One ladder, every `Type` on it, absolute against
+the world rather than graded against Utah.
+
+| | |
+|---|---|
+| **S** | world-historic — permanently different world, and the difference traces to this |
+| **A** | field-defining — sets a global frontier, or is a live bet whose plausible success is S |
+| **B** | structurally significant — durably changes how a sector or a state works |
+| **C** | substantive and replaceable — real scale, close substitute exists |
+| **D** | local — real to the people in the room, stops at the walls |
+| **F** | inert — a listing, a ceremony, a duplicate, or a claim nothing corroborates |
+| **unranked** | too thin to argue bounds from; the honest escape hatch, not a synonym for low |
+
+Three calls decide most cases. Tier is the **ceiling**, not the current quarter. **Magnitude, never
+sign** — weapons, surveillance, and extraction rank on how far they could move the world in either
+direction, and the direction goes in the prose. Enablers get only their **counterfactual difference**,
+which puts most of the `resource` shelf at `D` or `F`.
+
+**The rubric, the nine rulings, and the worked cases are in [`tiers.md`](tiers.md) — read it before
+assigning a tier.** Gems are `S` and `A`; that is how "surface all the gems" became a filter instead
+of a matter of taste.
+
 ## Hooks into the machinery
 
-- `## Impact` sections argue depth, breadth, permanence, bounds, counterfactual — prose with reasoning, no scores.
+- `## Impact` sections argue depth, breadth, permanence, bounds, counterfactual — prose with
+  reasoning, no scores. A `**Tier:**` of `B` or above requires one, and where prose and tier disagree
+  the prose is right.
 - `**Bet:**` names the contrarian premise on pages that have one.
 - `**Ownership:**` attribute records the checkable fact; judgment pages interpret it.
-- Gems = pages with high argued bounds; guides rank in these terms so disagreements are about premises.
 - Wanted-list gaps are ordered by expected impact.
 
-Refined like everything else: probe with hard cases, adjudicate divergence into this doc (E11).
+Refined like everything else: probe with hard cases, adjudicate divergence into this doc — or into
+`tiers.md` when the disagreement is about placement rather than about the metric (E11).

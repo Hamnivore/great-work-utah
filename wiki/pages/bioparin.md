@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** synthetic heparin, biomanufacturing, anticoagulants, supply chain resilience, university spinout
 **Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Early (STTR-funded)

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** C
 **Focus:** decision intelligence, customer feedback, win-loss analysis, qualitative research, enterprise software
 **Identifiers:** cik=0001843216, ein=86-1598285
 **Roles:** software-engineering, product-design, sales-business-development, program-project-management

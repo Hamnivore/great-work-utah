@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D*
 **Focus:** 24-hour hackathon, skill-tiered divisions, St George tech community, sponsor-funded
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

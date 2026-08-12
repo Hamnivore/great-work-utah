@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Entrepreneurship Communities
 **Identifiers:** cik=0001912381, ein=87-4349362
 **Primary Location:** Salt Lake City, UT

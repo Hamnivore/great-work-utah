@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** F
 **Focus:** immuno-oncology, tumor vasculature, anti-angiogenesis, university spinout
 **Identifiers:** cik=0001612629, ein=46-4392157
 **Roles:** biology-life-sciences, clinical-regulatory

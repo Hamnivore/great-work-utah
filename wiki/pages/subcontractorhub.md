@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** contractor operations, solar software, roofing software, artificial intelligence
 **Domain:** computing, energy
 **Roles:** software-engineering, data-science

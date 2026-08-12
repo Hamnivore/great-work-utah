@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** outdoor gear, apparel, social enterprise, B Corp, philanthropy
 **Roles:** manufacturing-operations, product-design, sales-business-development, marketing-communications
 **Stage:** Established growth brand

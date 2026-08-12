@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
+**Tier:** D
 **Focus:** state surplus property, public auctions, used vehicles, heavy equipment, office furniture, government inventory
 **Domain:** capital-programs
 **Primary Location:** Taylorsville, UT

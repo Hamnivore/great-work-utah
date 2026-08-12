@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** B2B SaaS, visual collaboration, enterprise software, founder leadership
 **Domain:** computing
 **Primary Location:** South Jordan, UT

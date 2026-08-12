@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation
 **Roles:** data-science, biology-life-sciences, hardware-engineering, clinical-regulatory
 **Stage:** Active university research lab (University of Utah, ECE)

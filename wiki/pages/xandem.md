@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** RF tomographic sensing, through-wall motion detection, ISR, search and rescue, home security
 **Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, sales-business-development
 **Stage:** Commercial (consumer pivot underway as of 2024)

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** interventional medical devices, catheters, manufacturing, FDA regulated, life sciences
 **Identifiers:** cik=0000856982, ein=87-0447695
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory, program-project-management

@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

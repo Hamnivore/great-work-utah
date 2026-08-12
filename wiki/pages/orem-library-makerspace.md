@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
+**Tier:** D
 **Focus:** public makerspace, 3D printing, media digitization, podcast recording, creative software, equipment checkout
 **Domain:** culture-place, materials-mfg, computing
 **Primary Location:** Orem, UT

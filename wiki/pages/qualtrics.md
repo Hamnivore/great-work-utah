@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** experience management, applied AI, enterprise SaaS, surveys, sentiment analysis
 **Roles:** software-engineering, data-science, product-design, sales-business-development
 **Stage:** Private (Silver Lake take-private, 2023)

@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** drug discovery, oncology, inflammation, university translational programs, Utah life sciences
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

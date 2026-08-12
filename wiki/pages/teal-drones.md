@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** small unmanned aircraft, ISR, defense, autonomous systems, domestic drone manufacturing
 **Identifiers:** cik=0001661393, ein=47-5635123
 **Roles:** software-engineering, hardware-engineering, manufacturing-operations, program-project-management

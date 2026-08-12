@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** software, word processing, networking, personal computing, Utah Valley
 **Era:** WordPerfect 1979-1996; Novell 1979/1983-2014; peak influence late 1980s to mid-1990s
 **Primary Location:** Orem and Provo, UT

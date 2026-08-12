@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
 **Roles:** physical-sciences, manufacturing-operations, sales-business-development
 **Stage:** Private, growth (backed by Indigo Partners, GenZero, Frontier Airlines, Wizz Airlines, Volaris)

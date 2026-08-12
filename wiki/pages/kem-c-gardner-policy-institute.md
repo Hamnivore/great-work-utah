@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Other
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

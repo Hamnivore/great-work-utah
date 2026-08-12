@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** C
 **Focus:** lease-to-own financing, retail payments, consumer financial technology
 **Domain:** capital-programs, computing
 **Roles:** data-science, software-engineering, finance-accounting

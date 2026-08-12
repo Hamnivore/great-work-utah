@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth, Other
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

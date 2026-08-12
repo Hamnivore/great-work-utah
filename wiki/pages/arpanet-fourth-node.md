@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** internet history, packet switching, computer science, ARPA research
 **Era:** December 1969
 **Primary Location:** University of Utah, Salt Lake City, UT

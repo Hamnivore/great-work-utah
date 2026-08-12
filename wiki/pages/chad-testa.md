@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** antibiotics, antimicrobial resistance, biotech CEO, mission-driven pharma, Gram-negative bacteria
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

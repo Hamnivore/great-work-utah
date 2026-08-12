@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** genealogy, family history, consumer genomics, historical records, digitization
 **Roles:** software-engineering, data-science, biology-life-sciences, clinical-regulatory, product-design, legal-policy
 **Stage:** Established; privately held

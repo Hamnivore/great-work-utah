@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** developer education, technical training, SaaS, Utah tech ecosystem
 **Primary Location:** unknown
 **Utah Location:** unknown

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** healthcare data analytics, population health, value-based care, clinical data integration
 **Identifiers:** cik=0001636422, ein=45-3337483
 **Roles:** data-science, product-design, sales-business-development, program-project-management

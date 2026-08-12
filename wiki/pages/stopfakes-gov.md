@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** F
 **Focus:** International Trade
 **Primary Location:** Washington, DC
 **Utah Location:** no verified Utah presence

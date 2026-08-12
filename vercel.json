@@ -71,6 +71,7 @@
     { "source": "/meta/:doc([^/.]+)", "destination": "/meta/:doc.md", "statusCode": 308 },
     { "source": "/pages/sillicon-slopes.md", "destination": "/pages/silicon-slopes.md", "statusCode": 308 },
     { "source": "/p/sillicon-slopes", "destination": "/p/silicon-slopes", "statusCode": 308 },
+    { "source": "/v/index", "destination": "/v", "statusCode": 308 },
     { "source": "/entry/:source/:slug", "destination": "/p/:slug", "statusCode": 308 },
     { "source": "/raise-hand", "destination": "/contribute", "statusCode": 308 }
   ],
@@ -88,7 +89,14 @@
       "continue": true
     },
     {
-      "src": "^/views/([a-z0-9-]+)\\.md$",
+      "src": "^/views/index\\.md$",
+      "headers": {
+        "Link": "<https://greatutah.work/v>; rel=\"canonical\""
+      },
+      "continue": true
+    },
+    {
+      "src": "^/views/(?!index\\.md$)([a-z0-9-]+)\\.md$",
       "headers": {
         "Link": "<https://greatutah.work/v/$1>; rel=\"canonical\""
       },

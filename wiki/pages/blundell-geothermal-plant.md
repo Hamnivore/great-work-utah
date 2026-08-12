@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** geothermal power, utility generation, hydrothermal plant operations, PacifiCorp
 **Roles:** field-skilled-trades, hardware-engineering, physical-sciences
 **Stage:** Operating utility-owned geothermal plant

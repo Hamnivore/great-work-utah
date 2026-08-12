@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** rail infrastructure, American West, logistics, national integration
 **Era:** 1863-1869 construction; completion on 1869-05-10
 **Primary Location:** Promontory Summit, UT

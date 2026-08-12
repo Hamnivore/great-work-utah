@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens
 **Identifiers:** cik=0001978799, ein=87-2870760
 **Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory

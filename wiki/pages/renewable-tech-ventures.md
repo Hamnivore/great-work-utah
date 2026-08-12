@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Funding, Other
 **Domain:** capital-programs, energy
 **Primary Location:** Salt Lake City, UT

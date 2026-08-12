@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** community technology events, volunteer-led coding education
 **Primary Location:** Utah
 **Utah Location:** statewide

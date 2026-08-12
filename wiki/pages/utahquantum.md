@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** F
 **Focus:** quantum systems integration, quantum readiness, post-quantum security, government and industry adoption
 **Roles:** sales-business-development, legal-policy, program-project-management
 **Stage:** Early-stage initiative (launched October 2025; prototype planned Q1–Q2 2026)

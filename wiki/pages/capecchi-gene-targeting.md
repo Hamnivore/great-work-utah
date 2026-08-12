@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** gene targeting, knockout mice, biomedical research, genetics
 **Era:** 1973-present; core breakthrough in the 1980s; Nobel Prize in 2007
 **Primary Location:** University of Utah, Salt Lake City, UT

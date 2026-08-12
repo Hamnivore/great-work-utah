@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** A
 **Focus:** materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation
 **Domain:** materials-mfg
 **Era:** first diamond synthesis 1954 (at GE); Utah press work 1955-1970s

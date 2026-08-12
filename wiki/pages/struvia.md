@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** F
 **Focus:** AI construction takeoff, estimating, subcontractor bid solicitation and leveling
 **Domain:** materials-mfg, computing
 **Primary Location:** Utah County, UT

@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** F
 **Focus:** public higher education, research, academic health care, technology commercialization
 **Identifiers:** ein=87-6000525, ror=03r0ha626
 **Primary Location:** Salt Lake City, UT

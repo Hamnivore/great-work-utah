@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project development
 **Roles:** hardware-engineering, physical-sciences, program-project-management, field-skilled-trades
 **Stage:** Series A; $38M (oversubscribed); pilot underway in Utah

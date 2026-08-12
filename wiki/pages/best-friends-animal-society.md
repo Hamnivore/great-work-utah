@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** B
 **Focus:** no-kill animal welfare, animal sanctuary, shelter network, Kanab, national shelter data
 **Roles:** field-skilled-trades, program-project-management, marketing-communications, people-operations
 **Stage:** Established national nonprofit; sanctuary founded 1984 per self-reported history

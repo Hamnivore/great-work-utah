@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

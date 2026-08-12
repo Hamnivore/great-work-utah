@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** High
+**Tier:** B
 **Focus:** software, word processing, Utah software history, Silicon Slopes origins
 **Stage:** Acquired (Novell 1994; Corel 1996; Corel still sells WordPerfect Office)
 **Primary Location:** Orem, UT

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, life sciences
 **Identifiers:** cik=0001880286, ein=46-3837989
 **Roles:** software-engineering, data-science, biology-life-sciences, clinical-regulatory

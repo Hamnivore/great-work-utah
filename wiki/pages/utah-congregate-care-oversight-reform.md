@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** B
 **Focus:** youth residential treatment, congregate care licensing, restraint and seclusion, state inspection regime, incident reporting, child safety
 **Era:** 2021 S.B. 127 through 2025 S.B. 297
 **Domain:** health-bio, culture-place

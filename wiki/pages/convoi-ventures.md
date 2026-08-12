@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Funding
 **Primary Location:** Utah
 **Utah Location:** statewide

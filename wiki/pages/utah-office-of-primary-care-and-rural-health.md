@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
+**Tier:** D
 **Focus:** rural healthcare, primary care access, health workforce, shortage designations, clinic support, grants
 **Domain:** health-bio
 **Primary Location:** Utah

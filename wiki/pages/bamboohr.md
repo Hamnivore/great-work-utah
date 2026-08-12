@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** HR software, payroll, benefits, people operations, SMB SaaS
 **Roles:** software-engineering, clinical-regulatory, product-design, sales-business-development, people-operations
 **Stage:** Private growth company

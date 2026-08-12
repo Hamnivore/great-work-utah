@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** infectious disease diagnostics, multiplex PCR, syndromic testing, in vitro diagnostics, life sciences
 **Roles:** biology-life-sciences, manufacturing-operations, clinical-regulatory, product-design, sales-business-development, people-operations
 **Stage:** Established subsidiary of bioMérieux (Euronext: BIM); global deployment

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** non-opioid pain, postoperative analgesia, extended-release drug delivery, bupivacaine formulation, opioid-sparing surgery
 **Identifiers:** cik=0002057423, ein=83-1317097
 **Roles:** data-science, clinical-regulatory, sales-business-development, program-project-management

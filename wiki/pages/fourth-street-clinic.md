@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** integrated health care for people experiencing homelessness
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

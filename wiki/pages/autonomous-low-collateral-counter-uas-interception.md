@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Low
+**Tier:** C
 **Focus:** defense, counter-drone, autonomous systems, air defense, critical infrastructure protection
 **Era:** 2018–present
 **Primary Location:** Lindon / Pleasant Grove, UT

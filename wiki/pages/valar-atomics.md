@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power
 **Roles:** physical-sciences, manufacturing-operations, clinical-regulatory, field-skilled-trades
 **Stage:** Seed ($19M); test reactor under construction at Utah San Rafael Energy Lab

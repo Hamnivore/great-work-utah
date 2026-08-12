@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance operations
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

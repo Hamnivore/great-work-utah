@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** High
+**Tier:** D
 **Focus:** water conservation rebates, lawn replacement, waterwise landscaping, smart irrigation, fixture replacement
 **Domain:** culture-place
 **Primary Location:** Utah

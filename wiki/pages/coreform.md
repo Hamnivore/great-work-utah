@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** engineering simulation, isogeometric analysis, CAD, finite element analysis, CAE
 **Roles:** software-engineering, data-science, physical-sciences
 **Stage:** Private; operational; DOE SBIR Phase II recipient

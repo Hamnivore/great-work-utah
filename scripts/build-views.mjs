@@ -54,6 +54,7 @@ for (const f of fs.readdirSync(PAGES).sort()) {
     type: meta(raw, 'Type'),
     focus: meta(raw, 'Focus'),
     conf: (meta(raw, 'Confidence') || '?')[0],
+    tier: meta(raw, 'Tier'),
     region: meta(raw, 'Region'),
     website: meta(raw, 'Website'),
     careers: meta(raw, 'Careers'),
@@ -99,7 +100,9 @@ const eraKey = (s) => {
   return y ? ERAS.find(([, f]) => f(y))[0] : 'undated'
 }
 
-const line = (p, extra = '') => `- [${p.title}](${p.url}) · \`${p.path}\` · ${clip(p.focus || p.summary, 120)} · conf:${p.conf}${extra}\n`
+// Tier leads the trust markers because it is the one a reader shortlists on; conf says how much to
+// believe the page behind it. Absent on source/guide pages, which take no tier.
+const line = (p, extra = '') => `- [${p.title}](${p.url}) · \`${p.path}\` · ${clip(p.focus || p.summary, 120)}${p.tier ? ` · tier:${p.tier}` : ''} · conf:${p.conf}${extra}\n`
 const write = (name, content) => fs.writeFileSync(path.join(VIEWS, name), content)
 
 // ---- type indexes ----
@@ -272,6 +275,55 @@ graph += `\n## Cited by nothing (${orphans.length})\n\nA source page nothing cit
 for (const p of orphans) graph += `- [${p.title}](${p.url}) · \`${p.path}\`\n`
 write('evidence.md', graph)
 
+// ---- the tier list ----
+// The corpus ranked on one ladder by argued impact (wiki/meta/tiers.md). This is what makes "surface
+// all the gems" mechanical instead of a matter of the reading agent's taste: gems are S and A, and
+// they are 5% of the corpus, so an agent with a narrow budget knows exactly where to spend it.
+const TIER_RANK = { S: 0, A: 1, B: 2, C: 3, D: 4, F: 5, unranked: 6 }
+const TIER_LABEL = {
+  S: ['world-historic', 'The world is permanently different and the difference traces to this.'],
+  A: ['field-defining', 'Sets the frontier of a global industry or discipline — or is a live bet whose plausible success is S.'],
+  B: ['structurally significant', 'Durably changes how a real sector works, or how a whole state works.'],
+  C: ['substantive and replaceable', 'Real work at real scale, with a close substitute.'],
+  D: ['local', 'Real to the people in the room, and it stops at the walls.'],
+  F: ['inert', 'No estimable displacement: a listing, a ceremony, a duplicate, or a claim nothing corroborates.'],
+  unranked: ['not rankable', 'Too thin to argue bounds from. The honest escape hatch, not a synonym for low.'],
+}
+const tiered = pages.filter((p) => p.tier && TIER_RANK[p.tier.replace('*', '')] !== undefined)
+const tierBase = (p) => p.tier.replace('*', '')
+const gems = tiered.filter((p) => ['S', 'A'].includes(tierBase(p)))
+let tierList = `# The tier list — Utah work ranked by impact
+
+Every fact page in the corpus on one ladder, ranked by the charter's metric: impact is displacement in joy — depth × breadth, permanence dominating, judged by the **maximum estimated bounds** of the displacement rather than by whether it is good or bad, and always counterfactual. ${tiered.length}/${pages.length} pages carry a \`**Tier:**\`; \`source\` and \`guide\` pages take none.
+
+**The ${gems.length} pages in S and A are the gems** — start here if you are reading this corpus for the first time or have budget for only a few pages.
+
+Read the ladder correctly or it will mislead you:
+
+- **Tier is the ceiling, not the current quarter.** A pre-revenue company whose plan would reorder an industry outranks a profitable one that would be replaced by a competitor next week.
+- **Tier is magnitude, never sign.** Weapons, surveillance, extraction, and waste disposal rank on how far they could move the world *in either direction*. The direction is argued in each page's prose, never encoded here.
+- **A \`*\` is the hype-tier bump** — one step, awarded for being disproportionately worth reading. Strip the asterisks and you have the pure displacement ranking.
+- **Within a tier there is no order.** Tiers are the resolution the judgment supports.
+- **A low tier is not a verdict that a page should not exist.** \`F\` is the right answer for a page that is still the right answer to "who do I call in Cedar City."
+
+Rubric, the nine rulings, and the worked cases: [tiers.md](../meta/tiers.md) · \`${BASE}/meta/tiers.md\`. The metric itself: [charter.md](../meta/charter.md) · \`${BASE}/meta/charter.md\`.
+
+`
+for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
+  const sel = tiered
+    .filter((p) => tierBase(p) === t)
+    .sort((a, b) => a.title.localeCompare(b.title))
+  if (!sel.length) continue
+  const [gloss, test] = TIER_LABEL[t]
+  tierList += `## ${t} — ${gloss} (${sel.length})\n\n${test}\n\n`
+  for (const p of sel) {
+    const bump = p.tier.endsWith('*') ? ' · `*` bumped for being worth reading' : ''
+    tierList += `- [${p.title}](${p.url}) · \`${p.path}\` · ${p.type} · ${clip(p.focus || p.summary, 100)} · conf:${p.conf}${bump}\n`
+  }
+  tierList += `\n`
+}
+write('tier-list.md', tierList)
+
 // ---- master index ----
 const count = (t) => pages.filter((p) => p.type === t).length
 const pct = (n, total) => total ? Math.round((n / total) * 100) : 0
@@ -292,6 +344,7 @@ This is the router for ${pages.length} pages about high-impact work in Utah. Pic
 
 ## Start by goal
 
+- **Read the best of it first:** [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` ranks all ${tiered.length} fact pages on one impact ladder. The ${gems.length} pages in **S** and **A** are the gems. Tier is the *ceiling* of a thing's plausible effect and is ranked by **magnitude, not sign** — the top of the list includes work whose consequences run hard in both directions.
 - **Find meaningful work:** [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` (${roleGroups.length} role families), then [all stated needs](needs.md) · \`${BASE}/views/needs.md\` (${needers.length} organizations) and [Find Meaningful Work in Utah](/pages/find-meaningful-work.md) · \`${BASE}/pages/find-meaningful-work.md\`. These are leads derived from page assessments, not confirmed openings; verify with the organization.
 - **Start or fund a high-growth company:** [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · \`${BASE}/pages/startup-capital-in-utah.md\` · [Find an Advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\`
 - **Grow a Main Street or rural business without venture capital:** [Find Business Services](/pages/find-business-services.md) · \`${BASE}/pages/find-business-services.md\` routes formation, lending, procurement, regulation, and workforce help; combine it with [resources](resources.md) · \`${BASE}/views/resources.md\` and [by Utah location](by-region.md) · \`${BASE}/views/by-region.md\`.
@@ -310,6 +363,7 @@ ${domainViews.map((d) => `- [${domainLabel(d)}](domain-${d}.md) · \`${BASE}/vie
 
 ## Browse by another facet
 
+- [By impact tier](tier-list.md) · \`${BASE}/views/tier-list.md\` — ${tiered.length} fact pages ranked S through F on one ladder; ${gems.length} gems in S and A
 - [By kind of work](by-role.md) · \`${BASE}/views/by-role.md\` — ${roleGroups.length} populated role families derived only from pages with stated-needs assessments; use search and sector hubs for other plausible employers
 - [By Utah location](by-region.md) · \`${BASE}/views/by-region.md\` — ${regional.length}/${pages.length} pages carry Region metadata (${pct(regional.length, pages.length)}% coverage)
 - [By venture stage](by-stage.md) · \`${BASE}/views/by-stage.md\` — ${staged.length} pages; metadata assertions, not yet sourced

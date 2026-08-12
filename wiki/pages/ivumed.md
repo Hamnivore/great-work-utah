@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** global surgery, urology training, teach-the-teacher, low-resource settings, pediatric urology
 **Identifiers:** ein=58-2263983, orcid=0000-0002-9828-3488
 **Primary Location:** Sandy, UT

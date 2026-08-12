@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** e-commerce, online retail, home goods, blockchain assets, Utah tech anchor
 **Roles:** marketing-communications
 **Stage:** Public (NYSE: BBBY)

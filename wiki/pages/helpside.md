@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** small-business infrastructure, payroll, benefits, human resources, professional employer organization
 **Roles:** sales-business-development, product-design, finance-accounting, program-project-management
 **Stage:** Established operating company; 35+ years; 800+ client businesses

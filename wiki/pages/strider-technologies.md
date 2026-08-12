@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** strategic intelligence, geopolitical risk, economic security, AI, national security
 **Identifiers:** cik=0001776892, ein=83-3874815
 **Roles:** software-engineering, data-science, product-design, sales-business-development

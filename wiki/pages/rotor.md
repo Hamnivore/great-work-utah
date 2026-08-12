@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** home-services CRM, recurring revenue, field-service software, sales automation, vertical SaaS
 **Roles:** software-engineering, program-project-management
 **Stage:** Early-stage private company; founded 2024

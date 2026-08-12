@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** DoD test ranges, weapons evaluation, hypersonics, cruise missiles, space reentry, restricted airspace
 **Roles:** hardware-engineering, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Established, ongoing DoD operations

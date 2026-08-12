@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** online higher education, workforce development, global access, low-cost credentialing, faith-affiliated nonprofit education
 **Roles:** software-engineering, sales-business-development, program-project-management
 **Stage:** Operational at scale (88,000+ annual enrollment)

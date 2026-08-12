@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** SBIR, STTR, microgrants, nonrecourse loans, R&D funding
 **Primary Location:** Utah
 **Utah Location:** statewide

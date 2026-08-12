@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C*
 **Focus:** mountaineering, Everest, Sherpa guides, altitude records, retirement
 **Domain:** culture-place
 **Era:** first summit 1990; record-setting career through 2011; retired after 21st ascent May 2011

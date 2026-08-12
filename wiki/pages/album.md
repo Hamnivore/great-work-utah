@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Funding
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

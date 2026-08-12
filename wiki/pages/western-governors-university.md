@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** competency-based education, online degrees, nonprofit higher education, workforce credentials, teacher preparation, nursing, IT degrees
 **Roles:** program-project-management, software-engineering, people-operations
 **Ownership:** nonprofit

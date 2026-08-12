@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** B
 **Focus:** hyperscale data centers, energy infrastructure, advanced manufacturing
 **Era:** 2026-present
 **Primary Location:** Hansel Valley, Box Elder County, UT

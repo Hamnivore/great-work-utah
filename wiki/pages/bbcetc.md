@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** SBIR, STTR, nondilutive funding, proposal support, grant training, post-award management
 **Primary Location:** Chelsea, MI
 **Utah Location:** no verified Utah presence

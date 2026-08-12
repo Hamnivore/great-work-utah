@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense
 **Roles:** software-engineering, physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory
 **Stage:** Established; 80+ years on-site; public defense prime (NYSE: NOC)

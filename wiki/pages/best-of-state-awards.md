@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** awards program, recognition, Utah organizations, self-nomination, evidence calibration
 **Domain:** culture-place
 **Primary Location:** Orem, UT

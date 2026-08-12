@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** clinical laboratory, anatomic pathology, reference testing, esoteric diagnostics, laboratory medicine, nonprofit academic lab
 **Roles:** biology-life-sciences, clinical-regulatory, program-project-management
 **Ownership:** nonprofit

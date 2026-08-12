@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT

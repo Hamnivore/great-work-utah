@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** scientific computing, scientific visualization, biomedical computing, open-source research software
 **Roles:** software-engineering, data-science
 **Stage:** University research institute (founded 1992; permanent institute later)

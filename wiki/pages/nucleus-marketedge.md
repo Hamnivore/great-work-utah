@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** research commercialization, professors, PhDs, postdocs, market discovery
 **Domain:** capital-programs, computing
 **Primary Location:** Salt Lake City, UT

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** unranked
 **Focus:** fiber optic seals, glass-to-metal seals, neutron generators, radiation-hardened components, hermetic packaging
 **Identifiers:** cik=0000720694
 **Roles:** hardware-engineering, sales-business-development

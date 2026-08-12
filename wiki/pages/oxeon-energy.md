@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations, sales-business-development
 **Stage:** Private; DOE-funded ($36M+ in federal grants); operational

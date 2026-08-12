@@ -1,0 +1,39 @@
+utah-office-of-primary-care-and-rural-health.md	D	State rural-health coordination office whose grant and workforce functions would be absorbed by other DHHS units, so counterfactual is near zero.
+utah-office-of-regulatory-relief.md	D	General regulatory sandbox serving a handful of exceptional cases while most Utah businesses never touch it, so counterfactual is near zero.
+utah-office-of-tourism.md	D	State destination-marketing office duplicated by private tourism promotion and peer state tourism agencies, so counterfactual is incremental.
+utah-pacific-islander-chamber-of-commerce.md	D	Culturally focused chamber still offering the same networking and summit programming as other Utah chambers, so counterfactual is near zero.
+utah-regional-growth-association.md	D	Regional infrastructure advocacy whose redevelopment work would proceed through municipalities and other growth nonprofits, so counterfactual is near zero.
+utah-sbdc.md	C	Statewide no-cost small-business counseling network at real scale with the national SBDC system as a close substitute.
+utah-small-business-credit-initiative.md	C	Statewide SSBCI loan-participation capital program at real scale with other state credit facilities and enrolled lenders as substitutes.
+utah-small-business-credit-initiative-usbci.md	F	Same USBCI program as the primary page, so duplicate pages carry no independent counterfactual. [FLAG: duplicate of utah-small-business-credit-initiative.md]
+utah-s-own-local-food-production.md	D	State buy-local marketing directory whose visibility farmers would replace through farmers markets and other ag-promotion programs, so counterfactual is near zero.
+utah-state-surplus-property.md	D	Government surplus auction portal whose buyers would purchase used equipment elsewhere, so displacement stops at individual transactions.
+utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md	D	Campus entrepreneurship center whose student competitions and mentoring duplicate other Utah university programs, so counterfactual is near zero.
+utah-tech-calendar.md	D	Nightly event aggregation index whose listings originate on upstream Meetup and Luma feeds, so counterfactual on attendance is near zero.
+utah-tech-university-atwood-innovation-center.md	D	Southern Utah business resource center duplicating statewide SBDC counseling and other St. George incubators, so counterfactual is near zero.
+utah-tourism-association.md	D	Tourism trade association offering advocacy and conference networking duplicated by the Utah Office of Tourism and peer industry groups, so counterfactual is near zero.
+utah-valley-university-innovation-center-academy.md	D	UVU student innovation hub whose project programs duplicate other university experiential-learning offices, so counterfactual is near zero.
+utah-valley-university-uvu-entrepreneur-institute.md	D	UVU student entrepreneurship institute whose pitch competitions and seed grants duplicate BYU, USU, and Wildcat programs, so counterfactual is near zero.
+utah-water-savers.md	D	Statewide rebate portal routing conservation incentives that water districts would administer through other channels, so counterfactual is administrative not causal.
+utif.md	D	Small SBIR proposal microgrants whose federal funding path exists independently of this state bridge, so counterfactual is tactical and near zero.
+uzona-hildale-chamber-of-commerce.md	D	Border-region chamber offering directory and luncheon networking duplicated by every other county chamber, so counterfactual is near zero.
+vernal-area-chamber-of-commerce.md	D	Uintah Basin chamber whose ribbon-cuttings and member directory duplicate other local chambers, so counterfactual is near zero.
+vernal-downtown-alliance.md	D	Main Street downtown revitalization nonprofit whose placemaking work duplicates the national Main Street program and the Vernal chamber, so counterfactual is near zero.
+vernal-innovation-hub.md	D	Uintah Basin coworking space whose founders would use home offices or Wasatch Front space, so counterfactual is near zero.
+veteran-business-resource-center-vbrc-utah.md	D	One of seven national STRIVE sites whose veteran advising overlaps SBDC and SBA programs, so counterfactual is incremental. [BOUNDARY: C vs D]
+veteran-owned-business-registration-utah.md	F	Searchable registry listing verified veteran businesses rather than an entity that causes entrepreneurship, so counterfactual is zero. [FLAG: registry listing, not an independent enabler]
+vision-iron-county.md	F	Parked domain with no corroborated active programming, so there are no bounds to estimate. [FLAG: dead domain, unverifiable program]
+visit-utah.md	F	Consumer travel marketing site whose industry functions sit under the Utah Office of Tourism, so it adds no separate counterfactual. [FLAG: consumer marketing arm of utah-office-of-tourism.md]
+wasatch-front-regional-council.md	D	Metropolitan planning organization whose transportation and CDBG work serves jurisdictions not individual founders, so counterfactual on startups is near zero.
+wasatch-women-s-business-alliance.md	D	Heber Valley peer networking group whose mastermind sessions duplicate other local women's business alliances, so counterfactual is near zero.
+washington-area-chamber-of-commerce.md	D	Washington City chamber offering local promotion duplicated by the St. George chamber and other county chambers, so counterfactual is near zero.
+washington-city-economic-development.md	D	Municipal economic-development office duplicated by every other fast-growing Utah city ED department, so counterfactual is near zero.
+weber-basin-job-corps.md	D	One federally funded Job Corps campus among a national residential training network, so counterfactual is site-specific not causal.
+weber-county-economic-development.md	D	County economic-development concierge duplicated by NUEA, GOEO, and peer county ED offices, so counterfactual is near zero.
+weber-state-ai-hackathon.md	D	Annual regional hackathon whose builders would attend other Utah AI events absent it, so counterfactual is near zero.
+wildcat-microfund.md	D	Statewide micro-grants up to three thousand dollars whose recipients would pursue other small non-dilutive competitions, so counterfactual is near zero.
+womens-business-center-of-utah.md	C	Statewide SBA-funded advising and training for women entrepreneurs at real scale with SBDC and SCORE as close substitutes.
+women-tech-counsel.md	D	Women-in-tech advocacy and awards programming duplicated by national diversity networks and other Utah STEM pipeline orgs, so counterfactual is near zero.
+workbox.md	D	Downtown Salt Lake coworking operator among many Wasatch Front workspace options, so counterfactual is near zero.
+work-hive.md	D	Local Salt Lake coworking operator whose members would choose another flex office, so counterfactual is near zero.
+world-trade-center-utah.md	D	State export promotion nonprofit duplicated by U.S. Commercial Service, SBA export programs, and peer state WTC chapters, so counterfactual is incremental. [BOUNDARY: C vs D]

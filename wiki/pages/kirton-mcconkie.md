@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** startup law, corporate formation, venture financing, M&A, securities, IP, general counsel
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

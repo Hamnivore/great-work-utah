@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B*
 **Focus:** Land art, Great Salt Lake, site-specific sculpture, contemporary art
 **Era:** 1970-present
 **Primary Location:** Rozel Point, Great Salt Lake, Box Elder County, UT

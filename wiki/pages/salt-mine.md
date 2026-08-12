@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT

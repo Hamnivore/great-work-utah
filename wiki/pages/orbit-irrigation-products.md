@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** residential irrigation, smart watering, sprinklers, drip irrigation, water conservation, B-hyve
 **Roles:** manufacturing-operations, hardware-engineering, product-design, sales-business-development
 **Stage:** Subsidiary of Husqvarna Group (Gardena Division) since November 2021; previously owned by Platinum Equity (2019–2021)

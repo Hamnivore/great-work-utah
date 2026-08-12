@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** medical respite, end-of-life care, homelessness, hospice housing, Salt Lake City
 **Roles:** clinical-regulatory, program-project-management, field-skilled-trades, marketing-communications
 **Ownership:** nonprofit

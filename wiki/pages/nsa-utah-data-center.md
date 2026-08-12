@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security
 **Domain:** aerospace-defense
 **Roles:** software-engineering, data-science

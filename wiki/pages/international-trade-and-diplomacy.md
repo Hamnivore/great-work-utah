@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** exports, international expansion, trade missions, foreign investment, diplomacy
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

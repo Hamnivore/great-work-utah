@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** K-12 digital curriculum, language and literacy, English learners, courseware, edtech
 **Identifiers:** cik=0001319242
 **Roles:** software-engineering, product-design, program-project-management, sales-business-development, people-operations

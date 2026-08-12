@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** hydroponic livestock feed, water efficiency, arid-land agriculture, climate-smart ag, hardware
 **Roles:** hardware-engineering, manufacturing-operations, sales-business-development
 **Stage:** Commercializing (customer deployments, reported backlog in 2024–2025)

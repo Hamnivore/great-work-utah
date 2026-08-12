@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** astroparticle physics, cosmic rays, observatories, desert science
 **Era:** 1981-2006; key results in 1991, 1995, and 2008
 **Primary Location:** Dugway Proving Ground, UT

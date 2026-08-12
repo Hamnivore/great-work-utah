@@ -1,0 +1,42 @@
+1mc-salt-lake.md	F	Same weekly 1MC chapter as the Salt Lake listing, so duplicate pages carry no independent counterfactual. [FLAG: duplicate of 1-million-cups-salt-lake.md]
+1-million-cups-orem.md	D	Weekly peer-feedback meetup duplicated by other 1MC chapters and founder events, so counterfactual is near zero.
+1-million-cups-salt-lake.md	F	Same weekly 1MC chapter as 1mc-salt-lake, so duplicate pages carry no independent counterfactual. [FLAG: duplicate of 1mc-salt-lake.md]
+47g-utah-aerospace-and-defense-association.md	D	Statewide aerospace convening duplicated by APEX, primes, and national hard-tech networks, so counterfactual is incremental. [BOUNDARY: C vs D]
+a-bolder-way-forward.md	D	Statewide women entrepreneurship advocacy with WBC Utah and national programs as substitutes, so counterfactual is near zero.
+acceler8-wasatch.md	F	Dead domain and unverified program details leave no estimable bounds on displacement.
+ai-builder-day.md	D	Recurring Lehi hackathon whose builders would attend other AI events absent it, so counterfactual is near zero.
+ai-seminar-for-small-businesses-and-non-profits.md	F	Historical one-time seminar with no current program and no ongoing displacement to estimate.
+album.md	D	Regional VC among many capital sources, so counterfactual on which companies get funded is near zero.
+altitude-labs.md	C	Real biotech accelerator with lab infrastructure and capital track record, but national accelerators absorb the counterfactual.
+apa-sherpa-foundation.md	D	Modest Nepal schooling philanthropy whose displacement depth is real but breadth stops at Khumbu villages.
+apex-accelerator.md	D	Statewide procurement counseling duplicated by the national APEX network and SBDC overlap, so counterfactual is incremental. [BOUNDARY: C vs D]
+apprenticeship-utah.md	C	Statewide registered apprenticeship hub training thousands with the national apprenticeship system as close substitute.
+a-tech-home-plans.md	F	Unverifiable commercial listing removed from Startup State with no corroborated bounds to estimate. [FLAG: unverifiable commercial listing, not a state resource entity]
+atwood-innovation-plaza.md	D	Southern Utah campus innovation hub whose services duplicate statewide SBDC and makerspace options.
+bear-lake-regional-commission.md	D	Regional planning convener whose counterfactual is confined to Bear Lake land-use stakeholders.
+bear-lake-valley-chamber-of-commerce.md	D	Local chamber networking duplicated by every other county chamber, so counterfactual is near zero.
+bear-river-association-of-governments.md	D	Regional council CDBG and planning duplicated by other Utah regional councils, so counterfactual is near zero.
+best-of-state-awards.md	D	Paid self-nominated awards ceremony displacing nothing beyond entrants' marketing collateral.
+big-chamber-beaver-iron-garfield.md	D	Tri-county chamber networking duplicated by single-county chambers in the same region, so counterfactual is near zero.
+biohive-utah.md	D	Life-sciences convening duplicated by BIO Utah and national biotech networks, so counterfactual is near zero.
+bio-utah.md	D	Life-sciences trade association duplicated by national BIO and peer state associations, so counterfactual is near zero.
+box-elder-chamber-of-commerce.md	D	County chamber networking duplicated by every other county chamber, so counterfactual is near zero.
+brigham-city-economic-development.md	D	Municipal EDO duplicated by county chambers and state GOEO, so counterfactual is near zero.
+brigham-young-university-byu-rollins-center.md	D	Campus entrepreneurship center whose counterfactual is other university programs nationwide for the same student cohort.
+business-resource-center-davis-tech-college.md	D	SBDC advising hub duplicated across Utah's statewide SBDC network, so counterfactual is near zero.
+business-resource-center-utah-tech-university.md	D	Zions-sponsored SBDC duplicate of the statewide advising template with Atwood as local instance.
+business-technical-assistance-center.md	D	Modest southeastern Utah coworking whose absence would be noticed locally but not move the state.
+cache-valley-chamber-of-commerce.md	D	Local chamber networking duplicated by every other county chamber, so counterfactual is near zero.
+carbon-county-chamber-of-commerce.md	D	Local chamber networking duplicated by every other county chamber, so counterfactual is near zero.
+carbon-county-economic-development.md	D	County EDO duplicated by peer county ED offices statewide, so counterfactual is near zero.
+cedar-city-area-chamber-of-commerce.md	D	Iron County chamber overlapping BIG Chamber tri-county coverage, so counterfactual is near zero.
+church-and-state.md	D	Downtown coworking marketplace with many Salt Lake workspace substitutes, so counterfactual is near zero.
+clearfield-job-corps.md	D	One Job Corps campus in a national network, so counterfactual is local to enrolled students only.
+code-adventure-utah.md	D	Three-day free girls camp duplicated by other youth STEM programs, so counterfactual is near zero.
+convoi-ventures.md	D	Utah pre-seed VC among many capital sources, so counterfactual on funding outcomes is near zero.
+coworking-space-in-salt-lake-city-offices-net.md	F	National flex-office directory listing operators rather than being one, so no entity-level counterfactual exists. [FLAG: third-party directory listing, not an entity]
+cross-creek.md	D	Late-stage crossover VC accessed through fund relationships with many growth-capital substitutes, so counterfactual is near zero.
+cto-breakfast-utah.md	D*	Monthly peer breakfast whose Chatham House Rules make it worth reading but displacement stays local to attendees.
+custom-fit-training.md	C	Forty-year statewide legislated employer training program with other workforce subsidies as close substitute.
+cynosure.md	F	Institutional wealth manager miscatalogued as founder resource, so no estimable startup-enabler displacement. [FLAG: institutional asset manager, not a founder-facing enabler]
+davis-chamber-of-commerce.md	D	Local membership networking duplicated by every other county chamber, so counterfactual is near zero.

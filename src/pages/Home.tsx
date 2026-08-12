@@ -33,8 +33,8 @@ export function HomePage() {
         <p className="home-eyebrow">A wiki for your AI</p>
         <h1 id="home-title">Ask better questions about Utah.</h1>
         <p className="home-lede">
-          Tell your assistant what you need. It can search hundreds of pages about high-impact
-          work, people, programs, and opportunities across the state.
+          A map and research wiki of consequential companies, labs, projects, people, and
+          opportunities in Utah. Tell your assistant what you need; it can search the whole thing.
         </p>
       </section>
 
@@ -60,6 +60,11 @@ export function HomePage() {
           Works with paid versions of ChatGPT and Claude, and with any AI coding environment.
         </p>
       </section>
+
+      <p className="home-aside">
+        Reading it yourself? Start with <a href="/v/tier-list">the tier list</a> — everything in the
+        wiki ranked by how far it could move the world.
+      </p>
     </main>
   )
 }

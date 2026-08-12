@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** water desalination, reverse osmosis, centrifuge efficiency, water scarcity, Southwest water
 **Identifiers:** cik=0001642412, ein=47-2759719
 **Roles:** physical-sciences, hardware-engineering, sales-business-development

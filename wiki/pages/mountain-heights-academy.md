@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** online charter school, open educational resources, Utah grades 7-12, digital learning
 **Identifiers:** ein=26-3417162
 **Primary Location:** West Jordan, UT

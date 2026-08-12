@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** primary magnesium production, critical minerals, Great Salt Lake brine, aerospace and defense metals, industrial process engineering
 **Roles:** physical-sciences, manufacturing-operations, people-operations
 **Stage:** Established industrial producer (Chapter 11 filed September 2025; asset sale in progress)

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** cookies, dessert franchise, weekly rotating menu, food tech, franchise systems
 **Stage:** Private franchise system; founded 2017 in Logan, UT per company site; franchisor Crumbl Franchising, LLC
 **Primary Location:** Lindon, UT

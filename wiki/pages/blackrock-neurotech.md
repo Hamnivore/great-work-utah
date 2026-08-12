@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** brain-computer interfaces, neural engineering, medical devices, restoration of motor and speech function
 **Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory, program-project-management
 **Stage:** Private growth company; majority stake held by Tether (via Tether Evo) since April 2024

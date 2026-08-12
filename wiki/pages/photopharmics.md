@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology
 **Identifiers:** cik=0001561150, ein=27-5120776
 **Roles:** hardware-engineering, clinical-regulatory, program-project-management

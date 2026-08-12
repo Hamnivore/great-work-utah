@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** .NET software development, peer learning, technical meetups, AI-assisted development
 **Primary Location:** Layton, UT
 **Utah Location:** Layton, UT

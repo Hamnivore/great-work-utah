@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** aerospace composites, carbon fiber structures, composite manufacturing, aerostructures, defense supply chain
 **Roles:** manufacturing-operations, field-skilled-trades
 **Stage:** Private; established mid-size aerospace supplier

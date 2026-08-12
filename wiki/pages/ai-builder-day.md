@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** AI hackathon, sponsor bounty tracks, beginner onboarding, team formation, Utah County
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

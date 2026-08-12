@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** medical supply recovery, humanitarian logistics, donated equipment, international health, Salt Lake City
 **Roles:** program-project-management, field-skilled-trades, manufacturing-operations, finance-accounting
 **Stage:** Established nonprofit; IRS recognition since 1998; operates as Globus Relief (legal name Globous Relief Fund)

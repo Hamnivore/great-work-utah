@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** small business lending, capital access, lender-backed capital, underserved founders
 **Primary Location:** Utah
 **Utah Location:** statewide

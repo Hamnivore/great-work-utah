@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** early-stage capital, deep tech, university spinouts, commercialization
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

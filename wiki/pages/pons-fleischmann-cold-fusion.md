@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** A*
 **Focus:** scientific ethics, replication, electrochemistry, institutional behavior, science communication
 **Era:** March 23, 1989 announcement; controversy through 1989-1990
 **Primary Location:** University of Utah, Salt Lake City, UT

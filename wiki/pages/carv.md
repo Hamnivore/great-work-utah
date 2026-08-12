@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C*
 **Focus:** wearable ski sensor, real-time biomechanical coaching, Park City North American base, Rust on-device
 **Primary Location:** London, United Kingdom
 **Utah Location:** Park City, UT

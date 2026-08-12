@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** F
 **Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

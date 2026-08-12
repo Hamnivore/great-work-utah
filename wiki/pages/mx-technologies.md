@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** open banking, financial data, account aggregation, fintech API platform
 **Roles:** software-engineering, data-science, clinical-regulatory, product-design
 **Stage:** Private; founded 2010 (as MoneyDesktop); Lehi HQ

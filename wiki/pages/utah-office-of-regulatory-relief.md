@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** regulatory sandbox, compliance, regulated markets, policy feedback
 **Primary Location:** Utah
 **Utah Location:** statewide

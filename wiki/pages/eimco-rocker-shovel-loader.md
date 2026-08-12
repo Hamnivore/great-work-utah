@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** B
 **Focus:** mining equipment, mechanical engineering, underground mining, industrialization, Salt Lake City manufacturing
 **Domain:** materials-mfg
 **Era:** 1930s–1960s

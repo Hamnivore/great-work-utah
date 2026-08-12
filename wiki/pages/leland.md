@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** career coaching, expert marketplace, AI education, professional development, community learning
 **Roles:** sales-business-development, marketing-communications, program-project-management
 **Primary Location:** Lehi, UT

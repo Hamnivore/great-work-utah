@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** eVTOL, emergency medical services, air ambulance, remote access
 **Roles:** software-engineering, hardware-engineering, clinical-regulatory, sales-business-development, field-skilled-trades
 **Stage:** Development (JA1 Pulse in development as of 2025)

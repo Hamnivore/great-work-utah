@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** High
+**Tier:** C
 **Focus:** saliva collection devices, SDNA-1000, COVID-19 specimen collection, microbial nucleic acid stabilization, in vitro diagnostics accessories, Draper manufacturing
 **Primary Location:** Draper, UT
 **Utah Location:** Draper, UT

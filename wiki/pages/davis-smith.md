@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** consumer brand, impact entrepreneurship, Latin America, outdoor industry, poverty alleviation
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

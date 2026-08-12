@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** applied AI, vertical SaaS, healthcare communications, voice AI, payments
 **Roles:** software-engineering, data-science, product-design, sales-business-development, program-project-management
 **Stage:** Public company (NYSE: WEAV); established, ~40,000 customer locations

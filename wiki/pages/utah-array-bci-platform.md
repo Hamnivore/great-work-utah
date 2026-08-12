@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** brain-computer interfaces, neural engineering, intracortical electrodes, medical devices
 **Era:** 1990s-present; human research use since 2004
 **Primary Location:** University of Utah, Salt Lake City, UT

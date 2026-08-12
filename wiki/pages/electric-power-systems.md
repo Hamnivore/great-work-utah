@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** electric aviation, battery propulsion, eVTOL, FAA certification, power electronics
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory
 **Stage:** Private; growth stage; $69M state incentive package

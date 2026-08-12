@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** computer graphics, rendering, human-computer interaction, software history
 **Era:** 1968-1985 peak output; continuing lineage
 **Primary Location:** Salt Lake City, UT

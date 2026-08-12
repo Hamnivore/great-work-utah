@@ -4,6 +4,7 @@ This is the router for 897 pages about high-impact work in Utah. Pick the path t
 
 ## Start by goal
 
+- **Read the best of it first:** [the tier list](tier-list.md) · `https://greatutah.work/views/tier-list.md` ranks all 485 fact pages on one impact ladder. The 37 pages in **S** and **A** are the gems. Tier is the *ceiling* of a thing's plausible effect and is ranked by **magnitude, not sign** — the top of the list includes work whose consequences run hard in both directions.
 - **Find meaningful work:** [by kind of work](by-role.md) · `https://greatutah.work/views/by-role.md` (15 role families), then [all stated needs](needs.md) · `https://greatutah.work/views/needs.md` (173 organizations) and [Find Meaningful Work in Utah](/pages/find-meaningful-work.md) · `https://greatutah.work/pages/find-meaningful-work.md`. These are leads derived from page assessments, not confirmed openings; verify with the organization.
 - **Start or fund a high-growth company:** [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · `https://greatutah.work/pages/startup-capital-in-utah.md` · [Find an Advisor](/pages/find-an-advisor.md) · `https://greatutah.work/pages/find-an-advisor.md`
 - **Grow a Main Street or rural business without venture capital:** [Find Business Services](/pages/find-business-services.md) · `https://greatutah.work/pages/find-business-services.md` routes formation, lending, procurement, regulation, and workforce help; combine it with [resources](resources.md) · `https://greatutah.work/views/resources.md` and [by Utah location](by-region.md) · `https://greatutah.work/views/by-region.md`.
@@ -29,6 +30,7 @@ Sector hubs separate primary players, historical proof, people, programs, curren
 
 ## Browse by another facet
 
+- [By impact tier](tier-list.md) · `https://greatutah.work/views/tier-list.md` — 485 fact pages ranked S through F on one ladder; 37 gems in S and A
 - [By kind of work](by-role.md) · `https://greatutah.work/views/by-role.md` — 15 populated role families derived only from pages with stated-needs assessments; use search and sector hubs for other plausible employers
 - [By Utah location](by-region.md) · `https://greatutah.work/views/by-region.md` — 485/897 pages carry Region metadata (54% coverage)
 - [By venture stage](by-stage.md) · `https://greatutah.work/views/by-stage.md` — 147 pages; metadata assertions, not yet sourced

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** geothermal energy, geothermal plant operations, binary-cycle equipment manufacturing, grid infrastructure
 **Identifiers:** cik=0001296445, ein=88-0326081
 **Roles:** hardware-engineering, field-skilled-trades, physical-sciences, manufacturing-operations, sales-business-development, legal-policy

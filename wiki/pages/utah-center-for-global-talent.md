@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** workforce, global talent, immigrant workforce, hiring, talent pathways
 **Primary Location:** Utah
 **Utah Location:** statewide

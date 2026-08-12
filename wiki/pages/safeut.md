@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** crisis chat, school safety tips, youth mental health, suicide prevention, statewide K-12 and higher education, first responders, Utah National Guard
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -19,6 +20,16 @@
 SafeUT is a **statewide** Utah crisis and school-safety program run through **Huntsman Mental Health Institute (HMHI)** at University of Utah Health. Students, parents, and educators can chat or call **licensed master's-level mental health counselors** around the clock, submit anonymous tips about bullying or potential school threats, and access related apps for **first responders** (SafeUT Frontline) and the **Utah National Guard** ([official site](safeut-official-website.md)).
 
 Utah law requires the **University Neuropsychiatric Institute** — the statutory name carried in [HB373 (2019)](safeut-utah-code-hb373.md) — to operate the **SafeUT Crisis Line** with **24/7** crisis intervention and anonymous school reporting, and appropriated **$1.77 million** ongoing from the Education Fund to SafeUT Operations ([HB373](safeut-utah-code-hb373.md)). The **Utah Attorney General's Office** is a named founding partner and provides **staff support** to the SafeUT and School Safety Commission ([Utah AG page](utah-ag-safeut-far-more-than-an-app.md)).
+
+## Impact
+
+Breadth is one state and depth is the reason the tier is not lower. In FY2025 the program handled **24,716 chats**, **8,220** K-12 and higher-education tips, and **342 emergency interventions** ([annual report](safeut-annual-report-fy25.md)) — and an emergency intervention in a youth suicide-risk context is about as deep as displacement gets per person reached, which is ruling 6's case for depth substituting for breadth.
+
+Permanence rests on statute rather than on goodwill: [HB373 (2019)](safeut-utah-code-hb373.md) *requires* the operating institute to run the line 24/7 with anonymous school reporting and appropriates **$1.77 million** ongoing from the Education Fund. A program a legislature has written into code and funded on an ongoing basis is structurally different from one dependent on a grant cycle, and that is what makes this a change in how the state works rather than a service the state buys.
+
+The counterfactual is the honest limit on the tier. Crisis lines are not scarce — 988 exists nationally, and other states run school tip lines — so the displacement SafeUT causes is not "these 24,716 conversations would not have happened" but the narrower and still real "they would not have reached **licensed master's-level clinicians** through the same channel that also carries anonymous threat tips, with a designated contact at every participating school." That integration of clinical crisis response with school threat reporting in one statutory channel is the part with no obvious substitute.
+
+Two claims that would raise the tier are **not** supported by anything captured here, and the page declines to lean on them: no captured document publishes a count of averted school attacks (only **890** tips categorized as potential school threats), and no capture confirms that another state completed a replication of the model. If replication were established, the breadth argument would change materially.
 
 ## Who It's For
 

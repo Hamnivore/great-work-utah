@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** therapeutic community, addiction recovery, reentry, peer-led rehabilitation, social enterprise, Delancey Street model
 **Roles:** field-skilled-trades, program-project-management, people-operations
 **Primary Location:** Salt Lake City, UT

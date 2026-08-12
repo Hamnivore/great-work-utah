@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** ecommerce, interactive email, embedded checkout, marketing software
 **Roles:** software-engineering, product-design, sales-business-development
 **Stage:** Active startup; Y Combinator W24; team of 13

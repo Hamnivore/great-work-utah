@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** F
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Utah
 **Utah Location:** statewide

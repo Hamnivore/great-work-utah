@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** religious publishing, broadcasting, faith media, LDS Church, radio, television, journalism
 **Roles:** software-engineering, product-design, marketing-communications
 **Stage:** Established (Deseret Book founded 1866; Bonneville founded 1964)

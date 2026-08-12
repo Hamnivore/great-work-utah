@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** A
 **Focus:** audio engineering, signal processing, digital recording, music technology, university spinout
 **Domain:** culture-place, computing
 **Era:** 1975-1985

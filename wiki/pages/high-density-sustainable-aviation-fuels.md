@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Low
+**Tier:** C
 **Focus:** sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense
 **Era:** 2023–present
 **Primary Location:** Salt Lake City, UT

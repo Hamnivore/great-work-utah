@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** cybersecurity, observability, machine data, SIEM, AIOps, enterprise software
 **Identifiers:** cik=0001353283, ein=86-1106510
 **Roles:** software-engineering, hardware-engineering

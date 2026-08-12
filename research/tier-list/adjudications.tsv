@@ -1,0 +1,11 @@
+# Hand adjudications. Read after every batch TSV and allowed to override it.
+# Format: slug<TAB>tier<TAB>reason. Lines starting with # are ignored.
+#
+# Every S and A from the batch run was reviewed by hand; these are the changes. The batch TSVs are
+# left exactly as the raters wrote them, so this file is also the record of where the rubric was
+# wrong rather than the rater.
+#
+# --- A -> B: ruling 4's new counterfactual clause (the prize belongs to the field) -----------------
+curza.md	B	Ceiling is real but not distinctively theirs: a first-in-class Gram-negative ribosome inhibitor would bend global AMR mortality, and several dozen credible groups are pursuing that same prize with comparable funding, so the share this program would actually cause is a sector contribution rather than a field-defining one. Adjudicated down from A under ruling 4's counterfactual clause.
+halia-therapeutics.md	B	Human Phase 2a signal is genuine differentiation over a mechanism story, but NLRP3/NEK7 inflammasome inhibition is a crowded global race including large-pharma programs, so the prize is the field's rather than this page's. Adjudicated down from A under ruling 4's counterfactual clause.
+rodatherm-energy.md	B	Closed-loop access to hot sedimentary basins is a large prize with multiple credible pursuers, and a $38M-funded pilot is a believable premise without being a distinctive claim on the ceiling. Adjudicated down from A under ruling 4's counterfactual clause.

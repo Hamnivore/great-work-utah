@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** direct selling, multi-level marketing, nutritional supplements, personal care, network distribution, contract manufacturing
 **Domain:** health-bio, materials-mfg, culture-place
 **Stage:** Ecosystem / cluster

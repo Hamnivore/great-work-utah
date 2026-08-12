@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** aerospace and defense propellants, missile fuel, rocket propellant, advanced fuels
 **Stage:** Private, venture-backed (amount and date not publicly disclosed)
 **Primary Location:** Salt Lake City, UT

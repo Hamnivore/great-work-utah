@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** military communications, electronic warfare, ISR payloads, tactical radios, SATCOM, contested-environment networking
 **Roles:** software-engineering, manufacturing-operations
 **Stage:** Established; major public defense prime (NYSE: LHX)

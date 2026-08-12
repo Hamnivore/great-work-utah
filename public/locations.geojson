@@ -868,34 +868,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.67,
-          40.12
-        ]
-      },
-      "properties": {
-        "title": "Bidi Contracting",
-        "type": "venture",
-        "url": "/pages/bidi-contracting.md",
-        "siteId": "bidi-contracting:40.120000,-111.670000",
-        "siteIndex": 0,
-        "siteCount": 1,
-        "mapLocation": "Utah County regional anchor (not a street address)",
-        "precision": "approximate",
-        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
-        "anchorKind": "regional",
-        "region": "Utah County",
-        "domains": [
-          "materials-mfg",
-          "computing"
-        ],
-        "focus": "construction estimating, subcontractor discovery, bid management"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -113.069922,
           37.664119
         ]
@@ -8426,6 +8398,34 @@
           "aerospace-defense"
         ],
         "focus": "strategic intelligence, geopolitical risk, economic security, AI, national security"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.67,
+          40.12
+        ]
+      },
+      "properties": {
+        "title": "Struvia",
+        "type": "venture",
+        "url": "/pages/struvia.md",
+        "siteId": "struvia:40.120000,-111.670000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Utah County regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Utah County",
+        "domains": [
+          "materials-mfg",
+          "computing"
+        ],
+        "focus": "AI construction takeoff, estimating, subcontractor bid solicitation and leveling"
       }
     },
     {

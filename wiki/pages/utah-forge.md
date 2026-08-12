@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** A
 **Focus:** enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering
 **Era:** 2014-present
 **Primary Location:** Milford, UT

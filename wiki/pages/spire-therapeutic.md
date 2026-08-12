@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** focused ultrasound neuromodulation, LIFU, chronic pain, treatment-resistant depression, non-invasive brain therapy, Diadem device
 **Roles:** hardware-engineering, manufacturing-operations, clinical-regulatory, sales-business-development, program-project-management
 **Stage:** Phase 2 complete (chronic pain and depression); Phase 3 initiating; clinical studies enrolling

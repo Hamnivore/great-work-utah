@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** fractional CFO, outsourced finance, forecasting, cash-flow management, fundraising prep, outsourced HR
 **Domain:** capital-programs
 **Primary Location:** Salem, UT

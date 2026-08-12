@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** university AI hackathon, two-week remote build, skill-tiered prizes, employer job fair, Ogden
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT

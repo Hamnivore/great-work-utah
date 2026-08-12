@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Close or Exit a Business, Funding, Marketing and Sales
 **Primary Location:** unknown
 **Utah Location:** statewide

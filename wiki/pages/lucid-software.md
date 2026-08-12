@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** B2B SaaS, visual collaboration, diagramming, whiteboarding, enterprise software
 **Identifiers:** cik=0001604171, ein=26-4737100
 **Roles:** software-engineering, hardware-engineering, product-design, sales-business-development

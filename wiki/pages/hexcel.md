@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** advanced materials, aerospace composites, carbon fiber, manufacturing
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations, field-skilled-trades
 **Stage:** Public industrial company

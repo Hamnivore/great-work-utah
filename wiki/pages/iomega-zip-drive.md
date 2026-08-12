@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** C*
 **Focus:** hardware, storage, consumer computing, peripherals, 1990s PC era
 **Era:** Iomega founded 1980; Zip era 1995-early 2000s
 **Primary Location:** Roy, UT

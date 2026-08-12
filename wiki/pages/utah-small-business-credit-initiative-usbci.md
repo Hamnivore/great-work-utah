@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** F
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

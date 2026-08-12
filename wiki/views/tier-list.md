@@ -1,0 +1,536 @@
+# The tier list — Utah work ranked by impact
+
+Every fact page in the corpus on one ladder, ranked by the charter's metric: impact is displacement in joy — depth × breadth, permanence dominating, judged by the **maximum estimated bounds** of the displacement rather than by whether it is good or bad, and always counterfactual. 485/897 pages carry a `**Tier:**`; `source` and `guide` pages take none.
+
+**The 37 pages in S and A are the gems** — start here if you are reading this corpus for the first time or have budget for only a few pages.
+
+Read the ladder correctly or it will mislead you:
+
+- **Tier is the ceiling, not the current quarter.** A pre-revenue company whose plan would reorder an industry outranks a profitable one that would be replaced by a competitor next week.
+- **Tier is magnitude, never sign.** Weapons, surveillance, extraction, and waste disposal rank on how far they could move the world *in either direction*. The direction is argued in each page's prose, never encoded here.
+- **A `*` is the hype-tier bump** — one step, awarded for being disproportionately worth reading. Strip the asterisks and you have the pure displacement ranking.
+- **Within a tier there is no order.** Tiers are the resolution the judgment supports.
+- **A low tier is not a verdict that a page should not exist.** `F` is the right answer for a page that is still the right answer to "who do I call in Cedar City."
+
+Rubric, the nine rulings, and the worked cases: [tiers.md](../meta/tiers.md) · `https://greatutah.work/meta/tiers.md`. The metric itself: [charter.md](../meta/charter.md) · `https://greatutah.work/meta/charter.md`.
+
+## S — world-historic (13)
+
+The world is permanently different and the difference traces to this.
+
+- [Browning Firearms Designs](/pages/browning-firearms-designs.md) · `https://greatutah.work/pages/browning-firearms-designs.md` · work · firearms design, mechanical engineering, defense history, Ogden manufacturing · conf:M
+- [Capecchi Gene Targeting and the Knockout Mouse](/pages/capecchi-gene-targeting.md) · `https://greatutah.work/pages/capecchi-gene-targeting.md` · work · gene targeting, knockout mice, biomedical research, genetics · conf:M
+- [Golden Spike and the First Transcontinental Railroad](/pages/golden-spike-transcontinental-railroad.md) · `https://greatutah.work/pages/golden-spike-transcontinental-railroad.md` · work · rail infrastructure, American West, logistics, national integration · conf:M
+- [Harvey Fletcher and Stereophonic Sound](/pages/harvey-fletcher-stereophonic-sound.md) · `https://greatutah.work/pages/harvey-fletcher-stereophonic-sound.md` · work · acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering · conf:H
+- [Jarvik-7 Artificial Heart](/pages/jarvik-7-artificial-heart.md) · `https://greatutah.work/pages/jarvik-7-artificial-heart.md` · work · medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory s… · conf:H
+- [Kennecott Bingham Canyon Mine](/pages/bingham-canyon-mine.md) · `https://greatutah.work/pages/bingham-canyon-mine.md` · work · mining, copper, mass-mining, industrial engineering, extractive industry · conf:H
+- [Myriad Genetics BRCA Sequencing and Testing](/pages/myriad-genetics-brca.md) · `https://greatutah.work/pages/myriad-genetics-brca.md` · work · hereditary cancer genetics, BRCA testing, gene patents, clinical genomics · conf:M
+- [Northrop Grumman — Promontory Facility](/pages/northrop-grumman-promontory.md) · `https://greatutah.work/pages/northrop-grumman-promontory.md` · venture · solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense · conf:M
+- [Philo Farnsworth and Electronic Television](/pages/philo-farnsworth-television.md) · `https://greatutah.work/pages/philo-farnsworth-television.md` · work · invention, television, electronics, signal scanning, Utah-born inventors · conf:H
+- [Thiokol Solid Rocket Motors](/pages/thiokol-solid-rocket-motors.md) · `https://greatutah.work/pages/thiokol-solid-rocket-motors.md` · work · solid rocket motors, aerospace manufacturing, launch systems, defense industrial base · conf:M
+- [University of Utah Computer Graphics Program](/pages/utah-computer-graphics-program.md) · `https://greatutah.work/pages/utah-computer-graphics-program.md` · work · computer graphics, rendering, human-computer interaction, software history · conf:M
+- [Utah Array BCI Platform](/pages/utah-array-bci-platform.md) · `https://greatutah.work/pages/utah-array-bci-platform.md` · work · brain-computer interfaces, neural engineering, intracortical electrodes, medical devices · conf:M
+- [Utah Population Database](/pages/utah-population-database.md) · `https://greatutah.work/pages/utah-population-database.md` · work · genetic epidemiology, genealogy, medical records, population health infrastructure · conf:M
+
+## A — field-defining (24)
+
+Sets the frontier of a global industry or discipline — or is a live bet whose plausible success is S.
+
+- [309th Software Engineering Group](/pages/309th-software-engineering-group.md) · `https://greatutah.work/pages/309th-software-engineering-group.md` · venture · flight software, weapons software, mission software, DevSecOps, safety-critical systems, Air Force … · conf:M
+- [Blackrock Neurotech](/pages/blackrock-neurotech.md) · `https://greatutah.work/pages/blackrock-neurotech.md` · venture · brain-computer interfaces, neural engineering, medical devices, restoration of motor and speech fun… · conf:M
+- [Conotoxins and Prialt](/pages/conotoxins-and-prialt.md) · `https://greatutah.work/pages/conotoxins-and-prialt.md` · work · drug discovery, molecular neuroscience, venom peptides, non-opioid pain, ion channels · conf:H
+- [Evans & Sutherland](/pages/evans-and-sutherland.md) · `https://greatutah.work/pages/evans-and-sutherland.md` · work · computer graphics, flight simulation, real-time 3D, graphics hardware · conf:M
+- [Fervo Energy](/pages/fervo-energy.md) · `https://greatutah.work/pages/fervo-energy.md` · venture · geothermal energy, grid infrastructure, climate, drilling · conf:M
+- [Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](/pages/flys-eye-hires-cosmic-rays.md) · `https://greatutah.work/pages/flys-eye-hires-cosmic-rays.md` · work · astroparticle physics, cosmic rays, observatories, desert science · conf:M
+- [Great Salt Lake](/pages/great-salt-lake.md) · `https://greatutah.work/pages/great-salt-lake.md` · venture · environmental crisis, water policy, lithium extraction, dust mitigation, ecosystem restoration, Utah · conf:M
+- [H. Tracy Hall's Diamond Presses](/pages/h-tracy-hall-diamond-presses.md) · `https://greatutah.work/pages/h-tracy-hall-diamond-presses.md` · work · materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formati… · conf:H
+- [HELP Clinical Decision Support System](/pages/help-clinical-decision-support-system.md) · `https://greatutah.work/pages/help-clinical-decision-support-system.md` · work · clinical decision support, medical informatics, electronic health records, hospital systems · conf:M
+- [Hill Air Force Base](/pages/hill-air-force-base.md) · `https://greatutah.work/pages/hill-air-force-base.md` · venture · depot maintenance, fighter jet sustainment, ICBM sustainment, flight test, defense engineering work… · conf:M
+- [Intermountain Clinical Quality Improvement](/pages/intermountain-clinical-quality-improvement.md) · `https://greatutah.work/pages/intermountain-clinical-quality-improvement.md` · work · healthcare delivery science, clinical quality improvement, learning health system, process control · conf:M
+- [NSA Utah Data Center](/pages/nsa-utah-data-center.md) · `https://greatutah.work/pages/nsa-utah-data-center.md` · venture · intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national securi… · conf:M
+- [Nusano](/pages/nusano.md) · `https://greatutah.work/pages/nusano.md` · venture · medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, a… · conf:M
+- [Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md) · `https://greatutah.work/pages/pons-fleischmann-cold-fusion.md` · work · scientific ethics, replication, electrochemistry, institutional behavior, science communication · conf:H · `*` bumped for being worth reading
+- [Recursion Pharmaceuticals](/pages/recursion-pharmaceuticals.md) · `https://greatutah.work/pages/recursion-pharmaceuticals.md` · venture · AI drug discovery, life sciences, computational biology · conf:M
+- [Soundstream and Commercial Digital Audio Recording](/pages/soundstream-digital-audio-recording.md) · `https://greatutah.work/pages/soundstream-digital-audio-recording.md` · work · audio engineering, signal processing, digital recording, music technology, university spinout · conf:H
+- [Sundance Institute](/pages/sundance-institute.md) · `https://greatutah.work/pages/sundance-institute.md` · venture · independent film, immersive storytelling, artist development, film festivals, nonprofit arts · conf:M
+- [Telescope Array](/pages/telescope-array-ultra-high-energy-cosmic-rays.md) · `https://greatutah.work/pages/telescope-array-ultra-high-energy-cosmic-rays.md` · venture · astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infras… · conf:M
+- [University of Utah ARPANET Fourth Node](/pages/arpanet-fourth-node.md) · `https://greatutah.work/pages/arpanet-fourth-node.md` · work · internet history, packet switching, computer science, ARPA research · conf:M
+- [Utah FORGE](/pages/utah-forge.md) · `https://greatutah.work/pages/utah-forge.md` · work · enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering · conf:M
+- [Utah Test and Training Range](/pages/utah-test-and-training-range.md) · `https://greatutah.work/pages/utah-test-and-training-range.md` · work · military test ranges, aerospace and defense, restricted airspace, weapons evaluation · conf:M
+- [Utah Test and Training Range (UTTR)](/pages/uttr.md) · `https://greatutah.work/pages/uttr.md` · venture · DoD test ranges, weapons evaluation, hypersonics, cruise missiles, space reentry, restricted airspa… · conf:M
+- [Utah's Direct-Selling Industry](/pages/utah-direct-selling-industry.md) · `https://greatutah.work/pages/utah-direct-selling-industry.md` · venture · direct selling, multi-level marketing, nutritional supplements, personal care, network distribution… · conf:M
+- [Zanskar Geothermal](/pages/zanskar-geothermal.md) · `https://greatutah.work/pages/zanskar-geothermal.md` · venture · geothermal exploration, AI for earth sciences, climate, firm clean power · conf:M
+
+## B — structurally significant (54)
+
+Durably changes how a real sector works, or how a whole state works.
+
+- [Adobe](/pages/adobe.md) · `https://greatutah.work/pages/adobe.md` · venture · creative software, digital media, cloud subscriptions, digital marketing, document management · conf:H
+- [Ancestry](/pages/ancestry.md) · `https://greatutah.work/pages/ancestry.md` · venture · genealogy, family history, consumer genomics, historical records, digitization · conf:M
+- [ARUP Laboratories](/pages/arup-laboratories.md) · `https://greatutah.work/pages/arup-laboratories.md` · venture · clinical laboratory, anatomic pathology, reference testing, esoteric diagnostics, laboratory medici… · conf:M
+- [Best Friends Animal Society](/pages/best-friends-animal-society.md) · `https://greatutah.work/pages/best-friends-animal-society.md` · venture · no-kill animal welfare, animal sanctuary, shelter network, Kanab, national shelter data · conf:L
+- [BioFire Diagnostics](/pages/biofire-diagnostics.md) · `https://greatutah.work/pages/biofire-diagnostics.md` · venture · infectious disease diagnostics, multiplex PCR, syndromic testing, in vitro diagnostics, life scienc… · conf:M
+- [Bunnell Incorporated](/pages/bunnell-incorporated.md) · `https://greatutah.work/pages/bunnell-incorporated.md` · venture · high-frequency jet ventilation, neonatal intensive care, Life Pulse ventilator, pulmonary interstit… · conf:M
+- [BYU-Pathway Worldwide](/pages/byu-pathway.md) · `https://greatutah.work/pages/byu-pathway.md` · venture · online higher education, workforce development, global access, low-cost credentialing, faith-affili… · conf:M
+- [CleanJoule](/pages/cleanjoule.md) · `https://greatutah.work/pages/cleanjoule.md` · venture · sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization · conf:M
+- [Curza](/pages/curza.md) · `https://greatutah.work/pages/curza.md` · venture · antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens · conf:M
+- [Deseret Book / Bonneville International](/pages/deseret-book-bonneville.md) · `https://greatutah.work/pages/deseret-book-bonneville.md` · venture · religious publishing, broadcasting, faith media, LDS Church, radio, television, journalism · conf:M
+- [DigiCert](/pages/digicert.md) · `https://greatutah.work/pages/digicert.md` · venture · public-key infrastructure, certificate lifecycle management, digital trust, DNS, post-quantum secur… · conf:M
+- [Dugway Proving Ground](/pages/dugway-proving-ground.md) · `https://greatutah.work/pages/dugway-proving-ground.md` · work · military test infrastructure, chemical and biological defense, West Desert, defense ethics · conf:M
+- [EIMCO Rocker Shovel Loader](/pages/eimco-rocker-shovel-loader.md) · `https://greatutah.work/pages/eimco-rocker-shovel-loader.md` · work · mining equipment, mechanical engineering, underground mining, industrialization, Salt Lake City man… · conf:H
+- [Electric Power Systems (EPS)](/pages/electric-power-systems.md) · `https://greatutah.work/pages/electric-power-systems.md` · venture · electric aviation, battery propulsion, eVTOL, FAA certification, power electronics · conf:M
+- [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `https://greatutah.work/pages/energy-fuels-white-mesa.md` · venture · uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes · conf:M
+- [EnergySolutions](/pages/energy-solutions.md) · `https://greatutah.work/pages/energy-solutions.md` · venture · nuclear waste management, radioactive waste disposal, decommissioning, environmental services · conf:M
+- [FamilySearch](/pages/familysearch.md) · `https://greatutah.work/pages/familysearch.md` · venture · genealogy, civilizational records, OCR, record linkage, population genetics, scientific infrastruct… · conf:M
+- [Florian Solzbacher](/pages/florian-solzbacher.md) · `https://greatutah.work/pages/florian-solzbacher.md` · person · neuroengineering, brain-computer interfaces, medical devices, university spinouts · conf:M
+- [Halia Therapeutics](/pages/halia-therapeutics.md) · `https://greatutah.work/pages/halia-therapeutics.md` · venture · drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life scie… · conf:M
+- [Hexcel Corporation](/pages/hexcel.md) · `https://greatutah.work/pages/hexcel.md` · venture · advanced materials, aerospace composites, carbon fiber, manufacturing · conf:M
+- [Huntsman Cancer Institute](/pages/huntsman-cancer-institute.md) · `https://greatutah.work/pages/huntsman-cancer-institute.md` · venture · cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, tran… · conf:M
+- [Instructure](/pages/instructure.md) · `https://greatutah.work/pages/instructure.md` · venture · edtech, learning management systems, Canvas LMS, AI in education · conf:M
+- [Intan Technologies](/pages/intan-technologies.md) · `https://greatutah.work/pages/intan-technologies.md` · venture · neural recording, electrophysiology, integrated circuits, neuroscience infrastructure, brain-comput… · conf:M
+- [Jared Rutter](/pages/jared-rutter.md) · `https://greatutah.work/pages/jared-rutter.md` · person · biochemistry, metabolomics, allosteric drug discovery, university commercialization, life sciences · conf:M
+- [L3Harris Salt Lake City](/pages/l3harris-salt-lake.md) · `https://greatutah.work/pages/l3harris-salt-lake.md` · venture · military communications, electronic warfare, ISR payloads, tactical radios, SATCOM, contested-envir… · conf:M
+- [Merit Medical Systems](/pages/merit-medical.md) · `https://greatutah.work/pages/merit-medical.md` · venture · interventional medical devices, catheters, manufacturing, FDA regulated, life sciences · conf:M
+- [MOXIE Solid Oxide Electrolysis Stack](/pages/moxie-solid-oxide-electrolysis-stack.md) · `https://greatutah.work/pages/moxie-solid-oxide-electrolysis-stack.md` · work · space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy · conf:H
+- [Myriad Genetics](/pages/myriad-genetics.md) · `https://greatutah.work/pages/myriad-genetics.md` · venture · molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine · conf:M
+- [Nu Skin Enterprises](/pages/nu-skin.md) · `https://greatutah.work/pages/nu-skin.md` · venture · personal care, nutritional supplements, beauty devices, direct selling, contract manufacturing · conf:H
+- [OxEon Energy](/pages/oxeon-energy.md) · `https://greatutah.work/pages/oxeon-energy.md` · venture · solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry · conf:M
+- [PassiveLogic](/pages/passivelogic.md) · `https://greatutah.work/pages/passivelogic.md` · venture · autonomous buildings, edge AI, digital twins, climate, building controls · conf:M
+- [PhotoPharmics](/pages/photopharmics.md) · `https://greatutah.work/pages/photopharmics.md` · venture · phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology · conf:M
+- [Qualtrics](/pages/qualtrics.md) · `https://greatutah.work/pages/qualtrics.md` · venture · experience management, applied AI, enterprise SaaS, surveys, sentiment analysis · conf:M
+- [Rodatherm Energy](/pages/rodatherm-energy.md) · `https://greatutah.work/pages/rodatherm-energy.md` · venture · geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project develop… · conf:M
+- [SafeUT](/pages/safeut.md) · `https://greatutah.work/pages/safeut.md` · resource · crisis chat, school safety tips, youth mental health, suicide prevention, statewide K-12 and higher… · conf:M
+- [SCI Institute](/pages/sci-institute.md) · `https://greatutah.work/pages/sci-institute.md` · venture · scientific computing, scientific visualization, biomedical computing, open-source research software · conf:M
+- [SkyWest, Inc.](/pages/skywest-inc.md) · `https://greatutah.work/pages/skywest-inc.md` · venture · regional airline, aviation, aircraft leasing, air transportation, commercial aviation · conf:M
+- [Space Dynamics Laboratory](/pages/space-dynamics-laboratory.md) · `https://greatutah.work/pages/space-dynamics-laboratory.md` · venture · space systems, sensors, satellites, defense, student workforce · conf:M
+- [Spiral Jetty](/pages/spiral-jetty.md) · `https://greatutah.work/pages/spiral-jetty.md` · work · Land art, Great Salt Lake, site-specific sculpture, contemporary art · conf:M · `*` bumped for being worth reading
+- [Spire Therapeutics](/pages/spire-therapeutic.md) · `https://greatutah.work/pages/spire-therapeutic.md` · venture · focused ultrasound neuromodulation, LIFU, chronic pain, treatment-resistant depression, non-invasiv… · conf:M
+- [Splunk](/pages/splunk.md) · `https://greatutah.work/pages/splunk.md` · venture · cybersecurity, observability, machine data, SIEM, AIOps, enterprise software · conf:M
+- [Stratos Data Center](/pages/stratos-data-center.md) · `https://greatutah.work/pages/stratos-data-center.md` · work · hyperscale data centers, energy infrastructure, advanced manufacturing · conf:M
+- [SymbioCellTech](/pages/symbiocelltech.md) · `https://greatutah.work/pages/symbiocelltech.md` · venture · Type 1 diabetes, cell therapy, Neo-Islets, mesenchymal stem cells, islet transplantation, regenerat… · conf:M
+- [Teal Drones](/pages/teal-drones.md) · `https://greatutah.work/pages/teal-drones.md` · venture · small unmanned aircraft, ISR, defense, autonomous systems, domestic drone manufacturing · conf:M
+- [Tim Latimer](/pages/tim-latimer.md) · `https://greatutah.work/pages/tim-latimer.md` · person · geothermal energy, enhanced geothermal systems, climate infrastructure, energy transition · conf:M
+- [Torus](/pages/torus.md) · `https://greatutah.work/pages/torus.md` · venture · energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing · conf:M
+- [US Magnesium](/pages/us-magnesium.md) · `https://greatutah.work/pages/us-magnesium.md` · venture · primary magnesium production, critical minerals, Great Salt Lake brine, aerospace and defense metal… · conf:M
+- [Utah Congregate Care Oversight Reform](/pages/utah-congregate-care-oversight-reform.md) · `https://greatutah.work/pages/utah-congregate-care-oversight-reform.md` · work · youth residential treatment, congregate care licensing, restraint and seclusion, state inspection r… · conf:M
+- [Valar Atomics](/pages/valar-atomics.md) · `https://greatutah.work/pages/valar-atomics.md` · venture · microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power · conf:M
+- [Varda Space Industries](/pages/varda-space.md) · `https://greatutah.work/pages/varda-space.md` · venture · in-space manufacturing, microgravity pharmaceuticals, reentry capsules, space logistics · conf:M
+- [Western Governors University](/pages/western-governors-university.md) · `https://greatutah.work/pages/western-governors-university.md` · venture · competency-based education, online degrees, nonprofit higher education, workforce credentials, teac… · conf:M
+- [Williams International](/pages/williams-international.md) · `https://greatutah.work/pages/williams-international.md` · venture · small gas turbine engines, business jet propulsion, cruise missile propulsion, precision manufactur… · conf:M
+- [WordPerfect](/pages/wordperfect.md) · `https://greatutah.work/pages/wordperfect.md` · venture · software, word processing, Utah software history, Silicon Slopes origins · conf:H
+- [WordPerfect and Novell](/pages/wordperfect-and-novell.md) · `https://greatutah.work/pages/wordperfect-and-novell.md` · work · software, word processing, networking, personal computing, Utah Valley · conf:M
+
+## C — substantive and replaceable (121)
+
+Real work at real scale, with a close substitute.
+
+- [3Helix](/pages/3helix.md) · `https://greatutah.work/pages/3helix.md` · venture · collagen hybridizing peptides, diagnostics, drug delivery, histopathology, collagen damage · conf:M
+- [Aaron Skonnard](/pages/aaron-skonnard.md) · `https://greatutah.work/pages/aaron-skonnard.md` · person · developer education, technical training, SaaS, Utah tech ecosystem · conf:M
+- [Acima](/pages/acima.md) · `https://greatutah.work/pages/acima.md` · venture · lease-to-own financing, retail payments, consumer financial technology · conf:L
+- [ACT Aerospace](/pages/act-aerospace.md) · `https://greatutah.work/pages/act-aerospace.md` · venture · aerospace composites, carbon fiber structures, composite manufacturing, aerostructures, defense sup… · conf:M
+- [Altitude Labs](/pages/altitude-labs.md) · `https://greatutah.work/pages/altitude-labs.md` · resource · Entrepreneurship Communities, Relocate a Business to Utah · conf:M
+- [Apa Sherpa's Everest Summits](/pages/apa-sherpa-everest-summits.md) · `https://greatutah.work/pages/apa-sherpa-everest-summits.md` · work · mountaineering, Everest, Sherpa guides, altitude records, retirement · conf:M · `*` bumped for being worth reading
+- [Apprenticeship Utah](/pages/apprenticeship-utah.md) · `https://greatutah.work/pages/apprenticeship-utah.md` · resource · Late Stage Growth · conf:M
+- [Army Short-Range Reconnaissance UAS](/pages/army-short-range-reconnaissance-uas.md) · `https://greatutah.work/pages/army-short-range-reconnaissance-uas.md` · work · defense manufacturing, small drones, ISR, battlefield reconnaissance, domestic industrial base · conf:L
+- [Atavistik Bio](/pages/atavistik-bio.md) · `https://greatutah.work/pages/atavistik-bio.md` · venture · allosteric drug discovery, oncology, precision medicine, structural biology, metabolite-protein int… · conf:M
+- [Atmospheric Waves Experiment](/pages/atmospheric-waves-experiment.md) · `https://greatutah.work/pages/atmospheric-waves-experiment.md` · work · space instrumentation, upper atmosphere, atmospheric physics, Space Dynamics Laboratory, NASA · conf:M
+- [Autonomous Low-Collateral Counter-UAS Interception](/pages/autonomous-low-collateral-counter-uas-interception.md) · `https://greatutah.work/pages/autonomous-low-collateral-counter-uas-interception.md` · work · defense, counter-drone, autonomous systems, air defense, critical infrastructure protection · conf:L
+- [Autonomous Solutions, Inc. (ASI)](/pages/autonomous-solutions-inc.md) · `https://greatutah.work/pages/autonomous-solutions-inc.md` · venture · off-road vehicle autonomy, industrial fleet automation, OEM-agnostic robotics, mining, agriculture,… · conf:M
+- [BambooHR](/pages/bamboohr.md) · `https://greatutah.work/pages/bamboohr.md` · venture · HR software, payroll, benefits, people operations, SMB SaaS · conf:M
+- [Bioparin](/pages/bioparin.md) · `https://greatutah.work/pages/bioparin.md` · venture · synthetic heparin, biomanufacturing, anticoagulants, supply chain resilience, university spinout · conf:M
+- [Blue Raven Solar](/pages/blue-raven-solar.md) · `https://greatutah.work/pages/blue-raven-solar.md` · venture · residential solar, direct-to-consumer installation, Orem Utah operations, SunPower ownership chain · conf:H
+- [Blundell Geothermal Plant](/pages/blundell-geothermal-plant.md) · `https://greatutah.work/pages/blundell-geothermal-plant.md` · venture · geothermal power, utility generation, hydrothermal plant operations, PacifiCorp · conf:M
+- [CaLycia Biosciences](/pages/calycia-biosciences.md) · `https://greatutah.work/pages/calycia-biosciences.md` · venture · macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology · conf:L
+- [Carterra](/pages/carterra.md) · `https://greatutah.work/pages/carterra.md` · venture · surface plasmon resonance, microfluidics, monoclonal antibody characterization, high-throughput bio… · conf:M
+- [Carv](/pages/carv.md) · `https://greatutah.work/pages/carv.md` · venture · wearable ski sensor, real-time biomechanical coaching, Park City North American base, Rust on-device · conf:M · `*` bumped for being worth reading
+- [Chad Testa](/pages/chad-testa.md) · `https://greatutah.work/pages/chad-testa.md` · person · antibiotics, antimicrobial resistance, biotech CEO, mission-driven pharma, Gram-negative bacteria · conf:M
+- [CHOICE Humanitarian](/pages/choice-humanitarian.md) · `https://greatutah.work/pages/choice-humanitarian.md` · helper · international development, village-led poverty alleviation, rural expeditions, Utah nonprofit · conf:M
+- [Clozd](/pages/clozd.md) · `https://greatutah.work/pages/clozd.md` · venture · decision intelligence, customer feedback, win-loss analysis, qualitative research, enterprise softw… · conf:L
+- [CompHealth](/pages/comphealth.md) · `https://greatutah.work/pages/comphealth.md` · venture · locum tenens, physician staffing, rural hospital coverage, temporary clinicians, healthcare workfor… · conf:M
+- [Coreform](/pages/coreform.md) · `https://greatutah.work/pages/coreform.md` · venture · engineering simulation, isogeometric analysis, CAD, finite element analysis, CAE · conf:M
+- [Cosm](/pages/cosm.md) · `https://greatutah.work/pages/cosm.md` · venture · shared reality, immersive entertainment, LED dome venues, real-time rendering, Evans & Sutherland h… · conf:M
+- [Cotopaxi](/pages/cotopaxi.md) · `https://greatutah.work/pages/cotopaxi.md` · venture · outdoor gear, apparel, social enterprise, B Corp, philanthropy · conf:M
+- [Crumbl](/pages/crumbl.md) · `https://greatutah.work/pages/crumbl.md` · venture · cookies, dessert franchise, weekly rotating menu, food tech, franchise systems · conf:M
+- [Culmination Bio](/pages/culmination-bio.md) · `https://greatutah.work/pages/culmination-bio.md` · venture · clinical data platform, longitudinal patient data, drug discovery, diagnostics, biotech spinout · conf:M
+- [Custom Fit Training](/pages/custom-fit-training.md) · `https://greatutah.work/pages/custom-fit-training.md` · resource · Late Stage Growth · conf:M
+- [Cyrq Energy](/pages/cyrq-energy.md) · `https://greatutah.work/pages/cyrq-energy.md` · venture · geothermal power, plant operations, binary-cycle plants, hydrothermal resources · conf:M
+- [Dave Bearss](/pages/dave-bearss.md) · `https://greatutah.work/pages/dave-bearss.md` · person · drug discovery, oncology, inflammation, university translational programs, Utah life sciences · conf:M
+- [Davis Smith](/pages/davis-smith.md) · `https://greatutah.work/pages/davis-smith.md` · person · consumer brand, impact entrepreneurship, Latin America, outdoor industry, poverty alleviation · conf:M
+- [Domo](/pages/domo.md) · `https://greatutah.work/pages/domo.md` · venture · business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS · conf:M
+- [Epic Ventures](/pages/epic-ventures.md) · `https://greatutah.work/pages/epic-ventures.md` · resource · Funding · conf:M
+- [Epitel](/pages/epitel.md) · `https://greatutah.work/pages/epitel.md` · venture · ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monito… · conf:M
+- [Fortem Technologies](/pages/fortem-technologies.md) · `https://greatutah.work/pages/fortem-technologies.md` · venture · counter-UAS, radar, autonomous systems, defense, critical infrastructure · conf:M
+- [Fred Lampropoulos](/pages/fred-lampropoulos.md) · `https://greatutah.work/pages/fred-lampropoulos.md` · person · medical devices, interventional cardiology, manufacturing, founder-operator, public company leaders… · conf:M
+- [Globus Relief](/pages/globus-relief.md) · `https://greatutah.work/pages/globus-relief.md` · venture · medical supply recovery, humanitarian logistics, donated equipment, international health, Salt Lake… · conf:M
+- [Goldman Sachs 1000 Small businesses](/pages/goldman-sachs-1000-small-businesses.md) · `https://greatutah.work/pages/goldman-sachs-1000-small-businesses.md` · resource · Late Stage Growth · conf:M
+- [Grow Utah](/pages/grow-utah.md) · `https://greatutah.work/pages/grow-utah.md` · resource · Entrepreneurship Communities, Funding · conf:M
+- [Halda](/pages/halda.md) · `https://greatutah.work/pages/halda.md` · venture · AI enrollment platform, higher education, K-12 recruitment, student engagement, omnichannel communi… · conf:M
+- [Health Catalyst](/pages/health-catalyst.md) · `https://greatutah.work/pages/health-catalyst.md` · venture · healthcare data analytics, population health, value-based care, clinical data integration · conf:M
+- [High-Density Sustainable Aviation Fuels](/pages/high-density-sustainable-aviation-fuels.md) · `https://greatutah.work/pages/high-density-sustainable-aviation-fuels.md` · work · sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense · conf:L
+- [Hope Squad](/pages/hope-squad.md) · `https://greatutah.work/pages/hope-squad.md` · venture · peer suicide prevention, school mental health, gatekeeper training, Provo, Hope 4 Utah · conf:M
+- [Hypercraft](/pages/hypercraft.md) · `https://greatutah.work/pages/hypercraft.md` · venture · hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles · conf:M
+- [iHub](/pages/ihub.md) · `https://greatutah.work/pages/ihub.md` · resource · startup incubator, founder community, coworking, makerspace, prototype space, commercial kitchen, w… · conf:M
+- [Imagine Learning](/pages/imagine-learning.md) · `https://greatutah.work/pages/imagine-learning.md` · venture · K-12 digital curriculum, language and literacy, English learners, courseware, edtech · conf:M
+- [IMSAR](/pages/imsar.md) · `https://greatutah.work/pages/imsar.md` · venture · synthetic aperture radar, UAS, defense, aerospace, intelligence, manufacturing · conf:M
+- [Inherent Biosciences](/pages/inherent-biosciences.md) · `https://greatutah.work/pages/inherent-biosciences.md` · venture · epigenetic diagnostics, male fertility, sperm function, reproductive health, AI biomarkers · conf:M
+- [Intactis Bio](/pages/intactis-bio.md) · `https://greatutah.work/pages/intactis-bio.md` · venture · biological computing, hybrid biosilicon AI, neuromorphic compute, deep tech · conf:L · `*` bumped for being worth reading
+- [Intergalactic](/pages/intergalactic.md) · `https://greatutah.work/pages/intergalactic.md` · venture · aerospace thermal management, spacecraft systems, environmental control, cleanroom manufacturing, f… · conf:M
+- [Iomega Zip Drive](/pages/iomega-zip-drive.md) · `https://greatutah.work/pages/iomega-zip-drive.md` · work · hardware, storage, consumer computing, peripherals, 1990s PC era · conf:H · `*` bumped for being worth reading
+- [Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md) · `https://greatutah.work/pages/ionic-mt.md` · venture · battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain · conf:M
+- [Iris Biomedical](/pages/iris-biomedical.md) · `https://greatutah.work/pages/iris-biomedical.md` · venture · neural interfaces, BCI hardware, implantable devices, medical device manufacturing, neurotech suppl… · conf:M
+- [IVUmed](/pages/ivumed.md) · `https://greatutah.work/pages/ivumed.md` · resource · global surgery, urology training, teach-the-teacher, low-resource settings, pediatric urology · conf:M
+- [JobNimbus](/pages/jobnimbus.md) · `https://greatutah.work/pages/jobnimbus.md` · venture · contractor business management, roofing CRM, project management, payments, vertical SaaS, construct… · conf:M
+- [Josh James](/pages/josh-james.md) · `https://greatutah.work/pages/josh-james.md` · person · enterprise SaaS, web analytics, business intelligence, Utah tech ecosystem · conf:M
+- [Karl Sun](/pages/karl-sun.md) · `https://greatutah.work/pages/karl-sun.md` · person · B2B SaaS, visual collaboration, enterprise software, founder leadership · conf:M
+- [Kickstart Fund](/pages/kickstart-fund.md) · `https://greatutah.work/pages/kickstart-fund.md` · resource · Funding · conf:M
+- [LiveView Technologies (LVT)](/pages/liveview-technologies.md) · `https://greatutah.work/pages/liveview-technologies.md` · venture · physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscripti… · conf:M
+- [Lucid Software](/pages/lucid-software.md) · `https://greatutah.work/pages/lucid-software.md` · venture · B2B SaaS, visual collaboration, diagramming, whiteboarding, enterprise software · conf:M
+- [MasterControl](/pages/mastercontrol.md) · `https://greatutah.work/pages/mastercontrol.md` · venture · quality management software, manufacturing execution systems, life sciences compliance, GxP, regula… · conf:M
+- [Mercato Partners](/pages/mercato-partners.md) · `https://greatutah.work/pages/mercato-partners.md` · resource · Funding, Late Stage Growth · conf:M
+- [Mountain Heights Academy](/pages/mountain-heights-academy.md) · `https://greatutah.work/pages/mountain-heights-academy.md` · resource · online charter school, open educational resources, Utah grades 7-12, digital learning · conf:M
+- [Music AI (Moises)](/pages/music-ai.md) · `https://greatutah.work/pages/music-ai.md` · venture · AI music tools, audio source separation, voice cloning, music generation, creative technology · conf:M
+- [MX Technologies](/pages/mx-technologies.md) · `https://greatutah.work/pages/mx-technologies.md` · venture · open banking, financial data, account aggregation, fintech API platform · conf:M
+- [Neighbor](/pages/neighbor.md) · `https://greatutah.work/pages/neighbor.md` · venture · peer-to-peer storage, parking marketplace, local asset utilization · conf:L
+- [Nucleus Grow](/pages/nucleus-grow.md) · `https://greatutah.work/pages/nucleus-grow.md` · resource · SBIR, STTR, non-dilutive funding, deep tech, research commercialization · conf:M
+- [O.C. Tanner](/pages/oc-tanner.md) · `https://greatutah.work/pages/oc-tanner.md` · venture · employee recognition, corporate culture, HR technology, workplace engagement · conf:M
+- [Omniture Web Analytics](/pages/omniture-web-analytics.md) · `https://greatutah.work/pages/omniture-web-analytics.md` · work · software, SaaS, web analytics, digital marketing, enterprise software · conf:H
+- [Orbit Irrigation Products](/pages/orbit-irrigation-products.md) · `https://greatutah.work/pages/orbit-irrigation-products.md` · venture · residential irrigation, smart watering, sprinklers, drip irrigation, water conservation, B-hyve · conf:M
+- [Ormat Technologies](/pages/ormat-technologies.md) · `https://greatutah.work/pages/ormat-technologies.md` · venture · geothermal energy, geothermal plant operations, binary-cycle equipment manufacturing, grid infrastr… · conf:M
+- [Overstock.com](/pages/overstock-com.md) · `https://greatutah.work/pages/overstock-com.md` · venture · e-commerce, online retail, home goods, blockchain assets, Utah tech anchor · conf:M
+- [Owlet Baby Care](/pages/owlet-baby-care.md) · `https://greatutah.work/pages/owlet-baby-care.md` · venture · infant health monitoring, connected nursery, consumer medtech, wearables, FDA-regulated devices · conf:M
+- [Palladyne AI](/pages/palladyne-ai.md) · `https://greatutah.work/pages/palladyne-ai.md` · venture · embodied AI, collaborative autonomy, edge inference, defense technology, robotics · conf:M
+- [Pelion Ventures](/pages/pelion-ventures.md) · `https://greatutah.work/pages/pelion-ventures.md` · resource · Funding · conf:M
+- [Peterson Ventures](/pages/peterson-ventures.md) · `https://greatutah.work/pages/peterson-ventures.md` · resource · Funding · conf:M
+- [Pluralsight](/pages/pluralsight.md) · `https://greatutah.work/pages/pluralsight.md` · venture · edtech, skills training, workforce upskilling, AI learning, enterprise L&D · conf:M
+- [Podium](/pages/podium.md) · `https://greatutah.work/pages/podium.md` · venture · customer communication, SaaS, local business software, SMS, reviews, payments · conf:M
+- [Primary Children's Hospital](/pages/primary-childrens-hospital.md) · `https://greatutah.work/pages/primary-childrens-hospital.md` · resource · pediatric hospital care, complex illness and injury, pediatric education and research · conf:M
+- [RAM Aviation, Space & Defense](/pages/ram-aviation-space-defense.md) · `https://greatutah.work/pages/ram-aviation-space-defense.md` · venture · propulsion valves, precision manufacturing, spacecraft components, fluid control, aerospace supply … · conf:M
+- [Rebel Medicine](/pages/rebel-medicine.md) · `https://greatutah.work/pages/rebel-medicine.md` · venture · non-opioid pain, postoperative analgesia, extended-release drug delivery, bupivacaine formulation, … · conf:M
+- [Ripple Neuro](/pages/ripple-neuro.md) · `https://greatutah.work/pages/ripple-neuro.md` · venture · neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology · conf:M
+- [Ryan Smith (Qualtrics)](/pages/ryan-smith-qualtrics.md) · `https://greatutah.work/pages/ryan-smith-qualtrics.md` · person · enterprise software, experience management, Utah tech ecosystem, civic leadership · conf:M
+- [SalesRabbit](/pages/salesrabbit.md) · `https://greatutah.work/pages/salesrabbit.md` · venture · field sales software, canvassing, sales operations · conf:L
+- [Sarcos Technology and Robotics Corporation](/pages/sarcos-technology-and-robotics.md) · `https://greatutah.work/pages/sarcos-technology-and-robotics.md` · venture · robotics, industrial automation, defense, exoskeletons, teleoperation · conf:M
+- [SBA Thrive](/pages/sba-thrive.md) · `https://greatutah.work/pages/sba-thrive.md` · resource · Late Stage Growth · conf:M
+- [SchoolAI](/pages/schoolai.md) · `https://greatutah.work/pages/schoolai.md` · venture · AI in education, personalized learning, K-12 edtech, teacher tools, classroom AI safety · conf:M
+- [Signal Peak Ventures](/pages/signal-peak-ventures.md) · `https://greatutah.work/pages/signal-peak-ventures.md` · resource · Funding · conf:M
+- [Skullcandy](/pages/skullcandy.md) · `https://greatutah.work/pages/skullcandy.md` · venture · consumer audio, headphones, earbuds, lifestyle brand, action sports · conf:M
+- [Sky Quarry](/pages/sky-quarry.md) · `https://greatutah.work/pages/sky-quarry.md` · venture · asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen reco… · conf:M
+- [Spectrum Solutions](/pages/spectrum-solutions.md) · `https://greatutah.work/pages/spectrum-solutions.md` · venture · saliva collection devices, SDNA-1000, COVID-19 specimen collection, microbial nucleic acid stabiliz… · conf:H
+- [Startup Ignition Ventures](/pages/startup-ignition-ventures.md) · `https://greatutah.work/pages/startup-ignition-ventures.md` · resource · Funding · conf:M
+- [Strider Technologies](/pages/strider-technologies.md) · `https://greatutah.work/pages/strider-technologies.md` · venture · strategic intelligence, geopolitical risk, economic security, AI, national security · conf:M
+- [Suazo Business Center](/pages/suazo-business-center.md) · `https://greatutah.work/pages/suazo-business-center.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Sword Health](/pages/sword-health.md) · `https://greatutah.work/pages/sword-health.md` · venture · digital health, musculoskeletal care, physical therapy, remote care, AI-powered rehabilitation · conf:M
+- [Talent Ready Utah](/pages/talent-ready-utah.md) · `https://greatutah.work/pages/talent-ready-utah.md` · resource · Late Stage Growth · conf:M
+- [Tandem Ventures](/pages/tandem-ventures.md) · `https://greatutah.work/pages/tandem-ventures.md` · resource · Funding · conf:M
+- [TCN](/pages/tcn.md) · `https://greatutah.work/pages/tcn.md` · venture · cloud contact centers, customer communications, call-center software · conf:L
+- [Techcyte](/pages/techcyte.md) · `https://greatutah.work/pages/techcyte.md` · venture · digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary dia… · conf:M
+- [TELLUS Networked Sensor Solutions](/pages/tellus.md) · `https://greatutah.work/pages/tellus.md` · venture · air quality monitoring, environmental sensing, low-cost sensors, calibration, public health infrast… · conf:M
+- [The INN Between](/pages/the-inn-between.md) · `https://greatutah.work/pages/the-inn-between.md` · venture · medical respite, end-of-life care, homelessness, hospice housing, Salt Lake City · conf:M
+- [The Other Side Academy](/pages/the-other-side-academy.md) · `https://greatutah.work/pages/the-other-side-academy.md` · venture · therapeutic community, addiction recovery, reentry, peer-led rehabilitation, social enterprise, Del… · conf:M
+- [US Synthetic](/pages/us-synthetic.md) · `https://greatutah.work/pages/us-synthetic.md` · venture · synthetic diamond, polycrystalline diamond cutters, high-pressure high-temperature synthesis, drill… · conf:M
+- [USANA Health Sciences](/pages/usana.md) · `https://greatutah.work/pages/usana.md` · venture · nutritional supplements, skincare, direct selling, health-product manufacturing · conf:H
+- [Utah Arch Research Group](/pages/utah-arch.md) · `https://greatutah.work/pages/utah-arch.md` · venture · hardware architecture, ML accelerators, fully homomorphic encryption, privacy-preserving ML, 3D nan… · conf:M
+- [Utah Film Industry](/pages/utah-film-industry.md) · `https://greatutah.work/pages/utah-film-industry.md` · venture · film production, location services, tax incentives, crew base, visual storytelling, landscape · conf:M
+- [Utah Governor's Office of Economic Opportunity](/pages/utah-governor-s-office-of-economic-opportunity.md) · `https://greatutah.work/pages/utah-governor-s-office-of-economic-opportunity.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Utah Innovation Center](/pages/utah-innovation-center.md) · `https://greatutah.work/pages/utah-innovation-center.md` · resource · Funding · conf:M
+- [Utah MEP](/pages/utah-mep.md) · `https://greatutah.work/pages/utah-mep.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Utah Neurorobotics Lab](/pages/utah-neurorobotics-lab.md) · `https://greatutah.work/pages/utah-neurorobotics-lab.md` · venture · neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical transla… · conf:M
+- [Utah SBDC](/pages/utah-sbdc.md) · `https://greatutah.work/pages/utah-sbdc.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative.md` · resource · small business lending, capital access, lender-backed capital, underserved founders · conf:M
+- [Vector](/pages/vector.md) · `https://greatutah.work/pages/vector.md` · venture · attritable drones, special operations, fiber-optic FPV, electronic warfare resilience, modern warfa… · conf:M
+- [Vivint Smart Home](/pages/vivint-smart-home.md) · `https://greatutah.work/pages/vivint-smart-home.md` · venture · smart home, home security, IoT, professional monitoring, consumer hardware · conf:M
+- [WAVE (Wireless Advanced Vehicle Electrification)](/pages/wave-inc.md) · `https://greatutah.work/pages/wave-inc.md` · venture · wireless charging, fleet electrification, inductive power transfer, transit, logistics · conf:M
+- [Wavetronix](/pages/wavetronix.md) · `https://greatutah.work/pages/wavetronix.md` · venture · intelligent transportation systems, radar, traffic safety, infrastructure, manufacturing · conf:M
+- [Weave](/pages/weave.md) · `https://greatutah.work/pages/weave.md` · venture · applied AI, vertical SaaS, healthcare communications, voice AI, payments · conf:M
+- [Women's Business Center of Utah](/pages/womens-business-center-of-utah.md) · `https://greatutah.work/pages/womens-business-center-of-utah.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth, Start a Business · conf:M
+- [Workfront](/pages/workfront.md) · `https://greatutah.work/pages/workfront.md` · venture · enterprise work management, marketing operations, project management, Adobe Experience Cloud · conf:M
+- [YESCO](/pages/yesco.md) · `https://greatutah.work/pages/yesco.md` · venture · electric signs, neon, custom signage, sign service, billboards, Las Vegas Strip signage, architectu… · conf:M · `*` bumped for being worth reading
+
+## D — local (232)
+
+Real to the people in the room, and it stops at the walls.
+
+- [1 Million Cups (Orem)](/pages/1-million-cups-orem.md) · `https://greatutah.work/pages/1-million-cups-orem.md` · resource · Entrepreneurship Communities, Start a Business · conf:M
+- [47G - Utah Aerospace & Defense Association](/pages/47g-utah-aerospace-and-defense-association.md) · `https://greatutah.work/pages/47g-utah-aerospace-and-defense-association.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [A Bolder Way Forward](/pages/a-bolder-way-forward.md) · `https://greatutah.work/pages/a-bolder-way-forward.md` · resource · Other · conf:M
+- [AI Builder Day](/pages/ai-builder-day.md) · `https://greatutah.work/pages/ai-builder-day.md` · resource · AI hackathon, sponsor bounty tracks, beginner onboarding, team formation, Utah County · conf:M
+- [Album](/pages/album.md) · `https://greatutah.work/pages/album.md` · resource · Funding · conf:M
+- [Apa Sherpa Foundation](/pages/apa-sherpa-foundation.md) · `https://greatutah.work/pages/apa-sherpa-foundation.md` · resource · Nepal education, Khumbu region, Sherpa community development, 501(c)(3) philanthropy · conf:M
+- [Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md) · `https://greatutah.work/pages/atwood-innovation-plaza.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [auticon US](/pages/auticon-us.md) · `https://greatutah.work/pages/auticon-us.md` · venture · IT consulting, neuroinclusion, autistic employment, software development, quality assurance, data s… · conf:M
+- [Baxter Aerospace](/pages/baxter-aerospace.md) · `https://greatutah.work/pages/baxter-aerospace.md` · venture · unmanned aircraft, deployable communications, ISR, defense, emergency response, advanced manufactur… · conf:M
+- [BBCetc](/pages/bbcetc.md) · `https://greatutah.work/pages/bbcetc.md` · helper · SBIR, STTR, nondilutive funding, proposal support, grant training, post-award management · conf:M
+- [Bear Lake Regional Commission](/pages/bear-lake-regional-commission.md) · `https://greatutah.work/pages/bear-lake-regional-commission.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Bear Lake Valley Chamber of Commerce](/pages/bear-lake-valley-chamber-of-commerce.md) · `https://greatutah.work/pages/bear-lake-valley-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Bear River Association of Governments](/pages/bear-river-association-of-governments.md) · `https://greatutah.work/pages/bear-river-association-of-governments.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Best of State Awards](/pages/best-of-state-awards.md) · `https://greatutah.work/pages/best-of-state-awards.md` · resource · awards program, recognition, Utah organizations, self-nomination, evidence calibration · conf:M
+- [BIG Chamber (Beaver, Iron, Garfield)](/pages/big-chamber-beaver-iron-garfield.md) · `https://greatutah.work/pages/big-chamber-beaver-iron-garfield.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [BIO Utah](/pages/bio-utah.md) · `https://greatutah.work/pages/bio-utah.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [BIOHive Utah](/pages/biohive-utah.md) · `https://greatutah.work/pages/biohive-utah.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Box Elder Chamber of Commerce](/pages/box-elder-chamber-of-commerce.md) · `https://greatutah.work/pages/box-elder-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Brigham City Economic Development](/pages/brigham-city-economic-development.md) · `https://greatutah.work/pages/brigham-city-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Brigham Young University (BYU) - Rollins Center](/pages/brigham-young-university-byu-rollins-center.md) · `https://greatutah.work/pages/brigham-young-university-byu-rollins-center.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md) · `https://greatutah.work/pages/business-resource-center-davis-tech-college.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Business Resource Center - Utah Tech University](/pages/business-resource-center-utah-tech-university.md) · `https://greatutah.work/pages/business-resource-center-utah-tech-university.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Business Technical Assistance Center](/pages/business-technical-assistance-center.md) · `https://greatutah.work/pages/business-technical-assistance-center.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Cache Valley Chamber of Commerce](/pages/cache-valley-chamber-of-commerce.md) · `https://greatutah.work/pages/cache-valley-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Carbon County Chamber of Commerce](/pages/carbon-county-chamber-of-commerce.md) · `https://greatutah.work/pages/carbon-county-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Carbon County Economic Development](/pages/carbon-county-economic-development.md) · `https://greatutah.work/pages/carbon-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Cedar City Area Chamber of Commerce](/pages/cedar-city-area-chamber-of-commerce.md) · `https://greatutah.work/pages/cedar-city-area-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Church and State](/pages/church-and-state.md) · `https://greatutah.work/pages/church-and-state.md` · resource · Entrepreneurship Communities · conf:M
+- [Clearfield Job Corps](/pages/clearfield-job-corps.md) · `https://greatutah.work/pages/clearfield-job-corps.md` · resource · Late Stage Growth · conf:M
+- [Clint Betts](/pages/clint-betts.md) · `https://greatutah.work/pages/clint-betts.md` · person · Utah journalism, technology-community organizing, publishing · conf:M · `*` bumped for being worth reading
+- [Code Adventure Utah](/pages/code-adventure-utah.md) · `https://greatutah.work/pages/code-adventure-utah.md` · resource · girls coding camp, youth technology education, software engineering, cybersecurity, data analytics,… · conf:M
+- [Convoi Ventures](/pages/convoi-ventures.md) · `https://greatutah.work/pages/convoi-ventures.md` · resource · Funding · conf:M
+- [Cross Creek](/pages/cross-creek.md) · `https://greatutah.work/pages/cross-creek.md` · resource · Funding, Late Stage Growth · conf:M
+- [CTO Breakfast Utah](/pages/cto-breakfast-utah.md) · `https://greatutah.work/pages/cto-breakfast-utah.md` · resource · technology leadership peer group, monthly breakfast, Chatham House Rules, Utah County · conf:M · `*` bumped for being worth reading
+- [CycloKinetics](/pages/cyclokinetics.md) · `https://greatutah.work/pages/cyclokinetics.md` · venture · aerospace and defense propellants, missile fuel, rocket propellant, advanced fuels · conf:L
+- [Davis Chamber of Commerce](/pages/davis-chamber-of-commerce.md) · `https://greatutah.work/pages/davis-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Davis County Economic Development](/pages/davis-county-economic-development.md) · `https://greatutah.work/pages/davis-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Delta Area Chamber of Commerce](/pages/delta-area-chamber-of-commerce.md) · `https://greatutah.work/pages/delta-area-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [EDCUtah - Economic Development Corporation of Utah](/pages/edcutah-economic-development-corporation-of-utah.md) · `https://greatutah.work/pages/edcutah-economic-development-corporation-of-utah.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Eden Technologies](/pages/eden-technologies.md) · `https://greatutah.work/pages/eden-technologies.md` · venture · water desalination, reverse osmosis, centrifuge efficiency, water scarcity, Southwest water · conf:L
+- [Eide Bailly (Utah)](/pages/eide-bailly-utah.md) · `https://greatutah.work/pages/eide-bailly-utah.md` · helper · accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory · conf:M
+- [Emery County Economic Development](/pages/emery-county-economic-development.md) · `https://greatutah.work/pages/emery-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [EnduraCure](/pages/enduracure.md) · `https://greatutah.work/pages/enduracure.md` · venture · degradable polymers, flexible electronics, e-waste, materials science, recyclable substrates · conf:M
+- [EVENT: Business Forward](/pages/event-business-forward.md) · `https://greatutah.work/pages/event-business-forward.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [EVENT: Grand Summit Moab](/pages/event-grand-summit-moab.md) · `https://greatutah.work/pages/event-grand-summit-moab.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [EVENT: Mountain West Capital Network](/pages/event-mountain-west-capital-network.md) · `https://greatutah.work/pages/event-mountain-west-capital-network.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [EVENT: One Utah Summit](/pages/event-one-utah-summit.md) · `https://greatutah.work/pages/event-one-utah-summit.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [EVENT: Raising Kane Business Summit](/pages/event-raising-kane-business-summit.md) · `https://greatutah.work/pages/event-raising-kane-business-summit.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [EVENT: Silicon Slopes Tech Summit](/pages/event-silicon-slopes-tech-summit.md) · `https://greatutah.work/pages/event-silicon-slopes-tech-summit.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [EVENT: Utah Tech Week](/pages/event-utah-tech-week.md) · `https://greatutah.work/pages/event-utah-tech-week.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [EVENT: What's Up Down South - Economic Summit](/pages/event-what-s-up-down-south-economic-summit.md) · `https://greatutah.work/pages/event-what-s-up-down-south-economic-summit.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Federal Economic Development Administration](/pages/federal-economic-development-administration.md) · `https://greatutah.work/pages/federal-economic-development-administration.md` · resource · Other · conf:M
+- [Five County Association of Governments](/pages/five-county-association-of-governments.md) · `https://greatutah.work/pages/five-county-association-of-governments.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Flaming Gorge Chamber of Commerce](/pages/flaming-gorge-chamber-of-commerce.md) · `https://greatutah.work/pages/flaming-gorge-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Forge Utah](/pages/forge-utah.md) · `https://greatutah.work/pages/forge-utah.md` · resource · developer community, meetups, hack nights, engineering leadership roundtables, conference, statewid… · conf:M · `*` bumped for being worth reading
+- [Fourth Street Clinic](/pages/fourth-street-clinic.md) · `https://greatutah.work/pages/fourth-street-clinic.md` · resource · integrated health care for people experiencing homelessness · conf:M
+- [Furnace](/pages/furnace-outbound.md) · `https://greatutah.work/pages/furnace-outbound.md` · venture · outbound sales, email infrastructure, campaign operations · conf:M
+- [FutureReady Utah](/pages/futureready-utah.md) · `https://greatutah.work/pages/futureready-utah.md` · resource · Other · conf:M
+- [Grand County Economic Development](/pages/grand-county-economic-development.md) · `https://greatutah.work/pages/grand-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Greater Nephi Chamber of Commerce](/pages/greater-nephi-chamber-of-commerce.md) · `https://greatutah.work/pages/greater-nephi-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Grix](/pages/grix.md) · `https://greatutah.work/pages/grix.md` · resource · Funding · conf:M
+- [Heber City Community Alliance for Main Street](/pages/heber-city-community-alliance-for-main-street.md) · `https://greatutah.work/pages/heber-city-community-alliance-for-main-street.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Heber Valley Chamber of Commerce](/pages/heber-valley-chamber-of-commerce.md) · `https://greatutah.work/pages/heber-valley-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Heber Valley Economic Development](/pages/heber-valley-economic-development.md) · `https://greatutah.work/pages/heber-valley-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Helpside](/pages/helpside.md) · `https://greatutah.work/pages/helpside.md` · venture · small-business infrastructure, payroll, benefits, human resources, professional employer organizati… · conf:M
+- [Huntsman World Senior Games](/pages/huntsman-world-senior-games.md) · `https://greatutah.work/pages/huntsman-world-senior-games.md` · venture · senior athletics, multi-sport competition, active aging, St. George, international amateur sports · conf:M
+- [Hurricane Valley Chamber of Commerce](/pages/hurricane-valley-chamber-of-commerce.md) · `https://greatutah.work/pages/hurricane-valley-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Indie Square](/pages/indie-square.md) · `https://greatutah.work/pages/indie-square.md` · resource · Entrepreneurship Communities, Other · conf:M
+- [International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md) · `https://greatutah.work/pages/international-trade-and-diplomacy.md` · resource · exports, international expansion, trade missions, foreign investment, diplomacy · conf:M
+- [Iron County Economic Development](/pages/iron-county-economic-development.md) · `https://greatutah.work/pages/iron-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Juab County Economic Development](/pages/juab-county-economic-development.md) · `https://greatutah.work/pages/juab-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Jump Aero](/pages/jump-aero.md) · `https://greatutah.work/pages/jump-aero.md` · venture · eVTOL, emergency medical services, air ambulance, remote access · conf:L
+- [JustBuild](/pages/justbuild.md) · `https://greatutah.work/pages/justbuild.md` · resource · founder community, AI builders, cofounder discovery, hackathons, coworking, Slack · conf:M
+- [Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md) · `https://greatutah.work/pages/kem-c-gardner-policy-institute.md` · resource · Other · conf:M
+- [KEVA Locks](/pages/keva-locks.md) · `https://greatutah.work/pages/keva-locks.md` · venture · smart locks, rental access, property operations · conf:M
+- [Kiln](/pages/kiln.md) · `https://greatutah.work/pages/kiln.md` · resource · Entrepreneurship Communities · conf:M
+- [Kinect Capital](/pages/kinect-capital.md) · `https://greatutah.work/pages/kinect-capital.md` · resource · Entrepreneurship Communities, Funding · conf:M
+- [Kirton McConkie](/pages/kirton-mcconkie.md) · `https://greatutah.work/pages/kirton-mcconkie.md` · helper · startup law, corporate formation, venture financing, M&A, securities, IP, general counsel · conf:M
+- [Leland](/pages/leland.md) · `https://greatutah.work/pages/leland.md` · venture · career coaching, expert marketplace, AI education, professional development, community learning · conf:L
+- [Les Olson IT](/pages/les-olson-it.md) · `https://greatutah.work/pages/les-olson-it.md` · venture · managed IT, cybersecurity, office technology, cloud and network services · conf:L
+- [LiaLaunch](/pages/lialaunch.md) · `https://greatutah.work/pages/lialaunch.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Logan City Economic Development](/pages/logan-city-economic-development.md) · `https://greatutah.work/pages/logan-city-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Make Salt Lake](/pages/make-salt-lake.md) · `https://greatutah.work/pages/make-salt-lake.md` · resource · Entrepreneurship Communities · conf:M
+- [Make Utah](/pages/make-utah.md) · `https://greatutah.work/pages/make-utah.md` · resource · hard-tech incubator, makerspace, prototype space, R&D workspace, manufacturing, founder community · conf:M
+- [Maschoff Brennan](/pages/maschoff-brennan.md) · `https://greatutah.work/pages/maschoff-brennan.md` · helper · IP, patents, technology transactions, software, biotech, medical devices, deep tech · conf:M
+- [Maven CREATE](/pages/maven-create.md) · `https://greatutah.work/pages/maven-create.md` · resource · Entrepreneurship Communities · conf:M
+- [Military Installation Development Authority](/pages/military-installation-development-authority.md) · `https://greatutah.work/pages/military-installation-development-authority.md` · resource · military land development, project-area governance, public infrastructure, economic development · conf:M
+- [Moab Chamber of Commerce](/pages/moab-chamber-of-commerce.md) · `https://greatutah.work/pages/moab-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Monarch](/pages/monarch.md) · `https://greatutah.work/pages/monarch.md` · resource · Entrepreneurship Communities · conf:M
+- [Monticello Coworking Space](/pages/monticello-coworking-space.md) · `https://greatutah.work/pages/monticello-coworking-space.md` · resource · Entrepreneurship Communities · conf:M
+- [Morgan County Economic Development](/pages/morgan-county-economic-development.md) · `https://greatutah.work/pages/morgan-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Mountain Land Association of Governments' Revolving Loan Fund (RLF)](/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md) · `https://greatutah.work/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md` · resource · Funding · conf:M
+- [Mountainland Association of Governments](/pages/mountainland-association-of-governments.md) · `https://greatutah.work/pages/mountainland-association-of-governments.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Neumont College of Computer Science](/pages/neumont-college-of-computer-science.md) · `https://greatutah.work/pages/neumont-college-of-computer-science.md` · venture · project-based computer science degrees, accelerated undergraduate model, employer enterprise projec… · conf:H
+- [Northern Utah .NET Users Group](/pages/northern-utah-dotnet-users-group.md) · `https://greatutah.work/pages/northern-utah-dotnet-users-group.md` · resource · .NET software development, peer learning, technical meetups, AI-assisted development · conf:M
+- [Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md) · `https://greatutah.work/pages/northern-utah-economic-alliance.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [NOW CFO](/pages/now-cfo.md) · `https://greatutah.work/pages/now-cfo.md` · helper · fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance opera… · conf:M
+- [Nucleus Fund](/pages/nucleus-fund.md) · `https://greatutah.work/pages/nucleus-fund.md` · resource · early-stage capital, deep tech, university spinouts, commercialization · conf:M
+- [Nucleus Institute](/pages/nucleus-institute.md) · `https://greatutah.work/pages/nucleus-institute.md` · helper · commercialization, talent matching, early-stage capital, research translation, Utah innovation · conf:M
+- [Nucleus MarketEdge](/pages/nucleus-marketedge.md) · `https://greatutah.work/pages/nucleus-marketedge.md` · resource · research commercialization, professors, PhDs, postdocs, market discovery · conf:M
+- [Ogden-Weber Chamber of Commerce](/pages/ogden-weber-chamber-of-commerce.md) · `https://greatutah.work/pages/ogden-weber-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Orem Library Makerspace](/pages/orem-library-makerspace.md) · `https://greatutah.work/pages/orem-library-makerspace.md` · resource · public makerspace, 3D printing, media digitization, podcast recording, creative software, equipment… · conf:H
+- [Pacific Island Chamber of Commerce (PICC)](/pages/pacific-island-chamber-of-commerce-picc.md) · `https://greatutah.work/pages/pacific-island-chamber-of-commerce-picc.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Park City Angels](/pages/park-city-angels.md) · `https://greatutah.work/pages/park-city-angels.md` · resource · Funding · conf:M
+- [Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md) · `https://greatutah.work/pages/park-city-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Parsons Behle & Latimer](/pages/parsons-behle-latimer.md) · `https://greatutah.work/pages/parsons-behle-latimer.md` · helper · technology law, IP transactions, licensing, securities, emerging companies, venture financing · conf:M
+- [Portal Warehousing](/pages/portal-warehousing.md) · `https://greatutah.work/pages/portal-warehousing.md` · resource · Entrepreneurship Communities · conf:M
+- [Preferred CFO](/pages/preferred-cfo.md) · `https://greatutah.work/pages/preferred-cfo.md` · helper · fractional CFO, outsourced finance, forecasting, cash-flow management, fundraising prep, outsourced… · conf:M
+- [R6 Regional Council](/pages/r6-regional-council.md) · `https://greatutah.work/pages/r6-regional-council.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Red Rock Angels](/pages/red-rock-angels.md) · `https://greatutah.work/pages/red-rock-angels.md` · resource · Funding · conf:M
+- [Renaissance Ag](/pages/renaissance-ag.md) · `https://greatutah.work/pages/renaissance-ag.md` · venture · hydroponic livestock feed, water efficiency, arid-land agriculture, climate-smart ag, hardware · conf:M
+- [Renewable Tech Ventures](/pages/renewable-tech-ventures.md) · `https://greatutah.work/pages/renewable-tech-ventures.md` · resource · Funding, Other · conf:M
+- [RevRoad](/pages/revroad.md) · `https://greatutah.work/pages/revroad.md` · resource · Funding · conf:M
+- [Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md) · `https://greatutah.work/pages/richfield-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Rotor](/pages/rotor.md) · `https://greatutah.work/pages/rotor.md` · venture · home-services CRM, recurring revenue, field-service software, sales automation, vertical SaaS · conf:L
+- [RQM+](/pages/rqm-plus.md) · `https://greatutah.work/pages/rqm-plus.md` · helper · medical devices, diagnostics, regulatory affairs, quality systems, clinical trials, reimbursement, … · conf:M
+- [Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md) · `https://greatutah.work/pages/rural-utah-chamber-coalition.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Ryan Smith (IMSAR)](/pages/ryan-smith-imsar.md) · `https://greatutah.work/pages/ryan-smith-imsar.md` · person · RF engineering, synthetic aperture radar, defense technology, hardware startups · conf:M
+- [Salt Lake Angels](/pages/salt-lake-angels.md) · `https://greatutah.work/pages/salt-lake-angels.md` · resource · Funding · conf:M
+- [Salt Lake Chamber](/pages/salt-lake-chamber.md) · `https://greatutah.work/pages/salt-lake-chamber.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Salt Lake Community College (SLCC) - The Mill](/pages/salt-lake-community-college-slcc-the-mill.md) · `https://greatutah.work/pages/salt-lake-community-college-slcc-the-mill.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Salt Mine](/pages/salt-mine.md) · `https://greatutah.work/pages/salt-mine.md` · resource · Entrepreneurship Communities · conf:M
+- [San Juan County Chamber of Commerce](/pages/san-juan-county-chamber-of-commerce.md) · `https://greatutah.work/pages/san-juan-county-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [San Juan County Economic Development](/pages/san-juan-county-economic-development.md) · `https://greatutah.work/pages/san-juan-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Sandbox](/pages/sandbox.md) · `https://greatutah.work/pages/sandbox.md` · venture · entrepreneurship education, venture building, university partnerships, software startups, for-credi… · conf:M
+- [Sanpete Chamber of Commerce](/pages/sanpete-chamber-of-commerce.md) · `https://greatutah.work/pages/sanpete-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Savory Fund](/pages/savory-fund.md) · `https://greatutah.work/pages/savory-fund.md` · resource · Funding, Late Stage Growth · conf:M
+- [SBA Utah District Office](/pages/sba-utah-district-office.md) · `https://greatutah.work/pages/sba-utah-district-office.md` · resource · Funding, Late Stage Growth, Start a Business · conf:M
+- [SCORE Utah](/pages/score-utah.md) · `https://greatutah.work/pages/score-utah.md` · resource · Close or Exit a Business, Funding, Marketing and Sales · conf:M
+- [Sethera Therapeutics](/pages/sethera-therapeutics.md) · `https://greatutah.work/pages/sethera-therapeutics.md` · venture · peptide therapeutics, enzymatic cross-linking, polymacrocyclic peptides, drug discovery platform · conf:L
+- [Sevier County Economic Development](/pages/sevier-county-economic-development.md) · `https://greatutah.work/pages/sevier-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Silicon Slopes](/pages/silicon-slopes.md) · `https://greatutah.work/pages/silicon-slopes.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Sistema Utah](/pages/sistema-utah.md) · `https://greatutah.work/pages/sistema-utah.md` · resource · El Sistema, after-school orchestra, free music education, West Valley City, Title I schools · conf:M
+- [Six County Association of Governments](/pages/six-county-association-of-governments.md) · `https://greatutah.work/pages/six-county-association-of-governments.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Snow College - GRIT Center](/pages/snow-college-grit-center.md) · `https://greatutah.work/pages/snow-college-grit-center.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Sorenson Impact Fund](/pages/sorenson-impact-fund.md) · `https://greatutah.work/pages/sorenson-impact-fund.md` · resource · Funding, Other · conf:M
+- [SoUtah Economic Alliance](/pages/soutah-economic-alliance.md) · `https://greatutah.work/pages/soutah-economic-alliance.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Southeastern Association of Local Governments](/pages/southeastern-association-of-local-governments.md) · `https://greatutah.work/pages/southeastern-association-of-local-governments.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Southern Utah Code Camp](/pages/southern-utah-code-camp.md) · `https://greatutah.work/pages/southern-utah-code-camp.md` · resource · 24-hour hackathon, skill-tiered divisions, St George tech community, sponsor-funded · conf:M · `*` bumped for being worth reading
+- [Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship](/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md) · `https://greatutah.work/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Southern Utah University Cedar City Business & Innovation Center](/pages/southern-utah-university-cedar-city-business-and-innovation-center.md) · `https://greatutah.work/pages/southern-utah-university-cedar-city-business-and-innovation-center.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md) · `https://greatutah.work/pages/st-george-area-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [St George Downtown Farmers Market](/pages/st-george-downtown-farmers-market.md) · `https://greatutah.work/pages/st-george-downtown-farmers-market.md` · resource · Entrepreneurship Communities, Late Stage Growth, Other · conf:M
+- [St. George City Economic Development](/pages/st-george-city-economic-development.md) · `https://greatutah.work/pages/st-george-city-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Startup Ogden](/pages/startup-ogden.md) · `https://greatutah.work/pages/startup-ogden.md` · resource · Entrepreneurship Communities · conf:M
+- [STRIVE](/pages/strive.md) · `https://greatutah.work/pages/strive.md` · resource · Entrepreneurship Communities, Start a Business · conf:M
+- [SubcontractorHub](/pages/subcontractorhub.md) · `https://greatutah.work/pages/subcontractorhub.md` · venture · contractor operations, solar software, roofing software, artificial intelligence · conf:L
+- [Summit County Economic Development](/pages/summit-county-economic-development.md) · `https://greatutah.work/pages/summit-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Tanner LLC](/pages/tanner-llc.md) · `https://greatutah.work/pages/tanner-llc.md` · helper · accounting, audit/assurance, tax, M&A due diligence, SEC reporting, advisory · conf:M
+- [Tech Ridge](/pages/tech-ridge.md) · `https://greatutah.work/pages/tech-ridge.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Teen Entrepreneur Support Center](/pages/teen-entrepreneur-support-center.md) · `https://greatutah.work/pages/teen-entrepreneur-support-center.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Teiko Bio](/pages/teiko-bio.md) · `https://greatutah.work/pages/teiko-bio.md` · venture · clinical-trial immune profiling, flow cytometry, blood preservation, bioinformatics · conf:L
+- [The Hub at Bridgerland Technical College](/pages/the-hub-at-bridgerland-technical-college.md) · `https://greatutah.work/pages/the-hub-at-bridgerland-technical-college.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [The Shop](/pages/the-shop.md) · `https://greatutah.work/pages/the-shop.md` · resource · Entrepreneurship Communities · conf:M
+- [Thera-T Pharmaceutics](/pages/thera-t-pharmaceutics.md) · `https://greatutah.work/pages/thera-t-pharmaceutics.md` · venture · immuno-oncology, blood cancer, T-cell therapy, multi-antigen targeting, university spinout · conf:M
+- [Trace AQ](/pages/trace-aq.md) · `https://greatutah.work/pages/trace-aq.md` · venture · air quality forecasting, wildfire smoke, physics-based AI, atmospheric science, public health alerts · conf:M
+- [U.S. Commercial Service](/pages/u-s-commercial-service.md) · `https://greatutah.work/pages/u-s-commercial-service.md` · resource · International Trade · conf:M
+- [Uinta Basin Association of Governments](/pages/uinta-basin-association-of-governments.md) · `https://greatutah.work/pages/uinta-basin-association-of-governments.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Uinta Basin Tech - Entrepreneur Center](/pages/uinta-basin-tech-entrepreneur-center.md) · `https://greatutah.work/pages/uinta-basin-tech-entrepreneur-center.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Uintah Basin Economic Development District](/pages/uintah-basin-economic-development-district.md) · `https://greatutah.work/pages/uintah-basin-economic-development-district.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding · conf:M
+- [Uintah County Economic Development](/pages/uintah-county-economic-development.md) · `https://greatutah.work/pages/uintah-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [University of Utah Lassonde Entrepreneurship Institute](/pages/university-of-utah-lassonde-entrepreneurship-institute.md) · `https://greatutah.work/pages/university-of-utah-lassonde-entrepreneurship-institute.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [University of Utah Technology Licensing Office](/pages/university-of-utah-technology-licensing-office.md) · `https://greatutah.work/pages/university-of-utah-technology-licensing-office.md` · resource · invention disclosure, university IP licensing, faculty startups, research commercialization, techno… · conf:M
+- [USU Center for Integrated BioSystems](/pages/usu-integrated-biosystems.md) · `https://greatutah.work/pages/usu-integrated-biosystems.md` · venture · agricultural genomics, bioinformatics, land-grant research, arid-land crops, livestock genetics · conf:M
+- [USU Remote Online Initiative](/pages/usu-remote-online-initiative.md) · `https://greatutah.work/pages/usu-remote-online-initiative.md` · resource · Late Stage Growth · conf:M
+- [Utah Alliance for Economic Development](/pages/utah-alliance-for-economic-development.md) · `https://greatutah.work/pages/utah-alliance-for-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah APEX Accelerator](/pages/apex-accelerator.md) · `https://greatutah.work/pages/apex-accelerator.md` · resource · Late Stage Growth · conf:M
+- [Utah Asian Chamber of Commerce (UACC)](/pages/utah-asian-chamber-of-commerce-uacc.md) · `https://greatutah.work/pages/utah-asian-chamber-of-commerce-uacc.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Association of Counties (UAC)](/pages/utah-association-of-counties-uac.md) · `https://greatutah.work/pages/utah-association-of-counties-uac.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah Black Chamber](/pages/utah-black-chamber.md) · `https://greatutah.work/pages/utah-black-chamber.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Center For Global Talent](/pages/utah-center-for-global-talent.md) · `https://greatutah.work/pages/utah-center-for-global-talent.md` · resource · workforce, global talent, immigrant workforce, hiring, talent pathways · conf:M
+- [Utah Center for Rural Development](/pages/utah-center-for-rural-development.md) · `https://greatutah.work/pages/utah-center-for-rural-development.md` · resource · Entrepreneurship Communities, Late Stage Growth, Other · conf:M
+- [Utah Defense Alliance](/pages/utah-defense-alliance.md) · `https://greatutah.work/pages/utah-defense-alliance.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Utah Department of Agriculture & Food](/pages/utah-department-of-agriculture-and-food.md) · `https://greatutah.work/pages/utah-department-of-agriculture-and-food.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah Department of Workforce Services](/pages/utah-department-of-workforce-services.md) · `https://greatutah.work/pages/utah-department-of-workforce-services.md` · resource · Late Stage Growth · conf:M
+- [Utah Division of Outdoor Recreation](/pages/utah-division-of-outdoor-recreation.md) · `https://greatutah.work/pages/utah-division-of-outdoor-recreation.md` · resource · Entrepreneurship Communities · conf:M
+- [Utah Farmers Market Network](/pages/utah-farmers-market-network.md) · `https://greatutah.work/pages/utah-farmers-market-network.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Utah Film Center Fiscal Sponsorship](/pages/utah-film-center-fiscal-sponsorship.md) · `https://greatutah.work/pages/utah-film-center-fiscal-sponsorship.md` · resource · fiscal sponsorship, independent film, tax-deductible donations, film grants, filmmaker fundraising · conf:H
+- [Utah Film Commission](/pages/utah-film-commission.md) · `https://greatutah.work/pages/utah-film-commission.md` · resource · Entrepreneurship Communities · conf:M
+- [Utah Geek Events](/pages/utah-geek-events.md) · `https://greatutah.work/pages/utah-geek-events.md` · resource · community technology events, volunteer-led coding education · conf:M
+- [Utah Hispanic Chamber of Commerce](/pages/utah-hispanic-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-hispanic-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Inland Port Authority](/pages/utah-inland-port-authority.md) · `https://greatutah.work/pages/utah-inland-port-authority.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah Innovation Fund](/pages/utah-innovation-fund.md) · `https://greatutah.work/pages/utah-innovation-fund.md` · resource · Funding · conf:M
+- [Utah Kids Code Camp](/pages/utah-kids-code-camp.md) · `https://greatutah.work/pages/utah-kids-code-camp.md` · resource · youth coding education, free technology classes, volunteer instruction · conf:M
+- [Utah Korean Chamber of Commerce](/pages/utah-korean-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-korean-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah League of Cities & Towns (ULCT)](/pages/utah-league-of-cities-and-towns-ulct.md) · `https://greatutah.work/pages/utah-league-of-cities-and-towns-ulct.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah LGBTQ+ Chamber of Commerce](/pages/utah-lgbtq-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-lgbtq-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Manufacturers Association](/pages/utah-manufacturers-association.md) · `https://greatutah.work/pages/utah-manufacturers-association.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Utah Medicaid](/pages/utah-medicaid.md) · `https://greatutah.work/pages/utah-medicaid.md` · resource · health coverage, medical assistance, low-income healthcare, CHIP, long-term care · conf:H
+- [Utah Microloan Fund (UMLF)](/pages/utah-microloan-fund-umlf.md) · `https://greatutah.work/pages/utah-microloan-fund-umlf.md` · resource · Funding · conf:M
+- [Utah Native American Chamber of Commerce](/pages/utah-native-american-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-native-american-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Office of Primary Care and Rural Health](/pages/utah-office-of-primary-care-and-rural-health.md) · `https://greatutah.work/pages/utah-office-of-primary-care-and-rural-health.md` · resource · rural healthcare, primary care access, health workforce, shortage designations, clinic support, gra… · conf:H
+- [Utah Office Of Regulatory Relief](/pages/utah-office-of-regulatory-relief.md) · `https://greatutah.work/pages/utah-office-of-regulatory-relief.md` · resource · regulatory sandbox, compliance, regulated markets, policy feedback · conf:M
+- [Utah Office of Tourism](/pages/utah-office-of-tourism.md) · `https://greatutah.work/pages/utah-office-of-tourism.md` · resource · Entrepreneurship Communities, Other · conf:M
+- [Utah Pacific Islander Chamber of Commerce](/pages/utah-pacific-islander-chamber-of-commerce.md) · `https://greatutah.work/pages/utah-pacific-islander-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah Regional Growth Association](/pages/utah-regional-growth-association.md) · `https://greatutah.work/pages/utah-regional-growth-association.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Utah State Surplus Property](/pages/utah-state-surplus-property.md) · `https://greatutah.work/pages/utah-state-surplus-property.md` · resource · state surplus property, public auctions, used vehicles, heavy equipment, office furniture, governme… · conf:H
+- [Utah State University Center for Entrepreneurship](/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md) · `https://greatutah.work/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` · resource · statewide tech event aggregation, automated schema.org ingestion, nightly refresh, no-signup index · conf:M
+- [Utah Tech University - Atwood Innovation Center](/pages/utah-tech-university-atwood-innovation-center.md) · `https://greatutah.work/pages/utah-tech-university-atwood-innovation-center.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Technology Innovation Funding](/pages/utif.md) · `https://greatutah.work/pages/utif.md` · resource · SBIR, STTR, microgrants, nonrecourse loans, R&D funding · conf:M
+- [Utah Tourism Association](/pages/utah-tourism-association.md) · `https://greatutah.work/pages/utah-tourism-association.md` · resource · Entrepreneurship Communities · conf:M
+- [Utah Valley University Baugh Entrepreneurship Institute](/pages/utah-valley-university-uvu-entrepreneur-institute.md) · `https://greatutah.work/pages/utah-valley-university-uvu-entrepreneur-institute.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Utah Valley University Innovation Center/Academy](/pages/utah-valley-university-innovation-center-academy.md) · `https://greatutah.work/pages/utah-valley-university-innovation-center-academy.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Utah Water Savers](/pages/utah-water-savers.md) · `https://greatutah.work/pages/utah-water-savers.md` · resource · water conservation rebates, lawn replacement, waterwise landscaping, smart irrigation, fixture repl… · conf:H
+- [Utah's Own - Local Food Production](/pages/utah-s-own-local-food-production.md) · `https://greatutah.work/pages/utah-s-own-local-food-production.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [UtahJS](/pages/utahjs.md) · `https://greatutah.work/pages/utahjs.md` · resource · JavaScript development, technical meetups, volunteer developer community, annual conference · conf:M
+- [Utahn](/pages/utahn.md) · `https://greatutah.work/pages/utahn.md` · venture · Utah journalism, independent reporters, public-interest reporting, editorial transparency · conf:M
+- [UZONA - Hildale Chamber of Commerce](/pages/uzona-hildale-chamber-of-commerce.md) · `https://greatutah.work/pages/uzona-hildale-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Vernal Area Chamber of Commerce](/pages/vernal-area-chamber-of-commerce.md) · `https://greatutah.work/pages/vernal-area-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Vernal Downtown Alliance](/pages/vernal-downtown-alliance.md) · `https://greatutah.work/pages/vernal-downtown-alliance.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Vernal Innovation Hub](/pages/vernal-innovation-hub.md) · `https://greatutah.work/pages/vernal-innovation-hub.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Veteran Business Resource Center (VBRC) Utah](/pages/veteran-business-resource-center-vbrc-utah.md) · `https://greatutah.work/pages/veteran-business-resource-center-vbrc-utah.md` · resource · Entrepreneurship Communities, Marketing and Sales, Start a Business · conf:M
+- [Vuely](/pages/vuely.md) · `https://greatutah.work/pages/vuely.md` · venture · sign sales, site surveys, visual proposals, workflow software · conf:M
+- [Wagevo](/pages/wagevo.md) · `https://greatutah.work/pages/wagevo.md` · venture · earned wage access, payroll integration, employee financial wellness, hourly workers, fintech · conf:L
+- [Wasatch Front Regional Council](/pages/wasatch-front-regional-council.md) · `https://greatutah.work/pages/wasatch-front-regional-council.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Wasatch Ionics](/pages/wasatch-ionics.md) · `https://greatutah.work/pages/wasatch-ionics.md` · venture · lithium-oxygen batteries, reserve batteries, chemical oxygen generation, Army obstacle systems, ene… · conf:L
+- [Wasatch Women's Business Alliance](/pages/wasatch-women-s-business-alliance.md) · `https://greatutah.work/pages/wasatch-women-s-business-alliance.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
+- [Washington Area Chamber of Commerce](/pages/washington-area-chamber-of-commerce.md) · `https://greatutah.work/pages/washington-area-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Washington City Economic Development](/pages/washington-city-economic-development.md) · `https://greatutah.work/pages/washington-city-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Weber Basin Job Corps](/pages/weber-basin-job-corps.md) · `https://greatutah.work/pages/weber-basin-job-corps.md` · resource · Late Stage Growth · conf:M
+- [Weber County Economic Development](/pages/weber-county-economic-development.md) · `https://greatutah.work/pages/weber-county-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Weber State AI Hackathon](/pages/weber-state-ai-hackathon.md) · `https://greatutah.work/pages/weber-state-ai-hackathon.md` · resource · university AI hackathon, two-week remote build, skill-tiered prizes, employer job fair, Ogden · conf:M
+- [Wildcat MicroFund](/pages/wildcat-microfund.md) · `https://greatutah.work/pages/wildcat-microfund.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [Wilson Sonsini Salt Lake City](/pages/wilson-sonsini-salt-lake-city.md) · `https://greatutah.work/pages/wilson-sonsini-salt-lake-city.md` · helper · startup counsel, venture financings, life sciences, medical devices, IP, corporate governance · conf:M
+- [Women Tech Counsel](/pages/women-tech-counsel.md) · `https://greatutah.work/pages/women-tech-counsel.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Work Hive](/pages/work-hive.md) · `https://greatutah.work/pages/work-hive.md` · resource · Entrepreneurship Communities · conf:M
+- [Workbox](/pages/workbox.md) · `https://greatutah.work/pages/workbox.md` · resource · Entrepreneurship Communities · conf:M
+- [Workman Nydegger](/pages/workman-nydegger.md) · `https://greatutah.work/pages/workman-nydegger.md` · helper · patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation · conf:M
+- [World Trade Center Utah](/pages/world-trade-center-utah.md) · `https://greatutah.work/pages/world-trade-center-utah.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:M
+- [Xandem](/pages/xandem.md) · `https://greatutah.work/pages/xandem.md` · venture · RF tomographic sensing, through-wall motion detection, ISR, search and rescue, home security · conf:L
+- [Zaymo](/pages/zaymo.md) · `https://greatutah.work/pages/zaymo.md` · venture · ecommerce, interactive email, embedded checkout, marketing software · conf:M
+
+## F — inert (36)
+
+No estimable displacement: a listing, a ceremony, a duplicate, or a claim nothing corroborates.
+
+- [1 Million Cups (Salt Lake)](/pages/1-million-cups-salt-lake.md) · `https://greatutah.work/pages/1-million-cups-salt-lake.md` · resource · Entrepreneurship Communities, Start a Business · conf:M
+- [1MC Salt Lake](/pages/1mc-salt-lake.md) · `https://greatutah.work/pages/1mc-salt-lake.md` · resource · Entrepreneurship Communities, Funding, Other, Start a Business · conf:M
+- [A-Tech home plans](/pages/a-tech-home-plans.md) · `https://greatutah.work/pages/a-tech-home-plans.md` · resource · Other, Rural · conf:L
+- [Acceler8 Wasatch](/pages/acceler8-wasatch.md) · `https://greatutah.work/pages/acceler8-wasatch.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:L
+- [Ai Seminar for Small Businesses & Non-Profits](/pages/ai-seminar-for-small-businesses-and-non-profits.md) · `https://greatutah.work/pages/ai-seminar-for-small-businesses-and-non-profits.md` · resource · Other, Any, Aerospace and Defense, Agriculture · conf:L
+- [Batu Biologics](/pages/batu-biologics.md) · `https://greatutah.work/pages/batu-biologics.md` · venture · immuno-oncology, tumor vasculature, anti-angiogenesis, university spinout · conf:L
+- [BioEnergenix](/pages/bioenergenix.md) · `https://greatutah.work/pages/bioenergenix.md` · venture · metabolic syndrome, PASK inhibition, diabetes, obesity, NAFLD/NASH, University of Utah spinout · conf:L
+- [Coworking Space in Salt Lake City - Offices.net](/pages/coworking-space-in-salt-lake-city-offices-net.md) · `https://greatutah.work/pages/coworking-space-in-salt-lake-city-offices-net.md` · resource · Entrepreneurship Communities · conf:M
+- [Cynosure](/pages/cynosure.md) · `https://greatutah.work/pages/cynosure.md` · resource · Funding, Late Stage Growth · conf:M
+- [Escalante City Innovation Center](/pages/escalante-city-innovation-center.md) · `https://greatutah.work/pages/escalante-city-innovation-center.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:L
+- [First Step Entrepreneur](/pages/first-step-entrepreneur.md) · `https://greatutah.work/pages/first-step-entrepreneur.md` · resource · Entrepreneurship Communities, Any, Aerospace and Defense, Agriculture · conf:L
+- [FSTEP Idea Explorer](/pages/fstep-idea-explorer.md) · `https://greatutah.work/pages/fstep-idea-explorer.md` · resource · Start a Business, Any, Aerospace and Defense, Agriculture · conf:L
+- [Get Started: Business Idea Challenge](/pages/get-started-business-idea-challenge.md) · `https://greatutah.work/pages/get-started-business-idea-challenge.md` · resource · Funding, Start a Business · conf:L
+- [iMpact Utah](/pages/impact-utah.md) · `https://greatutah.work/pages/impact-utah.md` · resource · Entrepreneurship Communities, Late Stage Growth · conf:L
+- [Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md) · `https://greatutah.work/pages/morgan-chamber-of-commerce.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:L
+- [NephroNovus](/pages/nephronovus.md) · `https://greatutah.work/pages/nephronovus.md` · venture · chronic kidney disease, renal fibrosis, drug discovery, computational biology, Altitude Lab alumni · conf:L
+- [Pitted Ventures](/pages/pitted-ventures.md) · `https://greatutah.work/pages/pitted-ventures.md` · resource · Funding · conf:L
+- [Revolving Loan Fund Program (RLF) - R6](/pages/revolving-loan-fund-program-rlf-r6.md) · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-r6.md` · resource · Funding · conf:L
+- [Revolving Loan Fund Program (RLF) - South Eastern Utah](/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md) · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md` · resource · Funding · conf:L
+- [Salina Chamber](/pages/salina-chamber.md) · `https://greatutah.work/pages/salina-chamber.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:L
+- [Salt Lake City Office Space for Rent](/pages/salt-lake-city-office-space-for-rent.md) · `https://greatutah.work/pages/salt-lake-city-office-space-for-rent.md` · resource · Entrepreneurship Communities, Start a Business · conf:M
+- [Southeastern Utah Association of Local Governments - Economic Development](/pages/southeastern-utah-association-of-local-governments-economic-development.md) · `https://greatutah.work/pages/southeastern-utah-association-of-local-governments-economic-development.md` · resource · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Startup State Resource Filter](/pages/startup-state-resource-list.md) · `https://greatutah.work/pages/startup-state-resource-list.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [STOPfakes.gov](/pages/stopfakes-gov.md) · `https://greatutah.work/pages/stopfakes-gov.md` · resource · International Trade · conf:M
+- [Struvia](/pages/struvia.md) · `https://greatutah.work/pages/struvia.md` · venture · AI construction takeoff, estimating, subcontractor bid solicitation and leveling · conf:L
+- [The Mill Entrepreneurship Center](/pages/the-mill-entrepreneurship-center.md) · `https://greatutah.work/pages/the-mill-entrepreneurship-center.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:M
+- [University of Utah](/pages/university-of-utah.md) · `https://greatutah.work/pages/university-of-utah.md` · resource · public higher education, research, academic health care, technology commercialization · conf:M
+- [University of Utah PIVOT Center](/pages/university-of-utah-pivot-center.md) · `https://greatutah.work/pages/university-of-utah-pivot-center.md` · resource · technology transfer, former name, redirect · conf:M
+- [Utah Chinese Association](/pages/utah-chinese-association.md) · `https://greatutah.work/pages/utah-chinese-association.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:L
+- [Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md) · `https://greatutah.work/pages/utah-digital-entertainment-network.md` · resource · Entrepreneurship Communities, Funding, Other, Start a Business · conf:M
+- [Utah Muslim Civic League (UMCL)](/pages/utah-muslim-civic-league-umcl.md) · `https://greatutah.work/pages/utah-muslim-civic-league-umcl.md` · resource · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:L
+- [Utah Quantum (UTQ)](/pages/utahquantum.md) · `https://greatutah.work/pages/utahquantum.md` · venture · quantum systems integration, quantum readiness, post-quantum security, government and industry adop… · conf:M
+- [Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative-usbci.md` · resource · Funding · conf:M
+- [Veteran-Owned Business Registration Utah](/pages/veteran-owned-business-registration-utah.md) · `https://greatutah.work/pages/veteran-owned-business-registration-utah.md` · resource · Entrepreneurship Communities · conf:M
+- [Vision Iron County](/pages/vision-iron-county.md) · `https://greatutah.work/pages/vision-iron-county.md` · resource · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Gr… · conf:L
+- [Visit Utah](/pages/visit-utah.md) · `https://greatutah.work/pages/visit-utah.md` · resource · Entrepreneurship Communities, Other · conf:M
+
+## unranked — not rankable (5)
+
+Too thin to argue bounds from. The honest escape hatch, not a synonym for low.
+
+- [Araknitek](/pages/araknitek.md) · `https://greatutah.work/pages/araknitek.md` · venture · synthetic spider silk, biomaterials, advanced materials, university spinout · conf:L
+- [Evolution Bio](/pages/evolution-bio.md) · `https://greatutah.work/pages/evolution-bio.md` · venture · directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell … · conf:L
+- [InnoSys](/pages/innosys.md) · `https://greatutah.work/pages/innosys.md` · venture · fiber optic seals, glass-to-metal seals, neutron generators, radiation-hardened components, hermeti… · conf:L
+- [Interval AI](/pages/interval-ai.md) · `https://greatutah.work/pages/interval-ai.md` · venture · artificial intelligence, business workflows, early-stage software · conf:M
+- [Nielson Scientific](/pages/nielson-scientific.md) · `https://greatutah.work/pages/nielson-scientific.md` · venture · deep tech (domain unknown); DOE SBIR · conf:L
+

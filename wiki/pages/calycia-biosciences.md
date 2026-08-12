@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** C
 **Focus:** macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology
 **Roles:** biology-life-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Preclinical; CALYM-001 at in vivo validation, pre-IND target

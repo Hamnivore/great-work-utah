@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** environmental crisis, water policy, lithium extraction, dust mitigation, ecosystem restoration, Utah
 **Primary Location:** Great Salt Lake basin
 **Utah Location:** Great Salt Lake basin

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription
 **Roles:** software-engineering, manufacturing-operations, sales-business-development, legal-policy
 **Stage:** Private growth company (~$135M secured in 2022 across equity and debt)

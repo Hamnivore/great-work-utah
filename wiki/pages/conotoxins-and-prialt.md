@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** High
+**Tier:** A
 **Focus:** drug discovery, molecular neuroscience, venom peptides, non-opioid pain, ion channels
 **Era:** late 1970s-present; founding peptide discovered 1979, Prialt approved December 2004
 **Primary Location:** University of Utah, Salt Lake City, UT

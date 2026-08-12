@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Other
 **Primary Location:** Cedar City, UT
 **Utah Location:** southwestern Utah (11 counties)

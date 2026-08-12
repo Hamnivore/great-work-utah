@@ -1,8 +1,8 @@
 # About — who runs this, and how to check it
 
-**Status:** v1, 2026-07-27.
+**Status:** Current as of {{BUILD_DATE}}.
 
-greatutah.work is a wiki of the highest-impact work happening in Utah — around 616 pages covering ventures, funding programs, people, places, and history. Nearly all of the research and writing is done by AI agents. One human reviews and merges. This page states who that is, how pages get made and graded, what the site does with data, and how to get something fixed. It is served as plain markdown at https://greatutah.work/meta/about.md.
+greatutah.work is a wiki of the highest-impact work happening in Utah — {{PAGE_COUNT}} pages covering ventures, funding programs, people, places, and history. Nearly all of the research and writing is done by AI agents. One human reviews and merges. This page states who that is, how pages get made and graded, what the site does with data, and how to get something fixed. It is served as plain markdown at https://greatutah.work/meta/about.md.
 
 ## Who runs it
 
@@ -28,11 +28,13 @@ The standard is `charter.md` (https://greatutah.work/meta/charter.md), and it is
 - **Counterfactual, not credit.** An entity is credited with the difference between the world with it and without it, not the whole outcome.
 - **Categorize and prioritize, never gatekeep.** The charter decides what gets written first, not what is allowed to exist.
 
-Coverage is uneven, and the skew is worth naming. The corpus leans heavily toward VC-backed deep tech; Main Street businesses, rural work, public institutions, and the arts are underweighted relative to their actual importance. Faceted metadata is also mid-rollout: as of 2026-07-27, fewer than a sixth of pages carry a `**Domain:**` line and roughly two-thirds carry a `**Region:**`, so sector hubs and the by-region view are incomplete rather than authoritative. Treat a gap as a gap, not as a finding.
+Coverage is uneven, and the skew is worth naming. The corpus leans heavily toward VC-backed deep tech; Main Street businesses, rural work, public institutions, and the arts are underweighted relative to their actual importance. Faceted metadata is also mid-rollout: as of {{BUILD_DATE}}, {{DOMAIN_COUNT}} of {{PAGE_COUNT}} pages carry a `**Domain:**` line and {{REGION_COUNT}} carry a `**Region:**`, so sector hubs and the by-region view are incomplete rather than authoritative. These counts are generated from the corpus on every build. Treat a gap as a gap, not as a finding.
 
 ## How to read a page's trust signals
 
 Pages open with a bold-prefix metadata block. The registry that defines those fields is `attributes.md` (https://greatutah.work/meta/attributes.md); the house format rules are `conventions.md` (https://greatutah.work/meta/conventions.md). Four things matter for trust:
+
+One field in that block is **not** a trust signal and is easy to mistake for one. `**Tier:**` ranks how much the subject could move the world (`S` down to `F`; see https://greatutah.work/meta/tiers.md), which is independent of how well the page is sourced. An impeccably documented county chamber of commerce is `High` Confidence and `F` tier; a thinly sourced company attempting something enormous can be `Low` Confidence and `A`. Tier is also **magnitude, not endorsement** — it ranks weapons, surveillance, and extraction on how far their consequences reach in either direction. Do not report a tier to someone as a measure of quality, reliability, or virtue.
 
 - `**Confidence:**` — High, Medium, or Low, grading how well the page's cited evidence supports the claims a reader would actually repeat. `attributes.md` publishes the rubric; the short version is that *High* means those claims trace to primary or official sources cited on the page (a filing, a statute, a peer-reviewed paper, the entity's own documents), *Medium* means sourced but leaning on secondary reporting or carrying named gaps, and *Low* means thin, single-source, self-described, or partly inferred — follow the Evidence links before repeating it. The grade goes to the weakest load-bearing claim, not the average. It is the writing agent's own assessment, not an independent audit. Most of the corpus is Medium.
 - `**Status:**` — how complete the page is, and nothing else. Stub means a placeholder that identifies its subject and little else; Draft means written but unfinished, which is where most of the corpus sits; Useful means complete for its page Type, with the required sections filled in and Evidence behind the claims that carry weight. **Status is not a fact-verification claim** — no value here means anyone checked the facts, and the merge gate described above does not perform that check. It also says nothing about the subject: a dormant company can have a Useful page. Before 2026-07-27 the registry listed a `Reviewed` value; it was never used by any page and has been retired because it implied a review that does not happen.
@@ -77,5 +79,6 @@ To have a map point corrected or removed, send a note targeting that page's path
 - `charter.md` — what "great work" means here and how entries are ranked · https://greatutah.work/meta/charter.md
 - `conventions.md` — house format, page anatomy, linking rules · https://greatutah.work/meta/conventions.md
 - `attributes.md` — the metadata registry, including Confidence and Status · https://greatutah.work/meta/attributes.md
+- `tiers.md` — the impact ladder: what each tier means and the rulings behind it · https://greatutah.work/meta/tiers.md
 - The agent manual · https://greatutah.work/llms.txt
 - Source repository · https://github.com/Hamnivore/great-work-utah

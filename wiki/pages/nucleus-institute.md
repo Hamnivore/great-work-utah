@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** commercialization, talent matching, early-stage capital, research translation, Utah innovation
 **Identifiers:** ein=39-4773943
 **Primary Location:** Salt Lake City, UT

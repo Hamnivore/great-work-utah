@@ -127,7 +127,7 @@ function validate(body: Body): { error?: string; kind?: 'note' | 'page' } {
         errors.push(`Page content must be over 200 characters (got ${content.length}) — send a full page, or send a note instead.`)
       } else if (content.length > MAX_PAGE_CONTENT_CHARS) {
         errors.push(
-          `Page content must be at most ${MAX_PAGE_CONTENT_CHARS} characters (got ${content.length}) — the longest page in this wiki is under 14,000. Split it, or trim to the house format in /meta/conventions.md.`,
+          `Page content must be at most ${MAX_PAGE_CONTENT_CHARS} characters (got ${content.length}) — no page in this wiki comes close to that. Split it, or trim to the house format in /meta/conventions.md.`,
         )
       }
     }

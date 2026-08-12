@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** D
 **Focus:** peptide therapeutics, enzymatic cross-linking, polymacrocyclic peptides, drug discovery platform
 **Identifiers:** cik=0002042692, ein=99-3550314
 **Roles:** biology-life-sciences, physical-sciences, sales-business-development

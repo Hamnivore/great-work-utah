@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine
 **Roles:** data-science, biology-life-sciences, clinical-regulatory, product-design, sales-business-development
 **Stage:** Public (NASDAQ: MYGN)

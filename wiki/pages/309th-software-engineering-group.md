@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** flight software, weapons software, mission software, DevSecOps, safety-critical systems, Air Force sustainment
 **Roles:** software-engineering, hardware-engineering
 **Stage:** Established U.S. Air Force organization; one of the largest defense software groups in the country

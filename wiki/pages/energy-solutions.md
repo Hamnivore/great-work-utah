@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** nuclear waste management, radioactive waste disposal, decommissioning, environmental services
 **Roles:** physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Private; established; only commercial low-level radioactive waste site in the western US

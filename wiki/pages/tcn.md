@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
+**Tier:** C
 **Focus:** cloud contact centers, customer communications, call-center software
 **Domain:** computing
 **Roles:** software-engineering

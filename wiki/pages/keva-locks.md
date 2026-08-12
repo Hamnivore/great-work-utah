@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** smart locks, rental access, property operations
 **Domain:** materials-mfg, computing
 **Primary Location:** Logan, UT

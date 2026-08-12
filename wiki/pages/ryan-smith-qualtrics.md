@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** enterprise software, experience management, Utah tech ecosystem, civic leadership
 **Domain:** computing
 **Primary Location:** Salt Lake City, UT

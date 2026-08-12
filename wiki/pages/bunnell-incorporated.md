@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** B
 **Focus:** high-frequency jet ventilation, neonatal intensive care, Life Pulse ventilator, pulmonary interstitial emphysema, respiratory distress syndrome
 **Roles:** manufacturing-operations, hardware-engineering, clinical-regulatory
 **Stage:** Established private medical-device manufacturer; employee-owned by the company's account

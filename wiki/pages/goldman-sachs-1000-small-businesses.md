@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide

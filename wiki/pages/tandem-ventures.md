@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** C
 **Focus:** Funding
 **Primary Location:** Draper, UT
 **Utah Location:** statewide

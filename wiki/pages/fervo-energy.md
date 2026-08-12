@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** geothermal energy, grid infrastructure, climate, drilling
 **Roles:** software-engineering, data-science, hardware-engineering, physical-sciences, manufacturing-operations, finance-accounting, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Public (Nasdaq: FRVO) — IPO priced at $27.00/share, final prospectus filed 2026-05-14

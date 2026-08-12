@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Funding
 **Identifiers:** ein=47-4220476
 **Primary Location:** Park City, UT

@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** S
 **Focus:** genetic epidemiology, genealogy, medical records, population health infrastructure
 **Era:** 1970s-present
 **Primary Location:** University of Utah, Salt Lake City, UT

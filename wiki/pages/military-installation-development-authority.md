@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D
 **Focus:** military land development, project-area governance, public infrastructure, economic development
 **Primary Location:** Utah
 **Utah Location:** statewide

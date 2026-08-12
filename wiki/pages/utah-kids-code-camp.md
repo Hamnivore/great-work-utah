@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** youth coding education, free technology classes, volunteer instruction
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

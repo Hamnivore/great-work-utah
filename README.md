@@ -1,7 +1,7 @@
 # greatutah.work
 
 A wiki of the highest-impact work happening in Utah — the ventures, funding, people, and
-history that could change the world, for better or worse. ~600 markdown pages, written and
+history that could change the world, for better or worse. ~900 markdown pages, written and
 maintained mostly by AI agents, reviewed by humans.
 
 The site is **LLM-first**: the canonical user is an AI agent that fetches `/llms.txt` and
@@ -17,7 +17,8 @@ wiki/views/*.md        generated indexes (scripts/build-views.mjs) — never han
         ├── copied into dist/ at build → served as /pages/*.md, /views/*.md, /meta/*.md
         │
 public/llms.txt        the agent manual (the entire interface)
-src/                   minimal React app for humans (/ , /p/:slug , /v/:view , /map , /contribute)
+scripts/prerender.mjs  every document also published as static HTML: /p/:slug , /v/:view , /about
+src/                   minimal React app, only the routes that run code (/ , /map , /contribute)
 api/contribute.ts      POST /api/contribute → GitHub issue (note) or review-gated PR (page)
 api/locations.ts       GET  /api/locations → privacy-aware proximity search over the corpus
 ```

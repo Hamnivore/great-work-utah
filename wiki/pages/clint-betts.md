@@ -3,6 +3,7 @@
 **Type:** person
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** D*
 **Focus:** Utah journalism, technology-community organizing, publishing
 **Domain:** culture-place, capital-programs
 **Primary Location:** unknown

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** AI in education, personalized learning, K-12 edtech, teacher tools, classroom AI safety
 **Roles:** software-engineering, data-science, program-project-management
 **Stage:** Venture-backed

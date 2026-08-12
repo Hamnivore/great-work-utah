@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** depot maintenance, fighter jet sustainment, ICBM sustainment, flight test, defense engineering workforce, economic impact
 **Roles:** hardware-engineering, software-engineering, manufacturing-operations, field-skilled-trades, program-project-management, finance-accounting
 **Stage:** Established U.S. Air Force installation; continuous operation since 1940

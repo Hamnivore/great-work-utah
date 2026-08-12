@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** medical devices, diagnostics, regulatory affairs, quality systems, clinical trials, reimbursement, medtech startups
 **Domain:** health-bio
 **Primary Location:** unknown

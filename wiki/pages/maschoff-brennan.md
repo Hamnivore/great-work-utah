@@ -3,6 +3,7 @@
 **Type:** helper
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** IP, patents, technology transactions, software, biotech, medical devices, deep tech
 **Domain:** capital-programs, health-bio
 **Primary Location:** Salt Lake City, UT; Park City, UT

@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** sign sales, site surveys, visual proposals, workflow software
 **Domain:** materials-mfg, computing
 **Primary Location:** Utah

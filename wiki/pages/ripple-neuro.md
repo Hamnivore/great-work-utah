@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology
 **Roles:** software-engineering, biology-life-sciences, hardware-engineering
 **Stage:** Private, operational since 2004; NIH HEAL-funded neuromodulation programs active

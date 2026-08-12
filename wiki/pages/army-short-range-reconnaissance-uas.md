@@ -3,6 +3,7 @@
 **Type:** work
 **Status:** Draft
 **Confidence:** Low
+**Tier:** C
 **Focus:** defense manufacturing, small drones, ISR, battlefield reconnaissance, domestic industrial base
 **Era:** 2020–present; Tranche 2 production from 2025
 **Primary Location:** Salt Lake City, UT

@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Useful
 **Confidence:** Medium
+**Tier:** C
 **Focus:** startup incubator, founder community, coworking, makerspace, prototype space, commercial kitchen, warehouse, funding
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT

@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** SBIR, STTR, non-dilutive funding, deep tech, research commercialization
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

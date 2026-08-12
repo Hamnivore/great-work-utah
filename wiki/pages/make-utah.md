@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** hard-tech incubator, makerspace, prototype space, R&D workspace, manufacturing, founder community
 **Domain:** capital-programs
 **Primary Location:** Pleasant Grove, UT

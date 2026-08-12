@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** A
 **Focus:** geothermal exploration, AI for earth sciences, climate, firm clean power
 **Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, program-project-management
 **Stage:** Series B (Salt Lake City, UT)

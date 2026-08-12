@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** invention disclosure, university IP licensing, faculty startups, research commercialization, technology transfer
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

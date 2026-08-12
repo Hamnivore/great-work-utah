@@ -3,6 +3,7 @@
 **Type:** resource
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** D
 **Focus:** Other
 **Primary Location:** Utah State University, Logan, UT
 **Utah Location:** statewide

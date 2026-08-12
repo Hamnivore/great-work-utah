@@ -3,6 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
+**Tier:** C
 **Focus:** neural interfaces, BCI hardware, implantable devices, medical device manufacturing, neurotech supply chain
 **Roles:** hardware-engineering, manufacturing-operations
 **Stage:** Established; contract design and manufacturing

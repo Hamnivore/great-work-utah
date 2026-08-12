@@ -1,0 +1,13 @@
+{
+  "source_page": "carv-careers-page.md",
+  "requested_url": "https://getcarv.com/careers",
+  "final_url": "https://getcarv.com/careers",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:41:09.314Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "52b2b97d6c0e71bbea55b71973f23bfefdd81297c09947a6591f83b12014b0bc",
+  "text_sha256": "3b34fe02db215d302c4a8a632153e1dc44e638ee33065a933473ad145a96cc44",
+  "text_chars": 7421,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

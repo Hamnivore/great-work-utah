@@ -9,7 +9,7 @@
 **Archived:** 2026-05-17
 **Publisher:** Orbit Irrigation Products
 **Raw:** raw/orbit-irrigation-official-website/2026-08-11-9617a3ec090f.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

@@ -7,7 +7,7 @@
 **URL:** https://archive.org/download/gov.uscourts.utd.106989/gov.uscourts.utd.106989.docket.html
 **Publisher:** U.S. District Court for the District of Utah (docket mirrored in the RECAP Archive)
 **Raw:** raw/us-v-young-living-lacey-act-docket-2017/2026-08-11-43a03af75848.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Published:** 2017-09-21
 **Updated:** 2026-08-11
 
@@ -17,18 +17,20 @@ The docket of *USA v. Young Living Essential Oils*, No. **2:17-cr-00541** (D. Ut
 **106989**, before Magistrate Judge Dustin B. Pead. Filed 2017-09-18, terminated 2017-09-21 — a
 criminal case that opened, took a guilty plea, imposed sentence, and closed inside four days.
 
-Young Living, the Lehi-based essential-oils direct seller, pleaded guilty to both counts of a
+Young Living, the Utah County essential-oils direct seller and one of the state's largest
+direct-selling employers, pleaded guilty to both counts of a
 misdemeanor information and was ordered to pay **$500,000** to the Lacey Act Reward Account,
 **$125,000** to the National Fish and Wildlife Foundation, and **$135,000** in restitution to the
 Government of Peru. This is the primary record of a criminal conviction of one of Utah's largest
 direct-selling companies, and it exists in the corpus because the U.S. Attorney's press release about
 it cannot be captured (see Reliability Notes).
 
-Two documents on this docket carry the underlying facts and are not usable here: the Misdemeanor
-Information (entry 1) and the 46-page Statement in Advance of Plea (entry 5). Both are available as
-RECAP PDFs — `https://storage.courtlistener.com/recap/gov.uscourts.utd.106989.1.0.pdf` and
-`...106989.5.0.pdf` — and both are **scans without a text layer**, so no quote can be taken from them
-without OCR. The docket's own entry text is what this page rests on.
+Two documents on this docket carry the underlying facts, and only one of them is out of reach. The
+**Misdemeanor Information** (entry 1) does have a text layer and is now a page of its own —
+[the charging document](us-v-young-living-misdemeanor-information-2017.md) — which supplies the statutes,
+the plant, and the Peruvian law that this docket omits. The 46-page **Statement in Advance of Plea**
+(entry 5) is an image scan with no text layer, so nothing can be quoted from it without OCR. The docket's
+own entry text is what *this* page rests on.
 
 ## Useful Claims
 
@@ -42,12 +44,17 @@ without OCR. The docket's own entry text is what this page rests on.
   discussed in court and included in the Statement in Advance of Plea."
 - Judgment was signed 2017-09-21 and the case closed the same day; the defendant is recorded as
   terminated 09/21/2017.
-- The case was prosecuted by Assistant U.S. Attorneys Jared Bennett and Eleanor Colburn; Young Living
-  was represented by Craig D. Galli of Holland & Hart in Salt Lake City and Gregory E. Goldberg,
-  admitted pro hac vice.
-- The docket does not state the statutes charged, the conduct, or a probation term. The dollar figures
-  and the payee — the *Lacey Act* Reward Account — are the only indication on this record of what the
-  counts were.
+- The docket lists "Jared Bennett and EleanorColburn" as attorneys for the plaintiff. Read against the
+  [charging document's](us-v-young-living-misdemeanor-information-2017.md) signature block, that is AUSA
+  Jared C. Bennett together with **Elinor Colbourn**, Senior Counsel for Wildlife Programs in the
+  Justice Department's Environmental Crimes Section — main-Justice wildlife counsel rather than a second
+  Assistant U.S. Attorney, and a name the docket both misspells and runs together.
+- Young Living was represented by Craig D. Galli of Holland & Hart in Salt Lake City, with Gregory E.
+  Goldberg appearing as counsel; the docket shows his **motion** for pro hac vice admission (entry 3) but
+  no order granting it.
+- **This docket does not state the statutes charged, the conduct, or a probation term** — the dollar
+  figures and the payee (the *Lacey Act* Reward Account) are the only signal on this record of what the
+  counts were. That gap is now filled by the charging document, not by inference.
 
 ## Verbatim
 
@@ -76,7 +83,12 @@ without OCR. The docket's own entry text is what this page rests on.
 A federal criminal docket is primary tier: it is the court's own record of what was charged, pleaded,
 and ordered. What it is *not* is a narrative — docket text records outcomes, not conduct, so the
 familiar account of this case (rosewood oil harvested in Peru, spikenard from Nepal, CITES permits,
-retail value of the products involved) is nowhere in this capture and is not asserted from it here.
+retail value of the products involved) is nowhere in *this* capture and is not asserted from it here.
+Part of it is, however, in the record: the charging document names spikenard, the missing CITES re-export
+certificate, and the Peruvian decree, and it is captured
+[on its own page](us-v-young-living-misdemeanor-information-2017.md). The distinction to keep is between
+what a document is silent about and what the case file lacks — an earlier version of this page implied
+the second when it meant the first.
 
 **The copy quoted here is a mirror, not the court's own file.** The captured document is the RECAP
 Archive's copy on `archive.org`, uploaded from PACER by the Free Law Project. Nobody is obliged to
@@ -92,6 +104,7 @@ record is both stronger evidence and reachable.
 
 ## Related Pages
 
+- [Source: United States v. Young Living Essential Oils — Misdemeanor Information (2017)](us-v-young-living-misdemeanor-information-2017.md)
 - [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
 
 ## Maintainer Notes
@@ -102,6 +115,8 @@ was tried first and abandoned on 2026-08-11: it returns HTTP 200 with an Akamai 
 fetchers, has no snapshot in the Wayback CDX index, and Save Page Now failed against it that day. The
 docket PDFs on CourtListener (`gov.uscourts.utd.106989.5.0.pdf`, `.6.0.pdf`) are image scans with no
 text layer, which is why the quotes above come from the docket HTML rather than the filed documents.
+Entry 1 was wrongly lumped in with them until an audit checked: `...106989.1.0.pdf` extracts cleanly and
+is now its own source page. Test each PDF before writing off a filing.
 CourtListener itself returns HTTP 403 to the capture script's user agent, hence the `archive.org`
 RECAP path in **URL:**, which is correctly reported as a primary source behind a mirror.
 

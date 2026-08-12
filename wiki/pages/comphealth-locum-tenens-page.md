@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260510140821/https://comphealth.com/locum-tenens
 **Archived:** 2026-05-10
 **Publisher:** CompHealth (CHG Healthcare)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/comphealth-locum-tenens-page/2026-08-11-bdaf9821c573.txt
 **Updated:** 2026-08-11
 **Relates:** cites [CompHealth](comphealth.md) · https://greatutah.work/pages/comphealth.md · https://www.comphealth.com/locum-tenens

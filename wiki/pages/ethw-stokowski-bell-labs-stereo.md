@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20251206204631/https://ethw.org/Leopold_Stokowski_and_Bell_Labs%2C_a_Sound_Collaboration
 **Archived:** 2025-12-06
 **Publisher:** Engineering and Technology History Wiki (IEEE)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ethw-stokowski-bell-labs-stereo/2026-08-11-923a0cdf474d.txt
 **Updated:** 2026-06-19
 

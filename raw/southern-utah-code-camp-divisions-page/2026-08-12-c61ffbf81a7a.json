@@ -1,0 +1,13 @@
+{
+  "source_page": "southern-utah-code-camp-divisions-page.md",
+  "requested_url": "https://southernutahcodecamp.com/about/",
+  "final_url": "https://southernutahcodecamp.com/about/",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:50:21.250Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "edd574a6c145fc51a21d9a103c71f21eb988f81b935617b54229294016e18fc9",
+  "text_sha256": "c61ffbf81a7ad55546efafecd1f600b76243e95581bcf78c1b95f9288060c192",
+  "text_chars": 5021,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

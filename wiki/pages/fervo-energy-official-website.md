@@ -9,7 +9,7 @@
 **Archived:** 2026-08-07
 **Publisher:** Fervo Energy
 **Raw:** raw/fervo-energy-official-website/2026-08-11-657116e6cfcf.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Fervo Energy](fervo-energy.md) · https://greatutah.work/pages/fervo-energy.md · https://fervoenergy.com
 
@@ -40,8 +40,8 @@ From the 2026-08-07 archive capture, which is the only readable copy — see the
 
 ## Reliability Notes
 
-Self-reported tier: strongest for technology approach and mission framing, weakest exactly where this
-page was previously used hardest. **The 400 MW Cape Station figure in the claims above is superseded**
+Self-reported tier: strongest for technology approach and mission framing, but weaker than filings for
+current scale and finances. **The 400 MW Cape Station figure in the claims above is superseded**
 — Fervo's IPO prospectus states 500 megawatts under construction. For capacity, schedule, offtake,
 headcount, and finances cite
 [Source: Fervo Energy IPO Prospectus (Form 424B4, May 2026)](fervo-energy-ipo-prospectus-2026.md) and

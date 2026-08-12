@@ -9,7 +9,7 @@
 **Archived:** 2026-06-29
 **Publisher:** Utah Division of Forestry, Fire and State Lands
 **Raw:** raw/great-salt-lake-official-website/2026-08-11-85467b02ebcb.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

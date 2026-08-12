@@ -9,11 +9,11 @@
 **Primary Location:** Vineyard, UT
 **Utah Location:** Vineyard, UT
 **Region:** Vineyard
-**Website:** https://www.renaissance-ag.com
+**Website:** https://www.linkedin.com/company/renaissance-ag
 **Updated:** 2026-07-14
 **Needs-reviewed:** 2026-07-14
 **Pull:** *A self-contained hydroponic container that produces 2,000 lbs of fresh livestock feed per day on less than 10% of the water pasture grazing requires — built for Utah ranchers in the driest stretch of the American West.*
-**Relates:** cites [Official Website: Renaissance Ag](renaissance-ag-official-website.md) · https://greatutah.work/pages/renaissance-ag-official-website.md · https://www.renaissance-ag.com
+**Relates:** cites [Renaissance Ag LinkedIn Company Profile](renaissance-ag-official-website.md) · https://greatutah.work/pages/renaissance-ag-official-website.md · https://www.linkedin.com/company/renaissance-ag
 
 ## Summary
 
@@ -47,11 +47,12 @@ Renaissance Ag is a Vineyard, Utah hardware company in the heart of the Utah ag 
 
 ## Evidence
 
-- [Official Website: Renaissance Ag](renaissance-ag-official-website.md) · https://greatutah.work/pages/renaissance-ag-official-website.md · https://www.renaissance-ag.com
+- [Renaissance Ag LinkedIn Company Profile](renaissance-ag-official-website.md) · https://greatutah.work/pages/renaissance-ag-official-website.md · https://www.linkedin.com/company/renaissance-ag
+- Former official website: https://renaissanceag.com/ — corroborated by the company's LinkedIn profile and a 2024 academic case study; unavailable during verification on 2026-08-11
 
 ## Open Questions
 
-- Website URL (renaissance-ag.com) — verify this is the active domain; the "Renaissance Ag" name is shared with unrelated companies. renaissanceag.com (no hyphen) appears to host PastureBox product pages but failed TLS verification in the careers check.
+- Is the company still operating beyond its public LinkedIn presence? Its real historical domain, `renaissanceag.com` (no hyphen), was unavailable on 2026-08-11. The previously listed `renaissance-ag.com` was never supported and does not belong to this company.
 - PastureBox economics vs. commodity hay: competitive at what hay price point? At $200/ton hay, does a PastureBox pay back in under 3 years?
 - Livestock performance data on sprouted fodder diets: milk production consistency, beef gain rates — this is the rancher's primary concern and the data should be publicly available from customer deployments.
 - No agent-readable careers/jobs page found.

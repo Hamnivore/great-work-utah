@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** collagen hybridizing peptides, diagnostics, drug delivery, histopathology, collagen damage
+**Identifiers:** cik=0002001622, ein=47-3181487
 **Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory, sales-business-development
 **Stage:** Private growth; BASF equity investment and personal-care license (2023); Utah Innovation Fund
 **Primary Location:** Salt Lake City, UT

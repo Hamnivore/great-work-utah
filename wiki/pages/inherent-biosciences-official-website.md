@@ -9,7 +9,7 @@
 **Archived:** 2026-05-27
 **Publisher:** Inherent Biosciences
 **Raw:** raw/inherent-biosciences-official-website/2026-08-11-6db2ddc91cb9.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

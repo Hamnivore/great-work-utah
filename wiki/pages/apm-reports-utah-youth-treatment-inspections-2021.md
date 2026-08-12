@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260420154918/https://www.apmreports.org/story/2021/03/10/new-data-underscores-utahs-lax-oversight-of-youth-treatment-programs
 **Archived:** 2026-04-20
 **Publisher:** APM Reports
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/apm-reports-utah-youth-treatment-inspections-2021/2026-08-11-6ba750890948.txt
 **Published:** 2021-03-10
 **Updated:** 2026-08-11
@@ -38,18 +38,21 @@ weakest part of it — see the reliability notes.
 - **Findings were falling, not rising, before the reform**: 84 deficiencies in 2020 against 233 in
   2018, with 86 percent of facilities inspected in the year before publication receiving a perfect
   score — most of those inspections conducted virtually because of the pandemic.
-- **Inspections were annual, scheduled, and checklist-driven** before 2021: once a year per program,
-  against a 14-page checklist that the story says is unweighted, so "a ripped van seat counts the
-  same as a child complaining they aren't given enough to eat".
+- **Inspections were annual and checklist-driven** before 2021: once a year per program, against a
+  14-page checklist that the story says is unweighted, so "a ripped van seat counts the same as a
+  child complaining they aren't given enough to eat". The story does not say the visits were
+  *announced* — for that, see the former Office of Licensing director quoted in
+  [KUER](kuer-utah-congregate-care-reform-one-year-2022.md).
 - **An outside expert called the instrument useless.** Ronald Davidson, former director of the Mental
   Health Policy Program at the University of Illinois at Chicago's Department of Psychiatry, reviewed
   a portion of the reports for the Tribune and concluded that either Utah has the nation's
   best-performing residential treatment centers or its investigators are "sleepwalking their way
   through on-site reviews".
-- **The reform bill added inspectors with money, not with an appropriation in the bill.** The story
-  reports it "provides an additional $534,000 to hire more inspectors" — a figure that appears
-  nowhere in [the enrolled statute](utah-sb127-2021-congregate-care-statute.md), whose front matter
-  says it appropriates nothing.
+- **The story attributes $534,000 for more inspectors to the bill.** It reports that S.B. 127
+  "provides an additional $534,000 to hire more inspectors" — a figure that appears nowhere in
+  [the enrolled statute](utah-sb127-2021-congregate-care-statute.md), whose front matter says it
+  appropriates nothing. See the reliability notes: the two statements are in tension and this wiki has
+  not resolved which vehicle carried the money.
 - **It reports the sector's national concentration and scale**: that Utah has "a greater
   concentration of such programs than any other state", that more than 12,000 children from across
   the country were sent to Utah for treatment over the preceding five years, and that the industry
@@ -129,10 +132,13 @@ and "hundreds of millions of dollars into the state's economy each year". These 
 likely to be quoted onward and the least supported here; they are the reporters' assertions, and this
 wiki attributes them rather than adopting them.
 
-**The $534,000 for inspectors is not in the bill.** [S.B. 127's](utah-sb127-2021-congregate-care-statute.md)
-front matter states it appropriates nothing, so the money came through the session's appropriations
-process rather than the bill text. The story does not say which line item, and this wiki has not
-traced it.
+**The $534,000 for inspectors is not in the bill, and the story says it is.**
+[S.B. 127's](utah-sb127-2021-congregate-care-statute.md) front matter states it appropriates nothing,
+yet the story says the bill "provides" the money. Both readings are plausible — the figure may be the
+bill's fiscal-note estimate of what the new duties cost, or the money may have moved in the session's
+appropriations act — and nothing captured here distinguishes them. Anyone repeating the figure should
+say the reporting attributes it to the reform, not that the statute appropriated it. The fiscal note
+at `le.utah.gov` would settle this cheaply and has not been retrieved.
 
 **Written before enactment.** The story says the legislation "still needs the governor's signature",
 which it received on 2021-03-22 ([status record](utah-sb127-2021-bill-status-record.md)). Its

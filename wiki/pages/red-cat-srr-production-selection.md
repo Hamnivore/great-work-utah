@@ -9,7 +9,7 @@
 **Archived:** 2026-05-16
 **Publisher:** Red Cat Holdings
 **Raw:** raw/red-cat-srr-production-selection/2026-08-11-b2534b166161.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-25
 
 ## Summary

@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260807124854/https://www.boxeldercountyut.gov/641/Stratos-Project
 **Archived:** 2026-08-07
 **Publisher:** Box Elder County, Utah
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/stratos-box-elder-county-project-page/2026-08-11-d12e8d106482.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Stratos Data Center](stratos-data-center.md) · https://greatutah.work/pages/stratos-data-center.md · https://www.boxeldercountyut.gov/641/Stratos-Project

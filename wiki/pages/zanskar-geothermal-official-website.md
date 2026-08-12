@@ -9,7 +9,7 @@
 **Archived:** 2026-07-22
 **Publisher:** Zanskar Geothermal
 **Raw:** raw/zanskar-geothermal-official-website/2026-08-11-de0ba7728edf.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

@@ -92,11 +92,12 @@ Not every commercialization question is a deep-tech funding question. A research
 
 ## Open Questions
 
-- Which BYU / USU / Utah Tech technology-transfer offices should be added as companion resource pages now that the U of U TLO page exists?
-- Which Utah research spinouts have public evidence strong enough for venture pages?
+- Which Utah research spinouts have strong public evidence of current activity and a Utah footprint?
 - What is the right checklist for deciding between SBIR/STTR, equity, licensing, and industry partnership?
 - Which regulated research areas are likely to benefit from Utah's sandbox instead of needing federal regulatory counsel first?
 
 ## Maintainer Notes
 
 - Create or use match pages for recurring person-to-venture needs that cannot be served by a program page.
+- Add companion resource pages for the BYU, USU, and Utah Tech technology-transfer offices when current public pathways are verified.
+- Create venture pages for research spinouts only when their current activity and Utah footprint are publicly supported.

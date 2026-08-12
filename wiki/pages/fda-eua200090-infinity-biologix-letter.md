@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.fda.gov/media/137773/download
 **Publisher:** U.S. Food and Drug Administration
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/fda-eua200090-infinity-biologix-letter/2026-08-11-86ae047d9f54.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Spectrum Solutions](spectrum-solutions.md) · https://greatutah.work/pages/spectrum-solutions.md · https://www.fda.gov/media/137773/download

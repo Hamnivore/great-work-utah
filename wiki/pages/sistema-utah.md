@@ -56,10 +56,17 @@ address on the IRS record.
   ([Form 990 record](sistema-utah-form-990-record.md)) against a self-reported **~400 students**
   and **15 hours/week** each. How labor, instruments, and facilities are financed beyond cash
   contributions is not explained in captured documents.
-- **Best of State medal not asserted** — no winner-list source in this shard.
+- **The Best of State medals are now documented, and they are two, in one year.** The 2025 program book
+  lists Sistema Utah as the winner in **Children's Orchestra** (Arts & Entertainment) and in **Musical
+  Instruments** ([2025 program book](best-of-state-2025-winners-list.md)). Read that as two paid category
+  entries judged on their own submissions, not as two contests won against deep fields — see
+  [Best of State Awards](best-of-state-awards.md) for what a medal establishes. For a nonprofit running
+  on $24,791 of reported revenue, what it usefully corroborates is that the program was operating at the
+  scale it describes in 2025.
 
 ## Evidence
 
 - [Source: Sistema Utah — Official Website](sistema-utah-official-website.md) · https://greatutah.work/pages/sistema-utah-official-website.md · https://www.sistemautah.org/
 - [Source: Sistema Utah — About Page](sistema-utah-about-page.md) · https://greatutah.work/pages/sistema-utah-about-page.md · https://www.sistemautah.org/about.html
 - [Source: IRS Form 990 Record — Sistema Utah](sistema-utah-form-990-record.md) · https://greatutah.work/pages/sistema-utah-form-990-record.md · https://projects.propublica.org/nonprofits/organizations/455259246
+- [Source: Best of State 2025 Awards Program Book (PDF)](best-of-state-2025-winners-list.md) · https://greatutah.work/pages/best-of-state-2025-winners-list.md · https://www.bestofstate.org/__l5e/assets-v1/1a1ae534-b5f4-4d81-a8f0-394011da6318/2025_bos_winners.pdf

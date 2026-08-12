@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20250603051826/https://oig.ed.gov/sites/default/files/reports/2025-06/FY17A05M0009032724v100SECURED.pdf
 **Archived:** 2025-06-03
 **Publisher:** U.S. Department of Education, Office of Inspector General
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ed-oig-wgu-title-iv-audit-2017/2026-08-11-64a2a7b6deb0.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Western Governors University](western-governors-university.md) · https://greatutah.work/pages/western-governors-university.md · https://oig.ed.gov/
@@ -71,7 +71,7 @@ determination of law, a court ruling, or a final agency action. Federal Student 
 decision authority over whether to seek recovery. Secondary reporting indicates the Department
 declined to pursue the recommended repayment, citing the ambiguity of the regulations during the
 audit period; **that disposition is not captured here and is therefore not asserted.** It is the
-obvious next capture, and until it exists this page should not be cited as though the finding stood.
+obvious next source; until it is available, this document does not establish that the finding stood.
 
 The dispute is also of general significance beyond WGU: "regular and substantive interaction" is the
 line separating distance education from correspondence education for Title IV purposes, and the

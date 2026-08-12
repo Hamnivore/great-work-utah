@@ -9,7 +9,7 @@
 **Archived:** 2026-06-18
 **Publisher:** Utah Governor's Office of Economic Opportunity
 **Raw:** raw/goeo-apex-accelerator/2026-08-11-67085cabdf21.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

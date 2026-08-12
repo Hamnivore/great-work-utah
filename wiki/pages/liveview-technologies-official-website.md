@@ -9,7 +9,7 @@
 **Archived:** 2026-08-08
 **Publisher:** LiveView Technologies (LVT)
 **Raw:** raw/liveview-technologies-official-website/2026-08-11-538feb9277b0.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

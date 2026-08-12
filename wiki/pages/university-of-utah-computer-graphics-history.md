@@ -9,7 +9,7 @@
 **Archived:** 2026-05-18
 **Publisher:** Kahlert School of Computing, University of Utah
 **Raw:** raw/university-of-utah-computer-graphics-history/2026-08-11-22aa883acdef.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

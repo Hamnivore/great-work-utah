@@ -9,7 +9,7 @@
 **Archived:** 2026-07-29
 **Publisher:** Huntsman Cancer Institute / University of Utah Health
 **Raw:** raw/huntsman-cancer-institute-official-website/2026-08-11-008c4d0614d3.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.ftc.gov/sites/default/files/documents/cases/1997/08/nuskincs.pdf
 **Publisher:** U.S. Federal Trade Commission
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ftc-nu-skin-consent-decree-1997/2026-08-11-26c89cd29d81.txt
 **Published:** 1997-08-06
 **Updated:** 2026-08-11
@@ -17,12 +17,14 @@ The consent decree settling *United States v. Nu Skin International, Inc.* in th
 for the District of Utah: a **$1,500,000 civil penalty** paid to the Treasury, plus a permanent
 injunction against further violations of a 1994 FTC cease-and-desist order (Docket No. C-3489).
 
-The underlying allegation is set out in the notification letter the decree required Nu Skin to send
-every U.S. distributor, attached as Exhibit B. The FTC alleged that Nu Skin lacked the competent and
-reliable scientific evidence the 1994 order required to substantiate claims — made by the company and
-its distributors — that **chromium picolinate and L-carnitine reduce body fat or promote muscle
-development**, in advertising for Metabotrim, OverDrive, Glycobar, Appeal Lite and Breakbars. Nu Skin
-withdrew and destroyed the materials and told distributors to do the same.
+The underlying allegation is set out in the notification letter the decree required Nu Skin to send its
+U.S. distributors, attached as Exhibit B — specifically those who received a commission check or ordered
+from the company in the year before entry of the decree, plus current and future distributors thereafter.
+The FTC alleged that Nu Skin lacked the competent and reliable scientific evidence the 1994 order
+required to substantiate claims — made by the company and its distributors — that **chromium picolinate
+and L-carnitine reduce body fat or promote muscle development**, in advertising for Metabotrim,
+OverDrive, Glycobar, Appeal Lite and Breakbars. Nu Skin withdrew and destroyed the materials, and the
+letter tells distributors "We suggest that you do the same" — a suggestion, not a directive.
 
 This is a civil-penalty action for violating an existing order, not a first offense — which is what
 makes it the load-bearing document in the Utah direct-selling cluster's compliance record. It is also
@@ -81,12 +83,17 @@ the structural pattern the [2020 FTC warning letters](ftc-mlm-covid-warning-lett
 
 **The captured copy is unexecuted.** The FTC's posted PDF is the consent decree as submitted: the
 signature lines are blank and the date reads "Dated this ________ day of _______________, 1997."
-So the document proves the agreed terms, not the date of entry. The `Published:` date on this page
-comes from the FTC's own case-file path (`/cases/1997/08/`), not from the document; a page that needs
-the exact entry date should cite the court docket instead.
+So the document proves the agreed terms, not the date of entry. A page that needs the exact entry date
+should cite the court docket instead.
 
-**Nu Skin International, Inc. is not Nu Skin Enterprises, Inc.** The defendant is the Provo operating
-company as it was structured in 1997; the SEC registrant that files today is Nu Skin Enterprises, Inc.
+**The `Published:` day is the weakest field on this page.** The FTC's case-file path (`/cases/1997/08/`)
+gives a month, not a day, and the document is undated. `1997-08-06` should therefore be read as a
+month-precision date carrying a placeholder day until the docket is pulled.
+
+**Nu Skin International, Inc. is not Nu Skin Enterprises, Inc.** The defendant is the operating company
+as it was structured in 1997 — the decree gives no address for it, so this page does not place it in a
+city; the only geographic trace in the document is an `(801)` phone fragment in Exhibit B. The SEC
+registrant that files today is Nu Skin Enterprises, Inc.
 (see [FY2025 Form 10-K](nu-skin-10k-fy2025.md)). The corporate history between them is not in this
 document, so do not attribute the penalty to the present-day registrant without a source that traces
 the succession — though note the decree binds "successors and assigns."

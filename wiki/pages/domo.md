@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS
+**Identifiers:** cik=0001505952, ein=27-3687433
 **Roles:** software-engineering, data-science, product-design
 **Stage:** Public (NASDAQ: DOMO)
 **Primary Location:** American Fork, UT

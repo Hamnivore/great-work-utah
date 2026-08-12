@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20250116043232/https://projects.propublica.org/nonprofits/organizations/841369453
 **Archived:** 2025-01-16
 **Publisher:** ProPublica Nonprofit Explorer (republishing IRS Form 990 data)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/globus-relief-form-990-record/2026-08-11-4d05a15db357.txt
 **Updated:** 2026-08-11
 

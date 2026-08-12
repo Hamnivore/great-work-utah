@@ -9,7 +9,7 @@
 **Archived:** 2026-07-29
 **Publisher:** The Nucleus Institute
 **Raw:** raw/nucleus-utif/2026-08-11-fbb90f868626.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

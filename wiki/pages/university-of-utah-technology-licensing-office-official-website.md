@@ -9,7 +9,7 @@
 **Archived:** 2026-06-06
 **Publisher:** University of Utah Technology Licensing Office
 **Raw:** raw/university-of-utah-technology-licensing-office-official-website/2026-08-11-288f2085763b.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

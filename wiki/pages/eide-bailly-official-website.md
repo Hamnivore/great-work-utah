@@ -9,7 +9,7 @@
 **Archived:** 2026-01-25
 **Publisher:** Eide Bailly LLP
 **Raw:** raw/eide-bailly-official-website/2026-08-11-74cbda246fd2.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

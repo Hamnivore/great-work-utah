@@ -5,7 +5,7 @@
 **Confidence:** High
 **Source Type:** peer-reviewed
 **Publisher:** Annals of Global Health (Elsevier)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **URL:** https://doi.org/10.1016/j.aogh.2015.03.001
 **Published:** 2015-03-01
 **Updated:** 2026-08-11

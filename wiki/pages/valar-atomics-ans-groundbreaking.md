@@ -9,7 +9,7 @@
 **Archived:** 2026-07-28
 **Publisher:** American Nuclear Society (ANS)
 **Raw:** raw/valar-atomics-ans-groundbreaking/2026-08-11-ccd3e233a7bd.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

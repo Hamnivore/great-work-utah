@@ -9,7 +9,7 @@
 **Archived:** 2022-04-06
 **Publisher:** Best of State Foundation
 **Raw:** raw/best-of-state-2019-winners-list/2026-08-11-f882bebc485c.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

@@ -9,7 +9,7 @@
 **Archived:** 2026-08-11
 **Publisher:** University of Utah Continuing Education
 **Raw:** raw/university-of-utah-james-mayfield-instructor-profile/2026-08-11-d6e8e94958ec.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [CHOICE Humanitarian](choice-humanitarian.md) · https://greatutah.work/pages/choice-humanitarian.md · https://continue.utah.edu/osher/instructor/592479
 

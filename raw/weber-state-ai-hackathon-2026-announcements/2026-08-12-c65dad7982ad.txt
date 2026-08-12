@@ -1,0 +1,82 @@
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Tristan Rhodes — AI Integration and Automation Engineer, Weber State University
+date: 2026-02-26T23:59:25.468Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1772150365468719
+
+I want to personally invite this group to register for our next **Weber State AI Hackathon**.
+
+This event will give you hands-on experience with the next-generation of AI tools that are changing the world.
+No experience is required, in fact, you will be amazed by what you can build simply by describing it!
+
+It would mean a lot to me if you forwarded this to anyone you think would be interested.
+Thanks and I hope to see you there!  - Tristan
+
+**Why You Should Join:**
+
+:moneybag: $1,800 Prize Pool: Compete for cash prizes across Novice, Intermediate, and Advanced categories.
+:handshake: Tech Job Fair: Connect directly with top employers and recruiters looking for talent.
+:mortar_board: Expert Training: Learn from industry pros with exclusive AI workshops.
+:pizza: All-Inclusive: Your ticket includes breakfast, lunch, snacks, and exclusive hackathon swag (t-shirt included!).
+
+**The Details:**
+
+**Build (Remote)**: March 21 – April 3, 2026 (Receive mentorship &amp; tools)
+**Finale (In-Person):** Saturday, April 4, 2026
+**Location**: Shepherd Union, Weber State University (Ogden, UT)
+**Cost**: Only $10
+
+Who Can Join? Open to everyone over 18, including students, professionals, and AI enthusiasts.
+:warning: Spots are limited. Don't miss out on the innovation event of the year.
+
+Register now: <https://hackathon.weber.edu/>
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #jobs
+author: Tristan Rhodes — AI Integration and Automation Engineer, Weber State University
+date: 2026-03-07T22:31:02.137Z
+permalink: https://forgeutah.slack.com/archives/CHZ0MNQH4/p1772922662137099
+
+We are hosting a Job Fair during the Weber State AI Hackathon, which is FREE for employers.
+
+If you know anyone who wants to hire brilliant people with AI experience, this is the place to be.
+Thanks for your help!
+<https://hackathon.weber.edu/>
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Tristan Rhodes — AI Integration and Automation Engineer, Weber State University
+date: 2026-03-16T23:17:21.290Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1773703041290679
+
+Final reminder to register for the Weber State AI Hackathon before the deadline on March 18th!
+
+*Invite your friends*
+
+If you know someone who has always dreamed of building an app or website, this hackathon is the very best way to start.
+We provide free AI tools and mentors for two weeks, to help them build their very first project.
+Don't miss this opportunity, be sure to invite them!
+
+*Perks for Advanced teams* 
+
+We have added a lot of prizes to the intermediate and advanced levels to encourage experienced builders to participate.
+We want to see what happens when your advanced skills combine with the current generation of AI tools.
+
+Thanks for helping us get the word out!
+More info and Register here: <http://hackathon.weber.edu/>
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #general
+author: Tristan Rhodes — AI Integration and Automation Engineer, Weber State University
+date: 2026-03-24T17:05:24.737Z
+permalink: https://forgeutah.slack.com/archives/CC92KEJK1/p1774371924737289
+
+Does anyone want to give a presentation on how to market and monetize your apps?
+This will be on April 4th in Ogden, Utah for the Weber State AI Hackathon.
+Let me know if you are interested.  Thanks!

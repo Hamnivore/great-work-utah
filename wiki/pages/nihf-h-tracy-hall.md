@@ -9,7 +9,7 @@
 **Archived:** 2026-05-10
 **Publisher:** National Inventors Hall of Fame
 **Raw:** raw/nihf-h-tracy-hall/2026-08-11-4cd1b09d84cf.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

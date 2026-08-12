@@ -5,8 +5,10 @@
 **Confidence:** Medium
 **Source Type:** press-release
 **URL:** https://www.ftc.gov/news-events/news/press-releases/2020/04/ftc-sends-warning-letters-multi-level-marketers-regarding-health-earnings-claims-they-or-their
+**Archive:** https://web.archive.org/web/20260604000240/https://www.ftc.gov/news-events/news/press-releases/2020/04/ftc-sends-warning-letters-multi-level-marketers-regarding-health-earnings-claims-they-or-their
+**Archived:** 2026-06-04
 **Publisher:** U.S. Federal Trade Commission
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ftc-mlm-covid-warning-letters-2020/2026-08-11-bb79369b0037.txt
 **Published:** 2020-04-24
 **Updated:** 2026-08-11
@@ -73,11 +75,17 @@ the primary records and are captured individually — see [doTERRA](ftc-warning-
 Quote the letters for what the FTC told a company; quote this release only for the fact and shape of
 the batch.
 
-**A warning letter alleges; it does not adjudicate.** No recipient was found to have violated
-anything by receiving one, and nothing here says a company itself made the quoted claims — most of
-the quoted material is distributor social-media posts. The FTC's point is that the distinction does
-not relieve the company. Pages citing this should preserve that: "the FTC warned X about claims by
-its distributors," never "X was found to have made false claims."
+**A warning letter alleges; it does not adjudicate.** No recipient was found to have violated anything
+by receiving one, and any page citing this should say "the FTC warned X about claims made by it or its
+distributors," never "X was found to have made false claims."
+
+**On who made the claims, the release is deliberately ambiguous and this page should not resolve it.**
+It says the letters highlight "specific claims made by the companies **or** their distributors", and it
+does not attribute either of its two quoted examples to one or the other. Elsewhere it goes further than
+the distributor framing: the FTC "states that one or more of the efficacy claims **made by the companies**
+are unsubstantiated," and it notes parenthetically that It Works Marketing "was also itself warned to stop
+making earnings claims." So the record supports company-or-distributor and, in the efficacy letters,
+company claims — not the reading that this was only distributors' social media.
 
 **Recipient grouping matters.** The FTC split the ten into health-and-earnings, earnings-only, and
 health-only groups. The three Utah companies are all in the first, which is the most serious of the

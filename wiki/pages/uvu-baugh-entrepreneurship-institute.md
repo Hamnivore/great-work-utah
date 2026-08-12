@@ -9,7 +9,7 @@
 **Archived:** 2026-05-07
 **Publisher:** Utah Valley University
 **Raw:** raw/uvu-baugh-entrepreneurship-institute/2026-08-11-172cba70e62a.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

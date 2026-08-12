@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.nasa.gov/history/rogersrep/genindex.htm
 **Publisher:** NASA History / Presidential Commission on the Space Shuttle Challenger Accident
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

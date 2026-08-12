@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Identifiers:** ein=87-0117545
 **Primary Location:** Box Elder County, UT
 **Utah Location:** Box Elder County, UT
 **Updated:** 2026-08-11

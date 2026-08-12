@@ -9,7 +9,7 @@
 **Archived:** 2026-07-27
 **Publisher:** Skullcandy
 **Raw:** raw/skullcandy-official-website/2026-08-11-15c961bea46f.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.midaut.org/s/Stratos-Project-Area-Plan-May-2026-khcb.pdf
 **Publisher:** Military Installation Development Authority
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/stratos-project-area-plan/2026-08-11-cdb7120fcdb8.txt
 **Updated:** 2026-08-11
 

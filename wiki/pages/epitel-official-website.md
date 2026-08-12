@@ -9,7 +9,7 @@
 **Archived:** 2026-08-08
 **Publisher:** Epitel, Inc.
 **Raw:** raw/epitel-official-website/2026-08-11-c73bbb9c5fe6.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

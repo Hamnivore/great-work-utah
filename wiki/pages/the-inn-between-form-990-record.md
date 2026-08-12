@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20250116043232/https://projects.propublica.org/nonprofits/organizations/472329595
 **Archived:** 2025-01-16
 **Publisher:** ProPublica Nonprofit Explorer (republishing IRS Form 990 data)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/the-inn-between-form-990-record/2026-08-11-6dbac1b8b4a9.txt
 **Updated:** 2026-08-11
 **Relates:** cites [The INN Between](the-inn-between.md) · https://greatutah.work/pages/the-inn-between.md · https://projects.propublica.org/nonprofits/organizations/472329595

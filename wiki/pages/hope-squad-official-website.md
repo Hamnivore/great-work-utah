@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260811224124/https://hopesquad.com/
 **Archived:** 2026-08-11
 **Publisher:** Hope Squad / Hope 4 Utah
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/hope-squad-official-website/2026-08-11-f3ccf53b7cef.txt
 **Updated:** 2026-08-11
 

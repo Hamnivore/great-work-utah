@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://attorneygeneral.utah.gov/far-more-than-just-an-app/
 **Publisher:** Utah Office of the Attorney General
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/utah-ag-safeut-far-more-than-an-app/2026-08-11-0c82b50671e1.txt
 **Updated:** 2026-08-11
 **Relates:** cites [SafeUT](safeut.md) · https://greatutah.work/pages/safeut.md · https://attorneygeneral.utah.gov/far-more-than-just-an-app/

@@ -9,7 +9,7 @@
 **Archived:** 2026-07-09
 **Publisher:** The Other Side Academy
 **Raw:** raw/the-other-side-academy-official-website/2026-08-11-50046eb60804.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [The Other Side Academy](the-other-side-academy.md) · https://greatutah.work/pages/the-other-side-academy.md · https://www.theothersideacademy.com/
 

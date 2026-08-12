@@ -1,0 +1,16 @@
+{
+  "source_page": "us-v-young-living-misdemeanor-information-2017.md",
+  "requested_url": "https://archive.org/download/gov.uscourts.utd.106989/gov.uscourts.utd.106989.1.0.pdf",
+  "final_url": "https://ia800404.us.archive.org/28/items/gov.uscourts.utd.106989/gov.uscourts.utd.106989.1.0.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:40:53.531Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "b5754fe5343505c274c2865ca76e06809bdf1b6d8aed57f78d4bfd7a8e82152b",
+  "text_sha256": "0094459da636628b24fe4ed3cf27cf282977779ee741004ab90d411aa5c4ae3f",
+  "text_chars": 3277,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 3,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

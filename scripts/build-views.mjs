@@ -15,6 +15,12 @@ fs.mkdirSync(VIEWS, { recursive: true })
 const meta = (raw, key) => (raw.match(new RegExp(`^\\*\\*${key}:\\*\\* (.+)$`, 'm')) || [])[1] || ''
 const section = (raw, name) => (raw.match(new RegExp(`## ${name}\\s+([\\s\\S]*?)(?=\\n## |$)`)) || [])[1]?.trim() || ''
 const clip = (t, n = 150) => { const s = (t || '').replace(/\s+/g, ' ').trim(); return s.length <= n ? s : s.slice(0, n - 1) + '…' }
+// Page prose is authored relative to wiki/pages/. When snippets are copied into a
+// generated view, preserve that origin so the same citation does not become /views/<slug>.
+const rebasePageLinks = (text) => String(text || '').replace(
+  /\]\(([a-z0-9-]+\.md(?:#[^)]+)?)\)/g,
+  '](/pages/$1)',
+)
 
 const pages = []
 const ROLES = [
@@ -53,9 +59,9 @@ for (const f of fs.readdirSync(PAGES).sort()) {
     careers: meta(raw, 'Careers'),
     roles: meta(raw, 'Roles').split(',').map((s) => s.trim()).filter((s) => ROLE_TAGS.has(s)),
     domains: domain ? domain.split(',').map((s) => s.trim().toLowerCase().replace(/\s*\(.*\)$/, '')) : [],
-    needs: clip(section(raw, 'What They Need Now'), 400),
+    needs: clip(rebasePageLinks(section(raw, 'What They Need Now')), 400),
     needsReviewed: meta(raw, 'Needs-reviewed'),
-    summary: clip(section(raw, 'Summary'), 150),
+    summary: clip(rebasePageLinks(section(raw, 'Summary')), 150),
     stage: meta(raw, 'Stage'),
     era: meta(raw, 'Era'),
     audience: meta(raw, 'Audience'),

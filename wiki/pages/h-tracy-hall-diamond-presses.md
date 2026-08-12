@@ -79,6 +79,6 @@ Hall's Utah connection is direct and durable: a University of Utah Ph.D. who bui
 
 ## Open Questions
 
-- Accounts of Hall's role and recognition at GE are historically charged; this page should keep distinguishing clean attribution (the Belt design, the Dec. 16, 1954 run) from contested credit.
+- Which primary records distinguish Hall's documented Belt design and December 1954 run from the contested allocation of credit at GE?
 - A `megadiamond.md` page would be a natural cross-link target and does not yet exist. Neither does one for Diamicron. [US Synthetic](us-synthetic.md) now exists and carries the downstream half of this story.
 - Confirm the exact founding date and corporate history of MegaDiamond and Novatek against primary sources before stating them precisely. The only source the corpus currently holds for the MegaDiamond founding trio is a 2010 newspaper obituary quoting a company CEO ([Deseret News](deseret-news-bill-pope-obituary-2010.md)) — well-placed but interested, and no registration record has been pulled.

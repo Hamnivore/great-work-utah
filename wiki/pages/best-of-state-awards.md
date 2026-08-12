@@ -40,7 +40,15 @@ enough to enter, and satisfied volunteer judges reading its own submission — u
 company's activity and for third-party corroboration of a self-description. It is not evidence of
 market position, scale, or being the best at anything, and **the absence of an organization from these
 lists means nothing whatsoever**: Utah's largest and most consequential companies are almost entirely
-missing from them, because they never entered.
+missing from them. Since only entrants can win, the likeliest explanation is that they never entered —
+though nothing published says who declined to enter, so absence cannot be read as a judgment either way.
+
+Medal *counts* are the most misread number here. In the 2026 directory, one individual holds seven
+medals across five divisions and one nonprofit holds ten across four
+([2026 winners page](best-of-state-2026-winners-page.md)). Nothing improper is happening: entering many
+categories is permitted, each entry is paid for separately, and each is judged on its own. But it means
+"15x Best of State Winner" — a line that appears in the program book's own advertisements — measures
+category filings, not fifteen contests won against fifteen fields.
 
 ## Who It's For
 
@@ -97,12 +105,19 @@ Internet Archive; this wiki's recovered rows for 2003 and 2005–2019 are in
 - **Nobody publishes how many nominees a category draws, and it is the number that would settle what a
   medal means.** With 764 categories on the 2026 list and 474 medals awarded, on the order of 290
   categories produced no winner at all that year — arithmetic across two captured documents — which
-  implies thin or empty fields in much of the taxonomy. Whether a given medal beat fifty entrants or
-  one is not knowable from anything published.
-- **The judging has no independent audit.** Independent scoring, anonymous judges, conflict-of-interest
-  abstention, and outside tabulation are all described by the program, about the program
-  ([2025 program book](best-of-state-2025-winners-list.md)). Gilbert & Stewart certifies the
-  arithmetic, not the fairness.
+  implies thin or empty fields in much of the taxonomy. Setting the two documents side by side per
+  division sharpens it: Dining offers 215 categories and awarded 95 medals, Sports & Recreation offers 49
+  and awarded 17, Science & Technology offers 37 and awarded 21. Roughly two of every five categories
+  drew a winner. The repeat-entrant rows point the same way: if seven of the year's medals go to one
+  person, those fields are unlikely to be deep. Whether a given medal beat fifty entrants or one is still
+  not knowable from anything published.
+- **The judging has no independent audit, and its conflict rule is self-triggered.** Independent
+  scoring, anonymous judges, and outside tabulation are all described by the program, about the program
+  ([2025 program book](best-of-state-2025-winners-list.md)). Gilbert & Stewart certifies the arithmetic,
+  not the fairness. On conflicts, the program's own wording is that judges abstain where they "feel"
+  they have a personal conflict and that scores are dropped only "if Best of State is made aware" of
+  one — a control with no described way to catch an undisclosed conflict, made harder by the judges'
+  anonymity.
 - **The program book is partly funded by winners.** Full-page advertisements throughout the 2025 book
   are bought by organizations advertising their own medal counts. The program states that sponsorship
   does not affect results; no third party has tested that.
@@ -117,9 +132,13 @@ Internet Archive; this wiki's recovered rows for 2003 and 2005–2019 are in
   Development statue). Both rows come from the recovered TSV rather than from a captured document, and
   no page here asserts them. If they hold, they are the sharpest available evidence that the award
   tracks reputation at the time of entry rather than durable merit, and they deserve a real source.
-- **The 2019 Science & Technology statue went to "Blackrock Microsystems"**, which is very likely the
-  earlier name of the company on [Blackrock Neurotech](blackrock-neurotech.md) — but no captured
-  document in this wiki establishes the rename, so the pages are not linked as one entity.
+- **The 2019 Science & Technology statue went to "Blackrock Microsystems"**, and this wiki does not
+  assert that it is the company on [Blackrock Neurotech](blackrock-neurotech.md). The inference is easy
+  to make and nothing captured here supports it: no document in the corpus mentions the former name, and
+  neither the Blackrock page's own sources nor the 2019 directory connects them. A Utah business-entity
+  record showing a name change, or the company's own history page, would settle it in one fetch. Until
+  then the statue row stands as an unattached fact — and a statue is the strong form of this award, so
+  attaching it correctly matters more than usual.
 - **The program's legal entity is unresolved.** No `ein` or `utah-entity` has been pulled for the Best
   of State Foundation, so its filings, revenue, and governance are undocumented here. It is the
   cheapest remaining improvement to this page.

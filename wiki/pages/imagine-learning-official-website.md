@@ -7,7 +7,7 @@
 **URL:** https://www.imaginelearning.com/
 **Publisher:** Imagine Learning
 **Raw:** raw/imagine-learning-official-website/2026-08-11-de581131159e.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

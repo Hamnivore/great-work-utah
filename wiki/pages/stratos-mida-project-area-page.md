@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260726191627/https://www.midaut.org/stratos
 **Archived:** 2026-07-26
 **Publisher:** Military Installation Development Authority
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/stratos-mida-project-area-page/2026-08-11-6fe96a0d4693.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Stratos Data Center](stratos-data-center.md) · https://greatutah.work/pages/stratos-data-center.md · https://www.midaut.org/stratos

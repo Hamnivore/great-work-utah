@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://technologylicensing.utah.edu/news-events/startups/bioparin-sttr-grant
 **Publisher:** University of Utah Technology Licensing Office
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/bioparin-official-website/2026-08-11-b5a049acb318.txt
 **Updated:** 2026-06-19
 

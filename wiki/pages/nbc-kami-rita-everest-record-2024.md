@@ -7,7 +7,7 @@
 **URL:** https://www.nbcnews.com/news/world/sherpa-guide-kami-rita-climbs-mount-everest-record-30th-time-rcna153456
 **Publisher:** NBC News (Associated Press)
 **Published:** 2024-05-22
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/nbc-kami-rita-everest-record-2024/2026-08-11-301d9f17f5ce.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Apa Sherpa's Everest Summits](apa-sherpa-everest-summits.md) · https://greatutah.work/pages/apa-sherpa-everest-summits.md · https://www.nbcnews.com/news/world/sherpa-guide-kami-rita-climbs-mount-everest-record-30th-time-rcna153456

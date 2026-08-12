@@ -9,7 +9,7 @@
 **Archived:** 2026-07-06
 **Publisher:** US Synthetic Corporation
 **Raw:** raw/us-synthetic-company-history/2026-08-11-7ef44ba8bcd6.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [US Synthetic](us-synthetic.md) · https://greatutah.work/pages/us-synthetic.md · https://ussynthetic.com/company-history/
 

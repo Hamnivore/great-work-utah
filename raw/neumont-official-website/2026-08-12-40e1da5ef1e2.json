@@ -1,0 +1,13 @@
+{
+  "source_page": "neumont-official-website.md",
+  "requested_url": "https://www.neumont.edu/",
+  "final_url": "https://www.neumont.edu/",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:41:10.707Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes_sha256": "ef739248658b118c4718ed65f98f87b152073eba954dc6024395b680f90d35e4",
+  "text_sha256": "40e1da5ef1e22081a16d663ea3e09b74b77a95cecb6c388d344a559f34406015",
+  "text_chars": 10351,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -9,7 +9,7 @@
 **Archived:** 2026-02-28
 **Publisher:** Dia Art Foundation
 **Raw:** raw/dia-spiral-jetty/2026-08-11-3128007ce124.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

@@ -7,7 +7,7 @@
 **URL:** https://www.sec.gov/Archives/edgar/data/867773/000086777324000086/ex991_202485pressrelease.htm
 **Publisher:** U.S. Securities and Exchange Commission (EDGAR) / SunPower Corp.
 **Published:** 2024-08-05
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Blue Raven Solar](blue-raven-solar.md) · https://greatutah.work/pages/blue-raven-solar.md · https://www.sec.gov/Archives/edgar/data/867773/000086777324000086/ex991_202485pressrelease.htm
 

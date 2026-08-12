@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://schools.utah.gov/schoolsafetycenter/_sscresources/_sscresourcedocs/SchoolSafeUTModelPolicy.pdf
 **Publisher:** Utah State Board of Education / School Safety Center
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/safeut-school-model-policy/2026-08-11-52b25cceef37.txt
 **Updated:** 2026-08-11
 **Relates:** cites [SafeUT](safeut.md) · https://greatutah.work/pages/safeut.md · https://schools.utah.gov/schoolsafetycenter/_sscresources/_sscresourcedocs/SchoolSafeUTModelPolicy.pdf

@@ -11,7 +11,7 @@
 **Map Location:** NOW CFO headquarters, 5251 Green Street, Suite 350, Murray, UT 84123
 **Coordinates:** 40.6575244, -111.9028652
 **Location Precision:** exact
-**Location Source:** https://www.nowcfo.com/wp-content/uploads/2022/09/NOW_CFO_BrandGuide_Q1_2022.pdf
+**Location Source:** https://www.google.com/maps/search/?api=1&query=NOW+CFO+5251+Green+Street+Suite+350+Murray+UT+84123
 **Website:** https://nowcfo.com/
 **Updated:** 2026-08-11
 

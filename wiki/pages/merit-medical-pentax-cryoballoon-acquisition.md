@@ -9,7 +9,7 @@
 **Archived:** 2025-11-06
 **Publisher:** Utah Business (republished press release)
 **Raw:** raw/merit-medical-pentax-cryoballoon-acquisition/2026-08-11-eb7eeeaded5a.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

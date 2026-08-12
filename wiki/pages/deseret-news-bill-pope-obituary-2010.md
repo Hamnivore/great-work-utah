@@ -7,7 +7,7 @@
 **URL:** https://www.deseret.com/2010/12/18/20161471/diamond-expert-bill-pope-leaves-behind-legacy-of-hard-work-curiosity/
 **Publisher:** Deseret News
 **Raw:** raw/deseret-news-bill-pope-obituary-2010/2026-08-11-7eaf0ebba5c3.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [US Synthetic](us-synthetic.md) · https://greatutah.work/pages/us-synthetic.md · https://www.deseret.com/2010/12/18/20161471/diamond-expert-bill-pope-leaves-behind-legacy-of-hard-work-curiosity/
 

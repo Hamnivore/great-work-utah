@@ -9,7 +9,7 @@
 **Archived:** 2026-08-11
 **Publisher:** CHOICE Humanitarian
 **Raw:** raw/choice-humanitarian-official-website/2026-08-11-1c606c3bdb5b.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [CHOICE Humanitarian](choice-humanitarian.md) · https://greatutah.work/pages/choice-humanitarian.md · https://www.choicehumanitarian.org/
 

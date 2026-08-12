@@ -51,6 +51,10 @@ AWE sits within a broader SDL atmospheric-sensing lineage that includes SABER/TI
 
 ## Open Questions
 
-- Scientific impact on upper-atmosphere modeling and space-weather forecasting will take years to assess; this page should be revisited as peer-reviewed AWE results appear.
+- What do peer-reviewed AWE results establish about improvements to upper-atmosphere modeling and space-weather forecasting?
+
+## Maintainer Notes
+
+- Revisit the impact assessment as peer-reviewed AWE results appear.
 - AWE is a NASA mission with national partners; the Utah claim is instrument build, mission operations, and science leadership — not sole mission ownership.
 - This entry may be best understood as part of the broader Space Dynamics Laboratory story unless the scientific results become especially influential.

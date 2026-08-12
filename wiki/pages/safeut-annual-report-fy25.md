@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://safeut.utahhealth.acsitefactory.com/sites/g/files/zrelqx271/files/media/documents/2026/safeut_annualreport_fy25_digital-2_0.pdf
 **Publisher:** University of Utah Health / SafeUT
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/safeut-annual-report-fy25/2026-08-11-ca22da49eaa4.txt
 **Updated:** 2026-08-11
 **Relates:** cites [SafeUT](safeut.md) · https://greatutah.work/pages/safeut.md · https://safeut.utahhealth.acsitefactory.com/sites/g/files/zrelqx271/files/media/documents/2026/safeut_annualreport_fy25_digital-2_0.pdf

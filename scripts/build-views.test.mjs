@@ -29,7 +29,7 @@ test('generates populated role views with useful lead context and navigation', (
   fs.writeFileSync(path.join(pages, 'alpha.md'), page({
     title: 'Alpha',
     roles: 'software-engineering, data-science',
-    needs: 'Backend programmers and data scientists to ship the platform.',
+    needs: 'Backend programmers and data scientists to ship the platform; see the [official source](alpha-source.md).',
     region: 'Salt Lake County',
     careers: 'https://alpha.example/jobs',
     reviewed: '2000-01-01',
@@ -78,6 +78,8 @@ test('generates populated role views with useful lead context and navigation', (
     const needs = fs.readFileSync(path.join(views, 'needs.md'), 'utf8')
     const index = fs.readFileSync(path.join(views, 'index.md'), 'utf8')
     assert.match(needs, /\[kind of work\]\(by-role\.md\).*https:\/\/greatutah\.work\/views\/by-role\.md/)
+    assert.match(needs, /\[official source\]\(\/pages\/alpha-source\.md\)/)
+    assert.doesNotMatch(needs, /\[official source\]\(alpha-source\.md\)/)
     assert.match(index, /\[by kind of work\]\(by-role\.md\)/)
     assert.match(index, /router for 4 pages/)
     assert.match(index, /Start by goal/)

@@ -51,4 +51,8 @@ Weaker fit for indoor software startups or founders seeking venture capital intr
 ## Open Questions
 
 - What are the current UORG grant cycles and match requirements?
-- Which UDOR business-recruitment contacts should be added as helper pages?
+- Which UDOR contacts currently handle outdoor-industry business recruitment?
+
+## Maintainer Notes
+
+- Add helper pages for publicly documented UDOR business-recruitment contacts when P2 supports them.

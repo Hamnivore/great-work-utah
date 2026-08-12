@@ -1,0 +1,1199 @@
+College Navigator - Neumont College of Computer Science
+My Favorites (0)
+4){alert('You may only compare up to 4 institutions at a time.');return(false);}else{var l;if(document.getElementById('ctl00_cphCollegeNavBody_ucFavoritesTop_txtCmpStore').value.length>0){l='&cp=1&sl='+document.getElementById('ctl00_cphCollegeNavBody_ucFavoritesTop_txtCmpStore').value.replace(new RegExp(/ /g),'+').substring(1);}else{l='';}window.location=(''+l);return(false);}"> 0){l='&fv='+document.getElementById('ctl00_cphCollegeNavBody_ucFavoritesTop_txtFavStore').value.replace(new RegExp(/ /g),'+').substring(1);}else{l='';}window.location=('?id=445692'+l);}}return(false);">
+No schools added
+Add Favorites
+To add a school click
+Compare Favorites
+After adding favorites, you may compare 2–4 favorite schools at a time.
+Save My Session:
+|
+You will be emailed a link to your saved session.
+Excel CSV
+|
+Name of School
+States (use map for more than 1 state)
+(use map for more than 1 state)</span>" style="height:49px;width:140px;">
+No Preference
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Fed. St. Micronesia
+Guam
+Marshall Islands
+Northern Marianas
+Palau
+Puerto Rico
+Virgin Islands
+ZIP Code
+Miles from
+5 miles
+10 miles
+15 miles
+20 miles
+25 miles
+50 miles
+100 miles
+150 miles
+200 miles
+250 miles
+Programs/Majors
+0 Items Selected
+Programs/Majors Selector
+Your Selections
+Only find schools that offer these selections as Distance Education
+Only find schools that offer ALL these selections
+Programs/Majors
+| Reset List
+Level of Award
+Certificate Associate's
+Bachelor's Advanced
+Institution Type
+Public
+4-year
+Private non-profit
+2-year
+Private for-profit
+< 2-year
+More Search Options
+Tuition & Fees
+Maximum
+$500
+$1,000
+$5,000
+$10,000
+$15,000
+$20,000
+$25,000
+$30,000
+$35,000
+$40,000
+$45,000
+$50,000
+$60,000
+State you live in
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Other
+Undergraduate Student Enrollment
+Minimum
+100
+200
+300
+500
+700
+1,000
+2,000
+3,000
+5,000
+7,000
+10,000
+20,000
+30,000
+to
+Maximum
+100
+200
+300
+500
+700
+1,000
+2,000
+3,000
+5,000
+7,000
+10,000
+20,000
+30,000
+Housing? Yes
+Campus Setting
+Rural Suburban
+Town City
+% of Applicants Admitted
+Minimum
+5%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+to
+Maximum
+5%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Test Scores – 25th Percentile
+SAT Reading/Writing:
+Min
+200
+220
+240
+260
+280
+300
+320
+340
+360
+380
+400
+420
+440
+460
+480
+500
+520
+540
+560
+580
+600
+620
+640
+660
+680
+700
+720
+740
+760
+780
+800
+Max
+200
+220
+240
+260
+280
+300
+320
+340
+360
+380
+400
+420
+440
+460
+480
+500
+520
+540
+560
+580
+600
+620
+640
+660
+680
+700
+720
+740
+760
+780
+800
+SAT Math:
+Min
+200
+220
+240
+260
+280
+300
+320
+340
+360
+380
+400
+420
+440
+460
+480
+500
+520
+540
+560
+580
+600
+620
+640
+660
+680
+700
+720
+740
+760
+780
+800
+Max
+200
+220
+240
+260
+280
+300
+320
+340
+360
+380
+400
+420
+440
+460
+480
+500
+520
+540
+560
+580
+600
+620
+640
+660
+680
+700
+720
+740
+760
+780
+800
+ACT Composite:
+Min
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+Max
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+Varsity Athletic Teams
+Men Women
+No Preference
+All Track Combined
+Archery
+Badminton
+Baseball
+Basketball
+Beach Volleyball
+Bowling
+Diving
+Equestrian
+Fencing
+Field Hockey
+Football
+Golf
+Gymnastics
+Ice Hockey
+Lacrosse
+Rifle
+Rodeo
+Rowing
+Sailing
+Skiing
+Soccer
+Softball
+Squash
+Swimming
+Swimming and Diving
+Synchronized Swimming
+Table Tennis
+Team Handball
+Tennis
+Track and Field, Indoor
+Track and Field, Outdoor
+Track and Field, X-Country
+Volleyball
+Water Polo
+Weight Lifting
+Wrestling
+Extended Learning Opportunities
+Distance learning only
+Weekend/evening
+Credit for life experience
+Religious Affiliation
+No Preference
+Not applicable
+African Methodist Episcopal
+African Methodist Episcopal Zion Church
+American Baptist
+American Evangelical Lutheran Church
+American Lutheran
+Assemblies of God Church
+Baptist
+Brethren Church
+Buddhist/Buddhism
+Christ and Missionary Alliance Church
+Christian Church (Disciples of Christ)
+Christian Churches and Churches of Christ
+Christian Methodist Episcopal
+Christian Reformed Church
+Church of Brethren
+Church of God
+Church of the Nazarene
+Churches of Christ
+Cumberland Presbyterian
+Ecumenical Christian
+Episcopal Church, Reformed
+Evangelical Christian
+Evangelical Congregational Church
+Evangelical Covenant Church of America
+Evangelical Free Church of America
+Evangelical Lutheran Church
+Free Methodist
+Free Will Baptist Church
+Friends
+General Baptist
+Greek Orthodox
+Interdenominational
+International United Pentecostal Church
+Jewish
+Lutheran Church - Missouri Synod
+Lutheran Church in America
+Mennonite Brethren Church
+Mennonite Church
+Missionary Church Inc
+Moravian Church
+Multiple Protestant Denomination
+Muslim
+Non-Denominational
+North American Baptist
+Not reported
+Original Free Will Baptist
+Other Protestant
+Pentecostal Holiness Church
+Plymouth Brethren
+Presbyterian
+Presbyterian Church (USA)
+Protestant Episcopal
+Protestant, not specified
+Reformed Church in America
+Reformed Presbyterian Church
+Roman Catholic
+Russian Orthodox
+Seventh Day Adventist
+Southern Baptist
+The Church of Jesus Christ of Latter-day Saints
+The Presbyterian Church in America
+Undenominational
+Unitarian Universalist
+United Brethren Church
+United Church of Christ
+United Methodist
+Virginia Baptist General Association
+Wesleyan
+Wisconsin Evangelical Lutheran Synod
+Other (none of the above)
+Specialized Mission
+No Preference
+Single-sex: Men
+Single-sex: Women
+Historically Black College or University
+Tribal College
+Guide Me |
+Clear Search
+Loading map...
+View Full Map
+IPEDS ID: 445692
+OPE ID: 01009800
+Neumont College of Computer Science
+143 South Main Street, Salt Lake City, Utah 84111-1917 General information:
+(801) 302-2800
+Website:
+www.neumont.edu/
+Type:
+4-year, Private for-profit
+Awards offered:
+Associate's degree
+Bachelor's degree
+Master's degree
+Campus setting:
+City: Midsize
+Campus housing:
+Yes
+Student population:
+476 (453 undergraduate)
+Student-to-faculty ratio:
+27 to 1
+Expand All | Collapse All
+General Information
+Admissions
+www.neumont.edu/future-students
+Apply Online
+admission.neumont.edu/login
+Financial Aid
+neumont.edu/tuition-aid
+Net Price Calculator
+www.neumont.edu/net-price-calculator
+Disability Services
+www.neumont.edu/student-support
+Mission Statement
+www.neumont.edu/mission-statement-values.html
+Special Learning Opportunities
+Distance education – undergraduate courses offered, programs not offered
+Distance education – graduate programs offered
+Student Services
+Academic/career counseling service
+Placement services for completers
+Undergraduate students enrolled who are formally registered with office of disability services, Fall 2023
+8.50%
+Carnegie Classification
+Special Focus Four-Year: Engineering and Other Technology-Related Schools
+Religious Affiliation
+Not applicable
+Federal Aid
+Eligible students may receive Pell Grants and other federal aid (e.g. Direct Loans).
+For-credit instruction programs offered
+Academic
+Noncredit education offered
+Institution does not offer noncredit education
+Credit Accepted
+Advanced placement (AP) credits
+Faculty and graduate assistants by primary function, Fall 2024
+Full time
+Part time
+Total faculty
+13
+11
+Instructional
+13
+11
+Research and public service
+0
+0
+Total graduate assistants
+-
+0
+Instructional
+-
+0
+Research
+-
+0
+Tuition, Fees, and Estimated Student Expenses
+Estimated Expenses for Full-time Beginning Undergraduate Students
+Beginning students are those who are entering postsecondary education for the first time.
+Estimated expenses for academic year
+2021-2022
+2022-2023
+2023-2024
+2024-2025
+% change 2023-2024 to 2024-2025
+Tuition and fees
+$25,995
+$26,505
+$27,375
+$27,360
+-0.1%
+Books and supplies
+$1,200
+$1,200
+$1,200
+$1,200
+0.0%
+Living arrangement
+On Campus
+Food and Housing
+$9,048
+$9,048
+$14,724
+$15,138
+2.8%
+Other expenses
+$3,416
+$3,472
+$4,320
+$4,680
+8.3%
+Off Campus
+Food and Housing
+$7,712
+$8,128
+$9,891
+$10,260
+3.7%
+Other expenses
+$3,416
+$3,472
+$4,320
+$4,680
+8.3%
+Off Campus with Family
+Food and Housing
+-
+-
+-
+$5,139
+-
+Other expenses
+$3,416
+$3,472
+$4,320
+$4,680
+8.3%
+Total Expenses
+2021-2022
+2022-2023
+2023-2024
+2024-2025
+% change 2023-2024 to 2024-2025
+On Campus
+$39,659
+$40,225
+$47,619
+$48,378
+1.6%
+Off Campus
+$38,323
+$39,305
+$42,786
+$43,500
+1.7%
+Off Campus with Family
+$30,611
+$31,177
+$32,895
+$33,240
+1.0%
+This calculator uses estimated student expenses data to estimate the total tuition and fees charged over the duration of a typical 4-year program at this school.
+1. Select starting academic year 2024-2025 2025-2026 2026-2027 2027-2028 2028-2029 2029-2030
+2. Select tuition inflation rate
+Use estimates
+Use custom value % (0-100 allowed)
+Undergraduate academic year prices
+Estimated Tuition and Fees
+For Academic Year
+27360|-1
+2024-2025
+-
+2025-2026
+-
+2026-2027
+-
+2027-2028
+-
+2028-2029
+-
+2029-2030
+-
+2030-2031
+-
+2031-2032
+-
+2032-2033
+-
+Total for 4 years
+-
+The output is only an estimate and not a guarantee of the actual amount the student may be charged; it is not binding on the Secretary, the institution of higher education, or the State; and it may change, subject to the availability of financial assistance, State appropriations, and other factors. The student must complete the Free Application for Federal Student Aid (FAFSA) to be eligible for, and receive, an actual financial aid award that includes federal grant, loan, or work-study assistance.
+The estimated price does not include Food and Housing, books and supplies, etc. (where applicable) and is based on previous years' tuition and fees data. Tuition and fees may vary by program. Please contact this institution for detailed price information.
+Estimated yearly tuition and fees may not sum to totals because of rounding.
+Estimate the total tuition and fee costs over the duration of a typical program.
+Multiyear Tuition Calculator Average graduate student tuition and fees for academic year
+2024-2025
+Tuition
+$11,250
+Fees
+$0
+Alternative Tuition Plans and Promise Program
+Type of Plan
+Offered
+Tuition guarantee plan
+Prepaid tuition plan
+Tuition payment plan
+X
+Other alternative tuition plan
+Does not participate in Promise program
+Financial Aid
+Undergraduate Student Financial Aid, 2023-2024
+Full-time Beginning Undergraduate Students
+Beginning students are those who are entering postsecondary education for the first time.
+Type of Aid
+Number awarded aid
+Percent awarded aid
+Total amount of aid awarded
+Average amount of aid awarded
+Any student financial aid 1
+172
+99%
+——
+——
+Grant or scholarship aid
+166
+96%
+$1,850,650
+$11,148
+Federal grants
+112
+65%
+$663,107
+$5,921
+Pell grants
+112
+65%
+$641,507
+$5,728
+Other federal grants
+24
+14%
+$21,600
+$900
+State/local government grant or scholarships
+0
+0%
+$0
+—
+Institutional grants or scholarships
+166
+96%
+$1,187,543
+$7,154
+Student loan aid
+151
+87%
+$952,895
+$6,311
+Federal student loans
+149
+86%
+$662,130
+$4,444
+Other student loans
+15
+9%
+$290,765
+$19,384
+1 Includes students awarded Federal work study aid and aid from other sources not listed above.
+All Undergraduate Students
+Type of Aid
+Number awarded aid
+Percent awarded aid
+Total amount of aid awarded
+Average amount of aid awarded
+Degree/certificate-seeking
+Grant or scholarship aid 1
+499
+94%
+$6,126,270
+$12,277
+Pell grants
+330
+62%
+$1,968,325
+$5,965
+Federal student loans
+463
+87%
+$3,083,786
+$6,660
+1 Grant or scholarship aid includes aid awarded, from the federal government, state or local government, the institution, and other sources known by the institution.
+Institution did not report non-degree/non-certificate-seeking undergraduate students in 2023-2024.
+For more information on Student Financial Assistance Programs or to apply for financial aid via the web, visit Federal Student Aid .
+Net Price
+Average Net Price for Full-Time Beginning Students
+Full-time beginning undergraduate students who were awarded grant or scholarship aid from federal, state or local governments, or the institution.
+2021-2022
+2022-2023
+2023-2024
+Average net price
+$25,977
+$28,592
+$34,557
+Full-time beginning undergraduate students who were awarded Title IV aid by income.
+Average net price by Income
+2021-2022
+2022-2023
+2023-2024
+$0 – $30,000
+$25,202
+$26,380
+$32,906
+$30,001 – $48,000
+$24,180
+$26,730
+$33,597
+$48,001 – $75,000
+$26,735
+$31,022
+$33,991
+$75,001 – $110,000
+$29,697
+$32,666
+$38,895
+$110,001 and more
+$31,252
+$30,965
+$40,388
+Average net price is generated by subtracting the average amount of federal, state/local government, or institutional grant or scholarship aid from the total cost of attendance. Total cost of attendance is the sum of published tuition and required fees, books and supplies, and the weighted average for Food and Housing and other expenses.
+Beginning students are those who are entering postsecondary education for the first time.
+Title IV aid to students includes grant aid, work study aid, and loan aid. These include: Federal Pell Grants, Federal Supplemental Educational Opportunity Grants (FSEOG), Teacher Education Assistance for College and Higher Education (TEACH) Grants, Federal Work-Study, Subsidized Direct Loans, and Unsubsidized Direct Loans. For those Title IV recipients, net price is reported by income category and includes students awarded federal aid even if none of that aid was provided in the form of grants. While Title IV status defines the cohort of student for which the data are reported, the definition of net price remains the same – total cost of attendance minus grant aid.
+Net Price Calculator
+An institution’s net price calculator allows current and prospective students, families, and other consumers to estimate the net price of attending that institution for a particular student. Visit this institution's net price calculator www.neumont.edu/net-price-calculator
+Enrollment
+Fall 2024
+Total enrollment
+476
+Undergraduate enrollment
+453
+Undergraduate transfer-in enrollment
+7
+Graduate enrollment
+23
+Undergraduate Attendance Status
+Undergraduate Student Gender
+Undergraduate Race/ethnicity
+Undergraduate Student Age
+Undergraduate Student Residence
+Age data are reported for Fall 2023.
+Residence data are reported for first-time degree/certificate-seeking undergraduates.
+Undergraduate Distance Education Status
+Graduate Attendance Status
+Graduate Distance Education Status
+Admissions
+Admissions data not available.
+Retention and Graduation Rates
+First-to-Second Year Retention Rates
+Retention rates measure the percentage of first-time students who are seeking bachelor's degrees who return to the institution to continue their studies the following fall.
+Retention Rates for First-Time Students Pursuing Bachelor's Degrees
+Percentage of Students Who Began Their Studies in Fall 2023 and Returned in Fall 2024
+Overall Graduation Rate and Transfer-Out Rate
+The overall graduation rate is also known as the "Student Right to Know" or IPEDS graduation rate. It tracks the progress of students who began their studies as full-time, first-time degree- or certificate-seeking students to see if they complete a degree or other award such as a certificate within 150% of "normal time" for completing the program in which they are enrolled.
+Some institutions also report a transfer-out rate, which is the percentage of the full-time, first-time students who transferred to another institution without completing at the current institution.
+Note that not all students at the institution are tracked for these rates. Students who have already attended another postsecondary institution, or who began their studies on a part-time basis, are not tracked for this rate. At this institution, 92 percent of entering students were counted as "full-time, first-time" in 2024.
+Overall Graduation and Transfer-Out Rates for Students Who Began Their Studies in Fall 2018
+Percentage of Full-time, First-Time Students Who Graduated or Transferred Out Within 150% of "Normal Time" to Completion for Their Program
+(*) Not all institutions report transfer-out rates.
+Bachelor's Degree Graduation Rates
+Bachelor’s degree graduation rates measure the percentage of entering students beginning their studies full-time and are planning to get a bachelor’s degree and who complete their degree program within a specified amount of time.
+Graduation Rates for Students Pursuing Bachelor's Degrees
+Percentage of Full-time, First-time Students Who Graduated in the Specified Amount of Time and Began in Fall 2016 or Fall 2018
+6-Year Graduation Rate by Gender for Students Pursuing Bachelor's Degrees
+Percentage of Full-time, First-time Students Who Began Their Studies in Fall 2018 and Received a Degree or Award Within 150% of "Normal Time" to Completion for Their Program
+6-Year Graduation Rate by Race/Ethnicity for Students Pursuing Bachelor's Degrees
+Percentage of Full-time, First-time Students Who Began Their Studies in Fall 2018 and Received a Degree or Award Within 150% of "Normal Time" to Completion for Their Program
+Outcome Measures
+Alternative measures of student success are reported by degree-granting institutions to describe the outcomes of degree/certificate-seeking undergraduate students who are not only first-time, full-time students, but also part-time attending and non-first-time (transfer-in) students. These measures are also reported for students receiving Pell grants and those students that do not receive Pell grants. These measures provide the 8-year award-completion rates by award level (certificates, associate's and bachelor degrees) after entering an institution. For students who did not earn any undergraduate award after 8-years of entry, the enrollment statuses are reported as either still enrolled at the institution, or subsequently transferred out of the institution. Unlike the Graduation Rates data, all reporting institutions must report on their transfer outs regardless if the institution has a mission that provides substantial transfer preparation.
+FULL-TIME, FIRST-TIME DEGREE/CERTIFICATE-SEEKING UNDERGRADUATES WHO ENTERED IN 2016-17
+FULL-TIME, NON-FIRST-TIME DEGREE/CERTIFICATE-SEEKING UNDERGRADUATES WHO ENTERED IN 2016-17
+Programs/Majors
+Completions (Number of awards conferred) 2023-2024
+Completions are the number of awards conferred by program and award level. Program
+Associate
+Bachelor
+Master
+Data shown are for first majors.
+(-) Program is not offered at this award level.
+d identifies programs and award levels that are offered as a distance education program. For program category totals, d is shown if one or more programs in the category are offered as a distance education program.
+Computer and Information Sciences and Support Services
+Artificial Intelligence
+-
+-
+0 d
+Computer Programming/Programmer, General
+19
+42
+-
+Information Technology Project Management
+-
+8
+-
+Modeling, Virtual Environments and Simulation
+-
+25
+-
+Network and System Administration/Administrator
+-
+13
+-
+Web Page, Digital/Multimedia and Information Resources Design
+-
+9
+-
+Category total
+19
+97
+0 d
+Grand total
+19
+97
+0
+Servicemembers and Veterans
+Services and Programs for Servicemembers and Veterans
+Yellow Ribbon Program (officially known as Post-9/11 GI Bill, Yellow Ribbon Program) Educational Benefits, 2023-2024
+Number of students receiving benefits/assistance
+Average amount of benefits/assistance disbursed through the institution
+RETENTION RATES
+RETENTION RATES FOR FIRST-TIME, DEGREE/CERTIFICATE EDUCATION BENEFIT USERS PURSUING BACHELOR'S DEGREES
+Retention rate is the percentage of undergraduate students who began their studies in academic year 2013-14 and returned in academic year 2014-15
+Varsity Athletic Teams
+No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.
+For further information on varsity athletic teams please visit the OPE Athletics Home Page .
+Accreditation
+Institutional Accreditation
+Accreditor
+Status
+Next Review Date
+Accrediting Commission of Career Schools and Colleges
+Accredited (12/19/2017 - 10/03/2022)
+No Longer Recognized Accrediting Council for Independent Colleges and Schools
+Accredited (07/01/2003 - 01/09/2018)
+Northwest Commission on Colleges and Universities
+Accredited since (05/04/2022)
+04/01/2029
+For more detailed information on accreditation for this institution, including all actions and justification for actions, visit OPE's Database of Accredited Postsecondary Institutions and Programs: ope.ed.gov/dapip/#/institution-profile/173708 .
+Campus Security and Safety
+On-Campus
+Criminal Offenses
+2019
+2020
+2021
+a. Murder/Non-negligent manslaughter
+0
+0
+0
+b. Negligent manslaughter
+0
+0
+0
+c. Rape
+1
+0
+0
+d. Fondling
+0
+0
+0
+e. Incest
+0
+0
+0
+f. Statutory Rape
+0
+0
+0
+g. Robbery
+0
+0
+0
+h. Aggravated assault
+0
+0
+0
+i. Burglary
+0
+0
+0
+j. Motor vehicle theft
+0
+0
+0
+k. Arson
+0
+0
+0
+VAWA Offenses
+2019
+2020
+2021
+a. Domestic violence
+1
+0
+0
+b. Dating violence
+0
+0
+0
+c. Stalking
+0
+0
+0
+Arrests
+2019
+2020
+2021
+a. Weapons: carrying, possessing, etc.
+0
+0
+0
+b. Drug abuse violations
+0
+0
+0
+c. Liquor law violations
+0
+0
+0
+Disciplinary Actions
+2019
+2020
+2021
+a. Weapons: carrying, possessing, etc.
+0
+0
+0
+b. Drug abuse violations
+0
+0
+1
+c. Liquor law violations
+3
+0
+0
+On-Campus Student Housing Facilities
+On-campus Student Housing Facilities statistics are a subset of On-Campus statistics.
+Criminal Offenses
+2019
+2020
+2021
+a. Murder/Non-negligent manslaughter
+0
+0
+0
+b. Negligent manslaughter
+0
+0
+0
+c. Rape
+1
+0
+0
+d. Fondling
+0
+0
+0
+e. Incest
+0
+0
+0
+f. Statutory Rape
+0
+0
+0
+g. Robbery
+0
+0
+0
+h. Aggravated assault
+0
+0
+0
+i. Burglary
+0
+0
+0
+j. Motor vehicle theft
+0
+0
+0
+k. Arson
+0
+0
+0
+VAWA Offenses
+2019
+2020
+2021
+a. Domestic violence
+1
+0
+0
+b. Dating violence
+0
+0
+0
+c. Stalking
+0
+0
+0
+Arrests
+2019
+2020
+2021
+a. Weapons: carrying, possessing, etc.
+0
+0
+0
+b. Drug abuse violations
+0
+0
+0
+c. Liquor law violations
+0
+0
+0
+Disciplinary Actions
+2019
+2020
+2021
+a. Weapons: carrying, possessing, etc.
+0
+0
+0
+b. Drug abuse violations
+0
+0
+1
+c. Liquor law violations
+1
+0
+0
+The crime data reported by the institutions have not been subjected to independent verification by the U.S. Department of Education. Therefore, the Department cannot vouch for the accuracy of the data reported here.
+The crime statistics displayed only includes On-Campus data associated with the main campus as listed on College Navigator. For statistics associated with each campus location, off campus data, and for additional information covering Hate Crimes, and Fire statistics see https://ope.ed.gov/campussafety .
+The On-Campus data do not include incidents that: (a) took place on public property, including thoroughfares, streets, sidewalks, and parking facilities, that is within the campus, or immediately adjacent to and accessible from the campus; (b) took place on any building or property owned or controlled by a student organization that is officially recognized by the institution; or (c) took place on any building or property owned or controlled by an institution that is used in direct support of, or in relation to, the institution's educational purposes, is frequently used by students, and is not within the same reasonably contiguous geographic area of the institution.
+For more resources on Campus Security, see https://www2.ed.gov/admins/lead/safety/campus.html .
+Cohort Default Rates
+Three-year Official Cohort Default Rates
+Fiscal Year
+2021
+2020
+2019
+Default rate
+0.0%
+0.0%
+1.2%
+Number in default
+0
+0
+2
+Number in repayment
+191
+178
+157
+For further information on default rates please visit the Default Management Home Page . This school's six-digit OPE ID is 010098.
+Aid Programs
+Federal Direct Loan (Direct Loan)
+College Navigator Home | College Costs | Prepare | Financial Aid | Careers
+English | Español About | Search Plug-in

@@ -11,7 +11,7 @@
 **Coordinates:** 39.5957889, -110.8362394
 **Location Precision:** exact
 **Location Source:** https://serda.utah.gov/contact
-**Website:** https://seualg.utah.gov/index.php/economic-development/
+**Website:** https://serda.utah.gov/community-development
 **Updated:** 2026-08-11
 
 ## Summary
@@ -31,7 +31,7 @@ Per Startup State and SERDA's public mission statement: regional economic-develo
 
 Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://seualg.utah.gov/index.php/economic-development/) · https://seualg.utah.gov/index.php/economic-development/
+- [SERDA community development](https://serda.utah.gov/community-development) · https://serda.utah.gov/community-development
 - Email: [ggamber@seualg.utah.gov](mailto:ggamber@seualg.utah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/southeastern-utah-association-of-local-governments-economic-development/
 
@@ -50,7 +50,7 @@ Southeastern Utah employers seeking regional loan or planning support — after 
 
 - Public successor site (SERDA): https://serda.utah.gov/
 
-- [Official website](https://seualg.utah.gov/index.php/economic-development/) · https://seualg.utah.gov/index.php/economic-development/
+- [SERDA community development](https://serda.utah.gov/community-development) · https://serda.utah.gov/community-development
 - Startup State listing: https://startup.utah.gov/business-resource/southeastern-utah-association-of-local-governments-economic-development/
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 

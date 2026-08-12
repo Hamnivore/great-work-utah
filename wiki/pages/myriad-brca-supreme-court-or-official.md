@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.supremecourt.gov/opinions/boundvolumes/569bv.pdf
 **Publisher:** Supreme Court of the United States (United States Reports, vol. 569)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

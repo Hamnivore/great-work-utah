@@ -7,7 +7,7 @@
 **URL:** https://www.utahgeekevents.com/events/kids-code-camp-2026/
 **Publisher:** Utah Geek Events
 **Raw:** raw/utah-kids-code-camp-event-page/2026-08-11-3007df15cdb4.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Utah Kids Code Camp](utah-kids-code-camp.md) · https://greatutah.work/pages/utah-kids-code-camp.md · https://www.utahgeekevents.com/events/kids-code-camp-2026/
 

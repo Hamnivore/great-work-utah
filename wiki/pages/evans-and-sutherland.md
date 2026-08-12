@@ -12,7 +12,7 @@
 **Coordinates:** 40.7553613, -111.8297613
 **Location Precision:** exact
 **Location Source:** https://www.es.com/contact/
-**Website:** https://archivespace.lib.utah.edu/agents/corporate_entities/2243;
+**Website:** https://www.cosm.com/about/cosm-companies
 **Updated:** 2026-07-14
 **Pull:** *The first commercial computer-graphics company turned Utah lab ideas into real-time 3D machinery.*
 

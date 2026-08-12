@@ -9,7 +9,7 @@
 **Archived:** 2026-06-25
 **Publisher:** Palladyne AI
 **Raw:** raw/sarcos-official-website/2026-08-11-c3669e0362de.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-25
 
 ## Summary

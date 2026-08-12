@@ -1,0 +1,20 @@
+Submit — Utah Tech Calendar · Utah Tech Calendar
+utah tech calendar UTC events discover subscribe submit
+Utah Tech Calendar
+01 events →
+02 discover →
+03 subscribe →
+04 submit →
+Cottonwood Heights, UT · updated nightly
+Submit
+Tell us your source. We'll extract it.
+Paste a URL to one event and we'll pull the details. Or suggest a whole calendar and we'll wire up the scraper. Either way, no manual data-entry on your end.
+One event Paste a URL A whole calendar Suggest a source
+Event URL Luma, Eventbrite, Meetup, Silicon Slopes, or any conference page with schema.org event markup. We'll pull the title, date, venue automatically.
+Extract event →
+What works as a URL? Luma, Eventbrite, Meetup, plus any conference page that emits schema.org event structured data. If you have a calendar that's hand-built, use the “suggest a source” mode and we'll take a look.
+Browse by vertical
+AI Fintech Healthtech Biotech Edtech Aerospace & Defense Game Dev Cybersecurity Founders
+compiled in cottonwood heights, utah · updated nightly
+discover archive about ical rss embed submit
+in partnership with

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** counter-UAS, radar, autonomous systems, defense, critical infrastructure
+**Identifiers:** cik=0001736071, ein=81-2463428
 **Roles:** software-engineering, hardware-engineering, manufacturing-operations, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Private growth company
 **Primary Location:** Lindon, UT
@@ -30,7 +31,7 @@ For the wiki, Fortem is important because it connects Utah's hardware, defense, 
 
 The impact case is strongest where drones threaten people or critical infrastructure and traditional air defense is too broad, too expensive, or legally difficult. Fortem says its SkyDome system combines sensors, autonomous interceptors, and management software into an integrated counter-UAS system.
 
-Fortem is especially interesting because its product line includes kinetic net-capture interceptors rather than relying only on jamming or directed energy. The available sources do not yet support a broader claim about how distinctive that approach is across the market.
+Fortem is especially interesting because its product line includes kinetic net-capture interceptors rather than relying only on jamming or directed energy. That claim should be treated as an editorial interpretation until deeper technical sourcing is added.
 
 ## What They Are Building
 

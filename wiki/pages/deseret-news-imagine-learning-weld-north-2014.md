@@ -7,7 +7,7 @@
 **URL:** https://www.deseret.com/2014/4/22/20539939/education-technology-company-imagine-learning-sold-will-remain-in-provo/
 **Publisher:** Deseret News
 **Raw:** raw/deseret-news-imagine-learning-weld-north-2014/2026-08-11-3ed0007fcc03.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

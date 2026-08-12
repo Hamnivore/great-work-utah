@@ -43,4 +43,8 @@ A “yes, we have tools” answer is not enough. Confirm member eligibility, req
 
 ## What Is Still Missing
 
-The public record does not yet support a reliable comparison of current machine inventories, access fees, certifications, or availability across these facilities. It also does not identify a general-purpose Utah County space for unusually large, loud, long-running, or public-facing installations. Those are questions for direct facility contact, and a verified answer should be added to the underlying resource page rather than left only in a private plan.
+The public record does not yet support a reliable comparison of current machine inventories, access fees, certifications, or availability across these facilities. It also does not identify a general-purpose Utah County space for unusually large, loud, long-running, or public-facing installations. Those questions require direct facility confirmation.
+
+## Maintainer Notes
+
+- Add verified facility answers to the underlying resource pages, then update this guide from those pages rather than preserving facts only in private research.

@@ -10,18 +10,22 @@
 **Utah Location:** statewide
 **Region:** statewide
 **Updated:** 2026-08-11
-**Pull:** *Utah regulates more youth residential treatment than any other state, and until 2021 it inspected each program once a year, by appointment, and found almost nothing.*
+**Pull:** *Utah licenses more youth residential treatment than any other state, and until 2021 it inspected each program once a year — announced, its own top regulator later said — and found almost nothing.*
 
 ## Summary
 
 Utah is the national center of adolescent residential treatment — outdoor youth programs, residential
 treatment programs, residential support programs, and therapeutic schools, the four categories the
 state now groups as **congregate care**. Children arrive from across the country. For decades the
-state's oversight of them consisted of one scheduled inspection a year against an unweighted
-checklist, and the result was a compliance record too clean to be believed: across five years and 670
-inspections, regulators assessed more than 53,000 items and wrote up 861 deficiencies, marking
-programs compliant more than 98 percent of the time
-([APM Reports](apm-reports-utah-youth-treatment-inspections-2021.md)).
+state's oversight of them consisted of one inspection a year against an unweighted 14-page checklist,
+and the result was a compliance record too clean to be believed: across five years and 670 inspections,
+regulators assessed more than 53,000 items and wrote up 861 deficiencies, marking programs compliant
+more than 98 percent of the time
+([APM Reports](apm-reports-utah-youth-treatment-inspections-2021.md)). That those annual visits were
+*announced* comes from the regulator rather than the reporters — Amanda Slater, who ran the Office of
+Licensing's oversight of these programs for three years: "If we're only going in there once a year, and
+it's announced, you know, most people would clean up their house before you show up"
+([KUER](kuer-utah-congregate-care-reform-one-year-2022.md)).
 
 Two statutes changed that. **S.B. 127 (2021)**, signed 2021-03-22, defined congregate care as a
 licensing class, raised inspections to once each calendar quarter with at least two unannounced,
@@ -31,10 +35,11 @@ compliance, hyperextending joints, peer restraints, forced physical exercise as 
 depriving a child of a meal, water, rest, or toileting
 ([enrolled text](utah-sb127-2021-congregate-care-statute.md)). **S.B. 297 (2025)**, signed
 2025-03-19 and effective 2025-07-01, added machinery: a congregate care ombudsman with powers to
-enter facilities, interview children and staff, and copy records; a Congregate Care Advisory
-Committee that defines levels of care and sets minimum safety requirements by rule; state review of
-each program's admissions criteria at licensure; whistleblower protection; and a five-hour clock for
-notifying a parent when a child is in crisis
+enter facilities, interview children and staff, and copy records; levels of congregate care and
+minimum safety requirements to be defined by rule by the Office of Licensing in consultation with a
+new Congregate Care Advisory Committee; state review of each program's admissions criteria at
+licensure; whistleblower protection; and a five-hour clock for notifying a parent when a child is in
+crisis
 ([enrolled text](utah-sb297-2025-congregate-care-statute.md)).
 
 Both bills were carried by the same senator, Michael K. McKell of Spanish Fork, and neither
@@ -57,22 +62,30 @@ Legislature had been told was happening; that is what makes them evidence rather
 both the 2021 and 2022 reporting, with 155 distinct programs appearing across five years of inspection
 records — and a population drawn nationally rather than locally: more than 12,000 children sent to
 Utah for treatment in the five years to 2021, per the same reporting. Utah has, in that reporting's
-words, "a greater concentration of such programs than any other state", which means a Utah licensing
-rule is in practice a national standard of care for a service other states export. That is unusual
-leverage for a state statute.
+words, "a greater concentration of such programs than any other state", which would mean a Utah
+licensing rule is in practice a national standard of care for a service other states export — unusual
+leverage for a state statute. Note what that rests on: the concentration claim, the 12,000 children,
+and the "hundreds of millions of dollars" are assertions APM Reports makes without citing a source, and
+this wiki has found no state or federal count that confirms them.
 
-**Permanence.** The reform is durable in the way statutes are: the duties sit in the Utah Code (Title
-62A, Chapter 2 as enacted, recodified into Title 26B), and the 2025 act pushes further into
+**Permanence.** The reform is durable in the way statutes are: the duties sit in the Utah Code — enacted
+in 2021 at Title 62A, Chapter 2, and since renumbered into Title 26B, which the 2025 enrolled copy shows
+on its face when it lists "26B-2-124, as renumbered and amended by Laws of Utah 2023, Chapter 305", the
+successor to the section S.B. 127 enacted as 62A-2-124 — and the 2025 act pushes further into
 administrative rule, which is where the operative detail will live. The inspection floor is the most
 permanent piece, because it does not depend on anyone's discretion. The most fragile piece is staffing:
-neither bill carried an appropriation, and the additional $534,000 for inspectors that contemporaneous
-reporting attributes to the 2021 reform came from the session's appropriations rather than the bill,
-so the quarterly-inspection duty rests on money that has to be renewed.
+neither bill carried an appropriation on its face, while contemporaneous reporting says S.B. 127
+"provides an additional $534,000 to hire more inspectors" — a contradiction this wiki has not resolved,
+and one that matters, because a quarterly-inspection duty funded outside the statute rests on money that
+has to be renewed. KUER's one-year check confirms the staff arrived ("the state has more staff so they
+can show up unannounced"); it does not say through which vehicle.
 
 **Bounds — and they are severe.** Enforcement activity did rise: the Office of Licensing cited
-programs more than 200 times in the first year after the reform, twice the prior year and against just
-four violations found in 2016, with one in five of those citations arising from newly required restraint
-reports ([KUER](kuer-utah-congregate-care-reform-one-year-2022.md)). But a citation count is a measure
+programs more than 200 times in the first year after the reform, twice the prior year, against "just
+four violations" found in 2016 — citations and violations being different units the reporting does not
+reconcile, so the 2016 line is a direction, not a ratio — with one in five of the first year's rule
+violations arising from newly required restraint reports
+([KUER](kuer-utah-congregate-care-reform-one-year-2022.md)). But a citation count is a measure
 of visibility, not of safety, and the same reporting records that a nine-year-old died after being left
 in a hot car at a day-treatment facility two months after implementation, and that a girl died at Maple
 Lake Academy in Spanish Fork the following January after not receiving "necessary medical care". The
@@ -80,18 +93,27 @@ bill's own sponsor's assessment a year in was that "our tools are not strong eno
 structural limits are visible in the 2025 text itself: the ombudsman is created **within** the
 department whose Office of Licensing regulates these programs and must refer every report it receives
 back to that department; it keeps business hours while the phone children are given is meant to reach
-it "at any time"; and the same bill makes department complaint records protected such that they may not
-be disclosed in a way that identifies a program — a transparency loss inside a transparency reform.
-Nothing in either statute regulates the referral industry that places children, or the out-of-state
-juvenile courts and school districts that send them.
+it "at any time"; and the same bill bars the department from investigating or substantiating a complaint
+about events more than 48 months old, which is a long time in the life of a child who reports what
+happened to them only after leaving. Nothing in either statute regulates the referral industry that
+places children, or the out-of-state juvenile courts and school districts that send them.
 
-**Counterfactual.** Allegations against this sector in Utah go back decades and produced no
-legislation for more than ten years before 2021. What broke the stalemate was not new evidence of harm
-but new evidence of *non-enforcement* plus televised testimony: a newsroom partnership converting the
-state's own checklists into a number, and former residents — including Paris Hilton, who marched on
-Provo Canyon School in October 2020 — testifying in committee. Both statutes then passed with the same
-sponsor. Absent the data journalism, the 1.6 percent noncompliance rate would still have read as
-compliance.
+Two bounds on the pre-reform baseline are worth carrying alongside the 98 percent figure. The 1.6
+percent noncompliance rate is APM Reports' own calculation from the checklists, and the sharpest part of
+the decline it describes — 86 percent of facilities scoring perfectly in the year before publication —
+came in a year when "most of those inspections were done virtually because of the pandemic". The
+regime's failure is well evidenced; the trend line inside it is partly a COVID artifact.
+
+**Counterfactual.** Allegations against this sector go back decades, and KUER describes the 2021 act as
+"the first increased oversight in more than a decade". What broke the stalemate was not new evidence of
+harm but new evidence of *non-enforcement* plus testimony: a newsroom partnership converting the state's
+own checklists into a number, and former residents — including Paris Hilton, who marched on Provo Canyon
+School on 2020-10-09 — testifying in committee, after which, per APM Reports, "lawmakers who heard the
+emotional testimony apologized to Hilton and others who were mistreated" and "swiftly approved a package
+of reforms". Both statutes then came from the same sponsor. The claim that the data journalism was
+necessary rather than merely coincident is this page's inference, not something the reporting asserts;
+what the reporting does establish is that the checklists had been producing a 98 percent compliance rate
+that nobody had converted into a number before.
 
 **Bet:** the reform wagers that *visibility* disciplines this industry better than prohibition does.
 Its two strongest instruments are not the list of banned practices but the one-business-day incident
@@ -106,13 +128,21 @@ wilderness programs, and an established cluster along the Wasatch Front and in U
 the destination for a service purchased by out-of-state parents, courts, and school districts. The
 industry "brings hundreds of millions of dollars into the state's economy each year and employs
 thousands of its residents", per the 2021 reporting — a sector large enough that regulating it is an
-economic decision as well as a child-welfare one, which is part of why nineteen House members voted
-against the 2025 bill even though both committees had reported it unanimously
-([status record](utah-sb297-2025-bill-status-record.md)).
+economic decision as well as a child-welfare one, and it is one plausible reading of why nineteen House
+members voted against the 2025 bill when no committee member in either chamber had
+([status record](utah-sb297-2025-bill-status-record.md)) — the record itself gives no reason for any
+vote.
 
 The geography is also personal to the legislation. Maple Lake Academy sits six miles from the
 sponsor's home in Spanish Fork; Provo Canyon School, the facility Paris Hilton attended and later
 marched on, is in Provo. The reform was written by legislators whose districts contain the programs.
+
+The regulator's own account of what changed is not primarily about rules. KUER reports that Amanda
+Slater "and other licensing directors described their regulatory role as 'technical assistance,' with
+the goal of working with the programs — rather than being punitive", and quotes her after a year of the
+new regime: "I have realized that we need to hold these programs accountable." A statute that raises
+inspection frequency is the visible half of that shift; the invisible half is a licensing office
+deciding it is an enforcement body.
 
 For an agent using this wiki: this page is the calibration layer for any Utah youth-treatment
 organization. A program's compliance history before 2021 carries almost no information, because the
@@ -129,11 +159,13 @@ unopposed: numbered 2021-01-25, substituted in Senate committee on 2021-02-08, t
 package as approved "with only a handful of opposing votes".
 
 S.B. 297 was harder. It was rewritten five times — the enacted version is the fifth substitute, plus a
-House floor amendment — and while both committees reported it unanimously (8-0-1 in Senate Judiciary,
-10-0-4 in House Health and Human Services), the floor votes were 19-6-4 in the Senate and 53-19-3 in
-the House, with the Senate then concurring 27-1-1. It was pulled back to House Rules over fiscal
-impact before passing. That pattern — unanimous in committee, contested on the floor, five substitutes
-— is what an industry with employees in many districts looks like in the record.
+House floor amendment — and while no committee member voted against it in either chamber (8-0-1 in
+Senate Judiciary, 10-0-4 in House Health and Human Services, the trailing figure being members not
+voting), the floor votes were 19-6-4 in the Senate and 53-19-3 in the House, with the Senate then
+concurring 27-1-1. It was pulled back to House Rules "due to fiscal impact" before passing. That
+pattern — no opposition in committee, twenty-five no votes on the floor, five substitutes — is what an
+industry with employees in many districts plausibly looks like in the record, though the record does not
+say so.
 
 Both bills reached the floor with "Money Appropriated in this Bill: None" on their faces, which is the
 single most consequential fact about how they were built: every duty they impose lands on an Office of
@@ -156,6 +188,12 @@ Licensing that has to be staffed through a separate process.
   alongside the older R501-8 (outdoor youth programs), R501-15 (therapeutic schools), and R501-19,
   which suggests the rulemaking happened — but no rule text has been captured, and the rule is where
   "minimum safety requirements" acquires content.
+- **Where did the $534,000 for inspectors come from?** APM Reports says S.B. 127 "provides" it; the
+  enrolled bill says it appropriates nothing. The Legislature publishes a fiscal note per substitute at
+  `le.utah.gov/.../fiscal-notes/`, and the S.B. 297 status record shows notes for substitutes 2 through
+  5, so the 2021 equivalent almost certainly exists. Capturing it would settle whether the figure is an
+  estimate of cost or an actual appropriation — and would say what S.B. 297's new duties were priced at,
+  which is the same question for the ombudsman.
 - **What has enforcement looked like since 2022?** The citation counts here stop at the reform's first
   year. Whether the increase held, and whether any program lost its license, is unknown to this wiki.
 - **What do the licensing records for the two post-reform deaths say?** Both are reported through
@@ -169,15 +207,16 @@ Licensing that has to be staffed through a separate process.
 - **Has the sector shrunk, consolidated, or moved?** The obvious hypothesis after a compliance regime
   tightens is that marginal operators exit or relocate to states with looser licensing. No data here
   tests it, and if it happened it is the reform's most important second-order effect.
-- **Were these programs being publicly celebrated while the inspection regime found nothing?** This
-  wiki's recovered Best of State winner rows
-  (`research/leads/best-of-state-winners-2003-2019.tsv`) list Alpine Academy of Erda as the medalist in
-  a "Youth Treatment Center" category for 2010, 2011, 2012, 2013, 2014, 2016, 2017, and 2019 — filed
-  under the Merchandising & Consumer Services division, which is its own comment on how the sector was
-  understood. No captured winner document confirms those rows, so no page here asserts them, and the
-  award is a paid self-nominated entry in any case ([Best of State Awards](best-of-state-awards.md)).
-  If they hold, the overlap between that run of medals and the 1.6 percent noncompliance era is worth
-  a page of its own.
+- **Were these programs being publicly celebrated while the inspection regime found nothing?** Utah's
+  largest recognition program has a **Youth Treatment Center** category, and it is filed under
+  Merchandising & Consumer Services — a captured document confirms both, listing Odyssey House of Utah as
+  its 2026 medalist ([2026 winners page](best-of-state-2026-winners-page.md)). Where the sector's award
+  sits in that taxonomy is its own comment on how the work was understood. This wiki's recovered winner
+  rows (`research/leads/best-of-state-winners-2003-2019.tsv`) further list Alpine Academy of Erda as the
+  medalist in that category for 2010 through 2014, 2016, 2017, and 2019, but no captured document confirms
+  those rows, so no page here asserts them — and the award is a paid self-nominated entry in any case
+  ([Best of State Awards](best-of-state-awards.md)). If they hold, the overlap between that run of medals
+  and the era when inspectors found deficiencies 1.6 percent of the time is worth a page of its own.
 - **Does the 2026 legislative performance audit of behavioral health beds bear on this?** The Office of
   the Legislative Auditor General published "A Performance Audit of Utah's Behavioral Health Beds Along
   the Continuum of Care" as report #2026-06, covering residential treatment capacity and fragmented
@@ -192,6 +231,7 @@ Licensing that has to be staffed through a separate process.
 - [Source: Utah S.B. 297 (2025) Legislative Status Record](utah-sb297-2025-bill-status-record.md) · https://greatutah.work/pages/utah-sb297-2025-bill-status-record.md · https://le.utah.gov/data/2025GS/SB0297.json
 - [Source: APM Reports — New Data Underscores Utah's Lax Oversight of Youth Treatment Programs (2021)](apm-reports-utah-youth-treatment-inspections-2021.md) · https://greatutah.work/pages/apm-reports-utah-youth-treatment-inspections-2021.md · https://www.apmreports.org/story/2021/03/10/new-data-underscores-utahs-lax-oversight-of-youth-treatment-programs
 - [Source: KUER — Utah Increased Oversight of Its Troubled-Teen Industry. Has It Worked? (2022)](kuer-utah-congregate-care-reform-one-year-2022.md) · https://greatutah.work/pages/kuer-utah-congregate-care-reform-one-year-2022.md · https://www.kuer.org/politics-government/2022-04-12/utah-increased-oversight-of-its-troubled-teen-industry-has-it-worked
+- [Source: Best of State 2026 Winners Page](best-of-state-2026-winners-page.md) · https://greatutah.work/pages/best-of-state-2026-winners-page.md · https://www.bestofstate.org/winners
 
 ## See Also
 

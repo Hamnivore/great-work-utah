@@ -9,7 +9,7 @@
 **Archived:** 2026-06-06
 **Publisher:** University of Utah College of Science
 **Raw:** raw/flys-eye-hires-cosmic-rays-source/2026-08-11-29278e1f8ffb.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

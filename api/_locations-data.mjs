@@ -20,7 +20,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "UVU Business Resource Center, 815 W 1250 S, Orem, UT 84058",
         "precision": "exact",
-        "provenance": "https://www.trumba.com/events-calendar/ut/orem/utah-valley-business-resource-center-events",
+        "provenance": "https://www.uvu.edu/uvbrc/",
         "anchorKind": "site",
         "region": "Orem",
         "domains": [],
@@ -828,7 +828,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "Bear River Association of Governments, 170 N Main Street, Logan, UT 84321",
         "precision": "exact",
-        "provenance": "https://brag.utah.gov/contact/",
+        "provenance": "https://brag.utah.gov/about-us/",
         "anchorKind": "site",
         "region": "Bear River region",
         "domains": [
@@ -1540,6 +1540,34 @@ export default {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.498,
+          40.6461
+        ]
+      },
+      "properties": {
+        "title": "Carv",
+        "type": "venture",
+        "url": "/pages/carv.md",
+        "siteId": "carv:40.646100,-111.498000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Park City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Park City",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "wearable ski sensor, real-time biomechanical coaching, Park City North American base, Rust on-device"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.0698594,
           37.6635545
         ]
@@ -2036,6 +2064,34 @@ export default {
           "materials-mfg"
         ],
         "focus": "cookies, dessert franchise, weekly rotating menu, food tech, franchise systems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7958,
+          40.3769
+        ]
+      },
+      "properties": {
+        "title": "CTO Breakfast Utah",
+        "type": "resource",
+        "url": "/pages/cto-breakfast-utah.md",
+        "siteId": "cto-breakfast-utah:40.376900,-111.795800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "American Fork regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "American Fork",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "technology leadership peer group, monthly breakfast, Chatham House Rules, Utah County"
       }
     },
     {
@@ -3533,7 +3589,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "Health Catalyst headquarters, 3165 E Millrock Drive, Suite 400, Salt Lake City, UT 84121",
         "precision": "exact",
-        "provenance": "https://ir.healthcatalyst.com/static-files/df3c1cda-c41b-4490-885a-3c8e09216361",
+        "provenance": "https://www.sec.gov/Archives/edgar/data/1636422/000162828026013496/0001628280-26-013496-index.htm",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
@@ -5463,7 +5519,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "OxEon Energy MOXIE development site, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054",
         "precision": "exact",
-        "provenance": "https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=OxEon+Energy+257+River+Bend+Way+Suite+300+North+Salt+Lake+UT+84054",
         "anchorKind": "site",
         "region": "North Salt Lake",
         "domains": [
@@ -5544,7 +5600,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "320 Wakara Way, Salt Lake City, UT 84108",
         "precision": "exact",
-        "provenance": "https://myriad.gcs-web.com/static-files//0c230445-415a-411d-911b-36bae9e8b5d5",
+        "provenance": "https://mybenefits.myriad.com/-/media/Mercer/Myriad/Documents/Summary-Plan-Description-112022.pdf?hash=6B5E62775C8C71B78319F958E3047DA5&rev=56fcfbefe6574e9299ddc939a0ff7d6b",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
@@ -5631,6 +5687,34 @@ export default {
         "region": "Salt Lake City",
         "domains": [],
         "focus": "chronic kidney disease, renal fibrosis, drug discovery, computational biology, Altitude Lab alumni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.891,
+          40.7659
+        ]
+      },
+      "properties": {
+        "title": "Neumont College of Computer Science",
+        "type": "venture",
+        "url": "/pages/neumont-college-of-computer-science.md",
+        "siteId": "neumont-college-of-computer-science:40.765900,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "143 South Main Street, Salt Lake City, UT 84111",
+        "precision": "exact",
+        "provenance": "https://nces.ed.gov/collegenavigator/?id=445692",
+        "anchorKind": "site",
+        "region": "Salt Lake City",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "project-based computer science degrees, accelerated undergraduate model, employer enterprise projects, downtown Salt Lake City campus"
       }
     },
     {
@@ -5731,7 +5815,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "NOW CFO headquarters, 5251 Green Street, Suite 350, Murray, UT 84123",
         "precision": "exact",
-        "provenance": "https://www.nowcfo.com/wp-content/uploads/2022/09/NOW_CFO_BrandGuide_Q1_2022.pdf",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=NOW+CFO+5251+Green+Street+Suite+350+Murray+UT+84123",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
@@ -5765,6 +5849,34 @@ export default {
           "aerospace-defense"
         ],
         "focus": "intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6606324,
+          40.2333063
+        ]
+      },
+      "properties": {
+        "title": "Nu Skin Enterprises",
+        "type": "venture",
+        "url": "/pages/nu-skin.md",
+        "siteId": "nu-skin:40.233306,-111.660632",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "75 West Center Street, Provo, UT 84601",
+        "precision": "exact",
+        "provenance": "https://www.sec.gov/Archives/edgar/data/1021561/000114036126005130/ef20060638_10k.htm",
+        "anchorKind": "site",
+        "region": "Provo",
+        "domains": [
+          "health-bio",
+          "materials-mfg"
+        ],
+        "focus": "personal care, nutritional supplements, beauty devices, direct selling, contract manufacturing"
       }
     },
     {
@@ -6135,7 +6247,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "OxEon Energy, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054",
         "precision": "exact",
-        "provenance": "https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf",
+        "provenance": "https://www.google.com/maps/search/?api=1&query=OxEon+Energy+257+River+Bend+Way+Suite+300+North+Salt+Lake+UT+84054",
         "anchorKind": "site",
         "region": "North Salt Lake",
         "domains": [
@@ -6299,7 +6411,7 @@ export default {
         "siteCount": 1,
         "mapLocation": "PassiveLogic corporate headquarters, 6510 Millrock Drive, Suite 350, Salt Lake City, UT 84121",
         "precision": "exact",
-        "provenance": "https://www.passivelogic.com/footer/contact-us-replace",
+        "provenance": "https://passivelogic.com/privacy-notice/",
         "anchorKind": "site",
         "region": "Salt Lake City",
         "domains": [
@@ -7928,6 +8040,34 @@ export default {
         "region": "Southeastern Utah",
         "domains": [],
         "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5684,
+          37.0965
+        ]
+      },
+      "properties": {
+        "title": "Southern Utah Code Camp",
+        "type": "resource",
+        "url": "/pages/southern-utah-code-camp.md",
+        "siteId": "southern-utah-code-camp:37.096500,-113.568400",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "St. George regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "St. George",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "24-hour hackathon, skill-tiered divisions, St George tech community, sponsor-funded"
       }
     },
     {
@@ -11941,6 +12081,34 @@ export default {
         "region": "Weber County",
         "domains": [],
         "focus": "Entrepreneurship Communities, Funding, Late Stage Growth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9738,
+          41.223
+        ]
+      },
+      "properties": {
+        "title": "Weber State AI Hackathon",
+        "type": "resource",
+        "url": "/pages/weber-state-ai-hackathon.md",
+        "siteId": "weber-state-ai-hackathon:41.223000,-111.973800",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Ogden regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Ogden",
+        "domains": [
+          "computing",
+          "culture-place"
+        ],
+        "focus": "university AI hackathon, two-week remote build, skill-tiered prizes, employer job fair, Ogden"
       }
     },
     {

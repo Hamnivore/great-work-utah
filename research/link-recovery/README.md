@@ -6,8 +6,14 @@ Do not mark a program dead from a single `curl` failure.
 ## Quick commands
 
 ```bash
-# Scan every wiki **Website:**; print non-live + suggestions
+# Scan every user-facing external metadata link; print non-live + suggestions
 npm run links:recover
+
+# Skip rate-limited archive lookups and leave them explicitly queued in the report
+npm run links:recover -- --defer-wayback
+
+# Bound ordinary HTTP probes (default: 8); CDX remains serialized and paced
+npm run links:recover -- --concurrency 4 --wayback-delay-ms 2000
 
 # Persist report under this directory
 npm run links:recover -- --write-report
@@ -22,12 +28,16 @@ npm run links:recover:browser
 
 ## Recovery order (do this on the page)
 
-1. **Alias map** — `url-aliases.json` in this folder. Add a row when you confirm a moved/typo URL.
-2. **Headless browser** — Cloudflare / WAF often blocks bare fetch; Chrome may still load the site.
-3. **Successor org** — e.g. SEUALG public face is [serda.utah.gov](https://serda.utah.gov/); iMpact Utah overlaps [utah-mep](../../wiki/pages/utah-mep.md).
-4. **Wayback CDX** — script suggests a last-known-good snapshot; cite it under Evidence, not as `**Website:**`.
-5. **Startup State catalog** — fuzzy title match against `research/startup-state/live-catalog.json` (refresh via `npm run startup-state:check`).
-6. **Staff / Startup State card** — keep Low confidence; document phone/email in How To Access.
+1. **Prove identity** — a responding URL is not enough. Confirm that the page names the entity/product,
+   or corroborate the domain through a company-controlled profile, registry filing, or primary document.
+   Search-name similarity and plausible domain spelling are leads only; never promote a guessed domain to
+   `Website`. Record an unresolved URL as unknown instead.
+2. **Alias map** — `url-aliases.json` in this folder. Add a row when you confirm a moved/typo URL.
+3. **Headless browser** — Cloudflare / WAF often blocks bare fetch; Chrome may still load the site.
+4. **Successor org** — e.g. SEUALG public face is [serda.utah.gov](https://serda.utah.gov/); iMpact Utah overlaps [utah-mep](../../wiki/pages/utah-mep.md).
+5. **Wayback CDX** — script suggests a last-known-good snapshot; cite it under Evidence, not as `**Website:**`.
+6. **Startup State catalog** — fuzzy title match against `research/startup-state/live-catalog.json` (refresh via `npm run startup-state:check`).
+7. **Staff / Startup State card** — keep Low confidence; document phone/email in How To Access.
 
 ## What to write on the wiki page
 
@@ -50,3 +60,15 @@ Edit `url-aliases.json`:
 - `notes` — short human/agent hint for a host or path.
 
 Then re-run `npm run links:recover -- --write-report`.
+
+## Audit scope and rate limits
+
+The scanner covers `Website`, `Careers`, source-page `URL`, `Location Source`, and the source
+component of every `Additional Map Location`. Multiple URLs in a source `URL` field are checked
+individually. Ordinary HTTP work uses bounded concurrency; Wayback CDX requests are serialized,
+paced, and retried briefly after 429/503 responses. For a large run, `--defer-wayback` avoids CDX
+entirely and marks each unresolved URL as queued so archive lookup can happen in a later run.
+
+`LIVE` means only that the server returned usable content. It does **not** establish that the URL
+belongs to the page's subject. Any newly proposed or previously unverified domain still requires the
+identity check above before it is accepted.

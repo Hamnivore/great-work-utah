@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** autonomous buildings, edge AI, digital twins, climate, building controls
+**Identifiers:** cik=0001817717, ein=81-1668888
 **Roles:** software-engineering, data-science, hardware-engineering, product-design, field-skilled-trades
 **Stage:** Series C
 **Primary Location:** Salt Lake City, UT
@@ -14,7 +15,7 @@
 **Map Location:** PassiveLogic corporate headquarters, 6510 Millrock Drive, Suite 350, Salt Lake City, UT 84121
 **Coordinates:** 40.6343557, -111.8018862
 **Location Precision:** exact
-**Location Source:** https://www.passivelogic.com/footer/contact-us-replace
+**Location Source:** https://passivelogic.com/privacy-notice/
 **Careers:** https://passivelogic.teamtailor.com/
 **Website:** https://passivelogic.com/
 **Needs-reviewed:** 2026-06-18

@@ -9,7 +9,7 @@
 **Archived:** 2025-11-13
 **Publisher:** Medical Design & Outsourcing
 **Raw:** raw/blackrock-utah-array-medical-design/2026-08-11-a6de240abc81.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

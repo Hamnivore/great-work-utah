@@ -9,7 +9,7 @@
 **Archived:** 2026-06-07
 **Publisher:** Intan Technologies
 **Raw:** raw/intan-technologies-official-website/2026-08-11-962c9943ee53.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

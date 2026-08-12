@@ -7,7 +7,7 @@
 **URL:** https://projects.propublica.org/nonprofits/api/v2/organizations/582263983.json
 **Publisher:** ProPublica Nonprofit Explorer (republishing IRS Form 990 data)
 **Raw:** raw/ivumed-form-990-record/2026-08-11-ef6dec8e91b6.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [IVUmed](ivumed.md) · https://greatutah.work/pages/ivumed.md · https://projects.propublica.org/nonprofits/organizations/582263983
 

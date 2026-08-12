@@ -67,7 +67,7 @@ This guide is for people who want their working hours to matter and are trying t
 
 ### Watchlist
 
-Ripple Neuro, Intan Technologies, the Utah Arch Research Group, Vector, and emerging spinouts from the U of U TLO and BYU TTO still need stronger public evidence or dedicated venture pages. [LiveView Technologies](liveview-technologies.md) has a venture page but belongs on the map only with explicit surveillance caveats; [Varda Space](varda-space.md) is a UTTR infrastructure case study, not a Utah employer.
+Ripple Neuro, Intan Technologies, the Utah Arch Research Group, Vector, and emerging spinouts from the U of U TLO and BYU TTO still need stronger public evidence before this guide can recommend them confidently. [LiveView Technologies](liveview-technologies.md) belongs on the map only with explicit surveillance caveats; [Varda Space](varda-space.md) is a UTTR infrastructure case study, not a Utah employer.
 
 ## By Situation
 

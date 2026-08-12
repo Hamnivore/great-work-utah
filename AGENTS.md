@@ -120,6 +120,26 @@ from Houston and drills in Beaver County, so demanding a Utah address rejects co
 **Prefer the entity's own registrant over its parent**: a subsidiary page carrying the acquirer's
 CIK will hand a harvester the parent's consolidated financials (see `blue-raven-solar.md`).
 
+## Promoting a lead to a page
+
+A list of companies is not a list of pages. **A live website is necessary and not sufficient** — a
+lead earns a page only with a live site *plus* at least one corroborating public record independent
+of the company's own site: a funding announcement, a state registration, an App Store or Product Hunt
+listing with real traction, named customers, or independent press.
+
+`node scripts/probe-venture-leads.mjs --in leads.tsv --out report.md` establishes the mechanical half.
+It re-probes each site (separating live from thin, parked, and dead) and searches SEC EDGAR for a
+matching **registrant**, which is what a funded startup leaves behind. Input is a bare
+`host<TAB>name` TSV, deliberately, so the provenance of a lead list never reaches the script or its
+output.
+
+Read the results with the name-collision problem in view: "Finch", "Ember", "Horizon", "Alto",
+"Quill", and "Paloma" all match much larger companies in both EDGAR and the App Store, so an exact
+name match still needs the state and the filing checked before it counts.
+
+**A lead that fails the bar stays a lead. That is a finished result, not a gap** — write the verdict
+into the queue file so the next agent does not re-derive it.
+
 ## Before interface / navigation / contribution work
 
 Read `research/README.md` first — it records the standing maintainer directives (radical

@@ -9,7 +9,7 @@
 **Archived:** 2026-07-20
 **Publisher:** Scientific Computing and Imaging Institute, University of Utah
 **Raw:** raw/sci-institute-official-site/2026-08-11-81fc10a93bd2.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

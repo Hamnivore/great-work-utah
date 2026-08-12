@@ -9,7 +9,7 @@
 **Archived:** 2026-07-31
 **Publisher:** MIT Technology Review
 **Raw:** raw/zanskar-mit-technology-review/2026-08-11-a76b48e5ffe3.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

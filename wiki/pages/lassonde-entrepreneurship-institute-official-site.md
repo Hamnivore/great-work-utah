@@ -9,7 +9,7 @@
 **Archived:** 2026-06-09
 **Publisher:** University of Utah Lassonde Entrepreneurship Institute
 **Raw:** raw/lassonde-entrepreneurship-institute-official-site/2026-08-11-d2d492a1b431.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

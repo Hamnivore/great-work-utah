@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://www.ivumed.org/who-we-are
 **Publisher:** IVUmed
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ivumed-who-we-are-page/2026-08-11-b8379b4c72ef.txt
 **Updated:** 2026-08-11
 **Relates:** cites [IVUmed](ivumed.md) · https://greatutah.work/pages/ivumed.md · https://www.ivumed.org/who-we-are

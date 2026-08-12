@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-tech-calendar-discover-page.md",
+  "requested_url": "https://utahtechcalendar.com/discover",
+  "final_url": "https://utahtechcalendar.com/discover",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:48:41.014Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "e495630eef6f088388c52f846d66d56528d905989714e6f432a3015e4024bdc1",
+  "text_sha256": "9d17eaf9e98350e43e9a802bbbb47c1ea257d853fd322a84a08f0f01909713f8",
+  "text_chars": 2943,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

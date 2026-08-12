@@ -9,7 +9,7 @@
 **Archived:** 2026-05-17
 **Publisher:** Carterra, Inc.
 **Raw:** raw/carterra-official-website/2026-08-11-d2eb4e49ed29.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

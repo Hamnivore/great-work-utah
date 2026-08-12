@@ -6,7 +6,7 @@
 **Source Type:** peer-reviewed
 **URL:** https://doi.org/10.1371/journal.pone.0229206
 **Publisher:** PLOS ONE
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

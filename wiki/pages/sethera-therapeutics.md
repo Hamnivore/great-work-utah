@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** peptide therapeutics, enzymatic cross-linking, polymacrocyclic peptides, drug discovery platform
+**Identifiers:** cik=0002042692, ein=99-3550314
 **Roles:** biology-life-sciences, physical-sciences, sales-business-development
 **Stage:** Early-stage; University of Utah spinout (~2023)
 **Primary Location:** Salt Lake City, UT
@@ -48,8 +49,8 @@ Sethera is a U of U research spinout at 48 S Rio Grande Street in Salt Lake City
 ## Open Questions
 
 - Does enzymatic stabilization generalize across peptide targets with preserved affinity, acceptable pharmacokinetics, and no new immunogenicity?
-- Clinical-candidate timeline and lead-program disclosure — no IND or clinical program is publicly established here.
+- Clinical-candidate timeline and lead-program disclosure — no IND or clinical program appears in any source captured here.
 - How does the platform compare with stapled peptides, macrocyclization companies, ADCs, and other peptide-stabilization approaches?
-- What are the company's current funding stage and team size beyond the official team page?
+- Funding stage and team size beyond the official team page — nothing captured here names a round, an amount, or a headcount.
 - Platform biotech plays typically need 8–15 years from founding to first approved drug; Sethera was founded ~2023.
 - No agent-readable careers/jobs page found (setheratx.com/careers 404).

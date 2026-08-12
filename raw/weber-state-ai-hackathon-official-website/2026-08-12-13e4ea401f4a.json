@@ -1,0 +1,13 @@
+{
+  "source_page": "weber-state-ai-hackathon-official-website.md",
+  "requested_url": "https://hackathon.weber.edu/",
+  "final_url": "https://hackathon.weber.edu/",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:40:56.593Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "906dcd71a511bdd0261243f598e0f5ef96e904673f9f5ff75aad3774280bc491",
+  "text_sha256": "13e4ea401f4a330c2b5566cdbbbc8c062d71ea8943fed18ba116b24c4594540b",
+  "text_chars": 479,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

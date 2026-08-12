@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Focus:** Funding
+**Identifiers:** ein=47-4220476
 **Primary Location:** Park City, UT
 **Utah Location:** Park City, UT
 **Region:** Park City

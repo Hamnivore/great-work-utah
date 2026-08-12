@@ -9,7 +9,7 @@
 **Archived:** 2026-01-16
 **Publisher:** Telescope Array Collaboration (University of Utah lead institution)
 **Raw:** raw/telescope-array-official-website/2026-08-11-d6aa40f59f0b.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

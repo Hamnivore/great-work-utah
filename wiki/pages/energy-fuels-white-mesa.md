@@ -26,7 +26,7 @@ For the wiki, Energy Fuels / White Mesa is important because it is serious work 
 
 The strongest impact case is supply-chain resilience. Energy Fuels argues that U.S.-based uranium and rare-earth processing can reduce dependence on foreign-controlled critical-mineral supply chains while supporting nuclear energy and advanced technologies.
 
-The caution is equally important: White Mesa is an industrial and environmental flashpoint, not just a clean-tech asset. A future stronger page should include regulator records, tribal-community perspectives, environmental documents, and independent reporting before presenting any settled judgment about net impact.
+The caution is equally important: White Mesa is an industrial and environmental flashpoint, not just a clean-tech asset. Any settled judgment about net impact requires regulator records, Tribal-community perspectives, environmental documents, and independent reporting.
 
 ## What They Are Building
 

@@ -49,7 +49,7 @@ Xandem is a University of Utah ECE spinout in Salt Lake City, part of the state'
 
 - [Xandem official website](https://www.xandem.com) · https://www.xandem.com
 - Neal Patwari (U of U ECE) — academic research on RF tomographic imaging
-- Legacy tier note (converted): serious underlying technology, unclear trajectory — no independent source pages captured yet
+- No independent source currently establishes commercial traction or the present product trajectory.
 
 ## Open Questions
 

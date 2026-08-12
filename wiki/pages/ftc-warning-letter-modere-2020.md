@@ -5,8 +5,10 @@
 **Confidence:** High
 **Source Type:** government-record
 **URL:** https://www.ftc.gov/system/files/warning-letters/covid-19-letter_to_modere_inc.pdf
+**Archive:** https://web.archive.org/web/20250713131842/https://www.ftc.gov/system/files/warning-letters/covid-19-letter_to_modere_inc.pdf
+**Archived:** 2025-07-13
 **Publisher:** U.S. Federal Trade Commission
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ftc-warning-letter-modere-2020/2026-08-11-82ee4adca383.txt
 **Published:** 2020-04-24
 **Updated:** 2026-08-11

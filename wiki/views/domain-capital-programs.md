@@ -1,6 +1,6 @@
 # capital-programs — sector hub
 
-Generated from `**Domain:**` metadata (242/876 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (247/897 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -81,5 +81,4 @@ Generated from `**Domain:**` metadata (242/876 pages attributed so far — cover
 - [Military Installation Development Authority](/pages/military-installation-development-authority.md) · `https://greatutah.work/pages/military-installation-development-authority.md` — primary: aerospace-defense
 - [University of Utah](/pages/university-of-utah.md) · `https://greatutah.work/pages/university-of-utah.md` — primary: culture-place
 - [Utah Film Center Fiscal Sponsorship](/pages/utah-film-center-fiscal-sponsorship.md) · `https://greatutah.work/pages/utah-film-center-fiscal-sponsorship.md` — primary: culture-place
-- [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` — primary: computing
 - [Zaymo](/pages/zaymo.md) · `https://greatutah.work/pages/zaymo.md` — primary: computing

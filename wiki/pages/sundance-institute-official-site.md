@@ -9,7 +9,7 @@
 **Archived:** 2026-08-09
 **Publisher:** Sundance Institute
 **Raw:** raw/sundance-institute-official-site/2026-08-11-99b8fb4d5e39.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

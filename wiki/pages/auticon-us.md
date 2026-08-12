@@ -8,7 +8,7 @@
 **Primary Location:** Sacramento, CA
 **Utah Location:** unknown
 **Region:** unknown
-**Website:** https://www.auticon.com/us/en/
+**Website:** https://auticon.com/us/
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-08-11
 **Pull:** *Global majority-autistic IT consultancy — US HQ listed in California, not Salt Lake City.*

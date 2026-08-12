@@ -1,0 +1,75 @@
+Discover Utah Tech · Utah Tech Calendar
+utah tech calendar UTC events discover subscribe submit
+Utah Tech Calendar
+01 events →
+02 discover →
+03 subscribe →
+04 submit →
+Cottonwood Heights, UT · updated nightly
+Discover Utah Tech
+You don't know what you don't know.
+An index of the in-person Utah tech and tech-adjacent scene. Founders, designers, scientists, operators, anyone building here. One page, no signup.
+Open the schedule → Build your view
+Sources watched 72
+Curated verticals 9
+Delivery channels 4
+Accounts required 0
+How the index gets built.
+Figure 1
+Many shapes in, one ontology out.
+in partnership with
+01 · Sources
+Calendars, listing sites, organizer pages, the inbox. Scattered shapes, scattered schemas, scattered signal.
+02 · Refinement
+Cert-spam out, craft out, dupes deduped, webinars flagged, past placeholders sunset. The cleanup pass.
+03 · Ontology
+One schema across thirteen sources. Verticals tagged, regions placed, formats labeled. So every event is queryable in the same vocabulary.
+04 · One schedule
+Scannable in one read. “What's the AI thing in Lehi on Thursday?” answers itself.
+What gets in, what doesn't.
+A working sample
+✗ PMP 4 Days Classroom Training
+Cert-spam
+✓ Utah JS Meetup: TanStack Query patterns
+Real meetup
+✗ Woodturning: Intro to Lathe Basics
+Craft, not tech
+✓ Wilson Sonsini Medical Device Conference
+Real conference
+✗ Cyber Security 1-Day Workshop x6 cities
+Cross-post spam
+✓ Weekly AI Power Hour at Silicon Slopes
+Real recurring meetup
+Drop into a vertical.
+Each one is its own page
+/tag/ ai AI /tag/ fintech Fintech /tag/ healthtech Healthtech /tag/ biotech Biotech /tag/ edtech Edtech /tag/ aerospace Aerospace & Defense /tag/ gamedev Game Dev /tag/ cybersecurity Cybersecurity /tag/ founders Founders
+Four ways to stay on it.
+Set one up →
+01 — Calendar
+Pipe it into Apple or Google Calendar
+iCal subscription. Updates live as we scrape.
+02 — Email
+Monday morning, your filter
+Weekly digest of just the events you tagged.
+03 — RSS
+Read it in Feedly or NetNewsWire
+Same filters, syndicated.
+04 — Share link
+Send the filter to a friend
+Build a view, copy the URL. No signup on their end.
+What we don't do.
+✗ Accounts Nothing to sign up for.
+✗ Tracking No pixels, no behavioral profile.
+✗ Cookie nag No tracking cookies to consent to.
+✗ Paywall Free, run as a public service.
+Anyone can contribute
+Know an event we don't? Tell us.
+Submissions go straight to the moderation queue. Or send us a whole source - a Meetup group, a Luma calendar, an org we haven't found yet.
+Submit an event → Suggest a source
+Word-of-mouth is a beautiful signal at one table. A terrible one across a scene. We're building the index so it's easier to find each other.
+← back to the schedule
+Browse by vertical
+AI Fintech Healthtech Biotech Edtech Aerospace & Defense Game Dev Cybersecurity Founders
+compiled in cottonwood heights, utah · updated nightly
+discover archive about ical rss embed submit
+in partnership with

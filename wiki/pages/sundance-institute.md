@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** independent film, immersive storytelling, artist development, film festivals, nonprofit arts
+**Identifiers:** ein=87-0361394, ror=02apk8p19
 **Roles:** marketing-communications
 **Stage:** Established 501(c)(3) nonprofit; founded 1981
 **Primary Location:** Park City, UT

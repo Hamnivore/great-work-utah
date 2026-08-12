@@ -9,7 +9,7 @@
 **Archived:** 2026-08-09
 **Publisher:** Global Uprising, PBC dba Cotopaxi
 **Raw:** raw/cotopaxi-official-website/2026-08-11-39bda1142216.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

@@ -9,7 +9,7 @@
 **Archived:** 2026-06-07
 **Publisher:** US Magnesium LLC
 **Raw:** raw/us-magnesium-official-website/2026-08-11-380e1664957c.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

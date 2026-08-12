@@ -9,7 +9,7 @@
 **Archived:** 2026-01-23
 **Publisher:** Salt Lake Tribune / Great Salt Lake Collaborative (corroborated by Delaware bankruptcy docket via elevenflo and EPA records)
 **Raw:** raw/us-magnesium-bankruptcy/2026-08-11-82cf9ab7c2c1.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary
@@ -20,9 +20,9 @@ Coverage of US Magnesium LLC's September 2025 Chapter 11 filing in Delaware, its
 
 - US Magnesium's Rowley plant sits on the western shore of the Great Salt Lake in Tooele County; this article does not state when production began — per [Official Website: US Magnesium](us-magnesium-official-website.md), magnesium has been produced at the site since 1972.
 - The company declared Chapter 11 bankruptcy in Delaware in September 2025; this article does not give the exact filing date (a Sept. 15 auction proposal came days after filing). Court filings cited in the piece reference **$67 million** in debt owed to Wells Fargo.
-- A first-day declaration previously summarized on this page said Renco funded the company over the prior decade without taking dividends; that assertion and its dollar amount do not appear in this news capture.
+- This news capture does not establish Renco's reported decade-long funding support or the associated dollar amount.
 - The site has been on the EPA's National Priorities List (Superfund) since 2009; a 2021 consent decree resolved 20+ years of RCRA litigation and required a barrier wall and financial assurance. EPA notified the company of a consent-decree violation in July 2024.
-- A later update previously added to this page says that, following a January 2026 auction, the Utah Division of Forestry, Fire, and State Lands was selected as successful bidder. This December 2025 capture predates the auction and does not support the result or reported cash-offer amount; it does document LiMag Holdings as the proposed bidder at that time.
+- This December 2025 capture predates the auction and does not support the reported successful bidder or cash-offer amount; it documents LiMag Holdings as the proposed bidder at that time.
 - Court filings reference development of lithium carbonate production from magnesium-production tailings.
 
 ## Verbatim

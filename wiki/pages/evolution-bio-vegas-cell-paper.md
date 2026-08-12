@@ -6,7 +6,7 @@
 **Source Type:** peer-reviewed
 **URL:** https://pubmed.ncbi.nlm.nih.gov/31280962/
 **Publisher:** Cell (English JG et al., 2019)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

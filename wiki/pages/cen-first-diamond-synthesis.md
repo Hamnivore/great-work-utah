@@ -9,7 +9,7 @@
 **Archived:** 2025-07-25
 **Publisher:** Chemical & Engineering News (American Chemical Society)
 **Raw:** raw/cen-first-diamond-synthesis/2026-08-11-29ca00c69696.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

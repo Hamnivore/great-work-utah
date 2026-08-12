@@ -1,9 +1,10 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (480 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (485 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
+- [CTO Breakfast Utah](/pages/cto-breakfast-utah.md) · `https://greatutah.work/pages/cto-breakfast-utah.md` · computing, culture-place
 - [Domo](/pages/domo.md) · `https://greatutah.work/pages/domo.md` · computing
 - [LiveView Technologies (LVT)](/pages/liveview-technologies.md) · `https://greatutah.work/pages/liveview-technologies.md` · computing, aerospace-defense
 
@@ -277,6 +278,7 @@ Generated from `**Region:**` metadata (480 pages with a region). Sector hubs sti
 - [Monarch](/pages/monarch.md) · `https://greatutah.work/pages/monarch.md` · capital-programs
 - [Startup Ogden](/pages/startup-ogden.md) · `https://greatutah.work/pages/startup-ogden.md` · resource
 - [Weber Basin Job Corps](/pages/weber-basin-job-corps.md) · `https://greatutah.work/pages/weber-basin-job-corps.md` · resource
+- [Weber State AI Hackathon](/pages/weber-state-ai-hackathon.md) · `https://greatutah.work/pages/weber-state-ai-hackathon.md` · computing, culture-place
 - [Williams International](/pages/williams-international.md) · `https://greatutah.work/pages/williams-international.md` · aerospace-defense, materials-mfg
 
 ## Orem
@@ -294,6 +296,7 @@ Generated from `**Region:**` metadata (480 pages with a region). Sector hubs sti
 
 ## Park City
 
+- [Carv](/pages/carv.md) · `https://greatutah.work/pages/carv.md` · computing, culture-place
 - [Park City Angels](/pages/park-city-angels.md) · `https://greatutah.work/pages/park-city-angels.md` · capital-programs
 - [Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md) · `https://greatutah.work/pages/park-city-chamber-of-commerce.md` · capital-programs
 - [Skullcandy](/pages/skullcandy.md) · `https://greatutah.work/pages/skullcandy.md` · venture
@@ -425,6 +428,7 @@ Generated from `**Region:**` metadata (480 pages with a region). Sector hubs sti
 - [Myriad Genetics BRCA Sequencing and Testing](/pages/myriad-genetics-brca.md) · `https://greatutah.work/pages/myriad-genetics-brca.md` · health-bio
 - [Myriad Genetics](/pages/myriad-genetics.md) · `https://greatutah.work/pages/myriad-genetics.md` · health-bio
 - [NephroNovus](/pages/nephronovus.md) · `https://greatutah.work/pages/nephronovus.md` · venture
+- [Neumont College of Computer Science](/pages/neumont-college-of-computer-science.md) · `https://greatutah.work/pages/neumont-college-of-computer-science.md` · computing, culture-place
 - [NOW CFO](/pages/now-cfo.md) · `https://greatutah.work/pages/now-cfo.md` · capital-programs
 - [O.C. Tanner](/pages/oc-tanner.md) · `https://greatutah.work/pages/oc-tanner.md` · venture
 - [Palladyne AI](/pages/palladyne-ai.md) · `https://greatutah.work/pages/palladyne-ai.md` · aerospace-defense, computing
@@ -544,6 +548,7 @@ Generated from `**Region:**` metadata (480 pages with a region). Sector hubs sti
 - [RAM Aviation, Space & Defense](/pages/ram-aviation-space-defense.md) · `https://greatutah.work/pages/ram-aviation-space-defense.md` · aerospace-defense, materials-mfg
 - [Red Rock Angels](/pages/red-rock-angels.md) · `https://greatutah.work/pages/red-rock-angels.md` · capital-programs
 - [SkyWest, Inc.](/pages/skywest-inc.md) · `https://greatutah.work/pages/skywest-inc.md` · aerospace-defense
+- [Southern Utah Code Camp](/pages/southern-utah-code-camp.md) · `https://greatutah.work/pages/southern-utah-code-camp.md` · computing, culture-place
 - [St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md) · `https://greatutah.work/pages/st-george-area-chamber-of-commerce.md` · resource
 - [St. George City Economic Development](/pages/st-george-city-economic-development.md) · `https://greatutah.work/pages/st-george-city-economic-development.md` · resource
 - [St George Downtown Farmers Market](/pages/st-george-downtown-farmers-market.md) · `https://greatutah.work/pages/st-george-downtown-farmers-market.md` · resource
@@ -579,8 +584,8 @@ Generated from `**Region:**` metadata (480 pages with a region). Sector hubs sti
 ## Utah County
 
 - [Autonomous Low-Collateral Counter-UAS Interception](/pages/autonomous-low-collateral-counter-uas-interception.md) · `https://greatutah.work/pages/autonomous-low-collateral-counter-uas-interception.md` · work
-- [Bidi Contracting](/pages/bidi-contracting.md) · `https://greatutah.work/pages/bidi-contracting.md` · materials-mfg, computing
 - [Omniture Web Analytics](/pages/omniture-web-analytics.md) · `https://greatutah.work/pages/omniture-web-analytics.md` · computing
+- [Struvia](/pages/struvia.md) · `https://greatutah.work/pages/struvia.md` · materials-mfg, computing
 
 ## Utah Valley
 
@@ -750,7 +755,7 @@ Generated from `**Region:**` metadata (480 pages with a region). Sector hubs sti
 - [Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative-usbci.md` · resource
 - [Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative.md` · resource
 - [Utah State Surplus Property](/pages/utah-state-surplus-property.md) · `https://greatutah.work/pages/utah-state-surplus-property.md` · capital-programs
-- [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` · computing, capital-programs
+- [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` · computing, culture-place
 - [Utah Tourism Association](/pages/utah-tourism-association.md) · `https://greatutah.work/pages/utah-tourism-association.md` · resource
 - [Utah Water Savers](/pages/utah-water-savers.md) · `https://greatutah.work/pages/utah-water-savers.md` · culture-place
 - [UtahJS](/pages/utahjs.md) · `https://greatutah.work/pages/utahjs.md` · computing

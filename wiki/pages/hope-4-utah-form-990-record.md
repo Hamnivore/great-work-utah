@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20250116043232/https://projects.propublica.org/nonprofits/organizations/900969731
 **Archived:** 2025-01-16
 **Publisher:** ProPublica Nonprofit Explorer (republishing IRS Form 990 data)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/hope-4-utah-form-990-record/2026-08-11-60449d86311c.txt
 **Updated:** 2026-08-11
 

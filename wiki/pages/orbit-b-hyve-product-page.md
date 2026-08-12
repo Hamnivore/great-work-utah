@@ -7,7 +7,7 @@
 **URL:** https://www.orbitonline.com/pages/what-is-b-hyve
 **Publisher:** Orbit Irrigation Products
 **Raw:** raw/orbit-b-hyve-product-page/2026-08-11-fb83c6e50709.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

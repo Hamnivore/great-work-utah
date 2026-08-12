@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://www.familysearch.org
 **Publisher:** FamilySearch International
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

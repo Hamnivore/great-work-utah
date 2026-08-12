@@ -9,7 +9,7 @@
 **Archived:** 2026-05-14
 **Publisher:** Huntsman Cancer Institute, University of Utah Health
 **Raw:** raw/utah-population-database-official/2026-08-11-42eb195e8e5d.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

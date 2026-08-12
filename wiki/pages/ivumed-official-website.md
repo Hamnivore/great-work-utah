@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://www.ivumed.org/
 **Publisher:** IVUmed
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ivumed-official-website/2026-08-11-0b0f88477b1c.txt
 **Updated:** 2026-08-11
 **Relates:** cites [IVUmed](ivumed.md) · https://greatutah.work/pages/ivumed.md · https://www.ivumed.org/

@@ -9,7 +9,7 @@
 **Archived:** 2026-07-19
 **Publisher:** Rio Tinto (Kennecott operations page)
 **Raw:** raw/kennecott-utah-copper-history/2026-08-11-9dbd6c2b6505.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

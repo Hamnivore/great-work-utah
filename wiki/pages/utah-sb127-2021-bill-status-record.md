@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://le.utah.gov/data/2021GS/SB0127.json
 **Publisher:** Utah State Legislature
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/utah-sb127-2021-bill-status-record/2026-08-11-a26f01f5fd42.txt
 **Updated:** 2026-08-11
 

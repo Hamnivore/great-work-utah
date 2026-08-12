@@ -7,7 +7,7 @@
 **URL:** https://www.husqvarnagroup.com/sites/husqvarna/files/pr/202202023277-1.pdf
 **Publisher:** Husqvarna Group (publ)
 **Raw:** raw/husqvarna-year-end-report-2021-orbit/2026-08-11-83a24d051eb8.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

@@ -9,7 +9,7 @@
 **Archived:** 2026-07-16
 **Publisher:** Western Governors University
 **Raw:** raw/wgu-accreditation/2026-08-11-2639c6f6f510.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Western Governors University](western-governors-university.md) · https://greatutah.work/pages/western-governors-university.md · https://www.wgu.edu/about/accreditation.html
 

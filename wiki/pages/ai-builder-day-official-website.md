@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://aibuilderday.com/
 **Publisher:** AI Builder Day
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ai-builder-day-official-website/2026-08-11-8650bcfded40.txt
 **Updated:** 2026-08-11
 **Relates:** cites [AI Builder Day](ai-builder-day.md) · https://greatutah.work/pages/ai-builder-day.md · https://aibuilderday.com/

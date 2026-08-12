@@ -1,0 +1,27 @@
+{
+  "source_page": "cto-breakfast-utah-2026-announcements.md",
+  "origin": "authenticated scraper capture (public channels only; DMs are never collected)",
+  "scraper_data": "authenticated Slack export supplied at capture time",
+  "messages": [
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1773098270838069",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Derek Carter",
+      "date": "2026-03-09T23:17:50.838Z",
+      "ts": "1773098270.838069"
+    },
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1780413882643509",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Derek Carter",
+      "date": "2026-06-02T15:24:42.643Z",
+      "ts": "1780413882.643509"
+    }
+  ],
+  "captured_at": "2026-08-12T00:41:15.829Z",
+  "text_sha256": "2b2c60488a2fc239e15594e0582add9f5c33f7c4af5f41d1de71c41a299c7479",
+  "text_chars": 947,
+  "extractor": "scripts/capture-slack-sources.mjs"
+}

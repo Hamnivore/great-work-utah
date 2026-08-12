@@ -9,7 +9,7 @@
 **Archived:** 2025-01-15
 **Publisher:** Deseret News
 **Raw:** raw/deseret-news-us-synthetic-1998/2026-08-11-5962c240cdeb.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [US Synthetic](us-synthetic.md) · https://greatutah.work/pages/us-synthetic.md · https://www.deseret.com/1998/6/21/19386584/us-synthetic-got-rocky-start/
 

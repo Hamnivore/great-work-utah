@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.ftc.gov/system/files/warning-letters/covid-19-letter_to_tranont.pdf
 **Publisher:** U.S. Federal Trade Commission
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ftc-warning-letter-tranont-2020/2026-08-11-34b9d55b80bc.txt
 **Published:** 2020-04-24
 **Updated:** 2026-08-11
@@ -35,8 +35,11 @@ specificity of the quoted claims.
   Lehi, Utah 84043 — a federal record of the company's Utah headquarters and its chief executive as
   of April 2020.
 - Quoted participant health claims name products directly as coronavirus treatments — a "TECHNO
-  BOOST" product, a nitric-oxide supplement, and "Restore," a proteolytic enzyme said to break down
-  the virus's proteins.
+  BOOST" product, a nitric-oxide supplement, and "Restore," which the post calls "a proteolytic enzyme
+  which breaks down proteins", offered on the stated premise that "the Coronavirus is a nucleoprotein".
+  The post's own instruction is to take Restore "to help you break down the proteins in your body", not
+  the virus's — the implication is left to the reader, which is part of why the FTC treats it as a
+  disease claim.
 - The quoted earnings claim spans a presentation pitching income from "an extra $600 a month" to
   "over $1 million a year" while invoking lost jobs and an unstable economy.
 - The FTC placed Tranont in the group warned about both health and earnings claims.

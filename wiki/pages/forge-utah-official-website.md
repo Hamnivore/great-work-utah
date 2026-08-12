@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20250724003823/https://forgeutah.tech/
 **Archived:** 2025-07-24
 **Publisher:** Forge Utah Foundation
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/forge-utah-official-website/2026-08-11-a28b5e87f58e.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Forge Utah](forge-utah.md) · https://greatutah.work/pages/forge-utah.md · https://forgeutah.tech/

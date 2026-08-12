@@ -24,7 +24,7 @@
 
 ## Summary
 
-Williams International is a privately held, vertically integrated manufacturer of small gas turbine engines founded in Michigan by Dr. Sam B. Williams. Its Ogden, Utah plant has operated for decades and is undergoing an expansion. The captured official company source confirms the business and location but not the state-reported headcount, floor area, jobs, investment, or incentive terms; those figures need dedicated source pages for the state and city records.
+Williams International is a privately held, vertically integrated manufacturer of small gas turbine engines founded in Michigan by Dr. Sam B. Williams. Its Ogden, Utah plant has operated for decades and is undergoing an expansion. The captured official company source confirms the business and location but not the state-reported headcount, floor area, jobs, investment, or incentive terms; those figures require captured state and city records.
 
 Williams International is not a startup: it is a 70-year-old, founder-descended private manufacturer with an established, decades-old product line. Its roughly 900-employee Ogden site, state-flagged nine-figure-to-billion-dollar Utah expansion, and current hiring make it a durable aerospace anchor in a city that gets comparatively little attention next to the Wasatch Front's Salt Lake- and Hill-centered defense cluster.
 

@@ -9,7 +9,7 @@
 **Archived:** 2026-04-17
 **Publisher:** Northrop Grumman Corporation
 **Raw:** raw/northrop-grumman-promontory-official-website/2026-08-11-9dd7ffefd4a1.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

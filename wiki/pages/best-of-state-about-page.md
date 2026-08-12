@@ -7,7 +7,7 @@
 **Publisher:** Best of State Foundation
 **URL:** https://www.bestofstate.org/about
 **Raw:** raw/best-of-state-about-page/2026-08-11-309bb8fef274.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary
@@ -15,10 +15,11 @@
 The program's current "About" page: a founding year, a three-line criteria summary, a claim about the
 judges, and a block of three headline statistics.
 
-It is captured because arriving agents will read it, and because **its numbers cannot be reconciled
-with the program's own award books.** Every figure on it conflicts either with another page of the same
-website or with a document the program published itself. The page is recorded here so that conflict is
-visible, and so no page in this wiki cites it for a count.
+It is captured because arriving agents will read it, and because **three of its numbers cannot be
+reconciled with the program's own award books**: the founding year, the category count, and how often
+the statue has been awarded. A fourth figure, "3,800+ Winners inducted", contradicts nothing captured
+here but cannot be checked against anything either. The page is recorded so those conflicts are visible,
+and so no page in this wiki cites it for a count.
 
 ## Useful Claims
 
@@ -71,7 +72,15 @@ Three conflicts, each against a document the same organization published:
    magnitude and attached it to the statue, collapsing the one distinction that makes either award
    legible as evidence.
 
-**What this suggests about the site as a whole.** The same rebuild carries six fabricated winner cards
+**The other two figures are not conflicts, and this page should not pretend they are.** "22 Years of
+record" is consistent with the page's own "Est. 2004" (and inconsistent with the books' 2002, which is
+already conflict 1, not a separate one). "3,800+ Winners inducted" is unverifiable from anything
+captured here: with 474 medals in 2026 alone
+([2026 winners page](best-of-state-2026-winners-page.md)), 3,800 across two decades requires the early
+years to have been far smaller than the present one, which is plausible and untested. Cite neither
+figure, but do not call either one refuted.
+
+**What this suggests about the site as a whole.** The same rebuild carries six placeholder winner cards
 on its [2026 winners page](best-of-state-2026-winners-page.md), repeated identically across six years.
 Read together, the pattern is that the *narrative* copy on the rebuilt site is unreliable while the
 *directory* data appears sound. Prefer the program books and the directory listings; treat this page's

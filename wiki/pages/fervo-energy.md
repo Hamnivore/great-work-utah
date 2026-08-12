@@ -60,7 +60,7 @@ Fervo also belongs in guides for founders asking how to turn university energy r
 
 Cape Station puts Beaver County on the map for next-generation geothermal. Fervo's [2023 groundbreaking release](fervo-cape-station-groundbreaking.md) projected roughly 6,600 construction jobs and 160 full-time operating jobs generating more than $437 million in earned wages — company projections, not measured outcomes, and the kind of number to attribute rather than assert. The [prospectus](fervo-energy-ipo-prospectus-2026.md) confirms the physical footprint: Phase I is project-financed with HSBC as collateral agent, and the wells are in Beaver County near Milford. Together with [Zanskar Geothermal](zanskar-geothermal.md) — a Salt Lake City exploration-AI company — and the federally funded Utah FORGE site, Fervo anchors one of the most concentrated enhanced-geothermal clusters in the country.
 
-One important caveat: Fervo's corporate headquarters are not in Utah. The Utah page should be clear that the state is central to the project, not necessarily the whole company.
+One important caveat: Fervo's corporate headquarters are not in Utah. Utah is central to the project, not necessarily to the whole company.
 
 ## Evidence
 

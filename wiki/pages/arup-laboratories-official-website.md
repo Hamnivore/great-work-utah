@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260320171814/https://www.aruplab.com/about
 **Archived:** 2026-03-20
 **Publisher:** ARUP Laboratories
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/arup-laboratories-official-website/2026-08-11-c1ae5642ee40.txt
 **Updated:** 2026-08-11
 **Relates:** cites [ARUP Laboratories](arup-laboratories.md) · https://greatutah.work/pages/arup-laboratories.md · https://www.aruplab.com/about

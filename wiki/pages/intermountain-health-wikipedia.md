@@ -9,7 +9,7 @@
 **Archived:** 2026-05-07
 **Publisher:** Wikipedia contributors (Wikimedia Foundation)
 **Raw:** raw/intermountain-clinical-quality-improvement-sources/2026-08-11-c75d8bf71a72.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

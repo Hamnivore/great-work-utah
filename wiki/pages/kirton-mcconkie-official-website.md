@@ -9,7 +9,7 @@
 **Archived:** 2026-07-20
 **Publisher:** Kirton McConkie
 **Raw:** raw/kirton-mcconkie-official-website/2026-08-11-12b3b1aa683d.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

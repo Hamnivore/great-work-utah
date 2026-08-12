@@ -9,7 +9,7 @@
 **Archived:** 2026-06-28
 **Publisher:** Owlet Baby Care
 **Raw:** raw/owlet-official-website/2026-08-11-5822ca701d94.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

@@ -9,7 +9,7 @@
 **Archived:** 2026-07-23
 **Publisher:** Western Governors University
 **Raw:** raw/western-governors-university-official-website/2026-08-11-23dd66e64a2d.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Western Governors University](western-governors-university.md) · https://greatutah.work/pages/western-governors-university.md · https://www.wgu.edu/about.html
 

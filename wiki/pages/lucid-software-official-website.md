@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20211210163513/http://lucidsoftware.com/
 **Archived:** 2021-12-10
 **Publisher:** Lucid Software
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/lucid-software-official-website/2026-08-11-5cecde72045b.txt
 **Updated:** 2026-06-19
 

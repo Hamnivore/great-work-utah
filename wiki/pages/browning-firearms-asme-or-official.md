@@ -9,7 +9,7 @@
 **Archived:** 2026-04-18
 **Publisher:** American Society of Mechanical Engineers
 **Raw:** raw/browning-firearms-asme-or-official/2026-08-11-fe0980f77b71.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

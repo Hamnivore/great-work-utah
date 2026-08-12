@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260805190117/https://safeut.org/
 **Archived:** 2026-08-05
 **Publisher:** University of Utah Health / SafeUT
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/safeut-official-website/2026-08-11-fe400a72249d.txt
 **Updated:** 2026-08-11
 **Relates:** cites [SafeUT](safeut.md) · https://greatutah.work/pages/safeut.md · https://safeut.org/

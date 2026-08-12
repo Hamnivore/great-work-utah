@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260417181412/https://seniorgames.net/about
 **Archived:** 2026-04-17
 **Publisher:** Huntsman World Senior Games / World Senior Games Inc
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/huntsman-world-senior-games-official-website/2026-08-11-df17cec6cab1.txt
 **Updated:** 2026-08-11
 

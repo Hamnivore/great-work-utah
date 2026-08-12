@@ -7,7 +7,7 @@
 **URL:** https://enduracure.com
 **Publisher:** EnduraCure
 **Raw:** raw/enduracure-official-website/2026-08-11-1e3cf15fa28d.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

@@ -9,7 +9,7 @@
 **Archived:** 2026-07-14
 **Publisher:** Western Governors University
 **Raw:** raw/wgu-competency-based-education/2026-08-11-4ff331f46550.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Western Governors University](western-governors-university.md) · https://greatutah.work/pages/western-governors-university.md · https://www.wgu.edu/about/competency-based-education.html
 

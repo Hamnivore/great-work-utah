@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** cybersecurity, observability, machine data, SIEM, AIOps, enterprise software
+**Identifiers:** cik=0001353283, ein=86-1106510
 **Roles:** software-engineering, hardware-engineering
 **Domain:** computing
 **Region:** unknown
@@ -57,7 +58,7 @@ Useful helpers include cybersecurity consultancies, MSSPs, SRE and observability
 
 ## Utah Context
 
-The Utah connection is currently unverified. Evidence that could establish it includes:
+The Utah connection is currently unverified. The page should be revisited for evidence of one of the following:
 
 - a Cisco or Splunk office, lab, team, or major customer-success presence in Utah;
 - a Utah-founded acquisition or product line inside Splunk;
@@ -65,7 +66,7 @@ The Utah connection is currently unverified. Evidence that could establish it in
 - a local talent pipeline around Splunk administration, security engineering, or observability;
 - Utah-based partners or consultancies with significant Splunk practices.
 
-Until such evidence is available, Splunk is a lead rather than a confirmed Utah anchor.
+Until then, Splunk belongs in the wiki as a lead rather than a confirmed Utah anchor.
 
 ## Evidence
 

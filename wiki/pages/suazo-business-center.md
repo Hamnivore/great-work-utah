@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+**Identifiers:** ein=04-3693364
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
 **Region:** statewide

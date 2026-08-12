@@ -9,7 +9,7 @@
 **Archived:** 2026-05-17
 **Publisher:** Lassonde Entrepreneur Institute, University of Utah
 **Raw:** raw/lassonde-wasatch-microfluidics-profile/2026-08-11-7fead9fa0d61.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

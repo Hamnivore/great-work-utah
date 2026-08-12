@@ -7,7 +7,7 @@
 **URL:** https://www.usu.edu/today/story/usu-led-nasa-atmospheric-wave-studying-mission-releases-data-from-first-3000-orbits
 **Publisher:** Utah State University
 **Raw:** raw/usu-awe-first-3000-orbits/2026-08-11-a95697040b94.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

@@ -7,7 +7,7 @@
 **Publisher:** Best of State Foundation
 **URL:** https://www.bestofstate.org/past-winners?year=2025
 **Raw:** raw/best-of-state-past-winners-archive/2026-08-11-ea326b8f3a75.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary
@@ -54,9 +54,10 @@ about how the page behaves when a machine fetches it.
 
 **It corrects a working assumption in this wiki's own leads files.** Those files record that the year
 pages are server-rendered, so that `?year=YYYY` returns different content — which was true when they
-were harvested. It is not true of the rebuilt site: the year is a client-side fetch, and the requested
-URL `…/past-winners` redirects to `…/past-winners?year=2025`, which is the URL recorded above because
-it is the one actually captured.
+were harvested. It is not true of the rebuilt site: the year is a client-side fetch, so `?year=YYYY`
+changes only what the browser then requests. `…/past-winners` answers 307 to `…/past-winners?year=2025`,
+which is why **URL:** carries the query form — that redirect was confirmed with a separate HEAD request,
+not by the capture, whose sidecar shows the `?year=2025` URL both requested and returned 200.
 
 **No archive snapshot exists** for this route; the CDX index holds no 200-status capture of it. A
 snapshot of the *pre-rebuild* `/past-winners` page does exist, and deliberately is not recorded in

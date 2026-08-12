@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://le.utah.gov/~2021/bills/sbillenr/SB0127.htm
 **Publisher:** Utah State Legislature
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/utah-sb127-2021-congregate-care-statute/2026-08-11-d0fef3382e0d.txt
 **Updated:** 2026-08-11
 

@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260719171828/https://www.midaut.org/who-we-are
 **Archived:** 2026-07-19
 **Publisher:** Military Installation Development Authority
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/mida-who-we-are/2026-08-11-308d07f9af51.txt
 **Updated:** 2026-08-11
 

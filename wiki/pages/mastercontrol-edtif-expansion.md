@@ -9,7 +9,7 @@
 **Archived:** 2026-05-26
 **Publisher:** Utah Governor's Office of Economic Opportunity (GOEO)
 **Raw:** raw/mastercontrol-edtif-expansion/2026-08-11-f18ce137aaf0.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

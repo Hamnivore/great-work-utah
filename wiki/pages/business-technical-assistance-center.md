@@ -12,14 +12,14 @@
 **Coordinates:** 39.5940948, -110.8111104
 **Location Precision:** exact
 **Location Source:** https://web.archive.org/web/20250325062537/https://www.btac.business/
-**Website:** https://www.btac.business/
+**Website:** https://seenutah.org/
 **Updated:** 2026-08-11
 
 ## Summary
 
 The Business & Technical Assistance Center (BTAC) in Price, Utah is a coworking and business-incubation facility serving southeastern Utah. Its legal entity is **Southeastern Utah Business and Technical Assistance Center Inc**, a 501(c)(3) with EIN 87-0530362, exempt since May 1996, registered at 375 South Carbon Ave in Price ([IRS Form 990 record](btac-form-990-record.md)).
 
-**The organization is operating; its website is not.** `btac.business` has returned an HTTP 500 WordPress error since somewhere between 2025-03-25 and 2025-04-06, and still did on 2026-08-11 ([archived site](btac-official-website-archive.md)). That is a broken site, not a closed program: BTAC filed a Form 990-EZ for tax year 2024 on 2025-07-11, and the IRS Business Master File carries a return processed for tax period 2025-12 with an exemption in force ([BMF Utah extract](irs-bmf-utah-exempt-organizations.md)).
+**The organization is operating under the Southeastern Entrepreneurial Ecosystem (SEEN) web presence.** The former `btac.business` site has returned an HTTP 500 WordPress error since somewhere between 2025-03-25 and 2025-04-06, and still did on 2026-08-11 ([archived site](btac-official-website-archive.md)). SEEN now identifies the Southeastern Utah Business & Technical Assistance Center as the organization behind the ecosystem. That successor, BTAC's 2024 Form 990-EZ, and the IRS Business Master File record for tax period 2025-12 all support continued operation ([BMF Utah extract](irs-bmf-utah-exempt-organizations.md)).
 
 Scale is small and stable — revenue of $109,245 against $109,923 of expenses in FY2023, and between roughly $23,000 and $117,000 in every year on record since 2011 ([IRS Form 990 record](btac-form-990-record.md)). Expect a modest community facility run close to the bone, not a funded accelerator.
 
@@ -37,7 +37,7 @@ Advising, funding, and cohort programming are not evidenced anywhere — not on 
 
 ## How To Use It
 
-The website is down, so contact directly. Both contact routes below come from the 2025 snapshot and have not been re-verified.
+Use the current SEEN website for the regional ecosystem; the direct BTAC contact routes below come from the former site's 2025 snapshot and have not been re-verified.
 
 - Phone: (435) 637-7336
 - Email: [info@btac.business](mailto:info@btac.business) — the mail domain may or may not have survived the site failure
@@ -51,10 +51,11 @@ No pricing was ever published on the site, and the 990-EZ gives no rate card. As
 
 ## Best Fits
 
-Southeastern Utah founders and remote workers in Carbon, Emery, Grand, and San Juan counties who need desk space, a business address, meeting rooms, or fiber in the Price area — and who are willing to phone ahead, because the web front door is broken.
+Southeastern Utah founders and remote workers in Carbon, Emery, Grand, and San Juan counties who need desk space, a business address, meeting rooms, or fiber in the Price area — and who are willing to confirm current facility access directly because the former BTAC site is broken.
 
 ## Evidence
 
+- [Southeastern Entrepreneurial Ecosystem](https://seenutah.org/) · https://seenutah.org/ — current official web presence identifying the Southeastern Utah Business & Technical Assistance Center as the organization behind SEEN
 - [Source: IRS Form 990 Record — Southeastern Utah BTAC](btac-form-990-record.md) · https://greatutah.work/pages/btac-form-990-record.md · https://projects.propublica.org/nonprofits/api/v2/organizations/870530362.json — legal entity, EIN, registered address, exemption date, multi-year revenue and assets
 - [Source: IRS Exempt Organizations Business Master File, Utah Extract](irs-bmf-utah-exempt-organizations.md) · https://greatutah.work/pages/irs-bmf-utah-exempt-organizations.md · https://www.irs.gov/pub/irs-soi/eo_ut.csv — current exempt status and most recent processed tax period
 - [Source: BTAC Official Website (archived)](btac-official-website-archive.md) · https://greatutah.work/pages/btac-official-website-archive.md · https://web.archive.org/web/20250325062537/https://www.btac.business/ — amenities, mission, street address, phone; and the site-failure window
@@ -65,7 +66,7 @@ Southeastern Utah founders and remote workers in Carbon, Emery, Grand, and San J
 ## Open Questions
 
 - ~~Is BTAC still operating?~~ — yes, on the evidence of continued IRS filings through tax period 2025-12. **What is not known is whether the physical facility is open and staffed**, which no federal record can answer. A phone call would settle it.
-- Is there a replacement web presence (social account, city or chamber page) that has taken over from the dead domain? None was found on 2026-08-11.
+- Which BTAC facility services and contacts have moved into SEEN's current operating structure?
 - Does the `info@btac.business` address still deliver, given the site failure on the same domain?
 - Is the commercial kitchen currently available, and at what rate? The Startup State listing says kitchen rentals; BTAC's own amenities list did not.
 - Which services beyond space (advising, incubation cohorts) are active today? Nothing in the record evidences programming.

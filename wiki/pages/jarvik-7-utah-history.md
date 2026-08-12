@@ -4,8 +4,9 @@
 **Status:** Useful
 **Confidence:** High
 **Source Type:** official-page
-**URL:** https://medicine.utah.edu/cardiology/about/history/artificial-heart
+**URL:** https://medicine.utah.edu/sites/g/files/zrelqx356/files/migration/media/first-artificial-heart-anderson.pdf
 **Publisher:** University of Utah School of Medicine, Division of Cardiovascular Medicine
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

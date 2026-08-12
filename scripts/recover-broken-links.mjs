@@ -1,14 +1,16 @@
 #!/usr/bin/env node
-// Recover or classify broken official URLs found on wiki pages.
+// Recover or classify external URLs found in user-facing wiki metadata.
 // Strategy (in order): known aliases → HTTP probe → optional headless Chrome →
 // Wayback CDX → fuzzy match against Startup State live catalog / wiki titles.
 //
 // Usage:
-//   node scripts/recover-broken-links.mjs                  # scan all **Website:** fields
+//   node scripts/recover-broken-links.mjs                  # scan site-link metadata
 //   node scripts/recover-broken-links.mjs --stem foo       # one page
 //   node scripts/recover-broken-links.mjs --url https://…  # one URL
 //   node scripts/recover-broken-links.mjs --browser        # use headless Chrome when fetch fails
 //   node scripts/recover-broken-links.mjs --write-report   # research/link-recovery/latest-report.md
+//   node scripts/recover-broken-links.mjs --concurrency 8  # bounded site probes
+//   node scripts/recover-broken-links.mjs --defer-wayback  # skip CDX; queue URLs in report
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -26,10 +28,31 @@ const wantBrowser = args.includes('--browser')
 const writeReport = args.includes('--write-report')
 const stemArg = argValue('--stem')
 const urlArg = argValue('--url')
+const concurrency = positiveIntArg('--concurrency', 8)
+const deferWayback = args.includes('--defer-wayback') || args.includes('--no-wayback')
+const waybackDelayMs = positiveIntArg('--wayback-delay-ms', 1500, true)
+
+// These are links surfaced directly to readers or used to substantiate displayed locations.
+// Additional Map Location embeds its source URL as the final pipe-delimited component.
+const SIMPLE_URL_FIELDS = new Set(['Website', 'Careers', 'URL', 'Location Source'])
 
 function argValue(flag) {
   const i = args.indexOf(flag)
   return i >= 0 ? args[i + 1] : null
+}
+
+function positiveIntArg(flag, fallback, allowZero = false) {
+  const raw = argValue(flag)
+  if (raw == null) return fallback
+  const value = Number(raw)
+  if (!Number.isInteger(value) || value < (allowZero ? 0 : 1)) {
+    throw new Error(`${flag} must be ${allowZero ? 'a non-negative' : 'a positive'} integer`)
+  }
+  return value
+}
+
+function urlsFromValue(value) {
+  return String(value || '').match(/https?:\/\/[^\s<>|;]+/gi) || []
 }
 
 function normalizeUrl(u) {
@@ -55,7 +78,7 @@ function loadAliases() {
 }
 
 function collectTargets() {
-  if (urlArg) return [{ stem: '(cli)', title: '', website: urlArg }]
+  if (urlArg) return [{ stem: '(cli)', title: '', field: 'URL', url: urlArg }]
   const out = []
   for (const f of fs.readdirSync(PAGES)) {
     if (!f.endsWith('.md')) continue
@@ -63,9 +86,16 @@ function collectTargets() {
     if (stemArg && stem !== stemArg) continue
     const raw = fs.readFileSync(path.join(PAGES, f), 'utf8')
     const title = (raw.match(/^# (.+)$/m) || [, stem])[1].trim()
-    const website = (raw.match(/^\*\*Website:\*\* (.+)$/m) || [])[1]?.trim()
-    if (!website || !/^https?:\/\//i.test(website)) continue
-    out.push({ stem, title, website })
+    for (const match of raw.matchAll(/^\*\*([^*]+):\*\*\s+(.+)$/gm)) {
+      const [, field, value] = match
+      let urls = []
+      if (SIMPLE_URL_FIELDS.has(field)) urls = urlsFromValue(value)
+      else if (field === 'Additional Map Location') {
+        const source = value.split('|').at(-1)?.trim()
+        urls = urlsFromValue(source)
+      }
+      for (const url of urls) out.push({ stem, title, field, url })
+    }
   }
   return out
 }
@@ -165,7 +195,14 @@ async function waybackNearest(url) {
     q.searchParams.set('filter', 'statuscode:200')
     q.searchParams.set('fl', 'timestamp,original,statuscode')
     q.searchParams.set('limit', '-5')
-    const res = await fetch(q, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(20000) })
+    let res
+    for (let attempt = 0; attempt < 3; attempt++) {
+      await waybackTurn()
+      res = await fetch(q, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(20000) })
+      if (res.status !== 429 && res.status !== 503) break
+      const retryAfter = Number(res.headers.get('retry-after'))
+      await delay(Number.isFinite(retryAfter) ? retryAfter * 1000 : 2000 * (attempt + 1))
+    }
     if (!res.ok) return { url: null, source: 'cdx-fail', error: String(res.status) }
     const rows = await res.json()
     if (!Array.isArray(rows) || rows.length < 2) return { url: null, source: 'cdx-empty' }
@@ -179,6 +216,21 @@ async function waybackNearest(url) {
   } catch (e) {
     return { url: null, source: 'cdx-error', error: String(e.message || e).slice(0, 120) }
   }
+}
+
+let nextWaybackAt = 0
+let waybackQueue = Promise.resolve()
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+function waybackTurn() {
+  const turn = waybackQueue.then(async () => {
+    const wait = Math.max(0, nextWaybackAt - Date.now())
+    if (wait) await delay(wait)
+    nextWaybackAt = Date.now() + waybackDelayMs
+  })
+  waybackQueue = turn.catch(() => {})
+  return turn
 }
 
 function tokenize(s) {
@@ -247,18 +299,22 @@ function classify(probe, browser) {
 }
 
 async function recoverOne(target, aliases) {
-  const norm = normalizeUrl(target.website)
+  const norm = normalizeUrl(target.url)
   const aliasHit = aliases.map.get(norm)
-  const note = aliases.notes[norm] || aliases.notes[new URL(target.website).origin] || ''
-  const probe = await fetchProbe(target.website)
+  const note = aliases.notes[norm] || aliases.notes[new URL(target.url).origin] || ''
+  const probe = await fetchProbe(target.url)
   let browser = null
-  if (wantBrowser && !probe.ok) browser = await browserProbe(target.website)
+  if (wantBrowser && !probe.ok) browser = await browserProbe(target.url)
   const verdict = classify(probe, browser)
   const suggestions = []
   if (aliasHit) suggestions.push({ kind: 'alias', url: aliasHit, why: 'Known moved/typo correction' })
   if (verdict !== 'LIVE') {
-    const wb = await waybackNearest(target.website)
-    if (wb.url) suggestions.push({ kind: 'wayback', url: wb.url, why: `Archive (${wb.source})` })
+    if (deferWayback) {
+      suggestions.push({ kind: 'wayback-deferred', url: target.url, why: 'Queued for a later archive lookup' })
+    } else {
+      const wb = await waybackNearest(target.url)
+      if (wb.url) suggestions.push({ kind: 'wayback', url: wb.url, why: `Archive (${wb.source})` })
+    }
     for (const hit of fuzzyCatalog(target.title)) {
       if (hit.website && normalizeUrl(hit.website) !== norm) {
         suggestions.push({
@@ -281,7 +337,8 @@ async function recoverOne(target, aliases) {
   return {
     stem: target.stem,
     title: target.title,
-    website: target.website,
+    field: target.field,
+    url: target.url,
     verdict,
     note,
     probe: {
@@ -314,19 +371,19 @@ async function main() {
   fs.mkdirSync(OUT_DIR, { recursive: true })
   const aliases = loadAliases()
   const targets = collectTargets()
-  const results = []
-  for (const t of targets) {
-    process.stderr.write(`… ${t.stem}\n`)
-    results.push(await recoverOne(t, aliases))
-  }
+  const results = await mapConcurrent(targets, concurrency, async (t) => {
+    process.stderr.write(`… ${t.stem} [${t.field}]\n`)
+    return recoverOne(t, aliases)
+  })
 
   const bad = results.filter((r) => r.verdict !== 'LIVE')
   let md = `# Link recovery report\n\nGenerated: ${new Date().toISOString()}\n\n`
-  md += `Scanned ${results.length} Website fields · **${bad.length} not clearly live**\n\n`
-  md += `Re-run: \`node scripts/recover-broken-links.mjs --write-report\` (add \`--browser\` for headless Chrome).\n\n`
+  md += `Scanned ${results.length} external metadata links · **${bad.length} not clearly live**\n\n`
+  md += `Fields: Website, Careers, source URL, Location Source, and Additional Map Location source.\n\n`
+  md += `Re-run: \`node scripts/recover-broken-links.mjs --write-report\` (add \`--browser\` for headless Chrome or \`--defer-wayback\` to queue archive work).\n\n`
   for (const r of bad) {
     md += `## ${r.title} (\`${r.stem}\`)\n\n`
-    md += `- Website: ${r.website}\n`
+    md += `- ${r.field}: ${r.url}\n`
     md += `- Verdict: **${r.verdict}**`
     if (r.probe.status != null) md += ` (HTTP ${r.probe.status})`
     if (r.probe.error) md += ` · ${r.probe.error}`
@@ -346,6 +403,20 @@ async function main() {
     console.error(`Wrote ${path.join(OUT_DIR, 'latest-report.md')}`)
   }
   if (bad.length && args.includes('--strict')) process.exitCode = 1
+}
+
+async function mapConcurrent(items, limit, fn) {
+  const results = new Array(items.length)
+  let cursor = 0
+  async function worker() {
+    while (true) {
+      const index = cursor++
+      if (index >= items.length) return
+      results[index] = await fn(items[index], index)
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker))
+  return results
 }
 
 main().catch((e) => {

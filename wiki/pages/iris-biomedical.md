@@ -9,10 +9,10 @@
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Website:** https://www.irisbiomed.com
+**Website:** https://irismeddesign.com/
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
-**Relates:** cites [Official Website: Iris Biomedical](iris-biomedical-official-website.md) · https://greatutah.work/pages/iris-biomedical-official-website.md · https://www.irisbiomed.com
+**Relates:** cites [Official Website: Iris Biomedical](iris-biomedical-official-website.md) · https://greatutah.work/pages/iris-biomedical-official-website.md · https://irismeddesign.com/
 
 ## Summary
 
@@ -53,7 +53,7 @@ This concentration means Utah has an unusual depth of implantable-device manufac
 
 ## Evidence
 
-- [Official Website: Iris Biomedical](iris-biomedical-official-website.md) · https://greatutah.work/pages/iris-biomedical-official-website.md · https://www.irisbiomed.com
+- [Official Website: Iris Biomedical](iris-biomedical-official-website.md) · https://greatutah.work/pages/iris-biomedical-official-website.md · https://irismeddesign.com/
 
 ## See Also
 

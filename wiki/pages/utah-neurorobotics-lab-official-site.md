@@ -9,7 +9,7 @@
 **Archived:** 2026-04-12
 **Publisher:** Utah NeuroRobotics Lab, University of Utah (Dept. of Electrical & Computer Engineering)
 **Raw:** raw/utah-neurorobotics-lab-official-site/2026-08-11-6713d0fa28b2.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

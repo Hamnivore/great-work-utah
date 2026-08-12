@@ -9,7 +9,7 @@
 **Archived:** 2026-08-02
 **Publisher:** Lucid Software Inc.
 **Raw:** raw/karl-sun-lucid-bio/2026-08-11-988b693d65c3.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary
@@ -58,7 +58,7 @@ The Lucid official website is a marketing source. User-count, Fortune 500 penetr
 
 ## See Also
 
-- [Official Website: Lucid Software](lucid-software-official-website.md) · https://greatutah.work/pages/lucid-software-official-website.md · https://www.lucidsoftware.com
+- [Official Website: Lucid Software](lucid-software-official-website.md) · https://greatutah.work/pages/lucid-software-official-website.md · https://lucid.co/
 
 ## Maintainer Notes
 

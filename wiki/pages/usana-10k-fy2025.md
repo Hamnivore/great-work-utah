@@ -6,7 +6,7 @@
 **Source Type:** filing
 **URL:** https://www.sec.gov/Archives/edgar/data/896264/000089626426000021/usna-20260103.htm
 **Publisher:** U.S. Securities and Exchange Commission (EDGAR)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Published:** 2026-03-16
 **Updated:** 2026-08-11
 

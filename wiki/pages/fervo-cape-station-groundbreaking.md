@@ -9,7 +9,7 @@
 **Archived:** 2026-07-06
 **Publisher:** Fervo Energy
 **Raw:** raw/fervo-cape-station-groundbreaking/2026-08-11-cef5545cb422.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Fervo Energy](fervo-energy.md) · https://greatutah.work/pages/fervo-energy.md · https://fervoenergy.com/fervo-energy-breaks-ground-on-the-worlds-largest-next-gen-geothermal-project/
 

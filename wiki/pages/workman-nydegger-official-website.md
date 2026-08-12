@@ -9,7 +9,7 @@
 **Archived:** 2026-06-06
 **Publisher:** Workman Nydegger
 **Raw:** raw/workman-nydegger-official-website/2026-08-11-0a4aa918933f.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

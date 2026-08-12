@@ -1,13 +1,13 @@
 # materials-mfg — sector hub
 
-Generated from `**Domain:**` metadata (242/876 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (247/897 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
-- [Bidi Contracting](/pages/bidi-contracting.md) · `https://greatutah.work/pages/bidi-contracting.md` · Utah County · construction estimating, subcontractor discovery, bid management
 - [KEVA Locks](/pages/keva-locks.md) · `https://greatutah.work/pages/keva-locks.md` · Logan · smart locks, rental access, property operations
 - [Orbit Irrigation Products](/pages/orbit-irrigation-products.md) · `https://greatutah.work/pages/orbit-irrigation-products.md` · Davis County · residential irrigation, smart watering, sprinklers, drip irrigation, water conservation, B-hyve
 - [Sarcos Technology and Robotics Corporation](/pages/sarcos-technology-and-robotics.md) · `https://greatutah.work/pages/sarcos-technology-and-robotics.md` · Salt Lake City · robotics, industrial automation, defense, exoskeletons, teleoperation
+- [Struvia](/pages/struvia.md) · `https://greatutah.work/pages/struvia.md` · Utah County · AI construction takeoff, estimating, subcontractor bid solicitation and leveling
 - [US Synthetic](/pages/us-synthetic.md) · `https://greatutah.work/pages/us-synthetic.md` · Orem · synthetic diamond, polycrystalline diamond cutters, high-pressure high-temperature synthesis, drill…
 - [Vuely](/pages/vuely.md) · `https://greatutah.work/pages/vuely.md` · statewide · sign sales, site surveys, visual proposals, workflow software
 
@@ -19,10 +19,10 @@ Generated from `**Domain:**` metadata (242/876 pages attributed so far — cover
 
 ## Who they need right now
 
-- [Bidi Contracting](/pages/bidi-contracting.md) · `https://greatutah.work/pages/bidi-contracting.md`: No current public hiring page was found. The company does invite general contractors and subcontractors to use its bidding network. *(reviewed 2026-08-11)*
 - [KEVA Locks](/pages/keva-locks.md) · `https://greatutah.work/pages/keva-locks.md`: The company is soliciting property managers for early access and product demonstrations. No current public jobs page was found. *(reviewed 2026-08-11)*
-- [Orbit Irrigation Products](/pages/orbit-irrigation-products.md) · `https://greatutah.work/pages/orbit-irrigation-products.md`: The 2018 article notes tight Utah labor markets for local manufacturing hires ([Utah Business, 2018](utah-business-orbit-product-lifecycle-2018.md)). Current open roles were not captured; Husqvarna's careers portal would be the live board. *(reviewed 2026-08-11)*
+- [Orbit Irrigation Products](/pages/orbit-irrigation-products.md) · `https://greatutah.work/pages/orbit-irrigation-products.md`: The 2018 article notes tight Utah labor markets for local manufacturing hires ([Utah Business, 2018](/pages/utah-business-orbit-product-lifecycle-2018.md)). Current open roles were not captured; Husqvarna's careers portal would be the live board. *(reviewed 2026-08-11)*
 - [Sarcos Technology and Robotics Corporation](/pages/sarcos-technology-and-robotics.md) · `https://greatutah.work/pages/sarcos-technology-and-robotics.md`: Robotics software engineers, controls and dynamics specialists, human-factors and ergonomics researchers, defense and government sales teams, field-deployment engineers, and operations leaders who understand industrial-safety certification. Given the company's challenging public-market history and transition back to private ownership, operational discipline and commercial-deployment execution wou… *(reviewed 2026-06-25)*
+- [Struvia](/pages/struvia.md) · `https://greatutah.work/pages/struvia.md`: No public hiring page was located. The company solicits general contractors and subcontractors to join its bidding network, which is the participation it asks for. What it most needs from this wiki's perspective is **anything checkable**: a named customer, a registration, a funding record, or a third party willing to say the estimates hold up. The product claims are strong and the evidence base i… *(reviewed 2026-08-12)*
 - [US Synthetic](/pages/us-synthetic.md) · `https://greatutah.work/pages/us-synthetic.md`: Manufacturing and process operations dominate — press operation, materials handling, and finishing work on parts held to tight tolerances. Around that sit materials and mechanical engineering roles tied to press design and diamond synthesis, plus applications engineering for customers specifying cutters for particular formations. The company describes itself as family-oriented with an emphasis on… *(reviewed 2026-08-11)*
 - [Vuely](/pages/vuely.md) · `https://greatutah.work/pages/vuely.md`: Vuely is seeking sign companies as customers through self-service plans and product demonstrations. No current public jobs page was found. *(reviewed 2026-08-11)*
 

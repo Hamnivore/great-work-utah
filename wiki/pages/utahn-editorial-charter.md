@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://utahn.com/utahn-journalism/
 **Publisher:** Utahn, LLC
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/utahn-editorial-charter/2026-08-11-a9ffe9fbdf55.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Utahn](utahn.md) · https://greatutah.work/pages/utahn.md · https://utahn.com/utahn-journalism/

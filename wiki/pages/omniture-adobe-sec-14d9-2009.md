@@ -6,7 +6,7 @@
 **Source Type:** filing
 **URL:** https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm
 **Publisher:** U.S. Securities and Exchange Commission (EDGAR)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 **Relates:** cites [Omniture Web Analytics](omniture-web-analytics.md) · https://greatutah.work/pages/omniture-web-analytics.md
 

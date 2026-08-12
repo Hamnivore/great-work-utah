@@ -84,6 +84,42 @@ that justified them. Both tables are cheap to regenerate and make the queue re-r
   other 46 is unrecorded**; treat them as unverified until re-checked against the bar above. Watch for
   name collisions with bigger companies: `Nucleus`, `Torus`, `Prism`, `Compli`, `Angler`, `Cherry`,
   `Furnace`, `Ember`, `Horizon`, `Finch` all appear in the roster.
+
+  ### Bar applied, 2026-08-12 — the answer is that almost nothing clears it
+
+  All 61 real LIVE hosts were re-probed and tested for an independent public record with
+  `scripts/probe-venture-leads.mjs` (which takes a plain `host<TAB>name` TSV and so never learns where
+  the leads came from). Report: `research/raw-data/lead-probe-report.md`, gitignored.
+
+  **61 of 61 still live. Zero have an SEC registrant under their own name** — no Form D, no filing of
+  any kind, under either the product name or an obvious variant. Every EDGAR hit was a collision with
+  a larger unrelated company or a natural person, which is exactly the failure mode the roster warned
+  about.
+
+  A second pass against Apple's App Store registry found **six genuine listings** — Due Gooder,
+  Frantelligence, Herra, Hingeflow, LumiTube, and BeThere — the rest being name collisions. All six
+  carry **0–13 ratings**, so none meets the bar's "listing *with real traction*". Two of the six name
+  an incorporated seller (`Frantelligence, Inc.`, `BeThere, Inc.`), which is evidence of legal
+  existence but not of traction or notability.
+
+  **Conclusion: no new Sandbox-derived pages were written, and that is the correct outcome under the
+  maintainer-approved bar, not a gap.** These are early student ventures with live marketing sites and
+  no external record yet. Re-run the probe rather than re-deriving this; the ones that go on to raise
+  will show up as Form D filers and can be promoted then.
+
+  Two findings did come out of the pass, both about pages that already existed:
+
+  - **`bidi-contracting` was stale: the company is now Struvia.** `bidicontracting.com` HTTP-redirects
+    to `struvia.co`, and Struvia's own blog still bylines its CEO "Co-founder, Bidi Contracting" —
+    which ties the names together without anyone asserting a rename. The page was renamed to
+    `struvia.md`, rewritten, and **dropped to `Confidence: Low`**: re-checked against the bar it does
+    not clear it either, since every figure it carries is an unattributed vendor claim and the only
+    third-party coverage located reads as content marketing.
+  - **`usemylo.app` now serves remendi's site** byte-for-byte, so Mylo should not be treated as a live
+    distinct venture.
+
+  `furnace-outbound`, `keva-locks`, and `vuely` remain unverified against the bar. All three are live;
+  none has an SEC registrant. They should get the same treatment `bidi-contracting` just got.
 - **51-employer verdict table.** `candidates.md` is keyed on domains mentioned twice or more, so a
   company named in a `#jobs` post linking to a generic ATS is invisible to it. Re-extracting
   `<slack-data>/forgeutah.messages.jsonl` and `justbuilding.messages.jsonl` exports by the

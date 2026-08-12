@@ -9,7 +9,7 @@
 **Archived:** 2026-08-07
 **Publisher:** Energy Fuels
 **Raw:** raw/energy-fuels-official-website/2026-08-11-376048298840.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

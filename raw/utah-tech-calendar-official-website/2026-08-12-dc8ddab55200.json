@@ -1,0 +1,13 @@
+{
+  "source_page": "utah-tech-calendar-official-website.md",
+  "requested_url": "https://utahtechcalendar.com/",
+  "final_url": "https://utahtechcalendar.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:40:57.367Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "00c125a57594ddc8719c7ea6c342251bf62b056ae51bea468f15319011d9cc24",
+  "text_sha256": "dc8ddab55200c4a7f1f02da5a1d39c446fb05bed20e4d5a78b9b3a758781713f",
+  "text_chars": 13790,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

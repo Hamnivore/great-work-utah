@@ -1,0 +1,43 @@
+{
+  "source_page": "weber-state-ai-hackathon-2026-announcements.md",
+  "origin": "authenticated scraper capture (public channels only; DMs are never collected)",
+  "scraper_data": "authenticated Slack export supplied at capture time",
+  "messages": [
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1772150365468719",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Tristan Rhodes",
+      "date": "2026-02-26T23:59:25.468Z",
+      "ts": "1772150365.468719"
+    },
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHZ0MNQH4/p1772922662137099",
+      "workspace": "forgeutah",
+      "channel": "jobs",
+      "author": "Tristan Rhodes",
+      "date": "2026-03-07T22:31:02.137Z",
+      "ts": "1772922662.137099"
+    },
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1773703041290679",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Tristan Rhodes",
+      "date": "2026-03-16T23:17:21.290Z",
+      "ts": "1773703041.290679"
+    },
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CC92KEJK1/p1774371924737289",
+      "workspace": "forgeutah",
+      "channel": "general",
+      "author": "Tristan Rhodes",
+      "date": "2026-03-24T17:05:24.737Z",
+      "ts": "1774371924.737289"
+    }
+  ],
+  "captured_at": "2026-08-12T00:41:15.954Z",
+  "text_sha256": "c65dad7982ad530eb1876017430e243081df0f4a3e150aba3ad75cfd814b0471",
+  "text_chars": 3540,
+  "extractor": "scripts/capture-slack-sources.mjs"
+}

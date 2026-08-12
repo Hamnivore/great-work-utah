@@ -9,7 +9,7 @@
 **Archived:** 2026-06-06
 **Publisher:** Rebel Medicine Inc.
 **Raw:** raw/rebel-medicine-official-website/2026-08-11-ca38bc39c2d7.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

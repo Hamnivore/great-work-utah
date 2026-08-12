@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://le.utah.gov/xcode/Title76/Chapter17/76-17-P3.html
 **Publisher:** Utah State Legislature (Office of Legislative Research and General Counsel)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Published:** 2025-05-07
 **Updated:** 2026-08-11
 
@@ -51,8 +51,11 @@ between an outside customer and a participant in the plan buying the product the
 - Three defenses are foreclosed by name: capping the number of people who may be introduced, adding
   conditions on eligibility or on when compensation may be received, and giving participants property
   or services in addition to the compensation (76-17-303, 76-17-304).
-- Criminal investigation and prosecution rest with **the county attorney or district attorney**, not
-  with a state agency (76-17-303, 76-17-304).
+- **The appropriate county attorney or district attorney has "primary responsibility" for investigating
+  and prosecuting** a criminal violation (76-17-303(5), 76-17-304(5)). "Primary" is the statute's word:
+  nothing in the text makes local prosecution exclusive or bars a state agency, and subsection (6)(c)
+  separately routes the same conduct to civil investigation and prosecution under the Utah Consumer Sales
+  Practices Act.
 - A violation is also a violation of Section 13-11-4, the Utah Consumer Sales Practices Act, and a
   criminal conviction is **prima facie evidence** of that civil violation — so the same conduct is
   civilly investigable under Title 13, Chapter 11.
@@ -107,6 +110,13 @@ citation. The one hazard is the opposite of link rot — the *unversioned* URL i
 serves the current text, so a reader arriving here after the next amendment will see something other
 than what is quoted. The quotes are from the 2025-05-07 versions named above.
 
+**No `Raw:` capture, and no single URL could supply one.** The quotes below come from four different
+section documents, while `**URL:**` and every part- or chapter-level artifact on `le.utah.gov` serve only
+a table of contents — a capture of any of them would insure none of the text. So the mechanical
+`verbatim-not-in-raw` check cannot run on this page; the four versioned section permalinks are the
+substitute, and each quote was read off the one named beside it. Anyone re-checking should fetch those
+four URLs directly rather than trusting this page's transcription.
+
 Two limits on what this document establishes. First, **it is the criminal statute and nothing else.**
 Utah's regulation of network selling also runs through the Consumer Sales Practices Act (Title 13,
 Chapter 11) and the Division of Consumer Protection, and through federal FTC authority, none of which
@@ -119,9 +129,12 @@ purchasers; no Utah appellate decision construing this language has been read fo
 one is, the practical boundary is unresolved here.
 
 The pre-2025 numbering matters for research: anything citing **76-6a-101 through 76-6a-104** or "the
-Pyramid Scheme Act" is citing this material at its old address, and the chapter-level PDF for Chapter
-6a now reads "Repealed 5/7/2025", which is easy to misread as a repeal of the prohibition itself
-rather than a relocation of it. The prohibition is intact.
+Pyramid Scheme Act" is citing this material at its old address. The two labels the Legislature's site
+serves are easy to confuse, so here is exactly where each appears. The individual old sections
+(`.../Title76/Chapter6a/76-6a-S101.html` and its siblings) are marked "Renumbered 5/7/2025". The
+chapter-level page — `https://le.utah.gov/xcode/Title76/Chapter6a/C76-6a_1800010118000101.html` — is
+marked **"Repealed 5/7/2025"**, which reads as if the prohibition were gone. It is not: the chapter was
+emptied because its contents moved to Title 76, Chapter 17, Part 3.
 
 ## Related Pages
 

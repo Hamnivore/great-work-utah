@@ -7,7 +7,7 @@
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://www.score.org/utah
+**Website:** https://www.score.org/ut/
 **Updated:** 2026-08-11
 
 ## Summary
@@ -30,7 +30,7 @@ SCORE provides mentor matching, business workshops, training, and educational re
 
 Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.score.org/utah) · https://www.score.org/utah
+- [Official website](https://www.score.org/ut/) · https://www.score.org/ut/
 - Startup State listing: https://startup.utah.gov/business-resource/score/
 
 
@@ -52,5 +52,9 @@ Avoid implying a specific mentor is available unless the founder has used the SC
 ## Open Questions
 
 - Which SCORE Utah mentor categories are visible enough to support more precise matching?
-- Should specific public SCORE mentor profiles become helper pages, or should this remain a resource-level recommendation?
+- Which specific public SCORE mentor profiles are current and detailed enough for individual matching?
 - Which workshops are stable enough to cite in evergreen answers?
+
+## Maintainer Notes
+
+- Decide whether sufficiently documented SCORE mentor profiles warrant helper pages or should remain part of this resource-level recommendation.

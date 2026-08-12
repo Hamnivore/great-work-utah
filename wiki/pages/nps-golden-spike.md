@@ -9,7 +9,7 @@
 **Archived:** 2026-08-01
 **Publisher:** National Park Service
 **Raw:** raw/nps-golden-spike/2026-08-11-f92297a04623.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

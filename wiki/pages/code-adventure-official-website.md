@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260623150625/https://www.codeadventure.net/
 **Archived:** 2026-06-23
 **Publisher:** Code Adventure
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/code-adventure-official-website/2026-08-11-8cc235e9259e.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Code Adventure Utah](code-adventure-utah.md) · https://greatutah.work/pages/code-adventure-utah.md · https://www.codeadventure.net/

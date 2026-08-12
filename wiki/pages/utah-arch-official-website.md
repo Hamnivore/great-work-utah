@@ -9,7 +9,7 @@
 **Archived:** 2026-02-11
 **Publisher:** University of Utah School of Computing
 **Raw:** raw/utah-arch-official-website/2026-08-11-407197697f49.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

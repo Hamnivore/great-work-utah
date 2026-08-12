@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260809225552/https://bestfriends.org/sanctuary
 **Archived:** 2026-08-09
 **Publisher:** Best Friends Animal Society
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/best-friends-sanctuary-page/2026-08-11-62e2b9443fb7.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Best Friends Animal Society](best-friends-animal-society.md) · https://greatutah.work/pages/best-friends-animal-society.md · https://bestfriends.org/sanctuary

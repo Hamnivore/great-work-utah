@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://api.fda.gov/device/510k.json?search=k_number:K223497&limit=1
 **Publisher:** U.S. Food and Drug Administration (openFDA)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Spectrum Solutions](spectrum-solutions.md) · https://greatutah.work/pages/spectrum-solutions.md · https://api.fda.gov/device/510k.json
 

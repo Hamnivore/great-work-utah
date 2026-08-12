@@ -9,7 +9,7 @@
 **Archived:** 2026-01-18
 **Publisher:** American Society of Mechanical Engineers (ASME)
 **Raw:** raw/asme-eimco-rocker-shovel-loader-landmark/2026-08-11-eb87e104f0e2.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-25
 
 ## Summary

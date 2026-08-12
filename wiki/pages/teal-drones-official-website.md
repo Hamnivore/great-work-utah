@@ -9,7 +9,7 @@
 **Archived:** 2026-02-19
 **Publisher:** Teal Drones (Red Cat Holdings)
 **Raw:** raw/teal-drones-official-website/2026-08-11-dd1195b7ee18.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

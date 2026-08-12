@@ -9,7 +9,7 @@
 **Archived:** 2026-08-05
 **Publisher:** Trinity Capital Inc. (Nasdaq: TRIN)
 **Raw:** raw/torus-trinity-equipment-financing/2026-08-11-9f1ab70dc5bc.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

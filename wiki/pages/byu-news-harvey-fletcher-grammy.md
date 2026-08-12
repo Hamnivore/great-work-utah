@@ -9,7 +9,7 @@
 **Archived:** 2026-03-12
 **Publisher:** Brigham Young University News
 **Raw:** raw/byu-news-harvey-fletcher-grammy/2026-08-11-0973e6edab0e.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

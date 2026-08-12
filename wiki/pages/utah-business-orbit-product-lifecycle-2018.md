@@ -7,7 +7,7 @@
 **URL:** https://www.utahbusiness.com/archive/2018/06/13/there-and-back-the-lifecycle-of-a-utah-product/
 **Publisher:** Utah Business
 **Raw:** raw/utah-business-orbit-product-lifecycle-2018/2026-08-11-c5a3852e936d.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

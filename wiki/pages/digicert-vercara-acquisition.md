@@ -6,7 +6,7 @@
 **Source Type:** press-release
 **URL:** https://www.ta.com/news/digicert-to-acquire-vercara-strengthening-its-position-as-a-leader-in-digital-trust/
 **Publisher:** TA Associates Management, L.P.
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/digicert-vercara-acquisition/2026-08-11-a389fd2a602f.txt
 **Updated:** 2026-08-11
 **Relates:** cites [DigiCert](digicert.md) · https://greatutah.work/pages/digicert.md · https://www.ta.com/news/digicert-to-acquire-vercara-strengthening-its-position-as-a-leader-in-digital-trust/

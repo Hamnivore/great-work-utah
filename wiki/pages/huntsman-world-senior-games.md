@@ -88,13 +88,21 @@ Games describe themselves, not from a captured careers page (none was found).
 
 ## Open Questions
 
-- **"Largest in the world" is unattributed.** No independent ranking or media source in this shard
-  corroborates the superlative; it should stay attributed to the organization unless a third party
-  establishes it.
+- **"Largest in the world" is still unattributed, and one apparent corroboration is not one.** The
+  [2025 Best of State program book](best-of-state-2025-winners-list.md) prints the same superlative
+  verbatim — "the largest annual multi-sport event for athletes 50 and over in the world" — but the book's
+  winner blurbs are drawn from the nominee's own submission, so that is the organization's claim in
+  someone else's typeface, not third-party verification. It should stay attributed to the organization
+  until an independent ranking establishes it.
 - **Participant headcount is missing.** Nations (87) are named; total athletes per year are not on the
   captured About page.
-- **Best of State medal not asserted.** This shard captured no winner-list document naming the Games;
-  any award claim waits on the orchestrator's Best of State source pages.
+- **The Best of State medals are documented for two years, and the run is probably longer.** The Games
+  are the **Sporting Event** medalist in the 2025 program book and in the
+  [2019 winners directory](best-of-state-2019-winners-list.md)
+  ([2025 program book](best-of-state-2025-winners-list.md)). This wiki's recovered winner rows put them in
+  the same category for 2013 and 2015 through 2018 as well, but those rows come from the Internet Archive
+  rather than a captured document, so only the two years above are asserted. What a medal establishes is
+  narrow — see [Best of State Awards](best-of-state-awards.md).
 - **JS-dependent site.** Future captures may need archive or CMS extraction; the current About
   capture used Prismic JSON embedded in HTML because automated render capture failed.
 
@@ -102,3 +110,5 @@ Games describe themselves, not from a captured careers page (none was found).
 
 - [Source: Huntsman World Senior Games — Official Website](huntsman-world-senior-games-official-website.md) · https://greatutah.work/pages/huntsman-world-senior-games-official-website.md · https://seniorgames.net/about
 - [Source: IRS Form 990 Record — World Senior Games Inc](world-senior-games-form-990-record.md) · https://greatutah.work/pages/world-senior-games-form-990-record.md · https://projects.propublica.org/nonprofits/organizations/870447330
+- [Source: Best of State 2025 Awards Program Book (PDF)](best-of-state-2025-winners-list.md) · https://greatutah.work/pages/best-of-state-2025-winners-list.md · https://www.bestofstate.org/__l5e/assets-v1/1a1ae534-b5f4-4d81-a8f0-394011da6318/2025_bos_winners.pdf
+- [Source: Best of State 2019 Winners Directory (PDF)](best-of-state-2019-winners-list.md) · https://greatutah.work/pages/best-of-state-2019-winners-list.md · https://web.archive.org/web/20220406004717id_/https://bestofstate.org/pdf/2019_BOS_Winners_lowres.pdf

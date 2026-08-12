@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** medical radioisotopes, radiopharmaceuticals, accelerator physics, isotope supply chain, oncology, advanced manufacturing
+**Identifiers:** cik=0001721322
 **Roles:** physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Private; Series C raised, flagship facility operational (opened August 2025)
 **Primary Location:** West Valley City, UT

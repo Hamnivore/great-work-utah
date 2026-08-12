@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260811224124/https://www.sistemautah.org/about.html
 **Archived:** 2026-08-11
 **Publisher:** Sistema Utah
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/sistema-utah-about-page/2026-08-11-129eab697993.txt
 **Updated:** 2026-08-11
 

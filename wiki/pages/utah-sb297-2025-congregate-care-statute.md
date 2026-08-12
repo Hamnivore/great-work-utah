@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://le.utah.gov/Session/2025/bills/enrolled/SB0297.pdf
 **Publisher:** Utah State Legislature
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/utah-sb297-2025-congregate-care-statute/2026-08-11-41cc1b2e99bb.txt
 **Updated:** 2026-08-11
 
@@ -18,8 +18,9 @@ effect July 1, 2025.
 
 Where [S.B. 127 (2021)](utah-sb127-2021-congregate-care-statute.md) told programs what they may not
 do and told the regulator to show up more often, this bill builds machinery: a congregate care
-ombudsman with entry, interview, and records powers; a Congregate Care Advisory Committee that
-defines levels of care and sets minimum safety requirements by rule; state review of each program's
+ombudsman with entry, interview, and records powers; levels of congregate care and minimum safety
+requirements to be defined by the Office of Licensing in consultation with a new Congregate Care
+Advisory Committee; state review of each program's
 *admissions criteria* at licensure; a list of authorized contacts a child in crisis must be connected
 to; whistleblower protection; and a penalty fund. Two details are worth reading closely, because they
 bound what the ombudsman can be: the position is created **within the department** it examines, and
@@ -46,12 +47,20 @@ it must refer every report it receives back to that department.
 - **A child in crisis triggers a clock**: the program must notify the child's parent or guardian as
   soon as reasonably possible and not later than five hours after the state of crisis begins, and must
   make every reasonable effort to connect the child by telephone to an authorized contact.
-- **The Congregate Care Advisory Committee gains rule-shaping authority.** With the Office of
-  Licensing it defines the levels of congregate care, adopts minimum safety requirements by rule for
-  each level, reviews and may deny each applicant's proposed admissions criteria at licensure or
-  renewal, and designates each program as standard or intensive congregate care. Committee membership
-  includes parents of admitted children and current or former owners or staff. It must meet at least
-  monthly until levels and safety requirements are set, then at least quarterly.
+- **A Congregate Care Advisory Committee is created, but the decisions belong to the Office of
+  Licensing** (Section 26B-2-124.1). The office "is authorized to and shall, in consultation with the
+  committee" define the levels of congregate care, adopt minimum safety requirements by rule for each
+  level, review and approve or deny each applicant's proposed admissions criteria at licensure or
+  renewal, and designate each program as standard or intensive congregate care. The committee advises;
+  it holds none of those four powers itself.
+- **The committee is appointed by the body it advises.** Eight members, all appointed by the office:
+  seven clinical seats (a physician, a pediatrician with behavioral-health experience, a psychologist,
+  a marriage and family therapist, two licensed therapists with congregate care experience, and one
+  with juvenile justice experience) plus a single "community representative" the office designates, who
+  may be a former admitted child, a parent or guardian of one, **or** a current or former owner or
+  staff member of a program. The division director appoints the chair from the membership and the
+  division staffs the committee. Members serve unpaid, with per diem and travel only. It must meet at
+  least monthly until levels and safety requirements are set, then at least quarterly.
 - **Admissions criteria may be denied** where they are inconsistent with the defined levels of care or
   "would fail to preclude the admittance of a child for whom the program is not designed to address" —
   the bill's answer to a program taking a child it cannot treat.
@@ -63,9 +72,11 @@ it must refer every report it receives back to that department.
   (Section 26B-1-336), funded from federal civil money penalties, legislative appropriation, and
   interest, usable under a federally approved state plan to assist individuals affected by a shutdown
   of a facility or program, for administrative expenses, or for allowable activities.
-- **The same bill narrows disclosure of unsubstantiated complaints.** Section 26B-2-709 is amended so
-  that any department record related to a complaint is a protected record that may not be disclosed in
-  a way that identifies an individual program, facility, provider, or complainant.
+- **The same bill trades away old complaints for anonymous ones.** Section 26B-2-709 is amended so
+  that the bar on investigating a complaint no longer turns on the complainant being anonymous —
+  instead the department may not investigate or substantiate a complaint about events more than
+  **48 months** old, or more than six months old at a child care program. The prior text barred
+  investigation whenever the complainant elected anonymity and limited the staleness bar to six months.
 - **The bill appropriates no money** ("Money Appropriated in this Bill: None") and takes effect
   July 1, 2025.
 
@@ -90,10 +101,16 @@ it must refer every report it receives back to that department.
 > — Highlighted Provisions
 
 > "1286 (a) notify the child's parent or guardian as soon as reasonably possible but not later than 1287 five hours after the time at which the child's state of crisis first begins; and"
-> — Section 26B-2-124.1(6)(a)
+> — Section 26B-2-124(6)(a)
+
+> "1425 (3) The office is authorized to and shall, in consultation with the committee: 1426 (a) define the levels of congregate care;"
+> — Section 26B-2-124.1(3), where the four powers sit
 
 > "1427 (b) in accordance with Subsection (4), for each defined level of congregate care, adopt 1428 by rule a set of applicable minimum safety requirements; and"
-> — Congregate Care Advisory Committee duties
+> — Section 26B-2-124.1(3)(b)
+
+> "1400 (2) The committee shall be composed of eight members, who the office appoints, as follows:"
+> — Section 26B-2-124.1(2)
 
 > "1434 (B) would fail to preclude the admittance of a child for whom the program is not 1435 designed to address;"
 > — Grounds for denying proposed admissions criteria
@@ -104,8 +121,8 @@ it must refer every report it receives back to that department.
 > "131 (1) There is created an expendable special revenue fund known as the 'Licensed Provider 132 Civil Money Penalty Fund' consisting of:"
 > — Section 26B-1-336(1)
 
-> "1634 notwithstanding Subsection 63G-2-201(5)(b), may not be disclosed in a manner that 1635 identifies an individual program or facility, exempt provider, provider, or complainant."
-> — Section 26B-2-709, complaint records
+> "1580 (b) [If the complainant elects to be an anonymous complainant] If the complaint concerns 1581 events that occurred more than 48 months before the day on which the complainant 1582 contacted the department, or if the complaint concerns events that occurred more than 1583 six months before the complainant contacted the department and involves a child care 1584 program, the department:"
+> — Section 26B-2-709(3)(b) as amended; bracketed text is what the bill strikes
 
 > "1636 Section 13. Effective Date. 1637 This bill takes effect on July 1, 2025."
 > — Effective date
@@ -129,11 +146,21 @@ ombudsman; that word is not what the enacted text does, and the distinction shou
 over in either direction — the powers of entry, interview, and records access are real, and the
 office is not external to the agency.
 
-**Two provisions pull against each other on transparency**, and both are in this document: programs
-must post the ombudsman's number in inch-high type, and department records of complaints — including
-unsubstantiated ones — may not be disclosed in a manner that identifies the program. A reader
-comparing this bill to the 2021-era complaint that Utah published almost nothing about these
-facilities should read Section 26B-2-709 before concluding the direction of travel.
+**The confidentiality of complaint records is older than this bill, and an earlier draft of this page
+got that wrong.** Subsection 26B-2-709(6) — any department record related to a complaint is protected
+and may not be disclosed in a way that identifies a program — is reprinted unchanged in the enrolled
+copy. It was already law: the version renumbered by Laws of Utah 2024, Chapter 267 carries the
+identical sentence. S.B. 297 did not narrow disclosure, and the tempting "transparency loss buried
+inside a transparency reform" reading is not available from this document.
+
+**What S.B. 297 actually changes in Section 26B-2-709 cuts both ways.** Anonymity stops being a
+disqualifier — the prior text barred investigation whenever the complainant elected to be anonymous —
+while a new 48-month staleness bar applies to complaints against every provider, and the six-month bar
+for child care programs survives. For an industry whose worst allegations often surface years later,
+from former residents who are by then adults, the 48-month cutoff is the provision to watch. The
+enrolled copy marks struck text in brackets and inserted text by underline; the underlining is lost in
+text extraction, so the direction of every change here was confirmed against the pre-2025 section text
+at `le.utah.gov/xcode/Title26B/Chapter2/C26B-2-S709_2024050120240501.html`.
 
 **What the document does not establish.** No appropriation, no vote counts or enactment date (see
 [the status record](utah-sb297-2025-bill-status-record.md)), no evidence that the ombudsman was

@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Source Type:** peer-reviewed
 **Publisher:** Electrical Engineering (American Institute of Electrical Engineers)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **URL:** https://doi.org/10.1109/EE.1934.6540356
 **Updated:** 2026-08-11
 

@@ -9,7 +9,7 @@
 **Archived:** 2026-06-08
 **Publisher:** OxEon Energy
 **Raw:** raw/oxeon-energy-official-website/2026-08-11-e65dc6e46b85.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

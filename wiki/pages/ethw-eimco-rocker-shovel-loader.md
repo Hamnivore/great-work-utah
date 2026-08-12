@@ -9,7 +9,7 @@
 **Archived:** 2024-12-05
 **Publisher:** Engineering and Technology History Wiki (IEEE and partner societies)
 **Raw:** raw/ethw-eimco-rocker-shovel-loader/2026-08-11-8a6194ff2b66.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-25
 
 ## Summary

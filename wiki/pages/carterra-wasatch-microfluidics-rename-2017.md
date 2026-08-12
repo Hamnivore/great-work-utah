@@ -9,7 +9,7 @@
 **Archived:** 2026-05-17
 **Publisher:** Carterra, Inc. (formerly Wasatch Microfluidics, Inc.)
 **Raw:** raw/carterra-wasatch-microfluidics-rename-2017/2026-08-11-576b1a1d1948.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

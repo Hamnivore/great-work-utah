@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** epigenetic diagnostics, male fertility, sperm function, reproductive health, AI biomarkers
+**Identifiers:** cik=0001977505, ein=83-4457901
 **Roles:** data-science, biology-life-sciences, clinical-regulatory
 **Stage:** Private; Series A; NIH grant-funded
 **Primary Location:** Salt Lake City, UT

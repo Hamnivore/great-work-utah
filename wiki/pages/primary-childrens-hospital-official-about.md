@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://prod.intermountainhealth.org/locations/primary-childrens-salt-lake-city/about
 **Publisher:** Intermountain Health
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/primary-childrens-hospital-official-about/2026-08-11-4b2aee08d62e.txt
 **Updated:** 2026-08-11
 

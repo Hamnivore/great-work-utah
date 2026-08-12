@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://www.yesco.com/locations/
 **Publisher:** Young Electric Sign Company (YESCO)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/yesco-locations-page/2026-08-11-3d0efe86f142.txt
 **Updated:** 2026-08-11
 **Relates:** cites [YESCO](yesco.md) · https://greatutah.work/pages/yesco.md · https://www.yesco.com/locations/

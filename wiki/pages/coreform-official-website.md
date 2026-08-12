@@ -9,7 +9,7 @@
 **Archived:** 2026-05-20
 **Publisher:** Coreform LLC
 **Raw:** raw/coreform-official-website/2026-08-11-e8ce99afc913.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

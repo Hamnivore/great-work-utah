@@ -9,7 +9,7 @@
 **Archived:** 2026-08-09
 **Publisher:** Corel Corporation (Alludo)
 **Raw:** raw/wordperfect-novell-historical-sources/2026-08-11-a3c6890fee48.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

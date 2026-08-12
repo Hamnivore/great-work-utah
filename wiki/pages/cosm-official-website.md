@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260801163143/https://www.cosm.com/
 **Archived:** 2026-08-01
 **Publisher:** Cosm
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

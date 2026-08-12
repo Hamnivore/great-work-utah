@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
+**Identifiers:** ein=87-0501979
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide

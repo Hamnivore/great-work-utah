@@ -9,7 +9,7 @@
 **Archived:** 2026-07-24
 **Publisher:** PR Newswire / Intactis Bio Corp
 **Raw:** raw/intactis-bio-prnewswire/2026-08-11-d09e40e73260.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

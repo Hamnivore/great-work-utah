@@ -9,7 +9,7 @@
 **Archived:** 2026-04-12
 **Publisher:** Hypercraft, Inc. (via ACCESS Newswire / Utah.VC)
 **Raw:** raw/hypercraft-series-a-2025/2026-08-11-3ea71a1b8a43.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

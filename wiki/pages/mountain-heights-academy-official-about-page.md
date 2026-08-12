@@ -9,7 +9,7 @@
 **Archived:** 2026-08-11
 **Publisher:** Mountain Heights Academy
 **Raw:** raw/mountain-heights-academy-official-about-page/2026-08-11-598c947c6ccd.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Mountain Heights Academy](mountain-heights-academy.md) · https://greatutah.work/pages/mountain-heights-academy.md · https://mountainheightsacademy.org/about
 

@@ -7,7 +7,7 @@
 **URL:** https://projects.propublica.org/nonprofits/api/v2/organizations/272198169.json
 **Publisher:** ProPublica Nonprofit Explorer (republishing IRS Form 990 data)
 **Raw:** raw/apa-sherpa-foundation-form-990-record/2026-08-11-4c5b9dbad9ba.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Apa Sherpa Foundation](apa-sherpa-foundation.md) · https://greatutah.work/pages/apa-sherpa-foundation.md · https://projects.propublica.org/nonprofits/organizations/272198169
 

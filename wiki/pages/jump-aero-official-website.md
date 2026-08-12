@@ -9,7 +9,7 @@
 **Archived:** 2026-03-10
 **Publisher:** Jump Aero, Inc.
 **Raw:** raw/jump-aero-official-website/2026-08-11-714d6bf76d21.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

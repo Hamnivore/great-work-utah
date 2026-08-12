@@ -9,7 +9,7 @@
 **Archived:** 2026-04-19
 **Publisher:** Best of State Foundation
 **Raw:** raw/best-of-state-2025-winners-list/2026-08-11-602756017aad.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary
@@ -40,6 +40,11 @@ assembled on [Best of State Awards](best-of-state-awards.md).
   applicants or by other judges.
 - **Ballots are tabulated by Gilbert & Stewart**, an outside accounting firm, which then notifies Best
   of State of the medal winners.
+- **Conflict-of-interest control is self-triggered and passively enforced**, by the program's own
+  description: judges "are instructed to abstain from scoring all nominees in a category where they feel
+  they have any personal conflict", and a judge's scores are dropped only "if Best of State is made
+  aware of a conflict of interest". Nothing described here detects an undisclosed conflict, and the
+  judges' anonymity means a nominee cannot raise one.
 - **The program addresses sponsorship directly**, stating that sponsorship does not improve a
   nominee's chances and that sponsors sometimes win and sometimes do not. This is the program's own
   account of itself, not an independent audit.
@@ -76,6 +81,9 @@ assembled on [Best of State Awards](best-of-state-awards.md).
 > "increase their chances of winning an award. Sometimes sponsors win and sometimes they do not. Some of them are nominees and some are not."
 > — "THE AWARDS", on sponsorship
 
+> "Judges are instructed to abstain from scoring all nominees in a category where they feel they have any personal conflict. If Best of State is made aware of a conflict of interest, that judge's scores are dropped from the appropriate category."
+> — "THE AWARDS", Ensuring Objectivity
+
 > "© 2002 - 2025 Best of State"
 > — Front matter, trademark and copyright notice
 
@@ -92,6 +100,14 @@ document that certifies a winner is partly funded by winners buying space in it.
 relationship worth naming; it is not evidence of anything improper, and the program states that
 sponsorship does not affect results.
 
+**The objectivity safeguards depend on the judges, and the judges are anonymous.** Read the abstention
+passage quoted above closely: a judge abstains where they "feel" a personal conflict, and the program
+drops scores only once it "is made aware" of one. Both halves are self-reporting, with no described
+mechanism for discovering an undisclosed conflict — and because the judges' names are withheld, a
+nominee is not in a position to point one out. This is not an allegation; it is the shape of the control
+as the program describes it, and it is why this wiki treats a medal as evidence that judges read a
+submission rather than as evidence of a fair comparison.
+
 **Reading order is unreliable in two places, because the source is a two-column PDF.** The
 sponsorship passage quoted above begins mid-sentence: its opening clause ("sponsors are clearly
 informed that sponsorship does not") sits in a later column in the extracted text, roughly 65 lines
@@ -103,7 +119,9 @@ content-addressed asset path (`/__l5e/assets-v1/…`) rather than the `/pdf/2025
 the site used to serve, and that older path 404s today. The two are byte-identical: SHA-256
 `9d652597806ffe0bb492b53bf7331cecea91f1e51d704da998a3fc6c861725bb` for both the live asset captured
 here and the 2026-04-19 snapshot recorded in `**Archive:**`. So the snapshot genuinely insures this
-document rather than an earlier version of it.
+document rather than an earlier version of it. The check is reproducible: fetch the asset URL and the
+`id_`-suffixed Wayback URL and hash both — they are 4,701,957 bytes each — and compare against
+`bytes_sha256` in the capture sidecar.
 
 **Sixty pages, text layer intact**, extracted by `scripts/lib/pdf-text.mjs`; see the sidecar beside
 the capture for `pdf_pages` and the byte hash.

@@ -7,7 +7,7 @@
 **URL:** https://spacenews.com/varda-capsule-lands-in-utah/
 **Publisher:** SpaceNews (corroborated by TechCrunch)
 **Raw:** raw/varda-uttr-landing/2026-08-11-a81b4bd051a1.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

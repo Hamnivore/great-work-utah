@@ -61,7 +61,7 @@ The 309th anchors Hill AFB and the Ogden Air Logistics Complex as Utah's deepest
 - How do government pay bands compare with defense-prime contractor roles co-located at Hill for equivalent work?
 - Which platform programs (F-35 Block 4, B-21, CCA, Sentinel) are growing headcount versus sustaining legacy fleets?
 - Public portfolio-building is impossible on classified work — how do engineers here manage long-term career visibility?
-- Mission ethics: the page should not treat weapons software as neutral — what frameworks do thoughtful engineers use to decide fit?
+- Mission ethics: what frameworks do thoughtful engineers use to assess work on weapons software rather than treating it as neutral?
 - The legacy tier note ranked this as strong but not globally category-defining — does that framing hold for someone optimizing for combat-aircraft software impact rather than startup equity?
 
 ## See Also

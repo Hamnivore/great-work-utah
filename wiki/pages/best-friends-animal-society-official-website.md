@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260730082515/https://bestfriends.org/who-we-are
 **Archived:** 2026-07-30
 **Publisher:** Best Friends Animal Society
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/best-friends-animal-society-official-website/2026-08-11-bc1f0f032a76.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Best Friends Animal Society](best-friends-animal-society.md) · https://greatutah.work/pages/best-friends-animal-society.md · https://bestfriends.org/who-we-are

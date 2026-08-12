@@ -9,7 +9,7 @@
 **Archived:** 2026-05-21
 **Publisher:** Utah Manufacturers Association
 **Raw:** raw/utah-manufacturers-association-official-site/2026-08-11-0d0e8bedef29.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** strategic intelligence, geopolitical risk, economic security, AI, national security
+**Identifiers:** cik=0001776892, ein=83-3874815
 **Roles:** software-engineering, data-science, product-design, sales-business-development
 **Stage:** Private growth company
 **Primary Location:** Salt Lake City, UT

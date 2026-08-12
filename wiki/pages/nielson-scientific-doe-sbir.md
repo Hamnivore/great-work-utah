@@ -7,7 +7,7 @@
 **URL:** https://www.sbir.gov/awards/214122
 **Publisher:** U.S. Small Business Administration / U.S. Department of Energy
 **Raw:** raw/nielson-scientific-doe-sbir/2026-08-11-bbcc36151f3a.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

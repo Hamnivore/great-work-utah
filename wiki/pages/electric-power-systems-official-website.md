@@ -9,7 +9,7 @@
 **Archived:** 2026-06-08
 **Publisher:** Electric Power Systems, Inc.
 **Raw:** raw/electric-power-systems-official-website/2026-08-11-205db70a49ad.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

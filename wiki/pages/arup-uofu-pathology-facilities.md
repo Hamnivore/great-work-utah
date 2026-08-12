@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260307114723/https://medicine.utah.edu/pathology/about-us/facilities
 **Archived:** 2026-03-07
 **Publisher:** University of Utah School of Medicine, Department of Pathology
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/arup-uofu-pathology-facilities/2026-08-11-8f3fa949c1b8.txt
 **Updated:** 2026-08-11
 **Relates:** cites [ARUP Laboratories](arup-laboratories.md) · https://greatutah.work/pages/arup-laboratories.md · https://medicine.utah.edu/pathology/about-us/facilities

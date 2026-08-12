@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260719121012/https://bestfriends.org/no-kill
 **Archived:** 2026-07-19
 **Publisher:** Best Friends Animal Society
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/best-friends-no-kill-goal-page/2026-08-11-e3cfb8047180.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Best Friends Animal Society](best-friends-animal-society.md) · https://greatutah.work/pages/best-friends-animal-society.md · https://bestfriends.org/no-kill

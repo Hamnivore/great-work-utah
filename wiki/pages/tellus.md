@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** air quality monitoring, environmental sensing, low-cost sensors, calibration, public health infrastructure
+**Identifiers:** cik=0002020009, ein=88-0906446
 **Roles:** software-engineering, data-science, hardware-engineering, sales-business-development, field-skilled-trades
 **Stage:** Growth; 20–49 employees; seeking Series A (as of 2024–2025)
 **Primary Location:** Salt Lake City, UT

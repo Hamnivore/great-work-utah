@@ -7,7 +7,7 @@
 **URL:** https://www.sec.gov/Archives/edgar/data/1723089/000119312525035322/d846941dex991.htm
 **Publisher:** ChampionX Corporation
 **Raw:** raw/championx-us-synthetic-sale-announcement-2025/2026-08-11-51bfc7fafc47.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [US Synthetic](us-synthetic.md) · https://greatutah.work/pages/us-synthetic.md · https://www.sec.gov/Archives/edgar/data/1723089/000119312525035322/d846941dex991.htm
 

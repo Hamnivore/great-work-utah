@@ -14,7 +14,7 @@
 
 Utah State University's Center for Entrepreneurship is housed in the Jon M. Huntsman School of Business. The official page describes it as a resource for developing entrepreneurial leadership through classes, internships, competitions, mentoring, the Entrepreneur Leadership Speaker Series, the Entrepreneurship Club, and SEED-related opportunities.
 
-The imported page name referenced the Jeffrey D. Clark Center for Entrepreneurship; the currently fetched official page presents the public title as "The Center for Entrepreneurship." This page keeps the existing filename to avoid duplicate resources.
+The current official page presents the public title as “The Center for Entrepreneurship”; whether “Jeffrey D. Clark Center for Entrepreneurship” remains an active donor or institutional name is unresolved.
 
 ## Who It's For
 
@@ -58,3 +58,7 @@ It is less direct for a nonstudent founder who only needs capital, manufacturing
 - Is "Jeffrey D. Clark Center for Entrepreneurship" still an active public name, donor name, or older naming?
 - Which competitions currently include funding, and what are the deadlines?
 - Which programs are open to non-Huntsman students or non-USU community members?
+
+## Maintainer Notes
+
+- Keep the existing filename until the public naming question is resolved; do not create a duplicate resource for the newer display title.

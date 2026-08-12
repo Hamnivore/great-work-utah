@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260607015956/https://bunl.com/hfjv-jet-ventilators-204/
 **Archived:** 2026-06-07
 **Publisher:** Bunnell, Inc.
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/bunnell-life-pulse-204-product/2026-08-11-9f0948a2288f.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Bunnell Incorporated](bunnell-incorporated.md) · https://greatutah.work/pages/bunnell-incorporated.md · https://bunl.com/hfjv-jet-ventilators-204/

@@ -9,7 +9,7 @@
 **Archived:** 2025-10-06
 **Publisher:** The Other Side Academy
 **Raw:** raw/the-other-side-academy-how-it-works/2026-08-11-867f5e997972.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [The Other Side Academy](the-other-side-academy.md) · https://greatutah.work/pages/the-other-side-academy.md · https://www.theothersideacademy.com/how-it-works
 

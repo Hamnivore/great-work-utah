@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology
+**Identifiers:** cik=0001561150, ein=27-5120776
 **Roles:** hardware-engineering, clinical-regulatory, program-project-management
 **Stage:** Private; clinical-stage; Phase 3 trial underway
 **Primary Location:** Lehi, UT
@@ -63,9 +64,5 @@ PhotoPharmics is a Wasatch Front clinical-device company with deep roots in Utah
 - Enrollment and results should be revisited at data readout.
 - Post-approval payer coverage for a novel light-therapy device is a real commercial hurdle with a complicated regulatory and market history for similar modalities.
 - The pace of scientific and commercial progress is unclear without independent financial disclosure.
-- Company press references Salt Lake City in some releases while American Fork also appears as a reported headquarters location; the exact facility footprint should be confirmed.
+- Company press references Salt Lake City in some releases while other listings give an American Fork HQ — the exact facility footprint is unconfirmed.
 - No agent-readable careers/jobs page found (photopharmics.com/careers is a soft 404; Greenhouse/Lever boards not located).
-
-## Maintainer Notes
-
-- Earlier intake listed American Fork as the headquarters; retain it only as provenance for the reader-facing location question until a source confirms the facility footprint.

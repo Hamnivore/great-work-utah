@@ -9,7 +9,7 @@
 **Archived:** 2026-05-06
 **Publisher:** CycloKinetics
 **Raw:** raw/cyclokinetics-official-website/2026-08-11-f1f6c418941f.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

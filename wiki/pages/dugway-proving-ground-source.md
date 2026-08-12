@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260514035716/https://www.army.mil/dugway
 **Archived:** 2026-05-14
 **Publisher:** U.S. Army
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/dugway-proving-ground-source/2026-08-11-3f767f0df685.txt
 **Updated:** 2026-06-18
 

@@ -7,7 +7,7 @@
 **URL:** https://www.deseret.com/2009/9/16/20340605/software-giant-adobe-buys-orem-s-omniture-for-1-8b/
 **Publisher:** Deseret News (Salt Lake City, UT)
 **Raw:** raw/omniture-deseret-news-2009/2026-08-11-07b2e396d992.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 **Relates:** cites [Omniture Web Analytics](omniture-web-analytics.md) · https://greatutah.work/pages/omniture-web-analytics.md
 

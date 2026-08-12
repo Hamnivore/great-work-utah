@@ -45,9 +45,9 @@ Utility geothermal plants typically need plant operators, maintenance technician
 
 ## Open Questions
 
-- Exact PacifiCorp careers URL filtered for Blundell / Utah geothermal O&M — confirm before adding a Careers metadata line.
+- Which PacifiCorp careers path exposes current Blundell or Utah geothermal operations roles?
 - Current nameplate vs net capacity and unit configuration (flash vs binary bottoming) from a primary PacifiCorp or EIA-860 citation.
-- Map coordinates above are approximate corridor anchors — replace with a PacifiCorp-published site address before upgrading Location Precision to exact.
+- Is there a PacifiCorp-published site address that supports a more precise location than the current corridor anchor?
 
 ## See Also
 
@@ -55,3 +55,8 @@ Utility geothermal plants typically need plant operators, maintenance technician
 - [Cyrq Energy](cyrq-energy.md)
 - [Fervo Energy](fervo-energy.md)
 - [Utah FORGE](utah-forge.md)
+
+## Maintainer Notes
+
+- Add `**Careers:**` only after confirming a stable PacifiCorp URL for Blundell or Utah geothermal roles.
+- Upgrade `Location Precision` only if PacifiCorp publishes a site address supporting an exact point.

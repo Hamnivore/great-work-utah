@@ -9,7 +9,7 @@
 **Archived:** 2026-08-11
 **Publisher:** Wisconsin Department of Financial Institutions
 **Raw:** raw/wisconsin-dfi-crumbl-franchise-registration/2026-08-11-abf57f5c6940.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Crumbl](crumbl.md) · https://greatutah.work/pages/crumbl.md · https://apps.dfi.wi.gov/apps/FranchiseSearch/details.aspx?hash=2091896335&id=638417
 

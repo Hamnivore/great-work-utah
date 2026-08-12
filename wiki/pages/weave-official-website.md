@@ -9,7 +9,7 @@
 **Archived:** 2026-07-29
 **Publisher:** Weave Communications, Inc.
 **Raw:** raw/weave-official-website/2026-08-11-41f9f195f12a.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

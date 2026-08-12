@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://media.doterra.com/us/en/flyers/opportunity-and-earning-disclosure-summary.pdf
 **Publisher:** dōTERRA International, LLC
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/doterra-earnings-disclosure-2026/2026-08-11-8dd01bde33ef.txt
 **Updated:** 2026-08-11
 
@@ -25,7 +25,8 @@ figure is stated before expenses, which the document lists: products, marketing 
 events.
 
 Two structural facts sit alongside the numbers. The company states that roughly 93% of new U.S.
-customers are wholesale or retail buyers who never build a business, and that its Presidential
+customers are wholesale or retail buyers who "purchase products at wholesale or retail prices for
+personal use", and that its Presidential
 Diamonds — inside the top 2% of active Advocates by rank — have averaged over 14 years with the
 company. The arithmetic implied by the cohort counts is worth stating plainly: if ~114,750 Advocates
 earning commissions are 42% of the active base, the active base is roughly 273,000 people, of whom
@@ -45,8 +46,10 @@ about 158,000 earned nothing.
   reduce or exceed any commissions earned."
 - doTERRA characterizes its own opportunity as "an opportunity to earn modest supplemental income,"
   with "no guarantees that you will earn money."
-- Approximately 93% of new U.S. doTERRA customers are wholesale and retail customers who buy for
-  personal use rather than building a business.
+- Approximately 93% of new U.S. doTERRA customers are wholesale and retail customers who buy at
+  wholesale or retail prices "for personal use". The document's separate statement that some customers
+  do not build a business is about Wellness Advocates, a different population, and the two should not be
+  merged.
 - The top 2% of active Advocates hold the Silver-through-Presidential-Diamond ranks; Presidential
   Diamonds have averaged over 14 years with the company, the longest 17 years.
 - Wholesale prices average 25% below suggested retail — the margin available on resale.
@@ -135,8 +138,25 @@ unlike [USANA](usana-10k-fy2025.md) and [Nu Skin](nu-skin-10k-fy2025.md).
 the URL is a stable overwrite path — the same URL will serve the 2027 edition. That is why the raw
 capture matters here more than usual: it fixes which edition this page describes.
 
+**This document has no archive snapshot, and the Internet Archive cannot presently make one.** Every
+Wayback capture of this URL — including one requested on 2026-08-11 — serves the **2023** edition of the
+disclosure instead: 92%, 54% earning no commissions, a $35.00 signup fee, none of the figures on this
+page, and 151 KB against the live file's 2,147,846 bytes. The live URL does serve the current document;
+fetched on 2026-08-11 it hashes to `37c8…3789`, matching `bytes_sha256` in this page's capture sidecar
+exactly. So doTERRA's CDN answers the archiver with an older object than it answers an ordinary client,
+and the raw capture is the only surviving evidence that the 2026 edition said these things. Treat any
+Wayback URL for this file as pointing at a different document, and check the edition before trusting an
+archive snapshot of any CDN-hosted PDF.
+
 ## Related Pages
 
 - [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
 - [FTC Warning Letter to dōTERRA (2020)](ftc-warning-letter-doterra-2020.md)
 - [An Economic Analysis of Utah's Direct Selling Industry (Gardner Institute, 2022)](gardner-utah-direct-selling-analysis-2022.md)
+
+## Maintainer Notes
+
+An `**Archive:**` field pointing at `web/20251115113120/` was removed from this page on 2026-08-11 after
+an audit found the snapshot serves the 2023 edition. Do not restore it, and do not add a Save Page Now
+result without decompressing the returned PDF and confirming it says 2026: a request made that day came
+back as the 2023 edition too. If a future Archive value is added here, record the edition check beside it.

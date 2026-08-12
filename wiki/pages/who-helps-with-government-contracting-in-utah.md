@@ -35,5 +35,9 @@ Government contracting help is not a substitute for product clarity. APEX is a w
 ## Open Questions
 
 - Which regional APEX manager or county route should each founder use?
-- Which defense-prime or base-adjacent supplier paths deserve separate helper pages?
-- How should this answer route companies that need export support as well as government contracting support?
+- Which defense-prime or base-adjacent supplier paths are publicly accessible to Utah founders?
+
+## Maintainer Notes
+
+- Create helper pages for durable, publicly accessible defense-prime or base-adjacent supplier pathways.
+- Decide how this guide should route companies that need export support as well as government contracting support.

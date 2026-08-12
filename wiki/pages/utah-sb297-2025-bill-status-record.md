@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://le.utah.gov/data/2025GS/SB0297.json
 **Publisher:** Utah State Legislature
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/utah-sb297-2025-bill-status-record/2026-08-11-88c2e416fb8d.txt
 **Updated:** 2026-08-11
 
@@ -30,9 +30,10 @@ created an ombudsman with powers of entry and records access, did not.
 - **Roll calls**: Senate third reading 19-6-4 on 2025-02-28; House third reading 53-19-3 on
   2025-03-05; Senate concurrence in the House amendment 27-1-1 later that day. Senate second reading
   had passed 24-3-2 the previous day.
-- **Committee votes were unanimous in favor** in both chambers: Senate Judiciary, Law Enforcement,
-  and Criminal Justice reported it favorably 8-0-1 on 2025-02-21; House Health and Human Services
-  reported it favorably 10-0-4 on 2025-03-04.
+- **No committee member in either chamber voted against it**: Senate Judiciary, Law Enforcement, and
+  Criminal Justice reported it favorably 8-0-1 on 2025-02-21; House Health and Human Services reported
+  it favorably 10-0-4 on 2025-03-04. "Unanimous" is the wrong word for the second of those — four
+  members did not vote, so ten of a fourteen-member committee carried it.
 - **It was returned to House Rules "due to fiscal impact"** on 2025-03-04, and fiscal notes were
   published for substitutes 2 through 5.
 - **Sponsors**: Sen. Michael K. McKell as prime sponsor — the same senator who carried

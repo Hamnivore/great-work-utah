@@ -6,7 +6,7 @@
 **Source Type:** filing
 **URL:** https://www.sec.gov/Archives/edgar/data/352789/0000352789-95-000002.txt
 **Publisher:** U.S. Securities and Exchange Commission (EDGAR)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/iomega-sec-10k-1995/2026-08-11-7e043cd9cefa.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Iomega Zip Drive](iomega-zip-drive.md) · https://greatutah.work/pages/iomega-zip-drive.md

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** surface plasmon resonance, microfluidics, monoclonal antibody characterization, high-throughput biosensors, biotherapeutics discovery
+**Identifiers:** cik=0001541582, ein=83-0413045
 **Roles:** biology-life-sciences, hardware-engineering, physical-sciences, software-engineering, sales-business-development
 **Stage:** Established private instrument company; formerly Wasatch Microfluidics (renamed Carterra, Inc. in May 2017)
 **Primary Location:** Salt Lake City, UT

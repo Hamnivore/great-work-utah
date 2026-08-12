@@ -53,4 +53,8 @@ Weaker fit for non-veteran founders or companies whose primary need is venture-c
 ## Open Questions
 
 - What are the current STRIVE cohort dates and application requirements?
-- Which SBA or UDVMA partner services should be cross-linked from this page?
+- Which SBA or UDVMA partner services overlap with VBRC's current offering?
+
+## Maintainer Notes
+
+- Cross-link verified SBA and UDVMA partner services where they clarify the path beyond VBRC.

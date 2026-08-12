@@ -1,4 +1,4 @@
-# resource — 246 pages
+# resource — 249 pages
 
 Grants, accelerators, facilities, capital paths, programs. One line per page; fetch the page for detail and evidence.
 
@@ -40,6 +40,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Convoi Ventures](/pages/convoi-ventures.md) · `https://greatutah.work/pages/convoi-ventures.md` · Funding · conf:M
 - [Coworking Space in Salt Lake City - Offices.net](/pages/coworking-space-in-salt-lake-city-offices-net.md) · `https://greatutah.work/pages/coworking-space-in-salt-lake-city-offices-net.md` · Entrepreneurship Communities · conf:M
 - [Cross Creek](/pages/cross-creek.md) · `https://greatutah.work/pages/cross-creek.md` · Funding, Late Stage Growth · conf:M
+- [CTO Breakfast Utah](/pages/cto-breakfast-utah.md) · `https://greatutah.work/pages/cto-breakfast-utah.md` · technology leadership peer group, monthly breakfast, Chatham House Rules, Utah County · conf:M
 - [Custom Fit Training](/pages/custom-fit-training.md) · `https://greatutah.work/pages/custom-fit-training.md` · Late Stage Growth · conf:M
 - [Cynosure](/pages/cynosure.md) · `https://greatutah.work/pages/cynosure.md` · Funding, Late Stage Growth · conf:M
 - [Davis Chamber of Commerce](/pages/davis-chamber-of-commerce.md) · `https://greatutah.work/pages/davis-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
@@ -149,6 +150,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [SoUtah Economic Alliance](/pages/soutah-economic-alliance.md) · `https://greatutah.work/pages/soutah-economic-alliance.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Southeastern Association of Local Governments](/pages/southeastern-association-of-local-governments.md) · `https://greatutah.work/pages/southeastern-association-of-local-governments.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Southeastern Utah Association of Local Governments - Economic Development](/pages/southeastern-utah-association-of-local-governments-economic-development.md) · `https://greatutah.work/pages/southeastern-utah-association-of-local-governments-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Southern Utah Code Camp](/pages/southern-utah-code-camp.md) · `https://greatutah.work/pages/southern-utah-code-camp.md` · 24-hour hackathon, skill-tiered divisions, St George tech community, sponsor-funded · conf:M
 - [Southern Utah University Cedar City Business & Innovation Center](/pages/southern-utah-university-cedar-city-business-and-innovation-center.md) · `https://greatutah.work/pages/southern-utah-university-cedar-city-business-and-innovation-center.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship](/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md) · `https://greatutah.work/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md) · `https://greatutah.work/pages/st-george-area-chamber-of-commerce.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
@@ -220,7 +222,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md) · `https://greatutah.work/pages/utah-small-business-credit-initiative.md` · small business lending, capital access, lender-backed capital, underserved founders · conf:M
 - [Utah State Surplus Property](/pages/utah-state-surplus-property.md) · `https://greatutah.work/pages/utah-state-surplus-property.md` · state surplus property, public auctions, used vehicles, heavy equipment, office furniture, government inventory · conf:H
 - [Utah State University Center for Entrepreneurship](/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md) · `https://greatutah.work/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
-- [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` · Utah technology events, meetups, community calendar · conf:M
+- [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` · statewide tech event aggregation, automated schema.org ingestion, nightly refresh, no-signup index · conf:M
 - [Utah Tech University - Atwood Innovation Center](/pages/utah-tech-university-atwood-innovation-center.md) · `https://greatutah.work/pages/utah-tech-university-atwood-innovation-center.md` · Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business · conf:M
 - [Utah Tourism Association](/pages/utah-tourism-association.md) · `https://greatutah.work/pages/utah-tourism-association.md` · Entrepreneurship Communities · conf:M
 - [Utah Valley University Innovation Center/Academy](/pages/utah-valley-university-innovation-center-academy.md) · `https://greatutah.work/pages/utah-valley-university-innovation-center-academy.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
@@ -242,6 +244,7 @@ Grants, accelerators, facilities, capital paths, programs. One line per page; fe
 - [Washington City Economic Development](/pages/washington-city-economic-development.md) · `https://greatutah.work/pages/washington-city-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
 - [Weber Basin Job Corps](/pages/weber-basin-job-corps.md) · `https://greatutah.work/pages/weber-basin-job-corps.md` · Late Stage Growth · conf:M
 - [Weber County Economic Development](/pages/weber-county-economic-development.md) · `https://greatutah.work/pages/weber-county-economic-development.md` · Entrepreneurship Communities, Funding, Late Stage Growth · conf:M
+- [Weber State AI Hackathon](/pages/weber-state-ai-hackathon.md) · `https://greatutah.work/pages/weber-state-ai-hackathon.md` · university AI hackathon, two-week remote build, skill-tiered prizes, employer job fair, Ogden · conf:M
 - [Wildcat MicroFund](/pages/wildcat-microfund.md) · `https://greatutah.work/pages/wildcat-microfund.md` · Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and … · conf:M
 - [Women Tech Counsel](/pages/women-tech-counsel.md) · `https://greatutah.work/pages/women-tech-counsel.md` · Entrepreneurship Communities, Late Stage Growth · conf:M
 - [Women's Business Center of Utah](/pages/womens-business-center-of-utah.md) · `https://greatutah.work/pages/womens-business-center-of-utah.md` · Entrepreneurship Communities, Funding, Late Stage Growth, Start a Business · conf:M

@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260516074918/http://nunug.org/
 **Archived:** 2026-05-16
 **Publisher:** Northern Utah .NET Users Group
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/nunug-official-website/2026-08-11-c356290f3e95.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Northern Utah .NET Users Group](northern-utah-dotnet-users-group.md) · https://greatutah.work/pages/northern-utah-dotnet-users-group.md · https://nunug.org/

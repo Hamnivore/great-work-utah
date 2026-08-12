@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** AI drug discovery, life sciences, computational biology
+**Identifiers:** cik=0001601830, ein=46-4099738
 **Roles:** software-engineering, data-science, biology-life-sciences, physical-sciences, clinical-regulatory
 **Stage:** Public company, clinical-stage TechBio
 **Primary Location:** Salt Lake City, UT

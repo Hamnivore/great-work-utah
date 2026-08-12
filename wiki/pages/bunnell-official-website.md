@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260607011957/https://bunl.com/about-bunnell/
 **Archived:** 2026-06-07
 **Publisher:** Bunnell, Inc.
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/bunnell-official-website/2026-08-11-f3ccd5d5ba0a.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Bunnell Incorporated](bunnell-incorporated.md) · https://greatutah.work/pages/bunnell-incorporated.md · https://bunl.com/about-bunnell/

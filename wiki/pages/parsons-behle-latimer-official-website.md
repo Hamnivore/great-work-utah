@@ -9,7 +9,7 @@
 **Archived:** 2026-08-02
 **Publisher:** Parsons Behle & Latimer
 **Raw:** raw/parsons-behle-latimer-official-website/2026-08-11-3656fade9f5c.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

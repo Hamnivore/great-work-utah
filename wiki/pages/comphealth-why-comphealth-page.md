@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260516013050/https://comphealth.com/why-comphealth
 **Archived:** 2026-05-16
 **Publisher:** CompHealth (CHG Healthcare)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/comphealth-why-comphealth-page/2026-08-11-a1bb35fd1e3a.txt
 **Updated:** 2026-08-11
 **Relates:** cites [CompHealth](comphealth.md) · https://greatutah.work/pages/comphealth.md · https://www.comphealth.com/why-comphealth

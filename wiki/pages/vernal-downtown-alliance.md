@@ -7,7 +7,7 @@
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
 **Region:** Vernal
-**Website:** https://www.vernaldowntown.org/
+**Website:** https://www.vernal.gov/471/Vernal-Downtown-Plan
 **Updated:** 2026-08-11
 
 ## Summary
@@ -26,7 +26,7 @@ Business networking and training sessions, downtown events and promotions, resou
 
 Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://www.vernaldowntown.org/) · https://www.vernaldowntown.org/
+- [Vernal Downtown Plan](https://www.vernal.gov/471/Vernal-Downtown-Plan) · https://www.vernal.gov/471/Vernal-Downtown-Plan
 - Email: [vernaldt@gmail.com](mailto:vernaldt@gmail.com)
 - Startup State listing: https://startup.utah.gov/business-resource/vernal-downtown-alliance/
 
@@ -41,7 +41,7 @@ Brick-and-mortar or downtown-facing businesses in Vernal — retail, food, servi
 
 ## Evidence
 
-- [Official website](https://www.vernaldowntown.org/) · https://www.vernaldowntown.org/
+- [Vernal Downtown Plan](https://www.vernal.gov/471/Vernal-Downtown-Plan) · https://www.vernal.gov/471/Vernal-Downtown-Plan
 - Startup State listing: https://startup.utah.gov/business-resource/vernal-downtown-alliance/
 
 ## Open Questions

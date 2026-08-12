@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Identifiers:** ein=87-0210444
 **Primary Location:** Carbon County, UT
 **Utah Location:** Carbon County, UT
 **Updated:** 2026-08-11

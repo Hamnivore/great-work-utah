@@ -6,7 +6,7 @@
 **Source Type:** dataset
 **URL:** https://www.irs.gov/pub/irs-soi/eo_ut.csv
 **Publisher:** Internal Revenue Service (Statistics of Income — Exempt Organizations Business Master File)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

@@ -9,7 +9,7 @@
 **Archived:** 2025-06-30
 **Publisher:** Utah State History (Utah Division of State History)
 **Raw:** raw/utah-history-to-go-harvey-fletcher/2026-08-11-3df56a1edc1b.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

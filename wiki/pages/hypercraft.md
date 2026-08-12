@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** hybrid-electric powertrains, defense mobility, power electronics, software-defined vehicles
+**Identifiers:** cik=0001951021, ein=87-4396471
 **Roles:** software-engineering, hardware-engineering, program-project-management
 **Stage:** Series A ($26M raised, June 2025; ~$106M post-money valuation)
 **Primary Location:** Provo, UT

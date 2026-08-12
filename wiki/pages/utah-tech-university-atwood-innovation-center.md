@@ -11,7 +11,7 @@
 **Coordinates:** 37.1004513, -113.5705685
 **Location Precision:** exact
 **Location Source:** https://innovation.utahtech.edu/contact-us/
-**Website:** https://innovation.utahtech.edu/business-resource-center-at-dsu/
+**Website:** https://innovation.utahtech.edu/business-resource-center/
 **Updated:** 2026-08-11
 
 ## Summary
@@ -30,7 +30,7 @@ No-cost business consultations; startup roadmap support; connections to business
 
 Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://innovation.utahtech.edu/business-resource-center-at-dsu/) · https://innovation.utahtech.edu/business-resource-center-at-dsu/
+- [Official website](https://innovation.utahtech.edu/business-resource-center/) · https://innovation.utahtech.edu/business-resource-center/
 - Email: [businesshelp@utahtech.edu](mailto:businesshelp@utahtech.edu)
 - Startup State listing: https://startup.utah.gov/business-resource/utah-tech-university-atwood-innovation-center/
 

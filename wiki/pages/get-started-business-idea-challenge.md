@@ -7,7 +7,7 @@
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://startup.utah.gov/get-started/
+**Website:** https://startup.utah.gov/business-resource/get-started-business-idea-challenge/
 **Updated:** 2026-08-11
 
 ## Summary

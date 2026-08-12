@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.midaut.org/s/MDA-Stratos-Development-Agreement-23April2026.pdf
 **Publisher:** Military Installation Development Authority
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/stratos-master-development-agreement/2026-08-11-1f75c6294a4c.txt
 **Updated:** 2026-08-11
 

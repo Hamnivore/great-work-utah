@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260712021750/https://fourthstreetclinic.org/
 **Archived:** 2026-07-12
 **Publisher:** Fourth Street Clinic
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/fourth-street-clinic-official-website/2026-08-11-10a46b4b29b4.txt
 **Updated:** 2026-08-11
 

@@ -9,7 +9,7 @@
 **Archived:** 2026-06-19
 **Publisher:** BioFire Diagnostics, LLC (a bioMérieux company)
 **Raw:** raw/biofire-diagnostics-official-website/2026-08-11-a2fb4c680848.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

@@ -1,0 +1,13 @@
+{
+  "source_page": "southern-utah-code-camp-sponsorship-page.md",
+  "requested_url": "https://southernutahcodecamp.com/become-a-sponsor/",
+  "final_url": "https://southernutahcodecamp.com/become-a-sponsor/",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:50:21.589Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "f623f37621130bb66f1aa72947715a8074485dc10471f7e4adbcd6d0fc67e203",
+  "text_sha256": "9c7bbd70f4ea9b742dda71d62e9eac1478f3f8a286f65e4d9d3953fe669f3585",
+  "text_chars": 3741,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

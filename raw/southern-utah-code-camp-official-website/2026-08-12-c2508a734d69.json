@@ -1,0 +1,13 @@
+{
+  "source_page": "southern-utah-code-camp-official-website.md",
+  "requested_url": "https://southernutahcodecamp.com/",
+  "final_url": "https://southernutahcodecamp.com/",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:40:56.178Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "c83f2b8ecfafa4cde5244973830e173eca3dd7487c24c7791e76770caf67c77a",
+  "text_sha256": "c2508a734d69b413073e916b02cc3d30c9026ea79dbb6963685c6f9d8feb54eb",
+  "text_chars": 1894,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

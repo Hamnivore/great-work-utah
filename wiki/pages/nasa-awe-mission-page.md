@@ -9,7 +9,7 @@
 **Archived:** 2026-07-12
 **Publisher:** NASA
 **Raw:** raw/nasa-awe-mission-page/2026-08-11-1fb9b5364ca9.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

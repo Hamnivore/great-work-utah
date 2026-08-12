@@ -7,7 +7,7 @@
 **URL:** https://www.wavecharging.com/
 **Publisher:** WAVE Charging (formerly Wireless Advanced Vehicle Electrification)
 **Raw:** raw/wave-inc-official-website/2026-08-11-cab3999e6830.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

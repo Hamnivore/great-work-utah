@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://api.fda.gov/device/registrationlisting.json?search=proprietary_name:%22LIFE+PULSE%22&limit=1
 **Publisher:** U.S. Food and Drug Administration (openFDA device registration and listing)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Bunnell Incorporated](bunnell-incorporated.md) · https://greatutah.work/pages/bunnell-incorporated.md · https://api.fda.gov/device/registrationlisting.json
 

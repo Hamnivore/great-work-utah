@@ -9,7 +9,7 @@
 **Archived:** 2026-06-18
 **Publisher:** U.S. Small Business Administration
 **Raw:** raw/sba-utah-district-office-source/2026-08-11-ab3a86e3c772.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

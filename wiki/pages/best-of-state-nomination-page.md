@@ -7,7 +7,7 @@
 **Publisher:** Best of State Foundation
 **URL:** https://www.bestofstate.org/nominate
 **Raw:** raw/best-of-state-nomination-page/2026-08-11-12c3dbb83a5f.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

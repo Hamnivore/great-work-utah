@@ -4,8 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Source Type:** official-page
-**URL:** https://oxeonenergy.com/moxie
+**URL:** https://www.oxeonenergy.com/news
 **Publisher:** OxEon Energy
+**Retrieved:** 2026-08-12
 **Updated:** 2026-07-14
 
 ## Summary

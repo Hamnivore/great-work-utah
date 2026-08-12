@@ -5,8 +5,10 @@
 **Confidence:** High
 **Source Type:** government-record
 **URL:** https://www.ftc.gov/system/files/warning-letters/covid-19-letter_to_doterra_international_llc.pdf
+**Archive:** https://web.archive.org/web/20260619134545/https://www.ftc.gov/system/files/warning-letters/covid-19-letter_to_doterra_international_llc.pdf
+**Archived:** 2026-06-19
 **Publisher:** U.S. Federal Trade Commission
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/ftc-warning-letter-doterra-2020/2026-08-11-28d61f96eb99.txt
 **Published:** 2020-04-24
 **Updated:** 2026-08-11
@@ -17,7 +19,7 @@ The FTC staff letter of April 24, 2020 to doTERRA International, LLC of Pleasant
 [ten sent that day](ftc-mlm-covid-warning-letters-2020.md) and one of three to Utah companies. It
 reproduces social-media posts by doTERRA Wellness Advocates advertising essential oils as coronavirus
 protection — including a post claiming the virus can be beaten by eating alkaline foods and naming
-doTERRA lemon, lime, tangerine and wild orange oils — alongside posts pitching the business
+doTERRA lemon, lime, tangerine, wild orange and ginger oils — alongside posts pitching the business
 opportunity to people who had just been laid off.
 
 The letter's operative content is the FTC's statement of law: a disease-prevention claim requires

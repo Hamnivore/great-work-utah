@@ -1,0 +1,50 @@
+About | Southern Utah Code Camp
+Home
+About Under 18 Waiver
+Rules
+Schedule
+Venue
+Sponsors Become a Sponsor
+Contact Us
+Register
+Volunteer
+Select Page
+About
+What is Code Camp?
+Code Camp is a programming, design and entrepreneurship contest all rolled up into a ridiculously compressed 24-hour event. It’s crazy fun! Teams ranging in size from one to four participants compete against other teams to build the best web or mobile app.
+Code Camp features five divisions:
+The Division your team competes in is dependent on the individual with the highest level of experience. For example, if your team of four people is a Novice, two Collegiate, and one Industry (professional), then your team competes in the Industry Division.
+Industry
+Industry teams include at least ONE professional. A professional is someone that either is currently working full-time as a programmer, designer, project manager; someone who has been paid for their development work, or has been an intern (paid or unpaid) for more than two years. Teams in this Division are developing company ideas, side projects to test concepts or simply to just claim bragging rights.
+Intermediate
+Intermediate participants have experience in the industry but have not worked professionally (paid for work). Teams in this Division are looking to improve their software development skills and impress potential employers. Intermediate participants are typically late stage high-school students, college students, or someone of an equal experience level.
+Novice
+Novice teams are made up of participants with some experience in the industry or looking to learn new skills and techniques. Novices have some programming or coding experience. Novices are participants with some programming experience (high-school students, first-year college students, or someone with little to no background in programming or software development).
+Day Camp
+This Division is similar to the Novice Division with one change. This group is not be participating for the full 24 hours. Their competition runs from 8:00 AM – 3:00 PM on Friday only.
+Project Categories
+Each team self selects a category for their project. The top team in each category will be awarded a prize. Categories are not limited to divisions. For example, a Novice team creating an app will be competing against an Intermediate or Industry team creating an app.
+App
+This category encompasses any application developed for desktop and mobile environments such as project management, chat, Alexa skills, etc. These applications are NOT games (see Game categories). Anything that is a game must be in one of the Game categories.
+Game
+The Game category is for all other types of games that are created as a web or mobile application. Projects in this category will, in most cases, be created from scratch using available libraries. Any library used must be freely available to the public.
+Maker
+Projects in this category are a physical creation. This category is for projects that create or alter a piece of hardware such as a Raspberry Pi garage door opener, an Arduino lie detector, a drawing robot, a programmable UAV, or a space shuttle.
+We will meet with each team prior to the start of the competition to help determine which division and track is most applicable for your team. See the rules for more details.
+When is Code Camp?
+Code Camp is generally held the second Friday through Saturday in November. Click here to view the full schedule and venue details for Code Camp.
+Who is Code Camp For?
+You! If you are (or are aspiring to be) a programmer, designer, entrepreneur, project manager, mentor/advisor, investor, or Leeroy Jenkins, Code Camp will provide you with tremendous opportunities.
+Why Should I Participate?
+Aside from getting a rad Code Camp t-shirt, you’ll have perhaps the best opportunity of the year to bring your skill-set to new heights. There is nothing as exhilarating (and perhaps humbling) as trying to build something meaningful (e.g. and something that works) in just a 24-hour window.
+Past years’ participants have deepened relationships with colleagues, found jobs or business partners, launched successful businesses, formed new friends, built new networks, and made lasting memories. If this sounds too good to be true, we dare you to come participate and prove us wrong 😉
+How Did Code Camp Originate?
+The first code camp was in 2010. The idea was originally conceived by Jerry Brown of OveractDev and Jill Elliss of USTAR at the Business Resource Center. Since then, an active board of volunteers has evolved Code Camp into a highly-anticipated, sponsor-funded event that is gaining both popularity and recognition across the region. Code Camp wouldn’t be possible if it wasn’t for our generous sponsors and dedicated organizers.
+What is Code Camp?
+When is Code Camp?
+Where is Code Camp?
+What are the Rules?
+Register for Code Camp!
+Sponsor Code Camp!
+Facebook
+Southern Utah Code Camp is organized and run by Tech Threads, INC | The event color is based on the Pantone Color of the Year .

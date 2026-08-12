@@ -14,7 +14,7 @@
 **Map Location:** OxEon Energy, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054
 **Coordinates:** 40.8375993, -111.9441225
 **Location Precision:** exact
-**Location Source:** https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf
+**Location Source:** https://www.google.com/maps/search/?api=1&query=OxEon+Energy+257+River+Bend+Way+Suite+300+North+Salt+Lake+UT+84054
 **Website:** https://oxeonenergy.com
 **Careers:** https://www.oxeonenergy.com/careers
 **Needs-reviewed:** 2026-07-14

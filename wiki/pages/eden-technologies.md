@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** water desalination, reverse osmosis, centrifuge efficiency, water scarcity, Southwest water
+**Identifiers:** cik=0001642412, ein=47-2759719
 **Roles:** physical-sciences, hardware-engineering, sales-business-development
 **Stage:** Seed ($1M+ raised: $750K seed + $250K Utah Innovation Fund, as of 2023)
 **Primary Location:** St. George, UT

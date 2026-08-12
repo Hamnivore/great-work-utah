@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.boxeldercountyut.gov/DocumentCenter/View/2318/Ordinance-654---Data-Center-Moratorium
 **Publisher:** Box Elder County, Utah
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/stratos-box-elder-county-moratorium-ordinance-654/2026-08-11-54b98b6c696e.txt
 **Updated:** 2026-08-11
 

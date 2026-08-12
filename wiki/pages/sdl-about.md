@@ -9,7 +9,7 @@
 **Archived:** 2026-02-18
 **Publisher:** Utah State University Space Dynamics Laboratory
 **Raw:** raw/sdl-about/2026-08-11-d7c4e4d7f37b.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

@@ -47,5 +47,10 @@ Once you have a bench path: [Nucleus Grow](nucleus-grow.md) / [UTIF](utif.md) fo
 
 ## Open Questions
 
-- Are there additional shared BSL-2 suites in Salt Lake or Utah County with a public apply page that should be added?
-- Does U2TAH or the Center for Medical Innovation offer any founder-accessible bench time worth a separate resource page?
+- Are there additional shared BSL-2 suites in Salt Lake or Utah County with a public application path?
+- Does U2TAH or the Center for Medical Innovation offer founder-accessible bench time?
+
+## Maintainer Notes
+
+- Add verified shared BSL-2 suites as resource pages and update this guide.
+- If U2TAH or the Center for Medical Innovation offers a durable founder-accessible bench pathway, create a resource page and link it here.

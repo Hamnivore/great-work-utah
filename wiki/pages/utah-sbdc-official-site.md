@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260518020126/https://utahsbdc.org/
 **Archived:** 2026-05-18
 **Publisher:** Utah Small Business Development Center
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

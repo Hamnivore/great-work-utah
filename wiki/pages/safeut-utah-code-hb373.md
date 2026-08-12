@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://le.utah.gov/~2019/bills/hbillenr/HB0373.htm
 **Publisher:** Utah State Legislature
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/safeut-utah-code-hb373/2026-08-11-3439eb3cf3fa.txt
 **Updated:** 2026-08-11
 **Relates:** cites [SafeUT](safeut.md) · https://greatutah.work/pages/safeut.md · https://le.utah.gov/~2019/bills/hbillenr/HB0373.htm

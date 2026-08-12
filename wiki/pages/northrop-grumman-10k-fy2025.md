@@ -6,7 +6,7 @@
 **Source Type:** filing
 **URL:** https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm
 **Publisher:** U.S. Securities and Exchange Commission (EDGAR) — Northrop Grumman Corporation
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

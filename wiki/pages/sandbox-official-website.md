@@ -9,7 +9,7 @@
 **Archived:** 2026-05-21
 **Publisher:** Sandbox
 **Raw:** raw/sandbox-official-website/2026-08-11-c01975c6256a.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-07-14
 
 ## Summary
@@ -42,7 +42,7 @@ Sandbox's official website describes a for-credit entrepreneurship program where
 
 ## Reliability Notes
 
-This is an official company source. Valuation, Y Combinator acceptance, and hiring-outcome statistics are self-reported and should be treated as leads until corroborated by independent funding databases, YC records, or third-party reporting. Fellowship location, tuition, equity, and cofounder-matching details previously recorded on this page were not present in the 2026-08-11 capture.
+This is an official company source. Valuation, Y Combinator acceptance, and hiring-outcome statistics are self-reported and should be treated as leads until corroborated by independent funding databases, YC records, or third-party reporting. The 2026-08-11 capture does not establish Fellowship location, tuition, equity, or cofounder-matching details.
 
 ## Related Pages
 

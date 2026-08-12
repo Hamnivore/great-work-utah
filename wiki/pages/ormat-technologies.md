@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** geothermal energy, geothermal plant operations, binary-cycle equipment manufacturing, grid infrastructure
+**Identifiers:** cik=0001296445, ein=88-0326081
 **Roles:** hardware-engineering, field-skilled-trades, physical-sciences, manufacturing-operations, sales-business-development, legal-policy
 **Stage:** Public company (NYSE: ORA), founded 1965; Utah plant owner-operator since January 2024
 **Primary Location:** Reno, NV

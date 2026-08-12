@@ -9,7 +9,7 @@
 **Archived:** 2026-06-06
 **Publisher:** BBC Entrepreneurial Training & Consulting LLC
 **Raw:** raw/bbcetc-official-site/2026-08-11-eca84d93d398.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary
@@ -39,7 +39,7 @@ BBCetc's official site describes a consulting and training firm that helps compa
 
 ## Reliability Notes
 
-This is an official company source and is reliable for BBCetc's stated services. It is not evidence of Utah-specific funding, local availability, or fit for a particular solicitation. For Utah founders, this page should be read alongside local resources such as Nucleus Grow and UTIF.
+This is an official company source and is reliable for BBCetc's stated services. It is not evidence of Utah-specific funding, local availability, or fit for a particular solicitation. Utah founders should compare it with local resources such as Nucleus Grow and UTIF.
 
 ## Related Pages
 

@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://utahjs.com/
 **Publisher:** UtahJS
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/utahjs-official-website/2026-08-11-ad1cc3d1492e.txt
 **Updated:** 2026-08-11
 **Relates:** cites [UtahJS](utahjs.md) · https://greatutah.work/pages/utahjs.md · https://utahjs.com/

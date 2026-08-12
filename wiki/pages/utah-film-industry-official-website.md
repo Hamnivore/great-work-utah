@@ -9,7 +9,7 @@
 **Archived:** 2026-07-07
 **Publisher:** Utah Governor's Office of Economic Opportunity (Utah Film Commission)
 **Raw:** raw/utah-film-industry-official-website/2026-08-11-d59929ae76c1.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

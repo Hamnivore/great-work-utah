@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260311060844/https://en.wikipedia.org/wiki/Apa_Sherpa
 **Archived:** 2026-03-11
 **Publisher:** Wikimedia Foundation
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/wikipedia-apa-sherpa-reference/2026-08-11-655a77c10b1c.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Apa Sherpa's Everest Summits](apa-sherpa-everest-summits.md) · https://greatutah.work/pages/apa-sherpa-everest-summits.md · https://en.wikipedia.org/wiki/Apa_Sherpa

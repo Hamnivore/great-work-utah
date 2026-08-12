@@ -11,7 +11,7 @@
 **Coordinates:** 41.2231757, -111.9703339
 **Location Precision:** exact
 **Location Source:** https://www.google.com/maps/search/?api=1&query=Weber+County+Economic+Development+2380+Washington+Boulevard+Ogden+UT
-**Website:** https://webercountyutah.gov/weberedp/new/index.html
+**Website:** https://www.webercountyutah.gov/economic_development/
 **Updated:** 2026-08-11
 
 ## Summary
@@ -30,7 +30,7 @@ Direct ED director contact, linkage to Northern Utah Economic Alliance, economic
 
 Start with the official website, then confirm current programs before recommending.
 
-- [Official website](https://webercountyutah.gov/weberedp/new/index.html) · https://webercountyutah.gov/weberedp/new/index.html
+- [Official website](https://www.webercountyutah.gov/economic_development/) · https://www.webercountyutah.gov/economic_development/
 - Email: [srussell@webercountyutah.gov](mailto:srussell@webercountyutah.gov)
 - Startup State listing: https://startup.utah.gov/business-resource/weber-county-economic-development/
 

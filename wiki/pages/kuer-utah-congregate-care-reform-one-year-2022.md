@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260811231040/https://www.kuer.org/politics-government/2022-04-12/utah-increased-oversight-of-its-troubled-teen-industry-has-it-worked
 **Archived:** 2026-08-11
 **Publisher:** KUER 90.1
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/kuer-utah-congregate-care-reform-one-year-2022/2026-08-11-da68c9583284.txt
 **Published:** 2022-04-12
 **Updated:** 2026-08-11
@@ -20,10 +20,10 @@ partnership that measured the pre-reform baseline — Jessica Schreifels of The 
 Will Craft of APM Reports, published by KUER as part of the "Sent Away" investigation.
 
 It is the most useful single document for the question a reader actually has, which is whether the
-reform did anything. Its answer is two-sided and this wiki carries both sides: citations against
-programs roughly doubled in the first year and rose more than fiftyfold against 2016, *and* two
-children died in Utah programs in the months after the law took effect, one of them six miles from the
-sponsor's house.
+reform did anything. Its answer is two-sided and this wiki carries both sides: the Office of Licensing
+cited programs more than 200 times in the first year, twice as often as the year before and against
+"just four violations" found in 2016, *and* two children died in Utah programs in the months after the
+law took effect, one of them six miles from the sponsor's house.
 
 ## Useful Claims
 
@@ -33,10 +33,12 @@ sponsor's house.
 - **A fifth of the new violations came from the new reporting duty.** One in five rule violations in
   2021 were found after a program reported that staff had restrained a child without injuring them;
   before 2021 those incidents would not have been investigated.
-- **Inspection practice changed as the statute required**: from typically one scheduled visit a year
-  to four visits, with enough staff to arrive unannounced. The then-director of the Office of
-  Licensing, Amanda Slater, is quoted on why that matters — an announced annual visit lets a program
-  "clean up their house before you show up".
+- **Inspection practice changed as the statute required**: from one announced visit a year to four,
+  with enough staff to arrive unannounced. Amanda Slater — described by the story as the top regulator
+  of teen treatment programs for three years, and as one of the "licensing directors", who had recently
+  moved to another job inside the Department of Health and Human Services when the story ran — is quoted
+  on why that matters: an announced annual visit lets a program "clean up their house before you show
+  up". This is the only source in this wiki that establishes the pre-reform visits were announced.
 - **The regulator's stance shifted, by its own account.** Slater says licensing directors had
   previously described their role as "technical assistance", working with programs rather than
   punishing them, and that her office took more punitive measures in the reform's first year than in
@@ -48,7 +50,9 @@ sponsor's house.
 - **The sponsor did not claim success.** Sen. Mike McKell, R-Spanish Fork, is quoted saying "our tools
   are not strong enough today", that "we need to acknowledge that a kid, post-Senate Bill 127, is no
   longer with us", and that some violations "are too egregious to remedy" and should close a facility.
-  He brought no follow-up bill in the 2022 session.
+  He "didn't bring a bill to further strengthen state oversight during the most recent legislative
+  session", saying instead that he hoped to debate whether more regulation was needed in an interim
+  session — three years before [S.B. 297](utah-sb297-2025-congregate-care-statute.md) arrived.
 - **The sector's scale is given as "more than 100 teen treatment programs"** — the same order of
   magnitude as [the 2021 reporting](apm-reports-utah-youth-treatment-inspections-2021.md), and again
   without a source for the count.
@@ -69,8 +73,14 @@ sponsor's house.
 > "In that year, one out of every five rule violations were found after programs reported that staff had held a child in a restraint without injuring them. Before 2021, those incidents would not have been investigated."
 > — Same section
 
+> "Amanda Slater was the top regulator of teen treatment programs for three years before she recently moved to a new job within the Department of Health and Human Services."
+> — How the story identifies its regulator source
+
 > "'If we're only going in there once a year, and it's announced, you know, most people would clean up their house before you show up,' she said. 'You don't always find the problems.'"
-> — Amanda Slater, then director of the Office of Licensing
+> — Amanda Slater
+
+> "McKell didn't bring a bill to further strengthen state oversight during the most recent legislative session. But he said he hopes to debate whether more regulation is needed during an interim session."
+> — "Is it enough?"
 
 > "Now inspectors stop by four times a year, and the state has more staff so they can show up unannounced."
 > — Same section
@@ -95,6 +105,13 @@ violations" in 2016, and the one-in-five figure all come from a data analysis th
 does not itemize; the counts cannot be re-derived from anything this wiki holds. The reporting team is
 the same one that built the public inspection database, which is the reason to credit it and also the
 reason to attribute rather than adopt.
+
+**The 2016 comparison mixes units and should not be turned into a multiple.** The story says the office
+"cited programs more than 200 times last year" and that in 2016 "regulators found just four violations".
+Citations and violations are not obviously the same object, the story does not say they are, and it does
+not give a 2016 citation count — so "more than fifty times as many" is arithmetic the source does not
+license, and an earlier version of this wiki's cluster page committed it. Report the two figures as the
+story reports them.
 
 **A rise in citations is not by itself a rise in harm or a fall in it.** The story is careful about
 this and a reader should be too: the reform expanded what programs must report, so part of the

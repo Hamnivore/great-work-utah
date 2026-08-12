@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Focus:** decision intelligence, customer feedback, win-loss analysis, qualitative research, enterprise software
+**Identifiers:** cik=0001843216, ein=86-1598285
 **Roles:** software-engineering, product-design, sales-business-development, program-project-management
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

@@ -8,7 +8,7 @@
 **Primary Location:** Tooele County, UT
 **Utah Location:** Tooele County, UT
 **Region:** Tooele County
-**Website:** https://www.army.mil/dugwaygarrison/
+**Website:** https://www.army.mil/dugway
 **Updated:** 2026-05-16
 **Pull:** *Dugway is technically important national test infrastructure with a moral ledger too heavy to hide.*
 
@@ -40,7 +40,7 @@ This is not a celebratory page. Dugway's history includes open-air chemical and 
 
 ## Evidence
 
-- [Source record: U.S. Army Dugway Proving Ground Official Page](dugway-proving-ground-source.md) · https://greatutah.work/pages/dugway-proving-ground-source.md · https://www.army.mil/dugwaygarrison/
+- [Source record: U.S. Army Dugway Proving Ground Official Page](dugway-proving-ground-source.md) · https://greatutah.work/pages/dugway-proving-ground-source.md · https://www.army.mil/dugway
 - [U.S. Army: Dugway Proving Ground](https://www.army.mil/dugway) · https://www.army.mil/dugway
 - [U.S. Army Dugway history](https://home.army.mil/dugway/my-dugway-proving-ground) · https://home.army.mil/dugway/my-dugway-proving-ground
 - [Health.mil: Dugway Proving Ground environmental exposures](https://www.health.mil/Military-Health-Topics/Environmental-Exposures-Hub/Environmental-Exposures-Topics/Dugway-Proving-Ground) · https://www.health.mil/Military-Health-Topics/Environmental-Exposures-Hub/Environmental-Exposures-Topics/Dugway-Proving-Ground

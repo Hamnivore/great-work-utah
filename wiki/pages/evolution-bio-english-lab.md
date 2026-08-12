@@ -9,7 +9,7 @@
 **Archived:** 2026-03-19
 **Publisher:** University of Utah, Department of Biochemistry
 **Raw:** raw/evolution-bio-english-lab/2026-08-11-d638f88c6966.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

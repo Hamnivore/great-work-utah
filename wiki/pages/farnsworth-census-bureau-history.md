@@ -9,7 +9,7 @@
 **Archived:** 2026-07-24
 **Publisher:** U.S. Census Bureau
 **Raw:** raw/farnsworth-census-bureau-history/2026-08-11-e80334f18e32.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Philo Farnsworth and Electronic Television](philo-farnsworth-television.md) · https://greatutah.work/pages/philo-farnsworth-television.md
 

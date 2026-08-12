@@ -9,7 +9,7 @@
 **Archived:** 2026-06-06
 **Publisher:** Utah MEP
 **Raw:** raw/utah-mep-official-site/2026-08-11-07dc8f410e41.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

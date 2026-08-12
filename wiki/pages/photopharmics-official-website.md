@@ -9,7 +9,7 @@
 **Archived:** 2026-06-07
 **Publisher:** PhotoPharmics, Inc.
 **Raw:** raw/photopharmics-official-website/2026-08-11-4ac026c30e37.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

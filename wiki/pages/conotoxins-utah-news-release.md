@@ -9,7 +9,7 @@
 **Archived:** 2026-05-11
 **Publisher:** University of Utah News (archive.unews.utah.edu)
 **Raw:** raw/conotoxins-utah-news-release/2026-08-11-e2de5dd8f87a.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

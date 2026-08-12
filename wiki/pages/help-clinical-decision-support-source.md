@@ -6,7 +6,7 @@
 **Source Type:** peer-reviewed
 **URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/; https://pubmed.ncbi.nlm.nih.gov/10405877/
 **Publisher:** Proceedings of the Annual Symposium on Computer Application in Medical Care; Journal of the American Medical Informatics Association
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

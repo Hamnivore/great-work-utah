@@ -9,7 +9,7 @@
 **Archived:** 2026-07-21
 **Publisher:** RAM Aviation, Space & Defense
 **Raw:** raw/ram-aviation-space-defense-official-website/2026-08-11-696eda3042d6.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

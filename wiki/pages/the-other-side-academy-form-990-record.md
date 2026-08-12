@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20230112211555/https://projects.propublica.org/nonprofits/organizations/474495796
 **Archived:** 2023-01-12
 **Publisher:** ProPublica Nonprofit Explorer (republishing IRS Form 990 data)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/the-other-side-academy-form-990-record/2026-08-11-85f79449dcda.txt
 **Updated:** 2026-08-11
 **Relates:** cites [The Other Side Academy](the-other-side-academy.md) · https://greatutah.work/pages/the-other-side-academy.md · https://projects.propublica.org/nonprofits/organizations/474495796

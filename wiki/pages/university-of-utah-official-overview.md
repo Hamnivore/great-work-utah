@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://about.utah.edu/
 **Publisher:** University of Utah
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/university-of-utah-official-overview/2026-08-11-fe54ddcc2a11.txt
 **Updated:** 2026-08-11
 

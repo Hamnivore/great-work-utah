@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260718040837/https://vuely.co/
 **Archived:** 2026-07-18
 **Publisher:** Vuely
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/vuely-official-website/2026-08-11-ca3a0f915169.txt
 **Updated:** 2026-08-11
 

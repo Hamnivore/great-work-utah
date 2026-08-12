@@ -1,0 +1,13 @@
+{
+  "source_page": "struvia-official-website.md",
+  "requested_url": "https://struvia.co/",
+  "final_url": "https://struvia.co/",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T01:01:46.182Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "1b97b882fc9871db0dd412f22963282da91510aa6b3a914ea041138046eb14aa",
+  "text_sha256": "a35c3df64f6ced220dd01b2bd2ae5c50e2c32d622b9289d425653abaa62c9f9a",
+  "text_chars": 7659,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

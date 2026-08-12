@@ -68,4 +68,8 @@ The spinout also sits near Utah's broader life-sciences cluster — companies su
 - Which partnership terms, cohort sizes, and hypothesis-validation outcomes from Merck, Amgen, or other pharma collaborators are publicly verifiable?
 - How representative is Intermountain's Intermountain West patient population for generalizable drug-discovery use cases, especially for population-specific biology?
 - What governance constraints does Intermountain Health's nonprofit parent place on Culmination's commercial independence?
-- Should the Intermountain launch announcement and Amgen/Merck backing be captured as dedicated wiki source pages?
+- What primary evidence establishes the terms and extent of Intermountain, Amgen, and Merck backing?
+
+## Maintainer Notes
+
+- Capture the Intermountain launch announcement and primary evidence for Amgen or Merck backing as separate source pages.

@@ -9,7 +9,7 @@
 **Archived:** 2026-04-17
 **Publisher:** Torus Inc.
 **Raw:** raw/torus-magnetar-raise/2026-08-11-bb5eb789d928.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

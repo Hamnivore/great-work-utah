@@ -9,7 +9,7 @@
 **Archived:** 2026-08-05
 **Publisher:** SchoolAI
 **Raw:** raw/schoolai-official-website/2026-08-11-4f3a8ab85fe0.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

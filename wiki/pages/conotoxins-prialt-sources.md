@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20250324123931/https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/021060lbl.pdf
 **Archived:** 2025-03-24
 **Publisher:** U.S. Food and Drug Administration
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

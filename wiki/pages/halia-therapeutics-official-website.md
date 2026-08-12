@@ -9,7 +9,7 @@
 **Archived:** 2026-07-01
 **Publisher:** Halia Therapeutics, Inc.
 **Raw:** raw/halia-therapeutics-official-website/2026-08-11-78be0498837e.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

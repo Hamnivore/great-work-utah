@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** consumer audio, headphones, earbuds, lifestyle brand, action sports
+**Identifiers:** cik=0001423542, ein=56-2362196
 **Roles:** hardware-engineering, manufacturing-operations, product-design, sales-business-development, marketing-communications
 **Stage:** Mature consumer brand (PE-owned per legacy notes)
 **Primary Location:** Park City, UT
@@ -24,13 +25,13 @@
 
 Skullcandy is an American consumer audio brand that designs and sells headphones, earphones, speakers, gaming headsets, and related accessories. Founded in 2003 in Park City, Utah, the company gained recognition for affordable, bass-forward products with distinctive youth-oriented styling aimed at action sports enthusiasts, skaters, snowboarders, and broader lifestyle audiences.
 
-Skullcandy has been described as an early leader in the "lifestyle headphone" category and underwent ownership changes including an acquisition by Mill Road Capital. The brand appears to remain active in wireless, true wireless, and noise-canceling segments; those historical and ownership claims require independent corroboration.
+Skullcandy is generally credited as an early leader in the "lifestyle headphone" category, and its ownership has changed hands more than once, including an acquisition by Mill Road Capital — a chain not yet traced to primary filings here. The brand remains active in wireless, true wireless, and noise-canceling segments.
 
 ## Impact
 
 The impact case is consumer-facing rather than infrastructure-scale: Skullcandy helped normalize affordable, design-forward audio for younger and action-sports audiences at a time when premium headphones were often priced for audiophiles alone.
 
-The official site today emphasizes sensory bass products, collaboration earbuds, and accessible true wireless options. Reported philanthropic work through the I CAN'T HEAR YOU Foundation for hearing health and music education requires current independent verification.
+The official site today emphasizes sensory bass products (Crusher ANC 2), collaboration earbuds (Method 360 ANC), and accessible true wireless options (Dime 360). The company is also associated with philanthropic work through the I CAN'T HEAR YOU Foundation for hearing health and music education; no captured source shows that initiative is current programming, so it should not be cited as such.
 
 ## What They Are Building
 
@@ -53,7 +54,7 @@ Useful helpers include consumer electronics GTM advisors, retail and Amazon mark
 
 ## Utah Context
 
-Skullcandy was founded in Park City by Rick Alden. Accounts attribute the brand's conception to a snowboarding trip, but that origin story is not independently established here. Headquarters remain in Park City, making Skullcandy a homegrown Utah consumer-electronics story tied to skiing, snowboarding, and action-sports culture. The company has reportedly been a local employer and sponsor of events and athletes.
+Skullcandy was founded in Park City by Rick Alden, who has recounted conceiving the brand while snowboarding — a widely repeated origin story not confirmed against a primary record here. Headquarters remain in Park City, making Skullcandy a homegrown Utah consumer-electronics story tied to skiing, snowboarding, and action-sports culture. Its role as a local employer and sponsor of events and athletes is similarly unquantified in the sources captured.
 
 ## Evidence
 
@@ -61,7 +62,7 @@ Skullcandy was founded in Park City by Rick Alden. Accounts attribute the brand'
 
 ## Open Questions
 
-- What is Skullcandy's current ownership structure and strategic direction, and who currently serves as CEO?
+- What is Skullcandy's current ownership structure and strategic direction under Jeff Hutchings as CEO (per legacy notes)?
 - Which philanthropic initiatives, including the I CAN'T HEAR YOU Foundation, remain active and how are they funded?
 - How does Skullcandy compete on margin and differentiation against Apple, Sony, Bose, JBL, and budget DTC audio brands?
 - The ApplicantPro careers board is JS-rendered and shows little over plain HTTP — agents should hand the URL to the user; verify hiring volume directly with the company.

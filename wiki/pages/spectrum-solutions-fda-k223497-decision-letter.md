@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223497.pdf
 **Publisher:** U.S. Food and Drug Administration
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/spectrum-solutions-fda-k223497-decision-letter/2026-08-11-553284e5b67d.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Spectrum Solutions](spectrum-solutions.md) · https://greatutah.work/pages/spectrum-solutions.md · https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223497.pdf

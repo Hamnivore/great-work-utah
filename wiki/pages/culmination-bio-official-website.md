@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://web.archive.org/web/20250330042617/https://www.culmination.com/
 **Publisher:** Culmination Bio
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Archive:** https://web.archive.org/web/20250330042617/https://www.culmination.com/
 **Archived:** 2025-03-30
 **Updated:** 2026-08-11
@@ -36,7 +36,7 @@ This is an official company source. It is useful for platform positioning, data-
 
 ## See Also
 
-- [Intermountain Health launch announcement (2023)](https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/) · https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/ — parent-system announcement; not yet captured as a dedicated source page
+- [Intermountain Health launch announcement (2023)](https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/) · https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/ — parent-system announcement; not used as evidence on this source page
 
 ## Maintainer Notes
 

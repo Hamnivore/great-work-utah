@@ -9,8 +9,8 @@
 **Primary Location:** Salt Lake City, UT; Porto, Portugal
 **Utah Location:** Salt Lake City, UT
 **Region:** Salt Lake City
-**Website:** https://swordhealth.com/
-**Careers:** https://jobs.lever.co/swordhealth
+**Website:** https://www.sword.com/
+**Careers:** https://swordhealth.com/company/careers
 **Domain:** health-bio
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-07-14

@@ -5,7 +5,7 @@
 **Confidence:** High
 **Source Type:** patent
 **Publisher:** U.S. Patent and Trademark Office
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **URL:** https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/1773980
 **Updated:** 2026-08-11
 

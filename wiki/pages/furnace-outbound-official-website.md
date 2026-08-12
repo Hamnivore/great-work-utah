@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260609171530/https://getfurnace.io/
 **Archived:** 2026-06-09
 **Publisher:** Furnace
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/furnace-outbound-official-website/2026-08-11-2ea132498c77.txt
 **Updated:** 2026-08-11
 

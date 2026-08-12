@@ -1,0 +1,23 @@
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Derek Carter — Infrastructure nut
+date: 2026-03-09T23:17:50.838Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1773098270838069
+
+We’ll hold this month’s CTO Breakfast this FRIDAY, March 13th. We’ll meet at IHOP in American Fork at 8am.
+As always, bring a friend and a topic to discuss!
+The next CTO Breakfast will be on April 10th (2nd Friday).
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Derek Carter — Infrastructure nut
+date: 2026-06-02T15:24:42.643Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1780413882643509
+
+We'll hold this month's CTO Breakfast this FRIDAY, June 5th. We'll meet at IHOP in American Fork at 8am.
+As always, bring a friend and a topic to discuss!
+The next CTO Breakfast will be on July 10th (Our Usual 2nd Friday).
+
+<https://ctobreakfast.com/communities/utah/|https://ctobreakfast.com/communities/utah/> 

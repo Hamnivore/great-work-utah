@@ -9,7 +9,7 @@
 **Archived:** 2026-06-06
 **Publisher:** Linda Hall Library (Kansas City, MO)
 **Raw:** raw/farnsworth-linda-hall-library/2026-08-11-42be8b015b9f.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 **Relates:** cites [Philo Farnsworth and Electronic Television](philo-farnsworth-television.md) · https://greatutah.work/pages/philo-farnsworth-television.md
 

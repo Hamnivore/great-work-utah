@@ -2,7 +2,7 @@
 
 **Type:** venture
 **Status:** Draft
-**Confidence:** High
+**Confidence:** Medium
 **Focus:** direct selling, multi-level marketing, nutritional supplements, personal care, network distribution, contract manufacturing
 **Domain:** health-bio, materials-mfg, culture-place
 **Stage:** Ecosystem / cluster
@@ -11,15 +11,16 @@
 **Region:** statewide
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-08-11
-**Pull:** *Utah consumers are 1.2% of the American direct-selling market; Utah companies supply more than 10% of it. No other state is this lopsided, and almost nobody outside the industry can name why.*
+**Pull:** *Utah consumers are 1.2% of the American direct-selling market; Utah companies supply more than 10% of it — an eightfold asymmetry that almost nobody outside the industry can explain.*
 
 ## Summary
 
 Utah is the production center of American direct selling. The
 [Kem C. Gardner Policy Institute](gardner-utah-direct-selling-analysis-2022.md) counted 91
-direct-selling companies and 66 dedicated suppliers headquartered in the state in 2020, employing
-17,487 people on payroll at wages 18.4% above the average for other Utah industries, with
-international sales of $6.3 billion that amounted to 71.7% of Utah's non-gold commodity exports.
+direct-selling companies and 66 dedicated suppliers headquartered in the state in 2020, with 11,678
+payroll jobs at the companies and 5,312 at the suppliers, at wages 18.4% above the average for other
+Utah industries. International sales of $6.3 billion from the ten companies that answered the study's
+survey amounted to 71.7% of Utah's non-gold commodity exports.
 
 The concentration is best stated as an asymmetry: Utah consumers accounted for
 [1.2% of U.S. direct-selling retail sales while Utah-headquartered companies supplied over 10.0% of it](gardner-utah-direct-selling-analysis-2022.md).
@@ -28,18 +29,22 @@ geographically tight — [55% of the state's 114 direct-selling establishments w
 which is why Provo and the Lehi–Pleasant Grove corridor, not Salt Lake City, are the center of
 gravity.
 
-The familiar names are private: [doTERRA](doterra-earnings-disclosure-2026.md) in Pleasant Grove and
-Young Living in Lehi were the two largest Utah employers in the industry in 2020, each above 1,500
-in-state jobs, ahead of the two public companies, [Nu Skin](nu-skin.md) in Provo and
-[USANA](usana.md) in Salt Lake City. Nu Skin, founded in 1984, is the ancestor firm and still the
-largest by revenue.
+The largest employers are private: [doTERRA and Young Living, both in Utah County, each provided more
+than 1,500 Utah jobs in 2020](gardner-utah-direct-selling-analysis-2022.md), ahead of
+[Nu Skin](nu-skin.md) in Provo and [USANA](usana.md) in Salt Lake City. doTERRA and Young Living
+disclose no audited financials, so nobody outside them can rank the cluster by sales — which means the
+two companies this wiki can read in detail are not the two biggest. The cluster is also older than its
+best-known firms: the earliest founding year in the Gardner Institute's table of large employers is
+**Nature's Sunshine, 1972**, twelve years before Nu Skin, and the table warns that some companies "had
+significant precursors before the founding year given."
 
-Both public companies are now shrinking. Nu Skin's revenue
+The two firms whose filings are ingested here are both shrinking. Nu Skin's revenue
 [fell 14% in 2025 to $1.49 billion, with Sales Leaders down 19%](nu-skin-10k-fy2025.md); USANA's core
 direct-selling segment [fell 6.9% to $793.3 million](usana-10k-fy2025.md), its consolidated growth
 coming entirely from an acquired direct-to-consumer vitamin brand. Whether that is two company
 stories or the leading edge of a cluster-wide contraction is the open question this page exists to
-frame.
+frame — and two more Utah-headquartered SEC registrants, **Nature's Sunshine** (NATR) and
+**LifeVantage** (LFVN), file the disclosures that would test it and have not been read here.
 
 ## Impact
 
@@ -69,23 +74,29 @@ industry does, it does at a scale that touches one in ten adults in the state.
 dates to 1972, Nu Skin to 1984, [21 companies with at least 100 Utah employees were founded between
 1972 and 2017](gardner-utah-direct-selling-analysis-2022.md) — and it reproduces itself through
 executives, compensation-plan designers, compliance staff and suppliers who move between firms. That
-is durable industrial capability. The durable harm is a claim-making machine that regulators have had
-to police for just as long: a
+is durable industrial capability. What has been just as durable is a claim-making machine regulators
+have had to police for the same fifty years: a
 [$1.5 million civil penalty and permanent injunction against Nu Skin in 1997](ftc-nu-skin-consent-decree-1997.md)
-for violating a 1994 FTC order on body-fat claims; a
-[corporate guilty plea by Young Living in 2017, with $625,000 in fines and $135,000 in restitution to
-Peru](us-v-young-living-lacey-act-docket-2017.md) under the Lacey and Endangered Species Acts; and in
-2020
+for violating a 1994 FTC order on body-fat claims — a penalty paid to the Treasury, in a decree that
+disclaims any finding of liability and awards no consumer redress; a
+[corporate guilty plea by Young Living in 2017](us-v-young-living-lacey-act-docket-2017.md) carrying a
+$500,000 fine to the Lacey Act Reward Account, $125,000 to the National Fish and Wildlife Foundation,
+and $135,000 in restitution to the Government of Peru, on
+[counts charged under the Lacey Act and the Endangered Species Act](us-v-young-living-misdemeanor-information-2017.md);
+and in 2020
 [FTC warning letters to ten multi-level marketers, three of them Utah companies](ftc-mlm-covid-warning-letters-2020.md),
-over distributor claims that products prevented COVID-19 and that the newly unemployed could replace
-their income.
+over claims — the FTC says made by the companies or their distributors — that products prevented
+COVID-19 and that the newly unemployed could replace their income. None of these establishes consumer
+loss; what they establish is repeated regulatory contact over the same conduct across three decades.
 
 **The counterfactual is the strongest argument for the cluster's significance.** These companies are
-not in Utah incidentally; the industry's compensation-plan expertise, its supplier base, its legal
-bar and its recruitable social networks are here in a density that exists nowhere else in the country,
-and firms keep being founded here rather than relocating in. Remove Utah from American direct selling
-and roughly a tenth of the sector has no obvious home. That is the definition of a cluster, and it is
-why the wiki treats this as one entity rather than a list of companies.
+not in Utah incidentally: firms keep being founded here rather than relocating in, and 21 of them
+reached at least 100 Utah employees. Remove Utah from American direct selling and, on the Gardner
+Institute's figures, roughly a tenth of the sector's national supply has no obvious home. The further
+claim often made — that the compensation-plan expertise, supplier base, legal bar and recruitable social
+networks exist in a density found nowhere else — is a comparative claim, and no source in this corpus
+measures another state's cluster to support it. The measured version is the 1.2%-versus-10% asymmetry,
+which is Utah data only.
 
 **Bet:** That a distribution network of independent sellers, aligned by commission rather than
 employment, can reach consumer demand ordinary retail cannot — and that the resulting business is
@@ -94,15 +105,20 @@ worth what the model costs the median participant, who earns nothing.
 ## Utah Context
 
 The industry is concentrated where the population is youngest and the social networks densest:
-[over 8,600 direct-selling jobs in Utah County — 73.8% of the counties' reported total — against more
-than 2,350 in Salt Lake County](gardner-utah-direct-selling-analysis-2022.md). doTERRA (Pleasant
-Grove), Young Living (Lehi), Modere (Springville), Tranont (Lehi), Nu Skin (Provo) and Xyngular all
-sit within about thirty minutes of one another; USANA in Salt Lake City is the main exception.
+[over 8,600 direct-selling jobs in Utah County — 73.8% of the 11,678 jobs at direct-selling companies
+statewide — against more than 2,350 in Salt Lake County](gardner-utah-direct-selling-analysis-2022.md).
+doTERRA (Pleasant
+Grove), [Modere (Springville)](ftc-warning-letter-modere-2020.md),
+[Tranont (Lehi)](ftc-warning-letter-tranont-2020.md), [Nu Skin (Provo)](nu-skin-10k-fy2025.md) and
+Young Living all sit within about thirty minutes of one another; [USANA](usana-10k-fy2025.md) in Salt
+Lake City is the main exception.
 
 Utah's legal boundary on the model is a criminal statute rather than a licensing regime:
 [Title 76, Chapter 17, Part 3](utah-pyramid-scheme-statute.md) makes conducting a pyramid scheme a
-third-degree felony and participating in one a class B misdemeanor, with enforcement resting on county
-and district attorneys rather than a state agency. The definition turns on whether compensation comes
+third-degree felony and participating in one a class B misdemeanor, giving the county or district
+attorney "primary responsibility" for criminal enforcement while routing the same conduct to civil
+enforcement under the Utah Consumer Sales Practices Act. The definition turns on whether compensation
+comes
 "primarily from the introduction of other persons" rather than from sales — and the statute's
 definition of compensation excludes payment on sales to *anyone* buying for personal use, drawing no
 distinction between an outside customer and a participant buying the product themselves. That is the
@@ -121,10 +137,12 @@ direct-selling conventions in Utah spent an estimated
 ## What They Need Now
 
 The cluster's contracting core and its industrial base point in different directions, and job-seekers
-should read them separately. Sales-force-facing employment at the two public companies is not
-growing: [Nu Skin's own board showed two Utah openings out of seventeen worldwide](nu-skin.md) when
-checked on 2026-08-11, both in physical security, and [USANA's ten openings](usana.md) were IT,
-finance, customer service and commercial roles. The durable demand sits in manufacturing, quality,
+should read them separately. Sales-force-facing employment at the two listed companies is not growing:
+when their own boards were read on 2026-08-11, [Nu Skin's](nu-skin.md) Utah listings were physical-security
+posts and the rest of the board was overwhelmingly outside the United States, while
+[USANA's](usana.md) were IT, finance, customer service and commercial roles. Neither board can be
+captured by this repository's fetcher, so those readings are dated observations rather than cited figures
+— see each company page. The durable demand sits in manufacturing, quality,
 regulatory and supply chain — at USANA's Salt Lake City plant, at Nu Skin's Rhyz facilities, and
 across the 66 supplier firms, which are the least visible and most transferable part of the cluster.
 
@@ -136,17 +154,20 @@ one — from tax data, or a representative survey of participants rather than of
 settle the central factual dispute about the largest export industry in the state.
 
 The corpus itself needs the rest of the cluster: fact pages for doTERRA, Young Living, Nature's
-Sunshine, LifeVantage and Modere, and capture of the four income-disclosure statements the Gardner
-report cites in its own footnote 32.
+Sunshine, LifeVantage and Modere, and capture of the remaining income-disclosure statements the Gardner
+report cites in its own footnote 32 — doTERRA's (2019), Young Living's (2020), Nu Skin's 2020 U.S. Brand
+Affiliate compensation summary and USANA's 2020 disclosure, of which only
+[doTERRA's current edition](doterra-earnings-disclosure-2026.md) is captured here.
 
 ## Open Questions
 
 - **Why Utah?** The standard explanations — dense congregational and family networks, high
   volunteer-organizing skill, young population, a founder lineage tracing back through Nu Skin — are
   plausible and, in this corpus, unsourced. Which of them survives contact with evidence?
-- Is the 2025 contraction cluster-wide? Two public companies are shrinking; the private majority
-  publishes nothing. Nature's Sunshine and LifeVantage are additional Utah-headquartered SEC
-  registrants whose filings would test this and have not been ingested.
+- Is the 2025 contraction cluster-wide? The two registrants read here are shrinking; the private
+  majority publishes nothing. Nature's Sunshine and LifeVantage are further Utah-headquartered SEC
+  registrants whose filings would test this and have not been ingested — so "Utah's public direct
+  sellers" in this corpus means two of at least four.
 - What do participants net, after expenses? No source here answers this. The available medians are
   pre-expense, company-selected, and inconsistent about whether people who earned nothing are counted.
 - How many of the 91 companies from 2020 still exist? The Gardner census is a single-year snapshot, and
@@ -181,8 +202,11 @@ report cites in its own footnote 32.
   [to Tranont](ftc-warning-letter-tranont-2020.md), and
   [to Modere](ftc-warning-letter-modere-2020.md) — the individual letters and the claims they quote.
 - [United States v. Young Living Essential Oils — Federal Criminal Docket (2017)](us-v-young-living-lacey-act-docket-2017.md)
-  — corporate guilty plea, $625,000 in fines and $135,000 in restitution under the Lacey and
-  Endangered Species Acts.
+  — corporate guilty plea, the $500,000 fine, $125,000 to the National Fish and Wildlife Foundation, and
+  $135,000 restitution to Peru.
+- [United States v. Young Living Essential Oils — Misdemeanor Information (2017)](us-v-young-living-misdemeanor-information-2017.md)
+  — the two counts, under the Endangered Species Act (CITES, spikenard) and the Lacey Act (Peruvian law),
+  and the conduct alleged.
 
 ## See Also
 

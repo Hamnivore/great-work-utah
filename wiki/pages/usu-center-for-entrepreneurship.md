@@ -9,7 +9,7 @@
 **Archived:** 2026-04-10
 **Publisher:** Utah State University Jon M. Huntsman School of Business
 **Raw:** raw/usu-center-for-entrepreneurship/2026-08-11-25f2966eb275.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

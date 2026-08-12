@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** antibiotics, antimicrobial resistance, Gram-negative bacteria, ribosome inhibitors, ESKAPE pathogens
+**Identifiers:** cik=0001978799, ein=87-2870760
 **Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Late preclinical → IND preparation (Phase 1); $40M+ raised
 **Primary Location:** Salt Lake City, UT
@@ -44,7 +45,7 @@ The core technical challenge is getting molecules across the Gram-negative doubl
 
 Likely needs include medicinal chemists, microbiologists, and structural biologists focused on ribosome biochemistry, plus regulatory and CMC support for IND preparation. The company operates in a grant-heavy, mission-driven environment — contributors motivated by antimicrobial-resistance and biodefense impact rather than typical VC pharma timelines tend to fit best.
 
-The available sources do not establish that a Phase 1 IND has been submitted; preclinical-to-clinical attrition for antibiotics remains high.
+No Phase 1 IND filing for CZ-02 appears in any primary record cited here; preclinical-to-clinical attrition for antibiotics remains high.
 
 ## Who Could Help
 
@@ -52,7 +53,7 @@ Useful helpers include CARB-X and other AMR-focused funders, DTRA and biodefense
 
 ## Utah Context
 
-Curza is a University of Utah spinout with original chemistry licensed from the university, headquartered in Salt Lake City. Its reported funding model includes NIH, DTRA, CARB-X, and the Novo Holdings REPAIR Fund, but captured primary records do not establish the total raised.
+Curza is a University of Utah spinout with original chemistry licensed from the university, headquartered in Salt Lake City. Its reported funding model includes NIH, DTRA, CARB-X, and the Novo Holdings REPAIR Fund; no total raised is stated here, because none of the captured sources give one.
 
 ## Evidence
 
@@ -61,7 +62,7 @@ Curza is a University of Utah spinout with original chemistry licensed from the 
 ## Open Questions
 
 - No agent-readable careers/jobs page found (curza.com/careers 404; linked “copy-of-careers” page is news, not openings).
-- Has Curza submitted a Phase 1 IND for CZ-02?
+- Has Curza submitted a Phase 1 IND for CZ-02? Nothing captured here shows one.
 - What preclinical efficacy and safety data are publicly available for CZ-02 against prioritized resistant Gram-negative strains?
 - What are the amount, term, and near-term clinical milestones of the reported DTRA and University of Florida collaboration?
 - What reimbursement or pull-incentive strategy does Curza plan if Phase 3 succeeds, given broken antibiotic commercialization economics?

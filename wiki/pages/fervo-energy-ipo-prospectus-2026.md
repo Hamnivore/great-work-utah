@@ -6,7 +6,7 @@
 **Source Type:** filing
 **URL:** https://www.sec.gov/Archives/edgar/data/1853868/000162828026034849/fervoenergy-424b4.htm
 **Publisher:** U.S. Securities and Exchange Commission (EDGAR)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Fervo Energy](fervo-energy.md) · https://greatutah.work/pages/fervo-energy.md · https://www.sec.gov/Archives/edgar/data/1853868/000162828026034849/fervoenergy-424b4.htm
 

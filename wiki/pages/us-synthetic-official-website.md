@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260706163831/https://ussynthetic.com/about-us/
 **Archived:** 2026-07-06
 **Publisher:** US Synthetic Corporation
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/us-synthetic-official-website/2026-08-11-dc7f18f5893e.txt
 **Updated:** 2026-08-11
 

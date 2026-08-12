@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** online charter school, open educational resources, Utah grades 7-12, digital learning
+**Identifiers:** ein=26-3417162
 **Primary Location:** West Jordan, UT
 **Utah Location:** West Jordan, UT
 **Region:** West Jordan
@@ -29,7 +30,7 @@ current about capture does not use that former name.
 
 ## Impact
 
-The first-in-the-nation claim — first U.S. public school to build entirely from openly licensed
+The lead's first-in-the-nation claim — first U.S. public school to build entirely from openly licensed
 materials and release courses under an open license — is **partially supported but not closed**:
 
 - **Supported:** A **2010 Creative Commons** post reports OHSU released **ten semesters** under **CC
@@ -41,7 +42,7 @@ materials and release courses under an open license — is **partially supported
   ([about page](mountain-heights-academy-official-about-page.md)).
 - **Not supported on current school page:** The 2026 about capture does **not** claim first-in-the-nation
   status or name the 2010 release.
-- **Not yet established:** Utah State Board of Education charter authorization documents could tie
+- **Not pulled here:** Utah State Board of Education charter authorization documents that would tie
   the legal charter to an OER-only mandate.
 
 **Bet:** that a charter school can treat openly licensed curriculum as infrastructure — compounding
@@ -79,7 +80,3 @@ Office: **(801) 721-6329**; address **9067 S 1300 W Suite 204, West Jordan, UT 8
 ## See Also
 
 - [Utah Valley University Innovation Center Academy](utah-valley-university-innovation-center-academy.md) · https://greatutah.work/pages/utah-valley-university-innovation-center-academy.md — another Utah education resource entry
-
-## Maintainer Notes
-
-- The first-in-the-nation wording originated in earlier lead material; retain it only as a qualified claim until a primary charter record closes the evidence gap.

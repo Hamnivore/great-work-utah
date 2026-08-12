@@ -9,7 +9,7 @@
 **Archived:** 2026-05-18
 **Publisher:** Thera-T Pharmaceutics
 **Raw:** raw/thera-t-pharmaceutics-official-website/2026-08-11-b6fdb713504f.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

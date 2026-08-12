@@ -17,17 +17,18 @@
 **Website:** https://www.nuskin.com/
 **Careers:** https://nuskin.wd5.myworkdayjobs.com/NuSkin
 **Domain:** health-bio, materials-mfg
-**Region:** Provo
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-08-11
 
 ## Summary
 
 Nu Skin Enterprises is a Provo-based personal-care and nutrition company that sells through a
-worldwide direct-selling force of independent Brand Affiliates. It is the largest publicly traded
-direct seller headquartered in Utah, the anchor of the state's
+worldwide direct-selling force of independent Brand Affiliates. It is the largest by revenue of the Utah
+direct sellers whose SEC filings this corpus carries, an anchor of the state's
 [direct-selling cluster](utah-direct-selling-industry.md), and — on the evidence of its own
-filings — a business in sustained contraction.
+filings — a business in sustained contraction. (Nature's Sunshine and LifeVantage are also
+Utah-headquartered registrants; neither has been read here, so treat "largest" as bounded by what has
+been ingested.)
 
 The [FY2025 Form 10-K](nu-skin-10k-fy2025.md) reports revenue of $1.49 billion, down 14% in a year
 and down roughly a quarter over two, with Customers down 10%, Paid Affiliates down 11% and Sales
@@ -37,15 +38,18 @@ not from operations.
 
 Alongside the core business Nu Skin runs **Rhyz**, a strategic investment arm formed in 2018 that now
 holds manufacturing and technology companies and generated $223.6 million, or 15% of 2025 reported
-revenue. Rhyz is where Nu Skin's Utah *industrial* footprint sits: manufacturing plants in Provo,
-Draper and West Valley City.
+revenue — a figure the filing states **excluding** Rhyz's sales to the core Nu Skin business, so it
+measures outside revenue rather than the segment's total activity. Rhyz is where Nu Skin's Utah
+*industrial* footprint sits: manufacturing plants in Provo, Draper and West Valley City.
 
 ## Impact
 
 Nu Skin's largest durable effect on Utah is structural rather than product-level. It proved, from
 Provo in the 1980s and 1990s, that a Utah company could build a global consumer-products distribution
-network, and the executives, capital and sales-force know-how it produced seeded much of what became
-the densest concentration of direct-selling companies in the United States. When the
+network. The claim usually made next — that the executives, capital and sales-force know-how it produced
+seeded the rest of the cluster — is the standard account and is not sourced in this corpus; the founder
+and executive genealogy nobody here has traced is exactly what would test it, and Nature's Sunshine
+predates Nu Skin in Utah by twelve years. When the
 [Gardner Institute](gardner-utah-direct-selling-analysis-2022.md) reports that Utah-headquartered
 companies supply over 10% of U.S. direct selling while Utah consumers account for 1.2% of its retail
 sales, Nu Skin is a large part of the reason that asymmetry exists.
@@ -54,9 +58,12 @@ The company also carries the cluster's clearest regulatory history. In 1997 the 
 obtained a [$1.5 million civil penalty and a permanent injunction](ftc-nu-skin-consent-decree-1997.md)
 against Nu Skin International in the District of Utah for violating a 1994 FTC order — the FTC
 alleged the company lacked required substantiation for body-fat and muscle claims made by it and its
-distributors. That is a specific, documented harm to consumers who bought on those claims, and it is
-the same structural problem the FTC named across the industry in [2020](ftc-mlm-covid-warning-letters-2020.md):
-claims travel through a sales force faster than a company monitors them.
+distributors. Be precise about what that establishes: the decree was entered "without adjudication of any
+issue of fact or law", the penalty went to the Treasury rather than to buyers, and no consumer redress was
+ordered — so it documents an unsubstantiated-claims violation of a standing order, not a measured harm to
+consumers. What it does show is the structural problem the FTC named across the industry again in
+[2020](ftc-mlm-covid-warning-letters-2020.md): claims travel through a sales force faster than a company
+monitors them, and the company is answerable for them either way.
 
 What the record does not support is either the promotional or the dismissive reading. Nu Skin is a
 real manufacturer and employer with in-house research and Utah plants; it is also a company whose
@@ -80,19 +87,24 @@ separately. The 129,311 Paid Affiliates who earned compensation in the fourth qu
 independent contractors, not employees, and the filing reports no distribution of what they earned.
 
 Nu Skin is the reason Provo, rather than Salt Lake City, is the center of gravity for Utah direct
-selling: doTERRA (Pleasant Grove), Young Living (Lehi), Modere (Springville), Tranont (Lehi) and
-others sit within a half-hour of its headquarters, drawing on the same pool of compensation-plan
+selling: doTERRA in Pleasant Grove, Modere in Springville, Tranont in Lehi, Young Living elsewhere in
+Utah County and others sit within a half-hour of its headquarters, drawing on the same pool of compensation-plan
 designers, compliance staff, distribution operators and sales leadership.
 
 ## What They Need Now
 
-**Current Utah demand is thin, and that is the finding.** Nu Skin's own Workday board carried 17 open
-positions worldwide when checked on 2026-08-11, of which two were in Utah — both physical-security
-roles at the Provo campus (a PRN security officer and a global security operations center operator).
-The rest were commercial, marketing and support roles across Asia, Europe, Latin America and
-Australia. A company shedding a fifth of its sales leaders in a year is not staffing up in its home
-market, and job-seekers should calibrate accordingly rather than reading the company's scale as
-hiring capacity.
+**Current Utah demand is thin, and that is the finding.** Read on 2026-08-11, Nu Skin's own Workday board
+listed only physical-security work in Utah — a PRN security officer and a global security operations
+center operator, both at the Provo campus — with the rest of a short worldwide board in commercial,
+marketing and support roles across Asia, Europe, Latin America and Australia. A company shedding a fifth
+of its sales leaders in a year is not staffing up in its home market, and job-seekers should calibrate
+accordingly rather than reading the company's scale as hiring capacity.
+
+That reading is a dated observation, not a cited figure, and this page deliberately states no counts from
+it. The board is a Workday instance that returns its listings only to a POST request, so this
+repository's fetcher cannot capture it and no snapshot exists to quote — and under this wiki's evidence
+rule, a figure that cannot be quoted from a captured source is not a figure to assert. Anyone who needs
+counts should query the board and say when they did.
 
 The durable Utah role families, when Nu Skin does hire, follow from the properties: product
 formulation and research at the Provo R&D center, manufacturing and quality operations at the Rhyz
@@ -111,13 +123,20 @@ board does not show.
 - Is the multi-year revenue decline a structural change in direct selling, a China-specific effect, or
   competition from affiliate and creator commerce — the channel Nu Skin was in when it owned Mavely
   and exited by selling it?
-- Does the Rhyz manufacturing business make Nu Skin's Utah footprint more durable than its sales
-  force, and how much of Rhyz's $223.6 million is third-party contract work versus internal supply?
+- Does the Rhyz manufacturing business make Nu Skin's Utah footprint more durable than its sales force?
+  The $223.6 million excludes sales to the core business by the filing's own terms, so the unanswered
+  question is the size of that internal supply — which would show how much of the Utah plants' output
+  depends on a shrinking sales force rather than on outside customers.
 - What became of the 1997 consent decree's obligations after the corporate reorganizations between Nu
   Skin International, Inc. and today's Nu Skin Enterprises, Inc.? The decree binds "successors and
   assigns," and no source traced here follows that thread.
-- Does the company still hold the founder-era Utah civic role — the Provo campus, the Nu Skin Force
-  for Good Foundation, Steven J. Lund's chairmanship — at anything like its former scale?
+- Does the company still hold the founder-era Utah civic role at anything like its former scale? The
+  Provo campus is documented in the 10-K, but the Nu Skin Force for Good Foundation and Steven J. Lund's
+  chairmanship are named here from general knowledge rather than from any source in this corpus, and both
+  need a document before this page asserts anything about them.
+- Did Nu Skin in fact seed the cluster? The spin-out account is repeated everywhere and sourced nowhere
+  here; a documented executive genealogy through Young Living (1993), USANA (1992), doTERRA (2008) and
+  the 2010s cohort would settle it, as would evidence about Nature's Sunshine, which predates Nu Skin.
 
 ## Evidence
 
@@ -131,8 +150,9 @@ board does not show.
   — the industry-wide pattern of distributor claims outrunning company monitoring.
 - [dōTERRA 2026 Opportunity and Earnings Disclosure Summary](doterra-earnings-disclosure-2026.md) —
   the nearest published comparison for what a Utah direct seller's sales force earns.
-- Nu Skin Workday careers board — the 2026-08-11 openings snapshot described above:
-  https://nuskin.wd5.myworkdayjobs.com/NuSkin
+- Nu Skin's Workday careers board is **not** listed as evidence, deliberately: it is a live pointer that
+  nothing here captures, and the openings described above rest on a dated reading rather than on a
+  document. The board itself is in `**Careers:**`.
 
 ## See Also
 

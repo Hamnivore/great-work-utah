@@ -9,7 +9,7 @@
 **Archived:** 2026-07-13
 **Publisher:** Utah Governor's Office of Economic Opportunity
 **Raw:** raw/goeo-regulatory-relief/2026-08-11-9a76faaad0a4.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

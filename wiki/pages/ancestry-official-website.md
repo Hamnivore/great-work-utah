@@ -9,7 +9,7 @@
 **Archived:** 2026-08-11
 **Publisher:** Ancestry
 **Raw:** raw/ancestry-official-website/2026-08-11-913d4c4f32e7.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 **Relates:** cites [Ancestry](ancestry.md) · https://greatutah.work/pages/ancestry.md
 

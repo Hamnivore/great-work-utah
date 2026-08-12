@@ -1,0 +1,13 @@
+{
+  "source_page": "cto-breakfast-utah-official-page.md",
+  "requested_url": "https://ctobreakfast.com/communities/utah/",
+  "final_url": "https://ctobreakfast.com/communities/utah/",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:40:55.697Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "fc7cd32b1ef1e1e445fb66a4f95ff52bd3949bde14495a243060593c6ef4545a",
+  "text_sha256": "7850193767f92238e1bb8612e93bb22da31a0c0d98a16544ed13815be47df2a7",
+  "text_chars": 1086,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

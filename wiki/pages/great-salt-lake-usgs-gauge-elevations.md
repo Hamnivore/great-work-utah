@@ -6,7 +6,7 @@
 **Source Type:** dataset
 **URL:** https://doi.org/10.5066/F7P55KJN
 **Publisher:** U.S. Geological Survey — National Water Information System (NWIS)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

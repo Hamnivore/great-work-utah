@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
+**Identifiers:** ein=81-1653005
 **Primary Location:** Utah
 **Utah Location:** statewide
 **Region:** statewide

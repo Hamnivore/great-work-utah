@@ -6,7 +6,7 @@
 **Source Type:** filing
 **URL:** https://www.sec.gov/Archives/edgar/data/1356792/000119312506063319/ds1.htm
 **Publisher:** U.S. Securities and Exchange Commission (CHG Healthcare Services, Inc.)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Published:** 2006-03-27
 **Updated:** 2026-08-11
 **Relates:** cites [CompHealth](comphealth.md) · https://greatutah.work/pages/comphealth.md · https://www.sec.gov/Archives/edgar/data/1356792/000119312506063319/ds1.htm

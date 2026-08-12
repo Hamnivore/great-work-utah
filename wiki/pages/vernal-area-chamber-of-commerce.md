@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
+**Identifiers:** ein=87-0215056
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
 **Region:** Vernal

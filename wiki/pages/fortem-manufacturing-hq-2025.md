@@ -9,7 +9,7 @@
 **Archived:** 2026-05-15
 **Publisher:** Fortem Technologies
 **Raw:** raw/fortem-manufacturing-hq-2025/2026-08-11-a178fbf7e77d.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-25
 
 ## Summary

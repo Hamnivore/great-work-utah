@@ -7,7 +7,7 @@
 **URL:** https://www.standard.net/news/business/2012/mar/09/iomega-still-around-in-roy-but-not-like-it-once-was/
 **Publisher:** Standard-Examiner (Ogden, UT)
 **Raw:** raw/iomega-standard-examiner-2012/2026-08-11-0122dee88948.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 **Relates:** cites [Iomega Zip Drive](iomega-zip-drive.md) · https://greatutah.work/pages/iomega-zip-drive.md
 

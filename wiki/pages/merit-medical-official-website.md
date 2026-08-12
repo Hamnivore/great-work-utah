@@ -9,7 +9,7 @@
 **Archived:** 2026-07-09
 **Publisher:** Merit Medical Systems
 **Raw:** raw/merit-medical-official-website/2026-08-11-486bb88355db.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

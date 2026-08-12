@@ -9,7 +9,7 @@
 **Archived:** 2026-08-11
 **Publisher:** National Center for Education Statistics (U.S. Department of Education)
 **Raw:** raw/nces-mountain-heights-academy-record/2026-08-11-687692845841.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Mountain Heights Academy](mountain-heights-academy.md) · https://greatutah.work/pages/mountain-heights-academy.md · https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?Search=1&ID=490013801285
 

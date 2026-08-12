@@ -9,7 +9,7 @@
 **Archived:** 2026-05-28
 **Publisher:** Utah Governor's Office of Economic Opportunity
 **Raw:** raw/startup-utah-official-site/2026-08-11-d852b7e64bfa.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

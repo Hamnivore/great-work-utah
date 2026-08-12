@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260811224124/https://globusrelief.org/about
 **Archived:** 2026-08-11
 **Publisher:** Globus Relief / Globous Relief Fund
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/globus-relief-official-website/2026-08-11-da6a42854513.txt
 **Updated:** 2026-08-11
 

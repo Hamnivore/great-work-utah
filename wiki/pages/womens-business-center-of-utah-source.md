@@ -9,7 +9,7 @@
 **Archived:** 2026-08-04
 **Publisher:** Women's Business Center of Utah
 **Raw:** raw/womens-business-center-of-utah-source/2026-08-11-5e44d39b473e.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

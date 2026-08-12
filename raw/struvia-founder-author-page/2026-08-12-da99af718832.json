@@ -1,0 +1,13 @@
+{
+  "source_page": "struvia-founder-author-page.md",
+  "requested_url": "https://struvia.co/authors/baylor-jeppsen",
+  "final_url": "https://struvia.co/authors/baylor-jeppsen",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T01:02:47.576Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "a3304804718abfd7c6b7110fa157bd9d0e49ab38260bd4b5aebec44e8af85192",
+  "text_sha256": "da99af7188327e75fe34ca96cacf232006c64d69fee1f7f72b56fa69e1263b72",
+  "text_chars": 9721,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

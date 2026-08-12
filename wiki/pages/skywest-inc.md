@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** regional airline, aviation, aircraft leasing, air transportation, commercial aviation
+**Identifiers:** cik=0000793733, ein=87-0292166
 **Roles:** manufacturing-operations, clinical-regulatory, field-skilled-trades
 **Ownership:** public
 **Domain:** aerospace-defense

@@ -10,7 +10,7 @@
 **Publisher:** Creative Commons
 **Published:** 2010-09-07
 **Raw:** raw/creative-commons-open-high-school-curriculum-2010/2026-08-11-f3fdf9593513.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Mountain Heights Academy](mountain-heights-academy.md) · https://greatutah.work/pages/mountain-heights-academy.md · https://creativecommons.org/2010/09/07/the-open-high-school-of-utah-releases-open-educational-curriculum-under-cc-by/
 

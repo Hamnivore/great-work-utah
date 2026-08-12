@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://utahn.com/why-im-building-utahn/
 **Publisher:** Utahn, LLC
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/utahn-why-im-building-utahn-essay/2026-08-11-9233610066bf.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Utahn](utahn.md) · https://greatutah.work/pages/utahn.md · https://utahn.com/why-im-building-utahn/

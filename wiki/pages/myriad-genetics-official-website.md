@@ -9,7 +9,7 @@
 **Archived:** 2026-07-24
 **Publisher:** Myriad Genetics
 **Raw:** raw/myriad-genetics-official-website/2026-08-11-8abc642a25b5.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Myriad Genetics](myriad-genetics.md) · https://greatutah.work/pages/myriad-genetics.md · https://www.myriad.com/
 

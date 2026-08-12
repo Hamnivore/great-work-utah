@@ -7,7 +7,7 @@
 **URL:** https://www.qualtrics.com/news/qualtrics-appoints-jason-maynard-ceo/
 **Publisher:** Qualtrics
 **Raw:** raw/ryan-smith-qualtrics-bio/2026-08-11-c87c700d2000.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

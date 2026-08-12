@@ -12,7 +12,7 @@
 **Coordinates:** 39.5957889, -110.8362394
 **Location Precision:** exact
 **Location Source:** https://serda.utah.gov/contact
-**Website:** https://seualg.utah.gov/index.php/economic-development/revolving-loan-fund-rlf/
+**Website:** https://serda.utah.gov/
 **Updated:** 2026-08-11
 
 ## Summary

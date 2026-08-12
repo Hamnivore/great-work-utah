@@ -9,7 +9,7 @@
 **Archived:** 2026-08-05
 **Publisher:** Utah Governor's Office of Economic Opportunity
 **Raw:** raw/goeo-international-trade-diplomacy/2026-08-11-7b85c9af6ffb.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-05-09
 
 ## Summary

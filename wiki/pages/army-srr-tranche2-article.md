@@ -9,7 +9,7 @@
 **Archived:** 2026-01-23
 **Publisher:** U.S. Army
 **Raw:** raw/army-srr-tranche2-article/2026-08-11-3c81fbdb39e1.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

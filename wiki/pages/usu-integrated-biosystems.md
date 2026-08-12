@@ -9,11 +9,11 @@
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
 **Region:** Logan
-**Website:** https://cib.usu.edu
+**Website:** https://qanr.usu.edu/biosystems
 **Updated:** 2026-06-19
 **Needs-reviewed:** 2026-06-19
 **Pull:** *Utah State's genomics and bioinformatics core — the land-grant infrastructure doing the ongoing, mostly-unsung work of improving crops and livestock for an arid-land ag region.*
-**Relates:** cites [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md) · https://greatutah.work/pages/usu-integrated-biosystems-official-website.md · https://cib.usu.edu
+**Relates:** cites [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md) · https://greatutah.work/pages/usu-integrated-biosystems-official-website.md · https://qanr.usu.edu/biosystems
 
 ## Summary
 
@@ -51,7 +51,7 @@ USU's land-grant mission aligns well with Utah's agricultural profile: the state
 
 ## Evidence
 
-- [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md) · https://greatutah.work/pages/usu-integrated-biosystems-official-website.md · https://cib.usu.edu
+- [Official Website: USU Center for Integrated BioSystems](usu-integrated-biosystems-official-website.md) · https://greatutah.work/pages/usu-integrated-biosystems-official-website.md · https://qanr.usu.edu/biosystems
 
 ## See Also
 

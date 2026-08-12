@@ -9,7 +9,7 @@
 **Archived:** 2026-08-09
 **Publisher:** Splunk, a Cisco company
 **Raw:** raw/splunk-official-website/2026-08-11-c990bd1aaf54.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-07-11
 
 ## Summary

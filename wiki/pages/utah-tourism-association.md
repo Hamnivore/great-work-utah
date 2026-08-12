@@ -48,4 +48,8 @@ Weaker fit for pre-revenue tech founders or companies outside hospitality/recrea
 ## Open Questions
 
 - What are current membership tiers and benefits?
-- Which UTIA legislative priorities should be tracked on a separate source page?
+- Which UTIA legislative priorities are current, specific, and publicly documented?
+
+## Maintainer Notes
+
+- Create separate source pages for load-bearing UTIA legislative-priority documents used elsewhere in the corpus.

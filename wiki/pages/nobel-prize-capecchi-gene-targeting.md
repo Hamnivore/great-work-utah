@@ -9,7 +9,7 @@
 **Archived:** 2026-04-26
 **Publisher:** Nobel Prize Outreach / The Nobel Assembly at Karolinska Institutet
 **Raw:** raw/nobel-prize-capecchi-gene-targeting/2026-08-11-433f95fcd0e4.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-18
 
 ## Summary

@@ -5,7 +5,7 @@
 **Confidence:** Medium
 **Source Type:** peer-reviewed
 **Publisher:** Journal of Electroanalytical Chemistry and Interfacial Electrochemistry (Elsevier)
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **URL:** https://doi.org/10.1016/0022-0728(89)80006-3
 **Updated:** 2026-08-11
 

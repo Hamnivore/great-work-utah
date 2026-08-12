@@ -9,7 +9,7 @@
 **Archived:** 2026-05-14
 **Publisher:** U.S. Geological Survey, Utah Water Science Center
 **Raw:** raw/great-salt-lake-usgs/2026-08-11-79605dbbb6c5.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary
@@ -43,7 +43,7 @@ The USGS Utah Water Science Center maintains ongoing monitoring and scientific d
 
 ## Reliability Notes
 
-USGS is an independent federal science agency with no regulatory or commercial stake in Great Salt Lake outcomes. This capture is the Utah Water Science Center hub page with truncated study summaries, not the full monitoring datasets or linked publications. Specific lake-level, area-loss, diversion, salinity-threshold, and sediment-contaminant figures previously recorded on this page are not present in this capture and need separate USGS data releases or study pages.
+USGS is an independent federal science agency with no regulatory or commercial stake in Great Salt Lake outcomes. This capture is the Utah Water Science Center hub page with truncated study summaries, not the full monitoring datasets or linked publications. It does not establish specific lake-level, area-loss, diversion, salinity-threshold, or sediment-contaminant figures; those require separate USGS data releases or study pages.
 
 ## Related Pages
 

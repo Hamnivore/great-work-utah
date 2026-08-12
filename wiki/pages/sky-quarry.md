@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen recovery
+**Identifiers:** cik=0001812447, ein=84-1803091
 **Roles:** manufacturing-operations, clinical-regulatory, marketing-communications, legal-policy
 **Stage:** Public (NASDAQ: SKYQ); commercializing
 **Primary Location:** Woods Cross, UT

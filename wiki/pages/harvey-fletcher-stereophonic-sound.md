@@ -74,7 +74,7 @@ Fletcher's Utah claim is strong but should be stated carefully. He was born in P
 
 ## Open Questions
 
-- The Millikan oil-drop credit dispute is genuinely unresolved; this page should keep describing it as contested rather than asserting how much of the work was Fletcher's.
+- What primary records can clarify the genuinely unresolved Millikan oil-drop credit dispute without overstating Fletcher's contribution?
 - Confirm the precise dates and venues of the 1931-1932 recording sessions versus the April 1933 public demonstration before stating any single "first" claim definitively.
 
 ## Maintainer Notes

@@ -9,7 +9,7 @@
 **Archived:** 2026-05-17
 **Publisher:** Husqvarna Group
 **Raw:** raw/husqvarna-orbit-acquisition-press-2021/2026-08-11-84adbdbe0173.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

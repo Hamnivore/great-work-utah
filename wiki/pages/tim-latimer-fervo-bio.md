@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://www.fervo.com/about
 **Publisher:** Fervo Energy
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

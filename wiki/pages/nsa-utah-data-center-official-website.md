@@ -9,7 +9,7 @@
 **Archived:** 2026-07-22
 **Publisher:** Wikipedia contributors (Wikimedia Foundation)
 **Raw:** raw/nsa-utah-data-center-official-website/2026-08-11-db457f91b178.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

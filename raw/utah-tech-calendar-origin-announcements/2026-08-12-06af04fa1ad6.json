@@ -1,0 +1,27 @@
+{
+  "source_page": "utah-tech-calendar-origin-announcements.md",
+  "origin": "authenticated scraper capture (public channels only; DMs are never collected)",
+  "scraper_data": "authenticated Slack export supplied at capture time",
+  "messages": [
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1781099671909789",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Benjamin Reece",
+      "date": "2026-06-10T13:54:31.909Z",
+      "ts": "1781099671.909789"
+    },
+    {
+      "permalink": "https://forgeutah.slack.com/archives/CHNQPPQKB/p1781113743485359?thread_ts=1781099671.909789&cid=CHNQPPQKB",
+      "workspace": "forgeutah",
+      "channel": "localevents",
+      "author": "Clint Berry",
+      "date": "2026-06-10T17:49:03.485Z",
+      "ts": "1781113743.485359"
+    }
+  ],
+  "captured_at": "2026-08-12T00:41:39.699Z",
+  "text_sha256": "06af04fa1ad64ca8af370a70a51781f9a0ba500b3b5a5502b58443b9ce72b7ad",
+  "text_chars": 972,
+  "extractor": "scripts/capture-slack-sources.mjs"
+}

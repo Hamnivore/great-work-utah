@@ -9,7 +9,7 @@
 **Archived:** 2026-05-10
 **Publisher:** Journal on the Art of Record Production — Simon Barber, November 2012 (ISSN 1754-9892)
 **Raw:** raw/soundstream-digital-recording-sources/2026-08-11-59d53cb103b6.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

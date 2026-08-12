@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.sbir.gov/portfolio/1239331
 **Publisher:** U.S. Small Business Administration
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

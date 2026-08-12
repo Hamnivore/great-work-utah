@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20260714184055/https://www.digicert.com/about
 **Archived:** 2026-07-14
 **Publisher:** DigiCert, Inc.
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/digicert-official-website/2026-08-11-414b1272a47e.txt
 **Updated:** 2026-08-11
 **Relates:** cites [DigiCert](digicert.md) · https://greatutah.work/pages/digicert.md · https://www.digicert.com/about

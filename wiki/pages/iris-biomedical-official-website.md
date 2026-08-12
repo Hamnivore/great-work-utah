@@ -8,7 +8,7 @@
 **Archive:** https://web.archive.org/web/20250612153142/https://irismeddesign.com/about-us/
 **Archived:** 2025-06-12
 **Publisher:** Iris Biomedical
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/iris-biomedical-official-website/2026-08-11-1e64cd0058e6.txt
 **Updated:** 2026-06-19
 

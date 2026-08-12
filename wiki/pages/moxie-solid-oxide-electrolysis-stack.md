@@ -13,12 +13,12 @@
 **Map Location:** OxEon Energy MOXIE development site, 257 River Bend Way, Suite 300, North Salt Lake, UT 84054
 **Coordinates:** 40.8375993, -111.9441225
 **Location Precision:** exact
-**Location Source:** https://oxeonenergy.com/sites/default/files/docs/OxEonEnergy-FTSystem_Rev1.pdf
+**Location Source:** https://www.google.com/maps/search/?api=1&query=OxEon+Energy+257+River+Bend+Way+Suite+300+North+Salt+Lake+UT+84054
 **Website:** https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission
 **Pull:** *OxEon Energy in North Salt Lake built the electrochemical core that made oxygen on Mars for the first time in human history.*
 **Relates:** cites [NASA: MOXIE Completes Mars Mission](nasa-moxie-completes-mission.md) · https://greatutah.work/pages/nasa-moxie-completes-mission.md · https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission
 **Relates:** cites [Science Advances: MOXIE Paper](science-advances-moxie.md) · https://greatutah.work/pages/science-advances-moxie.md · https://doi.org/10.1126/sciadv.abp8636
-**Relates:** cites [OxEon Energy: MOXIE Program](oxeon-moxie-program.md) · https://greatutah.work/pages/oxeon-moxie-program.md · https://oxeonenergy.com/moxie
+**Relates:** cites [OxEon Energy: MOXIE Program](oxeon-moxie-program.md) · https://greatutah.work/pages/oxeon-moxie-program.md · https://www.oxeonenergy.com/news
 
 ## Summary
 
@@ -51,7 +51,7 @@ OxEon grew from the solid oxide fuel-cell and electrolysis research community th
 - [Science Advances: Mars Oxygen ISRU Experiment (MOXIE)](https://doi.org/10.1126/sciadv.abp8636) · https://doi.org/10.1126/sciadv.abp8636 — [source record](science-advances-moxie.md) · https://greatutah.work/pages/science-advances-moxie.md
 - [MIT News: MOXIE reliably produces oxygen on Mars](https://news.mit.edu/2022/moxie-oxygen-mars-0831) · https://news.mit.edu/2022/moxie-oxygen-mars-0831
 - [OxEon Energy: MOXIE makes oxygen on Mars](https://oxeonenergy.com/news/MOXIE-Makes-Oxygen-on-Mars) · https://oxeonenergy.com/news/MOXIE-Makes-Oxygen-on-Mars
-- [OxEon Energy: MOXIE program](https://oxeonenergy.com/moxie) · https://oxeonenergy.com/moxie — [source record](oxeon-moxie-program.md) · https://greatutah.work/pages/oxeon-moxie-program.md
+- [OxEon Energy news: MOXIE program](https://www.oxeonenergy.com/news) · https://www.oxeonenergy.com/news — [source record](oxeon-moxie-program.md) · https://greatutah.work/pages/oxeon-moxie-program.md
 - [DOE NETL: OxEon solid oxide electrolysis project](https://netl.doe.gov/index.php/node/10875) · https://netl.doe.gov/index.php/node/10875
 
 ## Open Questions

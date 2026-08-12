@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** synthetic diamond, polycrystalline diamond cutters, high-pressure high-temperature synthesis, drilling tools, diamond bearings
+**Identifiers:** cik=0001757974, ein=87-0342600
 **Roles:** manufacturing-operations, hardware-engineering, physical-sciences, field-skilled-trades
 **Stage:** Established manufacturer, founded 1978; ChampionX agreed in February 2025 to sell it in full to LongRange Capital, a private equity firm, conditional on SLB's acquisition of ChampionX closing — see Open Questions on what remains unconfirmed
 **Primary Location:** Orem, UT

@@ -7,7 +7,7 @@
 **URL:** https://projects.propublica.org/nonprofits/api/v2/organizations/742494806.json
 **Publisher:** ProPublica Nonprofit Explorer (republishing IRS Form 990 data)
 **Raw:** raw/choice-humanitarian-form-990-record/2026-08-11-c73a536411f6.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [CHOICE Humanitarian](choice-humanitarian.md) · https://greatutah.work/pages/choice-humanitarian.md · https://projects.propublica.org/nonprofits/organizations/742494806
 

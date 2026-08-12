@@ -7,7 +7,7 @@
 **URL:** https://projects.propublica.org/nonprofits/api/v2/organizations/870530362.json
 **Publisher:** ProPublica Nonprofit Explorer (republishing IRS Form 990 data)
 **Raw:** raw/btac-form-990-record/2026-08-11-f65336abf0a2.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 **Relates:** cites [Business Technical Assistance Center](business-technical-assistance-center.md) · https://greatutah.work/pages/business-technical-assistance-center.md · https://projects.propublica.org/nonprofits/organizations/870530362
 

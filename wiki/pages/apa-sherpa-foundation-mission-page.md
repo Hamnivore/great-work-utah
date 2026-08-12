@@ -6,7 +6,7 @@
 **Source Type:** official-page
 **URL:** https://www.apasherpafoundation.org/who-we-are/our-mission/
 **Publisher:** Apa Sherpa Foundation
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/apa-sherpa-foundation-mission-page/2026-08-11-55835b16a9bf.txt
 **Updated:** 2026-08-11
 **Relates:** cites [Apa Sherpa Foundation](apa-sherpa-foundation.md) · https://greatutah.work/pages/apa-sherpa-foundation.md · https://www.apasherpafoundation.org/our-mission

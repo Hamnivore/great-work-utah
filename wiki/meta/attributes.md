@@ -109,6 +109,19 @@ no key, because every later harvest inherits it. When resolution fails, record n
 `## Open Questions` — P3. Identifiers are for organizations and public researchers; never record a
 key that identifies a private individual's household or a private address.
 
+**How much the place has to match depends on the registry**, and the first corpus-wide resolution
+run settled it in both directions. For `ein`, place is required: IRS exempt-organization names are
+regional by construction and collide across states, so a flawless name match found a Davis Chamber
+of Commerce in Oklahoma, a Carbon County economic development office in Wyoming, and an unrelated
+Michigan charity called Ancestry. For `cik` the same requirement would be wrong — Fervo files from
+Houston and drills in Beaver County, Northrop's Promontory plant answers to Virginia — and a CIK is
+unique to a registrant, so an exact name match is already decisive. Two further traps: a near-match
+is not a match when the extra word names a different legal entity (`Cotopaxi Foundation` is not
+Cotopaxi, and a foundation's finances are not the company's), and **prefer the entity's own
+registrant over its parent's** — a subsidiary carrying the acquirer's CIK hands a harvester the
+parent's consolidated financials (see `blue-raven-solar.md`). `scripts/resolve-identifiers.mjs`
+enforces all of this; `--audit` is what keeps it honest.
+
 ## Source Type and tiers
 
 The vocabulary is closed, and each value carries a **tier** that says what kind of trust it can

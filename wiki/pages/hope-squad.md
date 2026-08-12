@@ -69,9 +69,7 @@ FY ending **Dec. 2025**: revenue **$357,456** (mostly **program services**), exp
 ([Form 990 record](hope-4-utah-form-990-record.md)) — a small Utah nonprofit whose earned income
 suggests training/licensing fees, not a volunteer-only club.
 
-**Gregory Hudnall** is covered here rather than on a separate person page: he is the founder and
-director, but P2 precedent 2 does not yet require a biography — no second wiki page independently
-needs to link to him, and the live operational node is the organization.
+**Gregory Hudnall** is the organization's founder and director.
 
 ## Utah Context
 
@@ -93,8 +91,6 @@ pages imply ongoing needs in **program delivery**, **school outreach**, **resear
 - **Hudnall compensation** shows **$0** on the ProPublica extract for Dec. 2025 — may reflect
   reporting classification, not absence of pay.
 - **Best of State medal not asserted** in this shard.
-- **Separate Gregory Hudnall person page** deferred per P2 precedent 2 unless another page needs the
-  link.
 
 ## Evidence
 
@@ -102,3 +98,7 @@ pages imply ongoing needs in **program delivery**, **school outreach**, **resear
 - [Source: Hope Squad — Mission & Story Page](hope-squad-mission-history.md) · https://greatutah.work/pages/hope-squad-mission-history.md · https://hopesquad.com/mission-history
 - [Source: Hope Squad — Research Page](hope-squad-research-page.md) · https://greatutah.work/pages/hope-squad-research-page.md · https://hopesquad.com/research
 - [Source: IRS Form 990 Record — Hope 4 Utah](hope-4-utah-form-990-record.md) · https://greatutah.work/pages/hope-4-utah-form-990-record.md · https://projects.propublica.org/nonprofits/organizations/900969731
+
+## Maintainer Notes
+
+- Defer a Gregory Hudnall person page under P2 precedent 2 unless another page independently needs to link to him.

@@ -1,0 +1,19 @@
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Benjamin Reece
+date: 2026-06-10T13:54:31.909Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1781099671909789
+
+Utah Dev events has been amazing for me, but there were many sources missing and features I needed.
+
+If you are looking to get involved in the tech and tech-adjacent scene &amp; connect with some people, I put <https://utahtechcalendar.com|this> together so you could stay in the loop. If I'm missing any sources, let me know!
+
+----
+
+workspace: Forge Utah (forgeutah)
+channel: #localevents
+author: Clint Berry — President of Forge Utah Foundation
+date: 2026-06-10T17:49:03.485Z
+permalink: https://forgeutah.slack.com/archives/CHNQPPQKB/p1781113743485359?thread_ts=1781099671.909789&cid=CHNQPPQKB
+
+I almost bought <http://utahtechcalendar.com|utahtechcalendar.com> too, but when you google utah tech calendar, it comes up with Utah Tech University calendar. So I went with "dev" instead

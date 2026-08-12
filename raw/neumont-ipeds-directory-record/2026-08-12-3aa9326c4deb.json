@@ -1,0 +1,13 @@
+{
+  "source_page": "neumont-ipeds-directory-record.md",
+  "requested_url": "https://nces.ed.gov/collegenavigator/?id=445692",
+  "final_url": "https://nces.ed.gov/collegenavigator/?id=445692",
+  "via_archive": false,
+  "fetched_at": "2026-08-12T00:41:10.343Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes_sha256": "53f7914f03ab490b5f767bfe21e7b0e8d62c044bb6f5c2e0a892281b5ed3b3ac",
+  "text_sha256": "3aa9326c4debeb348296564de6059866fc234b22ebf6ce5b19dcd405ec758079",
+  "text_chars": 24542,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

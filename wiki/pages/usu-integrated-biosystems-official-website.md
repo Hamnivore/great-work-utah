@@ -7,7 +7,7 @@
 **URL:** https://qanr.usu.edu/biosystems/about
 **Publisher:** Utah State University
 **Raw:** raw/usu-integrated-biosystems-official-website/2026-08-11-d4741a5a2362.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary

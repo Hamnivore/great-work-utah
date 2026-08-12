@@ -7,7 +7,7 @@
 **Primary Location:** unknown
 **Utah Location:** statewide
 **Region:** statewide
-**Website:** https://www.acceler8wasatch.com/
+**Website:** https://www.ogdencity.gov/DocumentCenter/View/33983/2025-Final-Acceler8-Wasatch-2025-Press-Release-May-8
 **Updated:** 2026-08-11
 
 ## Summary
@@ -26,9 +26,9 @@ Per the Startup State listing: ecosystem-building support for innovation and ent
 
 ## How To Use It
 
-Start with the official website, then confirm current programs before recommending.
+Start with Ogden City's current program record, then confirm current events before recommending.
 
-- [Official website](https://www.acceler8wasatch.com/) · https://www.acceler8wasatch.com/
+- [Ogden City: Acceler8 Wasatch 2025](https://www.ogdencity.gov/DocumentCenter/View/33983/2025-Final-Acceler8-Wasatch-2025-Press-Release-May-8) · https://www.ogdencity.gov/DocumentCenter/View/33983/2025-Final-Acceler8-Wasatch-2025-Press-Release-May-8
 - Email: [info@uammi.org](mailto:info@uammi.org)
 - Startup State listing: https://startup.utah.gov/business-resource/acceler8-wasatch/
 
@@ -45,6 +45,8 @@ Potentially aerospace/defense and hard-tech founders seeking northern Utah ecosy
 ## Evidence
 
 - Wayback snapshot: https://web.archive.org/web/20241216133901/https://www.acceler8wasatch.com/
+
+- [Ogden City: Acceler8 Wasatch 2025](https://www.ogdencity.gov/DocumentCenter/View/33983/2025-Final-Acceler8-Wasatch-2025-Press-Release-May-8) · https://www.ogdencity.gov/DocumentCenter/View/33983/2025-Final-Acceler8-Wasatch-2025-Press-Release-May-8
 
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 

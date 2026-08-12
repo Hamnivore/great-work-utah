@@ -9,7 +9,7 @@
 **Archived:** 2026-08-09
 **Publisher:** NASA
 **Raw:** raw/nasa-moxie-completes-mission/2026-08-11-16e8b71a8632.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary

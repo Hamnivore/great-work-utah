@@ -12,7 +12,7 @@
 **Coordinates:** 38.7760654, -112.0833003
 **Location Precision:** exact
 **Location Source:** https://r6.utah.gov/contact/
-**Website:** https://r6.utah.gov/edd-board-economic-development-district-board/revolving-loan-fund-rlf/
+**Website:** https://r6.utah.gov/
 **Updated:** 2026-08-11
 
 ## Summary

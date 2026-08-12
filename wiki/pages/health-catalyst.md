@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Focus:** healthcare data analytics, population health, value-based care, clinical data integration
+**Identifiers:** cik=0001636422, ein=45-3337483
 **Roles:** data-science, product-design, sales-business-development, program-project-management
 **Stage:** Public (NASDAQ: HCAT); founded 2008; Salt Lake City HQ
 **Primary Location:** Salt Lake City, UT
@@ -12,7 +13,7 @@
 **Map Location:** Health Catalyst headquarters, 3165 E Millrock Drive, Suite 400, Salt Lake City, UT 84121
 **Coordinates:** 40.6336242, -111.8020328
 **Location Precision:** exact
-**Location Source:** https://ir.healthcatalyst.com/static-files/df3c1cda-c41b-4490-885a-3c8e09216361
+**Location Source:** https://www.sec.gov/Archives/edgar/data/1636422/000162828026013496/0001628280-26-013496-index.htm
 **Careers:** https://www.healthcatalyst.com/who-we-are/careers
 **Domain:** health-bio
 **Updated:** 2026-07-14

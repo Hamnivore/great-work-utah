@@ -6,7 +6,7 @@
 **Source Type:** government-record
 **URL:** https://www.boxeldercountyut.gov/DocumentCenter/View/2144/DEQ-Letter-Box-Elder-County-Letter
 **Publisher:** Utah Department of Environmental Quality
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Raw:** raw/stratos-utah-deq-permitting-letter/2026-08-11-31b654b39800.txt
 **Updated:** 2026-08-11
 

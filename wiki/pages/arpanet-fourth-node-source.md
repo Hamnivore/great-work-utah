@@ -9,7 +9,7 @@
 **Archived:** 2026-05-15
 **Publisher:** University Information Technology, University of Utah
 **Raw:** raw/arpanet-fourth-node-source/2026-08-11-0b2d1aee3db1.txt
-**Retrieved:** 2026-08-11
+**Retrieved:** 2026-08-12
 **Updated:** 2026-08-11
 
 ## Summary
@@ -33,11 +33,14 @@ The University of Utah UIT "Node 4" article explains the name of the university'
 
 ## Reliability Notes
 
-This is an official University of Utah article and is good evidence for the institution's own public framing of the Node 4 claim. It should be strengthened with primary ARPA, BBN, UCLA/SRI/UCSB/Utah network maps, or archival documents before the work page is promoted beyond Draft.
-
-Typed `reference` rather than `press-release`, corrected 2026-08-11. It is a 2017 explainer about where the department's news channel got its name, recounting events of 1969 — a history essay, which `attributes.md` places at the secondary tier alongside an agency's own history writing. `press-release` claimed it was an announcement the university issued about something it was doing, which would have made a retrospective look like a contemporaneous record of the node going live. The distinction matters most on exactly this kind of page, where the events described are half a century older than the document describing them.
+This is an official University of Utah history article and is good evidence for the institution's own public framing of the Node 4 claim. It is a retrospective secondary source, not a contemporaneous record of the node going live; primary ARPA, BBN, or participating-university archival documents would carry the historical claim more strongly.
 
 ## Related Pages
 
 - [University of Utah ARPANET Fourth Node](arpanet-fourth-node.md)
 - [University of Utah Computer Graphics Program](utah-computer-graphics-program.md)
+
+## Maintainer Notes
+
+- Add primary ARPA, BBN, UCLA, SRI, UCSB, or Utah network maps or archival documents before promoting the work page beyond Draft.
+- The page was corrected from `press-release` to `reference` on 2026-08-11 because it is a retrospective history essay rather than a contemporary announcement.

@@ -1,31 +1,29 @@
-# Official Website: Renaissance Ag
+# Renaissance Ag LinkedIn Company Profile
 
 **Type:** source
 **Status:** Useful
 **Confidence:** Low
-**Source Type:** official-page
-**URL:** https://www.renaissance-ag.com
-**Publisher:** Renaissance Ag
+**Source Type:** reference
+**URL:** https://www.linkedin.com/company/renaissance-ag
+**Publisher:** LinkedIn
+**Retrieved:** 2026-08-12
 **Updated:** 2026-06-19
 
 ## Summary
 
-Renaissance Ag's official website describes the PastureBox system — a fully automated hydroponic shipping-container unit producing sprouted-grain livestock feed at roughly 2,000 lbs/day on less than 10% of the water conventional pasture requires. The site presents the product, its water-savings claims, and contact/sales information for potential customers.
+Renaissance Ag's company-controlled LinkedIn profile identifies it as a Vineyard, Utah provider of vertical-farm systems for year-round livestock feed production. It lists the company's website as `https://renaissanceag.com/`, which was unavailable during verification on 2026-08-11.
 
-Note: the legacy source flagged the URL as needing verification ("verify URL"). The URL https://www.renaissance-ag.com should be confirmed as the correct current domain — there are other companies operating under the "Renaissance Ag" name in different contexts.
+The previously recorded `https://www.renaissance-ag.com` was an unsupported, incorrect domain. The similarly named `renaissance.ag` belongs to an unrelated German property company.
 
 ## Useful Claims
 
-- The site describes the PastureBox as a turnkey, automated hydroponic sprouting system in a 40-foot container format producing fresh sprouted grain feed.
-- Water reduction vs. conventional alfalfa irrigation or pasture grazing is claimed at 90%+; this claim was verified by the Utah Department of Agriculture.
-- The site presents customer testimonials or case studies from cattle and dairy operations.
-- Founding and operational information places the company in Vineyard, Utah.
+- The profile describes Renaissance Ag as a provider of vertical-farm systems for year-round livestock feed production.
+- It identifies Vineyard, Utah as the headquarters and lists a company size of 11–50 employees.
+- It lists `renaissanceag.com` as the company's website.
 
 ## Reliability Notes
 
-This is an official company source. Confidence is rated Low because the URL should be independently verified before use, and Renaissance Ag is a small private company with limited third-party press coverage to cross-check core claims against. The Utah Department of Agriculture verification of the water-savings figure is the most credible external corroboration available. Equipment reliability, customer retention, and financial performance figures are not independently verifiable from public sources.
-
-Before citing this source in research, confirm that https://www.renaissance-ag.com resolves to the Vineyard, Utah livestock-fodder company and not an unrelated entity sharing the name.
+This is a LinkedIn-hosted reference page with fields controlled by the company, useful for identity, location, and the historical official domain but insufficient for detailed product-performance claims. The profile is publicly readable through search indexing but may require authentication for some visitors. Equipment reliability, water savings, customer retention, and financial performance require separate evidence.
 
 ## Related Pages
 

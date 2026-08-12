@@ -39,8 +39,7 @@ textarea {
   margin-top: clamp(4rem, 12vh, 7.5rem);
 }
 .home-eyebrow,
-.prompt-card label,
-.assistant-picker > p:first-child {
+.prompt-card label {
   color: var(--color-twilight-soft);
   font-family: var(--font-sans);
   font-size: 0.75rem;
@@ -113,64 +112,25 @@ textarea {
 .copy-prompt:hover {
   background: color-mix(in srgb, var(--color-twilight) 90%, black);
 }
-.copy-prompt:focus-visible,
-.assistant-link:focus-visible {
+.copy-prompt:focus-visible {
   outline: 3px solid color-mix(in srgb, var(--color-orange) 55%, transparent);
   outline-offset: 2px;
 }
-.assistant-picker {
-  margin-top: 1.75rem;
-}
-.assistant-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.55rem;
-  margin-top: 0.7rem;
-}
-.assistant-link {
-  display: flex;
-  min-height: 3rem;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.5rem;
-  border: 1px solid color-mix(in srgb, var(--color-sandstone) 70%, transparent);
-  border-radius: 0.28rem;
-  background: transparent;
-  color: var(--color-twilight);
-  cursor: pointer;
-  padding: 0 0.8rem;
-  font-family: var(--font-sans);
-  font-size: 0.82rem;
-  font-weight: 600;
-}
-.assistant-link:hover {
-  border-color: var(--color-twilight-soft);
-  background: var(--color-paper-deep);
-}
-.assistant-note {
+.copy-status {
   min-height: 1.25rem;
   margin-top: 0.65rem;
   color: var(--color-ink-soft);
   font-family: var(--font-sans);
   font-size: 0.72rem;
 }
-.home-secondary {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem 1.15rem;
-  margin-top: clamp(4rem, 9vh, 7rem);
+.compatibility-note {
+  margin-top: 0.8rem;
   border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 45%, transparent);
   padding-top: 1rem;
+  color: var(--color-ink-soft);
   font-family: var(--font-sans);
-  font-size: 0.72rem;
-}
-.home-secondary a {
-  color: var(--color-twilight-soft);
-}
-.home-secondary a:hover {
-  color: var(--color-twilight);
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  font-size: 0.78rem;
+  line-height: 1.5;
 }
 
 /* Rendered wiki markdown */
@@ -438,8 +398,6 @@ textarea {
 @media (max-width: 760px) {
   .home-page { width: min(100% - 2rem, 46rem); padding-top: 1.35rem; }
   .home-intro { margin-top: 3.75rem; }
-  .assistant-grid { grid-template-columns: repeat(2, 1fr); }
-  .home-secondary { margin-top: 4rem; }
   .map-page { width: calc(100vw - 2rem); }
   .map-location-search { grid-template-columns: 1fr auto; }
   .map-location-field { grid-column: 1 / -1; }

@@ -42,8 +42,6 @@ export function HomePage() {
 
   return (
     <main className="home-page">
-      <div className="home-wordmark">greatutah.work</div>
-
       <section className="home-intro" aria-labelledby="home-title">
         <p className="home-eyebrow">A wiki for your AI</p>
         <h1 id="home-title">Ask better questions about Utah.</h1>
@@ -94,7 +92,7 @@ export function HomePage() {
       </section>
 
       <nav className="home-secondary" aria-label="More ways to explore greatutah.work">
-        <a href="/v/index">Browse the wiki</a>
+        <a href="/v/by-role">Browse the wiki</a>
         <a href="/map">View the map</a>
         <a href="/contribute">Contribute</a>
         <a href="/llms.txt">For AI agents</a>

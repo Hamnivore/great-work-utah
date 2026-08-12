@@ -73,6 +73,10 @@ Program details are changing quickly. Application windows, funding amounts, and 
 
 ## Open Questions
 
-- Which Nucleus intake questions should map directly to wiki match explanations?
-- Which programs should be represented as resources versus helper pathways as the wiki grows?
-- Is there a public, stable page for Nucleus ProLab, Catalyst, Global, or Quantum that should be turned into separate resource pages?
+- Are public, stable descriptions available for Nucleus ProLab, Catalyst, Global, or Quantum?
+
+## Maintainer Notes
+
+- Decide which Nucleus intake questions should map directly to wiki match explanations.
+- Decide which programs should be represented as resources versus helper pathways.
+- If stable public descriptions exist for ProLab, Catalyst, Global, or Quantum, decide which warrant separate resource pages.

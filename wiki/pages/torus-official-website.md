@@ -21,7 +21,7 @@ Torus's official website describes a full-stack energy platform combining storag
 - Torus says Torus Station unites storage, software, security, and 24/7 monitoring in one platform.
 - The company says Torus Spin is a flywheel product that reacts in milliseconds and handles high-power events that can degrade chemical batteries.
 - Per [Torus Magnetar investment announcement](torus-magnetar-raise.md), Torus was founded in Springville, Utah; this homepage capture does not state founding date or location.
-- The page previously asserted Utah manufacturing scale, utility partnerships, funding totals, and an R&D award; this capture does not show those figures.
+- This capture does not establish Utah manufacturing scale, utility partnerships, funding totals, or an R&D award.
 - Public customer categories include utilities, manufacturing and industrial, and data centers.
 
 ## Verbatim

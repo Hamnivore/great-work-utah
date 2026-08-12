@@ -54,4 +54,7 @@ Do not imply BBCetc is endorsed by Utah programs, available for a specific deadl
 
 - Which Utah companies, if any, have publicly worked with BBCetc?
 - What engagement types are most cost-effective for Phase I versus Phase II proposals?
+
+## Maintainer Notes
+
 - How should the wiki distinguish Nucleus Grow first-step support from paid national SBIR consulting?

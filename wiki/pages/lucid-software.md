@@ -26,7 +26,7 @@
 
 Lucid Software is a Utah-based B2B SaaS company behind Lucidchart, a cloud diagramming application, and Lucidspark, a virtual whiteboard for team collaboration. Founded in 2010, the platform enables users to create flowcharts, org charts, network diagrams, wireframes, and other visual documentation collaboratively in real time.
 
-Legacy intake material describes Lucid as serving a large global user base and many major enterprises, and as one of Utah's most valuable private technology companies. The captured official source does not support specific user, financing, valuation, or customer-penetration figures.
+Lucid is described as serving a large global user base and many major enterprises and as one of Utah's most valuable private technology companies, but the captured official source does not support specific user, financing, valuation, or customer-penetration figures.
 
 ## Impact
 
@@ -52,7 +52,7 @@ Useful helpers include enterprise SaaS GTM advisors, integration-platform specia
 
 ## Utah Context
 
-Lucid Software is headquartered in South Jordan, Utah, and was founded by BYU graduates Karl Sun and Ben Dilts. Legacy intake describes a substantial Utah workforce, but the captured source does not publish a headcount or geographic breakdown. The company has reportedly participated in local tech community events and university partnerships.
+Lucid Software is headquartered in South Jordan, Utah, and was founded by BYU graduates Karl Sun and Ben Dilts. Its current Utah headcount and geographic workforce breakdown are not established by the captured source. The company has reportedly participated in local tech community events and university partnerships.
 
 ## Evidence
 
@@ -66,6 +66,9 @@ Lucid Software is headquartered in South Jordan, Utah, and was founded by BYU gr
 
 - What are Lucid's current headcount, revenue trajectory, and private valuation after the reported 2021 Series E?
 - How do user-count and Fortune 500 penetration claims hold up against independent analyst or customer evidence?
-- Leadership roles (Karl Sun as CEO; Dave Grow's current board and operating roles per legacy notes) — what is the present executive team?
+- What are Karl Sun's and Dave Grow's current executive and board roles, and what is the present executive team?
+
+## Maintainer Notes
+
+- Earlier intake supplied the unsupported scale, valuation, workforce, and executive-role details; do not restore specific figures or titles without current sources.
 - Competitive pressure from Miro, FigJam, Microsoft Visio, draw.io, and embedded whiteboarding in Slack/Teams may reshape the category — where does Lucid win consistently today?
-- The placeholder hero should be swapped for a cleared product or facilities image when licensing is resolved.

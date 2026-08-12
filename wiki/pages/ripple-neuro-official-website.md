@@ -20,14 +20,14 @@ Ripple Neuro's official website describes a line of neural recording and stimula
 
 - Ripple describes portable, wireless Trek processors and Grapevine front-end systems for simultaneous neural recording and stimulation.
 - The company says its ASICs were developed under DARPA, DoD, and SBIR funding.
-- The page previously asserted 512 Grapevine channels, a University of Utah spinout founding in 2004, NIH HEAL program work, and a Ripple Neuromed clinical arm; none of those appear on this 2026-08-11 homepage capture.
+- This capture does not establish exact Grapevine channel counts, the company's founding history, NIH HEAL program work, or the scope of a Ripple Neuromed clinical arm.
 - Products are marketed to neuroscience research users (researchers, labs); consumer BCI is not mentioned on this capture.
 
 ## Verbatim
 
 > "Record and stimulate on every channel. Developed under DARPA, DoD and SBIR funding, Ripple's
 > proprietary ASICs offer exceptional signal quality and low noise in a compact package."
-> — Home page, product hero
+> — Home page, product heading
 
 > "Featuring on-board processing and wireless control, Ripple's flagship processor, the Trek, untethers
 > you from conventional constraints of behavioral electrophysiology."

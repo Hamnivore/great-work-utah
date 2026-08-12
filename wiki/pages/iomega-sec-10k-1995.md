@@ -41,10 +41,14 @@ Iomega Corporation's 10-K for the fiscal year ended December 31, 1994, filed wit
 
 As a primary SEC regulatory filing, this is the highest-confidence source for Iomega's product launch timing, corporate structure, and business operations in 1995. Financial and product claims in 10-K filings carry securities-law accuracy obligations.
 
-Two corrections came out of reading the filing rather than summaries of it. This page previously called Iomega "a Utah-based corporation," which the filing contradicts: it was a Delaware corporation whose operations were in Roy, Utah — a distinction worth keeping, because Utah's claim on Iomega is about where the work happened, not where the charter was filed. And the Zip that shipped in March 1995 was the 100MB drive; the 25MB version named in the October 1994 announcement was still only "planned" here, so a flat "the Zip drive shipped in March 1995" overstates what this document supports.
+The filing identifies Iomega as a Delaware corporation whose operations were in Roy, Utah, so Utah's claim concerns where the work happened rather than where the company was chartered. The Zip that shipped in March 1995 was the 100MB drive; the 25MB version named in the October 1994 announcement was still only "planned," so a flat statement that every Zip version shipped in March 1995 would overstate what this document supports.
 
-The page previously cited this filing through `edgar.secdatabase.com`, a commercial reseller under no obligation to keep it. The URL above is the same submission served by EDGAR itself, which is why this page needs no archive snapshot.
+The URL above is the submission served by EDGAR itself, the permanent issuing-body record, so this page needs no archive snapshot.
 
 ## Related Pages
 
 - [Iomega Zip Drive](iomega-zip-drive.md)
+
+## Maintainer Notes
+
+- Earlier copy called Iomega a Utah-based corporation and cited the filing through `edgar.secdatabase.com`; the filing supports Delaware incorporation, Roy operations, and the direct EDGAR URL instead.

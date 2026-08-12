@@ -1,6 +1,6 @@
 # materials-mfg — sector hub
 
-Generated from `**Domain:**` metadata (240/868 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (242/876 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -38,12 +38,14 @@ Generated from `**Domain:**` metadata (240/868 pages attributed so far — cover
 - [Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md) · `https://greatutah.work/pages/ionic-mt.md` — primary: energy
 - [MOXIE Solid Oxide Electrolysis Stack](/pages/moxie-solid-oxide-electrolysis-stack.md) · `https://greatutah.work/pages/moxie-solid-oxide-electrolysis-stack.md` — primary: space-science
 - [Northrop Grumman — Promontory Facility](/pages/northrop-grumman-promontory.md) · `https://greatutah.work/pages/northrop-grumman-promontory.md` — primary: aerospace-defense
+- [Nu Skin Enterprises](/pages/nu-skin.md) · `https://greatutah.work/pages/nu-skin.md` — primary: health-bio
 - [Orem Library Makerspace](/pages/orem-library-makerspace.md) · `https://greatutah.work/pages/orem-library-makerspace.md` — primary: culture-place
 - [RAM Aviation, Space & Defense](/pages/ram-aviation-space-defense.md) · `https://greatutah.work/pages/ram-aviation-space-defense.md` — primary: aerospace-defense
 - [Sky Quarry](/pages/sky-quarry.md) · `https://greatutah.work/pages/sky-quarry.md` — primary: energy
 - [Stratos Data Center](/pages/stratos-data-center.md) · `https://greatutah.work/pages/stratos-data-center.md` — primary: energy
 - [Torus](/pages/torus.md) · `https://greatutah.work/pages/torus.md` — primary: energy
 - [USANA Health Sciences](/pages/usana.md) · `https://greatutah.work/pages/usana.md` — primary: health-bio
+- [Utah's Direct-Selling Industry](/pages/utah-direct-selling-industry.md) · `https://greatutah.work/pages/utah-direct-selling-industry.md` — primary: health-bio
 - [Utah MEP](/pages/utah-mep.md) · `https://greatutah.work/pages/utah-mep.md` — primary: capital-programs
 - [WAVE (Wireless Advanced Vehicle Electrification)](/pages/wave-inc.md) · `https://greatutah.work/pages/wave-inc.md` — primary: energy
 - [Williams International](/pages/williams-international.md) · `https://greatutah.work/pages/williams-international.md` — primary: aerospace-defense

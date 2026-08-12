@@ -25,10 +25,10 @@ Palladyne AI is the current public identity of the company formerly known as Sar
 ## Verbatim
 
 > "Most AI thinks. Palladyne AI acts."
-> — Home page, hero
+> — Home page, heading
 
 > "Our embodied AI platform powers two businesses: a vertically integrated Aerospace & Defense company, from software and edge silicon through loitering munitions to sovereign U.S. manufacturing, and an industrial software platform that makes your existing robots poly-functional, not just automated."
-> — Home page, hero body
+> — Home page, introductory copy
 
 > "Strike systems with Oracle-Class Wolf Pack Swarming"
 > — Home page, "Built for Real-World Deployment"

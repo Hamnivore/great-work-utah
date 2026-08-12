@@ -76,7 +76,7 @@ common, which is how organizations and individuals accumulate several medals in 
 [2026 winners page](best-of-state-2026-winners-page.md) — not a company's claim about itself, and not
 this page. Three specific hazards:
 
-- **Never ingest a *featured* card from the current site.** Six of them are placeholder content:
+- **Featured cards are not reliable award records.** Six of them are placeholder content:
   Cedarbrook Bistro, Wasatch Atelier, Nucleus Labs, High Lake Cellars, Granite Works, and Beacon
   Wildlands Trust each appear once for every year from 2020 through 2025, with identical medal numbers
   and identical copy, and in no actual winner list

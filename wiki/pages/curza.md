@@ -44,7 +44,7 @@ The core technical challenge is getting molecules across the Gram-negative doubl
 
 Likely needs include medicinal chemists, microbiologists, and structural biologists focused on ribosome biochemistry, plus regulatory and CMC support for IND preparation. The company operates in a grant-heavy, mission-driven environment — contributors motivated by antimicrobial-resistance and biodefense impact rather than typical VC pharma timelines tend to fit best.
 
-Phase 1 IND had not been submitted as of legacy intake; preclinical-to-clinical attrition for antibiotics remains high.
+The available sources do not establish that a Phase 1 IND has been submitted; preclinical-to-clinical attrition for antibiotics remains high.
 
 ## Who Could Help
 
@@ -52,7 +52,7 @@ Useful helpers include CARB-X and other AMR-focused funders, DTRA and biodefense
 
 ## Utah Context
 
-Curza is a University of Utah spinout with original chemistry licensed from the university, headquartered in Salt Lake City. Its reported funding model includes NIH, DTRA, CARB-X, and the Novo Holdings REPAIR Fund, but the total raised in legacy intake has not been verified against captured primary records.
+Curza is a University of Utah spinout with original chemistry licensed from the university, headquartered in Salt Lake City. Its reported funding model includes NIH, DTRA, CARB-X, and the Novo Holdings REPAIR Fund, but captured primary records do not establish the total raised.
 
 ## Evidence
 
@@ -61,12 +61,11 @@ Curza is a University of Utah spinout with original chemistry licensed from the 
 ## Open Questions
 
 - No agent-readable careers/jobs page found (curza.com/careers 404; linked “copy-of-careers” page is news, not openings).
-- Has Curza submitted a Phase 1 IND for CZ-02 since legacy intake?
+- Has Curza submitted a Phase 1 IND for CZ-02?
 - What preclinical efficacy and safety data are publicly available for CZ-02 against prioritized resistant Gram-negative strains?
 - What are the amount, term, and near-term clinical milestones of the reported DTRA and University of Florida collaboration?
 - What reimbursement or pull-incentive strategy does Curza plan if Phase 3 succeeds, given broken antibiotic commercialization economics?
 - What is the verified CARB-X award amount and current funding runway?
-- The placeholder hero should be replaced with a cleared facilities or science image when rights are confirmed.
 
 ## See Also
 

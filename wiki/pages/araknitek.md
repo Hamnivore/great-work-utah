@@ -59,4 +59,3 @@ Utah State University's Randy Lewis laboratory is one of the most cited academic
 - What is Araknitek's website URL, if it still maintains a public web presence?
 - Has the company received any SBIR, STTR, or private funding since founding?
 - Spider silk commercialization has been "five years away" for decades — what specific technical milestones distinguish Araknitek's approach, if any?
-- The placeholder hero should be replaced with a cleared materials or lab photograph when rights are confirmed.

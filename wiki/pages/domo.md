@@ -69,4 +69,3 @@ Domo is headquartered in American Fork and is one of Utah's largest publicly tra
 - Which deployment metrics, customer counts, and performance claims can be independently verified beyond official sources?
 - Public small/mid-cap volatility and quarterly pressure may limit mission autonomy — how does that affect engineering culture and product bets?
 - BI competes with Snowflake, Databricks, Tableau/Salesforce, Power BI, Looker, ThoughtSpot, and Sigma from adjacent angles — where does Domo win consistently today?
-- The current placeholder hero should be swapped for a cleared product or facilities image when licensing is resolved.

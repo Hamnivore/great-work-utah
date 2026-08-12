@@ -28,7 +28,7 @@ Techcyte's official website describes Fusion, a unified anatomic and clinical di
 ## Verbatim
 
 > "Discover the world's first digital pathology platform that unites clinical and anatomic pathology into one seamless solution, revolutionizing workflows and improving the lives of pathologists."
-> — Home page, Fusion hero
+> — Home page, Fusion heading
 
 > "The only unified anatomic & clinical pathology AI platform"
 > — Home page, "Techcyte Fusion"

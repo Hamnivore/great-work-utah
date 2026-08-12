@@ -21,7 +21,7 @@ Weave's official website and investor materials describe an AI-powered patient c
 - Weave describes itself as a leading AI-powered patient communications, engagement, and payments platform for SMB healthcare practices, operating as an "orchestration layer" across voice and text.
 - Product suite includes a unified phone system, AI Receptionist, text messaging and response assistants, reviews, email marketing, digital forms, online scheduling, insurance eligibility/verification, Call Intelligence, practice analytics, and Weave Payments.
 - Supported verticals are Dental, Optometry, Veterinary, and Specialty Medical (described as 29 specialties and the second-largest, fastest-growing vertical by location count).
-- Customer-location, customer-count, and concentration figures previously recorded here are absent from this homepage capture and require a filing or investor source.
+- Customer-location, customer-count, and concentration figures are absent from this homepage capture and require a filing or investor source.
 - Footer contact block lists headquarters at 1331 W Powell Way, Lehi, Utah.
 - Footer navigation references TrueLark.
 - Founding date, NYSE ticker, and corporate rename history do not appear in this capture.
@@ -29,7 +29,7 @@ Weave's official website and investor materials describe an AI-powered patient c
 ## Verbatim
 
 > "From agentic AI voice calls to online booking and final payment and beyond, our powerful suite of always-on AI tools handles repetitive tasks so your team is free to focus on the patients in front of them."
-> — Home page, hero
+> — Home page, heading
 
 > "1331 W Powell Way
 > Lehi, Utah

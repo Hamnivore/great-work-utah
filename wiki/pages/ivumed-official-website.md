@@ -25,7 +25,7 @@ IVUmed's public homepage as captured on the retrieval date in **Retrieved:** abo
 ## Verbatim
 
 > "Teach One, Reach Many"
-> — Home page, hero
+> — Home page, heading
 
 > "Since 1995, International Volunteers in Urology (IVUmed) has been dedicated to making quality urological care available worldwide. In fulfilling this mission, we provide medical and surgical education to physicians and nurses, and treatment to thousands of children and adults in low-resource settings."
 > — Home page

@@ -57,6 +57,9 @@ The best fit is a technical founder who can name a research uncertainty but cann
 
 ## Open Questions
 
-- Which recent Utah SBIR/STTR winners were directly assisted by Nucleus Grow, and which examples should become venture pages?
 - What is the current turnaround time for proposal review?
 - Which agencies are strongest for Utah founders right now by sector?
+
+## Maintainer Notes
+
+- Which recent Utah SBIR/STTR winners were directly assisted by Nucleus Grow, and which examples should become venture pages?

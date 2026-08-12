@@ -69,4 +69,4 @@ Southeastern Utah founders and remote workers in Carbon, Emery, Grand, and San J
 - Does the `info@btac.business` address still deliver, given the site failure on the same domain?
 - Is the commercial kitchen currently available, and at what rate? The Startup State listing says kitchen rentals; BTAC's own amenities list did not.
 - Which services beyond space (advising, incubation cohorts) are active today? Nothing in the record evidences programming.
-- Location: this page previously mapped BTAC to 252 S Fairgrounds Rd on a third-party directory's authority. The IRS registration and BTAC's own archived footer both say 375 S. Carbon Ave, so the map point now follows them. If BTAC operates at both addresses, the second one needs its own sourced entry.
+- Location: a third-party directory gives 252 S Fairgrounds Rd, while the IRS registration and BTAC's own archived footer both give 375 S. Carbon Ave. The primary and first-party records support the latter address; it remains unclear whether BTAC operates at both.

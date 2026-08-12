@@ -19,7 +19,7 @@
 
 Evolution Bio is a Salt Lake City biotechnology company, founded circa 2022, built around directed protein evolution for drug discovery — especially G-protein coupled receptors (GPCRs). The venture appears to spin out of University of Utah biochemistry research by Dr. Justin English, who invented the VEGAS (Viral Evolution of Genetically Actuated Sequences) mammalian directed-evolution platform published in *Cell* (2019).
 
-Public investor listings name the Nucleus Fund, University of Utah, and Altitude Lab as backers. Altitude Lab describes the company as using a novel drug-discovery platform to optimize biological therapeutic candidates. **No standalone company website was confirmed during this migration** — intake relied on the English Lab site, the VEGAS publication, Altitude Lab portfolio metadata, and third-party directories.
+Public investor listings name the Nucleus Fund, University of Utah, and Altitude Lab as backers. Altitude Lab describes the company as using a novel drug-discovery platform to optimize biological therapeutic candidates. **No standalone company website has been confirmed.** The available evidence consists of the English Lab site, the VEGAS publication, Altitude Lab portfolio metadata, and third-party directories.
 
 ## Impact
 
@@ -58,10 +58,12 @@ Evolution Bio is a University of Utah biochemistry spinout in Salt Lake City, ba
 ## Open Questions
 
 - **Careers URL:** No public employer careers board found (2026-07-14). No confirmed standalone company website; skip Careers until an official hiring page exists.
-- **Company website unknown.** BioUtah lists Evolution Bio with a "Visit Website" link that did not resolve to a confirmed URL during intake. A site at discovery-evolution.com describes a "digital directed evolution" GPCR antibody platform and may represent a rebrand, separate entity, or successor — relationship to Evolution Bio is unverified.
-- **Pharma partnerships unverified.** Prior intake mentioned Eli Lilly and Kallyope partnerships; no primary source confirming those deals was captured in this migration. Treat as unverified until press release or SEC filing appears.
+- **Company website unknown.** BioUtah lists Evolution Bio with a "Visit Website" link that did not resolve to a confirmed URL. A site at discovery-evolution.com describes a "digital directed evolution" GPCR antibody platform and may represent a rebrand, separate entity, or successor — relationship to Evolution Bio is unverified.
+- **Pharma partnerships unverified.** Eli Lilly and Kallyope partnerships have been reported, but no captured primary source confirms those deals. Treat them as unverified until a press release or filing establishes them.
 - **VEGAS technical limitations.** Independent reviews have questioned continuous Sindbis-based evolution (packaging competition, cheater emergence, biosafety of alphavirus vectors). These concerns affect how strongly to claim VEGAS as a production-ready commercial platform.
 - **Corporate vs. academic boundary.** How much VEGAS IP and ongoing development sit in Evolution Bio versus the English Lab is unclear without cap-table, licensing, or company filings.
 - **Funding amount and valuation** beyond investor names (PitchBook, Altitude Lab) are not public in sources reviewed.
-- **Dedicated source pages** for Altitude Lab portfolio entry, PitchBook profile, and BioUtah listing would improve evidence coverage.
-- The placeholder hero should be replaced with a cleared lab or platform image when rights are confirmed.
+
+## Maintainer Notes
+
+- Create dedicated source pages for the Altitude Lab portfolio entry, PitchBook profile, and BioUtah listing.

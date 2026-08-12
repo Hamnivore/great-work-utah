@@ -20,7 +20,7 @@ The Nucleus Institute official site describes Nucleus as a Utah innovation hub t
 
 - Nucleus convenes industry, academia, and government to drive Utah innovation.
 - Nucleus works to equip Utah innovators and close funding and commercialization gaps for scaling ideas.
-- The page previously named Nucleus Fund and Nucleus Grow as capital programs and described Convergence Hall at The Point as a flagship innovation-district space; this capture shows only navigation labels and a Convergence Hall news headline.
+- This capture shows navigation labels for Nucleus Fund and Nucleus Grow and a Convergence Hall news headline, but does not establish the programs' details or describe Convergence Hall as a flagship innovation-district space.
 
 ## Verbatim
 
@@ -42,3 +42,7 @@ This is an official institutional source, so it is useful for describing Nucleus
 ## Related Pages
 
 - [Nucleus Institute](nucleus-institute.md)
+
+## Maintainer Notes
+
+- Earlier page copy made stronger claims about Nucleus Fund, Nucleus Grow, and Convergence Hall than this capture supports; use dedicated program sources for those claims.

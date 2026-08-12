@@ -76,4 +76,7 @@ Fletcher's Utah claim is strong but should be stated carefully. He was born in P
 
 - The Millikan oil-drop credit dispute is genuinely unresolved; this page should keep describing it as contested rather than asserting how much of the work was Fletcher's.
 - Confirm the precise dates and venues of the 1931-1932 recording sessions versus the April 1933 public demonstration before stating any single "first" claim definitively.
+
+## Maintainer Notes
+
 - Consider a future `people/harvey-fletcher.md` if the wiki adds historical-figure biographies; this work page would cross-link.

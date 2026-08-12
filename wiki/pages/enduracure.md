@@ -60,4 +60,3 @@ EnduraCure is a direct product of the University of Utah's materials science res
 - Has EnduraCure filed any patents on the photocured substrate formulation, and what is the IP position relative to the U of U TLO?
 - Which specific flexible electronics applications (medical sensors, smart packaging, wearables) are targeted for first commercial pilot?
 - Is Dennis Pruzan still CEO and is the team still Utah-based?
-- The placeholder hero should be replaced with a cleared lab or materials image when rights are confirmed.

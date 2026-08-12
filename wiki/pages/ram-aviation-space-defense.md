@@ -71,4 +71,3 @@ The private, founder-family ownership structure is relevant to Utah's entreprene
 - What is the succession plan as the founding Ganowsky family generation transitions?
 - How does RAM's qualification base expand — does adding a new program require a new multi-year qualification cycle from scratch?
 - What manufacturing capabilities has RAM added beyond valves — actuators, regulators, other precision fluid-system components?
-- The placeholder hero should be replaced with a cleared hardware or manufacturing image when rights are confirmed.

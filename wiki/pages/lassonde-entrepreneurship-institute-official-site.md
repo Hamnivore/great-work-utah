@@ -30,7 +30,7 @@ The Lassonde Entrepreneurship Institute official site describes the University o
 > — Home page, welcome section
 
 > "All students are welcome to live, create, launch here."
-> — Home page, hero
+> — Home page, heading
 
 > "Live. Create. Launch."
 > — Home page, tagline

@@ -19,7 +19,7 @@ The Sundance Institute's public site describes its mission, year-round Artist La
 ## Useful Claims
 
 - Sundance Institute was founded in 1981 by Robert Redford as a 501(c)(3) nonprofit.
-- The page previously asserted that year-round Artist Labs are held at Sundance Resort, that New Frontier has supported interactive-storytelling residencies since 2007, and that the festival relocates from Park City to Boulder in 2027. This homepage capture does not substantiate those details; it only links to information about the 2027 festival and Utah community programs.
+- This homepage capture does not establish the Artist Labs' venue, New Frontier's historical residency timeline, or the announced festival relocation details; it only links to current festival and Utah community-program information.
 
 ## Verbatim
 

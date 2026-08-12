@@ -64,4 +64,3 @@ Overstock's Medici Ventures era also funded and spun out Utah blockchain and fin
 - What is the current status and book value of the blockchain asset portfolio (tZERO, GrainChain, and related holdings)?
 - Has headquarters location shifted from earlier Midvale addresses to Murray permanently, and does that affect local workforce footprint?
 - Turnaround claims under Executive Chairman Marcus Lemonis should be verified against quarterly filings before treating profitability targets as high-confidence.
-- The current placeholder hero should be swapped for a cleared corporate or product image when licensing is resolved.

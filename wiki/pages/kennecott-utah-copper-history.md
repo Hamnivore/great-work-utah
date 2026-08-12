@@ -36,10 +36,14 @@ The official history page for Kennecott Utah Copper covers the development of th
 
 ## Reliability Notes
 
-Corporate history page — self-interested on positive framing of environmental and labor record, but factual on production statistics and chronology. Production and engineering claims are independently corroborated by USGS and mining history sources. **Capture note:** the stored document is Rio Tinto's current Kennecott operations page, not a dedicated history URL; several chronology and superlative claims on this wiki page are not stated in this capture (see revised bullets above).
+This corporate page is self-interested in its positive framing of the environmental and labor record, but useful for production statistics and chronology. Production and engineering claims are independently corroborated by USGS and mining-history sources. The captured document is Rio Tinto's current Kennecott operations page, not a dedicated history page, and it does not state several of the broader chronology and superlative claims associated with Kennecott.
 
 The legacy Kennecott URL redirects to the subsidiary's current operations page on `riotinto.com`, its parent company's domain.
 
 ## Related Pages
 
 - [Kennecott Bingham Canyon Mine](bingham-canyon-mine.md)
+
+## Maintainer Notes
+
+- The stored capture is Rio Tinto's current operations page rather than a dedicated history URL; do not reattribute unsupported chronology or superlatives to it.

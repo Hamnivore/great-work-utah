@@ -25,7 +25,7 @@ The Supreme Court's 2013 *Association for Molecular Pathology v. Myriad Genetics
 
 This is the authoritative legal source for the patent holding and the Court's framing of Myriad's contribution: cite it as *Association for Molecular Pathology v. Myriad Genetics, Inc.*, 569 U.S. 576 (2013). The URL is the Court's own bound volume of the *United States Reports*, in which this opinion begins at page 576; the volume PDF is large, so page 576 is the locator to jump to.
 
-This page previously cited Justia's copy. Justia is accurate and convenient, but it is a private republisher under no obligation to keep any particular URL alive, and the Court's own volume is both permanent and the text of record — which is why this page needs no archive snapshot. Justia's version remains a reasonable reading copy: <https://supreme.justia.com/cases/federal/us/569/576/>.
+Justia is an accurate and convenient reading copy, but it is a private republisher under no obligation to keep any particular URL alive. The Court's own volume is both permanent and the text of record, so this page needs no archive snapshot. Justia's version remains available at <https://supreme.justia.com/cases/federal/us/569/576/>.
 
 The claims above are drawn from the syllabus and opening of the opinion. They are not quoted here because the source is a PDF, which the capture tooling deliberately refuses to convert to text rather than store extraction noise; anyone adding a `## Verbatim` section should quote from the opinion text directly.
 
@@ -33,3 +33,7 @@ The claims above are drawn from the syllabus and opening of the opinion. They ar
 
 - [Myriad Genetics BRCA Sequencing and Testing](myriad-genetics-brca.md)
 - [Utah Population Database](utah-population-database.md)
+
+## Maintainer Notes
+
+- This record formerly cited Justia; retain the Court's own permanent volume as the canonical URL.

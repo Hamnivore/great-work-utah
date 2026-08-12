@@ -60,5 +60,4 @@ The Telescope Array sits in the West Desert of Millard County, west of Delta, on
 
 ## Open Questions
 
-- The current hero is a real photo of one of the Telescope Array's fluorescence-detector buildings (BRM site, John Matthews, CC BY-SA 3.0). It's authentic to the project but small and modest. A licensed aerial of the surface-detector array, or the widely-circulated artist's rendering of the Amaterasu shower (Osaka Metropolitan University / L-INSIGHT, Kyoto), would be more dramatic if rights can be cleared. The SKA radio-array shot considered as a stand-in is visually striking but would mis-locate the story to South Africa, which the wiki's "wait, *that's* in Utah?" framing depends on avoiding.
 - The astrophysical sources of ultra-high-energy cosmic rays — and especially of the Amaterasu event, which has no obvious source in its arrival direction — remain open.

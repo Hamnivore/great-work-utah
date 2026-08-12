@@ -1,0 +1,13 @@
+{
+  "source_page": "us-v-young-living-lacey-act-docket-2017.md",
+  "requested_url": "https://archive.org/download/gov.uscourts.utd.106989/gov.uscourts.utd.106989.docket.html",
+  "final_url": "https://dn711008.ca.archive.org/0/items/gov.uscourts.utd.106989/gov.uscourts.utd.106989.docket.html",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T23:37:07.295Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "dd105f60dc238101d78d6ce024b4918d23a84e44dbdc987aa1100a36c32a3405",
+  "text_sha256": "43a03af75848893edb0830087b7231881ba73f9260dbe42f85281f8c9a57b44b",
+  "text_chars": 4528,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

@@ -12,9 +12,9 @@
 
 ## Summary
 
-This was listed as a one-time, free seminar in downtown Salt Lake City for small businesses and nonprofits developing an AI strategy. The imported listing is preserved by the [Startup State source](startup-utah-resource-list.md), but the wiki has not captured the registration page needed to establish its exact date.
+This was listed as a one-time, free seminar in downtown Salt Lake City for small businesses and nonprofits developing an AI strategy. The [Startup State source](startup-utah-resource-list.md) preserves the listing, but no captured registration page establishes its exact date.
 
-The event no longer appears in the live Startup State directory, and no recurring edition was verified on 2026-08-11. Keep this page as a historical record of the listing; do not direct founders to it as an upcoming seminar.
+The event no longer appears in the live Startup State directory, and no recurring edition was verified on 2026-08-11. This is a historical record of the listing, not a current seminar recommendation.
 
 ## Who It's For
 
@@ -61,7 +61,6 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 3683 ([Startup State source](startup-utah-resource-list.md))
 - Counties or regions: Salt Lake
 - Communities: Any
 - Industries: Aerospace and Defense, Agriculture, Arts and Entertainment and Recreation, Consumer Packaged Goods, Financial Services, Hospitality and Food Services, Life Sciences and Healthcare, Manufacturing, Other, Software and Information Technology
@@ -73,11 +72,16 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://comtel.zohobackstage.com/aistratagy#/?lang=en) · https://comtel.zohobackstage.com/aistratagy#/?lang=en
 
-> **Coverage note (2026-07-14):** This listing no longer appears on the live [Startup State resources](https://startup.utah.gov/resources/) directory. Keep the page if the program still exists elsewhere; otherwise treat as historical.
+> **Coverage note (2026-07-14):** This listing no longer appears on the live [Startup State resources](https://startup.utah.gov/resources/) directory; treat it as historical unless a successor seminar is confirmed.
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
+- Is the description still accurate on the organizer's current website?
 - Has the organizer announced a successor seminar, and what was the exact date of the historical event?
 - What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
 - Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+
+## Maintainer Notes
+
+- Bulk-imported from the Startup State resource CSV (ID 3683).
+- Retain only if the seminar or a successor exists outside the live Startup State directory.

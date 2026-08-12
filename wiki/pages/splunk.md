@@ -57,7 +57,7 @@ Useful helpers include cybersecurity consultancies, MSSPs, SRE and observability
 
 ## Utah Context
 
-The Utah connection is currently unverified. The page should be revisited for evidence of one of the following:
+The Utah connection is currently unverified. Evidence that could establish it includes:
 
 - a Cisco or Splunk office, lab, team, or major customer-success presence in Utah;
 - a Utah-founded acquisition or product line inside Splunk;
@@ -65,7 +65,7 @@ The Utah connection is currently unverified. The page should be revisited for ev
 - a local talent pipeline around Splunk administration, security engineering, or observability;
 - Utah-based partners or consultancies with significant Splunk practices.
 
-Until then, Splunk belongs in the wiki as a lead rather than a confirmed Utah anchor.
+Until such evidence is available, Splunk is a lead rather than a confirmed Utah anchor.
 
 ## Evidence
 
@@ -83,4 +83,7 @@ Until then, Splunk belongs in the wiki as a lead rather than a confirmed Utah an
 - What is the strongest verified Utah connection for Splunk: office, employees, customers, partners, acquisition lineage, or workforce demand?
 - Does Cisco currently list Splunk-related roles in Utah or remote roles attached to Utah teams?
 - Which Utah public agencies, universities, hospitals, defense contractors, or large enterprises use Splunk in production?
+
+## Maintainer Notes
+
 - Are there Utah-based Splunk consulting partners or user groups that should become separate helper/resource pages?

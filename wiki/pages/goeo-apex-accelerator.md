@@ -45,4 +45,3 @@ This is an official program page and is appropriate for public evidence about AP
 
 - [Utah APEX Accelerator](apex-accelerator.md)
 - [Find Business Services in Utah](find-business-services.md)
-

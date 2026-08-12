@@ -74,5 +74,8 @@ Omniture sits in the same Utah Valley software lineage as [WordPerfect and Novel
 ## Open Questions
 
 - Precise peak headcount and revenue figures for the independent company would strengthen the scale claims; current numbers are from acquisition-era reporting.
-- A source page for the SEC 14D-9 filing could be worth creating if other pages (e.g., a Utah deep-tech guide or a Domo page) end up citing the same primary document.
 - The exact split between Omniture's Provo founding and later Orem/Lehi locations is summarized here; a company-history primary source would let us be more precise about the timeline.
+
+## Maintainer Notes
+
+- Create a dedicated source page for the SEC 14D-9 filing if additional pages, such as a Utah deep-tech guide or Domo page, cite it.

@@ -66,4 +66,3 @@ The company also connects to a local radar lineage: IMSAR's founder Ryan Smith p
 - Which public agencies are the best independently sourced examples of Wavetronix deployments?
 - How much of the product line uses radar versus other sensing modalities?
 - What are the clearest third-party safety or congestion outcome studies?
-- The placeholder hero should be replaced with a cleared sensor, manufacturing-floor, or field-installation image.

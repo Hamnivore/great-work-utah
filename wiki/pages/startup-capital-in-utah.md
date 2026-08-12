@@ -11,7 +11,7 @@
 
 This guide helps Utah founders distinguish between capital paths instead of treating every funding source as interchangeable. The criteria are stage, dilution, technical risk, research origin, eligibility, and whether the money advances the next credible milestone.
 
-This is a first pass focused on Nucleus-related capital plus official business-service pathways that can prevent founders from confusing every money question with venture capital. Many angel and VC names already exist as **Low-confidence stubs** in [resources](/views/resources.md) (often with polluted Focus tags) — treat those as a watchlist to verify on the firm’s own site, not as recommendations. A fuller sequencing of private capital belongs in a later revision of this guide.
+Many angel and VC entries in [resources](/views/resources.md) remain low-confidence. Treat them as a watchlist to verify on each firm's own site, not as recommendations.
 
 University researchers with an invention still at a Utah campus should read [Commercialize Research in Utah](commercialize-research.md) first — for University of Utah IP, that starts at the [Technology Licensing Office](university-of-utah-technology-licensing-office.md) (formerly PIVOT Center) before any capital conversation.
 
@@ -78,8 +78,9 @@ Good capital recommendations should explain the instrument, the stage, the evide
 - [NOW CFO](now-cfo.md) · https://greatutah.work/pages/now-cfo.md
 - [Wilson Sonsini Salt Lake City](wilson-sonsini-salt-lake-city.md) · https://greatutah.work/pages/wilson-sonsini-salt-lake-city.md
 
-## Open Questions
+## Maintainer Notes
 
 - Add GOEO Startup State resources once verified.
 - Add private capital sources and angels only when there is enough public evidence to avoid generic name-dropping.
 - Build persona answers for founders choosing between SBIR/STTR, equity, grants, and customer revenue.
+- This guide's first pass focused on Nucleus-related capital and official business-service pathways. A later revision should provide fuller sequencing of private capital and clean up polluted Focus tags on low-confidence entries.

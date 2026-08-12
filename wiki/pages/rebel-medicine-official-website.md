@@ -28,7 +28,7 @@ Rebel Medicine's official website describes the company as developing disruptive
 ## Verbatim
 
 > "Rebel is focused on developing disruptive, non-opioid solutions for acute pain."
-> — Home page, hero
+> — Home page, heading
 
 > "We're developing the best-in-class long-acting local anesthetic for non-opioid postoperative pain management."
 > — Home page, pipeline summary

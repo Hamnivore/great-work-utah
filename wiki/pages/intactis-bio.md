@@ -19,9 +19,9 @@
 
 ## Summary
 
-Intactis Bio is a Salt Lake City company, founded in 2024 by Daniel Rodriguez-Granrose, building hybrid biosilicon computers: 3D-printed living neural tissue interfaced with custom silicon hardware through microelectrode arrays. The thesis is that living neurons could become a useful inference substrate for AI workloads where conventional silicon is hitting power, heat, and capital walls. The company is a resident of Altitude Lab (a Recursion Pharmaceuticals incubator) and reports a $250,000 Nucleus Fund investment plus support from a SHIFT grant and an Altitude Lab Trail Angel Grant ([press release](intactis-bio-prnewswire.md)). Other investment commitments in the legacy intake have not been verified from captured evidence.
+Intactis Bio is a Salt Lake City company, founded in 2024 by Daniel Rodriguez-Granrose, building hybrid biosilicon computers: 3D-printed living neural tissue interfaced with custom silicon hardware through microelectrode arrays. The thesis is that living neurons could become a useful inference substrate for AI workloads where conventional silicon is hitting power, heat, and capital walls. The company is a resident of Altitude Lab (a Recursion Pharmaceuticals incubator) and reports a $250,000 Nucleus Fund investment plus support from a SHIFT grant and an Altitude Lab Trail Angel Grant ([press release](intactis-bio-prnewswire.md)). Other reported investment commitments have not been verified from captured evidence.
 
-For the Great Work Utah wiki, Intactis is the strangest entry on this issue's cover by design: pre-revenue, pre-validation, but exactly the kind of frontier compute paradigm that would be irresponsible to leave out of a guide that's serious about what is being attempted in Utah.
+Intactis is pre-revenue and pre-validation, but it represents a frontier compute paradigm being attempted in Utah and is worth tracking on those terms.
 
 ## Impact
 
@@ -51,6 +51,7 @@ Intactis is a resident of [Altitude Lab](https://altitudelab.org/), the Recursio
 - [Intactis Bio website](https://www.intactis.bio/) · https://www.intactis.bio/
 - [Intactis Bio biocomputation alpha](https://www.intactis.bio/biocomputation-alpha) · https://www.intactis.bio/biocomputation-alpha
 - [PR Newswire: lab-grown neurons say "Hello, World"](https://www.prnewswire.com/news-releases/lab-grown-neurons-say-hello-world-and-perform-matrix-math-on-automated-platform-intactis-bio-corp-raises-250k-from-nucleus-fund-302724652.html) · https://www.prnewswire.com/news-releases/lab-grown-neurons-say-hello-world-and-perform-matrix-math-on-automated-platform-intactis-bio-corp-raises-250k-from-nucleus-fund-302724652.html — [source record](intactis-bio-prnewswire.md) · https://greatutah.work/pages/intactis-bio-prnewswire.md
+
 - [TechBuzz News: Intactis Bio and living neural tissue](https://www.techbuzznews.com/intactis-bio-pioneering-energy-efficient-ai-with-living-neural-tissue/) · https://www.techbuzznews.com/intactis-bio-pioneering-energy-efficient-ai-with-living-neural-tissue/
 - [Utah Business: Utah AI momentum and Intactis Bio](https://www.utahbusiness.com/deal-dispatch/2026/03/03/deal-dispatch-utah-ai-momentum-deep-tech-jump-intactis-bio-nucleus-fund/) · https://www.utahbusiness.com/deal-dispatch/2026/03/03/deal-dispatch-utah-ai-momentum-deep-tech-jump-intactis-bio-nucleus-fund/
 
@@ -58,4 +59,7 @@ Intactis is a resident of [Altitude Lab](https://altitudelab.org/), the Recursio
 
 - The strongest technical claims are currently company-reported; independent peer-reviewed replication is essential before any of this can be taken at face value.
 - The verified $250,000 Nucleus investment is pre-proof-of-concept territory ([press release](intactis-bio-prnewswire.md)); the company will need much more funding to survive to its next technical phase.
-- The current hero is an AI-generated illustration produced by the Cursor agent (Claude Opus 4.7), not a photograph of the actual Intactis biochip. The PNG file carries explicit AI-generation metadata (Software, Source = AI-generated, DigitalSourceType = TrainedAlgorithmicMedia, and a prominent Comment chunk). A license-clean photograph of the actual Intactis biochip and lab — or an approved company image — would be a meaningful upgrade.
+
+## Maintainer Notes
+
+- Earlier intake material mentioned additional investment commitments that remain unsupported by captured evidence.

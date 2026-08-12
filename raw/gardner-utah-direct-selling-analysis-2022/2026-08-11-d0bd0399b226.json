@@ -1,0 +1,16 @@
+{
+  "source_page": "gardner-utah-direct-selling-analysis-2022.md",
+  "requested_url": "https://gardner.utah.edu/wp-content/uploads/DirectSales-Aug2022.pdf",
+  "final_url": "https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/DirectSales-Aug2022.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T23:31:34.199Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "51d6b8595cb3c199ffbd544b56301a268c5a10c8732564cb365f0e662fcd7130",
+  "text_sha256": "d0bd0399b2264cb5843fe93c891ccf7bb7b62bc0a638d8900ed5d32ad1128c92",
+  "text_chars": 108139,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 24,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

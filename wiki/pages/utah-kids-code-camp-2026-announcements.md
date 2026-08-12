@@ -74,9 +74,8 @@ the camp's quality or turnout. What they carry is a **history the event page era
 2026 page shows August 1 as though it were always the date. Without these messages the reschedule and
 the volunteer shortfall are unrecoverable, and both bear on whether the camp is robustly staffed.
 
-The last quote is included because it is the source of a small structural fact — the camp's organizer
-found his event missing from a Utah tech calendar and said so publicly, which is how the wiki learned
-these two efforts are not automatically connected.
+The last quote establishes a small structural fact: the camp's organizer found his event missing
+from a Utah tech calendar, showing that the two efforts are not automatically connected.
 
 ## Related Pages
 

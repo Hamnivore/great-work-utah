@@ -61,7 +61,7 @@ Best fit: a research-backed company with plausible DoD, federal, state, local, o
 
 ## If The Need Is Actually A Match, Not A Program
 
-Some commercialization needs are not solved by a program application. The missing piece may be an operator, regulatory advisor, pilot customer, manufacturing partner, grant writer, technical cofounder, or fractional executive. In those cases, the wiki should create or use a match page that explains the specific person-to-venture fit.
+Some commercialization needs are not solved by a program application. The missing piece may be an operator, regulatory advisor, pilot customer, manufacturing partner, grant writer, technical cofounder, or fractional executive. In those cases, seek a match based on the specific person-to-venture fit.
 
 Nucleus can still be the connective tissue, but the recommendation should name the missing role and evidence. "Talk to Nucleus" is too vague unless the guide can say which Nucleus door and why.
 
@@ -96,3 +96,7 @@ Not every commercialization question is a deep-tech funding question. A research
 - Which Utah research spinouts have public evidence strong enough for venture pages?
 - What is the right checklist for deciding between SBIR/STTR, equity, licensing, and industry partnership?
 - Which regulated research areas are likely to benefit from Utah's sandbox instead of needing federal regulatory counsel first?
+
+## Maintainer Notes
+
+- Create or use match pages for recurring person-to-venture needs that cannot be served by a program page.

@@ -65,4 +65,3 @@ The regional composite structures cluster also includes Hexcel's facilities and 
 - Which specific airframe programs or platforms does ACT currently hold structural supply positions on?
 - Has the mid-tier composites supplier consolidation affected ACT's ownership or strategic independence?
 - What is ACT's current NDI and process certification footprint (AS9100, NADCAP)?
-- The placeholder hero should be replaced with a cleared facilities or hardware image when rights are confirmed.

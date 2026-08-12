@@ -20,7 +20,7 @@ The Bed Bath & Beyond consumer website is the primary retail storefront for Bed 
 
 - The site presents Bed Bath & Beyond as an online retailer offering furniture, bedding, bath, patio, rugs, cookware, décor, storage, jewelry, watches, and fashion at competitive prices.
 - The footer lists Bed Bath & Beyond, Inc. at 433 W Ascension Way, Suite 300, Murray, UT 84123.
-- The page previously asserted corporate rename history (Overstock.com → Beyond → Bed Bath & Beyond), NYSE ticker changes, and 2023 bankruptcy IP acquisition from investor materials; this capture does not show those details.
+- This capture does not establish the corporate rename history, ticker changes, or bankruptcy-related IP acquisition reported in investor materials.
 
 ## Verbatim
 

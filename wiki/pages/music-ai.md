@@ -52,4 +52,3 @@ Music AI is one of a small number of Utah companies with a genuinely global cons
 - 50M registered users ≠ 50M paying users. What is the paid-conversion rate and ARPU?
 - How does the licensed voice cloning model work legally and technically? What prevents artists from being cloned without consent even within the platform?
 - The source separation market is increasingly commoditized by open-source models. What is the durable moat?
-- Imagery: hero is a picsum placeholder pending a license-clean press photo.

@@ -61,8 +61,11 @@ Torus is a genuinely Utah-rooted hard-tech company: founded in the state, protot
 
 ## Open Questions
 
-- **Founding date / founders.** Torus's own materials say founded 2021; an internal note suggested ~2018 with founders Nate Walkingshaw and Gilbert Lee. Verify the date and current leadership before stating either definitively.
+- **Founding date / founders.** Torus's own materials say founded 2021. What primary records establish the date, founders, and current leadership?
 - **Capital structure.** A $200M investment from Magnetar plus up to $35M of equipment financing may indicate project-finance-style deployment rather than pure venture scaling ([Magnetar announcement](torus-magnetar-raise.md); [Trinity financing](torus-trinity-equipment-financing.md)).
 - **Unit economics.** Whether the hybrid flywheel-battery system is cost-competitive against lithium-only short-duration storage at deployed scale is the core unproven question.
 - **Scope shift.** Torus repositioned from earlier home/edge energy management toward "modular power plants" for utilities and data centers; verify how cleanly the underlying technology carried across.
-- **Imagery.** Hero is a deterministic picsum placeholder. A license-clean photo of a Torus unit or GigaOne (company press kit, with rights cleared) should replace it.
+
+## Maintainer Notes
+
+- Legacy internal notes suggested a founding around 2018 by Nate Walkingshaw and Gilbert Lee; do not assert that account without a citable source.

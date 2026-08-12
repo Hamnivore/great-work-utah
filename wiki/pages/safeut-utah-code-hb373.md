@@ -22,7 +22,7 @@ Enrolled bill **HB373 (2019 General Session)**, which codifies the SafeUT Crisis
 - **53B-17-1203** creates the **SafeUT and School Safety Commission**, whose membership includes a representative of the **Office of the Attorney General**; the **Office of the Attorney General shall provide staff support** to the commission.
 - **53B-17-1204** requires local education agency governing boards to **inform students, parents, and school personnel about the SafeUT Crisis Line**, and bars UNI from charging LEAs or the State Board of Education a fee for LEA use of the line.
 - The bill's fiscal note appropriates **$1,770,000** ongoing from the **Education Fund** to **University of Utah - SafeUT Crisis Text and Tip Line - SafeUT Operations** (line item **SafeUT Operations**).
-- The bill text uses **University Neuropsychiatric Institute**, not "Huntsman Mental Health Institute"; the wiki treats that as a rename unless a later statute capture says otherwise.
+- The bill text uses the predecessor name **University Neuropsychiatric Institute**, not "Huntsman Mental Health Institute."
 
 ## Verbatim
 

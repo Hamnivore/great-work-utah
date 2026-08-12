@@ -24,7 +24,7 @@ Orbit Irrigation Products makes residential and light-commercial irrigation equi
 Husqvarna's filings describe Orbit as based in **Salt Lake City, Utah**, with about **300 employees** and more than **95% of revenue in North America**
 ([year-end report 2021](husqvarna-year-end-report-2021-orbit.md)). A 2018 *Utah Business* feature places product development, final assembly, and the distribution warehouse in **North Salt Lake**
 ([Utah Business, 2018](utah-business-orbit-product-lifecycle-2018.md)). Orbit's own B-hyve page says the company has built sprinkler equipment in **Salt Lake City since 1970** and that the **same Utah team** still designs B-hyve after the Husqvarna deal
-([B-hyve page](orbit-b-hyve-product-page.md)). **Bountiful** appears in the lead summary but is **not named in any captured source here** — likely a mailing-address or legacy listing not verified in this pass.
+([B-hyve page](orbit-b-hyve-product-page.md)). **Bountiful** is **not named in any captured source here** and may reflect an unverified mailing address or older listing.
 
 ## Impact
 
@@ -44,7 +44,7 @@ The honest counterweight: post-acquisition strategy is set in Stockholm by Husqv
 
 Orbit is one of the larger durable-goods manufacturers still tied to Davis County — North Salt Lake assembly and distribution documented in 2018, with Husqvarna continuing to describe a Salt Lake City-based U.S. business in 2021 filings. That makes it a concrete link between the wiki's `materials-mfg` cluster and Western water use (`energy` as a secondary domain tag for water-as-resource).
 
-The location story is messy: corporate filings and Orbit marketing emphasize Salt Lake City; manufacturing and warehouse work is documented in North Salt Lake; the lead's Bountiful reference is unresolved. The page records the conflict rather than collapsing it.
+The location story is messy: corporate filings and Orbit marketing emphasize Salt Lake City; manufacturing and warehouse work is documented in North Salt Lake; the Bountiful reference remains unresolved. The page records the conflict rather than collapsing it.
 
 ## What They Need Now
 
@@ -66,3 +66,7 @@ The 2018 article notes tight Utah labor markets for local manufacturing hires
 - [Source: Husqvarna Group — Orbit Irrigation Acquisition Press Release (2021)](husqvarna-orbit-acquisition-press-2021.md) · https://greatutah.work/pages/husqvarna-orbit-acquisition-press-2021.md · https://www.husqvarnagroup.com/en/press/husqvarna-group-acquire-orbit-irrigation-us-creating-global-market-leader-residential
 - [Source: Husqvarna Group Year-End Report January–December 2021](husqvarna-year-end-report-2021-orbit.md) · https://greatutah.work/pages/husqvarna-year-end-report-2021-orbit.md · https://www.husqvarnagroup.com/sites/husqvarna/files/pr/202202023277-1.pdf
 - [Source: Utah Business — Orbit Product Lifecycle (2018)](utah-business-orbit-product-lifecycle-2018.md) · https://greatutah.work/pages/utah-business-orbit-product-lifecycle-2018.md · https://www.utahbusiness.com/archive/2018/06/13/there-and-back-the-lifecycle-of-a-utah-product/
+
+## Maintainer Notes
+
+- Earlier lead material supplied Bountiful as a location, but no captured source establishes it. Preserve the unresolved location conflict without presenting the lead as evidence.

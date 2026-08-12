@@ -38,6 +38,11 @@ Promontory's remoteness was not incidental. A large rocket-motor plant needs dis
 
 The Challenger disaster is part of this page, not an aside. The Shuttle's O-ring failure, engineer warnings, and launch decision became a canonical case study in organizational failure and engineering ethics. The work's defense role also means the impact story is morally mixed: technical excellence served both space exploration and nuclear deterrence.
 
+## Open Questions
+
+- Which primary records best establish the Promontory site's program history and the attribution of specific propellant formulations?
+- How should the contributions of Thiokol engineers, NASA, military customers, and later corporate owners be distinguished across the site's major programs?
+
 ## Evidence
 
 - [Northrop Grumman: Promontory and solid rocket motors](https://www.northropgrumman.com/space/solid-rocket-boosters) · https://www.northropgrumman.com/space/solid-rocket-boosters
@@ -45,7 +50,6 @@ The Challenger disaster is part of this page, not an aside. The Shuttle's O-ring
 - [Rogers Commission Report on the Space Shuttle Challenger accident](https://history.nasa.gov/rogersrep/genindex.htm) · https://history.nasa.gov/rogersrep/genindex.htm
 - [Wikipedia: Thiokol](https://en.wikipedia.org/wiki/Thiokol) · https://en.wikipedia.org/wiki/Thiokol
 
-## Open Questions
+## Maintainer Notes
 
 - Add stronger source records for Promontory site history, Minuteman/Polaris attribution, and the PBAN formulation.
-- A current licensed photo of booster-segment manufacturing or Promontory test infrastructure would improve the page.

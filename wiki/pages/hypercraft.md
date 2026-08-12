@@ -60,4 +60,3 @@ Hypercraft sits in Utah's growing aerospace-and-defense cluster, near Provo. Its
 - **Foreign strategic investment.** The SDF / EDGE Group (UAE) stake raises real questions about IP sharing, technology export, and eligibility for sensitive U.S. defense programs. A prospective employee or partner should understand these constraints before relying on the page.
 - **Commercial scale.** Platform counts and customer relationships are largely company-reported; the path from early validation to a dominant position in a crowded field (Oshkosh, AM General, Textron, and other startups) is not yet clear.
 - **Sales motion.** "Software-defined powertrain" requires OEMs to open their vehicle architectures — a slower sale than delivering a finished vehicle. Whether OEMs will adopt the platform model is unresolved.
-- **Imagery.** Hero is a deterministic picsum placeholder; a license-clean Hypercraft photograph (with rights cleared) should replace it.

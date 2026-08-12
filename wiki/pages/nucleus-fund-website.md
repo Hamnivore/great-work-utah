@@ -44,4 +44,3 @@ This is the fund's official public site. It is useful for current positioning an
 
 - [Nucleus Fund](nucleus-fund.md)
 - [Startup Capital in Utah](startup-capital-in-utah.md)
-

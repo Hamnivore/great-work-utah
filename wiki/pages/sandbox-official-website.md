@@ -29,7 +29,7 @@ Sandbox's official website describes a for-credit entrepreneurship program where
 ## Verbatim
 
 > "Sandbox is one intense year spent creating a venture-scale startup, surrounded by the hungriest young builders in the country."
-> — Home page, hero
+> — Home page, heading
 
 > "Sandbox isn't for side hustles. Over a dozen Sandbox companies have been venture backed at a combined valuation of $262M. 6 Sandbox companies have been accepted to Y Combinator."
 > — Outcomes section

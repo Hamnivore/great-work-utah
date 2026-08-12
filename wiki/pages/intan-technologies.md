@@ -65,4 +65,3 @@ Intan is not headquartered in Utah, but Reid Harrison's University of Utah Neura
 - Exact current headcount, revenue, and ownership structure are not established on this page.
 - How the 2026 White Mountain Systems distribution arrangement affects Intan's direct customer relationships and roadmap should be tracked.
 - Competition at the high end from Neuropixels (IMEC) and other integrated platforms may shift which labs buy discrete Intan chips versus all-in-one probes.
-- The placeholder hero should be swapped for a cleared product, chip, or lab image before magazine layout use.

@@ -18,11 +18,9 @@ LVT's official website describes the company as an American Fork, Utah provider 
 
 ## Useful Claims
 
-- Founded in 2005 by Ryan Porter (CEO) and Bob Brenner; began with construction-site streaming and expanded into remote physical security (not in this homepage capture).
-- Products are self-contained mobile units (cameras, solar power, cellular connectivity, lights/strobes/speakers) plus a cloud video-management platform; a wall-mounted unit was added in 2025 (not in this capture).
-- The September 2022 press release describes a combined equity-and-debt financing package (specific amounts not in this homepage capture).
+- Products are self-contained mobile units combining cameras, solar power, cellular connectivity, lights, strobes, and speakers with a cloud video-management platform.
 - Headquarters at 802 E 1050 S, American Fork, UT; manufacturing in Spanish Fork, UT.
-- The page previously asserted founding in 2005 by Ryan Porter and Bob Brenner, product details including a 2025 wall-mounted unit, and a September 2022 combined financing breakdown; this homepage capture does not show those facts.
+- This homepage capture does not establish the company's founding history, the wall-mounted unit's launch timing, or the combined financing breakdown reported elsewhere.
 
 ## Verbatim
 
@@ -37,8 +35,12 @@ LVT's official website describes the company as an American Fork, Utah provider 
 
 ## Reliability Notes
 
-Official source: reliable for product description, history, locations, and the structure of the 2022 financing, but not neutral for outcome claims (crime-reduction percentages, deterrence effectiveness), which come from company case studies. Deployment counts (15,000+) and headcount (200+) appear in 2025 trade coverage and are date-sensitive. The 2022 $135M figure combines equity and debt and should not be cited as a single equity round. **Capture note:** founding history, the 2022 financing structure, and the 2025 wall-mounted unit cited on this page are not present on the captured homepage; corroborate from press releases or other primary pages before citing them as homepage evidence.
+This official source is useful for product descriptions and locations but is not neutral about outcome claims such as crime-reduction percentages and deterrence effectiveness. Deployment counts and headcount from 2025 trade coverage are date-sensitive. The reported 2022 $135 million figure combines equity and debt and should not be cited as a single equity round. The captured homepage does not establish the founding history, financing structure, or 2025 wall-mounted unit; those claims require press releases or other primary pages.
 
 ## Related Pages
 
 - [LiveView Technologies (LVT)](liveview-technologies.md)
+
+## Maintainer Notes
+
+- Earlier page copy attributed founding, financing, and 2025 product details to this homepage; use dedicated primary sources before restoring those attributions.

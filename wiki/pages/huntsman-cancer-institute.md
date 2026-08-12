@@ -60,4 +60,3 @@ HCI is the gravitational center of Utah life sciences. Its discoveries and peopl
 - HCI reports a leadership transition: Bradley Cairns, PhD, a chromatin biologist and longtime University of Utah researcher, became CEO on September 1, 2025, succeeding Mary Beckerle. How strategy and the translational push evolve under Cairns is a genuine watch item.
 - Public sources describe the founding and later expansion of U2TAH, but the original commitment amount is not supported by the captured HCI homepage. The accelerator's current scale and spinout track record should be verified before strong claims.
 - Annual patient volumes, research funding totals, and the number of UPDB-driven discoveries are referenced qualitatively here and not pinned to primary figures in this pass.
-- Imagery is a deterministic placeholder. A license-cleared photograph of the institute, its research facilities, or the new Vineyard center should replace it before this renders as a marquee page.

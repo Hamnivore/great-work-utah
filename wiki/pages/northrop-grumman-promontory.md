@@ -69,9 +69,12 @@ The ethical dimension of defense-prime and nuclear-weapons work deserves acknowl
 ## Open Questions
 
 - Several figures formerly on this page were not carried by either primary source and were removed: booster dimensions and thrust, total Sentinel program cost, and site-level Utah headcount. NASA technical documentation, an Air Force or GAO acquisition report, and Utah workforce data would settle them.
-- The award record and the 10-K both say **Corinne**, not Promontory — Corinne is the plant's postal city. Whether the wiki should title this page by the plant name or the postal city is a naming question worth settling once, since search traffic and federal records disagree.
+- The award record and the 10-K both say **Corinne**, not Promontory — Corinne is the plant's postal city. Which name best identifies the site across historical, postal, and public usage?
 - What is the current Sentinel ICBM production schedule and what does Promontory's role look like through the 2030s?
 - What is the BOLE motor's planned transition timeline for operational Artemis missions replacing the legacy SLS booster?
 - How has the Promontory workforce changed under Northrop ownership compared to the legacy ATK/Thiokol era?
 - What supplier and subcontract relationships connect Promontory to the broader Utah aerospace ecosystem?
-- The placeholder hero should be replaced with a cleared facility or static test fire image when rights are confirmed.
+
+## Maintainer Notes
+
+- Settle whether the canonical title should follow the Promontory plant name or the Corinne postal city; search usage and federal records disagree.

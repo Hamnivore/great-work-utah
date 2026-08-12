@@ -46,8 +46,12 @@ Given the named board — Indigo Partners, Cleanhill Partners, and retired Air F
 - Which defense programs or platforms use CycloKinetics fuels? No named customer or contract is public.
 - Is CycloKinetics a separate legal entity from CleanJoule, or a brand/business line operating on shared infrastructure? The public record does not clarify corporate structure.
 - What independent test data exists behind the "up to 32 percent" energy-density figure reported by Flying magazine, and how does it relate to the site's own unquantified "measurable improvements" language?
-- No public street address or facility coordinates for CycloKinetics specifically have been confirmed; verify before adding map metadata.
+- No public street address or facility coordinates for CycloKinetics specifically have been confirmed.
 
 ## See Also
 
 - [CleanJoule](cleanjoule.md)
+
+## Maintainer Notes
+
+- Do not add map metadata until a public CycloKinetics address or facility coordinate is verified.

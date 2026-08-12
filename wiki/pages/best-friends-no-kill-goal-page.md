@@ -52,7 +52,7 @@ names a target year anywhere. The 2016 goal appears only in the past tense.
 > — "The future has never looked brighter for America's pets"
 
 > After decades of work, no-kill is within reach, thanks to you
-> — Page title and hero heading
+> — Page title and page heading
 
 > We’ve come a long way since the first known city reached no-kill in 1994, and now we’re closer than ever to making the entire country no-kill. Of the roughly 3,900 shelters operating in America today, 1,300 of them are not yet no-kill, but nearly half are close with 100 or fewer additional pets to be saved, and we know what to do to get them there.
 > — Body

@@ -40,7 +40,7 @@ A July 2014 University of Utah Health press release describes BioEnergenix as a 
 
 ## Reliability Notes
 
-This is an institutional press release tied to a specific 2014 publication — useful for spinoff provenance and the PASK-inhibition thesis, but not for current company status, pipeline stage, headquarters, funding, or clinical progress. **No official company website was found during this migration.** Third-party directories (not captured here) disagree on headquarters and later-stage development; those claims should not be treated as verified without primary filings or company disclosures. Evidence gap: nothing reviewed confirms BioEnergenix is still actively operating or advancing the same candidate as of 2026-06-19.
+This is an institutional press release tied to a specific 2014 publication — useful for spinoff provenance and the PASK-inhibition thesis, but not for current company status, pipeline stage, headquarters, funding, or clinical progress. **No official company website has been confirmed.** Third-party directories disagree on headquarters and later-stage development; those claims should not be treated as verified without primary filings or company disclosures. Evidence gap: nothing reviewed confirms BioEnergenix is still actively operating or advancing the same candidate as of 2026-06-19.
 
 ## Related Pages
 

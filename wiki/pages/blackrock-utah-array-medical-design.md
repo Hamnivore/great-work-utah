@@ -20,7 +20,7 @@ Industry-press coverage of Blackrock Neurotech's Utah Electrode Array, including
 
 - The Utah Array gathers neural signals across up to 96–100 electrode channels per device.
 - Public coverage describes more than 30,000 cumulative patient-days of human implantation across paralysis and ALS studies.
-- The page previously asserted MoveAgain has FDA Breakthrough Device designation; this capture does not mention MoveAgain or that designation.
+- This capture does not establish the reported claim that MoveAgain has FDA Breakthrough Device designation; it mentions neither MoveAgain nor the designation.
 - Neuralace is described in public coverage as a flexible array with more than 10,000 channels.
 
 ## Verbatim

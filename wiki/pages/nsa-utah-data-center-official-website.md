@@ -45,8 +45,6 @@ No public-facing official website exists for the NSA Utah Data Center — as a c
 
 ## Reliability Notes
 
-This record was previously typed `official-page` and credited to "National Security Agency / Department of Defense" while pointing at Wikipedia — a contradiction its own Summary already described, and the worst kind, because the tier and the publisher line together made a crowdsourced encyclopedia read as the agency speaking about its own facility. It is now typed `reference` and credited to Wikipedia's contributors. Nothing about the underlying document changed; what changed is that the page no longer claims an authority it never had. The slug still ends in `-official-website`, which is a leftover from that mistake rather than a description of this source.
-
 This capture does not state reported power consumption, aquifer water cooling, or contractor staffing (Booz Allen Hamilton, SAIC, Leidos, Raytheon). Those claims stand on the reporting named below, not on this document.
 
 No primary government source is publicly available for operational details. The Wikipedia article is the most comprehensive public synthesis but draws largely from investigative journalism (Wired, 2012) and leaked documents (2013 Snowden disclosures). NSA has not officially confirmed specific technical specifications. Power consumption figures are derived from utility filings and contractor disclosures, not NSA confirmation. All operational and capability figures should be treated as publicly estimated, not officially confirmed.
@@ -59,3 +57,8 @@ No primary government source is publicly available for operational details. The 
 
 - [Wired: The NSA Is Building the Country's Biggest Spy Center (2012)](https://www.wired.com/2012/03/ff-nsadatacenter/) · https://www.wired.com/2012/03/ff-nsadatacenter/ — the primary public investigative account of the facility
 - [NSA Careers](https://www.intelligencecareers.gov/nsa) · https://www.intelligencecareers.gov/nsa — official entry point for civilian NSA employment inquiries
+
+## Maintainer Notes
+
+- This record was formerly typed `official-page` and credited to the NSA/Department of Defense even though it points to Wikipedia. It is now correctly typed `reference` and credited to Wikipedia contributors.
+- The `-official-website` slug is stale migration residue; preserve inbound links if renaming it.

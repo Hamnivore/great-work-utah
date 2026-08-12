@@ -20,7 +20,7 @@ Music AI's official website describes the company's AI-powered music tools platf
 
 - The site positions music.ai as an AI music platform for musicians, producers, and creators, with the Moises app as the primary consumer-facing product.
 - Source separation (isolating vocals, instruments, and individual stems from mixed recordings) is described as the core capability — enabling remixing, practice, transcription, and composition.
-- The page previously asserted registered-user counts, an Apple iPad App of the Year award, licensed voice cloning, Series A funding and named investors, artist-investors, and founder names; this capture does not show those details.
+- This capture does not show registered-user counts, an Apple iPad App of the Year award, licensed voice cloning, Series A funding or named investors, artist-investors, or founder names.
 
 ## Verbatim
 
@@ -50,3 +50,7 @@ This is an official company source. It is useful for product positioning, featur
 
 - [Series A Announcement](https://music.ai/blog/press/music-ai-raises-40m-series-a/) · https://music.ai/blog/press/music-ai-raises-40m-series-a/ — official press release with investor and funding details
 - [Utah Business: Kickstart on Music AI Investment](https://www.utahbusiness.com/industry/2025/05/27/kickstart-invested-music-ai-utah/) · https://www.utahbusiness.com/industry/2025/05/27/kickstart-invested-music-ai-utah/ — third-party coverage of Kickstart's rationale
+
+## Maintainer Notes
+
+- Earlier page copy attributed the omitted user, award, licensing, financing, investor, and founder details to this homepage; verify them against dedicated sources before restoring them.

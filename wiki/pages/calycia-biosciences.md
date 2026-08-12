@@ -21,7 +21,7 @@
 
 CaLycia Biosciences is a Salt Lake City biotechnology company developing macrophage-based cell therapies for aggressive solid tumors of the brain. Its lead program, CALYM-001, targets glioblastoma through local intracranial delivery of engineered macrophages — an approach designed to bypass blood-brain-barrier and solid-tumor microenvironment limits that have constrained systemic CAR-T success.
 
-Legacy intake material places the company as a University of Utah spinout from the Roh-Johnson lab, resident in the Altitude Lab ecosystem, with seed support from the Cumming Foundation. The official website confirms Salt Lake City location and preclinical pipeline stage but does not name founders or investors on the pages reviewed.
+Other materials describe the company as a University of Utah spinout from the Roh-Johnson lab, resident in the Altitude Lab ecosystem, with seed support from the Cumming Foundation. The official website confirms Salt Lake City location and preclinical pipeline stage but does not establish those founder or investor claims.
 
 ## Impact
 
@@ -69,4 +69,3 @@ CaLycia is headquartered in Salt Lake City and appears connected to the Universi
 - IND filing timeline, specific CAR or receptor engineering approach, and clinical-site strategy are undisclosed publicly.
 - Independent replication of in-vivo efficacy claims requires peer-reviewed publication or investor data-room verification.
 - GBM clinical attrition is historically high; platform extension to CALYM-002 depends on lead-program validation.
-- The placeholder hero should be replaced with a cleared scientific or company image before magazine layout use.

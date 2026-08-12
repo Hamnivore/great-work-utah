@@ -21,9 +21,13 @@ The University of Utah ArchivesSpace corporate-entity record and the History of 
 
 ## Reliability Notes
 
-This is a workable source record, but it remains weaker than the others in this pass. The archive record is official but sparse, and the historical website is secondary. A later pass should add SEC filings, original manuals, company annual reports, Computer History Museum artifacts, or University of Utah archival finding aids for product dates and business claims.
+This source record is limited: the archive record is official but sparse, and the historical website is secondary. It does not independently establish all product dates and business claims.
 
 ## Related Pages
 
 - [Evans & Sutherland](evans-and-sutherland.md)
 - [University of Utah Computer Graphics Program](utah-computer-graphics-program.md)
+
+## Maintainer Notes
+
+- Add SEC filings, original manuals, company annual reports, Computer History Museum artifacts, or University of Utah archival finding aids for product dates and business claims.

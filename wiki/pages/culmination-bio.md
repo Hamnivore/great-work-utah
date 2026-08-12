@@ -69,4 +69,3 @@ The spinout also sits near Utah's broader life-sciences cluster — companies su
 - How representative is Intermountain's Intermountain West patient population for generalizable drug-discovery use cases, especially for population-specific biology?
 - What governance constraints does Intermountain Health's nonprofit parent place on Culmination's commercial independence?
 - Should the Intermountain launch announcement and Amgen/Merck backing be captured as dedicated wiki source pages?
-- The placeholder hero should be replaced with a cleared facilities or data-platform image when rights are confirmed.

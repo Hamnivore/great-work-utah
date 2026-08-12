@@ -61,4 +61,3 @@ Zanskar is headquartered in Salt Lake City and sits inside the same Utah geother
 
 - One confirmed blind-system discovery is a strong signal but not yet proof that the method generalizes; future verifications are the central evidence to watch.
 - The revenue model — licensing exploration software, co-developing projects, or operating wholly-owned sites — has direct implications for which talent profiles fit best.
-- The Wikimedia and press archives do not yet have a license-clean rig or mapping image for Zanskar specifically; the current placeholder hero should be replaced with an approved company photograph or a public-domain Utah geothermal field shot when available.

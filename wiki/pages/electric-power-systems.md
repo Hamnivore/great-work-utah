@@ -70,4 +70,3 @@ EPS is part of a growing Utah aerospace and eVTOL cluster anchored by the 2034 W
 - Which customer contracts are confirmed vs. in negotiation post-EPiC 2.0 announcement?
 - What is the verified value and structure of the state incentive — grants, tax credits, or infrastructure investment?
 - What is the competitive position relative to ZeroAvia, magniX, and other propulsion providers as the eVTOL market consolidates?
-- The placeholder hero should be replaced with a cleared product or facilities image when rights are confirmed.

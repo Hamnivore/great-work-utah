@@ -21,7 +21,7 @@ Skullcandy's official website describes a consumer audio brand selling headphone
 - The site positions Skullcandy as a consumer audio brand spanning headphones, earbuds, gaming products, speakers, and bundles.
 - Current homepage highlights include Crusher sensory-bass headphones (1080 ANC and 720 lines), Method 360 earbuds, and Sound by Bose collaborations.
 - Skullcandy Soundlab offers members free shipping (thresholds vary on the page: over $49 for members vs. over $175 in the promo banner).
-- The page previously listed Crusher ANC 2, Dime 360, Skullcandy x Realtree, a 1-year warranty, and easy returns; those exact labels are not on this capture.
+- This capture does not show the exact labels Crusher ANC 2, Dime 360, Skullcandy x Realtree, a 1-year warranty, or easy returns.
 
 ## Verbatim
 
@@ -47,7 +47,7 @@ Skullcandy's official website describes a consumer audio brand selling headphone
 
 ## Reliability Notes
 
-This is an official company source. It is useful for current product categories, brand positioning, and retail policies. Founding history, acquisition details, philanthropic foundation claims, and leadership information from legacy intake should be cross-checked with press coverage or corporate filings before being used as high-confidence evidence.
+This is an official company source. It is useful for current product categories, brand positioning, and retail policies. Founding history, acquisition details, philanthropic foundation claims, and leadership information require corroboration from press coverage or corporate filings before being used as high-confidence evidence.
 
 **Drift note.** Product SKUs and commerce policies on the 2026-08-11 homepage differ from earlier intake (Crusher ANC 2 → Crusher 1080/720 lineup; Realtree collaboration and 1-year warranty language not visible on this capture).
 

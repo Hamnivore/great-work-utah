@@ -55,4 +55,3 @@ This is an official program page. It is useful for routing founders toward lende
 
 - [Utah Small Business Credit Initiative](utah-small-business-credit-initiative.md)
 - [Startup Capital in Utah](startup-capital-in-utah.md)
-

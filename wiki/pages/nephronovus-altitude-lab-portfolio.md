@@ -45,7 +45,7 @@ Altitude Lab's public portfolio lists NephroNovus as a therapeutics company esti
 
 ## Reliability Notes
 
-Portfolio listings validate incubator association and high-level positioning, not clinical data, financing, or reproducible science. Alumni status suggests the company completed or exited Altitude Lab residency — this may differ from older intake notes describing active incubation. Resident-story claims about renal fibrosis and the co-founding team come from a separate Altitude Lab article linked in See Also; they are not present in this portfolio capture. No peer-reviewed publications, patents, or regulatory filings tying specific assets to NephroNovus were captured in this source record. Team size, disclosed funding, and lead compounds remain unknown in primary materials reviewed.
+Portfolio listings validate incubator association and high-level positioning, not clinical data, financing, or reproducible science. Alumni status suggests the company completed or exited Altitude Lab residency, but does not establish its current operating status. Resident-story claims about renal fibrosis and the co-founding team come from a separate Altitude Lab article linked in See Also; they are not present in this portfolio capture. No peer-reviewed publications, patents, or regulatory filings tying specific assets to NephroNovus were captured in this source record. Team size, disclosed funding, and lead compounds remain unknown in primary materials reviewed.
 
 ## Related Pages
 
@@ -54,3 +54,7 @@ Portfolio listings validate incubator association and high-level positioning, no
 ## See Also
 
 - [Building a Startup with My Dad: Lessons in Family, Boundaries, and Trust](https://altitudelab.org/articles/building-a-startup-with-my-dad-lessons-in-family-boundaries-and-trust) · https://altitudelab.org/articles/building-a-startup-with-my-dad-lessons-in-family-boundaries-and-trust — Altitude Lab resident story with renal-fibrosis mission statement (narrative, not technical evidence)
+
+## Maintainer Notes
+
+- Older intake described active incubation; the portfolio now labels NephroNovus an alumnus. Do not silently treat either status as current without a dated source.

@@ -25,7 +25,7 @@ The Kinect Capital official site describes a Salt Lake City 501(c)(3) nonprofit 
 ## Verbatim
 
 > "A mentor-driven accelerator connecting founders, investors, and opportunity."
-> — Home page, hero
+> — Home page, heading
 
 > "Build a company that investors believe in. Raise capital with confidence. Accelerate growth from where you are with a nationwide mentor network."
 > — Home page, founders section

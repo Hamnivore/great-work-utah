@@ -107,6 +107,9 @@ For research-backed and deep-tech ventures, the highest-leverage early advisor i
 
 ## Open Questions
 
-- Which named individual mentors and equity advisors should become `people/` pages this guide can route to?
 - Should there be a dedicated answer page for "what should an advisor cost, in cash or equity, at each stage"?
 - Which Utah angel groups or operator networks belong here as the wiki adds investor and mentor coverage?
+
+## Maintainer Notes
+
+- Which named individual mentors and equity advisors should become `people/` pages this guide can route to?

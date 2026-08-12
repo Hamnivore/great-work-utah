@@ -64,4 +64,3 @@ North Salt Lake is not a traditional clean-energy hub, but OxEon's presence refl
 - What is OxEon's path from DOE-funded R&D to commercial product revenue? What does the customer pipeline look like?
 - How does SOEC stack durability compare to PEM over 10,000+ operational hours in commercial hydrogen plant conditions?
 - What is the status of post-MOXIE space applications — lunar ISRU contracts, Mars habitat planning?
-- The placeholder hero should be replaced with a cleared product or facilities image when rights are confirmed.

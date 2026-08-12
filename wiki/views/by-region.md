@@ -1,6 +1,6 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (478 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (480 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
@@ -328,6 +328,7 @@ Generated from `**Region:**` metadata (478 pages with a region). Sector hubs sti
 - [Hope Squad](/pages/hope-squad.md) · `https://greatutah.work/pages/hope-squad.md` · health-bio
 - [Hypercraft](/pages/hypercraft.md) · `https://greatutah.work/pages/hypercraft.md` · aerospace-defense, energy
 - [iHub](/pages/ihub.md) · `https://greatutah.work/pages/ihub.md` · resource
+- [Nu Skin Enterprises](/pages/nu-skin.md) · `https://greatutah.work/pages/nu-skin.md` · health-bio, materials-mfg
 - [Qualtrics](/pages/qualtrics.md) · `https://greatutah.work/pages/qualtrics.md` · computing
 - [RevRoad](/pages/revroad.md) · `https://greatutah.work/pages/revroad.md` · capital-programs
 - [Startup Ignition Ventures](/pages/startup-ignition-ventures.md) · `https://greatutah.work/pages/startup-ignition-ventures.md` · resource
@@ -719,6 +720,7 @@ Generated from `**Region:**` metadata (478 pages with a region). Sector hubs sti
 - [Utah Department of Agriculture & Food](/pages/utah-department-of-agriculture-and-food.md) · `https://greatutah.work/pages/utah-department-of-agriculture-and-food.md` · resource
 - [Utah Department of Workforce Services](/pages/utah-department-of-workforce-services.md) · `https://greatutah.work/pages/utah-department-of-workforce-services.md` · resource
 - [Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md) · `https://greatutah.work/pages/utah-digital-entertainment-network.md` · resource
+- [Utah's Direct-Selling Industry](/pages/utah-direct-selling-industry.md) · `https://greatutah.work/pages/utah-direct-selling-industry.md` · health-bio, materials-mfg, culture-place
 - [Utah Division of Outdoor Recreation](/pages/utah-division-of-outdoor-recreation.md) · `https://greatutah.work/pages/utah-division-of-outdoor-recreation.md` · resource
 - [Utah Farmers Market Network](/pages/utah-farmers-market-network.md) · `https://greatutah.work/pages/utah-farmers-market-network.md` · resource
 - [Utah Film Center Fiscal Sponsorship](/pages/utah-film-center-fiscal-sponsorship.md) · `https://greatutah.work/pages/utah-film-center-fiscal-sponsorship.md` · culture-place, capital-programs

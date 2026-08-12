@@ -27,7 +27,7 @@ facility would rest on a third-party directory listing and nothing else.
 
 - BTAC published its address as **375 S. Carbon Ave, Price, UT 84501**, with phone **(435) 637-7336**
   and contact address `info@btac.business`. This agrees with the organization's IRS registration and
-  contradicts the third-party directory address the wiki page previously carried.
+  contradicts the address in a third-party directory listing.
 - The site described a coworking space in **Carbon County, Utah**, and stated a mission of providing
   remote workspace, business incubation space, and a technology learning space in partnership with
   local governments, educational institutions, and local businesses, to build an entrepreneurial
@@ -46,7 +46,7 @@ facility would rest on a third-party directory listing and nothing else.
 
 > "Our dynamic coworking space – located in Carbon County, Utah – is the perfect setting for a growing
 > business to flourish"
-> — Home page, hero
+> — Home page, heading
 
 > "BTAC Mission Statement To provide innovative ongoing professional remote workspace, services, and
 > business incubation space, and a hands on technological learning space by partnering with local

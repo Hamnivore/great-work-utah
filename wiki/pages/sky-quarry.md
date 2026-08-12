@@ -68,4 +68,3 @@ The Woods Cross headquarters places the company in the North Salt Lake / Davis C
 - How does the oil sands extraction volume compare to the shingle recycling volume in the facility design, and what is the revenue split?
 - What is the current share float, market cap, and runway for a small-cap public company at this development stage?
 - Does Sky Quarry have binding shingle feedstock supply agreements, or is the waste supply chain still uncontracted?
-- The placeholder hero should be replaced with a cleared facility or process image when rights are confirmed.

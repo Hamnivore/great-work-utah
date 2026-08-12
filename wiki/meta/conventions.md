@@ -170,6 +170,14 @@ website). Plan and phasing: `research/design/raw-source-capture.md`.
 
 Impact sections argue the charter's dimensions — depth, breadth, permanence, bounds, counterfactual — as prose with reasoning, plus `**Bet:**` where the work is contrarian.
 
+Every page type may end with an optional `## Maintainer Notes` section. When present, it must be
+the final level-two section and must not be empty. Put wiki-production work there: presentation and
+asset tasks, migration or internal-provenance notes, unresolved editorial decisions, and cleanup or
+tooling instructions. This section is editorial state, not evidence, and must not be cited as support
+for a factual claim. Reader-relevant uncertainty stays in `## Open Questions`; limitations that
+change how a source should be weighed stay in `## Reliability Notes`; warnings that affect how a
+reader should use a resource stay in the normal page prose.
+
 ## Links
 
 Same-directory relative links only: `[Fervo Energy](fervo-energy.md)`. A link to a page that should exist but doesn't is allowed — lint reports it to the wanted queue rather than failing.

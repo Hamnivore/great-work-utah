@@ -39,7 +39,7 @@ These are complements, not substitutes. Start with JustBuild when you want a low
 The strongest Utah path into a founding team for research-backed work runs through commercialization and talent networks rather than cold outreach.
 
 - [Nucleus Institute](nucleus-institute.md) — explicitly works across talent, commercialization, and capital, and describes connecting students, researchers, founders, and mentors to high-impact work. For a researcher who needs a business-side partner (or a business operator who needs a technical/research partner), it is the most relevant connector currently in the wiki.
-- University entrepreneurship programs, labs, and student project teams are natural places to meet a complementary cofounder through real work. (These deserve dedicated wiki pages — see Open Questions.)
+- University entrepreneurship programs, labs, and student project teams are natural places to meet a complementary cofounder through real work.
 
 ### If You Need A Business / Commercial Cofounder
 
@@ -102,7 +102,10 @@ Whatever you decide, get the structure right: cofounder equity should vest over 
 
 ## Open Questions
 
-- Which Utah university entrepreneurship programs, student venture teams, and ecosystem hubs (e.g., Silicon Slopes-style communities) should become dedicated `resources/` or `helpers/` pages this guide can route to?
 - Do JustBuild or Sandbox produce enough durable founding teams to support outcome-based comparison rather than anecdotal guidance?
-- Should the wiki host a `people/` layer of operators and technical builders open to founding teams, so this guide can make specific (clearly consented) introductions?
-- Would a dedicated answer page on cofounder equity splits and vesting for Utah founders be useful?
+
+## Maintainer Notes
+
+- Which Utah university entrepreneurship programs, student venture teams, and ecosystem hubs (e.g., Silicon Slopes-style communities) should become dedicated `resources/` or `helpers/` pages this guide can route to?
+- Decide whether to add consent-based person pages for operators and technical builders open to founding teams.
+- Consider a dedicated answer page on cofounder equity splits and vesting for Utah founders.

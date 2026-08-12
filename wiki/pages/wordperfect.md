@@ -58,4 +58,3 @@ WordPerfect is documented here for its historical Utah impact, not as a verified
 - What are the current revenue, user counts, and product roadmap for WordPerfect Office under Corel's ownership?
 - How much of the "reveal codes" user base in legal and government has survived the Microsoft 365 consolidation of the 2020s?
 - Are there reliable headcount and revenue records from WordPerfect Corporation's peak (late 1980s to early 1990s) that would allow a precise comparison to Silicon Slopes companies today?
-- The placeholder hero should be swapped for a historical photograph of the WordPerfect Corporation campus or a period-accurate product screenshot.

@@ -1,0 +1,16 @@
+{
+  "source_page": "ftc-warning-letter-modere-2020.md",
+  "requested_url": "https://www.ftc.gov/system/files/warning-letters/covid-19-letter_to_modere_inc.pdf",
+  "final_url": "https://www.ftc.gov/system/files/warning-letters/covid-19-letter_to_modere_inc.pdf",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T23:31:38.005Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "bytes_sha256": "e83636faa9c7e01818a08e34e82d2a1dc7089df3ce06be7843dbe72f75282356",
+  "text_sha256": "82ee4adca3837637b3b1a7d6ae470dc3f85801207e64eb8908d52311394044f6",
+  "text_chars": 5751,
+  "extractor": "scripts/capture-raw-sources.mjs",
+  "document_format": "pdf",
+  "pdf_pages": 3,
+  "text_extractor": "scripts/lib/pdf-text.mjs"
+}

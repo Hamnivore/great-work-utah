@@ -18,7 +18,7 @@
 
 The Utah Association of Counties (UAC) is the statewide association representing Utah's 29 county governments. Verified on the official site (2026-07-14): UAC provides training, legislative advocacy, legal assistance, conferences, and policy steering for county officials—not direct startup services for private founders.
 
-Include in the wiki because Startup State lists it, but route entrepreneurs to county economic-development offices or business resource centers for hands-on company support.
+Entrepreneurs seeking hands-on company support should use county economic-development offices or business resource centers rather than treating UAC as a general startup service.
 
 ## Who It's For
 
@@ -55,5 +55,8 @@ Poor primary fit for mentorship, funding, or accelerator-style startup support.
 
 ## Open Questions
 
-- Should this page cross-link to a generated county economic-development index once available?
 - Is admin@uacnet.org from Startup State deprecated in favor of admin@utahcounties.org?
+
+## Maintainer Notes
+
+- Cross-link this page to a generated county economic-development index once one is available.

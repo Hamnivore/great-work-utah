@@ -20,7 +20,7 @@ Halia Therapeutics' official genetic-resilience marketing homepage describes NEK
 
 - Halia Therapeutics is a Lehi, Utah clinical-stage biopharmaceutical company — not stated on this genetic-resilience homepage capture.
 - Ofirnoflast (HT-6184) is described as a first-in-class oral allosteric NEK7 inhibitor targeting NLRP3 inflammasome activation — not named on this capture; NEK7/HT-6184 linkage appears in the clinical-programs section.
-- The page previously reported an ASH 2025 efficacy result that is absent from this homepage capture; capture the conference disclosure before relying on that result.
+- An ASH 2025 efficacy result reported elsewhere is absent from this homepage capture and should not be relied on without the conference disclosure.
 - The Phase 2a trial NCT07052006 was listed as active, not recruiting, with enrollment of 37 (actual) and a 2026 completion date — not present in this capture.
 - The disclosed pipeline includes an HT-6184 + semaglutide program for obesity/type 2 diabetes and a neuroinflammation candidate, HT-4253.
 - The company's CEO/founder is David (Dave) Bearss.
@@ -41,8 +41,13 @@ Halia Therapeutics' official genetic-resilience marketing homepage describes NEK
 
 ## Reliability Notes
 
-This page was titled "Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure" until 2026-08-11, promising two documents while citing one URL and capturing only the marketing homepage. It is now scoped to the website alone; the ASH disclosure and the trial registry record each need their own source page, which is where their claims belong. Press releases and conference abstracts are leads, not neutral evidence; they reflect the sponsor's framing of early-stage data. Lehi headquarters, ofirnoflast (HT-6184) Phase 2a efficacy rates, trial NCT07052006 status, and CEO/founder attribution were not present in this capture. The ClinicalTrials.gov record is a reliable registry source for trial design, status, and enrollment when captured separately. Financing details (amount raised, stage) are not established by these sources and need separate primary confirmation. Early efficacy signals do not predict success in larger confirmatory trials.
+This record covers only the marketing homepage. Press releases and conference abstracts are leads, not neutral evidence; they reflect the sponsor's framing of early-stage data. Lehi headquarters, ofirnoflast (HT-6184) Phase 2a efficacy rates, trial NCT07052006 status, and CEO/founder attribution were not present in this capture. The ClinicalTrials.gov record is a reliable registry source for trial design, status, and enrollment. Financing details (amount raised, stage) are not established by these sources and need separate primary confirmation. Early efficacy signals do not predict success in larger confirmatory trials.
 
 ## Related Pages
 
 - [Halia Therapeutics](halia-therapeutics.md)
+
+## Maintainer Notes
+
+- Until 2026-08-11 this page's title also promised an ASH 2025 Phase 2a disclosure, although it cited and captured only the marketing homepage.
+- Create separate source pages for the ASH disclosure and the ClinicalTrials.gov record.

@@ -25,7 +25,7 @@ Teal Drones' website (and the Red Cat press releases hosted on it) describe Teal
 ## Verbatim
 
 > "Teal Drones leads the way in sUAS innovation, providing cutting-edge solutions to the U.S. military and its allies. Manufactured in Salt Lake City, UT, Teal's defense and security-focused systems are designed for success in modern operational environments, offering open, modular, and interoperable solutions."
-> — Home page, hero
+> — Home page, heading
 
 > "Red Cat's next generation Teal system will be the Army's Program of Record SRR sUAS, concluding the rigorous, multi-tranche competitive process"
 > — Home page, SRR announcement banner

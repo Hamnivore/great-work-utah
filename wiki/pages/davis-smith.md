@@ -54,4 +54,3 @@ Smith is active on public social media and has participated in Utah entrepreneur
 
 - Smith's current operational role at Cotopaxi (active CEO vs. other role) is not confirmed from a primary source in this pass.
 - Total funding raised, investor roster, and whether Cotopaxi remains founder-controlled are not confirmed here.
-- A license-cleared portrait or brand photograph should replace the placeholder before this page is rendered prominently.

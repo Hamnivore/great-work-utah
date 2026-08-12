@@ -22,7 +22,7 @@ BioEnergenix is described as a **University of Utah spinoff co-founded in 2009**
 
 In rodent studies tied to that release, a BioEnergenix drug candidate blocked PASK activity, lowered liver fatty acids and triglycerides, and partially reversed insulin resistance in diabetes-prone animals. Rutter hoped human trials could begin within a couple of years **as of 2014** ([university release](bioenergenix-uofu-health-press-release.md)).
 
-**Critical evidence gap:** No official website, recent press release, SEC filing, or clinical-trial registry entry for BioEnergenix was verified during this migration. Current operating status, pipeline stage, headquarters, and funding are **unknown**. Treat all forward-looking 2014 statements as historical, not present fact.
+**Critical evidence gap:** No official website, recent press release, SEC filing, or clinical-trial registry entry for BioEnergenix has been verified. Current operating status, pipeline stage, headquarters, and funding are **unknown**. Treat all forward-looking 2014 statements as historical, not present fact.
 
 ## Impact
 
@@ -38,7 +38,7 @@ Based solely on the 2014 university press release:
 2. **Approach:** Small-molecule PASK inhibitors developed through the spinoff, tested preclinically in collaboration with U of U researchers (including Allen Nickols named on the release).
 3. **Intent:** Advance a drug candidate toward human trials for metabolic syndrome and related disorders.
 
-Later academic and faculty-profile materials (outside this migration's primary source) reference a development candidate called BioE-1115 and IND-oriented language; **those details are not confirmed on the single primary source page captured here** and may reflect a historical program whose current status is unclear.
+Later academic and faculty-profile materials reference a development candidate called BioE-1115 and IND-oriented language; **the available primary source does not confirm those details**, which may describe a historical program whose current status is unclear.
 
 ## What They Need Now
 
@@ -50,7 +50,7 @@ Potentially relevant if the company re-emerges: University of Utah Technology Li
 
 ## Utah Context
 
-BioEnergenix traces to Jared Rutter's biochemistry program at the University of Utah and the 2014 launch of the Diabetes and Metabolism Center, where Rutter served as co-director. It sits in the same Utah metabolic-research lineage as other U of U spinouts working on diabetes and liver disease, though **no Salt Lake City headquarters is confirmed** in the primary source reviewed (legacy intake assumed Utah presence).
+BioEnergenix traces to Jared Rutter's biochemistry program at the University of Utah and the 2014 launch of the Diabetes and Metabolism Center, where Rutter served as co-director. It sits in the same Utah metabolic-research lineage as other U of U spinouts working on diabetes and liver disease, though **the available primary source does not confirm a Salt Lake City headquarters**.
 
 ## Evidence
 
@@ -66,7 +66,6 @@ BioEnergenix traces to Jared Rutter's biochemistry program at the University of 
 - **Is BioEnergenix still operating?** No primary source after 2014 confirms active development, financing, or clinical trials.
 - **Headquarters and team** — not stated on the captured press release; third-party directories conflict and were not used as evidence here.
 - **BioE-1115 / PASK inhibitor pipeline status** — referenced in academic materials elsewhere; not verified on the company side in sources reviewed.
-- **Relationship to current U of U TLO portfolio listings** — PIVOT/TLO startup directories may list the company, but no dedicated TLO page was captured in this sparse migration.
+- **Relationship to current U of U TLO portfolio listings** — PIVOT/TLO startup directories may list the company, but no captured TLO record establishes the relationship.
 - **Official website** — none confirmed; do not infer product status from absent web presence alone, but the gap limits confidence.
 - No public careers/jobs page found; last primary public signal is the 2014 U of U press release (historical/status unverified).
-- The placeholder hero should be replaced with a cleared scientific or institutional image if the venture is revived for public catalog use.

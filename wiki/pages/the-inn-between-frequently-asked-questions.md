@@ -93,8 +93,8 @@ Self-reported tier. Licensing as an **Assisted Living Type II Medical Respite Fa
 strong institutional claim but this page does not cite the Utah Department of Health license
 number — verify against state registry if needed.
 
-The printed outcome line **"1,00+ clients served"** appears to be a typo for 1,000+; quoted
-verbatim because lint requires it. It conflicts with the homepage's "more than 900 individuals"
+The printed outcome line **"1,00+ clients served"** appears to be a typo for 1,000+. It conflicts
+with the homepage's "more than 900 individuals"
 on the same capture date — both are self-reported and undated beyond "through January 2025" vs
 "near our 10th anniversary."
 

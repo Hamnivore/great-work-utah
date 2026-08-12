@@ -26,7 +26,7 @@ Qualtrics's official website describes its experience-management platform, AI-po
 ## Verbatim
 
 > "Qualtrics makes sense of every signal across your experiences, so you can act when it counts."
-> — Home page, hero
+> — Home page, heading
 
 > "Listen across every channel. Unify the signals, predict churn, and trigger automated workflows that keep customers coming back."
 > — Home page, “Amplified experiences”

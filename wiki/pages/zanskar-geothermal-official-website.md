@@ -25,7 +25,6 @@ Zanskar Geothermal's official website describes an AI-driven geothermal explorat
 
 ## Open Questions
 
-- Locate and capture the financing source before relying on the previously recorded $115 million total.
 
 ## Verbatim
 
@@ -50,3 +49,7 @@ This is an official company source. The blind-system discovery claim is corrobor
 ## Related Pages
 
 - [Zanskar Geothermal](zanskar-geothermal.md)
+
+## Maintainer Notes
+
+- Locate and capture the financing source before relying on the previously recorded $115 million total.

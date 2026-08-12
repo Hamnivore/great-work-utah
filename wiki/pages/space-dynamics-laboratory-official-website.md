@@ -24,10 +24,6 @@ Space Dynamics Laboratory's official website homepage describes SDL as a Univers
 - Contact address on the capture: 416 East Innovation Avenue, North Logan, UT 84341.
 - This capture does not state SDL's founding history, payload flight counts, nonprofit/USU ownership, or dual Space Force and Missile Defense Agency UARC designations.
 
-## Open Questions
-
-- Capture SDL's About page before relying on the previously recorded employee count, multi-state office footprint, and North Logan headquarters.
-
 ## Verbatim
 
 > "A University Affiliated Research Center (UARC) that delivers cutting-edge mission engineering and technologies that advance critical national priorities across all domains."
@@ -45,3 +41,7 @@ This is an official institutional source. SDL's self-description of structure, U
 ## Related Pages
 
 - [Space Dynamics Laboratory](space-dynamics-laboratory.md)
+
+## Maintainer Notes
+
+- Capture SDL's About page before relying on the previously recorded employee count, multi-state office footprint, and North Logan headquarters.

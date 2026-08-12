@@ -62,4 +62,3 @@ The blood cancer immunotherapy space is crowded nationally, but Thera-T's multi-
 - MATCH's self-assembling design is novel — has the two-component assembly been demonstrated robustly in primary human T cells?
 - $400K is sufficient for early animal studies but not for IND-enabling studies, let alone clinical trials; what is the fundraising plan?
 - Blood cancer immunotherapy is a crowded space with multiple approved CAR-T and bispecific products — what clinical differentiation does MATCH offer in head-to-head preclinical comparisons?
-- The placeholder hero should be replaced with a cleared laboratory or science photograph when rights are confirmed.

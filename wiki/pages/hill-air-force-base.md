@@ -55,8 +55,7 @@ Useful helpers include clearance-process advisors and veterans'-transition couns
 - Hill's own hill.af.mil fact-sheet pages give inconsistent OO-ALC personnel counts (roughly 7,000, 8,100+, and 9,000+ on three different subpages) ([official source](hill-air-force-base-official-website.md)) — which is current, and how does it relate to the base-wide total of 26,893?
 - What share of the base-wide workforce and economic-impact figures is attributable to OO-ALC specifically versus the fighter wings, the 309th, and other tenant units? The base's public reporting is base-wide, not broken out by unit.
 - How is the Sentinel ICBM ramp expected to change Hill's civilian hiring over the next decade, and how does that connect to Sentinel motor production at [Northrop Grumman Promontory](northrop-grumman-promontory.md)?
-- No hill.af.mil page publishes a single official street address or coordinate for the installation as a whole (it has three public gates, in Layton, Clearfield/Sunset, and Roy); this page therefore omits a map point rather than publish an approximate one that could misrepresent precision. A future editor could consider anchoring a map point at a clearly public-facing location such as the Hill Aerospace Museum if that becomes useful for the site's map view.
-- This page intentionally does not attempt to describe specific classified or program-sensitive sustainment work; a future editor should keep it that way rather than infer detail from adjacent public reporting.
+- No hill.af.mil page publishes a single official street address or coordinate for the installation as a whole (it has three public gates, in Layton, Clearfield/Sunset, and Roy); this page therefore omits a map point rather than publish an approximate one that could misrepresent precision.
 
 ## Evidence
 
@@ -77,3 +76,8 @@ Useful helpers include clearance-process advisors and veterans'-transition couns
 - [Utah Test and Training Range](utah-test-and-training-range.md) · https://greatutah.work/pages/utah-test-and-training-range.md — West Desert test range operated as a Hill tenant activity.
 - [Dugway Proving Ground](dugway-proving-ground.md) · https://greatutah.work/pages/dugway-proving-ground.md — separate Army test facility in the same West Desert defense-test geography.
 - [47G - Utah Aerospace & Defense Association](47g-utah-aerospace-and-defense-association.md) · https://greatutah.work/pages/47g-utah-aerospace-and-defense-association.md — statewide ecosystem body that treats Hill as an ecosystem anchor.
+
+## Maintainer Notes
+
+- If a map point becomes useful, consider a clearly public-facing location such as the Hill Aerospace Museum rather than an installation-wide approximation.
+- Do not infer or add classified or program-sensitive sustainment details from adjacent public reporting.

@@ -66,4 +66,3 @@ Coreform sits in Utah County alongside a broader Wasatch Front engineering and s
 - Which customer deployments, solver benchmarks, and certification milestones can be independently verified outside company marketing?
 - How far has MOOSE coupling progressed from SBIR-funded research toward production nuclear simulation use?
 - What is Coreform's current funding mix beyond DOE SBIR — seed, venture, or grant-only?
-- The placeholder hero should be replaced with a cleared product, facilities, or simulation-visualization image when rights are confirmed.

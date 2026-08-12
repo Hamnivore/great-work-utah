@@ -16,7 +16,7 @@
 
 Utah Geek Events is the Utah nonprofit that runs [Kids Code Camp](utah-kids-code-camp.md), the free children's coding camp held at Neumont College of Computer Science in Salt Lake City. Its legal form is established by primary record: the IRS exempt-organizations Business Master File lists **UTAH GEEK EVENTS**, Cottonwood Heights, Utah, under subsection 03 — a 501(c)(3) — with a ruling date of **2012-05**, so it has operated as an exempt organization for well over a decade ([IRS BMF, Utah extract](irs-bmf-utah-exempt-organizations.md)).
 
-The wiki found it indirectly: `kidscodecamp.org` redirects to `utahgeekevents.com`, which is how the camp's operator became visible at all. Beyond that one camp, its program catalog, staffing, and current activity are not established here.
+The `kidscodecamp.org` domain redirects to `utahgeekevents.com`, connecting the camp to its operator. Beyond that one camp, the organization's program catalog, staffing, and current activity are not established here.
 
 ## Who It's For
 

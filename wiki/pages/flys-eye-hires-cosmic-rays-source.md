@@ -37,7 +37,6 @@ A University of Utah College of Science explainer describing the 1991 Oh-My-God 
 
 Self-reported tier: an institutional explainer, useful for location, date, and plain-language framing, and not a substitute for the literature. The HiRes spectrum result belongs to the peer-reviewed record — see [HiRes GZK Suppression Measurement (PRL, 2008)](hires-gzk-suppression-prl-2008.md).
 
-This page was split out on 2026-08-11. It previously carried both this explainer and the PRL paper under one `Source Type` of "University Explainer; Peer-Reviewed Paper", which no single tier can describe: it let a peer-reviewed measurement and a university web page share one confidence signal.
 
 The original 1995 *Astrophysical Journal* record for the Oh-My-God particle event is still missing from the wiki and would be the primary source for the detection itself.
 
@@ -45,3 +44,7 @@ The original 1995 *Astrophysical Journal* record for the Oh-My-God particle even
 
 - [Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](flys-eye-hires-cosmic-rays.md)
 - [HiRes GZK Suppression Measurement (PRL, 2008)](hires-gzk-suppression-prl-2008.md)
+
+## Maintainer Notes
+
+This page was split out on 2026-08-11. It previously carried both this explainer and the PRL paper under one `Source Type` of "University Explainer; Peer-Reviewed Paper", which no single tier can describe: it let a peer-reviewed measurement and a university web page share one confidence signal.

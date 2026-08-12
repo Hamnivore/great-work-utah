@@ -78,8 +78,10 @@ One important caveat: Fervo's corporate headquarters are not in Utah. The Utah p
 
 ## Open Questions
 
-- ~~Verify current public/private status~~ — resolved 2026-08-11: the IPO completed. The final prospectus (Form 424B4) was filed 2026-05-14 at $27.00 per share, and Fervo has since filed a Form 10-Q as a public company. Later filings are at `https://data.sec.gov/submissions/CIK0001853868.json`.
 - Long-duration enhanced-geothermal reservoir performance remains a key uncertainty — and it is the uncertainty the 500 MW build is financed against ([IPO prospectus](fervo-energy-ipo-prospectus-2026.md)).
 - Post-IPO cash position is not yet on this page: the Q1 10-Q reports $280.8 million before the May offering ([Q1 10-Q](fervo-energy-10q-q1-2026.md)), while the prospectus reports roughly $1.77 billion of net proceeds ([IPO prospectus](fervo-energy-ipo-prospectus-2026.md)). The Q2 2026 10-Q is the fix.
-- No federal award records have been harvested for Fervo yet (USAspending by UEI, DOE/ARPA-E). Utah FORGE adjacency is described in Fervo's own materials but is not established here from a DOE record.
-- The current hero is hotlinked from Fervo's own press release page for the September 25, 2023 Cape Station groundbreaking. Image rights belong to Fervo and have not been cleared for the wiki; secure permission or substitute a license-clean equivalent (Utah FORGE / DOE EERE photo, in-house photograph) before production use.
+- No captured federal award record establishes Fervo's awards (USAspending by UEI, DOE/ARPA-E). Utah FORGE adjacency is described in Fervo's own materials but is not established here from a DOE record.
+
+## Maintainer Notes
+
+- Public/private status was resolved 2026-08-11: the May 2026 IPO completed, and later filings are available through `https://data.sec.gov/submissions/CIK0001853868.json`.

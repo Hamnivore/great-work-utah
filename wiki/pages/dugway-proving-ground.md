@@ -47,5 +47,9 @@ This is not a celebratory page. Dugway's history includes open-air chemical and 
 
 ## Open Questions
 
+- What do primary records establish about the Skull Valley sheep incident, environmental exposure, and local community impacts?
+
+## Maintainer Notes
+
 - Add source records for environmental-exposure documentation and a fuller official history page if available.
-- Add a careful pass on the Skull Valley sheep incident and local community impacts.
+- Add a careful evidence pass on the Skull Valley sheep incident and local community impacts.

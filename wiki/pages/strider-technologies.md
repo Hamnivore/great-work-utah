@@ -60,4 +60,3 @@ The exact Utah headquarters location should be verified in a future pass from an
 - What is the strongest official or filing-quality evidence for Strider's current Utah office location?
 - Which customer segments are largest: government, Fortune 500 enterprise, universities, or critical infrastructure?
 - Which platform claims are independently verifiable versus company positioning?
-- The placeholder hero should be replaced with a cleared company, product, or office image.

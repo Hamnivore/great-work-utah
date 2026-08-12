@@ -52,5 +52,9 @@ The Nobel was shared for good reason. Evans's embryonic stem-cell work and Smith
 
 ## Open Questions
 
+- Which primary source most clearly documents the positive-negative selection mechanism?
+
+## Maintainer Notes
+
 - Add a source record for the Nobel announcement and a tighter citation for the positive-negative selection mechanism.
-- Consider whether this should cross-link to a future `people/mario-capecchi.md` page if the wiki starts adding real researcher biographies.
+- Consider a Mario Capecchi person page and cross-link if the wiki adds historical researcher biographies.

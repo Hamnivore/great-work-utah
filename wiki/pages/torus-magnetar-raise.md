@@ -23,10 +23,6 @@ Torus's September 9, 2025 announcement that it raised $200 million from Magnetar
 - Torus describes its product as small, inertia-based hybrid systems combining mechanical flywheels with batteries, responding to grid signals in milliseconds and linkable into a distributed "grid operating system."
 - Company materials cite a TIME Best Invention of 2024 award (Torus Spin) and a 2025 R&D 100 Award.
 
-## Open Questions
-
-- Capture the Mercom source before relying on its Nova Spin/Nova Pulse product names or its report of a prior $67M equity-and-debt round.
-
 ## Verbatim
 
 > "Torus Inc., a full-stack energy platform offering storage, management, security, and generation solutions, today announced a $200 million investment by Magnetar, a leading alternative asset manager."
@@ -46,8 +42,13 @@ Torus's September 9, 2025 announcement that it raised $200 million from Magnetar
 
 ## Reliability Notes
 
-This is a company press release plus trade aggregation. Treat funding amount, investor identity, facility square footage, and stated production targets as company claims, not independently audited figures. Production-scale targets ("1 GW per quarter") are forward-looking aspirations, not delivered capacity. The 2021 founding date here conflicts with an internal note suggesting ~2018; the company's own 2021 date is used on the venture page with the discrepancy flagged.
+This is a company press release plus trade aggregation. Treat funding amount, investor identity, facility square footage, and stated production targets as company claims, not independently audited figures. Production-scale targets ("1 GW per quarter") are forward-looking aspirations, not delivered capacity. The company's 2021 founding date is self-reported and has not been independently corroborated.
 
 ## Related Pages
 
 - [Torus](torus.md)
+
+## Maintainer Notes
+
+- Capture the Mercom source before relying on its Nova Spin/Nova Pulse product names or its report of a prior $67M equity-and-debt round.
+- A legacy internal note suggested a founding around 2018; keep it out of factual prose unless a citable source corroborates it.

@@ -41,7 +41,7 @@ TELLUS's official website describes the company's low-cost networked air quality
 
 ## Reliability Notes
 
-This is an official company source. The calibration methodology claims and 20-year validation heritage are meaningful signals of credibility but should be cross-checked against peer-reviewed publications from the founding University of Utah research team and against independent comparisons with collocated reference monitors. Revenue, funding, and competitive positioning claims should be verified against independent sources. The company is pre-Series A, which means some growth and scale claims may reflect aspirational rather than demonstrated scale outside Utah. **Capture note:** the EPA regulatory-monitor cost comparison ($100,000–$200,000), the explicit 2023 AirU Pro launch date, and Salt Lake Valley inversion deployment framing cited on this page are not stated on this capture.
+This is an official company source. The calibration methodology claims and 20-year validation heritage are meaningful signals of credibility but should be cross-checked against peer-reviewed publications from the founding University of Utah research team and against independent comparisons with collocated reference monitors. Revenue, funding, and competitive positioning claims should be verified against independent sources. The company is pre-Series A, which means some growth and scale claims may reflect aspirational rather than demonstrated scale outside Utah. This capture does not state the EPA regulatory-monitor cost comparison ($100,000–$200,000), an explicit 2023 AirU Pro launch date, or the Salt Lake Valley inversion deployment framing.
 
 ## Related Pages
 

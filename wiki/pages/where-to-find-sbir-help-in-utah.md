@@ -43,5 +43,8 @@ If the founder has no agency topic yet, start with Nucleus Grow. If the founder 
 ## Open Questions
 
 - Which current SBIR 101 workshops should be cited directly?
-- Should the wiki add an SBIR readiness checklist answer?
 - Which Utah grant writers or proposal consultants have enough public evidence for helper pages?
+
+## Maintainer Notes
+
+- Consider adding an SBIR readiness checklist answer.

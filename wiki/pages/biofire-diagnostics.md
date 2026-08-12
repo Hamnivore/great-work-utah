@@ -61,4 +61,3 @@ BioFire is one of the larger life-sciences employers in Salt Lake City and a mea
 - Current employee count, revenue contribution to bioMérieux, and the exact split of R&D versus manufacturing in Salt Lake City are not confirmed from primary sources in this pass; the often-cited ~1,500-employee figure should be verified before use in a recommendation.
 - The 2014 bioMérieux acquisition price (commonly reported around $450M) is from secondary coverage and was not confirmed here against a primary filing.
 - How much strategic and capital-allocation autonomy the Salt Lake City operation retains under bioMérieux is unclear and matters for anyone weighing mission control versus stability.
-- Imagery is a deterministic placeholder. A license-cleared photograph of the FilmArray system, a cartridge, or the Salt Lake City facility — approved by the company — should replace the placeholder before this renders as a marquee page.

@@ -48,9 +48,8 @@ Sethera is a U of U research spinout at 48 S Rio Grande Street in Salt Lake City
 ## Open Questions
 
 - Does enzymatic stabilization generalize across peptide targets with preserved affinity, acceptable pharmacokinetics, and no new immunogenicity?
-- Clinical-candidate timeline and lead-program disclosure — no IND or clinical program as of legacy intake.
+- Clinical-candidate timeline and lead-program disclosure — no IND or clinical program is publicly established here.
 - How does the platform compare with stapled peptides, macrocyclization companies, ADCs, and other peptide-stabilization approaches?
-- Funding stage and team size beyond the official team page — legacy intake described stage-appropriate early funding only.
+- What are the company's current funding stage and team size beyond the official team page?
 - Platform biotech plays typically need 8–15 years from founding to first approved drug; Sethera was founded ~2023.
 - No agent-readable careers/jobs page found (setheratx.com/careers 404).
-- The placeholder hero should be replaced with a cleared platform or team image when rights are confirmed.

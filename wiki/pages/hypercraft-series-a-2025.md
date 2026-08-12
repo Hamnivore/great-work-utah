@@ -40,7 +40,7 @@ Hypercraft's June 3, 2025 announcement of a $26 million Series A round at a $106
 
 ## Reliability Notes
 
-Press-release sourcing. Funding figure and valuation are company-reported. The EDGE Group / SDF link is corroborated across multiple outlets and is the most consequential detail for anyone weighing defense IP-export and geopolitical considerations; it is reported, not independently audited. Customer and platform-count claims ("20+ platforms") originate with the company. **Capture note:** the December 2025 Baker Engineering co-development release naming CEO Brian Bowers and the Titan T240 / Pilot P50 product specs cited on this page are not in this capture; treat them as uncorroborated by this document.
+Press-release sourcing. Funding figure and valuation are company-reported. The EDGE Group / SDF link is corroborated across multiple outlets and is the most consequential detail for anyone weighing defense IP-export and geopolitical considerations; it is reported, not independently audited. Customer and platform-count claims ("20+ platforms") originate with the company. The December 2025 Baker Engineering co-development release naming CEO Brian Bowers and the Titan T240 / Pilot P50 product specifications are not in this capture and remain uncorroborated by this document.
 
 ## Related Pages
 

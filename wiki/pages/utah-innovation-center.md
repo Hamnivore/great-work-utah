@@ -50,5 +50,8 @@ Utah deep-tech founders preparing first or follow-on SBIR/STTR proposals — wea
 
 ## Open Questions
 
-- Which Nucleus Grow advisors should become helper pages with public evidence?
 - Should UTIF microgrant and Phase II loan details live on this page or a separate UTIF page?
+
+## Maintainer Notes
+
+- Which Nucleus Grow advisors should become helper pages with public evidence?

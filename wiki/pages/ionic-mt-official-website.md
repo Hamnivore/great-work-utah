@@ -19,16 +19,16 @@ Ionic MT's official website describes the company's halloysite clay processing t
 ## Useful Claims
 
 - The site positions Ionic MT as a processor of Utah halloysite clay into nano-silicon anode material (Ionisil) and high-purity alumina (IonAL) for battery applications.
-- The page previously claimed a specific Ionisil silicon-loading performance multiplier; this capture does not show that figure.
-- The page previously described Silicon Ridge and Halloysite Hills deposit acreage and reserve tonnage; this capture does not show those deposit details.
-- The page previously announced a Series B funding round; this capture does not show funding news.
+- This capture does not show a specific Ionisil silicon-loading performance multiplier.
+- This capture does not show Silicon Ridge and Halloysite Hills deposit acreage or reserve tonnage.
+- This capture does not show Series B funding news.
 - The company describes Ionisil and IonAL as part of an integrated critical-minerals and battery-materials platform derived from Utah feedstock.
 - Press materials describe rare earth and critical technology metal discovery at Silicon Ridge as an additional co-product opportunity — not shown in this capture.
 
 ## Verbatim
 
 > "Ionic Mineral Technologies is building the world's most comprehensive hub for rare earths and critical minerals."
-> — Home page, hero
+> — Home page, heading
 
 > "Ionisil™ Nano‑Silicon"
 > — Product suite, nano-silicon
@@ -51,3 +51,7 @@ This is an official company source. This capture is a brief marketing landing pa
 
 - [Series B press release](https://ionicmt.com/press/ionic-mineral-technologies-closes-oversubscribed-29-million-series-b-to-scale-u-s-production-of-advanced-battery-materials) · https://ionicmt.com/press/ionic-mineral-technologies-closes-oversubscribed-29-million-series-b-to-scale-u-s-production-of-advanced-battery-materials — official announcement of the July 2025 funding round
 - [Silicon Ridge lease announcement](https://ionicmt.com/press/ionic-mt-secures-4000-acre-halloysite-lease-silicon-ridge-to-support-next-generation-battery-material-production) · https://ionicmt.com/press/ionic-mt-secures-4000-acre-halloysite-lease-silicon-ridge-to-support-next-generation-battery-material-production — November 2024 press release on the 4,000-acre mineral lease
+
+## Maintainer Notes
+
+- Earlier page copy attributed performance, deposit, and funding details to the homepage; the dedicated primary sources in See Also should carry those claims.

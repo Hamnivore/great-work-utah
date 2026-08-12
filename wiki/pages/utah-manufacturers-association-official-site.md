@@ -25,10 +25,10 @@ The Utah Manufacturers Association official site describes UMA as a statewide ma
 ## Verbatim
 
 > "What Utah Makes, Makes Utah"
-> — Home page, hero
+> — Home page, heading
 
 > "Representing Utah's manufacturers and providing training, benefits, and networking opportunities to strengthen and grow."
-> — Home page, hero subhead
+> — Home page, subheading
 
 > "The Utah Manufacturers Association (UMA) has been the leading alliance for the manufacturing community in Utah since 1905. We represent over 1200 manufacturing and service providers, big and small, in every inch of Utah."
 > — Home page, "Who is UMA"

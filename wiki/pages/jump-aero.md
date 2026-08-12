@@ -59,4 +59,3 @@ Utah's connection to Jump Aero is through the uFLY FAA eVTOL testbed, where UDOT
 - What is the operational relationship with UDOT's uFLY testbed — coverage planning only, or an active flight test agreement?
 - How does Jump Aero's business model work — vehicle sales, fleet operations, or EMS system licensing?
 - What is the funding status? Carl Dietrich's Terrafugia background includes significant investment; what has Jump Aero raised?
-- The placeholder hero should be replaced with a cleared vehicle render or test image when rights are confirmed.

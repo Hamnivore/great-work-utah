@@ -50,4 +50,3 @@ Sundance has been a defining Park City institution for four decades. The Festiva
 
 - The 2027 relocation of the Festival to Boulder will redistribute revenue and visibility; how the Institute reorganizes Utah-based programming as a result is the most consequential open question for the wiki.
 - New Frontier's audience is still small; its eventual influence depends on whether immersive-media adoption catches up to its bet.
-- The current hero is the Egyptian Theatre on Main Street the night before the 2024 festival (Frank Schulenburg via WikiPortraits, CC BY-SA 4.0); a license-clean Sundance Resort or Artist Lab image would better represent the year-round Institute work.

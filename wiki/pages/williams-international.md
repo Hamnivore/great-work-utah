@@ -19,14 +19,14 @@
 **Domain:** aerospace-defense, materials-mfg
 **Updated:** 2026-08-11
 **Needs-reviewed:** 2026-08-11
-**Pull:** *A 900+ employee Ogden gas-turbine engine plant planning roughly $1B in Utah capital investment and 300+ new high-wage jobs — a durable aerospace manufacturer the wiki had never documented.*
+**Pull:** *A 900+ employee Ogden gas-turbine engine plant planning roughly $1B in Utah capital investment and 300+ new high-wage jobs.*
 **Relates:** cites [Official Website: Williams International](williams-international-official-website.md) · https://greatutah.work/pages/williams-international-official-website.md · https://www.williams-int.com/
 
 ## Summary
 
 Williams International is a privately held, vertically integrated manufacturer of small gas turbine engines founded in Michigan by Dr. Sam B. Williams. Its Ogden, Utah plant has operated for decades and is undergoing an expansion. The captured official company source confirms the business and location but not the state-reported headcount, floor area, jobs, investment, or incentive terms; those figures need dedicated source pages for the state and city records.
 
-For the wiki, Williams International is a straightforward navigation gap: a company with a 900+-employee Ogden manufacturing site and a state-flagged nine-figure-to-billion-dollar Utah expansion had no page at all. It is not a startup — it is a 70-year-old, founder-descended private manufacturer with an established, decades-old product line — but it is durable, real, and currently hiring at scale in a Utah city (Ogden) that gets comparatively little attention next to the Wasatch Front's Salt Lake- and Hill-centered defense cluster.
+Williams International is not a startup: it is a 70-year-old, founder-descended private manufacturer with an established, decades-old product line. Its roughly 900-employee Ogden site, state-flagged nine-figure-to-billion-dollar Utah expansion, and current hiring make it a durable aerospace anchor in a city that gets comparatively little attention next to the Wasatch Front's Salt Lake- and Hill-centered defense cluster.
 
 ## Impact
 

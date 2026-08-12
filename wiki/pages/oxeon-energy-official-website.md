@@ -28,11 +28,11 @@ OxEon's official website describes the company as a designer and manufacturer of
 ## Verbatim
 
 > "OxEon Energy Manufactures Industrial-Scale Systems That Produce Clean, Reliable Fuels On-Site."
-> — Home page, hero
+> — Home page, heading
 
 > "Our solid oxide technology successfully produced oxygen on Mars and now we're scaling it to empower
 > sustainable fuel production here on Earth."
-> — Home page, hero
+> — Home page, heading
 
 > "OxEon designs and manufactures three proprietary systems that work together to produce hydrogen and
 > sustainable fuels from water and CO2."

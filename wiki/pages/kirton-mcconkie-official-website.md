@@ -19,17 +19,17 @@ Kirton McConkie's official website describes the firm as a full-service Utah- an
 ## Useful Claims
 
 - Kirton McConkie's homepage describes the firm as Utah's premier multi-service law firm with 200+ attorneys across five offices (Salt Lake City, Lehi, St. George, and Boise), spanning intellectual property, corporate, real estate, and litigation work.
-- The page previously asserted a corporate practice covering entity formation, capital raising, securities compliance, M&A, and a "general counsel" role for early-stage companies; this 2026-08-11 homepage capture does not show those practice-page details — see Reliability Notes.
-- The page previously named attorneys in the Corporate/M&A group and cited Chambers USA and Legal 500 rankings; those claims are not on this capture.
+- This 2026-08-11 homepage capture does not show detailed claims about entity formation, capital raising, securities compliance, M&A, or a general-counsel role for early-stage companies.
+- This capture does not name attorneys in the Corporate/M&A group or establish Chambers USA and Legal 500 rankings.
 
 ## Verbatim
 
 > "Kirton McConkie is Utah's premier multi-service law firm, with 200+ attorneys across five
 > offices."
-> — Home page, hero
+> — Home page, heading
 
 > "Our practice areas span intellectual property law, corporate law, real estate law, and litigation."
-> — Home page, hero
+> — Home page, heading
 
 > "With five offices throughout Utah and Idaho, including Salt Lake City, Lehi, St. George, and Boise,
 > we're close to the clients and communities we serve."
@@ -39,8 +39,12 @@ Kirton McConkie's official website describes the firm as a full-service Utah- an
 
 This is an official, self-published firm source. It is strong for describing the firm's stated capabilities, office footprint, and practice areas, and weaker as neutral proof of outcomes for any specific founder. Recognition claims (Chambers, Legal 500) are corroborated by those third-party rankings but should be treated as reputational signals, not guarantees of fit.
 
-**Capture note.** The 2026-08-11 fetch captured only the firm homepage. Detailed corporate/M&A service descriptions, the "general counsel" positioning, named attorney rankings, and Chambers/Legal 500 references recorded earlier are not present on this page and were not reconfirmed in this capture.
+The 2026-08-11 capture contains only the firm homepage. Detailed corporate/M&A service descriptions, general-counsel positioning, named-attorney rankings, and Chambers/Legal 500 references are not present in it.
 
 ## Related Pages
 
 - [Kirton McConkie](kirton-mcconkie.md)
+
+## Maintainer Notes
+
+- Earlier page copy included detailed practice and ranking claims absent from the homepage capture; verify them from dedicated practice or ranking pages before restoring them.

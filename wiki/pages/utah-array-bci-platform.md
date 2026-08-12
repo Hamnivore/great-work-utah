@@ -72,4 +72,7 @@ For Utah, the story is a long-horizon deep-tech bet: hardware-first, biology-awa
 
 - Which peer-reviewed clinical outcomes best support claims about long-duration safety and function beyond company-reported aggregate days?
 - How Neuralace and competing architectures (Neuralink, Synchron, Precision Neuroscience) will compare on chronic stability and regulatory paths.
-- Whether a dedicated `people/richard-normann.md` page would help separate inventor biography from platform history.
+
+## Maintainer Notes
+
+- Consider a dedicated `richard-normann.md` page to separate inventor biography from platform history.

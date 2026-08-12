@@ -72,4 +72,3 @@ Epitel is headquartered in Salt Lake City and traces to the University of Utah N
 - Market share versus ambulatory EEG competitors (Epilog, Ceribell ICU variants, Neurolutions, traditional extended EEG vendors) is not established on this page.
 - Independent clinical outcomes data beyond company-cited publications should be reviewed before strong efficacy claims.
 - Insurance coverage and reimbursement ceilings will likely determine deployment scale more than hardware performance alone.
-- The placeholder hero should be swapped for a cleared product or clinical-use image before magazine layout use.

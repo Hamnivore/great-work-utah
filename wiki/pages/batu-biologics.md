@@ -56,4 +56,3 @@ The University of Utah has a meaningful immuno-oncology research community ancho
 - Has Batu Biologics received SBIR, STTR, or any seed funding?
 - What is the current preclinical pipeline — which cancer indications, what models, what stage of animal studies?
 - Is the company still operationally active as of 2026?
-- The placeholder hero should be replaced with a cleared science or team photograph when rights are confirmed.

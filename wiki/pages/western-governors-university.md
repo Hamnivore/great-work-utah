@@ -130,7 +130,7 @@ pulled for this page.
   page that carries the accusation without the resolution is worse than one carrying neither.
 - **Graduate earnings and completion rates relative to peers** need non-WGU sources — College
   Scorecard and IPEDS are the obvious primary datasets — before Impact can weigh outcomes.
-- **Careers URL not verified** — add `**Careers:**` once a stable landing page is captured.
+- **Careers URL not verified.**
 
 ## Evidence
 
@@ -142,3 +142,7 @@ pulled for this page.
 ## See Also
 
 - [Instructure](instructure.md) · https://greatutah.work/pages/instructure.md
+
+## Maintainer Notes
+
+- Add `**Careers:**` once a stable landing page is captured.

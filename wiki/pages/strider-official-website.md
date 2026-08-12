@@ -20,8 +20,8 @@ Strider's official website describes the company as a strategic intelligence pla
 
 - Strider describes Agentic AI and a proprietary risk methodology for geopolitical and nation-state threats.
 - The company lists products for insights, people search, organization search, open-source software risk, Shield, a data catalog, and an intelligence center.
-- The page previously asserted Strider was co-founded in 2019 by Greg Levesque, Eric Levesque, and Mike Brown; this capture does not show founding year or full founder roster.
-- The page previously asserted Strider operates in 15 countries with more than 250 team members; this capture does not show those scale figures.
+- This capture does not establish Strider's founding year or full founder roster.
+- This capture does not show country or team-size figures.
 - Public use cases include state-sponsored risk, third-party due diligence, research security, supply-chain risk management, email security, and falsified-resume screening.
 
 ## Verbatim

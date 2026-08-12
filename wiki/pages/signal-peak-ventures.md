@@ -45,4 +45,6 @@ Utah and regional early-stage tech founders researching established Utah VCs. No
 
 ## Open Questions
 
+## Maintainer Notes
+
 - How should the wiki title slug relate to the Run Ventures public brand over time?

@@ -87,4 +87,3 @@ This gives the newer, higher-profile Utah geothermal cluster a working baseline:
 - Cove Fort 2's targeted 2027 commercial operation date is explicitly conditioned by Ormat on "resource availability"; verify exploration results before treating it as a committed timeline.
 - No confirmed count of current Cove Fort-specific job openings: Ormat's careers site and jobs map are JavaScript-rendered and did not return Utah-specific listings to this fetcher. A human applicant should use https://www.ormat.com/en/company/careers/jobs-map/ directly.
 - Relative plant sizing has not been independently verified beyond the cited plant records; treat all capacity figures here as nameplate or EIA-reported capacity, not generation.
-- The current hero image is an unrelated stock placeholder (picsum.photos), not a Cove Fort or Ormat photograph; replace with a license-clean plant image before production use.

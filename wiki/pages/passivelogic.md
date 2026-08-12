@@ -65,4 +65,3 @@ The company also illustrates a recurring Utah pattern: software talent applied t
 - Which pilot energy-savings results have public measurement and verification?
 - How many buildings are live with PassiveLogic systems, and in what customer categories?
 - How much of the business is hardware revenue, software revenue, installation, services, or channel sales?
-- The placeholder hero should be replaced with a cleared product, installation, or headquarters image.

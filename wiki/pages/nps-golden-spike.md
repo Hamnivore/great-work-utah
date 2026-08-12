@@ -27,10 +27,10 @@ The National Park Service page for Golden Spike National Historical Park describ
 ## Verbatim
 
 > "One of the greatest technological achievements of the 19th century is the completion of the first transcontinental railroad across the United States."
-> — Park home page, hero
+> — Park home page, heading
 
 > "Visitors to the park can see the location of the Last Spike Site, 1869 railroad construction features, walk or drive on the original railroad grade, and get an up close view of Victorian era replica locomotives."
-> — Park home page, hero
+> — Park home page, heading
 
 ## Reliability Notes
 

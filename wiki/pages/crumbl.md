@@ -64,11 +64,11 @@ https://crumbl.com — not captured in detail here.
 
 - **No store count or growth-rate figure is sourced.** FDD Item 20 or a dated company disclosure would
   be the next step; lead-file superlatives stay unverified.
-- **Litigation** referenced in the shard brief was not captured — no docket, no page content.
+- **Litigation** is not established here because no docket or supporting page has been captured.
 - **Wisconsin registration shows Expired** — current multi-state registration status unknown without
   fresh pulls (Utah DFI, other states) or the 2025 FDD PDF named in the Wisconsin record.
-- **`crumbl.com/franchising` blocked the project's automated capture script** but yielded to manual
-  fetch; re-verify if the site changes.
+- **The franchising page may resist automated retrieval.** Its contents were available through a
+  manual fetch, but should be re-verified if the site changes.
 - **Provo vs Lindon HQ:** secondary directories mention newer Provo office activity; only Lindon is
   on the Wisconsin franchisor address captured here.
 
@@ -80,3 +80,8 @@ https://crumbl.com — not captured in detail here.
 ## See Also
 
 - [Ancestry](ancestry.md) · https://greatutah.work/pages/ancestry.md — another Utah County scaled consumer brand with a different domain
+
+## Maintainer Notes
+
+- The litigation lead came from an internal shard brief; capture a docket or source before adding claims.
+- `crumbl.com/franchising` blocked automated capture but yielded to a manual fetch.

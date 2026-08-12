@@ -67,4 +67,3 @@ Utah's role in the critical minerals supply chain is growing: halloysite, lithiu
 - Who are the Series B investors, and what is their thesis — domestic supply chain, EV battery, or critical minerals?
 - Has the 15% silicon loading / 2x anode capacity claim been independently validated in pouch or cylindrical cell formats at commercial scale?
 - What is the environmental permitting status at Silicon Ridge and Halloysite Hills?
-- The placeholder hero should be replaced with a cleared mineral processing or battery materials image when rights are confirmed.

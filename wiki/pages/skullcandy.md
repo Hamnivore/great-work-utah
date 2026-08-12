@@ -24,13 +24,13 @@
 
 Skullcandy is an American consumer audio brand that designs and sells headphones, earphones, speakers, gaming headsets, and related accessories. Founded in 2003 in Park City, Utah, the company gained recognition for affordable, bass-forward products with distinctive youth-oriented styling aimed at action sports enthusiasts, skaters, snowboarders, and broader lifestyle audiences.
 
-Legacy intake describes Skullcandy as an early leader in the "lifestyle headphone" category and notes ownership changes including an acquisition by Mill Road Capital. The brand appears to remain active in wireless, true wireless, and noise-canceling segments.
+Skullcandy has been described as an early leader in the "lifestyle headphone" category and underwent ownership changes including an acquisition by Mill Road Capital. The brand appears to remain active in wireless, true wireless, and noise-canceling segments; those historical and ownership claims require independent corroboration.
 
 ## Impact
 
 The impact case is consumer-facing rather than infrastructure-scale: Skullcandy helped normalize affordable, design-forward audio for younger and action-sports audiences at a time when premium headphones were often priced for audiophiles alone.
 
-The official site today emphasizes sensory bass products (Crusher ANC 2), collaboration earbuds (Method 360 ANC), and accessible true wireless options (Dime 360). Legacy intake also references philanthropic work through the I CAN'T HEAR YOU Foundation for hearing health and music education; that initiative should be verified independently before being cited as current programming.
+The official site today emphasizes sensory bass products, collaboration earbuds, and accessible true wireless options. Reported philanthropic work through the I CAN'T HEAR YOU Foundation for hearing health and music education requires current independent verification.
 
 ## What They Are Building
 
@@ -53,7 +53,7 @@ Useful helpers include consumer electronics GTM advisors, retail and Amazon mark
 
 ## Utah Context
 
-Skullcandy was founded in Park City by Rick Alden, who legacy intake says conceived the brand while snowboarding. Headquarters remain in Park City, making Skullcandy a homegrown Utah consumer-electronics story tied to skiing, snowboarding, and action-sports culture. The company has reportedly been a local employer and sponsor of events and athletes.
+Skullcandy was founded in Park City by Rick Alden. Accounts attribute the brand's conception to a snowboarding trip, but that origin story is not independently established here. Headquarters remain in Park City, making Skullcandy a homegrown Utah consumer-electronics story tied to skiing, snowboarding, and action-sports culture. The company has reportedly been a local employer and sponsor of events and athletes.
 
 ## Evidence
 
@@ -61,8 +61,7 @@ Skullcandy was founded in Park City by Rick Alden, who legacy intake says concei
 
 ## Open Questions
 
-- What is Skullcandy's current ownership structure and strategic direction under Jeff Hutchings as CEO (per legacy notes)?
+- What is Skullcandy's current ownership structure and strategic direction, and who currently serves as CEO?
 - Which philanthropic initiatives, including the I CAN'T HEAR YOU Foundation, remain active and how are they funded?
 - How does Skullcandy compete on margin and differentiation against Apple, Sony, Bose, JBL, and budget DTC audio brands?
 - The ApplicantPro careers board is JS-rendered and shows little over plain HTTP — agents should hand the URL to the user; verify hiring volume directly with the company.
-- The placeholder hero should be swapped for a cleared product or brand image when licensing is resolved.

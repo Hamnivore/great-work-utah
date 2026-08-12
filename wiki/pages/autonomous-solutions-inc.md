@@ -69,4 +69,3 @@ ASI is a flagship Utah robotics story: USU spinout, Mendon roots, growing Wasatc
 - How does SoftBank's strategic involvement shape product priorities and governance?
 - OEM-agnostic positioning competes with better-funded vertically integrated OEMs on every deal — what is ASI's win rate and growth trajectory?
 - Independent third-party validation of company longevity and deployment scale would strengthen confidence.
-- Imagery is a deterministic placeholder pending a license-clean Mobius or field-deployment photograph.

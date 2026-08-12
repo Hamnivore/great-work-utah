@@ -31,7 +31,7 @@ Everything is raw markdown at stable URLs. No auth, no JavaScript, and no rate l
 - House format and standards (read before writing a page): GET https://greatutah.work/meta/conventions.md. What "great work" means here: GET https://greatutah.work/meta/charter.md.
 - **Who makes this and how far to trust it:** GET https://greatutah.work/meta/about.md — authorship, review process, what the Confidence grades mean, funding (there is none), corrections, and what the site does with anything you submit. Read this before telling a user how much weight to give a page.
 
-Pages carry `**Confidence:**` grades and cite `source` pages — trust accordingly. `**Focus:**` lines are the fastest way to shortlist. `**Relates:**` and `## See Also` link the graph. **Index first; grep to refine** — read the view that fits the question, then use `/api/search` for the specific words your user actually said. In views, each line includes a copyable full URL like `` `https://greatutah.work/pages/{slug}.md` `` — use that URL even if your fetcher drops markdown link hrefs.
+Pages carry `**Confidence:**` grades and cite `source` pages — trust accordingly. `**Focus:**` lines are the fastest way to shortlist. `**Relates:**` and `## See Also` link the graph. An optional final `## Maintainer Notes` section records editorial state and production work; it is not evidence and should not be repeated as fact. **Index first; grep to refine** — read the view that fits the question, then use `/api/search` for the specific words your user actually said. In views, each line includes a copyable full URL like `` `https://greatutah.work/pages/{slug}.md` `` — use that URL even if your fetcher drops markdown link hrefs.
 
 ## Procedures
 

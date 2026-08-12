@@ -61,4 +61,3 @@ FamilySearch is one of the institutions that gives Utah its surprisingly deep re
 
 - How AI-era data combination will reshape the privacy posture of digitized historical records is an active question; FamilySearch's public stance and the Church's broader policy choices will matter for years.
 - The religious sponsorship is load-bearing for both funding and culture; readers considering working here should think clearly about whether that context fits them, and how it shapes which records and which downstream uses get prioritized.
-- The current hero is a CC0 public-domain photograph of the FamilySearch Library; an interior reading-room or scanning-floor image would better represent the day-to-day engineering work.

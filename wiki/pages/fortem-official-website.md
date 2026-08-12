@@ -35,7 +35,7 @@ Fortem's official website describes its counter-UAS, airspace-awareness, radar, 
 > — Home page, "SkyDome System Components"
 
 > "The SkyDome® System is an integrated end-to-end modular system that provides airspace awareness and Counter-UAS solutions for various environments and national defense needs."
-> — Home page, hero carousel
+> — Home page, featured carousel
 
 ## Reliability Notes
 

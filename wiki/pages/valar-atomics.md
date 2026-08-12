@@ -63,4 +63,3 @@ The Utah San Rafael Energy Lab in Emery County is the test site, reflecting Utah
 - What is Valar's NRC licensing strategy — which regulatory pathway (Part 50, Part 52, or the new Part 53 advanced reactor pathway)?
 - How does the Ward 250 economics compare to diesel generation at the remote sites it targets?
 - Is the California HQ a permanent fixture, or will the company's center of gravity shift toward Utah as the test site develops?
-- The placeholder hero should be replaced with a cleared reactor or facility image when rights are confirmed.

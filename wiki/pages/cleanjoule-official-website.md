@@ -14,7 +14,7 @@
 
 ## Summary
 
-CleanJoule's public website at cleanjoule.com, describing its biomanufactured sustainable aviation fuel (CycloSAF) and a feedstock-flexible biochemical process it says yields higher energy density than petroleum-derived equivalents. This capture is the homepage only: the company's product specifications, investor relationships, and dated milestones live on other pages and in its press releases, which need their own source pages — [GenZero investment in CleanJoule](genzero-cleanjoule-50m.md) is the one the wiki holds so far.
+CleanJoule's public website at cleanjoule.com, describing its biomanufactured sustainable aviation fuel (CycloSAF) and a feedstock-flexible biochemical process it says yields higher energy density than petroleum-derived equivalents. This capture is the homepage only: product specifications, investor relationships, and dated milestones reported elsewhere are not established by this document. The [GenZero investment in CleanJoule](genzero-cleanjoule-50m.md) is separately documented.
 
 ## Useful Claims
 
@@ -25,7 +25,7 @@ CleanJoule's public website at cleanjoule.com, describing its biomanufactured su
 
 > "CleanJoule delivers alternative, domestically-produced fuels, enabling the vital aviation industry to
 > go farther, faster."
-> — Home page, hero
+> — Home page, heading
 
 > "future flights will run on superior fuels including CleanJoule's CycloSAF, which delivers
 > significantly greater energy density than Jet A, reduces engine maintenance, and can be domestically
@@ -44,3 +44,7 @@ The official website is the primary public source and is self-reported. Press re
 ## Related Pages
 
 - [CleanJoule](cleanjoule.md)
+
+## Maintainer Notes
+
+- Create separate source pages for material product, investor, partnership, and milestone claims that appear only on other site pages or in press releases.

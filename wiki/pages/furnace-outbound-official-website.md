@@ -24,7 +24,7 @@ Furnace's website describes a managed outbound-sales service combining sending i
 ## Verbatim
 
 > "We build and run the systems that reach your ideal customers and start conversations that move pipeline."
-> — Home page hero
+> — Home page heading
 
 ## Reliability Notes
 

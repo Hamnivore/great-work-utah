@@ -41,13 +41,18 @@ The mine sits in a canyon in the Oquirrh Mountains 25 miles southwest of Salt La
 
 - [USGS Porphyry Copper Deposits of the World, 2008 — the Bingham row (OFR 2008-1155)](usgs-porphyry-copper-deposits-database-2008.md) · https://greatutah.work/pages/usgs-porphyry-copper-deposits-database-2008.md · https://doi.org/10.3133/ofr20081155 — deposit tonnage and grades, and a 1906 mining start date, from the USGS's global porphyry inventory.
 - [Kennecott Utah Copper — History](https://www.kennecott.com/history) · https://www.kennecott.com/history — [source record](kennecott-utah-copper-history.md) · https://greatutah.work/pages/kennecott-utah-copper-history.md
-- [National Register / National Historic Landmark nomination, Bingham Canyon Mine (NRIS reference 66000736)](https://npgallery.nps.gov/AssetDetail/NRIS/66000736) · https://npgallery.nps.gov/AssetDetail/NRIS/66000736 — the NPS record behind the landmark designation; also the source of the district's 1904–1982 production totals and of the credit to Daniel C. Jackling. Deserves its own source page.
+- [National Register / National Historic Landmark nomination, Bingham Canyon Mine (NRIS reference 66000736)](https://npgallery.nps.gov/AssetDetail/NRIS/66000736) · https://npgallery.nps.gov/AssetDetail/NRIS/66000736 — the NPS record behind the landmark designation; also the source of the district's 1904–1982 production totals and of the credit to Daniel C. Jackling.
 - Hyde, *Copper for America* (1998) — industry history
 
 ## Open Questions
 
 - The USGS source records a deposit-wide average copper grade across total production, reserves, and resources, not the grade of ore currently mined. A primary operating source is still needed before asserting a current mined-grade figure.
-- The NPS nomination dates the operation's initiation to 1904 — Utah Copper Company organized in 1903, Copperton Mill completed in 1904 — while the USGS database gives a 1906 start of mining, the date used here. The two are probably describing different milestones; nobody has checked which.
+- The NPS nomination dates the operation's initiation to 1904 — Utah Copper Company organized in 1903, Copperton Mill completed in 1904 — while the USGS database gives a 1906 start of mining, the date used here. The records do not resolve whether they describe different milestones.
 - Precise production tonnage figures for the WWII contribution would strengthen the wartime impact claim.
-- The 2013 landslide recovery timeline and lessons learned merit a separate source record if this page expands.
+- The 2013 landslide recovery timeline and lessons learned are not yet documented here.
 - Environmental remediation scope and cost are worth documenting more precisely.
+
+## Maintainer Notes
+
+- Create a source page for the NPS National Historic Landmark nomination.
+- Create a separate source record for the 2013 landslide recovery if the coverage expands.

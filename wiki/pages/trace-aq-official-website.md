@@ -30,7 +30,7 @@ Trace AQ's official website markets physics-based AI air quality forecasting and
 ## Verbatim
 
 > "Air Quality Forecasting & Alerts for HEALTHCARE"
-> — Home page, hero
+> — Home page, heading
 
 > "Our breakthrough physics-based AI models decode complex atmospheric dynamics, delivering accuracy and reliability when it matters most."
 > — Home page, "Physics-Based AI"

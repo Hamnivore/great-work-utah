@@ -72,4 +72,3 @@ CleanJoule's Salt Lake City presence makes it one of Utah's more distinctive dee
 - What is the current status of SpaceSAF ASTM certification and launch-vehicle customer engagement?
 - What is the DoD partnership — which program office, and what are the contract terms?
 - Biofuel scale-up economics have historically been harder than lab economics; what cost-per-gallon targets has the company identified for competitive parity?
-- The placeholder hero should be replaced with a cleared manufacturing or fuel technology photograph when rights are confirmed.

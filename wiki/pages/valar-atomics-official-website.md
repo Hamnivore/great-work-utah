@@ -28,7 +28,7 @@ Valar Atomics' official website describes a company scaling nuclear energy for g
 ## Verbatim
 
 > "Valar Atomics is scaling nuclear energy for heavy industrial power and clean hydrocarbon fuel production."
-> — Home page, hero
+> — Home page, heading
 
 > "To unlock economies of scale, we're building hundreds of nuclear reactors on Valar Atomics gigasites. We focus on grid-independent products: hydrogen, data center power, heavy industrial power, and clean hydrocarbon fuels."
 > — Home page, "A New Model for Nuclear"
@@ -41,7 +41,7 @@ Valar Atomics' official website describes a company scaling nuclear energy for g
 
 ## Reliability Notes
 
-This is an official company source. Safety claims about TRISO/HTGR designs reflect established nuclear engineering principles but do not substitute for independent regulatory review, documented safety analysis, or operational data. Deployment timelines, licensing pathways, and commercial economics are highly uncertain for any seed-stage nuclear venture. Recent criticality milestones reported in June 2026 press coverage are not yet reflected on the company homepage snapshot used for this page. **Capture note:** the leadership roster cited on this page (Isaiah Taylor, Muhammad Shahzad, Mark Mitchell) does not appear on this homepage capture; verify titles against a team or mission page before citing them from this source.
+This is an official company source. Safety claims about TRISO/HTGR designs reflect established nuclear engineering principles but do not substitute for independent regulatory review, documented safety analysis, or operational data. Deployment timelines, licensing pathways, and commercial economics are highly uncertain for any seed-stage nuclear venture. Recent criticality milestones reported in June 2026 press coverage are not reflected on this company-homepage capture. The capture also does not show the leadership roster of Isaiah Taylor, Muhammad Shahzad, and Mark Mitchell; their titles require support from a team or mission page.
 
 ## Related Pages
 

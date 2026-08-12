@@ -49,4 +49,3 @@ This is an official program page. Sandbox participant status and application req
 - [Utah Office of Regulatory Relief](utah-office-of-regulatory-relief.md)
 - [Find Business Services in Utah](find-business-services.md)
 - [Commercialize Research in Utah](commercialize-research.md)
-

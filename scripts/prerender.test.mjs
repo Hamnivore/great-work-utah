@@ -40,6 +40,11 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
   assert.ok(metaDoc)
   assert.match(metaDoc, /"@type":"WebPage"/)
 
+  const maintained = renderDocument('pages', 'arpanet-fourth-node')
+  assert.match(maintained, /<aside class="maintainer-notes"/)
+  assert.match(maintained, /<h2[^>]*>Maintainer Notes<\/h2>/)
+  assert.match(maintained, /before promoting this page beyond Draft/)
+
   assert.match(searchPage(), /og:image" content="https:\/\/greatutah\.work\/og\.png"/)
 })
 

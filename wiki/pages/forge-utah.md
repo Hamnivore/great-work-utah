@@ -69,7 +69,7 @@ organization profile and not much else.
   located for this page. "Utah's community for engineers" is a self-description with no denominator.
 - **Why does the IRS ruling date say 2025-07 when the site says "est. 2015"?** Both may be true — a
   long-running volunteer community that only recently sought federal exemption — but no located source
-  explains the ten-year gap, and the wiki should not guess at it.
+  explains the ten-year gap, so the reason remains unknown.
 - **What are its finances?** The BMF row shows zero assets, zero income, and a filing requirement
   consistent with a small organization, which suggests it operates well under the 990-filing
   threshold. That is an inference from a filing code, not a statement of budget.

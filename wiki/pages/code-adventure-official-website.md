@@ -37,7 +37,7 @@ it the most substantively sourced of them — while still being the program desc
 ## Verbatim
 
 > "A free, hands-on summer coding camp for girls ages 13–18. No experience needed."
-> — Home page, hero
+> — Home page, heading
 
 > "Three days, six tracks, one student-built project. No prior coding experience needed — we start at
 > the beginning."

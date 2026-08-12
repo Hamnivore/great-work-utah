@@ -51,7 +51,7 @@ The filter itself is public. Each listed resource has its own cost, eligibility,
 
 ## Best Fits
 
-The best fit is a founder asking, "What exists in Utah for someone like me?" The filter is weaker when a founder already has a specific high-stakes need, such as FDA regulatory strategy, SBIR/STTR funding, export compliance, government contracting, or venture fundraising. In those cases, the wiki should recommend a narrower resource and explain why.
+The best fit is a founder asking, "What exists in Utah for someone like me?" The filter is weaker when a founder already has a specific high-stakes need, such as FDA regulatory strategy, SBIR/STTR funding, export compliance, government contracting, or venture fundraising. In those cases, a narrower resource with an explanation of fit is more useful.
 
 ## Evidence
 
@@ -61,5 +61,9 @@ The best fit is a founder asking, "What exists in Utah for someone like me?" The
 ## Open Questions
 
 - Which resources are in the current downloadable resource list, and can the team obtain the official spreadsheet referenced in the GOEO hackathon brief?
-- Which resource-filter categories map best to the wiki's guide and answer pages?
-- How often does GOEO update the directory, and what is the best way for the wiki to detect stale links?
+- How often does GOEO update the directory?
+
+## Maintainer Notes
+
+- Decide which resource-filter categories map best to guide and answer pages.
+- Establish a way to detect stale links when GOEO updates the directory.

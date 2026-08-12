@@ -62,7 +62,6 @@ IMSAR belongs near [Fortem Technologies](fortem-technologies.md), [Space Dynamic
 - Which DoD, DHS, or allied-government programs are public enough to cite directly?
 - What share of revenue is defense, homeland security, commercial, environmental, or law enforcement?
 - Which performance claims have independent test or procurement documentation?
-- The placeholder hero should be replaced with a cleared product, aircraft-integration, or facility image.
 
 ## See Also
 

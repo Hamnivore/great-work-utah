@@ -262,7 +262,7 @@ let graph = `# Evidence graph\n\nEvery \`Type: source\` page and what rests on i
 for (const p of rested.sort((a, b) => citedBy.get(b.file).length - citedBy.get(a.file).length || a.title.localeCompare(b.title))) {
   graph += `- [${p.title}](${p.url}) · \`${p.path}\` — ${citedBy.get(p.file).map((c) => `[${c.title}](${c.url})`).join(', ')}\n`
 }
-graph += `\n## Cited by nothing (${orphans.length})\n\nA source page nothing cites is unfinished work, not a finding: either the page it was gathered for was never written, or the claim it was gathered for did not survive. Cite it or say on the page why it stands alone.\n\n`
+graph += `\n## Cited by nothing (${orphans.length})\n\nA source page nothing cites is unfinished work, not a finding: either the page it was gathered for was never written, or the claim it was gathered for did not survive. Cite it or say on the page why it stands alone.\n${orphans.length ? '\n' : ''}`
 for (const p of orphans) graph += `- [${p.title}](${p.url}) · \`${p.path}\`\n`
 write('evidence.md', graph)
 

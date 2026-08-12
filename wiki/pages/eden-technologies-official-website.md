@@ -27,7 +27,7 @@ Eden Technologies' official website describes the Reverse Osmosis Centrifuge (RO
 ## Verbatim
 
 > "High-recovery desalination is here! Our patented Reverse Osmosis Centrifuge (ROC) delivers up to 2× more freshwater from high-salinity water with less waste, unlocking zero liquid discharge (ZLD) and brine mining."
-> — Home page, hero
+> — Home page, heading
 
 > "ROC is uniquely suited to treat and concentrate  high-salinity brines, complex brines, enabling mineral recovery and reducing ZLD system loads."
 > — Home page, brine mining

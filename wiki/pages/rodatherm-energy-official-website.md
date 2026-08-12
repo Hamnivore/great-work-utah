@@ -20,14 +20,14 @@ Rodatherm's official website describes a privately held geothermal power generat
 
 - Rodatherm markets Waterless Geothermal Systems (WGS) as closed-loop, waterless geothermal power deployable near demand centers.
 - The capture describes a pilot project underway in Milford, Utah, with first electrons targeted for late 2026.
-- The page previously asserted a large land-base power capacity and a Series A raise; this capture does not show those figures.
+- This capture does not show a land-base power-capacity figure or a Series A amount.
 - Rodatherm claims comparative efficiency advantages over water-based binary-cycle geothermal and smaller fluid use; this capture describes waterless, closed-loop pads under five acres but not comparative efficiency percentages.
-- The page previously listed Calgary, Alberta and Salt Lake City offices and CEO Curtis Cook; this capture does not show locations or leadership names.
+- This capture does not show office locations or leadership names.
 
 ## Verbatim
 
 > "Waterless Geothermal Systems™ (WGS™) deployable at infrastructure scale, to meet our world's growing energy needs."
-> — Home page, hero
+> — Home page, heading
 
 > "Rodatherm's Waterless Geothermal Systems™ ( WGS™) deliver firm, clean baseload power that can site near cities, industrial corridors, and major load centers in months, not years."
 > — Home page, demand shift

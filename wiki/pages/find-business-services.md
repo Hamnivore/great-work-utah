@@ -89,7 +89,7 @@ Use it for: growth-stage companies with exportable products, existing customers,
 
 Do not send a pre-product founder to international expansion support just because the product could someday be global. Do not send a regulated founder to generic startup advice if the actual blocker is a legal sandbox question. Do not send a government-sales company straight to investors when the company needs procurement readiness.
 
-The wiki should name the founder's bottleneck before naming the resource.
+Name the founder's bottleneck before choosing the resource.
 
 ## Evidence
 
@@ -106,6 +106,9 @@ The wiki should name the founder's bottleneck before naming the resource.
 
 ## Open Questions
 
-- Which real attorneys, accountants, grant writers, FDA consultants, fractional CFOs, recruiters, and immigration counsel should become helper pages? Partial progress: Wilson Sonsini, Maschoff Brennan, Tanner, NOW CFO, RQM+, and BBCetc now have helper pages; immigration counsel and generalist startup attorneys still missing.
 - Which services should be routed through public programs first versus private providers?
 - What intake questions best distinguish "I need a business service" from "I need capital," "I need a customer," or "I need a cofounder"?
+
+## Maintainer Notes
+
+- Which real attorneys, accountants, grant writers, FDA consultants, fractional CFOs, recruiters, and immigration counsel should become helper pages? Partial progress: Wilson Sonsini, Maschoff Brennan, Tanner, NOW CFO, RQM+, and BBCetc now have helper pages; immigration counsel and generalist startup attorneys still missing.

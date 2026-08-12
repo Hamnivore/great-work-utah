@@ -65,4 +65,3 @@ Utah's Great Basin geology is Rodatherm's primary target — the same sedimentar
 - How does Rodatherm's closed-loop approach compare to Eavor Technologies (Canada), the best-known prior closed-loop geothermal attempt?
 - What is the long-term Utah commitment versus Calgary HQ? Would a successful pilot lead to Utah operations or export the technology elsewhere?
 - No agent-readable careers/jobs page found (rodatherm.com/careers 404; no Greenhouse/Lever/Ashby board located).
-- The placeholder hero should be replaced with a cleared drilling or facility image when rights are confirmed.

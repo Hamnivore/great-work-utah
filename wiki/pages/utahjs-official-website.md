@@ -33,7 +33,7 @@ from it.
 ## Verbatim
 
 > "We are a community of developers passionate about JavaScript"
-> — Home page, hero
+> — Home page, heading
 
 > "UtahJS is a 501(c)(3) organization run by a passionate group of volunteers."
 > — Home page, footer

@@ -51,7 +51,7 @@ Iomega broadens the Utah computing story beyond software (the [WordPerfect/Novel
 ## People and Institutions
 
 - **Iomega Corporation** — Roy-based company that developed and commercialized the Zip drive; founded 1980, acquired by EMC in 2008.
-- **Iomega founders** — the company was founded in 1980 (legacy notes credit David Bailey, David Norton, and Jerome Paul Johnson among the founders; exact founding-team attribution should be verified against a primary source).
+- **Iomega founders** — the company was founded in 1980, but the exact founding-team attribution should be verified against a primary source.
 - **Iomega engineering, manufacturing, marketing, and channel teams** — turned removable-media engineering into a retail mass-market peripheral; marketing research and aggressive channel strategy were central to the Zip's success.
 - **EMC** — Massachusetts storage company that acquired Iomega in 2008.
 
@@ -71,6 +71,10 @@ Iomega broadens the Utah computing story beyond software (the [WordPerfect/Novel
 
 ## Open Questions
 
-- Founding-team attribution (Bailey/Norton/Johnson) comes from internal notes and should be confirmed against an Iomega primary source or filing before raising confidence on that specific claim.
+- Which Iomega primary source or filing confirms the founding-team attribution?
 - Exact peak Utah headcount and the precise market-share figures for Zip vary across sources; the page uses the best contemporaneous numbers available.
-- A short source page for the 1995 Iomega 10-K could be worth adding if other pages cite the same filing.
+
+## Maintainer Notes
+
+- Legacy internal notes attribute the founding team to Bailey, Norton, and Johnson; do not assert that attribution until a primary source confirms it.
+- Add a dedicated source page for the 1995 Iomega 10-K if more pages begin citing the filing.

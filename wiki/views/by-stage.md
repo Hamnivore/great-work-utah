@@ -1,10 +1,10 @@
 # By stage
 
-Generated from `**Stage:**` metadata (144 pages). The grouping key is derived from the free-text value at build time; the original text follows each entry.
+Generated from `**Stage:**` metadata (147 pages). The grouping key is derived from the free-text value at build time; the original text follows each entry.
 
 > **These groupings are not yet evidence.** `**Stage:**` is asserted in page metadata and no
 > source page backs it, so a line here is a claim the wiki has not checked — unlike Domain or
-> Region, which describe placement rather than fact. 144 pages carry it. Treat this view as an
+> Region, which describe placement rather than fact. 147 pages carry it. Treat this view as an
 > index to verify from, not a finding. The author's own wording is printed beside each entry.
 
 ## acquired (12)
@@ -146,7 +146,7 @@ Generated from `**Stage:**` metadata (144 pages). The grouping key is derived fr
 - [Williams International](/pages/williams-international.md) · `https://greatutah.work/pages/williams-international.md` · Established; privately held since 1955; Ogden, UT site operating since 1978 and expanding
 - [Zanskar Geothermal](/pages/zanskar-geothermal.md) · `https://greatutah.work/pages/zanskar-geothermal.md` · Series B (Salt Lake City, UT)
 
-## public (17)
+## public (19)
 
 - [Adobe](/pages/adobe.md) · `https://greatutah.work/pages/adobe.md` · Public (NASDAQ: ADBE); global; major Utah hub
 - [CompHealth](/pages/comphealth.md) · `https://greatutah.work/pages/comphealth.md` · Private; brand of CHG Healthcare (CHG Management, Inc.) — parent filed a withdrawn 2006 IPO (S-1)
@@ -159,17 +159,20 @@ Generated from `**Stage:**` metadata (144 pages). The grouping key is derived fr
 - [Merit Medical Systems](/pages/merit-medical.md) · `https://greatutah.work/pages/merit-medical.md` · Public company (NASDAQ: MMSI), founded 1987
 - [Myriad Genetics](/pages/myriad-genetics.md) · `https://greatutah.work/pages/myriad-genetics.md` · Public (NASDAQ: MYGN)
 - [Northrop Grumman — Promontory Facility](/pages/northrop-grumman-promontory.md) · `https://greatutah.work/pages/northrop-grumman-promontory.md` · Established; 80+ years on-site; public defense prime (NYSE: NOC)
+- [Nu Skin Enterprises](/pages/nu-skin.md) · `https://greatutah.work/pages/nu-skin.md` · Established; public (NYSE: NUS), contracting
 - [Ormat Technologies](/pages/ormat-technologies.md) · `https://greatutah.work/pages/ormat-technologies.md` · Public company (NYSE: ORA), founded 1965; Utah plant owner-operator since January 2024
 - [Overstock.com](/pages/overstock-com.md) · `https://greatutah.work/pages/overstock-com.md` · Public (NYSE: BBBY)
 - [Palladyne AI](/pages/palladyne-ai.md) · `https://greatutah.work/pages/palladyne-ai.md` · Public company (NASDAQ: PDYN); vertically integrated defense and industrial AI
 - [Recursion Pharmaceuticals](/pages/recursion-pharmaceuticals.md) · `https://greatutah.work/pages/recursion-pharmaceuticals.md` · Public company, clinical-stage TechBio
 - [Sky Quarry](/pages/sky-quarry.md) · `https://greatutah.work/pages/sky-quarry.md` · Public (NASDAQ: SKYQ); commercializing
+- [USANA Health Sciences](/pages/usana.md) · `https://greatutah.work/pages/usana.md` · Established; public (NYSE: USNA), core direct-selling business declining
 - [Weave](/pages/weave.md) · `https://greatutah.work/pages/weave.md` · Public company (NYSE: WEAV); established, ~40,000 customer locations
 
-## unclassified (4)
+## unclassified (5)
 
 - [Blundell Geothermal Plant](/pages/blundell-geothermal-plant.md) · `https://greatutah.work/pages/blundell-geothermal-plant.md` · Operating utility-owned geothermal plant
 - [Jump Aero](/pages/jump-aero.md) · `https://greatutah.work/pages/jump-aero.md` · Development (JA1 Pulse in development as of 2025)
+- [Utah's Direct-Selling Industry](/pages/utah-direct-selling-industry.md) · `https://greatutah.work/pages/utah-direct-selling-industry.md` · Ecosystem / cluster
 - [Utah Film Industry](/pages/utah-film-industry.md) · `https://greatutah.work/pages/utah-film-industry.md` · Ecosystem / cluster
 - [Utahn](/pages/utahn.md) · `https://greatutah.work/pages/utahn.md` · New publication; public founder essay and editorial charter published in 2026
 

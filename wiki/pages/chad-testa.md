@@ -64,7 +64,6 @@ Curza official channels; University of Utah Research and Innovation or licensing
 
 ## Open Questions
 
-- Has CZ-02 entered Phase 1 clinical trials since legacy intake, and what are the initial safety and PK results?
+- Has CZ-02 entered Phase 1 clinical trials, and what are the initial safety and PK results?
 - What reimbursement or pull-incentive model does Testa plan if Phase 3 succeeds, given broken antibiotic commercialization economics?
 - How does the DTRA nine-year partnership timeline map against Curza's near-term fundraising and operating runway?
-- The placeholder hero should be replaced with a cleared headshot or lab image when rights are confirmed.

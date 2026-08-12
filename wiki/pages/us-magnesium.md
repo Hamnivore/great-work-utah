@@ -55,4 +55,3 @@ US Magnesium is a quiet but load-bearing piece of Utah's industrial base and the
 - What are current employment levels and hiring plans under new ownership?
 - How do lithium-from-tailings plans interact with lake-preservation goals?
 - Environmental and labor history (EPA Superfund, emissions litigation, past safety incidents) should be read before treating this as an unqualified "meaningful work" destination.
-- Imagery is a deterministic placeholder pending a license-clean site photograph.

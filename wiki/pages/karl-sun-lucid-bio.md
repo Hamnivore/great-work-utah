@@ -22,7 +22,7 @@ This page is the About page and nothing more. Lucid's fundraising history — a 
 
 - Karl Sun is listed as co-founder and Board Chair of Lucid Software (Dave Grow is Chief Executive Officer on the captured About page).
 - Lucid Software was founded in 2010; headquartered in South Jordan, Utah.
-- Co-founder alongside Ben Dilts; Dave Grow identified in legacy notes as an executive (current title not confirmed here).
+- Co-founder alongside Ben Dilts; Dave Grow's current executive title is not confirmed by this source.
 - Sun previously worked at Google in legal and product roles before co-founding Lucid.
 - Products include Lucidchart (cloud diagramming) and Lucidspark (virtual whiteboarding).
 - The About page reports 100M+ individual users globally and 99% Fortune 500 penetration (company claim, not independently verified here).
@@ -49,7 +49,7 @@ This page is the About page and nothing more. Lucid's fundraising history — a 
 
 ## Reliability Notes
 
-The Lucid official website is a marketing source. User-count, Fortune 500 penetration, and valuation claims should be cross-referenced against third-party press coverage and investor announcements. The 2021 Series E valuation was widely reported but is based on private-round disclosures, not public market pricing. Dave Grow's role and current executive structure should be verified against recent Lucid press releases rather than legacy intake notes. **Capture note:** this page previously listed Karl Sun as CEO; the captured About page names Dave Grow as Chief Executive Officer and Karl Sun as Board Chair & Co-Founder. Sun's Google tenure, the 2021 Series E figures, and Silicon Slopes community activity are not stated on this capture.
+The Lucid official website is a marketing source. User-count, Fortune 500 penetration, and valuation claims should be cross-referenced against third-party press coverage and investor announcements. The 2021 Series E valuation was widely reported but is based on private-round disclosures, not public market pricing. The captured About page names Dave Grow as Chief Executive Officer and Karl Sun as Board Chair & Co-Founder. Sun's Google tenure, the 2021 Series E figures, and Silicon Slopes community activity are not stated in this capture.
 
 ## Related Pages
 
@@ -59,3 +59,7 @@ The Lucid official website is a marketing source. User-count, Fortune 500 penetr
 ## See Also
 
 - [Official Website: Lucid Software](lucid-software-official-website.md) · https://greatutah.work/pages/lucid-software-official-website.md · https://www.lucidsoftware.com
+
+## Maintainer Notes
+
+- Earlier intake and page copy identified Karl Sun as CEO and supplied other unsupported biography and financing details; the captured About page instead names Dave Grow as CEO and Sun as Board Chair and co-founder.

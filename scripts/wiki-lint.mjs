@@ -151,6 +151,8 @@ const METADATA_KEYS = new Set([
 
 const NEEDS_SECTION_RE = /^## What They Need Now\s*$/m;
 const SECTION_HEADER_RE = /^## (.+?)\s*$/gm;
+const MAINTAINER_PROSE_RE = /\b(?:legacy intake|legacy research|(?:local|older|prior|earlier) intake notes?|intake relied|internal notes?|capture note|during (?:this|the) migration|outside (?:this|the) migration|sparse migration|(?:this|the) page previously|future agents?|an editor|future editor|lint (?:requires|will|feeds|reports|reads)|before promoting this page|the wiki should)\b/i;
+const EDITORIAL_TASK_RE = /^[-*] (?:add|create|locate and capture|decide whether|consider a future|a future [^.]+ should)\b/i;
 const MARKDOWN_LINK_RE = /(?<!!)\[[^\]]+\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g;
 const OLD_STYLE_LINK_RE = /\]\((\.\.\/|\/wiki\/)/g;
 const STALE_MS = 183 * 24 * 3600 * 1000; // ~6 months, matches build-views.mjs
@@ -449,6 +451,10 @@ async function lintPage(filename) {
   const h1Index = lines.findIndex((line) => line.startsWith("# "));
   const headers = parseAttributeHeaders(lines, h1Index);
   const sections = parseSectionHeaders(content);
+  const sectionEntries = [...content.matchAll(/^## (.+?)\s*$/gm)].map((match) => ({
+    name: match[1].trim(),
+    line: lineForIndex(content, match.index),
+  }));
   const hasNeedsSection = NEEDS_SECTION_RE.test(content);
 
   // -- Unregistered metadata keys (warning) ---------------------------------
@@ -1051,7 +1057,7 @@ async function lintPage(filename) {
       }
     }
 
-    const skipped = new Set(["Evidence", "See Also", "Related Pages"]);
+    const skipped = new Set(["Evidence", "See Also", "Related Pages", "Maintainer Notes"]);
     let currentSection = null;
     for (const [index, line] of lines.entries()) {
       const heading = line.match(/^## (.+?)\s*$/);
@@ -1102,6 +1108,69 @@ async function lintPage(filename) {
         "missing-template-sections",
         filePath,
         `Missing template section(s) for Type: ${type} — ${missing.map((s) => `## ${s}`).join(", ")}.`
+      );
+    }
+  }
+
+  // -- Maintainer notes (error) ----------------------------------------------
+  // Editorial state stays available to agents in the canonical markdown, but it must be
+  // segregated from reader-facing prose and easy to find at the end of the document.
+  const maintainerSections = sectionEntries.filter(({ name }) => name === "Maintainer Notes");
+  if (maintainerSections.length > 1) {
+    addFinding(
+      "error",
+      "duplicate-maintainer-notes",
+      filePath,
+      "A page may contain at most one `## Maintainer Notes` section.",
+      maintainerSections[1].line
+    );
+  }
+  if (maintainerSections.length > 0) {
+    const first = maintainerSections[0];
+    if (sectionEntries.at(-1)?.name !== "Maintainer Notes") {
+      addFinding(
+        "error",
+        "maintainer-notes-not-final",
+        filePath,
+        "`## Maintainer Notes` must be the final level-two section.",
+        first.line
+      );
+    }
+    if (!sectionBody(content, "Maintainer Notes").trim()) {
+      addFinding(
+        "error",
+        "empty-maintainer-notes",
+        filePath,
+        "Remove an empty `## Maintainer Notes` section or add the editorial note it is meant to hold.",
+        first.line
+      );
+    }
+  }
+
+  // Internal workflow language in normal prose is almost always an editorial note that was
+  // left behind. Keep this deliberately narrow: reader-facing uncertainty and source limits
+  // belong in their normal sections, but intake/migration/lint history belongs at the end.
+  let currentSection = null;
+  for (const [index, line] of lines.entries()) {
+    const heading = line.match(/^## (.+?)\s*$/);
+    if (heading) currentSection = heading[1].trim();
+    if (currentSection === "Maintainer Notes") continue;
+    if (MAINTAINER_PROSE_RE.test(line)) {
+      addFinding(
+        "error",
+        "maintainer-prose-outside-notes",
+        filePath,
+        "Internal intake, migration, lint, or editorial workflow prose belongs in the final `## Maintainer Notes`; preserve any reader-facing uncertainty by rewriting it directly.",
+        index + 1
+      );
+    }
+    if (currentSection === "Open Questions" && EDITORIAL_TASK_RE.test(line)) {
+      addFinding(
+        "error",
+        "editorial-task-in-open-questions",
+        filePath,
+        "An editorial task is not an open question about the subject. Move it to the final `## Maintainer Notes`, and leave a direct factual question here only when readers need the answer.",
+        index + 1
       );
     }
   }

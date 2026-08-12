@@ -20,7 +20,7 @@ SpaceNews and TechCrunch coverage of the February 21, 2024 landing of Varda Spac
 - The capsule (~90 cm diameter, under 90 kg) flew as part of a Rocket Lab Photon spacecraft launched June 2023 on SpaceX's Transporter-8 rideshare; it carried crystals of the antiviral drug ritonavir grown in microgravity.
 - The landing was delayed for months while Varda secured an FAA commercial reentry license (granted February 14, 2024) and U.S. Air Force approval to land at UTTR, which the Air Force operates.
 - The landing ellipse spanned the southern part of UTTR and neighboring Dugway Proving Ground.
-- The page previously asserted later reporting (TechCrunch, July 2025; robotics.press) on Varda's El Segundo headquarters, total funding, subsequent missions, and Australian landings; this capture does not show those details.
+- This capture does not establish Varda's El Segundo headquarters, total funding, subsequent missions, or Australian landings discussed in later reporting.
 
 ## Verbatim
 

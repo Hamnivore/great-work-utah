@@ -49,4 +49,3 @@ This is an official program page and is appropriate for public evidence about Nu
 - [Nucleus Grow](nucleus-grow.md)
 - [Utah Technology Innovation Funding](utif.md)
 - [Commercialize Research in Utah](commercialize-research.md)
-

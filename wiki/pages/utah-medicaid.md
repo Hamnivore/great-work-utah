@@ -32,10 +32,13 @@ Eligibility varies by program, household circumstances, income, age, pregnancy, 
 ## Open Questions
 
 - Which Utah enrollment-assistance organizations offer verified, current help in languages other than English and Spanish?
-- A future guide should distinguish Medicaid, CHIP, Marketplace coverage, and charity-care paths without duplicating eligibility rules that change over time.
 
 ## Evidence
 
 - Utah Medicaid official portal and program description · https://medicaid.utah.gov/
 - Utah Medicaid application instructions · https://medicaid.utah.gov/apply-medicaid/
 - Utah Medicaid presumptive-eligibility guidance · https://medicaid.utah.gov/presumptive-eligibility/
+
+## Maintainer Notes
+
+- A future guide should distinguish Medicaid, CHIP, Marketplace coverage, and charity-care paths without duplicating eligibility rules that change over time.

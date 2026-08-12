@@ -307,14 +307,22 @@ ${metaRows
   // The H1 is emitted by the template, not by marked, so the trust badges and
   // metadata can sit between the title and the prose.
   const bodyNoTitle = body.replace(/^# .+$/m, '').trim()
+  const maintainerNotes = section(bodyNoTitle, 'Maintainer Notes')
+  const readerBody = maintainerNotes
+    ? bodyNoTitle.replace(/\n?## Maintainer Notes\s+[\s\S]*$/, '').trim()
+    : bodyNoTitle
 
   const bodyHtml = `        <article>
 ${pull ? `        <p class="pull">${inline(pull, kind, name)}</p>\n` : ''}        <h1>${esc(title)}</h1>
 ${badges.length ? `        <p class="trust">${badges.join('\n          ')}</p>\n` : ''}${metaHtml}
         <div class="doc">
-${renderMarkdown(bodyNoTitle, kind, name)}
+${renderMarkdown(readerBody, kind, name)}
         </div>
-        <div class="provenance">
+${maintainerNotes ? `        <aside class="maintainer-notes" aria-labelledby="maintainer-notes-${esc(name)}">
+          <h2 id="maintainer-notes-${esc(name)}">Maintainer Notes</h2>
+${renderMarkdown(maintainerNotes, kind, name)}
+        </aside>
+` : ''}        <div class="provenance">
           <p>
             Raw markdown for agents and citation:
             <a href="${esc(rawUrl)}">${esc(BASE + rawUrl)}</a>

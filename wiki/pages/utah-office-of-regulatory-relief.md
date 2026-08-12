@@ -34,7 +34,7 @@ It is not a shortcut around all compliance. It is a structured process for excep
 
 The official page describes a one-year sandbox for products, services, or production methods that would normally not fit within Utah's regulatory environment. It also describes a suggestion-box process where residents and organizations can propose regulatory changes.
 
-The page lists authorized, pending, and previous sandbox participants, which gives future agents a useful lead list for regulated-market examples.
+The page lists authorized, pending, and previous sandbox participants, providing a useful lead list for regulated-market examples.
 
 ## How To Use It
 
@@ -56,4 +56,7 @@ Best fits are founders who can show a real Utah customer need, a clear state reg
 
 - What are the current review timelines and approval rates?
 - Which regulatory categories are most likely to be appropriate for a sandbox application?
-- Should the wiki create match pages for regulated founders who also need specialized attorneys or compliance advisors?
+
+## Maintainer Notes
+
+- Consider creating match pages for regulated founders who also need specialized attorneys or compliance advisors.

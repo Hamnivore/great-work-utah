@@ -28,7 +28,7 @@ ACT Aerospace's official website describes the company's composite structures ma
 ## Verbatim
 
 > "ACT Aerospace is a manufacturing leader in the aerospace and defense industry. With a focus on advanced composite structures and a constant desire for improvement, ACT has developed a reputation as a key player in the industry."
-> — Home page, hero body
+> — Home page, introductory copy
 
 > "Located in Gunnison, Utah, ACT Aerospace is an industry leader in engineering and manufacturing aerospace components."
 > — Home page, news excerpt

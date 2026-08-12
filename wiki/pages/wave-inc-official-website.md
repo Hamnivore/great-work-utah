@@ -26,7 +26,7 @@ WAVE Charging's official website describes inductive wireless charging systems f
 ## Verbatim
 
 > "WAVE delivers 125kW to 500kW+ wireless charging that keeps commercial vehicles moving. No cables, no plugs, no downtime."
-> — Home page, hero
+> — Home page, heading
 
 > "High-frequency electromagnetic field transfers up to 500kW through a 5- to 8-inch air gap with 92%+ efficiency."
 > — Home page, "How Wireless Charging Actually Works"

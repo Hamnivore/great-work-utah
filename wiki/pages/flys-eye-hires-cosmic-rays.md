@@ -50,5 +50,9 @@ The experiments did not identify the sources of ultra-high-energy cosmic rays; t
 
 ## Open Questions
 
-- Add a source record for the original 1995 Astrophysical Journal Oh-My-God particle paper.
-- Add a cleaner short explanation of energy units for general readers if this page becomes a public front-door science page.
+- What does the original 1995 *Astrophysical Journal* paper establish beyond the later summaries cited here?
+
+## Maintainer Notes
+
+- Add a source record for the original 1995 *Astrophysical Journal* Oh-My-God particle paper.
+- Add a concise explanation of energy units if this becomes a front-door science page.

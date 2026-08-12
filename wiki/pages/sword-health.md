@@ -59,4 +59,3 @@ Sword Health chose Salt Lake City for its U.S. headquarters in 2017, drawn by th
 - Independent clinical outcomes data: Sword publishes outcomes papers, but how does the evidence hold up under third-party scrutiny for surgery avoidance and sustained pain reduction?
 - Current revenue and path to profitability — the company raised through 2022 at high valuations; what is the growth trajectory at current market conditions?
 - How does the AI motion-tracking compare clinically against in-person PT assessment, and what does the evidence say about which patients benefit most from digital versus in-person care?
-- The placeholder hero should be replaced with a cleared product or clinical-operations image when rights are confirmed.

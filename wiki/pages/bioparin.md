@@ -61,4 +61,3 @@ The University of Utah spinout infrastructure — including the Technology Licen
 - What does Bioparin's website URL currently show, given that the legacy source listed "search: Bioparin University of Utah" rather than a direct URL?
 - Competing academic groups (notably Robert Linhardt at RPI and others) have also pursued synthetic heparin — how does Bioparin's approach compare?
 - Price parity with Chinese pig-intestine extraction is a very hard economic bar — what production cost targets has the company identified?
-- The placeholder hero should be replaced with a cleared laboratory or process photograph when rights are confirmed.

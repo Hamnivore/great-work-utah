@@ -28,7 +28,7 @@ MasterControl's official website describes a cloud-based quality management syst
 ## Verbatim
 
 > "Bringing breakthrough products to market in highly regulated industries can feel like an endless series of trade-offs. MasterControl's software leverages AI to simplify GxP workflows so you never have to sacrifice quality for cost or innovation for regulation."
-> — Home page, hero
+> — Home page, heading
 
 > "FedRAMP-ready QMS solutions for government life sciences agencies"
 > — Home page, Industries navigation

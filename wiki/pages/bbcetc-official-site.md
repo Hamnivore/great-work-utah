@@ -27,7 +27,7 @@ BBCetc's official site describes a consulting and training firm that helps compa
 
 > "From ideation to product launch, we assist companies and support organizations navigate federal
 > funding to support technology growth."
-> — Home page, hero
+> — Home page, heading
 
 > "Securing nondilutive R&D funding from a government program is highly competitive and complex."
 > — Home page, main body

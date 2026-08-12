@@ -18,9 +18,9 @@ The USGS Utah Water Science Center maintains ongoing monitoring and scientific d
 
 ## Useful Claims
 
-- The page previously cited a 2022 record low lake level and reduced surface area; this hub-page capture does not show those figures.
-- The page previously asserted a large share of surface area lost since 1850; this capture does not show that estimate.
-- The page previously asserted a large share of tributary inflow diverted for agriculture; this capture does not show diversion estimates.
+- This hub-page capture does not establish the reported 2022 record-low lake level or reduced surface area figures.
+- This capture does not establish the reported estimate of surface area lost since 1850.
+- This capture does not establish reported estimates of tributary inflow diverted for agriculture.
 - USGS brine shrimp and water chemistry monitoring tracks ecological stress as salinity rises; this capture mentions the brine shrimp harvest industry but not salinity tolerance thresholds.
 - A 2025 USGS dust study on the page analyzes exposed lakebed dust as a possible health risk for northern Utah communities.
 

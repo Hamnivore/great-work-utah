@@ -52,4 +52,3 @@ UTQ sits at the intersection of Utah's growing university quantum research, its 
 - Has UTQ secured grants, contracts, or paying customers?
 - How does UTQ's technical bench compare to established QSIs and national labs?
 - Founder backgrounds are strong on enterprise and defense; where is the quantum-physics depth?
-- Imagery is a deterministic placeholder pending a license-clean photograph.

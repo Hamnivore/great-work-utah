@@ -12,17 +12,21 @@
 
 ## Summary
 
-The official URL listed in the Startup State import could not be read reliably during this verification pass. Browser-style fetches returned no usable page content. A direct HTTP request redirected to `https://impactutah.org/`, and the HTTPS endpoint failed with a TLS internal error from the verification environment.
+On 2026-06-18, the official URL listed by Startup State could not be read reliably. Browser-style requests returned no usable page content; a direct HTTP request redirected to `https://impactutah.org/`, whose HTTPS endpoint returned a TLS internal error.
 
 ## Useful Claims
 
-- The verification environment did not obtain current provider claims from the official site.
-- The resource page should remain low-confidence until a readable official page, archived page, or current partner page confirms the active program model.
+- The retrieval did not obtain current provider claims from the official site.
+- This record does not establish the active program model; that requires a readable official page, archived page, or current partner page.
 
 ## Reliability Notes
 
-This is not evidence that iMpact Utah is inactive. It is only evidence that the official site could not be verified from this environment on 2026-06-18.
+This is not evidence that iMpact Utah is inactive. It establishes only that the official site could not be retrieved on 2026-06-18.
 
 ## Related Pages
 
 - [iMpact Utah](impact-utah.md)
+
+## Maintainer Notes
+
+- Keep the resource page at low confidence until a readable official page, archived page, or current partner page confirms the active program model.

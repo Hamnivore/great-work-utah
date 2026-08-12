@@ -64,4 +64,3 @@ Utah has more film history per square mile of red rock than almost any other sta
 - What is Utah's current film tax credit structure versus Georgia, New Mexico, and New York — and what would make it genuinely competitive?
 - How much of the BYU and U of U film school graduate cohort stays in Utah vs. relocating to LA or New York?
 - What is the current state of post-production infrastructure in Utah — do productions do final cut locally or export to LA?
-- The placeholder hero should be replaced with a cleared production or landscape image when rights are confirmed.

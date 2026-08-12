@@ -53,4 +53,7 @@ Weaker fit for tech startups or manufacturers without a tourism/hospitality cust
 ## Open Questions
 
 - What are the current cooperative marketing grant deadlines and eligibility rules?
+
+## Maintainer Notes
+
 - How should the wiki distinguish UOT industry programs from [Utah Tourism Association](utah-tourism-association.md) membership benefits?

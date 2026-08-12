@@ -57,4 +57,7 @@ Best fits include a woman founder at the idea, startup, or growth stage who need
 
 - Which WBCUtah programs are most useful for rural founders versus Wasatch Front founders?
 - Which current cohort programs or trainings should be cited in founder answers?
+
+## Maintainer Notes
+
 - Are there public WBCUtah advisor profiles that should become helper pages?

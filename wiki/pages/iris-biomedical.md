@@ -67,4 +67,3 @@ This concentration means Utah has an unusual depth of implantable-device manufac
 - How does Iris compete with other neural-interface manufacturers (Microprobes for Life Science, Plexon, custom university fabs)?
 - Is the company actively recruiting, and what specific roles are open?
 - ISO 13485 QMS overhead is significant for a small company — does Iris hold current certification?
-- The placeholder hero should be replaced with a cleared lab or product photograph when rights are confirmed.

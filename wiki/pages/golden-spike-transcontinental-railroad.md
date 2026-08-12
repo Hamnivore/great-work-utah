@@ -51,5 +51,8 @@ The standard ceremony photograph tells an incomplete story. Executives, official
 
 ## Open Questions
 
+- Which primary records best document Chinese railroad workers' experience and the effects on Indigenous communities?
+
+## Maintainer Notes
+
 - Add a dedicated source page for the NPS Golden Spike material and a separate one for Chinese railroad worker history.
-- A license-clean copy of the ceremony photograph should be added with captioning that names who is missing from the image.

@@ -64,4 +64,3 @@ The lab continues a deep University of Utah tradition in neural engineering and 
 - What are the lab's current enrollment, funding totals, and nearest clinical-translation milestones?
 - Which spinout candidates, if any, are in the U of U licensing pipeline?
 - Primary lab website was intermittently unavailable during sourcing; claims should be re-verified against publications and NIH RePORTER.
-- Imagery is a deterministic placeholder; a license-clean lab or prosthetic-research photograph needs sourcing.

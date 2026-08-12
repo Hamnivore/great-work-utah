@@ -32,7 +32,7 @@ Fervo Energy's official website describes a next-generation geothermal company a
 From the 2026-08-07 archive capture, which is the only readable copy — see the fetch note below:
 
 > "Delivering 24/7 carbon-free geothermal energy."
-> — Home page, hero
+> — Home page, heading
 
 > "Fervo Energy Learning Curve Continues on 3rd Generation Well Design, Boosting Drilling Rates by
 > 143% Since Its First Cape Station Well"

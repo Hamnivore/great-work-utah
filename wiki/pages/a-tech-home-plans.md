@@ -14,7 +14,7 @@
 
 A‑TECH Home Plans was listed in the Startup State directory as a Davis County residential-design firm serving custom-home, remodel, ADU, and addition projects. The imported listing claimed more than 20 years of experience and 400 completed projects; those figures have not been independently verified.
 
-This page was bulk-imported from the Startup State resource CSV. The listing no longer appears in the live directory, and a current official page was not independently verified on 2026-08-11. Treat the page as a lead to a commercial provider, not as a currently endorsed state resource.
+The listing no longer appears in the live directory, and a current official page was not independently verified on 2026-08-11. Treat the page as a lead to a commercial provider, not as a currently endorsed state resource.
 
 ## Who It's For
 
@@ -52,7 +52,6 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 
 ## Imported Coverage
 
-- Startup State CSV ID: 3783
 - Counties or regions: Davis
 - Communities: Rural
 - Industries: Other
@@ -64,10 +63,15 @@ Based on the Startup State tags, this may fit Utah founders or operators working
 - [Startup State Resource List source note](startup-utah-resource-list.md) · https://greatutah.work/pages/startup-utah-resource-list.md · https://startup.utah.gov/resources/
 - [Official website](https://atechhomeplans.com/) · https://atechhomeplans.com/
 
-> **Coverage note (2026-07-14):** This listing no longer appears on the live [Startup State resources](https://startup.utah.gov/resources/) directory. Keep the page if the program still exists elsewhere; otherwise treat as historical.
+> **Coverage note (2026-07-14):** This listing no longer appears on the live [Startup State resources](https://startup.utah.gov/resources/) directory; treat it as historical unless current operation is independently confirmed.
 
 ## Open Questions
 
-- Is the imported description still accurate on the provider's current website?
+- Is the description still accurate on the provider's current website?
 - What is the exact next step for a founder: apply, schedule advising, attend an event, reserve space, or contact staff?
 - Are there costs, deadlines, geographic limits, or eligibility rules that should change the recommendation?
+
+## Maintainer Notes
+
+- Bulk-imported from the Startup State resource CSV (ID 3783).
+- Retain only if the program still exists outside the live Startup State directory.

@@ -28,7 +28,7 @@ Inherent Biosciences' official website describes a mission to replace trial-and-
 ## Verbatim
 
 > "Our vision is to revolutionize trial and error medicine to restore hope"
-> — Home page, hero
+> — Home page, heading
 
 > "We are on a mission to use what's inherent in our biology to remove the guesswork in diagnosing and treating complex diseases , starting in reproductive health."
 > — Home page, mission statement
@@ -46,4 +46,4 @@ This is an official company source. It is useful for product positioning, epigen
 
 ## See Also
 
-- [Nucleus Utah: Redefining male fertility](https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth) · https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth — third-party Utah ecosystem profile cited in legacy research
+- [Nucleus Utah: Redefining male fertility](https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth) · https://www.nucleusutah.org/newsroom/redefining-male-fertility-inside-inherent-biosciences-growth — third-party Utah ecosystem profile

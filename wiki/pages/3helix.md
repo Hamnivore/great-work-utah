@@ -55,4 +55,3 @@ Useful helpers include diagnostic contrast-agent developers, collagen-biology ac
 - How does BASF's personal-care exclusivity constrain pharma licensing for oncology and cardiovascular indications?
 - Ten years from founding to preclinical therapeutics — is the platform on track or stalled at the cosmetics wedge?
 - Independent clinical validation of CHP imaging or delivery claims is not yet established in captured sources.
-- The placeholder hero should be replaced with a cleared product, facilities, or CHP-application image when rights are confirmed.

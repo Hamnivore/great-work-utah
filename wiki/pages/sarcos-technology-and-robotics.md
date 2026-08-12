@@ -61,4 +61,3 @@ Sarcos has deep roots in the University of Utah's robotics and bioengineering tr
 - What is the current ownership structure under Paladin Capital and the commercial roadmap post-delisting?
 - Guardian XO adoption rates in actual industrial deployments versus pilots and demonstrations — what does operational data show for fatigue, injury reduction, and productivity?
 - How does Sarcos's exoskeleton compare against competitors like Ekso Bionics, SuitX (acquired by Ottobock), and Hyundai's Vest Exoskeleton?
-- The placeholder hero should be replaced with a cleared image of the Guardian XO or Guardian XT in operation.

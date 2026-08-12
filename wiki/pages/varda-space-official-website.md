@@ -26,7 +26,7 @@ Varda's official website describes an in-space manufacturing company that develo
 ## Verbatim
 
 > "Varda is a microgravity-enabled life sciences company that processes materials in orbit and returns them to Earth."
-> — Home page, hero
+> — Home page, heading
 
 > "Built entirely in-house for orbital material processing and reentry"
 > — Home page, platform section
@@ -39,7 +39,7 @@ Varda's official website describes an in-space manufacturing company that develo
 
 ## Reliability Notes
 
-Official company source — reliable for product positioning and mission framing. Mission counts, funding totals, contract values, and landing-site plans change quickly and should be cross-checked with press coverage, FAA records, and investor disclosures. Marketing claims about pharmaceutical benefits require independent clinical or materials-science validation. **Capture note:** ritonavir as a canonical pharmaceutical example and detailed spacecraft/capsule architecture claims on this page are not stated on this homepage capture.
+Official company source — reliable for product positioning and mission framing. Mission counts, funding totals, contract values, and landing-site plans change quickly and should be cross-checked with press coverage, FAA records, and investor disclosures. Marketing claims about pharmaceutical benefits require independent clinical or materials-science validation. This homepage capture does not state the ritonavir example or detailed spacecraft and capsule architecture claims.
 
 ## Related Pages
 

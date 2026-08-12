@@ -62,4 +62,3 @@ Weave is a Lehi-based anchor of the Silicon Slopes software corridor and one of 
 - Weave layers applied AI on top of third-party model APIs; how much durable defensibility comes from its vertical workflows and data versus the underlying LLMs it does not build?
 - How does Weave's voice AI perform against HIPAA and accuracy requirements in production at scale, and how is human handoff designed? Independent evaluation data would strengthen the impact case.
 - How is the TrueLark acquisition being integrated, and what does it add to Weave's AI roadmap?
-- Imagery gap: the hero is a deterministic picsum placeholder. A license-clean photo of Weave's Lehi office, team, or product UI still needs to be sourced and attributed.

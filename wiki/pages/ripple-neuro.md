@@ -60,4 +60,3 @@ Ripple Neuro sits within the University of Utah's neural engineering cluster —
 - How far is the Trek system from enabling ambulatory human BCI experiments, and what regulatory pathway would that require?
 - What is the relationship between Ripple Neuro and Ripple Neuromed — separate entities, shared ownership, or a single entity with separate commercial presences?
 - Which specific NIH HEAL programs is Ripple currently supporting, and what milestones define success?
-- The placeholder hero should be replaced with a cleared product image of the Grapevine or Trek system when rights are confirmed.

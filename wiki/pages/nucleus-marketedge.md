@@ -52,4 +52,7 @@ MarketEdge is a strong fit for a researcher who has promising work but has not y
 
 - Which Utah institutions are most represented in MarketEdge cohorts?
 - Does completion directly affect eligibility for grants, Nucleus Fund review, or other Nucleus support?
+
+## Maintainer Notes
+
 - Are there public alumni examples that should become venture or people pages?

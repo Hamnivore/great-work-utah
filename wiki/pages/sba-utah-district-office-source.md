@@ -30,9 +30,8 @@ points businesses to registration guidance, state and federal resources, and len
 
 This is an official SBA page and a strong source for service scope and public access routes. Program terms, loan availability, certification rules, and event dates should be verified before making a time-sensitive recommendation.
 
-The captured page text is mostly navigation chrome and event listings. It does not support the
-earlier claims about county coverage, office locations, or every named SBA service, so those claims
-were removed pending a capture that contains them.
+The captured page text is mostly navigation chrome and event listings. It does not establish county
+coverage, office locations, or every named SBA service.
 
 ## Related Pages
 

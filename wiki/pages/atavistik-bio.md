@@ -26,7 +26,7 @@ The current captured source does not establish the founders, platform publicatio
 
 Many of the best drug targets are allosteric sites nobody knew existed. Allosteric modulation can be more isoform- and mutation-specific than orthosteric inhibition, potentially improving tolerability. The platform thesis is that systematic metabolite-protein screening expands the druggable genome beyond conventional active-site chemistry.
 
-The immediate clinical programs center on selective AKT1 and JAK2 modulation. Legacy research highlighted AKT1 E17K — a common driver mutation in breast, uterine, and colorectal cancers — where pan-AKT inhibitors cause significant toxicity. An allosteric inhibitor specific to mutant AKT1 could be dramatically more tolerable. The company's 2026 official website emphasizes ATV-1601 for hereditary hemorrhagic telangiectasia (HHT), with FDA IND clearance and Fast Track designation announced in June 2026 — suggesting active pipeline evolution as programs mature.
+The immediate clinical programs center on selective AKT1 and JAK2 modulation. Earlier research highlighted AKT1 E17K — a common driver mutation in breast, uterine, and colorectal cancers — where pan-AKT inhibitors cause significant toxicity. An allosteric inhibitor specific to mutant AKT1 could be dramatically more tolerable. The company's 2026 official website emphasizes ATV-1601 for hereditary hemorrhagic telangiectasia (HHT), with FDA IND clearance and Fast Track designation announced in June 2026 — suggesting active pipeline evolution as programs mature.
 
 If the platform translates, it enables exploration of a target class that has been largely inaccessible; if clinical data fail, the science still documents a new map of cellular regulation from Utah-born research.
 
@@ -65,10 +65,9 @@ Readers evaluating meaningful work in Utah should not mistake Atavistik for a lo
 
 ## Open Questions
 
-- Pipeline emphasis appears to have shifted toward HHT for ATV-1601 in 2026 official communications while legacy intake centered AKT1 E17K solid tumors — what is the current status of each indication?
+- Pipeline emphasis appears to have shifted toward HHT for ATV-1601 in 2026 official communications, while earlier materials centered AKT1 E17K solid tumors — what is the current status of each indication?
 - Allosteric drug development has high historical attrition; context-dependent binding remains a recurring failure mode.
 - ATV-1601 Phase 1 efficacy is unproven; data will be a major inflection point for the platform narrative.
 - Total financing and current runway are not established by the captured official homepage.
 - Competition includes Relay Therapeutics, Recursion (allosteric adjacency), and major pharma discovery groups.
 - No allosteric drug from de novo allosteric-site discovery has yet received clinical approval — platform novelty is high, clinical proof is still ahead.
-- The placeholder hero should be replaced with a cleared science or team image when rights are confirmed.

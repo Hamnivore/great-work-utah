@@ -59,6 +59,9 @@ It is probably not the first answer for a university researcher validating wheth
 ## Open Questions
 
 - Which SBA loan and certification paths are most common for Utah founders by stage and sector? The federal award record answers the *shape* of Utah SBA activity — guaranteed lending dominates by three orders of magnitude over grants — but not the sector or stage mix, which needs the SBA 7(a)/504 loan-level data rather than the USAspending rollup.
+- The district office's own service description — all 29 Utah counties, counseling, certifications, disaster recovery — still rests on `sba.gov`. It is a federal agency describing its own jurisdiction, which is strong self-report, but it is self-report: a Federal Register notice or SBA's district-office organizational record would make it primary.
+
+## Maintainer Notes
+
 - Which SBA lenders or partner organizations should become separate source or helper pages? The FY2025 award record names the candidates: the **Utah SBDC** network funded through Utah State University, the "FAST awardee" grant to the [Utah Governor's Office of Economic Opportunity](utah-governor-s-office-of-economic-opportunity.md), the **Utah Microenterprise Loan Fund**, two Salt Lake Area Chamber of Commerce awards covering Salt Lake City and Cedar City, **Warrior Rising**, and a Salt Lake Community College award recorded as "FY25 WVETP-".
 - How should the wiki distinguish SBA loan readiness from venture-capital readiness in persona answers? Worth noting from the award data that the single largest FY2025 "SBA loan" in Utah was SBIC leverage to a venture fund, so the two are not as separate as the framing suggests.
-- The district office's own service description — all 29 Utah counties, counseling, certifications, disaster recovery — still rests on `sba.gov`. It is a federal agency describing its own jurisdiction, which is strong self-report, but it is self-report: a Federal Register notice or SBA's district-office organizational record would make it primary.

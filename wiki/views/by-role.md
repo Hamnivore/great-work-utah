@@ -7,12 +7,12 @@ Generated from `**Roles:**` metadata on pages with current-needs assessments. Th
 - [Biologists / life scientists](role-biology-life-sciences.md) · `https://greatutah.work/views/role-biology-life-sciences.md` — 26 organizations
 - [Physical scientists](role-physical-sciences.md) · `https://greatutah.work/views/role-physical-sciences.md` — 40 organizations
 - [Hardware engineers](role-hardware-engineering.md) · `https://greatutah.work/views/role-hardware-engineering.md` — 51 organizations
-- [Manufacturing / operations](role-manufacturing-operations.md) · `https://greatutah.work/views/role-manufacturing-operations.md` — 60 organizations
+- [Manufacturing / operations](role-manufacturing-operations.md) · `https://greatutah.work/views/role-manufacturing-operations.md` — 59 organizations
 - [Clinical / regulatory](role-clinical-regulatory.md) · `https://greatutah.work/views/role-clinical-regulatory.md` — 45 organizations
 - [Product designers](role-product-design.md) · `https://greatutah.work/views/role-product-design.md` — 31 organizations
-- [Sales / business development](role-sales-business-development.md) · `https://greatutah.work/views/role-sales-business-development.md` — 62 organizations
+- [Sales / business development](role-sales-business-development.md) · `https://greatutah.work/views/role-sales-business-development.md` — 63 organizations
 - [Marketing / communications](role-marketing-communications.md) · `https://greatutah.work/views/role-marketing-communications.md` — 20 organizations
-- [Finance / accounting](role-finance-accounting.md) · `https://greatutah.work/views/role-finance-accounting.md` — 6 organizations
+- [Finance / accounting](role-finance-accounting.md) · `https://greatutah.work/views/role-finance-accounting.md` — 7 organizations
 - [Legal / policy](role-legal-policy.md) · `https://greatutah.work/views/role-legal-policy.md` — 16 organizations
 - [Program / project managers](role-program-project-management.md) · `https://greatutah.work/views/role-program-project-management.md` — 50 organizations
 - [Field workers / skilled trades](role-field-skilled-trades.md) · `https://greatutah.work/views/role-field-skilled-trades.md` — 32 organizations

@@ -57,4 +57,7 @@ UTIF is best for a technical Utah company that already has a target SBIR/STTR to
 
 - What is the current annual funding pool and depletion risk?
 - How often are applications rejected for timing, missing registrations, or weak SBIR/STTR fit?
-- Should the wiki maintain a checklist answer for UTIF readiness?
+
+## Maintainer Notes
+
+- Consider maintaining a checklist answer for UTIF readiness.

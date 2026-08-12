@@ -52,4 +52,6 @@ The node reinforces why the [University of Utah Computer Graphics Program](utah-
 
 ## Open Questions
 
+## Maintainer Notes
+
 - Add a more primary ARPA or BBN source before promoting this page beyond Draft.

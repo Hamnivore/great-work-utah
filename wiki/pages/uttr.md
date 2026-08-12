@@ -45,8 +45,6 @@ Useful context-setters include Air Force range-access facilitators, FAA airspace
 
 UTTR helps explain why Utah hosts the defense and space companies it does. [Fortem Technologies](fortem-technologies.md), [Hexcel Corporation](hexcel.md), [Space Dynamics Laboratory](space-dynamics-laboratory.md), solid-rocket manufacturing, and Hill AFB adjacency all sit inside a regional story where physical test infrastructure matters as much as corporate headquarters.
 
-Legacy tier note (converted): included for completeness as an honest "look elsewhere" for typical startup careers — infrastructure, not a starred employer in the company sense.
-
 ## Evidence
 
 - [Source: Hill AFB Utah Test and Training Range Fact Sheet](utah-test-training-range-source.md) · https://greatutah.work/pages/utah-test-training-range-source.md · https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
@@ -56,6 +54,10 @@ Legacy tier note (converted): included for completeness as an honest "look elsew
 
 ## Open Questions
 
-- Add stronger environmental, Indigenous, and community-impact sourcing before treating UTTR as uncontested local infrastructure.
 - Testing schedules and user access are gated by DoD priorities; public information on many uses is limited or classified.
 - Will commercial space returns remain a regular UTTR use case as operators like Varda shift landings to sites such as Australia's Koonibba Test Range?
+
+## Maintainer Notes
+
+- Add stronger environmental, Indigenous, and community-impact sourcing before treating UTTR as uncontested local infrastructure.
+- A legacy tier note included this page for completeness as an honest "look elsewhere" for typical startup careers: infrastructure, not a starred employer in the company sense.

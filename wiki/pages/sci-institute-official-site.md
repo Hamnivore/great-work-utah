@@ -21,12 +21,12 @@ The SCI Institute's public site describes its mission, faculty, research groups,
 - SCI is a permanent University of Utah research institute with origins in the early 1990s.
 - Major open-source software releases include SCIRun, ShapeWorks, Seg3D, and FluoRender.
 - Funding is primarily from federal grants (NIH, NSF, DOE, DOD).
-- The page previously asserted a publication total and extensive alumni pipeline; the captured homepage does not show those details.
+- The captured homepage does not establish the extent of the institute's publication record or alumni pipeline.
 
 ## Verbatim
 
 > "Empowering our students and scholars to impact society through transformative multidisciplinary computing research"
-> — Home page, hero
+> — Home page, heading
 
 > "~4000
 > Publications"

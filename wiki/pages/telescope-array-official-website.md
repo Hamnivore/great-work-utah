@@ -21,7 +21,7 @@ The official project website for the Telescope Array (TA), the largest ultra-hig
 - The Telescope Array is located in Millard County, Utah, west of Delta.
 - The collaboration is led by the University of Utah and the University of Tokyo ICRR.
 - The detector array covers hundreds of square kilometers using surface scintillation detectors and air-fluorescence telescope stations.
-- The page previously named a TAx4 expansion; this capture describes TALE (low-energy extension) and a separate expansion adding 500 scintillator detectors.
+- This capture describes TALE, the low-energy extension, and a separate expansion adding 500 scintillator detectors; it does not name that expansion TAx4.
 - The site documents the collaboration's publications, news, and technical specifications.
 
 ## Verbatim

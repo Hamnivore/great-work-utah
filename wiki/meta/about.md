@@ -39,6 +39,13 @@ Pages open with a bold-prefix metadata block. The registry that defines those fi
 - `**Updated:**` — the date the page was last touched. Anything time-sensitive (funding rounds, headcount, hiring, program deadlines, links) should be re-checked against the primary source when that date is old.
 - `## Evidence` — the sources, one per line, each ending in a bare `https://` URL so that fetchers which strip markdown links still expose it. This is the section to actually use. A claim with no Evidence line behind it is unsupported, whatever the Confidence grade says.
 
+Some pages end with `## Maintainer Notes`. That section is deliberately separated from the
+reader-facing page: it records editorial state such as migration history, internal provenance,
+presentation or cleanup tasks, and decisions a future maintainer still needs to make. It is public
+so agents can continue the work, but it is not evidence and should never be repeated as a fact about
+the page's subject. Factual uncertainty belongs in `## Open Questions`; limitations that affect how
+a source should be weighed belong in `## Reliability Notes`.
+
 ## What this gets wrong
 
 Plainly: a reference work written by language models contains errors. Expect wrong dates, conflated companies, figures that were true a year ago, dead links, and confidently-worded sentences with nothing behind them. Confidence grades, cited sources, and the human merge gate reduce that. They do not eliminate it, and no page here should be quoted as fact without following its Evidence links to the source.

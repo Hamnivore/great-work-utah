@@ -60,7 +60,7 @@ SPIRE's official website describes Diadem, a low-intensity focused ultrasound (L
 
 ## Reliability Notes
 
-The 20M and 6M population figures sit in a statistics band, where the number and its caption are separate elements; extraction puts them on separate lines. This page previously asserted that both figures and the study-recruitment invitation were *absent* from the capture when all three are in it — a statement about our own evidence that was simply false, and the more misleading for sounding careful. They are now quoted directly. When a figure seems missing from a capture, check for it as the site renders it (`20M`, not "approximately 20 million") before writing down that it is not there.
+The 20M and 6M population figures sit in a statistics band where each number and caption are separate elements, so text extraction places them on separate lines. Both figures and the study-recruitment invitation are present in the capture and quoted above; the source renders the first figure as `20M`, not "approximately 20 million."
 
 This is an official company source. Epidemiology figures, clinical-outcome claims, and mechanism-of-action statements on a company site are leads, not independent verification. Trial enrollment status, regulatory pathway, and comparative efficacy versus TMS, ECT, or DBS should be confirmed against clinical-trial registries, peer-reviewed publications, and FDA device databases before high-confidence use.
 

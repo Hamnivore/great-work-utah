@@ -61,4 +61,3 @@ LVT is a Silicon Slopes success story: bootstrapped from a garage in 2005 to one
 - The $135M figure is 2022 and combines equity and debt, not a single equity raise; current valuation, revenue, and any newer funding are unconfirmed here.
 - What privacy, retention, and oversight policies govern LVT's law-enforcement deployments and the Fūsus integration?
 - Deployment counts and crime-reduction outcomes are largely company-published; independent verification is limited.
-- No license-clean LVT unit photograph has been sourced; the hero is a deterministic picsum placeholder pending a cleared product image.

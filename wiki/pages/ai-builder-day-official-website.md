@@ -17,8 +17,8 @@ The AI Builder Day site as it stood on 2026-08-11, three days before the event i
 the promotional page for **Part 2** of a two-part hackathon series in Lehi, Utah, and it is the only
 located source for the series' format, prize pool, and the attendance figure it claims for Part 1.
 
-Captured deliberately *before* the event: this page will be rewritten or replaced once Part 2 is over,
-and the pre-event claims are exactly what a later reader would want to check the outcome against.
+Because the page was captured before the event, it preserves the promotional claims that can later
+be compared with evidence about whether the event ran and what it produced.
 
 ## Useful Claims
 
@@ -76,4 +76,8 @@ Nothing on this page establishes that the August 2026 event took place.
 ## Related Pages
 
 - [AI Builder Day](ai-builder-day.md)
+
+## Maintainer Notes
+
+- Revisit this source after Part 2 and add a separate outcome source rather than overwriting the pre-event record.
 - [JustBuild](justbuild.md)

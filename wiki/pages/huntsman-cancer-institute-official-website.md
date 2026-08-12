@@ -37,9 +37,13 @@ Official Huntsman Cancer Institute homepage on University of Utah Health, descri
 
 University and NCI pages are strong primary/institutional sources for designation, leadership, and program descriptions. Press releases are reliable for what the institution publicly commits to but are promotional in tone. The U2TAH founding date and current scope appear in different framings across sources (founding ~2020 versus later expansion); verify before strong claims. Patient volumes and funding totals are not pinned to primary figures here.
 
-The 2026-08-11 capture is a general homepage and does not contain most of the specific institutional-history and program claims previously listed. Those claims were not reconfirmed and now remain explicit source-research needs.
+The 2026-08-11 capture is a general homepage and does not establish the specific institutional-history and program claims reported elsewhere. Those claims require separate supporting sources.
 
 ## Related Pages
 
 - [Huntsman Cancer Institute](huntsman-cancer-institute.md)
 - [Halia Therapeutics](halia-therapeutics.md)
+
+## Maintainer Notes
+
+- Capture separate sources for the institutional-history and program claims that the general homepage does not establish.

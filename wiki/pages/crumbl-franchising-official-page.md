@@ -34,7 +34,7 @@ script received a bot block on `crumbl.com`.
 ## Verbatim
 
 > "With a weekly rotating menu, an open-concept kitchen, and the iconic Pink Box, Crumbl is revolutionizing the gourmet dessert experience."
-> — Franchising page, hero
+> — Franchising page, heading
 
 > "EST. 2017 Crumbl was founded by cousins Jason McGowan and Sawyer Hemsley in Logan, Utah."
 > — About Us section

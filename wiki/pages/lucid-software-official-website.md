@@ -21,12 +21,12 @@ Lucid Software's official website describes a visual collaboration platform comp
 - Lucid positions itself as a visual collaboration company with products for diagramming, whiteboarding, and team alignment.
 - Lucidchart is presented as a cloud-based tool for flowcharts, org charts, network diagrams, wireframes, and other visual documentation.
 - Lucidspark is presented as a virtual whiteboard for brainstorming and collaborative work sessions.
-- The site emphasizes integrations with major workplace tools; legacy intake notes cite Atlassian, Microsoft, and Google Workspace as integration partners.
+- The site emphasizes integrations with major workplace tools, but this capture does not establish a complete current partner list.
 - The company appears to use a freemium model allowing individual users to start free and expand into enterprise features.
 
 ## Reliability Notes
 
-This is an official company source. It is useful for product categories and positioning. User counts, Fortune 500 penetration, valuation, funding round details, and employee headcount from legacy intake should be cross-checked with press coverage, Crunchbase, or company announcements before being used as high-confidence evidence. The site was not fully retrieved during this migration; claims above reflect publicly stated product positioning plus cautious synthesis from intake notes.
+This is an official company source useful for product categories and positioning. It does not establish user counts, Fortune 500 penetration, valuation, funding-round details, employee headcount, or a complete integration-partner list. Those claims require company announcements, filings, or independent coverage.
 
 ## Verbatim
 
@@ -43,3 +43,7 @@ Locator: Visual collaboration for effective teamwork; Lucid products.
 ## See Also
 
 - [Wikipedia: Lucid Software](https://en.wikipedia.org/wiki/Lucid_Software) · https://en.wikipedia.org/wiki/Lucid_Software — independent background on founding, funding, and company history
+
+## Maintainer Notes
+
+- Earlier intake supplied specific integration partners, scale, financing, valuation, and headcount claims while the site was only partially retrieved; verify each against a captured source before restoring it.

@@ -30,10 +30,10 @@ CaLycia Bioscience's official website describes a Salt Lake City biotechnology c
 ## Verbatim
 
 > "We are a Salt Lake City-based biotechnology company developing novel macrophage cell therapies."
-> — Home page, hero
+> — Home page, heading
 
 > "By leveraging the unique biology of macrophages, we are engineering solutions specifically designed to infiltrate, remodel, and treat aggressive solid tumors of the brain."
-> — Home page, hero body
+> — Home page, introductory copy
 
 > "Our approach uses local administration into the brain, bypassing systemic barriers entirely."
 > — Home page, "Overcoming the Limits of CNS Drug Delivery"

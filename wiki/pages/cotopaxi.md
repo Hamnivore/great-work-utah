@@ -35,7 +35,7 @@ The impact case is strongest where outdoor consumers want gear that also funds p
 
 B Lab lists Cotopaxi as a Certified B Corporation, certified since December 2015, with headquarters in Utah and an apparel / wholesale-retail industry classification. The company also says it is a member of 1% for the Planet.
 
-The caution: public impact claims are mostly self-reported or certification-mediated. The wiki should treat Cotopaxi as a credible example of a Utah mission-driven consumer brand, while still checking foundation reports and independent reporting before repeating cumulative donation totals or broad poverty-alleviation outcomes.
+The caution: public impact claims are mostly self-reported or certification-mediated. Cotopaxi is a credible example of a Utah mission-driven consumer brand, but cumulative donation totals and broad poverty-alleviation outcomes require foundation reports or independent corroboration.
 
 ## What They Are Building
 
@@ -70,4 +70,3 @@ Founder and chairman Davis Smith is central to the public story: Cotopaxi's offi
 - Which revenue figures, cumulative donation totals, and grant outcomes can be independently verified from foundation reports or third-party databases?
 - How much of Cotopaxi's growth is DTC versus wholesale or retail partnerships today?
 - What is the current executive org chart and strategic focus after recent leadership transitions?
-- The placeholder hero should be swapped for a cleared product or brand image when licensing is resolved.

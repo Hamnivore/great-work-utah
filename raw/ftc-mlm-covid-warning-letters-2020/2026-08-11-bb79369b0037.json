@@ -1,0 +1,13 @@
+{
+  "source_page": "ftc-mlm-covid-warning-letters-2020.md",
+  "requested_url": "https://www.ftc.gov/news-events/news/press-releases/2020/04/ftc-sends-warning-letters-multi-level-marketers-regarding-health-earnings-claims-they-or-their",
+  "final_url": "https://www.ftc.gov/news-events/news/press-releases/2020/04/ftc-sends-warning-letters-multi-level-marketers-regarding-health-earnings-claims-they-or-their",
+  "via_archive": false,
+  "fetched_at": "2026-08-11T23:31:37.562Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes_sha256": "effbde5129e99dae4f3cbe037cfdb30e244f65f8148fe969e099058af92365bd",
+  "text_sha256": "bb79369b0037230bb19d2065d1d1d193a677c4a514017f4b31c5eb39a78be4a6",
+  "text_chars": 12324,
+  "extractor": "scripts/capture-raw-sources.mjs"
+}

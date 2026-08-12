@@ -67,4 +67,3 @@ Teal is part of the Wasatch Front defense-and-autonomy cluster alongside [Fortem
 - How many Black Widow units are actually funded and fielded per tranche, versus the multi-year objective quantity? Tranche outcomes can shift.
 - How exposed is Teal to Red Cat Holdings' overall financial health and to component-supplier concentration?
 - What are the verified status and scope of the Air Force and NATO-ally opportunities described in trade press?
-- No license-clean Black Widow photograph has been sourced; the hero is a deterministic picsum placeholder. Avoid using DoD or product imagery in a way that implies endorsement.

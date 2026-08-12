@@ -41,8 +41,12 @@ NASA's mission page describes the Atmospheric Waves Experiment, its Internationa
 
 This is NASA's primary mission record and is strong evidence for purpose, hardware, institutional roles, and chronology. It is not evidence that AWE has already improved operational forecasts; that requires later results.
 
-The current capture supports an association with USU SDL but not the more specific builder and science-lead roles previously attributed to it on this source page.
+The current capture supports an association with USU SDL but does not establish the more specific builder and science-lead roles.
 
 ## Related Pages
 
 - [Atmospheric Waves Experiment](atmospheric-waves-experiment.md) · https://greatutah.work/pages/atmospheric-waves-experiment.md
+
+## Maintainer Notes
+
+- Earlier page copy attributed builder and science-lead roles to USU SDL; this capture establishes association only.

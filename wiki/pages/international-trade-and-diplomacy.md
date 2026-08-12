@@ -50,12 +50,16 @@ The GOEO source page does not state a single cost or eligibility model. Program-
 
 The strongest fit is a company with paying customers or validated demand that can explain why a specific international market matters. It is less useful for a founder who is still validating a local product or who has no exportable product, partner thesis, or market-entry hypothesis.
 
+## Open Questions
+
+- Which trade missions, grants, and market-entry programs are currently accepting Utah companies, and what eligibility rules apply?
+
 ## Evidence
 
 - [GOEO International Trade And Diplomacy Page](goeo-international-trade-diplomacy.md) · https://greatutah.work/pages/goeo-international-trade-diplomacy.md · https://business.utah.gov/international/
 
-## Open Questions
+## Maintainer Notes
 
+- Identify Utah companies with credible public export stories that warrant venture examples.
 - Which World Trade Center Utah grant and trade-mission pages should become source pages?
-- Which Utah companies have credible public export stories that should become venture examples?
 - How should the wiki route founders between international trade help, APEX, and sector-specific investors?

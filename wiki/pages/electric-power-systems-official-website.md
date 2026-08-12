@@ -28,7 +28,7 @@ Electric Power Systems' official website describes the company's aviation-grade 
 ## Verbatim
 
 > "At EP Systems, it's our mission to advance, connect and protect our world with unmatched energy innovation. Our modular energy storage system allows for use in multiple applications across commercial and defense industries."
-> — Home page, hero section
+> — Home page, heading section
 
 > "The eDA40, a derivative of the existing and certified DA40 platform, will be the first EASA/FAA CS/Part 23 certified electric airplane. Our EPiC storage system is on path to become the only NAVSEA s9310 certified battery system."
 > — Home page, "A Leader in Regulatory Certifications"
@@ -38,7 +38,7 @@ Electric Power Systems' official website describes the company's aviation-grade 
 
 ## Reliability Notes
 
-This is an official company source. It is useful for product positioning, named customer programs, and stated certification milestones, but performance benchmarks, customer contract status, and certification timeline estimates should be cross-checked with independent aviation or regulatory sources before being treated as high-confidence evidence. Customer program claims (NASA X-57, Bell Nexus, etc.) are verifiable through public program documentation. **Capture note:** this homepage capture is a thin shell — it does not name NASA X-57, Bell Nexus, Boeing, SkyDrive, or Ampaire; does not state EPiC 2.0 flight-time figures; and does not mention the $69M Utah incentive package cited on this page. Treat those claims as uncorroborated by this document.
+This is an official company source. It is useful for product positioning, named customer programs, and stated certification milestones, but performance benchmarks, customer contract status, and certification timeline estimates should be cross-checked with independent aviation or regulatory sources before being treated as high-confidence evidence. Customer program claims (NASA X-57, Bell Nexus, etc.) are verifiable through public program documentation. This homepage is a thin source: it does not name NASA X-57, Bell Nexus, Boeing, SkyDrive, or Ampaire; state EPiC 2.0 flight-time figures; or mention the $69M Utah incentive package cited on this page. Those claims are uncorroborated by this document.
 
 ## Related Pages
 

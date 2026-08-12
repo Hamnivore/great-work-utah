@@ -20,7 +20,7 @@ The English Lab website at the University of Utah Department of Biochemistry des
 
 - Lab mission: create and apply molecular tools to control and understand human health and disease.
 - Research combines directed evolution, protein engineering, and pharmacology/biochemistry.
-- The page previously described VEGAS (Viral Evolution of Genetically Actuated Sequences), a VEGAS Workshop, Addgene distribution, and GPCR pharmacogenomics work; this capture does not mention those topics.
+- This capture does not establish the VEGAS (Viral Evolution of Genetically Actuated Sequences), VEGAS Workshop, Addgene distribution, or GPCR pharmacogenomics claims reported elsewhere.
 
 ## Verbatim
 

@@ -54,4 +54,6 @@ HELP was a pioneering system, but it was part of a broader national movement. Re
 
 ## Open Questions
 
+## Maintainer Notes
+
 - Consider a future `people/homer-warner.md` page if the wiki starts adding real Utah informatics biographies.

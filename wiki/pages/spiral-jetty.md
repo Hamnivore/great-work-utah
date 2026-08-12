@@ -50,5 +50,4 @@ Smithson was not a Utah-based artist, and much of the work's fame was mediated t
 
 ## Open Questions
 
-- Add a license-clean hero image and caption; the Dia and UMFA pages should be reviewed before using any photograph directly.
 - The stewardship section should eventually include current lake-access guidance and conservation notes.

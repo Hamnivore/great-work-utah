@@ -68,4 +68,3 @@ These institutions are the cultural substrate of Utah in a way that no tech comp
 - How does editorial autonomy work in practice at KSL and the Deseret News — what stories get spiked vs. reported, and how is that documented?
 - What is the current digital revenue mix vs. legacy broadcast/print for Bonneville and Deseret Book?
 - How has Shadow Mountain's publishing strategy evolved since early Brandon Sanderson and similar crossover successes?
-- The placeholder hero should be replaced with a cleared facilities or publication image when rights are confirmed.

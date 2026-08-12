@@ -19,22 +19,22 @@ Workman Nydegger's official website describes a Salt Lake City intellectual-prop
 ## Useful Claims
 
 - The firm's homepage presents Workman Nydegger as an intellectual-property firm focused on building and litigating IP assets.
-- The page previously asserted full-service IP coverage for solo inventors through Fortune 500 clients, Intermountain West scale claims, custom pricing, and Chambers/IAM recognition with a SnapPower verdict; those statements are not on this 2026-08-11 homepage capture.
+- This homepage capture does not establish full-service IP coverage for solo inventors through Fortune 500 clients, Intermountain West scale claims, custom pricing, or Chambers/IAM recognition and a SnapPower verdict.
 
 ## Verbatim
 
 > "As artisans of our craft, we innovatively build IP assets and passionately litigate IP interests."
-> — Home page, hero
+> — Home page, heading
 
 > "From our skilled technical experience to the custom solutions we deliver, we approach our trade as
 > an art form."
-> — Home page, hero
+> — Home page, heading
 
 ## Reliability Notes
 
 Official, self-published firm source. Strong for stated focus, technical depth, and office location; weaker as neutral proof of outcomes. Chambers and IAM rankings are independent reputational corroboration. Litigation results are firm-reported and case-specific.
 
-**Capture gap.** This fetch captured only the firm homepage. Services/About-page claims about client types, firm scale, pricing transparency, rankings, and case results recorded earlier are not present in this capture and were not reconfirmed here.
+**Capture gap.** This fetch captured only the firm homepage. It does not establish client types, firm scale, pricing transparency, rankings, or case results described on other firm pages.
 
 ## Related Pages
 

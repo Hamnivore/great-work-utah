@@ -26,7 +26,7 @@ The Utah MEP official site describes a statewide manufacturing-extension resourc
 
 > "Improve every aspect of your business – Boost sales, productivity, quality compliance, and employee
 > morale."
-> — Home page hero
+> — Home page heading
 
 > "When you work with Utah-MEP, you get access to knowledgeable professionals who have worked with
 > hundreds of Utah manufacturers to improve their businesses."

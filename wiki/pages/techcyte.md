@@ -61,4 +61,3 @@ Techcyte is one of the more substantial healthcare-AI companies headquartered in
 - Revenue, headcount, and the mix of FDA-cleared versus research-use-only deployments are not confirmed from primary sources in this pass; commonly cited figures (e.g., ~$15M revenue, ~120 employees, ~9M scans per year) come from secondary coverage and should be verified.
 - The AI-pathology market is consolidating, with better-funded national players (PathAI, Paige, Proscia) pursuing autonomous-diagnostic clearances; Techcyte's differentiation rests on breadth and its Mayo/Zoetis relationships rather than frontier models.
 - With strategics rather than venture investors leading the cap table, acquisition may be a more likely outcome than independent scaling — relevant to anyone weighing a long-term role.
-- Imagery is a deterministic placeholder. A license-cleared product screenshot or facility photograph approved by the company should replace it before this renders as a marquee page.

@@ -21,13 +21,13 @@ The Women's Business Center of Utah offers advising, trainings, tools, templates
 - WBCUtah offers advising, workshops, trainings, resources, and templates for Utah women entrepreneurs.
 - New users are directed to sign up for WBCUtah services before receiving the newsletter and ongoing resource connections.
 - The site says WBCUtah is funded in part through a Cooperative Agreement with the U.S. Small Business Administration.
-- The page previously listed Salt Lake City and Cedar City offices and described complimentary one-on-one advising with a sign-up-before-booking flow; those specifics are not on this 2026-08-11 homepage capture.
+- This homepage capture does not establish Salt Lake City and Cedar City office locations, complimentary one-on-one advising, or a sign-up-before-booking flow.
 
 ## Verbatim
 
 > "T he Women's Business Center of Utah offers advising, trainings, tools, and community, so you don't
 > have to build your business alone."
-> — Home page, hero
+> — Home page, heading
 
 > "Sign up for WBCUtah services first so we can connect you with business resources, events, funding
 > opportunities, and support for women business owners across Utah."
@@ -41,7 +41,7 @@ The Women's Business Center of Utah offers advising, trainings, tools, templates
 
 This is official evidence for WBCUtah's public service offering. Eligibility, appointment availability, and current programs should be checked on the official site before a live referral.
 
-**Capture gap.** Office locations (Salt Lake City and Cedar City), explicit "free" advising language, and the advising-page booking workflow recorded earlier are not visible on this homepage capture.
+**Capture gap.** Office locations, explicit "free" advising language, and the advising-page booking workflow are not visible on this homepage capture.
 
 ## Related Pages
 

@@ -57,4 +57,3 @@ SCI is on the University of Utah campus and depends on the Center for High Perfo
 
 - Software-maintenance funding in academia is structurally fragile; how long-running tools like SCIRun stay healthy through faculty transitions is a useful watch item.
 - The institute's pivot toward uncertainty-aware ML pipelines is early; whether it becomes the standard way clinical AI gets verified is still open.
-- The current placeholder hero should be swapped for an approved University of Utah photograph or a license-clean visualization rendering credited to SCI's open-source releases.

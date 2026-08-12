@@ -19,9 +19,9 @@ RAM Aviation Space Defense's official website describes a St. George, Utah preci
 ## Useful Claims
 
 - RAM manufactures custom rotary and linear solenoids, propulsion valves, and LVDT/RVDT sensors for aerospace and defense applications.
-- The page previously described a St. George, Utah facility and flight-qualification on SpaceX Dragon, Sierra Space Dream Chaser, and ISS deorbit hardware; this capture does not mention location or those programs.
+- This capture does not establish a St. George facility or flight qualification on SpaceX Dragon, Sierra Space Dream Chaser, or ISS deorbit hardware.
 - The company was founded in 1975.
-- The page previously listed headcount; this capture does not show employee totals.
+- This capture does not show employee totals.
 - The 47G Utah aerospace and defense consortium lists RAM as a member organization — not shown in this capture.
 
 ## Verbatim

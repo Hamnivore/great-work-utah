@@ -84,4 +84,3 @@ In the present tense, Myriad is part of Utah's "Genome Valley" cluster — a con
 - How competitive Myriad's oncology and liquid-biopsy offerings are versus peers such as Natera and Guardant is not established from the official website alone.
 - CEO and strategy transitions in recent years deserve a sourced leadership timeline; the 8-K series in EDGAR (`https://data.sec.gov/submissions/CIK0000899923.json`) is the primary trail.
 - Whether the FY2025 impairments signal a strategic retreat from Women's Health and Mental Health, or an accounting reset, is not answerable from the filing alone and matters for anyone weighing a job offer in those lines.
-- Imagery is a deterministic placeholder; swap for a license-cleared laboratory, product, or facilities photograph when available.

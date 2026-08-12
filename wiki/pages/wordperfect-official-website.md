@@ -36,12 +36,14 @@ Corel's current WordPerfect product site, which markets WordPerfect Office as an
 
 Self-reported tier: a vendor's own product marketing, reliable for what the vendor sells and who owns it, and no evidence at all about the product's history.
 
-This page was previously called "WordPerfect and Novell Historical Sources" and was retyped and renamed on 2026-08-11. It had claimed WordPerfect's BYU and Orem origins, Satellite Software International's rename, the DOS-era market position, Novell's 1994 acquisition, and the later sale to Corel — while the single document it cited was this modern product page, which supports none of it. It also named three publishers at once ("Alludo/Corel, Wikipedia contributors, and business press sources"), which no one `Source Type` can honestly label; `conventions.md` requires one source page per document. What remains here is what this document actually shows.
-
-The Utah history is a real gap, not a resolved question. Closing it needs contemporaneous artifacts: Novell annual reports and 10-Ks from the acquisition period, archived WordPerfect Corporation materials, and Utah newspaper coverage from the 1980s and early 1990s. Each of those deserves its own source page.
-
-Note that `**Raw:**` still points at a directory named for the old slug. Captures are immutable and are never renamed or moved once written, so a capture path outliving a page title is expected rather than a defect to tidy.
+This document does not establish WordPerfect's BYU and Orem origins, the Satellite Software International rename, its DOS-era market position, Novell's 1994 acquisition, or the later sale to Corel. Those historical claims require contemporaneous records.
 
 ## Related Pages
 
 - [WordPerfect and Novell's Utah Software Ambition](wordperfect-and-novell.md)
+
+## Maintainer Notes
+
+- This page was retyped and renamed from “WordPerfect and Novell Historical Sources” on 2026-08-11 because the old page mixed several publishers and attributed historical claims to this modern product page.
+- Add separate source pages for Novell annual reports and 10-Ks, archived WordPerfect Corporation materials, and Utah newspaper coverage from the 1980s and early 1990s.
+- `**Raw:**` still points at a directory named for the old slug. Captures are immutable and should not be renamed when a page title changes.

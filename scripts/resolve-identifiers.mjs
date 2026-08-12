@@ -134,7 +134,10 @@ async function searchCik(name) {
 async function einFromCik(cik) {
   const d = await getJson(`https://data.sec.gov/submissions/CIK${cik}.json`)
   const raw = String(d?.ein || '').replace(/\D/g, '')
-  return raw.length === 9 ? `${raw.slice(0, 2)}-${raw.slice(2)}` : null
+  // EDGAR returns all zeros for a registrant that never disclosed an IRS number, and that placeholder
+  // reads downstream as a real EIN — three pages were about to record 00-0000000.
+  if (raw.length !== 9 || /^0+$/.test(raw)) return null
+  return `${raw.slice(0, 2)}-${raw.slice(2)}`
 }
 
 async function searchRor(name) {
@@ -156,30 +159,47 @@ function decodeHtml(s) {
 }
 
 // -- scoring ----------------------------------------------------------------
-// A page's Utah location is corroboration when it agrees and *not* disqualifying when it does
-// not: Fervo Energy files from Houston and drills in Beaver County, Northrop's Promontory plant
-// answers to Virginia. Requiring a Utah registry address would reject those correct matches while
-// doing nothing about the actual risk, which is a common name. So an exact name match stands on
-// its own, and the state is what rescues or sinks an inexact one.
-function score(pageName, utah, candidates) {
+// How much a matching name is worth depends entirely on which registry answered, and getting this
+// wrong in both directions is what the first full run demonstrated.
+//
+// For SEC, a state mismatch is normal and must not disqualify: Fervo files from Houston and drills
+// in Beaver County, Northrop's Promontory plant answers to Virginia. A CIK is also unique to a
+// registrant, so an exact name match is already decisive.
+//
+// For the IRS exempt-organization data the opposite holds. Organization names are *regional by
+// construction* and collide constantly across states — the first run confidently matched Utah's
+// Davis Chamber of Commerce to one in Davis, Oklahoma, Carbon County's economic development office
+// to Carbon County, Wyoming, and Ancestry to an unrelated Michigan charity. Every one had a
+// flawless name match. So EIN demands name *and* place, which is what attributes.md asked for all
+// along; only SEC gets the exemption, and only because a CIK cannot be ambiguous.
+//
+// Near-matches are never enough for EIN either: "Cotopaxi Foundation" is a different legal entity
+// from Cotopaxi, and a grant-making foundation's finances are not the company's.
+function score(pageName, pageState, candidates, { requirePlace = false } = {}) {
   const want = norm(pageName)
   if (!want) return { verdict: 'none', why: 'page has no usable name' }
   const scored = candidates.map((c) => {
     const got = norm(c.name)
     const exact = got === want
     const prefix = !exact && (got.startsWith(`${want} `) || want.startsWith(`${got} `))
-    return { ...c, exact, prefix, inUtah: c.state === 'UT' }
+    return { ...c, exact, prefix, samePlace: Boolean(pageState) && c.state === pageState }
   })
   const exacts = scored.filter((c) => c.exact)
-  if (exacts.length === 1) return { verdict: 'confident', pick: exacts[0], why: 'registry name matches the page name exactly' }
-  if (exacts.length > 1) {
-    const utahOnly = exacts.filter((c) => c.inUtah)
-    if (utahOnly.length === 1 && utah) return { verdict: 'confident', pick: utahOnly[0], why: `${exacts.length} exact name matches, one in Utah` }
-    return { verdict: 'review', candidates: exacts, why: `${exacts.length} registry entries share this exact name` }
+  const eligible = requirePlace ? exacts.filter((c) => c.samePlace) : exacts
+  if (eligible.length === 1) {
+    return {
+      verdict: 'confident',
+      pick: eligible[0],
+      why: requirePlace ? `name and ${pageState} address both match the page` : 'registry name matches the page name exactly',
+    }
+  }
+  if (eligible.length > 1) return { verdict: 'review', candidates: eligible, why: `${eligible.length} registry entries share this exact name` }
+  if (requirePlace && exacts.length) {
+    return { verdict: 'review', candidates: exacts.slice(0, 6), why: `name matches but no candidate is in ${pageState || 'the page\'s state'} — same-name organizations in other states are a different entity` }
   }
   const prefixes = scored.filter((c) => c.prefix)
-  if (prefixes.length === 1 && prefixes[0].inUtah && utah) {
-    return { verdict: 'confident', pick: prefixes[0], why: 'sole near-name match, and the registry address is in Utah' }
+  if (!requirePlace && prefixes.length === 1 && prefixes[0].samePlace) {
+    return { verdict: 'confident', pick: prefixes[0], why: `sole near-name match, and the registry address is in ${pageState}` }
   }
   if (prefixes.length) return { verdict: 'review', candidates: prefixes.slice(0, 6), why: 'name is close but not exact' }
   if (scored.length) return { verdict: 'review', candidates: scored.slice(0, 6), why: 'no name match among returned candidates' }
@@ -204,17 +224,22 @@ for (const f of fs.readdirSync(PAGES).sort()) {
   )
   if (audit && !Object.keys(have).length) continue
   const title = (raw.match(/^# (.+)$/m) || [, f])[1].trim()
+  const where = meta(raw, 'Primary Location') || meta(raw, 'Utah Location')
   pages.push({
     file: f, raw, type, title, have,
-    utah: /\but(ah)?\b/i.test(meta(raw, 'Utah Location') || meta(raw, 'Primary Location') || ''),
-    research: RESEARCH_HINT.test(title) || RESEARCH_HINT.test(meta(raw, 'Focus')),
+    // Two-letter state for place corroboration. Utah pages are the overwhelming majority, but a
+    // page HQ'd elsewhere ("Adobe · San Jose, CA") must be checked against its own state, not ours.
+    state: /\butah\b/i.test(where) ? 'UT' : (where.match(/,\s*([A-Z]{2})\b/) || [])[1] || null,
+    // Only the title, not Focus: a venture page whose Focus mentions "research" is not a research
+    // organization, and ROR will happily return the university it collaborates with.
+    research: RESEARCH_HINT.test(title),
   })
 }
 
 const REGISTRIES = [
-  { key: 'ein', label: 'IRS exempt organizations (via ProPublica)', search: searchEin, wait: 350, when: () => true },
-  { key: 'cik', label: 'SEC EDGAR company search', search: searchCik, wait: 250, when: () => true },
-  { key: 'ror', label: 'Research Organization Registry', search: searchRor, wait: 250, when: (p) => p.research },
+  { key: 'ein', label: 'IRS exempt organizations (via ProPublica)', search: searchEin, wait: 350, when: () => true, requirePlace: true },
+  { key: 'cik', label: 'SEC EDGAR company search', search: searchCik, wait: 250, when: () => true, requirePlace: false },
+  { key: 'ror', label: 'Research Organization Registry', search: searchRor, wait: 250, when: (p) => p.research, requirePlace: true },
 ].filter((r) => !onlyKey || r.key === onlyKey)
 
 const results = []
@@ -226,7 +251,7 @@ for (const p of pages) {
     if (audit ? !p.have[reg.key] : p.have[reg.key] || !reg.when(p)) continue
     let outcome
     try {
-      outcome = score(p.title, p.utah, await reg.search(p.title))
+      outcome = score(p.title, p.state, await reg.search(p.title), { requirePlace: reg.requirePlace })
     } catch (e) {
       outcome = { verdict: 'error', why: String(e.message || e).slice(0, 80) }
     }

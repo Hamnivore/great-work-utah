@@ -25,7 +25,7 @@ EnduraCure's official website (if live) describes the company's degradable polym
 ## Verbatim
 
 > "We make high-performance resins and films for electronics that hold up in use and break down when you want them to, so the metals and components inside can be recovered instead of thrown away."
-> — Home page, hero
+> — Home page, heading
 
 > "We design photocurable, degradable-by-design low-dielectric resins for use as electronic substrates and encapsulants."
 > — Home page, technology description

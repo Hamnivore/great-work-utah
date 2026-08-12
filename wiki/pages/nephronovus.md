@@ -25,7 +25,7 @@ NephroNovus is a therapeutics company listed on Altitude Lab's portfolio with an
 
 An Altitude Lab resident story (April 2025) by co-founder **Kevin Yang** adds narrative detail: NephroNovus grew from years of nephrology lab work with his father (scientific co-founder), aims at **renal fibrosis** as a driver of CKD progression, and blends biochemical discovery with computational methods. Kevin Yang handles business, strategy, and operations; his father leads the scientific foundation.
 
-**What is not publicly disclosed:** lead compounds, mechanism of action, animal data, patents, fundraising amounts, clinical timeline, or team size beyond founder narrative. A company domain (`nephronovus.com`) shows branding only. Legacy intake described a two-person team and pre-seed incubation — portfolio data now shows **Alumni**, which may mean residency ended; current operating intensity is unknown.
+**What is not publicly disclosed:** lead compounds, mechanism of action, animal data, patents, fundraising amounts, clinical timeline, or current team size beyond founder narrative. A company domain (`nephronovus.com`) shows branding only. Portfolio data now shows **Alumni**, which may mean residency ended; current operating intensity is unknown.
 
 ## Impact
 
@@ -70,7 +70,10 @@ NephroNovus is part of the Altitude Lab portfolio on Salt Lake City's Recursion-
 - **Pipeline and mechanism** — no public disclosure of targets, hits, or lead series.
 - **Funding** — no announced round, grant, or SBIR award verified in sources reviewed.
 - **Residency vs. alumni status** — portfolio lists Alumni; confirm whether the company still uses Altitude Lab space or services.
-- **Team size and hiring** — legacy intake cited two employees; current headcount unknown.
+- **Team size and hiring** — what are the current headcount and hiring plans?
+
+## Maintainer Notes
+
+- Earlier intake described a two-person team and active pre-seed incubation; preserve that provenance here rather than treating it as current fact.
 - **Peer-reviewed validation** — no publications attributing specific NephroNovus assets were captured; distinguish from unrelated CKD antifibrosis academic work in the literature.
 - **Competitive landscape** — major pharma and biotech continue CKD/antifibrosis programs with mixed trial history; NephroNovus differentiation is unstated.
-- The placeholder hero should be replaced with a cleared scientific or team image when rights are confirmed.

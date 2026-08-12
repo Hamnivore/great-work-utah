@@ -44,8 +44,12 @@ Merit Medical's official website describes the company's interventional, diagnos
 
 This is an official company source. Product descriptions and corporate history are reliable for general positioning. Revenue, headcount, and financial figures should be verified against NASDAQ filings (10-K, 10-Q) for current accuracy. CEO succession claims and recent product launches (C2 CryoBalloon, Micro ACE) are reliably sourced here for announcements but should be cross-checked with SEC filings and press releases for regulatory and financial specifics.
 
-This capture does not show NASDAQ ticker, CEO name, annual revenue, or Merit OEM contract-manufacturing description claims listed above. The capture's homepage text reports approximately 7,000 employees worldwide, not the "more than 6,000" figure previously summarized here.
+This capture does not show the NASDAQ ticker, CEO name, annual revenue, or Merit OEM contract-manufacturing description. Its homepage text reports approximately 7,000 employees worldwide.
 
 ## Related Pages
 
 - [Merit Medical Systems](merit-medical.md)
+
+## Maintainer Notes
+
+- Earlier page copy summarized worldwide headcount as more than 6,000; the current capture says approximately 7,000.

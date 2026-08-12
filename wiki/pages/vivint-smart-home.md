@@ -69,4 +69,3 @@ The company's sales and installation workforce also shaped Utah's labor market f
 - How fully has NRG integrated energy retail with Vivint cross-sell, and does that help or hurt core security NPS?
 - Historical litigation over door-to-door sales practices (including large judgments reported pre-acquisition) — what is the current compliance posture and remaining legal exposure?
 - Who is the current CEO and executive team as of 2026? Prior public sources cited Brett T. Allen; leadership under NRG should be re-verified.
-- The current placeholder hero should be swapped for a cleared product or facilities image when licensing is resolved.

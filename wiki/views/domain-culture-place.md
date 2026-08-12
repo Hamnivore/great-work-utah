@@ -1,6 +1,6 @@
 # culture-place — sector hub
 
-Generated from `**Domain:**` metadata (240/868 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (242/876 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -73,5 +73,6 @@ Generated from `**Domain:**` metadata (240/868 pages attributed so far — cover
 - [Neighbor](/pages/neighbor.md) · `https://greatutah.work/pages/neighbor.md` — primary: computing
 - [The INN Between](/pages/the-inn-between.md) · `https://greatutah.work/pages/the-inn-between.md` — primary: health-bio
 - [Utah Congregate Care Oversight Reform](/pages/utah-congregate-care-oversight-reform.md) · `https://greatutah.work/pages/utah-congregate-care-oversight-reform.md` — primary: health-bio
+- [Utah's Direct-Selling Industry](/pages/utah-direct-selling-industry.md) · `https://greatutah.work/pages/utah-direct-selling-industry.md` — primary: health-bio
 - [Utah Geek Events](/pages/utah-geek-events.md) · `https://greatutah.work/pages/utah-geek-events.md` — primary: computing
 - [Utah Kids Code Camp](/pages/utah-kids-code-camp.md) · `https://greatutah.work/pages/utah-kids-code-camp.md` — primary: computing

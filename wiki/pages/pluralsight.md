@@ -72,7 +72,6 @@ The future of long-form video learning alongside AI tutoring and just-in-time as
 - How much of current revenue and product investment is AI-skills content versus core cloud, security, and development catalog refresh?
 - What are current Utah headcount, office presence, and hiring posture under Vista ownership?
 - Which completion, assessment, and skill-transfer metrics does Pluralsight publish today, and what can be independently verified?
-- The placeholder hero should be replaced with a cleared brand or product image; a generic learning photograph could imply endorsement that is not present.
 
 ## See Also
 

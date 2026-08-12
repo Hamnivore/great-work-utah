@@ -63,4 +63,3 @@ Baxter is one of the few notable deep-tech defense companies anchored in souther
 - What are Baxter's actual revenue, customer base, and fielded-unit numbers? "Revenue-generating" is asserted in the funding announcement but not quantified publicly.
 - Are the Dragonfly's endurance and capability claims independently verified, and what is its program/contract status with any government customer?
 - Headcount and any funding beyond the 2025 Series A are unconfirmed here.
-- No license-clean Dragonfly or facility photograph has been sourced; the hero is a deterministic picsum placeholder pending a cleared image.

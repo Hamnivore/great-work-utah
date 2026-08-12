@@ -85,4 +85,7 @@ Utah should claim the episode honestly: as a local institutional lesson, not as 
 
 - Whether to add a dedicated source record for the 1989 press conference and early Nature papers.
 - How much detail belongs on related fringe LENR activity without overstating its scientific standing.
+
+## Maintainer Notes
+
 - Whether this page should cross-link to a future university-research-ethics or science-communication guide.

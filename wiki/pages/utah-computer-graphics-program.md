@@ -42,6 +42,11 @@ This is one of Utah's strongest claims to global technical history. The commerci
 
 The story is easy to overstate. Many techniques had parallel contributors, and commercial impact depended on companies, labs, and markets outside Utah. The program's peak was also time-bounded; by the mid-1980s much of the first-generation talent had dispersed. The Utah claim is strongest as an origin and training lineage, not as a claim that all downstream value stayed in the state.
 
+## Open Questions
+
+- Which primary papers, oral histories, and institutional records best establish each alumnus's Utah-era contribution?
+- How much of the program's influence came from shared institutional infrastructure versus work developed after its alumni left Utah?
+
 ## Evidence
 
 - [Official Source: University of Utah Computer Graphics History](university-of-utah-computer-graphics-history.md) · https://greatutah.work/pages/university-of-utah-computer-graphics-history.md · https://www.cs.utah.edu/about/history/
@@ -49,7 +54,6 @@ The story is easy to overstate. Many techniques had parallel contributors, and c
 - [Wikipedia: University of Utah School of Computing](https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing) · https://en.wikipedia.org/wiki/University_of_Utah_School_of_Computing
 - [Wikipedia: Utah teapot](https://en.wikipedia.org/wiki/Utah_teapot) · https://en.wikipedia.org/wiki/Utah_teapot
 
-## Open Questions
+## Maintainer Notes
 
 - The page needs stronger primary-source links for individual alumni claims, especially Catmull, Warnock, Kay, Gouraud, Phong, and Newell.
-- A licensed archival photograph of the Merrill Engineering Building era or the Utah teapot would make this a stronger magazine-style page.

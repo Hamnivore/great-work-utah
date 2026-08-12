@@ -58,5 +58,9 @@ Myriad's patent strategy is an ethical and scientific caveat, not a side note. M
 
 ## Open Questions
 
-- Add a primary source for the original BRCA1 and BRCA2 sequencing announcements or papers.
-- Add a public explainer source record for post-2013 BRCA test competition.
+- Which original announcements or papers best establish the BRCA1 and BRCA2 sequencing milestones?
+- What public evidence best explains the development of BRCA test competition after 2013?
+
+## Maintainer Notes
+
+- Add source records for the original BRCA1 and BRCA2 sequencing announcements or papers and a public explainer of post-2013 BRCA test competition.

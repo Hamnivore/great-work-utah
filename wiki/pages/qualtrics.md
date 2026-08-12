@@ -63,5 +63,4 @@ The company helped establish Provo/Orem as a destination for enterprise SaaS alo
 
 - How has private-equity ownership changed operating cadence, hiring, and product investment?
 - Which AI feature claims (summarization accuracy, churn prediction, cost per item) can be independently verified beyond marketing materials?
-- The current placeholder hero should be swapped for a cleared corporate or facilities image; using a generic photograph could imply access or endorsement that is not present.
 - Scott Smith's current role and public visibility are less documented than Ryan Smith's; confirm biographical details before creating a dedicated people page.

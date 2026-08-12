@@ -19,8 +19,8 @@ Sky Quarry's official website describes the company's ECOSolv solvent-extraction
 ## Useful Claims
 
 - The site describes Sky Quarry's ECOSolv process as achieving 95% material recovery and 99% solvent recycling from asphalt shingle and oil sands feedstocks.
-- The page previously carried PR Spring throughput and lifetime-recovery projections; neither figure appears in this capture.
-- The page previously asserted an annual U.S. shingle-waste volume, NASDAQ ticker SKYQ, a dated PR Spring permit application, and the company's Utah origin story; this capture does not reconfirm those claims.
+- This capture does not show PR Spring throughput or lifetime-recovery projections.
+- This capture does not establish an annual U.S. shingle-waste volume, NASDAQ ticker SKYQ, a dated PR Spring permit application, or the company's Utah origin story.
 - The current capture instead says Foreland Refining has a nameplate capacity of up to 5,000 barrels per day and is actively processing crude and generating revenue.
 
 ## Verbatim

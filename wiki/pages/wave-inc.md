@@ -65,4 +65,3 @@ WAVE is one of Utah's clearest examples of university-to-commercial-deployment s
 - How does WAVE's efficiency compare to advancing wired alternatives (SAE MCS megawatt-class charging for trucks, overhead pantograph for buses)?
 - What is the current funding and revenue profile? The USU spinout history suggests early government grants; what does the current mix look like?
 - Is WAVE pursuing the passenger EV market or remaining focused on commercial fleet applications?
-- The placeholder hero should be replaced with a cleared deployment or hardware image when rights are confirmed.

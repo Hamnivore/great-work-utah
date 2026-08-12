@@ -74,6 +74,9 @@ This is one of Utah's strongest examples of basic biology with global reach: a l
 
 ## Open Questions
 
-- Consider a source page for the University of Utah "New Painkiller Was Born in Utah" announcement if more pages start citing the discovery chronology.
-- Consider a future `people/baldomero-olivera.md` if the wiki begins adding researcher biographies; McIntosh would warrant a cross-link.
 - Confirm the current commercial rights-holder for ziconotide before any page makes claims about today's market status.
+
+## Maintainer Notes
+
+- Create a source page for the University of Utah "New Painkiller Was Born in Utah" announcement if more pages cite the discovery chronology.
+- Consider a future `people/baldomero-olivera.md` if the wiki begins adding researcher biographies; McIntosh would warrant a cross-link.

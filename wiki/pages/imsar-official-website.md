@@ -21,13 +21,13 @@ IMSAR's official website describes a Utah Valley radar company that designs, bui
 - IMSAR's homepage describes low-SWaP, multimode airborne radar systems for Group 1–5 UAS and manned aircraft, designed and supported in Springville, UT.
 - The company says it has been building radars since 2004.
 - Public capability areas on the capture include SAR imaging, change detection, moving target indication, border patrol, and wide-area maritime search.
-- The page previously cited private ownership, a large Utah Valley manufacturing facility, DoD/DHS agency work, and AS9100D certification; those details are not on this 2026-08-11 homepage capture.
+- This homepage capture does not establish private ownership, facility size, agency customers, or AS9100D certification.
 
 ## Verbatim
 
 > "IMSAR is democratizing radar by making it more usable, affordable, and available than ever
 > before."
-> — Home page, hero
+> — Home page, heading
 
 > "Designed, built, and supported in Springville, UT, USA."
 > — Home page, manufacturing section
@@ -43,8 +43,12 @@ IMSAR's official website describes a Utah Valley radar company that designs, bui
 
 This is an official company source. It is useful for product categories, facility claims, leadership, and certifications. Specific defense contracts, deployment records, and performance claims should be checked against government records or third-party sources.
 
-**Capture gap.** Facility size, AS9100D certification, private-ownership status, and named agency relationships recorded earlier are not visible on this homepage capture.
+Facility size, AS9100D certification, private-ownership status, and named agency relationships are not visible on this homepage capture.
 
 ## Related Pages
 
 - [IMSAR](imsar.md)
+
+## Maintainer Notes
+
+- Earlier page copy attributed the omitted ownership, facility, agency, and certification details to this homepage; verify them against other sources before restoring them.

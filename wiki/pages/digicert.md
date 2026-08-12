@@ -40,7 +40,7 @@ DigiCert's current careers page is the durable application path for its global e
 
 - How many roles and employees remain anchored in Lehi after acquisitions and private-equity ownership changes?
 - What independent measures best capture certificate-authority reliability and readiness for post-quantum migration?
-- The exact map coordinate is geocoded from the official candidate-privacy address; it should be replaced if DigiCert publishes a canonical site coordinate.
+- The exact map coordinate is geocoded from the official candidate-privacy address rather than a canonical site coordinate published by DigiCert.
 
 ## Evidence
 
@@ -48,3 +48,7 @@ DigiCert's current careers page is the durable application path for its global e
 - [Source: DigiCert to Acquire Vercara](digicert-vercara-acquisition.md) · https://greatutah.work/pages/digicert-vercara-acquisition.md · https://www.ta.com/news/digicert-to-acquire-vercara-strengthening-its-position-as-a-leader-in-digital-trust/
 - DigiCert careers · https://www.digicert.com/careers — durable hiring board and employer information.
 - DigiCert candidate privacy notice · https://privacy.digicert.com/policies/en/?name=job-candidate-privacy-notice — principal-office address and applicant-data controller.
+
+## Maintainer Notes
+
+- Replace the geocoded map coordinate if DigiCert publishes a canonical site coordinate.

@@ -51,5 +51,9 @@ The company's primary revenue was military simulation, which complicates the leg
 
 ## Open Questions
 
+- Which primary records establish the product dates and flight-simulator claims?
+
+## Maintainer Notes
+
 - Add stronger primary sources for product dates and flight-simulator claims.
-- Consider whether Evans & Sutherland belongs in `ventures/` too, or whether `work/` is enough for the current demo.
+- Reassess whether the current `work` page is the right atom or whether the legal entity also warrants a venture page.

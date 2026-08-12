@@ -24,7 +24,7 @@ Vuely's website describes a sales workflow for sign companies spanning field sur
 ## Verbatim
 
 > "Your AI-powered sales tool, turning site surveys into instant mockups and ready-to-sign proposals in minutes."
-> — Home page hero
+> — Home page heading
 
 ## Reliability Notes
 

@@ -44,6 +44,11 @@ The database also connects to Utah's broader life-sciences story, including here
 
 The population is not representative of global human diversity, and findings may not generalize across ancestries. The privacy stakes are high because genealogical and medical records are sensitive separately and more sensitive together. The genealogical records were created largely for religious and family-history reasons, not originally for biomedical research, so consent and governance deserve careful treatment.
 
+## Open Questions
+
+- What peer-reviewed evidence best measures the database's contribution to major discoveries rather than merely citing it as infrastructure?
+- How have consent, access, privacy, and community-governance practices changed as additional health records were linked?
+
 ## Evidence
 
 - [Source record: Utah Population Database Official Page](utah-population-database-official.md) · https://greatutah.work/pages/utah-population-database-official.md · https://uofuhealth.utah.edu/huntsman/utah-population-database
@@ -51,7 +56,7 @@ The population is not representative of global human diversity, and findings may
 - [Learn.Genetics: Genetics in Utah](https://learn.genetics.utah.edu/content/science/utah/) · https://learn.genetics.utah.edu/content/science/utah/
 - [C&EN: Streamlining Utah's Population Database](https://cen.acs.org/articles/83/i41/Streamlining-Utahs-Population-Database.html) · https://cen.acs.org/articles/83/i41/Streamlining-Utahs-Population-Database.html
 
-## Open Questions
+## Maintainer Notes
 
 - Add a stronger peer-reviewed UPDB overview source record.
 - Add source records connecting UPDB to the BRCA research lineage.

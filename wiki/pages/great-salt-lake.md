@@ -53,6 +53,10 @@ The Great Salt Lake connects nearly every Utah industry: [US Magnesium](us-magne
 - Lake level, answered by measurement rather than by report: the south-arm gauge at Saltair read 4190.5 feet above NGVD 1929 on 2026-08-11 and the north arm read 4190.1 feet, against a record daily-mean low of 4188.5 feet on 2022-11-07 and a record high of 4211.60 feet — see [Source: USGS Great Salt Lake Gauge Elevations (NWIS)](great-salt-lake-usgs-gauge-elevations.md) · https://greatutah.work/pages/great-salt-lake-usgs-gauge-elevations.md. Re-run the query rather than trusting this sentence; the number moves seasonally.
 - Confidence is Medium because the elevation record is primary but the page's former headline magnitude claims were not. What would raise this page to High: a USGS elevation–area–capacity table for the lake, the Utah Division of Water Resources' published sectoral water-use data, and a cited air-quality or exposed-lakebed study for the dust and heavy-metal claims.
 - The performance and commercial figures attributed to Lilac Solutions' pilot are company-reported and uncited here; a state mineral-lease record or a peer-reviewed pilot writeup would settle them.
-- Utah HB 453 (2024) is cited in prose without a source page. The enrolled bill at `le.utah.gov` is the primary record and should become one.
+- Utah HB 453 (2024) is cited in prose without a captured source record; the enrolled bill at `le.utah.gov` is the primary record.
 - Has any Utah-native DLE venture emerged since Lilac's 2024 GSL pilot?
 - What is the current status of Great Salt Lake Strike Team policy recommendations and legislative follow-through?
+
+## Maintainer Notes
+
+- Create a source page for the enrolled Utah HB 453 (2024).

@@ -21,7 +21,7 @@ Eide Bailly's official website describes a national CPA and business-advisory fi
 - The firm offers Fractional CFO & Controller services, outsourced finance and accounting, and client accounting services for businesses that are "stretched or missing expertise." [Finance & Accounting / Fractional CFO service pages — not in this capture]
 - The firm offers R&D Tax Credit services and explicitly notes that for a startup, R&D tax credits can be used to reduce payroll taxes in early stages. [R&D Tax Incentives page — not in this capture]
 - The Salt Lake City location page names local leadership (e.g., Paul O. Skeen, listed as Utah Market Leader) and positions the office as the local point of contact for the national firm.
-- The page previously listed Fractional CFO services and R&D tax-credit payroll-offset guidance; this Salt Lake City location capture does not show those service pages.
+- This Salt Lake City location capture does not establish the Fractional CFO services and R&D tax-credit payroll-offset guidance described on other service pages.
 
 ## Verbatim
 

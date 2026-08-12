@@ -43,6 +43,11 @@ The Utah claim is direct but not exclusive. Browning was born in Ogden, learned 
 
 This work's impact is inseparable from organized violence. Browning designs helped nations defend themselves, but they also made killing more efficient and widespread. Firearms history is also crowded with other inventors, manufacturers, and ordnance teams; Browning did not single-handedly create modern small arms. Some iconic weapons, especially the M2, evolved after Browning's death through additional engineering.
 
+## Open Questions
+
+- Which later engineers and institutions made the most consequential changes to Browning's designs after his death?
+- What primary evidence best distinguishes Browning's individual contributions from the manufacturers and ordnance teams that industrialized them?
+
 ## Evidence
 
 - [Source record: ASME Browning Firearms Collection](browning-firearms-asme-or-official.md) · https://greatutah.work/pages/browning-firearms-asme-or-official.md · https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
@@ -52,7 +57,7 @@ This work's impact is inseparable from organized violence. Browning designs help
 - [U.S. Air Force Museum: weapon designs of John Moses Browning](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/4232201/elegant-simplicity-the-weapon-designs-of-john-moses-browning/) · https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/4232201/elegant-simplicity-the-weapon-designs-of-john-moses-browning/
 - [U.S. Army Ordnance Corps Hall of Fame: John M. Browning](https://goordnance.army.mil/HallOfFame/1970/1974/browning.html) · https://goordnance.army.mil/HallOfFame/1970/1974/browning.html
 
-## Open Questions
+## Maintainer Notes
 
 - Add a source record for the Ogden museum page.
 - Decide whether this page should receive a stronger public-safety caveat before it is promoted beyond Draft.

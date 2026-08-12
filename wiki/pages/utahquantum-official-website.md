@@ -25,10 +25,10 @@ Utah Quantum's official website describes the organization as a Utah-based Quant
 ## Verbatim
 
 > "We are your Quantum Systems Integrator (QSI) bridging Q-Concept and Reality across Academia, Industry & GOV"
-> — Home page, hero
+> — Home page, heading
 
 > "Utah Quantum leads Quantonomy with practical quantum systems integration for academia, industry, and government."
-> — Home page, hero subhead
+> — Home page, subheading
 
 > "We bridge the gap between quantum theory and real-world implementation, making quantum technology accessible and usable for real-world applications."
 > — Home page, "What We Do at UTQ"

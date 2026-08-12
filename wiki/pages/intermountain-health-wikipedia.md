@@ -36,8 +36,12 @@ The English Wikipedia article on Intermountain Health as of the captured snapsho
 
 Wikipedia is a secondary summary, useful for organizational scale and the Obama citation but not for program history or measured outcomes. Still needed for the [Intermountain Clinical Quality Improvement](intermountain-clinical-quality-improvement.md) page: official Intermountain Healthcare Delivery Institute / Advanced Training Program material, archived program descriptions, National Academy or IHI profiles, and peer-reviewed outcome papers (see [Source: How Intermountain Trimmed Health Care Costs (Health Affairs, 2011)](intermountain-quality-cost-health-affairs-2011.md) and [Source: Integrated Team-Based Care at Intermountain (JAMA, 2016)](intermountain-team-based-care-jama-2016.md) for what is already sourced).
 
-Health-policy journalism named in the old bundle title was never cited on this page and is not established here.
+This source does not establish claims drawn from health-policy journalism.
 
 ## Related Pages
 
 - [Intermountain Clinical Quality Improvement](intermountain-clinical-quality-improvement.md)
+
+## Maintainer Notes
+
+- An earlier bundle title named health-policy journalism that the page never cited; do not infer that coverage from this source record.

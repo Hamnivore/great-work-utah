@@ -64,4 +64,3 @@ Founder Obert C. Tanner (1904–1993) was also a noted University of Utah philos
 - Current revenue, headcount, and ownership structure under private ownership — specific financial details are not public.
 - How does Culture Cloud compete against Workday Peakon, Lattice, and Bonusly in enterprise recognition software?
 - What is the Institute's methodology for the Global Culture Report, and how independently verified are its conclusions?
-- The placeholder hero should be swapped for a cleared campus or product image when rights are confirmed.

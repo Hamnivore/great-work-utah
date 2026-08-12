@@ -39,6 +39,11 @@ UTTR helps explain why [Space Dynamics Laboratory](space-dynamics-laboratory.md)
 
 This entry is about national test capability, not approval of the weapons tested there. Range work includes live ordnance, hazardous waste, open detonation or burning, and long-term environmental-management issues. Many programs are classified or only partly public, so outside assessment is incomplete. The range's value also comes partly from remoteness, which can obscure environmental, Indigenous, and community impacts.
 
+## Open Questions
+
+- What public monitoring records quantify contamination, remediation, habitat effects, and nearby-community exposure over time?
+- Which Tribal nations and local communities have documented concerns or agreements concerning the range's land use and operations?
+
 ## Evidence
 
 - [Source record: Hill AFB Utah Test and Training Range Fact Sheet](utah-test-training-range-source.md) · https://greatutah.work/pages/utah-test-training-range-source.md · https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/
@@ -47,7 +52,7 @@ This entry is about national test capability, not approval of the weapons tested
 - [Utah DEQ: UTTR facility overview](https://deq.utah.gov/businesses-facilities/utah-test-and-training-facility-overview) · https://deq.utah.gov/businesses-facilities/utah-test-and-training-facility-overview
 - [JT4: Utah Test and Training Range](https://www.jt4llc.com/what-we-do/utah-test-and-training-range-uttr/) · https://www.jt4llc.com/what-we-do/utah-test-and-training-range-uttr/
 
-## Open Questions
+## Maintainer Notes
 
 - Add a source record for the Utah DEQ page.
 - Add a stronger environmental and Indigenous/community context pass before promotion.

@@ -30,7 +30,7 @@ The captured homepage text contains placeholder statistics (for example "0,000+"
 
 ## Verbatim
 
-Homepage, hero section:
+Homepage, heading section:
 
 > Buildings are the largest operating system on Earth. They consume energy, coordinate human activity, and underpin trillions of dollars of economic output.
 >

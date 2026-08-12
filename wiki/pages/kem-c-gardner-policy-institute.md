@@ -42,12 +42,16 @@ Public research and many reports are free online. Custom research engagements ma
 
 A founder writing a market thesis, expansion plan, or policy brief who needs authoritative Utah economic and demographic context — not operational startup coaching or funding.
 
+## Open Questions
+
+- Which datasets have stable public downloads, documented update schedules, and enough methodological detail for independent reuse?
+
 ## Evidence
 
 - [Startup State Resource Filter](startup-state-resource-list.md) · https://greatutah.work/pages/startup-state-resource-list.md
 - [Official website](https://gardner.utah.edu/) · https://gardner.utah.edu/
 
-## Open Questions
+## Maintainer Notes
 
-- Which Gardner reports should be linked by default when agents answer Utah innovation-ecosystem questions?
-- Are there standing datasets (population estimates, economic dashboard) that deserve dedicated source pages?
+- Decide which Gardner reports agents should link by default when answering Utah innovation-ecosystem questions.
+- Decide whether standing datasets such as population estimates or the economic dashboard warrant dedicated source pages.

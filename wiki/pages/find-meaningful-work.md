@@ -109,7 +109,7 @@ Do not pitch generic help. Bring a specific offer. Fortem-type companies may nee
 
 ## Evidence Standard
 
-This pass is based on public organization pages, press releases, and institutional source records. It is credible enough for first-pass navigation and matching, but it should not be treated as full diligence.
+This guide is based on public organization pages, press releases, and institutional source records. It is suitable for initial navigation and matching, but it should not be treated as full diligence.
 
 ## Related Pages
 

@@ -75,4 +75,3 @@ For students and postdocs interested in hardware architecture at the ML/security
 - Federal research funding stability: DARPA and NSF programs are the primary support; any changes in federal research priorities affect the group's trajectory.
 - Spinout potential: if FHE-ML performance crosses a commercial threshold, who would own or commercialize results from this group?
 - The 3D nanofabric line of work is genuinely speculative; timeline to any practical application is unclear.
-- The placeholder hero should be replaced with a licensed lab or research photograph when rights are confirmed.

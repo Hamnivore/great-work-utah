@@ -27,7 +27,7 @@ The Utah Film Commission's website (film.utah.gov) is the state government's pri
 ## Verbatim
 
 > "Utah has deep roots in the entertainment industry, with thousands of productions filmed in the state since the 1920s. With a competitive incentive program, trained crews, professional vendors, and over 84,000 square miles of diverse and unique landscapes, it's safe to say that Utah has what you're searching for."
-> — Home page, hero
+> — Home page, heading
 
 > "We provide support for multiple production types including motion pictures, television, and commercials. From student to studio productions, the Utah Film Commission can assist you when filming in the state."
 > — Home page, "Production"

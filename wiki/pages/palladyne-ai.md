@@ -62,4 +62,3 @@ Palladyne is headquartered in Salt Lake City and is one of the more visible Utah
 - The company has pivoted repeatedly (exoskeletons → AI software → vertically integrated defense/industrial). Is the current strategy durable, or is mission coherence still in flux?
 - How much of management's forward revenue guidance converts from backlog versus new wins?
 - How much of Palladyne's value now rests on the autonomy software (IQ, SwarmOS) versus the acquired manufacturing businesses? The two imply very different talent and investor profiles.
-- Imagery gap: the hero is a deterministic picsum placeholder. A license-clean photo of Palladyne's platforms, demonstrations, or team still needs to be sourced and attributed.

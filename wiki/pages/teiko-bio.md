@@ -45,4 +45,3 @@ Teiko maintains a company Ashby board and is recruiting into the technical bridg
 - Teiko team — company mission and current laboratory, bioinformatics, scientific and commercial functions: https://teiko-labs.com/our-team
 - Teiko FAQ — Salt Lake City laboratory and TokuKit workflow: https://teiko-labs.com/faq
 - Teiko careers board — current applicant destination: https://jobs.ashbyhq.com/teiko
-

@@ -56,4 +56,3 @@ Cosm's engineering nucleus is in Salt Lake City — the E&S acquisition relocate
 - How does Cosm's content pipeline for live sports work — direct rights deals with leagues, or sublicensing from broadcast partners?
 - What does the unit economics look like per venue? Capital cost, operating cost, revenue model?
 - How does the Digistar/E&S division (planetarium, science education) relate to the consumer-venue business? Are they operationally distinct?
-- Imagery: hero is a picsum placeholder — a license-clean dome interior photo from Cosm's press kit would replace it.

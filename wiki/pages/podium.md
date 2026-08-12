@@ -63,4 +63,3 @@ Podium is one of Silicon Slopes' most prominent unicorns — a homegrown SaaS co
 - What are the company's current valuation, revenue, and ARR?
 - How does the AI-communication push compare against emerging competitors like Birdeye, Broadly, and the major CRM platforms building text-messaging layers?
 - What is the current ownership structure and exit timeline — IPO, acquisition, or continued private growth?
-- The placeholder hero should be swapped for a cleared product or team image when rights are confirmed.

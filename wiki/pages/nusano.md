@@ -61,4 +61,3 @@ Nusano adds a genuinely unusual capability to Utah's industrial base: large-scal
 - Whether the broad 40-plus isotope mission holds depends on whether any single pharma partner captures the roadmap; the GlyTherix Lu-177 agreement and Ac-225 focus are leads, not the full commercial picture.
 - Production timelines ("late 2025," "full operations") come largely from company statements and press coverage; actual output volumes and cGMP qualification status should be verified before strong claims.
 - Headquarters history is mixed in sources (early materials cite Valencia, California; later coverage describes Nusano as Utah-headquartered). The current corporate HQ and the West Valley City site's role should be confirmed.
-- Imagery is a deterministic placeholder. A license-cleared photograph of the facility or accelerator equipment approved by the company should replace it before this renders as a marquee page.

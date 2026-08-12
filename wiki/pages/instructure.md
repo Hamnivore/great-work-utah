@@ -25,7 +25,7 @@
 
 Instructure is a Salt Lake City–based educational technology company best known for Canvas, the learning management system used by most major U.S. universities, hundreds of K–12 districts, and corporate training programs worldwide. The company also offers assessment, credentials, and analytics products including Mastery Connect and Canvas Credentials.
 
-Founded in 2008 by Brian Whitmer and Devlin Daley, Instructure went public in 2015, was taken private by Thoma Bravo in 2020, returned to the NYSE as INST in 2021, and was later acquired by KKR and Dragoneer. The transaction value previously stated here is not supported by the captured official homepage. Canvas remains headquartered in Utah and is one of the defining success stories of the state's Silicon Slopes edtech cluster.
+Founded in 2008 by Brian Whitmer and Devlin Daley, Instructure went public in 2015, was taken private by Thoma Bravo in 2020, returned to the NYSE as INST in 2021, and was later acquired by KKR and Dragoneer. The captured official homepage does not establish the transaction value. Canvas remains headquartered in Utah and is one of the defining success stories of the state's Silicon Slopes edtech cluster.
 
 ## Impact
 
@@ -62,6 +62,9 @@ Instructure was founded in Salt Lake City and remains headquartered there after 
 
 - Current private-company ownership structure beyond KKR and Dragoneer — exact minority stakes and board composition are not verified here.
 - Which AI features are generally available versus pilot-only, and how adoption varies across institution types.
-- Precise global and K–12 user counts; "30 million users" appears in intake material but should be cross-checked against recent company disclosures.
+- What are Instructure's current global and K–12 user counts? The reported figure of 30 million users needs corroboration from a recent company disclosure.
+
+## Maintainer Notes
+
+- Earlier intake material supplied the unsupported transaction-value and 30-million-user figures; do not restore them without a captured source.
 - How much product direction is driven by large-customer faculty committees versus central product strategy.
-- The placeholder hero should be replaced with a cleared product or campus image; a generic LMS photograph could imply endorsement that is not present.

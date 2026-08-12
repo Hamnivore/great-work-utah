@@ -62,4 +62,7 @@ It is a weaker fit for a consumer app, lifestyle business, or venture-backed Saa
 
 - Which Utah companies have recently won contracts after working with APEX?
 - Which APEX workshops are most relevant for defense-tech founders versus local-service businesses?
+
+## Maintainer Notes
+
 - How should the wiki route founders between APEX, Nucleus, and World Trade Center Utah when a company has both defense and international opportunities?

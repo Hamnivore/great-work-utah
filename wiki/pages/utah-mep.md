@@ -57,4 +57,7 @@ Strong when the company already makes, assembles, or is preparing to manufacture
 - The service catalog on this page is still the center's own description of itself. The award record carries the mandate ("accelerating the usage of appropriate manufacturing technology by smaller U.S. based manufacturing firms") and the money, not the list of offerings; NIST MEP's annual center performance reporting is the record that would make client counts and outcomes primary.
 - The current award ends **2026-09-30**. A reader checking after that date should look for the successor FAIN rather than assume the center lapsed — MEP designations are recompeted, and the same recipient held the 2016–2021 predecessor award.
 - Utah MEP has no federal identifier of its own: the recipient of record is the University of Utah (UEI `LL8GLEVH6MG3`), so no `**Identifiers:**` line is recorded here rather than attach the university's key to a program page.
+
+## Maintainer Notes
+
 - How should the wiki route defense suppliers between Utah MEP, [47G](47g-utah-aerospace-and-defense-association.md), and [Utah APEX Accelerator](apex-accelerator.md)?

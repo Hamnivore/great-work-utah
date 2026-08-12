@@ -62,4 +62,3 @@ Merit is the largest medical-device employer in the Mountain West. South Jordan 
 
 - The CEO transition from founder Fred Lampropoulos to Martha Aronson in late 2025 is a genuine inflection point; how the founder-operator culture and product cadence evolve will matter for any operator considering the company.
 - Tightening regulatory regimes (FDA, EU MDR) are a real cost; how Merit absorbs and competes through that overhead is a useful watch item.
-- The current placeholder hero should be replaced with a license-cleared facility, product, or clinical-procedure photograph approved by the company before this page is rendered as a magazine cover.

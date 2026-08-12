@@ -26,7 +26,7 @@ Preferred CFO's official website describes a Utah-based fractional/outsourced CF
 
 > "Preferred CFO provides outsourced CFO, controller, and strategic finance support to help business
 > leaders improve cash flow, forecasting, financial visibility, profitability, and long-term growth."
-> — Home page, hero
+> — Home page, heading
 
 > "Preferred CFO provides expert outsourced and fractional CFO services to drive growth, optimize
 > finances, and tackle challenges with custom, tailored strategies."

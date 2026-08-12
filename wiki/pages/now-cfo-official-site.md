@@ -27,7 +27,7 @@ NOW CFO's official site describes a financial consulting firm providing fraction
 ## Verbatim
 
 > "Flexible Accounting and Finance Solutions Built to Scale"
-> — Home page hero
+> — Home page heading
 
 > "We offer scalable support across every level of the finance function, including fractional financial leadership, project-based engagements, and permanent hires for accounting and finance roles."
 > — Home page, company description

@@ -37,7 +37,7 @@ Ancestry's public website and corporate pages describe the company's family-hist
 ## Verbatim
 
 > "Ancestry ® Family History and AncestryDNA will help you answer those questions."
-> — Home page, hero
+> — Home page, heading
 
 > "Your membership serves as a vital hub for not just building a family tree, but for the ongoing exploration and preservation of your ancestors' stories through historical records."
 > — Home page, "Family History"

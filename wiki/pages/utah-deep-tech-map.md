@@ -92,7 +92,7 @@ Helpers should use the map to avoid generic advice. A propulsion company, a biom
 - [Utah Test and Training Range](utah-test-and-training-range.md)
 - [Dugway Proving Ground](dugway-proving-ground.md)
 
-## Open Questions
+## Maintainer Notes
 
 - Add more environmental-science work pages before this guide claims to represent the earth-science map well.
 - Add a real aerospace/defense source pass for Hill AFB, Dugway, Utah Test and Training Range, and the 47G cluster.

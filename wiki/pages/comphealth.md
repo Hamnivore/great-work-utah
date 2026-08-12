@@ -33,7 +33,7 @@ Breadth today, per the company's own statistics page: locums physicians in **all
 
 ## Utah Context
 
-Salt Lake City has been the corporate home since at least the 2006 S-1 address. CompHealth is one of several CHG brands (others named in the S-1 include Weatherby Locums, RN Network, and allied-health lines). The wiki does not yet have a separate page for CHG Healthcare as parent.
+Salt Lake City has been the corporate home since at least the 2006 S-1 address. CompHealth is one of several CHG brands; others named in the S-1 include Weatherby Locums, RN Network, and allied-health lines.
 
 ## What They Need Now
 
@@ -53,3 +53,7 @@ Careers: https://www.chghealthcare.com/about-us/careers (CHG corporate site — 
 - [Source: CompHealth — What Is Locum Tenens Page](comphealth-locum-tenens-page.md) · https://greatutah.work/pages/comphealth-locum-tenens-page.md · https://www.comphealth.com/locum-tenens
 - [Source: CompHealth — Why CompHealth Page](comphealth-why-comphealth-page.md) · https://greatutah.work/pages/comphealth-why-comphealth-page.md · https://www.comphealth.com/why-comphealth
 - [Source: CHG Healthcare Services S-1 Registration Statement (2006)](chg-healthcare-s1-2006.md) · https://greatutah.work/pages/chg-healthcare-s1-2006.md · https://www.sec.gov/Archives/edgar/data/1356792/000119312506063319/ds1.htm
+
+## Maintainer Notes
+
+- Consider a separate CHG Healthcare parent page.

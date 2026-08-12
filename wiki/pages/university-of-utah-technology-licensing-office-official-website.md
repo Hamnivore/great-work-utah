@@ -20,7 +20,7 @@ The official site of the University of Utah Technology Licensing Office (TLO) â€
 
 - The office was called the PIVOT Center (Partners for Innovation, Ventures, Outreach & Technology) from 2020 until it was renamed the Technology Licensing Office on October 31, 2023; earlier names were the Technology & Venture Commercialization office (2013), Tech Commercialization Office (2006), Tech Transfer Office (1986), and Product and Patent Development Office (1965) â€” this capture shows the current Technology Licensing Office branding only; the name history is not reconfirmed here.
 - The office is located at 303 Chipeta Way, #14, Salt Lake City, UT 84108 (Research Park), phone 801-581-7792.
-- The page previously listed disclosure-process steps and faculty patent totals; this capture does not show those figures or the full process description.
+- This capture does not show faculty patent totals or the full disclosure-process description.
 - A 2025 AUTM survey ranked the university among the top 10 U.S. universities for invention disclosures (No. 5), licenses executed (No. 5), copyright licenses (No. 4), gross license income (No. 9), and new licensed technologies (No. 3).
 - Non-dilutive funding programs (Tech Discovery MicroGrants, Ascender Grants, NSF I-Corps, SBIR/STTR) appear in site navigation but are not described in this capture.
 - A public Available Technologies catalog is linked from site navigation; this capture does not describe search categories.

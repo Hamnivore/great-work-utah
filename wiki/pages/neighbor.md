@@ -43,4 +43,3 @@ Neighbor's careers board shows a broad, current Lehi hiring push. The durable fa
 
 - Neighbor official site — marketplace categories, nationwide availability and company identity: https://www.neighbor.com/
 - Neighbor careers — current Lehi footprint and durable hiring families across engineering, data, product, trust and safety, partnerships, marketing and sales: https://www.neighbor.com/careers
-

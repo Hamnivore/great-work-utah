@@ -18,7 +18,6 @@
 
 InnoSys is a Utah-based company that manufactures fiber optic glass-to-metal seals for neutron generator detector products. The company appeared in a Utah Innovation Center DOE SBIR cohort alongside Coreform and Nielson Scientific, suggesting it has pursued or received DOE Small Business Innovation Research funding. Beyond this, publicly available information on InnoSys is sparse.
 
-This page is a minimal stub. Confidence is low and content should be expanded or corrected when primary sources become available.
 
 ## Impact
 
@@ -58,4 +57,7 @@ InnoSys's presence in Utah is consistent with the state's industrial and defense
 - What is the company's website and primary customer base?
 - Are the neutron generator seals qualified to any published hermetic seal standards (MIL-PRF-38534, equivalent)?
 - Is InnoSys still operating, or has it been acquired or wound down?
-- The placeholder hero should be replaced with a cleared product or facility image when rights are confirmed.
+
+## Maintainer Notes
+
+This page is a minimal stub. Confidence is low and content should be expanded or corrected when primary sources become available.

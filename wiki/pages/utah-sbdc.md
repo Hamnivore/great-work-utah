@@ -67,5 +67,8 @@ Weaker fits include venture-backed deep-tech teams that already know their custo
 ## Open Questions
 
 - Which Utah SBDC centers are strongest for rural, manufacturing, food/agriculture, and technology founders?
-- Are there current SBDC specialist advisors who should become helper pages with public evidence?
 - Which SBDC online academy resources should be linked directly from founder answers?
+
+## Maintainer Notes
+
+- Are there current SBDC specialist advisors who should become helper pages with public evidence?

@@ -62,7 +62,6 @@ Halia anchors a small but serious clinical-stage drug-discovery presence in the 
 - Phase 2a results are promising but early; most candidates that look strong at Phase 2a do not survive larger trials. The MDS-to-broader-aging leap currently rests on mechanism, not outcome data.
 - Current headcount, named investors, and whether founders retain control are not confirmed here.
 - Press-release and conference-abstract data are leads, not independent proof; peer-reviewed, fuller datasets would strengthen the efficacy claims.
-- Imagery is a deterministic placeholder. A license-cleared lab, team, or molecular-graphic image approved by the company should replace it before this renders as a marquee page.
 
 ## See Also
 

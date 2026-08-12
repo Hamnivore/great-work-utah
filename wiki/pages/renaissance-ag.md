@@ -55,4 +55,3 @@ Renaissance Ag is a Vineyard, Utah hardware company in the heart of the Utah ag 
 - PastureBox economics vs. commodity hay: competitive at what hay price point? At $200/ton hay, does a PastureBox pay back in under 3 years?
 - Livestock performance data on sprouted fodder diets: milk production consistency, beef gain rates — this is the rancher's primary concern and the data should be publicly available from customer deployments.
 - No agent-readable careers/jobs page found.
-- Imagery: hero is a placeholder pending a license-clean photo of a PastureBox installation.

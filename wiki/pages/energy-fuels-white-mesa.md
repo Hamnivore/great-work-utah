@@ -60,5 +60,7 @@ Energy Fuels also makes Utah part of the national conversation about domestic ur
 - What do Utah regulators, federal agencies, the Ute Mountain Ute Tribe, local residents, and environmental groups say about current White Mesa operations?
 - Which products are currently produced at commercial scale versus under development?
 - What are the most recent public permitting, inspection, and enforcement records?
+
+## Maintainer Notes
+
 - How should the wiki handle Energy Fuels as a Denver-based company with a deeply consequential Utah asset?
-- The placeholder hero should be replaced only with a license-clean facility, landscape, or document image that does not imply unearned access or endorsement.

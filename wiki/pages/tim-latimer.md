@@ -69,4 +69,3 @@ Fervo Energy official channels; energy conference circuit (CERAWeek, Clean Energ
 - Has the Fervo S-1 / Nasdaq FRVO offering closed or been postponed as of mid-2026?
 - What is the current status of Cape Station's Phase 1 power delivery timeline?
 - What are Latimer's public-market investor communication priorities post-S-1 versus field execution priorities?
-- The placeholder hero should be replaced with a cleared headshot or project site image when rights are confirmed.

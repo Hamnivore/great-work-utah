@@ -59,4 +59,3 @@ Salt Lake City sits in a bowl-shaped valley that traps winter inversions, produc
 - How does TELLUS's calibration accuracy compare to commercial competitors like PurpleAir and Clarity Movement on independent benchmarks?
 - What does the Series A term sheet need to look like to fund the jump from Utah-centric deployment to national scale?
 - What regulatory pathway would allow TELLUS data to be used for EPA enforcement purposes, and how close is the platform to meeting that bar?
-- The placeholder hero should be replaced with a cleared image of deployed sensor hardware or the Salt Lake City network when rights are confirmed.

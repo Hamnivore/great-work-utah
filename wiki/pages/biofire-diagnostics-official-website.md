@@ -20,7 +20,7 @@ BioFire's official websites and product labeling (biofiredx.com and the BioFire 
 
 - BioFire Diagnostics, LLC is part of bioMérieux; this capture does not show a Salt Lake City street address.
 - The FilmArray platform runs multiplex-PCR syndromic infectious-disease testing with results in about one hour.
-- The page previously asserted Global Fever Panel specifications (six targets, ~50 minutes, DEN200043) and an RUO variant; this capture does not show those product pages.
+- This capture does not establish the Global Fever Panel specifications reported elsewhere (six targets, ~50 minutes, DEN200043) or an RUO variant.
 - The published panel menu spans respiratory, gastrointestinal, blood culture identification, meningitis/encephalitis, and pneumonia testing.
 
 ## Verbatim

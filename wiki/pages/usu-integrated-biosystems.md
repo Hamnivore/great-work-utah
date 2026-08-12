@@ -63,4 +63,3 @@ USU's land-grant mission aligns well with Utah's agricultural profile: the state
 - What are CIB's current primary research programs — which species, crops, and genomic questions are most active?
 - What industry partnerships exist, and are any structured as sponsored research agreements with potential commercialization pathways?
 - How does the bioinformatics infrastructure at CIB compare to what's needed for modern long-read sequencing (PacBio, Nanopore) vs. the short-read infrastructure of a decade ago?
-- The placeholder hero should be replaced with a cleared lab or campus image when rights are confirmed.

@@ -52,4 +52,3 @@ Varda is the notable non-military commercial user of [UTTR](uttr.md) reentry inf
 - Will Varda return any future missions to UTTR, or is Australia now the default landing site?
 - What are validated pharmaceutical benefits from Varda's orbital crystal growth beyond ritonavir?
 - Funding totals and mission counts are date-sensitive; verify against SEC filings or primary company disclosures before employment decisions.
-- Imagery is a deterministic placeholder; a license-clean capsule or mission photograph should replace it.

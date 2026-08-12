@@ -61,5 +61,7 @@ SDL is headquartered in North Logan and is tied to Utah State University. Its hi
 
 - Which current SDL missions can be described publicly without relying on institutional marketing?
 - Which student programs are best for undergraduates versus graduate researchers?
+
+## Maintainer Notes
+
 - The current page should avoid overclaiming classified defense impact unless better public evidence is added.
-- The hero is a CC BY-SA 4.0 photograph of the SDL auditorium building (Jacobkhed via Wikimedia Commons); attribution must remain visible if the photograph is used in any rendered layout.

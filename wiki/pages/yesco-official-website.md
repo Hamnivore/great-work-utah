@@ -24,7 +24,7 @@ YESCO's corporate homepage tagline and positioning: custom signs, lighting, bill
 ## Verbatim
 
 > "Quality and Innovative Sign Solutions Since 1920"
-> — homepage hero
+> — homepage heading
 
 > "Now in our 105th year, YESCO remains a family-owned company, driven by inventiveness, integrity, and constant improvement."
 > — homepage body

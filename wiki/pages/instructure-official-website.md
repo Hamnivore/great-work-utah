@@ -20,7 +20,7 @@ Instructure's official website describes Canvas LMS and related products for hig
 
 - Instructure positions itself as a "learning ecosystem" centered on Canvas LMS.
 - The site describes products including Canvas LMS, Mastery Connect, and Canvas Credentials.
-- The page previously asserted KKR and Dragoneer's July–November 2024 take-private acquisition; this capture does not show that transaction.
+- This capture does not establish the timing or terms of KKR and Dragoneer's take-private acquisition.
 - Company contact information lists a Salt Lake City, Utah headquarters address.
 - The site describes AI-related product investments integrated into the Canvas workflow for tutoring, feedback, and instructor tooling.
 
@@ -50,3 +50,7 @@ This is an official company source. It is useful for product categories, positio
 ## Related Pages
 
 - [Instructure](instructure.md)
+
+## Maintainer Notes
+
+- Earlier page copy attributed the 2024 take-private transaction to this homepage; use a transaction filing or announcement instead.

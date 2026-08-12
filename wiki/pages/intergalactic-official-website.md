@@ -20,7 +20,7 @@ Intergalactic's official website describes its aerospace thermal-management syst
 
 - The 2026-08-11 homepage identifies Intergalactic as part of Unison/GE Aerospace and markets thermal-management systems for civil aviation, defense and security, space, and land and sea applications.
 - The page lists AS9100 certification among credentials on this capture.
-- The page previously cited a St. George headquarters address, cleanroom and planned Tech Ridge facility sizes, a detailed component catalog, ApplicantPro recruiting, and RAM acquisition history; those details are absent from this capture.
+- This capture does not establish the St. George headquarters address, cleanroom or planned Tech Ridge facility sizes, a detailed component catalog, ApplicantPro recruiting, or RAM acquisition history.
 
 ## Verbatim
 
@@ -41,8 +41,12 @@ Intergalactic's official website describes its aerospace thermal-management syst
 
 This is the company's own source and is strong evidence for its current public product catalog, address, stated facilities, recruiting path, and self-description. Claims about performance, sole-source status, facility expansion, certifications, ownership, and customer programs need independent or documentary confirmation. The site's 2026 footer links careers and terms to GE Aerospace, while older pages name RAM's founders as majority owners; that unresolved conflict is why this source remains Medium confidence.
 
-**Drift note.** The 2026-08-11 homepage is a rebranded GE Aerospace/Unison landing page. St. George headquarters address, cleanroom square footage, planned Tech Ridge facility, detailed component catalog, ApplicantPro careers link, and RAM acquisition history cited earlier are absent from this capture and were not reconfirmed here.
+The 2026-08-11 homepage is a rebranded GE Aerospace/Unison landing page. It does not establish Intergalactic's St. George headquarters address, cleanroom square footage, planned Tech Ridge facility, detailed component catalog, ApplicantPro careers link, or RAM acquisition history.
 
 ## Related Pages
 
 - [Intergalactic](intergalactic.md) · https://greatutah.work/pages/intergalactic.md
+
+## Maintainer Notes
+
+- Earlier page copy attributed the omitted company and facility details to this homepage; verify them against other sources before restoring them.

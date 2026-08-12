@@ -65,4 +65,8 @@ L3Harris Salt Lake City is one of Utah's largest defense employers after Hill Ai
 - How much of the site's work is unclassified versus clearance-gated, for public talent-matching purposes?
 - Defense budget and program-cycle volatility — which comms programs are expanding versus consolidating?
 - Individual leverage in a large prime: what roles offer the most mission autonomy without leaving Utah?
-- The legacy tier note flagged commoditization pressure in tactical comms — how is L3Harris positioning against newer software-defined and mesh-network competitors?
+- How is L3Harris positioning against commoditization pressure and newer software-defined and mesh-network competitors in tactical communications?
+
+## Maintainer Notes
+
+- An earlier tier note identified commoditization pressure as an issue to investigate; the reader-facing question above preserves the substance.

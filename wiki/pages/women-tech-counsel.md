@@ -51,4 +51,7 @@ Weaker fit for founders whose primary need is dilutive funding term sheets or we
 ## Open Questions
 
 - Which WTC programs are most relevant for founders vs. corporate talent leaders?
-- Should the page title be normalized to "Women Tech Council" while keeping the Startup State slug?
+
+## Maintainer Notes
+
+- Decide whether to normalize the page title to "Women Tech Council" while keeping the Startup State slug.

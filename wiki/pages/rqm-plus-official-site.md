@@ -27,7 +27,7 @@ RQM+'s official site describes the company as a medtech CRO providing regulatory
 ## Verbatim
 
 > "RQM+ is The MedTech CRO – a full-service partner adding expertise from concept to post-market."
-> — Home page, hero
+> — Home page, heading
 
 > "Regulatory & Quality"
 > — Home page, solutions section
@@ -52,7 +52,7 @@ RQM+'s official site describes the company as a medtech CRO providing regulatory
 
 ## Reliability Notes
 
-This is an official company source and is reliable for stated services, market focus, and headquarters. It is not evidence of a Utah office or a specific relationship with Utah companies. The wiki should frame RQM+ as a national specialist that may be relevant to Utah medtech or diagnostic founders when local generalist support is not enough.
+This is an official company source and is reliable for stated services, market focus, and headquarters. It is not evidence of a Utah office or a specific relationship with Utah companies. RQM+ may be relevant to Utah medtech or diagnostic founders when local generalist support is not enough, but this source establishes no Utah presence.
 
 ## Related Pages
 

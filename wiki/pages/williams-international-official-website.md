@@ -27,13 +27,13 @@ williams-int.com is Williams International's official corporate site: a homepage
 ## Verbatim
 
 > "Williams International is the world leader in the development, manufacture, and support of gas turbine engines."
-> — Home page, hero
+> — Home page, heading
 
 > "Founded in 1955, Williams continues to expand the horizons of development, innovation, testing, production, and support to meet the growing demands of today's turbine engine aviation industry."
-> — Home page, hero body
+> — Home page, introductory copy
 
 > "As a forward-thinking, privately owned and highly vertically integrated company, our relentless focus is on exceeding our customer's expectations by delivering and supporting the highest performing, highest quality gas turbine engines."
-> — Home page, hero body
+> — Home page, introductory copy
 
 > "2000 Centerpoint Parkway Pontiac, Michigan 48341"
 > — Home page, footer

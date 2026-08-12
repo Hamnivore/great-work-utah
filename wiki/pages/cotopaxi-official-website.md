@@ -22,11 +22,11 @@ Cotopaxi's official website describes an outdoor gear and apparel brand organize
 - Product categories include packs and bags, women's and men's apparel, travel essentials, and named collections such as Del Día, Allpa travel packs, and Coraza luggage.
 - The site says 1% of annual revenue goes to the Cotopaxi Foundation, a Utah-based private 501(c)(3) nonprofit.
 - Customer donations received by Cotopaxi are distributed monthly to the Cotopaxi Foundation, which the site describes as the next step in expanding grantmaking and community impact.
-- The page previously described a primary Latin America focus and nonprofit work in health care, education, and livelihoods; this homepage capture does not reconfirm those program details.
+- This homepage capture does not establish the reported primary Latin America focus or nonprofit work in health care, education, and livelihoods.
 - The site advertises a "Guaranteed for Good" program including U.S. returns and exchanges, lifetime warranty, repairs, and trade-in paths.
-- The page previously said 100% of products contain repurposed, recycled, or responsibly certified materials; that claim is absent from this capture.
+- The claim that 100% of products contain repurposed, recycled, or responsibly certified materials is absent from this capture.
 - The site publishes impact reports and compliance documents, including supplier and policy materials.
-- The founder/chairman identity and brand-name origin previously recorded here are absent from this capture.
+- The founder/chairman identity and brand-name origin are absent from this capture.
 
 ## Verbatim
 

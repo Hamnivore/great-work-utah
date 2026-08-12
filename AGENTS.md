@@ -43,6 +43,10 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
    `**Needs-reviewed:**` — see `wiki/meta/attributes.md`), then the sections required for the
    page's Type. Links are same-directory relative: `[Fervo Energy](fervo-energy.md)`. Links to
    pages that *should* exist are allowed — lint feeds them to the wanted queue.
+   An optional `## Maintainer Notes` may appear only as the final level-two section. Put
+   editorial state, migration/internal-provenance notes, presentation tasks, and wiki cleanup
+   instructions there. Keep reader-relevant uncertainty in `## Open Questions`, source
+   limitations in `## Reliability Notes`, and never treat Maintainer Notes as evidence.
 5. Prefer official/primary sources; press releases are leads, not proof. Cite `Type: source`
    pages from Evidence sections.
 6. Domain/Region attribution is mid-rollout. When you touch a page, attribute it.

@@ -19,7 +19,7 @@ The Utah NeuroRobotics Lab's official site (University of Utah ECE department) d
 ## Useful Claims
 
 - The lab, directed by Dr. Jacob George, develops direct neural interfaces that let amputees control a robotic limb by thought while receiving sensory feedback.
-- The page previously described a BIOS partnership, LUKE Arm translation work, a BIOS industry contract, and Blackrock Neurotech USEA manufacturing; this capture does not show those posts or partners.
+- This capture does not show posts establishing a BIOS partnership, LUKE Arm translation work, a BIOS industry contract, or Blackrock Neurotech USEA manufacturing.
 - Lab research links rehabilitation robotics and sensorimotor neural engineering through biologically-inspired artificial intelligence, using wearable and implantable brain-machine interfaces.
 
 ## Verbatim

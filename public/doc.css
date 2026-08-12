@@ -294,6 +294,28 @@ h1 {
   height: auto;
 }
 
+/* Editorial state remains public, but is not part of the reader-facing narrative. */
+.maintainer-notes {
+  margin-top: 2.5rem;
+  border-top: 1px solid color-mix(in srgb, var(--color-sandstone) 45%, transparent);
+  background: color-mix(in srgb, var(--color-sandstone) 7%, transparent);
+  padding: 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  line-height: 1.55;
+  color: var(--color-ink-soft);
+}
+.maintainer-notes h2 {
+  margin: 0 0 0.65rem;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.maintainer-notes > :last-child {
+  margin-bottom: 0;
+}
+
 /* ---- provenance footer on every document ---- */
 
 .provenance {

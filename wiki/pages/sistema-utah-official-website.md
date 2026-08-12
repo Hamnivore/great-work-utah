@@ -29,7 +29,7 @@ Homepage of Sistema Utah — El Sistema-model after-school music education in th
 ## Verbatim
 
 > Providing free comprehensive music education after school since 2013
-> — Homepage hero
+> — Homepage heading
 
 > Offering violin, viola, cello, bass, clarinet, trumpet, saxophone, trombone, piano, flute, percussion and bucket band/taiko drumming.
 > — Homepage body

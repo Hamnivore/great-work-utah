@@ -20,13 +20,13 @@ Palladyne AI's official web presence (company site and investor-relations newsro
 
 - Palladyne describes its software as enabling robots and drones to observe, learn, reason, and act autonomously at the edge, without cloud dependency.
 - The company names Palladyne IQ and SwarmOS as core software products, with IntelliSwarm integration and BRAIN X2 edge compute; this capture does not show a "2.0" release label for Palladyne IQ.
-- The page previously asserted recent acquisitions and quarterly financial guidance; this homepage capture does not show those releases.
-- The page previously noted NASDAQ tickers PDYN and PDYNW; this capture does not show ticker symbols.
+- This homepage capture does not show recent acquisitions or quarterly financial guidance.
+- This capture does not show NASDAQ ticker symbols PDYN and PDYNW.
 
 ## Verbatim
 
 > "Most AI thinks. Palladyne AI acts."
-> — Home page, hero
+> — Home page, heading
 
 > "Intelligence that must operate in the physical world cannot wait for the cloud. It must perceive locally, decide in milliseconds, and execute at the point of action, in GPS-denied airspace, on contested battlefields, and on factory floors where latency can mean a failed mission or a missed command."
 > — Home page, opening paragraph
@@ -47,3 +47,7 @@ This is an official/company source, including SEC-filed and newswire-distributed
 ## Related Pages
 
 - [Palladyne AI](palladyne-ai.md)
+
+## Maintainer Notes
+
+- Earlier page copy attributed acquisition, guidance, and ticker details to this homepage; use filings or dedicated company releases instead.

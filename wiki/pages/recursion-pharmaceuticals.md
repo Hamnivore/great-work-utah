@@ -61,4 +61,3 @@ Recursion is headquartered in downtown Salt Lake City and is a visible anchor fo
 
 - Which Recursion programs are currently the strongest evidence that platform discovery is translating into clinical value?
 - How much of Recursion's current impact will come from internal pipeline assets versus partner use of the platform?
-- The current hero is hotlinked from Recursion's marketing site, and image rights have not been cleared. Replace with a Recursion-approved or independently licensed image before any production use.

@@ -78,4 +78,3 @@ No direct personal email, phone, or unverified social profiles are listed here.
 - What does his personal record of philanthropic or civic engagement in Utah look like? Not confirmed here.
 - Are there publicly documented advisory relationships or board seats outside Merit Medical?
 - Current revenue and employee figures should be verified against Merit Medical's most recent annual report before use in high-stakes recommendations.
-- A cleared portrait or facility photograph should replace the placeholder hero before this page is rendered prominently.

@@ -59,4 +59,3 @@ Utah's aerospace and defense base makes Hexcel locally significant. The availabl
 
 - Which Utah-specific facilities, headcount, and product lines are current as of 2026?
 - Which claims about sole-source defense programs are public and sourceable?
-- The current placeholder hero should be swapped for a license-clean Hexcel facility or product image before this page is rendered as a magazine cover.

@@ -27,7 +27,7 @@ Thera-T Pharmaceutics' official homepage describes its MATCH (Multi-Antigen T-Ce
 ## Verbatim
 
 > "Customizable multi-specific antibody technology for cancer immunotherapy guided by predictive dose modeling and machine learning."
-> — Home page, hero
+> — Home page, heading
 
 > "MATCH provides a platform targeting system capable of treating B-cell leukemias, lymphomas, and multiple myeloma through multi-specific targeting."
 > — Home page, platform description

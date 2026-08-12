@@ -28,7 +28,7 @@ Coreform's official website describes isogeometric analysis (IGA) software for r
 ## Verbatim
 
 > "Model preparation is the slowest, most painful part of simulation. Coreform software radically improves this, from enabling nonlinear analysis on fully-detailed CAD, to Python-scriptable hex meshing."
-> — Home page, hero
+> — Home page, heading
 
 > "Run isogeometric analysis directly from CAD."
 > — Home page, "Coreform IGA for Abaqus"

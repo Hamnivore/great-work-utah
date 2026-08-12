@@ -57,7 +57,7 @@ Useful helpers include payroll tax and compliance advisors, SOC II and security 
 
 ## Utah Context
 
-BambooHR publishes its current US office in Draper and shares the Wasatch Front with other enterprise and vertical SaaS companies such as [Qualtrics](qualtrics.md), [Domo](domo.md), and [Fortem Technologies](fortem-technologies.md). Local intake notes reference hiring ties to Brigham Young University and other Utah schools; those relationships should be verified before use in matching.
+BambooHR publishes its current US office in Draper and shares the Wasatch Front with other enterprise and vertical SaaS companies such as [Qualtrics](qualtrics.md), [Domo](domo.md), and [Fortem Technologies](fortem-technologies.md). Reported hiring ties to Brigham Young University and other Utah schools have not been verified and should not be assumed in matching.
 
 ## Evidence
 
@@ -75,4 +75,3 @@ BambooHR publishes its current US office in Draper and shares the Wasatch Front 
 - How large is the international customer base relative to U.S. SMB core?
 - Which integration and payroll partnerships matter most for competitive positioning?
 - Co-founder Ryan Sanders departed as CTO in 2022 per intake notes — what does the current technical leadership bench look like?
-- The placeholder hero should be swapped for a cleared office or product screenshot when available.

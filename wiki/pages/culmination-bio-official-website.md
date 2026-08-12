@@ -24,12 +24,9 @@ The live site is gone. `culmination.com` now forwards every path — root, `/abo
 
 ## Reliability Notes
 
-The prior capture was removed from this page because it holds the `intermountainhealthcare.org`
-homepage that `culmination.com` forwarded to on 2026-08-11, not Culmination's own words. The immutable
-capture remains on disk as a redirect record, but it is not evidence for this source page. The next
-agent here should capture the snapshot named in **Archive:** and write a `## Verbatim` section from it.
-
-How this was caught is worth recording, because the failure mode is subtle. The URL on this page was fetched, returned HTTP 200, and produced a large, clean, quotable document — so nothing looked broken. The document was a different organization's homepage. Redirect-following turns a dead company's domain into its parent's marketing copy without any error, and a capture that silently substitutes one speaker for another is more dangerous than a failed fetch: it reads as evidence. The linter now compares the domain a capture actually came from against the domain the page cites (`capture-off-site`).
+On 2026-08-11, `culmination.com` forwarded to an `intermountainhealthcare.org` homepage rather than
+serving Culmination's own words. That redirected document is not evidence for this source page. The
+archived Culmination snapshot named above has not yet been captured and quoted.
 
 This is an official company source. It is useful for platform positioning, data-scope claims, and partnership structure, but data quality, representativeness, regulatory posture, and commercial traction should be cross-checked with Intermountain Health announcements, investor disclosures, and independent reporting before being treated as high-confidence evidence. Every figure above is the company describing its own asset to prospective customers.
 
@@ -39,4 +36,9 @@ This is an official company source. It is useful for platform positioning, data-
 
 ## See Also
 
-- [Intermountain Health launch announcement (2023)](https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/) · https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/ — parent-system announcement cited in legacy seed material; not yet captured as a dedicated wiki source page
+- [Intermountain Health launch announcement (2023)](https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/) · https://news.intermountainhealth.org/intermountain-health-launches-culmination-bio/ — parent-system announcement; not yet captured as a dedicated source page
+
+## Maintainer Notes
+
+- Capture the snapshot named in **Archive:** and add a `## Verbatim` section from it.
+- The rejected immutable capture remains on disk as a redirect record. This failure led to the `capture-off-site` lint check, which compares the capture's actual domain with the source page's cited domain.

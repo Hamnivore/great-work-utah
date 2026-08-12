@@ -268,14 +268,50 @@ write('evidence.md', graph)
 
 // ---- master index ----
 const count = (t) => pages.filter((p) => p.type === t).length
+const pct = (n, total) => total ? Math.round((n / total) * 100) : 0
+const domainViews = DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`)))
+const domainLabel = (d) => ({
+  energy: 'Energy',
+  'health-bio': 'Health and biology',
+  'aerospace-defense': 'Aerospace and defense',
+  computing: 'Computing',
+  'materials-mfg': 'Materials and manufacturing',
+  'space-science': 'Space and science',
+  'capital-programs': 'Capital and programs',
+  'culture-place': 'Culture and place',
+})[d]
 write('index.md', `# greatutah.work — master index
 
-**Looking for work?** Start at [by kind of work](by-role.md) or [needs](needs.md) — who needs people now — then [ventures](ventures.md) or a [sector hub](#derived).
-**Founding or growing?** Start at [guides](guides.md) (capital + advisors), then [resources](resources.md) and [helpers](helpers.md).
+This is the router for ${pages.length} pages about high-impact work in Utah. Pick the path that matches the question; use the complete type indexes when no narrower path fits. **Index first; search to refine.**
 
-All pages live flat at \`${BASE}/pages/{slug}.md\`; every view below is generated from page metadata and always current. Each listing repeats its full URL in backticks so HTML-sanitizing fetchers still expose fetchable URLs, and so conversation-whitelist fetchers (like claude.ai web_fetch) can follow it. Conventions: ${BASE}/meta/conventions.md · attributes: ${BASE}/meta/attributes.md · what "great work" means here: ${BASE}/meta/charter.md
+## Start by goal
 
-## By type
+- **Find meaningful work:** [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` (${roleGroups.length} role families), then [all stated needs](needs.md) · \`${BASE}/views/needs.md\` (${needers.length} organizations) and [Find Meaningful Work in Utah](/pages/find-meaningful-work.md) · \`${BASE}/pages/find-meaningful-work.md\`. These are leads derived from page assessments, not confirmed openings; verify with the organization.
+- **Start or fund a high-growth company:** [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · \`${BASE}/pages/startup-capital-in-utah.md\` · [Find an Advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\`
+- **Grow a Main Street or rural business without venture capital:** [Find Business Services](/pages/find-business-services.md) · \`${BASE}/pages/find-business-services.md\` routes formation, lending, procurement, regulation, and workforce help; combine it with [resources](resources.md) · \`${BASE}/views/resources.md\` and [by Utah location](by-region.md) · \`${BASE}/views/by-region.md\`.
+- **Commercialize research or find technical space:** [Commercialize Research in Utah](/pages/commercialize-research.md) · \`${BASE}/pages/commercialize-research.md\` · [Find Prototyping Space](/pages/find-prototyping-space-in-utah-county.md) · \`${BASE}/pages/find-prototyping-space-in-utah-county.md\`
+- **Explore a field:** use a [sector hub](#sectors), then open the full pages behind the promising lines. If the hub is sparse, search synonyms and check the complete type indexes—the Domain rollout is incomplete.
+- **Find nearby work or resources:** [browse by Utah location](by-region.md) · \`${BASE}/views/by-region.md\`, use the [map](${BASE}/map), or query \`${BASE}/api/locations?near=Salt+Lake+City&radius_miles=35\`. Proximity results include only mapped public sites and coarse regional anchors, so also check the Region view.
+- **See what Utah has built:** [historical and current work](work.md) · \`${BASE}/views/work.md\`, optionally grouped [by era](by-era.md) · \`${BASE}/views/by-era.md\`.
+- **Investigate a claim:** find and open the subject page first, follow its Evidence links, then use the [evidence graph](evidence.md) · \`${BASE}/views/evidence.md\` to see every page that relies on each source.
+- **Search for something specific:** \`${BASE}/api/search?q=enhanced+geothermal\` is exact-phrase, full-text search. Make several narrow synonym probes (for example \`climate\`, \`energy\`, \`geothermal\`); it is not fuzzy or relevance-ranked.
+
+## Sectors
+
+Sector hubs separate primary players, historical proof, people, programs, current needs, and pages where the sector is secondary. Domain attribution currently covers ${attributed.length}/${pages.length} pages (${pct(attributed.length, pages.length)}%); an absent result may mean the rollout is incomplete, not that Utah has no work in that field.
+
+${domainViews.map((d) => `- [${domainLabel(d)}](domain-${d}.md) · \`${BASE}/views/domain-${d}.md\` — ${attributed.filter((p) => p.domains.includes(d)).length} attributed pages`).join('\n')}
+
+## Browse by another facet
+
+- [By kind of work](by-role.md) · \`${BASE}/views/by-role.md\` — ${roleGroups.length} populated role families derived only from pages with stated-needs assessments; use search and sector hubs for other plausible employers
+- [By Utah location](by-region.md) · \`${BASE}/views/by-region.md\` — ${regional.length}/${pages.length} pages carry Region metadata (${pct(regional.length, pages.length)}% coverage)
+- [By venture stage](by-stage.md) · \`${BASE}/views/by-stage.md\` — ${staged.length} pages; metadata assertions, not yet sourced
+- [By historical era](by-era.md) · \`${BASE}/views/by-era.md\` — ${dated.length} pages; metadata assertions, not yet sourced
+
+## Browse the complete corpus by type
+
+These lists provide exhaustive access by page type. Each line in a type view includes a short description and a full page URL.
 
 - [ventures](ventures.md) · \`${BASE}/views/ventures.md\` — ${count('venture')} companies, labs, initiatives (with needs inline)
 - [resources](resources.md) · \`${BASE}/views/resources.md\` — ${count('resource')} grants, accelerators, facilities, capital paths
@@ -285,15 +321,12 @@ All pages live flat at \`${BASE}/pages/{slug}.md\`; every view below is generate
 - [guides](guides.md) · \`${BASE}/views/guides.md\` — ${count('guide')} opinionated maps and playbooks
 - [sources](sources.md) · \`${BASE}/views/sources.md\` — ${count('source')} public evidence records
 
-## Derived
+## Trust, standards, and contribution
 
-- [needs](needs.md) · \`${BASE}/views/needs.md\` — every stated "what they need now," one line each: the hiring view
-- [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` — organizations grouped by the people they need
-- [by-region](by-region.md) · \`${BASE}/views/by-region.md\` — attributed pages by Utah location
-- [evidence](evidence.md) · \`${BASE}/views/evidence.md\` — every source and what rests on it, inverted from the Evidence sections; includes the sources nothing cites
-- [by-era](by-era.md) · \`${BASE}/views/by-era.md\` — ${dated.length} pages by when the work happened *(metadata assertion, not yet sourced)*
-- [by-stage](by-stage.md) · \`${BASE}/views/by-stage.md\` — ${staged.length} ventures by maturity and ownership *(metadata assertion, not yet sourced)*
-- Sector hubs (attribution rollout in progress): ${DOMAINS.filter((d) => fs.existsSync(path.join(VIEWS, `domain-${d}.md`))).map((d) => `[${d}](domain-${d}.md) \`${BASE}/views/domain-${d}.md\``).join(' · ')}
+- Page claims carry Confidence grades; use the [evidence graph](evidence.md) · \`${BASE}/views/evidence.md\` to see what rests on what and which sources nothing cites.
+- What qualifies as great work: ${BASE}/meta/charter.md · placement and page format: ${BASE}/meta/conventions.md · metadata registry: ${BASE}/meta/attributes.md
+- All pages live flat at \`${BASE}/pages/{slug}.md\`; every view here is generated from page metadata. Full URLs are repeated so restricted fetchers can follow them.
+- To report a gap or contribute a sourced page, follow the review-gated procedure in ${BASE}/llms.txt or open ${BASE}/contribute.
 `)
 
 if (CHECK) {

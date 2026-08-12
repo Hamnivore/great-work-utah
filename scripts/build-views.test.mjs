@@ -79,6 +79,21 @@ test('generates populated role views with useful lead context and navigation', (
     const index = fs.readFileSync(path.join(views, 'index.md'), 'utf8')
     assert.match(needs, /\[kind of work\]\(by-role\.md\).*https:\/\/greatutah\.work\/views\/by-role\.md/)
     assert.match(index, /\[by kind of work\]\(by-role\.md\)/)
+    assert.match(index, /router for 4 pages/)
+    assert.match(index, /Start by goal/)
+    assert.match(index, /api\/search\?q=enhanced\+geothermal/)
+    assert.match(index, /api\/locations\?near=Salt\+Lake\+City&radius_miles=35/)
+    assert.match(index, /Domain attribution currently covers 4\/4 pages \(100%\)/)
+    assert.match(index, /By Utah location.*1\/4 pages carry Region metadata \(25% coverage\)/)
+    assert.match(index, /Find Meaningful Work in Utah.*https:\/\/greatutah\.work\/pages\/find-meaningful-work\.md/)
+    assert.match(index, /Browse the complete corpus by type/)
+    assert.match(index, /metadata assertions, not yet sourced/)
+    assert.match(index, /review-gated procedure in https:\/\/greatutah\.work\/llms\.txt/)
+    assert.match(index, /Grow a Main Street or rural business without venture capital/)
+    assert.match(index, /leads derived from page assessments, not confirmed openings/)
+    for (const domain of ['energy', 'health-bio', 'aerospace-defense', 'computing', 'materials-mfg', 'space-science', 'capital-programs', 'culture-place']) {
+      assert.match(index, new RegExp(`https://greatutah\\.work/views/domain-${domain}\\.md`))
+    }
   } finally {
     fs.rmSync(wiki, { recursive: true, force: true })
   }

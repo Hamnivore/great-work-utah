@@ -37,7 +37,7 @@ const FOUNDER_TIER_TYPES = ["resource", "helper"];
 // The letter above D is a claim about what the page says it provides, so the section has to exist.
 const FOUNDER_TIER_NEEDS_PROVIDES = new Set(["S", "A", "B"]);
 const FOUNDER_PROVIDES_SECTIONS = ["What It Provides", "Who They Help"];
-// Whether the subject is still being done. Rubric in wiki/meta/activity.md. Same page set as Tier;
+// Whether the subject is still being done. Assigner rubric in research/activity/rubric.md. Same page set as Tier;
 // missing is not `unknown` — unknown means someone looked and failed.
 const ACTIVITY_VOCAB = ["active", "dormant", "concluded", "unknown"];
 const ACTIVITY_TYPES = TIER_TYPES;
@@ -641,7 +641,7 @@ async function lintPage(filename) {
     }
   }
 
-  // -- Activity (wiki/meta/activity.md). Not required: missing means unchecked, not unknown. --
+  // -- Activity (research/activity/rubric.md). Not required: missing means unchecked, not unknown. --
   const activityHeader = headers.get("Activity");
   if (activityHeader && activityHeader.value) {
     const raw = activityHeader.value.trim();
@@ -650,7 +650,7 @@ async function lintPage(filename) {
         "error",
         "invalid-activity",
         filePath,
-        `**Activity:** "${raw}" is outside the closed vocabulary (${ACTIVITY_VOCAB.join(" · ")}). See wiki/meta/activity.md.`,
+        `**Activity:** "${raw}" is outside the closed vocabulary (${ACTIVITY_VOCAB.join(" · ")}). See research/activity/rubric.md.`,
         activityHeader.line
       );
     } else {
@@ -670,7 +670,7 @@ async function lintPage(filename) {
             "error",
             "activity-without-signal",
             filePath,
-            `**Activity:** active requires **Activity-signal:** with a dated public URL. A website that merely loads is not one; see wiki/meta/activity.md.`,
+            `**Activity:** active requires **Activity-signal:** with a dated public URL. A website that merely loads is not one; see research/activity/rubric.md.`,
             activityHeader.line
           );
         }

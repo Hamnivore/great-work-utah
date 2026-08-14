@@ -74,13 +74,13 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   A Utah seed fund with a founder-oriented team and a long local network across SaaS, commerce, fintech, and healthtech. Directory-grade for most readers, worth a morning for a matching found…
 - **[RQM+](/pages/rqm-plus.md)** (active) · `https://greatutah.work/pages/rqm-plus.md`
   Medtech regulatory and quality expertise across 510(k), De Novo, PMA, IDE, EU MDR and IVDR, design controls, and QMS. For a device founder this is the difference between a submission and a …
-- **[SBA Thrive](/pages/sba-thrive.md)** · `https://greatutah.work/pages/sba-thrive.md`
+- **[SBA Thrive](/pages/sba-thrive.md)** (2023) · `https://greatutah.work/pages/sba-thrive.md`
   Free hybrid executive education for revenue-stage owner-operators: e-learning, live CEO masterminds, one-on-one coaching, and a three-year growth plan. Duplicates the Goldman program's shap…
 - **[SBA Utah District Office](/pages/sba-utah-district-office.md)** (active) · `https://greatutah.work/pages/sba-utah-district-office.md`
   The only route to federal small-business certifications — 8(a), HUBZone, WOSB — plus SBA loan-program routing and lender connections. The certifications are real assets and this is the door…
 - **[Signal Peak Ventures](/pages/signal-peak-ventures.md)** (active) · `https://greatutah.work/pages/signal-peak-ventures.md`
   An established Salt Lake City early-stage technology fund, now publicly branded Run Ventures on the same domain. Note the rebrand when searching.
-- **[Southern Utah University Cedar City Business & Innovation Center](/pages/southern-utah-university-cedar-city-business-and-innovation-center.md)** · `https://greatutah.work/pages/southern-utah-university-cedar-city-business-and-innovation-center.md`
+- **[Southern Utah University Cedar City Business & Innovation Center](/pages/southern-utah-university-cedar-city-business-and-innovation-center.md)** (2023) · `https://greatutah.work/pages/southern-utah-university-cedar-city-business-and-innovation-center.md`
   A single southern Utah door to SBDC counseling and APEX contracting help plus free 3D printing, a digital media studio, and laser engraving. Free tools plus free advising in one building is…
 - **[Startup Ignition Ventures](/pages/startup-ignition-ventures.md)** (active) · `https://greatutah.work/pages/startup-ignition-ventures.md`
   $100K-$1M pre-seed with an unusually usable intake: SIV Instant promises an initial response in 24 hours, plus validation tooling and mentor access. Publishing a real front door is what sep…
@@ -132,7 +132,7 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   One-on-one advisor sessions, the STRIVE program, an annual conference, and help getting listed as a verified veteran-owned business. The advising is the substance; the registry is not.
 - **[Weber State AI Hackathon](/pages/weber-state-ai-hackathon.md)** (active) · `https://greatutah.work/pages/weber-state-ai-hackathon.md`
   Two weeks of mentored remote build time, expert workshops, an in-person finale, meals, and an $1,800 prize pool, for a $10 ticket. The mentored runway before the deadline is the part that i…
-- **[Wildcat MicroFund](/pages/wildcat-microfund.md)** · `https://greatutah.work/pages/wildcat-microfund.md`
+- **[Wildcat MicroFund](/pages/wildcat-microfund.md)** (2024) · `https://greatutah.work/pages/wildcat-microfund.md`
   GetFUNDED cash awards up to $3,000, milestone-based, statewide, nondilutive, low friction. Small, but it is money and you can apply for it.
 - **[Wilson Sonsini Salt Lake City](/pages/wilson-sonsini-salt-lake-city.md)** (active) · `https://greatutah.work/pages/wilson-sonsini-salt-lake-city.md`
   The firm that does venture financings to national standard, with a Salt Lake City office. For a venture-scale or spinout founder expecting institutional money, that reduces a real risk at r…
@@ -247,15 +247,15 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   Culturally grounded training and mentorship plus microlending coordination and periodic grant or pitch opportunities through national partners. The lending coordination is what lifts it abo…
 - **[Park City Angels](/pages/park-city-angels.md)** (active) · `https://greatutah.work/pages/park-city-angels.md`
   85+ accredited members with a screening and diligence process and no application fee. A real pitch target, and an angel group is a possibility rather than a service.
-- **[Portal Warehousing](/pages/portal-warehousing.md)** · `https://greatutah.work/pages/portal-warehousing.md`
+- **[Portal Warehousing](/pages/portal-warehousing.md)** (2024) · `https://greatutah.work/pages/portal-warehousing.md`
   Flexible co-warehousing in Salt Lake City with loading docks, logistics equipment, private offices, and day, week, and month passes. Genuinely useful for CPG, and quote-based.
 - **[Preferred CFO](/pages/preferred-cfo.md)** (active) · `https://greatutah.work/pages/preferred-cfo.md`
   Fractional CFO leadership, forecasting and 13-week cash models, fundraising prep, and outsourced HR, with a complimentary initial assessment. Skews to revenue-stage clients.
 - **[R6 Regional Council](/pages/r6-regional-council.md)** (active) · `https://greatutah.work/pages/r6-regional-council.md`
   Regional planning, economic development, housing, and workforce programs across six central Utah counties, from Richfield.
-- **[Red Rock Angels](/pages/red-rock-angels.md)** · `https://greatutah.work/pages/red-rock-angels.md`
+- **[Red Rock Angels](/pages/red-rock-angels.md)** (2023) · `https://greatutah.work/pages/red-rock-angels.md`
   A southern Utah angel group with a pitch path — and published paid services at $195, $375, and $450 for pitch prep and mock pitches. Read the conflict in paying the group that will judge yo…
-- **[Renewable Tech Ventures](/pages/renewable-tech-ventures.md)** · `https://greatutah.work/pages/renewable-tech-ventures.md`
+- **[Renewable Tech Ventures](/pages/renewable-tech-ventures.md)** (2011) · `https://greatutah.work/pages/renewable-tech-ventures.md`
   Early-stage cleantech and energy venture capital with market intelligence and co-investor access. A thesis to read; no route in.
 - **[RevRoad](/pages/revroad.md)** · `https://greatutah.work/pages/revroad.md`
   A Provo venture-services firm pairing capital with operating support in strategy, software, marketing, and business development — with applications described as closed and no published term…
@@ -293,7 +293,7 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   A weekly retail channel at Vernon Worthen Park with a vendor application path and SNAP/DUFB redemption. It is revenue, but it is a booth you rent, and every market offers the same.
 - **[St. George City Economic Development](/pages/st-george-city-economic-development.md)** (active) · `https://greatutah.work/pages/st-george-city-economic-development.md`
   Municipal economic development tied to major city-led projects including Tech Ridge, plus licensing coordination through Community Development.
-- **[Startup Ogden](/pages/startup-ogden.md)** · `https://greatutah.work/pages/startup-ogden.md`
+- **[Startup Ogden](/pages/startup-ogden.md)** (2019) · `https://greatutah.work/pages/startup-ogden.md`
   Hot desks, dedicated desks, and conference rooms at Weber State Downtown through an Ogden City and Weber State partnership. Pricing lives inside the member portal.
 - **[Startup State Resource Filter](/pages/startup-state-resource-list.md)** (active) · `https://greatutah.work/pages/startup-state-resource-list.md`
   GOEO's official filter across topic, stage, community, industry, and location — the best single index of what exists in Utah, and the corpus most of this shelf was imported from. It hands y…
@@ -410,7 +410,7 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   Regional tourism marketing, an Adventure Guide listing, and summer event sponsorship, for $60 a year in Daggett County.
 - **[Grand County Economic Development](/pages/grand-county-economic-development.md)** (active) · `https://greatutah.work/pages/grand-county-economic-development.md`
   Economic development coordinated through county administration with no standalone department page — business licenses, bids, planning applications, and a staff contact.
-- **[Greater Nephi Chamber of Commerce](/pages/greater-nephi-chamber-of-commerce.md)** · `https://greatutah.work/pages/greater-nephi-chamber-of-commerce.md`
+- **[Greater Nephi Chamber of Commerce](/pages/greater-nephi-chamber-of-commerce.md)** (2025) · `https://greatutah.work/pages/greater-nephi-chamber-of-commerce.md`
   A directory, events, sponsorships, a Best in Business Gala, ribbon cuttings, and a request-for-quote tool reaching member businesses.
 - **[Heber City Community Alliance for Main Street](/pages/heber-city-community-alliance-for-main-street.md)** (active) · `https://greatutah.work/pages/heber-city-community-alliance-for-main-street.md`
   Volunteer downtown placemaking, public art, and event fundraising in Heber City, open to anyone 14 and up. Civic work, not founder work.
@@ -446,7 +446,7 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   Member resources and training, in-person and digital networking, advocacy, and Platinum, Gold, and Silver investor tiers for 1,000+ businesses.
 - **[University of Utah](/pages/university-of-utah.md)** (active) · `https://greatutah.work/pages/university-of-utah.md`
   A routing stub for the flagship research university and its specialized units. A founder needs the TLO, a lab, or a professor, not the university's front door.
-- **[University of Utah PIVOT Center](/pages/university-of-utah-pivot-center.md)** · `https://greatutah.work/pages/university-of-utah-pivot-center.md`
+- **[University of Utah PIVOT Center](/pages/university-of-utah-pivot-center.md)** (2023) · `https://greatutah.work/pages/university-of-utah-pivot-center.md`
   A redirect page for the Technology Licensing Office's former name, kept so a search for PIVOT lands somewhere. Genuinely useful as a signpost, and a signpost is a listing.
 - **[Utah Alliance for Economic Development](/pages/utah-alliance-for-economic-development.md)** (active) · `https://greatutah.work/pages/utah-alliance-for-economic-development.md`
   A membership organization for economic-development professionals with quarterly training meetings. Not a founder's first call and not a founder's second one.
@@ -454,7 +454,7 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   Chamber events, mentorship connections, and business resources, with a contact form for joining and no published dues.
 - **[Utah Association of Counties (UAC)](/pages/utah-association-of-counties-uac.md)** (active) · `https://greatutah.work/pages/utah-association-of-counties-uac.md`
   The association representing Utah's 29 county governments. Its own page tells founders to contact the county directly; a founder uses it as a directory hop.
-- **[Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md)** · `https://greatutah.work/pages/utah-digital-entertainment-network.md`
+- **[Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md)** (2020) · `https://greatutah.work/pages/utah-digital-entertainment-network.md`
   A volunteer-led trade community for film, games, and digital media with industry storytelling and an email address, and no structured service menu.
 - **[Utah Hispanic Chamber of Commerce](/pages/utah-hispanic-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/utah-hispanic-chamber-of-commerce.md`
   Advocacy, business guidance, a searchable member directory, events on Facebook and Eventbrite, and a scholarship link, since 1991.
@@ -476,7 +476,7 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   A searchable public registry of verified veteran-owned Utah businesses. Verification is real; the output is a listing.
 - **[Visit Utah](/pages/visit-utah.md)** (active) · `https://greatutah.work/pages/visit-utah.md`
   The state's consumer travel brand. Useful for understanding how Utah markets itself to visitors; it is a destination-marketing site, not a business resource.
-- **[Wasatch Women's Business Alliance](/pages/wasatch-women-s-business-alliance.md)** · `https://greatutah.work/pages/wasatch-women-s-business-alliance.md`
+- **[Wasatch Women's Business Alliance](/pages/wasatch-women-s-business-alliance.md)** (2024) · `https://greatutah.work/pages/wasatch-women-s-business-alliance.md`
   Recurring networking and mastermind meetings with elevator-pitch practice and referral sharing in Wasatch County, food at your own expense. A local peer circle.
 - **[Washington Area Chamber of Commerce](/pages/washington-area-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/washington-area-chamber-of-commerce.md`
   Business-community connection, tourism and shopping promotion, and a membership pathway in the Washington City submarket.
@@ -495,11 +495,11 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   A free interactive idea-generation tool listed in a state directory, with nothing verified beyond the listing.
 - **[Get Started: Business Idea Challenge](/pages/get-started-business-idea-challenge.md)** (active) · `https://greatutah.work/pages/get-started-business-idea-challenge.md`
   Still listed on Startup State, but milestone amounts, timelines, and application mechanics could not be verified from any readable live program page.
-- **[iMpact Utah](/pages/impact-utah.md)** · `https://greatutah.work/pages/impact-utah.md`
+- **[iMpact Utah](/pages/impact-utah.md)** (2025) · `https://greatutah.work/pages/impact-utah.md`
   Manufacturing consulting and training described only in a CSV import, with no official page, archive, or partner page confirming an active program model. Utah MEP is the verified path.
 - **[Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/morgan-chamber-of-commerce.md`
   Chamber-style support described in a state directory and confirmed nowhere on the current landing page. Confirm the organization still operates before recommending it.
-- **[Pitted Ventures](/pages/pitted-ventures.md)** · `https://greatutah.work/pages/pitted-ventures.md`
+- **[Pitted Ventures](/pages/pitted-ventures.md)** (2022) · `https://greatutah.work/pages/pitted-ventures.md`
   A Sandy growth-capital firm for consumer brands with affiliated logistics and channel services, all of it needing re-verification because the site is down.
 - **[Revolving Loan Fund Program (RLF) - R6](/pages/revolving-loan-fund-program-rlf-r6.md)** · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-r6.md`
   Gap financing for six central Utah counties whose current loan sizes and eligible uses could not be supported from the captured source. The money may be real; the terms are unknown.
@@ -513,7 +513,7 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
   Civic education and voter engagement, with no business mentorship, marketing, or funding documented — and no live site to check. Its own page says nobody, until someone confirms it operates.
 - **[Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md)** (active) · `https://greatutah.work/pages/utah-small-business-credit-initiative-usbci.md`
   A thin directory card for the program described properly on the other USBCI page. Not fully specified here; use that page's B rating and merge these.
-- **[Vision Iron County](/pages/vision-iron-county.md)** · `https://greatutah.work/pages/vision-iron-county.md`
+- **[Vision Iron County](/pages/vision-iron-county.md)** (2024) · `https://greatutah.work/pages/vision-iron-county.md`
   A Cedar City-area planning nonprofit whose Vision 2050 work is unconfirmed on a parked domain. Route Iron County founders to verified neighbors instead.
 
 ## Not founder resources (16)

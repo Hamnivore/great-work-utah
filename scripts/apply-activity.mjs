@@ -8,12 +8,12 @@
 //
 // What makes this one different from apply-tiers.mjs: the raters record *evidence* — a dated public
 // artifact — and the label is derived here from that date. So moving the thresholds in
-// wiki/meta/activity.md is a re-run of this script, not a re-run of 485 pages of research. Where the
+// research/activity/rubric.md is a re-run of this script, not a re-run of 485 pages of research. Where the
 // derived label and the rater's label disagree, the disagreement is reported and the rules in
 // `reconcile` decide, because a rater who found a dissolution filing knows something the calendar
 // does not.
 //
-// Dry run by default. `--write` edits pages. Rubric: wiki/meta/activity.md.
+// Dry run by default. `--write` edits pages. Rubric: research/activity/rubric.md.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -26,7 +26,7 @@ const BATCH_DIR = path.join(REPO_ROOT, "research", "activity", "batches");
 
 const VALUES = new Set(["active", "dormant", "concluded", "unknown"]);
 const ACTIVITY_TYPES = new Set(["venture", "person", "helper", "resource", "work"]);
-// Thresholds from wiki/meta/activity.md. Months, from the check date.
+// Thresholds from research/activity/rubric.md. Months, from the check date.
 const ACTIVE_MONTHS = 18;
 const DORMANT_MONTHS = 48;
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Mechanical pre-pass for the Activity facet (wiki/meta/activity.md).
+// Mechanical pre-pass for the Activity facet (research/activity/rubric.md).
 //
 // Activity asks whether the thing a page is about is still being done. That question is settled by
 // research, not by a script — but two cheap signals narrow it enormously before a rater spends a

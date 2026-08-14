@@ -1,7 +1,7 @@
 # Activity rollout — method, state, and how to resume
 
-**Working directory for the corpus-wide Activity pass. Generated artifacts; the normative rubric is
-[`wiki/meta/activity.md`](../../wiki/meta/activity.md).** This file is the ledger: if a session dies,
+**Working directory for the corpus-wide Activity pass. Generated artifacts; the assigner rubric is
+[`rubric.md`](rubric.md). The public explanation is [`wiki/meta/activity.md`](../../wiki/meta/activity.md).** This file is the ledger: if a session dies,
 read it and continue. Nothing here is required to build the site.
 
 ## What this is
@@ -52,7 +52,7 @@ way on purpose: if the run is cut off, the pages a reader actually opens are alr
 Last resumed **2026-08-13 19:05 MDT**. Second wave finished **2026-08-13 19:14**. All 23 batches
 reported. Do not re-rate.
 
-- [x] Rubric written (`wiki/meta/activity.md`); three keys registered in `wiki/meta/attributes.md`
+- [x] Rubric written (`research/activity/rubric.md`); public explanation in `wiki/meta/activity.md`; three keys registered in `wiki/meta/attributes.md`
 - [x] Mechanical probe written and run — 431/485 websites answer, 15 are 4xx/5xx, 5 unreachable, 34
       pages carry no `**Website:**` at all, and 52 live sites mention no year past 2024
 - [x] 485 pages split into 23 batches, gems first

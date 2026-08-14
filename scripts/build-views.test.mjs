@@ -131,7 +131,7 @@ test('tier list marks active pages inline and does not emit a second list', () =
   const wiki = fs.mkdtempSync(path.join(os.tmpdir(), 'great-work-activity-view-'))
   const pages = path.join(wiki, 'pages')
   fs.mkdirSync(pages)
-  const fact = (slug, title, activity) =>
+  const fact = (slug, title, activity, signal = '') =>
     fs.writeFileSync(path.join(pages, slug), `# ${title}
 
 **Type:** venture
@@ -140,7 +140,7 @@ test('tier list marks active pages inline and does not emit a second list', () =
 **Tier:** A
 **Activity:** ${activity}
 **Activity-checked:** 2026-08-13
-${activity === 'active' ? '**Activity-signal:** 2026-06-01 · https://example.com/filing\n' : ''}**Focus:** Useful work
+${signal ? `**Activity-signal:** ${signal} · https://example.com/record\n` : activity === 'active' ? '**Activity-signal:** 2026-06-01 · https://example.com/filing\n' : ''}**Focus:** Useful work
 
 ## Summary
 
@@ -148,6 +148,7 @@ ${title} does a thing.
 `)
   fact('live.md', 'Live Co', 'active')
   fact('done.md', 'Done Co', 'concluded')
+  fact('old.md', 'Old Co', 'concluded', '1869-05-10')
 
   try {
     execFileSync(process.execPath, [script], {
@@ -157,13 +158,16 @@ ${title} does a thing.
     const views = path.join(wiki, 'views')
     const tierList = fs.readFileSync(path.join(views, 'tier-list.md'), 'utf8')
     assert.match(tierList, /\*\*\[Live Co\]\(\/pages\/live\.md\)\*\* \(active\)/)
+    assert.match(tierList, /\*\*\[Old Co\]\(\/pages\/old\.md\)\*\* \(1869\)/)
     assert.match(tierList, /\*\*\[Done Co\]\(\/pages\/done\.md\)\*\* ·/)
     assert.doesNotMatch(tierList, /\[Done Co\][^\n]*\(active\)/)
+    assert.doesNotMatch(tierList, /\[Done Co\][^\n]*\(\d{4}\)/)
     assert.doesNotMatch(tierList, /the active list/)
     assert.equal(fs.existsSync(path.join(views, 'tier-list-active.md')), false)
     assert.match(fs.readFileSync(path.join(views, 'index.md'), 'utf8'), /marked \(active\)/)
     const ventures = fs.readFileSync(path.join(views, 'ventures.md'), 'utf8')
     assert.match(ventures, /\[Live Co\]\(\/pages\/live\.md\) \(active\)/)
+    assert.match(ventures, /\[Old Co\]\(\/pages\/old\.md\) \(1869\)/)
     assert.match(ventures, /\[Done Co\]\(\/pages\/done\.md\) ·/)
     assert.doesNotMatch(ventures, /\[Done Co\][^\n]*\(active\)/)
     assert.doesNotMatch(ventures, / · (?:dormant|concluded|activity unknown)/)

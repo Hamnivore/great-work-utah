@@ -13,7 +13,7 @@ still being done?*
 
 ## Read first (both, in full)
 
-1. `wiki/meta/activity.md` — the rubric. It defines the four values, what counts as a signal, and
+1. `research/activity/rubric.md` — the rubric. It defines the four values, what counts as a signal, and
    eight rulings that decide the hard cases. **Every judgment call you are about to make is already
    answered there.** If you find a case it does not decide, that is a finding: record it in your note
    with the prefix `RUBRIC-GAP:` and pick the closest value.

@@ -59,6 +59,7 @@ for (const f of fs.readdirSync(PAGES).sort()) {
     founderTier: meta(raw, 'Founder-tier'),
     activity: meta(raw, 'Activity'),
     activityChecked: meta(raw, 'Activity-checked'),
+    activitySignal: meta(raw, 'Activity-signal'),
     provides: rebasePageLinks(section(raw, 'What It Provides') || section(raw, 'Who They Help')),
     region: meta(raw, 'Region'),
     website: meta(raw, 'Website'),
@@ -105,11 +106,16 @@ const eraKey = (s) => {
   return y ? ERAS.find(([, f]) => f(y))[0] : 'undated'
 }
 
-// Activity is printed only when it *is* `active` (wiki/meta/activity.md). The mark sits next to
-// the name on every view, so an agent that fetched the type index instead of the tier list still
-// sees the same token. Unmarked means not currently being done (or not yet checked) — never the
-// inverse. The HTML twin may fade unmarked rows; that is a human-page affordance, not a second signal.
-const activityMark = (p) => (p.activity === 'active' ? ' (active)' : '')
+// Activity sits next to the name on every view. Live work is `(active)`. Everything else
+// shows the year of its last public record when we have one, so a scan can tell 1869 from
+// 2017 from "still happening." Unmarked means unchecked or we could not date it. The HTML
+// twin may fade those rows; that is a human-page affordance, not a second signal.
+const activityYear = (p) => ((p.activitySignal || '').match(/^(\d{4})/) || [])[1] || ''
+const activityMark = (p) => {
+  if (p.activity === 'active') return ' (active)'
+  const year = activityYear(p)
+  return year ? ` (${year})` : ''
+}
 
 // Tier leads the trust markers because it is the one a reader shortlists on; conf says how much to
 // believe the page behind it. Absent on source/guide pages, which take no tier.
@@ -307,21 +313,19 @@ const gems = tiered.filter((p) => ['S', 'A'].includes(tierBase(p)))
 // The ladder deliberately says nothing about *when*, which strands a reader looking for something to
 // join: twelve of the thirteen S pages are historical. `**Activity:**` (wiki/meta/activity.md) is the
 // other axis. It is a mark on this list, not a second list — "big and still happening" is one filter
-// over one ranking. Only `active` is printed: it is the answer that changes a plan, and marking the
-// other three values would put a token on every line.
+// over one ranking. Live work is `(active)`; everything else shows the year of its last public record.
 const activeTiered = tiered.filter((p) => p.activity === 'active')
 const activityChecked = tiered.filter((p) => p.activity)
 const tierEntry = (p) => {
   const bump = p.tier.endsWith('*') ? ' \\*' : ''
-  const mark = p.activity === 'active' ? ' (active)' : ''
-  return `- **[${p.title}](${p.url})**${mark} · \`${p.path}\`${bump}\n  ${p.summary.replace(/\s+/g, ' ').trim()}\n`
+  return `- **[${p.title}](${p.url})**${activityMark(p)} · \`${p.path}\`${bump}\n  ${p.summary.replace(/\s+/g, ' ').trim()}\n`
 }
 
 let tierList = `# The tier list
 
 Utah work ranked by how far it could move the world. ${gems.length} pages in S and A. [How this is ranked](../meta/tiers.md) · \`${BASE}/meta/tiers.md\`.
 
-**${activeTiered.length} of these ${tiered.length} pages are still being done today**, marked (active) next to the name. An unmarked line is historical, quiet, or unchecked — not a thing to join this year. What (active) means, and what evidence it needs, is in [activity.md](../meta/activity.md) · \`${BASE}/meta/activity.md\`.${activityChecked.length < tiered.length ? `\n\n${tiered.length - activityChecked.length} pages have not been checked yet and are unmarked.` : ''}
+**${activeTiered.length} of these ${tiered.length} pages are still being done today**, marked (active) next to the name. Everything else shows the year of its last public record, or nothing if we could not date it. [What (active) means](../meta/activity.md) · \`${BASE}/meta/activity.md\`.${activityChecked.length < tiered.length ? `\n\n${tiered.length - activityChecked.length} pages have not been checked yet and are unmarked.` : ''}
 
 `
 for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
@@ -418,7 +422,7 @@ This is the router for ${pages.length} pages about high-impact work in Utah. Pic
 
 ## Start by goal
 
-- **Read the best of it first:** [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` ranks all ${tiered.length} fact pages on one impact ladder. The ${gems.length} pages in **S** and **A** are the gems. Pages still being done are marked (active). The letter is how far a thing could move the world, not a vote that it's good — the top of the list includes weapons, surveillance, and mines.
+- **Read the best of it first:** [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` ranks all ${tiered.length} fact pages on one impact ladder. The ${gems.length} pages in **S** and **A** are the gems. Pages still being done are marked (active); others show the year of their last public record. The letter is how far a thing could move the world, not a vote that it's good — the top of the list includes weapons, surveillance, and mines.
 - **Find meaningful work:** [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` (${roleGroups.length} role families), then [all stated needs](needs.md) · \`${BASE}/views/needs.md\` (${needers.length} organizations) and [Find Meaningful Work in Utah](/pages/find-meaningful-work.md) · \`${BASE}/pages/find-meaningful-work.md\`. These are leads derived from page assessments, not confirmed openings; verify with the organization.
 - **Start or fund a high-growth company:** [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · \`${BASE}/pages/startup-capital-in-utah.md\` · [Find an Advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\`
 - **Grow a Main Street or rural business without venture capital:** [Find Business Services](/pages/find-business-services.md) · \`${BASE}/pages/find-business-services.md\` routes formation, lending, procurement, regulation, and workforce help; combine it with [resources](resources.md) · \`${BASE}/views/resources.md\` and [by Utah location](by-region.md) · \`${BASE}/views/by-region.md\`.

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2025-10-27 · https://www.utahbusiness.com/press-releases/2025/10/27/philo-ventures-launches-sandbox-fund-back-utah-next-generation-student-founders/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** AI collections, accounts receivable automation, agentic voice and text outreach, SMB service businesses, vertical SaaS
 **Roles:** software-engineering, sales-business-development, product-design
 **Stage:** Early-stage operating company; backed by Philo Ventures' Sandbox Fund; self-reported $1M ARR in June 2026

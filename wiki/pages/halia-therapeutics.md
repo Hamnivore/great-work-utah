@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-06-15 · https://www.prnewswire.com/news-releases/halia-therapeutics-receives-fda-fast-track-designation-for-ofirnoflast-ht-6184-in-lower-risk-myelodysplastic-syndromes-302800024.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** drug discovery, inflammation, inflammaging, NLRP3 inflammasome, clinical-stage biopharma, life sciences
 **Identifiers:** cik=0001829255, ein=82-2679083
 **Roles:** biology-life-sciences, physical-sciences, clinical-regulatory, program-project-management

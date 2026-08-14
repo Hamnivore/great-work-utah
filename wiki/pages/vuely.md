@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-04-16 · https://whattheythink.com/articles/129983-isa-sign-expo-showcased-next-gen-signage-technology/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** sign sales, site surveys, visual proposals, workflow software
 **Domain:** materials-mfg, computing
 **Primary Location:** Utah

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-05 · https://marketbrief.edweek.org/strategy-operations/imagine-learning-expands-into-world-languages-with-newest-acquisition/2026/08
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** K-12 digital curriculum, language and literacy, English learners, courseware, edtech
 **Identifiers:** cik=0001319242
 **Roles:** software-engineering, product-design, program-project-management, sales-business-development, people-operations

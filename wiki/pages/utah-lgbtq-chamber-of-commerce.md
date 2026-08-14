@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-25 · https://business.utahlgbtqchamber.org/ap/Events/Register/OOF6Mb6haCqCD
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide

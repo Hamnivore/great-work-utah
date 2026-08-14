@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-11 · https://www.financialcontent.com/article/bizwire-2026-8-11-owlet-announces-second-quarter-2026-financial-results
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** infant health monitoring, connected nursery, consumer medtech, wearables, FDA-regulated devices
 **Identifiers:** cik=0001719465
 **Roles:** software-engineering, clinical-regulatory, marketing-communications

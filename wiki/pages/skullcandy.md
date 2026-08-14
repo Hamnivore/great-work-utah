@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-07-15 · https://www.prnewswire.com/news-releases/new-skullcandy-crusher-1080-anc-redefines-consumer-audio-with-mind-bending-bass-and-breakthrough-sound-by-bose-technologies-302826777.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** consumer audio, headphones, earbuds, lifestyle brand, action sports
 **Identifiers:** cik=0001423542, ein=56-2362196
 **Roles:** hardware-engineering, manufacturing-operations, product-design, sales-business-development, marketing-communications

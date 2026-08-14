@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-07-17 · https://www.pik2ar.org/picc
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Domain:** capital-programs
 **Primary Location:** Salt Lake County, UT; Utah County, UT

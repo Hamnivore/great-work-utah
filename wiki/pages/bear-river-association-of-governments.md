@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-04-07 · https://www.utah.gov/pmn/files/1416251.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Logan, UT
 **Utah Location:** Box Elder County, UT; Cache County, UT; Rich County, UT

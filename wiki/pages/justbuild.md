@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-14 · https://aibuilderday.com/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** founder community, AI builders, cofounder discovery, hackathons, coworking, Slack
 **Primary Location:** Utah County, UT
 **Utah Location:** statewide

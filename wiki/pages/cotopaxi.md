@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-04-24 · https://sustonmagazine.com/cotopaxi-2025-impact-report-deadstock-poverty/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** outdoor gear, apparel, social enterprise, B Corp, philanthropy
 **Roles:** manufacturing-operations, product-design, sales-business-development, marketing-communications
 **Stage:** Established growth brand

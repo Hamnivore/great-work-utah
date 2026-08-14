@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-06-26 · https://www.midaut.org/news-2/mida-board-meeting-highlights-1
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** military land development, project-area governance, public infrastructure, economic development
 **Primary Location:** Utah
 **Utah Location:** statewide

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-07-01 · https://www.ubaog.org/community-development
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT

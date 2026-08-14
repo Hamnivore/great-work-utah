@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2025-02-12 · https://www.utahbusiness.com/workforce/2025/02/19/building-utah-talent-piplines-2025/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Other
 **Primary Location:** Cedar City, UT
 **Utah Location:** southwestern Utah (11 counties)

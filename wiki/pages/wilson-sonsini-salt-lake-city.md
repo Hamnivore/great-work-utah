@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-01-13 · https://www.wsgr.com/en/insights/john-pearce-former-associate-chief-justice-of-the-utah-supreme-court-rejoins-wilson-sonsini.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** startup counsel, venture financings, life sciences, medical devices, IP, corporate governance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2025-05-29 · https://www.techbuzznews.com/trace-aq-raises-1-25-million-seed/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** air quality forecasting, wildfire smoke, physics-based AI, atmospheric science, public health alerts
 **Roles:** software-engineering, data-science, physical-sciences, sales-business-development
 **Stage:** Seed ($1.25M, 2025; Rusheen Capital Management-led)

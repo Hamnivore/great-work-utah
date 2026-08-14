@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:** 2026-03-19 · https://fortemtech.com/press-releases/2026-03-19-lockheed-martin-selects-fortem-technologies-to-protect-critical-infrastructure-from-drones/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** defense, counter-drone, autonomous systems, air defense, critical infrastructure protection
 **Era:** 2018–present
 **Primary Location:** Lindon / Pleasant Grove, UT

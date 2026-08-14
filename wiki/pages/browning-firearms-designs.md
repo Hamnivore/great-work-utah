@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Activity-signal:** 1926 · https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** firearms design, mechanical engineering, defense history, Ogden manufacturing
 **Era:** 1878-1926
 **Primary Location:** Ogden, UT

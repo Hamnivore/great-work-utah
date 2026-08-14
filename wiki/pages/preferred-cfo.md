@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-02-12 · https://preferredcfo.com/insights/the-roi-curve-bookkeeper-controller-or-fractional-cfo
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** fractional CFO, outsourced finance, forecasting, cash-flow management, fundraising prep, outsourced HR
 **Domain:** capital-programs
 **Primary Location:** Salem, UT

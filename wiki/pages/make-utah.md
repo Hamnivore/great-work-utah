@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2025-06-24 · https://kutv.com/features/fresh-living/utahs-hardtech-future-takes-the-spotlight-at-public-innovation-showcase
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** hard-tech incubator, makerspace, prototype space, R&D workspace, manufacturing, founder community
 **Domain:** capital-programs
 **Primary Location:** Pleasant Grove, UT

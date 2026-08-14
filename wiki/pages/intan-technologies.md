@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-05-21 · https://intantech.com/downloads.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** neural recording, electrophysiology, integrated circuits, neuroscience infrastructure, brain-computer interfaces
 **Roles:** software-engineering, hardware-engineering
 **Stage:** Established private company; widely deployed research ICs

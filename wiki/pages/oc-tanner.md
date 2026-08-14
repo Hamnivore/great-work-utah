@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-09-10 · https://www.octanner.com/press/o-c-tanner-releases-2026-global-culture-report-offers-strategies-to-support-employees-during-hopelessness-epidemic
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** employee recognition, corporate culture, HR technology, workplace engagement
 **Roles:** software-engineering, manufacturing-operations, product-design, sales-business-development, people-operations
 **Stage:** Private; founded 1927; Salt Lake City HQ

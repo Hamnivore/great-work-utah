@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** S
+**Activity-signal:** 2026-07-15 · https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/0000863064-26-000035-index.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** mining, copper, mass-mining, industrial engineering, extractive industry
 **Era:** 1906–present
 **Primary Location:** Bingham Canyon (Copperton), UT

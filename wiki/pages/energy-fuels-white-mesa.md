@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-08 · https://www.stocktitan.net/sec-filings/UUUU/10-q-energy-fuels-inc-quarterly-earnings-report-b2408f58f1d7.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** uranium, rare earths, critical minerals, nuclear energy, vanadium, medical isotopes
 **Roles:** physical-sciences, manufacturing-operations, clinical-regulatory, marketing-communications, finance-accounting, legal-policy, program-project-management
 **Stage:** Public company / operating industrial asset

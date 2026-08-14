@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2006-04 · https://en.wikipedia.org/wiki/High_Resolution_Fly's_Eye_Cosmic_Ray_Detector
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** astroparticle physics, cosmic rays, observatories, desert science
 **Era:** 1981-2006; key results in 1991, 1995, and 2008
 **Primary Location:** Dugway Proving Ground, UT

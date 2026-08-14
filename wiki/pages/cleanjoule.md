@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2025-07-08 · https://finance.yahoo.com/news/cleanjoule-commissions-latest-industrial-manufacturing-135400484.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** sustainable aviation fuel, biofuels, rocket propellant, biomanufacturing, aerospace decarbonization
 **Roles:** physical-sciences, manufacturing-operations, sales-business-development
 **Stage:** Private, growth (backed by Indigo Partners, GenZero, Frontier Airlines, Wizz Airlines, Volaris)

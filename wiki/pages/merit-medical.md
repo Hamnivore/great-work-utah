@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-04-30 · https://www.sec.gov/Archives/edgar/data/856982/000085698226000025/mmsi-20260331x10q.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** interventional medical devices, catheters, manufacturing, FDA regulated, life sciences
 **Identifiers:** cik=0000856982, ein=87-0447695
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory, program-project-management

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2025-05-05 · https://www.sec.gov/Archives/edgar/data/1970081/000197008125000001/0001970081-25-000001-index.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Primary Location:** Draper, UT
 **Utah Location:** statewide

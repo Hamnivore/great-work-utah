@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2025-11-18 · https://projects.propublica.org/nonprofits/organizations/453203840
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

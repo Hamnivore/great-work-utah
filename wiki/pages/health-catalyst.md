@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-06 · https://www.stocktitan.net/sec-filings/HCAT/10-q-health-catalyst-inc-quarterly-earnings-report-1b35733f07dc.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** healthcare data analytics, population health, value-based care, clinical data integration
 **Identifiers:** cik=0001636422, ein=45-3337483
 **Roles:** data-science, product-design, sales-business-development, program-project-management

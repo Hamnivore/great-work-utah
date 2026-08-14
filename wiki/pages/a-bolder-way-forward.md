@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-10 · https://uwlp.usu.edu/abwf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Other
 **Primary Location:** Utah State University, Logan, UT
 **Utah Location:** statewide

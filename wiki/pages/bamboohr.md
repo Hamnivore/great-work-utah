@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-06-29 · https://markets.businessinsider.com/news/stocks/bamboohr-launches-contractor-management-the-latest-addition-to-its-global-employment-offering-1036284300
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** HR software, payroll, benefits, people operations, SMB SaaS
 **Roles:** software-engineering, clinical-regulatory, product-design, sales-business-development, people-operations
 **Stage:** Private growth company

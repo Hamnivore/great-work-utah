@@ -5,6 +5,8 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Rich County, UT
 **Utah Location:** Rich County, UT

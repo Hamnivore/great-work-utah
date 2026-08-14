@@ -4,7 +4,10 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
-**Founder-tier:** A
+**Founder-tier:** C
+**Activity-signal:** 2026-06 · https://pioneerinstitute.org/a-better-way-to-regulate-lessons-from-state-regulatory-sandboxes/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** regulatory sandbox, compliance, regulated markets, policy feedback
 **Primary Location:** Utah
 **Utah Location:** statewide

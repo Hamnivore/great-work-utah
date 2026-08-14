@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-03-31 · https://www.standard.net/news/2026/mar/31/hill-air-force-base-to-begin-season-of-large-detonation-operations-at-uttr/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** DoD test ranges, weapons evaluation, hypersonics, cruise missiles, space reentry, restricted airspace
 **Roles:** hardware-engineering, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Established, ongoing DoD operations

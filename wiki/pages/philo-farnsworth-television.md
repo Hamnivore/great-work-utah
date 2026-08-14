@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** S
+**Activity-signal:** 1971-03-11 · https://en.wikipedia.org/wiki/Philo_Farnsworth
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** invention, television, electronics, signal scanning, Utah-born inventors
 **Domain:** culture-place, computing
 **Era:** 1906-1971 (life); 1927 first electronic transmission

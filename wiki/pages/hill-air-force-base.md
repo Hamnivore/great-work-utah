@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-05-18 · https://www.hill.af.mil/News/Article-Display/Article/4494968/hill-afb-groundbreaking-building-the-foundation-for-the-t-7a-and-f-35-east-camp/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** depot maintenance, fighter jet sustainment, ICBM sustainment, flight test, defense engineering workforce, economic impact
 **Roles:** hardware-engineering, software-engineering, manufacturing-operations, field-skilled-trades, program-project-management, finance-accounting
 **Stage:** Established U.S. Air Force installation; continuous operation since 1940

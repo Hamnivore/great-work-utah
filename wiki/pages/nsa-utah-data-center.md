@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2025-02 · https://www.spk.usace.army.mil/Portals/12/documents/military/NSA_UDC_DraftEA_Feb2025.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** intelligence infrastructure, mass data storage, cybersecurity, cleared engineering, national security
 **Domain:** aerospace-defense
 **Roles:** software-engineering, data-science

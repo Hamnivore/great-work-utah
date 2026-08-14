@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-08-12 · https://cachechamber.com/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Cache County, UT
 **Utah Location:** Cache County, UT

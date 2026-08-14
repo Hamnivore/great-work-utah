@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2025-08-21 · https://www.intelligence360.news/wellth-raises-36m-in-oversubscribed-series-c-as-health-plans-embrace-daily-care-motivation/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Cottonwood Heights, UT

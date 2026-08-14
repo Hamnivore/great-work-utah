@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2025-05-21 · https://www.wbcutah.org/events
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-01-28 · https://swordhealth.com/newsroom/sword-acquires-kaia-health
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** digital health, musculoskeletal care, physical therapy, remote care, AI-powered rehabilitation
 **Roles:** software-engineering, data-science, clinical-regulatory, sales-business-development
 **Stage:** Private; Series D ($163M, 2022; valuation ~$2B); dual HQ Salt Lake City / Porto

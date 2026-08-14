@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C*
+**Activity-signal:** 2025-11-13 · https://www.yesco.com/life-on-state-2025-neon/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** electric signs, neon, custom signage, sign service, billboards, Las Vegas Strip signage, architectural lighting
 **Ownership:** founder-led private
 **Primary Location:** Salt Lake City, UT

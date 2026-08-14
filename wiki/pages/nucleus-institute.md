@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-08-12 · https://www.nucleusutah.org/aimoonshot
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** commercialization, talent matching, early-stage capital, research translation, Utah innovation
 **Identifiers:** ein=39-4773943
 **Primary Location:** Salt Lake City, UT

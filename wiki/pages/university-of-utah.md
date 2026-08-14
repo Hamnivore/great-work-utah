@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** F
+**Activity-signal:** 2026-08-13 · https://www.utah.edu/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** public higher education, research, academic health care, technology commercialization
 **Identifiers:** ein=87-6000525, ror=03r0ha626
 **Primary Location:** Salt Lake City, UT

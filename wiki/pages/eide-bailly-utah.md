@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-06-22 · https://www.colliers.com/en/news/salt-lake-city/eide-bailly
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

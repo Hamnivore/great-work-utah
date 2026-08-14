@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Activity-signal:** 1986-08-19 · https://utahrails.net/industries/eimco.html
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** mining equipment, mechanical engineering, underground mining, industrialization, Salt Lake City manufacturing
 **Domain:** materials-mfg
 **Era:** 1930s–1960s

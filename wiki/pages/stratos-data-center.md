@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-29 · https://www.sltrib.com/news/2026/07/29/oleary-box-elder-county-data/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** hyperscale data centers, energy infrastructure, advanced manufacturing
 **Era:** 2026-present
 **Primary Location:** Hansel Valley, Box Elder County, UT

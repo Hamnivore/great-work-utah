@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D*
 **Founder-tier:** D
+**Activity-signal:** 2026-04-23 · https://www.meetup.com/the-foundry-by-forge-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** developer community, meetups, hack nights, engineering leadership roundtables, conference, statewide event calendar
 **Domain:** computing, culture-place
 **Identifiers:** ein=84-3886600

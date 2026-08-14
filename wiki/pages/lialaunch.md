@@ -5,6 +5,8 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Utah

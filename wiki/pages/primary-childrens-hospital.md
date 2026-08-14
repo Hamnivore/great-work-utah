@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** n/a
+**Activity-signal:** 2026-04-27 · https://utahhospitals.org/2026/04/27/primary-childrens-hospital-in-lehi-is-expanding-heres-whats-coming-next/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** pediatric hospital care, complex illness and injury, pediatric education and research
 **Identifiers:** ror=053hkmn05
 **Primary Location:** Salt Lake City, UT

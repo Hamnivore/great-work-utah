@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-05 · https://film.utah.gov/production/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** film production, location services, tax incentives, crew base, visual storytelling, landscape
 **Roles:** manufacturing-operations, marketing-communications, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Ecosystem / cluster

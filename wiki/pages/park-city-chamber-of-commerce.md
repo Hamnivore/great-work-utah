@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-06-02 · https://www.parkrecord.com/2026/06/02/park-city-chamber-bureau-cites-early-end-to-ski-season-broader-headwinds-for-economic-softness/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Park City, UT

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** n/a
+**Activity-signal:** 2026-08-14 · https://www.ivumed.org/surgical-teaching-workshops
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** global surgery, urology training, teach-the-teacher, low-resource settings, pediatric urology
 **Identifiers:** ein=58-2263983, orcid=0000-0002-9828-3488
 **Primary Location:** Sandy, UT

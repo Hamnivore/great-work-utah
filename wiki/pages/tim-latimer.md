@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-08-12 · https://ir.fervoenergy.com/news-releases/news-release-details/fervo-energy-reports-second-quarter-2026-results
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** geothermal energy, enhanced geothermal systems, climate infrastructure, energy transition
 **Primary Location:** Houston, TX
 **Utah Location:** Beaver County, UT

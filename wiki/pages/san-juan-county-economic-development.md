@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-03-03 · https://mccmeetings.blob.core.usgovcloudapi.net/sanjuancut-pubu/MEET-Agenda-de8ac376fe5445078f72e51366df5dd7.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT

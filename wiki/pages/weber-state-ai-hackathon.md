@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2027-03-20 · https://hackathon.weber.edu/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** university AI hackathon, two-week remote build, skill-tiered prizes, employer job fair, Ogden
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT

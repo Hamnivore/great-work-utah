@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-08-13 · https://www.sec.gov/Archives/edgar/data/1853868/000162828026056457/frvo-20260630.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** geothermal energy, grid infrastructure, climate, drilling
 **Roles:** software-engineering, data-science, hardware-engineering, physical-sciences, manufacturing-operations, finance-accounting, legal-policy, program-project-management, field-skilled-trades
 **Stage:** Public (Nasdaq: FRVO) — IPO priced at $27.00/share, final prospectus filed 2026-05-14

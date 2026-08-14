@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-11-12 · https://projects.propublica.org/nonprofits/organizations/472329595
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** medical respite, end-of-life care, homelessness, hospice housing, Salt Lake City
 **Roles:** clinical-regulatory, program-project-management, field-skilled-trades, marketing-communications
 **Ownership:** nonprofit

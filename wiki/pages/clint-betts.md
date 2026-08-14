@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D*
+**Activity-signal:** 2026-06-21 · https://www.utahbusiness.com/forward-speakers/2026/06/21/clint-betts/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Utah journalism, technology-community organizing, publishing
 **Domain:** culture-place, capital-programs
 **Primary Location:** unknown

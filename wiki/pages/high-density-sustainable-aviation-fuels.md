@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:** 2026-05-17 · https://newatlas.com/aircraft/superfuel-increase-aircraft-missile-performance/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** sustainable aviation fuel, advanced propellants, aerospace, clean energy, defense
 **Era:** 2023–present
 **Primary Location:** Salt Lake City, UT

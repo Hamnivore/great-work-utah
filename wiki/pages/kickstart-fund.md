@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2026-05-18 · https://www.sponsorcx.com/the-sponsorship-industry-is-modernizingwith-ai-and-investors-are-backing-the-platforms-that-will-power-it/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Cottonwood Heights, UT

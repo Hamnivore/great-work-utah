@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-07-29 · https://manufacturingutah.com/utah-manufacturers-association-joins-statewide-roadshow-with-sba-and-47g-safety-awards-to-be-celebrated-at-annual-gala/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Identifiers:** ein=87-0187660
 **Primary Location:** Utah

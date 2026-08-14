@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-07-10 · https://web.sandbox.ing/fellowship
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** entrepreneurship education, venture building, university partnerships, software startups, for-credit practicum
 **Roles:** sales-business-development
 **Stage:** Expanding (founded 2020 at BYU; multi-campus rollout)

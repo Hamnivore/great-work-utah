@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:** 2026-04-23 · https://bioutah.org/calycia-bioscience-wins-peoples-choice-award-at-altitude-lab-demo-day-2026/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** macrophage cell therapy, glioblastoma, CNS oncology, solid tumors, immuno-oncology
 **Roles:** biology-life-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Preclinical; CALYM-001 at in vivo validation, pre-IND target

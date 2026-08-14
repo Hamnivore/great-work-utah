@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-02-03 · https://www.nucleusutah.org/newsroom/blog-post-title-two-dmp38
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** synthetic heparin, biomanufacturing, anticoagulants, supply chain resilience, university spinout
 **Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Early (STTR-funded)

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Activity-signal:** 1869-05-10 · https://www.nps.gov/gosp/index.htm
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** rail infrastructure, American West, logistics, national integration
 **Era:** 1863-1869 construction; completion on 1869-05-10
 **Primary Location:** Promontory Summit, UT

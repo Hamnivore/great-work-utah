@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-14 · https://www.insidehighered.com/news/governance/executive-leadership/2026/07/14/western-governors-u-president-state-online-ed
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** competency-based education, online degrees, nonprofit higher education, workforce credentials, teacher preparation, nursing, IT degrees
 **Roles:** program-project-management, software-engineering, people-operations
 **Ownership:** nonprofit

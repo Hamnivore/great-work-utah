@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-02-17 · https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/skyw-20251231x10k.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** regional airline, aviation, aircraft leasing, air transportation, commercial aviation
 **Identifiers:** cik=0000793733, ein=87-0292166
 **Roles:** manufacturing-operations, clinical-regulatory, field-skilled-trades

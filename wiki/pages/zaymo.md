@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-08-12 · https://zaymo.com
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** ecommerce, interactive email, embedded checkout, marketing software
 **Roles:** software-engineering, product-design, sales-business-development
 **Stage:** Active startup; Y Combinator W24; team of 13

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-07-23 · https://www.mx.com/news/worlds-top-fintech-companies-2026/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** open banking, financial data, account aggregation, fintech API platform
 **Roles:** software-engineering, data-science, clinical-regulatory, product-design
 **Stage:** Private; founded 2010 (as MoneyDesktop); Lehi HQ

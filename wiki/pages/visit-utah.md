@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** F
+**Activity-signal:** 2027 · https://www.visitutah.com/articles/museum-of-utah
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

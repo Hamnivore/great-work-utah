@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C*
+**Activity-signal:** 2011-05 · https://utahstories.com/2011/08/apa-sherpa-retires-summiting-mount-everest-21st-time/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** mountaineering, Everest, Sherpa guides, altitude records, retirement
 **Domain:** culture-place
 **Era:** first summit 1990; record-setting career through 2011; retired after 21st ascent May 2011

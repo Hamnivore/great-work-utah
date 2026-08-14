@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:** 2025-09-09 · https://www.clozd.com/blog/clozd-expanded-ai-platform-press-release
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** decision intelligence, customer feedback, win-loss analysis, qualitative research, enterprise software
 **Identifiers:** cik=0001843216, ein=86-1598285
 **Roles:** software-engineering, product-design, sales-business-development, program-project-management

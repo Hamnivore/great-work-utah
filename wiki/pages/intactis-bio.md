@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C*
+**Activity-signal:** 2026-07-21 · https://www.prnewswire.com/news-releases/play-a-video-game-against-a-dish-of-living-neurons-intactis-bio-launches-biostack-302831095.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** biological computing, hybrid biosilicon AI, neuromorphic compute, deep tech
 **Roles:** software-engineering, data-science
 **Stage:** Pre-seed; biocomputation alpha platform live (2025); $250K Nucleus Fund + $100K RPV

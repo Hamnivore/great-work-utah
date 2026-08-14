@@ -5,6 +5,8 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Activity-signal:** 2026-07-25 · https://feedback.getrotor.com/changelog
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** home-services CRM, recurring revenue, field-service software, sales automation, vertical SaaS
 **Roles:** software-engineering, program-project-management
 **Stage:** Early-stage private company; founded 2024

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-11-14 · https://utahasianchamber.org/21st-asian-chamber-scholarships-awards-gala/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

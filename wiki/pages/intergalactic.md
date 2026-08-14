@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-05-01 · https://ig.space/commslink/intergalactic-selected-to-supply-thermal-management-next-gen-jammer-navy/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** aerospace thermal management, spacecraft systems, environmental control, cleanroom manufacturing, flight hardware
 **Roles:** hardware-engineering, manufacturing-operations, software-engineering, product-design, sales-business-development
 **Primary Location:** St. George, UT

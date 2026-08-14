@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-09-17 · https://www.sba.gov/district/utah
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding, Late Stage Growth, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

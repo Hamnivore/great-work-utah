@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-08-05 · https://www.sec.gov/Archives/edgar/data/1601830/000160183026000098/rxrx-20260630.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** AI drug discovery, life sciences, computational biology
 **Identifiers:** cik=0001601830, ein=46-4099738
 **Roles:** software-engineering, data-science, biology-life-sciences, physical-sciences, clinical-regulatory

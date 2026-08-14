@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2025-12-01 · https://members.monticellocoworking.com/events
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities
 **Domain:** capital-programs
 **Primary Location:** Monticello, UT

@@ -5,6 +5,8 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** Other, Rural
 **Primary Location:** Davis County, UT
 **Utah Location:** Davis County, UT

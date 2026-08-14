@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-07-13 · https://www.nature.com/articles/s42003-026-10602-4
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** immuno-oncology, blood cancer, T-cell therapy, multi-antigen targeting, university spinout
 **Roles:** physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Preclinical (U2TAH-incubated; approximately $400K funding; animal studies ongoing)

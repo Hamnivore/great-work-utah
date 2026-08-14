@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-07-30 · https://www.globenewswire.com/news-release/2026/07/30/3335895/0/en/atavistik-bio-partners-with-cure-hht-clinical-trial-network-to-advance-development-of-atv-1601-for-hereditary-hemorrhagic-telangiectasia.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** allosteric drug discovery, oncology, precision medicine, structural biology, metabolite-protein interactions
 **Roles:** data-science, biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Private; clinical-stage; ~$299M raised ($120M Series B, December 2025; $40M extension, March 2026)

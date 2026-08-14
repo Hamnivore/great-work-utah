@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Activity-signal:** 1994-06-27 · https://www.deseret.com/1994/6/27/19117005/novell-wordperfect-tie-the-knot/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** software, word processing, Utah software history, Silicon Slopes origins
 **Stage:** Acquired (Novell 1994; Corel 1996; Corel still sells WordPerfect Office)
 **Primary Location:** Orem, UT

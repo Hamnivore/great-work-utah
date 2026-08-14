@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-10-25 · https://www.uvu.edu/woodbury/entrepreneurship/events/zinnstarter.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT

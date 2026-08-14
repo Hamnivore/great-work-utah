@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2026-07 · https://www.startupignition.com/pre-seed-fund-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT

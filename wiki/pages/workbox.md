@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-07-16 · https://allevents.in/salt-lake-city/workbox-salt-lake-city-mixer/100001989230473896
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities
 **Identifiers:** cik=0001912381, ein=87-4349362
 **Primary Location:** Salt Lake City, UT

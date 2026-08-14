@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-06-02 · https://www.bestofstate.org/gala
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** awards program, recognition, Utah organizations, self-nomination, evidence calibration
 **Domain:** culture-place
 **Primary Location:** Orem, UT

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** n/a
+**Activity-signal:** 2026-08-01 · https://www.utahgeekevents.com/events/kids-code-camp-2026/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** youth coding education, free technology classes, volunteer instruction
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

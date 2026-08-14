@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-03-10 · https://clinicaltrials.gov/study/NCT07574385
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** non-opioid pain, postoperative analgesia, extended-release drug delivery, bupivacaine formulation, opioid-sparing surgery
 **Identifiers:** cik=0002057423, ein=83-1317097
 **Roles:** data-science, clinical-regulatory, sales-business-development, program-project-management

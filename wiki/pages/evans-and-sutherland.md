@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2025-08-12 · https://www.thebridgechronicle.com/pune/pune-indias-first-digistar-2025-planetarium-abhinava-vidyalaya
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** computer graphics, flight simulation, real-time 3D, graphics hardware
 **Era:** 1968-present; peak graphics and simulation influence in the 1970s-1980s
 **Primary Location:** Salt Lake City, UT

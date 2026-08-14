@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-02-26 · https://www.deseret.com/utah/2026/02/26/utah-suicide-prevention-bill/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** peer suicide prevention, school mental health, gatekeeper training, Provo, Hope 4 Utah
 **Roles:** program-project-management, marketing-communications, people-operations
 **Stage:** Nonprofit program founded in Provo schools; national expansion self-reported since Timpview High pilot

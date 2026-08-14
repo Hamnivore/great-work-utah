@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-05-19 · https://www.techbuzznews.com/album-vc-welcomes-new-partners/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

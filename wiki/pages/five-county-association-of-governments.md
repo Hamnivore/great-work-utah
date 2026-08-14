@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-03-11 · https://www.utah.gov/pmn/sitemap/notice/1064093.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** Beaver, Garfield, Iron, Kane, and Washington counties, UT

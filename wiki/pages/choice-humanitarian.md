@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** n/a
+**Activity-signal:** 2026-07-28 · https://blog.choicehumanitarian.org/memo-from-the-board-of-directors-organizational-wind-down
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** international development, village-led poverty alleviation, rural expeditions, Utah nonprofit
 **Identifiers:** ein=74-2494806
 **Primary Location:** Draper, UT

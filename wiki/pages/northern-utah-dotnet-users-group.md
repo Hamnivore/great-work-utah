@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-13 · https://nunug.org/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** .NET software development, peer learning, technical meetups, AI-assisted development
 **Primary Location:** Layton, UT
 **Utah Location:** Layton, UT

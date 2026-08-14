@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-07-24 · https://www.utncoc.com/event-details/uniting-communities-powwow-2026
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Identifiers:** ein=88-2734309
 **Primary Location:** Salt Lake City, UT

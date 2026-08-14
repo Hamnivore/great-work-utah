@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-05-19 · https://www.prnewswire.com/news-releases/varda-space-industries-successfully-reenters-w-6-validating-autonomous-navigation-and-advanced-thermal-protection-systems-302775804.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** in-space manufacturing, microgravity pharmaceuticals, reentry capsules, space logistics
 **Roles:** software-engineering, manufacturing-operations, field-skilled-trades
 **Stage:** Private growth company (post-revenue; multiple orbital missions since 2023)

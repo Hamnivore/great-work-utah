@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2025-06-13 · https://startup.utah.gov/san-juan-chambers-revival-marks-a-turning-point-in-rural-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT

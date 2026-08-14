@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Activity-signal:** 2026-08-13 · https://jobs.ashbyhq.com/teiko/ba3aad89-67c5-4c1c-8af3-c927ef49b951
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** clinical-trial immune profiling, flow cytometry, blood preservation, bioinformatics
 **Identifiers:** cik=0001885101, ein=85-3245497
 **Domain:** health-bio, computing

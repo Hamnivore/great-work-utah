@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-05-06 · https://www.utah.gov/pmn/files/1429645.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County

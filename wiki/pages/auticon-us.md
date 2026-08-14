@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-04-02 · https://auticon.com/blog/the-edge-effect-auticon-impact-report-2025/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** IT consulting, neuroinclusion, autistic employment, software development, quality assurance, data services, Salesforce
 **Ownership:** private
 **Primary Location:** Sacramento, CA

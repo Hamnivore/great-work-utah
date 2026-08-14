@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026 · https://www.kirtonmcconkie.com/news/utah-business-recognizes-six-km-attorneys-as-2026-legal-elite/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** startup law, corporate formation, venture financing, M&A, securities, IP, general counsel
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

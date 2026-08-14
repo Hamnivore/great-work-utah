@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D*
 **Founder-tier:** D
+**Activity-signal:** 2026-08-14 · https://utahtechcalendar.com/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** technology leadership peer group, monthly breakfast, Chatham House Rules, Utah County
 **Primary Location:** American Fork, UT
 **Utah Location:** American Fork, UT

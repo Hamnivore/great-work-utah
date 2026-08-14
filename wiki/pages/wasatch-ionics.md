@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Activity-signal:** 2024-07-11 · https://www.sbir.gov/awards/209551
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** lithium-oxygen batteries, reserve batteries, chemical oxygen generation, Army obstacle systems, energy density
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations
 **Stage:** Early-stage company; SBIR Phase II (as of 2025)

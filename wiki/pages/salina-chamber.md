@@ -5,6 +5,9 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2026-06-16 · https://salinasun.online/135-years-of-compassion-springer-turner-funeral-home-recognized-by-chamber/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salina, UT
 **Utah Location:** Salina, UT

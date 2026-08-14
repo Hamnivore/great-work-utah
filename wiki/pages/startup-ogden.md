@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2019-11-27 · https://www.weber.edu/wsutoday/112719_economicdevelopmentgrant.html
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT

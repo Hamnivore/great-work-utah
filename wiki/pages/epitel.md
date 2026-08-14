@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-07-28 · https://www.utahbusiness.com/press-releases/2026/07/28/epitel-secures-26-million-series-b-expand-remote-wireless-eeg-monitoring/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monitoring
 **Roles:** software-engineering, data-science, hardware-engineering, clinical-regulatory, program-project-management
 **Stage:** Commercializing; FDA-cleared REMI system in clinical use

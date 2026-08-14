@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2025-07 · https://www.usu.edu/today/story/usu-uintah-basin-welcomes-daphne-blanchard-to-campus-faculty
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Vernal, UT
 **Utah Location:** Uinta Basin

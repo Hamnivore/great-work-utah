@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-03-21 · https://news.clearancejobs.com/2026/03/21/utah-states-space-dynamics-lab-secures-mda-414m-contract-boost/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** space systems, sensors, satellites, defense, student workforce
 **Roles:** software-engineering, hardware-engineering, product-design, program-project-management
 **Stage:** Established university-affiliated research center

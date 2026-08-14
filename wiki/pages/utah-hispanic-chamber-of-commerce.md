@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-08-20 · https://www.eventbrite.com/e/carnaval-de-barrio-2026-tickets-1992357534017
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Identifiers:** ein=87-0501979
 **Primary Location:** Utah

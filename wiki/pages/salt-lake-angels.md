@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-02-03 · https://www.utahmoneywatch.com/what-will-you-be-doing-one-week-from-today-to-celebrate-utahs-unique-tech-ecosystem/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

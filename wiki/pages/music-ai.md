@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-13 · https://apps.apple.com/us/app/moises-the-musicians-app/id1515796612
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** AI music tools, audio source separation, voice cloning, music generation, creative technology
 **Roles:** software-engineering, data-science, sales-business-development, legal-policy
 **Stage:** Series A ($40M, January 2025; Connect Ventures / CAA+NEA, Kickstart, Samsung Next, Pelion)

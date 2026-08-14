@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-08-06 · https://connect.udot.utah.gov/2026/08/06/hybrid-electric-aircraft-makes-historic-flight-across-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** electric aviation, battery propulsion, eVTOL, FAA certification, power electronics
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory
 **Stage:** Private; growth stage; $69M state incentive package

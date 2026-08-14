@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** n/a
+**Activity-signal:** 2026-08-21 · https://mountainheightsacademy.org/enrollment/enrollment-options/full-time
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** online charter school, open educational resources, Utah grades 7-12, digital learning
 **Identifiers:** ein=26-3417162
 **Primary Location:** West Jordan, UT

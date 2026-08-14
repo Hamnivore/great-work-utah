@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** D
+**Activity-signal:** 2026-05-05 · https://www.trade.gov/country-commercial-guides/eu-protecting-intellectual-property
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** International Trade
 **Primary Location:** Washington, DC
 **Utah Location:** no verified Utah presence

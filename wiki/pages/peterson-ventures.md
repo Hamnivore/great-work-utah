@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2026-01-16 · https://www.utahbusiness.com/press-releases/2026/01/16/salt-lake-city-startup-diversifi-announces-8-million-raise/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

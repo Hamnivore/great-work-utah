@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-09-02 · https://business.stgeorgechamber.com/events/details/september-new-member-showcase-sponsored-by-pmp-management-18651?calendarMonth=2026-09-01
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=87-0216499
 **Primary Location:** St. George, UT

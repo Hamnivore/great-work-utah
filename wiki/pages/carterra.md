@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-13 · https://carterra-bio.com/about/careers/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** surface plasmon resonance, microfluidics, monoclonal antibody characterization, high-throughput biosensors, biotherapeutics discovery
 **Identifiers:** cik=0001541582, ein=83-0413045
 **Roles:** biology-life-sciences, hardware-engineering, physical-sciences, software-engineering, sales-business-development

@@ -5,6 +5,9 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2022-03-31 · https://www.newswire.com/news/pitted-ventures-launches-fund-focused-on-consumer-brands-partners-with-21671634
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Sandy, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-04-02 · https://www.williams-int.com/cnc-ogden-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** small gas turbine engines, business jet propulsion, cruise missile propulsion, precision manufacturing, engine MRO
 **Roles:** hardware-engineering, software-engineering, manufacturing-operations
 **Stage:** Established; privately held since 1955; Ogden, UT site operating since 1978 and expanding

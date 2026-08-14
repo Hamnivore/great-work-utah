@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-08-13 · https://careers.ancestry.com/jobs/727e822d-228b-4905-9eea-165ab51e0563
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** genealogy, family history, consumer genomics, historical records, digitization
 **Roles:** software-engineering, data-science, biology-life-sciences, clinical-regulatory, product-design, legal-policy
 **Stage:** Established; privately held

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2024 · https://www.weber.edu/wsumagazine/spring-2024/wildcat-microfund.html
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Ogden, UT
 **Utah Location:** statewide

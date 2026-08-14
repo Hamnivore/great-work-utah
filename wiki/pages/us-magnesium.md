@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-01-28 · https://www.deseret.com/environment/2026/01/28/great-salt-lake-us-magnesium-purchase-water-rights/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** primary magnesium production, critical minerals, Great Salt Lake brine, aerospace and defense metals, industrial process engineering
 **Roles:** physical-sciences, manufacturing-operations, people-operations
 **Stage:** Established industrial producer (Chapter 11 filed September 2025; asset sale in progress)

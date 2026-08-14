@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-03-01 · https://www.sbir.gov/awards/219082
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** neural recording, neural stimulation, BCI, neuroscience instrumentation, ASIC, electrophysiology
 **Roles:** software-engineering, biology-life-sciences, hardware-engineering
 **Stage:** Private, operational since 2004; NIH HEAL-funded neuromodulation programs active

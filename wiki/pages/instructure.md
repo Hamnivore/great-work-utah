@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-08-07 · https://www.instructure.com/resources/blog/new-tools-elevate-teaching-learning-and-student-success-july-2026-product-updates
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** edtech, learning management systems, Canvas LMS, AI in education
 **Roles:** software-engineering, data-science, product-design
 **Stage:** Established (PE-backed, formerly public)

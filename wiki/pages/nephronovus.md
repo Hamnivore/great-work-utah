@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Activity-signal:** 2025-02-20 · https://bioutah.org/altitude-lab-demo-day/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** chronic kidney disease, renal fibrosis, drug discovery, computational biology, Altitude Lab alumni
 **Roles:** biology-life-sciences, physical-sciences, clinical-regulatory, legal-policy
 **Stage:** Extremely early; founded circa 2023; Altitude Lab alumni per public portfolio

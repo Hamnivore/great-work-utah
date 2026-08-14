@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2025-11-18 · https://symbiocelltech.com/news/2025/11/18/111625
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Type 1 diabetes, cell therapy, Neo-Islets, mesenchymal stem cells, islet transplantation, regenerative medicine
 **Identifiers:** cik=0001575304, ein=45-4903780
 **Roles:** biology-life-sciences, manufacturing-operations, clinical-regulatory, program-project-management

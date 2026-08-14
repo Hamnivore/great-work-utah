@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-01-17 · https://www.utahfarmersmarketnetwork.org/forum
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide

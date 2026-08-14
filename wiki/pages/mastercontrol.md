@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-07-07 · https://www.mpo-mag.com/breaking-news/mastercontrol-unveils-tool-to-improve-quality-decision-making/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** quality management software, manufacturing execution systems, life sciences compliance, GxP, regulated manufacturing, SaaS
 **Roles:** software-engineering, product-design, program-project-management, clinical-regulatory
 **Stage:** Established, privately held; $150M Series A growth investment from Sixth Street Growth (2022) at a reported $1.3B valuation

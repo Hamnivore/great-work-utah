@@ -4,7 +4,10 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
-**Founder-tier:** B
+**Founder-tier:** C
+**Activity-signal:** 2026-08-14 · https://technologylicensing.utah.edu/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** invention disclosure, university IP licensing, faculty startups, research commercialization, technology transfer
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

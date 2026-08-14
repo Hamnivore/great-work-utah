@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Activity-signal:** 2026-05-04 · https://airpronews.com/2026/05/07/cyclokinetics-launches-high-energy-aerospace-propellants-in-2026/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** aerospace and defense propellants, missile fuel, rocket propellant, advanced fuels
 **Stage:** Private, venture-backed (amount and date not publicly disclosed)
 **Primary Location:** Salt Lake City, UT

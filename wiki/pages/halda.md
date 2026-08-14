@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-04 · https://www.halda.ai/post/release-radar-april-2026
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** AI enrollment platform, higher education, K-12 recruitment, student engagement, omnichannel communications, edtech
 **Roles:** sales-business-development, program-project-management
 **Stage:** Private growth company; founded 2021

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Activity-signal:** 2007 · https://www.nobelprize.org/prizes/medicine/2007/press-release/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** gene targeting, knockout mice, biomedical research, genetics
 **Era:** 1973-present; core breakthrough in the 1980s; Nobel Prize in 2007
 **Primary Location:** University of Utah, Salt Lake City, UT

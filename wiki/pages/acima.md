@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:** 2026-07-30 · https://www.stocktitan.net/news/UPBD/upbound-group-inc-reports-second-quarter-2026-4r048m3xvd5o.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** lease-to-own financing, retail payments, consumer financial technology
 **Domain:** capital-programs, computing
 **Roles:** data-science, software-engineering, finance-accounting

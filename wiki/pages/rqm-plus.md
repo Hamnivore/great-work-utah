@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-03-12 · https://www.rqmplus.com/about-us/news-events/news/rqm-launches-smart-solutions-life-cycle-partnership-model/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** medical devices, diagnostics, regulatory affairs, quality systems, clinical trials, reimbursement, medtech startups
 **Domain:** health-bio
 **Primary Location:** unknown

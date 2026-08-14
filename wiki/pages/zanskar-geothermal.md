@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-07-29 · https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** geothermal exploration, AI for earth sciences, climate, firm clean power
 **Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, program-project-management
 **Stage:** Series B (Salt Lake City, UT)

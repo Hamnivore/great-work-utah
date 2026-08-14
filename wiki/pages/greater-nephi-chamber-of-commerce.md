@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2025-01-14 · https://www.nephi.utah.gov/AgendaCenter/ViewFile/Minutes/_01142025-360/
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=87-3501712
 **Primary Location:** Nephi, UT

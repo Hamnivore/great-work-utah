@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-06-14 · https://www.kuer.org/health/2026-06-14/intensity-is-the-core-of-the-other-side-academys-process-its-not-for-everyone
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** therapeutic community, addiction recovery, reentry, peer-led rehabilitation, social enterprise, Delancey Street model
 **Roles:** field-skilled-trades, program-project-management, people-operations
 **Primary Location:** Salt Lake City, UT

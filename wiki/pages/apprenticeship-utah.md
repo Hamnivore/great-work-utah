@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2026-04-29 · https://jobs.utah.gov/department/press/2026/042926.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

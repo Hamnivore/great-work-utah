@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-05 · https://www.globenewswire.com/news-release/2026/08/05/3339716/26372/en/ormat-technologies-reports-second-quarter-2026-financial-results.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** geothermal energy, geothermal plant operations, binary-cycle equipment manufacturing, grid infrastructure
 **Identifiers:** cik=0001296445, ein=88-0326081
 **Roles:** hardware-engineering, field-skilled-trades, physical-sciences, manufacturing-operations, sales-business-development, legal-policy

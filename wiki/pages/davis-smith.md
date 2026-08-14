@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-07-09 · https://startupdadpod.substack.com/p/cotopaxi-founder-i-walked-away-to-follow-my-values-davis-smith-founder-ceo-cotopaxi
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** consumer brand, impact entrepreneurship, Latin America, outdoor industry, poverty alleviation
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

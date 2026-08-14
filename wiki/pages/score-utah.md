@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-07-28 · https://www.score.org/ut/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Close or Exit a Business, Funding, Marketing and Sales
 **Primary Location:** unknown
 **Utah Location:** statewide

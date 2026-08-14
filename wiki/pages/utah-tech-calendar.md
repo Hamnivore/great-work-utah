@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08 · https://utahtechcalendar.com/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** statewide tech event aggregation, automated schema.org ingestion, nightly refresh, no-signup index
 **Primary Location:** Cottonwood Heights, UT
 **Utah Location:** Cottonwood Heights, UT

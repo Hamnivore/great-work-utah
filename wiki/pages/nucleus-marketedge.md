@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-08-31 · https://www.nucleusutah.org/marketedge
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** research commercialization, professors, PhDs, postdocs, market discovery
 **Domain:** capital-programs, computing
 **Primary Location:** Salt Lake City, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-06 · https://www.palladyneai.com/press-releases/q2-2026-results-revenue-jumps-470-palladyne-ai/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** robotics, industrial automation, defense, exoskeletons, teleoperation
 **Roles:** software-engineering, sales-business-development, program-project-management
 **Stage:** Public (previously NASDAQ: ROBO before delisting; acquired by Paladin Capital 2024); founded 1983

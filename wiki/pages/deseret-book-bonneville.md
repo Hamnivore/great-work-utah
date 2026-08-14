@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-08-13 · https://jobs.ksl.com/listing/1036625
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** religious publishing, broadcasting, faith media, LDS Church, radio, television, journalism
 **Roles:** software-engineering, product-design, marketing-communications
 **Stage:** Established (Deseret Book founded 1866; Bonneville founded 1964)

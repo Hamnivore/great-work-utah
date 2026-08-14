@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-07-11 · https://ionicmt.com/press/ionic-mineral-technologies-closes-oversubscribed-29-million-series-b-to-scale-u-s-production-of-advanced-battery-materials
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** battery anode materials, nano-silicon, halloysite clay, critical minerals, EV battery supply chain
 **Roles:** physical-sciences, manufacturing-operations, sales-business-development
 **Stage:** Private; Series B ($29M, oversubscribed, July 2025)

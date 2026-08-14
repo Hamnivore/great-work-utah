@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Activity-signal:** 2026-08-13 · https://www.subcontractorhub.com/careers/senior-ai-engineer
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** contractor operations, solar software, roofing software, artificial intelligence
 **Domain:** computing, energy
 **Roles:** software-engineering, data-science

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08 · https://downtownfarmerstg.com/pages/event-faqs
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Late Stage Growth, Other
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

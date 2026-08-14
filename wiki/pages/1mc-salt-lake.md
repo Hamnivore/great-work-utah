@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** F
+**Activity-signal:** 2026-08-05 · https://www.1millioncups.com/s/account/0014W00002AsUBRQA3/salt-lake-city-ut
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

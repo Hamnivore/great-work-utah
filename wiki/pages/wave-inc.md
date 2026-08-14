@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-07-15 · https://www.einpresswire.com/article/926662611/wave-charging-and-ports-america-deploy-high-power-wireless-charging-system-at-the-port-of-los-angeles
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** wireless charging, fleet electrification, inductive power transfer, transit, logistics
 **Roles:** software-engineering, hardware-engineering, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Commercial; operational — transit, port, and logistics deployments

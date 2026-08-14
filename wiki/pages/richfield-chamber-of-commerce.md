@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-07-13 · https://www.richfieldreaper.com/news/2026/07/13/richfield-area-chamber-of-commerce-holds-july-luncheon/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=87-0274378
 **Domain:** capital-programs

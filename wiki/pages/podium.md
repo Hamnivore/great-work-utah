@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-12-15 · https://www.prnewswire.com/news-releases/openai-case-study-validates-podiums-ai-impact-as-company-launches-jerry-2-0-for-automotive-hvac-and-medspa-302640582.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** customer communication, SaaS, local business software, SMS, reviews, payments
 **Roles:** software-engineering, product-design, sales-business-development, program-project-management
 **Stage:** Private growth company; unicorn as of 2019 (~$1.5B valuation); Lehi HQ

@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2025-10-09 · https://www.einpresswire.com/article/856843117/high-road-peo-and-helpside-joining-forces-to-deliver-enhanced-hr-solutions-to-idaho-small-businesses
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** small-business infrastructure, payroll, benefits, human resources, professional employer organization
 **Roles:** sales-business-development, product-design, finance-accounting, program-project-management
 **Stage:** Established operating company; 35+ years; 800+ client businesses

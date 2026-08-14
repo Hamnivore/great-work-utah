@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-04 · https://www.stgeorgeutah.com/news/as-washington-city-inland-port-project-forges-ahead-school-district-voices-funding-concerns/article_b952afd8-3ea2-405b-9c8c-35bf86153dac.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Washington, UT
 **Utah Location:** Washington, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-07-31 · https://www.sundance.org/blogs/reflecting-on-the-2026-summer-season-of-our-sundance-institute-labs
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** independent film, immersive storytelling, artist development, film festivals, nonprofit arts
 **Identifiers:** ein=87-0361394, ror=02apk8p19
 **Roles:** marketing-communications

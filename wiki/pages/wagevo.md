@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Activity-signal:** 2026-06-13 · https://apps.apple.com/us/app/wagevo/id6754396970
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** earned wage access, payroll integration, employee financial wellness, hourly workers, fintech
 **Roles:** sales-business-development
 **Primary Location:** Provo, UT

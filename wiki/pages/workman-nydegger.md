@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-05-28 · https://www.wnlaw.com/news/workman-nydegger-recognized-in-the-iam-patent-1000-2026-edition/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

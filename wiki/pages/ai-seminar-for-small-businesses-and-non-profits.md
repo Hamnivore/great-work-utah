@@ -5,6 +5,8 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** Other, Any, Aerospace and Defense, Agriculture
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

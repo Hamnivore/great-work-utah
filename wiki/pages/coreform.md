@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-12-11 · https://coreform.com/news/coreform-cubit-releases-2025-12-with-pyside6-integration-and-new-toolbars/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** engineering simulation, isogeometric analysis, CAD, finite element analysis, CAE
 **Roles:** software-engineering, data-science, physical-sciences
 **Stage:** Private; operational; DOE SBIR Phase II recipient

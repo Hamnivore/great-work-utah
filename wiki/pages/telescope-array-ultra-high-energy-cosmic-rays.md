@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-05-19 · https://arxiv.org/abs/2605.19553
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** astroparticle physics, ultra-high-energy cosmic rays, scientific observatory, basic research infrastructure
 **Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, program-project-management
 **Stage:** Established international collaboration; operating since 2008

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-03-19 · https://www.basinnow.com/2026-rise-and-thrive-business-speed-pitch-winners/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Uintah County, UT
 **Utah Location:** Uintah County, UT

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** F
+**Activity-signal:** 2020-12 · https://www.taxexemptworld.com/organization.asp?tn=2530545
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
 **Identifiers:** ein=81-1653005
 **Primary Location:** Utah

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-02-25 · https://www.lvt.com/press/lvt-releases-license-plate-recognition-powered-by-insight-lpr
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** physical security, mobile surveillance, AI video analytics, public safety, hardware-plus-subscription
 **Roles:** software-engineering, manufacturing-operations, sales-business-development, legal-policy
 **Stage:** Private growth company (~$135M secured in 2022 across equity and debt)

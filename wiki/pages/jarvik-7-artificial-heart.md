@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** S
+**Activity-signal:** 1982-12-02 · https://medicine.utah.edu/sites/g/files/zrelqx356/files/migration/media/first-artificial-heart-anderson.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** medical device, artificial organs, cardiovascular surgery, clinical first, mechanical circulatory support
 **Domain:** health-bio
 **Era:** 1967–1990 (development); December 2, 1982 (landmark implant)

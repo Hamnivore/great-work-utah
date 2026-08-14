@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-08-05 · https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT

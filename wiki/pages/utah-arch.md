@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-04-03 · https://www.asplos-conference.org/asplos2025/program.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** hardware architecture, ML accelerators, fully homomorphic encryption, privacy-preserving ML, 3D nanofabric, computer architecture
 **Roles:** software-engineering, data-science, hardware-engineering
 **Stage:** University research group; NSF and DARPA funded

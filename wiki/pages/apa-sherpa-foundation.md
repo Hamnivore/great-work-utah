@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** n/a
+**Activity-signal:** 2026-03-11 · https://projects.propublica.org/nonprofits/organizations/272198169
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Nepal education, Khumbu region, Sherpa community development, 501(c)(3) philanthropy
 **Identifiers:** ein=27-2198169
 **Primary Location:** Lehi, UT

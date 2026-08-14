@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-01-29 · https://newsletter.siliconslopes.com/p/this-week-at-silicon-slopes-news-from-utah-s-community-businesses-and-events-a39f
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Lehi, UT
 **Utah Location:** statewide

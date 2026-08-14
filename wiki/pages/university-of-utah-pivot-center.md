@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** F
+**Activity-signal:** 2023-10-31 · https://attheu.utah.edu/announcements/welcome-to-the-technology-licensing-office/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** technology transfer, former name, redirect
 **Domain:** capital-programs, health-bio
 **Primary Location:** Salt Lake City, UT

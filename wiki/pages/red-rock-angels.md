@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2023-02-19 · https://www.techbuzznews.com/red-rock-angels-fills-investment-void-in-southern-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** St. George, UT

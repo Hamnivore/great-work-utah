@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-03-17 · https://healthcare.utah.edu/huntsmancancerinstitute/podcast/cancer-free-frontier/all/2026/03/episode-15-harmony-of-cancer-research-and-cancer-care
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** cancer research, NCI comprehensive cancer center, hereditary cancer genetics, clinical trials, translational medicine, life sciences
 **Identifiers:** ror=03v7tx966
 **Roles:** data-science, biology-life-sciences, clinical-regulatory, legal-policy, program-project-management

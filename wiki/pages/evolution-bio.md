@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:**  · unknown
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell screening
 **Roles:** biology-life-sciences, sales-business-development, legal-policy
 **Stage:** Early; founded 2022, backed by Nucleus Fund, University of Utah, and Altitude Lab; listed as an Altitude Lab alumnus rather than a current resident

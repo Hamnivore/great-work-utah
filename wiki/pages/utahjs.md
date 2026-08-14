@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-09-18 · https://utahjs.com/conference
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** JavaScript development, technical meetups, volunteer developer community, annual conference
 **Primary Location:** Utah
 **Utah Location:** Lehi, UT; Salt Lake City, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Activity-signal:** 2026-08-10 · https://ir.nuskin.com/news-releases/news-release-details/nu-skin-enterprises-reports-second-quarter-results-1
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** personal care, nutritional supplements, beauty devices, direct selling, contract manufacturing
 **Stage:** Established; public (NYSE: NUS), contracting
 **Ownership:** public

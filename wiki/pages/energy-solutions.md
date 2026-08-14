@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-08-07 · https://www.federalregister.gov/documents/2026/08/07/2026-16115/energy-solutions-llc-application-for-class-a-low-level-radioactive-waste-import-license
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** nuclear waste management, radioactive waste disposal, decommissioning, environmental services
 **Roles:** physical-sciences, manufacturing-operations, clinical-regulatory
 **Stage:** Private; established; only commercial low-level radioactive waste site in the western US

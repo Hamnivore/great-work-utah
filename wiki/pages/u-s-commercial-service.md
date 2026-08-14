@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-05-04 · https://www.ncmbc.us/event/us-commercial-service-export-week/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** International Trade
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

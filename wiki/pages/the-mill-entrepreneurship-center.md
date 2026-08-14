@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** D
+**Activity-signal:** 2026-08-18 · https://themillatslcc.com/events-calendar/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT

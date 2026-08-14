@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-23 · https://www.deseret.com/environment/2026/07/23/rodatherm-fulcrum-point-holdings-geothermal-plant-brigham-city-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** geothermal energy, closed-loop systems, hot sedimentary basins, clean power, energy project development
 **Roles:** hardware-engineering, physical-sciences, program-project-management, field-skilled-trades
 **Stage:** Series A; $38M (oversubscribed); pilot underway in Utah

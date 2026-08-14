@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-04 · https://www.basf.com/global/en/media/news-releases/2026/04/p-26-066
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** collagen hybridizing peptides, diagnostics, drug delivery, histopathology, collagen damage
 **Identifiers:** cik=0002001622, ein=47-3181487
 **Roles:** biology-life-sciences, physical-sciences, manufacturing-operations, clinical-regulatory, sales-business-development

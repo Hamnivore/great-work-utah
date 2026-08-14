@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-05-07 · https://api.fda.gov/device/pma.json?search=pma_number:P850064&limit=5&sort=decision_date:desc
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** high-frequency jet ventilation, neonatal intensive care, Life Pulse ventilator, pulmonary interstitial emphysema, respiratory distress syndrome
 **Roles:** manufacturing-operations, hardware-engineering, clinical-regulatory
 **Stage:** Established private medical-device manufacturer; employee-owned by the company's account

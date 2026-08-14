@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-07 · https://libn.com/2026/08/07/crumbl-store-holbrook-shops-at-sunvet/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** cookies, dessert franchise, weekly rotating menu, food tech, franchise systems
 **Stage:** Private franchise system; founded 2017 in Logan, UT per company site; franchisor Crumbl Franchising, LLC
 **Primary Location:** Lindon, UT

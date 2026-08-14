@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-01-04 · https://www.sec.gov/Archives/edgar/data/856982/000085698226000002/mmsi-20260104x8k.htm
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** medical devices, interventional cardiology, manufacturing, founder-operator, public company leadership
 **Primary Location:** South Jordan, UT
 **Utah Location:** South Jordan, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-04-23 · https://www.manilatimes.net/2026/04/23/tmt-newswire/globenewswire/schoolai-earns-essa-tier-3-certification-backed-by-research-showing-28-critical-thinking-gain/2326974
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** AI in education, personalized learning, K-12 edtech, teacher tools, classroom AI safety
 **Roles:** software-engineering, data-science, program-project-management
 **Stage:** Venture-backed

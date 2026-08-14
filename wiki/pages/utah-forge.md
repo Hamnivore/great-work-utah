@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-02-09 · https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Leggett1.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** enhanced geothermal systems, field laboratories, clean firm power, subsurface engineering
 **Era:** 2014-present
 **Primary Location:** Milford, UT

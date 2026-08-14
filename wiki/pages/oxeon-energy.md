@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-06-16 · https://www.utahbusiness.com/awards-and-rankings/2026/06/16/executive-excellence-2026-utah-business-jessica-elwell/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** solid oxide electrolysis, hydrogen production, green fuels, space technology, electrochemistry
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations, sales-business-development
 **Stage:** Private; DOE-funded ($36M+ in federal grants); operational

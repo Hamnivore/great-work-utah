@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Activity-signal:** 2026-01-29 · https://news.northropgrumman.com/launch/northrop-grummans-smart-demo-tests-second-advanced-solid-rocket-motor-and-achieves-successful-firing-in-two-months
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** solid rocket motors, aerospace manufacturing, launch systems, defense industrial base
 **Era:** 1956-present
 **Primary Location:** Promontory and Brigham City, UT

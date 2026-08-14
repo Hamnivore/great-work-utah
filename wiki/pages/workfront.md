@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-13 · https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q4/26-q4-release-overview
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** enterprise work management, marketing operations, project management, Adobe Experience Cloud
 **Roles:** program-project-management
 **Domain:** computing

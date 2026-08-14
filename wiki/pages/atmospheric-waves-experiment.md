@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-05-21 · https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** space instrumentation, upper atmosphere, atmospheric physics, Space Dynamics Laboratory, NASA
 **Era:** 2023–present
 **Primary Location:** International Space Station

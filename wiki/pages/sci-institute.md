@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-23 · https://sci.utah.edu/news-from-the-institute/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** scientific computing, scientific visualization, biomedical computing, open-source research software
 **Roles:** software-engineering, data-science
 **Stage:** University research institute (founded 1992; permanent institute later)

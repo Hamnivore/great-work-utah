@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-05-07 · https://www.pluralsight.com/newsroom/press-releases/pluralsight-launches-cloud-ready-to-help-enterprises-build-ai-re
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** edtech, skills training, workforce upskilling, AI learning, enterprise L&D
 **Roles:** sales-business-development
 **Stage:** Established (PE-owned)

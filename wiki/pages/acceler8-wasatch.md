@@ -5,6 +5,9 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2025-05-08 · https://www.ogdencity.gov/DocumentCenter/View/33983/2025-Final-Acceler8-Wasatch-2025-Press-Release-May-8
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide

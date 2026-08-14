@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-02-04 · https://www.dvidshub.net/news/558042/utah-defense-alliance-hosts-meet-military-breakfast
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide

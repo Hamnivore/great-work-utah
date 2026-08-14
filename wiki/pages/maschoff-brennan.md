@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-07-30 · https://mabr.com/news/richard-gilmore-and-eric-maschoff-named-2026-patent-stars-firm-earns-national-intellectual-property-ranking
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** IP, patents, technology transactions, software, biotech, medical devices, deep tech
 **Domain:** capital-programs, health-bio
 **Primary Location:** Salt Lake City, UT; Park City, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-04-30 · https://www.prnewswire.com/news-releases/trinity-capital-inc-provides-35-million-in-equipment-financing-to-torus-helping-power-american-made-energy-systems-302757993.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** energy storage, flywheels, grid infrastructure, data centers, domestic manufacturing
 **Roles:** software-engineering, manufacturing-operations, field-skilled-trades
 **Stage:** Growth ($200M from Magnetar, Sept 2025; ~$267M+ raised to date)

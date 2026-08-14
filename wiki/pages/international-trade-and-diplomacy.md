@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-04-10 · https://www.wtcutah.com/mediastories/tm-switzerland-germany
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** exports, international expansion, trade missions, foreign investment, diplomacy
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

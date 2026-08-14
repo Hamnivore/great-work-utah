@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2011-04-27 · https://www.sec.gov/Archives/edgar/data/758004/000119312511115493/d8k.htm
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** software, word processing, networking, personal computing, Utah Valley
 **Era:** WordPerfect 1979-1996; Novell 1979/1983-2014; peak influence late 1980s to mid-1990s
 **Primary Location:** Orem and Provo, UT

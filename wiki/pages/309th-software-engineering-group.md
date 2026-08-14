@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-06-15 · https://www.utahbusiness.com/industry/2026/06/15/hill-air-force-base-engineers-aircraft-software-cycles-modern-airpower/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** flight software, weapons software, mission software, DevSecOps, safety-critical systems, Air Force sustainment
 **Roles:** software-engineering, hardware-engineering
 **Stage:** Established U.S. Air Force organization; one of the largest defense software groups in the country

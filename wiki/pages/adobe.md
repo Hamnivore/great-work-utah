@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Activity-signal:** 2026-06-11 · https://www.businesswire.com/news/home/20260611677110/en/Adobe-Reports-Record-Q2-Results
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** creative software, digital media, cloud subscriptions, digital marketing, document management
 **Identifiers:** cik=0000796343, ein=77-0019522
 **Roles:** software-engineering, data-science, product-design, sales-business-development

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-03-19 · https://www.belonginutah.org/events/new-americans-task-force-march-webinar
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** workforce, global talent, immigrant workforce, hiring, talent pathways
 **Primary Location:** Utah
 **Utah Location:** statewide

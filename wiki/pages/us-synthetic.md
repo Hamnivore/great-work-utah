@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-01-13 · https://ussynthetic.com/us-synthetic-grants-limited-license-for-high-performance-polycrystalline-diamond-compact-pdc-intellectual-property/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** synthetic diamond, polycrystalline diamond cutters, high-pressure high-temperature synthesis, drilling tools, diamond bearings
 **Identifiers:** cik=0001757974, ein=87-0342600
 **Roles:** manufacturing-operations, hardware-engineering, physical-sciences, field-skilled-trades

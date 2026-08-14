@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-04-16 · https://stayhappening.com/e/the-art-of-donor-prospecting-andamp-donor-communication-frequency-E118SAWRVOGOC
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Murray, UT
 **Utah Location:** Murray, UT

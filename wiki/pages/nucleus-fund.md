@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-05 · https://www.nucleusutah.org/events-collection
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** early-stage capital, deep tech, university spinouts, commercialization
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

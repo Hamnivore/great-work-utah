@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** D
+**Activity-signal:** 2026-09-25 · https://www.neumont.edu/2026-key-dates-deadlines
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** project-based computer science degrees, accelerated undergraduate model, employer enterprise projects, downtown Salt Lake City campus
 **Identifiers:** ein=13-4237385
 **Primary Location:** Salt Lake City, UT

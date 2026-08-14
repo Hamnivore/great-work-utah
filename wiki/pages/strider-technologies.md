@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-04-25 · https://www.striderintel.com/newsroom/bloomberg-private-sector-sleuthing-becomes-big-business-for-tech-startup/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** strategic intelligence, geopolitical risk, economic security, AI, national security
 **Identifiers:** cik=0001776892, ein=83-3874815
 **Roles:** software-engineering, data-science, product-design, sales-business-development

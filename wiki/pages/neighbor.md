@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:** 2026-07-08 · https://www.sec.gov/Archives/edgar/data/1712600/000171260026000005/0001712600-26-000005-index.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** peer-to-peer storage, parking marketplace, local asset utilization
 **Domain:** computing, culture-place
 **Roles:** software-engineering, data-science, product-design, sales-business-development, marketing-communications

@@ -60,8 +60,10 @@ reported. Do not re-rate.
 - [x] `scripts/apply-activity.mjs` written (dry-run only until the TSVs are complete)
 - [x] Raters complete — **485 / 485**. Histogram: 420 active, 26 concluded, 22 dormant, 17 unknown.
       All TSVs pass field-count / active-URL / concluded-terminal checks. Findings in
-      `research/activity/findings.md`. Next: dry-run then `--write` apply.
-- [ ] Values applied; lint clean; tests pass
+      `research/activity/findings.md`.
+- [x] Values applied 2026-08-13 (`node scripts/apply-activity.mjs --write`). Derived histogram:
+      422 active, 26 concluded, 20 dormant, 17 unknown. Two calendar overrides:
+      `futureready-utah` and `utif` (rater dormant → derived active).
 - [ ] `views/tier-list-active.md` generated and linked from the master index
 - [ ] Human-facing indicator shipped (badge on prerendered pages)
 - [ ] `public/llms.txt` and `AGENTS.md` updated

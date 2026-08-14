@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-07-26 · https://utahn.com/why-im-building-utahn/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Utah journalism, independent reporters, public-interest reporting, editorial transparency
 **Stage:** New publication; public founder essay and editorial charter published in 2026
 **Ownership:** private

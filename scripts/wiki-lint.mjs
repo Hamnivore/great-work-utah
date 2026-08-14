@@ -37,6 +37,11 @@ const FOUNDER_TIER_TYPES = ["resource", "helper"];
 // The letter above D is a claim about what the page says it provides, so the section has to exist.
 const FOUNDER_TIER_NEEDS_PROVIDES = new Set(["S", "A", "B"]);
 const FOUNDER_PROVIDES_SECTIONS = ["What It Provides", "Who They Help"];
+// Whether the subject is still being done. Rubric in wiki/meta/activity.md. Same page set as Tier;
+// missing is not `unknown` — unknown means someone looked and failed.
+const ACTIVITY_VOCAB = ["active", "dormant", "concluded", "unknown"];
+const ACTIVITY_TYPES = TIER_TYPES;
+const ACTIVITY_STALE_DAYS = 365;
 const DOMAIN_VOCAB = [
   "energy",
   "health-bio",
@@ -154,7 +159,9 @@ const TEMPLATE_SECTIONS = {
 // visiting agent will look to find out what a field means.
 const METADATA_KEYS = new Set([
   // identity and grading
-  "Type", "Status", "Updated", "Confidence", "Tier", "Founder-tier", "Focus", "Domain", "Domain-flagged", "Region",
+  "Type", "Status", "Updated", "Confidence", "Tier", "Founder-tier",
+  "Activity", "Activity-checked", "Activity-signal",
+  "Focus", "Domain", "Domain-flagged", "Region",
   "Needs-reviewed", "Identifiers", "Era", "Stage", "Roles", "Ownership", "Careers", "Audience",
   // the document a source page is about
   "Website", "URL", "Publisher", "Published", "Source Type", "Retrieved", "Archive", "Archived",
@@ -630,6 +637,56 @@ async function lintPage(filename) {
           `**Founder-tier:** ${raw} claims this hands a founder something substantial, but there is no "## ${FOUNDER_PROVIDES_SECTIONS.join('" or "## ')}" section to check that against (founder-tiers.md ruling 1). Write what it hands over or lower the letter.`,
           founderTierHeader.line
         );
+      }
+    }
+  }
+
+  // -- Activity (wiki/meta/activity.md). Not required: missing means unchecked, not unknown. --
+  const activityHeader = headers.get("Activity");
+  if (activityHeader && activityHeader.value) {
+    const raw = activityHeader.value.trim();
+    if (!ACTIVITY_VOCAB.includes(raw)) {
+      addFinding(
+        "error",
+        "invalid-activity",
+        filePath,
+        `**Activity:** "${raw}" is outside the closed vocabulary (${ACTIVITY_VOCAB.join(" · ")}). See wiki/meta/activity.md.`,
+        activityHeader.line
+      );
+    } else {
+      if (!ACTIVITY_TYPES.includes(type)) {
+        addFinding(
+          "warning",
+          "activity-on-wrong-type",
+          filePath,
+          `**Activity:** does not apply to Type: ${type} — evidence artifacts and wiki apparatus are not things that are still being done.`,
+          activityHeader.line
+        );
+      }
+      if (raw === "active") {
+        const signal = headers.get("Activity-signal");
+        if (!signal || !/https?:\/\//.test(signal.value || "")) {
+          addFinding(
+            "error",
+            "activity-without-signal",
+            filePath,
+            `**Activity:** active requires **Activity-signal:** with a dated public URL. A website that merely loads is not one; see wiki/meta/activity.md.`,
+            activityHeader.line
+          );
+        }
+      }
+      const checked = headers.get("Activity-checked");
+      if (checked && ISO_DATE_RE.test(checked.value || "")) {
+        const ageMs = Date.now() - Date.parse(`${checked.value}T00:00:00Z`);
+        if (ageMs > ACTIVITY_STALE_DAYS * 24 * 60 * 60 * 1000) {
+          addFinding(
+            "warning",
+            "activity-stale",
+            filePath,
+            `**Activity-checked:** ${checked.value} is more than a year old. Re-check the live public record; the value decays.`,
+            checked.line
+          );
+        }
       }
     }
   }

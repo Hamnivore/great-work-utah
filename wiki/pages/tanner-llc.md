@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-02-11 · https://www.utahbusiness.com/press-releases/2026/02/11/tanner-llp-launches-technical-accounting-advisory-group-taag-support-finance/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** accounting, audit/assurance, tax, M&A due diligence, SEC reporting, advisory
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT; Lehi, UT

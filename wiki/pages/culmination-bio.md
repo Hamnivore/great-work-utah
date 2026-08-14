@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2024-04-04 · https://hitconsultant.net/2024/04/04/culmination-bio-billiontoone-partner-to-validate-cancer-diagnostics/
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** clinical data platform, longitudinal patient data, drug discovery, diagnostics, biotech spinout
 **Roles:** data-science, biology-life-sciences, clinical-regulatory, sales-business-development, legal-policy
 **Stage:** Operating subsidiary; $10M from Amgen Ventures and Merck Global Health Innovation Fund (2023)

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-05-07 · https://utahvbrc.org/events/2026-minnow-tank-pitch-competition/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

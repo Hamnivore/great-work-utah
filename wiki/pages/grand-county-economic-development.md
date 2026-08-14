@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2025-05-20 · https://www.moabtimes.com/articles/grand-county-creates-new-economic-development-position/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Moab, UT
 **Utah Location:** Grand County, UT

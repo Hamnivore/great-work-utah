@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-05 · https://www.utahbusiness.com/press-releases/2026/08/05/jobnimbus-launches-nimbuslabs-early-access-program-new-features/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** contractor business management, roofing CRM, project management, payments, vertical SaaS, construction technology
 **Roles:** software-engineering, sales-business-development, marketing-communications, program-project-management
 **Stage:** Private growth company; $330M Sumeru Equity Partners-led growth investment (2024)

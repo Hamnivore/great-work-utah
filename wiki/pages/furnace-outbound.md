@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2025-04 · https://luma.com/bxbetln7
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** outbound sales, email infrastructure, campaign operations
 **Domain:** computing, capital-programs
 **Primary Location:** St. George, UT

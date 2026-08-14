@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-05-12 · https://finance.yahoo.com/sectors/technology/articles/digicert-receives-frost-sullivan-2026-130000775.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** public-key infrastructure, certificate lifecycle management, digital trust, DNS, post-quantum security
 **Roles:** software-engineering
 **Stage:** Established global cybersecurity company; private-equity backed

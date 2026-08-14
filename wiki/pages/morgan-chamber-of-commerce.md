@@ -5,6 +5,9 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2026-07-04 · https://business.morganutahchamber.org/community-events/Details/morgan-s-spectacular-4th-of-july-celebration-2026-1728255?sourceTypeId=Website
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=88-0563126
 **Domain:** capital-programs

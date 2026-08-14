@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-04-18 · https://savoryfund.com/christina-tosi-to-headline-savory-funds-8th-annual-restaurantology-this-september/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding, Late Stage Growth
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

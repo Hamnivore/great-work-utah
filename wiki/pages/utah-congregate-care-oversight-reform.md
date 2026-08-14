@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-15 · https://www.utah.gov/pmn/sitemap/notice/1095277.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** youth residential treatment, congregate care licensing, restraint and seclusion, state inspection regime, incident reporting, child safety
 **Era:** 2021 S.B. 127 through 2025 S.B. 297
 **Domain:** health-bio, culture-place

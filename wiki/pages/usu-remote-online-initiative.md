@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-03 · https://extension.usu.edu/remoteworkcertificate/pro/index
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide

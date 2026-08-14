@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-06 · https://www.sec.gov/Archives/edgar/data/1609151/000160915126000074/weav-20260630.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** applied AI, vertical SaaS, healthcare communications, voice AI, payments
 **Roles:** software-engineering, data-science, product-design, sales-business-development, program-project-management
 **Stage:** Public company (NYSE: WEAV); established, ~40,000 customer locations

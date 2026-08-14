@@ -4,7 +4,10 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
-**Founder-tier:** A
+**Founder-tier:** C
+**Activity-signal:** 2026-08 · https://www.altitudelab.org/apply
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Relocate a Business to Utah
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

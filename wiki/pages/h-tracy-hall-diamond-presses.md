@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** A
+**Activity-signal:** 2008-07-25 · https://physicstoday.aip.org/obituaries/obituary-of-h-tracy-hall
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** materials science, synthetic diamond, high-pressure apparatus, superhard materials, company formation
 **Domain:** materials-mfg
 **Era:** first diamond synthesis 1954 (at GE); Utah press work 1955-1970s

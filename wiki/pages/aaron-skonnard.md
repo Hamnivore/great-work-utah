@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-01-26 · https://ushe.edu/uvu-search-committee-named/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** developer education, technical training, SaaS, Utah tech ecosystem
 **Primary Location:** unknown
 **Utah Location:** unknown

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-08-14 · https://aibuilderday.com/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** AI hackathon, sponsor bounty tracks, beginner onboarding, team formation, Utah County
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

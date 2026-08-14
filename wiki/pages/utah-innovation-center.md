@@ -4,7 +4,10 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
-**Founder-tier:** A
+**Founder-tier:** C
+**Activity-signal:** 2026-04-29 · https://www.nucleusutah.org/grow
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Primary Location:** Utah
 **Utah Location:** statewide

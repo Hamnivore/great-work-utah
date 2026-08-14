@@ -374,11 +374,11 @@ write('tier-list-active.md', activeList)
 // which of them is worth a week. This ranks the same pages on what they hand you instead.
 const FOUNDER_RANK = { S: 0, A: 1, B: 2, C: 3, D: 4, F: 5, unranked: 6, 'n/a': 7 }
 const FOUNDER_LABEL = {
-  S: 'changes what can be built here',
-  A: 'no second one',
-  B: 'worth a quarter',
-  C: 'worth a morning',
-  D: 'worth an email',
+  S: 'usually changes the trajectory',
+  A: 'best general first move',
+  B: 'broadly useful',
+  C: 'useful when the need fits',
+  D: 'narrow or low-leverage',
   F: 'a listing',
   unranked: 'too thin to say',
   'n/a': 'not a founder resource',
@@ -386,13 +386,23 @@ const FOUNDER_LABEL = {
 const founderTiered = pages.filter((p) => FOUNDER_RANK[p.founderTier] !== undefined)
 const founderRanked = founderTiered.filter((p) => p.founderTier !== 'n/a')
 const founderTop = founderRanked.filter((p) => ['S', 'A', 'B'].includes(p.founderTier))
+const founderReasons = new Map()
+const founderResults = new URL('../research/founder-tier-list/results/', import.meta.url).pathname
+if (fs.existsSync(founderResults)) {
+  for (const file of fs.readdirSync(founderResults).filter((name) => name.endsWith('.tsv'))) {
+    for (const line of fs.readFileSync(path.join(founderResults, file), 'utf8').split('\n')) {
+      const [slug, , reason] = line.split('\t')
+      if (slug && reason) founderReasons.set(slug, reason)
+    }
+  }
+}
 let founderList = `# The founder-resource tier list
 
-Utah's ${founderRanked.length} founder resources ranked by what they actually hand you. ${founderTop.length} pages in S, A, and B. [How this is ranked](../meta/founder-tiers.md) · \`${BASE}/meta/founder-tiers.md\`.
+Utah's ${founderRanked.length} founder resources ranked for a busy, entry-level, typical Utah entrepreneur. ${founderTop.length} ${founderTop.length === 1 ? 'page' : 'pages'} in S, A, and B. [How this is ranked](../meta/founder-tiers.md) · \`${BASE}/meta/founder-tiers.md\`.
 
-This is a **second ladder**, not a correction of the first. [The impact tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` asks how far something could move the world, and it is right to put nearly every resource at D or F — an accelerator or a chamber displaces very little. That answer is useless to a founder choosing where to spend a week, so this list asks the other question: **what does this hand you that you could not get by asking around for an afternoon?** The two disagree in both directions, on purpose.
+This list asks one counterfactual: **if a typical new founder uses this, how much more likely are they to succeed, and by how much?** Likelihood matters most. Rare, enormous payoffs rank below help that a beginner can reach and use. This is separate from [world impact](tier-list.md) · \`${BASE}/views/tier-list.md\`.
 
-Money, bench time, a certification, a legal waiver, a specific professional's hours — those are handed to you. "Connections, mentorship, and resources" is convened, and convening is nearly free. Each entry prints what the page itself claims to provide, so you can check the letter against the claim.
+Not typical? Browse [all founder resources by focus and region](resources.md) · \`${BASE}/views/resources.md\`; each resource page explains who it fits. Entries below are intentionally short, and each explanation must justify its tier.
 
 `
 for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
@@ -403,9 +413,8 @@ for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
   founderList += `## ${t} — ${FOUNDER_LABEL[t]} (${sel.length})\n\n`
   for (const p of sel) {
     founderList += `- **[${p.title}](${p.url})** · \`${p.path}\`\n`
-    const identity = firstSentence(p.summary)
-    if (identity) founderList += `  ${identity}\n`
-    if (p.provides) founderList += `  *Hands you:* ${clip(p.provides, 260)}\n`
+    const reason = founderReasons.get(p.slug) || p.provides || firstSentence(p.summary)
+    if (reason) founderList += `  ${clip(reason, 190)}\n`
   }
   founderList += `\n`
 }

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2023-04-13 · https://www.sba.gov/article/2023/04/13/us-small-business-administration-announces-2023-application-thrive-executive-level-business-training
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide

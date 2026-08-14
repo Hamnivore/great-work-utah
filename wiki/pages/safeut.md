@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** B
 **Founder-tier:** n/a
+**Activity-signal:** 2025-06-30 · https://safeut.utahhealth.acsitefactory.com/sites/g/files/zrelqx271/files/media/documents/2026/safeut_annualreport_fy25_digital-2_0.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** crisis chat, school safety tips, youth mental health, suicide prevention, statewide K-12 and higher education, first responders, Utah National Guard
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Activity-signal:** 2026-05-05 · https://investor.myriad.com/news-releases/news-release-detail/27246/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** hereditary cancer genetics, BRCA testing, gene patents, clinical genomics
 **Domain:** health-bio
 **Era:** 1991-present; core BRCA sequencing and commercialization in the 1990s

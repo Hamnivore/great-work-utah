@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-03-18 · https://siliconangle.com/2026/03/18/qualtrics-adds-ai-powered-synthetic-data-research-tools-speed-customer-insights/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** experience management, applied AI, enterprise SaaS, surveys, sentiment analysis
 **Roles:** software-engineering, data-science, product-design, sales-business-development
 **Stage:** Private (Silver Lake take-private, 2023)

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** B
+**Activity-signal:** 2026-06-30 · https://bestfriends.org/sites/default/files/pdf/9.30.25_Form_990_%28Public%29-Best_Friends_Animal_Society-signed.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** no-kill animal welfare, animal sanctuary, shelter network, Kanab, national shelter data
 **Roles:** field-skilled-trades, program-project-management, marketing-communications, people-operations
 **Stage:** Established national nonprofit; sanctuary founded 1984 per self-reported history

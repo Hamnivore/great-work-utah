@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-06-11 · https://www.locumpedia.com/news/chg-healthcare-workforce-reduction-2026/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** locum tenens, physician staffing, rural hospital coverage, temporary clinicians, healthcare workforce
 **Identifiers:** cik=0001356792, ein=51-0319328
 **Stage:** Private; brand of CHG Healthcare (CHG Management, Inc.) — parent filed a withdrawn 2006 IPO (S-1)

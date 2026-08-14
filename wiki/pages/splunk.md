@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-08-04 · https://www.splunk.com/en_us/blog/platform/splunk-platform-innovations-cisco-data-fabric-generally-available.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** cybersecurity, observability, machine data, SIEM, AIOps, enterprise software
 **Identifiers:** cik=0001353283, ein=86-1106510
 **Roles:** software-engineering, hardware-engineering

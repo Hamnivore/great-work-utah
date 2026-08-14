@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Activity-signal:** 2023-08-07 · https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** space technology, Mars, in-situ resource utilization, solid oxide electrolysis, OxEon Energy
 **Era:** 2010s–2023 Mars operations; Earth-scale follow-through ongoing
 **Primary Location:** North Salt Lake, UT

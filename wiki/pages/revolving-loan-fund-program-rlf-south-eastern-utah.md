@@ -5,6 +5,9 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2026-07-16 · https://www.utah.gov/pmn/sitemap/noticehistory/332325.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Price, UT

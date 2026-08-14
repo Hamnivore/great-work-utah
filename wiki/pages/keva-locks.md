@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-07-16 · https://www.linkedin.com/posts/charles-merriam1_groundbreaking-announcement-for-keva-activity-7483553602511269888-sLE0
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** smart locks, rental access, property operations
 **Domain:** materials-mfg, computing
 **Primary Location:** Logan, UT

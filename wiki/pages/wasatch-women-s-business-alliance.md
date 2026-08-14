@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2024-02-26 · https://thewwba.org/index.php/2024/02/26/mastermind-and-networking-events/
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Wasatch County, UT
 **Utah Location:** Wasatch County, UT

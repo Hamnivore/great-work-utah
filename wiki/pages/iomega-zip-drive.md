@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** C*
+**Activity-signal:** 2006-03-15 · https://www.sec.gov/Archives/edgar/data/352789/000119312506054873/d10k.htm
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** hardware, storage, consumer computing, peripherals, 1990s PC era
 **Era:** Iomega founded 1980; Zip era 1995-early 2000s
 **Primary Location:** Roy, UT

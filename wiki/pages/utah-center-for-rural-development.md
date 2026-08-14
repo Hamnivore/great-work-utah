@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** B
+**Activity-signal:** 2026-09-14 · https://business.utah.gov/rural/rcog/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Late Stage Growth, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

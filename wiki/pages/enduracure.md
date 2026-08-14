@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2025-10-01 · https://nsf.elsevierpure.com/en/organisations/enduracure-llc/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** degradable polymers, flexible electronics, e-waste, materials science, recyclable substrates
 **Roles:** physical-sciences, manufacturing-operations, sales-business-development
 **Stage:** Early-stage spinout; NSF STTR Phase I funded

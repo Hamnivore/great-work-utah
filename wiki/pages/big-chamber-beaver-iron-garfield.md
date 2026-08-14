@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-07-25 · https://www.stgeorgeutah.com/flood-and-fire/as-volunteers-pitch-in-to-help-clean-up-after-flooding-beaver-officials-provide-updates/article_6e7c8b33-ed9d-46da-bbaf-8bcdd7b74f0d.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** Beaver County, UT; Iron County, UT; Garfield County, UT

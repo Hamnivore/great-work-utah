@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-29 · https://www.stocktitan.net/sec-filings/HXL/10-q-hexcel-corp-de-quarterly-earnings-report-09f140ab7c5b.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** advanced materials, aerospace composites, carbon fiber, manufacturing
 **Roles:** physical-sciences, hardware-engineering, manufacturing-operations, field-skilled-trades
 **Stage:** Public industrial company

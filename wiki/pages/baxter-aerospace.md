@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2025-07-25 · https://www.finsmes.com/2025/07/baxter-aerospace-raises-6m-in-series-a-funding.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** unmanned aircraft, deployable communications, ISR, defense, emergency response, advanced manufacturing
 **Roles:** hardware-engineering, manufacturing-operations, sales-business-development, field-skilled-trades
 **Stage:** Series A ($6M, 2025)

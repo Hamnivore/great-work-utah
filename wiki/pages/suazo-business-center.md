@@ -4,7 +4,10 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
-**Founder-tier:** B
+**Founder-tier:** C
+**Activity-signal:** 2026-08-18 · https://suazocenter.org/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Identifiers:** ein=04-3693364
 **Primary Location:** Salt Lake City, UT

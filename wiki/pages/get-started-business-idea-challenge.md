@@ -5,6 +5,9 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2026-01-30 · https://startup.utah.gov/the-return-of-get-started-2026s-first-winners/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide

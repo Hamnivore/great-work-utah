@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-01-16 · https://moabsunnews.com/2026/01/28/grand-business-summit-brings-local-entrepreneurs-together/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Moab, UT
 **Utah Location:** Moab, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-07-15 · https://blackrockneurotech.com/insights/long-term-safety-and-efficacy-of-intracortical-microstimulation-in-humans/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** brain-computer interfaces, neural engineering, medical devices, restoration of motor and speech function
 **Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory, program-project-management
 **Stage:** Private growth company; majority stake held by Tether (via Tether Evo) since April 2024

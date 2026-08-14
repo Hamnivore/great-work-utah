@@ -5,6 +5,8 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Richfield, UT

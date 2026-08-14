@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-08-12 · https://bbcetc.com/special-programs/bbcetc-from-the-sources-mouth/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** SBIR, STTR, nondilutive funding, proposal support, grant training, post-award management
 **Primary Location:** Chelsea, MI
 **Utah Location:** no verified Utah presence

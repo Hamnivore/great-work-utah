@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-11 · https://nowcfo.com/now-cfo-named-on-the-2026-inc-5000-list/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance operations
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

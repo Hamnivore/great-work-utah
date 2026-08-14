@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-04-30 · https://techcyte.com/techcyte-announces-15-million-capital-raise/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** digital pathology, AI diagnostics, computer vision, clinical and anatomic pathology, veterinary diagnostics, life sciences
 **Identifiers:** cik=0001880286, ein=46-3837989
 **Roles:** software-engineering, data-science, biology-life-sciences, clinical-regulatory

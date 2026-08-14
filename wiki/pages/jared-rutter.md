@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-06-21 · https://cell-press-symposia.com/mitochondria-2026/index.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** biochemistry, metabolomics, allosteric drug discovery, university commercialization, life sciences
 **Domain:** health-bio
 **Primary Location:** Salt Lake City, UT

@@ -4,7 +4,10 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
-**Founder-tier:** A
+**Founder-tier:** C
+**Activity-signal:** 2026-08-12 · https://www.nucleusutah.org/events-collection
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** SBIR, STTR, non-dilutive funding, deep tech, research commercialization
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2025-08-28 · https://bioutah.org/epic-ventures-gains-200m-fresh-capital/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

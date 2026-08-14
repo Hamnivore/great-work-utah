@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-01-28 · https://neurorobotics.ece.utah.edu/2026/01/28/neurorobotics-lab-partners-with-meta-to-advance-accessible-wearable-technology-for-people-with-limited-hand-mobility/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** neural interfaces, bidirectional prosthetics, embodied AI, biomedical engineering, clinical translation
 **Roles:** data-science, biology-life-sciences, hardware-engineering, clinical-regulatory
 **Stage:** Active university research lab (University of Utah, ECE)

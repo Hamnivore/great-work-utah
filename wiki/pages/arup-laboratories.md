@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-30 · https://www.utahbusiness.com/press-releases/2026/07/30/arup-launches-first-clinical-spectral-flow-cytometry-assay-mrd-assessment/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** clinical laboratory, anatomic pathology, reference testing, esoteric diagnostics, laboratory medicine, nonprofit academic lab
 **Roles:** biology-life-sciences, clinical-regulatory, program-project-management
 **Ownership:** nonprofit

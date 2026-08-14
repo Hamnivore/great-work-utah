@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2025-12-04 · https://www.mvtpharma.com/post/microvascular-therapeutic-announces-investment-from-the-nucleus-institute
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Primary Location:** Utah
 **Utah Location:** statewide

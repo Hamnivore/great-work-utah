@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Activity-signal:** 2026-03-25 · https://www.joinleland.com/library/a/ai-builder-program-launch
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** career coaching, expert marketplace, AI education, professional development, community learning
 **Roles:** sales-business-development, marketing-communications, program-project-management
 **Primary Location:** Lehi, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2017-07-31 · https://www.nsf.gov/awardsearch/showAward?AWD_ID=1628245
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** synthetic spider silk, recombinant proteins, biomaterials, adhesives, university spinout
 **Roles:** manufacturing-operations
 **Stage:** Apparently inactive; founded 2012 as a Utah State University spin-out, no public activity found after 2017

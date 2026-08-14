@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** F
+**Activity-signal:** 2026-03-05 · https://www.stgeorgeutah.com/life/events/best-of-cedar-city-honorees-recognized-during-annual-awards-gala/article_4df480b4-0385-43c7-bf1c-01d7160680e0.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT

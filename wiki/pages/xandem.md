@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Activity-signal:** 2015-11-30 · https://www.digitaltrends.com/home/xandem-home-security-system-indiegogo/
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** RF tomographic sensing, through-wall motion detection, ISR, search and rescue, home security
 **Roles:** software-engineering, data-science, physical-sciences, hardware-engineering, sales-business-development
 **Stage:** Commercial (consumer pivot underway as of 2024)

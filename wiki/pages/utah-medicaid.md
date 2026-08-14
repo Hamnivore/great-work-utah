@@ -5,6 +5,9 @@
 **Confidence:** High
 **Tier:** D
 **Founder-tier:** n/a
+**Activity-signal:** 2026-08-19 · https://medicaid.utah.gov/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** health coverage, medical assistance, low-income healthcare, CHIP, long-term care
 **Domain:** health-bio
 **Primary Location:** Utah

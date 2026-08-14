@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2025-12-31 · https://business.utah.gov/usbci/usbci-releases-q4-2025-results-highlighting-program-performance/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

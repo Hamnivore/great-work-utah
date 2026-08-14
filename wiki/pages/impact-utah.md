@@ -5,6 +5,9 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2025-07-31 · https://www.deseret.com/politics/2025/07/29/utah-auditor-said-nonprofit-utah-impact-spent-millions-on-private-expenses/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide

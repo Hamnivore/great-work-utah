@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** B
+**Activity-signal:** 2025-12-31 · https://business.utah.gov/usbci/usbci-releases-q4-2025-results-highlighting-program-performance/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** small business lending, capital access, lender-backed capital, underserved founders
 **Primary Location:** Utah
 **Utah Location:** statewide

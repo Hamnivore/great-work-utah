@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-03-02 · https://www.familysearch.org/en/newsroom/rootstech-2026-starts-this-week
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** genealogy, civilizational records, OCR, record linkage, population genetics, scientific infrastructure
 **Roles:** software-engineering, data-science, marketing-communications, legal-policy, program-project-management
 **Stage:** Established institution; predecessor (Genealogical Society of Utah) founded 1894

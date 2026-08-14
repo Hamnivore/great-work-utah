@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:** 2026-08-13 · https://tcn.applytojob.com/apply/FP7NLANEqv/Site-Reliability-Engineer
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** cloud contact centers, customer communications, call-center software
 **Domain:** computing
 **Roles:** software-engineering

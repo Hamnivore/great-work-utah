@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-03-30 · https://kutv.com/sports/talkin-sports/huntsman-world-senior-games-registration-open
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** senior athletics, multi-sport competition, active aging, St. George, international amateur sports
 **Roles:** program-project-management, field-skilled-trades, marketing-communications, people-operations
 **Stage:** Established nonprofit event; founded 1987 as World Senior Games; Huntsman sponsorship from 1989

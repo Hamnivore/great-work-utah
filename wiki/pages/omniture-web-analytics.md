@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** C
+**Activity-signal:** 2026-08-05 · https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** software, SaaS, web analytics, digital marketing, enterprise software
 **Domain:** computing
 **Era:** 1996-2009 as an independent company; continued inside Adobe

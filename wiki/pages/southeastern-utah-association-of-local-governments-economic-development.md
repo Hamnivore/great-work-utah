@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** D
+**Activity-signal:** 2026 · https://serda.utah.gov/community-development
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-07-09 · https://databento.com/blog/series-b
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-05-04 · https://satim.co/news/satim-and-imsar-partner-to-bring-automated-object-detection-and-classification-to-uav-based-sar
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** synthetic aperture radar, UAS, defense, aerospace, intelligence, manufacturing
 **Roles:** software-engineering, data-science, manufacturing-operations, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Private established company

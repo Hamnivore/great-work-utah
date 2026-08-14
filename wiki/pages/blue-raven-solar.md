@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** C
+**Activity-signal:** 2026-07-29 · https://solarquarter.com/2026/07/29/sunpower-reports-q2-2026-revenue-decline-amid-project-delays-targets-q3-recovery-with-revenue-above-75-million/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** residential solar, direct-to-consumer installation, Orem Utah operations, SunPower ownership chain
 **Identifiers:** cik=0001657054, ein=46-5434577
 **Stage:** Subsidiary division of SunPower Inc. (CIK 0001838987) after 2024 bankruptcy sale; previously acquired by SunPower Corp. in 2021

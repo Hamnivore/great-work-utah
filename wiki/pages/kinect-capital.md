@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-09-03 · https://kinectcapital.org/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

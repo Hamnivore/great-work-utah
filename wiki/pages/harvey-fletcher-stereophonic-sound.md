@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** S
+**Activity-signal:** 1981-07-23 · https://en.wikipedia.org/wiki/Harvey_Fletcher
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** acoustics, stereophonic sound, psychoacoustics, hearing science, audio engineering
 **Domain:** culture-place, computing
 **Era:** 1884-1981 (life); landmark stereo work 1931-1933; posthumous Grammy 2016

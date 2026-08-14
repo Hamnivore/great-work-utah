@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-05-22 · https://parkinsonsnewstoday.com/news/pivotal-trial-completed-testing-celeste-light-therapy-device-parkinsons/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** phototherapy, neurodegenerative disease, Parkinson's disease, medical devices, circadian biology
 **Identifiers:** cik=0001561150, ein=27-5120776
 **Roles:** hardware-engineering, clinical-regulatory, program-project-management

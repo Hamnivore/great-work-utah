@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-14 · https://travel.utah.gov/cooperative-marketing-program/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

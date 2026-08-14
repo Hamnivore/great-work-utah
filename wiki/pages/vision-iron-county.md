@@ -5,6 +5,9 @@
 **Confidence:** Low
 **Tier:** F
 **Founder-tier:** unranked
+**Activity-signal:** 2024-07 · https://www.orgcouncil.com/ein/933594150
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Identifiers:** ein=93-3594150
 **Primary Location:** Iron County, UT

@@ -5,6 +5,8 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

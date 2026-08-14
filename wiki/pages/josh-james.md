@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-06-01 · https://www.sec.gov/Archives/edgar/data/1505952/000162828026039549/domo-20260601.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** enterprise SaaS, web analytics, business intelligence, Utah tech ecosystem
 **Domain:** computing
 **Primary Location:** Utah Valley, UT

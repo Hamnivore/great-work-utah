@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Activity-signal:** 2026-03-16 · https://link.springer.com/article/10.1007/s10903-026-01890-3
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** genetic epidemiology, genealogy, medical records, population health infrastructure
 **Era:** 1970s-present
 **Primary Location:** University of Utah, Salt Lake City, UT

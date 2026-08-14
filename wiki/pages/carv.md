@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C*
+**Activity-signal:** 2026-08-13 · https://ats.rippling.com/carv-careers/jobs
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** wearable ski sensor, real-time biomechanical coaching, Park City North American base, Rust on-device
 **Primary Location:** London, United Kingdom
 **Utah Location:** Park City, UT

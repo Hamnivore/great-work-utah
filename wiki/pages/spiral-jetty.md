@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B*
+**Activity-signal:** 1970-04 · https://holtsmithsonfoundation.org/spiral-jetty
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** Land art, Great Salt Lake, site-specific sculpture, contemporary art
 **Era:** 1970-present
 **Primary Location:** Rozel Point, Great Salt Lake, Box Elder County, UT

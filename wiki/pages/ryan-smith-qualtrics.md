@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-05-11 · https://www.deseret.com/sports/2026/05/11/ryan-ashley-smith-on-live-sports-in-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** enterprise software, experience management, Utah tech ecosystem, civic leadership
 **Domain:** computing
 **Primary Location:** Salt Lake City, UT

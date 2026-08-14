@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2025-11 · https://ushe.edu/wp-content/uploads/pdf/reports/2025/Custom_Fit_Annual_Report.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

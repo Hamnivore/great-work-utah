@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-03-31 · https://www.standard.net/news/2026/mar/31/hill-air-force-base-to-begin-season-of-large-detonation-operations-at-uttr/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** military test ranges, aerospace and defense, restricted airspace, weapons evaluation
 **Era:** 1940s-present; UTTR designation in 1979
 **Primary Location:** Utah Test and Training Range, UT

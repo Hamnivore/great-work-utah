@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Activity-signal:** 2026-07-10 · https://www.techbuzznews.com/utah-quantum-roundtable-3/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** quantum systems integration, quantum readiness, post-quantum security, government and industry adoption
 **Roles:** sales-business-development, legal-policy, program-project-management
 **Stage:** Early-stage initiative (launched October 2025; prototype planned Q1–Q2 2026)

@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-09-24 · https://www.sbir.gov/awards/216918
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** vacuum microelectronics, solid state vacuum devices, traveling-wave tubes, extreme-environment electronics, radiation-hardened components, RF power amplifiers
 **Identifiers:** uei=SKSZV1JCCLJ7, cik=0000720694
 **Roles:** hardware-engineering, manufacturing-operations, sales-business-development

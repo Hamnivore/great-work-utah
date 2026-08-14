@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-04-13 · https://www.prnewswire.com/news-releases/lucid-software-integrates-real-time-visual-context-into-chatgpt-with-mcp-server-app-302739890.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** B2B SaaS, visual collaboration, diagramming, whiteboarding, enterprise software
 **Identifiers:** cik=0001604171, ein=26-4737100
 **Roles:** software-engineering, hardware-engineering, product-design, sales-business-development

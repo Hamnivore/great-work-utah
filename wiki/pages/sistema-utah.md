@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** n/a
+**Activity-signal:** 2025-09-29 · https://projects.propublica.org/nonprofits/organizations/455259246
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** El Sistema, after-school orchestra, free music education, West Valley City, Title I schools
 **Primary Location:** Draper, UT
 **Utah Location:** West Valley City, UT (two program sites at American Preparatory schools)

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-06-16 · https://www.southvalleychamber.com/2026/06/16/2026-titan-awards-recipients-announced/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT

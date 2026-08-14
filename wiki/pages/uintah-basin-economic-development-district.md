@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-06-25 · https://www.utah.gov/pmn/files/1449721.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT

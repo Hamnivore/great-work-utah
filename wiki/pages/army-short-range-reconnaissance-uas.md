@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Activity-signal:** 2026-07-30 · https://ir.redcatholdings.com/news-events/press-releases/detail/235/red-cat-receives-2-49-million-u-s-air-force-order-for-black-widow-systems
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** defense manufacturing, small drones, ISR, battlefield reconnaissance, domestic industrial base
 **Era:** 2020–present; Tranche 2 production from 2025
 **Primary Location:** Salt Lake City, UT

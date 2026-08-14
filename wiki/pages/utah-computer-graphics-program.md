@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Activity-signal:** 2025-08 · https://www.cemyuksel.com/research/papers/Offset_Geometric_Contact-SIGGRAPH2025.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** computer graphics, rendering, human-computer interaction, software history
 **Era:** 1968-1985 peak output; continuing lineage
 **Primary Location:** Salt Lake City, UT

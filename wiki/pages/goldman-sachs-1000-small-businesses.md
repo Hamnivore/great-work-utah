@@ -4,7 +4,10 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
-**Founder-tier:** B
+**Founder-tier:** C
+**Activity-signal:** 2026-09-02 · https://themillatslcc.com/education/goldman-sachs-10000-small-businesses/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide

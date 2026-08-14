@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-12 · https://www.gridinfo.com/plant/blundell/299
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** geothermal power, utility generation, hydrothermal plant operations, PacifiCorp
 **Roles:** field-skilled-trades, hardware-engineering, physical-sciences
 **Stage:** Operating utility-owned geothermal plant

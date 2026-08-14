@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-20 · https://wfrc.org/committees/transportation-coordinating-committee/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Davis County, UT; Morgan County, UT; Salt Lake County, UT; Tooele County, UT; Weber County, UT

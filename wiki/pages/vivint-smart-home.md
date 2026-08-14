@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-04 · https://investors.nrg.com/news-releases/news-release-details/nrg-energy-reports-second-quarter-2026-results-and-reaffirms
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** smart home, home security, IoT, professional monitoring, consumer hardware
 **Roles:** software-engineering, data-science, product-design, sales-business-development, program-project-management, field-skilled-trades
 **Stage:** Subsidiary of NRG Energy (public parent, NYSE: NRG)

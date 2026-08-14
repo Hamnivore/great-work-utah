@@ -5,6 +5,9 @@
 **Confidence:** High
 **Tier:** D
 **Founder-tier:** n/a
+**Activity-signal:** 2026-03-31 · https://ruralhealth.utah.gov/utah-primary-care-grant-program/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** rural healthcare, primary care access, health workforce, shortage designations, clinic support, grants
 **Domain:** health-bio
 **Primary Location:** Utah

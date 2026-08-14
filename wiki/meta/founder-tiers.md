@@ -10,24 +10,31 @@ helper pages sit at D and F, in one undifferentiated heap, and a founder reading
 nothing — not because the letters are wrong, but because they are answers to a question the founder
 didn't ask.
 
-The founder is asking something else: **of the couple hundred things Utah will hand me a brochure
-for, which ones are worth a week of my life?** That question has real spread in it. A free
-proposal-editing service that turns into a $1.5M federal award and a ribbon-cutting are not the same
-size, and no ranking that puts both at D is telling anyone the truth.
+The founder is asking something else: **where should a busy, entry-level Utah entrepreneur start?**
+The ranking estimates the counterfactual change in a typical founder's outcome, roughly
+`chance the resource helps × size of the help`. Chance matters most: a spectacular program for one
+founder in a hundred should not outrank competent help that most new founders can actually use.
 
 ## The question this list asks
 
-**What does this hand you that you could not get by asking around for an afternoon?**
+**If a typical new Utah founder uses this, how much more likely are they to build a successful
+business, and how much larger could that success become?**
+
+The reference founder is busy, inexperienced, not yet well connected, and building the ordinary
+mix of Utah businesses rather than an unusually fundable biotech, defense, or university spinout.
+This is a population-level recommendation, not a claim that everyone is average. Founders with a
+specific industry, identity, location, institution, or financing need should use the linked
+[resource index](../views/resources.md) and each page's fit notes.
 
 If you're just browsing, the letters mean:
 
 | | |
 |---|---|
-| **S** | changes what can be built here. Without it, a whole class of Utah company doesn't get started |
-| **A** | moves your odds hard, and there is no second one |
-| **B** | worth restructuring a quarter around — money or access you compete for, big enough to change the plan |
-| **C** | worth a morning. A specific, competent service that does a job you'd otherwise do badly or not at all |
-| **D** | worth an email if you're already nearby. Real people, real place, no leverage |
+| **S** | usually changes the trajectory of a typical new founder; almost nobody can make that claim |
+| **A** | the best general first move: easy to reach and likely to improve an important decision |
+| **B** | broadly useful with a good chance of producing a meaningful next step |
+| **C** | useful when the need fits, but the typical founder may get little or nothing |
+| **D** | narrow, low-leverage, or hard to turn into an outcome for a new founder |
 | **F** | a listing. A directory entry, a ribbon cutting, a membership, a page with a phone number |
 | **unranked** | aimed at founders, too thin to say what it hands you |
 | **n/a** | not a founder resource. A hospital, a school, a crisis line. Excluded from the list, not judged by it |
@@ -69,12 +76,10 @@ Each was settled against a real page.
    you it belongs at F, whatever its budget is. Altitude Lab names 20,000 square feet, an $80,000
    fellowship, and a $100,000–$250,000 fund. Nineteen chambers name a directory and a luncheon.
 
-2. **Substitutability decides everything above D.** This is the counterfactual test from the impact
-   ladder, pointed at the founder instead of at the world: if this vanished tomorrow, what would you do
-   instead, and how much worse would it be? Utah has roughly twenty chambers of commerce offering the
-   same package, which is exactly why all twenty are F and none of them is bad at its job. It has one
-   state SBIR/STTR partner, one general regulatory sandbox, and one biotech accelerator with a wet lab
-   on it. That is the whole difference between the top of this list and the middle.
+2. **Expected outcome decides everything above D.** Estimate both the chance that the reference
+   founder qualifies, follows through, and receives useful help, and the size of the resulting change.
+   Weight the first term more heavily because failed routing costs a busy beginner scarce attention.
+   Substitutability still matters, but uniqueness cannot rescue a program almost nobody can use.
 
 3. **A capital source you cannot apply to is a lead, not a resource.** A venture fund hands a founder
    money if it picks them, and nothing at all if it doesn't — and you cannot make it pick you by
@@ -85,19 +90,16 @@ Each was settled against a real page.
    Tuesday. Contrast the Utah Small Business Credit Initiative, which is B: there is a lender, a
    published structure, and a decision you can go get.
 
-4. **Face value, discounted by whether you'll actually get it — but not to zero.** A competitive award
-   ranks between its face value and nothing, never at face value. It still beats a free coffee you are
-   certain to receive: nondilutive money you probably won't win outranks a networking breakfast you
-   definitely will. Goldman Sachs 10,000 Small Businesses is B on this basis — genuinely selective,
-   genuinely free, and a curriculum a small-business owner could not otherwise buy.
+4. **Face value is heavily discounted by whether you'll actually get it.** A competitive award ranks
+   between its face value and nothing, never at face value. Eligibility, selection, completion, and
+   timing all reduce expected value. A smaller intervention that reliably prevents a beginner's next
+   mistake can outrank life-changing money that almost every applicant misses.
 
-5. **Rank the best-fit founder's experience, not the average visitor's.** This is ruling 6 of the
-   impact ladder — depth beats breadth — carried over. The University of Utah Technology Licensing
-   Office is irrelevant to almost everyone and B here, because a U of U inventor legally cannot license
-   their own work around it: for its audience, substitutability is zero. The Suazo Business Center and
-   the Veteran Business Resource Center rank on what they do for Spanish-preferring and
-   military-connected founders, not on how many Utahns they serve. A narrow audience is not a demerit.
-   Serving that audience with the same package everyone else offers is.
+5. **Rank the reference founder, then preserve the escape hatches.** A narrow program can be decisive
+   for its best-fit audience and still sit below a broad first stop on this list. That is not a verdict
+   on the specialist. Every entry links to its page, and the list links to the unranked resource index,
+   so a biotech founder, rural operator, veteran, university inventor, or Spanish-preferring founder can
+   route by fit instead of pretending to be the median.
 
 6. **Cost is a term, not a demerit.** Equity is a price, an hourly rate is a price, and "free" is
    sometimes the most expensive option in wasted quarters. A program that takes 6% is not automatically

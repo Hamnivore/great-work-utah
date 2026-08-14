@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-08-05 · https://www.stocktitan.net/sec-filings/BBBY/10-q-bed-bath-beyond-inc-quarterly-earnings-report-a7e5734042b6.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** e-commerce, online retail, home goods, blockchain assets, Utah tech anchor
 **Roles:** marketing-communications
 **Stage:** Public (NYSE: BBBY)

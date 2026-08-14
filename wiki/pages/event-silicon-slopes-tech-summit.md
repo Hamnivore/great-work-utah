@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-02-04 · https://www.deseret.com/entertainment/2026/01/24/silicon-slopes-summit-lineup-2026/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Lehi, UT
 **Utah Location:** statewide

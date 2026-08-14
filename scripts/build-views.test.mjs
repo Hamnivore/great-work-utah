@@ -164,9 +164,9 @@ ${provides}
     const founder = fs.readFileSync(path.join(wiki, 'views', 'founder-resource-tier-list.md'), 'utf8')
     assert.match(founder, /\[How this is ranked\]\(\.\.\/meta\/founder-tiers\.md\)/)
     // Same impact tier, opposite ends of this ladder — the disagreement is the point.
-    assert.match(founder, /## A — no second one \(1\)[\s\S]*Grant Office/)
+    assert.match(founder, /## A — best general first move \(1\)[\s\S]*Grant Office/)
     assert.match(founder, /## F — a listing \(1\)[\s\S]*County Chamber/)
-    assert.match(founder, /\*Hands you:\* Two million dollars and a named deadline\./)
+    assert.match(founder, /Grant Office is a thing\./)
     // n/a is set aside, not ranked, and is excluded from the ranked count in the lede.
     assert.match(founder, /Utah's 2 founder resources ranked/)
     assert.match(founder, /## Not founder resources \(1\)[\s\S]*Free Clinic/)

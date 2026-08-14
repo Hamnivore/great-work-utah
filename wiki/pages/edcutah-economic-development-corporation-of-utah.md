@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2026-05-14 · https://www.edcutah.org/recent-news/trigg-minerals-llc-announces-plans-to-develop-mining-and-refining-operations-in-utahs-garfield-and-iron-counties
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide

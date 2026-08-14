@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2011 · http://www.solidcarbonproducts.com/
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** Funding, Other
 **Domain:** capital-programs, energy
 **Primary Location:** Salt Lake City, UT

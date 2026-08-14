@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Activity-signal:** 2026-01-29 · https://news.northropgrumman.com/launch/northrop-grummans-smart-demo-tests-second-advanced-solid-rocket-motor-and-achieves-successful-firing-in-two-months
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** solid rocket motors, space launch, nuclear deterrent, aerospace manufacturing, defense
 **Roles:** software-engineering, physical-sciences, hardware-engineering, manufacturing-operations, clinical-regulatory
 **Stage:** Established; 80+ years on-site; public defense prime (NYSE: NOC)

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Activity-signal:** 2014-07-03 · https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** metabolic syndrome, PASK inhibition, diabetes, obesity, NAFLD/NASH, University of Utah spinout
 **Roles:** biology-life-sciences, physical-sciences, clinical-regulatory
 **Stage:** Unknown as of 2026; last primary public signal is 2014 preclinical partnership press release

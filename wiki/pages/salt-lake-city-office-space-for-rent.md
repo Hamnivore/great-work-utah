@@ -5,6 +5,8 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** F
+**Activity-checked:** 2026-08-14
+**Activity:** unknown
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

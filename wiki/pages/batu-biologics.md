@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Activity-signal:** 2017-05-10 · https://www.sec.gov/Archives/edgar/data/1612629/0001612629-17-000001.txt
+**Activity-checked:** 2026-08-14
+**Activity:** dormant
 **Focus:** immuno-oncology, tumor vasculature, anti-angiogenesis, university spinout
 **Identifiers:** cik=0001612629, ein=46-4392157
 **Roles:** biology-life-sciences, clinical-regulatory

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Activity-signal:** 2026-07-06 · https://qanr.usu.edu/biosystems/education/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** agricultural genomics, bioinformatics, land-grant research, arid-land crops, livestock genetics
 **Roles:** data-science, biology-life-sciences
 **Stage:** Established university research center

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** C
+**Activity-signal:** 2025-09-15 · https://www.mpo-mag.com/breaking-news/spectrum-health-sciences-simplytest-name-damon-silvestry-ceo/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** saliva collection devices, SDNA-1000, COVID-19 specimen collection, microbial nucleic acid stabilization, in vitro diagnostics accessories, Draper manufacturing
 **Primary Location:** Draper, UT
 **Utah Location:** Draper, UT

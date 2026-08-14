@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** n/a
+**Activity-signal:** 2026-09-19 · https://www.utahgeekevents.com/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** community technology events, volunteer-led coding education
 **Primary Location:** Utah
 **Utah Location:** statewide

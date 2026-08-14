@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-08-05 · https://www.kuer.org/business-economy/2026-08-06/weber-countys-inland-port-needs-electricity-nuclear-could-be-an-option
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Ogden, UT
 **Utah Location:** Weber County, UT

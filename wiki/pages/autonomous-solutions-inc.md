@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-03-11 · https://asirobots.com/asis-scythe-acquisition-amplifies-autonomous-off-road-vehicle-leadership/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** off-road vehicle autonomy, industrial fleet automation, OEM-agnostic robotics, mining, agriculture, construction, logistics
 **Roles:** software-engineering, data-science, hardware-engineering, sales-business-development, field-skilled-trades
 **Stage:** Established private company (founded 2000; Utah State University spinout; expanding in 2025–2026)

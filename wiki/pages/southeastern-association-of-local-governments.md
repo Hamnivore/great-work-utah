@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-07-16 · https://www.utah.gov/pmn/sitemap/noticehistory/332325.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County

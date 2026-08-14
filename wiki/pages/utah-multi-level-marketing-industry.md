@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2026-03-16 · https://www.directsellingnews.com/2026/03/16/public-product-companies-2025-year-end-earnings-review/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** multi-level marketing, direct selling, nutritional supplements, personal care, network distribution, contract manufacturing
 **Domain:** health-bio, materials-mfg, culture-place
 **Stage:** Ecosystem / cluster

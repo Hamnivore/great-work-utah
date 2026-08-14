@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-30 · https://ir.redcatholdings.com/news-events/press-releases/detail/235/red-cat-receives-2-49-million-u-s-air-force-order-for-black-widow-systems
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** small unmanned aircraft, ISR, defense, autonomous systems, domestic drone manufacturing
 **Identifiers:** cik=0001661393, ein=47-5635123
 **Roles:** software-engineering, hardware-engineering, manufacturing-operations, program-project-management

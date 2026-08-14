@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** n/a
+**Activity-signal:** 2026-08-05 · https://fourthstreetclinic.org/blog/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** integrated health care for people experiencing homelessness
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D*
 **Founder-tier:** D
+**Activity-signal:** 2026-11-13 · https://southernutahcodecamp.com/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** 24-hour hackathon, skill-tiered divisions, St George tech community, sponsor-funded
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT

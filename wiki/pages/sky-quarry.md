@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-03-31 · https://www.sec.gov/Archives/edgar/data/1812447/000109690626000438/0001096906-26-000438-index.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** asphalt shingle recycling, ECOSolv, heavy oil extraction, oil sands, circular economy, bitumen recovery
 **Identifiers:** cik=0001812447, ein=84-1803091
 **Roles:** manufacturing-operations, clinical-regulatory, marketing-communications, legal-policy

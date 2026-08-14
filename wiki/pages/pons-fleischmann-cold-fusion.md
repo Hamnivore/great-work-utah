@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** A*
+**Activity-signal:** 1991-06-30 · https://www.deseret.com/1991/7/11/18930257/fusion-institute-closure-ends-the-hype/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** scientific ethics, replication, electrochemistry, institutional behavior, science communication
 **Era:** March 23, 1989 announcement; controversy through 1989-1990
 **Primary Location:** University of Utah, Salt Lake City, UT

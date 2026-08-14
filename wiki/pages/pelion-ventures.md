@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** C
 **Founder-tier:** C
+**Activity-signal:** 2026-07-10 · https://www.finsmes.com/2026/07/vendelux-raises-50m-in-series-b-funding.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT

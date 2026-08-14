@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** n/a
+**Activity-signal:** 2026-06-24 · https://www.codeadventure.net/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** girls coding camp, youth technology education, software engineering, cybersecurity, data analytics, UX design
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT

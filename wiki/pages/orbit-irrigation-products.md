@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-05-19 · https://www.prweb.com/releases/new-era-for-husqvarna-professional-landscape-and-agriculture-irrigation-solutions-302458300.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** residential irrigation, smart watering, sprinklers, drip irrigation, water conservation, B-hyve
 **Roles:** manufacturing-operations, hardware-engineering, product-design, sales-business-development
 **Stage:** Subsidiary of Husqvarna Group (Gardena Division) since November 2021; previously owned by Platinum Equity (2019–2021)

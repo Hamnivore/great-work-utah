@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Activity-signal:** 2020-03-02 · https://healthsystemcio.com/2020/03/02/qa-with-marc-probst-chime-himss-cio-of-the-year/
+**Activity-checked:** 2026-08-14
+**Activity:** concluded
 **Focus:** clinical decision support, medical informatics, electronic health records, hospital systems
 **Era:** 1967-present in successor forms; major HELP development in the 1970s-1990s
 **Primary Location:** LDS Hospital, Salt Lake City, UT

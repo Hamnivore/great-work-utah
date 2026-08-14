@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** C
+**Activity-signal:** 2025-07-01 · https://magutah.gov/static/files/Admin/budget/MAG%20Budget%20FY26.Approved.pdf
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Heber City, UT

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2026-01-26 · https://link.springer.com/article/10.1007/s10815-025-03791-0
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** epigenetic diagnostics, male fertility, sperm function, reproductive health, AI biomarkers
 **Identifiers:** cik=0001977505, ein=83-4457901
 **Roles:** data-science, biology-life-sciences, clinical-regulatory

@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-07-31 · https://www.sec.gov/Archives/edgar/data/0000899923/000089992326000072/mygn-20260630.htm
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** molecular diagnostics, hereditary cancer, oncology genomics, reproductive health, precision medicine
 **Roles:** data-science, biology-life-sciences, clinical-regulatory, product-design, sales-business-development
 **Stage:** Public (NASDAQ: MYGN)

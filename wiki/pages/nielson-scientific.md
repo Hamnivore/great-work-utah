@@ -4,6 +4,9 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Activity-signal:** 2025-02-18 · https://www.sbir.gov/awards/218978
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** 3D microfabrication, laser nano-ablation, superconducting flex cables, terahertz filters, cryogenic probe cards, semiconductor etching
 **Identifiers:** uei=MVTBKVUKLCZ3
 **Roles:** hardware-engineering, manufacturing-operations, field-skilled-trades, sales-business-development

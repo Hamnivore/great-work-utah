@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** D
 **Founder-tier:** D
+**Activity-signal:** 2026-06 · https://jobs.utah.gov/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide

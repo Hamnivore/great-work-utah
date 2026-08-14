@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Activity-signal:** 2026-07-21 · https://struvia.co/authors/baylor-jeppsen
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** AI construction takeoff, estimating, subcontractor bid solicitation and leveling
 **Domain:** materials-mfg, computing
 **Primary Location:** Utah County, UT

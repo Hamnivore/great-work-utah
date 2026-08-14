@@ -5,6 +5,9 @@
 **Confidence:** Medium
 **Tier:** F
 **Founder-tier:** F
+**Activity-signal:** 2026-02-26 · https://www.prnewswire.com/news-releases/the-cynosure-group-acquires-utah-development-and-construction-creating-a-new-joint-partnership-with-clyde-capital-group-302697970.html
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT

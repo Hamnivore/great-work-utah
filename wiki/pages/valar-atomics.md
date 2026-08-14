@@ -4,6 +4,9 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Activity-signal:** 2026-06-18 · https://www.deseret.com/utah/2026/06/18/valar-atomics-goes-critical-in-utah/
+**Activity-checked:** 2026-08-14
+**Activity:** active
 **Focus:** microreactors, advanced nuclear, TRISO fuel, high-temperature gas reactors, deployable power
 **Roles:** physical-sciences, manufacturing-operations, clinical-regulatory, field-skilled-trades
 **Stage:** Seed ($19M); test reactor under construction at Utah San Rafael Energy Lab

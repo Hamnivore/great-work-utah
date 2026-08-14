@@ -298,6 +298,38 @@ h1 {
 .doc li {
   margin-bottom: 0.35rem;
 }
+
+/* The tier list is one ladder; activity is a mark on it, not a second list.
+   Inactive rows recede so the live ones can be read at arm's length. The fade
+   stays put — a hover restyle made the page flicker and hid that concluded
+   S-tier work is still meant to be read. Opacity is the glance; colour is
+   never the only carrier (the row also lacks `(active)`). */
+.tier-list .doc li {
+  margin-bottom: 0.85rem;
+}
+.tier-list .doc li > strong {
+  display: block;
+}
+.tier-list .doc li.is-quiet {
+  opacity: 0.62;
+}
+.tier-list .active-mark {
+  color: var(--color-sage);
+  font-family: var(--font-sans);
+  font-size: 0.85em;
+  font-weight: 600;
+}
+@media (prefers-reduced-transparency: reduce), (prefers-contrast: more) {
+  .tier-list .doc li.is-quiet {
+    opacity: 1;
+    color: var(--color-ink-soft);
+  }
+}
+@media print {
+  .tier-list .doc li.is-quiet {
+    opacity: 1;
+  }
+}
 .doc blockquote {
   margin: 0 0 0.9rem;
   border-left: 2px solid var(--color-sandstone);

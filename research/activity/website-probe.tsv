@@ -1,0 +1,493 @@
+# Activity probe — mechanical signals only, NOT verdicts.
+# Generated 2026-08-14 by scripts/probe-activity-signals.mjs. Regenerate freely; not in Git.
+# A 200 proves the domain answers, not that anyone is home: parked domains and mothballed
+# program pages answer 200 forever. site-year is the newest year the homepage mentions, which is a
+# better maintenance tell. evidence-date is the newest date a cited source document itself carries
+# (Published, never Retrieved). Decide Activity from research; use these to know where to look first.
+#
+slug	type	tier	http	site-year	evidence-date	website	final-url
+1-million-cups-orem	resource	D	200			https://www.1millioncups.com/s/account/0014W00002AqQfKQAV/orem-ut	
+1-million-cups-salt-lake	resource	F	200	2026		https://1mcslc.com/	
+1mc-salt-lake	resource	F	200	2026		http://www.1mcslc.com	https://1mcslc.com/
+309th-software-engineering-group	venture	A	no-website				
+3helix	venture	C	200	2026		https://www.3helix.com	https://www.3helix.com/
+47g-utah-aerospace-and-defense-association	resource	D	200	2026		https://www.47g.org/	
+a-bolder-way-forward	resource	D	200	2026		https://uwlp.usu.edu/abwf	https://www.usu.edu/uwlp/
+a-tech-home-plans	resource	F	200	2025		https://startup.utah.gov/resources/	
+aaron-skonnard	person	C	no-website				
+acceler8-wasatch	resource	F	200			https://www.ogdencity.gov/DocumentCenter/View/33983/2025-Final-Acceler8-Wasatch-2025-Press-Release-May-8	
+acima	venture	C	200	2024		https://www.acima.com/	https://www.acima.com/en
+act-aerospace	venture	C	200	2026		https://actaero.com	https://actaero.com/
+adobe	venture	B	no-website				
+ai-builder-day	resource	D	200	2026		https://aibuilderday.com/	
+ai-seminar-for-small-businesses-and-non-profits	resource	F	200	2025		https://startup.utah.gov/resources/	
+album	resource	D	200	2026		https://www.album.vc/	
+altitude-labs	resource	C	200	2026		https://www.altitudelab.org/	https://altitudelab.org/
+ancestry	venture	B	200	2026		https://www.ancestry.com/	
+apa-sherpa-everest-summits	work	C*	no-website		2024-05-22		
+apa-sherpa-foundation	resource	D	200	2026		https://www.apasherpafoundation.org/	
+apex-accelerator	resource	D	200	2026		https://business.utah.gov/apex/	
+apprenticeship-utah	resource	C	200	2021		https://apprenticeship.utah.gov/	
+araknitek	venture	D	no-website				
+army-short-range-reconnaissance-uas	work	C	200	2026		https://www.army.mil/article/288117/army_begins_production_of_second_tranche_of_short_range_reconnaissance_uas	
+arpanet-fourth-node	work	A	200	2026		https://it.utah.edu/node4/posts/2017/august/node4-history.php	
+arup-laboratories	venture	B	200	2026		https://www.aruplab.com	https://www.aruplab.com/
+atavistik-bio	venture	C	200	2026		https://atavistikbio.com	https://atavistikbio.com/
+atmospheric-waves-experiment	work	C	no-website				
+atwood-innovation-plaza	resource	D	200	2026		https://innovation.utahtech.edu/	
+auticon-us	venture	D	200	2026		https://auticon.com/us/	
+autonomous-low-collateral-counter-uas-interception	work	C	200	2026		https://fortemtech.com/	
+autonomous-solutions-inc	venture	C	200	2026		https://asirobots.com	https://asirobots.com/
+bamboohr	venture	C	200	2024		https://www.bamboohr.com/	
+batu-biologics	venture	F	no-website				
+baxter-aerospace	venture	D	200	2025		https://www.baxteraerospace.com/	
+bbcetc	helper	D	200	2025		https://bbcetc.com/	
+bear-lake-regional-commission	resource	D	200	2024		http://www.bearlakeregionalcommission.org/	https://www.bearlakeregionalcommission.org/
+bear-lake-valley-chamber-of-commerce	resource	D	200	2026		https://bearlakechamber.com/	
+bear-river-association-of-governments	resource	D	200	2026		https://brag.utah.gov/	
+best-friends-animal-society	venture	B	200	2026		https://bestfriends.org	https://bestfriends.org/
+best-of-state-awards	resource	D	200	2026		https://www.bestofstate.org	https://www.bestofstate.org/
+big-chamber-beaver-iron-garfield	resource	D	200	2026		https://www.bigchamber.org/	
+bingham-canyon-mine	work	S	200	2026		https://www.kennecott.com/history	https://www.riotinto.com/operations/us/kennecott
+bio-utah	resource	D	200	2026		https://bioutah.org/	
+bioenergenix	venture	F	200	2026	2014-07-03	https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic	
+biofire-diagnostics	venture	B	200	2023		https://www.biofiredx.com	https://www.biofiredx.com/
+biohive-utah	resource	D	200	2026		https://www.biohive.com/	
+bioparin	venture	C	no-website				
+blackrock-neurotech	venture	A	200	2026		https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/	
+blue-raven-solar	venture	C	200	2026	2024-08-06	https://www.blueravensolar.com	https://us.sunpower.com/
+blundell-geothermal-plant	venture	C	200	2026		https://www.pacificorp.com/	
+box-elder-chamber-of-commerce	resource	D	200	2026		https://www.boxelderchamber.com/	
+brigham-city-economic-development	resource	D	200			https://www.bcutah.gov/page/economic-development/	
+brigham-young-university-byu-rollins-center	resource	D	200			https://marriott.byu.edu/cet/	https://rollins.byu.edu/
+browning-firearms-designs	work	S	200	2026		https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection	
+bunnell-incorporated	venture	B	200	2026		https://bunl.com	https://bunl.com/
+business-resource-center-davis-tech-college	resource	D	200	2026		https://brc.davistech.edu/	
+business-resource-center-utah-tech-university	resource	D	200	2026		https://innovation.utahtech.edu/business-resource-center/	
+business-technical-assistance-center	resource	D	200	2025		https://seenutah.org/	
+byu-pathway	venture	B	CERT_HAS_EXPIRED			https://byupathway.edu	
+cache-valley-chamber-of-commerce	resource	D	200	2026		https://cachechamber.com/	
+calycia-biosciences	venture	C	200	2026		https://www.calyciabioscience.com	https://www.calyciabioscience.com/
+capecchi-gene-targeting	work	S	200	2026		https://www.nobelprize.org/prizes/medicine/2007/press-release/	
+carbon-county-chamber-of-commerce	resource	D	200	2026		https://www.carboncountychamber.net/	
+carbon-county-economic-development	resource	D	200	2026		https://www.carbon.utah.gov/department/economic-development/	
+carterra	venture	C	200	2026		https://carterra-bio.com	https://carterra-bio.com/
+carv	venture	C*	200	2026		https://getcarv.com/	
+cedar-city-area-chamber-of-commerce	resource	D	200	2026		https://www.cedarcitychamber.org/	
+chad-testa	person	C	no-website				
+choice-humanitarian	helper	C	200	2026		https://www.choicehumanitarian.org/	https://choicehumanitarian.org/
+church-and-state	resource	D	200	2025		https://www.cs1893.com/	
+cleanjoule	venture	B	200	2026		https://cleanjoule.com	https://cleanjoule.com/
+clearfield-job-corps	resource	D	200	2023		https://clearfield.jobcorps.gov/	
+clint-betts	person	D*	no-website				
+clozd	venture	C	200	2026		https://www.clozd.com/	
+code-adventure-utah	resource	D	200	2026		https://www.codeadventure.net/	
+comphealth	venture	C	200		2006-03-27	https://www.comphealth.com/	https://comphealth.com/
+conotoxins-and-prialt	work	A	502			https://archive.unews.utah.edu/news_releases/new-painkiller-was-born-in-utah/	
+convoi-ventures	resource	D	200	2026		https://www.convoiventures.com/	
+coreform	venture	C	200	2026		https://coreform.com	https://coreform.com/
+cosm	venture	C	200	2026		https://cosm.com	https://www.cosm.com/
+cotopaxi	venture	C	200	2026		https://www.cotopaxi.com	https://www.cotopaxi.com/
+coworking-space-in-salt-lake-city-offices-net	resource	F	200	2026		https://offices.net/ut/salt-lake-city/coworking/	
+cross-creek	resource	D	200			https://crosscreek.vc/	
+crumbl	venture	C	200	2026		https://crumbl.com	https://crumblcookies.com/
+cto-breakfast-utah	resource	D*	200	2026		https://ctobreakfast.com/communities/utah/	
+culmination-bio	venture	C	200	2026		https://intermountainhealthcare.org/services/genomics/research/collaborative-solutions/culmination/	https://intermountainhealthcare.org/about/research
+curza	venture	B	200	2026		https://curza.com	https://www.curza.com/
+custom-fit-training	resource	C	200	2026		https://ushe.edu/custom-fit/	
+cyclokinetics	venture	D	200	2026		https://cyclokinetics.com/	
+cynosure	resource	F	200	2026		https://cynosuregroup.com/	
+cyrq-energy	venture	C	200	2026		https://cyrqenergy.com/	
+dave-bearss	person	C	no-website				
+davis-chamber-of-commerce	resource	D	202			https://davischamberofcommerce.com/	
+davis-county-economic-development	resource	D	200			https://www.daviscountyutah.gov/ced	
+davis-smith	person	C	no-website				
+delta-area-chamber-of-commerce	resource	D	200	2026		https://www.deltautahchamber.com/	
+deseret-book-bonneville	venture	B	200	2026		https://deseretbook.com	https://www.deseretbook.com/
+digicert	venture	B	200	2026		https://www.digicert.com/	
+domo	venture	C	200	2026		https://www.domo.com	https://www.domo.com/
+dugway-proving-ground	work	B	200	2026		https://www.army.mil/dugway	
+edcutah-economic-development-corporation-of-utah	resource	D	200	2026		https://www.edcutah.org/	
+eden-technologies	venture	D	200	2026		https://edentechinc.com	https://www.edentechinc.com/
+eide-bailly-utah	helper	D	200	2026		https://www.eidebailly.com/locations/salt-lake-city	
+eimco-rocker-shovel-loader	work	B	200	2026		https://www.asme.org/about-asme/engineering-history/landmarks/212-eimco-rocker-shovel-loader-model-12b	
+electric-power-systems	venture	B	200	2026		https://epsenergy.com	https://epsenergy.com/
+emery-county-economic-development	resource	D	200	2026		https://www.emerycountychamber.com/emery-economic-development.html	
+enduracure	venture	D	200	2022		https://enduracure.com	https://www.enduracure.com/
+energy-fuels-white-mesa	venture	B	200	2026		https://www.energyfuels.com/	
+energy-solutions	venture	B	no-website				
+epic-ventures	resource	C	200	2020		https://www.epicvc.com/	
+epitel	venture	C	200	2026		https://www.epitel.com/	
+escalante-city-innovation-center	resource	F	200			https://www.escalantecity-utah.com/services/escalante-city-innovation-center/	
+evans-and-sutherland	work	A	200			https://www.cosm.com/about/cosm-companies	
+event-business-forward	resource	D	200	2026		https://forward.utahbusiness.com/	https://www.utahbusiness.com/forward/
+event-grand-summit-moab	resource	D	200	2020		https://www.grandsummitmoab.com/	
+event-mountain-west-capital-network	resource	D	200	2026		https://www.mwcn.org/	
+event-one-utah-summit	resource	D	200	2026		https://oneutahsummit.utah.gov/	
+event-raising-kane-business-summit	resource	D	200	2026		https://www.raisingkanesummit.com/	
+event-silicon-slopes-tech-summit	resource	D	200			https://www.siliconslopes.com/summit	
+event-utah-tech-week	resource	D	200	2026		https://www.utahtechweek.com/	
+event-what-s-up-down-south-economic-summit	resource	D	202			https://whatsupdownsouth.org/	
+evolution-bio	venture	C	no-website				
+familysearch	venture	B	200			https://www.familysearch.org	https://www.familysearch.org/en/united-states/
+federal-economic-development-administration	resource	D	403			https://www.eda.gov/	
+fervo-energy	venture	A	202			https://fervoenergy.com	https://fervoenergy.com/
+first-step-entrepreneur	resource	F	200	2025		https://startup.utah.gov/resources/	
+five-county-association-of-governments	resource	D	200	2026		http://www.fivecounty.utah.gov/	https://www.fivecounty.utah.gov/
+flaming-gorge-chamber-of-commerce	resource	D	200	2026		https://www.flaminggorgecountry.com/Chamber-of-Commerce/	
+florian-solzbacher	person	B	no-website				
+flys-eye-hires-cosmic-rays	work	A	200	2026		https://science.utah.edu/faculty/why-scientists-havent-solved-the-mystery-of-the-oh-my-god-particle/;	https://science.utah.edu/faculty/why-scientists-havent-solved-the-mystery-of-the-oh-my-god-particle/
+forge-utah	resource	D*	200	2015		https://forgeutah.tech	https://forgeutah.tech/
+fortem-technologies	venture	C	200	2026		https://fortemtech.com/	
+fourth-street-clinic	resource	D	200	2026		https://fourthstreetclinic.org/	
+fred-lampropoulos	person	C	no-website				
+fstep-idea-explorer	resource	F	200	2025		https://startup.utah.gov/resources/	
+furnace-outbound	venture	D	200	2026		https://www.getfurnace.io/	
+futureready-utah	resource	D	200	2020		http://futurereadyutah.org	https://www.futurereadyutah.org/
+get-started-business-idea-challenge	resource	F	200			https://startup.utah.gov/business-resource/get-started-business-idea-challenge/	
+globus-relief	venture	C	200	2026		https://www.globusrelief.org	https://globusrelief.org/
+golden-spike-transcontinental-railroad	work	S	200	2026		https://www.nps.gov/gosp/index.htm	
+goldman-sachs-1000-small-businesses	resource	C	200	2026		https://10ksbapply.com/	
+grand-county-economic-development	resource	D	200	2012		https://www.co.grand.co.us/1056/Economic-Development	
+great-salt-lake	venture	A	200	2024		https://ffsl.utah.gov/public-lands/great-salt-lake/	https://ffsl.utah.gov/state-lands/sovereign-lands/great-salt-lake/
+greater-nephi-chamber-of-commerce	resource	D	200	2026		https://www.nephichamber.org/	
+grix	resource	D	200	2026		https://www.grix.vc/	
+grow-utah	resource	C	200	2026		https://www.growutah.com/	https://growutah.com/
+h-tracy-hall-diamond-presses	work	A	200	2026		https://www.invent.org/inductees/h-tracy-hall	
+halda	venture	C	200	2026		https://www.halda.ai/	
+halia-therapeutics	venture	B	200	2026		https://haliatx.com	https://haliatx.com/
+harvey-fletcher-stereophonic-sound	work	S	200	2026		https://news.byu.edu/news/byus-first-physics-grad-earns-posthumous-grammy-award	
+health-catalyst	venture	C	no-website				
+heber-city-community-alliance-for-main-street	resource	D	200	2026		https://hebercity-cams.org/	
+heber-valley-chamber-of-commerce	resource	D	200	2026		https://www.gohebervalley.com/chamber/	https://www.gohebervalley.com/Chamber/
+heber-valley-economic-development	resource	D	200	2026		https://www.gohebervalley.com/Economic-Development/	https://www.gohebervalley.com/economic-development/
+help-clinical-decision-support-system	work	A	200	2026		https://pmc.ncbi.nlm.nih.gov/articles/PMC2203749/;	
+helpside	venture	D	202			https://www.helpside.com/	
+hexcel	venture	B	200	2026		https://www.hexcel.com/	
+high-density-sustainable-aviation-fuels	work	C	200	2026		https://cleanjoule.com	https://cleanjoule.com/
+hill-air-force-base	venture	A	403			https://www.hill.af.mil/	
+hope-squad	venture	C	200	2026		https://hopesquad.com	https://www.hopesquad.com/
+huntsman-cancer-institute	venture	B	200	2026		https://healthcare.utah.edu/huntsmancancerinstitute	https://healthcare.utah.edu/huntsmancancerinstitute/
+huntsman-world-senior-games	venture	D	200	2026		https://seniorgames.net	https://seniorgames.net/
+hurricane-valley-chamber-of-commerce	resource	D	200	2026		https://hvchamber.com/	
+hypercraft	venture	C	200	2024		https://www.hypercraft.com/	
+ihub	resource	C	200			https://www.ihubutah.org/	https://ihubutah.org/
+imagine-learning	venture	C	200	2026		https://www.imaginelearning.com	https://www.imaginelearning.com/
+impact-utah	resource	F	200	2026		https://www.47g.org/47g-impact-center	
+imsar	venture	C	200	2026		https://www.imsar.com/	
+indie-square	resource	D	200	2024		https://www.indiesquare.org/	https://indiesquare.org/
+inherent-biosciences	venture	C	200	2020		https://www.inherentbio.com	https://www.inherentbio.com/
+innosys	venture	C	200	2025		https://www.innosystech.com	https://www.innosystech.com/
+instructure	venture	B	200	2026		https://www.instructure.com	https://www.instructure.com/
+intactis-bio	venture	C*	200	2026		https://www.intactis.bio/	
+intan-technologies	venture	B	200	2026		https://intantech.com/	
+intergalactic	venture	C	200	2026		https://ig.space/	
+intermountain-clinical-quality-improvement	work	A	200	2026		https://en.wikipedia.org/wiki/Intermountain_Health	
+international-trade-and-diplomacy	resource	D	200	2026		https://business.utah.gov/international/	
+interval-ai	venture	D	200	2026		https://interval-ai.com	https://interval-ai.com/
+iomega-zip-drive	work	C*	200	2020		https://www.sec.gov/Archives/edgar/data/352789/0000352789-95-000002-index.htm	
+ionic-mt	venture	C	200	2026		https://ionicmt.com	https://ionicmt.com/
+iris-biomedical	venture	C	200	2023		https://irismeddesign.com/	
+iron-county-economic-development	resource	D	200	2026		https://www.cedarcityut.gov/2357/Economic-Development	
+ivumed	resource	C	200	2023		https://www.ivumed.org/	
+jared-rutter	person	B	no-website				
+jarvik-7-artificial-heart	work	S	200			https://medicine.utah.edu/sites/g/files/zrelqx356/files/migration/media/first-artificial-heart-anderson.pdf	
+jobnimbus	venture	C	200	2026		https://www.jobnimbus.com/	
+josh-james	person	C	no-website				
+juab-county-economic-development	resource	D	200	2026		https://juabcounty.gov/	
+jump-aero	venture	D	200	2026		https://jumpaero.com	https://jumpaero.com/
+justbuild	resource	D	200	2024		https://justbuild.ing/	
+karl-sun	person	C	no-website				
+kem-c-gardner-policy-institute	resource	D	200	2026		https://gardner.utah.edu/	
+keva-locks	venture	D	200	2025		https://www.kevalocks.com/	
+kickstart-fund	resource	C	200	2026		https://www.kickstartfund.com/	https://kickstart.com/
+kiln	resource	D	200	2026		https://kiln.com	https://kiln.com/
+kinect-capital	resource	D	200	2026		https://kinectcapital.org/	
+kirton-mcconkie	helper	D	200	2026		https://www.kirtonmcconkie.com/	
+l3harris-salt-lake	venture	B	no-website				
+leland	venture	D	200	2026		https://www.joinleland.com	https://www.joinleland.com/
+les-olson-it	venture	D	200	2026		https://lesolson.com/	
+lialaunch	resource	D	200	2024		https://www.lialaunch.com/	
+liveview-technologies	venture	C	200	2026		https://www.lvt.com	https://www.lvt.com/
+logan-city-economic-development	resource	D	200	2023		https://www.loganutah.gov/government/mayor_s_office/economic_development/index.php	
+lucid-software	venture	C	200	2023		https://lucid.co/	
+make-salt-lake	resource	D	200			http://makesaltlake.org	https://makesaltlake.org/
+make-utah	resource	D	200	2025		https://makeutah.org/	
+maschoff-brennan	helper	D	200	2026		https://mabr.com/	
+mastercontrol	venture	C	200	2026		https://www.mastercontrol.com	https://www.mastercontrol.com/
+maven-create	resource	D	200	2026		https://mavencreateslc.com/	
+mercato-partners	resource	C	200	2026		https://www.mercatopartners.com/	
+merit-medical	venture	B	200	2026		https://www.merit.com	https://www.merit.com/
+military-installation-development-authority	resource	D	200	2026		https://www.midaut.org/	
+moab-chamber-of-commerce	resource	D	200	2026		https://moabchamber.com/	
+monarch	resource	D	200	2026		https://themonarchogden.com/	https://www.themonarchogden.com/
+monticello-coworking-space	resource	D	200	2026		https://members.monticellocoworking.com/	
+morgan-chamber-of-commerce	resource	F	200	2026		https://www.morganutahchamber.org/	
+morgan-county-economic-development	resource	D	200	2026		https://www.morgancountyinfo.com/	
+mountain-heights-academy	resource	C	200	2026	2010-09-07	https://mountainheightsacademy.org	https://mountainheightsacademy.org/
+mountain-land-association-of-governments-revolving-loan-fund-rlf	resource	D	200	2026		https://www.gohebervalley.com/Revolving-loan/	
+mountainland-association-of-governments	resource	D	200	2026		https://mountainland.org/	https://magutah.gov/
+moxie-solid-oxide-electrolysis-stack	work	B	200	2026		https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission	https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/
+music-ai	venture	C	200	2026		https://music.ai	https://music.ai/
+mx-technologies	venture	C	no-website				
+myriad-genetics	venture	B	200	2026		https://www.myriad.com/	https://myriad.com/
+myriad-genetics-brca	work	S	403			https://supreme.justia.com/cases/federal/us/569/576/	
+neighbor	venture	C	403			https://www.neighbor.com/	
+nephronovus	venture	F	200	2026		https://altitudelab.org/portfolio	
+neumont-college-of-computer-science	venture	D	200	2026		https://www.neumont.edu/	
+nielson-scientific	venture	C	200	2026		https://nielsonscientific.com	https://nielsonscientific.com/
+northern-utah-dotnet-users-group	resource	D	200	2026		https://nunug.org/	
+northern-utah-economic-alliance	resource	D	200	2026		https://nuea.org/	
+northrop-grumman-promontory	venture	S	200	2026		https://www.northropgrumman.com/what-we-do/space/missions/artemis/program	
+now-cfo	helper	D	200	2026		https://nowcfo.com/	
+nsa-utah-data-center	venture	A	200	2026		https://en.wikipedia.org/wiki/Utah_Data_Center	
+nu-skin	venture	B	200		2026-02-13	https://www.nuskin.com/	https://www.nuskin.com/nuskin.html
+nucleus-fund	resource	D	200	2022		https://www.nucleusfundutah.com/	
+nucleus-grow	resource	C	200	2026		https://www.nucleusutah.org/grow	
+nucleus-institute	helper	D	200	2026		https://www.nucleusutah.org/	
+nucleus-marketedge	resource	D	200	2026		https://www.nucleusutah.org/marketedge	
+nusano	venture	A	200	2026		https://nusano.com	https://nusano.com/
+oc-tanner	venture	C	no-website				
+ogden-weber-chamber-of-commerce	resource	D	200	2026		https://www.ogdenweberchamber.com/	
+omniture-web-analytics	work	C	200	2010		https://www.sec.gov/Archives/edgar/data/1357525/000110465909054626/a09-26505_1sc14d9c.htm	
+orbit-irrigation-products	venture	C	200	2026		https://www.orbitonline.com	https://www.orbitonline.com/
+orem-library-makerspace	resource	D	403			https://library.orem.gov/makerspace	
+ormat-technologies	venture	C	200			https://ormat.com	https://ormat.com/
+overstock-com	venture	C	200	2014		https://www.bedbathandbeyond.com	https://www.bedbathandbeyond.com/
+owlet-baby-care	venture	C	200	2026		https://owletcare.com/	
+oxeon-energy	venture	B	200	2026		https://oxeonenergy.com	https://www.oxeonenergy.com/
+pacific-island-chamber-of-commerce-picc	resource	D	200	2026		https://www.pik2ar.org/picc	
+palladyne-ai	venture	C	200	2026		https://www.palladyneai.com	https://www.palladyneai.com/
+park-city-angels	resource	D	200	2026		https://www.parkcityangels.com/	
+park-city-chamber-of-commerce	resource	D	200	2022		https://www.parkcitychamber.com/	
+parsons-behle-latimer	helper	D	200	2026		https://parsonsbehle.com/	
+passivelogic	venture	B	200	2026		https://passivelogic.com/	https://www.passivelogic.com/
+pelion-ventures	resource	C	200	2026		https://pelionvp.com/	
+peterson-ventures	resource	C	200	2026		https://www.petersonventures.com/	
+philo-farnsworth-television	work	S	200	2025		https://www.census.gov/about/history/stories/monthly/2023/september-2023.html	
+photopharmics	venture	B	200	2026		https://photopharmics.com	https://photopharmics.com/
+pitted-ventures	resource	F	ERR_TLS_CERT_ALTNAME_INVALID			https://pittedventures.com/	
+pluralsight	venture	C	200	2026		https://www.pluralsight.com	https://www.pluralsight.com/
+podium	venture	C	200	2026		https://www.podium.com	https://www.podium.com/
+pons-fleischmann-cold-fusion	work	A*	403			https://www.axios.com/local/salt-lake-city/2024/03/18/cold-fusion-1989-university-utah-pons-fleischmann	
+portal-warehousing	resource	D	200	2026		https://www.join-portal.com/location/salt-lake-city	
+preferred-cfo	helper	D	200	2026		https://preferredcfo.com/	
+primary-childrens-hospital	resource	C	200	2026		https://prod.intermountainhealth.org/locations/primary-childrens-salt-lake-city/about	
+qualtrics	venture	B	200	2026		https://www.qualtrics.com/	
+r6-regional-council	resource	D	200	2026		https://r6.utah.gov/	
+ram-aviation-space-defense	venture	C	200	2026		https://ramasd.com	https://ram.space/
+rebel-medicine	venture	C	200	2026		https://www.rebelmedicine.com/	
+recursion-pharmaceuticals	venture	A	200	2026		https://www.recursion.com/mission	
+red-rock-angels	resource	D	200	2020		https://redrockangels.com/	https://www.redrockangels.com/
+renaissance-ag	venture	D	200	2026		https://www.linkedin.com/company/renaissance-ag	
+renewable-tech-ventures	resource	D	200	2026		https://www.renewablevc.com/	
+revolving-loan-fund-program-rlf-r6	resource	F	200	2026		https://r6.utah.gov/	
+revolving-loan-fund-program-rlf-south-eastern-utah	resource	F	200			https://serda.utah.gov/	
+revroad	resource	D	200	2026		https://www.revroad.com/	
+richfield-chamber-of-commerce	resource	D	200			https://richfieldareachamber.com/	
+ripple-neuro	venture	C	200	2026		https://rippleneuro.com	https://rippleneuro.com/
+rodatherm-energy	venture	B	200	2026		https://rodatherm.com	https://rodatherm.com/
+rotor	venture	D	200	2026		https://www.getrotor.com/	
+rqm-plus	helper	D	200	2026		https://www.rqmplus.com/	
+rural-utah-chamber-coalition	resource	D	200	2026		https://www.ruralutahcc.org/	
+ryan-smith-imsar	person	D	no-website				
+ryan-smith-qualtrics	person	C	no-website				
+safeut	resource	B	200	2026		https://safeut.org	https://safeut.org/
+salesrabbit	venture	C	200	2026		https://salesrabbit.com/	
+salina-chamber	resource	F	200	2026		https://www.salina.utah.gov/	
+salt-lake-angels	resource	D	200	2024		https://slcangels.org/	
+salt-lake-chamber	resource	D	200	2026		https://slchamber.com/	
+salt-lake-city-office-space-for-rent	resource	F	200	2026		https://offices.co/usa/salt-lake-city/	
+salt-lake-community-college-slcc-the-mill	resource	D	200	2026		https://themillatslcc.com/	
+salt-mine	resource	D	200	2025		https://meetatsaltmine.com/	
+san-juan-county-chamber-of-commerce	resource	D	200	2026		https://sanjuancountychamber.com/	https://www.sanjuancountychamber.com/
+san-juan-county-economic-development	resource	D	200	2026		https://www.sjcutaheconomicdevelopment.com/	
+sandbox	venture	D	200	2026		https://web.sandbox.ing	https://web.sandbox.ing/
+sanpete-chamber-of-commerce	resource	D	200	2026		https://sanpetechamberofcommerce.org/	https://www.sanpetechamber.org/
+sarcos-technology-and-robotics	venture	C	200	2026		https://palladyneai.com/	https://www.palladyneai.com/
+savory-fund	resource	D	200	2026		https://savoryfund.com/	
+sba-thrive	resource	C	200	2026		https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined	https://www.sba.gov/counseling/
+sba-utah-district-office	resource	D	200	2026		https://www.sba.gov/	
+schoolai	venture	C	200	2026		https://schoolai.com	https://schoolai.com/
+sci-institute	venture	B	200	2026		https://www.sci.utah.edu	https://sci.utah.edu/
+score-utah	resource	D	403			https://www.score.org/ut/	
+sethera-therapeutics	venture	D	200	2026		https://setheratx.com	https://setheratx.com/
+sevier-county-economic-development	resource	D	200	2024		https://scedc.com/	
+signal-peak-ventures	resource	C	200	2026		https://www.spv.com/	https://run.vc/
+silicon-slopes	resource	D	403			https://www.siliconslopes.com/	
+sistema-utah	resource	D	200	2013		https://www.sistemautah.org	https://www.sistemautah.org/
+six-county-association-of-governments	resource	D	200	2026		https://r6.utah.gov/	
+skullcandy	venture	C	200	2026		https://www.skullcandy.com	https://www.skullcandy.com/
+sky-quarry	venture	C	200	2026		https://skyquarry.com	https://skyquarry.com/
+skywest-inc	venture	B	UNABLE_TO_GET_ISSUER_CERT_LOCALLY			https://inc.skywest.com/	
+snow-college-grit-center	resource	D	200	2026		https://www.snow.edu/offices/grit-center/index.html	https://snow.edu/offices/grit-center/index.html
+sorenson-impact-fund	resource	D	202			https://sorensonimpactfoundation.org/	
+soundstream-digital-audio-recording	work	A	200	2024		https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states	https://www.arpjournal.com/asarpwp/soundstream-the-introduction-of-commercial-digital-recording-in-the-united-states/
+soutah-economic-alliance	resource	D	200	2026		https://soutah.org/	https://www.soutah.org/
+southeastern-association-of-local-governments	resource	D	200			https://serda.utah.gov/	
+southeastern-utah-association-of-local-governments-economic-development	resource	F	200	2026		https://serda.utah.gov/community-development	
+southern-utah-code-camp	resource	D*	200	2026		https://southernutahcodecamp.com/	
+southern-utah-university-cedar-city-business-and-innovation-center	resource	D	200			https://www.suu.edu/regional/bic/	
+southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship	resource	D	200			https://www.suu.edu/business/entrepreneurship/	
+space-dynamics-laboratory	venture	B	200	2026		https://www.sdl.usu.edu	https://www.sdl.usu.edu/
+spectrum-solutions	venture	C	no-website				
+spiral-jetty	work	B*	200	2026		https://diaart.org/collection/collection/smithson-robert-spiral-jetty-1970-1999-014/	
+spire-therapeutic	venture	B	200	2026		https://spire.us/	
+splunk	venture	B	200	2026	2024-03-18	https://www.splunk.com/	
+st-george-area-chamber-of-commerce	resource	D	200	2026		https://stgeorgechamber.com/	
+st-george-city-economic-development	resource	D	200	2026		https://sgcityutah.gov/departments/economic_development/index.php	
+st-george-downtown-farmers-market	resource	D	200	2026		https://downtownfarmerstg.com/	
+startup-ignition-ventures	resource	C	200	2026		https://startupignition.com/ventures	https://www.startupignition.com/ventures
+startup-ogden	resource	D	200	2026		https://startupogden.spaces.nexudus.com/home?&v=latest	
+startup-state-resource-list	resource	F	200	2023		https://startup.utah.gov/	
+stopfakes-gov	resource	F	200	2024		https://www.stopfakes.gov/welcome	
+stratos-data-center	work	B	no-website				
+strider-technologies	venture	C	200	2026		https://www.striderintel.com/	
+strive	resource	D	200	2026		https://utahvbrc.org/strive	https://utahvbrc.org/strive-program/
+struvia	venture	F	200	2026		https://struvia.co/	
+suazo-business-center	resource	C	202			https://suazocenter.org/	
+subcontractorhub	venture	D	200			https://www.subcontractorhub.com/	
+summit-county-economic-development	resource	D	200	2026		https://www.summitcountyutah.gov/609/Economic-Development	https://www.summitcountyutah.gov/609/Economic-Development-Housing
+sundance-institute	venture	A	200	2026		https://www.sundance.org	https://www.sundance.org/
+sword-health	venture	C	200	2026		https://www.sword.com/	
+symbiocelltech	venture	B	200	2024		https://symbiocelltech.com/	
+talent-ready-utah	resource	C	200	2023		https://talentready.ushe.edu/	
+tandem-ventures	resource	C	200	2026		https://tandeminvest.com/	
+tanner-llc	helper	D	403			https://tannerco.com/	
+tcn	venture	C	200	2026		https://www.tcn.com/	
+teal-drones	venture	B	202			https://tealdrones.com	https://tealdrones.com/
+tech-ridge	resource	D	200	2026		https://techridge.com/	
+techcyte	venture	C	200	2026		https://www.techcyte.com	https://techcyte.com/
+teen-entrepreneur-support-center	resource	D	403			https://teenentrepreneurship.org/	
+teiko-bio	venture	D	200	2026		https://teiko-labs.com/	
+telescope-array-ultra-high-energy-cosmic-rays	venture	A	200	2023		https://www.telescopearray.org/	http://jws001.dyndns-home.com/
+tellus	venture	C	200	2025		https://tellusensors.com	https://www.tellusensors.com/
+the-hub-at-bridgerland-technical-college	resource	D	202			https://thehubatbtech.org/	
+the-inn-between	venture	C	200	2026		https://tibhospice.org	https://tibhospice.org/
+the-mill-entrepreneurship-center	resource	F	200	2026		https://themillatslcc.com/	
+the-other-side-academy	venture	C	200	2020		https://www.theothersideacademy.com	https://www.theothersideacademy.com/
+the-shop	resource	D	200	2026		https://shopworkspace.com/location/salt-lake-city/	
+thera-t-pharmaceutics	venture	D	200	2026		https://thera-tpharmaceutics.com	https://thera-tpharmaceutics.com/
+thiokol-solid-rocket-motors	work	S	200			https://www.nasa.gov/history/rogersrep/genindex.htm	
+tim-latimer	person	B	no-website				
+torus	venture	B	200			https://www.torus.co/	
+trace-aq	venture	D	200	2019		https://www.traceaq.com/	
+u-s-commercial-service	resource	D	200	2026		https://www.trade.gov/utah-salt-lake-city	
+uinta-basin-association-of-governments	resource	D	200	2026		https://www.ubaog.org/	
+uinta-basin-tech-entrepreneur-center	resource	D	200	2026		https://statewide.usu.edu/uintahbasin/ecenter/	
+uintah-basin-economic-development-district	resource	D	200	2026		https://www.ubaog.org/economic-development-district	
+uintah-county-economic-development	resource	D	200	2026		https://business.uintah.gov/	
+university-of-utah	resource	F	200	2026		https://www.utah.edu/	
+university-of-utah-lassonde-entrepreneurship-institute	resource	D	200	2026		https://lassonde.utah.edu/	
+university-of-utah-pivot-center	resource	F	200	2026		https://technologylicensing.utah.edu/	
+university-of-utah-technology-licensing-office	resource	D	200	2026		https://technologylicensing.utah.edu/	
+us-magnesium	venture	B	200	2023		https://usmagnesium.com	https://usmagnesium.com/
+us-synthetic	venture	C	200	2026		https://ussynthetic.com	https://ussynthetic.com/
+usana	venture	C	200		2026-03-16	https://www.usana.com/	
+usu-integrated-biosystems	venture	D	200			https://qanr.usu.edu/biosystems	https://qanr.usu.edu/biosystems/
+usu-remote-online-initiative	resource	D	200	2026		https://extension.usu.edu/remoteworkcertificate/	
+utah-alliance-for-economic-development	resource	D	200	2026		https://www.utahalliance.com/	
+utah-arch	venture	C	200	2025		https://arch.cs.utah.edu	https://arch.cs.utah.edu/
+utah-array-bci-platform	work	S	200	2026		https://www.medicaldesignandoutsourcing.com/utah-array-brain-computer-interface-blackrock-neurotech/	
+utah-asian-chamber-of-commerce-uacc	resource	D	202			https://utahasianchamber.org/	
+utah-association-of-counties-uac	resource	D	200	2026		https://www.uacnet.org/	https://www.utahcounties.org/
+utah-black-chamber	resource	D	200	2026		https://www.utahblackchamber.com/	
+utah-center-for-global-talent	resource	D	200	2026		https://business.utah.gov/global-talent/	
+utah-center-for-rural-development	resource	D	200	2026		https://business.utah.gov/rural/	
+utah-chinese-association	resource	F	200	2022		https://www.utahchineseassociation.org/	
+utah-computer-graphics-program	work	S	200	2023		https://www.cs.utah.edu/about/history/	https://www.cs.utah.edu/resources/history/
+utah-congregate-care-oversight-reform	work	B	no-website		2022-04-12		
+utah-defense-alliance	resource	D	202			https://utahdefensealliance.com/home/	
+utah-department-of-agriculture-and-food	resource	D	200	2025		https://ag.utah.gov/	
+utah-department-of-workforce-services	resource	D	200	2026		https://jobs.utah.gov/	
+utah-digital-entertainment-network	resource	F	200	2022		https://utahden.org/	
+utah-division-of-outdoor-recreation	resource	D	200	2026		https://recreation.utah.gov/	
+utah-farmers-market-network	resource	D	200	2025		https://www.utahfarmersmarketnetwork.org/	
+utah-film-center-fiscal-sponsorship	resource	D	200	2026		https://fiscal.utahfilmcenter.org/	
+utah-film-commission	resource	D	200	2026		https://film.utah.gov/	
+utah-film-industry	venture	C	200	2026		https://film.utah.gov	https://film.utah.gov/
+utah-forge	work	A	200	2026		https://www.energy.gov/hgeo/geothermal/forge	
+utah-geek-events	resource	D	200	2026		https://www.utahgeekevents.com/	
+utah-governor-s-office-of-economic-opportunity	resource	C	200	2026		https://business.utah.gov/	
+utah-hispanic-chamber-of-commerce	resource	D	200	2026		https://utahhcc.com/	
+utah-inland-port-authority	resource	D	200	2026		https://inlandportauthority.utah.gov/	
+utah-innovation-center	resource	C	200	2026		https://www.nucleusutah.org/grow	
+utah-innovation-fund	resource	D	200	2022		https://www.nucleusfundutah.com/	
+utah-kids-code-camp	resource	D	200	2026		https://www.utahgeekevents.com/events/kids-code-camp-2026/	
+utah-korean-chamber-of-commerce	resource	D	200	2026		https://www.utahkcc.org/	
+utah-league-of-cities-and-towns-ulct	resource	D	200	2026		https://www.ulct.org/	https://www.ulct.utah.gov/
+utah-lgbtq-chamber-of-commerce	resource	D	200	2026		https://www.utahlgbtqchamber.org/	
+utah-manufacturers-association	resource	D	200	2026		https://manufacturingutah.com/	
+utah-medicaid	resource	D	200	2026		https://medicaid.utah.gov/	
+utah-mep	resource	C	200	2026		https://utah-mep.org/	
+utah-microloan-fund-umlf	resource	D	200	2016		https://www.utahmicroloanfund.org/	
+utah-multi-level-marketing-industry	venture	A	no-website		2026-03-16		
+utah-muslim-civic-league-umcl	resource	F	200			https://startup.utah.gov/business-resource/utah-muslim-civic-league-umcl/	
+utah-native-american-chamber-of-commerce	resource	D	200	2026		https://www.utncoc.com/	
+utah-neurorobotics-lab	venture	C	200	2026		https://neurorobotics.ece.utah.edu	https://neurorobotics.ece.utah.edu/
+utah-office-of-primary-care-and-rural-health	resource	D	200	2026		https://ruralhealth.utah.gov/	
+utah-office-of-regulatory-relief	resource	D	200	2026		https://business.utah.gov/regulatory-relief/	
+utah-office-of-tourism	resource	D	200	2026		https://travel.utah.gov/	
+utah-pacific-islander-chamber-of-commerce	resource	D	200	2025		https://www.upichamber.org/	
+utah-population-database	work	S	200	2026		https://uofuhealth.utah.edu/huntsman/utah-population-database	
+utah-regional-growth-association	resource	D	200	2020		https://www.utrga.org/	
+utah-s-own-local-food-production	resource	D	200	2026		https://utahsown.org/	
+utah-sbdc	resource	C	200			https://utahsbdc.org/	
+utah-small-business-credit-initiative	resource	C	200	2026		https://business.utah.gov/usbci/	
+utah-small-business-credit-initiative-usbci	resource	F	200	2026		https://business.utah.gov/usbci/	
+utah-state-surplus-property	resource	D	200	2026		https://purchasing.utah.gov/general-services/state-surplus-property/	
+utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship	resource	D	200			https://huntsman.usu.edu/ecenter/	
+utah-tech-calendar	resource	D	200	2026		https://utahtechcalendar.com/	
+utah-tech-university-atwood-innovation-center	resource	D	200	2026		https://innovation.utahtech.edu/business-resource-center/	
+utah-test-and-training-range	work	A	403			https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/	
+utah-tourism-association	resource	D	200	2026		https://utahtourism.org/	
+utah-valley-university-innovation-center-academy	resource	D	200	2026		https://www.uvu.edu/innovation/	
+utah-valley-university-uvu-entrepreneur-institute	resource	D	200	2026		https://www.uvu.edu/woodbury/entrepreneurship/	
+utah-water-savers	resource	D	200	2026		https://www.utahwatersavers.com/	
+utahjs	resource	D	200	2026		https://utahjs.com/	
+utahn	venture	D	200	2026		https://utahn.com/	
+utahquantum	venture	F	200	2026		https://utahquantum.org	https://utahquantum.org/
+utif	resource	D	200	2020		https://www.nucleusutah.org/utif	
+uttr	venture	A	403			https://www.hill.af.mil/About-Us/Fact-Sheets/Display/Article/672497/utah-test-and-training-range/	
+uzona-hildale-chamber-of-commerce	resource	D	200			https://www.uzonachamber.org/	
+valar-atomics	venture	B	200	2026		https://www.valaratomics.com	https://www.valaratomics.com/
+varda-space	venture	B	200	2026		https://www.varda.com/	
+vector	venture	C	no-website				
+vernal-area-chamber-of-commerce	resource	D	200	2026		https://www.vernalchamber.com/	
+vernal-downtown-alliance	resource	D	200	2026		https://www.vernal.gov/471/Vernal-Downtown-Plan	
+vernal-innovation-hub	resource	D	200	2026		https://www.vernalinnovationhub.com/	
+veteran-business-resource-center-vbrc-utah	resource	D	200	2026		https://utahvbrc.org/	
+veteran-owned-business-registration-utah	resource	F	UNABLE_TO_VERIFY_LEAF_SIGNATURE			https://vbr.veterans.utah.gov/s/	
+vision-iron-county	resource	F	200	2024		https://visionironcounty.org/	
+visit-utah	resource	F	200	2026		https://www.visitutah.com/	
+vivint-smart-home	venture	C	403			https://www.vivint.com	https://www.vivint.com/
+vuely	venture	D	200	2026		https://vuely.co/	
+wagevo	venture	D	200			https://wagevo.com/	
+wasatch-front-regional-council	resource	D	200	2026		https://wfrc.org/contact/	https://wfrc.utah.gov/about/contact/
+wasatch-ionics	venture	D	no-website				
+wasatch-women-s-business-alliance	resource	D	200	2025		https://thewwba.org/	
+washington-area-chamber-of-commerce	resource	D	200	2026		https://washingtonutchamber.com/	
+washington-city-economic-development	resource	D	200	2026		https://washingtoncity.org/development/economicdevelopment	https://washingtonutah.gov/development/economicdevelopment
+wave-inc	venture	C	200	2026		https://www.wavecharging.com/	
+wavetronix	venture	C	200	2026		https://www.wavetronix.com/	
+weave	venture	C	200	2026		https://www.getweave.com	https://www.getweave.com/
+weber-basin-job-corps	resource	D	200	2023		https://weberbasin.jobcorps.gov/	
+weber-county-economic-development	resource	D	200	2024		https://www.webercountyutah.gov/economic_development/	
+weber-state-ai-hackathon	resource	D	200			https://hackathon.weber.edu/	
+western-governors-university	venture	B	200	2026		https://www.wgu.edu	https://www.wgu.edu/
+wildcat-microfund	resource	D	200	2026		https://www.weber.edu/wildcat-microfund/	
+williams-international	venture	B	200	2024		https://www.williams-int.com/	
+wilson-sonsini-salt-lake-city	helper	D	403			https://www.wsgr.com/en/about-us/offices/salt-lake-city.html	
+women-tech-counsel	resource	D	200	2026		https://www.womentechcouncil.com/	
+womens-business-center-of-utah	resource	C	200	2026		https://wbcutah.org/	https://www.wbcutah.org/
+wordperfect	venture	B	no-website				
+wordperfect-and-novell	work	B	200	2023		https://www.wordperfect.com/en/	
+work-hive	resource	D	200	2025		https://workhiveslc.com/	
+workbox	resource	D	200	2026		https://www.workboxcompany.com/	
+workfront	venture	C	timeout			https://business.adobe.com/products/workfront/main.html	
+workman-nydegger	helper	D	200	2026		https://www.wnlaw.com/	
+world-trade-center-utah	resource	D	200	2026		https://www.wtcutah.com/	
+xandem	venture	D	no-website				
+yesco	venture	C*	200	2026		https://www.yesco.com	https://www.yesco.com/
+zanskar-geothermal	venture	A	200	2026		https://zanskar.com	https://zanskar.com/
+zaymo	venture	D	200	2026		https://zaymo.com	https://www.zaymo.com/

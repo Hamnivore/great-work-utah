@@ -15,8 +15,8 @@ Opinionated maps, playbooks, and durable Q&A. One line per page; fetch the page 
 - [Find Prototyping and Project Space in Utah County](/pages/find-prototyping-space-in-utah-county.md) · `https://greatutah.work/pages/find-prototyping-space-in-utah-county.md` · Utah County, makerspace, prototype space, hardware workspace, coworking, project space, builder community · conf:?
 - [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · `https://greatutah.work/pages/startup-capital-in-utah.md` · startup capital, non-dilutive funding, SBIR/STTR, deep tech, Utah · conf:M
   for: founders, researchers, helpers, investors
-- [Utah Deep-Tech Map](/pages/utah-deep-tech-map.md) · `https://greatutah.work/pages/utah-deep-tech-map.md` · Utah deep tech, historical anchors, current ventures, ecosystem navigation · conf:M
-  for: founders, researchers, students, operators, investors, helpers
+- [Utah Deep Tech Now: A Founder's Field Guide](/pages/utah-deep-tech-map.md) · `https://greatutah.work/pages/utah-deep-tech-map.md` · active Utah deep tech, founder opportunities, technical clusters, commercialization paths · conf:M
+  for: deep-tech founders, researchers, technical operators, investors, commercialization helpers
 - [Where To Find SBIR Help In Utah](/pages/where-to-find-sbir-help-in-utah.md) · `https://greatutah.work/pages/where-to-find-sbir-help-in-utah.md` · SBIR, STTR, non-dilutive funding, proposal readiness · conf:M
   for: technical founders, university spinouts, grant writers, commercialization helpers
 - [Where to Find Wet Lab Space in Utah](/pages/where-to-find-wet-lab-space-in-utah.md) · `https://greatutah.work/pages/where-to-find-wet-lab-space-in-utah.md` · wet-lab space, biotech incubators, shared lab, Altitude Lab, university facilities · conf:M

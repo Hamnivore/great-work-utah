@@ -4,7 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
-**Founder-tier:** B
+**Founder-tier:** C
 **Activity-signal:** 2026-09-14 · https://business.utah.gov/rural/rcog/
 **Activity-checked:** 2026-08-14
 **Activity:** active

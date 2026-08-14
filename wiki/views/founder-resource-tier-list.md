@@ -1,6 +1,6 @@
 # The founder-resource tier list
 
-Utah's 246 founder resources ranked for a busy, entry-level, typical Utah entrepreneur. 3 pages in S, A, and B. [How this is ranked](../meta/founder-tiers.md) · `https://greatutah.work/meta/founder-tiers.md`.
+Utah's 246 founder resources ranked for a busy, entry-level, typical Utah entrepreneur. 2 pages in S, A, and B. [How this is ranked](../meta/founder-tiers.md) · `https://greatutah.work/meta/founder-tiers.md`.
 
 This list asks one counterfactual: **if a typical new founder uses this, how much more likely are they to succeed, and by how much?** Likelihood matters most. Rare, enormous payoffs rank below help that a beginner can reach and use. This is separate from [world impact](tier-list.md) · `https://greatutah.work/views/tier-list.md`.
 
@@ -8,513 +8,513 @@ Not typical? Browse [all founder resources by focus and region](resources.md) ·
 
 ## A — best general first move (1)
 
-- **[Utah SBDC](/pages/utah-sbdc.md)** · `https://greatutah.work/pages/utah-sbdc.md`
-  Public SBDC pages describe confidential, no-cost consulting and training. Local center pages describe support with startup guidance, business planning, marketing, financial forecasting, cas…
+- **[Utah SBDC](/pages/utah-sbdc.md)** (active) · `https://greatutah.work/pages/utah-sbdc.md`
+  Free, statewide one-to-one counseling is easy to reach and likely to improve a beginner's planning, pricing, financing, or next decision.
 
-## B — broadly useful (2)
+## B — broadly useful (1)
 
-- **[Utah Center for Rural Development](/pages/utah-center-for-rural-development.md)** · `https://greatutah.work/pages/utah-center-for-rural-development.md`
-  RCOG competitive grants for rural local governments, Rural County Grants, REDI grants for new high-paying rural jobs, Enterprise Zone tax credits, REDTIF post-performance tax reductions, ru…
-- **[Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md)** · `https://greatutah.work/pages/utah-small-business-credit-initiative.md`
-  The official page describes two main loan structures: - Loan Participation Program support for collateralized loans, with the public program buying a portion of the loan to expand credit ac…
+- **[SCORE Utah](/pages/score-utah.md)** (active) · `https://greatutah.work/pages/score-utah.md`
+  Free mentor matching is easy for a beginner to try and often produces a concrete next step, though volunteer quality varies and SBDC is the stronger first stop.
 
-## C — useful when the need fits (60)
+## C — useful when the need fits (62)
 
-- **[47G - Utah Aerospace & Defense Association](/pages/47g-utah-aerospace-and-defense-association.md)** · `https://greatutah.work/pages/47g-utah-aerospace-and-defense-association.md`
-  The official site lists an integrated accelerator platform with access to government customers, capital partners, strategic industry relationships, and talent. Its service areas include mar…
-- **[AI Builder Day](/pages/ai-builder-day.md)** · `https://greatutah.work/pages/ai-builder-day.md`
-  Hands-on workshops and tutorials on the Friday; **sponsor bounty tracks** — named companies posting real problems for teams to build against — a full Saturday of building with mentors on ha…
-- **[Album](/pages/album.md)** · `https://greatutah.work/pages/album.md`
-  - Early-stage venture capital for technology startups - Portfolio support from a Utah venture team
-- **[Altitude Labs](/pages/altitude-labs.md)** · `https://greatutah.work/pages/altitude-labs.md`
-  The official site describes cohort-based residency with onboarding (12–20 weeks), weekly investor meetings, industry-veteran coaching, roughly 20,000 sq ft of lab and office space on Recurs…
-- **[Apprenticeship Utah](/pages/apprenticeship-utah.md)** · `https://greatutah.work/pages/apprenticeship-utah.md`
-  Employer resources to start apprenticeship programs and access incentives; career-seeker pathways to find apprenticeships; nationally or industry-recognized credentials; incremental wage pr…
-- **[BBCetc](/pages/bbcetc.md)** · `https://greatutah.work/pages/bbcetc.md`
-  Likely fits include technical founders with a plausible federal R&D topic who need hands-on proposal support, SBIR/STTR training, post-award management help, agency-specific guidance, or su…
-- **[Brigham Young University (BYU) - Rollins Center](/pages/brigham-young-university-byu-rollins-center.md)** · `https://greatutah.work/pages/brigham-young-university-byu-rollins-center.md`
-  Courses, lecture series, competitions, conferences, workshops, mentoring, Sandbox-style venture support, Entrepreneur Founders Organization networking, Miller Grants, and programming aimed …
-- **[Custom Fit Training](/pages/custom-fit-training.md)** · `https://greatutah.work/pages/custom-fit-training.md`
-  Customized training plans through regional Custom Fit institutions — covering technical skills, safety certifications, computer skills, leadership, and service improvements. Regional provid…
-- **[EDCUtah - Economic Development Corporation of Utah](/pages/edcutah-economic-development-corporation-of-utah.md)** · `https://greatutah.work/pages/edcutah-economic-development-corporation-of-utah.md`
-  End-to-end site selection assistance, Utah and out-of-state comparative data, on-the-ground site analysis coordination, incentive program navigation, connection to investor-network experts …
-- **[Epic Ventures](/pages/epic-ventures.md)** · `https://greatutah.work/pages/epic-ventures.md`
-  - Early-stage venture capital - University of Utah Ventures partnership for regional university-linked deal flow - Portfolio support from an established Utah venture platform
-- **[Goldman Sachs 1000 Small businesses](/pages/goldman-sachs-1000-small-businesses.md)** · `https://greatutah.work/pages/goldman-sachs-1000-small-businesses.md`
-  Intensive classroom-style modules, collaborative peer exercises, one-on-one business advice, and skills across financial management, marketing, negotiation, and employee management. Graduat…
-- **[Grow Utah](/pages/grow-utah.md)** · `https://greatutah.work/pages/grow-utah.md`
-  The site describes ongoing startup contests (30+ held since 2008, with over $1M in reported cash and services awarded), the RAMP startup accelerator for new products, Concept to Company sta…
-- **[iHub](/pages/ihub.md)** · `https://greatutah.work/pages/ihub.md`
-  - Founders Floor program with staged milestones and mentors - Coworking, meeting rooms, WiFi, and 24/7 access - Maker space with 3D printers, tools, and workbenches - Licensed commercial ki…
-- **[Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md)** · `https://greatutah.work/pages/kem-c-gardner-policy-institute.md`
-  Published research on the Utah economy, demographics, public finance, and industry sectors (energy, defense and aerospace, education, health care, housing, tech, tourism, and more). Recent …
-- **[Kickstart Fund](/pages/kickstart-fund.md)** · `https://greatutah.work/pages/kickstart-fund.md`
-  - Seed-stage venture capital - Regional expertise and founder support from a long-running Mountain West fund - Portfolio network across Utah and Colorado
-- **[Kirton McConkie](/pages/kirton-mcconkie.md)** · `https://greatutah.work/pages/kirton-mcconkie.md`
-  Based on the firm's public practice descriptions, Kirton McConkie can help a founder with: - **Formation and structure** — entity choice, founder agreements, equity and vesting, corporate g…
-- **[Make Salt Lake](/pages/make-salt-lake.md)** · `https://greatutah.work/pages/make-salt-lake.md`
-  Shared makerspace access and tool labs for digital fabrication, woodworking, metalworking, textiles, and electronics. The Startup State listing also references prototyping support and entre…
-- **[Make Utah](/pages/make-utah.md)** · `https://greatutah.work/pages/make-utah.md`
-  Coworking and research-development space; prototyping equipment access; industry partnerships and mentorships; events; and pathways from concept through commercialization. Startup State als…
-- **[Maschoff Brennan](/pages/maschoff-brennan.md)** · `https://greatutah.work/pages/maschoff-brennan.md`
-  Publicly listed services include patent prosecution, international patent prosecution, patent disputes, post-issuance proceedings, trademark prosecution and disputes, copyright registration…
-- **[Mercato Partners](/pages/mercato-partners.md)** · `https://greatutah.work/pages/mercato-partners.md`
-  - Growth-stage private equity and venture-style capital across Mercato fund strategies - Strategic support for scaling companies including Traverse, Savory Restaurant Fund, Prelude, and Alp…
-- **[Mountain Land Association of Governments' Revolving Loan Fund (RLF)](/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md)** · `https://greatutah.work/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md`
-  Revolving loans from $10,000 to $100,000 with terms from 6 months to 5 years. Eligible uses include machinery/equipment, other fixed assets, and working capital (inventory, receivables, ope…
-- **[Nucleus Grow](/pages/nucleus-grow.md)** · `https://greatutah.work/pages/nucleus-grow.md`
-  The public page describes support for opportunity matching, proposal development, agency guidance, grant readiness, budgeting, compliance checklists, proposal review and editing, workshops,…
-- **[Nucleus Institute](/pages/nucleus-institute.md)** · `https://greatutah.work/pages/nucleus-institute.md`
-  Nucleus can help a founder or researcher diagnose the next useful doorway: - [Nucleus Grow](/pages/nucleus-grow.md) for SBIR/STTR strategy, topic matching, proposal review, and non-dilutive…
-- **[Nucleus MarketEdge](/pages/nucleus-marketedge.md)** · `https://greatutah.work/pages/nucleus-marketedge.md`
-  The program includes peer cohort work, online modules, weekly virtual discussions, feedback, exposure to funding opportunities, market-readiness work, startup-formation context, and a pitch…
-- **[Parsons Behle & Latimer](/pages/parsons-behle-latimer.md)** · `https://greatutah.work/pages/parsons-behle-latimer.md`
-  From the firm's public capability pages, Parsons Behle & Latimer can help a founder with: - **Technology and IP transactions** — drafting and negotiating licensing, joint-development, and c…
-- **[Pelion Ventures](/pages/pelion-ventures.md)** · `https://greatutah.work/pages/pelion-ventures.md`
-  - Early-stage venture capital for software-based technology companies - Portfolio support from an established Utah venture platform
-- **[Peterson Ventures](/pages/peterson-ventures.md)** · `https://greatutah.work/pages/peterson-ventures.md`
-  - Seed-stage venture capital - Strategic support from a founder-oriented investment team - Access to a long-running Utah venture network
-- **[RQM+](/pages/rqm-plus.md)** · `https://greatutah.work/pages/rqm-plus.md`
-  RQM+ publicly describes support across regulatory and quality, clinical trials, lab and material science, and reimbursement. Its site says it supports concept-to-post-market work and offers…
+- **[47G - Utah Aerospace & Defense Association](/pages/47g-utah-aerospace-and-defense-association.md)** (active) · `https://greatutah.work/pages/47g-utah-aerospace-and-defense-association.md`
+  Market access and government navigation, capital access, supply-chain integration, and testbeds and demonstrations for dual-use hard tech. For a defense-adjacent Utah founder this is the pr…
+- **[AI Builder Day](/pages/ai-builder-day.md)** (active) · `https://greatutah.work/pages/ai-builder-day.md`
+  Sponsor bounty tracks are the substance: named companies posting real problems for teams to build against, plus a prize pool, on-site team formation, and demos to judges and investors.
+- **[Album](/pages/album.md)** (active) · `https://greatutah.work/pages/album.md`
+  Lehi early-stage fund since 2014 with a checkable portfolio — Podium, Degreed, Divvy, Neighbor, Owlet. Real deployment at Utah scale; still a lead, not a service.
+- **[Altitude Labs](/pages/altitude-labs.md)** (active) · `https://greatutah.work/pages/altitude-labs.md`
+  Lab space, coaching, and possible funding can transform a biotech startup, but almost every typical new founder is outside its narrow, selective fit.
+- **[Apprenticeship Utah](/pages/apprenticeship-utah.md)** (active) · `https://greatutah.work/pages/apprenticeship-utah.md`
+  Employer tooling and incentives to stand up a registered apprenticeship, plus credentialed wage progression. Real workforce structure for a company hiring into technical roles, useless pre-…
+- **[BBCetc](/pages/bbcetc.md)** (active) · `https://greatutah.work/pages/bbcetc.md`
+  Hands-on SBIR/STTR proposal support, training, and post-award management from a national specialist. Real expertise, but paid, and Nucleus Grow supplies much of the same free.
+- **[Brigham Young University (BYU) - Rollins Center](/pages/brigham-young-university-byu-rollins-center.md)** (active) · `https://greatutah.work/pages/brigham-young-university-byu-rollins-center.md`
+  Miller Grants, competitions, Sandbox-style venture support, and a founder peer community aimed at students holding equity by graduation. Real for BYU students, closed to everyone else.
+- **[Custom Fit Training](/pages/custom-fit-training.md)** (active) · `https://greatutah.work/pages/custom-fit-training.md`
+  The state pays a majority share of customized employee training, with the company contributing at least 40%. Concrete money against a real line item for an employer with staff to train.
+- **[EDCUtah - Economic Development Corporation of Utah](/pages/edcutah-economic-development-corporation-of-utah.md)** (active) · `https://greatutah.work/pages/edcutah-economic-development-corporation-of-utah.md`
+  Free statewide site-selection support with comparative data, on-the-ground analysis, incentive navigation, and an investor network of real-estate, legal, utility, and workforce experts. Wor…
+- **[Epic Ventures](/pages/epic-ventures.md)** (active) · `https://greatutah.work/pages/epic-ventures.md`
+  Salt Lake City early-stage fund since 1994 with a University of Utah Ventures partnership feeding university-linked deal flow. Established, active, and unapplyable.
+- **[Goldman Sachs 1000 Small businesses](/pages/goldman-sachs-1000-small-businesses.md)** (active) · `https://greatutah.work/pages/goldman-sachs-1000-small-businesses.md`
+  High-quality free education can improve an established owner, but selection and operating-history requirements exclude a typical entry-level founder.
+- **[Grow Utah](/pages/grow-utah.md)** (active) · `https://greatutah.work/pages/grow-utah.md`
+  Over $1M in reported cash and services awarded across 30+ contests since 2008, plus the RAMP and LIFT accelerators and the Startup Connectory. Nondilutive prize money you can actually apply…
+- **[iHub](/pages/ihub.md)** (active) · `https://greatutah.work/pages/ihub.md`
+  A Provo incubator with a licensed commercial kitchen, maker space, warehouse and fulfillment staging, and staged Founders Floor milestones. The kitchen and warehouse are genuinely scarce fo…
+- **[Kem C. Gardner Policy Institute](/pages/kem-c-gardner-policy-institute.md)** (active) · `https://greatutah.work/pages/kem-c-gardner-policy-institute.md`
+  Authoritative free Utah economic, demographic, and sector research. For a founder writing a market thesis or an expansion case this is the source, not a substitute for one.
+- **[Kickstart Fund](/pages/kickstart-fund.md)** (active) · `https://greatutah.work/pages/kickstart-fund.md`
+  A long-running Mountain West seed fund actively deploying in Utah with a public portfolio to calibrate against. Worth the morning it takes to decide whether to chase a warm intro.
+- **[Kirton McConkie](/pages/kirton-mcconkie.md)** (active) · `https://greatutah.work/pages/kirton-mcconkie.md`
+  200+ attorneys covering formation, founder agreements, equity and vesting, SAFEs and priced rounds, securities compliance, and the messy contractual middle. A single established Utah firm f…
+- **[Make Salt Lake](/pages/make-salt-lake.md)** (active) · `https://greatutah.work/pages/make-salt-lake.md`
+  A nonprofit makerspace with tool labs for digital fabrication, woodworking, metalworking, textiles, and electronics. Affordable shared shop access is a real substitute for capital equipment.
+- **[Make Utah](/pages/make-utah.md)** (active) · `https://greatutah.work/pages/make-utah.md`
+  A 50,000+ sq ft Pleasant Grove hard-tech incubator with prototyping equipment and R&D coworking for teams that have outgrown a garage. Pricing is unpublished, which caps it.
+- **[Maschoff Brennan](/pages/maschoff-brennan.md)** (active) · `https://greatutah.work/pages/maschoff-brennan.md`
+  An IP boutique doing patent and trademark prosecution, post-issuance proceedings, portfolio management, and technology-transfer transactions. The right shape for a spinout or device team.
+- **[Mercato Partners](/pages/mercato-partners.md)** (active) · `https://greatutah.work/pages/mercato-partners.md`
+  Growth-stage capital across several named fund strategies including Traverse and the Savory Restaurant Fund, with published high-level fit thresholds. Useful once there is substantial reven…
+- **[Mountain Land Association of Governments' Revolving Loan Fund (RLF)](/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md)** (active) · `https://greatutah.work/pages/mountain-land-association-of-governments-revolving-loan-fund-rlf.md`
+  Published terms and real money: $10,000-$100,000, 6 months to 5 years, equipment/fixed assets/working capital, $75 application fee. Checkable enough to plan around.
+- **[Nucleus Grow](/pages/nucleus-grow.md)** (active) · `https://greatutah.work/pages/nucleus-grow.md`
+  Free, expert SBIR/STTR proposal help can unlock major funding, but only a small minority of new founders have eligible R&D or win an award.
+- **[Nucleus Institute](/pages/nucleus-institute.md)** (active) · `https://greatutah.work/pages/nucleus-institute.md`
+  The router across Nucleus Grow, UTIF, and the Nucleus Fund. Diagnosing which of three doors you need is a real service, but it is a doorway to the things that matter rather than the thing i…
+- **[Nucleus MarketEdge](/pages/nucleus-marketedge.md)** (active) · `https://greatutah.work/pages/nucleus-marketedge.md`
+  Free cohort commercialization program for Utah professors, PhDs, and postdocs, ending in a pitch to active investors, at 8-10 hours a week. Specific, free, and aimed at people who genuinely…
+- **[Parsons Behle & Latimer](/pages/parsons-behle-latimer.md)** (active) · `https://greatutah.work/pages/parsons-behle-latimer.md`
+  Technology and IP transactions, licensing and joint-development agreements, IP due diligence, and patent and trade-secret strategy. Aimed squarely at founders whose value is concentrated in…
+- **[Pelion Ventures](/pages/pelion-ventures.md)** (active) · `https://greatutah.work/pages/pelion-ventures.md`
+  An established Salt Lake City early-stage software fund operating since 1986. You cannot apply your way in, but a Utah software founder raising seed should know the thesis and the stage.
+- **[Peterson Ventures](/pages/peterson-ventures.md)** (active) · `https://greatutah.work/pages/peterson-ventures.md`
+  A Utah seed fund with a founder-oriented team and a long local network across SaaS, commerce, fintech, and healthtech. Directory-grade for most readers, worth a morning for a matching found…
+- **[RQM+](/pages/rqm-plus.md)** (active) · `https://greatutah.work/pages/rqm-plus.md`
+  Medtech regulatory and quality expertise across 510(k), De Novo, PMA, IDE, EU MDR and IVDR, design controls, and QMS. For a device founder this is the difference between a submission and a …
 - **[SBA Thrive](/pages/sba-thrive.md)** · `https://greatutah.work/pages/sba-thrive.md`
-  Hybrid executive education: interactive e-learning modules, live CEO mastermind sessions, SME Q&A, one-on-one business coaching, and a completed three-year growth action plan with benchmark…
-- **[SBA Utah District Office](/pages/sba-utah-district-office.md)** · `https://greatutah.work/pages/sba-utah-district-office.md`
-  The official page says the office helps with SBA services including funding programs, counseling, federal contracting certifications, and disaster recovery. It can also connect small busine…
-- **[Signal Peak Ventures](/pages/signal-peak-ventures.md)** · `https://greatutah.work/pages/signal-peak-ventures.md`
-  - Early-stage venture capital for technology companies - Portfolio and team support through the Run Ventures platform
+  Free hybrid executive education for revenue-stage owner-operators: e-learning, live CEO masterminds, one-on-one coaching, and a three-year growth plan. Duplicates the Goldman program's shap…
+- **[SBA Utah District Office](/pages/sba-utah-district-office.md)** (active) · `https://greatutah.work/pages/sba-utah-district-office.md`
+  The only route to federal small-business certifications — 8(a), HUBZone, WOSB — plus SBA loan-program routing and lender connections. The certifications are real assets and this is the door…
+- **[Signal Peak Ventures](/pages/signal-peak-ventures.md)** (active) · `https://greatutah.work/pages/signal-peak-ventures.md`
+  An established Salt Lake City early-stage technology fund, now publicly branded Run Ventures on the same domain. Note the rebrand when searching.
 - **[Southern Utah University Cedar City Business & Innovation Center](/pages/southern-utah-university-cedar-city-business-and-innovation-center.md)** · `https://greatutah.work/pages/southern-utah-university-cedar-city-business-and-innovation-center.md`
-  Gateway access to Utah SBDC counseling, Utah APEX Accelerator, SUU Startup, and the Innovation Center — which offers free 3D printing, digital media studio, conference room, and laser-engra…
-- **[Startup Ignition Ventures](/pages/startup-ignition-ventures.md)** · `https://greatutah.work/pages/startup-ignition-ventures.md`
-  The official site describes pre-seed investment plus structured founder support: ToolSuite (AI-powered validation workflow), mentor access, portfolio community, and transparent diligence th…
-- **[STRIVE](/pages/strive.md)** · `https://greatutah.work/pages/strive.md`
-  A phased program: (1) meet a VBRC business advisor and apply; (2) eight weeks of in-person/hybrid training covering market validation, viability, finance, and a final business pitch; (3) po…
-- **[Suazo Business Center](/pages/suazo-business-center.md)** · `https://greatutah.work/pages/suazo-business-center.md`
-  Services include one-on-one bilingual business advising (registration, marketing, planning, financial health), basic through advanced courses, expert-led workshops, and loan exploration for…
-- **[Talent Ready Utah](/pages/talent-ready-utah.md)** · `https://greatutah.work/pages/talent-ready-utah.md`
-  Utah Adopt-a-School business-to-K-12 partnerships; Pathways (industry experience with guaranteed job interview on completion); TRAC (split time between classroom and paid work experience); …
-- **[Tandem Ventures](/pages/tandem-ventures.md)** · `https://greatutah.work/pages/tandem-ventures.md`
-  - Venture capital across pre-seed, seed, Series A, and select later rounds - Operating network including The Stable founder community - Revenue-driving support for portfolio companies
-- **[The Hub at Bridgerland Technical College](/pages/the-hub-at-bridgerland-technical-college.md)** · `https://greatutah.work/pages/the-hub-at-bridgerland-technical-college.md`
-  One-on-one business counseling (startup, merger/acquisition, sale, planning, finance, marketing, sales); Innovation Zone makerspace with photo/video lab, sound booth, 3D printers, laser eng…
-- **[U.S. Commercial Service](/pages/u-s-commercial-service.md)** · `https://greatutah.work/pages/u-s-commercial-service.md`
-  Export counseling from local trade specialists, access to U.S. Commercial Service global network resources, local event information, export success-case references, and connections to partn…
-- **[Uintah Basin Economic Development District](/pages/uintah-basin-economic-development-district.md)** · `https://greatutah.work/pages/uintah-basin-economic-development-district.md`
-  Revolving loan fund financing ($5,000–$250,000 per published CARES Act guidelines), CEDS regional strategy documents, and staff support for loan applications and board review. Published loa…
-- **[University of Utah Lassonde Entrepreneurship Institute](/pages/university-of-utah-lassonde-entrepreneurship-institute.md)** · `https://greatutah.work/pages/university-of-utah-lassonde-entrepreneurship-institute.md`
-  The official site points to Lassonde Studios, programs and academics, events, launch stories, workshops, Get Seeded, Make Program, Lassonde DevLab, Hours with Experts, Tim Draper Utah Entre…
-- **[University of Utah Technology Licensing Office](/pages/university-of-utah-technology-licensing-office.md)** · `https://greatutah.work/pages/university-of-utah-technology-licensing-office.md`
-  From the [official site](/pages/university-of-utah-technology-licensing-office-official-website.md), the office handles invention disclosure intake, intellectual-property protection and pat…
-- **[Utah APEX Accelerator](/pages/apex-accelerator.md)** · `https://greatutah.work/pages/apex-accelerator.md`
-  The official page describes free statewide one-on-one counseling, group counseling, workshops, contracting-assistance training, bid-match help, marketing-to-government support, database-reg…
-- **[Utah Department of Agriculture & Food](/pages/utah-department-of-agriculture-and-food.md)** · `https://greatutah.work/pages/utah-department-of-agriculture-and-food.md`
-  Open and upcoming grant programs (for example grazing improvement, predatory-animal control, and salinity-reduction projects listed on the grants page), agricultural loans, USDA resource na…
-- **[Utah Division of Outdoor Recreation](/pages/utah-division-of-outdoor-recreation.md)** · `https://greatutah.work/pages/utah-division-of-outdoor-recreation.md`
-  The official site covers boating safety and commercial boating programs, OHV education and permits, trail development and the Utah Trails Conference, the Utah Outdoor Recreation Grant (UORG…
-- **[Utah Film Center Fiscal Sponsorship](/pages/utah-film-center-fiscal-sponsorship.md)** · `https://greatutah.work/pages/utah-film-center-fiscal-sponsorship.md`
-  Utah Film Center's Fiscal Sponsorship program lets approved independent film projects receive charitable donations and pursue grants that require a nonprofit sponsor without forming their o…
-- **[Utah Film Commission](/pages/utah-film-commission.md)** · `https://greatutah.work/pages/utah-film-commission.md`
-  The official site offers production support for motion picture, TV, and commercial projects; Utah location scouting resources; a motion-picture incentive program; crew and support-services …
-- **[Utah Governor's Office of Economic Opportunity](/pages/utah-governor-s-office-of-economic-opportunity.md)** · `https://greatutah.work/pages/utah-governor-s-office-of-economic-opportunity.md`
-  Statewide programs directory (grants, incentives, APEX, CRD, USBCI, Opportunity Zones, etc.), business recruitment and expansion support, rural and capital-access programs, international tr…
-- **[Utah Innovation Center](/pages/utah-innovation-center.md)** · `https://greatutah.work/pages/utah-innovation-center.md`
-  SBIR/STTR topic matching, proposal development and editing, monthly SBIR 101 workshops, agency-specific guidance (NIH, NSF, DoD, DOE, USDA, NASA, and others), SAM.gov registration support, …
-- **[Utah MEP](/pages/utah-mep.md)** · `https://greatutah.work/pages/utah-mep.md`
-  The official site organizes its marketplace around sales, leadership, compliance, production, technology, and a demonstration lab. It also points to CONNEX Utah, calendars, success stories,…
-- **[Utah Microloan Fund (UMLF)](/pages/utah-microloan-fund-umlf.md)** · `https://greatutah.work/pages/utah-microloan-fund-umlf.md`
-  Microloans (after required orientation), business advising, the Banking on Women program, and free virtual small-business classes statewide on topics such as social media, cash flow, HR, fi…
-- **[Utah Office Of Regulatory Relief](/pages/utah-office-of-regulatory-relief.md)** · `https://greatutah.work/pages/utah-office-of-regulatory-relief.md`
-  The official page describes a one-year sandbox for products, services, or production methods that would normally not fit within Utah's regulatory environment. It also describes a suggestion…
-- **[Utah Technology Innovation Funding](/pages/utif.md)** · `https://greatutah.work/pages/utif.md`
-  The official page describes two funding opportunities: - Microgrants for eligible Phase I applicants after successful submission of a Phase I SBIR/STTR proposal. - Nonrecourse loans for eli…
-- **[Veteran Business Resource Center (VBRC) Utah](/pages/veteran-business-resource-center-vbrc-utah.md)** · `https://greatutah.work/pages/veteran-business-resource-center-vbrc-utah.md`
-  The official site offers one-on-one business advisor sessions, the STRIVE program (Startup Training Resources to Inspire Veteran Entrepreneurship — one of seven U.S. sites in partnership wi…
-- **[Weber State AI Hackathon](/pages/weber-state-ai-hackathon.md)** · `https://greatutah.work/pages/weber-state-ai-hackathon.md`
-  - **Two weeks of remote build time**, with mentorship and AI tools supplied. - **An in-person finale** at Shepherd Union on the Weber State campus in Ogden. - **A $1,800 prize pool** across…
+  A single southern Utah door to SBDC counseling and APEX contracting help plus free 3D printing, a digital media studio, and laser engraving. Free tools plus free advising in one building is…
+- **[Startup Ignition Ventures](/pages/startup-ignition-ventures.md)** (active) · `https://greatutah.work/pages/startup-ignition-ventures.md`
+  $100K-$1M pre-seed with an unusually usable intake: SIV Instant promises an initial response in 24 hours, plus validation tooling and mentor access. Publishing a real front door is what sep…
+- **[STRIVE](/pages/strive.md)** (active) · `https://greatutah.work/pages/strive.md`
+  Eight weeks of free cohort training for military-connected founders through the IVMF partnership, then ongoing VBRC advising and mentorship. Structured, free, and genuinely hard to assemble…
+- **[Suazo Business Center](/pages/suazo-business-center.md)** (active) · `https://greatutah.work/pages/suazo-business-center.md`
+  Bilingual advising and lending are unusually useful for its audience, but the median founder may not need its specialized route.
+- **[Talent Ready Utah](/pages/talent-ready-utah.md)** (active) · `https://greatutah.work/pages/talent-ready-utah.md`
+  Pathways with a guaranteed job interview on completion, TRAC classroom-plus-paid-work splits, and Utah Works short-term technical training. A structural hiring pipeline rather than a job bo…
+- **[Tandem Ventures](/pages/tandem-ventures.md)** (active) · `https://greatutah.work/pages/tandem-ventures.md`
+  Draper fund investing pre-seed through later stages with published check-size ranges by stage — more than most Utah funds disclose — plus The Stable founder community.
+- **[The Hub at Bridgerland Technical College](/pages/the-hub-at-bridgerland-technical-college.md)** (active) · `https://greatutah.work/pages/the-hub-at-bridgerland-technical-college.md`
+  One Logan building holding free business counseling, an Innovation Zone makerspace with CNC and laser, a certified commercial incubator kitchen, Custom Fit training, and incubator offices. …
+- **[U.S. Commercial Service](/pages/u-s-commercial-service.md)** (active) · `https://greatutah.work/pages/u-s-commercial-service.md`
+  Export counseling from local trade specialists, foreign-partner due diligence, and federal advocacy abroad. Specific, hard to replicate privately, and free to U.S. companies.
+- **[Uintah Basin Economic Development District](/pages/uintah-basin-economic-development-district.md)** (active) · `https://greatutah.work/pages/uintah-basin-economic-development-district.md`
+  Published RLF terms of $5,000-$250,000 for working capital and land/building purchase, with staff support through application and board review. Subordinated gap financing tied to job creati…
+- **[University of Utah Lassonde Entrepreneurship Institute](/pages/university-of-utah-lassonde-entrepreneurship-institute.md)** (active) · `https://greatutah.work/pages/university-of-utah-lassonde-entrepreneurship-institute.md`
+  Lassonde Studios, Get Seeded, the Tim Draper Utah Entrepreneur Challenge, Bench to Bedside, DevLab, and Hours with Experts. Substantial for a U of U student and unavailable to anyone else.
+- **[University of Utah Technology Licensing Office](/pages/university-of-utah-technology-licensing-office.md)** (active) · `https://greatutah.work/pages/university-of-utah-technology-licensing-office.md`
+  It is mandatory and decisive for a U of U inventor, but irrelevant to nearly every typical new founder.
+- **[Utah APEX Accelerator](/pages/apex-accelerator.md)** (active) · `https://greatutah.work/pages/apex-accelerator.md`
+  Free contracting help is valuable once government is a real customer, but that is not the typical new founder's first path.
+- **[Utah Center for Rural Development](/pages/utah-center-for-rural-development.md)** (active) · `https://greatutah.work/pages/utah-center-for-rural-development.md`
+  Its grants, tax credits, and capital programs can matter to a rural employer, but geography and program triggers exclude most typical new founders.
+- **[Utah Department of Agriculture & Food](/pages/utah-department-of-agriculture-and-food.md)** (active) · `https://greatutah.work/pages/utah-department-of-agriculture-and-food.md`
+  Open grant programs with named categories (grazing improvement, predatory-animal control, salinity reduction), agricultural loans, and USDA navigation. Real money for a food or livestock op…
+- **[Utah Division of Outdoor Recreation](/pages/utah-division-of-outdoor-recreation.md)** (active) · `https://greatutah.work/pages/utah-division-of-outdoor-recreation.md`
+  The Utah Outdoor Recreation Grant and related programs, plus explicit business recruitment for outdoor-recreation companies. Named grant money for a specific industry.
+- **[Utah Film Center Fiscal Sponsorship](/pages/utah-film-center-fiscal-sponsorship.md)** (active) · `https://greatutah.work/pages/utah-film-center-fiscal-sponsorship.md`
+  Fiscal sponsorship lets an approved project accept tax-deductible donations and apply for grants requiring a nonprofit sponsor. That is a legal and financial capability that otherwise costs…
+- **[Utah Film Commission](/pages/utah-film-commission.md)** (active) · `https://greatutah.work/pages/utah-film-commission.md`
+  Runs the motion-picture incentive program — actual money against a production budget — plus location scouting, crew directories, and Film Ready community support.
+- **[Utah Governor's Office of Economic Opportunity](/pages/utah-governor-s-office-of-economic-opportunity.md)** (active) · `https://greatutah.work/pages/utah-governor-s-office-of-economic-opportunity.md`
+  A router, but the router, and the things behind it are money: incentives, rural grants, APEX, USBCI, Opportunity Zones, with business@utah.gov as a real intake line.
+- **[Utah Innovation Center](/pages/utah-innovation-center.md)** (active) · `https://greatutah.work/pages/utah-innovation-center.md`
+  This is the former name of Nucleus Grow: strong SBIR/STTR help, but relevant to only a small minority of typical new founders.
+- **[Utah MEP](/pages/utah-mep.md)** (active) · `https://greatutah.work/pages/utah-mep.md`
+  Federally subsidized manufacturing extension: sales, leadership, compliance, production, and a demonstration lab, with custom engagements. Real plant-floor work at below-consultant cost, bu…
+- **[Utah Microloan Fund (UMLF)](/pages/utah-microloan-fund-umlf.md)** (active) · `https://greatutah.work/pages/utah-microloan-fund-umlf.md`
+  A CDFI making microloans to founders banks reject, paired with required orientation, advising, Banking on Women, and free statewide classes. Real capital of last resort with coaching attach…
+- **[Utah Office Of Regulatory Relief](/pages/utah-office-of-regulatory-relief.md)** (active) · `https://greatutah.work/pages/utah-office-of-regulatory-relief.md`
+  A regulatory waiver can be decisive, but few entry-level founders are blocked by a rule that qualifies for the sandbox.
+- **[Utah Small Business Credit Initiative](/pages/utah-small-business-credit-initiative.md)** (active) · `https://greatutah.work/pages/utah-small-business-credit-initiative.md`
+  Credit enhancement can turn a bank no into a yes, but a beginner still needs a participating lender, an eligible loan, and approval.
+- **[Utah Technology Innovation Funding](/pages/utif.md)** (active) · `https://greatutah.work/pages/utif.md`
+  Microgrants and bridge loans can help SBIR/STTR applicants, but eligibility starts after a specialized federal-funding path the typical founder never enters.
+- **[Veteran Business Resource Center (VBRC) Utah](/pages/veteran-business-resource-center-vbrc-utah.md)** (active) · `https://greatutah.work/pages/veteran-business-resource-center-vbrc-utah.md`
+  One-on-one advisor sessions, the STRIVE program, an annual conference, and help getting listed as a verified veteran-owned business. The advising is the substance; the registry is not.
+- **[Weber State AI Hackathon](/pages/weber-state-ai-hackathon.md)** (active) · `https://greatutah.work/pages/weber-state-ai-hackathon.md`
+  Two weeks of mentored remote build time, expert workshops, an in-person finale, meals, and an $1,800 prize pool, for a $10 ticket. The mentored runway before the deadline is the part that i…
 - **[Wildcat MicroFund](/pages/wildcat-microfund.md)** · `https://greatutah.work/pages/wildcat-microfund.md`
-  - Cash awards up to $3,000 through GetFUNDED - Milestone-based funding using Lean Startup and Business Model Canvas framing - Business-network and capital-access support through Weber State…
-- **[Wilson Sonsini Salt Lake City](/pages/wilson-sonsini-salt-lake-city.md)** · `https://greatutah.work/pages/wilson-sonsini-salt-lake-city.md`
-  Likely fits include venture-scale software, AI, life-sciences, medical-device, diagnostics, defense-tech, clean-tech, semiconductor, and university-spinout companies that expect institution…
-- **[Women's Business Center of Utah](/pages/womens-business-center-of-utah.md)** · `https://greatutah.work/pages/womens-business-center-of-utah.md`
-  WBCUtah's public pages describe free advising, workshops, trainings, resources, templates, and support with business planning, legal and foundational issues, capital access, marketing, fina…
-- **[Workman Nydegger](/pages/workman-nydegger.md)** · `https://greatutah.work/pages/workman-nydegger.md`
-  The strongest fit is a Utah founder whose competitive moat is technical — a device, a chemistry, an algorithm, a manufacturing method — and who needs a patent filed, a portfolio built, or a…
-- **[World Trade Center Utah](/pages/world-trade-center-utah.md)** · `https://greatutah.work/pages/world-trade-center-utah.md`
-  - Business advisory for international expansion - Trade missions, events, and market-entry programming - Grant and funding support for trade opportunities such as STEP - Foreign-trade zone …
+  GetFUNDED cash awards up to $3,000, milestone-based, statewide, nondilutive, low friction. Small, but it is money and you can apply for it.
+- **[Wilson Sonsini Salt Lake City](/pages/wilson-sonsini-salt-lake-city.md)** (active) · `https://greatutah.work/pages/wilson-sonsini-salt-lake-city.md`
+  The firm that does venture financings to national standard, with a Salt Lake City office. For a venture-scale or spinout founder expecting institutional money, that reduces a real risk at r…
+- **[Women's Business Center of Utah](/pages/womens-business-center-of-utah.md)** (active) · `https://greatutah.work/pages/womens-business-center-of-utah.md`
+  Free statewide advising, workshops, and templates across planning, capital access, and operations for women founders. Substantive, and overlapping enough with the SBDC to cap it here.
+- **[Workman Nydegger](/pages/workman-nydegger.md)** (active) · `https://greatutah.work/pages/workman-nydegger.md`
+  An IP-only Salt Lake City firm handling both prosecution and litigation. For a founder whose moat is a device, a chemistry, an algorithm, or a process, that is the specific hour worth buyin…
+- **[World Trade Center Utah](/pages/world-trade-center-utah.md)** (active) · `https://greatutah.work/pages/world-trade-center-utah.md`
+  Trade missions, market-entry programming, and support for STEP grants, which are real money against export-marketing costs. Useful only once there is something exportable.
 
-## D — narrow or low-leverage (115)
+## D — narrow or low-leverage (114)
 
-- **[A Bolder Way Forward](/pages/a-bolder-way-forward.md)** · `https://greatutah.work/pages/a-bolder-way-forward.md`
-  Research-based resources, toolkits, women's network directories, a community calendar of Utah events for girls and women, trainings, and the Entrepreneurship spoke's focus on removing struc…
-- **[Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md)** · `https://greatutah.work/pages/atwood-innovation-plaza.md`
-  No-cost business consultations via the [Business Resource Center](/pages/business-resource-center-utah-tech-university.md); makerspace with prototyping and small-run manufacturing; innovati…
-- **[Bear River Association of Governments](/pages/bear-river-association-of-governments.md)** · `https://greatutah.work/pages/bear-river-association-of-governments.md`
-  Community Development Block Grant administration, local planning assistance (general plans, GIS, housing plans), business outreach, regional mobility planning, and connections to CIB and ot…
-- **[BIO Utah](/pages/bio-utah.md)** · `https://greatutah.work/pages/bio-utah.md`
-  - Trade-association membership and advocacy - BIO Business Solutions cost-saving programs for lab and operations supplies - Legislative tracking, news, awards, and industry events - Partner…
-- **[BIOHive Utah](/pages/biohive-utah.md)** · `https://greatutah.work/pages/biohive-utah.md`
-  - Ecosystem branding and convening for Utah life sciences - Events including BioHive Live - Sub-communities for health tech, women in tech/science, returnships, and students - Partnership w…
-- **[Brigham City Economic Development](/pages/brigham-city-economic-development.md)** · `https://greatutah.work/pages/brigham-city-economic-development.md`
-  The economic development page provides city contact information, business-environment context, and links to related city services such as business licensing. The city notes approximately 1,…
-- **[Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md)** · `https://greatutah.work/pages/business-resource-center-davis-tech-college.md`
-  Small Business Development Center (SBDC) consulting on business plans and growth strategies; workforce education and Custom Fit training; government-contracting assistance; open lobby works…
+- **[A Bolder Way Forward](/pages/a-bolder-way-forward.md)** (active) · `https://greatutah.work/pages/a-bolder-way-forward.md`
+  Research-backed toolkits, network directories, a statewide calendar, and trainings through USU's Utah Women and Leadership Program. Substantive research, no founder-facing service.
+- **[Atwood Innovation Plaza](/pages/atwood-innovation-plaza.md)** (active) · `https://greatutah.work/pages/atwood-innovation-plaza.md`
+  Utah Tech's St. George hub: free BRC consultations, a makerspace, patent and trademark guidance, offices, and pitch competitions. Substantive as a campus, and split across three overlapping…
+- **[Bear River Association of Governments](/pages/bear-river-association-of-governments.md)** (active) · `https://greatutah.work/pages/bear-river-association-of-governments.md`
+  CDBG administration, local planning assistance, and connections to CIB and other infrastructure funding across Box Elder, Cache, and Rich counties.
+- **[BIO Utah](/pages/bio-utah.md)** (active) · `https://greatutah.work/pages/bio-utah.md`
+  A life-sciences trade association whose one handed benefit is BIO Business Solutions group purchasing, which the site says can exceed annual dues for some members. The rest is advocacy and …
+- **[BIOHive Utah](/pages/biohive-utah.md)** (active) · `https://greatutah.work/pages/biohive-utah.md`
+  Ecosystem branding and convening for Utah life sciences, with BioHive Live and sub-communities. Peers rather than leverage; pair with BIO Utah's purchasing program if dues are the question.
+- **[Brigham City Economic Development](/pages/brigham-city-economic-development.md)** (active) · `https://greatutah.work/pages/brigham-city-economic-development.md`
+  City contact information, business-environment context, and licensing links, with roughly 1,200 active business licenses and major employers named. A municipal front door.
+- **[Business Resource Center - Davis Tech College](/pages/business-resource-center-davis-tech-college.md)** (active) · `https://greatutah.work/pages/business-resource-center-davis-tech-college.md`
+  SBDC consulting, Custom Fit training, government-contracting help, incubator memberships, and conference rooms in one Layton building. The advising is free; the space is not.
 - **[Business Resource Center - Utah Tech University](/pages/business-resource-center-utah-tech-university.md)** · `https://greatutah.work/pages/business-resource-center-utah-tech-university.md`
-  No-cost one-on-one consultations; business plan and marketing strategy help; LLC launch support; government-contracting and export guidance; mentor connections; workspace referrals; a start…
-- **[Business Technical Assistance Center](/pages/business-technical-assistance-center.md)** · `https://greatutah.work/pages/business-technical-assistance-center.md`
-  From BTAC's own site as [captured on 2025-03-25](/pages/btac-official-website-archive.md), the last copy with real content: free parking, security, a business address, 24-hour access, fiber…
-- **[Carbon County Economic Development](/pages/carbon-county-economic-development.md)** · `https://greatutah.work/pages/carbon-county-economic-development.md`
-  Business recruitment and expansion support; Rural County Grant program; business tools and incentives pages; interactive economic-development maps; workforce and education partnerships (USU…
-- **[Church and State](/pages/church-and-state.md)** · `https://greatutah.work/pages/church-and-state.md`
-  Daytime coworking and marketplace atmosphere; tenant spaces for independent small businesses; community events; and evening event-venue rental with historic architecture (stained glass, arc…
-- **[Convoi Ventures](/pages/convoi-ventures.md)** · `https://greatutah.work/pages/convoi-ventures.md`
-  - Utah-only pre-seed venture capital - Community events connecting founders and operator LPs - Mentor and LP network drawn from Utah tech operators
-- **[Cross Creek](/pages/cross-creek.md)** · `https://greatutah.work/pages/cross-creek.md`
-  Late-stage investment access through Cross Creek fund relationships; portfolio exposure to high-growth companies in sectors such as consumer internet, enterprise software, and cybersecurity…
-- **[CTO Breakfast Utah](/pages/cto-breakfast-utah.md)** · `https://greatutah.work/pages/cto-breakfast-utah.md`
-  A monthly, recurring, agenda-less conversation among people with comparable jobs — and the norms that make that conversation possible. From the chapter page, in the organizers' own words: -…
-- **[Davis County Economic Development](/pages/davis-county-economic-development.md)** · `https://greatutah.work/pages/davis-county-economic-development.md`
-  Business recruitment (sites, demographics, workforce liaisons, stacked incentives), retention and expansion visits, Davis Loan Fund for Economic Development, entrepreneurial mentoring, Davi…
-- **[Eide Bailly (Utah)](/pages/eide-bailly-utah.md)** · `https://greatutah.work/pages/eide-bailly-utah.md`
-  The strongest fit is a Utah company that wants CFO-level finance support without a full-time hire, an R&D-intensive startup that should be capturing tax credits, or a founder who values hav…
-- **[Emery County Economic Development](/pages/emery-county-economic-development.md)** · `https://greatutah.work/pages/emery-county-economic-development.md`
-  Fast Track Grant application assistance; tax incentives for growth; BEAR data-driven retention and expansion planning; referrals to the Small Business Development Center for one-on-one mana…
+  No-cost one-on-one consultations, LLC launch support, and government-contracting and export guidance — the SBDC package delivered locally, which is where its value comes from.
+- **[Business Technical Assistance Center](/pages/business-technical-assistance-center.md)** (active) · `https://greatutah.work/pages/business-technical-assistance-center.md`
+  Coworking and incubation for Carbon, Emery, Grand, and San Juan counties — address, 24-hour access, fiber, mail, meeting rooms — with no pricing ever published and only an archived site.
+- **[Carbon County Economic Development](/pages/carbon-county-economic-development.md)** (active) · `https://greatutah.work/pages/carbon-county-economic-development.md`
+  Business recruitment and expansion support with a named Rural County Grant program, incentive pages, and an SBDC-Price referral path.
+- **[Church and State](/pages/church-and-state.md)** (active) · `https://greatutah.work/pages/church-and-state.md`
+  A historic 1893 downtown building running as coffee-fueled coworking, an independent-business marketplace, and an evening event venue. Ambiance and cross-tenant traffic, inquiry-based prici…
+- **[Convoi Ventures](/pages/convoi-ventures.md)** (active) · `https://greatutah.work/pages/convoi-ventures.md`
+  Utah-only pre-seed backing breakout local startups before broader investors engage, plus operator-LP community events. Small, local, and unapplyable.
+- **[Cross Creek](/pages/cross-creek.md)** (active) · `https://greatutah.work/pages/cross-creek.md`
+  Late-stage and crossover investing bridging private to public. Reachable only by companies already carrying substantial late-stage traction, which is very few readers.
+- **[CTO Breakfast Utah](/pages/cto-breakfast-utah.md)** (active) · `https://greatutah.work/pages/cto-breakfast-utah.md`
+  A free monthly agenda-less conversation among Utah technology leaders under Chatham House Rules, one conversation at a time. Real peer counsel for senior people, and you buy your own breakf…
+- **[Davis County Economic Development](/pages/davis-county-economic-development.md)** (active) · `https://greatutah.work/pages/davis-county-economic-development.md`
+  Recruitment with stacked incentives, retention visits, entrepreneurial mentoring, and the Davis Loan Fund for Economic Development — a named local capital source.
+- **[Eide Bailly (Utah)](/pages/eide-bailly-utah.md)** (active) · `https://greatutah.work/pages/eide-bailly-utah.md`
+  A national CPA and advisory firm reachable through a Salt Lake City office, with fractional CFO, outsourced accounting, and R&D tax credit work. The credits are the concrete part.
+- **[Emery County Economic Development](/pages/emery-county-economic-development.md)** (active) · `https://greatutah.work/pages/emery-county-economic-development.md`
+  Fast Track Grant application assistance, tax incentives, BEAR retention planning, and SBDC referrals. Named programs, small county.
 - **[Escalante City Innovation Center](/pages/escalante-city-innovation-center.md)** · `https://greatutah.work/pages/escalante-city-innovation-center.md`
-  Per Startup State listing: furnished private offices, meeting room with conference table and display, and flexible workspace rental terms. Specific programming beyond space (advising, fundi…
-- **[EVENT: Business Forward](/pages/event-business-forward.md)** · `https://greatutah.work/pages/event-business-forward.md`
-  The official site offers keynotes, four breakout blocks with tracks (Lead, Grow, Innovate, Impact, AI hands-on workshops), optional Breakfast With an Expert (free with early-bird tickets wh…
-- **[EVENT: Grand Summit Moab](/pages/event-grand-summit-moab.md)** · `https://greatutah.work/pages/event-grand-summit-moab.md`
-  The official site markets a premiere Moab business event with sponsor/exhibitor tiers and online registration (2024 checkout link). Startup State import described keynotes, panels, and brea…
-- **[EVENT: Mountain West Capital Network](/pages/event-mountain-west-capital-network.md)** · `https://greatutah.work/pages/event-mountain-west-capital-network.md`
-  The official site describes membership-oriented networking with signature events: Utah 100 (fastest-growing companies), Deal Flow report on Utah equity and M&A activity, Entrepreneur of the…
-- **[EVENT: One Utah Summit](/pages/event-one-utah-summit.md)** · `https://greatutah.work/pages/event-one-utah-summit.md`
-  The official site describes a multi-day summit with sponsor opportunities and registration information. Programming focuses on Utah's economic future with emphasis on rural and statewide co…
-- **[EVENT: Raising Kane Business Summit](/pages/event-raising-kane-business-summit.md)** · `https://greatutah.work/pages/event-raising-kane-business-summit.md`
-  The official site describes a full-day summit at the Kanab Event Center with breakfast and lunch, exhibitor area, keynotes (2026 lineup included Trent Staggs as SBA regional advocate), coun…
-- **[EVENT: Silicon Slopes Tech Summit](/pages/event-silicon-slopes-tech-summit.md)** · `https://greatutah.work/pages/event-silicon-slopes-tech-summit.md`
-  The summit site (linked from Silicon Slopes) is the canonical source for dates, venues, speakers, and tracks. Startup State import referenced multi-venue programming (UCCU Center at Utah Va…
-- **[EVENT: Utah Tech Week](/pages/event-utah-tech-week.md)** · `https://greatutah.work/pages/event-utah-tech-week.md`
-  The site lists Utah Tech Week October 26–30, 2026. Hosts submit events to a master list (no fee or sponsorship required to host beyond meeting posted criteria). Attendees register for updat…
-- **[EVENT: What's Up Down South - Economic Summit](/pages/event-what-s-up-down-south-economic-summit.md)** · `https://greatutah.work/pages/event-what-s-up-down-south-economic-summit.md`
-  The official site schedules the summit at the Dixie Convention Center (1835 S Convention Center Dr, St. George). The January 14, 2027 edition includes breakfast and lunch, an exhibit hall, …
-- **[Federal Economic Development Administration](/pages/federal-economic-development-administration.md)** · `https://greatutah.work/pages/federal-economic-development-administration.md`
-  Federal grants (e.g., Public Works, Economic Adjustment, Build to Scale, disaster recovery), technical assistance, regional collaboration requirements, and partnership with Utah's EDA Econo…
-- **[Five County Association of Governments](/pages/five-county-association-of-governments.md)** · `https://greatutah.work/pages/five-county-association-of-governments.md`
-  Regional planning and federal/state program administration, Economic Development District status, small-business financing support (per mission statement), aging and human-services programs…
-- **[Forge Utah](/pages/forge-utah.md)** · `https://greatutah.work/pages/forge-utah.md`
-  Forge Utah Foundation is a volunteer-run not-for-profit connecting Utah's developers, data scientists, SREs, and tinkerers.
-- **[FutureReady Utah](/pages/futureready-utah.md)** · `https://greatutah.work/pages/futureready-utah.md`
-  Short-term free or reduced-cost career training, connections to higher-wage careers, and employer-focused business training and consulting. The program positions itself as a regional effort…
-- **[Grix](/pages/grix.md)** · `https://greatutah.work/pages/grix.md`
-  - Pre-seed venture capital focused on AI and B2B software - Early founder backing from formation stage
-- **[Heber Valley Economic Development](/pages/heber-valley-economic-development.md)** · `https://greatutah.work/pages/heber-valley-economic-development.md`
-  Per Startup State: support for local business growth, attraction of new enterprises, economic incentives, strategic planning, and community engagement. The live Economic Development page di…
-- **[Indie Square](/pages/indie-square.md)** · `https://greatutah.work/pages/indie-square.md`
-  Colocation office space, meeting and event venues, member community connections, newsletter updates, and availability/pricing information for workspace and meeting rooms. Amenities are fram…
-- **[JustBuild](/pages/justbuild.md)** · `https://greatutah.work/pages/justbuild.md`
-  JustBuild is an open Utah community where founders and technical builders meet through AI events, Slack, and coworking.
-- **[Kiln](/pages/kiln.md)** · `https://greatutah.work/pages/kiln.md`
-  Coworking (Access and Club tiers), lockable furnished private offices (1–15 people), enterprise studio suites (15–100 people), meeting and event spaces, community teams, curated events, pod…
-- **[Kinect Capital](/pages/kinect-capital.md)** · `https://greatutah.work/pages/kinect-capital.md`
-  The official site describes a pathway from startup foundation to fundraising support to scaling impact. It highlights Investor Ready work, mentorship, pitch and deck coaching, valuation and…
+  Furnished private offices and a meeting room in rural Garfield County with flexible terms. Space only, and no live pricing page at verification.
+- **[EVENT: Business Forward](/pages/event-business-forward.md)** (active) · `https://greatutah.work/pages/event-business-forward.md`
+  A paid Utah Business executive conference with four breakout blocks, an AI workshop track, and a lunch panel. Peer strategy talk for growth-stage leaders.
+- **[EVENT: Grand Summit Moab](/pages/event-grand-summit-moab.md)** (active) · `https://greatutah.work/pages/event-grand-summit-moab.md`
+  A regional business conference for Grand County on tourism and economic development, with the next agenda unconfirmed and 2024 checkout links still live.
+- **[EVENT: Mountain West Capital Network](/pages/event-mountain-west-capital-network.md)** (active) · `https://greatutah.work/pages/event-mountain-west-capital-network.md`
+  The Utah 100 list and the Deal Flow report, which is the only public read on Utah equity and M&A activity, plus Entrepreneur of the Year and business forums. Membership and fees unpublished.
+- **[EVENT: One Utah Summit](/pages/event-one-utah-summit.md)** (active) · `https://greatutah.work/pages/event-one-utah-summit.md`
+  The Governor's rural summit convening business, nonprofit, and government leaders on statewide economic priorities. Policy context, not a program.
+- **[EVENT: Raising Kane Business Summit](/pages/event-raising-kane-business-summit.md)** (active) · `https://greatutah.work/pages/event-raising-kane-business-summit.md`
+  Kane County's annual full-day summit in Kanab with keynotes, county and city updates, and tourism briefings. Next edition advertised for January 2027, pricing unlisted.
+- **[EVENT: Silicon Slopes Tech Summit](/pages/event-silicon-slopes-tech-summit.md)** (active) · `https://greatutah.work/pages/event-silicon-slopes-tech-summit.md`
+  Utah's flagship tech convening with multi-venue programming and a Startup Alley for emerging companies. Concentrated networking for a ticket price that varies by year.
+- **[EVENT: Utah Tech Week](/pages/event-utah-tech-week.md)** (active) · `https://greatutah.work/pages/event-utah-tech-week.md`
+  A decentralized week where hosts submit events to a master list at no cost and attendees register free for the consolidated calendar. Low friction, wide surface, no leverage.
+- **[EVENT: What's Up Down South - Economic Summit](/pages/event-what-s-up-down-south-economic-summit.md)** (active) · `https://greatutah.work/pages/event-what-s-up-down-south-economic-summit.md`
+  Southern Utah's largest economic summit at $200 including meals, with a Gardner Institute economist and an SBA advocate on the program. A day of regional data.
+- **[Federal Economic Development Administration](/pages/federal-economic-development-administration.md)** (active) · `https://greatutah.work/pages/federal-economic-development-administration.md`
+  Public Works, Economic Adjustment, and Build to Scale grants with match requirements, aimed at economic development districts, municipalities, and universities rather than at founders.
+- **[Five County Association of Governments](/pages/five-county-association-of-governments.md)** (active) · `https://greatutah.work/pages/five-county-association-of-governments.md`
+  Economic Development District status, small-business financing support, and regional program administration across Beaver, Garfield, Iron, Kane, and Washington counties.
+- **[Forge Utah](/pages/forge-utah.md)** (active) · `https://greatutah.work/pages/forge-utah.md`
+  A volunteer-run nonprofit connecting Utah developers, data scientists, SREs, and tinkerers, framed deliberately wide. Community, no program.
+- **[FutureReady Utah](/pages/futureready-utah.md)** (active) · `https://greatutah.work/pages/futureready-utah.md`
+  Free or reduced-cost short-term career training and employer-facing business consulting across southwestern Utah. Real for a regional employer, small and regionally bounded.
+- **[Grix](/pages/grix.md)** (active) · `https://greatutah.work/pages/grix.md`
+  A Salt Lake City pre-seed firm describing itself as first-capital investors in AI and B2B software. No check size, no portfolio depth, and no intake published.
+- **[Heber Valley Economic Development](/pages/heber-valley-economic-development.md)** (active) · `https://greatutah.work/pages/heber-valley-economic-development.md`
+  A published Economic Development page whose listed services did not appear when fetched. Treat as contact-first and confirm current programs before recommending.
+- **[Indie Square](/pages/indie-square.md)** (active) · `https://greatutah.work/pages/indie-square.md`
+  Colocation and meeting space in Murray built specifically for Utah nonprofits, with shared resources across peer organizations. Narrow by design; pricing is per-inquiry.
+- **[JustBuild](/pages/justbuild.md)** (active) · `https://greatutah.work/pages/justbuild.md`
+  An open Utah community for founders and engineers building with AI — collaborators and peers, with nothing specific handed over.
+- **[Kiln](/pages/kiln.md)** (active) · `https://greatutah.work/pages/kiln.md`
+  Coworking and Club tiers, furnished private offices for 1-15, studio suites for 15-100, meeting and event space, and cross-location access. A polished desk for market rent.
+- **[Kinect Capital](/pages/kinect-capital.md)** (active) · `https://greatutah.work/pages/kinect-capital.md`
+  A nonprofit mentor-driven accelerator doing investor-ready work, pitch and deck coaching, and term-sheet guidance. No universal fee or eligibility rule is published.
 - **[LiaLaunch](/pages/lialaunch.md)** · `https://greatutah.work/pages/lialaunch.md`
-  Strategic advisory with coaching and launch guides (company registration, business planning), early-stage investment for selected ventures, and pitch competitions that include expert coachi…
-- **[Logan City Economic Development](/pages/logan-city-economic-development.md)** · `https://greatutah.work/pages/logan-city-economic-development.md`
-  City economic development services include site selection assistance (lease or buy), economic data, RDA/project-area information, links to business licensing and permits, utility services, …
-- **[Maven CREATE](/pages/maven-create.md)** · `https://greatutah.work/pages/maven-create.md`
-  Day, month-to-month, and longer-term coworking; private executive offices; event and photoshoot rentals; community events and speaker series; Maven community fund; kitchen, Wi-Fi, parking, …
-- **[Military Installation Development Authority](/pages/military-installation-development-authority.md)** · `https://greatutah.work/pages/military-installation-development-authority.md`
-  Project-area governance, public records, development agreements, infrastructure coordination, and financing or taxing mechanisms authorized by state law.
-- **[Monarch](/pages/monarch.md)** · `https://greatutah.work/pages/monarch.md`
-  Creative studio memberships, premier event venues, gallery exhibition space, salon suites for independent beauty professionals, retail/creative workshop space, on-site dining, and a public …
-- **[Monticello Coworking Space](/pages/monticello-coworking-space.md)** · `https://greatutah.work/pages/monticello-coworking-space.md`
-  Coworking lounge access, reservable conference room (seats up to 12 at the table or 25 auditorium-style), two privacy booths, lounge meeting area, and small private offices for monthly rent…
-- **[Mountainland Association of Governments](/pages/mountainland-association-of-governments.md)** · `https://greatutah.work/pages/mountainland-association-of-governments.md`
-  Regional collaboration and planning, funding and service connections, community and economic development programs, aging and family services, heat and weatherization assistance, and GRAMA/c…
-- **[Northern Utah .NET Users Group](/pages/northern-utah-dotnet-users-group.md)** · `https://greatutah.work/pages/northern-utah-dotnet-users-group.md`
-  A monthly hybrid technical gathering with free parking at the advertised Layton venue and an online option for anyone outside commuting range ([official website](/pages/nunug-official-websi…
-- **[Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md)** · `https://greatutah.work/pages/northern-utah-economic-alliance.md`
-  Business and investment resources, commercial real estate database (listed and unlisted), relocation guide, regional research, labor and infrastructure information, and direct contact with …
-- **[NOW CFO](/pages/now-cfo.md)** · `https://greatutah.work/pages/now-cfo.md`
-  Publicly listed services include CFO and finance strategy, budgeting and forecasting, financial planning and analysis, M&A, cash-flow management, KPIs and dashboards, board and investor rep…
-- **[Nucleus Fund](/pages/nucleus-fund.md)** · `https://greatutah.work/pages/nucleus-fund.md`
-  The public sources describe early-stage capital, mentorship, networks, commercialization resources, operator matching, and connections to legal, financial, marketing, and other service supp…
-- **[Ogden-Weber Chamber of Commerce](/pages/ogden-weber-chamber-of-commerce.md)** · `https://greatutah.work/pages/ogden-weber-chamber-of-commerce.md`
-  Verified member benefits include customer-reach marketing, employee development programs, community and legislative advocacy, sponsored insurance and benefits plans, a searchable member dir…
-- **[Orem Library Makerspace](/pages/orem-library-makerspace.md)** · `https://greatutah.work/pages/orem-library-makerspace.md`
-  The Orem Library Makerspace offers public tools for prototyping, media production, digitization, and recording.
-- **[Pacific Island Chamber of Commerce (PICC)](/pages/pacific-island-chamber-of-commerce-picc.md)** · `https://greatutah.work/pages/pacific-island-chamber-of-commerce-picc.md`
-  Monthly networking and education meetups, culturally relevant business training, mentorship with successful community business owners, ribbon-cutting/open-house (RCC) event support for memb…
-- **[Park City Angels](/pages/park-city-angels.md)** · `https://greatutah.work/pages/park-city-angels.md`
-  - Angel investment from accredited investor members - Mentorship and industry expertise from experienced operators - Screening and due-diligence process for member investment decisions
+  Strategic advisory, launch guides, early-stage investment, and pitch competitions for women founders, with advisory engagements possibly taken in equity. Verify the equity term before engag…
+- **[Logan City Economic Development](/pages/logan-city-economic-development.md)** (active) · `https://greatutah.work/pages/logan-city-economic-development.md`
+  Site selection assistance for lease or buy, RDA project-area information, economic data, and a named director as the contact for development inquiries.
+- **[Maven CREATE](/pages/maven-create.md)** (active) · `https://greatutah.work/pages/maven-create.md`
+  Coworking in the Maven District with published points — free community signup, $20 day passes, month-to-month rates — plus private offices, event rentals, and wellness amenities.
+- **[Military Installation Development Authority](/pages/military-installation-development-authority.md)** (active) · `https://greatutah.work/pages/military-installation-development-authority.md`
+  Project-area governance, development agreements, and legislatively authorized financing mechanisms. Reachable only through a project area's legal process, not a program a founder applies to.
+- **[Monarch](/pages/monarch.md)** (active) · `https://greatutah.work/pages/monarch.md`
+  Creative studio memberships, gallery space, salon suites, event venues, and retail workshop space in Ogden's Nine Rails district. Real infrastructure for a creative-economy operator, unpric…
+- **[Monticello Coworking Space](/pages/monticello-coworking-space.md)** (active) · `https://greatutah.work/pages/monticello-coworking-space.md`
+  A shared workspace on Main Street in Monticello with a 12-seat conference room, privacy booths, small private offices, and 24/7 access. Rare in southeastern Utah, ordinary otherwise.
+- **[Mountainland Association of Governments](/pages/mountainland-association-of-governments.md)** (active) · `https://greatutah.work/pages/mountainland-association-of-governments.md`
+  Regional planning, community and economic development programs, and funding connections across Summit, Utah, and Wasatch counties, alongside a large human-services operation.
+- **[Northern Utah .NET Users Group](/pages/northern-utah-dotnet-users-group.md)** (active) · `https://greatutah.work/pages/northern-utah-dotnet-users-group.md`
+  A free monthly hybrid technical gathering in Layton with an online option and no published talk schedule. Small and real.
+- **[Northern Utah Economic Alliance](/pages/northern-utah-economic-alliance.md)** (active) · `https://greatutah.work/pages/northern-utah-economic-alliance.md`
+  A commercial real-estate database covering listed and unlisted properties, a relocation guide, and direct contact with the president, for Davis and Weber siting decisions.
+- **[NOW CFO](/pages/now-cfo.md)** (active) · `https://greatutah.work/pages/now-cfo.md`
+  Fractional CFO, controller, outsourced accounting, board and investor reporting, and finance-team placement. Competent and entirely substitutable — Utah has many of these.
+- **[Nucleus Fund](/pages/nucleus-fund.md)** (active) · `https://greatutah.work/pages/nucleus-fund.md`
+  State-linked early-stage equity for Utah deep-tech spinouts. Money if it picks you and nothing if it doesn't — the capital-source rule, even when the capital is public.
+- **[Ogden-Weber Chamber of Commerce](/pages/ogden-weber-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/ogden-weber-chamber-of-commerce.md`
+  990+ members, and the sponsored insurance and benefits plans are the one thing genuinely handed to a member. Everything else is directory, events, and advocacy.
+- **[Orem Library Makerspace](/pages/orem-library-makerspace.md)** (active) · `https://greatutah.work/pages/orem-library-makerspace.md`
+  Free public access to 3D printers, creative software, recording space, and media-conversion equipment. Occasional prototyping for the price of a library card, with no programming attached.
+- **[Pacific Island Chamber of Commerce (PICC)](/pages/pacific-island-chamber-of-commerce-picc.md)** (active) · `https://greatutah.work/pages/pacific-island-chamber-of-commerce-picc.md`
+  Culturally grounded training and mentorship plus microlending coordination and periodic grant or pitch opportunities through national partners. The lending coordination is what lifts it abo…
+- **[Park City Angels](/pages/park-city-angels.md)** (active) · `https://greatutah.work/pages/park-city-angels.md`
+  85+ accredited members with a screening and diligence process and no application fee. A real pitch target, and an angel group is a possibility rather than a service.
 - **[Portal Warehousing](/pages/portal-warehousing.md)** · `https://greatutah.work/pages/portal-warehousing.md`
-  Flexible warehouse units (small, medium, and large footprints), loading docks and logistics equipment, private offices, shipping and receiving services, technology-partner discounts, and co…
-- **[Preferred CFO](/pages/preferred-cfo.md)** · `https://greatutah.work/pages/preferred-cfo.md`
-  From the firm's public service descriptions, Preferred CFO can help with: - **Fractional CFO leadership** — ongoing, part-time executive financial strategy tailored to the company's size an…
-- **[R6 Regional Council](/pages/r6-regional-council.md)** · `https://greatutah.work/pages/r6-regional-council.md`
-  Regional council administration, economic and community planning, housing and aging programs, workforce development references, public meetings, job postings, and staff assistance. The home…
+  Flexible co-warehousing in Salt Lake City with loading docks, logistics equipment, private offices, and day, week, and month passes. Genuinely useful for CPG, and quote-based.
+- **[Preferred CFO](/pages/preferred-cfo.md)** (active) · `https://greatutah.work/pages/preferred-cfo.md`
+  Fractional CFO leadership, forecasting and 13-week cash models, fundraising prep, and outsourced HR, with a complimentary initial assessment. Skews to revenue-stage clients.
+- **[R6 Regional Council](/pages/r6-regional-council.md)** (active) · `https://greatutah.work/pages/r6-regional-council.md`
+  Regional planning, economic development, housing, and workforce programs across six central Utah counties, from Richfield.
 - **[Red Rock Angels](/pages/red-rock-angels.md)** · `https://greatutah.work/pages/red-rock-angels.md`
-  - Angel investment pathway through the Pitch section - Paid startup services: pitch-deck consultation, mock pitch sessions, fundraising strategy, and bundled investor-ready packages - Inves…
+  A southern Utah angel group with a pitch path — and published paid services at $195, $375, and $450 for pitch prep and mock pitches. Read the conflict in paying the group that will judge yo…
 - **[Renewable Tech Ventures](/pages/renewable-tech-ventures.md)** · `https://greatutah.work/pages/renewable-tech-ventures.md`
-  - Early-stage venture capital for clean technology and energy innovation - Market intelligence, active board participation, and co-investor network access
+  Early-stage cleantech and energy venture capital with market intelligence and co-investor access. A thesis to read; no route in.
 - **[RevRoad](/pages/revroad.md)** · `https://greatutah.work/pages/revroad.md`
-  - Venture services across growth strategy, funding navigation, software, marketing, and business development - Portfolio management and founder support for existing investments
-- **[Salt Lake Angels](/pages/salt-lake-angels.md)** · `https://greatutah.work/pages/salt-lake-angels.md`
-  - Collective due diligence by accredited angel members - Potential angel investment and mentorship for selected companies - Forum for deal flow, member research, and investment decisions
-- **[Salt Lake Chamber](/pages/salt-lake-chamber.md)** · `https://greatutah.work/pages/salt-lake-chamber.md`
-  Online business directory, networking and member-priced events, legislative alerts and policy committees, ribbon cuttings, KSL Speaking on Business opportunities (upper tiers), job board po…
-- **[Salt Lake Community College (SLCC) - The Mill](/pages/salt-lake-community-college-slcc-the-mill.md)** · `https://greatutah.work/pages/salt-lake-community-college-slcc-the-mill.md`
-  Business incubator programming organized around Work Here (workspace), Learn Here (education), and Network Here (community); intake through a Get Started form that captures business stage a…
-- **[Salt Mine](/pages/salt-mine.md)** · `https://greatutah.work/pages/salt-mine.md`
-  Community workspace (weekday access), dedicated desks with 24/7 access, executive private offices, day passes and punch passes, private meeting rooms for 2–14 people, collaborative rooms fo…
-- **[Savory Fund](/pages/savory-fund.md)** · `https://greatutah.work/pages/savory-fund.md`
-  - Private equity for emerging restaurant and F&B brands - Operating support in real estate, recruiting, marketing, technology, and multi-unit rollout - Portfolio-scale infrastructure from a…
-- **[SCORE Utah](/pages/score-utah.md)** · `https://greatutah.work/pages/score-utah.md`
-  SCORE provides mentor matching, business workshops, training, and educational resources. SBA's national SCORE page describes SCORE mentors as helping small businesses plan, launch, manage, …
-- **[Sevier County Economic Development](/pages/sevier-county-economic-development.md)** · `https://greatutah.work/pages/sevier-county-economic-development.md`
-  Site-selection support for Salina Commercial Center and Richfield Business Park; information on qualifying incentives (enterprise zone credits, land write-downs, TIF); connections to local …
-- **[Silicon Slopes](/pages/silicon-slopes.md)** · `https://greatutah.work/pages/silicon-slopes.md`
-  The organization's public presence centers on community events and the [Silicon Slopes Tech Summit](/pages/event-silicon-slopes-tech-summit.md), with programming aimed at Utah's tech ecosys…
-- **[Six County Association of Governments](/pages/six-county-association-of-governments.md)** · `https://greatutah.work/pages/six-county-association-of-governments.md`
-  Community and economic development planning, Central Utah Agri-Park, Rural Rise nonprofit support, aging and volunteer services, housing and weatherization, individual tax preparation, cris…
-- **[Snow College - GRIT Center](/pages/snow-college-grit-center.md)** · `https://greatutah.work/pages/snow-college-grit-center.md`
-  Entrepreneurship Seminar Series with visiting founders; Bootstrap Your Business pitch competition; pitch events with funding opportunities; entrepreneurial-mindset skill development (proble…
-- **[Sorenson Impact Fund](/pages/sorenson-impact-fund.md)** · `https://greatutah.work/pages/sorenson-impact-fund.md`
-  - Impact investments through program-related and mission-related vehicles - Capital for social enterprises addressing global and community challenges - Part of the broader Sorenson Impact p…
-- **[SoUtah Economic Alliance](/pages/soutah-economic-alliance.md)** · `https://greatutah.work/pages/soutah-economic-alliance.md`
-  Regional economic profiles, site-selector toolkit access, business expansion/relocation support messaging, incentive-navigation help, and connections to local resources. Public pathways on …
-- **[Southeastern Association of Local Governments](/pages/southeastern-association-of-local-governments.md)** · `https://greatutah.work/pages/southeastern-association-of-local-governments.md`
-  Economic planning and development, Revolving Loan Fund business lending, housing assistance and weatherization, transportation planning, community gardens and food programs, aging services,…
-- **[Southeastern Utah Association of Local Governments - Economic Development](/pages/southeastern-utah-association-of-local-governments-economic-development.md)** · `https://greatutah.work/pages/southeastern-utah-association-of-local-governments-economic-development.md`
-  Per Startup State and SERDA's public mission statement: regional economic-development planning; implementation of state and federal programs; business finance support including the [Revolvi…
-- **[Southern Utah Code Camp](/pages/southern-utah-code-camp.md)** · `https://greatutah.work/pages/southern-utah-code-camp.md`
-  Twenty-four hours, a venue, meals, and a judged competition with prizes — plus the Pre-Flight session the night before, which the organizers strongly encourage attending because rules are f…
-- **[Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship](/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md)** · `https://greatutah.work/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md`
-  Entrepreneurship programming across education, experience, and elevation pillars; access to staff in BUS 115; event and speaker-series schedules; and pathways to practice starting, managing…
-- **[St George Downtown Farmers Market](/pages/st-george-downtown-farmers-market.md)** · `https://greatutah.work/pages/st-george-downtown-farmers-market.md`
-  Weekly vendor marketplace, vendor application path ("Become A Vendor"), SNAP & Double Up Food Bucks redemption, sponsor opportunities, and community events (e.g., Dixie Days, Holiday Villag…
-- **[St. George City Economic Development](/pages/st-george-city-economic-development.md)** · `https://greatutah.work/pages/st-george-city-economic-development.md`
-  Municipal economic-development outreach, business licensing coordination through Community Development, information on major city-led growth projects (including Tech Ridge), and connections…
+  A Provo venture-services firm pairing capital with operating support in strategy, software, marketing, and business development — with applications described as closed and no published term…
+- **[Salt Lake Angels](/pages/salt-lake-angels.md)** (active) · `https://greatutah.work/pages/salt-lake-angels.md`
+  An accredited-investor forum doing collective diligence, where members individually decide. Worth knowing exists if you are raising an angel round.
+- **[Salt Lake Chamber](/pages/salt-lake-chamber.md)** (active) · `https://greatutah.work/pages/salt-lake-chamber.md`
+  Utah's largest business association with published tiers from $1,500, policy committees, Leadership Utah, a job board, and Circle of Influence access at the top. Real convening at real scal…
+- **[Salt Lake Community College (SLCC) - The Mill](/pages/salt-lake-community-college-slcc-the-mill.md)** (active) · `https://greatutah.work/pages/salt-lake-community-college-slcc-the-mill.md`
+  Incubator programming organized as Work Here, Learn Here, and Network Here, with stage-based intake and SLCC and SBDC ties. No published fee schedule.
+- **[Salt Mine](/pages/salt-mine.md)** (active) · `https://greatutah.work/pages/salt-mine.md`
+  20,000 sq ft in Sandy with published rates: $149 a month community, $349 dedicated desk, $30 day passes, plus rooms scaling to 250-person events. Priced and checkable.
+- **[Savory Fund](/pages/savory-fund.md)** (active) · `https://greatutah.work/pages/savory-fund.md`
+  Operator-led private equity for emerging restaurant and food-and-beverage brands, with real multi-unit rollout infrastructure. Relevant to a narrow set of Utah operators with traction.
+- **[Sevier County Economic Development](/pages/sevier-county-economic-development.md)** (active) · `https://greatutah.work/pages/sevier-county-economic-development.md`
+  Shovel-ready sites at Salina Commercial Center and Richfield Business Park plus enterprise zone credits, land write-downs, and TIF. Concrete for a relocating operator.
+- **[Silicon Slopes](/pages/silicon-slopes.md)** (active) · `https://greatutah.work/pages/silicon-slopes.md`
+  The nonprofit hub for Utah's startup and tech community, whose public substance is the summit and community events. Network access at scale, nothing handed to a company.
+- **[Six County Association of Governments](/pages/six-county-association-of-governments.md)** (active) · `https://greatutah.work/pages/six-county-association-of-governments.md`
+  The R6 Regional Council under its former name; identical letter until the pages merge. Community and economic development planning, the Central Utah Agri-Park, and Rural Rise.
+- **[Snow College - GRIT Center](/pages/snow-college-grit-center.md)** (active) · `https://greatutah.work/pages/snow-college-grit-center.md`
+  A seminar series with visiting founders and the Bootstrap Your Business pitch competition with small-stakes funding. Real for a Snow College student, closed otherwise.
+- **[Sorenson Impact Fund](/pages/sorenson-impact-fund.md)** (active) · `https://greatutah.work/pages/sorenson-impact-fund.md`
+  Program-related and mission-related impact investment for social enterprises in education, economic mobility, health access, and sustainability. A specific thesis, and instrument-dependent …
+- **[SoUtah Economic Alliance](/pages/soutah-economic-alliance.md)** (active) · `https://greatutah.work/pages/soutah-economic-alliance.md`
+  Regional economic profiles, a site-selector toolkit, and incentive navigation across five southwestern counties. Useful with a live siting decision, empty without one.
+- **[Southeastern Association of Local Governments](/pages/southeastern-association-of-local-governments.md)** (active) · `https://greatutah.work/pages/southeastern-association-of-local-governments.md`
+  Runs a Revolving Loan Fund alongside economic planning, housing, and transportation across Carbon, Emery, Grand, and San Juan counties. The RLF is the part with money in it.
+- **[Southeastern Utah Association of Local Governments - Economic Development](/pages/southeastern-utah-association-of-local-governments-economic-development.md)** (active) · `https://greatutah.work/pages/southeastern-utah-association-of-local-governments-economic-development.md`
+  The same SERDA operation described a second time; identical letter until the pages merge. Regional planning and the Revolving Loan Fund, with live program status unconfirmed.
+- **[Southern Utah Code Camp](/pages/southern-utah-code-camp.md)** (active) · `https://greatutah.work/pages/southern-utah-code-camp.md`
+  A 24-hour judged build competition in St. George with a Pre-Flight team-formation session, meals, and prizes, on a published $13,000-$14,300 sponsor budget. Local and once a year.
+- **[Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship](/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md)** (active) · `https://greatutah.work/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md`
+  Entrepreneurship programming across education, experience, and elevation pillars for SUU students. Specific competitions and funding amounts are unconfirmed.
+- **[St George Downtown Farmers Market](/pages/st-george-downtown-farmers-market.md)** (active) · `https://greatutah.work/pages/st-george-downtown-farmers-market.md`
+  A weekly retail channel at Vernon Worthen Park with a vendor application path and SNAP/DUFB redemption. It is revenue, but it is a booth you rent, and every market offers the same.
+- **[St. George City Economic Development](/pages/st-george-city-economic-development.md)** (active) · `https://greatutah.work/pages/st-george-city-economic-development.md`
+  Municipal economic development tied to major city-led projects including Tech Ridge, plus licensing coordination through Community Development.
 - **[Startup Ogden](/pages/startup-ogden.md)** · `https://greatutah.work/pages/startup-ogden.md`
-  Flexible workspace options (hot desks and dedicated desks), conference rooms, an online member portal for bookings and community, and proximity to downtown Ogden amenities. The Nexudus site…
-- **[Startup State Resource Filter](/pages/startup-state-resource-list.md)** · `https://greatutah.work/pages/startup-state-resource-list.md`
-  The public resource page provides a searchable filter and category dimensions for topic, stage, community, industry, and location. The broader site includes startup journey pages, funding n…
-- **[STOPfakes.gov](/pages/stopfakes-gov.md)** · `https://greatutah.work/pages/stopfakes-gov.md`
-  IPR basics, business guides, country-specific IPR resources, webinars, and referral paths to federal agencies involved in IP protection. The homepage also publishes timely alerts (for examp…
-- **[Summit County Economic Development](/pages/summit-county-economic-development.md)** · `https://greatutah.work/pages/summit-county-economic-development.md`
-  County economic-development and housing coordination, business expansion support, workforce and planning resources per Startup State, and staff contact through the county department. Pair w…
-- **[Tanner LLC](/pages/tanner-llc.md)** · `https://greatutah.work/pages/tanner-llc.md`
-  From the firm's public service descriptions, Tanner LLC can help with: - **Assurance / audit** — public and private company audits, employee-benefit-plan audits, reviews, and compilations. …
-- **[Tech Ridge](/pages/tech-ridge.md)** · `https://greatutah.work/pages/tech-ridge.md`
-  The official site markets office availability (Container Park shipping-container creative offices, Terminal 1 Class A creative office campus), retail space, residential options (including S…
-- **[Teen Entrepreneur Support Center](/pages/teen-entrepreneur-support-center.md)** · `https://greatutah.work/pages/teen-entrepreneur-support-center.md`
-  Per the Startup State listing: mentorship from experienced operators, events and workshops, networking opportunities, and free resources aimed at teen founders. Treat specific program names…
-- **[The Mill Entrepreneurship Center](/pages/the-mill-entrepreneurship-center.md)** · `https://greatutah.work/pages/the-mill-entrepreneurship-center.md`
-  Coworking and incubator workspace ("Work Here"); education tracks ("Learn Here"); networking and community ("Network Here"); intake form routing founders by business stage; and partner supp…
-- **[The Shop](/pages/the-shop.md)** · `https://greatutah.work/pages/the-shop.md`
-  Flexible access (on-demand), Commons memberships with 24/7 workspace access, private offices, virtual office and mail services, conference rooms, high-speed Wi-Fi, printing, staffed recepti…
-- **[Uinta Basin Association of Governments](/pages/uinta-basin-association-of-governments.md)** · `https://greatutah.work/pages/uinta-basin-association-of-governments.md`
-  Community development and economic development district services, CDBG business grant applications (when posted), housing rehabilitation, HEAT assistance, food pantries, transit (BTA), agin…
-- **[Uinta Basin Tech - Entrepreneur Center](/pages/uinta-basin-tech-entrepreneur-center.md)** · `https://greatutah.work/pages/uinta-basin-tech-entrepreneur-center.md`
-  Entrepreneurship minor coursework; free Grow Your Business course covering resources, branding, marketing strategy, and diversification; SEED and other internships; student competitions; an…
-- **[Uintah County Economic Development](/pages/uintah-county-economic-development.md)** · `https://greatutah.work/pages/uintah-county-economic-development.md`
-  County economic snapshot and news, grants and resources directory, starting-a-business guidance links, micro-grant information, and staff liaison for business recruitment and retention in U…
-- **[USU Remote Online Initiative](/pages/usu-remote-online-initiative.md)** · `https://greatutah.work/pages/usu-remote-online-initiative.md`
-  Certified Remote Work Professional (1-month, 25-hour course); E-Commerce Accelerator (six-week mentoring program); Certified Sales and Communication Professional; Certified Remote Work Lead…
-- **[Utah Black Chamber](/pages/utah-black-chamber.md)** · `https://greatutah.work/pages/utah-black-chamber.md`
-  The chamber describes immersive events, informational webinars, financial sponsorships, professional upskilling, and advocacy for equitable access to education, opportunity, and capital res…
-- **[Utah Center For Global Talent](/pages/utah-center-for-global-talent.md)** · `https://greatutah.work/pages/utah-center-for-global-talent.md`
-  The official page describes coordination, strategy, convening, and advising. It includes employer-facing resources, webinars, task-force work, and partnerships, including a 2025-2026 partne…
-- **[Utah Defense Alliance](/pages/utah-defense-alliance.md)** · `https://greatutah.work/pages/utah-defense-alliance.md`
-  Mission advocacy for Utah military installations (Hill AFB, Tooele Army Depot, Dugway, Camp Williams, UTTR, and others); events and advocacy programming; member resources; documents and lin…
-- **[Utah Department of Workforce Services](/pages/utah-department-of-workforce-services.md)** · `https://greatutah.work/pages/utah-department-of-workforce-services.md`
-  Job search and labor-market resources; employer recruiting access to active job seekers; unemployment insurance account management; assistance program navigation; specialized services (vete…
-- **[Utah Farmers Market Network](/pages/utah-farmers-market-network.md)** · `https://greatutah.work/pages/utah-farmers-market-network.md`
-  Find-a-market directory and map, Farmers Market Manager Handbook, SNAP/DUFB and food-access technical assistance, annual Market Manager Forum, member networking calls, marketing toolkits, g…
-- **[Utah Inland Port Authority](/pages/utah-inland-port-authority.md)** · `https://greatutah.work/pages/utah-inland-port-authority.md`
-  Regional project-area planning (Northwest Quadrant, Tooele Valley, Golden Spike, and others), logistics strategy resources, community engagement on port development, newsletters and public …
-- **[Utah Innovation Fund](/pages/utah-innovation-fund.md)** · `https://greatutah.work/pages/utah-innovation-fund.md`
-  Early-stage investment, mentorship and network access, and commercialization support connecting Utah research to markets. The fund emphasizes impact across economic, scientific, and social …
-- **[Utah LGBTQ+ Chamber of Commerce](/pages/utah-lgbtq-chamber-of-commerce.md)** · `https://greatutah.work/pages/utah-lgbtq-chamber-of-commerce.md`
-  Member benefits listed on the official site include business exposure, peer support and mentoring, member-to-member discounts and referrals, job-board posting, events calendar access, Workp…
-- **[Utah Manufacturers Association](/pages/utah-manufacturers-association.md)** · `https://greatutah.work/pages/utah-manufacturers-association.md`
-  The official site highlights workforce programs, safety offerings, advocacy, membership benefits, networking, events, consulting, healthcare plans, 401(k) options, workers' compensation dis…
-- **[Utah Office of Tourism](/pages/utah-office-of-tourism.md)** · `https://greatutah.work/pages/utah-office-of-tourism.md`
-  The official site highlights statewide destination marketing tied to [Visit Utah](/pages/visit-utah.md), the Utah Tourism Conference (hosted with the Utah Tourism Industry Association), coo…
-- **[Utah Pacific Islander Chamber of Commerce](/pages/utah-pacific-islander-chamber-of-commerce.md)** · `https://greatutah.work/pages/utah-pacific-islander-chamber-of-commerce.md`
-  UPIC mentorship and ambassador programs, grant information pages, Pacific Islander Business Summit events, Women's Executive Alliance linkage, preferred vendor coalition, scholarships, civi…
-- **[Utah Regional Growth Association](/pages/utah-regional-growth-association.md)** · `https://greatutah.work/pages/utah-regional-growth-association.md`
-  Infrastructure investment support, redevelopment-area acceleration, regional growth advocacy, and a coordinating voice for employment, attainable housing, and impactful infrastructure initi…
-- **[Utah State Surplus Property](/pages/utah-state-surplus-property.md)** · `https://greatutah.work/pages/utah-state-surplus-property.md`
-  Utah State Surplus Property is the state program that disposes of state-owned vehicles, equipment, furniture, and other personal property.
-- **[Utah State University Center for Entrepreneurship](/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md)** · `https://greatutah.work/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md`
-  The official page points to the Entrepreneurship Minor, Entrepreneur Leadership Series, student entrepreneur resources, competitions, the SEED program, Entrepreneurship Club, internships, m…
-- **[Utah Tech Calendar](/pages/utah-tech-calendar.md)** · `https://greatutah.work/pages/utah-tech-calendar.md`
-  - **A nightly-refreshed statewide index** of in-person tech and tech-adjacent events, filterable by region, city, tag, group, source, type, and date, in weekly or monthly views. - **Provena…
+  Hot desks, dedicated desks, and conference rooms at Weber State Downtown through an Ogden City and Weber State partnership. Pricing lives inside the member portal.
+- **[Startup State Resource Filter](/pages/startup-state-resource-list.md)** (active) · `https://greatutah.work/pages/startup-state-resource-list.md`
+  GOEO's official filter across topic, stage, community, industry, and location — the best single index of what exists in Utah, and the corpus most of this shelf was imported from. It hands y…
+- **[STOPfakes.gov](/pages/stopfakes-gov.md)** (active) · `https://greatutah.work/pages/stopfakes-gov.md`
+  Free federal grounding on IP basics and country-specific enforcement before you hire counsel. A structured starting point, and the filings and enforcement still cost what they cost.
+- **[Summit County Economic Development](/pages/summit-county-economic-development.md)** (active) · `https://greatutah.work/pages/summit-county-economic-development.md`
+  County economic development and housing coordination with business expansion support in a high-growth resort-adjacent county where housing is the binding constraint.
+- **[Tanner LLC](/pages/tanner-llc.md)** (active) · `https://greatutah.work/pages/tanner-llc.md`
+  A Salt Lake City CPA firm since 1940 doing audits, benefit-plan audits, M&A due diligence, SEC reporting consultation, and tax. The established local choice when financial credibility is th…
+- **[Tech Ridge](/pages/tech-ridge.md)** (active) · `https://greatutah.work/pages/tech-ridge.md`
+  A 180-acre St. George campus offering Container Park creative offices, Class A creative office space, retail, and residential. A landlord with amenities, negotiated per space.
+- **[Teen Entrepreneur Support Center](/pages/teen-entrepreneur-support-center.md)** (active) · `https://greatutah.work/pages/teen-entrepreneur-support-center.md`
+  Mentorship, events, and free resources for teen founders — but program names, schedules, and mentor categories are unverified pending a reachable site.
+- **[The Mill Entrepreneurship Center](/pages/the-mill-entrepreneurship-center.md)** (active) · `https://greatutah.work/pages/the-mill-entrepreneurship-center.md`
+  The same SLCC Miller Campus incubator described a second time; identical letter until the pages merge. Workspace, education tracks, and partner routing with no published pricing.
+- **[The Shop](/pages/the-shop.md)** (active) · `https://greatutah.work/pages/the-shop.md`
+  Downtown Salt Lake City coworking with published pricing — flexible access from $40 a day, Commons from $225 a month — plus private offices, virtual office, and staffed reception.
+- **[Uinta Basin Association of Governments](/pages/uinta-basin-association-of-governments.md)** (active) · `https://greatutah.work/pages/uinta-basin-association-of-governments.md`
+  Economic development district services and CDBG business grant applications when posted, plus housing and human services, across Daggett, Duchesne, and Uintah counties.
+- **[Uinta Basin Tech - Entrepreneur Center](/pages/uinta-basin-tech-entrepreneur-center.md)** (active) · `https://greatutah.work/pages/uinta-basin-tech-entrepreneur-center.md`
+  A free Grow Your Business course, an entrepreneurship minor, internships, competitions, and incubator space at USU Vernal. Center hours are four a week.
+- **[Uintah County Economic Development](/pages/uintah-county-economic-development.md)** (active) · `https://greatutah.work/pages/uintah-county-economic-development.md`
+  A grants and resources directory, micro-grant information, and a staff liaison for recruitment and retention in northeastern Utah.
+- **[USU Remote Online Initiative](/pages/usu-remote-online-initiative.md)** (active) · `https://greatutah.work/pages/usu-remote-online-initiative.md`
+  Certified Remote Work Professional, a six-week e-commerce accelerator, and sales and leadership certificates through USU Extension. Course fees vary and the credential is the product.
+- **[Utah Black Chamber](/pages/utah-black-chamber.md)** (active) · `https://greatutah.work/pages/utah-black-chamber.md`
+  Immersive events, webinars, financial sponsorships, and professional upskilling with advocacy for capital access. The sponsorships are the concrete part; verify what the capital programs ac…
+- **[Utah Center For Global Talent](/pages/utah-center-for-global-talent.md)** (active) · `https://greatutah.work/pages/utah-center-for-global-talent.md`
+  Coordination, convening, advising, and a gathered set of workforce, credentialing, and immigration-legal links for employers with a global-talent bottleneck. A curated map, not a service.
+- **[Utah Defense Alliance](/pages/utah-defense-alliance.md)** (active) · `https://greatutah.work/pages/utah-defense-alliance.md`
+  Installation-aware advocacy and industry community around Hill, Dugway, Camp Williams, and UTTR. Useful context for a defense supplier, but 47G is the one with the accelerator and the testb…
+- **[Utah Department of Workforce Services](/pages/utah-department-of-workforce-services.md)** (active) · `https://greatutah.work/pages/utah-department-of-workforce-services.md`
+  Every Utah employer eventually touches jobs.utah.gov for hiring reach and UI account management. Mandatory infrastructure rather than leverage — nothing here changes the odds, it just has t…
+- **[Utah Farmers Market Network](/pages/utah-farmers-market-network.md)** (active) · `https://greatutah.work/pages/utah-farmers-market-network.md`
+  SNAP and Double Up Food Bucks technical assistance, a market manager handbook, liability-insurance guidance, and published membership pricing. Concrete for a market manager, thin for a vend…
+- **[Utah Inland Port Authority](/pages/utah-inland-port-authority.md)** (active) · `https://greatutah.work/pages/utah-inland-port-authority.md`
+  Project-area planning across the Northwest Quadrant, Tooele Valley, and Golden Spike, relevant to an operator actually siting warehouse, freight, or cold-chain capacity. Nothing for anyone …
+- **[Utah Innovation Fund](/pages/utah-innovation-fund.md)** (active) · `https://greatutah.work/pages/utah-innovation-fund.md`
+  The Nucleus Fund under its former name; identical letter until the pages merge. Early-stage equity for university-spinout and research-driven teams, deal terms negotiated.
+- **[Utah LGBTQ+ Chamber of Commerce](/pages/utah-lgbtq-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/utah-lgbtq-chamber-of-commerce.md`
+  Business exposure, peer mentoring, member-to-member referrals, a job board, Workplace Connect roundtables, and certification pathways. Certification is the one item with leverage in it.
+- **[Utah Manufacturers Association](/pages/utah-manufacturers-association.md)** (active) · `https://greatutah.work/pages/utah-manufacturers-association.md`
+  Sponsored healthcare plans, 401(k) options, and workers' compensation discounts are real handed cost savings for a small manufacturer; the advocacy and awards are not. Membership pricing un…
+- **[Utah Office of Tourism](/pages/utah-office-of-tourism.md)** (active) · `https://greatutah.work/pages/utah-office-of-tourism.md`
+  Cooperative marketing grant interviews and Going Global training sit behind a mostly promotional operation. Modest handed value for a tourism operator, none for anyone else.
+- **[Utah Pacific Islander Chamber of Commerce](/pages/utah-pacific-islander-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/utah-pacific-islander-chamber-of-commerce.md`
+  Mentorship and ambassador programs, grant information pages, a business summit, and a preferred-vendor coalition. Named programs rather than a directory and a luncheon.
+- **[Utah Regional Growth Association](/pages/utah-regional-growth-association.md)** (active) · `https://greatutah.work/pages/utah-regional-growth-association.md`
+  Infrastructure investment support, redevelopment-area acceleration, and advocacy on employment, housing, and infrastructure. Aimed at communities, not companies.
+- **[Utah State Surplus Property](/pages/utah-state-surplus-property.md)** (active) · `https://greatutah.work/pages/utah-state-surplus-property.md`
+  State-owned vehicles, equipment, and furniture disposed at auction. Genuinely useful capital equipment for a scrappy operator, and entirely a matter of what happens to be listed.
+- **[Utah State University Center for Entrepreneurship](/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md)** (active) · `https://greatutah.work/pages/utah-state-university-usu-jeffrey-d-clark-center-for-entrepreneurship.md`
+  Minor coursework, a leadership series, the SEED program, competitions, mentoring, and internships. Student-scoped, with less public detail on funding amounts than peers.
+- **[Utah Tech Calendar](/pages/utah-tech-calendar.md)** (active) · `https://greatutah.work/pages/utah-tech-calendar.md`
+  A nightly-refreshed statewide index of in-person Utah tech events, filterable and free with no account, showing the upstream feed for every entry. An unusually honest listing, still a listi…
 - **[Utah Tech University - Atwood Innovation Center](/pages/utah-tech-university-atwood-innovation-center.md)** · `https://greatutah.work/pages/utah-tech-university-atwood-innovation-center.md`
-  No-cost business consultations; startup roadmap support; connections to business-resource providers; private and semi-private incubator workspace; and access to adjacent Innovation Plaza se…
-- **[Utah Tourism Association](/pages/utah-tourism-association.md)** · `https://greatutah.work/pages/utah-tourism-association.md`
-  The site describes UTIA as the collective voice of Utah's visitor economy, with education and advocacy for the tourism sector. Public pages highlight industry scale (reported $12.71B direct…
-- **[Utah Valley University Baugh Entrepreneurship Institute](/pages/utah-valley-university-uvu-entrepreneur-institute.md)** · `https://greatutah.work/pages/utah-valley-university-uvu-entrepreneur-institute.md`
-  The official page describes entrepreneurship coursework, lecture series, workshops, conferences, mentoring appointments, pitch events, student business tradeshows, ZinnStarter, VentureCon, …
-- **[Utah Valley University Innovation Center/Academy](/pages/utah-valley-university-innovation-center-academy.md)** · `https://greatutah.work/pages/utah-valley-university-innovation-center-academy.md`
-  Student, faculty, and partnership opportunity portals; programs including Career & Internship Center, e2i, Education Abroad, Experience Fellows, Empowered, Excelerate, Faculty Externships, …
-- **[UtahJS](/pages/utahjs.md)** · `https://greatutah.work/pages/utahjs.md`
-  Two monthly meetups (Lehi, first Thursday; Salt Lake City, third Tuesday), both scheduled through Meetup.com; an annual single-track conference with the schedule posted in advance; a Slack …
-- **[Vernal Innovation Hub](/pages/vernal-innovation-hub.md)** · `https://greatutah.work/pages/vernal-innovation-hub.md`
-  Coworking open workspace, dedicated desks, private offices, hourly conference and multimedia rooms, mail handling, high-speed internet, business-development classes, and the annual Rise & T…
-- **[Wasatch Front Regional Council](/pages/wasatch-front-regional-council.md)** · `https://greatutah.work/pages/wasatch-front-regional-council.md`
-  Transportation Improvement Program and long-range planning, Wasatch Choice Vision technical assistance, capital funding guidance for qualifying projects, maps and regional data, Comprehensi…
-- **[Washington City Economic Development](/pages/washington-city-economic-development.md)** · `https://greatutah.work/pages/washington-city-economic-development.md`
-  Municipal economic-development guidance on starting or expanding a business, regional growth context (population and market reach), and collaborative project prioritization aligned with cit…
-- **[Weber County Economic Development](/pages/weber-county-economic-development.md)** · `https://greatutah.work/pages/weber-county-economic-development.md`
-  Direct ED director contact, linkage to Northern Utah Economic Alliance, economic development finance tools (public infrastructure districts), West Weber industrial district information, and…
-- **[Women Tech Counsel](/pages/women-tech-counsel.md)** · `https://greatutah.work/pages/women-tech-counsel.md`
-  Public programs include SheTech (high-school STEM activation), the Women Tech Awards, Innovation Summit events, research reports on women in tech leadership and workplace flexibility, corpo…
-- **[Work Hive](/pages/work-hive.md)** · `https://greatutah.work/pages/work-hive.md`
-  Open coworking, dedicated desks, private offices, three conference rooms, three phone rooms, lounge and library space, full kitchen with coffee, color printing, bike storage, adjustable-hei…
-- **[Workbox](/pages/workbox.md)** · `https://greatutah.work/pages/workbox.md`
-  Workspace (private offices and coworking), meeting and event spaces, Workbox Ventures support for early-stage companies, member programming, scalable memberships, and a multi-city network t…
+  The Atwood BRC described again under a third name; identical letter until the pages merge. No-cost consultations, startup roadmap, and incubator workspace in St. George.
+- **[Utah Tourism Association](/pages/utah-tourism-association.md)** (active) · `https://greatutah.work/pages/utah-tourism-association.md`
+  The trade voice for Utah's visitor economy: advocacy, research tools, and a conference. Membership terms unpublished, and nothing is handed to a member that they could not assemble.
+- **[Utah Valley University Baugh Entrepreneurship Institute](/pages/utah-valley-university-uvu-entrepreneur-institute.md)** (active) · `https://greatutah.work/pages/utah-valley-university-uvu-entrepreneur-institute.md`
+  Coursework, mentoring appointments, pitch events, ZinnStarter, VentureCon, and seed funding for UVU students. Real for enrolled students, and the funding amounts are not public.
+- **[Utah Valley University Innovation Center/Academy](/pages/utah-valley-university-innovation-center-academy.md)** (active) · `https://greatutah.work/pages/utah-valley-university-innovation-center-academy.md`
+  A wide portal of student, faculty, and partnership programs across internships, fellowships, mentorships, and research. Breadth without a specific thing handed to a founder.
+- **[UtahJS](/pages/utahjs.md)** (active) · `https://greatutah.work/pages/utahjs.md`
+  Two free monthly meetups in Lehi and Salt Lake City, a Slack, and one annual single-track ticketed conference. A durable language community; no service attached.
+- **[Vernal Innovation Hub](/pages/vernal-innovation-hub.md)** (active) · `https://greatutah.work/pages/vernal-innovation-hub.md`
+  Published rates — $49 a month open workspace, $99 dedicated desk — plus private offices, hourly multimedia rooms, business classes, and the annual Rise and Thrive speed pitch.
+- **[Wasatch Front Regional Council](/pages/wasatch-front-regional-council.md)** (active) · `https://greatutah.work/pages/wasatch-front-regional-council.md`
+  Transportation Improvement Program planning, Wasatch Choice technical assistance, and CDBG administration across six counties. Real when transportation or regional plan alignment is the act…
+- **[Washington City Economic Development](/pages/washington-city-economic-development.md)** (active) · `https://greatutah.work/pages/washington-city-economic-development.md`
+  Municipal guidance on starting or expanding, regional growth context, and project prioritization in one of Utah's fastest-growing submarkets. Contact-first.
+- **[Weber County Economic Development](/pages/weber-county-economic-development.md)** (active) · `https://greatutah.work/pages/weber-county-economic-development.md`
+  A direct ED director contact, public infrastructure district financing tools, and the West Weber industrial district. Real for an industrial or logistics expansion.
+- **[Women Tech Counsel](/pages/women-tech-counsel.md)** (active) · `https://greatutah.work/pages/women-tech-counsel.md`
+  SheTech, the Women Tech Awards, an Innovation Summit, research reports, and a 10,000+ professional community. Visibility and pipeline programs rather than anything handed to a company.
+- **[Work Hive](/pages/work-hive.md)** (active) · `https://greatutah.work/pages/work-hive.md`
+  Locally owned Salt Lake City coworking since 2012 across two locations, with open desks, private offices, three conference rooms, phone rooms, and 24-hour access.
+- **[Workbox](/pages/workbox.md)** (active) · `https://greatutah.work/pages/workbox.md`
+  Private offices, coworking, and member programming in Salt Lake City City Center with access to 30+ locations nationally and optional Workbox Ventures exposure. Pricing unpublished.
 
 ## F — a listing (52)
 
-- **[1 Million Cups (Orem)](/pages/1-million-cups-orem.md)** · `https://greatutah.work/pages/1-million-cups-orem.md`
-  Weekly 1 Million Cups sessions with presentation slots, audience feedback, and networking among Utah County entrepreneurs, investors, and service providers at the UVU Business Resource Cent…
-- **[1 Million Cups (Salt Lake)](/pages/1-million-cups-salt-lake.md)** · `https://greatutah.work/pages/1-million-cups-salt-lake.md`
-  Weekly presentations, peer Q&A, community guidelines emphasizing support over selling, a Slack community, presenter applications, and sponsor/volunteer opportunities.
-- **[1MC Salt Lake](/pages/1mc-salt-lake.md)** · `https://greatutah.work/pages/1mc-salt-lake.md`
-  Weekly in-person community events, presenter slots, networking with peers and local service providers, and optional volunteer or sponsor roles. Presenters can share an idea, project, or ope…
-- **[Bear Lake Regional Commission](/pages/bear-lake-regional-commission.md)** · `https://greatutah.work/pages/bear-lake-regional-commission.md`
-  The commission publishes regional planning documents, meeting agendas, and resources related to Bear Lake zoning, trails, special-event permits, and cross-border coordination. It serves as …
+- **[1 Million Cups (Orem)](/pages/1-million-cups-orem.md)** (active) · `https://greatutah.work/pages/1-million-cups-orem.md`
+  A weekly presentation slot with peer feedback at the UVU Business Resource Center, free. Practice and company, three chapters deep across three pages.
+- **[1 Million Cups (Salt Lake)](/pages/1-million-cups-salt-lake.md)** (active) · `https://greatutah.work/pages/1-million-cups-salt-lake.md`
+  Weekly presentations, peer Q&A, and a Slack, with community guidelines emphasizing support over selling. One of three 1MC pages for the same program.
+- **[1MC Salt Lake](/pages/1mc-salt-lake.md)** (active) · `https://greatutah.work/pages/1mc-salt-lake.md`
+  The Salt Lake 1 Million Cups chapter described a third time; identical letter until the pages merge. Weekly presenter slots and structured audience questions.
+- **[Bear Lake Regional Commission](/pages/bear-lake-regional-commission.md)** (active) · `https://greatutah.work/pages/bear-lake-regional-commission.md`
+  Regional planning documents, meeting agendas, and zoning, trails, and special-event permit resources. Its own page says it is a convener, not a business resource.
 - **[Bear Lake Valley Chamber of Commerce](/pages/bear-lake-valley-chamber-of-commerce.md)** · `https://greatutah.work/pages/bear-lake-valley-chamber-of-commerce.md`
-  Membership benefits listed on the official site include networking, business highlights, website advertising, ribbon cuttings, partnerships, a member directory, and chamber events. The cham…
-- **[Best of State Awards](/pages/best-of-state-awards.md)** · `https://greatutah.work/pages/best-of-state-awards.md`
-  Best of State is a Utah recognition program that has run since 2002 and now awards several hundred medals a year across ten divisions.
-- **[BIG Chamber (Beaver, Iron, Garfield)](/pages/big-chamber-beaver-iron-garfield.md)** · `https://greatutah.work/pages/big-chamber-beaver-iron-garfield.md`
-  Tri-county business directory; membership join pathway; business networking events; advocacy content ("Advocacy Matters" series); community event calendar; county profiles for Beaver, Iron,…
-- **[Box Elder Chamber of Commerce](/pages/box-elder-chamber-of-commerce.md)** · `https://greatutah.work/pages/box-elder-chamber-of-commerce.md`
-  Member benefits described on the official site include business support, community connections, leadership and advocacy, a member directory, networking events, promotional tools, and progra…
-- **[Cache Valley Chamber of Commerce](/pages/cache-valley-chamber-of-commerce.md)** · `https://greatutah.work/pages/cache-valley-chamber-of-commerce.md`
-  Membership benefits include a business directory, newsletter, event calendar, networking programs (including Women in Business and Leadership Lunch), and chamber advocacy. The site also hig…
-- **[Carbon County Chamber of Commerce](/pages/carbon-county-chamber-of-commerce.md)** · `https://greatutah.work/pages/carbon-county-chamber-of-commerce.md`
-  Chamber membership and join pathway; business advocacy referenced in county ED materials; chamber news and events on official site; local voice for Carbon County employers per county econom…
-- **[Cedar City Area Chamber of Commerce](/pages/cedar-city-area-chamber-of-commerce.md)** · `https://greatutah.work/pages/cedar-city-area-chamber-of-commerce.md`
-  Member directory; events calendar; join and member login; chamber contact and accessibility information; local business community hub for Iron County.
+  Networking, business highlights, website advertising, ribbon cuttings, and a member directory. The chamber package, done for Bear Lake.
+- **[Best of State Awards](/pages/best-of-state-awards.md)** (active) · `https://greatutah.work/pages/best-of-state-awards.md`
+  Several hundred medals a year across ten divisions, self-nominated. A ribbon you can put in front of customers, which is exactly what F means.
+- **[BIG Chamber (Beaver, Iron, Garfield)](/pages/big-chamber-beaver-iron-garfield.md)** (active) · `https://greatutah.work/pages/big-chamber-beaver-iron-garfield.md`
+  A tri-county directory, networking events, an advocacy series, and a community calendar across Beaver, Iron, and Garfield.
+- **[Box Elder Chamber of Commerce](/pages/box-elder-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/box-elder-chamber-of-commerce.md`
+  Business support, community connections, advocacy, a member directory, networking events, and Peach Days.
+- **[Cache Valley Chamber of Commerce](/pages/cache-valley-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/cache-valley-chamber-of-commerce.md`
+  A directory, newsletter, event calendar, Women in Business and Leadership Lunch programs, and advocacy.
+- **[Carbon County Chamber of Commerce](/pages/carbon-county-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/carbon-county-chamber-of-commerce.md`
+  Membership, advocacy referenced in county economic-development materials, and chamber news and events.
+- **[Cedar City Area Chamber of Commerce](/pages/cedar-city-area-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/cedar-city-area-chamber-of-commerce.md`
+  A member directory, an events calendar, and a join flow for Iron County businesses.
 - **[Coworking Space in Salt Lake City - Offices.net](/pages/coworking-space-in-salt-lake-city-offices-net.md)** · `https://greatutah.work/pages/coworking-space-in-salt-lake-city-offices-net.md`
-  Searchable coworking listings with amenity descriptions (Wi-Fi, meeting rooms, reception, 24-hour access, day passes). Users call the published broker line (+1 800 215 0286) or request info…
-- **[Cynosure](/pages/cynosure.md)** · `https://greatutah.work/pages/cynosure.md`
-  Institutional investment access across private growth equity, private credit, portfolio management, wealth advisory, hedge-fund strategies, sports PE, and real estate PE. The firm emphasize…
-- **[Davis Chamber of Commerce](/pages/davis-chamber-of-commerce.md)** · `https://greatutah.work/pages/davis-chamber-of-commerce.md`
-  Chamber membership with networking events, member directory, 2026 sponsorship packages, committee participation (Lakesiders, Military Affairs, Legislative Affairs, Women in Business), newsl…
-- **[Delta Area Chamber of Commerce](/pages/delta-area-chamber-of-commerce.md)** · `https://greatutah.work/pages/delta-area-chamber-of-commerce.md`
-  Monthly luncheons; community festivals and newsletters; member directory and news blog; business safety and fraud education posts; join/serve/succeed membership pathway.
-- **[Flaming Gorge Chamber of Commerce](/pages/flaming-gorge-chamber-of-commerce.md)** · `https://greatutah.work/pages/flaming-gorge-chamber-of-commerce.md`
-  Regional tourism marketing; chamber membership with website and Adventure Guide listing; sponsorship and execution of popular summer events (fireworks, parades); meeting agendas and minutes…
-- **[Grand County Economic Development](/pages/grand-county-economic-development.md)** · `https://greatutah.work/pages/grand-county-economic-development.md`
-  County business services (licenses, bids, planning applications), liaison support for economic development and communications, and connection to Grand County's economic opportunity planning…
+  A national coworking listing service with a broker phone line, not a Salt Lake operator. Same shape as the office-space brokerage above.
+- **[Cynosure](/pages/cynosure.md)** (active) · `https://greatutah.work/pages/cynosure.md`
+  An alternatives asset manager serving high-net-worth families, foundations, and institutions. It is on this shelf because a directory put it here; it hands a founder nothing.
+- **[Davis Chamber of Commerce](/pages/davis-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/davis-chamber-of-commerce.md`
+  Networking events, a member directory, sponsorship packages, and committees including Lakesiders, Military Affairs, and Women in Business.
+- **[Delta Area Chamber of Commerce](/pages/delta-area-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/delta-area-chamber-of-commerce.md`
+  Monthly luncheons, community festivals, a member directory, and business safety and fraud education posts.
+- **[Flaming Gorge Chamber of Commerce](/pages/flaming-gorge-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/flaming-gorge-chamber-of-commerce.md`
+  Regional tourism marketing, an Adventure Guide listing, and summer event sponsorship, for $60 a year in Daggett County.
+- **[Grand County Economic Development](/pages/grand-county-economic-development.md)** (active) · `https://greatutah.work/pages/grand-county-economic-development.md`
+  Economic development coordinated through county administration with no standalone department page — business licenses, bids, planning applications, and a staff contact.
 - **[Greater Nephi Chamber of Commerce](/pages/greater-nephi-chamber-of-commerce.md)** · `https://greatutah.work/pages/greater-nephi-chamber-of-commerce.md`
-  Member directory and events calendar; sponsorship packages; business awards (Best in Business Gala); ribbon cuttings and grand openings; Central Utah Chamber Coalition collaboration; reques…
-- **[Heber City Community Alliance for Main Street](/pages/heber-city-community-alliance-for-main-street.md)** · `https://greatutah.work/pages/heber-city-community-alliance-for-main-street.md`
-  Advocacy between businesses, residents, and government; public-art and placemaking projects; event fundraising (holiday celebrations, markets, festivals); volunteer coordination; and downto…
-- **[Heber Valley Chamber of Commerce](/pages/heber-valley-chamber-of-commerce.md)** · `https://greatutah.work/pages/heber-valley-chamber-of-commerce.md`
-  Professional networking and promotional opportunities; economic education; community engagement programs; visitor guide and newsletter; social media event updates; text-based event reminder…
-- **[Hurricane Valley Chamber of Commerce](/pages/hurricane-valley-chamber-of-commerce.md)** · `https://greatutah.work/pages/hurricane-valley-chamber-of-commerce.md`
-  Member directory listing, networking luncheons and events, ribbon-cutting ceremonies, advertising opportunities, Business of the Month recognition, resources and news updates, and board-led…
-- **[International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md)** · `https://greatutah.work/pages/international-trade-and-diplomacy.md`
-  The GOEO page describes Utah's diplomatic and international business-promotion work, including diplomatic visits, trade-mission partnerships, and strategic relationships such as the United …
-- **[Iron County Economic Development](/pages/iron-county-economic-development.md)** · `https://greatutah.work/pages/iron-county-economic-development.md`
-  Economic-development marketing and regional data, news on major local projects, and a linked commercial property search tool (Utah Resimplifi map centered on Cedar City). Staff support for …
-- **[Juab County Economic Development](/pages/juab-county-economic-development.md)** · `https://greatutah.work/pages/juab-county-economic-development.md`
-  County government business services verified on the official site: building permits, business license applications, greenbelt information, and property tax payment. Economic-development adv…
-- **[Moab Chamber of Commerce](/pages/moab-chamber-of-commerce.md)** · `https://greatutah.work/pages/moab-chamber-of-commerce.md`
-  Member directory; events calendar (summits, festivals, marathons); membership join and login; chamber luncheons for peer networking; advocacy with city and county officials per member testi…
-- **[Morgan County Economic Development](/pages/morgan-county-economic-development.md)** · `https://greatutah.work/pages/morgan-county-economic-development.md`
-  County economic development page with chamber linkage, county government contact path (48 West Young Street, Morgan, UT 84050), and integration with broader Morgan County departments (plann…
-- **[Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md)** · `https://greatutah.work/pages/park-city-chamber-of-commerce.md`
-  Partner directory and visitparkcity.com exposure; discounted Deer Valley and Park City Mountain ski passes; partner newsletter and events; policy and economic research resources; housing in…
-- **[Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md)** · `https://greatutah.work/pages/richfield-chamber-of-commerce.md`
-  Tiered membership (Basic/Enhanced/Elite) with online directory profiles, newsletter, Fall Festival booth ($30), discounted Sevier County Entrepreneurship Program courses, monthly networking…
-- **[Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md)** · `https://greatutah.work/pages/rural-utah-chamber-coalition.md`
-  Monthly coalition meetings (grant info, government updates, executive training), advocacy for rural chamber issues, training library, chamber collaboration tools, RUCC conference, membershi…
+  A directory, events, sponsorships, a Best in Business Gala, ribbon cuttings, and a request-for-quote tool reaching member businesses.
+- **[Heber City Community Alliance for Main Street](/pages/heber-city-community-alliance-for-main-street.md)** (active) · `https://greatutah.work/pages/heber-city-community-alliance-for-main-street.md`
+  Volunteer downtown placemaking, public art, and event fundraising in Heber City, open to anyone 14 and up. Civic work, not founder work.
+- **[Heber Valley Chamber of Commerce](/pages/heber-valley-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/heber-valley-chamber-of-commerce.md`
+  Networking and promotion, economic education, a visitor guide, and event reminders through the Go Heber Valley platform.
+- **[Hurricane Valley Chamber of Commerce](/pages/hurricane-valley-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/hurricane-valley-chamber-of-commerce.md`
+  A directory listing, networking luncheons, ribbon cuttings, advertising, and Business of the Month recognition.
+- **[International Trade And Diplomacy](/pages/international-trade-and-diplomacy.md)** (active) · `https://greatutah.work/pages/international-trade-and-diplomacy.md`
+  A GOEO page describing diplomatic visits and trade-mission partnerships that then points companies at World Trade Center Utah. A hop, not a service.
+- **[Iron County Economic Development](/pages/iron-county-economic-development.md)** (active) · `https://greatutah.work/pages/iron-county-economic-development.md`
+  Marketing, regional data, project news, and a linked commercial property search. Staff support for expansion inquiries is implied rather than described.
+- **[Juab County Economic Development](/pages/juab-county-economic-development.md)** (active) · `https://greatutah.work/pages/juab-county-economic-development.md`
+  County permits, licenses, greenbelt information, and property tax payment, with economic-development advising routed through a director listed in a state directory.
+- **[Moab Chamber of Commerce](/pages/moab-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/moab-chamber-of-commerce.md`
+  A member directory, an events calendar, luncheons, advocacy with city and county officials, and Discover Moab visitor tie-ins.
+- **[Morgan County Economic Development](/pages/morgan-county-economic-development.md)** (active) · `https://greatutah.work/pages/morgan-county-economic-development.md`
+  A county economic development page with chamber linkage, a mailing address, and integration with planning, tourism, and recreation departments.
+- **[Park City Chamber of Commerce](/pages/park-city-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/park-city-chamber-of-commerce.md`
+  A partner directory, visitparkcity.com exposure, discounted Deer Valley and Park City Mountain ski passes, and policy research. The ski passes are the honest headline.
+- **[Richfield Chamber of Commerce](/pages/richfield-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/richfield-chamber-of-commerce.md`
+  Tiered membership at $300, $550, and $900 with directory profiles, newsletter features, luncheons, a $30 festival booth, and radio spotlights at higher tiers.
+- **[Rural Utah Chamber Coalition](/pages/rural-utah-chamber-coalition.md)** (active) · `https://greatutah.work/pages/rural-utah-chamber-coalition.md`
+  A coalition of rural chamber executives and county leaders doing peer training and advocacy. A founder reaches it only by referral through their local chamber.
 - **[Salt Lake City Office Space for Rent](/pages/salt-lake-city-office-space-for-rent.md)** · `https://greatutah.work/pages/salt-lake-city-office-space-for-rent.md`
-  Searchable listings across downtown and suburban Salt Lake City buildings, with descriptions of amenities (Wi-Fi, reception, meeting rooms, 24-hour access, virtual office options). Users su…
-- **[San Juan County Chamber of Commerce](/pages/san-juan-county-chamber-of-commerce.md)** · `https://greatutah.work/pages/san-juan-county-chamber-of-commerce.md`
-  Chamber membership with leader networking; community-building for the county business base; join pathway on official site. Pair with county economic development for relocation and grant sup…
-- **[San Juan County Economic Development](/pages/san-juan-county-economic-development.md)** · `https://greatutah.work/pages/san-juan-county-economic-development.md`
-  Relocation guides (city websites, shuttle services, real estate contacts); business-support partner directory (SBDC, APEX, GOEO, RCAC); county growth and planning messaging; tourism and qua…
-- **[Sanpete Chamber of Commerce](/pages/sanpete-chamber-of-commerce.md)** · `https://greatutah.work/pages/sanpete-chamber-of-commerce.md`
-  Member directory and resource center; events calendar and job board; tiered memberships (Copper through Platinum Plus) with escalating digital exposure, luncheon tickets, newsletter feature…
-- **[St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md)** · `https://greatutah.work/pages/st-george-area-chamber-of-commerce.md`
-  Member resources and training programs; in-person and digital networking; advocacy with government leaders; economic partnership collaborations; investor/sponsor tiers (Platinum, Gold, Silv…
-- **[University of Utah](/pages/university-of-utah.md)** · `https://greatutah.work/pages/university-of-utah.md`
-  Undergraduate and graduate education, research, academic health care, and technology commercialization through units including the [Technology Licensing Office](/pages/university-of-utah-te…
+  A national office-space brokerage listing that collects your contact details and returns quotes. A listing about listings.
+- **[San Juan County Chamber of Commerce](/pages/san-juan-county-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/san-juan-county-chamber-of-commerce.md`
+  Membership, leader networking, and community building for the county business base, with county economic development handling incentives.
+- **[San Juan County Economic Development](/pages/san-juan-county-economic-development.md)** (active) · `https://greatutah.work/pages/san-juan-county-economic-development.md`
+  Relocation guides, a partner directory pointing at SBDC, APEX, GOEO, and RCAC, and tourism and quality-of-life positioning.
+- **[Sanpete Chamber of Commerce](/pages/sanpete-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/sanpete-chamber-of-commerce.md`
+  Tiered memberships from $75 a year to $1,000, with directory profiles, luncheon tickets, newsletter features, and ribbon-cutting support.
+- **[St George Area Chamber of Commerce](/pages/st-george-area-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/st-george-area-chamber-of-commerce.md`
+  Member resources and training, in-person and digital networking, advocacy, and Platinum, Gold, and Silver investor tiers for 1,000+ businesses.
+- **[University of Utah](/pages/university-of-utah.md)** (active) · `https://greatutah.work/pages/university-of-utah.md`
+  A routing stub for the flagship research university and its specialized units. A founder needs the TLO, a lab, or a professor, not the university's front door.
 - **[University of Utah PIVOT Center](/pages/university-of-utah-pivot-center.md)** · `https://greatutah.work/pages/university-of-utah-pivot-center.md`
-  “PIVOT Center” was the University of Utah's technology-transfer and licensing office name from 2020 until it became the **University of Utah Technology Licensing Office** in 2023.
-- **[Utah Alliance for Economic Development](/pages/utah-alliance-for-economic-development.md)** · `https://greatutah.work/pages/utah-alliance-for-economic-development.md`
-  Quarterly statewide training meetings in rotating host cities, membership networking, resources and partner links, policy advocacy for local economies, and professional development for the …
-- **[Utah Asian Chamber of Commerce (UACC)](/pages/utah-asian-chamber-of-commerce-uacc.md)** · `https://greatutah.work/pages/utah-asian-chamber-of-commerce-uacc.md`
-  Membership access to chamber events, mentorship connections, business resources, and sponsor-backed programming. The homepage directs prospects to membership details and a contact form for …
-- **[Utah Association of Counties (UAC)](/pages/utah-association-of-counties-uac.md)** · `https://greatutah.work/pages/utah-association-of-counties-uac.md`
-  Annual conference and events, policy steering committees, legal and training resources for counties, job board for county government roles, and partner-sponsored programming. Contact: admin…
+  A redirect page for the Technology Licensing Office's former name, kept so a search for PIVOT lands somewhere. Genuinely useful as a signpost, and a signpost is a listing.
+- **[Utah Alliance for Economic Development](/pages/utah-alliance-for-economic-development.md)** (active) · `https://greatutah.work/pages/utah-alliance-for-economic-development.md`
+  A membership organization for economic-development professionals with quarterly training meetings. Not a founder's first call and not a founder's second one.
+- **[Utah Asian Chamber of Commerce (UACC)](/pages/utah-asian-chamber-of-commerce-uacc.md)** (active) · `https://greatutah.work/pages/utah-asian-chamber-of-commerce-uacc.md`
+  Chamber events, mentorship connections, and business resources, with a contact form for joining and no published dues.
+- **[Utah Association of Counties (UAC)](/pages/utah-association-of-counties-uac.md)** (active) · `https://greatutah.work/pages/utah-association-of-counties-uac.md`
+  The association representing Utah's 29 county governments. Its own page tells founders to contact the county directly; a founder uses it as a directory hop.
 - **[Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md)** · `https://greatutah.work/pages/utah-digital-entertainment-network.md`
-  Industry storytelling, historical context for Utah's digital entertainment roots, and a contact path (info@utahden.org) to add organizations or content to the network. The site references s…
-- **[Utah Hispanic Chamber of Commerce](/pages/utah-hispanic-chamber-of-commerce.md)** · `https://greatutah.work/pages/utah-hispanic-chamber-of-commerce.md`
-  The chamber offers advocacy, business guidance, a searchable member directory, events (listed on Facebook and Eventbrite), sponsor opportunities, and links to the Utah Somos Foundation Scho…
-- **[Utah Korean Chamber of Commerce](/pages/utah-korean-chamber-of-commerce.md)** · `https://greatutah.work/pages/utah-korean-chamber-of-commerce.md`
-  Business advocacy, networking events, newsletter updates, sponsorship/partnership channels, and local market insight resources. Upcoming events are listed publicly on the homepage with RSVP…
-- **[Utah League of Cities & Towns (ULCT)](/pages/utah-league-of-cities-and-towns-ulct.md)** · `https://greatutah.work/pages/utah-league-of-cities-and-towns-ulct.md`
-  Per Startup State and historical ULCT role: information, training, and technical assistance to local officials on municipal issues, plus state and federal advocacy for Utah cities and towns…
-- **[Utah Native American Chamber of Commerce](/pages/utah-native-american-chamber-of-commerce.md)** · `https://greatutah.work/pages/utah-native-american-chamber-of-commerce.md`
-  The chamber offers event listings (such as community powwows), an email list for Native Utah business news, and a platform to connect Indigenous entrepreneurs for economic development and p…
-- **[Utah's Own - Local Food Production](/pages/utah-s-own-local-food-production.md)** · `https://greatutah.work/pages/utah-s-own-local-food-production.md`
-  - Member directory and buy-local branding - Marketing visibility for Utah-sourced agricultural and food products - Connections to farmers markets and local-food campaigns
-- **[UZONA - Hildale Chamber of Commerce](/pages/uzona-hildale-chamber-of-commerce.md)** · `https://greatutah.work/pages/uzona-hildale-chamber-of-commerce.md`
-  Business directory; chamber events calendar (e.g., UZONA Luncheon with community updates); membership join and login; regional "Things to Do" promotion; subscription/newsletter signup; lead…
-- **[Vernal Area Chamber of Commerce](/pages/vernal-area-chamber-of-commerce.md)** · `https://greatutah.work/pages/vernal-area-chamber-of-commerce.md`
-  Member directory and business catalogs; events calendar; membership join flow; Dinah-Mites ambassador support for grand openings, ribbon cuttings, and community events; Business of the Mont…
-- **[Vernal Downtown Alliance](/pages/vernal-downtown-alliance.md)** · `https://greatutah.work/pages/vernal-downtown-alliance.md`
-  Business networking and training sessions, downtown events and promotions, resource connections for members, Main Street program alignment, and advocacy for a vibrant downtown Vernal.
+  A volunteer-led trade community for film, games, and digital media with industry storytelling and an email address, and no structured service menu.
+- **[Utah Hispanic Chamber of Commerce](/pages/utah-hispanic-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/utah-hispanic-chamber-of-commerce.md`
+  Advocacy, business guidance, a searchable member directory, events on Facebook and Eventbrite, and a scholarship link, since 1991.
+- **[Utah Korean Chamber of Commerce](/pages/utah-korean-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/utah-korean-chamber-of-commerce.md`
+  Advocacy, networking events, a newsletter, sponsorship channels, and local market insight, with events RSVP'd on the homepage.
+- **[Utah League of Cities & Towns (ULCT)](/pages/utah-league-of-cities-and-towns-ulct.md)** (active) · `https://greatutah.work/pages/utah-league-of-cities-and-towns-ulct.md`
+  Advocacy, training, and technical assistance for municipal officials. A founder uses it to work out which city department handles a permit.
+- **[Utah Native American Chamber of Commerce](/pages/utah-native-american-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/utah-native-american-chamber-of-commerce.md`
+  Event listings including community powwows, an email list for Native Utah business news, and a platform to connect Indigenous entrepreneurs.
+- **[Utah's Own - Local Food Production](/pages/utah-s-own-local-food-production.md)** (active) · `https://greatutah.work/pages/utah-s-own-local-food-production.md`
+  A member directory and buy-local branding for Utah agricultural and food producers. Visibility, which is the definition of the F line.
+- **[UZONA - Hildale Chamber of Commerce](/pages/uzona-hildale-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/uzona-hildale-chamber-of-commerce.md`
+  A business directory, an events calendar including the UZONA Luncheon, membership, and regional promotion across the Utah-Arizona border communities.
+- **[Vernal Area Chamber of Commerce](/pages/vernal-area-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/vernal-area-chamber-of-commerce.md`
+  A member directory, events, Dinah-Mites ambassador support for grand openings and ribbon cuttings, and Business of the Month awards.
+- **[Vernal Downtown Alliance](/pages/vernal-downtown-alliance.md)** (active) · `https://greatutah.work/pages/vernal-downtown-alliance.md`
+  Main Street Approach revitalization for downtown Vernal through networking sessions, events, and promotions for brick-and-mortar businesses.
 - **[Veteran-Owned Business Registration Utah](/pages/veteran-owned-business-registration-utah.md)** · `https://greatutah.work/pages/veteran-owned-business-registration-utah.md`
-  The VBRC site describes a searchable public registry where verified veteran-owned businesses can be found and supported. Registration requires veteran-status verification by the Utah Depart…
-- **[Visit Utah](/pages/visit-utah.md)** · `https://greatutah.work/pages/visit-utah.md`
-  The live site offers destination guides, itineraries, event listings, travel stories, responsible-travel resources, accessibility information, and free Utah travel guides. It functions as t…
+  A searchable public registry of verified veteran-owned Utah businesses. Verification is real; the output is a listing.
+- **[Visit Utah](/pages/visit-utah.md)** (active) · `https://greatutah.work/pages/visit-utah.md`
+  The state's consumer travel brand. Useful for understanding how Utah markets itself to visitors; it is a destination-marketing site, not a business resource.
 - **[Wasatch Women's Business Alliance](/pages/wasatch-women-s-business-alliance.md)** · `https://greatutah.work/pages/wasatch-women-s-business-alliance.md`
-  WWBA offers recurring networking and mastermind meetings (often at UVU Wasatch Campus), elevator-pitch practice, referral sharing, and email contact for meeting updates. The group is buildi…
-- **[Washington Area Chamber of Commerce](/pages/washington-area-chamber-of-commerce.md)** · `https://greatutah.work/pages/washington-area-chamber-of-commerce.md`
-  Business-community connection; tourism and shopping destination promotion; chamber membership pathway on official WordPress site; local advocacy framing per Startup State and live site posi…
+  Recurring networking and mastermind meetings with elevator-pitch practice and referral sharing in Wasatch County, food at your own expense. A local peer circle.
+- **[Washington Area Chamber of Commerce](/pages/washington-area-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/washington-area-chamber-of-commerce.md`
+  Business-community connection, tourism and shopping promotion, and a membership pathway in the Washington City submarket.
 
 ## unranked — too thin to say (16)
 
 - **[A-Tech home plans](/pages/a-tech-home-plans.md)** · `https://greatutah.work/pages/a-tech-home-plans.md`
-  The imported description suggests this resource may provide support related to: - Other
-- **[Acceler8 Wasatch](/pages/acceler8-wasatch.md)** · `https://greatutah.work/pages/acceler8-wasatch.md`
-  Per the Startup State listing: ecosystem-building support for innovation and entrepreneurship across Utah, with aerospace/defense as an initial anchor industry. Specific services (events, f…
+  A Davis County residential-design firm that landed on the founder shelf through a directory import. Nothing here describes a service to founders.
+- **[Acceler8 Wasatch](/pages/acceler8-wasatch.md)** (active) · `https://greatutah.work/pages/acceler8-wasatch.md`
+  A partner-backed ecosystem initiative anchored in aerospace and defense, whose specific services cannot be verified because the official site is down.
 - **[Ai Seminar for Small Businesses & Non-Profits](/pages/ai-seminar-for-small-businesses-and-non-profits.md)** · `https://greatutah.work/pages/ai-seminar-for-small-businesses-and-non-profits.md`
-  The imported description suggests this resource may provide support related to: - Other
+  A one-time free AI seminar imported from a directory, with no current or recurring event to attend.
 - **[First Step Entrepreneur](/pages/first-step-entrepreneur.md)** · `https://greatutah.work/pages/first-step-entrepreneur.md`
-  The imported description suggests this resource may provide support related to: - Entrepreneurship Communities
+  A six-week online cohort for people without a business idea yet, imported from a directory with cost, requirements, and eligibility unverified.
 - **[FSTEP Idea Explorer](/pages/fstep-idea-explorer.md)** · `https://greatutah.work/pages/fstep-idea-explorer.md`
-  The imported description suggests this resource may provide support related to: - Start a Business
-- **[Get Started: Business Idea Challenge](/pages/get-started-business-idea-challenge.md)** · `https://greatutah.work/pages/get-started-business-idea-challenge.md`
-  Startup State and the official funding journey page reference the Business Idea Challenge alongside other Utah competitions. Specific milestone amounts, timelines, and application mechanics…
+  A free interactive idea-generation tool listed in a state directory, with nothing verified beyond the listing.
+- **[Get Started: Business Idea Challenge](/pages/get-started-business-idea-challenge.md)** (active) · `https://greatutah.work/pages/get-started-business-idea-challenge.md`
+  Still listed on Startup State, but milestone amounts, timelines, and application mechanics could not be verified from any readable live program page.
 - **[iMpact Utah](/pages/impact-utah.md)** · `https://greatutah.work/pages/impact-utah.md`
-  The CSV import describes consulting and training services for manufacturers, including operations optimization, leadership development, sales, marketing, automation, and cybersecurity. Trea…
-- **[Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md)** · `https://greatutah.work/pages/morgan-chamber-of-commerce.md`
-  Startup State and prior imports describe chamber-style support: business advocacy, networking, and community events. None of this could be confirmed on the current `morganutahchamber.org` l…
+  Manufacturing consulting and training described only in a CSV import, with no official page, archive, or partner page confirming an active program model. Utah MEP is the verified path.
+- **[Morgan Chamber of Commerce](/pages/morgan-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/morgan-chamber-of-commerce.md`
+  Chamber-style support described in a state directory and confirmed nowhere on the current landing page. Confirm the organization still operates before recommending it.
 - **[Pitted Ventures](/pages/pitted-ventures.md)** · `https://greatutah.work/pages/pitted-ventures.md`
-  Startup State and prior public descriptions cite growth capital plus affiliated services through Pitted Labs and Pitted Logistics for e-commerce channel management, fulfillment, and analyti…
+  A Sandy growth-capital firm for consumer brands with affiliated logistics and channel services, all of it needing re-verification because the site is down.
 - **[Revolving Loan Fund Program (RLF) - R6](/pages/revolving-loan-fund-program-rlf-r6.md)** · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-r6.md`
-  Current loan sizes and eligible uses could not be supported from the captured source and must be confirmed directly with program staff.
-- **[Revolving Loan Fund Program (RLF) - South Eastern Utah](/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md)** · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md`
-  The program is described as non-traditional gap lending, but current loan sizes, repayment periods, and eligible uses are not supported by the captured source.
-- **[Salina Chamber](/pages/salina-chamber.md)** · `https://greatutah.work/pages/salina-chamber.md`
-  Per Salina City's organizations listing: monthly chamber meetings, business networking among Sevier Valley members, and contact via chamber@salinaut.org. Startup State's imported descriptio…
-- **[Utah Chinese Association](/pages/utah-chinese-association.md)** · `https://greatutah.work/pages/utah-chinese-association.md`
-  Per Startup State: cultural festivals, museum and heritage programming, and community events. Per PICC alliance listing: participation in a multi-chamber business network alongside other mu…
+  Gap financing for six central Utah counties whose current loan sizes and eligible uses could not be supported from the captured source. The money may be real; the terms are unknown.
+- **[Revolving Loan Fund Program (RLF) - South Eastern Utah](/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md)** (active) · `https://greatutah.work/pages/revolving-loan-fund-program-rlf-south-eastern-utah.md`
+  Non-traditional gap lending for four southeastern counties, with loan sizes, repayment periods, and eligible uses all unsupported by the capture.
+- **[Salina Chamber](/pages/salina-chamber.md)** (active) · `https://greatutah.work/pages/salina-chamber.md`
+  Listed with a city-government URL rather than a chamber homepage, and the 1,200-member claim could not be verified on any live chamber site. Nobody can tell what this is.
+- **[Utah Chinese Association](/pages/utah-chinese-association.md)** (active) · `https://greatutah.work/pages/utah-chinese-association.md`
+  Cultural festivals, heritage programming, and a multi-chamber alliance listing, with business offerings unverified on any live site.
 - **[Utah Muslim Civic League (UMCL)](/pages/utah-muslim-civic-league-umcl.md)** · `https://greatutah.work/pages/utah-muslim-civic-league-umcl.md`
-  UMCL's site documented voter engagement, advocacy, and community-resource initiatives representing Utah's Muslim population. Business mentorship, marketing, or funding services were not doc…
-- **[Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md)** · `https://greatutah.work/pages/utah-small-business-credit-initiative-usbci.md`
-  The Utah Small Business Credit Initiative is a GOEO program meant to expand capital access, especially for underserved businesses.
+  Civic education and voter engagement, with no business mentorship, marketing, or funding documented — and no live site to check. Its own page says nobody, until someone confirms it operates.
+- **[Utah Small Business Credit Initiative (USBCI)](/pages/utah-small-business-credit-initiative-usbci.md)** (active) · `https://greatutah.work/pages/utah-small-business-credit-initiative-usbci.md`
+  A thin directory card for the program described properly on the other USBCI page. Not fully specified here; use that page's B rating and merge these.
 - **[Vision Iron County](/pages/vision-iron-county.md)** · `https://greatutah.work/pages/vision-iron-county.md`
-  The CSV described community planning surveys (Vision 2050), stakeholder coordination on land use, transportation, natural resources, and economic development. None of this is confirmed on t…
+  A Cedar City-area planning nonprofit whose Vision 2050 work is unconfirmed on a parked domain. Route Iron County founders to verified neighbors instead.
 
 ## Not founder resources (16)
 

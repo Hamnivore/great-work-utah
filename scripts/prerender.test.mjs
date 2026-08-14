@@ -49,6 +49,11 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
 
   const tierList = renderDocument('views', 'tier-list')
   assert.match(tierList, /href="\/tiers">How this is ranked<\/a>/)
+  assert.match(tierList, /<article class="tier-list">/)
+  assert.match(tierList, /<li class="is-active"><strong><a href="\/p\/bingham-canyon-mine">/)
+  assert.match(tierList, /<li class="is-quiet"><strong><a href="\/p\/golden-spike-transcontinental-railroad">/)
+  assert.match(tierList, /<span class="active-mark">\(active\)<\/span>/)
+  assert.doesNotMatch(tierList, /<li class="is-quiet"><strong><a href="\/p\/bingham-canyon-mine">/)
 
   const master = renderDocument('views', 'index')
   assert.match(master, /rel="canonical" href="https:\/\/greatutah\.work\/v"/)

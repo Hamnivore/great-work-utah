@@ -105,17 +105,15 @@ const eraKey = (s) => {
   return y ? ERAS.find(([, f]) => f(y))[0] : 'undated'
 }
 
-// Activity is printed only when it is *not* `active` (wiki/meta/activity.md). Marking the majority
-// case would put a token on nearly every line in the corpus to say "normal"; marking the exceptions
-// puts it exactly where a reader's plan has to change. Every fact page carries the attribute, so an
-// unmarked line means active — which is only true as long as the rollout stays complete, and lint is
-// what keeps it complete.
-const ACTIVITY_MARK = { dormant: 'dormant', concluded: 'concluded', unknown: 'activity unknown' }
-const activityMark = (p) => (ACTIVITY_MARK[p.activity] ? ` · ${ACTIVITY_MARK[p.activity]}` : '')
+// Activity is printed only when it *is* `active` (wiki/meta/activity.md). The mark sits next to
+// the name on every view, so an agent that fetched the type index instead of the tier list still
+// sees the same token. Unmarked means not currently being done (or not yet checked) — never the
+// inverse. The HTML twin may fade unmarked rows; that is a human-page affordance, not a second signal.
+const activityMark = (p) => (p.activity === 'active' ? ' (active)' : '')
 
 // Tier leads the trust markers because it is the one a reader shortlists on; conf says how much to
 // believe the page behind it. Absent on source/guide pages, which take no tier.
-const line = (p, extra = '') => `- [${p.title}](${p.url}) · \`${p.path}\` · ${clip(p.focus || p.summary, 120)}${p.tier ? ` · tier:${p.tier}` : ''} · conf:${p.conf}${activityMark(p)}${extra}\n`
+const line = (p, extra = '') => `- [${p.title}](${p.url})${activityMark(p)} · \`${p.path}\` · ${clip(p.focus || p.summary, 120)}${p.tier ? ` · tier:${p.tier}` : ''} · conf:${p.conf}${extra}\n`
 const write = (name, content) => fs.writeFileSync(path.join(VIEWS, name), content)
 
 // ---- type indexes ----
@@ -124,9 +122,6 @@ const PLURAL = { venture: 'ventures', resource: 'resources', work: 'work', perso
 for (const [t, desc] of Object.entries(TYPES)) {
   const sel = pages.filter((p) => p.type === t)
   let out = `# ${t} — ${sel.length} pages\n\n${desc}. One line per page; fetch the page for detail and evidence.\n`
-  // This index is alphabetical and undifferentiated, which is the right shape for exhaustive access
-  // and the wrong one for "which of these is worth my week." Point at the ladder that answers that.
-  if (t === 'resource' || t === 'helper') out += `\nThis list is alphabetical and does not rank. To read the good ones first, use [the founder-resource tier list](founder-resource-tier-list.md) · \`${BASE}/views/founder-resource-tier-list.md\`, which ranks every resource and helper page by what it actually hands a founder.\n`
   if (t === 'helper') out += `\nFor free mentorship and the full routing map, start at [find-an-advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\` — this list is mostly paid specialists, not SCORE/SBDC.\n`
   out += `\n`
   // A guide's `**Audience:**` is who it was written for, which is the one thing a reader needs
@@ -311,24 +306,22 @@ const gems = tiered.filter((p) => ['S', 'A'].includes(tierBase(p)))
 
 // The ladder deliberately says nothing about *when*, which strands a reader looking for something to
 // join: twelve of the thirteen S pages are historical. `**Activity:**` (wiki/meta/activity.md) is the
-// other axis, and it gets an entry in the line rather than a separate ladder, because the two
-// questions compose — "big and still happening" is one filter over one list, not a second ranking.
-const isActive = (p) => p.activity === 'active'
-const activeTiered = tiered.filter(isActive)
+// other axis. It is a mark on this list, not a second list — "big and still happening" is one filter
+// over one ranking. Only `active` is printed: it is the answer that changes a plan, and marking the
+// other three values would put a token on every line.
+const activeTiered = tiered.filter((p) => p.activity === 'active')
 const activityChecked = tiered.filter((p) => p.activity)
 const tierEntry = (p) => {
   const bump = p.tier.endsWith('*') ? ' \\*' : ''
-  const mark = ACTIVITY_MARK[p.activity] ? ` — **${ACTIVITY_MARK[p.activity]}**` : ''
-  return `- **[${p.title}](${p.url})** · \`${p.path}\`${bump}${mark}\n  ${p.summary.replace(/\s+/g, ' ').trim()}\n`
+  const mark = p.activity === 'active' ? ' (active)' : ''
+  return `- **[${p.title}](${p.url})**${mark} · \`${p.path}\`${bump}\n  ${p.summary.replace(/\s+/g, ' ').trim()}\n`
 }
 
 let tierList = `# The tier list
 
 Utah work ranked by how far it could move the world. ${gems.length} pages in S and A. [How this is ranked](../meta/tiers.md) · \`${BASE}/meta/tiers.md\`.
 
-**${activeTiered.length} of these ${tiered.length} pages are things still being done today.** If that is what you came for, [the active list](tier-list-active.md) · \`${BASE}/views/tier-list-active.md\` is this same ladder filtered to them. On this page, anything not currently being done is marked **dormant**, **concluded**, or **activity unknown** on its own line — an unmarked entry is active. What those words mean, and what evidence each one needs, is in [activity.md](../meta/activity.md) · \`${BASE}/meta/activity.md\`.${activityChecked.length < tiered.length ? `\n\n${tiered.length - activityChecked.length} pages have not been checked yet and are unmarked; treat an unmarked line as "active or unchecked" until that number reaches zero.` : ''}
-
-Ranked here by how far it could move the world, not by how useful it is to you. Grants, accelerators, chambers, and programs sit at D and F almost without exception, because an enabler displaces very little however much passes through it — so if you are a founder deciding where to spend a week, use [the founder-resource tier list](founder-resource-tier-list.md) · \`${BASE}/views/founder-resource-tier-list.md\` instead, which ranks the same resource shelf by what it hands you.
+**${activeTiered.length} of these ${tiered.length} pages are still being done today**, marked (active) next to the name. An unmarked line is historical, quiet, or unchecked — not a thing to join this year. What (active) means, and what evidence it needs, is in [activity.md](../meta/activity.md) · \`${BASE}/meta/activity.md\`.${activityChecked.length < tiered.length ? `\n\n${tiered.length - activityChecked.length} pages have not been checked yet and are unmarked.` : ''}
 
 `
 for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
@@ -342,30 +335,6 @@ for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
   tierList += `\n`
 }
 write('tier-list.md', tierList)
-
-// ---- the tier list, filtered to what is still happening ----
-// Same ladder, same order, one filter. This is the view for "what could I join, fund, or use this
-// year", and it is the reason the Activity facet exists at all.
-const activeGems = activeTiered.filter((p) => ['S', 'A'].includes(tierBase(p)))
-let activeList = `# The tier list — active only
-
-The same ladder as [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\`, filtered to the ${activeTiered.length} pages whose subject is **still being done**: ${activeGems.length} of them in S and A.
-
-"Active" means someone found a dated public artifact from the last 18 months showing the work happening — a filing, an award, a job posting, a release, a paper, an open application cycle — and recorded it on the page as \`**Activity-signal:**\`. A website that merely loads does not count. The rubric and the eight rulings behind these calls are in [activity.md](../meta/activity.md) · \`${BASE}/meta/activity.md\`.
-
-**What this list leaves out is not lesser work.** ${tiered.length - activeTiered.length} pages are missing from it, including most of the S tier — the transcontinental railroad, the first electronic television, the Jarvik-7. They are the reason the state has what it has. They are simply not things you can join. Read [the full ladder](tier-list.md) · \`${BASE}/views/tier-list.md\` for those, or [historical and current work](work.md) · \`${BASE}/views/work.md\`.
-
-`
-for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
-  const sel = activeTiered
-    .filter((p) => tierBase(p) === t)
-    .sort((a, b) => a.title.localeCompare(b.title))
-  if (!sel.length) continue
-  activeList += `## ${t} — ${TIER_LABEL[t]} (${sel.length})\n\n`
-  for (const p of sel) activeList += tierEntry(p)
-  activeList += `\n`
-}
-write('tier-list-active.md', activeList)
 
 // ---- the founder-resource tier list ----
 // A second ladder over the same corpus, asking a different question (wiki/meta/founder-tiers.md).
@@ -412,8 +381,8 @@ for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
   if (!sel.length) continue
   founderList += `## ${t} — ${FOUNDER_LABEL[t]} (${sel.length})\n\n`
   for (const p of sel) {
-    founderList += `- **[${p.title}](${p.url})** · \`${p.path}\`\n`
-    const reason = founderReasons.get(p.slug) || p.provides || firstSentence(p.summary)
+    founderList += `- **[${p.title}](${p.url})**${activityMark(p)} · \`${p.path}\`\n`
+    const reason = founderReasons.get(p.file.replace(/\.md$/, '')) || p.provides || firstSentence(p.summary)
     if (reason) founderList += `  ${clip(reason, 190)}\n`
   }
   founderList += `\n`
@@ -449,9 +418,9 @@ This is the router for ${pages.length} pages about high-impact work in Utah. Pic
 
 ## Start by goal
 
-- **Read the best of it first:** [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` ranks all ${tiered.length} fact pages on one impact ladder. The ${gems.length} pages in **S** and **A** are the gems. The letter is how far a thing could move the world, not a vote that it's good — the top of the list includes weapons, surveillance, and mines.
+- **Read the best of it first:** [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` ranks all ${tiered.length} fact pages on one impact ladder. The ${gems.length} pages in **S** and **A** are the gems. Pages still being done are marked (active). The letter is how far a thing could move the world, not a vote that it's good — the top of the list includes weapons, surveillance, and mines.
 - **Find meaningful work:** [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` (${roleGroups.length} role families), then [all stated needs](needs.md) · \`${BASE}/views/needs.md\` (${needers.length} organizations) and [Find Meaningful Work in Utah](/pages/find-meaningful-work.md) · \`${BASE}/pages/find-meaningful-work.md\`. These are leads derived from page assessments, not confirmed openings; verify with the organization.
-- **Start or fund a high-growth company:** [the founder-resource tier list](founder-resource-tier-list.md) · \`${BASE}/views/founder-resource-tier-list.md\` ranks all ${founderRanked.length} of Utah's resource and helper pages by what they hand a founder; the ${founderTop.length} in **S**, **A**, and **B** are where a week is worth spending. Then [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · \`${BASE}/pages/startup-capital-in-utah.md\` · [Find an Advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\`
+- **Start or fund a high-growth company:** [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · \`${BASE}/pages/startup-capital-in-utah.md\` · [Find an Advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\`
 - **Grow a Main Street or rural business without venture capital:** [Find Business Services](/pages/find-business-services.md) · \`${BASE}/pages/find-business-services.md\` routes formation, lending, procurement, regulation, and workforce help; combine it with [resources](resources.md) · \`${BASE}/views/resources.md\` and [by Utah location](by-region.md) · \`${BASE}/views/by-region.md\`.
 - **Commercialize research or find technical space:** [Commercialize Research in Utah](/pages/commercialize-research.md) · \`${BASE}/pages/commercialize-research.md\` · [Find Prototyping Space](/pages/find-prototyping-space-in-utah-county.md) · \`${BASE}/pages/find-prototyping-space-in-utah-county.md\`
 - **Explore a field:** use a [sector hub](#sectors), then open the full pages behind the promising lines. If the hub is sparse, search synonyms and check the complete type indexes—the Domain rollout is incomplete.
@@ -469,7 +438,6 @@ ${domainViews.map((d) => `- [${domainLabel(d)}](domain-${d}.md) · \`${BASE}/vie
 ## Browse by another facet
 
 - [By impact tier](tier-list.md) · \`${BASE}/views/tier-list.md\` — ${tiered.length} fact pages ranked S through F on one ladder; ${gems.length} gems in S and A
-- [By founder usefulness](founder-resource-tier-list.md) · \`${BASE}/views/founder-resource-tier-list.md\` — a second ladder over the ${founderRanked.length} resource and helper pages, ranked by what they hand a founder rather than by world impact; ${founderTop.length} in S, A, and B
 - [By kind of work](by-role.md) · \`${BASE}/views/by-role.md\` — ${roleGroups.length} populated role families derived only from pages with stated-needs assessments; use search and sector hubs for other plausible employers
 - [By Utah location](by-region.md) · \`${BASE}/views/by-region.md\` — ${regional.length}/${pages.length} pages carry Region metadata (${pct(regional.length, pages.length)}% coverage)
 - [By venture stage](by-stage.md) · \`${BASE}/views/by-stage.md\` — ${staged.length} pages; metadata assertions, not yet sourced

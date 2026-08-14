@@ -64,9 +64,9 @@ reported. Do not re-rate.
 - [x] Values applied 2026-08-13 (`node scripts/apply-activity.mjs --write`). Derived histogram:
       422 active, 26 concluded, 20 dormant, 17 unknown. Two calendar overrides:
       `futureready-utah` and `utif` (rater dormant → derived active).
-- [ ] `views/tier-list-active.md` generated and linked from the master index
-- [ ] Human-facing indicator shipped (badge on prerendered pages)
-- [ ] `public/llms.txt` and `AGENTS.md` updated
+- [x] One tier list; `active` pages marked `(active)` on the line (no second filtered view)
+- [x] Human-facing indicator shipped (badge on pages; unmarked rows recede on the HTML tier list)
+- [x] `public/llms.txt` and `AGENTS.md` updated
 
 ## Batch status
 

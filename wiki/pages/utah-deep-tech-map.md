@@ -1,99 +1,97 @@
-# Utah Deep-Tech Map
+# Utah Deep Tech Now: A Founder's Field Guide
 
 **Type:** guide
 **Status:** Draft
 **Confidence:** Medium
-**Audience:** founders, researchers, students, operators, investors, helpers
-**Focus:** Utah deep tech, historical anchors, current ventures, ecosystem navigation
-**Updated:** 2026-06-18
+**Audience:** deep-tech founders, researchers, technical operators, investors, commercialization helpers
+**Focus:** active Utah deep tech, founder opportunities, technical clusters, commercialization paths
+**Updated:** 2026-08-13
 
 ## Overview
 
-Utah's deep-tech story is easier to trust when the current companies are placed beside the older work that made the state credible. This map is not a ranking and not a complete history. It is a set of durable reference points: where Utah has already produced world-shaping technical or cultural work, and where today's builders can see the live threads.
+This is a founder's guide to deep technology being built in Utah now. It leaves the state's historical achievements to their own pages and concentrates on active companies, laboratories, field projects, and technical infrastructure that a founder could join, learn from, sell to, spin out of, or build beside.
 
-## Computing and Scientific Software
+The useful question is not whether Utah has “deep tech” in the abstract. It is where difficult technical work has already gathered people, facilities, customers, and institutional knowledge. The strongest visible clusters are geothermal and industrial energy; medical devices, diagnostics, and computational biology; aerospace, defense, sensing, and autonomy; and scientific computing. Each cluster has a different route to market, so founders should use the guide to find an adjacent operating system rather than copy a company.
 
-[University of Utah Computer Graphics Program](utah-computer-graphics-program.md) is the historical anchor. It explains why Utah belongs in any serious history of rendering, human-computer interaction, simulation, Adobe, Pixar, SGI, and visual computing.
+“Active” follows the wiki's current activity checks. A Utah project run by an out-of-state company is identified as such, and a Utah test site alone does not make a company a Utah venture. This is a dated snapshot, not a claim of completeness.
 
-[University of Utah ARPANET Fourth Node](arpanet-fourth-node.md) and [Evans & Sutherland](evans-and-sutherland.md) make the same era feel more complete. One is the network layer: Utah as part of the first four-node packet-switched research network. The other is the commercialization layer: Utah graphics ideas becoming real-time 3D hardware and flight-simulation systems.
+## Energy, Geothermal, and Industrial Systems
 
-[WordPerfect and Novell](wordperfect-and-novell.md), [Omniture Web Analytics](omniture-web-analytics.md), and [Soundstream and Commercial Digital Audio Recording](soundstream-digital-audio-recording.md) extend the software-history layer: Utah Valley as a place that shipped dominant word processors, office networks, enterprise analytics, and early digital audio before "Silicon Slopes" became the default frame.
+Utah's clearest concentrated deep-tech advantage is geothermal. [Utah FORGE](utah-forge.md) operates a federal enhanced-geothermal field laboratory near Milford. [Fervo Energy](fervo-energy.md), headquartered in Houston, is building Cape Station in Beaver County. [Zanskar Geothermal](zanskar-geothermal.md) is a Salt Lake City exploration company using data and field science to find overlooked geothermal systems. [Rodatherm Energy](rodatherm-energy.md) is developing a closed-loop approach with a Great Basin pilot.
 
-The live thread is [SCI Institute](sci-institute.md): scientific computing, visualization, biomedical software, open-source research tools, and a student pipeline that still turns abstract computation into instruments other scientists use. [PassiveLogic](passivelogic.md) carries a different Utah software thread into physical buildings: edge AI, digital twins, and autonomous controls. [Weave](weave.md) represents applied AI in healthcare communications; [Palladyne AI](palladyne-ai.md) and the [Utah NeuroRobotics Lab](utah-neurorobotics-lab.md) carry embodied-AI and neural-interface threads; [UTahQuantum](utahquantum.md) is a concept-stage quantum-readiness initiative worth watching.
+For a founder, these are different positions in the same stack: field research, project development, exploration intelligence, drilling and subsurface operations, and generation technology. The opportunity is broader than inventing another geothermal system. It includes instrumentation, reservoir characterization, high-temperature components, field logistics, permitting, interconnection, project finance, and software that survives contact with physical operations.
 
-## Biology and Medical Devices
+Adjacent industrial bets include [Torus](torus.md), building flywheel and battery storage systems in Salt Lake City; [OxEon Energy](oxeon-energy.md), developing solid-oxide electrolysis and fuel-production systems in North Salt Lake; [CleanJoule](cleanjoule.md), scaling fuel technology for aviation and space; and [PassiveLogic](passivelogic.md), combining digital twins, edge AI, and building controls. These companies are useful comparisons because their bottlenecks are manufacturing, deployment, certification, and customer integration—not merely software distribution.
 
-[Capecchi Gene Targeting and the Knockout Mouse](capecchi-gene-targeting.md) is the basic-science anchor: a Utah lab helped make targeted mammalian genetics practical. [Jarvik-7 Artificial Heart](jarvik-7-artificial-heart.md) is the medical-device anchor: Utah tried a world-first implantable system in the clinic and forced the field to deal with the consequences.
+Founder read: start here if the company must prove performance in the field, finance equipment or projects, work through long qualification cycles, or recruit across mechanical, electrical, chemical, subsurface, and software disciplines.
 
-The live thread runs through [Recursion Pharmaceuticals](recursion-pharmaceuticals.md), [Merit Medical Systems](merit-medical.md), and [Blackrock Neurotech](blackrock-neurotech.md). They represent three very different Utah modes: AI-biology scale, FDA-regulated interventional manufacturing, and long-horizon neural hardware. [Utah Array BCI Platform](utah-array-bci-platform.md) is the research anchor that predates the commercial BCI company. [Huntsman Cancer Institute](huntsman-cancer-institute.md), [BioFire Diagnostics](biofire-diagnostics.md), [Techcyte](techcyte.md), [Halia Therapeutics](halia-therapeutics.md), and [Nusano](nusano.md) extend the map across comprehensive cancer research, syndromic diagnostics, digital pathology, inflammation therapeutics, and medical radioisotopes.
+## Biotech, Medical Devices, and Scientific Instruments
 
-[Utah Population Database](utah-population-database.md), [Myriad Genetics BRCA Sequencing and Testing](myriad-genetics-brca.md), and [HELP Clinical Decision Support System](help-clinical-decision-support-system.md) add the data-infrastructure layer. They show a different Utah advantage: linked records, hereditary-cancer research, medical informatics, and health systems willing to turn data into research or clinical workflow.
+Utah's life-sciences cluster spans computation, regulated products, and unusually hard hardware. [Recursion Pharmaceuticals](recursion-pharmaceuticals.md) is the large computational-biology anchor. [Nusano](nusano.md) is building medical-radioisotope production around accelerator physics and advanced manufacturing in West Valley City. [Blackrock Neurotech](blackrock-neurotech.md) develops implantable brain-computer-interface systems in Salt Lake City. [Halia Therapeutics](halia-therapeutics.md) is a clinical-stage inflammation company in Lehi, while [Techcyte](techcyte.md) applies computer vision to pathology in Orem.
 
-[Conotoxins and Prialt](conotoxins-and-prialt.md) and [Intermountain Clinical Quality Improvement](intermountain-clinical-quality-improvement.md) add translational and delivery-system anchors: venom-peptide drug discovery and a health system that turned quality improvement into exportable clinical knowledge.
+[Intactis Bio](intactis-bio.md) is an earlier and less certain bet on hybrid biological computing. It is worth watching precisely because it sits nearer the research-to-company boundary than the established firms above; its page carries Low confidence, so treat it as a lead for diligence rather than proof of a mature local cluster.
 
-## Aerospace, Defense, and Field Hardware
+Founders should distinguish three operating systems here. Therapeutics require biology, trials, regulatory strategy, and patient capital. Medical devices and isotope production require quality systems, manufacturing, clinical partners, and safety discipline. Computational biology and pathology need defensible data, scientific validation, and integration into research or clinical workflows. “Life sciences” is not specific enough to choose advisors, capital, facilities, or a first customer.
 
-[Thiokol Solid Rocket Motors](thiokol-solid-rocket-motors.md) is the manufacturing anchor: remote, dangerous, high-consequence propulsion work done at national scale. [Space Dynamics Laboratory](space-dynamics-laboratory.md) is the research-and-mission-hardware anchor.
+Founder read: use [Where to Find Wet Lab Space in Utah](where-to-find-wet-lab-space-in-utah.md) when the immediate constraint is a bench, and [Commercialize Research in Utah](commercialize-research.md) when the work still sits inside a university or research institution.
 
-The current map includes [Fortem Technologies](fortem-technologies.md) for counter-UAS systems, [Hexcel Corporation](hexcel.md) for aerospace composite manufacturing, [IMSAR](imsar.md) for compact SAR on small UAS, [Strider Technologies](strider-technologies.md) for strategic intelligence, [Teal Drones](teal-drones.md) for domestic small-UAS manufacturing, [Baxter Aerospace](baxter-aerospace.md) for long-endurance VTOL and deployable comms, and [Hypercraft](hypercraft.md) for hybrid-electric defense mobility. [LiveView Technologies](liveview-technologies.md) belongs here with surveillance and civil-liberties caveats — commercial-scale security hardware, not a frontier deep-tech bet. [Varda Space Industries](varda-space.md) is included as a UTTR reentry-infrastructure case study, not a Utah employer. These are not generic software opportunities. They reward people who understand hardware, quality, testing, procurement, and field deployment.
+## Aerospace, Defense, Sensing, and Autonomy
 
-## Energy, Earth, and Infrastructure
+Utah has a dense set of companies building systems that must work outside a demo. [Fortem Technologies](fortem-technologies.md) builds radar and autonomous counter-UAS systems in Lindon. [IMSAR](imsar.md) builds compact synthetic-aperture radar in Utah Valley. [Teal Drones](teal-drones.md) manufactures small unmanned aircraft in Salt Lake City. [Baxter Aerospace](baxter-aerospace.md) develops long-endurance aircraft and deployable communications in St. George. [Hypercraft](hypercraft.md) builds hybrid-electric powertrains in Provo.
 
-[Golden Spike and the First Transcontinental Railroad](golden-spike-transcontinental-railroad.md) is the infrastructure anchor: the moment a national logistics system became continuous at Promontory Summit. The modern analog is not one-to-one, but the pattern is familiar: Utah as a place where geography and infrastructure collide.
+The autonomy layer includes [Palladyne AI](palladyne-ai.md), working on embodied AI and collaborative autonomy, and [Autonomous Solutions, Inc.](autonomous-solutions-inc.md), applying vehicle autonomy to mining, agriculture, construction, and logistics. [Space Dynamics Laboratory](space-dynamics-laboratory.md) in North Logan is a research-and-mission-hardware anchor with a student workforce and decades of sensor and space-systems experience.
 
-The live energy thread runs through [Utah FORGE](utah-forge.md), [Fervo Energy](fervo-energy.md), [Zanskar Geothermal](zanskar-geothermal.md), [Torus](torus.md) for flywheel storage, [Energy Fuels / White Mesa](energy-fuels-white-mesa.md) for uranium and critical-minerals processing, and [US Magnesium](us-magnesium.md) for primary magnesium from Great Salt Lake brine (currently in Chapter 11 — treat as a cautionary industrial case). [Autonomous Solutions, Inc.](autonomous-solutions-inc.md) extends the thread into off-road industrial autonomy for mining, agriculture, and construction.
+The shared founder problem is not “defense tech.” It is building and qualifying hardware, sensing, autonomy, power, communications, or manufacturing for demanding buyers. Government procurement, export controls, test access, supply-chain traceability, and systems integration can matter as much as the core invention. A company serving commercial industry may still benefit from the same Utah talent and supplier base without adopting a defense business model.
 
-## Physics and Materials
+Founder read: use [Who Helps With Government Contracting In Utah](who-helps-with-government-contracting-in-utah.md) before treating a federal buyer like an ordinary enterprise customer. The guide separates free public procurement help from paid specialists.
 
-[Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](flys-eye-hires-cosmic-rays.md) is the desert-science anchor. It turns the West Desert from empty-looking land into an instrument for particle astrophysics, and it connects directly to the later [Telescope Array](telescope-array-ultra-high-energy-cosmic-rays.md).
+## Scientific Computing and Research Infrastructure
 
-[Harvey Fletcher Stereophonic Sound](harvey-fletcher-stereophonic-sound.md) and [H. Tracy Hall Diamond Presses](h-tracy-hall-diamond-presses.md) show Utah's materials-and-instruments lineage: psychoacoustics and hearing science from a BYU-trained Bell Labs leader, and synthetic-diamond manufacturing from a University of Utah chemist who built the high-pressure apparatus that made industrial diamond practical.
+[SCI Institute](sci-institute.md) remains Utah's clearest live concentration of scientific visualization, biomedical computing, simulation, and open-source research software. It is not a generic startup hub; it is a place to look for difficult computational methods, technical collaborators, research talent, and problems arising from science itself.
 
-[Pons-Fleischmann Cold Fusion](pons-fleischmann-cold-fusion.md) belongs in the map as a cautionary episode, not a validated energy breakthrough. It matters because Utah hosted one of the most famous replication failures in modern science — and the institutional response still shapes how the state should talk about bold claims.
+Utah's research institutions also feed the other clusters: geothermal field science at Utah FORGE, space and sensor work at Space Dynamics Laboratory, and university-originated biomedical work around Salt Lake City. A founder working from licensed research should begin with the relevant technology-licensing office and then use [Commercialize Research in Utah](commercialize-research.md) to sequence disclosure, market discovery, non-dilutive funding, facilities, and equity.
 
-## Defense and Mechanical Systems
+Founder read: a lab relationship is not automatically a company advantage. Clarify IP ownership, the first falsifiable technical milestone, who will pay if it works, and whether the next dollar should be a grant, customer-funded development, or equity.
 
-[Browning Firearms Designs](browning-firearms-designs.md) is the older mechanical-design anchor. It belongs here with heavy caveats because its impact is inseparable from weapons and organized violence, but it is also one of Utah's clearest examples of durable mechanical invention.
+## Where Utah Is Thin
 
-[Utah Test and Training Range](utah-test-and-training-range.md) and [Dugway Proving Ground](dugway-proving-ground.md) are the test-infrastructure anchors. They belong in the map because aerospace and defense work needs places to test, measure, and train, but both pages need environmental, public-health, and community-impact caveats.
+The corpus currently shows much more depth in geothermal, regulated life sciences, aerospace and defense hardware, autonomy, and scientific computing than in semiconductors, quantum hardware, or general-purpose advanced materials startups. That may reflect real ecosystem shape, incomplete wiki coverage, or both. Treat a thin section as a research prompt, not proof that no work exists.
 
-The modern defense thread should not flatten into "defense tech." [Fortem Technologies](fortem-technologies.md), [Space Dynamics Laboratory](space-dynamics-laboratory.md), and [Hexcel Corporation](hexcel.md) sit in different parts of the stack: sensing and autonomy, mission hardware, and materials/manufacturing.
+Geography is also uneven. Most company activity in this guide sits along the Wasatch Front. Beaver County matters because of geothermal field projects, North Logan because of Space Dynamics Laboratory, and St. George because of a small set of aerospace and water ventures. A founder outside the Wasatch Front should verify whether the needed lab, supplier, customer, and senior talent can actually be reached locally.
 
-## Culture, Place, and Institutions
+## A Practical Route Through The Ecosystem
 
-[Spiral Jetty](spiral-jetty.md) and [Sundance Institute](sundance-institute.md) make the cultural map harder to dismiss. They show Utah as a place where landscape, story, and institution-building can become internationally legible.
+Use the company pages above to identify the nearest technical neighbor, then choose the next resource by bottleneck:
 
-For helpers, this matters because not every valuable match is technical. Artists, media technologists, nonprofit operators, foundation people, designers, and real-time 3D builders can be part of the same ecosystem map when the wiki is honest about what kind of work they are joining.
+1. **Still proving there is a company:** use [Commercialize Research in Utah](commercialize-research.md) for the research-to-market sequence and [Find A Cofounder In Utah](find-a-cofounder.md) for a committed technical or commercial counterpart.
+2. **Need non-dilutive technical funding:** start with [Nucleus Grow](nucleus-grow.md) and [Where To Find SBIR Help In Utah](where-to-find-sbir-help-in-utah.md).
+3. **Need a place to build:** use [Where to Find Wet Lab Space in Utah](where-to-find-wet-lab-space-in-utah.md) for biology and [Find Prototyping and Project Space in Utah County](find-prototyping-space-in-utah-county.md) for physical prototypes.
+4. **Need capital:** use [Startup Capital in Utah](startup-capital-in-utah.md), but match the instrument to the next milestone. Deep tech often needs grants, project finance, strategic customers, or equipment financing before conventional venture equity makes sense.
+5. **Need specialized help:** use [Find An Advisor In Utah](find-an-advisor.md) and [Find Business Services In Utah](find-business-services.md). Ask for demonstrated experience with the actual constraint—FDA, export controls, university IP, government accounting, hardware quality, project finance—not a generic “startup” label.
 
-## How To Use This Map
+The fastest useful founder conversation is: “We are building this; the nearest Utah analog is that; our next technical and commercial milestone is this; who has already crossed it?” This guide supplies the “nearest Utah analog” part.
 
-Students should use historical anchors to find the live institution that inherits the skill. Graphics points toward SCI. Gene targeting points toward biomedical research and AI biology. Solid rockets point toward aerospace manufacturing and defense hardware. Golden Spike points toward infrastructure, energy, and field execution. Spiral Jetty points toward place-based cultural work.
+## Open Questions
 
-Founders should use the map to ask which Utah advantage they are actually using. Is it a research lineage, a manufacturing workforce, a desert testbed, a regulatory-heavy medical-device cluster, a geothermal geology pattern, or an institution that makes outsiders travel here?
-
-Helpers should use the map to avoid generic advice. A propulsion company, a biomedical device company, a geothermal explorer, and an arts nonprofit do not need the same lawyer, recruiter, CFO, grant writer, or storyteller.
+- Which active Utah semiconductor, photonics, quantum-hardware, advanced-materials, and industrial-biotech teams meet the wiki's evidence bar but are still missing?
+- Which companies above have publicly documented pilot, procurement, manufacturing, or research-partnership paths that a new founder can realistically access?
+- Where are the strongest Utah suppliers for precision machining, electronics, clean-room work, testing, certification, and low-volume advanced manufacturing?
+- Which activity checks will need refreshing after 2026-08-13?
 
 ## Related Pages
 
+- [Commercialize Research in Utah](commercialize-research.md)
+- [Startup Capital in Utah](startup-capital-in-utah.md)
+- [Where To Find SBIR Help In Utah](where-to-find-sbir-help-in-utah.md)
+- [Where to Find Wet Lab Space in Utah](where-to-find-wet-lab-space-in-utah.md)
+- [Find Prototyping and Project Space in Utah County](find-prototyping-space-in-utah-county.md)
+- [Who Helps With Government Contracting In Utah](who-helps-with-government-contracting-in-utah.md)
+- [Find A Cofounder In Utah](find-a-cofounder.md)
+- [Find An Advisor In Utah](find-an-advisor.md)
+- [Find Business Services In Utah](find-business-services.md)
 - [Find Meaningful Work in Utah](find-meaningful-work.md)
-- [University of Utah Computer Graphics Program](utah-computer-graphics-program.md)
-- [University of Utah ARPANET Fourth Node](arpanet-fourth-node.md)
-- [Evans & Sutherland](evans-and-sutherland.md)
-- [Capecchi Gene Targeting and the Knockout Mouse](capecchi-gene-targeting.md)
-- [Thiokol Solid Rocket Motors](thiokol-solid-rocket-motors.md)
-- [Golden Spike and the First Transcontinental Railroad](golden-spike-transcontinental-railroad.md)
-- [Spiral Jetty](spiral-jetty.md)
-- [Utah FORGE](utah-forge.md)
-- [Browning Firearms Designs](browning-firearms-designs.md)
-- [Fly's Eye and HiRes Ultra-High-Energy Cosmic Rays](flys-eye-hires-cosmic-rays.md)
-- [Utah Population Database](utah-population-database.md)
-- [Myriad Genetics BRCA Sequencing and Testing](myriad-genetics-brca.md)
-- [HELP Clinical Decision Support System](help-clinical-decision-support-system.md)
-- [Utah Test and Training Range](utah-test-and-training-range.md)
-- [Dugway Proving Ground](dugway-proving-ground.md)
 
 ## Maintainer Notes
 
-- Add more environmental-science work pages before this guide claims to represent the earth-science map well.
-- Add a real aerospace/defense source pass for Hill AFB, Dugway, Utah Test and Training Range, and the 47G cluster.
-- Add current hiring or collaboration evidence before using this guide as a matchmaking surface.
+- This page intentionally replaced the history-heavy “Utah Deep-Tech Map” while retaining its slug so existing inbound links continue to work.
+- Refresh the guide from pages marked `Activity: active`; do not reintroduce historical anchors unless they directly explain a resource a founder can use now.

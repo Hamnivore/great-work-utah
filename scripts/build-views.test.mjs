@@ -127,6 +127,51 @@ test('tier list pairs each name with its complete authored summary', () => {
   }
 })
 
+test('tier list marks active pages inline and does not emit a second list', () => {
+  const wiki = fs.mkdtempSync(path.join(os.tmpdir(), 'great-work-activity-view-'))
+  const pages = path.join(wiki, 'pages')
+  fs.mkdirSync(pages)
+  const fact = (slug, title, activity) =>
+    fs.writeFileSync(path.join(pages, slug), `# ${title}
+
+**Type:** venture
+**Status:** active
+**Confidence:** high
+**Tier:** A
+**Activity:** ${activity}
+**Activity-checked:** 2026-08-13
+${activity === 'active' ? '**Activity-signal:** 2026-06-01 · https://example.com/filing\n' : ''}**Focus:** Useful work
+
+## Summary
+
+${title} does a thing.
+`)
+  fact('live.md', 'Live Co', 'active')
+  fact('done.md', 'Done Co', 'concluded')
+
+  try {
+    execFileSync(process.execPath, [script], {
+      env: { ...process.env, GREAT_WORK_WIKI: wiki },
+      stdio: 'pipe',
+    })
+    const views = path.join(wiki, 'views')
+    const tierList = fs.readFileSync(path.join(views, 'tier-list.md'), 'utf8')
+    assert.match(tierList, /\*\*\[Live Co\]\(\/pages\/live\.md\)\*\* \(active\)/)
+    assert.match(tierList, /\*\*\[Done Co\]\(\/pages\/done\.md\)\*\* ·/)
+    assert.doesNotMatch(tierList, /\[Done Co\][^\n]*\(active\)/)
+    assert.doesNotMatch(tierList, /the active list/)
+    assert.equal(fs.existsSync(path.join(views, 'tier-list-active.md')), false)
+    assert.match(fs.readFileSync(path.join(views, 'index.md'), 'utf8'), /marked \(active\)/)
+    const ventures = fs.readFileSync(path.join(views, 'ventures.md'), 'utf8')
+    assert.match(ventures, /\[Live Co\]\(\/pages\/live\.md\) \(active\)/)
+    assert.match(ventures, /\[Done Co\]\(\/pages\/done\.md\) ·/)
+    assert.doesNotMatch(ventures, /\[Done Co\][^\n]*\(active\)/)
+    assert.doesNotMatch(ventures, / · (?:dormant|concluded|activity unknown)/)
+  } finally {
+    fs.rmSync(wiki, { recursive: true, force: true })
+  }
+})
+
 // The founder ladder's whole justification is that it disagrees with the impact ladder, so the thing
 // worth pinning is that the two views sort the same page differently and that `n/a` leaves the ranking
 // rather than landing at the bottom of it.
@@ -166,18 +211,18 @@ ${provides}
     // Same impact tier, opposite ends of this ladder — the disagreement is the point.
     assert.match(founder, /## A — best general first move \(1\)[\s\S]*Grant Office/)
     assert.match(founder, /## F — a listing \(1\)[\s\S]*County Chamber/)
-    assert.match(founder, /Grant Office is a thing\./)
+    assert.match(founder, /Two million dollars and a named deadline\./)
     // n/a is set aside, not ranked, and is excluded from the ranked count in the lede.
     assert.match(founder, /Utah's 2 founder resources ranked/)
     assert.match(founder, /## Not founder resources \(1\)[\s\S]*Free Clinic/)
     assert.doesNotMatch(founder, /## n\/a/)
 
-    // Both directions of the cross-link exist, so neither ladder is reachable without the other.
+    // The experimental ladder remains available directly but is not promoted from primary navigation.
     const tierList = fs.readFileSync(path.join(wiki, 'views', 'tier-list.md'), 'utf8')
-    assert.match(tierList, /\[the founder-resource tier list\]\(founder-resource-tier-list\.md\)/)
+    assert.doesNotMatch(tierList, /founder-resource-tier-list\.md/)
     const resources = fs.readFileSync(path.join(wiki, 'views', 'resources.md'), 'utf8')
-    assert.match(resources, /\[the founder-resource tier list\]\(founder-resource-tier-list\.md\)/)
-    assert.match(fs.readFileSync(path.join(wiki, 'views', 'index.md'), 'utf8'), /founder-resource-tier-list\.md/)
+    assert.doesNotMatch(resources, /founder-resource-tier-list\.md/)
+    assert.doesNotMatch(fs.readFileSync(path.join(wiki, 'views', 'index.md'), 'utf8'), /founder-resource-tier-list\.md/)
   } finally {
     fs.rmSync(wiki, { recursive: true, force: true })
   }

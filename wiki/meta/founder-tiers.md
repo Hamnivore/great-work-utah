@@ -1,7 +1,7 @@
 # How the founder-resource list works
 
-This is the ranking behind [the founder-resource list](../views/founder-resource-tier-list.md). It is a
-second ladder, and it exists because the first one is right about something useless.
+This is the rubric behind the standalone founder-resource tier list. It is a second ladder, and it
+exists because the first one is right about something useless.
 
 [The impact ladder](tiers.md) asks how far a thing could move the world, and it is correct to crush
 the resource shelf. Ruling 5 says so out loud: an enabler is ranked on the difference it made, which
@@ -132,8 +132,7 @@ lab, a university, a public company's Utah campus) score high on impact and `n/a
 - The two attributes are independent and both required where they apply. A page can be D and B.
 - `## What It Provides` (resources) and `## Who They Help` (helpers) are where ruling 1 gets tested, so a
   letter of B or above needs one of them to be non-empty. Lint enforces it.
-- The list is [`/views/founder-resource-tier-list.md`](../views/founder-resource-tier-list.md), generated
-  from the attribute like every other view. Never hand-edit it.
+- The standalone list is generated from the attribute like every other view. Never hand-edit it.
 
 ## Where the letters came from
 

@@ -4,6 +4,69 @@ import { defineConfig, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
+type DevApiResponse = {
+  setHeader(name: string, value: string): void
+  status(code: number): DevApiResponse
+  json(data: unknown): void
+  end(): void
+}
+
+function readBody(req: NodeJS.ReadableStream) {
+  return new Promise<string>((resolve, reject) => {
+    const chunks: Buffer[] = []
+    req.on('data', (chunk) => chunks.push(Buffer.from(chunk)))
+    req.on('end', () => resolve(Buffer.concat(chunks).toString('utf8')))
+    req.on('error', reject)
+  })
+}
+
+// Vercel discovers api/*.ts as functions in production. Vite otherwise treats
+// those same URLs as source modules, so response.json() sees "import ..." in dev.
+function serveApi(): Plugin {
+  return {
+    name: 'serve-api',
+    configureServer(server) {
+      server.middlewares.use(async (req, res, next) => {
+        const requestUrl = new URL(req.url || '/', 'http://localhost')
+        const modulePath = requestUrl.pathname === '/api/locations'
+          ? '/api/locations.ts'
+          : requestUrl.pathname === '/api/geocode'
+            ? '/api/geocode.ts'
+            : null
+        if (!modulePath) return next()
+
+        const query: Record<string, string | string[]> = {}
+        for (const key of new Set(requestUrl.searchParams.keys())) {
+          const values = requestUrl.searchParams.getAll(key)
+          query[key] = values.length === 1 ? values[0] : values
+        }
+        const response: DevApiResponse = {
+          setHeader: (name, value) => res.setHeader(name, value),
+          status(code) {
+            res.statusCode = code
+            return response
+          },
+          json(data) {
+            res.setHeader('Content-Type', 'application/json; charset=utf-8')
+            res.end(JSON.stringify(data))
+          },
+          end: () => res.end(),
+        }
+
+        try {
+          const body = ['POST', 'PUT', 'PATCH'].includes(req.method || '') ? await readBody(req) : undefined
+          const mod = await server.ssrLoadModule(modulePath)
+          await mod.default({ method: req.method, headers: req.headers, query, body }, response)
+        } catch (error) {
+          if (res.headersSent) return res.end()
+          res.statusCode = 500
+          response.json({ ok: false, error: { message: error instanceof Error ? error.message : String(error) } })
+        }
+      })
+    },
+  }
+}
+
 // vercel.json 308s only run on Vercel. Replay the exact (no `:param`) ones in
 // dev so a renamed page does not 404 when you still have the old URL open.
 function serveRedirects(): Plugin {
@@ -99,5 +162,5 @@ function servePrerendered(): Plugin {
 }
 
 export default defineConfig({
-  plugins: [react(), tailwindcss(), serveRedirects(), serveWiki(), servePrerendered()],
+  plugins: [react(), tailwindcss(), serveApi(), serveRedirects(), serveWiki(), servePrerendered()],
 })

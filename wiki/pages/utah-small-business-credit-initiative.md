@@ -4,7 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
-**Founder-tier:** B
+**Founder-tier:** C
 **Activity-signal:** 2025-12-31 · https://business.utah.gov/usbci/usbci-releases-q4-2025-results-highlighting-program-performance/
 **Activity-checked:** 2026-08-14
 **Activity:** active

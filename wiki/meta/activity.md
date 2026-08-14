@@ -1,6 +1,6 @@
 # Is this still happening?
 
-This is the rule behind `**Activity:**`, and behind [the active list](../views/tier-list-active.md).
+This is the rule behind `**Activity:**`, and behind the `(active)` marks on [the tier list](../views/tier-list.md).
 
 [The tier list](tiers.md) answers "how far could this move the world" and deliberately says nothing
 about *when*. That is correct, and it leaves a reader stranded. Twelve of the thirteen S-tier pages
@@ -139,10 +139,11 @@ Each of these was settled against a real page in this corpus.
 - Three keys, all registered in [attributes.md](attributes.md): `**Activity:**`,
   `**Activity-checked:**` (the date someone looked), `**Activity-signal:**` (the artifact, required
   whenever the value is `active`).
-- [The active list](../views/tier-list-active.md) is the tier list filtered to `active`. It is the
-  view for "what could I join, fund, or use this year", and it is the reason this facet exists.
-- The full [tier list](../views/tier-list.md) marks everything that isn't `active` inline, so an agent
-  that fetched only that one file can still filter without a second request.
+- [The tier list](../views/tier-list.md) and the type indexes mark `active` pages with `(active)`
+  next to the name. That is the whole presentation: one token, every view, and a reader looking for
+  something to join scans for the mark. Dormant, concluded, and unknown stay unmarked so the token
+  only appears where a plan can change. The HTML twin of the tier list fades unmarked rows; that is
+  visual, not a second ranking — agents should read the markdown and filter on the mark.
 - Values are applied centrally by `scripts/apply-activity.mjs` from the rater TSVs in
   `research/activity/results/`, never by hand and never by concurrent agents — same rule, and the same
   reason, as the two tier ladders.

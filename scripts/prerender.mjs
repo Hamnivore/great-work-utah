@@ -132,7 +132,7 @@ function splitMetadata(raw) {
 
 function renderMarkdown(md, kind, name) {
   const instance = marked.setOptions({ gfm: true, breaks: false })
-  return instance.parse(dropRedundantTwins(md), {
+  const html = instance.parse(dropRedundantTwins(md), {
     walkTokens(token) {
       if (token.type === 'link' || token.type === 'image') {
         token.href = mapHref(token.href, kind, name)
@@ -140,6 +140,18 @@ function renderMarkdown(md, kind, name) {
     },
     async: false,
   })
+  return kind === 'views' && name === 'tier-list' ? fadeQuietTierEntries(html) : html
+}
+
+/** Human-page only. Markdown still says `(active)` in plain text; the HTML twin
+ *  classes each row so CSS can recede the ones that are not still happening.
+ *  Agents never see this. */
+function fadeQuietTierEntries(html) {
+  const classified = html.replace(/<li>([\s\S]*?)<\/li>/g, (_, inner) => {
+    const quiet = !inner.includes('(active)')
+    return `<li class="${quiet ? 'is-quiet' : 'is-active'}">${inner}</li>`
+  })
+  return classified.replaceAll('(active)', '<span class="active-mark">(active)</span>')
 }
 
 const inline = (md, kind, name) =>
@@ -339,7 +351,8 @@ ${metaRows
     ? bodyNoTitle.replace(/\n?## Maintainer Notes\s+[\s\S]*$/, '').trim()
     : bodyNoTitle
 
-  const bodyHtml = `        <article>
+  const articleClass = kind === 'views' && name === 'tier-list' ? ' class="tier-list"' : ''
+  const bodyHtml = `        <article${articleClass}>
 ${pull ? `        <p class="pull">${inline(pull, kind, name)}</p>\n` : ''}        <h1>${esc(title)}</h1>
 ${badges.length ? `        <p class="trust">${badges.join('\n          ')}</p>\n` : ''}${metaHtml}
         <div class="doc">

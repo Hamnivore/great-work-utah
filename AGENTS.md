@@ -19,7 +19,8 @@ A small React app (`src/`) now covers only the three routes that need to run cod
   contributors edit.**
 - `wiki/meta/` — the schema: `conventions.md` (principles + precedents for placement),
   `attributes.md` (metadata registry), `charter.md` (what "great work" means; used to
-  prioritize, never to gatekeep), `tiers.md` (the impact ladder — read before assigning a `**Tier:**`).
+  prioritize, never to gatekeep), `tiers.md` (the impact ladder — read before assigning a `**Tier:**`),
+  `activity.md` (whether the subject is still happening — read before assigning `**Activity:**`).
 - `wiki/views/` — **generated, never hand-edited**: master index, type indexes, the needs
   board, sector hubs, by-region.
 
@@ -43,6 +44,7 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
    `**Needs-reviewed:**` — see `wiki/meta/attributes.md`), then the sections required for the
    page's Type. Links are same-directory relative: `[Fervo Energy](fervo-energy.md)`. Links to
    pages that *should* exist are allowed — lint feeds them to the wanted queue.
+   Fact pages also carry `**Tier:**` and `**Activity:**` (applied centrally, not guessed).
    An optional `## Maintainer Notes` may appear only as the final level-two section. Put
    editorial state, migration/internal-provenance notes, presentation tasks, and wiki cleanup
    instructions there. Keep reader-relevant uncertainty in `## Open Questions`, source
@@ -68,6 +70,12 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
    Same bulk workflow, different script: `node scripts/apply-founder-tiers.mjs`, reading
    `research/founder-tier-list/results/`. That directory also records the duplicate-page sets the ranking
    pass surfaced.
+9. Every fact page also carries `**Activity:**` — whether the *subject* is still being done (`active` /
+   `dormant` / `concluded` / `unknown`), independent of Tier and of Status. Rubric in `wiki/meta/activity.md`.
+   Views print live ones as `(active)` next to the name; unmarked means not currently happening, or not
+   yet checked. `active` needs a dated public artifact in `**Activity-signal:**`. Do not invent a value
+   when touching a page: missing is the honest unchecked state. Corpus-scale assignment is the same
+   bulk workflow as the ladders: `research/activity/results/` TSVs, then `node scripts/apply-activity.mjs`.
 
 ## Working on the site
 

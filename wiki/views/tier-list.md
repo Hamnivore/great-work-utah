@@ -2,7 +2,7 @@
 
 Utah work ranked by how far it could move the world. 37 pages in S and A. [How this is ranked](../meta/tiers.md) · `https://greatutah.work/meta/tiers.md`.
 
-**422 of these 485 pages are still being done today**, marked (active) next to the name. Everything else shows the year of its last public record, or nothing if we could not date it. [What (active) means](../meta/activity.md) · `https://greatutah.work/meta/activity.md`.
+Greyed-out entries are not active. [What (active) means](../meta/activity.md) · `https://greatutah.work/meta/activity.md`.
 
 ## S — world-historic (13)
 
@@ -58,7 +58,7 @@ Utah work ranked by how far it could move the world. 37 pages in S and A. [How t
 - **[Intermountain Clinical Quality Improvement](/pages/intermountain-clinical-quality-improvement.md)** (active) · `https://greatutah.work/pages/intermountain-clinical-quality-improvement.md`
   Beginning in the late 1980s, Intermountain Healthcare applied industrial quality methods to clinical care. It showed health systems worldwide that measuring variation and managing care processes with physicians could improve delivery—a field-defining model, not merely a Utah efficiency project.
 - **[NSA Utah Data Center](/pages/nsa-utah-data-center.md)** (active) · `https://greatutah.work/pages/nsa-utah-data-center.md`
-  The NSA Utah Data Center at Camp Williams stores and processes classified intelligence-community data at exceptional scale. Snowden's disclosures made it the country's clearest physical symbol of mass surveillance: unquestionably consequential, with the sign of that consequence fiercely contested.
+  The NSA Utah Data Center at Camp Williams stores and processes classified intelligence-community data at exceptional scale. Snowden's disclosures made it the country's clearest physical symbol of mass surveillance: unquestionably consequential, and whether that work is a public good is fiercely contested.
 - **[Nusano](/pages/nusano.md)** (active) · `https://greatutah.work/pages/nusano.md`
   Nusano is building a particle-accelerator system to produce medical and industrial radioisotopes ([official source](/pages/nusano-official-website.md)). If it makes scarce isotopes reliably at scale, radiopharmaceutical development stops being constrained by fragile reactor supply—a credible global-frontier bet.
 - **[Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md)** (1991) · `https://greatutah.work/pages/pons-fleischmann-cold-fusion.md` \*

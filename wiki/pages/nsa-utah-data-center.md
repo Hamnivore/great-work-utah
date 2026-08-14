@@ -24,7 +24,7 @@
 ## Summary
 
 
-The NSA Utah Data Center at Camp Williams stores and processes classified intelligence-community data at exceptional scale. Snowden's disclosures made it the country's clearest physical symbol of mass surveillance: unquestionably consequential, with the sign of that consequence fiercely contested.
+The NSA Utah Data Center at Camp Williams stores and processes classified intelligence-community data at exceptional scale. Snowden's disclosures made it the country's clearest physical symbol of mass surveillance: unquestionably consequential, and whether that work is a public good is fiercely contested.
 
 ## What It Is
 

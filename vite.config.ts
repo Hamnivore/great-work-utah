@@ -32,7 +32,9 @@ function serveApi(): Plugin {
           ? '/api/locations.ts'
           : requestUrl.pathname === '/api/geocode'
             ? '/api/geocode.ts'
-            : null
+            : requestUrl.pathname === '/api/search'
+              ? '/api/search.ts'
+              : null
         if (!modulePath) return next()
 
         const query: Record<string, string | string[]> = {}

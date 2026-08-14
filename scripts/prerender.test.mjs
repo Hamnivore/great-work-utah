@@ -21,6 +21,15 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
   assert.match(venture, /"@type":"BreadcrumbList"/)
   assert.match(venture, /"item":"https:\/\/greatutah\.work\/v\/ventures"/)
   assert.doesNotMatch(venture, /name="robots"/)
+  assert.equal([...venture.matchAll(/class="site-footer"/g)].length, 1)
+  assert.doesNotMatch(venture, /class="provenance"/)
+  assert.match(
+    venture,
+    /<footer class="site-footer">\s*<p><a href="\/about">How this is made<\/a><\/p>\s*<p>Agents: <a href="\/pages\/fervo-energy\.md">https:\/\/greatutah\.work\/pages\/fervo-energy\.md<\/a> · <a href="\/llms\.txt">https:\/\/greatutah\.work\/llms\.txt<\/a><\/p>/,
+  )
+  assert.doesNotMatch(venture, /Methodology and corrections/)
+  assert.doesNotMatch(venture, /written and maintained mostly by AI/)
+  assert.doesNotMatch(venture, /Written by an AI agent/)
 
   const source = renderDocument('pages', 'fervo-energy-official-website')
   assert.ok(source)
@@ -30,18 +39,44 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
   assert.ok(view)
   assert.match(view, /"@type":"CollectionPage"/)
   assert.doesNotMatch(view, /"@type":"Article"/)
-  assert.match(view, /href="\/v\/by-role">looking for work<\/a>/)
-  assert.doesNotMatch(view, /href="\/v\/needs">looking for work<\/a>/)
-  assert.match(view, /href="\/map">map<\/a>/)
-  assert.match(view, /href="\/v\/guides">founder resources<\/a>/)
-  assert.doesNotMatch(view, /href="\/v\/by-region">by place<\/a>/)
+  assert.match(view, /href="\/search">search<\/a>/)
+  assert.match(view, /href="\/p\/best-pages">best pages<\/a>/)
+  assert.match(view, /href="\/about">about<\/a>/)
+  assert.match(view, /href="\/contribute">contribute<\/a>/)
+  assert.doesNotMatch(view, /<nav aria-label="Main">[\s\S]*?href="\/v\/by-role"/)
+  assert.doesNotMatch(view, /<nav aria-label="Main">[\s\S]*?href="\/map"/)
+  assert.doesNotMatch(view, /<nav aria-label="Main">[\s\S]*?href="\/v\/guides"/)
   assert.doesNotMatch(view, /<nav aria-label="Main">[\s\S]*?href="\/v\/tier-list"/)
+
+  const best = renderDocument('pages', 'best-pages')
+  assert.ok(best)
+  assert.match(best, /"@type":"Article"/)
+  assert.match(best, /href="\/v\/by-role"/)
+  assert.match(best, /href="\/map"/)
+  assert.match(best, /href="\/v\/guides"/)
+  assert.match(best, /href="\/v\/tier-list"/)
 
   const metaDoc = renderDocument('meta', 'about')
   assert.ok(metaDoc)
   assert.match(metaDoc, /"@type":"WebPage"/)
   assert.doesNotMatch(metaDoc, /\{\{[A-Z_]+\}\}/)
   assert.match(metaDoc, /\d+ pages covering ventures/)
+  // Markdown keeps same-directory .md links plus fetcher-safe twins; HTML maps
+  // those onto the short human routes and drops the twins as noise.
+  assert.match(metaDoc, /href="\/charter">Charter<\/a>/)
+  assert.match(metaDoc, /href="\/tiers">The impact ladder<\/a>/)
+  assert.match(metaDoc, /href="\/activity">Activity<\/a>/)
+  assert.match(metaDoc, /href="\/founder-tiers">Founder tiers<\/a>/)
+  assert.match(metaDoc, /href="\/attributes">Attributes<\/a>/)
+  assert.match(metaDoc, /href="\/conventions">Conventions<\/a>/)
+  assert.match(metaDoc, /href="https:\/\/greatutah\.work\/llms\.txt">The agent manual<\/a>/)
+  assert.doesNotMatch(metaDoc, /https:\/\/greatutah\.work\/meta\/charter\.md/)
+  assert.doesNotMatch(metaDoc, /https:\/\/greatutah\.work\/meta\/tiers\.md/)
+  assert.doesNotMatch(metaDoc, /<footer class="site-footer">[\s\S]*href="\/about"/)
+  assert.match(
+    metaDoc,
+    /<footer class="site-footer">\s*<p>Agents: <a href="\/meta\/about\.md">https:\/\/greatutah\.work\/meta\/about\.md<\/a> · <a href="\/llms\.txt">https:\/\/greatutah\.work\/llms\.txt<\/a><\/p>/,
+  )
 
   const tiers = renderDocument('meta', 'tiers')
   assert.ok(tiers)
@@ -65,9 +100,18 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
 
   const search = searchPage()
   assert.match(search, /og:image" content="https:\/\/greatutah\.work\/og\.png"/)
-  assert.match(search, /Search runs in your browser/)
+  assert.match(search, /Type to search/)
   assert.match(search, /href="\/v">browse the master index<\/a>/)
+  assert.match(search, /\/api\/search\?q=/)
+  assert.doesNotMatch(search, /search-index\.json/)
+  assert.doesNotMatch(search, /titles, focus lines, and summaries/)
+  assert.doesNotMatch(search, /<select/)
   assert.doesNotMatch(search, /Loading the index/)
+  assert.doesNotMatch(search, /class="provenance"/)
+  assert.match(
+    search,
+    /<footer class="site-footer">\s*<p><a href="\/about">How this is made<\/a><\/p>\s*<p>Agents: <a href="\/llms\.txt">https:\/\/greatutah\.work\/llms\.txt<\/a><\/p>/,
+  )
 })
 
 test('SPA shells have route-specific metadata and useful no-JS fallbacks', async () => {

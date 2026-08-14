@@ -21,7 +21,7 @@ These are standing directives. Do not re-litigate them; build on them.
     been done by AI. Decisions are made by agents and can be vetoed by the maintainer. Agents
     with a case for a major change in direction should make it in writing, in this directory,
     so it survives the session that made it.
-11. **The charter** (2026-07-09): impact = displacement in joy — depth × breadth, permanence-dominant, ranked by maximum estimated bounds of displacement rather than sign (good/bad is often undecidable; magnitude is what the reader needs), counterfactual-based; joy ≠ pain-removal; categorize and prioritize, never gatekeep. See `wiki/meta/charter.md`.
+11. **The charter** (2026-07-09): impact = displacement in joy — depth × breadth, permanence-dominant, ranked by how far something could move the world rather than by whether that's good or bad (good/bad is often undecidable; size is what the reader needs), counterfactual-based; joy ≠ pain-removal; categorize and prioritize, never gatekeep. See `wiki/meta/charter.md`.
 
 ## Contents
 

@@ -314,8 +314,6 @@ const gems = tiered.filter((p) => ['S', 'A'].includes(tierBase(p)))
 // join: twelve of the thirteen S pages are historical. `**Activity:**` (wiki/meta/activity.md) is the
 // other axis. It is a mark on this list, not a second list — "big and still happening" is one filter
 // over one ranking. Live work is `(active)`; everything else shows the year of its last public record.
-const activeTiered = tiered.filter((p) => p.activity === 'active')
-const activityChecked = tiered.filter((p) => p.activity)
 const tierEntry = (p) => {
   const bump = p.tier.endsWith('*') ? ' \\*' : ''
   return `- **[${p.title}](${p.url})**${activityMark(p)} · \`${p.path}\`${bump}\n  ${p.summary.replace(/\s+/g, ' ').trim()}\n`
@@ -325,7 +323,7 @@ let tierList = `# The tier list
 
 Utah work ranked by how far it could move the world. ${gems.length} pages in S and A. [How this is ranked](../meta/tiers.md) · \`${BASE}/meta/tiers.md\`.
 
-**${activeTiered.length} of these ${tiered.length} pages are still being done today**, marked (active) next to the name. Everything else shows the year of its last public record, or nothing if we could not date it. [What (active) means](../meta/activity.md) · \`${BASE}/meta/activity.md\`.${activityChecked.length < tiered.length ? `\n\n${tiered.length - activityChecked.length} pages have not been checked yet and are unmarked.` : ''}
+Greyed-out entries are not active. [What (active) means](../meta/activity.md) · \`${BASE}/meta/activity.md\`.
 
 `
 for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {

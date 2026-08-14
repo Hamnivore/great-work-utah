@@ -39,9 +39,7 @@ const TYPE_PLURAL = {
 
 const NAV = [
   ['/search', 'search'],
-  ['/v/by-role', 'looking for work'],
-  ['/map', 'map'],
-  ['/v/guides', 'founder resources'],
+  ['/p/best-pages', 'best pages'],
   ['/about', 'about'],
   ['/contribute', 'contribute'],
 ]
@@ -179,6 +177,22 @@ function layout({
   const canon = canonical || BASE + url
   const nav = NAV.map(([href, label]) => `<a href="${href}">${esc(label)}</a>`).join('\n          ')
   const jsonLdBlocks = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : []
+  // One footer, two audiences. Humans get HTML routes; agents who landed on the
+  // HTML twin get the markdown source and /llms.txt (the two pointers that made
+  // HTML a door — research/findings/2026-07-27-html-arrival-probe.md).
+  const human = url !== '/about' ? `<a href="/about">How this is made</a>` : ''
+  const agent = [
+    rawUrl ? `<a href="${esc(rawUrl)}">${esc(BASE + rawUrl)}</a>` : '',
+    `<a href="/llms.txt">${BASE}/llms.txt</a>`,
+  ]
+    .filter(Boolean)
+    .join(' · ')
+  const footer = [
+    human ? `<p>${human}</p>` : '',
+    `<p>Agents: ${agent}</p>`,
+  ]
+    .filter(Boolean)
+    .join('\n        ')
   return `<!doctype html>
 <html lang="en">
   <head>
@@ -221,12 +235,7 @@ ${jsonLdBlocks.map((block) => `    <script type="application/ld+json">${JSON.str
 ${bodyHtml}
       </main>
       <footer class="site-footer">
-        <p>
-          A wiki of high-impact work in Utah — written and maintained mostly by AI agents,
-          reviewed by a human before anything publishes.
-          <a href="/about">How this is made, and how to correct it</a>.
-        </p>
-        <p>Agents: the manual is <a href="/llms.txt">/llms.txt</a>. Every page is also raw markdown.</p>
+        ${footer}
       </footer>
     </div>
   </body>
@@ -279,22 +288,6 @@ const ACTIVITY_TITLE = {
   unknown: 'Checked, and the public record could not settle it',
 }
 const HIDDEN_META = new Set(['Pull', 'Activity'])
-
-/** Each of the three document kinds has a different claim to authority: a corpus
- *  page is an AI-written draft you should verify, a view is compiled from the
- *  corpus and is always current, a meta doc is the schema itself. */
-const PROVENANCE = {
-  pages: (updated) =>
-    `Written by an AI agent and merged by a human reviewer. Facts can be wrong or stale —
-            check the Evidence section against its primary sources${updated ? `, and note this page was last updated ${updated}` : ''}.`,
-  views: () =>
-    `This index is generated from page metadata on every build and is never hand-edited, so it
-            is always current with the corpus. The pages it lists are AI-written — verify those
-            individually.`,
-  meta: () =>
-    `This is one of the wiki's schema and policy documents, not an entry about the world. It
-            defines how the pages are written, graded, and placed.`,
-}
 
 function renderDoc({ kind, name, raw, rawUrl, url }) {
   const title = (raw.match(/^# (.+)$/m) || [, name])[1].trim()
@@ -362,17 +355,7 @@ ${maintainerNotes ? `        <aside class="maintainer-notes" aria-labelledby="ma
           <h2 id="maintainer-notes-${esc(name)}">Maintainer Notes</h2>
 ${renderMarkdown(maintainerNotes, kind, name)}
         </aside>
-` : ''}        <div class="provenance">
-          <p>
-            Raw markdown for agents and citation:
-            <a href="${esc(rawUrl)}">${esc(BASE + rawUrl)}</a>
-          </p>
-          <p>${PROVENANCE[kind](updated)}
-            <a href="/about">Methodology and corrections</a> ·
-            <a href="/contribute">Report a problem</a>
-          </p>
-        </div>
-        </article>`
+` : ''}        </article>`
 
   // Views are indexes; meta docs are schema/policy; corpus pages are articles.
   // Source pages stay fetchable for citations but are noindex'd — they are thin
@@ -435,73 +418,83 @@ ${renderMarkdown(maintainerNotes, kind, name)}
 function searchPage() {
   const body = `        <article>
         <h1>Search</h1>
-        <p class="trust"><span class="badge">titles, focus lines, and summaries</span></p>
         <form class="search-form" role="search" onsubmit="return false">
           <label class="skip-link" for="q">Search the wiki</label>
           <input type="search" id="q" name="q" placeholder="geothermal, Ogden, biotech, grants…" autocomplete="off" />
-          <select id="type" aria-label="Filter by type">
-            <option value="">every type</option>
-            <option value="venture">ventures</option>
-            <option value="resource">resources</option>
-            <option value="person">people</option>
-            <option value="helper">helpers</option>
-            <option value="work">work</option>
-            <option value="guide">guides</option>
-            <option value="source">sources</option>
-          </select>
         </form>
         <p class="search-status" id="status" role="status">
-          Search runs in your browser. If it does not start, <a href="/v">browse the master index</a>.
+          Type to search. If nothing happens, <a href="/v">browse the master index</a>.
         </p>
         <ul class="search-results" id="results"></ul>
-        <div class="provenance">
-          <p>
-            This searches titles, focus lines, and summaries. For exact phrase matching over the
-            full text of every page, agents should use
-            <a href="/llms.txt">the search endpoint documented in /llms.txt</a>, or browse
-            <a href="/v">the master index</a>.
-          </p>
-        </div>
         </article>`
 
   // Inline, dependency-free, and the only page in the prerendered set that runs
   // any JavaScript. Degrades to the note above with scripts disabled.
+  // Full-text grep via /api/search — the metadata-only index missed the pages a
+  // person actually wants (Rodatherm for "drilling engineers", most of the
+  // corpus for "jobs" / "grants"). Matching line is the blurb.
   const script = `
-      var idx = [], statusEl = document.getElementById('status'),
+      var statusEl = document.getElementById('status'),
           resultsEl = document.getElementById('results'),
-          qEl = document.getElementById('q'), typeEl = document.getElementById('type');
+          qEl = document.getElementById('q'),
+          timer = null, seq = 0;
       function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
         return { '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c]; }); }
-      function render(){
-        var q = qEl.value.trim().toLowerCase(), t = typeEl.value;
-        var terms = q ? q.split(/\\s+/) : [];
-        var hits = idx.filter(function(p){
-          if (t && p.type !== t) return false;
-          if (!terms.length) return false;
-          var hay = (p.title + ' ' + (p.focus||'') + ' ' + (p.summary||'') + ' ' +
-                     (p.region||'') + ' ' + (p.domain||'') + ' ' + p.slug).toLowerCase();
-          return terms.every(function(term){ return hay.indexOf(term) !== -1; });
+      function slugOf(url){
+        var m = String(url).match(/\\/pages\\/([a-z0-9-]+)\\.md/);
+        return m ? m[1] : '';
+      }
+      function idle(){
+        statusEl.innerHTML = 'Type to search. If nothing happens, <a href="/v">browse the master index</a>.';
+        resultsEl.innerHTML = '';
+      }
+      function renderList(q, data){
+        var blurbs = {};
+        (data.results || []).forEach(function(r){
+          var text = r.text || '';
+          if (text.replace(/^#+ /, '') === r.title) return;
+          if (!blurbs[r.url]) blurbs[r.url] = text;
         });
-        if (!terms.length) { statusEl.textContent = idx.length + ' pages indexed. Type to search.';
-          resultsEl.innerHTML = ''; return; }
-        statusEl.textContent = hits.length + (hits.length === 1 ? ' page' : ' pages') + ' matching "' + q + '"';
-        resultsEl.innerHTML = hits.slice(0, 80).map(function(p){
-          return '<li><a href="/p/' + esc(p.slug) + '">' + esc(p.title) + '</a>' +
-            '<span class="meta">' + esc([p.type, p.region, p.domain].filter(Boolean).join(' · ')) + '</span>' +
-            '<p class="blurb">' + esc(p.focus || p.summary || '') + '</p></li>';
+        var pages = (data.pages || []).slice(0, 80);
+        var n = (data.coverage && data.coverage.pagesMatched) || pages.length;
+        statusEl.textContent = n + (n === 1 ? ' page' : ' pages') + ' matching "' + q + '"'
+          + (n > pages.length ? ' (first ' + pages.length + ')' : '');
+        resultsEl.innerHTML = pages.map(function(p){
+          var slug = slugOf(p.url);
+          var blurb = blurbs[p.url] || '';
+          return '<li><a href="/p/' + esc(slug) + '">' + esc(p.title) + '</a>' +
+            '<span class="meta">' + esc(p.type || '') + '</span>' +
+            (blurb ? '<p class="blurb">' + esc(blurb) + '</p>' : '') + '</li>';
         }).join('');
       }
-      fetch('/search-index.json').then(function(r){ return r.json(); }).then(function(data){
-        idx = Array.isArray(data) ? data : (data.pages || []);
-        var params = new URLSearchParams(location.search);
-        if (params.get('q')) qEl.value = params.get('q');
-        if (params.get('type')) typeEl.value = params.get('type');
-        render();
-      }).catch(function(){
-        statusEl.textContent = 'Could not load the search index. Browse the master index instead.';
+      function search(){
+        var q = qEl.value.trim();
+        var next = new URL(location.href);
+        if (q) next.searchParams.set('q', q); else next.searchParams.delete('q');
+        history.replaceState(null, '', next);
+        if (q.length < 2) { idle(); return; }
+        var id = ++seq;
+        fetch('/api/search?q=' + encodeURIComponent(q) + '&limit=80&hits_per_page=3')
+          .then(function(r){ return r.json().then(function(data){ return { ok: r.ok, data: data }; }); })
+          .then(function(res){
+            if (id !== seq) return;
+            if (!res.ok || !res.data || !res.data.ok) throw new Error('search failed');
+            renderList(q, res.data);
+          })
+          .catch(function(){
+            if (id !== seq) return;
+            statusEl.innerHTML = 'Could not search. <a href="/v">Browse the master index</a> instead.';
+            resultsEl.innerHTML = '';
+          });
+      }
+      qEl.addEventListener('input', function(){
+        clearTimeout(timer);
+        timer = setTimeout(search, 160);
       });
-      qEl.addEventListener('input', render);
-      typeEl.addEventListener('change', render);
+      if (new URLSearchParams(location.search).get('q')) {
+        qEl.value = new URLSearchParams(location.search).get('q');
+        search();
+      }
 `
   const html = layout({
     url: '/search',

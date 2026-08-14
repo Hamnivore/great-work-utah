@@ -109,7 +109,7 @@ essayistic:
    sustained survivor testimony and national reporting, and **SB 127 (2021)** imposed new oversight —
    an enrolled statute is primary tier, and state licensing records are public. High magnitude,
    deeply contested, which is precisely the case the charter says to include and rank by bound rather
-   than by sign. Handle it honestly in both directions.
+   than by whether the impact is good or bad. Handle it honestly in both directions.
 2. ~~**Utah as the direct-selling capital.**~~ **Done, third pass.** The 10-K route worked, with one
    correction worth carrying forward: the two SEC registrants are *not* the cluster's largest Utah
    employers, so filings alone understate it. Industry-commissioned economics (the Gardner study) had to

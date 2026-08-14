@@ -101,5 +101,6 @@ of its importance.
    bottom of the ladder — not a large claim politely discounted.
 4. **Demoting an unfinished bet to its current revenue.** Tier is the ceiling. That is the entire
    point of rule 2.
-5. **Flinching at sign.** Weapons, surveillance, extraction, and waste disposal rank on magnitude.
-   The direction goes in the page's prose, never into the tier.
+5. **Flinching because the work is ugly.** Weapons, surveillance, extraction, and waste disposal rank
+   on how far they could move the world. Whether that's a blessing or a disaster goes in the page's
+   prose, never into the letter.

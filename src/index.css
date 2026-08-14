@@ -116,13 +116,6 @@ textarea {
   outline: 3px solid color-mix(in srgb, var(--color-orange) 55%, transparent);
   outline-offset: 2px;
 }
-.copy-status {
-  min-height: 1.25rem;
-  margin-top: 0.65rem;
-  color: var(--color-ink-soft);
-  font-family: var(--font-sans);
-  font-size: 0.72rem;
-}
 /* The one door out of the handoff page, for the human who came to read rather than to delegate. */
 .home-aside {
   margin-top: 1.6rem;

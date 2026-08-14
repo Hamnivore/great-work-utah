@@ -1,7 +1,9 @@
-# guide — 11 pages
+# guide — 12 pages
 
 Opinionated maps, playbooks, and durable Q&A. One line per page; fetch the page for detail and evidence.
 
+- [Best pages](/pages/best-pages.md) · `https://greatutah.work/pages/best-pages.md` · tier list, looking for work, map, founder resources · conf:?
+  for: anyone arriving as a human
 - [Commercialize Research in Utah](/pages/commercialize-research.md) · `https://greatutah.work/pages/commercialize-research.md` · research translation, SBIR/STTR, university spinouts, Nucleus programs · conf:M
   for: researchers, university spinouts, technical founders, commercialization helpers
 - [Find A Cofounder In Utah](/pages/find-a-cofounder.md) · `https://greatutah.work/pages/find-a-cofounder.md` · cofounder search, founding teams, talent matching, equity, university and ecosystem networks · conf:M

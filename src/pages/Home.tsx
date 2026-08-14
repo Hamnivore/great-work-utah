@@ -49,13 +49,10 @@ export function HomePage() {
           spellCheck
         />
 
-        <button type="button" className="copy-prompt" onClick={() => void copyPrompt()}>
+        <button type="button" className="copy-prompt" onClick={() => void copyPrompt()} aria-live="polite">
           {copied ? <Check size={18} /> : <Copy size={18} />}
           {copied ? 'Copied' : 'Copy prompt'}
         </button>
-        <p className="copy-status" aria-live="polite">
-          {copied ? 'Prompt copied — paste it into your assistant.' : '\u00a0'}
-        </p>
         <p className="compatibility-note">
           Works with paid versions of ChatGPT and Claude, and with any AI coding environment.
         </p>

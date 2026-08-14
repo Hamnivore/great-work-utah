@@ -1,6 +1,6 @@
 # greatutah.work — master index
 
-This is the router for 897 pages about high-impact work in Utah. Pick the path that matches the question; use the complete type indexes when no narrower path fits. **Index first; search to refine.**
+This is the router for 898 pages about high-impact work in Utah. Pick the path that matches the question; use the complete type indexes when no narrower path fits. **Index first; search to refine.**
 
 ## Start by goal
 
@@ -17,7 +17,7 @@ This is the router for 897 pages about high-impact work in Utah. Pick the path t
 
 ## Sectors
 
-Sector hubs separate primary players, historical proof, people, programs, current needs, and pages where the sector is secondary. Domain attribution currently covers 251/897 pages (28%); an absent result may mean the rollout is incomplete, not that Utah has no work in that field.
+Sector hubs separate primary players, historical proof, people, programs, current needs, and pages where the sector is secondary. Domain attribution currently covers 251/898 pages (28%); an absent result may mean the rollout is incomplete, not that Utah has no work in that field.
 
 - [Energy](domain-energy.md) · `https://greatutah.work/views/domain-energy.md` — 33 attributed pages
 - [Health and biology](domain-health-bio.md) · `https://greatutah.work/views/domain-health-bio.md` — 57 attributed pages
@@ -32,7 +32,7 @@ Sector hubs separate primary players, historical proof, people, programs, curren
 
 - [By impact tier](tier-list.md) · `https://greatutah.work/views/tier-list.md` — 485 fact pages ranked S through F on one ladder; 37 gems in S and A
 - [By kind of work](by-role.md) · `https://greatutah.work/views/by-role.md` — 15 populated role families derived only from pages with stated-needs assessments; use search and sector hubs for other plausible employers
-- [By Utah location](by-region.md) · `https://greatutah.work/views/by-region.md` — 485/897 pages carry Region metadata (54% coverage)
+- [By Utah location](by-region.md) · `https://greatutah.work/views/by-region.md` — 485/898 pages carry Region metadata (54% coverage)
 - [By venture stage](by-stage.md) · `https://greatutah.work/views/by-stage.md` — 147 pages; metadata assertions, not yet sourced
 - [By historical era](by-era.md) · `https://greatutah.work/views/by-era.md` — 37 pages; metadata assertions, not yet sourced
 
@@ -45,7 +45,7 @@ These lists provide exhaustive access by page type. Each line in a type view inc
 - [people](people.md) · `https://greatutah.work/views/people.md` — 13 founders, researchers, operators
 - [helpers](helpers.md) · `https://greatutah.work/views/helpers.md` — 13 advisors, funds, service providers
 - [work](work.md) · `https://greatutah.work/views/work.md` — 37 historical proofs of what Utah has built
-- [guides](guides.md) · `https://greatutah.work/views/guides.md` — 11 opinionated maps and playbooks
+- [guides](guides.md) · `https://greatutah.work/views/guides.md` — 12 opinionated maps and playbooks
 - [sources](sources.md) · `https://greatutah.work/views/sources.md` — 401 public evidence records
 
 ## Trust, standards, and contribution

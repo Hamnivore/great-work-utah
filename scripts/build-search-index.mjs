@@ -2,10 +2,10 @@
 // compiled, never hand-edited (conventions P4). Run after any page change:
 // node scripts/build-search-index.mjs
 //
-//   public/search-index.json — small browse/filter index for the human UI. Metadata
-//     only (slug, title, type, focus, one-line summary, domains, region, confidence);
-//     no page bodies, so it stays a fetch a browser can afford.
-//   api/_search-corpus.mjs — full page text for GET /api/search. Vercel functions
+//   public/search-index.json — compact metadata listing (slug, title, type, focus,
+//     summary, domains, region, confidence). No page bodies.
+//   api/_search-corpus.mjs — full page text for GET /api/search (the human /search
+//     page and visiting agents both grep this). Vercel functions
 //     cannot read wiki/ off disk at request time, so the corpus ships as a bundled
 //     module — the same pattern api/locations.ts uses via api/_locations-data.mjs.
 //

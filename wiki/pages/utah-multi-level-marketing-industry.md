@@ -22,8 +22,7 @@
 Utah is a global center of multi-level marketing, with a durable manufacturing and supplier cluster and participation touching roughly one in ten Utah adults. Its A-tier magnitude includes both exports and harm: company disclosures show most participants earn little or nothing while the model reproduces across firms and generations.
 ## Impact
 
-**Breadth is enormous and the sign is genuinely contested** — the case for ranking this cluster by the
-magnitude of its bounds rather than by whether it comes out good or bad. On one side sits a real
+**Breadth is enormous, and so is the disagreement about whether the net effect is good.** On one side sits a real
 industrial base: payroll
 employment at a documented wage premium, in-house manufacturing at
 [USANA](usana-10k-fy2025.md) and at [Nu Skin's Rhyz plants in Provo, Draper and West Valley City](nu-skin-10k-fy2025.md),

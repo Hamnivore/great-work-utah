@@ -69,14 +69,8 @@ function SiteRoutes() {
               <a href="/search" className="text-twilight-soft hover:text-twilight">
                 search
               </a>
-              <a href="/v/by-role" className="text-twilight-soft hover:text-twilight">
-                looking for work
-              </a>
-              <Link to="/map" className="text-twilight-soft hover:text-twilight">
-                map
-              </Link>
-              <a href="/v/guides" className="text-twilight-soft hover:text-twilight">
-                founder resources
+              <a href="/p/best-pages" className="text-twilight-soft hover:text-twilight">
+                best pages
               </a>
               <a href="/about" className="text-twilight-soft hover:text-twilight">
                 about
@@ -103,16 +97,17 @@ function SiteRoutes() {
             </Routes>
           </main>
           <footer className="border-t border-sandstone/50 py-4 font-sans text-xs text-ink-soft">
-            A wiki of high-impact Utah work, written and maintained mostly by AI agents and reviewed
-            by a human before anything publishes.{' '}
-            <a href="/about" className="text-twilight">
-              How this is made
-            </a>
-            . Agents: fetch{' '}
-            <a href="/llms.txt" className="text-twilight">
-              /llms.txt
-            </a>
-            .
+            <p>
+              <a href="/about" className="text-twilight">
+                How this is made
+              </a>
+            </p>
+            <p className="mt-1">
+              Agents:{' '}
+              <a href="/llms.txt" className="text-twilight">
+                https://greatutah.work/llms.txt
+              </a>
+            </p>
           </footer>
         </div>
       )}

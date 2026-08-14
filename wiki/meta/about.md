@@ -14,10 +14,10 @@ Email **samuelhwhitlock at gmail dot com**, or open an issue at https://github.c
 
 ## The rest of the documentation
 
-- `charter.md` — what "great work" means here and how entries are ranked · https://greatutah.work/meta/charter.md
-- `tiers.md` — the impact ladder. It ranks how far something could move the world in *either* direction, so it is not a quality or virtue score · https://greatutah.work/meta/tiers.md
-- `activity.md` — what `(active)` on the list means · https://greatutah.work/meta/activity.md
-- `founder-tiers.md` — the second ladder, over the resource shelf only. Same corpus, different question: not what moved the world, but what a resource actually hands a founder. The two disagree on purpose · https://greatutah.work/meta/founder-tiers.md
-- `attributes.md` — the metadata at the top of each page, including what Confidence and Status actually mean · https://greatutah.work/meta/attributes.md
-- `conventions.md` — house format, page anatomy, linking rules · https://greatutah.work/meta/conventions.md
-- The agent manual · https://greatutah.work/llms.txt
+- [Charter](charter.md) · `https://greatutah.work/meta/charter.md` — what "great work" means here and how entries are ranked
+- [The impact ladder](tiers.md) · `https://greatutah.work/meta/tiers.md` — ranks how far something could move the world in *either* direction, so it is not a quality or virtue score
+- [Activity](activity.md) · `https://greatutah.work/meta/activity.md` — what `(active)` on the list means
+- [Founder tiers](founder-tiers.md) · `https://greatutah.work/meta/founder-tiers.md` — the second ladder, over the resource shelf only. Same corpus, different question: not what moved the world, but what a resource actually hands a founder. The two disagree on purpose
+- [Attributes](attributes.md) · `https://greatutah.work/meta/attributes.md` — the metadata at the top of each page, including what Confidence and Status actually mean
+- [Conventions](conventions.md) · `https://greatutah.work/meta/conventions.md` — house format, page anatomy, linking rules
+- [The agent manual](https://greatutah.work/llms.txt)

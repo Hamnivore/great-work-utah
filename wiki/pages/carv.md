@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C*
+**Builder-tier:** B
 **Activity-signal:** 2026-08-13 · https://ats.rippling.com/carv-careers/jobs
 **Activity-checked:** 2026-08-14
 **Activity:** active

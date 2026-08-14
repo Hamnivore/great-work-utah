@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-08 · https://utahtechcalendar.com/
 **Activity-checked:** 2026-08-14

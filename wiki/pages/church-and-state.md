@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2025-09-18 · https://dishingpc.com/church-and-state-marketplace/
 **Activity-checked:** 2026-08-14

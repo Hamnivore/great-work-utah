@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2025 · https://www.saltlakesideways.com/home/kgj9h6dhj66bj8w
 **Activity-checked:** 2026-08-14

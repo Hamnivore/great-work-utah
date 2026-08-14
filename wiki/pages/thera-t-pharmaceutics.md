@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2026-07-13 · https://www.nature.com/articles/s42003-026-10602-4
 **Activity-checked:** 2026-08-14
 **Activity:** active

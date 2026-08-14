@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-05-07 · https://www.pluralsight.com/newsroom/press-releases/pluralsight-launches-cloud-ready-to-help-enterprises-build-ai-re
 **Activity-checked:** 2026-08-14
 **Activity:** active

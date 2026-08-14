@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-05-04 · https://satim.co/news/satim-and-imsar-partner-to-bring-automated-object-detection-and-classification-to-uav-based-sar
 **Activity-checked:** 2026-08-14
 **Activity:** active

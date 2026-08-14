@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-05-11 · https://www.deseret.com/sports/2026/05/11/ryan-ashley-smith-on-live-sports-in-utah/
 **Activity-checked:** 2026-08-14
 **Activity:** active

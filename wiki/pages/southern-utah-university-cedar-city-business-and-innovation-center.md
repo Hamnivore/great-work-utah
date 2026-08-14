@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2023-10 · https://www.suu.edu/news/2023/10/local-entrepreneurs-start-with-suu-startup-resources.html
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2025-11-07 · https://www.gohebervalley.com/bom-nov-2025/
 **Activity-checked:** 2026-08-14

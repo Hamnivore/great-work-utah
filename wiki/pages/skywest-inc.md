@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-02-17 · https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/skyw-20251231x10k.htm
 **Activity-checked:** 2026-08-14
 **Activity:** active

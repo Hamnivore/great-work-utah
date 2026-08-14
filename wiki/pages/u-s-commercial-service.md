@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026-05-04 · https://www.ncmbc.us/event/us-commercial-service-export-week/
 **Activity-checked:** 2026-08-14

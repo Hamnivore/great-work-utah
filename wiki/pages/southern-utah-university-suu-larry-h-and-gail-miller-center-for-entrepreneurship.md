@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-09-15 · https://events.suu.edu/event/speaker-series-with-brian-murphy
 **Activity-checked:** 2026-08-14

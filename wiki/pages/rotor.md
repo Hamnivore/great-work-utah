@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** C
 **Activity-signal:** 2026-07-25 · https://feedback.getrotor.com/changelog
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Builder-tier:** S
 **Activity-signal:** 2007 · https://www.nobelprize.org/prizes/medicine/2007/press-release/
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

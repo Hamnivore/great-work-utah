@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** n/a
 **Activity-signal:** 2026-04-27 · https://utahhospitals.org/2026/04/27/primary-childrens-hospital-in-lehi-is-expanding-heres-whats-coming-next/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-10-08 · https://business.utah.gov/event/save-the-date-apex-accelerator-2026-vendor-fair-matchmaking-event/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-08-05 · https://www.1millioncups.com/s/account/0014W00002AsUBRQA3/salt-lake-city-ut
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2025-09-03 · https://apnews.com/press-release/newmediawire/run-ventures-launches-290m-fund-to-back-the-next-generation-of-tech-trailblazers-fc415f68aa8a30ba22a62d2f00b6d8b5
 **Activity-checked:** 2026-08-14

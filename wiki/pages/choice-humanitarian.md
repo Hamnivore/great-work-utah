@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Founder-tier:** n/a
 **Activity-signal:** 2026-07-28 · https://blog.choicehumanitarian.org/memo-from-the-board-of-directors-organizational-wind-down
 **Activity-checked:** 2026-08-14

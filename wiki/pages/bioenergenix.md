@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** unranked
 **Activity-signal:** 2014-07-03 · https://healthcare.utah.edu/press-releases/2014/07/partnership-spinoff-company-may-soon-lead-clinical-trials-of-metabolic
 **Activity-checked:** 2026-08-14
 **Activity:** dormant

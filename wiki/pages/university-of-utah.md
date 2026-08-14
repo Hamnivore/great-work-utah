@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-08-13 · https://www.utah.edu/
 **Activity-checked:** 2026-08-14

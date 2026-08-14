@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2025-05-01 · https://doi.org/10.1038/s41551-024-01314-3
 **Activity-checked:** 2026-08-14
 **Activity:** active

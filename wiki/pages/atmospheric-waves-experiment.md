@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-05-21 · https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

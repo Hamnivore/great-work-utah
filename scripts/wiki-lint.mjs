@@ -27,6 +27,12 @@ const TIER_RE = /^(S|A|B|C|D|F|unranked)(\*)?$/;
 const TIER_TYPES = ["venture", "person", "helper", "resource", "work"];
 // A tier this high asserts the page argues its own bounds, so the argument has to exist.
 const TIER_NEEDS_IMPACT = new Set(["S", "A", "B"]);
+// Builder character visible in the work under a maximum-faith reading. Same fact-page scope as
+// impact, no hype bump. The judgment lives in scratch TSVs; the page carries only its closed-vocab
+// result. See wiki/meta/builder-tiers.md.
+const BUILDER_TIER_VOCAB = ["S", "A", "B", "C", "D", "F", "unranked"];
+const BUILDER_TIER_RE = /^(S|A|B|C|D|F|unranked)$/;
+const BUILDER_TIER_TYPES = TIER_TYPES;
 // The founder-resource ladder — a second, independent ranking of the resource shelf by what it hands
 // a founder, rather than by world impact. Rubric and rulings in wiki/meta/founder-tiers.md. No hype
 // bump here (a founder's week is not spent on delightful reading), and one extra value: `n/a` marks a
@@ -159,7 +165,7 @@ const TEMPLATE_SECTIONS = {
 // visiting agent will look to find out what a field means.
 const METADATA_KEYS = new Set([
   // identity and grading
-  "Type", "Status", "Updated", "Confidence", "Tier", "Founder-tier",
+  "Type", "Status", "Updated", "Confidence", "Tier", "Builder-tier", "Founder-tier",
   "Activity", "Activity-checked", "Activity-signal",
   "Focus", "Domain", "Domain-flagged", "Region",
   "Needs-reviewed", "Identifiers", "Era", "Stage", "Roles", "Ownership", "Careers", "Audience",
@@ -596,6 +602,37 @@ async function lintPage(filename) {
           tierHeader.line
         );
       }
+    }
+  }
+
+  // -- Builder-tier (required on fact pages; wiki/meta/builder-tiers.md) --
+  const builderTierHeader = headers.get("Builder-tier");
+  if (BUILDER_TIER_TYPES.includes(type) && (!builderTierHeader || !builderTierHeader.value)) {
+    addFinding(
+      "error",
+      "missing-attribute",
+      filePath,
+      `Missing required **Builder-tier:** attribute (required for ${BUILDER_TIER_TYPES.join(", ")}). Assign one from wiki/meta/builder-tiers.md, or **Builder-tier:** unranked when the work reveals too little about its builders.`
+    );
+  }
+  if (builderTierHeader && builderTierHeader.value) {
+    const raw = builderTierHeader.value.trim();
+    if (!BUILDER_TIER_RE.test(raw)) {
+      addFinding(
+        "error",
+        "invalid-builder-tier",
+        filePath,
+        `**Builder-tier:** "${raw}" is outside the closed vocabulary (${BUILDER_TIER_VOCAB.join(" · ")}). There is no "*" bump. See wiki/meta/builder-tiers.md.`,
+        builderTierHeader.line
+      );
+    } else if (!BUILDER_TIER_TYPES.includes(type)) {
+      addFinding(
+        "warning",
+        "builder-tier-on-wrong-type",
+        filePath,
+        `**Builder-tier:** does not apply to Type: ${type} — source and guide pages do not embody a fact-page subject whose builders this ladder can read.`,
+        builderTierHeader.line
+      );
     }
   }
 

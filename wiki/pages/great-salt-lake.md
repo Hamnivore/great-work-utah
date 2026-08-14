@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** unranked
 **Activity-signal:** 2026-03-30 · https://house.utleg.gov/utahs-effort-to-save-the-great-salt-lake-historic-water-law-major-acquisitions-and-a-federal-partnership/
 **Activity-checked:** 2026-08-14
 **Activity:** active

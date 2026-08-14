@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** B
 **Activity-signal:** 2026-06-15 · https://www.utahbusiness.com/industry/2026/06/15/hill-air-force-base-engineers-aircraft-software-cycles-modern-airpower/
 **Activity-checked:** 2026-08-14
 **Activity:** active

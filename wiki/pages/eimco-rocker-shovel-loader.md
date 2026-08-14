@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 1986-08-19 · https://utahrails.net/industries/eimco.html
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

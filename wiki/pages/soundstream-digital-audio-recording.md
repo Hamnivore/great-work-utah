@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** A
+**Builder-tier:** S
 **Activity-signal:** 1985 · https://en.wikipedia.org/wiki/Soundstream
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

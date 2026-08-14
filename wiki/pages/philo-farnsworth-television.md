@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** S
+**Builder-tier:** S
 **Activity-signal:** 1971-03-11 · https://en.wikipedia.org/wiki/Philo_Farnsworth
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

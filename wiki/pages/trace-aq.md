@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2025-05-29 · https://www.techbuzznews.com/trace-aq-raises-1-25-million-seed/
 **Activity-checked:** 2026-08-14
 **Activity:** active

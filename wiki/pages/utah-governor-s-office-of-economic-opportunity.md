@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2025-10-06 · https://business.utah.gov/event/one-utah-summit-2025/
 **Activity-checked:** 2026-08-14

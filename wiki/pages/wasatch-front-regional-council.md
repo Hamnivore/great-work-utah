@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-08-20 · https://wfrc.org/committees/transportation-coordinating-committee/
 **Activity-checked:** 2026-08-14

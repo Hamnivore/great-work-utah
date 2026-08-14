@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Builder-tier:** B
 **Activity-signal:** 1869-05-10 · https://www.nps.gov/gosp/index.htm
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

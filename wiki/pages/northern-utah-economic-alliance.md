@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-01-26 · https://nuea.org/2026/01/26/behivemeals2025/
 **Activity-checked:** 2026-08-14

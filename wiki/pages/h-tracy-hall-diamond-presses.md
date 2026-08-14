@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** A
+**Builder-tier:** S
 **Activity-signal:** 2008-07-25 · https://physicstoday.aip.org/obituaries/obituary-of-h-tracy-hall
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

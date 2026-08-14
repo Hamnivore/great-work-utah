@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** B
 **Activity-signal:** 2026-05-19 · https://www.prnewswire.com/news-releases/varda-space-industries-successfully-reenters-w-6-validating-autonomous-navigation-and-advanced-thermal-protection-systems-302775804.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-08-13 · https://apps.apple.com/us/app/moises-the-musicians-app/id1515796612
 **Activity-checked:** 2026-08-14
 **Activity:** active

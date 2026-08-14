@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** n/a
 **Activity-signal:** 2026-08-05 · https://fourthstreetclinic.org/blog/
 **Activity-checked:** 2026-08-14

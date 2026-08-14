@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2026-06-18 · https://lesolson.com/blog/les-olson-it-earns-gold-in-managed-it-services-office-technology/
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-05-21 · https://www.techbuzznews.com/ihub-graduates-eight-companies/
 **Activity-checked:** 2026-08-14

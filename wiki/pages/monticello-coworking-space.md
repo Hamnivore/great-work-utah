@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2025-12-01 · https://members.monticellocoworking.com/events
 **Activity-checked:** 2026-08-14

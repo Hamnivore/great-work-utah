@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-07-17 · https://www.pik2ar.org/picc
 **Activity-checked:** 2026-08-14

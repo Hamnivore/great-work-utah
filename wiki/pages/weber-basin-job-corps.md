@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** n/a
 **Activity-signal:** 2024-10-16 · https://www.parkrecord.com/2024/10/16/forest-service-leaders-celebrate-efforts-of-ccc-at-francis-fire-camp/
 **Activity-checked:** 2026-08-14

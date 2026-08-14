@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-06-26 · https://www.midaut.org/news-2/mida-board-meeting-highlights-1
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-03-26 · https://podcasts.apple.com/us/podcast/the-lucid-story-building-a-category-defining/id1541752458?i=1000757463066
 **Activity-checked:** 2026-08-14
 **Activity:** active

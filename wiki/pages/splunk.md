@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-08-04 · https://www.splunk.com/en_us/blog/platform/splunk-platform-innovations-cisco-data-fabric-generally-available.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

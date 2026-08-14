@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026-10-26 · https://www.47g.org/hard-tech-week
 **Activity-checked:** 2026-08-14

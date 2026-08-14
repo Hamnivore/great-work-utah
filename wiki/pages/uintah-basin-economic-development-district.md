@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026-06-25 · https://www.utah.gov/pmn/files/1449721.pdf
 **Activity-checked:** 2026-08-14

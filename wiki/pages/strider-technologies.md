@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-04-25 · https://www.striderintel.com/newsroom/bloomberg-private-sector-sleuthing-becomes-big-business-for-tech-startup/
 **Activity-checked:** 2026-08-14
 **Activity:** active

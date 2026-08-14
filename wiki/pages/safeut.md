@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Founder-tier:** n/a
 **Activity-signal:** 2025-06-30 · https://safeut.utahhealth.acsitefactory.com/sites/g/files/zrelqx271/files/media/documents/2026/safeut_annualreport_fy25_digital-2_0.pdf
 **Activity-checked:** 2026-08-14

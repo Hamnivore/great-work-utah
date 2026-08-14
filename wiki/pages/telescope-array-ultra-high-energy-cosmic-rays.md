@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** B
 **Activity-signal:** 2026-05-19 · https://arxiv.org/abs/2605.19553
 **Activity-checked:** 2026-08-14
 **Activity:** active

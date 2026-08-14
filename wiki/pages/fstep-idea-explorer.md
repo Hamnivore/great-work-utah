@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** unranked
 **Founder-tier:** unranked
 **Activity-checked:** 2026-08-14
 **Activity:** unknown

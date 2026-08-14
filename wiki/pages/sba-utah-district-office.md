@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** C
 **Activity-signal:** 2026-09-17 · https://www.sba.gov/district/utah
 **Activity-checked:** 2026-08-14

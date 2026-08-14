@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2025-04-08 · https://inlandportauthority.utah.gov/all-news/uipa-incentive-supports-ash-grove-cement-plant-upgrades-in-juab-county/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-08-14 · https://www.wtcutah.com/
 **Activity-checked:** 2026-08-14

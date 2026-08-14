@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-12 · https://www.gridinfo.com/plant/blundell/299
 **Activity-checked:** 2026-08-14
 **Activity:** active

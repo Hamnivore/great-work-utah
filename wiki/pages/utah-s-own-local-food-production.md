@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** F
 **Activity-signal:** 2026-06-24 · https://utahsown.org/utahs-own-events/
 **Activity-checked:** 2026-08-14

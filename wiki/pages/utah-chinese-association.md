@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** unranked
 **Founder-tier:** unranked
 **Activity-signal:** 2026-09-19 · https://www.eventbrite.com/e/2026-utah-moon-festival-tickets-1992084212505
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-05 · https://marketbrief.edweek.org/strategy-operations/imagine-learning-expands-into-world-languages-with-newest-acquisition/2026/08
 **Activity-checked:** 2026-08-14
 **Activity:** active

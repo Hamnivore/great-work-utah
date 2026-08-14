@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-04-29 · https://www.nucleusutah.org/grow
 **Activity-checked:** 2026-08-14

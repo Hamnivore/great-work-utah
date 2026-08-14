@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-03-10 · https://clinicaltrials.gov/study/NCT07574385
 **Activity-checked:** 2026-08-14
 **Activity:** active

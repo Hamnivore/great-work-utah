@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-checked:** 2026-08-14
 **Activity:** unknown

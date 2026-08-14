@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-06-11 · https://www.locumpedia.com/news/chg-healthcare-workforce-reduction-2026/
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2024-12-19 · https://www.loopnet.com/Listing/1580-S-500-W-Salt-Lake-City-UT/25442950/
 **Activity-checked:** 2026-08-14

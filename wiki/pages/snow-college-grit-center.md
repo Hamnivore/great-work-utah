@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-03-26 · https://www.thegritcenter.com/competitions
 **Activity-checked:** 2026-08-14

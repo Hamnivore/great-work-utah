@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2025-12-16 · https://themillatslcc.com/event/starting-your-business-101-online-15/
 **Activity-checked:** 2026-08-14

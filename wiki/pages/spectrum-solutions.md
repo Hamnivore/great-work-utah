@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-09-15 · https://www.mpo-mag.com/breaking-news/spectrum-health-sciences-simplytest-name-damon-silvestry-ceo/
 **Activity-checked:** 2026-08-14
 **Activity:** active

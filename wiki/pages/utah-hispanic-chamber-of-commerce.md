@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** F
 **Activity-signal:** 2026-08-20 · https://www.eventbrite.com/e/carnaval-de-barrio-2026-tickets-1992357534017
 **Activity-checked:** 2026-08-14

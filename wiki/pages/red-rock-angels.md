@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2023-02-19 · https://www.techbuzznews.com/red-rock-angels-fills-investment-void-in-southern-utah/
 **Activity-checked:** 2026-08-14

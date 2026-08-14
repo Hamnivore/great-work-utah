@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** F
 **Founder-tier:** F
 **Activity-signal:** 2023-10-31 · https://attheu.utah.edu/announcements/welcome-to-the-technology-licensing-office/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2025-12-18 · https://lehifreepress.com/2025/12/18/teen-entrepreneurs-showcase-innovation-at-christmas-market/
 **Activity-checked:** 2026-08-14

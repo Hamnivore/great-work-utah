@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2025-12-11 · https://coreform.com/news/coreform-cubit-releases-2025-12-with-pyside6-integration-and-new-toolbars/
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** D
 **Activity-signal:** 2026-02-04 · https://www.deseret.com/entertainment/2026/01/24/silicon-slopes-summit-lineup-2026/
 **Activity-checked:** 2026-08-14

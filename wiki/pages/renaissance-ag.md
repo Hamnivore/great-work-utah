@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** A
 **Activity-signal:** 2023 · https://www.aetrjournal.org/UserFiles/file/AETR_2023_014R%20Final.pdf
 **Activity-checked:** 2026-08-14
 **Activity:** dormant

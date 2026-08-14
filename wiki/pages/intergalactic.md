@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-05-01 · https://ig.space/commslink/intergalactic-selected-to-supply-thermal-management-next-gen-jammer-navy/
 **Activity-checked:** 2026-08-14
 **Activity:** active

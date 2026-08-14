@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** D
 **Founder-tier:** F
 **Activity-signal:** 2027 · https://www.visitutah.com/articles/museum-of-utah
 **Activity-checked:** 2026-08-14

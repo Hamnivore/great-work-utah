@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Activity-signal:** 2026-08-12 · https://zaymo.com
 **Activity-checked:** 2026-08-14
 **Activity:** active

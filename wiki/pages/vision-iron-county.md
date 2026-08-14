@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** F
 **Founder-tier:** unranked
 **Activity-signal:** 2024-07 · https://www.orgcouncil.com/ein/933594150
 **Activity-checked:** 2026-08-14

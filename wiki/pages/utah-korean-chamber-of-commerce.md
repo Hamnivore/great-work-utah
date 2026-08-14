@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-10-14 · https://www.utahkcc.org/
 **Activity-checked:** 2026-08-14

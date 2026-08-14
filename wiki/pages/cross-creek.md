@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-07-09 · https://databento.com/blog/series-b
 **Activity-checked:** 2026-08-14

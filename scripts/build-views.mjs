@@ -56,6 +56,7 @@ for (const f of fs.readdirSync(PAGES).sort()) {
     focus: meta(raw, 'Focus'),
     conf: (meta(raw, 'Confidence') || '?')[0],
     tier: meta(raw, 'Tier'),
+    builderTier: meta(raw, 'Builder-tier'),
     founderTier: meta(raw, 'Founder-tier'),
     activity: meta(raw, 'Activity'),
     activityChecked: meta(raw, 'Activity-checked'),
@@ -324,6 +325,8 @@ let tierList = `# The tier list
 
 Utah work ranked by how far it could move the world. ${gems.length} pages in S and A; ${discoveryPicks.length} starred discovery picks. Fame is neither evidence nor a prior. [How this is ranked](../meta/tiers.md) · \`${BASE}/meta/tiers.md\`.
 
+Looking for overlooked builders? [See the hidden gems](builder-tier-list.md) · \`${BASE}/views/builder-tier-list.md\`.
+
 Greyed-out entries are not active. [What (active) means](../meta/activity.md) · \`${BASE}/meta/activity.md\`.
 
 `
@@ -338,6 +341,74 @@ for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
   tierList += `\n`
 }
 write('tier-list.md', tierList)
+
+// ---- the builder tier list ----
+// A maximum-faith reading of builder character visible in the work. The hidden-gem section is the
+// disagreement between this and demonstrated impact, not a popularity score.
+const BUILDER_RANK = { S: 0, A: 1, B: 2, C: 3, D: 4, F: 5, unranked: 6 }
+const BUILDER_LABEL = {
+  S: 'extraordinary builders',
+  A: 'unusually strong builders',
+  B: 'real builder signal',
+  C: 'capable, little differentiating signal',
+  D: 'mostly administration or participation',
+  F: 'no builders recoverable from the atom',
+  unranked: 'too thin to judge',
+}
+const builderTiered = pages.filter((p) => BUILDER_RANK[p.builderTier] !== undefined)
+const builderReasons = new Map()
+const loadBuilderReasons = (dir) => {
+  if (!fs.existsSync(dir)) return
+  for (const file of fs.readdirSync(dir).filter((name) => name.endsWith('.tsv')).sort()) {
+    for (const row of fs.readFileSync(path.join(dir, file), 'utf8').split('\n')) {
+      if (!row.trim() || row.startsWith('#')) continue
+      const [slug, , ...reason] = row.split('\t')
+      if (slug && reason.length) builderReasons.set(slug.endsWith('.md') ? slug : `${slug}.md`, reason.join(' '))
+    }
+  }
+}
+loadBuilderReasons(new URL('../research/builder-tier-list/results/', import.meta.url).pathname)
+const builderAdjudications = new URL('../research/builder-tier-list/', import.meta.url).pathname
+if (fs.existsSync(path.join(builderAdjudications, 'adjudications.tsv'))) {
+  for (const row of fs.readFileSync(path.join(builderAdjudications, 'adjudications.tsv'), 'utf8').split('\n')) {
+    if (!row.trim() || row.startsWith('#')) continue
+    const [slug, , ...reason] = row.split('\t')
+    if (slug && reason.length) builderReasons.set(slug.endsWith('.md') ? slug : `${slug}.md`, reason.join(' '))
+  }
+}
+const impactRank = (p) => TIER_RANK[tierBase(p)]
+const builderGap = (p) => {
+  const ir = impactRank(p)
+  return ir === undefined || p.builderTier === 'unranked' ? null : ir - BUILDER_RANK[p.builderTier]
+}
+const hiddenBuilders = builderTiered
+  .filter((p) => p.activity === 'active' && ['S', 'A'].includes(p.builderTier) && ['C', 'D', 'F'].includes(tierBase(p)))
+  .sort((a, b) => (builderGap(b) || 0) - (builderGap(a) || 0) || BUILDER_RANK[a.builderTier] - BUILDER_RANK[b.builderTier] || a.title.localeCompare(b.title))
+const builderEntry = (p, showGap = false) => {
+  const gap = builderGap(p)
+  const markers = [`builder:${p.builderTier}`, p.tier ? `impact:${p.tier}` : null, showGap && gap !== null ? `gap:+${gap}` : null].filter(Boolean).join(' · ')
+  const reason = builderReasons.get(p.file) || firstSentence(p.summary)
+  return `- **[${p.title}](${p.url})**${activityMark(p)} · \`${p.path}\` · ${markers}\n  ${clip(reason, 260)}\n`
+}
+let builderList = `# The builder tier list
+
+Builder character visible in the work, read with maximum faith. This ranks specific conviction, agency, craft, costly commitment, endurance, and community formation—not private morality or intrinsic worth. [How this is ranked](../meta/builder-tiers.md) · \`${BASE}/meta/builder-tiers.md\`.
+
+The discovery signal is disagreement with [demonstrated impact](tier-list.md): active S/A builders whose current impact is C or below. Absence from this shortlist is not negative evidence; most pages do not reveal why people chose their work.
+
+## Hidden gems — builder conviction ahead of demonstrated impact (${hiddenBuilders.length})
+
+`
+for (const p of hiddenBuilders) builderList += builderEntry(p, true)
+builderList += `\n## Complete builder ladder (${builderTiered.length})\n\n`
+for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
+  const selected = builderTiered.filter((p) => p.builderTier === t).sort((a, b) => a.title.localeCompare(b.title))
+  if (!selected.length) continue
+  builderList += `### ${t} — ${BUILDER_LABEL[t]} (${selected.length})\n\n`
+  for (const p of selected) builderList += builderEntry(p)
+  builderList += '\n'
+}
+write('builder-tier-list.md', `${builderList.trimEnd()}\n`)
 
 // ---- the founder-resource tier list ----
 // A second ladder over the same corpus, asking a different question (wiki/meta/founder-tiers.md).
@@ -422,6 +493,7 @@ This is the router for ${pages.length} pages about high-impact work in Utah. Pic
 ## Start by goal
 
 - **Read the best of it first:** [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` ranks all ${tiered.length} fact pages on one impact ladder. The ${gems.length} pages in **S** and **A** are high-impact gems; ${discoveryPicks.length} starred pages are unusually revealing discovery picks and sort first inside their letter. Pages still being done are marked (active); others show the year of their last public record. The letter is how far a thing could move the world, not a vote that it's good — the top of the list includes weapons, surveillance, and mines.
+- **Find people worth betting on:** [the builder tier list](builder-tier-list.md) · \`${BASE}/views/builder-tier-list.md\` reads ${builderTiered.length} fact pages for conviction, agency, craft, costly commitment, and community formation. Its ${hiddenBuilders.length} hidden gems are active S/A builder signals whose demonstrated impact is still C or below. Missing signal is not negative evidence.
 - **Find meaningful work:** [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` (${roleGroups.length} role families), then [all stated needs](needs.md) · \`${BASE}/views/needs.md\` (${needers.length} organizations) and [Find Meaningful Work in Utah](/pages/find-meaningful-work.md) · \`${BASE}/pages/find-meaningful-work.md\`. These are leads derived from page assessments, not confirmed openings; verify with the organization.
 - **Start or fund a high-growth company:** [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · \`${BASE}/pages/startup-capital-in-utah.md\` · [Find an Advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\`
 - **Grow a Main Street or rural business without venture capital:** [Find Business Services](/pages/find-business-services.md) · \`${BASE}/pages/find-business-services.md\` routes formation, lending, procurement, regulation, and workforce help; combine it with [resources](resources.md) · \`${BASE}/views/resources.md\` and [by Utah location](by-region.md) · \`${BASE}/views/by-region.md\`.
@@ -441,6 +513,7 @@ ${domainViews.map((d) => `- [${domainLabel(d)}](domain-${d}.md) · \`${BASE}/vie
 ## Browse by another facet
 
 - [By impact tier](tier-list.md) · \`${BASE}/views/tier-list.md\` — ${tiered.length} fact pages ranked S through F on one ladder; ${gems.length} high-impact gems and ${discoveryPicks.length} starred discovery picks
+- [By builder character](builder-tier-list.md) · \`${BASE}/views/builder-tier-list.md\` — ${builderTiered.length} fact pages under a maximum-faith reading; ${hiddenBuilders.length} active hidden gems where builder signal leads impact
 - [By kind of work](by-role.md) · \`${BASE}/views/by-role.md\` — ${roleGroups.length} populated role families derived only from pages with stated-needs assessments; use search and sector hubs for other plausible employers
 - [By Utah location](by-region.md) · \`${BASE}/views/by-region.md\` — ${regional.length}/${pages.length} pages carry Region metadata (${pct(regional.length, pages.length)}% coverage)
 - [By venture stage](by-stage.md) · \`${BASE}/views/by-stage.md\` — ${staged.length} pages; metadata assertions, not yet sourced

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-09-14 · https://btech.edu/bec-workshop2-ce/
 **Activity-checked:** 2026-08-14

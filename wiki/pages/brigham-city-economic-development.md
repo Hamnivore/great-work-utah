@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-signal:** 2025-04 · https://www.bcutah.gov/page/economic-development/
 **Activity-checked:** 2026-08-14

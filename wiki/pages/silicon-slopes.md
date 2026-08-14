@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-01-29 · https://newsletter.siliconslopes.com/p/this-week-at-silicon-slopes-news-from-utah-s-community-businesses-and-events-a39f
 **Activity-checked:** 2026-08-14

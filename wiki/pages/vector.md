@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-04-28 · https://www.deseret.com/utah/2026/04/28/utah-company-vector-helping-america-keep-pace-in-military-drone-tech-race/
 **Activity-checked:** 2026-08-14
 **Activity:** active

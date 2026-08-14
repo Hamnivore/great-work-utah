@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-03-19 · https://www.vernalinnovationhub.com/uintahspeedpitch
 **Activity-checked:** 2026-08-14

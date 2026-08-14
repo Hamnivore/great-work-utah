@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-signal:** 2026-05-20 · https://www.utahbusiness.com/industry/2026/05/20/sevier-county-trails-outdoors-infrastructure-economic-development-visitors/
 **Activity-checked:** 2026-08-14

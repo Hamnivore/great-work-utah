@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2025-05-29 · https://growutah.com/ramp/spring2025
 **Activity-checked:** 2026-08-14

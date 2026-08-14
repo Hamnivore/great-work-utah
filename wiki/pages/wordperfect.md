@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 1994-06-27 · https://www.deseret.com/1994/6/27/19117005/novell-wordperfect-tie-the-knot/
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

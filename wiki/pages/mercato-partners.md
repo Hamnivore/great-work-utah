@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2025-08-21 · https://www.intelligence360.news/wellth-raises-36m-in-oversubscribed-series-c-as-health-plans-embrace-daily-care-motivation/
 **Activity-checked:** 2026-08-14

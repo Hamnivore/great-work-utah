@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** n/a
 **Activity-signal:** 2026-01 · https://water.utah.gov/wp-content/uploads/2026/01/2026-Division-Legislative-Update.pdf
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-07-16 · https://allevents.in/salt-lake-city/workbox-salt-lake-city-mixer/100001989230473896
 **Activity-checked:** 2026-08-14

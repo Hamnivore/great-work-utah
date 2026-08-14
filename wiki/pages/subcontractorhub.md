@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** C
 **Activity-signal:** 2026-08-13 · https://www.subcontractorhub.com/careers/senior-ai-engineer
 **Activity-checked:** 2026-08-14
 **Activity:** active

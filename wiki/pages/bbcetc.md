@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-08-12 · https://bbcetc.com/special-programs/bbcetc-from-the-sources-mouth/
 **Activity-checked:** 2026-08-14

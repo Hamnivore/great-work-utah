@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-07-15 · https://www.prnewswire.com/news-releases/new-skullcandy-crusher-1080-anc-redefines-consumer-audio-with-mind-bending-bass-and-breakthrough-sound-by-bose-technologies-302826777.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-02-25 · https://www.lvt.com/press/lvt-releases-license-plate-recognition-powered-by-insight-lpr
 **Activity-checked:** 2026-08-14
 **Activity:** active

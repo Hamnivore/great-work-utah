@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-08-13 · https://careers.ancestry.com/jobs/727e822d-228b-4905-9eea-165ab51e0563
 **Activity-checked:** 2026-08-14
 **Activity:** active

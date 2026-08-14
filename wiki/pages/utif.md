@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2025-02 · https://business.utah.gov/wp-content/uploads/UTIF-Application-Guide-02-11-2025.pdf
 **Activity-checked:** 2026-08-14

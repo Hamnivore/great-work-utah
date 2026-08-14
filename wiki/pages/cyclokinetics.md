@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2026-05-04 · https://airpronews.com/2026/05/07/cyclokinetics-launches-high-energy-aerospace-propellants-in-2026/
 **Activity-checked:** 2026-08-14
 **Activity:** active

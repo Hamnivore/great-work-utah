@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** F
 **Activity-signal:** 2026-06-05 · https://hebercity-cams.org/market-on-main-launches-into-summer/
 **Activity-checked:** 2026-08-14

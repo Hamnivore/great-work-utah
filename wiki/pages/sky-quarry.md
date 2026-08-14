@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-03-31 · https://www.sec.gov/Archives/edgar/data/1812447/000109690626000438/0001096906-26-000438-index.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

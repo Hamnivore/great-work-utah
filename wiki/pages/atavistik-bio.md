@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2026-07-30 · https://www.globenewswire.com/news-release/2026/07/30/3335895/0/en/atavistik-bio-partners-with-cure-hht-clinical-trial-network-to-advance-development-of-atv-1601-for-hereditary-hemorrhagic-telangiectasia.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

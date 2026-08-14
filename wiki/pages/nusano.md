@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2026-07-02 · https://www.utahbusiness.com/press-releases/2026/07/02/nusano-completes-major-milestone-commercial-radioisotope-production-utah/
 **Activity-checked:** 2026-08-14
 **Activity:** active

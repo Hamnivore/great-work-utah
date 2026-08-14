@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** S
 **Activity-signal:** 2026-01-13 · https://ussynthetic.com/us-synthetic-grants-limited-license-for-high-performance-polycrystalline-diamond-compact-pdc-intellectual-property/
 **Activity-checked:** 2026-08-14
 **Activity:** active

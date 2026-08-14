@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2025-05-07 · https://seenutah.org/newsandevents
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-01-20 · https://sunnewsdaily.com/stories/articles/2026/01/20/led-lamps-keychains-t-shirts-at-the-atwood-innovation-makerspace/
 **Activity-checked:** 2026-08-14

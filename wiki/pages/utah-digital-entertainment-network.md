@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** B
 **Founder-tier:** F
 **Activity-signal:** 2020-12 · https://www.taxexemptworld.com/organization.asp?tn=2530545
 **Activity-checked:** 2026-08-14

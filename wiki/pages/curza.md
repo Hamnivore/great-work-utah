@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2026-07-06 · https://www.highergov.com/grant/R44AI186898/
 **Activity-checked:** 2026-08-14
 **Activity:** active

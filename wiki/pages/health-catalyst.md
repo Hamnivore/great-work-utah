@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-06 · https://www.stocktitan.net/sec-filings/HCAT/10-q-health-catalyst-inc-quarterly-earnings-report-1b35733f07dc.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

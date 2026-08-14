@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-08-04 · https://www.financialcontent.com/article/bizwire-2026-8-4-fortem-technologies-selected-as-prime-contractor-on-5-year-dhs-counter-drone-idiq-worth-more-than-1b
 **Activity-checked:** 2026-08-14
 **Activity:** active

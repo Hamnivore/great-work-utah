@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-09-09 · https://www.boxelderchamber.com/peach-days/
 **Activity-checked:** 2026-08-14

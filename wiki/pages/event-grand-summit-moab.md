@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** D
 **Activity-signal:** 2026-01-16 · https://moabsunnews.com/2026/01/28/grand-business-summit-brings-local-entrepreneurs-together/
 **Activity-checked:** 2026-08-14

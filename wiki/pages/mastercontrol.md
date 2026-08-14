@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-07-07 · https://www.mpo-mag.com/breaking-news/mastercontrol-unveils-tool-to-improve-quality-decision-making/
 **Activity-checked:** 2026-08-14
 **Activity:** active

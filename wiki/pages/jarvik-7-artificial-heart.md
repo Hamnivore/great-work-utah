@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** S
+**Builder-tier:** S
 **Activity-signal:** 1982-12-02 · https://medicine.utah.edu/sites/g/files/zrelqx356/files/migration/media/first-artificial-heart-anderson.pdf
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

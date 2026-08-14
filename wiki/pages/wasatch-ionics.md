@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2024-07-11 · https://www.sbir.gov/awards/209551
 **Activity-checked:** 2026-08-14
 **Activity:** dormant

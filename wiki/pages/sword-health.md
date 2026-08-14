@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-01-28 · https://swordhealth.com/newsroom/sword-acquires-kaia-health
 **Activity-checked:** 2026-08-14
 **Activity:** active

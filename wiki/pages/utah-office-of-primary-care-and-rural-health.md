@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** n/a
 **Activity-signal:** 2026-03-31 · https://ruralhealth.utah.gov/utah-primary-care-grant-program/
 **Activity-checked:** 2026-08-14

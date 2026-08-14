@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-07-01 · https://www.ubaog.org/community-development
 **Activity-checked:** 2026-08-14

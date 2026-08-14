@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2026-03-30 · https://kutv.com/sports/talkin-sports/huntsman-world-senior-games-registration-open
 **Activity-checked:** 2026-08-14
 **Activity:** active

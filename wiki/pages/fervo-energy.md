@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2026-08-13 · https://www.sec.gov/Archives/edgar/data/1853868/000162828026056457/frvo-20260630.htm
 **Activity-checked:** 2026-08-14
 **Activity:** active

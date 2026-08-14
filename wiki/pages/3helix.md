@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B*
+**Builder-tier:** A
 **Activity-signal:** 2026-04 · https://www.basf.com/global/en/media/news-releases/2026/04/p-26-066
 **Activity-checked:** 2026-08-14
 **Activity:** active

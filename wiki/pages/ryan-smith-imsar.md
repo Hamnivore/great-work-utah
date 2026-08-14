@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** A
 **Activity-checked:** 2026-08-14
 **Activity:** unknown
 **Focus:** RF engineering, synthetic aperture radar, defense technology, hardware startups

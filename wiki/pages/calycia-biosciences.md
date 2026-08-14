@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** B*
+**Builder-tier:** A
 **Activity-signal:** 2026-04-23 · https://bioutah.org/calycia-bioscience-wins-peoples-choice-award-at-altitude-lab-demo-day-2026/
 **Activity-checked:** 2026-08-14
 **Activity:** active

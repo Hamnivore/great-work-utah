@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-03-01 · https://www.deltautahchamber.com/post/snow-goose-photography-contest
 **Activity-checked:** 2026-08-14

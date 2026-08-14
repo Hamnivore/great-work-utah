@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** n/a
 **Activity-signal:** 2026-08-01 · https://www.utahgeekevents.com/events/kids-code-camp-2026/
 **Activity-checked:** 2026-08-14

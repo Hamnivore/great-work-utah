@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-11-14 · https://utahasianchamber.org/21st-asian-chamber-scholarships-awards-gala/
 **Activity-checked:** 2026-08-14

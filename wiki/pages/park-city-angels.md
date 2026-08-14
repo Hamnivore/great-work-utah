@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2025-08-17 · https://projects.propublica.org/nonprofits/organizations/474220476
 **Activity-checked:** 2026-08-14

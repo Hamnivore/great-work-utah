@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** F
 **Activity-signal:** 2026-08-26 · https://www.utahalliance.com/
 **Activity-checked:** 2026-08-14

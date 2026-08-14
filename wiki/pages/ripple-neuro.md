@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2025-03-01 · https://www.sbir.gov/awards/219082
 **Activity-checked:** 2026-08-14
 **Activity:** active

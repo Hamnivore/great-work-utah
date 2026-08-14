@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-05 · https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest
 **Activity-checked:** 2026-08-14
 **Activity:** active

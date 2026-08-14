@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-05-06 · https://ksltv.com/education-schools/trac-teacher-apprenticeship/906472/
 **Activity-checked:** 2026-08-14

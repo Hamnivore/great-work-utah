@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2006-04 · https://en.wikipedia.org/wiki/High_Resolution_Fly's_Eye_Cosmic_Ray_Detector
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-03-12 · https://www.rqmplus.com/about-us/news-events/news/rqm-launches-smart-solutions-life-cycle-partnership-model/
 **Activity-checked:** 2026-08-14

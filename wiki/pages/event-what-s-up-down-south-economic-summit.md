@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** D
 **Activity-signal:** 2027-01-14 · https://whatsupdownsouth.org/
 **Activity-checked:** 2026-08-14

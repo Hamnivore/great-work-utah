@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2023-08-07 · https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

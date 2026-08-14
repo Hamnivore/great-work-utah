@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-08-25 · https://business.utahlgbtqchamber.org/ap/Events/Register/OOF6Mb6haCqCD
 **Activity-checked:** 2026-08-14

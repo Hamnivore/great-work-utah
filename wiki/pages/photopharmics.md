@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-05-22 · https://parkinsonsnewstoday.com/news/pivotal-trial-completed-testing-celeste-light-therapy-device-parkinsons/
 **Activity-checked:** 2026-08-14
 **Activity:** active

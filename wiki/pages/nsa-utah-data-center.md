@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** B
 **Activity-signal:** 2025-02 · https://www.spk.usace.army.mil/Portals/12/documents/military/NSA_UDC_DraftEA_Feb2025.pdf
 **Activity-checked:** 2026-08-14
 **Activity:** active

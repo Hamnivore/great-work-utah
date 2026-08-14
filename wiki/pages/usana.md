@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** C
+**Builder-tier:** C
 **Activity-signal:** 2026-08-13 · https://www.sec.gov/Archives/edgar/data/896264/000089626426000056/usna-20260704.htm
 **Activity-checked:** 2026-08-14
 **Activity:** active

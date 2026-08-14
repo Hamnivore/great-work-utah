@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-07 · https://libn.com/2026/08/07/crumbl-store-holbrook-shops-at-sunvet/
 **Activity-checked:** 2026-08-14
 **Activity:** active

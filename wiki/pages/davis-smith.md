@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-07-09 · https://startupdadpod.substack.com/p/cotopaxi-founder-i-walked-away-to-follow-my-values-davis-smith-founder-ceo-cotopaxi
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-13 · https://actaero.com/careers/
 **Activity-checked:** 2026-08-14
 **Activity:** active

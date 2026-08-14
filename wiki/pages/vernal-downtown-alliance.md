@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** F
 **Activity-signal:** 2025-06 · https://ushpo.utah.gov/wp-content/uploads/2025/12/Round-3-Rural-Revive-Reside-Application-Packet-and-Guidelines.pdf
 **Activity-checked:** 2026-08-14

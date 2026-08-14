@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-08-18 · https://themillatslcc.com/events-calendar/
 **Activity-checked:** 2026-08-14

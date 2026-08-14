@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-09-02 · https://themillatslcc.com/education/goldman-sachs-10000-small-businesses/
 **Activity-checked:** 2026-08-14

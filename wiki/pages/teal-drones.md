@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-07-30 · https://ir.redcatholdings.com/news-events/press-releases/detail/235/red-cat-receives-2-49-million-u-s-air-force-order-for-black-widow-systems
 **Activity-checked:** 2026-08-14
 **Activity:** active

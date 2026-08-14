@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** S
 **Activity-signal:** 2026-06-14 · https://www.kuer.org/health/2026-06-14/intensity-is-the-core-of-the-other-side-academys-process-its-not-for-everyone
 **Activity-checked:** 2026-08-14
 **Activity:** active

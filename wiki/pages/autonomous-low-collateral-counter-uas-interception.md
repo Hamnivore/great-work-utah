@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-03-19 · https://fortemtech.com/press-releases/2026-03-19-lockheed-martin-selects-fortem-technologies-to-protect-critical-infrastructure-from-drones/
 **Activity-checked:** 2026-08-14
 **Activity:** active

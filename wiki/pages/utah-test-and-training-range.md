@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** B
 **Activity-signal:** 2026-03-31 · https://www.standard.net/news/2026/mar/31/hill-air-force-base-to-begin-season-of-large-detonation-operations-at-uttr/
 **Activity-checked:** 2026-08-14
 **Activity:** active

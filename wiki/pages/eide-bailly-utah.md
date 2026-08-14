@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-06-22 · https://www.colliers.com/en/news/salt-lake-city/eide-bailly
 **Activity-checked:** 2026-08-14

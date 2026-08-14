@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** B
 **Activity-signal:** 2026-07-28 · https://www.score.org/ut/
 **Activity-checked:** 2026-08-14

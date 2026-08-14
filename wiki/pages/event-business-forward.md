@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** D
 **Activity-signal:** 2026-11-10 · https://forward.utahbusiness.com/
 **Activity-checked:** 2026-08-14

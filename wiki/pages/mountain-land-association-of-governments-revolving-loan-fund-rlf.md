@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2025-07-01 · https://magutah.gov/static/files/Admin/budget/MAG%20Budget%20FY26.Approved.pdf
 **Activity-checked:** 2026-08-14

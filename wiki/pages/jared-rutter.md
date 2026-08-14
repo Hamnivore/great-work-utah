@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-06-21 · https://cell-press-symposia.com/mitochondria-2026/index.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** F
 **Activity-signal:** 2026-06-02 · https://www.parkrecord.com/2026/06/02/park-city-chamber-bureau-cites-early-end-to-ski-season-broader-headwinds-for-economic-softness/
 **Activity-checked:** 2026-08-14

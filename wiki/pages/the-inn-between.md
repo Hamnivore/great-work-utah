@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2025-11-12 · https://projects.propublica.org/nonprofits/organizations/472329595
 **Activity-checked:** 2026-08-14
 **Activity:** active

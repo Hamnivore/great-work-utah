@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** D
 **Founder-tier:** D
 **Activity-signal:** 2026-01-30 · https://startup.utah.gov/the-return-of-get-started-2026s-first-winners/
 **Activity-checked:** 2026-08-14

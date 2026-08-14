@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** n/a
 **Activity-signal:** 2026-08-19 · https://medicaid.utah.gov/
 **Activity-checked:** 2026-08-14

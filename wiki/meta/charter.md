@@ -56,3 +56,15 @@ evidence nor a prior for either signal.
 
 Refined like everything else: probe with hard cases, adjudicate divergence into this doc — or into
 `tiers.md` when the disagreement is about placement rather than about the metric (E11).
+
+## The builder list
+
+Impact is not the only useful way to find great work. `**Builder-tier:**` asks how strongly the work
+reveals people worth betting on under a maximum-faith reading: specific conviction, agency, craft,
+costly commitment, endurance, chosen leverage, and community formation. It is independent of impact
+and never claims to know private morality or intrinsic worth. Missing signal is not negative evidence;
+outsiders usually cannot see why people chose their work.
+
+The generated [builder tier list](../views/builder-tier-list.md) leads with the useful disagreement:
+active S/A builder signals whose demonstrated impact is still C or below. Rubric and safeguards are
+in [`builder-tiers.md`](builder-tiers.md).

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** A
 **Activity-signal:** 2026-04-02 · https://auticon.com/blog/the-edge-effect-auticon-impact-report-2025/
 **Activity-checked:** 2026-08-14
 **Activity:** active

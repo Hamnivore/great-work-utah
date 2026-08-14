@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026 · https://www.kirtonmcconkie.com/news/utah-business-recognizes-six-km-attorneys-as-2026-legal-elite/
 **Activity-checked:** 2026-08-14

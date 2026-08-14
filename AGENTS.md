@@ -78,6 +78,13 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
    `**Activity-signal:**`. Do not invent a value when touching a page: missing is the honest unchecked
    state. Corpus-scale assignment is the same bulk workflow as the ladders: `research/activity/results/`
    TSVs, then `node scripts/apply-activity.mjs`.
+10. Every fact page also carries `**Builder-tier:**` — a separate S-through-F ladder asking what
+    builder character is visible in the work under a maximum-faith reading. It measures specific
+    conviction, agency, craft, costly commitment, endurance, chosen leverage, and community
+    formation; it never claims to know private morality or intrinsic worth, and absent signal is not
+    negative evidence. Read `wiki/meta/builder-tiers.md` before assigning it. Corpus-scale ratings
+    live in `research/builder-tier-list/results/` and are applied centrally with
+    `node scripts/apply-builder-tiers.mjs`; subagents never edit pages for this judgment.
 
 ## Working on the site
 

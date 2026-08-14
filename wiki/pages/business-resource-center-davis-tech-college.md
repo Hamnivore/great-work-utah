@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-09-25 · https://veterans.utah.gov/event/utah-veteran-entrepreneurs-networking-davis-county/2026-09-25/
 **Activity-checked:** 2026-08-14

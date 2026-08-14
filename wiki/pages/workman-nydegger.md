@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-05-28 · https://www.wnlaw.com/news/workman-nydegger-recognized-in-the-iam-patent-1000-2026-edition/
 **Activity-checked:** 2026-08-14

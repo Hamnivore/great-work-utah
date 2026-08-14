@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-08-07 · https://www.federalregister.gov/documents/2026/08/07/2026-16115/energy-solutions-llc-application-for-class-a-low-level-radioactive-waste-import-license
 **Activity-checked:** 2026-08-14
 **Activity:** active

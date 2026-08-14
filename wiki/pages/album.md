@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026-05-19 · https://www.techbuzznews.com/album-vc-welcomes-new-partners/
 **Activity-checked:** 2026-08-14

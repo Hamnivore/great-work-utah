@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-08-12 · https://www.nucleusutah.org/events-collection
 **Activity-checked:** 2026-08-14

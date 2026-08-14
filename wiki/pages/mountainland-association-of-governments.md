@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-05-14 · https://magutah.gov/static/files/committees/mpo_board/meetings/2026/2026_05_14/MPO%20Board%20Agenda%205.14.2026.pdf
 **Activity-checked:** 2026-08-14

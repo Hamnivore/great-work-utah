@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2026-07-22 · https://www.financialcontent.com/article/bizwire-2026-7-22-eden-tech-launches-genesis-a-desalination-breakthrough-that-doubles-clean-water-recovery
 **Activity-checked:** 2026-08-14
 **Activity:** active

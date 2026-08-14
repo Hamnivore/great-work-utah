@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** A
 **Activity-signal:** 2026-07-29 · https://www.techbuzznews.com/jump-aero-visits-utah/
 **Activity-checked:** 2026-08-14
 **Activity:** active

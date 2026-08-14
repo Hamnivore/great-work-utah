@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026-08-31 · https://ag.utah.gov/grants-and-loans/
 **Activity-checked:** 2026-08-14

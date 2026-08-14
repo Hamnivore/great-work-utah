@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** n/a
 **Activity-signal:** 2026-06-24 · https://www.codeadventure.net/
 **Activity-checked:** 2026-08-14

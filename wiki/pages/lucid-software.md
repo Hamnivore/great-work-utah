@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-04-13 · https://www.prnewswire.com/news-releases/lucid-software-integrates-real-time-visual-context-into-chatgpt-with-mcp-server-app-302739890.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

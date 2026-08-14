@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-signal:** 2026-08-06 · https://www.kpcw.org/summit-county/2026-08-06/summit-county-approves-strategy-to-meet-affordable-housing-goal
 **Activity-checked:** 2026-08-14

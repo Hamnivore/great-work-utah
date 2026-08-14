@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** unranked
 **Activity-signal:** 2026-03-16 · https://www.directsellingnews.com/2026/03/16/public-product-companies-2025-year-end-earnings-review/
 **Activity-checked:** 2026-08-14
 **Activity:** active

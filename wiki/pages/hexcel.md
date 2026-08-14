@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-07-29 · https://www.stocktitan.net/sec-filings/HXL/10-q-hexcel-corp-de-quarterly-earnings-report-09f140ab7c5b.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-08-17 · https://orem.librarycalendar.com/events/day/2026/08/17
 **Activity-checked:** 2026-08-14

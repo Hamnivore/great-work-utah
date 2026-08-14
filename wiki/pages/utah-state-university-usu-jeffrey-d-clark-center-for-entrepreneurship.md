@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-signal:** 2026-04-19 · https://huntsman.usu.edu/seed/index
 **Activity-checked:** 2026-08-14

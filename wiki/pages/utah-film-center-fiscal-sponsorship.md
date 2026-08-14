@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-01-22 · https://utahfilmcenter.org/blog/3-utah-film-center-fiscally-sponsored-films-head-to-sundance-2026/
 **Activity-checked:** 2026-08-14

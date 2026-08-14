@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2011 · http://www.solidcarbonproducts.com/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** F
 **Activity-signal:** 2026-10-27 · https://www.ulct.org/annual-convention/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2025-09-10 · https://www.octanner.com/press/o-c-tanner-releases-2026-global-culture-report-offers-strategies-to-support-employees-during-hopelessness-epidemic
 **Activity-checked:** 2026-08-14
 **Activity:** active

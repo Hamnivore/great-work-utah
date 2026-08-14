@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Builder-tier:** S
 **Activity-signal:** 1926 · https://www.asme.org/about-asme/engineering-history/landmarks/141-browning-firearms-collection
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

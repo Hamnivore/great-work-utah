@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-06-16 · https://parsonsbehle.com/insights/parsons-behle-and-latimers-st-george-office-earns-top-honors-in-2026-best-of-southern-utah-awards
 **Activity-checked:** 2026-08-14

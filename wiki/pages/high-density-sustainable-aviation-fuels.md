@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-05-17 · https://newatlas.com/aircraft/superfuel-increase-aircraft-missile-performance/
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-06 · https://pioneerinstitute.org/a-better-way-to-regulate-lessons-from-state-regulatory-sandboxes/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** A
 **Activity-signal:** 2026-07-10 · https://web.sandbox.ing/fellowship
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-08-12 · https://www.defensenews.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/
 **Activity-checked:** 2026-08-14
 **Activity:** active

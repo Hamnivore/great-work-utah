@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-07-28 · https://www.biomerieux.com/us/en/journalists/press-releases/First-Half-2026-Results.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

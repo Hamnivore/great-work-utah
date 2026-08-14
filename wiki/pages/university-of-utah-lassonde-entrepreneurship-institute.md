@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** A
 **Founder-tier:** C
 **Activity-signal:** 2026-08-14 · https://lassonde.utah.edu/
 **Activity-checked:** 2026-08-14

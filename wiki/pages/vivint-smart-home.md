@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-04 · https://investors.nrg.com/news-releases/news-release-details/nrg-energy-reports-second-quarter-2026-results-and-reaffirms
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2025-10-21 · https://connect.udot.utah.gov/2025/10/20/udot-completes-us-191-realignment-north-of-vernal/
 **Activity-checked:** 2026-08-14

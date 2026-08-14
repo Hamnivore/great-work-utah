@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-10-25 · https://www.uvu.edu/woodbury/entrepreneurship/events/zinnstarter.html
 **Activity-checked:** 2026-08-14

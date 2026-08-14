@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026-05-14 · https://www.edcutah.org/recent-news/trigg-minerals-llc-announces-plans-to-develop-mining-and-refining-operations-in-utahs-garfield-and-iron-counties
 **Activity-checked:** 2026-08-14

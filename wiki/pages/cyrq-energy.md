@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-05-07 · https://www.thinkgeoenergy.com/ormat-acquires-blue-mountain-geothermal-project-in-nevada/
 **Activity-checked:** 2026-08-14
 **Activity:** active

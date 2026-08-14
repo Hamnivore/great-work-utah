@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-13 · https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q4/26-q4-release-overview
 **Activity-checked:** 2026-08-14
 **Activity:** active

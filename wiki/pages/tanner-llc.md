@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-02-11 · https://www.utahbusiness.com/press-releases/2026/02/11/tanner-llp-launches-technical-accounting-advisory-group-taag-support-finance/
 **Activity-checked:** 2026-08-14

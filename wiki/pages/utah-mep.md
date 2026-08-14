@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-01-22 · https://utah-mep.org/utah-mep-economic-impact-report-2025/
 **Activity-checked:** 2026-08-14

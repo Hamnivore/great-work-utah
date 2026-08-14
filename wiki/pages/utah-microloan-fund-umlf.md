@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** A
 **Founder-tier:** C
 **Activity-signal:** 2026-10-30 · https://www.utahmicroloanfund.org/bankingonwomen.html
 **Activity-checked:** 2026-08-14

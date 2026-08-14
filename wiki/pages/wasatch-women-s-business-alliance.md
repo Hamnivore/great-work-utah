@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** F
 **Activity-signal:** 2024-02-26 · https://thewwba.org/index.php/2024/02/26/mastermind-and-networking-events/
 **Activity-checked:** 2026-08-14

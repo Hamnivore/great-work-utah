@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-03-03 · https://mccmeetings.blob.core.usgovcloudapi.net/sanjuancut-pubu/MEET-Agenda-de8ac376fe5445078f72e51366df5dd7.pdf
 **Activity-checked:** 2026-08-14

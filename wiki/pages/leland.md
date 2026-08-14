@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** C
 **Activity-signal:** 2026-03-25 · https://www.joinleland.com/library/a/ai-builder-program-launch
 **Activity-checked:** 2026-08-14
 **Activity:** active

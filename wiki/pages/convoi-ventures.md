@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2025-07-29 · https://www.utahbusiness.com/press-releases/2025/07/29/crew-raises-3-million-scale-tech-enabled-services-short-term-rental-owners/
 **Activity-checked:** 2026-08-14

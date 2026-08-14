@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026-01-16 · https://www.utahbusiness.com/press-releases/2026/01/16/salt-lake-city-startup-diversifi-announces-8-million-raise/
 **Activity-checked:** 2026-08-14

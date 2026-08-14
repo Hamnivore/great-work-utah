@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** B
+**Builder-tier:** S
 **Activity-signal:** 2026-06-30 · https://bestfriends.org/sites/default/files/pdf/9.30.25_Form_990_%28Public%29-Best_Friends_Animal_Society-signed.pdf
 **Activity-checked:** 2026-08-14
 **Activity:** active

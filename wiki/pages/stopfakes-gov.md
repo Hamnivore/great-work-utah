@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** D
 **Founder-tier:** D
 **Activity-signal:** 2026-05-05 · https://www.trade.gov/country-commercial-guides/eu-protecting-intellectual-property
 **Activity-checked:** 2026-08-14

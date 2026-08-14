@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-12-08 · https://hypercraftusa.com/baker-engineering-and-hypercraft-unite-to-deliver-next-generation-hybrid-electric-solutions-for-defense-modernization/
 **Activity-checked:** 2026-08-14
 **Activity:** active

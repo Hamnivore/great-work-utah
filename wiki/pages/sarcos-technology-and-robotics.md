@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-06 · https://www.palladyneai.com/press-releases/q2-2026-results-revenue-jumps-470-palladyne-ai/
 **Activity-checked:** 2026-08-14
 **Activity:** active

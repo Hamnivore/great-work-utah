@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D*
+**Builder-tier:** B
 **Activity-signal:** 2026-06-21 · https://www.utahbusiness.com/forward-speakers/2026/06/21/clint-betts/
 **Activity-checked:** 2026-08-14
 **Activity:** active

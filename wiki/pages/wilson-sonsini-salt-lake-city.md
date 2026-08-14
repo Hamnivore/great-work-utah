@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2026-01-13 · https://www.wsgr.com/en/insights/john-pearce-former-associate-chief-justice-of-the-utah-supreme-court-rejoins-wilson-sonsini.html
 **Activity-checked:** 2026-08-14

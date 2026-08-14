@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** B
 **Activity-signal:** 2026-04-30 · https://www.fusfoundation.org/posts/new-clinical-trial-tests-focused-ultrasound-neuromodulation-for-chronic-pain/
 **Activity-checked:** 2026-08-14
 **Activity:** active

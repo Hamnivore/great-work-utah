@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** D
 **Activity-signal:** 2026-06-15 · https://purchasing.utah.gov/general-services/state-surplus-property/
 **Activity-checked:** 2026-08-14

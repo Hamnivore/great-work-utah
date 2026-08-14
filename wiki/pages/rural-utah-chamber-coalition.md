@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** F
 **Activity-signal:** 2025-05-12 · https://www.ruralutahcc.org/ruccconference
 **Activity-checked:** 2026-08-14

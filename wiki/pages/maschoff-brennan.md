@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-07-30 · https://mabr.com/news/richard-gilmore-and-eric-maschoff-named-2026-patent-stars-firm-earns-national-intellectual-property-ranking
 **Activity-checked:** 2026-08-14

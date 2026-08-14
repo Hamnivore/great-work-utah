@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-07-30 · https://www.utahbusiness.com/press-releases/2026/07/30/arup-launches-first-clinical-spectral-flow-cytometry-assay-mrd-assessment/
 **Activity-checked:** 2026-08-14
 **Activity:** active

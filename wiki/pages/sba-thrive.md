@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2023-04-13 · https://www.sba.gov/article/2023/04/13/us-small-business-administration-announces-2023-application-thrive-executive-level-business-training
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Builder-tier:** C
 **Activity-signal:** 2025-09-09 · https://www.clozd.com/blog/clozd-expanded-ai-platform-press-release
 **Activity-checked:** 2026-08-14
 **Activity:** active

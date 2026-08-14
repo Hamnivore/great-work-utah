@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-01-26 · https://link.springer.com/article/10.1007/s10815-025-03791-0
 **Activity-checked:** 2026-08-14
 **Activity:** active

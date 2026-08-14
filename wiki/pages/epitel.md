@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-07-28 · https://www.utahbusiness.com/press-releases/2026/07/28/epitel-secures-26-million-series-b-expand-remote-wireless-eeg-monitoring/
 **Activity-checked:** 2026-08-14
 **Activity:** active

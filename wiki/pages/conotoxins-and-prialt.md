@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** A
+**Builder-tier:** S
 **Activity-signal:** 2026-05 · https://pubmed.ncbi.nlm.nih.gov/42017756/
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2026-02-09 · https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2026/Leggett1.pdf
 **Activity-checked:** 2026-08-14
 **Activity:** active

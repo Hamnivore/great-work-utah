@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** unranked
 **Activity-signal:** 2025-02-20 · https://bioutah.org/altitude-lab-demo-day/
 **Activity-checked:** 2026-08-14
 **Activity:** active

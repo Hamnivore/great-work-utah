@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-10-15 · https://www.stgeorgeutah.com/news/inspiring-the-next-generation-ram-aviation-space-defense-marks-50th-anniversary-with-open-house/article_03385b79-e0c5-43d5-b5e9-25efb5e67029.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

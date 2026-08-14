@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-07-15 · https://www.einpresswire.com/article/926662611/wave-charging-and-ports-america-deploy-high-power-wireless-charging-system-at-the-port-of-los-angeles
 **Activity-checked:** 2026-08-14
 **Activity:** active

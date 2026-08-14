@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** C
+**Builder-tier:** C
 **Activity-signal:** 2026-07-29 · https://solarquarter.com/2026/07/29/sunpower-reports-q2-2026-revenue-decline-amid-project-delays-targets-q3-recovery-with-revenue-above-75-million/
 **Activity-checked:** 2026-08-14
 **Activity:** active

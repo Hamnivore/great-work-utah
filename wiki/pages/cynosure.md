@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** C
 **Founder-tier:** F
 **Activity-signal:** 2026-02-26 · https://www.prnewswire.com/news-releases/the-cynosure-group-acquires-utah-development-and-construction-creating-a-new-joint-partnership-with-clyde-capital-group-302697970.html
 **Activity-checked:** 2026-08-14

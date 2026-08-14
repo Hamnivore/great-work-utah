@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-03-03 · https://www.eda.gov/strategic-initiatives/disaster-recovery/supplemental/2025/frequently-asked-questions
 **Activity-checked:** 2026-08-14

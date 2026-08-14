@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** n/a
 **Activity-signal:** 2026-09-19 · https://www.utahgeekevents.com/
 **Activity-checked:** 2026-08-14

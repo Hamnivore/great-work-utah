@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** F
 **Activity-signal:** 2026-06-02 · https://www.bestofstate.org/gala
 **Activity-checked:** 2026-08-14

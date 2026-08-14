@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2025-12-04 · https://www.mvtpharma.com/post/microvascular-therapeutic-announces-investment-from-the-nucleus-institute
 **Activity-checked:** 2026-08-14

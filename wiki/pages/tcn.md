@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-13 · https://tcn.applytojob.com/apply/FP7NLANEqv/Site-Reliability-Engineer
 **Activity-checked:** 2026-08-14
 **Activity:** active

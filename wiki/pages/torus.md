@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-04-30 · https://www.prnewswire.com/news-releases/trinity-capital-inc-provides-35-million-in-equipment-financing-to-torus-helping-power-american-made-energy-systems-302757993.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

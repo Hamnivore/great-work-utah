@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** S
+**Builder-tier:** S
 **Activity-signal:** 1981-07-23 · https://en.wikipedia.org/wiki/Harvey_Fletcher
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

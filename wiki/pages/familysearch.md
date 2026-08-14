@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-03-02 · https://www.familysearch.org/en/newsroom/rootstech-2026-starts-this-week
 **Activity-checked:** 2026-08-14
 **Activity:** active

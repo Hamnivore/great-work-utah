@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-07-23 · https://www.mx.com/news/worlds-top-fintech-companies-2026/
 **Activity-checked:** 2026-08-14
 **Activity:** active

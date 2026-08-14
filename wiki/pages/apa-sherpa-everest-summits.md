@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C*
+**Builder-tier:** S
 **Activity-signal:** 2011-05 · https://utahstories.com/2011/08/apa-sherpa-retires-summiting-mount-everest-21st-time/
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

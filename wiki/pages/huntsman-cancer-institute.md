@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-03-17 · https://healthcare.utah.edu/huntsmancancerinstitute/podcast/cancer-free-frontier/all/2026/03/episode-15-harmony-of-cancer-research-and-cancer-care
 **Activity-checked:** 2026-08-14
 **Activity:** active

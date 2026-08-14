@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2026-07-26 · https://utahn.com/why-im-building-utahn/
 **Activity-checked:** 2026-08-14
 **Activity:** active

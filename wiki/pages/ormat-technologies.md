@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-05 · https://www.globenewswire.com/news-release/2026/08/05/3339716/26372/en/ormat-technologies-reports-second-quarter-2026-financial-results.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

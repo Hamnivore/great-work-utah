@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-signal:** 2025-11-05 · https://www.techbuzznews.com/mindsmith-raises-4-1-million-seed-round/
 **Activity-checked:** 2026-08-14

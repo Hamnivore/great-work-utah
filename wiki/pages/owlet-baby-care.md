@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-08-11 · https://www.financialcontent.com/article/bizwire-2026-8-11-owlet-announces-second-quarter-2026-financial-results
 **Activity-checked:** 2026-08-14
 **Activity:** active

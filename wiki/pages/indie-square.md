@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2026-04-16 · https://stayhappening.com/e/the-art-of-donor-prospecting-andamp-donor-communication-frequency-E118SAWRVOGOC
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-04-02 · https://www.williams-int.com/cnc-ogden-utah/
 **Activity-checked:** 2026-08-14
 **Activity:** active

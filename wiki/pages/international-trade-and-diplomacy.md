@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** F
 **Activity-signal:** 2026-04-10 · https://www.wtcutah.com/mediastories/tm-switzerland-germany
 **Activity-checked:** 2026-08-14

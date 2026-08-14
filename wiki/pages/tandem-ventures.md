@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2025-05-05 · https://www.sec.gov/Archives/edgar/data/1970081/000197008125000001/0001970081-25-000001-index.html
 **Activity-checked:** 2026-08-14

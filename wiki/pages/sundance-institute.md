@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** S
 **Activity-signal:** 2026-07-31 · https://www.sundance.org/blogs/reflecting-on-the-2026-summer-season-of-our-sundance-institute-labs
 **Activity-checked:** 2026-08-14
 **Activity:** active

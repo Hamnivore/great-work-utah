@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** C
 **Activity-signal:** 2026-06-13 · https://apps.apple.com/us/app/wagevo/id6754396970
 **Activity-checked:** 2026-08-14
 **Activity:** active

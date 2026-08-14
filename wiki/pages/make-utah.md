@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2025-06-24 · https://kutv.com/features/fresh-living/utahs-hardtech-future-takes-the-spotlight-at-public-innovation-showcase
 **Activity-checked:** 2026-08-14

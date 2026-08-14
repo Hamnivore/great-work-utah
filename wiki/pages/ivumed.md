@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Founder-tier:** n/a
 **Activity-signal:** 2026-08-14 · https://www.ivumed.org/surgical-teaching-workshops
 **Activity-checked:** 2026-08-14

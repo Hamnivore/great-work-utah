@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** unranked
 **Founder-tier:** unranked
 **Activity-signal:** 2025-05-08 · https://www.ogdencity.gov/DocumentCenter/View/33983/2025-Final-Acceler8-Wasatch-2025-Press-Release-May-8
 **Activity-checked:** 2026-08-14

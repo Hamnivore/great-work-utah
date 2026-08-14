@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-08-07 · https://bioutah.org/byu-and-bioutah-connect-utahs-life-sciences-industry-at-annual-networking-lunch/
 **Activity-checked:** 2026-08-14

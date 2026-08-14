@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2025-05-20 · https://www.moabtimes.com/articles/grand-county-creates-new-economic-development-position/
 **Activity-checked:** 2026-08-14

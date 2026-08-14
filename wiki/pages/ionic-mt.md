@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2025-07-11 · https://ionicmt.com/press/ionic-mineral-technologies-closes-oversubscribed-29-million-series-b-to-scale-u-s-production-of-advanced-battery-materials
 **Activity-checked:** 2026-08-14
 **Activity:** active

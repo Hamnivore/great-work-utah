@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2026-08-03 · https://www.einpresswire.com/article/930783550/sethera-therapeutics-and-receptor-ai-form-integrated-discovery-alliance-for-ai-guided-polymacrocyclic-peptide-medicines
 **Activity-checked:** 2026-08-14
 **Activity:** active

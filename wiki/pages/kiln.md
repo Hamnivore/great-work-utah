@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-05-11 · https://kiln.com/happenings/press-releases/kiln-coworking-expands-preston-hollow-plano/
 **Activity-checked:** 2026-08-14

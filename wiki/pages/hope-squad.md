@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-02-26 · https://www.deseret.com/utah/2026/02/26/utah-suicide-prevention-bill/
 **Activity-checked:** 2026-08-14
 **Activity:** active

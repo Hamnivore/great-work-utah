@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Founder-tier:** C
 **Activity-signal:** 2026-08-18 · https://suazocenter.org/
 **Activity-checked:** 2026-08-14

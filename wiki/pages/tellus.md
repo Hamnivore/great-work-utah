@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-05-20 · https://iotacomm.com/iotacomm-and-tellus-networked-sensor-solutions-inc-partner-to-deliver-comprehensive-indoor-and-outdoor-air-quality-monitoring-solutions/
 **Activity-checked:** 2026-08-14
 **Activity:** active

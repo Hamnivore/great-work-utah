@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** F
 **Founder-tier:** D
 **Activity-signal:** 2026 · https://serda.utah.gov/community-development
 **Activity-checked:** 2026-08-14

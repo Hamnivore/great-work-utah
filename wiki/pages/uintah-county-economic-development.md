@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-signal:** 2026-03-19 · https://www.basinnow.com/2026-rise-and-thrive-business-speed-pitch-winners/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** F
 **Activity-signal:** 2026-09-08 · https://www.utahcounties.org/connect-pages/events
 **Activity-checked:** 2026-08-14

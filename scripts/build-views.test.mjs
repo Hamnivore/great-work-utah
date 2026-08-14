@@ -176,6 +176,35 @@ ${title} does a thing.
   }
 })
 
+test('builder list surfaces active high-conviction pages whose demonstrated impact is still low', () => {
+  const wiki = fs.mkdtempSync(path.join(os.tmpdir(), 'great-work-builder-view-'))
+  const pages = path.join(wiki, 'pages')
+  fs.mkdirSync(pages)
+  fs.writeFileSync(path.join(pages, 'hidden.md'), page({
+    title: 'Hidden Builders',
+    summary: 'A small team maintains a demanding institution.',
+  }).replace('**Confidence:** high', '**Confidence:** high\n**Tier:** D\n**Builder-tier:** A\n**Activity:** active\n**Activity-signal:** 2026-08-01 · https://example.com/update'))
+  fs.writeFileSync(path.join(pages, 'famous.md'), page({
+    title: 'Famous Builders',
+    summary: 'A well-known team already changed its field.',
+  }).replace('**Confidence:** high', '**Confidence:** high\n**Tier:** A\n**Builder-tier:** A\n**Activity:** active\n**Activity-signal:** 2026-08-01 · https://example.com/update'))
+
+  try {
+    execFileSync(process.execPath, [script], {
+      env: { ...process.env, GREAT_WORK_WIKI: wiki },
+      stdio: 'pipe',
+    })
+    const builder = fs.readFileSync(path.join(wiki, 'views', 'builder-tier-list.md'), 'utf8')
+    const hidden = builder.slice(builder.indexOf('## Hidden gems'), builder.indexOf('## Complete builder ladder'))
+    assert.match(hidden, /Hidden Builders[\s\S]*builder:A · impact:D · gap:\+3/)
+    assert.doesNotMatch(hidden, /Famous Builders/)
+    assert.match(builder, /### A — unusually strong builders \(2\)/)
+    assert.match(fs.readFileSync(path.join(wiki, 'views', 'index.md'), 'utf8'), /builder tier list/)
+  } finally {
+    fs.rmSync(wiki, { recursive: true, force: true })
+  }
+})
+
 // The founder ladder's whole justification is that it disagrees with the impact ladder, so the thing
 // worth pinning is that the two views sort the same page differently and that `n/a` leaves the ranking
 // rather than landing at the bottom of it.

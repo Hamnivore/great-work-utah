@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-signal:** 2026-06-16 · https://www.gohebervalley.com/newsroom-wasatch-county-microgrant-recipients-2026/
 **Activity-checked:** 2026-08-14

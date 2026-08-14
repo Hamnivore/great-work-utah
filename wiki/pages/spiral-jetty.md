@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B*
+**Builder-tier:** A
 **Activity-signal:** 1970-04 · https://holtsmithsonfoundation.org/spiral-jetty
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

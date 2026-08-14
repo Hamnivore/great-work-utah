@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** D
 **Founder-tier:** D
 **Activity-signal:** 2026-08-04 · https://oneutahsummit.utah.gov/
 **Activity-checked:** 2026-08-14

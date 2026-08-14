@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Builder-tier:** A
 **Activity-signal:** 2026-01-29 · https://news.northropgrumman.com/launch/northrop-grummans-smart-demo-tests-second-advanced-solid-rocket-motor-and-achieves-successful-firing-in-two-months
 **Activity-checked:** 2026-08-14
 **Activity:** active

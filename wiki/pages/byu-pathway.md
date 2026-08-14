@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-08 · https://www.byupathway.edu/employment/job-openings
 **Activity-checked:** 2026-08-14
 **Activity:** active

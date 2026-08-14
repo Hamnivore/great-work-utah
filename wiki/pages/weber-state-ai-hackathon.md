@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2027-03-20 · https://hackathon.weber.edu/
 **Activity-checked:** 2026-08-14

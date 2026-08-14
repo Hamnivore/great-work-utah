@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-01-28 · https://www.deseret.com/environment/2026/01/28/great-salt-lake-us-magnesium-purchase-water-rights/
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

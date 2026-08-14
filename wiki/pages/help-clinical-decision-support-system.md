@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2020-03-02 · https://healthsystemcio.com/2020/03/02/qa-with-marc-probst-chime-himss-cio-of-the-year/
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

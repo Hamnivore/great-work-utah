@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2025-08-28 · https://bioutah.org/epic-ventures-gains-200m-fresh-capital/
 **Activity-checked:** 2026-08-14

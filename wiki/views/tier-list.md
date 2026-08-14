@@ -2,6 +2,8 @@
 
 Utah work ranked by how far it could move the world. 46 pages in S and A; 15 starred discovery picks. Fame is neither evidence nor a prior. [How this is ranked](../meta/tiers.md) · `https://greatutah.work/meta/tiers.md`.
 
+Looking for overlooked builders? [See the hidden gems](builder-tier-list.md) · `https://greatutah.work/views/builder-tier-list.md`.
+
 Greyed-out entries are not active. [What (active) means](../meta/activity.md) · `https://greatutah.work/meta/activity.md`.
 
 ## S — world-historic (13)

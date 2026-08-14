@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-05-18 · https://www.sponsorcx.com/the-sponsorship-industry-is-modernizingwith-ai-and-investors-are-backing-the-platforms-that-will-power-it/
 **Activity-checked:** 2026-08-14

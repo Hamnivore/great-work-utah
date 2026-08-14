@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Builder-tier:** A
 **Activity-signal:** 2026-05-05 · https://investor.myriad.com/news-releases/news-release-detail/27246/
 **Activity-checked:** 2026-08-14
 **Activity:** active

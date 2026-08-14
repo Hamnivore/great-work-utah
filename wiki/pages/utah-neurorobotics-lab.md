@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2026-01-28 · https://neurorobotics.ece.utah.edu/2026/01/28/neurorobotics-lab-partners-with-meta-to-advance-accessible-wearable-technology-for-people-with-limited-hand-mobility/
 **Activity-checked:** 2026-08-14
 **Activity:** active

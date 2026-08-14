@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-05-21 · https://intantech.com/downloads.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

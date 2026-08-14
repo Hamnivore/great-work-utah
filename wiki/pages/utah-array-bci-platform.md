@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Builder-tier:** S
 **Activity-signal:** 2026-03-30 · https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1789112/full
 **Activity-checked:** 2026-08-14
 **Activity:** active

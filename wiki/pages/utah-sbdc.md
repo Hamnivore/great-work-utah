@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** A
 **Activity-signal:** 2025-12-18 · https://clients.utahsbdc.org/workshop.aspx?ekey=6450084
 **Activity-checked:** 2026-08-14

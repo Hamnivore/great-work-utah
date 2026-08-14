@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2025-04 · https://luma.com/bxbetln7
 **Activity-checked:** 2026-08-14
 **Activity:** active

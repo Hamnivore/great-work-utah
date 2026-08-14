@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-05-07 · https://utahvbrc.org/events/2026-minnow-tank-pitch-competition/
 **Activity-checked:** 2026-08-14

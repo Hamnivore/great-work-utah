@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2025-05-21 · https://www.wbcutah.org/events
 **Activity-checked:** 2026-08-14

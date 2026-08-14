@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** C
 **Activity-signal:** 2026-08-13 · https://jobs.ksl.com/listing/1036625
 **Activity-checked:** 2026-08-14
 **Activity:** active

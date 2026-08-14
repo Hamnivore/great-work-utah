@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D*
+**Builder-tier:** A
 **Founder-tier:** D
 **Activity-signal:** 2026-04-23 · https://www.meetup.com/the-foundry-by-forge-utah/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** F
 **Activity-signal:** 2025-01-14 · https://www.nephi.utah.gov/AgendaCenter/ViewFile/Minutes/_01142025-360/
 **Activity-checked:** 2026-08-14

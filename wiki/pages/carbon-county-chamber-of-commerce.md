@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-05-21 · https://etvnews.com/articles/local-news/carbon-chamber-hosts-meet-the-2026-candidates-for-the-may-luncheon/
 **Activity-checked:** 2026-08-14

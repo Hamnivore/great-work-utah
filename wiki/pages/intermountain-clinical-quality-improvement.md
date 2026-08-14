@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** S
 **Activity-signal:** 2026-08-25 · https://intermountainhealthcare.org/for-professionals/hdi/atp
 **Activity-checked:** 2026-08-14
 **Activity:** active

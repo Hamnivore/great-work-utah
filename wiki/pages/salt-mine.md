@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-06-16 · https://www.southvalleychamber.com/2026/06/16/2026-titan-awards-recipients-announced/
 **Activity-checked:** 2026-08-14

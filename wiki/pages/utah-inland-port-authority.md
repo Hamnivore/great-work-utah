@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-08-11 · https://inlandportauthority.utah.gov/
 **Activity-checked:** 2026-08-14

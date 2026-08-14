@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** F
 **Founder-tier:** unranked
 **Activity-signal:** 2026-06-16 · https://salinasun.online/135-years-of-compassion-springer-turner-funeral-home-recognized-by-chamber/
 **Activity-checked:** 2026-08-14

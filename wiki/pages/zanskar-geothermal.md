@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2026-07-29 · https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/
 **Activity-checked:** 2026-08-14
 **Activity:** active

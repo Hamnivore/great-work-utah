@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2026-01-16 · https://gardner.utah.edu/news/2026-economic-report-to-the-governor-highlights-resilient-utah-economy-amidst-national-headwinds/
 **Activity-checked:** 2026-08-14

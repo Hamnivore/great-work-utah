@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** C
 **Activity-signal:** 2026-04 · https://www.halda.ai/post/release-radar-april-2026
 **Activity-checked:** 2026-08-14
 **Activity:** active

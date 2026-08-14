@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-07-15 · https://www.utah.gov/pmn/sitemap/notice/1095277.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

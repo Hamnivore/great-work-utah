@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-08-20 · https://www.mwcn.org/events-calendar/
 **Activity-checked:** 2026-08-14

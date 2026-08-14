@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** C
 **Activity-signal:** 2024 · https://www.weber.edu/wsumagazine/spring-2024/wildcat-microfund.html
 **Activity-checked:** 2026-08-14

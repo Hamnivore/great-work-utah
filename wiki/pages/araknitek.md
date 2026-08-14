@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Activity-signal:** 2017-07-31 · https://www.nsf.gov/awardsearch/showAward?AWD_ID=1628245
 **Activity-checked:** 2026-08-14
 **Activity:** dormant

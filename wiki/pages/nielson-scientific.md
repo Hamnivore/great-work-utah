@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-02-18 · https://www.sbir.gov/awards/218978
 **Activity-checked:** 2026-08-14
 **Activity:** active

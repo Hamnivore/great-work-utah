@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** D
 **Activity-signal:** 2026-07-09 · https://www.upr.org/utah-news/2026-07-09/logan-target-cache-valley-opening-date
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Builder-tier:** D
 **Activity-signal:** 2026-07-10 · https://www.techbuzznews.com/utah-quantum-roundtable-3/
 **Activity-checked:** 2026-08-14
 **Activity:** active

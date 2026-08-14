@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-02-03 · https://www.utahmoneywatch.com/what-will-you-be-doing-one-week-from-today-to-celebrate-utahs-unique-tech-ecosystem/
 **Activity-checked:** 2026-08-14

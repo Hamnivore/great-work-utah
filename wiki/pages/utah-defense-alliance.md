@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** C
 **Founder-tier:** D
 **Activity-signal:** 2026-02-04 · https://www.dvidshub.net/news/558042/utah-defense-alliance-hosts-meet-military-breakfast
 **Activity-checked:** 2026-08-14

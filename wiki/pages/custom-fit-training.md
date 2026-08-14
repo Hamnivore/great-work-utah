@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** C
 **Founder-tier:** C
 **Activity-signal:** 2025-11 · https://ushe.edu/wp-content/uploads/pdf/reports/2025/Custom_Fit_Annual_Report.pdf
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** n/a
 **Activity-signal:** 2026-08-12 · https://www.deseret.com/education/2026/08/12/99-job-corps-centers-including-clearfields-to-stay-open-as-settlement-is-reached/
 **Activity-checked:** 2026-08-14

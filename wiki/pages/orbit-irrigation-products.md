@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2025-05-19 · https://www.prweb.com/releases/new-era-for-husqvarna-professional-landscape-and-agriculture-irrigation-solutions-302458300.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

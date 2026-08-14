@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** B
 **Activity-signal:** 2026-08-06 · https://www.sec.gov/Archives/edgar/data/1609151/000160915126000074/weav-20260630.htm
 **Activity-checked:** 2026-08-14
 **Activity:** active

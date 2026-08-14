@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Builder-tier:** unranked
 **Founder-tier:** unranked
 **Activity-signal:** 2026-07-04 · https://business.morganutahchamber.org/community-events/Details/morgan-s-spectacular-4th-of-july-celebration-2026-1728255?sourceTypeId=Website
 **Activity-checked:** 2026-08-14

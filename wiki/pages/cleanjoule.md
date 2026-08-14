@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2025-07-08 · https://finance.yahoo.com/news/cleanjoule-commissions-latest-industrial-manufacturing-135400484.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

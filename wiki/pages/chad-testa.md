@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2025-08-26 · https://www.biohive.com/fighting-the-silent-pandemic-how-curza-is-reshaping-the-future-of-antibiotics/
 **Activity-checked:** 2026-08-14
 **Activity:** active

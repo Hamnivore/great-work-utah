@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** A
 **Activity-signal:** 2026-06-18 · https://www.deseret.com/utah/2026/06/18/valar-atomics-goes-critical-in-utah/
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** S
 **Activity-signal:** 2026-07-23 · https://sci.utah.edu/news-from-the-institute/
 **Activity-checked:** 2026-08-14
 **Activity:** active

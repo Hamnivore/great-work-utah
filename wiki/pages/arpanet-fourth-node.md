@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 1969-12-05 · https://it.utah.edu/node4/posts/2017/august/node4-history.php
 **Activity-checked:** 2026-08-14
 **Activity:** concluded

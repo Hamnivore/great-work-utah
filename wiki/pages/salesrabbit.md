@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** C
+**Builder-tier:** C
 **Activity-signal:** 2026-01-06 · https://www.prnewswire.com/news-releases/salesrabbit-acquires-roofle-to-unify-field-sales-online-buying-and-production-for-roofing-and-home-improvement-contractors-302653511.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

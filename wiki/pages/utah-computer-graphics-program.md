@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** S
+**Builder-tier:** S
 **Activity-signal:** 2025-08 · https://www.cemyuksel.com/research/papers/Offset_Geometric_Contact-SIGGRAPH2025.pdf
 **Activity-checked:** 2026-08-14
 **Activity:** active

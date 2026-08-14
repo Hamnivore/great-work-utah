@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** B
+**Builder-tier:** B
 **Activity-signal:** 2026-05-12 · https://finance.yahoo.com/sectors/technology/articles/digicert-receives-frost-sullivan-2026-130000775.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

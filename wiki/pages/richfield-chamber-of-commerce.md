@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** unranked
 **Founder-tier:** F
 **Activity-signal:** 2026-07-13 · https://www.richfieldreaper.com/news/2026/07/13/richfield-area-chamber-of-commerce-holds-july-luncheon/
 **Activity-checked:** 2026-08-14

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Founder-tier:** n/a
 **Activity-signal:** 2026-08-21 · https://mountainheightsacademy.org/enrollment/enrollment-options/full-time
 **Activity-checked:** 2026-08-14

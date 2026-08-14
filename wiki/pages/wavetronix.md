@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** A
 **Activity-signal:** 2025-09-05 · https://wwwcfprd.doa.louisiana.gov/osp/lapac/ecat/dsp_LagovContractDetail.cfm?Contract=4400033472&nStart=1&strSort=ITEM_DESCRIPTION&strSortType=2
 **Activity-checked:** 2026-08-14
 **Activity:** active

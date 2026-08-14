@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
+**Builder-tier:** A
 **Activity-signal:** 2026-07-15 · https://blackrockneurotech.com/insights/long-term-safety-and-efficacy-of-intracortical-microstimulation-in-humans/
 **Activity-checked:** 2026-08-14
 **Activity:** active

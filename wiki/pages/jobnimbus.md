@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** C
 **Activity-signal:** 2026-08-05 · https://www.utahbusiness.com/press-releases/2026/08/05/jobnimbus-launches-nimbuslabs-early-access-program-new-features/
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Builder-tier:** unranked
 **Activity-signal:** 2026-08-05 · https://film.utah.gov/production/
 **Activity-checked:** 2026-08-14
 **Activity:** active

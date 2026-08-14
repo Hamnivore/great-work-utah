@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** High
 **Tier:** B
+**Builder-tier:** C
 **Activity-signal:** 2026-06-11 · https://www.businesswire.com/news/home/20260611677110/en/Adobe-Reports-Record-Q2-Results
 **Activity-checked:** 2026-08-14
 **Activity:** active

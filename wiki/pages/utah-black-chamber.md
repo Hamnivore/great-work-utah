@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Builder-tier:** B
 **Founder-tier:** D
 **Activity-signal:** 2025-08-08 · https://business.utahblackchamber.com/events/details/black-wealth-conference-gold-mind-the-new-code-to-black-wealth-856
 **Activity-checked:** 2026-08-14

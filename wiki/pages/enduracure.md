@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** D
+**Tier:** C
 **Activity-signal:** 2025-10-01 · https://nsf.elsevierpure.com/en/organisations/enduracure-llc/
 **Activity-checked:** 2026-08-14
 **Activity:** active

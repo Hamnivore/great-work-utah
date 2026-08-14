@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** C
+**Tier:** B
 **Activity-signal:** 2026-03-11 · https://asirobots.com/asis-scythe-acquisition-amplifies-autonomous-off-road-vehicle-leadership/
 **Activity-checked:** 2026-08-14
 **Activity:** active

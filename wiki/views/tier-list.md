@@ -1,6 +1,6 @@
 # The tier list
 
-Utah work ranked by how far it could move the world. 37 pages in S and A. [How this is ranked](../meta/tiers.md) · `https://greatutah.work/meta/tiers.md`.
+Utah work ranked by how far it could move the world. 46 pages in S and A; 15 starred discovery picks. Fame is neither evidence nor a prior. [How this is ranked](../meta/tiers.md) · `https://greatutah.work/meta/tiers.md`.
 
 Greyed-out entries are not active. [What (active) means](../meta/activity.md) · `https://greatutah.work/meta/activity.md`.
 
@@ -33,14 +33,22 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
 - **[Utah Population Database](/pages/utah-population-database.md)** (active) · `https://greatutah.work/pages/utah-population-database.md`
   The Utah Population Database links multigenerational genealogy with medical and vital records for genetic and population-health research. That enduring, globally unusual structure made otherwise invisible hereditary disease patterns discoverable and helped establish modern cancer genetics—a permanent scientific capability.
 
-## A — field-defining (24)
+## A — field-defining (33)
 
+- **[Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md)** (1991) · `https://greatutah.work/pages/pons-fleischmann-cold-fusion.md` \*
+  In 1989 University of Utah chemists Stanley Pons and Martin Fleischmann announced room-temperature nuclear fusion in a tabletop cell ([retrospective](/pages/axios-cold-fusion-35-years.md)). The claim failed replication, but the episode permanently changed scientific norms around premature publicity and became a global cautionary landmark.
 - **[309th Software Engineering Group](/pages/309th-software-engineering-group.md)** (active) · `https://greatutah.work/pages/309th-software-engineering-group.md`
   Hill Air Force Base's 309th Software Engineering Group maintains flight, weapons, and mission code across much of the U.S. combat-aircraft and nuclear-deterrent fleet. Its software directly enables systems with global, potentially civilization-scale consequences, and no substitute could absorb that classified portfolio without major capability loss.
+- **[Atavistik Bio](/pages/atavistik-bio.md)** (active) · `https://greatutah.work/pages/atavistik-bio.md`
+  Atavistik Bio is a clinical-stage biotechnology company developing drugs targeting allosteric sites. Many of the best drug targets are allosteric sites nobody knew existed.
 - **[Blackrock Neurotech](/pages/blackrock-neurotech.md)** (active) · `https://greatutah.work/pages/blackrock-neurotech.md`
   Salt Lake City-based Blackrock Neurotech commercialized the Utah Electrode Array and is developing brain-computer systems for paralysis and locked-in syndrome. Restoring communication and movement from neural signals would reset a global medical frontier; decades of human research make that more than a speculative S-scale bet.
+- **[CleanJoule](/pages/cleanjoule.md)** (active) · `https://greatutah.work/pages/cleanjoule.md`
+  CleanJoule is a Salt Lake City-based biofuels company, founded around 2020, that produces biomanufactured aviation fuel and rocket propellant intended to outperform petroleum-derived fuels on energy density. Sustainable aviation fuel is one of the harder decarbonization problems: commercial aviation cannot readily electrify, hydrogen fuel is not near-term practical for most aircraft.
 - **[Conotoxins and Prialt](/pages/conotoxins-and-prialt.md)** (active) · `https://greatutah.work/pages/conotoxins-and-prialt.md`
   Baldomero Olivera's University of Utah lab turned cone-snail venom into a precision toolkit for neuroscience and the drug ziconotide. Proving that a venom peptide could become an approved non-opioid treatment opened a global drug-discovery frontier, even though spinal infusion limits the medicine's reach.
+- **[Curza](/pages/curza.md)** (active) · `https://greatutah.work/pages/curza.md`
+  Curza is a University of Utah College of Science spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. A new antibiotic approved for drug-resistant Gram-negative infections could reduce substantial mortality and blunt the projected burden of antimicrobial resistance.
 - **[Evans & Sutherland](/pages/evans-and-sutherland.md)** (active) · `https://greatutah.work/pages/evans-and-sutherland.md`
   Evans & Sutherland was founded in 1968 by David Evans and Ivan Sutherland, both professors in the University of Utah computer science department. The University of Utah graphics program produced ideas, but ideas needed hardware.
 - **[Fervo Energy](/pages/fervo-energy.md)** (active) · `https://greatutah.work/pages/fervo-energy.md`
@@ -51,6 +59,8 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   The Great Salt Lake is not an organization, and no single company is responsible for it. The problem is structurally difficult to build a company around because the root cause (agricultural water diversion) requires policy change, and policy is slower and harder than technology.
 - **[H. Tracy Hall's Diamond Presses](/pages/h-tracy-hall-diamond-presses.md)** (2008) · `https://greatutah.work/pages/h-tracy-hall-diamond-presses.md`
   Utah-born H. Tracy Hall helped create synthetic diamond, then developed multi-anvil presses that made extreme pressure and heat practical. Those machines spread globally through diamond, ceramics, materials research, and manufacturing, turning a laboratory breakthrough into an industrial frontier.
+- **[Halia Therapeutics](/pages/halia-therapeutics.md)** (active) · `https://greatutah.work/pages/halia-therapeutics.md`
+  Lehi-based Halia Therapeutics is testing drugs that interrupt the NLRP3 inflammation pathway implicated in aging and chronic disease. If its upstream approach avoids the toxicity that defeated direct inhibitors, one mechanism could alter treatment across multiple major diseases; human trials remain the gate.
 - **[HELP Clinical Decision Support System](/pages/help-clinical-decision-support-system.md)** (2020) · `https://greatutah.work/pages/help-clinical-decision-support-system.md`
   HELP, short for Health Evaluation through Logical Processing, was a hospital information system built at LDS Hospital in Salt Lake City with deep ties to the University of Utah medical-informatics community. Modern medicine depends on electronic health records and clinical decision support, but in the 1970s and 1980s that future was not obvious.
 - **[Hill Air Force Base](/pages/hill-air-force-base.md)** (active) · `https://greatutah.work/pages/hill-air-force-base.md`
@@ -61,14 +71,22 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   The NSA Utah Data Center at Camp Williams stores and processes classified intelligence-community data at exceptional scale. Snowden's disclosures made it the country's clearest physical symbol of mass surveillance: unquestionably consequential, and whether that work is a public good is fiercely contested.
 - **[Nusano](/pages/nusano.md)** (active) · `https://greatutah.work/pages/nusano.md`
   Nusano is building a particle-accelerator system to produce medical and industrial radioisotopes ([official source](/pages/nusano-official-website.md)). If it makes scarce isotopes reliably at scale, radiopharmaceutical development stops being constrained by fragile reactor supply—a credible global-frontier bet.
-- **[Pons and Fleischmann Cold Fusion Announcement](/pages/pons-fleischmann-cold-fusion.md)** (1991) · `https://greatutah.work/pages/pons-fleischmann-cold-fusion.md` \*
-  In 1989 University of Utah chemists Stanley Pons and Martin Fleischmann announced room-temperature nuclear fusion in a tabletop cell ([retrospective](/pages/axios-cold-fusion-35-years.md)). The claim failed replication, but the episode permanently changed scientific norms around premature publicity and became a global cautionary landmark.
+- **[OxEon Energy](/pages/oxeon-energy.md)** (active) · `https://greatutah.work/pages/oxeon-energy.md`
+  North Salt Lake-based OxEon Energy makes solid-oxide electrolysis systems for hydrogen, synthetic fuels, energy storage, and oxygen production. Its hardware links Utah to industrial decarbonization and Mars resource systems; if deployed at scale, that capability changes more than a single product market.
+- **[PassiveLogic](/pages/passivelogic.md)** (active) · `https://greatutah.work/pages/passivelogic.md`
+  PassiveLogic is a Salt Lake City company building a generalized-autonomy platform that began with autonomous buildings. The impact case is strongest in commercial buildings, campuses, industrial facilities, and energy retrofits where outdated building-management systems waste energy and labor.
 - **[Recursion Pharmaceuticals](/pages/recursion-pharmaceuticals.md)** (active) · `https://greatutah.work/pages/recursion-pharmaceuticals.md`
   Salt Lake City-based Recursion combines automated biology, large datasets, machine learning, and clinical development to industrialize drug discovery. If its platform reliably finds better targets and compresses discovery across many diseases, it could move the global frontier rather than merely produce one drug.
+- **[Rodatherm Energy](/pages/rodatherm-energy.md)** (active) · `https://greatutah.work/pages/rodatherm-energy.md`
+  Salt Lake City and Calgary-based Rodatherm Energy is developing closed-loop geothermal for hot sedimentary basins beyond conventional geothermal's reach. Its sealed design bets on broad resource access without fluid-injection seismicity—the community and regulatory liability that shadows enhanced geothermal systems.
 - **[Soundstream and Commercial Digital Audio Recording](/pages/soundstream-digital-audio-recording.md)** (1985) · `https://greatutah.work/pages/soundstream-digital-audio-recording.md`
   Thomas G. Stockham Jr. founded Soundstream in Salt Lake City in May 1975 to build an integrated commercial system for digital recording and computer-based audio editing. Soundstream proved digital audio could be musically credible and commercially usable, preparing the ground for compact discs, digital mastering, workstations, and file-based sound.
+- **[Spire Therapeutics](/pages/spire-therapeutic.md)** (active) · `https://greatutah.work/pages/spire-therapeutic.md`
+  Spire Therapeutics is developing Diadem, focused ultrasound meant to modulate deep brain circuits involved in chronic pain and depression. If Phase 3 succeeds and FDA clears it, Diadem could offer a rapid, noninvasive alternative where drugs and shallower stimulation fall short.
 - **[Sundance Institute](/pages/sundance-institute.md)** (active) · `https://greatutah.work/pages/sundance-institute.md`
   The Sundance Institute develops independent filmmakers through labs and a globally influential festival. Four decades of films and careers would not exist without that pipeline; its credible S-scale bet is cultural, shaping which stories enter world cinema outside the studio system.
+- **[SymbioCellTech](/pages/symbiocelltech.md)** (active) · `https://greatutah.work/pages/symbiocelltech.md`
+  SymbioCellTech is developing Neo-Islets, insulin-producing cell clusters paired with stem cells to resist immune rejection. If they restore glucose control without lifelong immunosuppression at manufacturable scale, the result would be a structural functional cure for type 1 diabetes; human proof remains the gate.
 - **[Telescope Array](/pages/telescope-array-ultra-high-energy-cosmic-rays.md)** (active) · `https://greatutah.work/pages/telescope-array-ultra-high-energy-cosmic-rays.md`
   The University of Utah–University of Tokyo Telescope Array measures the universe's highest-energy cosmic rays in Utah's West Desert. Pinning down their sources would resolve a global astrophysics frontier, and the observatory's rare combination of scale, dark sky, dry air, and flat terrain makes that discovery credible.
 - **[University of Utah ARPANET Fourth Node](/pages/arpanet-fourth-node.md)** (1969) · `https://greatutah.work/pages/arpanet-fourth-node.md`
@@ -79,19 +97,29 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   The Utah Test and Training Range provides vast controlled airspace, terrain, telemetry, and targets for realistic weapons, aircraft, and space testing. Few substitutes can handle its overland scale, making it national frontier infrastructure whose absence would slow or relocate consequential American defense programs.
 - **[Utah Test and Training Range (UTTR)](/pages/uttr.md)** (active) · `https://greatutah.work/pages/uttr.md`
   The Utah Test and Training Range supports long-track weapons tests, hypersonic recovery, and commercial spacecraft returns with controlled airspace, telemetry, and recovery crews. Few substitutes offer its overland scale, so losing it would materially constrain national defense and space testing ([deeper history](/pages/utah-test-and-training-range.md)).
-- **[Utah's Multi-Level Marketing Industry](/pages/utah-multi-level-marketing-industry.md)** (active) · `https://greatutah.work/pages/utah-multi-level-marketing-industry.md`
-  Utah is a global center of multi-level marketing, with a durable manufacturing and supplier cluster and participation touching roughly one in ten Utah adults. Its A-tier magnitude includes both exports and harm: company disclosures show most participants earn little or nothing while the model reproduces across firms and generations.
+- **[Varda Space Industries](/pages/varda-space.md)** (active) · `https://greatutah.work/pages/varda-space.md`
+  Varda builds orbital factories and capsules that return microgravity-made materials to Earth. Its 2024 Utah landing proved the full commercial return chain; if orbit produces meaningfully better pharmaceuticals at workable cost, it creates a new manufacturing sector rather than a one-off space mission.
 - **[Zanskar Geothermal](/pages/zanskar-geothermal.md)** (active) · `https://greatutah.work/pages/zanskar-geothermal.md`
   Zanskar Geothermal uses machine learning and geoscience to predict hidden heat, then tests the prediction by drilling. If its blind discoveries generalize, geothermal exploration could shift from expensive geological luck to repeatable inference—an enabling breakthrough with credible global, S-scale upside.
 
-## B — structurally significant (54)
+## B — structurally significant (63)
 
+- **[3Helix](/pages/3helix.md)** (active) · `https://greatutah.work/pages/3helix.md` \*
+  3Helix is a Salt Lake City biotechnology company built around Collagen Hybridizing Peptides (CHPs) — short peptides that bind specifically to denatured collagen triple-helix sites rather than intact collagen. Damaged collagen is a structural signature across heart attack, cancer invasion, arthritis, fibrosis, wound healing, and aging.
+- **[Bioparin](/pages/bioparin.md)** (active) · `https://greatutah.work/pages/bioparin.md` \*
+  Bioparin is an early-stage University of Utah spinout, founded around 2023, working to produce heparin synthetically using cell-based or enzymatic biosynthesis rather than animal extraction. Heparin's supply chain is one of the most fragile in all of medicine.
+- **[CaLycia Biosciences](/pages/calycia-biosciences.md)** (active) · `https://greatutah.work/pages/calycia-biosciences.md` \*
+  CaLycia Biosciences is a Salt Lake City biotechnology company developing macrophage-based cell therapies for aggressive solid tumors of the brain. Glioblastoma remains one of oncology's hardest indications: median survival is roughly 15 months with limited durable advances over decades.
+- **[Spiral Jetty](/pages/spiral-jetty.md)** (1970) · `https://greatutah.work/pages/spiral-jetty.md` \*
+  Robert Smithson's 1,500-foot *Spiral Jetty* is a basalt earthwork built in Great Salt Lake in 1970. It helped establish Land art as a major form by making sculpture a changing place, process, film, and pilgrimage—an influence that permanently altered contemporary art beyond the Utah site.
 - **[Adobe](/pages/adobe.md)** (active) · `https://greatutah.work/pages/adobe.md`
   Adobe makes Photoshop, Illustrator, Premiere Pro, Acrobat, and Creative Cloud, with a major engineering campus in Lehi. Its Omniture acquisition and sustained Utah operation anchored a deep enterprise-software labor market, structurally strengthening the state's ability to build later technology companies.
 - **[Ancestry](/pages/ancestry.md)** (active) · `https://greatutah.work/pages/ancestry.md`
   Ancestry is a Lehi, Utah-based family-history and consumer-genomics company. Ancestry helped make online genealogy and direct-to-consumer genetic genealogy mainstream consumer products.
 - **[ARUP Laboratories](/pages/arup-laboratories.md)** (active) · `https://greatutah.work/pages/arup-laboratories.md`
   ARUP Laboratories — legally Associated Regional and University Pathologists, Inc. — is a Salt Lake City reference laboratory that ARUP and the University of Utah Department of Pathology describe as a national academic reference. The depth argument rests on what reference laboratories actually do: run assays and interpret results that community hospitals and regional labs cannot maintain in-house.
+- **[Autonomous Solutions, Inc. (ASI)](/pages/autonomous-solutions-inc.md)** (active) · `https://greatutah.work/pages/autonomous-solutions-inc.md`
+  Autonomous Solutions, Inc. Off-road autonomy is a larger and less-covered economic story than passenger-car autonomy.
 - **[Best Friends Animal Society](/pages/best-friends-animal-society.md)** (active) · `https://greatutah.work/pages/best-friends-animal-society.md`
   Best Friends Animal Society operates a 5,800-acre sanctuary near Kanab and leads a national campaign to end shelter killing. The sanctuary created durable animal-care infrastructure, while its no-kill network changed practices across shelters rather than helping only the animals housed in Utah.
 - **[BioFire Diagnostics](/pages/biofire-diagnostics.md)** (active) · `https://greatutah.work/pages/biofire-diagnostics.md`
@@ -100,10 +128,12 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Bunnell makes Life Pulse high-frequency jet ventilators for critically ill newborns and infants. Its specialized system keeps gas exchange going in lungs not ready to breathe and has sustained a distinct neonatal-care modality for decades—narrow in patient count, but structural at the bedside.
 - **[BYU-Pathway Worldwide](/pages/byu-pathway.md)** (active) · `https://greatutah.work/pages/byu-pathway.md`
   BYU-Pathway Worldwide is a nonprofit online higher-education pathway operated by The Church of Jesus Christ of Latter-day Saints. Most of the world's population lives where accredited university degrees are unaffordable or inaccessible.
-- **[CleanJoule](/pages/cleanjoule.md)** (active) · `https://greatutah.work/pages/cleanjoule.md`
-  CleanJoule is a Salt Lake City-based biofuels company, founded around 2020, that produces biomanufactured aviation fuel and rocket propellant intended to outperform petroleum-derived fuels on energy density. Sustainable aviation fuel is one of the harder decarbonization problems: commercial aviation cannot readily electrify, hydrogen fuel is not near-term practical for most aircraft.
-- **[Curza](/pages/curza.md)** (active) · `https://greatutah.work/pages/curza.md`
-  Curza is a University of Utah College of Science spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. A new antibiotic approved for drug-resistant Gram-negative infections could reduce substantial mortality and blunt the projected burden of antimicrobial resistance.
+- **[Carterra](/pages/carterra.md)** (active) · `https://greatutah.work/pages/carterra.md`
+  Carterra builds high-throughput surface plasmon resonance (SPR) instruments — chiefly the LSA family and newer Vega/Ultra platforms — for monoclonal-antibody discovery and characterization. Antibody therapeutics depend on knowing how candidates bind — kinetics, affinity, and epitope diversity — early enough to choose the right clones from large libraries.
+- **[Coreform](/pages/coreform.md)** (active) · `https://greatutah.work/pages/coreform.md`
+  Coreform is a Utah-based engineering simulation company commercializing isogeometric analysis (IGA). The impact case is strongest where high-fidelity simulation is load-bearing but design iteration is slow because meshing and geometry cleanup dominate the workflow. Coreform's public positioning argues that IGA removes the geometry-to-mesh translation step by letting engineers simulate on fully.
+- **[Culmination Bio](/pages/culmination-bio.md)** (2024) · `https://greatutah.work/pages/culmination-bio.md`
+  Culmination Bio is described as a biotech company connected to Intermountain Health. Drug discovery fails often because early biological hypotheses are wrong.
 - **[Deseret Book / Bonneville International](/pages/deseret-book-bonneville.md)** (active) · `https://greatutah.work/pages/deseret-book-bonneville.md`
   Deseret Book and Bonneville International are the two principal media operations of Deseret Management Corporation (DMC), the for-profit holding entity of the Church of Jesus Christ of Latter-day Saints. The impact is real and large within a specific audience. ~17 million LDS members globally consume media produced or distributed through these channels.
 - **[DigiCert](/pages/digicert.md)** (active) · `https://greatutah.work/pages/digicert.md`
@@ -122,16 +152,22 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Salt Lake City-based FamilySearch preserves and links genealogy records at unmatched global scale. Its century-long digitization effort made family history broadly accessible and supplied the intergenerational data behind discoveries such as inherited breast-cancer risk—a durable research and public infrastructure.
 - **[Florian Solzbacher](/pages/florian-solzbacher.md)** (active) · `https://greatutah.work/pages/florian-solzbacher.md`
   Florian Solzbacher co-founded Blackrock Neurotech to commercialize the Utah Electrode Array when brain-computer interfaces barely existed as a market. Sustaining that platform helped make high-channel human neural recording available worldwide, structurally advancing an entire research sector.
-- **[Halia Therapeutics](/pages/halia-therapeutics.md)** (active) · `https://greatutah.work/pages/halia-therapeutics.md`
-  Lehi-based Halia Therapeutics is testing drugs that interrupt the NLRP3 inflammation pathway implicated in aging and chronic disease. If its upstream approach avoids the toxicity that defeated direct inhibitors, one mechanism could alter treatment across multiple major diseases; human trials remain the gate.
+- **[Fortem Technologies](/pages/fortem-technologies.md)** (active) · `https://greatutah.work/pages/fortem-technologies.md`
+  Fortem Technologies is a Utah defense and airspace-security company best known for TrueView radar, DroneHunter interceptors, and the SkyDome system. The impact case is strongest where drones threaten people or critical infrastructure and traditional air defense is too broad, too expensive, or legally difficult. Fortem says its SkyDome system combines sensors, autonomous interceptors.
 - **[Hexcel Corporation](/pages/hexcel.md)** (active) · `https://greatutah.work/pages/hexcel.md`
   Hexcel makes aerospace carbon fiber and advanced composites, including material for U.S. military and space programs. Its lightweight structures sit upstream of aircraft efficiency and mission performance across more than 100 programs, making the company a load-bearing industrial supplier rather than a local employer story.
 - **[Huntsman Cancer Institute](/pages/huntsman-cancer-institute.md)** (active) · `https://greatutah.work/pages/huntsman-cancer-institute.md`
   Huntsman Cancer Institute (HCI) is the cancer research institute and hospital of University of Utah Health, founded in 1995 through a gift from Jon M. and Karen Huntsman. HCI states that more genes for inherited cancers have been discovered there than at any other cancer center.
+- **[IMSAR](/pages/imsar.md)** (active) · `https://greatutah.work/pages/imsar.md`
+  IMSAR is a Utah Valley radar company that designs, builds, and supports low-size, weight, and power airborne radar systems. The impact case is strongest in defense, border security, maritime search, and tactical intelligence.
 - **[Instructure](/pages/instructure.md)** (active) · `https://greatutah.work/pages/instructure.md`
   Salt Lake City–based Instructure makes Canvas, a learning-management system used widely across universities, schools, and companies. Its AI leverage is distribution, not frontier models: it can place tutoring and instructor tools directly inside software students and faculty already use.
 - **[Intan Technologies](/pages/intan-technologies.md)** (active) · `https://greatutah.work/pages/intan-technologies.md`
   Intan Technologies makes high-channel-count, low-noise integrated circuits for neural recording and stimulation. A researcher who wanted 100+ simultaneous channels spent years on hardware rather than science.
+- **[Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md)** (active) · `https://greatutah.work/pages/ionic-mt.md`
+  Provo-based Ionic Mineral Technologies turns naturally tubular halloysite clay into nano-silicon battery-anode material. Its Utah ore could be a genuine cost advantage, while alumina and critical-metal co-products hedge the economics if battery-grade silicon alone cannot carry the operation.
+- **[Iris Biomedical](/pages/iris-biomedical.md)** (active) · `https://greatutah.work/pages/iris-biomedical.md`
+  Iris Biomedical designs and manufactures custom implantable electrodes, flexible substrates, hermetic packages, and connectors in Salt Lake City. Its impact is indirect but hard to fake: early neural-interface programs need specialized hardware shops before they can justify building medical-grade manufacturing themselves.
 - **[Jared Rutter](/pages/jared-rutter.md)** (active) · `https://greatutah.work/pages/jared-rutter.md`
   University of Utah biochemist Jared Rutter co-developed a proteome-scale map showing that metabolites regulate far more proteins than scientists knew, opening new drug targets. He then co-founded [Atavistik Bio](/pages/atavistik-bio.md) to turn that structural advance into medicines, though broad outside adoption remains unproven.
 - **[L3Harris Salt Lake City](/pages/l3harris-salt-lake.md)** (active) · `https://greatutah.work/pages/l3harris-salt-lake.md`
@@ -140,40 +176,38 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   South Jordan-based Merit Medical makes catheters, micro-access kits, embolization devices, ablation tools, and stents for minimally invasive procedures. Its importance comes from enabling clinicians to treat through millimeter-scale access instead of open surgery, not from any single flagship device.
 - **[MOXIE Solid Oxide Electrolysis Stack](/pages/moxie-solid-oxide-electrolysis-stack.md)** (2023) · `https://greatutah.work/pages/moxie-solid-oxide-electrolysis-stack.md`
   MOXIE — the Mars Oxygen In-Situ Resource Utilization Experiment — was a toaster-sized payload on NASA's Perseverance rover that produced oxygen from the carbon dioxide atmosphere of Mars ([NASA mission report](/pages/nasa-moxie-completes-mission.md)). It proved that future explorers could manufacture oxygen on Mars rather than launching all of it from Earth.
+- **[Music AI (Moises)](/pages/music-ai.md)** (active) · `https://greatutah.work/pages/music-ai.md`
+  Music AI, trading as Moises, builds source-separation, licensed voice-cloning, generation, and collaboration tools for musicians and producers. The big bet is its royalty-and-consent infrastructure becoming a standard; if separation remains the core, this is a strong but bounded creative utility.
 - **[Myriad Genetics](/pages/myriad-genetics.md)** (active) · `https://greatutah.work/pages/myriad-genetics.md`
   Myriad Genetics is a publicly traded molecular diagnostics company headquartered in Salt Lake City, Utah ([FY2025 Form 10-K](/pages/myriad-genetics-10k-fy2025.md)). Myriad helped establish that inherited cancer risk could be tested routinely in clinical care.
 - **[Nu Skin Enterprises](/pages/nu-skin.md)** (active) · `https://greatutah.work/pages/nu-skin.md`
   Nu Skin is a Provo personal-care and nutrition company selling worldwide through multi-level marketing ([Form 10-K](/pages/nu-skin-10k-fy2025.md)). Its durable Utah impact is structural: it helped make the state a global center for this distribution model, including both its entrepreneurial reach and its risks.
-- **[OxEon Energy](/pages/oxeon-energy.md)** (active) · `https://greatutah.work/pages/oxeon-energy.md`
-  North Salt Lake-based OxEon Energy makes solid-oxide electrolysis systems for hydrogen, synthetic fuels, energy storage, and oxygen production. Its hardware links Utah to industrial decarbonization and Mars resource systems; if deployed at scale, that capability changes more than a single product market.
-- **[PassiveLogic](/pages/passivelogic.md)** (active) · `https://greatutah.work/pages/passivelogic.md`
-  PassiveLogic is a Salt Lake City company building a generalized-autonomy platform that began with autonomous buildings. The impact case is strongest in commercial buildings, campuses, industrial facilities, and energy retrofits where outdated building-management systems waste energy and labor.
+- **[Palladyne AI](/pages/palladyne-ai.md)** (active) · `https://greatutah.work/pages/palladyne-ai.md`
+  Salt Lake City-based Palladyne AI (NASDAQ: PDYN) builds embodied-AI software for robots and drones to perceive, learn, and act without a cloud connection ([official site](/pages/palladyne-ai-official-website.md)). Its bet is edge autonomy where latency, bandwidth, or connectivity fail—in warehouses, battlefields, and other disconnected environments.
 - **[PhotoPharmics](/pages/photopharmics.md)** (active) · `https://greatutah.work/pages/photopharmics.md`
   Utah-based PhotoPharmics is testing non-invasive light therapy for neurodegenerative disease ([official site](/pages/photopharmics-official-website.md)). A validated treatment that improves Parkinson's symptoms without drugs would change care structurally; clinical evidence, not the device concept, is the live constraint.
 - **[Qualtrics](/pages/qualtrics.md)** (active) · `https://greatutah.work/pages/qualtrics.md`
   Utah-born Qualtrics helped define experience-management software for surveying customers and employees. Its global scale, large Utah engineering base, and founder alumni changed the state's software ecosystem structurally, though rivals mean the product category does not depend on Qualtrics alone.
-- **[Rodatherm Energy](/pages/rodatherm-energy.md)** (active) · `https://greatutah.work/pages/rodatherm-energy.md`
-  Salt Lake City and Calgary-based Rodatherm Energy is developing closed-loop geothermal for hot sedimentary basins beyond conventional geothermal's reach. Its sealed design bets on broad resource access without fluid-injection seismicity—the community and regulatory liability that shadows enhanced geothermal systems.
 - **[SafeUT](/pages/safeut.md)** (active) · `https://greatutah.work/pages/safeut.md`
   SafeUT is Utah's statewide, round-the-clock crisis-chat and school-safety tip system, operated by Huntsman Mental Health Institute ([official site](/pages/safeut-official-website.md)). Statutory funding and hundreds of annual emergency interventions make it durable state safety infrastructure, though sources do not prove how many attacks it prevented.
+- **[SchoolAI](/pages/schoolai.md)** (active) · `https://greatutah.work/pages/schoolai.md`
+  Lehi-based SchoolAI gives teachers configurable AI tutors and real-time visibility into student engagement. If it reliably personalizes attention across a full classroom, it improves a persistent constraint at real scale; competing education platforms make that gain replaceable.
 - **[SCI Institute](/pages/sci-institute.md)** (active) · `https://greatutah.work/pages/sci-institute.md`
   The University of Utah's Scientific Computing and Imaging Institute maintains open-source tools for biomedical visualization, cardiac simulation, segmentation, and shape analysis. General visualization would survive without SCI, but its maintained biomedical-computing stack would leave a real research gap.
 - **[SkyWest, Inc.](/pages/skywest-inc.md)** (active) · `https://greatutah.work/pages/skywest-inc.md`
   SkyWest is a Saint George-based public company operating regional flights for major U.S. airlines ([2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/skyw-20251231x10k.htm)). Its network structurally connects smaller cities to national hubs at a scale a local substitute could not quickly replace.
 - **[Space Dynamics Laboratory](/pages/space-dynamics-laboratory.md)** (active) · `https://greatutah.work/pages/space-dynamics-laboratory.md`
   Utah State University's Space Dynamics Laboratory builds sensors, satellites, and mission systems for science and national security. Its durable government and space capability changes what Utah institutions can execute, but comparable national laboratories keep it below a field-defining tier.
-- **[Spiral Jetty](/pages/spiral-jetty.md)** (1970) · `https://greatutah.work/pages/spiral-jetty.md` \*
-  Robert Smithson's 1,500-foot *Spiral Jetty* is a basalt earthwork built in Great Salt Lake in 1970. It helped establish Land art as a major form by making sculpture a changing place, process, film, and pilgrimage—an influence that permanently altered contemporary art beyond the Utah site.
-- **[Spire Therapeutics](/pages/spire-therapeutic.md)** (active) · `https://greatutah.work/pages/spire-therapeutic.md`
-  Spire Therapeutics is developing Diadem, focused ultrasound meant to modulate deep brain circuits involved in chronic pain and depression. If Phase 3 succeeds and FDA clears it, Diadem could offer a rapid, noninvasive alternative where drugs and shallower stimulation fall short.
 - **[Splunk](/pages/splunk.md)** (active) · `https://greatutah.work/pages/splunk.md`
   Splunk turns machine data into security, observability, and incident-response systems for large organizations. Its replaceable products still operate at structural scale: outages and breaches affect millions, and Cisco's bet is that network, security, and operations data can become one control layer.
 - **[Stratos Data Center](/pages/stratos-data-center.md)** (active) · `https://greatutah.work/pages/stratos-data-center.md`
   Stratos is a proposed energy, data-center, and manufacturing district in Box Elder County ([project plan](/pages/stratos-project-area-plan.md)). If built at the planned scale, it would restructure the county's industrial and power landscape; until then, the B-tier case is a consequential development bet.
-- **[SymbioCellTech](/pages/symbiocelltech.md)** (active) · `https://greatutah.work/pages/symbiocelltech.md`
-  SymbioCellTech is developing Neo-Islets, insulin-producing cell clusters paired with stem cells to resist immune rejection. If they restore glucose control without lifelong immunosuppression at manufacturable scale, the result would be a structural functional cure for type 1 diabetes; human proof remains the gate.
+- **[Sword Health](/pages/sword-health.md)** (active) · `https://greatutah.work/pages/sword-health.md`
+  Sword Health is a digital musculoskeletal care company combining motion tracking, remote clinical support, and a mobile app. Its linked official source has no raw capture, so the earlier headquarters date, market-position superlative, and national cost figure are not durable enough to assert here.
 - **[Teal Drones](/pages/teal-drones.md)** (active) · `https://greatutah.work/pages/teal-drones.md`
   Teal Drones is a Salt Lake City company, founded in 2015 by George Matus, that builds small unmanned aircraft systems for U.S. defense customers. Its Program of Record is unusually strong evidence of defense traction and makes Teal an anchor of the national push for a domestic, China-free drone supply chain ([official website](/pages/teal-drones-official-website.md)).
+- **[Techcyte](/pages/techcyte.md)** (active) · `https://greatutah.work/pages/techcyte.md`
+  Techcyte is an Orem, Utah company building AI-powered digital-pathology software. [Source: Techcyte Official Website and 2026 Capital-Raise Announcement](/pages/techcyte-official-website.md) Techcyte is a real, shipping medical-AI company operating at clinical scale from Utah County rather than a coastal AI hub.
 - **[Tim Latimer](/pages/tim-latimer.md)** (active) · `https://greatutah.work/pages/tim-latimer.md`
   Tim Latimer co-founded Fervo Energy around the insight that horizontal drilling could unlock geothermal heat beyond rare natural reservoirs. Turning oil-and-gas methods into repeatable firm clean power changes the grid's technology menu structurally, though execution now rests with the company he built.
 - **[Torus](/pages/torus.md)** (active) · `https://greatutah.work/pages/torus.md`
@@ -182,10 +216,12 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   US Magnesium operates North America's largest primary-magnesium production facility at Rowley on the western shore of the Great Salt Lake. It is one of Utah's most consequential industrial operations rather than a frontier startup, and its importance is inseparable from its active financial and environmental crisis ([official website](/pages/us-magnesium-official-website.md)).
 - **[Utah Congregate Care Oversight Reform](/pages/utah-congregate-care-oversight-reform.md)** (active) · `https://greatutah.work/pages/utah-congregate-care-oversight-reform.md`
   Utah is a national center for youth congregate care, including outdoor programs, residential treatment, support programs, and therapeutic schools. Reform matters because annual announced inspections let troubled facilities prepare for regulators—the opposite of credible oversight ([KUER](/pages/kuer-utah-congregate-care-reform-one-year-2022.md)).
+- **[Utah's Multi-Level Marketing Industry](/pages/utah-multi-level-marketing-industry.md)** (active) · `https://greatutah.work/pages/utah-multi-level-marketing-industry.md`
+  Utah is a global center of multi-level marketing, with a durable manufacturing and supplier cluster and participation touching roughly one in ten Utah adults. Its structural magnitude includes both exports and harm: company disclosures show most participants earn little or nothing while the model reproduces across firms and generations.
 - **[Valar Atomics](/pages/valar-atomics.md)** (active) · `https://greatutah.work/pages/valar-atomics.md`
   Valar Atomics is building a transportable high-temperature gas reactor for remote industrial and defense sites. Replacing diesel logistics with resilient nuclear heat and power would create a new off-grid energy category, but licensing, manufacturing, and cost remain decisive gates.
-- **[Varda Space Industries](/pages/varda-space.md)** (active) · `https://greatutah.work/pages/varda-space.md`
-  Varda builds orbital factories and capsules that return microgravity-made materials to Earth. Its 2024 Utah landing proved the full commercial return chain; if orbit produces meaningfully better pharmaceuticals at workable cost, it creates a new manufacturing sector rather than a one-off space mission.
+- **[Wasatch Ionics](/pages/wasatch-ionics.md)** (2024) · `https://greatutah.work/pages/wasatch-ionics.md`
+  Wasatch Ionics is an early-stage Utah company developing lithium-oxygen reserve batteries with integrated chemical oxygen generation for Army applications. Army validation makes the frontier-chemistry bet credible enough to watch, but production readiness, commercial path, and achievable scale remain unproven.
 - **[Western Governors University](/pages/western-governors-university.md)** (active) · `https://greatutah.work/pages/western-governors-university.md`
   Western Governors University is a nonprofit online university built around competency rather than classroom time. Its nationwide scale and challenge to the credit-hour model make it structurally significant, even as federal auditors contested whether its faculty interaction met aid rules ([about](/pages/western-governors-university-official-website.md)).
 - **[Williams International](/pages/williams-international.md)** (active) · `https://greatutah.work/pages/williams-international.md`
@@ -195,10 +231,20 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
 - **[WordPerfect and Novell](/pages/wordperfect-and-novell.md)** (2011) · `https://greatutah.work/pages/wordperfect-and-novell.md`
   For roughly a decade, two of the most widely used pieces of personal-computer software on earth were built within about ten miles of each other in Utah County. Both companies lost their markets to Microsoft in the mid-1990s, but they had already proved that category-defining software could be built and sustained in Utah.
 
-## C — substantive and replaceable (124)
+## C — substantive and replaceable (110)
 
-- **[3Helix](/pages/3helix.md)** (active) · `https://greatutah.work/pages/3helix.md`
-  3Helix is a Salt Lake City biotechnology company built around Collagen Hybridizing Peptides (CHPs) — short peptides that bind specifically to denatured collagen triple-helix sites rather than intact collagen. Damaged collagen is a structural signature across heart attack, cancer invasion, arthritis, fibrosis, wound healing, and aging.
+- **[Apa Sherpa's Everest Summits](/pages/apa-sherpa-everest-summits.md)** (2011) · `https://greatutah.work/pages/apa-sherpa-everest-summits.md` \*
+  Apa Sherpa (Lhakpa Tenzing Sherpa) is a Nepalese mountaineer who summited Mount Everest 21 times, reaching his 21st summit in May 2011 on the Eco Everest Expedition and retiring afterward on a promise to his wife to stop at that. Twenty-one successful ascents of the world's highest peak over two decades is an extreme concentration of high-altitude work.
+- **[Baxter Aerospace](/pages/baxter-aerospace.md)** (active) · `https://greatutah.work/pages/baxter-aerospace.md` \*
+  Baxter Aerospace builds long-endurance drones and deployable satellite communications for firefighting, disaster response, and defense missions where normal networks fail. That is valuable field equipment, but the early company remains one supplier in a crowded drone market and its performance claims lack independent verification.
+- **[Carv](/pages/carv.md)** (active) · `https://greatutah.work/pages/carv.md` \*
+  Carv makes a clip-on ski sensor and coaching app: sensors attach to each boot, measure pressure and motion as you ski, and deliver real-time audio coaching between and during turns. Carv's claim on attention is that it is a real hardware-plus-AI product in a category that mostly does not exist.
+- **[Intactis Bio](/pages/intactis-bio.md)** (active) · `https://greatutah.work/pages/intactis-bio.md` \*
+  Salt Lake City-based Intactis Bio is wiring living neurons to custom silicon for experimental computing ([company release](/pages/intactis-bio-prnewswire.md)). Its current impact is a tiny, replaceable lab demonstration; C* reflects how unusually worth reading the bio-computing bet is, not evidence that Intactis has moved the field.
+- **[Iomega Zip Drive](/pages/iomega-zip-drive.md)** (2006) · `https://greatutah.work/pages/iomega-zip-drive.md` \*
+  Introduced in 1995 by Roy-based Iomega, the Zip drive put 100 MB of rewritable storage in a pocket when standard floppies held 1.44 MB. It briefly solved a mass-market problem no cheap universal medium did, normalizing portable storage before optical discs, flash drives, and broadband displaced it.
+- **[YESCO](/pages/yesco.md)** (active) · `https://greatutah.work/pages/yesco.md` \*
+  **Young Electric Sign Company (YESCO)** is a **family-owned** custom sign, lighting, and billboard company that says it was **founded in Ogden on March 20, 1920** and later moved headquarters to **Salt Lake City** ([history page](/pages/yesco-company-history.md)). Repeating uncritical "YESCO built the Welcome sign" copy would overstate this capture.
 - **[Aaron Skonnard](/pages/aaron-skonnard.md)** (active) · `https://greatutah.work/pages/aaron-skonnard.md`
   Aaron Skonnard co-founded Pluralsight in 2004 with Keith Brown, Fritz Onion, and Bill Williams. Pluralsight became one of the clearest examples of a Utah company scaling a B2B SaaS product to global enterprise markets while staying headquartered in the state.
 - **[Acima](/pages/acima.md)** (active) · `https://greatutah.work/pages/acima.md`
@@ -207,34 +253,20 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   ACT Aerospace is a Gunnison, Utah-based manufacturer of advanced composite structures for aerospace and defense programs. The impact path is through supply chain. Aerospace-qualified composite structures end up on military aircraft, commercial airliners, launch vehicles, and satellites.
 - **[Altitude Labs](/pages/altitude-labs.md)** (active) · `https://greatutah.work/pages/altitude-labs.md`
   Altitude Lab is a Salt Lake City biotech accelerator on Recursion's campus, launched in 2020 through a collaboration between Recursion and the University of Utah's PIVOT Center. Early-stage life-science and techbio founders — especially first-time academic founders and SBIR-awarded teams — who need wet-lab infrastructure, investor introductions, and structured commercialization support in Utah.
-- **[Apa Sherpa's Everest Summits](/pages/apa-sherpa-everest-summits.md)** (2011) · `https://greatutah.work/pages/apa-sherpa-everest-summits.md` \*
-  Apa Sherpa (Lhakpa Tenzing Sherpa) is a Nepalese mountaineer who summited Mount Everest 21 times, reaching his 21st summit in May 2011 on the Eco Everest Expedition and retiring afterward on a promise to his wife to stop at that. Twenty-one successful ascents of the world's highest peak over two decades is an extreme concentration of high-altitude work.
 - **[Apprenticeship Utah](/pages/apprenticeship-utah.md)** (active) · `https://greatutah.work/pages/apprenticeship-utah.md`
   Apprenticeship Utah is the state's registered apprenticeship hub for employers and career seekers. Apprenticeship Utah provides a bounded benefit: Utah employers who need structured on-the-job training pipelines, and individuals exploring career pathways in trades and skilled occupations (including healthcare, construction, manufacturing, and IT examples cited on the site).
 - **[Army Short-Range Reconnaissance UAS](/pages/army-short-range-reconnaissance-uas.md)** (active) · `https://greatutah.work/pages/army-short-range-reconnaissance-uas.md`
   Teal Drones, a Salt Lake City company owned by Red Cat Holdings, manufactures the Black Widow — a rucksack-portable small unmanned aircraft designed for platoon-level reconnaissance. The significance is twofold. Tactically, if every platoon can see beyond the next terrain feature on demand, small-unit situational awareness improves fundamentally.
-- **[Atavistik Bio](/pages/atavistik-bio.md)** (active) · `https://greatutah.work/pages/atavistik-bio.md`
-  Atavistik Bio is a clinical-stage biotechnology company developing drugs targeting allosteric sites. Many of the best drug targets are allosteric sites nobody knew existed.
 - **[Atmospheric Waves Experiment](/pages/atmospheric-waves-experiment.md)** (2026) · `https://greatutah.work/pages/atmospheric-waves-experiment.md`
   NASA's Atmospheric Waves Experiment (AWE) is an instrument mounted on the International Space Station, built by Utah State University's Space Dynamics Laboratory. If AWE's dataset materially improves models of upper-atmosphere dynamics or space-weather forecasting, it will represent a clean example of Utah-built space instrumentation moving an entire scientific field.
 - **[Autonomous Low-Collateral Counter-UAS Interception](/pages/autonomous-low-collateral-counter-uas-interception.md)** (active) · `https://greatutah.work/pages/autonomous-low-collateral-counter-uas-interception.md`
   Fortem Technologies, based in Pleasant Grove and Lindon, Utah, builds autonomous counter-drone systems centered on its DroneHunter interceptor and SkyDome radar and command-and-control stack. If autonomous low-collateral interception becomes a standard layer of civil and military airspace defense, Fortem's platform could represent a genuine architectural contribution.
-- **[Autonomous Solutions, Inc. (ASI)](/pages/autonomous-solutions-inc.md)** (active) · `https://greatutah.work/pages/autonomous-solutions-inc.md`
-  Autonomous Solutions, Inc. Off-road autonomy is a larger and less-covered economic story than passenger-car autonomy.
 - **[BambooHR](/pages/bamboohr.md)** (active) · `https://greatutah.work/pages/bamboohr.md`
   BambooHR is a Draper, Utah-based cloud HR software company aimed primarily at small and medium-sized businesses. BambooHR appears to have helped mainstream polished HR software for SMBs that previously relied on spreadsheets and disconnected vendors.
-- **[Bioparin](/pages/bioparin.md)** (active) · `https://greatutah.work/pages/bioparin.md`
-  Bioparin is an early-stage University of Utah spinout, founded around 2023, working to produce heparin synthetically using cell-based or enzymatic biosynthesis rather than animal extraction. Heparin's supply chain is one of the most fragile in all of medicine.
 - **[Blue Raven Solar](/pages/blue-raven-solar.md)** (active) · `https://greatutah.work/pages/blue-raven-solar.md`
   Blue Raven Solar is a residential solar installation business founded in 2014, acquired by SunPower Corp. in 2021 for up to $165 million cash, then sold through SunPower's 2024 Chapter 11 process to Complete Solaria, Inc.. SunPower's 2021 release called Blue Raven one of the fastest growing residential solar providers in the US and cited 93% revenue CAGR — SunPower's announcement language.
 - **[Blundell Geothermal Plant](/pages/blundell-geothermal-plant.md)** (active) · `https://greatutah.work/pages/blundell-geothermal-plant.md`
   Blundell is PacifiCorp's (Rocky Mountain Power) geothermal generating station near Milford in Beaver County, Utah — the longest-running conventional geothermal plant in the county's operating cluster. Blundell is proof that Utah hydrothermal geothermal can run for decades as utility baseload.
-- **[CaLycia Biosciences](/pages/calycia-biosciences.md)** (active) · `https://greatutah.work/pages/calycia-biosciences.md`
-  CaLycia Biosciences is a Salt Lake City biotechnology company developing macrophage-based cell therapies for aggressive solid tumors of the brain. Glioblastoma remains one of oncology's hardest indications: median survival is roughly 15 months with limited durable advances over decades.
-- **[Carterra](/pages/carterra.md)** (active) · `https://greatutah.work/pages/carterra.md`
-  Carterra builds high-throughput surface plasmon resonance (SPR) instruments — chiefly the LSA family and newer Vega/Ultra platforms — for monoclonal-antibody discovery and characterization. Antibody therapeutics depend on knowing how candidates bind — kinetics, affinity, and epitope diversity — early enough to choose the right clones from large libraries.
-- **[Carv](/pages/carv.md)** (active) · `https://greatutah.work/pages/carv.md` \*
-  Carv makes a clip-on ski sensor and coaching app: sensors attach to each boot, measure pressure and motion as you ski, and deliver real-time audio coaching between and during turns. Carv's claim on attention is that it is a real hardware-plus-AI product in a category that mostly does not exist.
 - **[Chad Testa](/pages/chad-testa.md)** (active) · `https://greatutah.work/pages/chad-testa.md`
   Chad Testa is the CEO of Curza, a University of Utah spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. Antimicrobial resistance is a large global health problem, but this page's former mortality projections were not supported by an existing wiki source.
 - **[CHOICE Humanitarian](/pages/choice-humanitarian.md)** (2026) · `https://greatutah.work/pages/choice-humanitarian.md`
@@ -243,16 +275,12 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Clozd is a Lehi enterprise-software and research-services company focused on decision intelligence: learning why customers buy, decline, renew, or leave. Companies routinely make product, pricing, and go-to-market decisions from CRM notes and internal anecdotes that omit the buyer's actual reasoning.
 - **[CompHealth](/pages/comphealth.md)** (active) · `https://greatutah.work/pages/comphealth.md`
   CompHealth is a physician and advanced-practice locum tenens staffing brand headquartered in the Salt Lake City area. If locum tenens truly originated with this Utah company, it would mean a Salt Lake City firm helped define how rural American hospitals staff physician services when permanent hires are unavailable.
-- **[Coreform](/pages/coreform.md)** (active) · `https://greatutah.work/pages/coreform.md`
-  Coreform is a Utah-based engineering simulation company commercializing isogeometric analysis (IGA). The impact case is strongest where high-fidelity simulation is load-bearing but design iteration is slow because meshing and geometry cleanup dominate the workflow. Coreform's public positioning argues that IGA removes the geometry-to-mesh translation step by letting engineers simulate on fully.
 - **[Cosm](/pages/cosm.md)** (active) · `https://greatutah.work/pages/cosm.md`
   Cosm builds shared-reality venues — large-format LED dome environments where audiences watch live sports, concerts, and original content together in full immersion, without headsets. Whether this becomes a durable category or an upscale novelty depends on content, return habits, and price tolerance.
 - **[Cotopaxi](/pages/cotopaxi.md)** (active) · `https://greatutah.work/pages/cotopaxi.md`
   Cotopaxi is a Utah-based outdoor gear and apparel company founded in the 2013-2014 period and publicly framed around "Gear For Good." The impact case is strongest where outdoor consumers want gear that also funds poverty alleviation, education, and livelihoods work. Cotopaxi's official site says 1% of annual revenue goes to the Cotopaxi Foundation, a Utah-based private 501(c)(3).
 - **[Crumbl](/pages/crumbl.md)** (active) · `https://greatutah.work/pages/crumbl.md`
   Crumbl is a dessert franchise system built around large format cookies, a weekly rotating menu, and tech-heavy ordering (franchising page). The lead hypothesis — that Crumbl became one of the fastest-growing US franchise systems on a social-media-native model — is not verified here.
-- **[Culmination Bio](/pages/culmination-bio.md)** (2024) · `https://greatutah.work/pages/culmination-bio.md`
-  Culmination Bio is described as a biotech company connected to Intermountain Health. Drug discovery fails often because early biological hypotheses are wrong.
 - **[Custom Fit Training](/pages/custom-fit-training.md)** (active) · `https://greatutah.work/pages/custom-fit-training.md`
   Custom Fit is a Utah System of Higher Education program that delivers customized workforce training for incumbent employees at Utah companies. Custom Fit Training provides a bounded benefit: Utah for-profit employers training current employees (incumbent workers).
 - **[Cyrq Energy](/pages/cyrq-energy.md)** (active) · `https://greatutah.work/pages/cyrq-energy.md`
@@ -263,14 +291,14 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Davis Smith is the founder and public face of Cotopaxi, a Salt Lake City outdoor gear and apparel brand organized around an explicit poverty-alleviation mission. Cotopaxi is one of the most visible examples in Utah of a consumer brand built around a cause — specifically, directing a share of revenue toward poverty-alleviation programs in Latin America and beyond.
 - **[Domo](/pages/domo.md)** (active) · `https://greatutah.work/pages/domo.md`
   Domo is a cloud-native business intelligence and data integration platform headquartered in American Fork, Utah. Most mid-market and large companies run on a patchwork of SaaS tools whose data does not join cleanly.
+- **[EnduraCure](/pages/enduracure.md)** (active) · `https://greatutah.work/pages/enduracure.md`
+  EnduraCure is a Salt Lake City startup spun out of Doctor Chen Wang's lab in the Department of Materials Science and Engineering at the University of Utah, founded around 2024. EnduraCure provides a bounded benefit: Global e-waste is growing faster than the overall economy.
 - **[Epic Ventures](/pages/epic-ventures.md)** (active) · `https://greatutah.work/pages/epic-ventures.md`
   EPIC Ventures is a Salt Lake City venture capital firm founded in 1994 that invests in early-stage technology companies. Early-stage technology founders in SaaS, healthcare, biotech, security, fintech, and future-of-work sectors seeking a long-running Utah VC.
 - **[Epitel](/pages/epitel.md)** (active) · `https://greatutah.work/pages/epitel.md`
   Epitel is a Salt Lake City company developing REMI, a wireless remote EEG monitoring system for healthcare-facility and ambulatory settings. Epilepsy diagnosis and treatment depend on recording seizures on EEG, but seizures are episodic.
 - **[Evolution Bio](/pages/evolution-bio.md)** · `https://greatutah.work/pages/evolution-bio.md`
   Evolution Bio is a Salt Lake City biotechnology company, founded circa 2022, built around directed protein evolution for drug discovery — especially G-protein coupled receptors (GPCRs). GPCRs are the highest-value target class in pharmacology — roughly a third of approved drugs act on them — and among the hardest to engineer.
-- **[Fortem Technologies](/pages/fortem-technologies.md)** (active) · `https://greatutah.work/pages/fortem-technologies.md`
-  Fortem Technologies is a Utah defense and airspace-security company best known for TrueView radar, DroneHunter interceptors, and the SkyDome system. The impact case is strongest where drones threaten people or critical infrastructure and traditional air defense is too broad, too expensive, or legally difficult. Fortem says its SkyDome system combines sensors, autonomous interceptors.
 - **[Fred Lampropoulos](/pages/fred-lampropoulos.md)** (2026) · `https://greatutah.work/pages/fred-lampropoulos.md`
   Fred Lampropoulos is the founder of Merit Medical Systems, a South Jordan, Utah company that designs and manufactures disposable interventional devices — catheters, micro-access kits, embolization devices, ablation tools. Lampropoulos built Merit Medical during the same era that minimally invasive medicine — catheter-based cardiac procedures, image-guided biopsies, endovascular interventions.
 - **[Globus Relief](/pages/globus-relief.md)** (active) · `https://greatutah.work/pages/globus-relief.md`
@@ -293,22 +321,12 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Provo's nonprofit iHub gives early founders mentors, workspace, prototyping facilities, and a staged path toward revenue. That bundle can move a company through its first milestones, but incubators and university programs can provide close substitutes.
 - **[Imagine Learning](/pages/imagine-learning.md)** (active) · `https://greatutah.work/pages/imagine-learning.md`
   Imagine Learning sells digital K–12 curriculum, assessment, and courseware, including tools for multilingual learners ([official site](/pages/imagine-learning-official-website.md)). Its software may reach many Utah classrooms, but customer adoption is not evidence of a meaningful corporate presence here.
-- **[IMSAR](/pages/imsar.md)** (active) · `https://greatutah.work/pages/imsar.md`
-  IMSAR is a Utah Valley radar company that designs, builds, and supports low-size, weight, and power airborne radar systems. The impact case is strongest in defense, border security, maritime search, and tactical intelligence.
 - **[Inherent Biosciences](/pages/inherent-biosciences.md)** (active) · `https://greatutah.work/pages/inherent-biosciences.md`
   Inherent Biosciences develops epigenetic tests that measure cell function, beginning with SpermQT for male infertility. Better diagnosis could shorten time to pregnancy and avoid unnecessary procedures at meaningful scale, but fertility testing is a bounded niche with substitutes.
 - **[InnoSys](/pages/innosys.md)** (active) · `https://greatutah.work/pages/innosys.md`
   InnoSys builds vacuum microelectronics in Salt Lake City for heat and radiation that defeat ordinary semiconductors. The niche is defensible, but competing silicon-carbide and gallium-nitride approaches—and a record still dominated by federal R&D contracts after 25 years—cap the case.
-- **[Intactis Bio](/pages/intactis-bio.md)** (active) · `https://greatutah.work/pages/intactis-bio.md` \*
-  Salt Lake City-based Intactis Bio is wiring living neurons to custom silicon for experimental computing ([company release](/pages/intactis-bio-prnewswire.md)). Its current impact is a tiny, replaceable lab demonstration; C* reflects how unusually worth reading the bio-computing bet is, not evidence that Intactis has moved the field.
 - **[Intergalactic](/pages/intergalactic.md)** (active) · `https://greatutah.work/pages/intergalactic.md`
   Intergalactic is a Saint George aerospace company building compact thermal-management systems for aircraft, spacecraft, defense platforms, and demanding land and sea applications. Its bet is that lighter cooling can return mass, volume, and electrical power to mission payloads, though public sources do not reveal which programs actually depend on it.
-- **[Iomega Zip Drive](/pages/iomega-zip-drive.md)** (2006) · `https://greatutah.work/pages/iomega-zip-drive.md` \*
-  Introduced in 1995 by Roy-based Iomega, the Zip drive put 100 MB of rewritable storage in a pocket when standard floppies held 1.44 MB. It briefly solved a mass-market problem no cheap universal medium did, normalizing portable storage before optical discs, flash drives, and broadband displaced it.
-- **[Ionic Mineral Technologies (Ionic MT)](/pages/ionic-mt.md)** (active) · `https://greatutah.work/pages/ionic-mt.md`
-  Provo-based Ionic Mineral Technologies turns naturally tubular halloysite clay into nano-silicon battery-anode material. Its Utah ore could be a genuine cost advantage, while alumina and critical-metal co-products hedge the economics if battery-grade silicon alone cannot carry the operation.
-- **[Iris Biomedical](/pages/iris-biomedical.md)** (active) · `https://greatutah.work/pages/iris-biomedical.md`
-  Iris Biomedical designs and manufactures custom implantable electrodes, flexible substrates, hermetic packages, and connectors in Salt Lake City. Its impact is indirect but hard to fake: early neural-interface programs need specialized hardware shops before they can justify building medical-grade manufacturing themselves.
 - **[IVUmed](/pages/ivumed.md)** (active) · `https://greatutah.work/pages/ivumed.md`
   Sandy nonprofit IVUmed trains urology teams in low-resource countries instead of relying on one-off mission surgeries ([official site](/pages/ivumed-official-website.md)). That train-the-surgeon model can compound beyond each visit; the remaining Utah evidence gap is Catherine deVries's current university appointment.
 - **[JobNimbus](/pages/jobnimbus.md)** (active) · `https://greatutah.work/pages/jobnimbus.md`
@@ -329,8 +347,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Cottonwood Heights-based Mercato Partners invests growth capital across technology, consumer brands, and food. Its funds can materially scale portfolio companies, but growth equity is a competitive market with many substitute investors.
 - **[Mountain Heights Academy](/pages/mountain-heights-academy.md)** (active) · `https://greatutah.work/pages/mountain-heights-academy.md`
   Mountain Heights Academy is a tuition-free online Utah charter school serving grades 7–12 ([NCES record](/pages/nces-mountain-heights-academy-record.md)). It expands statewide schooling choice at real scale, but other online schools can provide a close substitute.
-- **[Music AI (Moises)](/pages/music-ai.md)** (active) · `https://greatutah.work/pages/music-ai.md`
-  Music AI, trading as Moises, builds source-separation, licensed voice-cloning, generation, and collaboration tools for musicians and producers. The big bet is its royalty-and-consent infrastructure becoming a standard; if separation remains the core, this is a strong but bounded creative utility.
 - **[MX Technologies](/pages/mx-technologies.md)** (active) · `https://greatutah.work/pages/mx-technologies.md`
   MX Technologies provides open-banking data and software to banks, credit unions, and financial-technology developers. Its connections can make consumer financial data usable across many institutions at real scale, but other aggregators and banking platforms can replace it.
 - **[Neighbor](/pages/neighbor.md)** (active) · `https://greatutah.work/pages/neighbor.md`
@@ -351,8 +367,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Overstock.com began in Utah in 1999 as an online liquidation marketplace and grew into a major U.S. discount retailer. Buying the Bed Bath & Beyond brand in 2023 turned survival into a brand-revival bet: use a famous home-goods name to escape the limits of pure discount retail.
 - **[Owlet Baby Care](/pages/owlet-baby-care.md)** (active) · `https://greatutah.work/pages/owlet-baby-care.md`
   Owlet Baby Care is a Lehi, Utah–based company that designs and sells connected nursery products for infant monitoring. The regulatory story matters as much as the product story: FDA clearance labels on company materials are leads, not independent proof of clinical benefit.
-- **[Palladyne AI](/pages/palladyne-ai.md)** (active) · `https://greatutah.work/pages/palladyne-ai.md`
-  Salt Lake City-based Palladyne AI (NASDAQ: PDYN) builds embodied-AI software for robots and drones to perceive, learn, and act without a cloud connection ([official site](/pages/palladyne-ai-official-website.md)). Its bet is edge autonomy where latency, bandwidth, or connectivity fail—in warehouses, battlefields, and other disconnected environments.
 - **[Pelion Ventures](/pages/pelion-ventures.md)** (active) · `https://greatutah.work/pages/pelion-ventures.md`
   Pelion Venture Partners is a Salt Lake City firm investing in early-stage software companies since 1986. Its capital can help individual companies scale, but the page does not establish enough current deployment or unique outcomes to distinguish it from substitute venture funds.
 - **[Peterson Ventures](/pages/peterson-ventures.md)** (active) · `https://greatutah.work/pages/peterson-ventures.md`
@@ -377,8 +391,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Salt Lake City-based Sarcos builds robots for industrial, defense, and commercial work, including the Guardian XO powered exoskeleton. Its most compelling path augments workers doing punishing physical jobs instead of replacing them outright, though that promise remains tied to successful deployment.
 - **[SBA Thrive](/pages/sba-thrive.md)** (2023) · `https://greatutah.work/pages/sba-thrive.md`
   SBA Thrive is a free six-month executive-education program for established small-business owners who meet its revenue, tenure, and staffing thresholds. Its coaching and three-year growth plan can be substantial for an operator ready to scale, but uncertain Utah cohort locations and deadlines make direct verification essential.
-- **[SchoolAI](/pages/schoolai.md)** (active) · `https://greatutah.work/pages/schoolai.md`
-  Lehi-based SchoolAI gives teachers configurable AI tutors and real-time visibility into student engagement. If it reliably personalizes attention across a full classroom, it improves a persistent constraint at real scale; competing education platforms make that gain replaceable.
 - **[Signal Peak Ventures](/pages/signal-peak-ventures.md)** (active) · `https://greatutah.work/pages/signal-peak-ventures.md`
   Signal Peak Ventures, now branded Run Ventures, is a Salt Lake City firm backing early-stage technology companies. Its capital and operating experience can scale individual startups, but the summary evidence does not show a unique market-shaping role.
 - **[Skullcandy](/pages/skullcandy.md)** (active) · `https://greatutah.work/pages/skullcandy.md`
@@ -393,16 +405,12 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Strider Technologies is a Utah-linked strategic-intelligence company focused on geopolitical and nation-state risk. Strider matters because it sits at the intersection of AI, open-source intelligence, research security, corporate counterintelligence, and economic-security policy.
 - **[Suazo Business Center](/pages/suazo-business-center.md)** (active) · `https://greatutah.work/pages/suazo-business-center.md`
   Suazo Business Center is a culturally responsive business development center and CDFI serving Utah's economically disadvantaged communities. Bilingual advising, English- and Spanish-language education, workshops, and loan support across Salt Lake City, Ogden, and Saint George make it unusually equipped to close both language and capital gaps.
-- **[Sword Health](/pages/sword-health.md)** (active) · `https://greatutah.work/pages/sword-health.md`
-  Sword Health is a digital musculoskeletal care company combining motion tracking, remote clinical support, and a mobile app. Its linked official source has no raw capture, so the earlier headquarters date, market-position superlative, and national cost figure are not durable enough to assert here.
 - **[Talent Ready Utah](/pages/talent-ready-utah.md)** (active) · `https://greatutah.work/pages/talent-ready-utah.md`
   Talent Ready Utah, an initiative under the Utah System of Higher Education, coordinates education-industry partnerships to build Utah's workforce. The official site organizes employer, educator, and community pathways through programs such as Utah Adopt-a-School, Pathways, TRAC, and Utah Works.
 - **[Tandem Ventures](/pages/tandem-ventures.md)** (active) · `https://greatutah.work/pages/tandem-ventures.md`
   Tandem Venture Partners is a Draper, Utah-based venture capital firm investing from pre-seed through later stages. Its official site lists check sizes from roughly $500K at pre-seed up to larger Series B+ follow-ons for portfolio companies, with seed as a core focus.
 - **[TCN](/pages/tcn.md)** (active) · `https://greatutah.work/pages/tcn.md`
   TCN builds cloud contact-center software for organizations managing inbound and outbound customer communications. Combining calling, workforce tools, analytics, compliance controls, and integrations with a substantial Saint George engineering operation makes it a deeper Utah software company than a remote sales outpost.
-- **[Techcyte](/pages/techcyte.md)** (active) · `https://greatutah.work/pages/techcyte.md`
-  Techcyte is an Orem, Utah company building AI-powered digital-pathology software. [Source: Techcyte Official Website and 2026 Capital-Raise Announcement](/pages/techcyte-official-website.md) Techcyte is a real, shipping medical-AI company operating at clinical scale from Utah County rather than a coastal AI hub.
 - **[TELLUS Networked Sensor Solutions](/pages/tellus.md)** (active) · `https://greatutah.work/pages/tellus.md`
   TELLUS Networked Sensor Solutions builds networked air-quality sensors and the CoreDI data platform. Traditional regulatory-grade air-quality monitors are deployed sparsely, but the earlier cost and city-count figures are not present in captured evidence.
 - **[The INN Between](/pages/the-inn-between.md)** (active) · `https://greatutah.work/pages/the-inn-between.md`
@@ -443,11 +451,19 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   The Women's Business Center of Utah is a statewide support resource for women entrepreneurs and business owners. It offers advising, trainings, tools, templates, and community, with an emphasis on helping founders start, grow, and strengthen their businesses.
 - **[Workfront](/pages/workfront.md)** (active) · `https://greatutah.work/pages/workfront.md`
   Workfront is an enterprise work-management platform founded in Utah in 2001 under the AtTask name. The product continues as Adobe Workfront for planning, coordinating, and tracking enterprise work.
-- **[YESCO](/pages/yesco.md)** (active) · `https://greatutah.work/pages/yesco.md` \*
-  **Young Electric Sign Company (YESCO)** is a **family-owned** custom sign, lighting, and billboard company that says it was **founded in Ogden on March 20, 1920** and later moved headquarters to **Salt Lake City** ([history page](/pages/yesco-company-history.md)). Repeating uncritical "YESCO built the Welcome sign" copy would overstate this capture.
+- **[Xandem](/pages/xandem.md)** (2015) · `https://greatutah.work/pages/xandem.md`
+  Xandem is a Salt Lake City spinout using meshes of radio transceivers to sense motion through walls without cameras or active radar. The technology drew federal interest, but its 2024 pivot toward consumer home security weakens the defense-and-intelligence story the older page implied.
 
-## D — local (234)
+## D — local (230)
 
+- **[Clint Betts](/pages/clint-betts.md)** (active) · `https://greatutah.work/pages/clint-betts.md` \*
+  Clint Betts is the publisher of Utahn and, by his own public disclosure, co-founder and CEO of Silicon Slopes. Clint Betts provides a bounded benefit: Betts occupies two public roles that can pull in different directions: Organizing Utah's technology community and publishing journalism about Utah institutions, including that community.
+- **[CTO Breakfast Utah](/pages/cto-breakfast-utah.md)** (active) · `https://greatutah.work/pages/cto-breakfast-utah.md` \*
+  CTO Breakfast Utah is a monthly, open, in-person gathering of technology leaders — CTOs, CIOs, VPs of engineering, and people doing those jobs without those titles. CTO Breakfast Utah provides a bounded benefit: Working technology leaders in Utah County and along the Wasatch Front: CTOs, CIOs, engineering directors, and founders carrying the technical load themselves.
+- **[Forge Utah](/pages/forge-utah.md)** (active) · `https://greatutah.work/pages/forge-utah.md` \*
+  Forge Utah Foundation is a volunteer-run not-for-profit connecting Utah's developers, data scientists, SREs, and tinkerers. Forge Utah provides a bounded benefit: Working technologists in Utah, at any level, and people trying to become them.
+- **[Southern Utah Code Camp](/pages/southern-utah-code-camp.md)** (active) · `https://greatutah.work/pages/southern-utah-code-camp.md` \*
+  Southern Utah Code Camp is a 24-hour Saint George app-building competition ([official site](/pages/southern-utah-code-camp-official-website.md)). Experience-based divisions stop professionals from carrying novice teams, making it unusually credible for young local builders while keeping its impact event-scale.
 - **[1 Million Cups (Orem)](/pages/1-million-cups-orem.md)** (active) · `https://greatutah.work/pages/1-million-cups-orem.md`
   The Startup State listing describes 1 Million Cups Orem as a Utah County chapter hosted at the UVU Business Resource Center, where entrepreneurs can present ideas and receive peer feedback (Startup State. 1 Million Cups (Orem) provides a bounded benefit: Utah County founders and entrepreneurs who want a recurring weekly community for presentation practice and peer feedback — not formal investor.
 - **[47G - Utah Aerospace & Defense Association](/pages/47g-utah-aerospace-and-defense-association.md)** (active) · `https://greatutah.work/pages/47g-utah-aerospace-and-defense-association.md`
@@ -466,8 +482,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Atwood Innovation Plaza is Utah Tech University's hub for venture advising, prototyping, and startup workspace in St. George. It gives southern Utah students, faculty, and community founders infrastructure that would otherwise be concentrated along the Wasatch Front.
 - **[auticon US](/pages/auticon-us.md)** (active) · `https://greatutah.work/pages/auticon-us.md`
   auticon US is the American arm of auticon, a global IT and neuroinclusion consultancy whose marketing says it is the "largest majority-autistic company in the world" and has delivered IT solutions with. auticon US provides a bounded benefit: Auticon's model — employ autistic adults as technology consultants and pair that with neuroinclusion advisory work — addresses a documented employment gap.
-- **[Baxter Aerospace](/pages/baxter-aerospace.md)** (active) · `https://greatutah.work/pages/baxter-aerospace.md`
-  Baxter Aerospace builds long-endurance drones and deployable satellite communications for firefighting, disaster response, and defense missions where normal networks fail. That is valuable field equipment, but the early company remains one supplier in a crowded drone market and its performance claims lack independent verification.
 - **[BBCetc](/pages/bbcetc.md)** (active) · `https://greatutah.work/pages/bbcetc.md`
   BBCetc is a national SBIR/STTR and federal R&D funding consulting and training firm. BBCetc provides a bounded benefit: Likely fits include technical founders with a plausible federal R&D topic who need hands-on proposal support, SBIR/STTR training, post-award management help, agency-specific guidance, or support beyond what a local free program can provide.
 - **[Bear Lake Regional Commission](/pages/bear-lake-regional-commission.md)** (active) · `https://greatutah.work/pages/bear-lake-regional-commission.md`
@@ -508,16 +522,12 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Church & State Marketplace is a historic downtown Salt Lake City building used for coworking, independent retail, and events. It gives entrepreneurs, creatives, and remote workers a distinctive shared venue, but its impact largely stops with that local community.
 - **[Clearfield Job Corps](/pages/clearfield-job-corps.md)** (active) · `https://greatutah.work/pages/clearfield-job-corps.md`
   Clearfield Job Corps Center is a residential Job Corps campus in Clearfield offering tuition-free education and career-technical training for eligible young adults. Clearfield Job Corps provides a bounded benefit: Young adults ages 16–24 who qualify for the federal Job Corps program and want tuition-free vocational training, academic credentials, and residential support while preparing for.
-- **[Clint Betts](/pages/clint-betts.md)** (active) · `https://greatutah.work/pages/clint-betts.md` \*
-  Clint Betts is the publisher of Utahn and, by his own public disclosure, co-founder and CEO of Silicon Slopes. Clint Betts provides a bounded benefit: Betts occupies two public roles that can pull in different directions: Organizing Utah's technology community and publishing journalism about Utah institutions, including that community.
 - **[Code Adventure Utah](/pages/code-adventure-utah.md)** (active) · `https://greatutah.work/pages/code-adventure-utah.md`
   Code Adventure is a free, hands-on summer coding camp for girls. Code Adventure Utah provides a bounded benefit: Girls ages 13–18, including students with no prior coding experience.
 - **[Convoi Ventures](/pages/convoi-ventures.md)** (active) · `https://greatutah.work/pages/convoi-ventures.md`
   Convoi Ventures is a Utah-only pre-seed venture capital firm founded in 2021 that backs breakout Utah startups before broader investors engage. Convoi Ventures provides a bounded benefit: Utah pre-seed founders who are builders first — especially in consumer tech, fintech, or SaaS — and can show fast progress with limited resources.
 - **[Cross Creek](/pages/cross-creek.md)** (active) · `https://greatutah.work/pages/cross-creek.md`
   Cross Creek is a Salt Lake City–based venture capital firm founded in 2006 that focuses on late-stage and crossover investing — "building bridges from private to public markets." Cross Creek matters to a. Cross Creek provides a bounded benefit: Venture-backed growth companies and fund managers exploring late-stage or pre-IPO capital pathways.
-- **[CTO Breakfast Utah](/pages/cto-breakfast-utah.md)** (active) · `https://greatutah.work/pages/cto-breakfast-utah.md` \*
-  CTO Breakfast Utah is a monthly, open, in-person gathering of technology leaders — CTOs, CIOs, VPs of engineering, and people doing those jobs without those titles. CTO Breakfast Utah provides a bounded benefit: Working technology leaders in Utah County and along the Wasatch Front: CTOs, CIOs, engineering directors, and founders carrying the technical load themselves.
 - **[CycloKinetics](/pages/cyclokinetics.md)** (active) · `https://greatutah.work/pages/cyclokinetics.md`
   CycloKinetics is a Salt Lake City-based propellant technology company that launched publicly in May 2026 as a dedicated aerospace-and-defense spinout of CleanJoule. CycloKinetics provides a bounded benefit: If independently validated, higher-energy-density drop-in propellants would let existing military airframes, missiles, and launch vehicles fly farther, faster, or with more payload without.
 - **[Davis Chamber of Commerce](/pages/davis-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/davis-chamber-of-commerce.md`
@@ -534,8 +544,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Eide Bailly is a national CPA and business-advisory firm with a Salt Lake City office at 5 Triad Center. Eide Bailly (Utah) provides a bounded benefit: The strongest fit is a Utah company that wants CFO-level finance support without a full-time hire, an R&D-intensive startup that should be capturing tax credits, or a founder who values having a national firm's resources reachable through a local.
 - **[Emery County Economic Development](/pages/emery-county-economic-development.md)** (active) · `https://greatutah.work/pages/emery-county-economic-development.md`
   Emery County Economic Development supports local business growth and recruitment to Emery County. Emery County Economic Development provides a bounded benefit: Emery County employers expanding or retaining operations, and companies considering relocation to Emery County that need grant, incentive, or SBDC advising support.
-- **[EnduraCure](/pages/enduracure.md)** (active) · `https://greatutah.work/pages/enduracure.md`
-  EnduraCure is a Salt Lake City startup spun out of Doctor Chen Wang's lab in the Department of Materials Science and Engineering at the University of Utah, founded around 2024. EnduraCure provides a bounded benefit: Global e-waste is growing faster than the overall economy.
 - **[EVENT: Business Forward](/pages/event-business-forward.md)** (active) · `https://greatutah.work/pages/event-business-forward.md`
   Utah Business Forward is an executive conference produced by Utah Business magazine, focused on leadership, innovation, and growth strategies from Utah operators. EVENT: Business Forward provides a bounded benefit: Utah executives, founders, and senior operators who want actionable strategies across leadership, growth, innovation, impact, and AI — not early ideation workshops.
 - **[EVENT: Grand Summit Moab](/pages/event-grand-summit-moab.md)** (active) · `https://greatutah.work/pages/event-grand-summit-moab.md`
@@ -558,8 +566,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   The Five County Association of Governments (FCAOG) is a voluntary interlocal agency serving southwestern Utah's Beaver, Garfield, Iron, Kane, and Washington counties. Five County Association of Governments provides a bounded benefit: Municipal leaders, regional planners, small businesses, and residents across the five-county area seeking interlocal program delivery, economic-development district.
 - **[Flaming Gorge Chamber of Commerce](/pages/flaming-gorge-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/flaming-gorge-chamber-of-commerce.md`
   The Flaming Gorge Chamber of Commerce serves Daggett County and the Flaming Gorge tourism region. Flaming Gorge Chamber of Commerce provides a bounded benefit: Daggett County and Flaming Gorge-area businesses — especially tourism, recreation, and hospitality operators — seeking regional marketing exposure and event participation.
-- **[Forge Utah](/pages/forge-utah.md)** (active) · `https://greatutah.work/pages/forge-utah.md` \*
-  Forge Utah Foundation is a volunteer-run not-for-profit connecting Utah's developers, data scientists, SREs, and tinkerers. Forge Utah provides a bounded benefit: Working technologists in Utah, at any level, and people trying to become them.
 - **[Fourth Street Clinic](/pages/fourth-street-clinic.md)** (active) · `https://greatutah.work/pages/fourth-street-clinic.md`
   Fourth Street Clinic is a Salt Lake City health center providing integrated care to people experiencing homelessness. Fourth Street Clinic provides a bounded benefit: People experiencing homelessness who need accessible health care in Salt Lake City, and referral partners connecting them to ongoing treatment.
 - **[Furnace](/pages/furnace-outbound.md)** (active) · `https://greatutah.work/pages/furnace-outbound.md`
@@ -728,8 +734,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   The Southern Utah Economic Alliance coordinates business attraction across five southwestern Utah counties. A shared regional pitch can outperform fragmented city marketing, but the alliance remains an enabling local intermediary rather than the source of growth.
 - **[Southeastern Association of Local Governments](/pages/southeastern-association-of-local-governments.md)** (active) · `https://greatutah.work/pages/southeastern-association-of-local-governments.md`
   SERDA coordinates economic development, housing, food security, aging, and loan programs across four southeastern Utah counties. Shared capacity matters in sparsely staffed rural governments, but its reach remains regional and administrative.
-- **[Southern Utah Code Camp](/pages/southern-utah-code-camp.md)** (active) · `https://greatutah.work/pages/southern-utah-code-camp.md` \*
-  Southern Utah Code Camp is a 24-hour Saint George app-building competition ([official site](/pages/southern-utah-code-camp-official-website.md)). Experience-based divisions stop professionals from carrying novice teams, making it unusually credible for young local builders while keeping its impact event-scale.
 - **[Southern Utah University (SUU) - Larry H. & Gail Miller Center for Entrepreneurship](/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md)** (active) · `https://greatutah.work/pages/southern-utah-university-suu-larry-h-and-gail-miller-center-for-entrepreneurship.md`
   Southern Utah University's Miller Center gives students across majors startup coursework, mentors, competitions, and hands-on practice. It is a valuable on-ramp in a region with fewer founder resources, but its effect remains campus-scale and replaceable.
 - **[Southern Utah University Cedar City Business & Innovation Center](/pages/southern-utah-university-cedar-city-business-and-innovation-center.md)** (2023) · `https://greatutah.work/pages/southern-utah-university-cedar-city-business-and-innovation-center.md`
@@ -884,8 +888,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Wagevo is a Provo financial-technology startup offering earned wage access: employees at participating businesses can transfer wages they have already earned instead of waiting for a scheduled payday. Its public footprint is still small, and product reach and customer counts have not been independently verified.
 - **[Wasatch Front Regional Council](/pages/wasatch-front-regional-council.md)** (active) · `https://greatutah.work/pages/wasatch-front-regional-council.md`
   The Wasatch Front Regional Council plans transportation and growth across six northern Utah counties serving more than two million residents. Its leverage is coordination: mobility, land use, grants, and economic strategy fail when each fast-growing jurisdiction optimizes alone.
-- **[Wasatch Ionics](/pages/wasatch-ionics.md)** (2024) · `https://greatutah.work/pages/wasatch-ionics.md`
-  Wasatch Ionics is an early-stage Utah company developing lithium-oxygen reserve batteries with integrated chemical oxygen generation for Army applications. Army validation makes the frontier-chemistry bet credible enough to watch, but production readiness, commercial path, and achievable scale remain unproven.
 - **[Wasatch Women's Business Alliance](/pages/wasatch-women-s-business-alliance.md)** (2024) · `https://greatutah.work/pages/wasatch-women-s-business-alliance.md`
   The Wasatch Women's Business Alliance connects women-owned and operated businesses through peer referrals, mastermind sessions, and monthly meetings. Trusted local relationships can win work and reduce founder isolation, but the documented effect remains bounded to participating Wasatch County businesses.
 - **[Washington Area Chamber of Commerce](/pages/washington-area-chamber-of-commerce.md)** (active) · `https://greatutah.work/pages/washington-area-chamber-of-commerce.md`
@@ -912,8 +914,6 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Workman Nydegger is a Salt Lake City firm devoted to patents, trademarks, copyrights, trade secrets, and related litigation. Its narrowness is the point: founders whose core asset is an invention need specialist protection before a mistake becomes impossible to unwind.
 - **[World Trade Center Utah](/pages/world-trade-center-utah.md)** (active) · `https://greatutah.work/pages/world-trade-center-utah.md`
   World Trade Center Utah (WTC Utah) is a nonprofit affiliated with the World Trade Centers Association that helps Utah companies expand into global markets. Its official site offers business advisory, trade missions, events, grant support including STEP, and connections to an international trade network.
-- **[Xandem](/pages/xandem.md)** (2015) · `https://greatutah.work/pages/xandem.md`
-  Xandem is a Salt Lake City spinout using meshes of radio transceivers to sense motion through walls without cameras or active radar. The technology drew federal interest, but its 2024 pivot toward consumer home security weakens the defense-and-intelligence story the older page implied.
 - **[Zaymo](/pages/zaymo.md)** (active) · `https://greatutah.work/pages/zaymo.md`
   Zaymo builds interactive ecommerce email that lets shoppers act without opening a separate web page. The 13-person Y Combinator startup has a clear product distinction, but no verified adoption or scale; its demonstrated impact remains limited to early customers.
 

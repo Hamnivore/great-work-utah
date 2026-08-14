@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** B
+**Tier:** A
 **Activity-signal:** 2025-09-18 · https://www.prnewswire.com/news-releases/rewiring-autonomy-passivelogic-raises-74-million-to-scale-physical-ai-in-the-real-world-302559864.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

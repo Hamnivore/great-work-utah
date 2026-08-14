@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** B
+**Tier:** A
 **Activity-signal:** 2026-06-15 · https://www.prnewswire.com/news-releases/halia-therapeutics-receives-fda-fast-track-designation-for-ofirnoflast-ht-6184-in-lower-risk-myelodysplastic-syndromes-302800024.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** B
+**Tier:** A
 **Activity-signal:** 2025-11-18 · https://symbiocelltech.com/news/2025/11/18/111625
 **Activity-checked:** 2026-08-14
 **Activity:** active

@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** B
+**Tier:** A
 **Activity-signal:** 2026-07-23 · https://www.deseret.com/environment/2026/07/23/rodatherm-fulcrum-point-holdings-geothermal-plant-brigham-city-utah/
 **Activity-checked:** 2026-08-14
 **Activity:** active

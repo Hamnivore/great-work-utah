@@ -48,6 +48,8 @@ are out of scope by type: evidence artifacts and wiki apparatus displace nothing
 - [x] `public/llms.txt` and the `wiki` skill updated
 - [x] Rater reports reviewed for findings the TSVs did not carry; one under-specified ruling found
       (ruling 1 on multinationals with a Utah site) and fixed in `tiers.md`
+- [x] All 173 venture pages reranked 2026-08-13 for company-specific upside under the corrected
+      fame-neutral potential rule; method and decisions in `rerank-2026-08-13.md`
 - [ ] **Open, for a later session:** the framing defects the run surfaced — 12 shared atoms to merge,
       3 pages carrying two atoms, 2 titled for a global corporation while scoped to a Utah site, 8 with
       no established Utah presence, 4 type mismatches, 8 dead or stale URLs. All enumerated in

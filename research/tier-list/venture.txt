@@ -147,7 +147,7 @@ us-magnesium.md
 us-synthetic.md
 usu-integrated-biosystems.md
 utah-arch.md
-utah-direct-selling-industry.md
+utah-multi-level-marketing-industry.md
 utah-film-industry.md
 utah-neurorobotics-lab.md
 utahn.md

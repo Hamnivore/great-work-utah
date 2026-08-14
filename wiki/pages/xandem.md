@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Low
-**Tier:** D
+**Tier:** C
 **Activity-signal:** 2015-11-30 · https://www.digitaltrends.com/home/xandem-home-security-system-indiegogo/
 **Activity-checked:** 2026-08-14
 **Activity:** dormant

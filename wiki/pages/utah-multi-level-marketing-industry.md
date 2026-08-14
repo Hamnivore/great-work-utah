@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** A
+**Tier:** B
 **Activity-signal:** 2026-03-16 · https://www.directsellingnews.com/2026/03/16/public-product-companies-2025-year-end-earnings-review/
 **Activity-checked:** 2026-08-14
 **Activity:** active
@@ -19,7 +19,7 @@
 
 ## Summary
 
-Utah is a global center of multi-level marketing, with a durable manufacturing and supplier cluster and participation touching roughly one in ten Utah adults. Its A-tier magnitude includes both exports and harm: company disclosures show most participants earn little or nothing while the model reproduces across firms and generations.
+Utah is a global center of multi-level marketing, with a durable manufacturing and supplier cluster and participation touching roughly one in ten Utah adults. Its structural magnitude includes both exports and harm: company disclosures show most participants earn little or nothing while the model reproduces across firms and generations.
 ## Impact
 
 **Breadth is enormous, and so is the disagreement about whether the net effect is good.** On one side sits a real

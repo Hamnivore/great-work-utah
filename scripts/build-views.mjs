@@ -293,9 +293,9 @@ for (const p of orphans) graph += `- [${p.title}](${p.url}) · \`${p.path}\`\n`
 write('evidence.md', graph)
 
 // ---- the tier list ----
-// The corpus ranked on one ladder by argued impact (wiki/meta/tiers.md). This is what makes "surface
-// all the gems" mechanical instead of a matter of the reading agent's taste: gems are S and A, and
-// they are 5% of the corpus, so an agent with a narrow budget knows exactly where to spend it.
+// The corpus ranked on one ladder by argued impact (wiki/meta/tiers.md). S and A are high-impact
+// gems; a trailing * is the independent discovery signal for pages unusually worth reading relative
+// to their pure-displacement letter. Neither is a popularity measure.
 const TIER_RANK = { S: 0, A: 1, B: 2, C: 3, D: 4, F: 5, unranked: 6 }
 const TIER_LABEL = {
   S: 'world-historic',
@@ -309,6 +309,7 @@ const TIER_LABEL = {
 const tiered = pages.filter((p) => p.tier && TIER_RANK[p.tier.replace('*', '')] !== undefined)
 const tierBase = (p) => p.tier.replace('*', '')
 const gems = tiered.filter((p) => ['S', 'A'].includes(tierBase(p)))
+const discoveryPicks = tiered.filter((p) => p.tier.endsWith('*'))
 
 // The ladder deliberately says nothing about *when*, which strands a reader looking for something to
 // join: twelve of the thirteen S pages are historical. `**Activity:**` (wiki/meta/activity.md) is the
@@ -321,7 +322,7 @@ const tierEntry = (p) => {
 
 let tierList = `# The tier list
 
-Utah work ranked by how far it could move the world. ${gems.length} pages in S and A. [How this is ranked](../meta/tiers.md) · \`${BASE}/meta/tiers.md\`.
+Utah work ranked by how far it could move the world. ${gems.length} pages in S and A; ${discoveryPicks.length} starred discovery picks. Fame is neither evidence nor a prior. [How this is ranked](../meta/tiers.md) · \`${BASE}/meta/tiers.md\`.
 
 Greyed-out entries are not active. [What (active) means](../meta/activity.md) · \`${BASE}/meta/activity.md\`.
 
@@ -329,7 +330,7 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
 for (const t of ['S', 'A', 'B', 'C', 'D', 'F', 'unranked']) {
   const sel = tiered
     .filter((p) => tierBase(p) === t)
-    .sort((a, b) => a.title.localeCompare(b.title))
+    .sort((a, b) => Number(b.tier.endsWith('*')) - Number(a.tier.endsWith('*')) || a.title.localeCompare(b.title))
   if (!sel.length) continue
   const gloss = TIER_LABEL[t]
   tierList += `## ${t} — ${gloss} (${sel.length})\n\n`
@@ -420,7 +421,7 @@ This is the router for ${pages.length} pages about high-impact work in Utah. Pic
 
 ## Start by goal
 
-- **Read the best of it first:** [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` ranks all ${tiered.length} fact pages on one impact ladder. The ${gems.length} pages in **S** and **A** are the gems. Pages still being done are marked (active); others show the year of their last public record. The letter is how far a thing could move the world, not a vote that it's good — the top of the list includes weapons, surveillance, and mines.
+- **Read the best of it first:** [the tier list](tier-list.md) · \`${BASE}/views/tier-list.md\` ranks all ${tiered.length} fact pages on one impact ladder. The ${gems.length} pages in **S** and **A** are high-impact gems; ${discoveryPicks.length} starred pages are unusually revealing discovery picks and sort first inside their letter. Pages still being done are marked (active); others show the year of their last public record. The letter is how far a thing could move the world, not a vote that it's good — the top of the list includes weapons, surveillance, and mines.
 - **Find meaningful work:** [by kind of work](by-role.md) · \`${BASE}/views/by-role.md\` (${roleGroups.length} role families), then [all stated needs](needs.md) · \`${BASE}/views/needs.md\` (${needers.length} organizations) and [Find Meaningful Work in Utah](/pages/find-meaningful-work.md) · \`${BASE}/pages/find-meaningful-work.md\`. These are leads derived from page assessments, not confirmed openings; verify with the organization.
 - **Start or fund a high-growth company:** [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · \`${BASE}/pages/startup-capital-in-utah.md\` · [Find an Advisor](/pages/find-an-advisor.md) · \`${BASE}/pages/find-an-advisor.md\`
 - **Grow a Main Street or rural business without venture capital:** [Find Business Services](/pages/find-business-services.md) · \`${BASE}/pages/find-business-services.md\` routes formation, lending, procurement, regulation, and workforce help; combine it with [resources](resources.md) · \`${BASE}/views/resources.md\` and [by Utah location](by-region.md) · \`${BASE}/views/by-region.md\`.
@@ -439,7 +440,7 @@ ${domainViews.map((d) => `- [${domainLabel(d)}](domain-${d}.md) · \`${BASE}/vie
 
 ## Browse by another facet
 
-- [By impact tier](tier-list.md) · \`${BASE}/views/tier-list.md\` — ${tiered.length} fact pages ranked S through F on one ladder; ${gems.length} gems in S and A
+- [By impact tier](tier-list.md) · \`${BASE}/views/tier-list.md\` — ${tiered.length} fact pages ranked S through F on one ladder; ${gems.length} high-impact gems and ${discoveryPicks.length} starred discovery picks
 - [By kind of work](by-role.md) · \`${BASE}/views/by-role.md\` — ${roleGroups.length} populated role families derived only from pages with stated-needs assessments; use search and sector hubs for other plausible employers
 - [By Utah location](by-region.md) · \`${BASE}/views/by-region.md\` — ${regional.length}/${pages.length} pages carry Region metadata (${pct(regional.length, pages.length)}% coverage)
 - [By venture stage](by-stage.md) · \`${BASE}/views/by-stage.md\` — ${staged.length} pages; metadata assertions, not yet sourced

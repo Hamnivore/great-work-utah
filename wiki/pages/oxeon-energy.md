@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** B
+**Tier:** A
 **Activity-signal:** 2026-06-16 · https://www.utahbusiness.com/awards-and-rankings/2026/06/16/executive-excellence-2026-utah-business-jessica-elwell/
 **Activity-checked:** 2026-08-14
 **Activity:** active

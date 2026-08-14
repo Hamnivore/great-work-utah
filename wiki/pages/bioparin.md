@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** C
+**Tier:** B*
 **Activity-signal:** 2025-02-03 · https://www.nucleusutah.org/newsroom/blog-post-title-two-dmp38
 **Activity-checked:** 2026-08-14
 **Activity:** active

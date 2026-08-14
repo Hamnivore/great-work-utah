@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** C
+**Tier:** B
 **Activity-signal:** 2024-04-04 · https://hitconsultant.net/2024/04/04/culmination-bio-billiontoone-partner-to-validate-cancer-diagnostics/
 **Activity-checked:** 2026-08-14
 **Activity:** dormant

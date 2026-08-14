@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** C
+**Tier:** B
 **Activity-signal:** 2026-08-13 · https://carterra-bio.com/about/careers/
 **Activity-checked:** 2026-08-14
 **Activity:** active

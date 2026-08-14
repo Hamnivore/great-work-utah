@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** C
+**Tier:** B
 **Activity-signal:** 2026-08-06 · https://www.sec.gov/Archives/edgar/data/0001826681/000119312526336621/pdyn-ex99_1.htm
 **Activity-checked:** 2026-08-14
 **Activity:** active

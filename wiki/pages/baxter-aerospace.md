@@ -3,7 +3,7 @@
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
-**Tier:** D
+**Tier:** C*
 **Activity-signal:** 2025-07-25 · https://www.finsmes.com/2025/07/baxter-aerospace-raises-6m-in-series-a-funding.html
 **Activity-checked:** 2026-08-14
 **Activity:** active

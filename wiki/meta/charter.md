@@ -40,9 +40,10 @@ move the world in either direction, and if that's a blessing or a disaster, the 
 Enablers get only their **counterfactual difference**, which puts most of the `resource` shelf at
 `D` or `F`.
 
-**The rubric, the nine rulings, and the worked cases are in [`tiers.md`](tiers.md) — read it before
-assigning a tier.** Gems are `S` and `A`; that is how "surface all the gems" became a filter instead
-of a matter of taste.
+**The rubric, the rulings, and the worked cases are in [`tiers.md`](tiers.md) — read it before
+assigning a tier.** High-impact gems are `S` and `A`; starred pages are discovery picks whose pages
+are unusually revealing or surprising relative to their pure-displacement tier. Fame is neither
+evidence nor a prior for either signal.
 
 ## Hooks into the machinery
 

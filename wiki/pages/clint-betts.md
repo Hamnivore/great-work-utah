@@ -15,7 +15,7 @@
 
 ## Summary
 
-Clint Betts is the publisher of [Utahn](utahn.md) and, by his own public disclosure, co-founder and CEO of [Silicon Slopes](silicon-slopes.md). His July 2026 founding essay presents Utahn as a response to shrinking newsroom capacity in a growing state and discloses that his technology-community role overlaps with subjects the publication intends to cover.
+Clint Betts is the publisher of Utahn and, by his own public disclosure, co-founder and CEO of Silicon Slopes. Clint Betts provides a bounded benefit: Betts occupies two public roles that can pull in different directions: Organizing Utah's technology community and publishing journalism about Utah institutions, including that community.
 
 ## Impact
 

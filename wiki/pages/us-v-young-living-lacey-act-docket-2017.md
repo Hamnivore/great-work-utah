@@ -105,7 +105,7 @@ record is both stronger evidence and reachable.
 ## Related Pages
 
 - [Source: United States v. Young Living Essential Oils — Misdemeanor Information (2017)](us-v-young-living-misdemeanor-information-2017.md)
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 
 ## Maintainer Notes
 

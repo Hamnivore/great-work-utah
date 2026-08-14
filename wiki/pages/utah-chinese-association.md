@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Identifiers:** ein=81-5037210
 **Primary Location:** Utah
@@ -14,9 +15,7 @@
 
 ## Summary
 
-The Utah Chinese Association (UCA) is a 501(c)(3) nonprofit described in Startup State as uniting Utah communities through cultural engagement, historical education, and social services—including programs tied to the Chinese Folk Art Festival, Utah Chinese History Museum, and Utah Asian Alliance. The official website could not be fetched in this review (connection failed, 2026-07-14), so business-support claims beyond cultural programming remain unverified.
-
-PICC lists UCA as part of the Living Color Chamber Alliance, suggesting some business-network overlap.
+The Utah Chinese Association links cultural engagement, history, and social services through programs including a folk-art festival and history museum. Its business-support role remains unverified because the official site could not be reached in the 2026 review.
 
 ## Who It's For
 

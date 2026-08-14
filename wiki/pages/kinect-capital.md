@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -18,9 +19,8 @@
 
 ## Summary
 
-Kinect Capital is a Salt Lake City 501(c)(3) nonprofit that describes itself as a mentor-driven accelerator connecting founders, investors, and opportunity. Its official site focuses on helping founders start, raise money, and grow through investor readiness, mentorship, pitch/deck support, valuation and term-sheet preparation, and connections to investors.
 
-For the wiki, Kinect Capital is best treated as a capital-readiness and investor-access resource rather than a fund that directly invests from its own balance sheet.
+Kinect Capital is a Salt Lake City nonprofit accelerator that helps founders sharpen fundraising stories, materials, valuations, and terms. That preparation can improve a local company's odds in the room, but it is mentorship rather than unique capital or technology.
 
 ## Who It's For
 

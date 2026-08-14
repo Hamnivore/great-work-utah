@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Delta, UT
 **Utah Location:** Delta, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-The Delta Area Chamber of Commerce supports Millard County businesses with resources, events, and community connections. Verified on the official site (2026-07-14): the chamber operates from the RJ Law Community Center at 75 West Main Street, Delta, with office hours Tuesday and Thursday 9:00–1:00 and phone availability Monday–Friday 8:00–5:00. The site publishes monthly luncheons, community festivals (Snow Goose Festival), member news, and a join flow.
+The Delta Area Chamber of Commerce supports Millard County businesses with resources, events, and community connections. Delta Area Chamber of Commerce provides a bounded benefit: Delta and Millard County businesses seeking local networking, event participation, and chamber-led community promotion.
 
 ## Who It's For
 

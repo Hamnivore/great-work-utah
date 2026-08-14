@@ -23,9 +23,8 @@
 
 ## Summary
 
-The Scientific Computing and Imaging Institute, better known as SCI, is a permanent research institute at the University of Utah. Public materials describe SCI as one of the longest-running centers of scientific visualization and biomedical computing in the world, with a body of open-source software that includes SCIRun (cardiac and neural simulation), ShapeWorks (statistical shape analysis), Seg3D (medical image segmentation), and FluoRender (fluorescence microscopy visualization). Faculty leadership traces back to Chris Johnson, whose co-authored Visualization Handbook is widely used as a reference text in the field.
 
-For the Great Work Utah wiki, SCI is the strongest local example of how durable, faculty-led research institutes can become load-bearing infrastructure for entire scientific communities — and a case study in why university structure matters for long-horizon work.
+The University of Utah's Scientific Computing and Imaging Institute maintains open-source tools for biomedical visualization, cardiac simulation, segmentation, and shape analysis. General visualization would survive without SCI, but its maintained biomedical-computing stack would leave a real research gap.
 
 ## Impact
 

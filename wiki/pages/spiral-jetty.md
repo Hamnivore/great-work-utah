@@ -19,9 +19,8 @@
 
 ## Summary
 
-Robert Smithson's *Spiral Jetty* is a 1,500-foot-long counterclockwise earthwork built from black basalt, earth, salt crystals, mud, and Great Salt Lake water at Rozel Point in 1970. It is not simply an artwork placed in Utah. The lake's salinity, color, remoteness, industrial traces, microbial life, water-level changes, and geology are part of the work's meaning.
 
-Sometimes the piece is submerged. Sometimes it reappears crusted in salt. That instability is not a failure of preservation; it is one reason the work has remained alive in art history.
+Robert Smithson's 1,500-foot *Spiral Jetty* is a basalt earthwork built in Great Salt Lake in 1970. It helped establish Land art as a major form by making sculpture a changing place, process, film, and pilgrimage—an influence that permanently altered contemporary art beyond the Utah site.
 
 ## Impact
 

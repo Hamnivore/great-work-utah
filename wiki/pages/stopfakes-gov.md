@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** D
 **Focus:** International Trade
 **Primary Location:** Washington, DC
 **Utah Location:** no verified Utah presence
@@ -13,10 +14,7 @@
 
 ## Summary
 
-STOPfakes.gov is a federal one-stop resource on intellectual property rights (IPR) for U.S. businesses, run by the International Trade Administration. Verified on the live site (2026-07-14): it provides guidance on registering and protecting patents, trademarks, copyrights, and trade secrets, with emphasis on helping small and medium-sized enterprises avoid counterfeiting and piracy when selling at home and abroad.
-
-Utah founders can use it remotely; there is no Utah-specific office.
-
+STOPfakes.gov is a federal intellectual-property information hub for American businesses. It is useful reference material but creates no distinctive Utah capacity, program, or outcome, so its page is inert in a Utah impact ranking.
 ## Who It's For
 
 U.S. companies—especially SMEs—preparing to commercialize innovations, expand internationally, or defend IP against counterfeiting. Relevant across industries when export or brand protection is part of the growth plan.

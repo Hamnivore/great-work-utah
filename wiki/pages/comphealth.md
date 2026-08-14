@@ -18,9 +18,7 @@
 
 ## Summary
 
-CompHealth is a physician and advanced-practice **locum tenens** staffing brand headquartered in the Salt Lake City area. It places temporary clinicians into hospitals and practices nationwide — assignments from a few days to a year — so facilities can cover vacancies, seasonal demand, and underserved markets ([locum tenens page](comphealth-locum-tenens-page.md)).
-
-The company **trades as part of CHG Healthcare**: CompHealth's site footer reads **"© CHG Management, Inc. CHG Healthcare Company"** ([locum tenens page](comphealth-locum-tenens-page.md)). The SEC registrant **CHG Healthcare Services, Inc.** (CIK **0001356792**, EIN **51-0319328**) listed **4021 South 700 East, Suite 300, Salt Lake City, Utah 84107** as headquarters in its March **2006 S-1** ([S-1](chg-healthcare-s1-2006.md)).
+CompHealth is a physician and advanced-practice locum tenens staffing brand headquartered in the Salt Lake City area. If locum tenens truly originated with this Utah company, it would mean a Salt Lake City firm helped define how rural American hospitals staff physician services when permanent hires are unavailable.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** SBIR, STTR, nondilutive funding, proposal support, grant training, post-award management
 **Primary Location:** Chelsea, MI
 **Utah Location:** no verified Utah presence
@@ -13,9 +14,7 @@
 
 ## Summary
 
-BBCetc is a national SBIR/STTR and federal R&D funding consulting and training firm. It is not a Utah program and should not duplicate [Nucleus Grow](nucleus-grow.md), but it is a plausible outside helper for Utah deep-tech founders who need paid proposal, training, post-award, TABA, or grants/contracts management support.
-
-The official site frames the company around helping innovation businesses navigate federal seed funding and lists research grant assistance, SBIR/STTR training, post-award grants/contracts management, programs for entrepreneurial support organizations, TABA, and CMMC.
+BBCetc is a national SBIR/STTR and federal R&D funding consulting and training firm. BBCetc provides a bounded benefit: Likely fits include technical founders with a plausible federal R&D topic who need hands-on proposal support, SBIR/STTR training, post-award management help, agency-specific guidance, or support beyond what a local free program can provide.
 
 ## Impact
 

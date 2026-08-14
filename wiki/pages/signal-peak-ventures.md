@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,7 +14,8 @@
 
 ## Summary
 
-Signal Peak Ventures (SPV) is a Salt Lake City venture capital firm whose official site now brands the platform as Run Ventures while retaining the spv.com domain. The site describes backing early-stage technology companies and partnering with entrepreneurs to build enduring businesses.
+
+Signal Peak Ventures, now branded Run Ventures, is a Salt Lake City firm backing early-stage technology companies. Its capital and operating experience can scale individual startups, but the summary evidence does not show a unique market-shaping role.
 
 ## Who It's For
 

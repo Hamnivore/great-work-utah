@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** Beaver, Garfield, Iron, Kane, and Washington counties, UT
@@ -17,9 +18,7 @@
 
 ## Summary
 
-The Five County Association of Governments (FCAOG) is a voluntary interlocal agency serving southwestern Utah's Beaver, Garfield, Iron, Kane, and Washington counties. Verified on the official site (2026-07-14): FCAOG supports community and economic development, transportation planning, aging programs, human services, and small-business financing, operating as a federally recognized Economic Development District.
-
-Main offices are in St. George with a satellite office in Cedar City.
+The Five County Association of Governments (FCAOG) is a voluntary interlocal agency serving southwestern Utah's Beaver, Garfield, Iron, Kane, and Washington counties. Five County Association of Governments provides a bounded benefit: Municipal leaders, regional planners, small businesses, and residents across the five-county area seeking interlocal program delivery, economic-development district.
 
 ## Who It's For
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,9 +14,7 @@
 
 ## Summary
 
-Offices.net is a national coworking and flex-office listing service, not a single Salt Lake operator. Verified on the official site (2026-07-14): it lists 13 shared-workspace options in the Salt Lake City area—including dedicated desks, hot desks, private offices, and business-center lounges—and connects users to operators via phone or listing inquiry forms.
-
-Treat it as a comparison directory; pricing and membership terms come from each building operator.
+Offices.net is a national coworking and flex-office listing service, not a single Salt Lake operator. Coworking Space in Salt Lake City - Offices.net has no estimable impact yet because listed operators are still active and which offer true coworking vs. serviced executive suites only.
 
 ## Who It's For
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Richfield, UT
 **Utah Location:** Juab County, Millard County, Piute County, Sanpete County, Sevier County, Wayne County
@@ -17,7 +18,8 @@
 
 ## Summary
 
-The R6 Regional Council (Six County Association of Governments) supports central Utah communities through regional planning, economic development, and essential services. Verified on r6.utah.gov: R6 serves Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties with community and economic development, aging services, housing (HEAT, weatherization, rent-to-own), tax preparation, and the Central Utah Agri-Park initiative.
+
+R6 Regional Council coordinates planning, economic development, housing, aging, and workforce services across six central Utah counties. That shared rural capacity is useful, but it remains regional administrative infrastructure rather than a statewide structural change.
 
 ## Who It's For
 

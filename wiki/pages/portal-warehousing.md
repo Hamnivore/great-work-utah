@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Portal Warehousing Salt Lake City at 1580 South 500 West offers flexible co-warehousing and logistics space for e-commerce, logistics, and growing businesses. The site advertises private warehouse units from roughly 200 to 2,000+ square feet with short-term, flexible terms and all-inclusive amenities such as loading equipment, private offices, shipping/receiving support, and daily carrier pickups.
+
+Portal Warehousing offers flexible shared warehouse and logistics space for Salt Lake City e-commerce and consumer-goods firms. It can bridge the gap between home fulfillment and a long industrial lease, but the benefit is local and conventional warehouses are substitutes.
 
 ## Who It's For
 

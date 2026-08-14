@@ -19,8 +19,7 @@
 
 ## Summary
 
-Utahn is a Utah-focused news publication whose public charter describes a platform for independent journalists rather than a publication governed by an institutional editorial board. Founder and publisher [Clint Betts](clint-betts.md) says it has no investors and frames it as a response to declining newsroom capacity in Utah. Both statements are self-reported.
-
+Utahn is a Utah-focused news publication whose public charter describes a platform for independent journalists rather than a publication governed by an institutional editorial board. Both statements are self-reported.
 ## Impact
 
 Utahn's proposed contribution is more reporting capacity and a different institutional model: journalists retain control of their beats, the publication does not endorse candidates, and its charter promises primary-source links, disclosed AI assistance, public corrections, sponsorship labeling, and annual revenue-source transparency. These are inspectable commitments, but the captured sources do not yet show a track record sufficient to judge whether the model works.

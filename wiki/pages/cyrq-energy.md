@@ -22,9 +22,7 @@
 
 ## Summary
 
-Cyrq Energy operates geothermal power plants in the western United States, including Thermo No. 1 (also called Thermo 1) near Minersville / Milford in Beaver County, Utah — a binary-cycle plant on the order of 14–15 MW nameplate that sells power toward the City of Anaheim, California, with PacifiCorp transmission. Cyrq's own locations page also lists Nevada and California plants (Soda Lake, Patua, Hudson Ranch).
-
-For Utah geothermal job-seekers, Cyrq is the third conventional operator in the Beaver County corridor alongside [Ormat Technologies](ormat-technologies.md) (Cove Fort) and PacifiCorp's [Blundell](blundell-geothermal-plant.md), next to next-gen work at [Fervo](fervo-energy.md) and [Utah FORGE](utah-forge.md).
+Cyrq Energy operates geothermal power plants in the western United States, including Thermo No. 1 (also called Thermo 1) near Minersville / Milford in Beaver County, Utah. Thermo No. 1 adds firm renewable megawatts from a known hydrothermal resource.
 
 ## Impact
 

@@ -25,9 +25,8 @@
 
 ## Summary
 
-Torus builds modular energy infrastructure that pairs mechanical flywheels with batteries to deliver fast, reliable power at the edge of the grid and on industrial sites. The company is headquartered in Salt Lake City and is building a large domestic manufacturing campus there. Its pitch is firm, high-cycle, low-chemical-hazard storage that can respond to grid signals in milliseconds, made with U.S. materials rather than imported lithium chemistry alone.
 
-For Utah operators, Torus is one of the clearest examples of hard-tech manufacturing scaling inside the state — not a software company, but a company pouring concrete, building rotating machinery, and hiring power-electronics and grid engineers.
+Torus combines flywheels and batteries to deliver fast, repeatedly cycled power at grid edges and industrial sites. If the hybrid system handles frequency, voltage, and backup demands without battery degradation, it could become structural infrastructure for grids strained by data centers and artificial intelligence.
 
 ## Impact
 

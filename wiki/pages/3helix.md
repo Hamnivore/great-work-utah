@@ -19,9 +19,7 @@
 
 ## Summary
 
-3Helix is a Salt Lake City biotechnology company built around Collagen Hybridizing Peptides (CHPs) — short peptides that bind specifically to denatured collagen triple-helix sites rather than intact collagen. Founded from University of Utah biomedical engineering research (Dr. Michael Yu and Dr. Yang Li), the company sells CHP research reagents and is commercializing broader applications in histopathology, mechanical-damage detection, and cell-invasion studies.
-
-BASF took an equity stake and an exclusive personal-care license in 2023, validating near-term commercial viability through cosmetics (NeoHelix™ Regenerate). Therapeutic and diagnostic applications — imaging damaged tissue, targeted drug delivery to collagen-remodeling lesions — remain scientifically compelling but preclinical.
+3Helix is a Salt Lake City biotechnology company built around Collagen Hybridizing Peptides (CHPs) — short peptides that bind specifically to denatured collagen triple-helix sites rather than intact collagen. Damaged collagen is a structural signature across heart attack, cancer invasion, arthritis, fibrosis, wound healing, and aging.
 
 ## Impact
 

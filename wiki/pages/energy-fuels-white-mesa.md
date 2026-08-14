@@ -19,9 +19,7 @@
 
 ## Summary
 
-Energy Fuels is a Denver-based public critical-minerals company whose Utah relevance centers on the White Mesa Mill in San Juan County. The company's official website frames White Mesa as a key U.S. facility for uranium, rare earth elements, vanadium, medical isotopes, and other critical-mineral products.
-
-For the wiki, Energy Fuels / White Mesa is important because it is serious work with real geopolitical weight and real controversy. It connects nuclear energy, domestic uranium supply, rare-earth processing, medical isotopes, mining, tribal and local community concerns, environmental regulation, and U.S. industrial policy.
+Energy Fuels is a Denver-based public critical-minerals company whose Utah relevance centers on the White Mesa Mill in San Juan County. The strongest impact case is supply-chain resilience.
 
 ## Impact
 

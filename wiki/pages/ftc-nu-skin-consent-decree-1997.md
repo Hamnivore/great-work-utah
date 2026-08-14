@@ -111,6 +111,6 @@ three decades, from this decree to the 2020 warning letters.
 
 ## Related Pages
 
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 - [Nu Skin Enterprises FY2025 Form 10-K](nu-skin-10k-fy2025.md)
 - [FTC Announcement of Warning Letters to Ten Multi-Level Marketers (2020)](ftc-mlm-covid-warning-letters-2020.md)

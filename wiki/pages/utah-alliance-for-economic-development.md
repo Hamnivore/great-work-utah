@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,8 +14,7 @@
 
 ## Summary
 
-The Utah Alliance for Economic Development is a statewide membership organization of economic development professionals from public agencies, utilities, real estate, law, staffing, and private ED firms. Verified on utahalliance.com/about: the Alliance provides professional development, quarterly statewide meetings, networking, policy advocacy, and a member directory for Utah's ED community.
-
+The Utah Alliance for Economic Development connects the state's public and private economic-development professionals. Its meetings, training, and advocacy can improve coordination among agencies, utilities, advisers, and developers, but the benefit is bounded to a professional network rather than a structural program of its own.
 ## Who It's For
 
 Economic development directors, business development staff, and allied professionals (utilities, real estate, law, site selection) — not founders seeking direct business services. Founders may indirectly benefit when their local ED professional is an active member.

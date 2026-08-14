@@ -15,10 +15,7 @@
 
 ## Summary
 
-Thiokol opened its Wasatch Division facility near Promontory, Utah, in 1956. The site grew into a major solid rocket motor manufacturing center for U.S. strategic missiles, launch vehicles, and spaceflight. Over time the corporate lineage passed through Thiokol, ATK, Orbital ATK, and Northrop Grumman, but the Utah industrial base remained: large motors, propellant chemistry, casting, curing, inspection, test infrastructure, and a workforce trained around dangerous, high-consequence aerospace manufacturing.
-
-The most visible civilian symbol is the Space Shuttle Solid Rocket Booster, whose segments were manufactured in Utah and provided most of the thrust at liftoff. The less comfortable historical reality is that much of the facility's first importance came from nuclear-delivery systems and missile programs.
-
+Since 1956, Thiokol's Utah industrial lineage has built large solid rocket motors for strategic missiles, the Space Shuttle, and later launch systems. That permanent manufacturing base changed American deterrence and spaceflight worldwide; successor owners inherited capabilities, infrastructure, and consequences created in Utah.
 ## Impact
 
 Solid rocket motors solve a different problem than liquid engines. They can sit ready for long periods, fire quickly, and deliver enormous thrust with comparatively simple launch operations. That made them central to missile readiness and later to heavy-lift launch architecture.

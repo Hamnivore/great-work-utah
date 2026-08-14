@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,9 +14,7 @@
 
 ## Summary
 
-Verified in headless Chrome (2026-07-14): Teen Entrepreneur Support Center operates at teenentrepreneurship.org with mentorship, shop, events, travel, and school pathways. The homepage tagline emphasizes free support for teen founders ("We are FREE so you are FREE – to go BIG"). Automated curl/fetch often hits Cloudflare; use a real browser before treating the site as down.
-
-
+Teen Entrepreneur Support Center offers young people mentorship, events, school pathways, travel, and a shop. Those programs can matter deeply to participants, but the evidence shows no scale beyond the immediate community; browser-access problems are not an impact claim.
 ## Who It's For
 
 Teen and student entrepreneurs in Utah seeking mentorship, workshops, and peer community around early business ideas and revenue-stage youth ventures.

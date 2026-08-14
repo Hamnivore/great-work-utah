@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** n/a
 **Focus:** pediatric hospital care, complex illness and injury, pediatric education and research
 **Identifiers:** ror=053hkmn05
 **Primary Location:** Salt Lake City, UT
@@ -15,7 +16,9 @@
 
 ## Summary
 
-Primary Children's Hospital is Intermountain Health's pediatric hospital system in Utah. Its Salt Lake City facility is an academic pediatric medical center working with the University of Utah School of Medicine and treating complex illness and injury across a multi-state region.
+
+
+Primary Children's Hospital is Intermountain Health's pediatric hospital system in Utah. Specialized children's care reaches substantial regional scale, but other major pediatric systems show that the capability is structurally important rather than unique.
 
 ## Who It's For
 

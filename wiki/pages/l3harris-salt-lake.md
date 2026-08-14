@@ -22,11 +22,7 @@
 
 ## Summary
 
-L3Harris Technologies is a major U.S. public defense prime (NYSE: LHX, formed 2019 from the L3 Technologies and Harris Corporation merger). Its Salt Lake City Communications Systems site is one of the company's largest facilities and one of Utah's biggest defense employers — thousands of engineers across multiple buildings, with visible hiring in RF, communications, software, and systems engineering.
-
-The site works on resilient tactical communications, electronic warfare, and ISR systems for the U.S. military and allied partners, including Falcon IV tactical radios, SATCOM terminals, and classified ISR payloads. For the wiki, L3Harris Salt Lake is real, important supply-chain work on the layer of modern warfare that Ukraine made visible: radios that work under jamming, links that survive EW attack, and spectrum-agile networking.
-
-The honest caveat: this is a large public defense prime, not an indie-frontier story. Individual engineer leverage is moderate; most interesting work requires clearances; corporate strategy is set outside Utah. The site does genuinely important deployed engineering, but it sits in a commoditizing, budget-cycle-sensitive tier of the defense stack rather than category-defining frontier work.
+L3Harris Technologies is a major U.S. public defense prime (NYSE: LHX, formed 2019 from the L3 Technologies and Harris Corporation merger). Ukraine-era EW demonstrated that spectrum control shapes ground truth; L3Harris comms work sits directly in that problem space, even if individual engineers rarely see their code outside classified programs.
 
 ## Impact
 

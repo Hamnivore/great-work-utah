@@ -20,9 +20,8 @@
 
 ## Summary
 
-Hexcel is a global advanced-composites company with significant Utah operations. Its official website describes the company as a leader in advanced composite materials across aerospace, defense and space, and industrial applications.
 
-In the Utah wiki, Hexcel is useful because it reminds founders and students that consequential technology work is not only software and startups. Some of Utah's most important work is process engineering, materials manufacturing, quality systems, and supply-chain execution.
+Hexcel makes aerospace carbon fiber and advanced composites, including material for U.S. military and space programs. Its lightweight structures sit upstream of aircraft efficiency and mission performance across more than 100 programs, making the company a load-bearing industrial supplier rather than a local employer story.
 
 ## Impact
 

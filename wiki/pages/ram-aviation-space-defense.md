@@ -24,9 +24,8 @@
 
 ## Summary
 
-RAM Aviation, Space & Defense is a St. George, Utah company founded in 1975, manufacturing precision propulsion valves and flow-control components for spacecraft, missiles, and military aircraft. [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md)
 
-RAM says its valves support the SpaceX Dragon capsule and hardware for the ISS deorbit mission; the captured source does not establish a deorbit date. [Official Website: RAM Aviation, Space & Defense](ram-aviation-space-defense-official-website.md)
+RAM Aviation, Space & Defense is a Saint George manufacturer of valves and actuation hardware for aircraft and spacecraft ([official site](ram-aviation-space-defense-official-website.md)). Its parts sit in active U.S. human-spaceflight supply chains, but other qualified aerospace suppliers make the company replaceable.
 
 ## Impact
 

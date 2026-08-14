@@ -23,9 +23,8 @@
 
 ## Summary
 
-FamilySearch is a Salt Lake City–based nonprofit and the largest genealogy organization in the world. It is the genealogical arm of The Church of Jesus Christ of Latter-day Saints, with a public mission to digitize, preserve, index, and make freely accessible the genealogical records of all humanity. Public materials describe a collection of more than 2.4 million rolls of microfilmed records, more than 340,000 books, and over 20.5 billion searchable records and images online, with billions of new records added each year. The service is free and does not require a Latter-day Saint affiliation.
 
-For the Great Work Utah wiki, FamilySearch is the clearest example of civilizational infrastructure operating quietly out of Utah at religious-institution scale.
+Salt Lake City-based FamilySearch preserves and links genealogy records at unmatched global scale. Its century-long digitization effort made family history broadly accessible and supplied the intergenerational data behind discoveries such as inherited breast-cancer risk—a durable research and public infrastructure.
 
 ## Impact
 

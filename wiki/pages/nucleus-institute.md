@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** commercialization, talent matching, early-stage capital, research translation, Utah innovation
 **Identifiers:** ein=39-4773943
 **Primary Location:** Salt Lake City, UT
@@ -19,9 +20,8 @@
 
 ## Summary
 
-The Nucleus Institute is a statewide innovation helper that sits between universities, founders, industry, investors, policymakers, and students. For this wiki, its most useful role is not just "program operator." It is a connector that can route research-backed ventures toward capital, SBIR/STTR support, commercialization coaching, student talent, policy expertise, and ecosystem relationships.
 
-Nucleus is especially relevant for founders or researchers whose work starts inside Utah higher education and needs to cross into company formation, federal funding, operator support, or customer discovery.
+The Nucleus Institute connects Utah universities, founders, industry, investors, policymakers, and students. That convening can reduce local coordination friction, but its effect is enabling and replaceable rather than an independent source of breakthroughs.
 
 ## Impact
 

@@ -23,7 +23,8 @@
 
 ## Summary
 
-Adobe Inc. is a global software company best known for its creative suite — Photoshop, Illustrator, Premiere Pro, Acrobat — and for pioneering the transition from desktop software to cloud subscriptions via Creative Cloud. Founded in 1982, Adobe now spans creative tools, digital marketing (Adobe Experience Cloud), and document management (Acrobat/Sign). It is one of the most consequential technology employers in Utah, with a large office in Lehi that houses engineering, product, and customer-support teams.
+
+Adobe makes Photoshop, Illustrator, Premiere Pro, Acrobat, and Creative Cloud, with a major engineering campus in Lehi. Its Omniture acquisition and sustained Utah operation anchored a deep enterprise-software labor market, structurally strengthening the state's ability to build later technology companies.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** integrated health care for people experiencing homelessness
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -14,7 +15,7 @@
 
 ## Summary
 
-Fourth Street Clinic is a Salt Lake City health center providing integrated care to people experiencing homelessness. Its official site identifies the organization as a federal Health Center Program grantee and FTCA-deemed facility.
+Fourth Street Clinic is a Salt Lake City health center providing integrated care to people experiencing homelessness. Fourth Street Clinic provides a bounded benefit: People experiencing homelessness who need accessible health care in Salt Lake City, and referral partners connecting them to ongoing treatment.
 
 ## Who It's For
 

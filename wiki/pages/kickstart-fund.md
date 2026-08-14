@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Cottonwood Heights, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Kickstart Fund is a Mountain West venture capital firm founded in 2008 and based in the Salt Lake City area. Its official site positions Kickstart as an early-stage seed investor backing bold founders across the Rocky Mountain region, with offices in Salt Lake and Denver.
+
+Kickstart Fund is a Salt Lake City-area seed investor backing Mountain West technology companies since 2008. Its capital and local network can help startups reach product-market fit, but founders can plausibly obtain comparable support from other seed funds.
 
 ## Who It's For
 

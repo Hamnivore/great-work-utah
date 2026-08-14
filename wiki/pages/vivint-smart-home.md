@@ -23,10 +23,7 @@
 
 ## Summary
 
-Vivint Smart Home is a Provo, Utah-based smart home and residential security company offering integrated hardware — cameras, sensors, smart locks, thermostats, and hubs — plus professional installation, a mobile app, and 24/7 monitoring. The company traces its roots to APX Alarm Security Solutions, founded in 1999, and rebranded to Vivint in 2011.
-
-Ownership has changed several times. Blackstone acquired Vivint, Vivint later went public through a merger with Mosaic Acquisition Corp., and NRG Energy subsequently acquired it. Vivint now operates as a wholly owned subsidiary of the Houston-based energy company. The captured official homepage does not support transaction values, dates, or customer counts; those require NRG filings.
-
+Vivint Smart Home is a Provo, Utah-based smart home and residential security company offering integrated hardware — cameras, sensors, smart locks, thermostats, and hubs — plus professional installation, a mobile app, and 24/7 monitoring. The captured official homepage does not support transaction values, dates, or customer counts; those require NRG filings.
 ## Impact
 
 Vivint is one of the largest professionally installed smart home platforms in the United States. Its direct-to-consumer sales model — historically heavy on door-to-door and in-home consultation — scaled a Utah hardware-and-services business into a national brand.

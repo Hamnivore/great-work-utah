@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,8 +18,7 @@
 
 ## Summary
 
-The Utah Veteran Business Resource Center (VBRC), established in 2017, supports military-connected entrepreneurs across Utah — veterans, active-duty members, reservists, guardsmen, and spouses — in starting or growing businesses. Backed by the Utah Department of Veterans and Military Affairs, Salt Lake Community College, the State of Utah, and the U.S. Small Business Administration, it offers counseling, mentorship, training, events, and connection to the Utah Veteran-Owned Business Registry.
-
+The Utah Veteran Business Resource Center, established in 2017, helps veterans, active-duty members, reservists, guardsmen, and military spouses start or grow businesses statewide. Its cross-institution backing turns counseling, mentorship, training, events, and the Veteran-Owned Business Registry into a coherent path rather than a scattering of military-connected programs.
 ## Who It's For
 
 Utah veterans, active-duty service members, reservists, National Guard members, and military spouses who need business advising, entrepreneurship training, or visibility for a veteran-owned business.

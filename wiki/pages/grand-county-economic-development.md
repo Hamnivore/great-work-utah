@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Moab, UT
 **Utah Location:** Grand County, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Grand County's non-tourism economic development work is coordinated through the county administration rather than a standalone department page on the official site. Verified on grandcountyutah.net (Business Services) and the Moab Area Chamber directory: county staff support economic diversification, grant oversight, and business outreach from Moab. The former Economic Development Department was restructured in 2026 toward tourism-focused duties under the Moab Office of Tourism, with broader economic development handled by the Commission Administrator's office.
+Grand County's non-tourism economic development work is coordinated through the county administration rather than a standalone department page on the official site. Grand County Economic Development provides a bounded benefit: Businesses and organizations looking to establish or expand in Grand County, especially operators pursuing economic diversification beyond tourism.
 
 ## Who It's For
 

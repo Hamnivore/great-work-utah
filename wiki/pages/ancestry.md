@@ -24,9 +24,7 @@
 
 ## Summary
 
-Ancestry is a Lehi, Utah-based family-history and consumer-genomics company. Its public materials describe a subscription platform for building family trees, searching digitized historical records, and using AncestryDNA results to explore origins, traits, and genetic matches.
-
-For the Great Work Utah wiki, Ancestry matters because it is one of Utah's clearest examples of a consumer data company operating at global scale. It sits adjacent to, but commercially distinct from, the nonprofit genealogy infrastructure anchored by [FamilySearch](familysearch.md).
+Ancestry is a Lehi, Utah-based family-history and consumer-genomics company. Ancestry helped make online genealogy and direct-to-consumer genetic genealogy mainstream consumer products.
 
 ## Impact
 

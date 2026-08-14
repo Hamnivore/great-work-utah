@@ -23,9 +23,7 @@
 
 ## Summary
 
-Coreform is a Utah-based engineering simulation company commercializing isogeometric analysis (IGA). It says it was founded in 2014 and is headquartered in Orem ([official site](coreform-official-website.md)).
-
-Coreform attacks a persistent engineering-simulation bottleneck: mesh generation and geometry cleanup. The captured source does not establish the earlier historical claim about IGA's origin.
+Coreform is a Utah-based engineering simulation company commercializing isogeometric analysis (IGA). The impact case is strongest where high-fidelity simulation is load-bearing but design iteration is slow because meshing and geometry cleanup dominate the workflow. Coreform's public positioning argues that IGA removes the geometry-to-mesh translation step by letting engineers simulate on fully.
 
 ## Impact
 

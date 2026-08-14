@@ -17,10 +17,7 @@
 
 ## Summary
 
-Vector is a Bluffdale, Utah defense company founded in 2024 that equips U.S. and allied special operations forces with attritable drone systems procured, upgraded, and replaced at the speed of modern conflict. Its "Modern Warfare as a Service" model delivers ongoing hardware, tactical integration training, doctrine updates, and refreshes under subscription rather than traditional one-time procurement.
-
-Special Operations Command reportedly validated the approach with a multi-year contract, designating Vector a chosen capability provider. Secondary reports also describe rapid fundraising and hiring, but this wiki has no captured source page supporting the amounts or headcount. The company reports receiving a Pentagon research-and-engineering award and DIU supply-chain and cyber-resilience approvals.
-
+Vector is a Bluffdale, Utah defense company founded in 2024 that equips U.S. and allied special operations forces with attritable drone systems procured, upgraded, and replaced at the speed of modern conflict. Secondary reports also describe rapid fundraising and hiring, but this wiki has no captured source page supporting the amounts or headcount.
 ## Impact
 
 Traditional defense procurement takes years; drone threat environments change in weeks. Vector's subscription framing tries to align SOF units with continuous capability updates instead of aging one-time purchases. The SOF customer base is strategically valuable because special operations units are early adopters whose feedback shapes doctrine that can scale to conventional forces.

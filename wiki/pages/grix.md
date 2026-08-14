@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Grix Venture Capital is a Salt Lake City-based firm describing itself on its official site as first-capital investors in AI and B2B software startups. The public site is minimal but live and positions Grix at the earliest company-formation stage.
+Grix Venture Capital is a Salt Lake City-based firm describing itself on its official site as first-capital investors in AI and B2B software startups. Grix provides a bounded benefit: Pre-seed founders building AI or B2B software who want a Utah-connected first institutional or quasi-institutional capital partner.
 
 ## Who It's For
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** accounting, tax, R&D tax credits, fractional CFO/controller, outsourced finance, advisory
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -20,9 +21,7 @@
 
 ## Summary
 
-Eide Bailly is a national CPA and business-advisory firm with a Salt Lake City office at 5 Triad Center. The local page frames the office as a Utah team "backed by national resources," offering tax, audit, advisory, and technology services. Two offerings make it especially relevant to founders: fractional CFO / controller services and R&D tax-credit work — including the point that early-stage companies can use R&D credits to offset payroll taxes.
-
-For a founder, the useful framing is: the national-firm option when you want outsourced finance leadership and tax-credit expertise from one provider with a Utah office.
+Eide Bailly is a national CPA and business-advisory firm with a Salt Lake City office at 5 Triad Center. Eide Bailly (Utah) provides a bounded benefit: The strongest fit is a Utah company that wants CFO-level finance support without a full-time hire, an R&D-intensive startup that should be capturing tax credits, or a founder who values having a national firm's resources reachable through a local.
 
 ## Impact
 

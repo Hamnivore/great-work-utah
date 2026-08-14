@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=88-0563126
 **Domain:** capital-programs
@@ -15,7 +16,7 @@
 
 ## Summary
 
-The Morgan Utah Chamber of Commerce is listed on Startup State as a Morgan County business networking resource. As of 2026-07-14, the listed domain `morganutahchamber.org` redirects to a generic lander page with no chamber programs, events, or contact information — the official site could not be verified live. Utah GOED's statewide economic-development directory lists Morgan County economic development separately through Morgan County government (`morgancountyutah.gov`).
+The Morgan Utah Chamber of Commerce is listed on Startup State as a Morgan County business networking resource. Until a working official site is confirmed, treat Morgan County government economic-development contacts as the safer starting point for county-level business support.
 
 ## Who It's For
 

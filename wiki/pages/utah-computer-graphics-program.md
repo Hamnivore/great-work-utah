@@ -19,10 +19,7 @@
 
 ## Summary
 
-The University of Utah computer graphics program was one of the most consequential graduate programs in the history of computing. Ivan Sutherland joined the University of Utah in 1968 after creating Sketchpad, and with David Evans helped build a department where 3D graphics, interaction, simulation, and rendering were treated as a serious systems discipline rather than a scattered collection of tricks.
-
-The alumni list became a map of modern computing: Ed Catmull went on to co-found Pixar, John Warnock co-founded Adobe, Jim Clark founded Silicon Graphics and later Netscape, Alan Kay carried ideas from Utah into Xerox PARC and object-oriented programming, Henri Gouraud and Bui Tuong Phong gave their names to shading techniques, and Martin Newell created the Utah teapot. The public claim should be made carefully, but the lineage is real: a great deal of how synthetic images are modeled, lit, rendered, and commercialized passed through Utah.
-
+The University of Utah computer graphics program produced foundational techniques, people, and companies behind modern rendering, design, film, and visual computing. Shading, texture mapping, the Utah teapot, and alumni who shaped Pixar, Adobe, and Silicon Graphics permanently changed how the world makes synthetic images.
 ## Impact
 
 Before the Utah program, computer graphics was mostly specialized research and bespoke hardware. Utah made it a school: a place where graduate students could attack hidden-surface removal, smooth shading, texture mapping, interactive geometry, simulation, and human-computer interaction as connected problems.

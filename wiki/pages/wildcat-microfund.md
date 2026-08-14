@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Ogden, UT
 **Utah Location:** statewide
@@ -14,7 +15,6 @@
 ## Summary
 
 Wildcat MicroFUND is a Weber State University seed fund that awards GetFUNDED cash grants of up to $3,000 to early-stage entrepreneurs and startup businesses across Utah. The official page says awards are grants, not loans, and that the fund takes no equity.
-
 ## Who It's For
 
 Utah early-stage founders who need small non-dilutive capital tied to milestone execution rather than a pitch competition. The program is statewide.

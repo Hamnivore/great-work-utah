@@ -24,9 +24,8 @@
 
 ## Summary
 
-LiveView Technologies (LVT) is an American Fork, Utah company that makes rapidly deployable, solar-powered mobile surveillance units — trailer-mounted camera systems with floodlights, strobes, two-way audio, and cloud-based AI video analytics — sold on a subscription model. Founded in 2005 by Ryan Porter and Bob Brenner to stream construction sites, it grew into remote physical security across retail, logistics, energy, transportation, education, municipalities, and law enforcement. By 2025 the company reported more than 15,000 units deployed and over 200 employees. [Official Website: LiveView Technologies](liveview-technologies-official-website.md)
 
-For the wiki, LVT is included as one of Utah's largest and most visible security-technology companies and a clear example of durable product execution and commercial scale rather than a frontier-technology bet.
+American Fork-based LiveView Technologies sells subscription-based, solar-powered mobile surveillance trailers with cameras and edge analytics ([official site](liveview-technologies-official-website.md)). The company has packaged mature components well; its strength is deployment and business-model execution, not a novel technical moat.
 
 ## Impact
 

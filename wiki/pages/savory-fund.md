@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding, Late Stage Growth
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-Savory Fund is a Lehi-based private equity firm led by restaurant operators that invests in emerging restaurant and food-and-beverage concepts. Its official site emphasizes operator-led support across brand development, real estate, recruiting, technology, and multi-unit expansion, with portfolio brands including Swig, Mo' Bettahs, and R&R BBQ.
+
+Lehi-based Savory Fund invests in emerging restaurant brands and supplies operating help in real estate, recruiting, technology, and expansion. That expertise can scale portfolio chains, but restaurant private equity is replaceable and the impact remains bounded.
 
 ## Who It's For
 

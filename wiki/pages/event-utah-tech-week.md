@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Utah Tech Week is a decentralized, community-run celebration of Utah's tech ecosystem. Any organization can host an event during the week; the official site coordinates a master calendar and registration list to create "happy collisions" among founders, investors, and community groups.
+Utah Tech Week is a decentralized, community-run celebration of Utah's tech ecosystem. EVENT: Utah Tech Week provides a bounded benefit: Anyone in Utah's tech community — founders, investors, operators, students, and community organizations — who wants to attend or host gatherings during the designated week.
 
 ## Who It's For
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,6 @@
 ## Summary
 
 The Utah Film Commission promotes Utah as a filming location for motion pictures, television, and commercials. It supports productions with location scouting, crew and vendor directories, incentive programs, talent development, and resources for local film workers and property owners who want to participate in the industry.
-
 ## Who It's For
 
 Utah filmmakers, production companies, crew, vendors, students, property owners listing film-friendly locations, and local businesses hiring or serving productions.

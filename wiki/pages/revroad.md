@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Provo, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-RevRoad is a Provo-based venture services firm founded in 2017 that pairs capital with operating support in strategy, software, marketing, and business development. Its official site states the fund is fully deployed and that RevRoad has closed applications for future investments while continuing portfolio support.
+RevRoad is a Provo-based venture services firm founded in 2017 that pairs capital with operating support in strategy, software, marketing, and business development. New applicants should treat RevRoad as portfolio-support only unless the site reopens investing.
 
 ## Who It's For
 

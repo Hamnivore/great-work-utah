@@ -24,7 +24,8 @@
 
 ## Summary
 
-Sarcos Technology and Robotics Corporation is a Salt Lake City company that designs and manufactures robotic systems for industrial, defense, and commercial applications. Its flagship products are the Guardian XO — a full-body powered exoskeleton that lets workers lift heavy loads with minimal strain — and the Guardian XT — a dexterous mobile manipulation robot for hazardous-environment work. Founded in 1983 by Dr. Stephen Jacobsen, a University of Utah professor who became one of the pioneering figures in American robotics, Sarcos went public via a 2021 SPAC merger and was subsequently taken private by Paladin Capital Group in 2024 after a difficult public-market period.
+
+Salt Lake City-based Sarcos builds robots for industrial, defense, and commercial work, including the Guardian XO powered exoskeleton. Its most compelling path augments workers doing punishing physical jobs instead of replacing them outright, though that promise remains tied to successful deployment.
 
 ## Impact
 

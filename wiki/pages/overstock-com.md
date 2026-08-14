@@ -19,9 +19,8 @@
 
 ## Summary
 
-Overstock.com is the retail brand and historical name for a Utah e-commerce company that began in 1999 as an online liquidation marketplace and grew into one of the largest U.S. discount retailers. The company was an early Bitcoin payment adopter and later explored blockchain ventures through Medici Ventures and related assets.
 
-Corporate naming has changed several times. In November 2023, Overstock.com, Inc. became **Beyond, Inc.** (NYSE: BYON) after acquiring Bed Bath & Beyond intellectual property out of bankruptcy. In August 2025, the parent renamed again to **Bed Bath & Beyond, Inc.** (NYSE: BBBY). As of mid-2026, the company appears to operate multiple retail brands — including Bed Bath & Beyond, Overstock, and buybuy BABY — from Murray, Utah, while still maintaining overstock.com as a consumer-facing site.
+Overstock.com began in Utah in 1999 as an online liquidation marketplace and grew into a major U.S. discount retailer. Buying the Bed Bath & Beyond brand in 2023 turned survival into a brand-revival bet: use a famous home-goods name to escape the limits of pure discount retail.
 
 ## Impact
 

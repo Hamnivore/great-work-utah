@@ -17,7 +17,6 @@
 ## Summary
 
 Vuely builds sales-workflow software for sign companies. It links field site surveys to generated visual mockups, price estimates, proposals, client signatures, and production handoff.
-
 ## Impact
 
 Custom signage sales cross field measurement, design, pricing, approval, and fabrication. Vuely's bet is that collapsing those handoffs into one workflow can reduce rework and help smaller sign shops respond faster. Its public product and pricing indicate an operating commercial service; quantified customer outcomes remain company claims.

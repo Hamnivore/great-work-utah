@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** A
 **Focus:** Entrepreneurship Communities, Relocate a Business to Utah
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-Altitude Lab is a Salt Lake City biotech accelerator on Recursion's campus, launched in 2020 through a collaboration between Recursion and the University of Utah's PIVOT Center. It targets platform and techbio founders who need lab space, investor access, mentorship, and nondilutive or pre-seed capital to move from concept toward seed financing.
+Altitude Lab is a Salt Lake City biotech accelerator on Recursion's campus, launched in 2020 through a collaboration between Recursion and the University of Utah's PIVOT Center. Early-stage life-science and techbio founders — especially first-time academic founders and SBIR-awarded teams — who need wet-lab infrastructure, investor introductions, and structured commercialization support in Utah.
 
 ## Who It's For
 

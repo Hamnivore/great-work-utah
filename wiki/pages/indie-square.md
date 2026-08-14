@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Murray, UT
 **Utah Location:** Murray, UT
@@ -13,7 +14,8 @@
 
 ## Summary
 
-Indie Square, launched in May 2024, is a mission-driven colocation and meeting space at 141 East 5600 South, Suite 300, in Murray built exclusively for Utah's nonprofit community. The site positions it as affordable workspace and shared resources for grassroots changemakers, with office spaces, meeting rooms, and a collaborative nonprofit ecosystem.
+
+Indie Square is a Murray workspace and meeting hub built exclusively for Utah nonprofits. Affordable shared space can strengthen a small local organization, but the effect stays with tenants and visitors and another suitable venue could replace it.
 
 ## Who It's For
 

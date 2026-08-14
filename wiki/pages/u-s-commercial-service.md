@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** International Trade
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,10 +18,7 @@
 
 ## Summary
 
-The U.S. Commercial Service is the U.S. Department of Commerce export-promotion arm. Verified on the Utah–Salt Lake City office page (2026-07-14): trade specialists help Utah companies make first export sales or expand into additional markets through counseling, market intelligence, partner vetting, advocacy on foreign tenders, and trade-mission connections.
-
-The Salt Lake City office serves Utah exporters statewide.
-
+The United States Commercial Service is the Department of Commerce's export-promotion arm, with a Salt Lake City office serving Utah statewide. Its importance is reach: local companies can tap a federal overseas network rather than build international-market access from scratch.
 ## Who It's For
 
 Utah manufacturers, service providers, and growth-stage companies with U.S.-made products or services ready to explore or expand international sales. Useful for first-time exporters and experienced exporters entering new countries.

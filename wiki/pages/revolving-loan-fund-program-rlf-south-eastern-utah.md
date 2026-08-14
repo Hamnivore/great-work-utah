@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Price, UT
@@ -18,9 +19,8 @@
 
 ## Summary
 
-The Southeastern Utah Association of Local Governments (SEUALG) administers a Revolving Loan Fund for startups and expanding businesses in Carbon, Emery, Grand, and San Juan counties that cannot obtain traditional bank financing. Job creation or retention is a stated program criterion.
 
-The official SEUALG website was unreachable during verification. Confirm all terms with staff before recommending.
+SEUALG administers gap loans for startups and expanding businesses in Carbon, Emery, Grand, and San Juan counties that cannot secure ordinary bank financing. That fills a real rural credit gap, but the official program page was unavailable; applicants should request current terms and board timing directly.
 
 ## Who It's For
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Funding, Marketing and Sales
 **Primary Location:** unknown
 **Utah Location:** statewide
@@ -13,7 +14,8 @@
 
 ## Summary
 
-SCORE Utah is a mentoring and education resource for Utah small-business owners and entrepreneurs. It is best understood as a human-advice layer: free mentoring, workshops, and practical business education from experienced volunteers.
+
+SCORE Utah provides free volunteer mentoring and workshops to small-business owners. Experienced advice can prevent costly mistakes for local operators, but it is a room-scale service with many public and private substitutes.
 
 ## Impact
 

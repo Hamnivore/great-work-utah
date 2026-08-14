@@ -23,9 +23,7 @@
 
 ## Summary
 
-Cosm builds shared-reality venues — large-format LED dome environments where audiences watch live sports, concerts, and original content together in full immersion, without headsets. Each dome runs nearly 100 NVIDIA GPUs and renders through Digistar 7, the world's most deployed planetarium system, inherited when Cosm acquired Evans & Sutherland in 2020 for $14.5M. That acquisition was not branding — it brought seven decades of dome-display engineering, a global Digistar install base, and one of the deepest institutional lineages in simulation software.
-
-The pitch is that VR failed at social because it isolates. Cosm inverts the premise: a physically present, high-fidelity dome where the display is the room and a hundred people watch together. The company has cut venue setup time from a year to four months through its standardized CX System platform and is targeting up to 100 venues globally.
+Cosm builds shared-reality venues — large-format LED dome environments where audiences watch live sports, concerts, and original content together in full immersion, without headsets. Whether this becomes a durable category or an upscale novelty depends on content, return habits, and price tolerance.
 
 ## Impact
 

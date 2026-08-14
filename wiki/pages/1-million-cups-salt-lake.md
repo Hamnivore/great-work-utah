@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,7 +14,7 @@
 
 ## Summary
 
-1 Million Cups Salt Lake is described as a peer community for founders, entrepreneurs, and small business owners. The captured wiki evidence does not preserve presentation timing, presenter count, or the current venue, so those details require confirmation.
+1 Million Cups Salt Lake is described as a peer community for founders, entrepreneurs, and small business owners. 1 Million Cups (Salt Lake) has no estimable impact yet because The Neighborhood Hive still the regular venue for every weekly session.
 
 ## Who It's For
 

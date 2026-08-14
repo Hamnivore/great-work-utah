@@ -18,11 +18,7 @@
 
 ## Summary
 
-NASA's Atmospheric Waves Experiment (AWE) is an instrument mounted on the International Space Station, built by Utah State University's Space Dynamics Laboratory, that studies how atmospheric gravity waves travel from the lower atmosphere into the upper atmosphere and affect the ionosphere. It uses a four-camera Advanced Mesospheric Temperature Mapper to observe infrared airglow near the mesopause — the boundary region roughly 53 miles above Earth where the mesosphere meets the thermosphere.
-
-The science team is led from USU. Michael Taylor, a USU physicist, originated and led the mission. Ludger Scherliess became principal investigator as AWE moved into operations. AWE launched to the ISS in November 2023, achieved first light shortly after installation, and by March 2025 had released data from its first 3,000 orbits, including more than five million images.
-
-The central scientific question AWE addresses is how storms, mountains, and convection in the lower atmosphere launch gravity waves that travel upward, disturbing the ionosphere and affecting satellite communication, navigation, and tracking. Before AWE, the vertical coupling between tropospheric weather and near-space was much less observed than either the surface atmosphere or deep space.
+NASA's Atmospheric Waves Experiment (AWE) is an instrument mounted on the International Space Station, built by Utah State University's Space Dynamics Laboratory. If AWE's dataset materially improves models of upper-atmosphere dynamics or space-weather forecasting, it will represent a clean example of Utah-built space instrumentation moving an entire scientific field.
 
 ## Impact
 

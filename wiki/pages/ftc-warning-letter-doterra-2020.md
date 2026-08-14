@@ -103,6 +103,6 @@ each quoted example do not survive extraction, so quoted posts appear as paragra
 
 ## Related Pages
 
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 - [FTC Announcement of Warning Letters to Ten Multi-Level Marketers (2020)](ftc-mlm-covid-warning-letters-2020.md)
 - [dōTERRA 2026 Opportunity and Earnings Disclosure Summary](doterra-earnings-disclosure-2026.md)

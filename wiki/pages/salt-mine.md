@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-Salt Mine Productive Workspace in Sandy is a 20,000-square-foot coworking and events facility serving Silicon Slopes entrepreneurs. The live site advertises community coworking, dedicated desks, executive offices, conference and training rooms with whiteboard walls, a coffee shop, and hosted networking events including the Silicon Slopes Sandy chapter.
+
+Salt Mine Productive Workspace is a 20,000-square-foot Sandy coworking and event facility. Flexible desks, offices, training rooms, and events can support nearby teams, but the effect is tied to occupants and readily replaced by another workspace.
 
 ## Who It's For
 

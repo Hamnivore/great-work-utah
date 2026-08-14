@@ -18,9 +18,8 @@
 
 ## Summary
 
-Varda Space Industries is a California company building in-space manufacturing platforms that grow materials — especially pharmaceutical crystals — in microgravity and return them to Earth in reentry capsules. Founded in 2020 and headquartered in El Segundo, it is not a Utah company, but it has a meaningful Utah connection: its W-Series 1 (Winnebago-1) capsule landed at the Utah Test and Training Range (UTTR) in February 2024, reported as the first commercial spacecraft landing on U.S. soil. [Source: Varda W-1 Capsule Landing at UTTR](varda-uttr-landing.md)
 
-For the Great Work Utah wiki, Varda belongs because it exercised Utah reentry infrastructure and illustrates how defense test ranges can host commercial space returns — even as subsequent missions shift landing sites to Australia.
+Varda builds orbital factories and capsules that return microgravity-made materials to Earth. Its 2024 Utah landing proved the full commercial return chain; if orbit produces meaningfully better pharmaceuticals at workable cost, it creates a new manufacturing sector rather than a one-off space mission.
 
 ## Impact
 

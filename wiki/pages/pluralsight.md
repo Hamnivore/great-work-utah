@@ -19,9 +19,7 @@
 
 ## Summary
 
-Pluralsight is a Utah-founded online learning company focused on technology skills training for individual engineers and enterprise teams. Its public positioning centers on video courses, hands-on labs, skill assessments, and learning paths across programming languages, cloud platforms, security, data, and increasingly AI and generative-AI workflows.
-
-For the wiki, Pluralsight matters because it is one of the larger education companies rooted in Utah's Silicon Slopes cluster, has reached a meaningful share of the working tech workforce over two decades, and is actively repositioning around enterprise AI upskilling.
+Pluralsight is a Utah-founded online learning company focused on technology skills training for individual engineers and enterprise teams. Software engineering skills decay quickly; the gap between what universities teach and what teams need on the job is persistent.
 
 ## Impact
 

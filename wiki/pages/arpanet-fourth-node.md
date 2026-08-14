@@ -19,9 +19,7 @@
 
 ## Summary
 
-On December 5, 1969, the University of Utah came online as the fourth node of the original ARPANET, the U.S. Defense Department's experimental packet-switching network. The other first nodes were UCLA, Stanford Research Institute, and UC Santa Barbara. Utah was the first node outside California and completed the planned original network.
-
-The connection used a DEC PDP-10 computer and arrived inside the same University of Utah computing environment that David Evans and Ivan Sutherland were building with ARPA support. The graphics program is the more famous Utah computing story, but the ARPANET node is the infrastructure layer underneath it: Utah was present at the beginning of networked computing.
+On December 5, 1969, the University of Utah came online as the fourth node of the original ARPANET, the US Defense Department's experimental packet-switching network. ARPANET demonstrated that packet-switching networks could work across real distance: data could be broken into packets, routed through a network, and reassembled at the destination.
 
 ## Impact
 

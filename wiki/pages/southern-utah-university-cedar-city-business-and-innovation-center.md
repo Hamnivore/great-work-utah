@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-Southern Utah University's Business & Innovation Center (BIC) is a regional entrepreneurship hub in Cedar City that routes founders to SBDC advising, APEX government-contracting help, SUU Startup programming, and the Innovation Center coworking/makerspace at innovationcenter.cc. The SUU portal describes the center as connecting entrepreneurs to local business leaders and skills training.
+
+Southern Utah University's Cedar City Business & Innovation Center routes founders to SBDC advising, government-contracting help, startup programs, coworking, and prototyping. That regional doorway is useful, but each underlying service has substitutes and the center's own counterfactual is modest.
 
 ## Who It's For
 

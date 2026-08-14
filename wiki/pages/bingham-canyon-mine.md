@@ -18,11 +18,7 @@
 
 ## Summary
 
-The Bingham Canyon Mine is the largest open-pit copper mine in the world by volume excavated — roughly 1.2 km deep and 4 km wide, visible from space. Operated by Kennecott Utah Copper (a subsidiary of Rio Tinto), it has produced more copper than any other mine in history: over 19 million tons since large-scale open-pit operations began in 1906. Gold, silver, and molybdenum are significant byproducts. The pit itself is designated a National Historic Landmark — the only mine so honored.
-
-Mining engineer Daniel Jackling pioneered the mass-mining approach at Bingham Canyon starting in 1904. He recognized that the low-grade porphyry ore was uneconomic unless processed in enormous volumes cheaply, and introduced drill-blast-haul techniques at a scale the industry had not previously seen. His methods were exported to mines worldwide and became the foundation of modern large-scale open-pit mining.
-
-The mine continues to operate today. Rio Tinto has invested in extending its life to 2032 and beyond. A 2013 landslide — one of the largest non-volcanic landslides in recorded history — destroyed much of the infrastructure but operations resumed, producing a notable case study in mine recovery engineering.
+The Bingham Canyon Mine is the largest open-pit copper mine in the world by volume excavated — roughly 1.2 km deep and 4 km wide, visible from space. Copper is foundational infrastructure: electrical wiring, plumbing, motors, and now EV powertrains and grid cables.
 
 ## Impact
 

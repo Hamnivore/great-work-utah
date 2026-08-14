@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D*
+**Founder-tier:** D
 **Focus:** developer community, meetups, hack nights, engineering leadership roundtables, conference, statewide event calendar
 **Domain:** computing, culture-place
 **Identifiers:** ein=84-3886600
@@ -17,20 +18,7 @@
 
 ## Summary
 
-Forge Utah Foundation is a volunteer-run not-for-profit connecting Utah's developers, data scientists,
-SREs, and tinkerers. It says it was established in 2015 and describes itself as a 501(c)(3); the IRS
-exempt-organizations file carries **FORGE FOUNDATION INC**, in care of *Forge Utah Foundation*, Lehi,
-Utah, under subsection 03.
-
-It runs three things: **meetups** — Utah Go User Group, Utah Kubernetes, Utah Data Engineering Meetup,
-AI Utah, and The Foundry Hack Nights, across the Wasatch Front and St George — **roundtables** for
-engineering leaders and senior ICs, and the annual single-track **Go West Conference**. It also
-operates [utahtechcalendar.com](utah-tech-calendar.md), a statewide calendar that aggregates its own
-events and everyone else's.
-
-Its centre of gravity, though, is a Slack workspace. That is where the meetups are announced, where
-`#jobs` and `#jobs-wanted` run, and where a large share of what this wiki knows about the current
-state of Utah's software community was said out loud.
+Forge Utah Foundation is a volunteer-run not-for-profit connecting Utah's developers, data scientists, SREs, and tinkerers. Forge Utah provides a bounded benefit: Working technologists in Utah, at any level, and people trying to become them.
 
 ## Who It's For
 

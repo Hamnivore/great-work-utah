@@ -4,9 +4,9 @@ This is the router for 897 pages about high-impact work in Utah. Pick the path t
 
 ## Start by goal
 
-- **Read the best of it first:** [the tier list](tier-list.md) · `https://greatutah.work/views/tier-list.md` ranks all 485 fact pages on one impact ladder. The 37 pages in **S** and **A** are the gems. Tier is the *ceiling* of a thing's plausible effect and is ranked by **magnitude, not sign** — the top of the list includes work whose consequences run hard in both directions.
+- **Read the best of it first:** [the tier list](tier-list.md) · `https://greatutah.work/views/tier-list.md` ranks all 485 fact pages on one impact ladder. The 37 pages in **S** and **A** are the gems. The letter is how far a thing could move the world, not a vote that it's good — the top of the list includes weapons, surveillance, and mines.
 - **Find meaningful work:** [by kind of work](by-role.md) · `https://greatutah.work/views/by-role.md` (15 role families), then [all stated needs](needs.md) · `https://greatutah.work/views/needs.md` (173 organizations) and [Find Meaningful Work in Utah](/pages/find-meaningful-work.md) · `https://greatutah.work/pages/find-meaningful-work.md`. These are leads derived from page assessments, not confirmed openings; verify with the organization.
-- **Start or fund a high-growth company:** [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · `https://greatutah.work/pages/startup-capital-in-utah.md` · [Find an Advisor](/pages/find-an-advisor.md) · `https://greatutah.work/pages/find-an-advisor.md`
+- **Start or fund a high-growth company:** [the founder-resource tier list](founder-resource-tier-list.md) · `https://greatutah.work/views/founder-resource-tier-list.md` ranks all 246 of Utah's resource and helper pages by what they hand a founder; the 12 in **S**, **A**, and **B** are where a week is worth spending. Then [Startup Capital in Utah](/pages/startup-capital-in-utah.md) · `https://greatutah.work/pages/startup-capital-in-utah.md` · [Find an Advisor](/pages/find-an-advisor.md) · `https://greatutah.work/pages/find-an-advisor.md`
 - **Grow a Main Street or rural business without venture capital:** [Find Business Services](/pages/find-business-services.md) · `https://greatutah.work/pages/find-business-services.md` routes formation, lending, procurement, regulation, and workforce help; combine it with [resources](resources.md) · `https://greatutah.work/views/resources.md` and [by Utah location](by-region.md) · `https://greatutah.work/views/by-region.md`.
 - **Commercialize research or find technical space:** [Commercialize Research in Utah](/pages/commercialize-research.md) · `https://greatutah.work/pages/commercialize-research.md` · [Find Prototyping Space](/pages/find-prototyping-space-in-utah-county.md) · `https://greatutah.work/pages/find-prototyping-space-in-utah-county.md`
 - **Explore a field:** use a [sector hub](#sectors), then open the full pages behind the promising lines. If the hub is sparse, search synonyms and check the complete type indexes—the Domain rollout is incomplete.
@@ -17,20 +17,21 @@ This is the router for 897 pages about high-impact work in Utah. Pick the path t
 
 ## Sectors
 
-Sector hubs separate primary players, historical proof, people, programs, current needs, and pages where the sector is secondary. Domain attribution currently covers 247/897 pages (28%); an absent result may mean the rollout is incomplete, not that Utah has no work in that field.
+Sector hubs separate primary players, historical proof, people, programs, current needs, and pages where the sector is secondary. Domain attribution currently covers 251/897 pages (28%); an absent result may mean the rollout is incomplete, not that Utah has no work in that field.
 
 - [Energy](domain-energy.md) · `https://greatutah.work/views/domain-energy.md` — 33 attributed pages
-- [Health and biology](domain-health-bio.md) · `https://greatutah.work/views/domain-health-bio.md` — 55 attributed pages
-- [Aerospace and defense](domain-aerospace-defense.md) · `https://greatutah.work/views/domain-aerospace-defense.md` — 34 attributed pages
-- [Computing](domain-computing.md) · `https://greatutah.work/views/domain-computing.md` — 68 attributed pages
-- [Materials and manufacturing](domain-materials-mfg.md) · `https://greatutah.work/views/domain-materials-mfg.md` — 30 attributed pages
-- [Space and science](domain-space-science.md) · `https://greatutah.work/views/domain-space-science.md` — 4 attributed pages
+- [Health and biology](domain-health-bio.md) · `https://greatutah.work/views/domain-health-bio.md` — 57 attributed pages
+- [Aerospace and defense](domain-aerospace-defense.md) · `https://greatutah.work/views/domain-aerospace-defense.md` — 35 attributed pages
+- [Computing](domain-computing.md) · `https://greatutah.work/views/domain-computing.md` — 69 attributed pages
+- [Materials and manufacturing](domain-materials-mfg.md) · `https://greatutah.work/views/domain-materials-mfg.md` — 33 attributed pages
+- [Space and science](domain-space-science.md) · `https://greatutah.work/views/domain-space-science.md` — 5 attributed pages
 - [Capital and programs](domain-capital-programs.md) · `https://greatutah.work/views/domain-capital-programs.md` — 66 attributed pages
 - [Culture and place](domain-culture-place.md) · `https://greatutah.work/views/domain-culture-place.md` — 53 attributed pages
 
 ## Browse by another facet
 
 - [By impact tier](tier-list.md) · `https://greatutah.work/views/tier-list.md` — 485 fact pages ranked S through F on one ladder; 37 gems in S and A
+- [By founder usefulness](founder-resource-tier-list.md) · `https://greatutah.work/views/founder-resource-tier-list.md` — a second ladder over the 246 resource and helper pages, ranked by what they hand a founder rather than by world impact; 12 in S, A, and B
 - [By kind of work](by-role.md) · `https://greatutah.work/views/by-role.md` — 15 populated role families derived only from pages with stated-needs assessments; use search and sector hubs for other plausible employers
 - [By Utah location](by-region.md) · `https://greatutah.work/views/by-region.md` — 485/897 pages carry Region metadata (54% coverage)
 - [By venture stage](by-stage.md) · `https://greatutah.work/views/by-stage.md` — 147 pages; metadata assertions, not yet sourced

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County
@@ -17,8 +18,8 @@
 
 ## Summary
 
-SEUALG / SERDA serves economic development across Carbon, Emery, Grand, and San Juan counties. The historical path `seualg.utah.gov/…` requires HTTP authentication and is not publicly usable; the live public site is **https://serda.utah.gov/** (verified headless Chrome, 2026-07-14). Use SERDA for mission, departments, and contact; confirm RLF and CEDS details with staff.
 
+SEUALG/SERDA is listed as an economic-development resource for four southeastern Utah counties, but the historical URL is unusable and appears to duplicate the live SERDA organization. As framed, this is a duplicate navigation stub rather than an independent source of impact.
 
 ## Who It's For
 

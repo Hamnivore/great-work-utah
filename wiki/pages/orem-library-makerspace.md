@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Founder-tier:** D
 **Focus:** public makerspace, 3D printing, media digitization, podcast recording, creative software, equipment checkout
 **Domain:** culture-place, materials-mfg, computing
 **Primary Location:** Orem, UT
@@ -14,9 +15,8 @@
 
 ## Summary
 
-The Orem Library Makerspace is a public, self-directed creative lab with equipment and software for prototyping, media work, digitization, and recording. Unlike a startup incubator, it is a library service: the useful entry point for someone who needs to test or make a small thing before committing to a commercial shop or membership.
 
-The official page lists 3D printing, a reservable studio, audiovisual and digitization tools, sewing and craft equipment, and take-home kits. Access rules differ by service, and checkout of higher-cost equipment is limited to adult Orem Library cardholders.
+The Orem Library Makerspace offers public tools for prototyping, media production, digitization, and recording. Free access lowers the barrier for local students and makers, but a library-scale lab cannot substitute for sustained industrial fabrication.
 
 ## Who It's For
 

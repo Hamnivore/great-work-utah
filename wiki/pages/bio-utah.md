@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,7 @@
 
 ## Summary
 
-BioUtah is Utah's life sciences trade association supporting medical devices, biopharmaceuticals, diagnostics, and related sectors. Its official site offers membership benefits including BIO Business Solutions purchasing savings, legislative bill tracking, workforce and industry news, and sponsor-backed community programming.
+BioUtah is Utah's life sciences trade association supporting medical devices, biopharmaceuticals, diagnostics, and related sectors. BIO Utah provides a bounded benefit: Utah life-sciences companies, suppliers, and ecosystem partners that need advocacy, industry networking, purchasing programs, and policy visibility.
 
 ## Who It's For
 

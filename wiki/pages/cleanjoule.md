@@ -22,7 +22,7 @@
 
 ## Summary
 
-CleanJoule is a Salt Lake City-based biofuels company, founded around 2020, that produces biomanufactured aviation fuel and rocket propellant intended to outperform petroleum-derived fuels on energy density. Its CycloSAF product has roughly 10 percent higher energy density than standard Jet-A aviation fuel; its SpaceSAF product is designed as a drop-in replacement for RP-1 rocket propellant (used in engines such as SpaceX's Merlin) with over 4 percent higher energy density ([official website](cleanjoule-official-website.md)). The company is backed by airline operators as strategic investors — Frontier Airlines, Wizz Airlines, and Volaris — along with Indigo Partners and GenZero. As of late 2024 the company was pursuing ASTM certification for CycloSAF and building toward its first full-scale US manufacturing plant.
+CleanJoule is a Salt Lake City-based biofuels company, founded around 2020, that produces biomanufactured aviation fuel and rocket propellant intended to outperform petroleum-derived fuels on energy density. Sustainable aviation fuel is one of the harder decarbonization problems: commercial aviation cannot readily electrify, hydrogen fuel is not near-term practical for most aircraft.
 
 ## Impact
 

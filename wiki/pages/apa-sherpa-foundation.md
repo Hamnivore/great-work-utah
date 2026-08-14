@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** Nepal education, Khumbu region, Sherpa community development, 501(c)(3) philanthropy
 **Identifiers:** ein=27-2198169
 **Primary Location:** Lehi, UT
@@ -16,9 +17,7 @@
 
 ## Summary
 
-The Apa Sherpa Foundation is a Utah 501(c)(3) that funds education and basic necessities for disadvantaged people in Nepal, starting from founder Apa Sherpa's home village of Thame in the Everest region. Its public materials center on schooling as the lever — the founder's line is "Without an education, we have no choice" ([mission page](apa-sherpa-foundation-mission-page.md)).
-
-The legal entity registers in **Lehi, Utah** (EIN 27-2198169) while the website publishes a **Salt Lake City PO Box** for donations ([IRS record](apa-sherpa-foundation-form-990-record.md), [official site](apa-sherpa-foundation-official-website.md)). Apa Sherpa himself lives in **Draper**, Utah ([Wikipedia reference capture](wikipedia-apa-sherpa-reference.md)) — a separate fact from the foundation's registered address.
+The Apa Sherpa Foundation is a Utah 501(c)(3) that funds education and basic necessities for disadvantaged people in Nepal, starting from founder Apa Sherpa's home village of Thame in the Everest region. Apa Sherpa Foundation provides a bounded benefit: Disadvantaged children and families in Nepal — especially around Thame in the Khumbu — who lack reliable access to schooling and basic.
 
 ## Who It's For
 

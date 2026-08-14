@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Entrepreneurship Communities, Any, Aerospace and Defense, Agriculture
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,9 +14,7 @@
 
 ## Summary
 
-First Step Entrepreneur (FSTEP) was imported as a six-week online cohort program for aspiring entrepreneurs, particularly people who did not yet have a business idea. The imported description emphasized practical challenges, peer support, and accountability. It also advertised a one-time founding-cohort price, but that time-sensitive offer is no longer safe to present as current.
-
-The listing no longer appears in the live Startup State directory, and the provider's current enrollment status, schedule, and price were not verified on 2026-08-11. Treat it as a historical lead until the provider confirms that the program is operating.
+First Step Entrepreneur (FSTEP) was imported as a six-week online cohort program for aspiring entrepreneurs, particularly people who did not yet have a business idea. First Step Entrepreneur has no estimable impact yet because the description still accurate on the provider's current website.
 
 ## Who It's For
 

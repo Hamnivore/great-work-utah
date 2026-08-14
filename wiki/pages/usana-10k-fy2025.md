@@ -123,4 +123,4 @@ $250.2 million of net sales for the quarter ended April 4, 2026.
 ## Related Pages
 
 - [USANA Health Sciences](usana.md)
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)

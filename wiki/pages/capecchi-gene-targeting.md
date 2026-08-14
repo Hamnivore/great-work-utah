@@ -20,9 +20,8 @@
 
 ## Summary
 
-Mario Capecchi joined the University of Utah in 1973 and spent decades developing gene targeting: a method for modifying a specific gene in a living mouse by using homologous recombination and selection strategies to find the rare cells where the intended edit occurred. Combined with embryonic stem-cell methods developed by Martin Evans and related work by Oliver Smithies, the technique made the knockout mouse practical.
 
-Capecchi shared the 2007 Nobel Prize in Physiology or Medicine with Evans and Smithies for discoveries involving embryonic stem cells and DNA recombination in mammals. For the wiki, the Utah claim is not that the whole method was invented by one person in one place. The claim is narrower and stronger: Capecchi's Utah lab made targeted mammalian gene modification practical enough to become one of the central tools of modern biomedical research.
+Mario Capecchi's University of Utah work made it possible to disable a chosen gene in a living mouse and observe the result. Knockout mice permanently changed causal biology across cancer, development, immunity, metabolism, and neuroscience, with later genome editing building on the same experimental logic.
 
 ## Impact
 

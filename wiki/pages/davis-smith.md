@@ -12,7 +12,7 @@
 
 ## Summary
 
-Davis Smith is the founder and public face of [Cotopaxi](cotopaxi.md), a Salt Lake City outdoor gear and apparel brand organized around an explicit poverty-alleviation mission. He grew up partly in Latin America, and according to public company materials, the brand name and mission connect directly to his childhood near the Cotopaxi volcano in Ecuador. Smith is a prominent example of Utah's emerging cohort of mission-driven consumer-brand founders.
+Davis Smith is the founder and public face of Cotopaxi, a Salt Lake City outdoor gear and apparel brand organized around an explicit poverty-alleviation mission. Cotopaxi is one of the most visible examples in Utah of a consumer brand built around a cause — specifically, directing a share of revenue toward poverty-alleviation programs in Latin America and beyond.
 
 ## Impact
 

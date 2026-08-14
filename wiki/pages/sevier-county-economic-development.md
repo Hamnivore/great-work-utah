@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Sevier County, UT
 **Utah Location:** Sevier County, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-Sevier County Economic Development promotes business relocation and expansion in central Utah's Sevier County. Verified on `sevieredc.com` (2026-07-14): the office connects businesses with planning resources, describes Salina and Richfield business parks for light manufacturing and distribution, and lists incentives including Enterprise Zone tax credits, local land write-downs, and tax-increment financing. Note: Startup State's listed URL `scedc.com` is a Tennessee organization — the correct Utah site is `sevieredc.com`.
+
+Sevier County Economic Development promotes relocation and expansion and markets business-park sites in Salina and Richfield. It can coordinate local land and incentives, but the service remains regional and does not itself create durable demand.
 
 ## Who It's For
 

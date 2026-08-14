@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** public higher education, research, academic health care, technology commercialization
 **Identifiers:** ein=87-6000525, ror=03r0ha626
 **Primary Location:** Salt Lake City, UT
@@ -15,8 +16,7 @@
 
 ## Summary
 
-The University of Utah is a public research university in Salt Lake City, an Association of American Universities member, and the home of Utah's academic medical center. This page is a concise institutional node for work and resources distributed across the wiki.
-
+The University of Utah is a major public research university and academic medical center in Salt Lake City. This thin umbrella page merely points to work documented elsewhere; it does not frame or evidence the university's own enormous impact well enough to rank it above inert.
 ## Who It's For
 
 Students, researchers, patients, employees, industry partners, and community members using the university's education, research, health, or public-service institutions.

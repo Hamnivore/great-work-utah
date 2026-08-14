@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Ogden, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-The Ogden-Weber Chamber of Commerce is Weber County's primary business membership organization, representing 990+ member organizations. Verified on the official site (2026-07-14): members get marketing through chamber communication channels, professional and leadership development, legislative advocacy, and operational savings on insurance and employee benefits. The chamber runs committees including Small Business Council, Women in Business, Leadership Northern Utah, and Legislative Affairs, plus a quarterly Membership 360 orientation for new and prospective members.
+
+The Ogden-Weber Chamber represents more than 990 businesses through events, committees, promotion, and policy work. Its network is locally useful at meaningful scale, but chambers elsewhere can provide the same functions.
 
 ## Who It's For
 

@@ -24,9 +24,8 @@
 
 ## Summary
 
-Nusano is a physics company building a new way to produce medical and industrial radioisotopes. In August 2025 it cut the ribbon on a 190,000-square-foot radioisotope production facility in West Valley City, Utah, with Utah Governor Spencer Cox attending. The company says the site is designed to make more than 40 different radioisotopes — and up to 12 simultaneously — anchored by a proprietary ion-source and particle-acceleration platform. [Source: Nusano Official Website and Facility-Opening / Series C Announcements](nusano-official-website.md)
 
-For the Great Work Utah wiki, Nusano is a rare hard-tech bet sitting at the intersection of accelerator physics, advanced manufacturing, oncology, and national supply-chain security — and it is being built in Utah from scratch.
+Nusano is building a particle-accelerator system to produce medical and industrial radioisotopes ([official source](nusano-official-website.md)). If it makes scarce isotopes reliably at scale, radiopharmaceutical development stops being constrained by fragile reactor supply—a credible global-frontier bet.
 
 ## Impact
 

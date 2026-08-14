@@ -20,9 +20,7 @@
 
 ## Summary
 
-Myriad Genetics was founded in 1991 by Mark Skolnick, a University of Utah geneticist working in cancer epidemiology. The company's founding mission was to sequence genes associated with hereditary breast and ovarian cancer and develop clinical tests around them.
-
-Myriad was central to the sequencing and commercialization of BRCA1 and BRCA2 testing. It built a clinical testing business around inherited cancer risk and, through aggressive patent enforcement, held a powerful position over the U.S. BRCA testing market until the 2013 Supreme Court decision in *Association for Molecular Pathology v. Myriad Genetics* ruled that naturally occurring DNA sequences cannot be patented.
+Myriad Genetics was founded in 1991 by Mark Skolnick, a University of Utah geneticist working in cancer epidemiology. It proved that clinical genetic testing could be a serious business, then became the test case for whether naturally occurring genes could be privately controlled.
 
 ## Impact
 

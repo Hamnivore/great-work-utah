@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Funding
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
@@ -17,10 +18,7 @@
 
 ## Summary
 
-Startup Ignition Ventures (SIV) is a Utah-based pre-seed venture fund that invests roughly $100K–$1M in software, AI, and SaaS companies with real customer signal and disciplined execution. Verified on the official site (2026-07-14): the fund emphasizes evidence-backed traction, fast response through "SIV Instant," and access to the broader Startup Ignition ecosystem (Bootcamp, ToolSuite, mentor community).
-
-SIV is best treated as an early check and founder-development partner, not a passive capital source.
-
+Startup Ignition Ventures (SIV) is a Utah-based pre-seed venture fund that invests roughly $100K–$1M in software, AI, and SaaS companies with real customer signal and disciplined execution. SIV is best treated as an early check and founder-development partner, not a passive capital source.
 ## Who It's For
 
 SIV targets pre-seed founders building B2B software, AI, or SaaS businesses who can show customer validation and are preparing for their first institutional-style round. It may especially fit Utah and Intermountain West founders already connected to Startup Ignition education or community programs.

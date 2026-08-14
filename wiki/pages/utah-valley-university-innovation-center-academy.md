@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
@@ -18,7 +19,6 @@
 ## Summary
 
 The UVU Innovation Academy is a university-wide hub connecting students, faculty, and external partners through hands-on learning experiences. The official site describes it as home to more than a dozen programs supporting research, graduation distinctions, industry connections, and engaged learning.
-
 ## Who It's For
 
 UVU students seeking real-world project experience, faculty building interdisciplinary courses, and external partners (businesses or nonprofits) collaborating with student teams. Primary audience is student-facing; partnership pathways exist for employers and community organizations.

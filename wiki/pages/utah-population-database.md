@@ -19,10 +19,7 @@
 
 ## Summary
 
-The Utah Population Database is a linked genealogical and medical-records database maintained at the Huntsman Cancer Institute at the University of Utah. It combines multigenerational family histories with Utah vital records, the Utah Cancer Registry, hospital discharge records, and other medical datasets.
-
-The result is a rare research instrument: large family trees connected to health outcomes across generations. Researchers use it to study hereditary disease patterns, identify high-risk families, and search for genetic contributors to cancer, heart disease, diabetes, and other conditions.
-
+The Utah Population Database links multigenerational genealogy with medical and vital records for genetic and population-health research. That enduring, globally unusual structure made otherwise invisible hereditary disease patterns discoverable and helped establish modern cancer genetics—a permanent scientific capability.
 ## Impact
 
 Genetic epidemiology often struggles with incomplete family histories and small samples. Utah's genealogical record tradition created an unusual foundation: many families with documented relationships across multiple generations, living in a state with linkable medical and vital records.

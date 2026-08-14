@@ -23,9 +23,8 @@
 
 ## Summary
 
-SchoolAI is a Lehi, Utah company building an AI platform for K-12 classrooms. Founded by former teacher Caleb Hicks, it combines teacher-facing AI assistants for lesson prep and administration with **Spaces** — teacher-designed, personalized AI tutors, games, and lessons for students — plus **Mission Control** for real-time visibility into engagement and struggle.
 
-The captured official source does not establish financing totals, classroom reach, country count, or district penetration, so those scale claims are omitted pending a captured funding announcement or primary district records. The company positions itself on managed, safe AI for minors — FERPA/COPPA compliance, crisis flagging, and teacher-configurable guardrails.
+Lehi-based SchoolAI gives teachers configurable AI tutors and real-time visibility into student engagement. If it reliably personalizes attention across a full classroom, it improves a persistent constraint at real scale; competing education platforms make that gain replaceable.
 
 ## Impact
 

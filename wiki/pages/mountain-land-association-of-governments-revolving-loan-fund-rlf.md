@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Heber City, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-The Mountainland Association of Governments (MAG) Revolving Loan Fund, facilitated through Wasatch County and promoted on the Heber Valley site, provides gap and startup financing to qualified businesses in the Mountainland region. The program aims to create permanent, long-term jobs by bridging shortfalls in commercial financing.
+
+The Mountainland Association of Governments Revolving Loan Fund provides gap and startup financing in the Mountainland region. A loan can unlock a local business that banks reject, but the program's unknown terms and limited geography cap its demonstrated reach.
 
 ## Who It's For
 

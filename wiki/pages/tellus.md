@@ -19,10 +19,7 @@
 
 ## Summary
 
-TELLUS Networked Sensor Solutions builds networked air-quality sensors and the CoreDI data platform. Its official site says CoreDI rests on 20+ years of validation ([official website](tellus-official-website.md)); the capture does not establish a founding date, spinout history, or product-launch date.
-
-Traditional regulatory-grade air-quality monitors are deployed sparsely, but the earlier cost and city-count figures are not present in captured evidence. TELLUS describes a network approach using lower-cost sensors and a calibration platform.
-
+TELLUS Networked Sensor Solutions builds networked air-quality sensors and the CoreDI data platform. Traditional regulatory-grade air-quality monitors are deployed sparsely, but the earlier cost and city-count figures are not present in captured evidence.
 ## Impact
 
 The gap between what regulators measure and what people actually breathe is large and inequitable. Low-income and minority communities, which tend to be closer to industrial emission sources, are the most underserved by sparse regulatory monitoring. TELLUS's dense sensor networks can provide neighborhood-level air quality data that changes individual behavior (stay indoors during inversions, route around highway corridors) and supports epidemiological research linking localized pollution to health outcomes.

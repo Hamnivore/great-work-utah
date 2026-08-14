@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-Entrepreneurship at Southern Utah University is housed in the Dixie L. Leavitt School of Business and serves students from all majors through the Larry H. & Gail Miller Center for Entrepreneurship. The official page frames the program around Educate, Experience, and Elevate — teaching students to run, start, and exit businesses through experiential learning, mentorship, speaker series, and competitions. Staff office: BUS 115.
+
+Southern Utah University's Miller Center gives students across majors startup coursework, mentors, competitions, and hands-on practice. It is a valuable on-ramp in a region with fewer founder resources, but its effect remains campus-scale and replaceable.
 
 ## Who It's For
 

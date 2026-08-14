@@ -22,7 +22,8 @@
 
 ## Summary
 
-MX Technologies is a financial technology company that provides an open banking platform to banks, credit unions, and fintech developers. The platform enables secure access to financial data, data enrichment (categorization, cleaning, normalization), account aggregation, and payment initiation through APIs. MX helps financial institutions offer personalized digital experiences and comply with consumer data-sharing regulations such as the CFPB's Section 1033 rulemaking. Founded in 2010 as MoneyDesktop, the company rebranded to MX in 2015 and is a founding member of the Financial Data Exchange (FDX), a nonprofit focused on standardizing consumer financial data access.
+
+MX Technologies provides open-banking data and software to banks, credit unions, and financial-technology developers. Its connections can make consumer financial data usable across many institutions at real scale, but other aggregators and banking platforms can replace it.
 
 ## Impact
 

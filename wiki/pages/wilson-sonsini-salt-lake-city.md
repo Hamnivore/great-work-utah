@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** startup counsel, venture financings, life sciences, medical devices, IP, corporate governance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -17,10 +18,7 @@
 
 ## Summary
 
-Wilson Sonsini is a national technology and life-sciences law firm with a Salt Lake City office. Its public pages make it most relevant to this wiki as startup and venture counsel for Utah companies that are already, or plausibly soon will be, venture-backed technical companies.
-
-The firm frames its emerging-company work around formation, equity structures, investor negotiations, intellectual-property rights, governance, employment, M&A, patents, tax, technology transactions, and venture finance. Its Salt Lake City page says the firm represents more than 100 Utah-headquartered clients.
-
+Wilson Sonsini is a national technology and life-sciences law firm with a Salt Lake City office. Its Salt Lake City page says the firm represents more than 100 Utah-headquartered clients.
 ## Impact
 
 Deep-tech founders often need counsel that can handle more than one narrow legal task: formation, founder equity, university IP, venture financing, board governance, life-sciences regulatory risk, strategic partnerships, and eventual M&A or IPO paths can interact. Wilson Sonsini's public materials position the firm for that multi-stage company-law role.

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -17,10 +18,7 @@
 
 ## Summary
 
-The Utah Defense Alliance (UDA) advocates for Utah's military missions, installations, and defense-industry economic base. Its official site describes support for governmental and private enterprises pursuing national-defense objectives, workforce development for defense and aerospace, and engagement with political, DoD, and business leaders.
-
-For founders, UDA is an ecosystem and advocacy organization — not a startup fund or incubator.
-
+The Utah Defense Alliance (UDA) advocates for Utah's military missions, installations, and defense-industry economic base. For founders, UDA is an ecosystem and advocacy organization — not a startup fund or incubator.
 ## Who It's For
 
 Defense contractors, aerospace suppliers, installation-adjacent businesses, and community partners working to strengthen Utah's military and defense-industry footprint. Companies seeking policy context, installation relationships, or defense-economic advocacy are the clearest fits.

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=20-2466369
 **Primary Location:** Hurricane, UT
@@ -14,7 +15,8 @@
 
 ## Summary
 
-The Hurricane Valley Chamber of Commerce supports businesses in Hurricane and the greater Washington County area through networking, events, and promotion. Verified on hvchamber.com: the chamber offers membership benefits, ribbon cuttings, a member directory, advertising opportunities, luncheons, golf and veterans events, and an annual awards banquet.
+
+The Hurricane Valley Chamber of Commerce gives Washington County businesses local networking, promotion, events, and a member directory. That visibility can matter to tourism and service operators, but its effect remains local and readily supplied by other business groups.
 
 ## Who It's For
 

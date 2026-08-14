@@ -170,6 +170,14 @@ website). Plan and phasing: `research/design/raw-source-capture.md`.
 
 Impact sections argue the charter's dimensions — depth, breadth, permanence, bounds, counterfactual — as prose with reasoning, plus `**Bet:**` where the work is contrarian.
 
+For every fact page (`venture`, `person`, `helper`, `resource`, `work`), `## Summary` is a fast read
+that identifies the page's atom and makes the wiki's specific editorial judgment: why this particular
+thing matters, what would replace it, where its reach stops, or what must become true for the bet to
+pay off. **It really should fit under 400 characters** after whitespace is collapsed; lint warns
+above that soft limit. Sentence count is free. Write the judgment so it could not be pasted onto
+another page unchanged. Tier-label boilerplate, generic praise, and phrases such as “for the wiki”
+are not summaries; thin evidence calls for a pointed limitation, not filler.
+
 Every page type may end with an optional `## Maintainer Notes` section. When present, it must be
 the final level-two section and must not be empty. Put wiki-production work there: presentation and
 asset tasks, migration or internal-provenance notes, unresolved editorial decisions, and cleanup or

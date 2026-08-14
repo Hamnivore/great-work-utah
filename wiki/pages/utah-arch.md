@@ -21,10 +21,7 @@
 
 ## Summary
 
-The Utah Arch Research Group is a computer architecture research lab in the University of Utah School of Computing. The group focuses on redesigning the hardware stack underneath machine learning and privacy-preserving computation — specifically, building accelerators for ML inference and fully homomorphic encryption (FHE), and exploring emerging compute substrates including 3D nanofabric.
-
-This is an academic research group, not a company. Contributions flow through publications at top venues (HPCA, ASPLOS, ISCA, IEEE S&P) and through PhD graduates who carry ideas into commercial silicon at companies including Apple, NVIDIA, Google, and Intel, as well as emerging FHE hardware startups.
-
+The Utah Arch Research Group is a computer architecture research lab in the University of Utah School of Computing. Contributions flow through publications at top venues (HPCA, ASPLOS, ISCA, IEEE S&P) and through PhD graduates who carry ideas into commercial silicon at companies including Apple, NVIDIA, Google, and Intel, as well as emerging FHE hardware startups.
 ## Impact
 
 Two problems the group is working on have outsized long-term significance:

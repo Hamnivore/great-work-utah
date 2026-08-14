@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Identifiers:** ein=87-0501979
 **Primary Location:** Utah
@@ -19,8 +20,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Utah Hispanic Chamber of Commerce has served Hispanic businesses in Utah since 1991. Public pages describe advocacy, support, a member directory, events, and affiliation with SOMOS, positioning UHCC as a benchmark resource for Hispanic business creation, development, and promotion statewide.
-
+The Utah Hispanic Chamber of Commerce has represented Hispanic-owned businesses since 1991 through advocacy, referrals, and business networks. Its longevity makes it a trusted bridge into Utah's commercial institutions, though the documented counterfactual remains bounded to members and participating firms.
 ## Who It's For
 
 Hispanic-owned and Hispanic-serving businesses across Utah, plus sponsors and partners supporting Utah's Hispanic business community.

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Cedar City, UT
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-The One Utah Summit is the Governor's rural summit convening Utah business, nonprofit, and government leaders to shape statewide economic-development priorities. Starting in 2025 the event consolidated into a single three-day October gathering at Southern Utah University in Cedar City; the 2026 edition is scheduled August 4–6 at SUU's America First Event Center.
+The One Utah Summit is the Governor's rural summit convening Utah business, nonprofit, and government leaders to shape statewide economic-development priorities. EVENT: One Utah Summit provides a bounded benefit: Utah business leaders, economic-development stakeholders, rural community representatives, and policymakers engaged in statewide growth strategy.
 
 ## Who It's For
 

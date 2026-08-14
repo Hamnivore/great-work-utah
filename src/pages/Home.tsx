@@ -33,8 +33,8 @@ export function HomePage() {
         <p className="home-eyebrow">A wiki for your AI</p>
         <h1 id="home-title">Ask better questions about Utah.</h1>
         <p className="home-lede">
-          A map and research wiki of consequential companies, labs, projects, people, and
-          opportunities in Utah. Tell your assistant what you need; it can search the whole thing.
+          A wiki of consequential companies, labs, projects, people, and opportunities in Utah.
+          Tell your assistant what you need; it can search the whole thing.
         </p>
       </section>
 
@@ -62,8 +62,9 @@ export function HomePage() {
       </section>
 
       <p className="home-aside">
-        Reading it yourself? Start with <a href="/v/tier-list">the tier list</a> — everything in the
-        wiki ranked by how far it could move the world.
+        Reading it yourself?{' '}
+        <a href="/v/tier-list">Start with the tier list</a> — everything in the wiki ranked by how
+        far it could move the world.
       </p>
     </main>
   )

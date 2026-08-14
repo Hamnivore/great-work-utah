@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,10 +18,7 @@
 
 ## Summary
 
-The Utah Department of Agriculture and Food (UDAF) is the state agency responsible for Utah's agriculture and food industries. Its official site covers animal health, food inspection, conservation, consumer protection, marketing, grants and loans, laboratory services, and producer payments.
-
-For Startup State founders, UDAF is most relevant as a statewide grant, loan, and marketing resource for agricultural and food businesses — not as a general tech-startup program.
-
+The Utah Department of Agriculture and Food (UDAF) is the state agency responsible for Utah's agriculture and food industries. For Startup State founders, UDAF is most relevant as a statewide grant, loan, and marketing resource for agricultural and food businesses — not as a general tech-startup program.
 ## Who It's For
 
 Utah agricultural producers, food businesses, and rural operators seeking state grants, agricultural loans, marketing support, or USDA-linked resources. Livestock operators, specialty-crop producers, and small food/ag businesses are the clearest fits.

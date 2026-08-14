@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** El Sistema, after-school orchestra, free music education, West Valley City, Title I schools
 **Primary Location:** Draper, UT
 **Utah Location:** West Valley City, UT (two program sites at American Preparatory schools)
@@ -18,18 +19,8 @@
 
 ## Summary
 
-**Sistema Utah** is a nonprofit after-school music program modeled on **El Sistema**, offering **free**
-orchestral and band instruction to underserved students. It began **October 2013** at the **American
-Preparatory** family of schools and reports serving **nearly 400 students** at **two Title I sites
-in West Valley City**, **65%** of whom receive free or reduced lunch
-([about page](sistema-utah-about-page.md)).
 
-Students attend **three hours a day, five days a week** (**15 hours** weekly) for group instruction,
-general music, singing, homework help, and a daily snack — **at no cost to families**
-([about page](sistema-utah-about-page.md)). The legal entity **Sistema Utah** (EIN **45-5259246**)
-is registered in **Draper** and recognized by the IRS as a **501(c)(3)** since **February 2021**
-([Form 990 record](sistema-utah-form-990-record.md)); it is **not** a fiscal-sponsor arrangement — it
-files under its own EIN and is classified as having **operated a school** on its Dec. 2024 return.
+Sistema Utah provides free after-school orchestra and band instruction to underserved students through an El Sistema model ([about page](sistema-utah-about-page.md)). Fifteen hours of weekly instruction makes it deeper than a typical enrichment class, but captured pages do not establish whether its Draper registration is also a teaching site.
 
 ## Who It's For
 

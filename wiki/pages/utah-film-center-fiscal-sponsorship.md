@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Founder-tier:** C
 **Focus:** fiscal sponsorship, independent film, tax-deductible donations, film grants, filmmaker fundraising
 **Domain:** culture-place, capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -14,10 +15,7 @@
 
 ## Summary
 
-Utah Film Center's Fiscal Sponsorship program lets approved independent film projects receive charitable donations and pursue grants that require a nonprofit sponsor without forming their own 501(c)(3). The Film Center receives donations for an approved project, then grants the net funds to the filmmaker or production company under a sponsorship agreement. It does not raise money for the project, take ownership of it, or provide tax or accounting services.
-
-The program accepts applications year-round. Despite the Utah name, neither the filmmaker nor the project has to be based in Utah, and the official site says there is no project-budget restriction.
-
+Utah Film Center's Fiscal Sponsorship program lets approved independent film projects receive charitable donations and pursue grants that require a nonprofit sponsor without forming their own 501(c)(3). Despite the Utah name, neither the filmmaker nor the project has to be based in Utah, and the official site says there is no project-budget restriction.
 ## Who It's For
 
 The clearest fit is an independent filmmaker with a non-commercial project and a concrete fundraising plan who needs to accept tax-deductible donations or apply to a funder that requires nonprofit status. The program invites emerging and established filmmakers and lists documentaries, narrative films, shorts, episodic work, and other film-related artistic endeavors as possible fits.

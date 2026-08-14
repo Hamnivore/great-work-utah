@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -14,7 +15,8 @@
 
 ## Summary
 
-Pelion Venture Partners is a Salt Lake City venture capital firm founded in 1986 that invests in early-stage software-based technology companies. Public sources and Pelion's portfolio include companies such as Cloudflare, Divvy, and Weave. Pelion closed its seventh fund at $365 million in October 2021.
+
+Pelion Venture Partners is a Salt Lake City firm investing in early-stage software companies since 1986. Its capital can help individual companies scale, but the page does not establish enough current deployment or unique outcomes to distinguish it from substitute venture funds.
 
 ## Who It's For
 

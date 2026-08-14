@@ -21,9 +21,8 @@
 
 ## Summary
 
-The Iomega Zip drive was a removable magnetic-disk storage system introduced in March 1995 by Iomega, a data-storage company based in Roy, Utah, in Weber County. The original Zip disk held 100 MB, dramatically more than the 1.44 MB floppy disks still standard on personal computers; later versions held 250 MB and 750 MB.
 
-The Zip drive arrived in the awkward but important gap between floppies and the later world of cheap CD burners, USB flash drives, broadband, and cloud storage. For designers, students, offices, and home users moving files too large for a floppy, Zip disks became a familiar physical medium and, for a few years, something close to a de facto standard for removable storage. The product made Iomega briefly one of the hottest companies in tech before newer storage and a damaging reliability problem ended its run.
+Introduced in 1995 by Roy-based Iomega, the Zip drive put 100 MB of rewritable storage in a pocket when standard floppies held 1.44 MB. It briefly solved a mass-market problem no cheap universal medium did, normalizing portable storage before optical discs, flash drives, and broadband displaced it.
 
 ## Impact
 

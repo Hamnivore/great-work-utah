@@ -16,7 +16,7 @@
 
 ## Summary
 
-Furnace builds and operates outbound-sales systems for companies. Its service combines email infrastructure, campaign design and testing, data enrichment, CRM integration, reply handling, and custom engineering.
+Furnace builds and operates outbound-sales systems for companies. Furnace provides a bounded benefit: Early companies often need customer discovery and repeatable sales before they can support a specialized growth team.
 
 ## Impact
 

@@ -24,9 +24,7 @@
 
 ## Summary
 
-Electric Power Systems (EPS) is a North Logan, Utah company building aviation-certified electric propulsion systems for the eVTOL and electric aircraft market. Founded in 2016, EPS produces the EPiC battery platform, which powers NASA's X-57 Maxwell (the first all-electric X-plane), Bell's Nexus air taxi, Boeing demonstrators, SkyDrive, and Ampaire, among others.
-
-EPS matters to the wiki because it is one of a very small set of companies building the propulsion stack that the entire electric aviation ecosystem depends on. Without certifiable power systems, eVTOL and electric aircraft programs remain permanently in the demonstration phase. EPS is on the FAA certification path with its EPiC 2.0 system, which delivers 90+ minutes of flight time — a meaningful milestone in a field where energy density remains the core unsolved physics problem.
+Electric Power Systems (EPS) is a North Logan, Utah company building aviation-certified electric propulsion systems for the eVTOL and electric aircraft market. The impact case is structural: EPS is an infrastructure layer. Every eVTOL program blocked on propulsion is, in part, blocked waiting for companies like EPS to clear the certification path.
 
 ## Impact
 

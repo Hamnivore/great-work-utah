@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Rich County, UT
 **Utah Location:** Rich County, UT
@@ -14,7 +15,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Bear Lake Valley Chamber of Commerce unites business leaders across the Bear Lake Valley to build relationships, improve business prosperity, and support the local economy. Public pages highlight networking, member promotion, website advertising, ribbon cuttings, and access to a region that draws more than one million visitors annually.
+The Bear Lake Valley Chamber of Commerce connects businesses across Rich County and neighboring Idaho communities. Its networking, promotion, and events can help local operators, but the benefit is confined to the valley and is readily supplied by other local business groups.
 
 ## Who It's For
 

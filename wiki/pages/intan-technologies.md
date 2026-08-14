@@ -19,9 +19,7 @@
 
 ## Summary
 
-Intan Technologies makes high-channel-count, low-noise integrated circuits for neural recording and stimulation. Its RHD and RHS chip families provide simultaneous amplification, filtering, and ADC conversion across 16 to 128 channels in a single package — work that historically required custom amplifier boards in every lab.
-
-The company is small by headcount but widely deployed: its chips appear in Open Ephys rigs, commercial neural-interface systems, and academic custom setups around the world. Founder Reid Harrison is a University of Utah Neural Engineering alumnus, which is why Intan appears on Utah neural-engineering industry lists despite Los Angeles headquarters.
+Intan Technologies makes high-channel-count, low-noise integrated circuits for neural recording and stimulation. A researcher who wanted 100+ simultaneous channels spent years on hardware rather than science.
 
 ## Impact
 

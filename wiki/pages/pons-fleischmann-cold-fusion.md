@@ -22,11 +22,8 @@
 
 ## Summary
 
-On March 23, 1989, University of Utah chemists Stanley Pons and Martin Fleischmann held a press conference to announce they had achieved nuclear fusion at room temperature in an electrochemical cell using a palladium cathode in heavy water — what the media called "cold fusion." They claimed the apparatus produced more energy than it consumed. [Axios retrospective](axios-cold-fusion-35-years.md)
 
-The announcement was made before conventional peer review. Within months, laboratories around the world failed to replicate the effect and the claims were discredited. [Axios retrospective](axios-cold-fusion-35-years.md)
-
-This page is intentionally a cautionary account. It belongs in the wiki not because the work was great, but because the episode was historically significant and happened at the University of Utah.
+In 1989 University of Utah chemists Stanley Pons and Martin Fleischmann announced room-temperature nuclear fusion in a tabletop cell ([retrospective](axios-cold-fusion-35-years.md)). The claim failed replication, but the episode permanently changed scientific norms around premature publicity and became a global cautionary landmark.
 
 ## Impact
 

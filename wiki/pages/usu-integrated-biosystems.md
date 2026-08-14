@@ -18,12 +18,7 @@
 
 ## Summary
 
-The USU Center for Integrated BioSystems (CIB) is a research center at Utah State University providing genomics, functional genomics, and bioinformatics infrastructure to USU researchers and industry partners working on crops, livestock, and agricultural microbes. It runs the sequencing, genotyping, and bioinformatics core that supports USU research programs in range management, dairy genomics, arid-land crop improvement, and livestock disease.
-
-USU is a land-grant university in an arid-land agricultural region, which gives its genomics work a specific character: reference genomes for range grasses and western-US species, dairy cattle genomics relevant to intermountain ranching, and drought-tolerant crop research that coastal programs typically deprioritize. CIB is where that work happens at molecular resolution.
-
-For the wiki, CIB matters primarily as career-relevant infrastructure for readers considering agricultural research or genomics in Utah, and as an example of the land-grant research layer that tech-focused wikis systematically undercount.
-
+The USU Center for Integrated BioSystems provides genomics, functional-genomics, and bioinformatics infrastructure to researchers and industry partners working on crops, livestock, and agricultural microbes. It is both career-relevant scientific infrastructure and a reminder that Utah's land-grant research layer is easy for technology narratives to undercount.
 ## Impact
 
 The impact is indirect and long-horizon. Land-grant agricultural research has cumulatively reshaped US food production over the past century — the Borlaug-era wheat varieties, the modern dairy genetics lineage, drought-tolerant crop improvement programs all had land-grant institutions at their center. CIB-supported work at USU is part of that ongoing project, operating at molecular resolution.

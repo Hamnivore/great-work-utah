@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=85-2562220
 **Domain:** capital-programs
@@ -15,7 +16,8 @@
 
 ## Summary
 
-The Northern Utah Economic Alliance (NUEA) promotes economic growth in Davis and Weber counties by attracting and retaining businesses. Verified on nuea.org: NUEA collaborates with local governments and stakeholders on site selection, commercial real estate listings, relocation guides, and regional marketing for northern Utah's defense, manufacturing, and outdoor-recreation economy.
+
+The Northern Utah Economic Alliance markets Davis and Weber counties to expanding employers and site selectors. Regional coordination can sharpen an attraction pitch, but it does not itself create the companies, jobs, or infrastructure it promotes.
 
 ## Who It's For
 

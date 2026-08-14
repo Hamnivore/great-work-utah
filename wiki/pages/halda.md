@@ -20,9 +20,7 @@
 
 ## Summary
 
-Halda is a Provo, Utah education-technology company building an AI enrollment platform for colleges, universities, and K-12 schools. Its agents coordinate prospective-student interactions across institutional websites, email, SMS, voice, and WhatsApp, retaining context between contacts and writing activity back to institutional CRM systems. The product covers inquiry capture, application generation, and yield rather than operating as a classroom-learning tool.
-
-Founded in 2021, Halda says more than 200 institutions use the platform. That reach figure and the conversion improvements on its website are company-reported rather than independently audited; they establish the company's claimed operating scale, not independently verified outcomes.
+Halda is a Provo, Utah education-technology company building an AI enrollment platform for colleges, universities, and K-12 schools. Enrollment offices face a structural mismatch: prospective students research schools and ask questions at all hours, while counselors have limited capacity and fragmented systems.
 
 ## Impact
 

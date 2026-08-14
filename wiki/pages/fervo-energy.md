@@ -21,9 +21,7 @@
 
 ## Summary
 
-Fervo Energy develops next-generation geothermal power using modern drilling, reservoir engineering, and subsurface analytics. Its Utah relevance centers on Cape Station in Beaver County, a major enhanced geothermal project intended to deliver round-the-clock carbon-free electricity.
-
-For Utah founders and operators, Fervo is a strong example of climate work that is not software-first. The work sits in the field, in permitting, in geology, in power markets, and in heavy execution.
+Fervo Energy develops next-generation geothermal power using modern drilling, reservoir engineering, and subsurface analytics. Cape Station is 500 megawatts under construction in Milford, Beaver County, with first power expected in late 2026 and roughly 100 MW of operating capacity by early 2027, per Fervo's IPO prospectus.
 
 ## Impact
 

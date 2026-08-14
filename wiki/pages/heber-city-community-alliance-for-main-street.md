@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Heber City, UT
 **Utah Location:** Heber City, UT
@@ -17,9 +18,7 @@
 
 ## Summary
 
-The Community Alliance for Main Street (CAMS) is a grassroots volunteer organization revitalizing Heber City's downtown Main Street. Verified on the official site (2026-07-14): CAMS advocates for downtown stakeholders, installs public art, runs fundraising events (including Market on Main), and partners with local businesses and property owners as a Main Street America member.
-
-CAMS complements—not replaces—city economic-development staff.
+The Community Alliance for Main Street (CAMS) is a grassroots volunteer organization revitalizing Heber City's downtown Main Street. Heber City Community Alliance for Main Street provides a bounded benefit: Heber City Main Street property owners, retailers, restaurateurs, and volunteers invested in downtown vibrancy, walkability, and community events.
 
 ## Who It's For
 

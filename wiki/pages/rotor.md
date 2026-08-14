@@ -19,9 +19,7 @@
 
 ## Summary
 
-Rotor is an Orem, Utah software company building a customer-relationship and field-service platform for window cleaning, pressure washing, mobile detailing, and related home-service businesses. Its product combines lead capture, territory management, sales pipelines, estimates, scheduling, invoicing and payments, customer messaging, campaigns, service plans, and performance analytics.
-
-The company was founded in 2024. Its public product updates remained active through July 2026, and recent company posts advertised early leadership and engineering hires. Rotor should not be confused with the similarly named New Hampshire autonomous-aircraft company Rotor Technologies.
+Rotor is an Orem, Utah software company building a customer-relationship and field-service platform for window cleaning, pressure washing, mobile detailing, and related home-service businesses. Rotor's intended effect is to put the full customer lifecycle in one place and make repeat service a designed workflow rather than an occasional follow-up.
 
 ## Impact
 

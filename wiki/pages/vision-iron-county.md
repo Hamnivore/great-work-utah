@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Identifiers:** ein=93-3594150
 **Primary Location:** Iron County, UT
@@ -14,10 +15,7 @@
 
 ## Summary
 
-Vision Iron County (VIC) appeared in the Startup State import as a Cedar City-area nonprofit focused on sustainable county growth, Vision 2050 community planning, and economic-development stakeholder coordination.
-
-On 2026-07-14, `visionironcounty.org` resolves to a domain-parking landing page (`window.LANDER_SYSTEM="PW"`) with no organization content. Treat historical Startup State claims as unverified until an active official site, successor organization, or partner page confirms current programming.
-
+Vision Iron County appears in an old Startup State import as a Cedar City-area growth and planning nonprofit. No active site, successor, current program, or outcome is verified, so the honest bottom-tier judgment is that this may be a stale listing.
 ## Who It's For
 
 The import pointed to rural Iron County stakeholders — businesses, residents, and community leaders involved in long-range planning and economic development. Active intake paths could not be verified on the current domain.

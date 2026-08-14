@@ -19,9 +19,7 @@
 
 ## Summary
 
-Clozd is a Lehi enterprise-software and research-services company focused on decision intelligence: learning why customers buy, decline, renew, or leave. It combines expert-led interviews, AI-assisted and AI-led interviews, CRM and sales-team inputs, and software that organizes qualitative feedback for revenue, marketing, customer-success, and product teams.
-
-Andrew Peterson and Spencer Dent founded Clozd in 2017 after encountering the limits of conventional win-loss data. The company says its platform has been shaped by more than 50,000 interviews. In an earlier company announcement, Clozd reported a $52 million Series A led by Greycroft with Madrona Venture Group and Album VC; the figure and customer counts remain self-reported.
+Clozd is a Lehi enterprise-software and research-services company focused on decision intelligence: learning why customers buy, decline, renew, or leave. Companies routinely make product, pricing, and go-to-market decisions from CRM notes and internal anecdotes that omit the buyer's actual reasoning.
 
 ## Impact
 

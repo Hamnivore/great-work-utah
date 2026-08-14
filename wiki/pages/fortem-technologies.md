@@ -24,9 +24,7 @@
 
 ## Summary
 
-Fortem Technologies is a Utah defense and airspace-security company best known for TrueView radar, DroneHunter interceptors, and the SkyDome system. Its public website positions the company around counter-drone defense, airspace awareness, public venues, energy infrastructure, airports, law enforcement, and defense.
-
-For the wiki, Fortem is important because it connects Utah's hardware, defense, autonomy, and advanced manufacturing ecosystems to a problem that has become urgent in the 2020s: small drones are now cheap, capable, and strategically disruptive.
+Fortem Technologies is a Utah defense and airspace-security company best known for TrueView radar, DroneHunter interceptors, and the SkyDome system. The impact case is strongest where drones threaten people or critical infrastructure and traditional air defense is too broad, too expensive, or legally difficult. Fortem says its SkyDome system combines sensors, autonomous interceptors.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Church & State Marketplace is a historic 1893 building in downtown Salt Lake City reimagined as a coffee-fueled coworking space and independent-business marketplace by day (8am–5pm daily) and an event venue by night. The official site hosts a curated mix of small businesses — coffee shop, barbershop, tattoo studios, bookstore, plant shop, publisher, martial arts dojo, and more — under vaulted ceilings and stained glass.
+Church & State Marketplace is a historic downtown Salt Lake City building used for coworking, independent retail, and events. It gives entrepreneurs, creatives, and remote workers a distinctive shared venue, but its impact largely stops with that local community.
 
 ## Who It's For
 

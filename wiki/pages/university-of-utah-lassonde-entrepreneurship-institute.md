@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -18,10 +19,7 @@
 
 ## Summary
 
-The Lassonde Entrepreneurship Institute is the University of Utah's hub for student entrepreneurs and innovators. Its official site frames the institute around "Live. Create. Launch." and says it offers something for all students who want to become founders, creators, or change-makers.
-
-For the wiki, Lassonde is a priority university entrepreneurship resource because it combines student community, residential entrepreneurship, workshops, seed funding, competitions, startup launch support, and academic pathways.
-
+The Lassonde Entrepreneurship Institute is the University of Utah's hub for student entrepreneurs and innovators. Its unusual strength is stacking community, housing, workshops, seed funding, competitions, startup support, and academic pathways into one campus institution.
 ## Who It's For
 
 University of Utah students from any discipline who want to explore entrepreneurship, join a founder community, form a team, test an idea, build a product, apply for seed funding, compete, live in an entrepreneurship environment, or launch a venture.

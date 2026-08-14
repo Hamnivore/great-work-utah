@@ -22,12 +22,7 @@
 
 ## Summary
 
-Utah's film industry is not a single company but a distributed ecosystem of production companies, location-services firms, crew rental operations, post-production houses, and the Utah Film Commission — the state agency that coordinates tax incentives and production support. Together they make Utah one of the most-shot states for narrative film, documentary, television, and commercial work.
-
-The industry has two distinct layers. The first is landscape: the red rock country around Moab and Monument Valley has defined the visual grammar of the American West since John Ford's "Stagecoach" and the John Wayne catalog; Kanab (the original "Little Hollywood") has been a shooting location since the 1920s; "Thelma & Louise," "127 Hours," "Oppenheimer," and "John Wick" are among the most recent in a century-long sequence of films that used Utah as a character. The second is infrastructure: union crews, rental houses, post-production facilities, and soundstage capacity in the Park City–Salt Lake corridor, plus talent pipelines from BYU's film program (one of the top film schools in the western US) and the University of Utah.
-
-For the wiki, the Utah film industry matters because film production is supply chain for culture. The movies and shows people watch shape how they understand the world, and the crew and infrastructure that make them possible are an under-appreciated layer of Utah's creative economy.
-
+Utah's film industry is a distributed ecosystem of production companies, location services, crew rentals, post-production houses, and the Utah Film Commission. It matters because film production is the supply chain for culture, and Utah has built enough of that chain to repeatedly host work made for global audiences.
 ## Impact
 
 Every film shot in Utah is downstream impact via its audience reach. The direct impact is a local film economy supporting thousands of jobs in crew, equipment, facilities, and location services. The second-order impact is the Utah landscape as visual shorthand — how the American West looks on screen is disproportionately shaped by what has been shot in southern Utah over the past century.

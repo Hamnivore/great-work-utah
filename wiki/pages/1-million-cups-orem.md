@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-The Startup State listing describes 1 Million Cups Orem as a Utah County chapter hosted at the UVU Business Resource Center, where entrepreneurs can present ideas and receive peer feedback ([Startup State source](startup-utah-resource-list.md)).
+The Startup State listing describes 1 Million Cups Orem as a Utah County chapter hosted at the UVU Business Resource Center, where entrepreneurs can present ideas and receive peer feedback (Startup State. 1 Million Cups (Orem) provides a bounded benefit: Utah County founders and entrepreneurs who want a recurring weekly community for presentation practice and peer feedback — not formal investor.
 
 ## Who It's For
 

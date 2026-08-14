@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -18,7 +19,6 @@
 ## Summary
 
 Work Hive is a locally owned Salt Lake City coworking operator established in 2012 with two locations: Downtown HQ at 56 East Broadway and Sugar House at 774 East 2100 South. The official site emphasizes affordable, flexible workspace with phone rooms, conference rooms, 24-hour access, Google Fiber internet, and community-oriented amenities.
-
 ## Who It's For
 
 Freelancers, remote workers, and small businesses in the Salt Lake Valley who want flexible coworking or private offices without premium boutique pricing — especially those benefiting from downtown or Sugar House locations.

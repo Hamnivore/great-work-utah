@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide
@@ -13,9 +14,7 @@
 
 ## Summary
 
-Acceler8 Wasatch is listed in Startup State as a partner-backed initiative to grow Utah's innovation and entrepreneurship ecosystem, originally centered in northern Utah with an initial aerospace and defense focus that has broadened to other industries.
-
-The official domain did not resolve during verification (July 2026): DNS lookup returned NXDOMAIN and no live site content was retrievable. Treat all program details as unverified until a working official site or active partner page is confirmed.
+Acceler8 Wasatch is listed in Startup State as a partner-backed initiative to grow Utah's innovation and entrepreneurship ecosystem. Acceler8 Wasatch has no estimable impact yet because Acceler8 Wasatch still active under UAMMI or another partner organization.
 
 ## Who It's For
 

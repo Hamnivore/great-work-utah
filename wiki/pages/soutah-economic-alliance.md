@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** Washington County, UT; Beaver, Garfield, Iron, Kane counties
@@ -13,9 +14,8 @@
 
 ## Summary
 
-The Southern Utah Economic Alliance (So.Utah) drives regional economic growth across five southwestern Utah counties through public-private collaboration. Verified on the official site (2026-07-14): it offers site-selector toolkits, downloadable regional and aerospace economic profiles, and tailored paths for cities, businesses, and site selectors evaluating expansion in southern Utah.
 
-So.Utah also promotes regional statistics (job growth, tourism, tax environment) to attract employers.
+The Southern Utah Economic Alliance coordinates business attraction across five southwestern Utah counties. A shared regional pitch can outperform fragmented city marketing, but the alliance remains an enabling local intermediary rather than the source of growth.
 
 ## Who It's For
 

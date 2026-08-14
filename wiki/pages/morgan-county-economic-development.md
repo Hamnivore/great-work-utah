@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Morgan, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Morgan County Economic Development is the county's portal for business and community growth in Morgan, Utah. Verified on morgancountyutah.gov/economic-development: the page ties economic development to the Morgan County Utah Chamber of Commerce and county government services — the prior Startup State URL (morgancountyinfo.com) pointed to Morgan County, Colorado, not Utah.
+
+Morgan County Economic Development is the county portal for business and community growth. It gives local projects a government entry point, but the sparse public program record supports only a modest, local impact claim.
 
 ## Who It's For
 

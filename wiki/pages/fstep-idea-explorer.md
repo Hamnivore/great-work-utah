@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Start a Business, Any, Aerospace and Defense, Agriculture
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,9 +14,7 @@
 
 ## Summary
 
-FSTEP Idea Explorer was listed as a free, no-signup interactive tool for aspiring Utah entrepreneurs to combine personal interests, skills, and market problems into possible business concepts. Its current availability was not verified on 2026-08-11.
-
-The tool no longer appears in the live Startup State directory, so treat it as a historical lead until the provider URL and functionality are confirmed.
+FSTEP Idea Explorer was listed as a free, no-signup interactive tool for aspiring Utah entrepreneurs to combine personal interests, skills, and market problems into possible business concepts. FSTEP Idea Explorer has no estimable impact yet because the description still accurate on the provider's current website.
 
 ## Who It's For
 

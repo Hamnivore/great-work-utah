@@ -19,7 +19,7 @@
 
 ## Summary
 
-WordPerfect is a word processing application created at Brigham Young University and developed commercially by Satellite Software International (SSI), later renamed WordPerfect Corporation, in Orem, Utah. First released in 1979 for Data General minicomputers, it became the dominant word processor of the 1980s and early 1990s — ubiquitous in legal, government, and corporate environments — before losing market share to Microsoft Word and being acquired by Novell in 1994 and then Corel in 1996. At its peak, WordPerfect Corporation was one of the largest software companies in the world, employing thousands of people in Utah Valley and generating revenues that made it the anchor of what would become Silicon Slopes.
+WordPerfect is the word processor created at BYU and commercialized by an Orem company that took its name. At its peak, the company employed thousands and became a global software leader—the clearest proof that Utah's later Silicon Slopes boom had a genuine local ancestor.
 
 ## Impact
 

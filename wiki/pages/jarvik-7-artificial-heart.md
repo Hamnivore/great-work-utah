@@ -19,11 +19,7 @@
 
 ## Summary
 
-The Jarvik-7 was a pneumatically driven artificial heart developed by Robert Jarvik under the direction of Willem Kolff at the University of Utah's Division of Artificial Organs. On December 2, 1982, surgeon William DeVries implanted it in Barney Clark, a retired Seattle dentist with terminal cardiomyopathy. Clark survived 112 days — the first human being to live with a permanent, fully mechanical heart. The device was made of polyurethane and aluminum and driven by a 375-pound external air compressor.
-
-The Utah program had been developing artificial organ technologies since Kolff arrived in 1967. Robert Jarvik joined the lab as a young design engineer and produced a series of artificial hearts — Jarvik-3, Jarvik-5, Jarvik-7 — each iteration moving closer to the geometry, reliability, and biocompatibility required for human implantation. The Barney Clark surgery was the culmination of fifteen years of laboratory, animal, and regulatory work.
-
-The 112-day survival was medically significant but also grueling. Clark suffered multiple strokes and spent most of his remaining life largely bedridden. The surgery was covered as live national news and became one of the most watched medical events in American history, changing public expectations about what medicine could and could not attempt.
+The Jarvik-7 was a pneumatically driven artificial heart developed by Robert Jarvik under the direction of Willem Kolff at the University of Utah's Division of Artificial Organs. Before the Jarvik-7 implant, replacing the human heart with a machine was theoretical.
 
 ## Impact
 

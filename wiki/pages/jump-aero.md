@@ -19,9 +19,8 @@
 
 ## Summary
 
-Jump Aero is a California-based eVTOL company founded by Carl Dietrich (previously co-founded Terrafugia, the flying car company) building the JA1 Pulse: a single-seat electric vertical takeoff and landing aircraft purpose-designed for emergency medical services first response. The JA1 Pulse is intended to give ALS-level emergency responders access to remote areas at eVTOL speed, ahead of ground ambulances.
 
-Jump Aero is not a Utah company, but it appears in this wiki because of its coverage-planning partnership with UDOT as part of the uFLY FAA eVTOL testbed. The EMS use case it pursues is one of the most genuinely compelling applications for eVTOL — time-to-care in remote areas is a real life-or-death constraint, and Utah's geography (remote canyon country, ski resorts, dispersed rural communities) makes EMS eVTOL unusually relevant to the state.
+Jump Aero is a California company building the JA1 Pulse eVTOL to carry advanced responders to patients before ambulances arrive. Faster rural care could matter greatly, but its Utah connection is only a test-planning partnership and the aircraft has not established deployed impact.
 
 ## Impact
 

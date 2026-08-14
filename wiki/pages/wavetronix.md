@@ -24,10 +24,7 @@
 
 ## Summary
 
-Wavetronix is a Springville, Utah company building intelligent transportation systems for vehicle detection, traffic signal timing, motorways, midblock data, and roadway applications. Its public website emphasizes radar sensors, integrated traffic applications, long-lived field deployments, and in-house manufacturing.
-
-For the wiki, Wavetronix is important because it is a deep Utah infrastructure company hiding in plain sight: hardware, RF engineering, traffic operations, manufacturing, and public-agency sales all in one company.
-
+Wavetronix is a Springville company building intelligent transportation systems for vehicle detection, traffic timing, motorways, and roadway data. It is a deep Utah infrastructure company hiding in plain sight, combining radio-frequency engineering, hardware, manufacturing, traffic operations, and public-agency sales.
 ## Impact
 
 The impact case is practical and civic. Better vehicle detection and roadway data can improve intersection safety, reduce congestion, support adaptive timing, and help transportation agencies understand what is happening on roads without rebuilding the entire physical network.

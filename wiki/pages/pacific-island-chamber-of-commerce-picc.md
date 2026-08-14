@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Domain:** capital-programs
 **Primary Location:** Salt Lake County, UT; Utah County, UT
@@ -14,9 +15,8 @@
 
 ## Summary
 
-The Pacific Island Chamber of Commerce (PICC) is a PIK2AR program supporting Pacific Islander and underserved entrepreneurs through business education, mentorship, and capital connections. Verified on the official site (2026-07-14): PICC reports 250+ business owners assisted, monthly Salt Lake County (1st Thursday, 8 a.m.) and Utah County (3rd Wednesday, noon) chapter meetups, ribbon-cutting/open-house support for members, and microlending coordination.
 
-PICC partners with lenders and agencies including Kiva, Celtic Bank, SBA, and local economic-development offices.
+The Pacific Island Chamber of Commerce is a PIK2AR program offering business education, mentorship, networking, and capital introductions to Pacific Islander and underserved Utah entrepreneurs. Its distinctive value is culturally specific access; its limitation is that the page does not establish outcomes or lending volume.
 
 ## Who It's For
 

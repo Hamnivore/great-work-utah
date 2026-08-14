@@ -26,9 +26,7 @@
 
 ## Summary
 
-Domo is a cloud-native business intelligence and data integration platform headquartered in American Fork, Utah. Founded in 2010 by Josh James — who previously co-founded Omniture, later acquired by Adobe — Domo connects hundreds of data sources (databases, spreadsheets, SaaS applications) and delivers dashboards, embedded analytics, and low-code app-building tools. The company went public on NASDAQ in 2018 (ticker: DOMO) and serves midsize to large enterprises across retail, financial services, healthcare, and manufacturing.
-
-Since 2024, Domo has emphasized AI throughout its data-products platform, including natural-language analysis, AI-assisted formulas and SQL, and agent tasks inside workflows. On February 19, 2026, its board began a formal review of strategic alternatives that could include an investment, sale, or business combination; Domo said there was no timetable or assurance of a transaction.
+Domo is a cloud-native business intelligence and data integration platform headquartered in American Fork, Utah. Most mid-market and large companies run on a patchwork of SaaS tools whose data does not join cleanly.
 
 ## Impact
 

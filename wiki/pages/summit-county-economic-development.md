@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Coalville, UT
 **Utah Location:** Summit County, UT
@@ -17,10 +18,7 @@
 
 ## Summary
 
-Summit County's Economic Development & Housing department supports business expansion and regional vitality in a high-growth mountain county. The official county page loads under the "Economic Development & Housing" heading (verified 2026-07-14), though detailed program copy was sparse in automated fetch; Startup State describes workforce, planning, and entrepreneurship support delivered with public and private partners.
-
-Contact county staff for current incentives and business-assistance menus.
-
+Summit County's Economic Development and Housing department helps local businesses navigate growth in a high-cost mountain county. Its influence is bounded to county-level assistance and site or incentive coordination, useful locally but readily mirrored by another competent public office.
 ## Who It's For
 
 Businesses operating in or relocating to Summit County (including Park City, Kimball Junction, and eastern Summit communities), and local leaders working on housing-economic balance.

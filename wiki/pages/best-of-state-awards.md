@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** awards program, recognition, Utah organizations, self-nomination, evidence calibration
 **Domain:** culture-place
 **Primary Location:** Orem, UT
@@ -15,41 +16,7 @@
 
 ## Summary
 
-Best of State is a Utah recognition program that has run since 2002 and now awards several hundred
-medals a year across ten divisions. It matters to this wiki twice over: as a program Utah
-organizations actually use, and as a **citation that turns up constantly on Utah company websites**,
-where "Best of State winner" is doing work as evidence. This page exists so that every wiki page
-mentioning a medal can point at one place for what the award does and does not establish.
-
-Two awards, and they are not the same signal. A **medal** goes to the winner of a category; there were
-474 medals in 2026, drawn from a taxonomy of 764 categories, of which 215 are dining categories. A
-**statue** — the BOSS — goes to one winner per division per year, chosen by the judges from that
-division's medalists, so roughly ten a year against every other medalist in the division
-([2025 program book](best-of-state-2025-winners-list.md)). A statue is a substantially stronger claim
-than a medal, and the program's current website conflates the two.
-
-What produces the winner set is a paid, self-nominated entry judged on its own contents: $300 for most
-categories, $85 for the reduced-fee ones, with payment as step two of the submission form
-([nomination page](best-of-state-nomination-page.md)); "Best of State encourages self-nomination", and
-"all judging is based solely on information provided in the nomination"
-([2019 winners directory](best-of-state-2019-winners-list.md)). Scoring is 50 percent excellence and
-achievement, 30 percent innovation and creativity, 20 percent contribution to quality of life in Utah,
-tabulated by an outside accounting firm, with anonymous volunteer judges.
-
-**How to read a medal, then.** It is decent evidence that an organization existed in that year, cared
-enough to enter, and satisfied volunteer judges reading its own submission — useful for dating a
-company's activity and for third-party corroboration of a self-description. It is not evidence of
-market position, scale, or being the best at anything, and **the absence of an organization from these
-lists means nothing whatsoever**: Utah's largest and most consequential companies are almost entirely
-missing from them. Since only entrants can win, the likeliest explanation is that they never entered —
-though nothing published says who declined to enter, so absence cannot be read as a judgment either way.
-
-Medal *counts* are the most misread number here. In the 2026 directory, one individual holds seven
-medals across five divisions and one nonprofit holds ten across four
-([2026 winners page](best-of-state-2026-winners-page.md)). Nothing improper is happening: entering many
-categories is permitted, each entry is paid for separately, and each is judged on its own. But it means
-"15x Best of State Winner" — a line that appears in the program book's own advertisements — measures
-category filings, not fifteen contests won against fifteen fields.
+Best of State is a Utah recognition program that has run since 2002 and now awards several hundred medals a year across ten divisions. Best of State Awards provides a bounded benefit: Utah organizations, programs, and individuals looking for third-party recognition they can put in front of customers, donors, or a hiring pipeline.
 
 ## Who It's For
 

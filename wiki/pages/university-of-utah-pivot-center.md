@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** technology transfer, former name, redirect
 **Domain:** capital-programs, health-bio
 **Primary Location:** Salt Lake City, UT
@@ -14,10 +15,7 @@
 
 ## Summary
 
-"PIVOT Center" (Partners for Innovation, Ventures, Outreach & Technology) was the University of Utah's technology-transfer and licensing office name from 2020 until it was renamed the **University of Utah Technology Licensing Office (TLO)** on October 31, 2023. Same office, same staff, same 303 Chipeta Way address — new public name. This page redirects searches for the former name to the current office.
-
-**Go to [University of Utah Technology Licensing Office](university-of-utah-technology-licensing-office.md) for the current page.**
-
+“PIVOT Center” was the University of Utah's technology-transfer and licensing office name from 2020 until it became the **University of Utah Technology Licensing Office** in 2023. The rename makes this page a historical signpost, not a separate service: founders and researchers should follow the current licensing-office page.
 ## Who It's For
 
 Anyone — human or agent — who arrived here searching for "PIVOT Center," "PIVOT," or an even older name for the same office (Technology & Venture Commercialization office, Tech Commercialization Office, Tech Transfer Office, Product and Patent Development Office). See [University of Utah Technology Licensing Office](university-of-utah-technology-licensing-office.md) for who it's for, how to disclose an invention, and how to license University of Utah technology.

@@ -19,9 +19,8 @@
 
 ## Summary
 
-Rodatherm Energy is a Salt Lake City / Calgary company building a closed-loop geothermal system optimized for hot sedimentary basins — the vast majority of the Earth's subsurface heat resource that conventional geothermal cannot access. Founded around 2022 and led by Curtis Cook (who built Vesta Energy Corp from a single well to $1B+ in assets), Rodatherm raised a $38M Series A — the largest first venture raise for any geothermal startup in history — and is drilling a pilot site in Utah's Great Basin.
 
-For the wiki, Rodatherm matters as a credible attempt to unlock a geothermal resource class that has been off-limits to prior technology: sedimentary basins that cover large portions of Utah and the broader Great Basin, which lack the hard-rock fracture networks that conventional and enhanced geothermal require.
+Salt Lake City and Calgary-based Rodatherm Energy is developing closed-loop geothermal for hot sedimentary basins beyond conventional geothermal's reach. Its sealed design bets on broad resource access without fluid-injection seismicity—the community and regulatory liability that shadows enhanced geothermal systems.
 
 ## Impact
 

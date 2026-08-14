@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,10 +18,7 @@
 
 ## Summary
 
-The Startup State Resource Filter is GOEO's official directory-style entry point for Utah entrepreneurs looking for business resources. It is not a single program; it is a public navigation layer that asks founders to filter by topic, stage, community, industry, location, and keyword.
-
-For this wiki, the filter is useful less as a finished answer and more as evidence of the matching problem: Utah has many support organizations, but founders still need judgment about which one fits their situation.
-
+Startup State Resource Filter is GOEO's directory of Utah business-support programs. It earns the bottom tier because listing many resources without judging fit leaves founders with the same matching problem they started with.
 ## Impact
 
 The resource filter matters because it gives the wiki a state-sanctioned taxonomy for founder needs. A rural agricultural operator, a first-time student founder, a medical-device company expanding internationally, and a researcher commercializing university work should not receive the same path.

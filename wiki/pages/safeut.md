@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** B
+**Founder-tier:** n/a
 **Focus:** crisis chat, school safety tips, youth mental health, suicide prevention, statewide K-12 and higher education, first responders, Utah National Guard
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,9 +18,9 @@
 
 ## Summary
 
-SafeUT is a **statewide** Utah crisis and school-safety program run through **Huntsman Mental Health Institute (HMHI)** at University of Utah Health. Students, parents, and educators can chat or call **licensed master's-level mental health counselors** around the clock, submit anonymous tips about bullying or potential school threats, and access related apps for **first responders** (SafeUT Frontline) and the **Utah National Guard** ([official site](safeut-official-website.md)).
 
-Utah law requires the **University Neuropsychiatric Institute** — the statutory name carried in [HB373 (2019)](safeut-utah-code-hb373.md) — to operate the **SafeUT Crisis Line** with **24/7** crisis intervention and anonymous school reporting, and appropriated **$1.77 million** ongoing from the Education Fund to SafeUT Operations ([HB373](safeut-utah-code-hb373.md)). The **Utah Attorney General's Office** is a named founding partner and provides **staff support** to the SafeUT and School Safety Commission ([Utah AG page](utah-ag-safeut-far-more-than-an-app.md)).
+
+SafeUT is Utah's statewide, round-the-clock crisis-chat and school-safety tip system, operated by Huntsman Mental Health Institute ([official site](safeut-official-website.md)). Statutory funding and hundreds of annual emergency interventions make it durable state safety infrastructure, though sources do not prove how many attacks it prevented.
 
 ## Impact
 

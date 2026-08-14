@@ -15,36 +15,7 @@
 
 ## Summary
 
-Utah is the national center of adolescent residential treatment — outdoor youth programs, residential
-treatment programs, residential support programs, and therapeutic schools, the four categories the
-state now groups as **congregate care**. Children arrive from across the country. For decades the
-state's oversight of them consisted of one inspection a year against an unweighted 14-page checklist,
-and the result was a compliance record too clean to be believed: across five years and 670 inspections,
-regulators assessed more than 53,000 items and wrote up 861 deficiencies, marking programs compliant
-more than 98 percent of the time
-([APM Reports](apm-reports-utah-youth-treatment-inspections-2021.md)). That those annual visits were
-*announced* comes from the regulator rather than the reporters — Amanda Slater, who ran the Office of
-Licensing's oversight of these programs for three years: "If we're only going in there once a year, and
-it's announced, you know, most people would clean up their house before you show up"
-([KUER](kuer-utah-congregate-care-reform-one-year-2022.md)).
-
-Two statutes changed that. **S.B. 127 (2021)**, signed 2021-03-22, defined congregate care as a
-licensing class, raised inspections to once each calendar quarter with at least two unannounced,
-required restraint, seclusion, and critical incidents to be reported within one business day, and
-enumerated practices a program may not use on a child — among them inducing pain to obtain
-compliance, hyperextending joints, peer restraints, forced physical exercise as punishment, and
-depriving a child of a meal, water, rest, or toileting
-([enrolled text](utah-sb127-2021-congregate-care-statute.md)). **S.B. 297 (2025)**, signed
-2025-03-19 and effective 2025-07-01, added machinery: a congregate care ombudsman with powers to
-enter facilities, interview children and staff, and copy records; levels of congregate care and
-minimum safety requirements to be defined by rule by the Office of Licensing in consultation with a
-new Congregate Care Advisory Committee; state review of each program's admissions criteria at
-licensure; whistleblower protection; and a five-hour clock for notifying a parent when a child is in
-crisis
-([enrolled text](utah-sb297-2025-congregate-care-statute.md)).
-
-Both bills were carried by the same senator, Michael K. McKell of Spanish Fork, and neither
-appropriated a dollar.
+Utah is a national center for youth congregate care, including outdoor programs, residential treatment, support programs, and therapeutic schools. Reform matters because annual announced inspections let troubled facilities prepare for regulators—the opposite of credible oversight ([KUER](kuer-utah-congregate-care-reform-one-year-2022.md)).
 
 ## Impact
 

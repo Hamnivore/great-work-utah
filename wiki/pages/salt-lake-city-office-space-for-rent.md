@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,9 +14,8 @@
 
 ## Summary
 
-Offices.co is a national office-space listing and brokerage site, not a single Salt Lake coworking operator. Verified on the official site (2026-07-14): it aggregates 20+ Salt Lake City-area options—serviced offices, shared/coworking spaces, and virtual offices—and routes inquiries through quote request forms.
 
-Use it to compare locations and amenities, then contact individual building operators for real pricing and lease terms.
+Offices.co is a national brokerage-style directory of flexible Salt Lake City offices, not a local workspace operator. It may save a searcher time, but an unverified listing portal adds little beyond other directories.
 
 ## Who It's For
 

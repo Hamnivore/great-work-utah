@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=87-3501712
 **Primary Location:** Nephi, UT
@@ -14,7 +15,7 @@
 
 ## Summary
 
-The Greater Nephi Chamber of Commerce, founded in 2021, unites Juab County small businesses around innovation, advocacy, and education. Verified on the official site (2026-07-14): the chamber hosts networking events, business awards galas, ribbon cuttings, a member directory, sponsorship opportunities, and connects members with education and workforce partnerships. Contact: (435) 660-1278, nephichamber@gmail.com, PO Box 219, Nephi.
+The Greater Nephi Chamber of Commerce, founded in 2021, unites Juab County small businesses around innovation, advocacy, and education. Greater Nephi Chamber of Commerce provides a bounded benefit: Nephi and central-Utah small businesses seeking peer networking, advocacy, education partnerships, and community visibility through chamber events and awards.
 
 ## Who It's For
 

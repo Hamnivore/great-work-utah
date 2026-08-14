@@ -25,11 +25,7 @@
 
 ## Summary
 
-Sky Quarry (NASDAQ: SKYQ) is a publicly traded Utah company commercializing solvent-based recovery of bitumen and heavy oil from two feedstocks: used asphalt shingles and Utah oil sands at the PR Spring deposit in eastern Utah. Headquartered in Woods Cross, Sky Quarry uses its proprietary ECOSolv solvent-extraction process, which claims up to 95% material recovery and up to 99% solvent recycling. [Official Website: Sky Quarry](sky-quarry-official-website.md)
-
-Earlier intake described a PR Spring recycling-permit application and throughput projections, but the current captured official source does not reconfirm those details.
-
-Sky Quarry has a dual-mission character that creates genuine tension: the asphalt shingle recycling side is a credible circular-economy play addressing a largely neglected construction waste stream, while the oil sands extraction side adds new fossil fuel production to the picture.
+Sky Quarry (NASDAQ: SKYQ) is a Utah company recovering bitumen from used asphalt shingles and pursuing Utah oil sands at PR Spring ([official website](sky-quarry-official-website.md)). Recycling already-extracted petroleum is the defensible circular-economy case; digging new oil sands is not.
 
 ## Impact
 

@@ -23,9 +23,7 @@
 
 ## Summary
 
-Baxter Aerospace is a St. George, Utah aerospace system integrator and advanced-manufacturing company focused on real-time sensing and resilient communications for defense, intelligence, and emergency-response customers. Led by president Michael Baxter, it was founded in the wake of the 2017 Eagle Creek Fire to build UAS platforms and communications kits for austere, rapidly changing environments. In July 2025 it raised a $6M Series A — the inaugural defense-sector investment from the DoD Accelerator fund managed by Accuidity Capital Management. [DoD Accelerator $6M Series A in Baxter Aerospace](baxter-aerospace-dod-accelerator-series-a.md)
-
-For the wiki, Baxter is a smaller, earlier-stage entry that connects Utah's drone/autonomy cluster to the overlap between defense and wildfire/disaster response — a regionally resonant origin given Utah's wildfire exposure.
+Baxter Aerospace builds long-endurance drones and deployable satellite communications for firefighting, disaster response, and defense missions where normal networks fail. That is valuable field equipment, but the early company remains one supplier in a crowded drone market and its performance claims lack independent verification.
 
 ## Impact
 

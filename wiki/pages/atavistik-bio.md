@@ -19,9 +19,7 @@
 
 ## Summary
 
-Atavistik Bio is a clinical-stage biotechnology company developing drugs targeting allosteric sites. Its captured official homepage supports the current pipeline, but not the founding date, headquarters, financing history, or University of Utah origin asserted in earlier copy.
-
-The current captured source does not establish the founders, platform publication history, or total capital raised. Those claims require a captured primary announcement or durable registry record.
+Atavistik Bio is a clinical-stage biotechnology company developing drugs targeting allosteric sites. Many of the best drug targets are allosteric sites nobody knew existed.
 
 ## Impact
 

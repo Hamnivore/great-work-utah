@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** A
 **Focus:** regulatory sandbox, compliance, regulated markets, policy feedback
 **Primary Location:** Utah
 **Utah Location:** statewide

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-The Mill at Salt Lake Community College is an entrepreneurship center and business incubator in Sandy. The live site describes workspaces, education, and resource partners for founders from idea stage through scaling, with pathways to work, learn, and network on campus.
+
+The Mill at Salt Lake Community College is a Sandy incubator offering workspace, education, and business support. It gives local founders a broad on-ramp from idea through operations, but comparable advising and coworking are available elsewhere.
 
 ## Who It's For
 

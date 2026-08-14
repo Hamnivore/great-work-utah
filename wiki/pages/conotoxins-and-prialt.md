@@ -22,9 +22,8 @@
 
 ## Summary
 
-Baldomero "Toto" Olivera's University of Utah lab spent decades turning the venom of predatory cone snails into a precision toolkit for studying the nervous system. Cone snails immobilize prey with cocktails of small peptides, and Olivera's group showed that many of those peptides — conotoxins — bind specific ion channels and receptors with unusual selectivity.
 
-One peptide, omega-conotoxin MVIIA from the fish-hunting snail *Conus magus*, became the basis for the drug ziconotide, sold as Prialt. The natural peptide was discovered at the University of Utah in 1979 by J. Michael McIntosh, who started in Olivera's lab the summer before his freshman year; he isolated it and determined its structure, and U biologist Doju Yoshikami helped show it blocked transmission between nerve cells. The FDA approved Prialt on December 28, 2004 for severe chronic pain delivered by intrathecal infusion.
+Baldomero Olivera's University of Utah lab turned cone-snail venom into a precision toolkit for neuroscience and the drug ziconotide. Proving that a venom peptide could become an approved non-opioid treatment opened a global drug-discovery frontier, even though spinal infusion limits the medicine's reach.
 
 ## Impact
 

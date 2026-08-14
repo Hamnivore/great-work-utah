@@ -27,18 +27,7 @@
 
 ## Summary
 
-The INN Between is a Salt Lake City nonprofit that houses adults experiencing homelessness who
-are too ill for the street or shelter but not acutely hospitalized — for medical respite,
-pre- or post-treatment stabilization, and end-of-life care in partnership with licensed hospice
-agencies ([official site](the-inn-between-official-website.md)). It is **not** a walk-up shelter;
-admission requires a medical referral and an assigned bed ([FAQ](the-inn-between-frequently-asked-questions.md)).
-
-Legal entity **The Inn Between**, EIN **47-2329595**, is a 501(c)(3) homeless-services
-nonprofit registered in Salt Lake City, tax-exempt since February 2015 per IRS records
-([Form 990 record](the-inn-between-form-990-record.md)). The organization states it incorporated
-**December 3, 2014** and opened **August 17, 2015** in a former convent, later moving to its
-current **1216 E 1300 S** building ([FAQ](the-inn-between-frequently-asked-questions.md);
-[embedded *Deseret News* reporting on the official site](the-inn-between-official-website.md)).
+The INN Between houses unhoused adults too sick for the street but not acutely hospitalized, providing medical respite and end-of-life care with hospice partners ([official site](the-inn-between-official-website.md)). It fills the brutal gap between hospital discharge and shelters unequipped for serious illness.
 
 ## Impact
 

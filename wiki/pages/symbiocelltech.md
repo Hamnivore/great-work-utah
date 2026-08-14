@@ -19,10 +19,7 @@
 
 ## Summary
 
-SymbioCellTech is a Salt Lake City biotechnology company developing Neo-Islets — three-dimensional clusters of culture-expanded insulin-expressing pancreatic cells co-packaged with mesenchymal stem cells (MSCs). The thesis is local immune isolation: MSCs within each cluster shield islet cells from autoimmune and allo-immune attack, eliminating the need for systemic anti-rejection drugs that accompany conventional islet transplantation.
-
-The company says it won the American Diabetes Association Innovation Challenge Award in 2024 ([official website](symbiocelltech-official-website.md)). Other preclinical and institutional-origin details require additional captured evidence.
-
+SymbioCellTech is developing Neo-Islets, insulin-producing cell clusters paired with stem cells to resist immune rejection. If they restore glucose control without lifelong immunosuppression at manufacturable scale, the result would be a structural functional cure for type 1 diabetes; human proof remains the gate.
 ## Impact
 
 Type 1 diabetes affects roughly 16 million people worldwide who depend on daily insulin and glucose monitoring. Even rigorous therapy carries long-term complication risk — multi-organ failure, vascular disease, blindness, and reduced life expectancy. Islet transplantation can restore glucose control but typically requires lifelong immunosuppression with serious infection, cancer, and kidney risks, and donor scarcity limits scale (conventional protocols may require multiple pancreas donors per patient).

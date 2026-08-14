@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Domain:** capital-programs
 **Primary Location:** Ogden, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-The Monarch is a renovated historic creative hub in Ogden's Nine Rails Creative District at 455 25th Street. The official site describes more than 40 independent creative studios, Monarch Venues event space, Ogden Contemporary Arts gallery, Sola salon suites, Weller's Bistro, The Art Box retail/candle studio, and public markets and live-music programming.
+
+The Monarch is a renovated Ogden arts hub offering studios, galleries, markets, salons, and event space. Concentrating creative work can strengthen Nine Rails locally, but its impact remains tied to tenants, visitors, and the surrounding district.
 
 ## Who It's For
 

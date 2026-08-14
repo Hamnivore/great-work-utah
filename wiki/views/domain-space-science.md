@@ -1,6 +1,6 @@
 # space-science — sector hub
 
-Generated from `**Domain:**` metadata (247/897 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (251/897 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -17,4 +17,5 @@ Generated from `**Domain:**` metadata (247/897 pages attributed so far — cover
 ## Also relevant (primary elsewhere)
 
 - [Intergalactic](/pages/intergalactic.md) · `https://greatutah.work/pages/intergalactic.md` — primary: aerospace-defense
+- [Nielson Scientific](/pages/nielson-scientific.md) · `https://greatutah.work/pages/nielson-scientific.md` — primary: materials-mfg
 - [OxEon Energy](/pages/oxeon-energy.md) · `https://greatutah.work/pages/oxeon-energy.md` — primary: energy

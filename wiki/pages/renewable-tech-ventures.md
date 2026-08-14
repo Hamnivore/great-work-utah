@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding, Other
 **Domain:** capital-programs, energy
 **Primary Location:** Salt Lake City, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-RenewableTech Ventures is a venture capital firm based in Salt Lake City that invests in early-stage innovations in energy, clean technology, green materials, and related sectors across the United States and Canada, with emphasis on regions underserved by venture capital.
+
+Salt Lake City-based RenewableTech Ventures invests in early-stage energy, cleantech, and advanced-materials companies across underserved U.S. and Canadian regions. Its edge is specialized capital outside the usual venture hubs; the page does not yet show fund size, check size, or realized outcomes.
 
 ## Who It's For
 

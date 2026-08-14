@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
@@ -17,10 +18,7 @@
 
 ## Summary
 
-St. George City's Economic Development Department promotes business growth and major redevelopment projects in Utah's Dixie metro. Verified via the city's economic-development navigation and Startup State listing (2026-07-14): priorities include diversifying the economy, attracting higher-wage employers, and advancing projects such as Tech Ridge—the mixed-use redevelopment of the former airport area for tech, retail, and recreation uses.
-
-The public site is government CMS-hosted; contact the department directly for current incentive and site-selection details.
-
+Saint George City's Economic Development Department promotes business growth and major redevelopment projects in Utah's Dixie metro. Its public site is too thin to establish a specific incentive package, so the live value is access to city staff for current site-selection and redevelopment details.
 ## Who It's For
 
 Companies evaluating expansion or relocation to St. George, especially growth-stage employers and developers interested in Tech Ridge and downtown redevelopment initiatives.

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** water conservation rebates, lawn replacement, waterwise landscaping, smart irrigation, fixture replacement
 **Domain:** culture-place
 **Primary Location:** Utah
@@ -14,10 +15,7 @@
 
 ## Summary
 
-Utah Water Savers is the application portal for publicly funded water-conservation incentives in Utah. It lets a property owner identify available programs by location and apply for help replacing lawn, installing a qualifying smart irrigation controller, or replacing an older toilet. Landscape offerings and payment rates vary by community; the controller and toilet rebates are available to residential properties statewide.
-
-The portal began with Jordan Valley Water Conservancy District in 2017 and expanded through the Utah Division of Water Resources and regional water districts. The Division reported that 2024 landscape conversions replaced three million square feet of lawn and are expected to save more than 100 million gallons annually. Its January 2026 legislative update said 65% of Utah residents were then eligible for the Landscape Incentive Program.
-
+Utah Water Savers is the application portal for publicly funded water-conservation incentives in Utah. Its January 2026 legislative update said 65% of Utah residents were then eligible for the Landscape Incentive Program.
 ## Who It's For
 
 - Utah residents seeking rebates for WaterSense-labeled smart irrigation controllers or for replacing qualifying pre-1994 toilets.

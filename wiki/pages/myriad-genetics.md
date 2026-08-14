@@ -25,11 +25,7 @@
 
 ## Summary
 
-Myriad Genetics is a publicly traded molecular diagnostics company headquartered in Salt Lake City, Utah. It develops and commercializes genetic and genomic tests across hereditary cancer risk, reproductive health, oncology, urology, and mental health pharmacogenomics.
-
-It is a company of real scale and real trouble at the same time. Its [FY2025 Form 10-K](myriad-genetics-10k-fy2025.md) reports total revenue of $824.5 million — down from $837.6 million in FY2024 — a net loss of $365.9 million, and approximately 2,700 full-time equivalent employees as of December 31, 2025. The loss is dominated by $234.7 million of goodwill impairment and $82.0 million of intangible impairment against the Women's Health and Mental Health reporting units, which is a company writing down the value of businesses it bought, not an operating collapse.
-
-The company's public website positions Myriad as a long-running clinical genomics lab that partners with providers to detect risk, guide treatment, and prevent disease. For the Great Work wiki, Myriad matters both as a current Utah employer in precision medicine and as the institution that grew out of Utah's hereditary-cancer research environment — the founding BRCA sequencing and patent story is documented separately on the work page.
+Myriad Genetics is a publicly traded molecular diagnostics company headquartered in Salt Lake City, Utah ([FY2025 Form 10-K](myriad-genetics-10k-fy2025.md)). Myriad helped establish that inherited cancer risk could be tested routinely in clinical care.
 
 ## Impact
 

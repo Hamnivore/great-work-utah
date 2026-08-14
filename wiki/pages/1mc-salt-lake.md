@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,9 +14,7 @@
 
 ## Summary
 
-1MC Salt Lake is the local chapter of the 1 Million Cups program—a weekly, peer-based gathering where founders, entrepreneurs, and small business owners share ideas and get feedback. Verified on the official site (2026-07-14): two presenters each week give a 6–8 minute update followed by ~10 minutes of audience Q&A in a non-pitch, community-support format.
-
-Events run Wednesdays at 9 a.m. at The Neighborhood Hive (2065 E 2100 S, Salt Lake City).
+1MC Salt Lake is the local chapter of the 1 Million Cups program—a weekly, peer-based gathering where founders, entrepreneurs, and small business owners share ideas and get feedback. 1MC Salt Lake has no estimable impact yet because the Wednesday 9 a.m. in-person schedule still current.
 
 ## Who It's For
 

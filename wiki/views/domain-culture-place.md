@@ -1,6 +1,6 @@
 # culture-place — sector hub
 
-Generated from `**Domain:**` metadata (247/897 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (251/897 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -77,8 +77,8 @@ Generated from `**Domain:**` metadata (247/897 pages attributed so far — cover
 - [Southern Utah Code Camp](/pages/southern-utah-code-camp.md) · `https://greatutah.work/pages/southern-utah-code-camp.md` — primary: computing
 - [The INN Between](/pages/the-inn-between.md) · `https://greatutah.work/pages/the-inn-between.md` — primary: health-bio
 - [Utah Congregate Care Oversight Reform](/pages/utah-congregate-care-oversight-reform.md) · `https://greatutah.work/pages/utah-congregate-care-oversight-reform.md` — primary: health-bio
-- [Utah's Direct-Selling Industry](/pages/utah-direct-selling-industry.md) · `https://greatutah.work/pages/utah-direct-selling-industry.md` — primary: health-bio
 - [Utah Geek Events](/pages/utah-geek-events.md) · `https://greatutah.work/pages/utah-geek-events.md` — primary: computing
 - [Utah Kids Code Camp](/pages/utah-kids-code-camp.md) · `https://greatutah.work/pages/utah-kids-code-camp.md` — primary: computing
+- [Utah's Multi-Level Marketing Industry](/pages/utah-multi-level-marketing-industry.md) · `https://greatutah.work/pages/utah-multi-level-marketing-industry.md` — primary: health-bio
 - [Utah Tech Calendar](/pages/utah-tech-calendar.md) · `https://greatutah.work/pages/utah-tech-calendar.md` — primary: computing
 - [Weber State AI Hackathon](/pages/weber-state-ai-hackathon.md) · `https://greatutah.work/pages/weber-state-ai-hackathon.md` — primary: computing

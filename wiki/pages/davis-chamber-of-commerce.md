@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Kaysville, UT
 **Utah Location:** Kaysville, UT
@@ -13,7 +14,7 @@
 
 ## Summary
 
-The Davis Chamber of Commerce is Davis County's collective business voice, focused on uniting the local business community, advocacy, and a vibrant sustainable economy. Verified on the official site (2026-07-14): members can join online, sponsor events and luncheons, appear in the member directory, and participate in committees including Lakesiders, Military Affairs, Legislative Affairs, and Women in Business, plus networking events and golf tournaments.
+The Davis Chamber of Commerce is Davis County's collective business voice, focused on uniting the local business community, advocacy, and a vibrant sustainable economy. Davis Chamber of Commerce provides a bounded benefit: Davis County businesses seeking networking, legislative advocacy, event sponsorship visibility, and peer connections across the county.
 
 ## Who It's For
 

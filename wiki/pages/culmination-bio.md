@@ -23,9 +23,7 @@
 
 ## Summary
 
-Culmination Bio is described as a biotech company connected to Intermountain Health. The existing raw capture is a redirected Intermountain page rather than Culmination's document, so launch date and headquarters are not treated as established here.
-
-For the wiki, Culmination is an example of a health-system data asset being productized outside traditional hospital quality-improvement programs. The earlier financing claim requires a captured primary announcement.
+Culmination Bio is described as a biotech company connected to Intermountain Health. Drug discovery fails often because early biological hypotheses are wrong.
 
 ## Impact
 

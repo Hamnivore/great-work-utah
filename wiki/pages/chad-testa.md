@@ -15,9 +15,7 @@
 
 ## Summary
 
-Chad Testa is the CEO of Curza, a University of Utah spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. He leads a mission-driven company funded primarily through government grants and impact investors — including NIH, the Defense Threat Reduction Agency (DTRA), CARB-X, and Novo Holdings' REPAIR Fund — rather than traditional pharma venture capital.
-
-Testa runs Curza at the intersection of academic spinout commercialization, biodefense, and antimicrobial resistance (AMR), an area where standard pharma market incentives have largely failed. The company's lead compound, CZ-02, targets a conserved and clinically unexploited ribosome binding site that bacteria cannot easily mutate away from, representing the first genuinely new Gram-negative antibiotic mechanism class in roughly half a century.
+Chad Testa is the CEO of Curza, a University of Utah spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. Antimicrobial resistance is a large global health problem, but this page's former mortality projections were not supported by an existing wiki source.
 
 ## Impact
 

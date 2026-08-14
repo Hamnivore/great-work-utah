@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,7 +18,7 @@
 
 ## Summary
 
-EDCUtah is Utah's statewide public-private economic development organization helping companies relocate or expand in Utah. Verified on edcutah.org: EDCUtah offers site selection support, comparative research, access to 200+ local partners, business retention and expansion services, and navigation of state and local incentive programs for companies of all sizes.
+EDCUtah is Utah's statewide public-private economic development organization helping companies relocate or expand in Utah. EDCUtah - Economic Development Corporation of Utah provides a bounded benefit: Site selection teams and corporate expansion leaders; Utah companies planning multi-location growth; communities and partners in EDCUtah's investor network — less direct support for pre-revenue.
 
 ## Who It's For
 

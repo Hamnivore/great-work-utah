@@ -27,6 +27,16 @@ const TIER_RE = /^(S|A|B|C|D|F|unranked)(\*)?$/;
 const TIER_TYPES = ["venture", "person", "helper", "resource", "work"];
 // A tier this high asserts the page argues its own bounds, so the argument has to exist.
 const TIER_NEEDS_IMPACT = new Set(["S", "A", "B"]);
+// The founder-resource ladder — a second, independent ranking of the resource shelf by what it hands
+// a founder, rather than by world impact. Rubric and rulings in wiki/meta/founder-tiers.md. No hype
+// bump here (a founder's week is not spent on delightful reading), and one extra value: `n/a` marks a
+// page that serves a different audience entirely, which is not the same claim as F.
+const FOUNDER_TIER_VOCAB = ["S", "A", "B", "C", "D", "F", "unranked", "n/a"];
+const FOUNDER_TIER_RE = /^(S|A|B|C|D|F|unranked|n\/a)$/;
+const FOUNDER_TIER_TYPES = ["resource", "helper"];
+// The letter above D is a claim about what the page says it provides, so the section has to exist.
+const FOUNDER_TIER_NEEDS_PROVIDES = new Set(["S", "A", "B"]);
+const FOUNDER_PROVIDES_SECTIONS = ["What It Provides", "Who They Help"];
 const DOMAIN_VOCAB = [
   "energy",
   "health-bio",
@@ -144,7 +154,7 @@ const TEMPLATE_SECTIONS = {
 // visiting agent will look to find out what a field means.
 const METADATA_KEYS = new Set([
   // identity and grading
-  "Type", "Status", "Updated", "Confidence", "Tier", "Focus", "Domain", "Domain-flagged", "Region",
+  "Type", "Status", "Updated", "Confidence", "Tier", "Founder-tier", "Focus", "Domain", "Domain-flagged", "Region",
   "Needs-reviewed", "Identifiers", "Era", "Stage", "Roles", "Ownership", "Careers", "Audience",
   // the document a source page is about
   "Website", "URL", "Publisher", "Published", "Source Type", "Retrieved", "Archive", "Archived",
@@ -577,6 +587,48 @@ async function lintPage(filename) {
           filePath,
           `**Tier:** ${raw} claims this page argues its own bounds, but there is no "## Impact" section. A tier of B or above requires one whatever the Type (tiers.md, "Hooks into the machinery") — write the argument or lower the tier.`,
           tierHeader.line
+        );
+      }
+    }
+  }
+
+  // -- Founder-tier (required on the resource shelf; wiki/meta/founder-tiers.md) --
+  const founderTierHeader = headers.get("Founder-tier");
+  if (FOUNDER_TIER_TYPES.includes(type) && (!founderTierHeader || !founderTierHeader.value)) {
+    addFinding(
+      "error",
+      "missing-attribute",
+      filePath,
+      `Missing required **Founder-tier:** attribute (required for ${FOUNDER_TIER_TYPES.join(", ")}). Assign one from the ladder in wiki/meta/founder-tiers.md — **Founder-tier:** unranked when nobody can tell what the page hands a founder, or **Founder-tier:** n/a when it serves a different audience entirely.`
+    );
+  }
+  if (founderTierHeader && founderTierHeader.value) {
+    const raw = founderTierHeader.value.trim();
+    if (!FOUNDER_TIER_RE.test(raw)) {
+      addFinding(
+        "error",
+        "invalid-founder-tier",
+        filePath,
+        `**Founder-tier:** "${raw}" is outside the closed vocabulary (${FOUNDER_TIER_VOCAB.join(" · ")}). There is no "*" bump on this ladder. See wiki/meta/founder-tiers.md.`,
+        founderTierHeader.line
+      );
+    } else {
+      if (!FOUNDER_TIER_TYPES.includes(type)) {
+        addFinding(
+          "warning",
+          "founder-tier-on-wrong-type",
+          filePath,
+          `**Founder-tier:** does not apply to Type: ${type} — the founder ladder ranks the resource shelf, and a company or a historical proof is not something a founder can walk into and use.`,
+          founderTierHeader.line
+        );
+      }
+      if (FOUNDER_TIER_NEEDS_PROVIDES.has(raw) && !FOUNDER_PROVIDES_SECTIONS.some((s) => sections.has(s))) {
+        addFinding(
+          "warning",
+          "founder-tier-without-provides",
+          filePath,
+          `**Founder-tier:** ${raw} claims this hands a founder something substantial, but there is no "## ${FOUNDER_PROVIDES_SECTIONS.join('" or "## ')}" section to check that against (founder-tiers.md ruling 1). Write what it hands over or lower the letter.`,
+          founderTierHeader.line
         );
       }
     }
@@ -1168,6 +1220,17 @@ async function lintPage(filename) {
         filePath,
         `Missing template section(s) for Type: ${type} — ${missing.map((s) => `## ${s}`).join(", ")}.`
       );
+    }
+    if (sections.has("Summary")) {
+      const length = sectionBody(content, "Summary").replace(/\s+/g, " ").trim().length;
+      if (length > 400) {
+        addFinding(
+          "warning",
+          "summary-too-long",
+          filePath,
+          `## Summary is ${length} characters after whitespace is collapsed; it really should be under the 400-character soft limit.`
+        );
+      }
     }
   }
 

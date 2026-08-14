@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Kaysville, UT
 **Utah Location:** Kaysville, UT
@@ -17,9 +18,7 @@
 
 ## Summary
 
-The Business Resource Center (BRC) at Davis Technical College is a community hub for entrepreneurs in Davis County and surrounding areas. Davis Tech's community page and indexed BRC materials describe no-cost SBDC business advising, workforce training, government-contracting support, and rentable office and conference space at Kaysville, Morgan, and Clearfield locations.
-
-The dedicated brc.davistech.edu subdomain timed out during verification; program existence is confirmed via davistech.edu/community.
+The Business Resource Center (BRC) at Davis Technical College is a community hub for entrepreneurs in Davis County and surrounding areas. Business Resource Center - Davis Tech College provides a bounded benefit: Entrepreneurs and small-business owners in Davis, Morgan, Salt Lake, Tooele, and Weber counties (per Startup State coverage) launching or growing ventures — especially those needing.
 
 ## Who It's For
 

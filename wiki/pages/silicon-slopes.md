@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Lehi, UT
 **Utah Location:** statewide
@@ -17,7 +18,8 @@
 
 ## Summary
 
-Silicon Slopes is a Utah nonprofit that serves as a hub for the state's startup and tech community through events, content, and convenings — most prominently the annual Silicon Slopes Summit. The organization connects Utah companies, founders, and industry leaders for networking, education, and community building.
+
+Silicon Slopes convenes Utah's technology community through media, local chapters, events, and its flagship summit. It makes the statewide network easier to enter, but networking and promotion are enabling services whose impact stays with participants.
 
 ## Who It's For
 

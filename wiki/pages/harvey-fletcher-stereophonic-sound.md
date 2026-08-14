@@ -24,9 +24,7 @@
 
 ## Summary
 
-Harvey Fletcher was born in Provo, Utah in 1884, graduated from Brigham Young institutions, and earned a Ph.D. in physics at the University of Chicago in 1911 — the first physics student there to graduate summa cum laude. As a graduate student he worked with Robert Millikan on the oil-drop experiment that measured the charge of the electron; his share of that credit was contested for decades afterward.
-
-At Bell Telephone Laboratories from 1916, Fletcher became director of acoustical research and led foundational work in the physics of sound. His team produced the first successful stereophonic recordings and the first live stereo transmission, working with conductor Leopold Stokowski and the Philadelphia Orchestra in 1931-1933. He returned to Utah in 1952 to help build BYU's College of Physical and Engineering Sciences, and in 2016 he received a posthumous Technical Grammy Award. This page is honest about geography: the landmark engineering happened at Bell Labs in New Jersey, but Fletcher was a genuine Utah native who returned and built institutions here.
+Harvey Fletcher was born in Provo, Utah in 1884, graduated from Brigham Young institutions, and earned a Ph.D. in physics at the University of Chicago in 1911 — the first physics student there to graduate summa cum laude. Stereo sound is now so ordinary it is invisible.
 
 ## Impact
 

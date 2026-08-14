@@ -1,5 +1,5 @@
 /* Stylesheet for the prerendered document pages (/p/*, /v/*, /about, /charter,
-   /conventions, /attributes, /search). Deliberately standalone — no Tailwind, no
+   /conventions, /attributes, /tiers, /search). Deliberately standalone — no Tailwind, no
    build step, no JavaScript — so a content page is one HTML request plus one CSS
    request and renders identically with scripts disabled. Tokens mirror
    src/index.css; keep them in sync by hand if the palette moves. */
@@ -13,6 +13,9 @@
   --color-orange: #d37945;
   --color-ink: #27231f;
   --color-ink-soft: #585047;
+  /* Activity (wiki/meta/activity.md). Sage rather than a signal green: this palette is paper and
+     sandstone, and a saturated "live" green would read as a status light bolted onto a book. */
+  --color-sage: #4a7150;
 
   --font-serif: "Libre Caslon Text", Georgia, "Times New Roman", serif;
   --font-display: "Libre Caslon Display", "Big Caslon", Georgia, serif;
@@ -160,6 +163,60 @@ h1 {
 .trust .badge.conf-low {
   border-color: color-mix(in srgb, var(--color-orange) 55%, transparent);
   color: color-mix(in srgb, var(--color-orange) 80%, black);
+}
+
+/* ---- activity ----
+   The one badge about the subject rather than the page, so it carries a dot the others don't: the
+   dot is what makes a column of these scannable for the live ones at arm's length. Colour is never
+   the only carrier — each badge also spells its value out, which is what keeps it legible to
+   colour-blind readers and in the printed/high-contrast rendering. */
+.trust .badge[class*="act-"] {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4em;
+}
+.trust .badge[class*="act-"]::before {
+  content: "";
+  width: 0.45em;
+  height: 0.45em;
+  border-radius: 50%;
+  background: currentColor;
+  /* baseline alignment on a flex item is the dot's own baseline, which is its bottom edge; nudge it
+     onto the text's optical centre instead */
+  transform: translateY(-0.15em);
+}
+.trust .badge.act-active {
+  border-color: color-mix(in srgb, var(--color-sage) 55%, transparent);
+  background: color-mix(in srgb, var(--color-sage) 8%, var(--color-paper-deep));
+  color: var(--color-sage);
+  font-weight: 600;
+}
+.trust .badge.act-dormant {
+  border-color: color-mix(in srgb, var(--color-orange) 45%, transparent);
+  color: color-mix(in srgb, var(--color-orange) 80%, black);
+}
+.trust .badge.act-dormant::before {
+  background: none;
+  box-shadow: inset 0 0 0 1px currentColor;
+}
+/* Concluded is deliberately the quietest of the four. It is not a demotion — half the S tier is
+   concluded — so it recedes to the same weight as the neutral badges rather than reading as a
+   warning. */
+.trust .badge.act-concluded {
+  border-color: color-mix(in srgb, var(--color-sandstone) 65%, transparent);
+  color: var(--color-ink-soft);
+}
+.trust .badge.act-concluded::before {
+  background: none;
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--color-ink-soft) 55%, transparent);
+}
+.trust .badge.act-unknown {
+  border-style: dashed;
+  color: var(--color-ink-soft);
+}
+.trust .badge.act-unknown::before {
+  background: none;
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--color-ink-soft) 40%, transparent);
 }
 
 .doc-meta {

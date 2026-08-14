@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT
@@ -17,8 +18,7 @@
 
 ## Summary
 
-The Uintah Basin Association of Governments (UBAOG) unifies Daggett, Duchesne, and Uintah counties for economic and social development. Verified on ubaog.org: UBAOG runs housing, weatherization, HEAT utility assistance, food pantries, Basin Transit, aging services, community development (including CDBG business grants), and economic development district programs.
-
+The Uintah Basin Association of Governments coordinates economic and social programs across Daggett, Duchesne, and Uintah counties. Shared administration matters where three rural counties could not efficiently duplicate transit, housing, food, aging, and development services, but its counterfactual remains regional.
 ## Who It's For
 
 Basin residents needing housing or utility aid; local governments in the tri-county area; businesses applying for CDBG business grants or regional ED support; employers coordinating with UBAOG community programs.

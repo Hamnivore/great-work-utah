@@ -18,14 +18,7 @@
 
 ## Summary
 
-Crumbl is a dessert franchise system built around large format cookies, a **weekly rotating menu**,
-and tech-heavy ordering ([franchising page](crumbl-franchising-official-page.md)). Cousins **Jason
-McGowan** and **Sawyer Hemsley** say they founded the company in **Logan, Utah in 2017** before
-expanding into franchising.
-
-Utah's node in the story is real but split: the **founding city is Logan**, while Wisconsin's franchise
-registration lists franchisor **Crumbl Franchising, LLC** at **2570 W 600 N, Suite 200, Lindon, UT
-84042** ([Wisconsin DFI record](wisconsin-dfi-crumbl-franchise-registration.md)).
+Crumbl is a dessert franchise system built around large format cookies, a weekly rotating menu, and tech-heavy ordering (franchising page). The lead hypothesis — that Crumbl became one of the fastest-growing US franchise systems on a social-media-native model — is not verified here.
 
 ## Impact
 

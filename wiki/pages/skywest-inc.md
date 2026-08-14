@@ -20,7 +20,8 @@
 
 ## Summary
 
-SkyWest, Inc. is a St. George, Utah-based holding company (NASDAQ: SKYW) whose primary subsidiary operates regional flights for major carriers. Its 2025 fleet, passenger, destination, ownership, and corporate-history figures are reported in the company's [2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/skyw-20251231x10k.htm).
+
+SkyWest is a Saint George-based public company operating regional flights for major U.S. airlines ([2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/793733/000110465926016358/skyw-20251231x10k.htm)). Its network structurally connects smaller cities to national hubs at a scale a local substitute could not quickly replace.
 
 ## Impact
 

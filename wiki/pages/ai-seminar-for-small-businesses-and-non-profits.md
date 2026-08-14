@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Other, Any, Aerospace and Defense, Agriculture
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,9 +14,7 @@
 
 ## Summary
 
-This was listed as a one-time, free seminar in downtown Salt Lake City for small businesses and nonprofits developing an AI strategy. The [Startup State source](startup-utah-resource-list.md) preserves the listing, but no captured registration page establishes its exact date.
-
-The event no longer appears in the live Startup State directory, and no recurring edition was verified on 2026-08-11. This is a historical record of the listing, not a current seminar recommendation.
+This was listed as a one-time, free seminar in downtown Salt Lake City for small businesses and nonprofits developing an AI strategy. Ai Seminar for Small Businesses & Non-Profits has no estimable impact yet because the description still accurate on the organizer's current website.
 
 ## Who It's For
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Price, UT
 **Utah Location:** Carbon County, Emery County, Grand County, San Juan County
@@ -17,7 +18,8 @@
 
 ## Summary
 
-The Southeastern Utah Association of Local Governments (SERDA) serves Carbon, Emery, Grand, and San Juan counties on economic development, housing, and community services. Verified on serda.utah.gov: SERDA runs economic planning and development, a Revolving Loan Fund (RLF), housing and weatherization programs, food security initiatives, and aging services across southeastern Utah.
+
+SERDA coordinates economic development, housing, food security, aging, and loan programs across four southeastern Utah counties. Shared capacity matters in sparsely staffed rural governments, but its reach remains regional and administrative.
 
 ## Who It's For
 

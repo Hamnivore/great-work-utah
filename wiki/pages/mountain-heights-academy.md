@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** n/a
 **Focus:** online charter school, open educational resources, Utah grades 7-12, digital learning
 **Identifiers:** ein=26-3417162
 **Primary Location:** West Jordan, UT
@@ -21,13 +22,8 @@
 
 ## Summary
 
-Mountain Heights Academy is a **tuition-free online Utah charter school** serving **grades 7–12**,
-founded in **2009**, with offices in **West Jordan** ([about page](mountain-heights-academy-official-about-page.md),
-[NCES record](nces-mountain-heights-academy-record.md)). NCES lists **864 students** (2024–2025 data)
-and charter status **Open**.
 
-The school was formerly known as **Open High School of Utah** in 2010 open-education reporting; the
-current about capture does not use that former name.
+Mountain Heights Academy is a tuition-free online Utah charter school serving grades 7–12 ([NCES record](nces-mountain-heights-academy-record.md)). It expands statewide schooling choice at real scale, but other online schools can provide a close substitute.
 
 ## Impact
 

@@ -19,9 +19,7 @@
 
 ## Summary
 
-IMSAR is a Utah Valley radar company that designs, builds, and supports low-size, weight, and power airborne radar systems. Its official website describes multimode radar systems for manned and unmanned platforms, with capabilities including synthetic aperture radar imaging, change detection, moving target indication, border patrol, and wide-area maritime search.
-
-For the Great Work Utah wiki, IMSAR is a clean example of serious local work: RF engineering, aerospace manufacturing, defense programs, fielded sensing, and vertically integrated production.
+IMSAR is a Utah Valley radar company that designs, builds, and supports low-size, weight, and power airborne radar systems. The impact case is strongest in defense, border security, maritime search, and tactical intelligence.
 
 ## Impact
 

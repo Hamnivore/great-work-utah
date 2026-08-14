@@ -21,11 +21,7 @@
 
 ## Summary
 
-Fortem Technologies, based in Pleasant Grove and Lindon, Utah, builds autonomous counter-drone systems centered on its DroneHunter interceptor and SkyDome radar and command-and-control stack. DroneHunter autonomously detects, tracks, and physically captures unauthorized drones using nets or other effectors — without jamming communications, showering bystanders with shrapnel, or requiring a human to approve every intercept.
-
-The core problem Fortem addresses is that cheap quadcopters can threaten airports, military bases, prisons, energy infrastructure, and public events with near-zero cost, while most existing air-defense tools — missiles, guns, broad electronic jamming — are designed for different threats and carry serious collateral risks in civil or dense environments. Drone-on-drone interception is a physically precise answer to a physically precise threat.
-
-Fortem reports more than 70,000 test flights and 5,500 successful drone captures in Utah, with deployments in Ukraine, the Middle East, and critical-infrastructure contexts ([manufacturing announcement](fortem-manufacturing-hq-2025.md)). Its site lists 2026 DroneHunter 5.0 delivery and World Cup venue-protection announcements, but their bodies are not captured here.
+Fortem Technologies, based in Pleasant Grove and Lindon, Utah, builds autonomous counter-drone systems centered on its DroneHunter interceptor and SkyDome radar and command-and-control stack. If autonomous low-collateral interception becomes a standard layer of civil and military airspace defense, Fortem's platform could represent a genuine architectural contribution.
 
 ## Impact
 

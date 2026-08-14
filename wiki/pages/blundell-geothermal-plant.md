@@ -22,9 +22,7 @@
 
 ## Summary
 
-Blundell is PacifiCorp's (Rocky Mountain Power) geothermal generating station near Milford in Beaver County, Utah — the longest-running conventional geothermal plant in the county's operating cluster. Third-party generation databases put annual output on the order of ~270 GWh, making it larger than Cove Fort or Thermo No. 1 on energy produced. Ormat historically supplied a binary bottoming-cycle expansion unit at Blundell (see [Ormat Technologies](ormat-technologies.md)).
-
-This page treats the **plant / Utah operating site** as the citable atom for talent matching; PacifiCorp corporate strategy lives elsewhere. Job-seekers should use PacifiCorp / Berkshire Hathaway Energy careers channels and filter for Utah generation or geothermal O&M roles rather than expecting a Blundell-branded ATS.
+Blundell is PacifiCorp's (Rocky Mountain Power) geothermal generating station near Milford in Beaver County, Utah — the longest-running conventional geothermal plant in the county's operating cluster. Blundell is proof that Utah hydrothermal geothermal can run for decades as utility baseload.
 
 ## Impact
 

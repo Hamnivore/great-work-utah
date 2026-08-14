@@ -25,9 +25,8 @@
 
 ## Summary
 
-Qualtrics is a Utah-born enterprise software company that pioneered the experience management (XM) category. Its platform lets organizations collect, analyze, and act on feedback from customers, employees, and other stakeholders through surveys, dashboards, predictive analytics, and increasingly LLM-driven understanding of unstructured responses.
 
-Qualtrics was founded in Provo and grew into a major experience-management software company. The current captured official source does not establish its founding date, acquisition values, IPO, or take-private chronology, so those details require separate filing or transaction sources.
+Utah-born Qualtrics helped define experience-management software for surveying customers and employees. Its global scale, large Utah engineering base, and founder alumni changed the state's software ecosystem structurally, though rivals mean the product category does not depend on Qualtrics alone.
 
 ## Impact
 

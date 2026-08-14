@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -18,7 +19,7 @@
 
 ## Summary
 
-Convoi Ventures is a Utah-only pre-seed venture capital firm founded in 2021 that backs breakout Utah startups before broader investors engage. Its official site emphasizes founder-first selection, community events for founders and LPs, and focus areas including consumer tech, fintech, and SaaS.
+Convoi Ventures is a Utah-only pre-seed venture capital firm founded in 2021 that backs breakout Utah startups before broader investors engage. Convoi Ventures provides a bounded benefit: Utah pre-seed founders who are builders first — especially in consumer tech, fintech, or SaaS — and can show fast progress with limited resources.
 
 ## Who It's For
 

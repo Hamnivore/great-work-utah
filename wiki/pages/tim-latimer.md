@@ -16,9 +16,8 @@
 
 ## Summary
 
-Tim Latimer is the co-founder and CEO of Fervo Energy, a Houston-based company developing next-generation geothermal power using horizontal drilling and reservoir engineering techniques adapted from the oil and gas industry. Latimer has a background in energy engineering and recognized that the directional-drilling and hydraulic-fracturing playbook perfected by oil and gas operators could unlock hot-rock geothermal potential at commercial scale — something conventional vertical-well geothermal could not achieve.
 
-Fervo's Utah connection is direct and substantial: Cape Station in Beaver County has a stated 400 MW target, while Fervo's 2026 SEC filing documents its proposed Nasdaq listing ([Fervo Energy](fervo-energy.md); [IPO prospectus](fervo-energy-ipo-prospectus-2026.md)).
+Tim Latimer co-founded Fervo Energy around the insight that horizontal drilling could unlock geothermal heat beyond rare natural reservoirs. Turning oil-and-gas methods into repeatable firm clean power changes the grid's technology menu structurally, though execution now rests with the company he built.
 
 ## Impact
 

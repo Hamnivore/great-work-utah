@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** university AI hackathon, two-week remote build, skill-tiered prizes, employer job fair, Ogden
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
@@ -14,20 +15,7 @@
 
 ## Summary
 
-The Weber State AI Hackathon is a **Weber State University** event, run on a university subdomain and
-organized by **Tristan Rhodes**, an AI integration and automation engineer at the school. Its format
-is unusual for a hackathon and is the reason it is worth a page: instead of a single overnight sprint,
-the 2026 edition ran a **two-week remote build with mentorship and tools provided (March 21 – April 3,
-2026)**, followed by a **one-day in-person finale at Shepherd Union in Ogden on April 4**
-([2026 announcements](weber-state-ai-hackathon-2026-announcements.md)).
-
-That structure lets complete beginners produce something. The organizer's pitch was explicit that no
-experience was required and that free AI tools and two weeks of mentorship were the point — with a
-**$1,800 prize pool** split across Novice, Intermediate, and Advanced categories, a **$10 ticket**
-covering meals and a shirt, and a **job fair running alongside the finale, free to employers**.
-
-A **2027 edition is announced for March 20, 2027**
-([official website](weber-state-ai-hackathon-official-website.md)).
+The Weber State AI Hackathon is a university-run Ogden event organized by AI engineer Tristan Rhodes. Its mentored two-week remote build and one-day campus finale trade overnight theater for enough time to make something useful ([2026 announcements](weber-state-ai-hackathon-2026-announcements.md)).
 
 ## Who It's For
 

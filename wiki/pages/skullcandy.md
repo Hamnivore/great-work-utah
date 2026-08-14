@@ -24,9 +24,8 @@
 
 ## Summary
 
-Skullcandy is an American consumer audio brand that designs and sells headphones, earphones, speakers, gaming headsets, and related accessories. Founded in 2003 in Park City, Utah, the company gained recognition for affordable, bass-forward products with distinctive youth-oriented styling aimed at action sports enthusiasts, skaters, snowboarders, and broader lifestyle audiences.
 
-Skullcandy is generally credited as an early leader in the "lifestyle headphone" category, and its ownership has changed hands more than once, including an acquisition by Mill Road Capital — a chain not yet traced to primary filings here. The brand remains active in wireless, true wireless, and noise-canceling segments.
+Skullcandy is a Utah-born consumer audio brand selling headphones, earbuds, speakers, and gaming gear. It helped normalize affordable, design-forward headphones for younger and action-sports buyers, a real market contribution that larger audio brands could and did replicate.
 
 ## Impact
 

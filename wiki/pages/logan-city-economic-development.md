@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Logan, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): Logan City's Economic Development office helps businesses locate, grow, and navigate city resources in Cache Valley. Public pages cover site selection, economic data, redevelopment agency (RDA) information, business licensing links, and a curated list of available business resources.
+
+Logan City's Economic Development office helps Cache Valley businesses locate, expand, and navigate city resources. That municipal coordination can unblock individual projects, but it remains a local service rather than a distinct economic engine.
 
 ## Who It's For
 

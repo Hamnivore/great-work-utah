@@ -138,4 +138,4 @@ emptied because its contents moved to Title 76, Chapter 17, Part 3.
 
 ## Related Pages
 
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)

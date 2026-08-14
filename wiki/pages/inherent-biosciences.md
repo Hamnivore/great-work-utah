@@ -23,9 +23,8 @@
 
 ## Summary
 
-Inherent Biosciences is a Utah-based diagnostics company using epigenetic patterns — gene-expression state rather than genetic variants alone — to assess whether cells are functioning correctly. Its first commercial product is **SpermQT**, marketed through the **Path Fertility** division, an epigenetic sperm-function test intended to improve male-factor fertility diagnosis when standard semen analysis finds nothing wrong.
 
-The platform ambition extends to embryo quality, azoospermia, reproductive cancers, and broader epigenetic medicine, but fertility is the near-term wedge. NIH and NSF grant funding suggests scientific credibility; Series A scale and clinical generalization remain early.
+Inherent Biosciences develops epigenetic tests that measure cell function, beginning with SpermQT for male infertility. Better diagnosis could shorten time to pregnancy and avoid unnecessary procedures at meaningful scale, but fertility testing is a bounded niche with substitutes.
 
 ## Impact
 

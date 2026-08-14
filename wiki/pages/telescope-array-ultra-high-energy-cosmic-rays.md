@@ -22,9 +22,8 @@
 
 ## Summary
 
-The Telescope Array is an ultra-high-energy cosmic-ray observatory west of Delta, Utah, led by the University of Utah and University of Tokyo. Its official site says data collection began in 2007 and describes 507 surface stations across about 700 square kilometers ([official source](telescope-array-official-website.md)).
 
-For the Great Work Utah wiki, the Telescope Array is the entry that most embodies "wait, *that's* in Utah?" — a globally important physics observatory that exists in the state largely because Utah's high desert offers the dark skies, dry atmosphere, and wide flat space that the experiment requires.
+The University of Utah–University of Tokyo Telescope Array measures the universe's highest-energy cosmic rays in Utah's West Desert. Pinning down their sources would resolve a global astrophysics frontier, and the observatory's rare combination of scale, dark sky, dry air, and flat terrain makes that discovery credible.
 
 ## Impact
 

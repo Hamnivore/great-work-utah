@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** fractional CFO, outsourced accounting, controller services, FP&A, investor reporting, finance operations
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -18,9 +19,8 @@
 
 ## Summary
 
-NOW CFO is a financial consulting firm offering fractional CFO, controller, outsourced accounting, bookkeeping, financial operations, and finance-team placement services. For this wiki, it is most useful as a fractional finance-operations helper rather than as a CPA firm; its own footer says NOW CFO is not a CPA firm.
 
-The public service list covers budgeting, forecasting, FP&A, cash-flow management, KPIs, dashboards, board and investor reporting, treasury management, month-end close, audit preparation, financial reporting, systems implementation, internal controls, AP, AR, payroll administration, and inventory management.
+NOW CFO supplies fractional finance leaders, controllers, accounting teams, and bookkeeping. It can give a Utah company financial discipline before it can hire a full team, but many firms provide the same service.
 
 ## Impact
 

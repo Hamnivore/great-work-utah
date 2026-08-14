@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Verified on ushe.edu/custom-fit (2026-07-14): Custom Fit is a Utah System of Higher Education program that delivers customized workforce training for incumbent employees at Utah companies. For more than 40 years it has paired regional colleges with local businesses on technical, safety, leadership, and skills training funded in part by the Utah Legislature, with companies contributing at least 40% of training cost depending on regional priorities.
+Custom Fit is a Utah System of Higher Education program that delivers customized workforce training for incumbent employees at Utah companies. Custom Fit Training provides a bounded benefit: Utah for-profit employers training current employees (incumbent workers).
 
 ## Who It's For
 

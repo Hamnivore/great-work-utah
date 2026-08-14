@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding
 **Primary Location:** Roosevelt, UT
 **Utah Location:** Daggett County, UT; Duchesne County, UT; Uintah County, UT
@@ -17,10 +18,7 @@
 
 ## Summary
 
-The Uintah Basin Economic Development District (UBEDD), housed within the Uintah Basin Association of Governments, supports economic diversification and small-business growth in Daggett, Duchesne, and Uintah counties. Verified on the official site (2026-07-14): UBEDD administers EDA-backed revolving loan funds (including a CARES Act RLF), maintains Comprehensive Economic Development Strategy (CEDS) planning documents, and publishes detailed loan guidelines.
-
-The original RLF page is marked under construction; the CARES Act RLF program description and application contacts are live.
-
+The Uintah Basin Economic Development District (UBEDD), housed within the Uintah Basin Association of Governments, supports economic diversification and small-business growth in Daggett, Duchesne, and Uintah counties. The original RLF page is marked under construction; the CARES Act RLF program description and application contacts are live.
 ## Who It's For
 
 Businesses located in Daggett, Duchesne, or Uintah counties seeking gap financing, COVID-affected business recovery support, or regional economic-development planning resources. Also relevant to community leaders working on basin-wide CEDS priorities.

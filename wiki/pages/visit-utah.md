@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,8 +18,7 @@
 
 ## Summary
 
-Visit Utah is the state's official consumer travel brand and website, showcasing Utah destinations, itineraries, events, and trip-planning resources. For tourism and hospitality operators, it is the public-facing marketing channel that drives visitor demand; industry-facing programs and partner tools are primarily coordinated through the [Utah Office of Tourism](utah-office-of-tourism.md).
-
+Visit Utah is the state's consumer travel website, publishing destinations, itineraries, and events. Tourism marketing can drive demand, but this page documents only a replaceable website front end—not independent outcomes or a program distinct from the [Utah Office of Tourism](utah-office-of-tourism.md).
 ## Who It's For
 
 Utah hospitality, recreation, and tourism businesses that benefit from statewide destination marketing, as well as operators seeking visitor-facing content partnerships or alignment with Utah's official travel brand.

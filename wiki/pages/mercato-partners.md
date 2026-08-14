@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Cottonwood Heights, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Mercato Partners is a Cottonwood Heights-based growth investment firm managing multiple funds across technology, consumer brands, and food and beverage. Its official site cites about $1.0B assets under management and growth-stage fit criteria including roughly $10M+ annual revenue and strong year-over-year growth.
+
+Cottonwood Heights-based Mercato Partners invests growth capital across technology, consumer brands, and food. Its funds can materially scale portfolio companies, but growth equity is a competitive market with many substitute investors.
 
 ## Who It's For
 

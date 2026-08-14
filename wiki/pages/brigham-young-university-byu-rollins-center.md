@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-The Rollins Center for Entrepreneurship & Technology (CET) at BYU Marriott School of Business supports student innovation and venture creation through mentorship, competitions, coursework, and community programming. The public site highlights outcomes such as student equity in startups, Miller Grants, and the Student Innovator of the Year competition.
+The Rollins Center for Entrepreneurship & Technology (CET) at BYU Marriott School of Business supports student innovation and venture creation through mentorship, competitions, coursework, and community. Brigham Young University (BYU) - Rollins Center provides a bounded benefit: BYU students interested in entrepreneurship, technology ventures, and scalable startup creation — especially those who.
 
 ## Who It's For
 

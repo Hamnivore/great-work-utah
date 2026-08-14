@@ -23,12 +23,7 @@
 
 ## Summary
 
-Splunk is an enterprise software company focused on machine-data search, cybersecurity, observability, incident response, and AI-assisted operations. Its products help security, IT operations, and engineering teams collect and analyze logs, metrics, traces, events, and other operational data so they can detect threats, investigate incidents, monitor service health, and reduce downtime.
-
-Cisco completed its acquisition of Splunk on 2024-03-18 in a roughly $28 billion all-cash transaction. Splunk now operates as a Cisco company and is part of Cisco's larger security, observability, networking, and AI infrastructure strategy.
-
-For the Utah wiki, Splunk is a provisional page. It is clearly consequential enterprise infrastructure, and many Utah companies, public agencies, universities, and security teams may use or hire for Splunk skills. But the currently verified sources do not establish a distinctive Utah headquarters, founding story, major office, acquisition, or operating site. Treat this as a lead until the local connection is pinned down.
-
+Splunk turns machine data into security, observability, and incident-response systems for large organizations. Its replaceable products still operate at structural scale: outages and breaches affect millions, and Cisco's bet is that network, security, and operations data can become one control layer.
 ## Impact
 
 Splunk matters because machine-generated operational data has become part of the nervous system of modern organizations. Security teams use SIEM and detection tooling to find attacks; reliability teams use observability tools to understand distributed systems; executives increasingly expect digital services to stay up even under heavy complexity.

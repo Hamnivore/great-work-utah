@@ -17,10 +17,7 @@
 
 ## Summary
 
-Wasatch Ionics is an early-stage Utah company developing lithium-oxygen (Li-O₂) reserve batteries with integrated chemical oxygen generation for U.S. Army applications. The target use case is Close Terrain-Shaping Obstacles (CTSO): a power source that can sleep for weeks, then deliver a high-current pulse on demand to activate an obstacle system.
-
-The company is SBIR-funded (Army Phase I and Phase II) and has a BYU collaboration, but public details are sparse — no discoverable website, team roster, or investor list. For the wiki, Wasatch Ionics is a real frontier-chemistry bet with Army validation, but it is far too early to assess production readiness, commercial path, or scale. Li-O₂ is a well-known hard problem; many well-funded labs have not cracked it at scale.
-
+Wasatch Ionics is an early-stage Utah company developing lithium-oxygen reserve batteries with integrated chemical oxygen generation for Army applications. Army validation makes the frontier-chemistry bet credible enough to watch, but production readiness, commercial path, and achievable scale remain unproven.
 ## Impact
 
 The impact case is specific but potentially broad. Current Li-thionyl chloride reserve batteries are the Army standard for obstacle systems; Li-O₂ chemistry promises roughly 10× energy density improvement at equivalent weight. If the chemistry matures, the same long-standby, burst-power profile could matter for a wide class of defense electronics beyond obstacle activation.

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
@@ -17,8 +18,7 @@
 
 ## Summary
 
-The Atwood Innovation Plaza Business Resource Center at Utah Tech University, sponsored by Zions Bank, is a St. George hub for launching and growing businesses. The live site offers no-cost consultations on planning, marketing, LLC formation, government contracting, exporting, mentoring, and incubator workspace, with additional rural outreach in Washington and Kane counties.
-
+The Atwood Innovation Plaza Business Resource Center at Utah Tech University is a Zions Bank-sponsored Saint George hub for launching and growing businesses. No-cost consultations, incubator space, and outreach into Washington and Kane counties make it one of southern Utah's more complete founder-support nodes rather than a campus-only program.
 ## Who It's For
 
 Southern Utah entrepreneurs and small-business owners — including rural operators in Washington and Kane counties — plus Utah Tech students and community members who need business advising, workspace, or makerspace access through the broader Innovation Plaza.

@@ -25,17 +25,7 @@
 
 ## Summary
 
-US Synthetic makes polycrystalline diamond cutters — the small, extremely hard inserts brazed into
-the face of oil and gas drill bits, which do the actual cutting of rock. The company reports that it
-presses its own diamond rather than buying it, on cubic press technology of its own design, and that
-it employs approximately 400 people in Orem ([official site](us-synthetic-official-website.md)).
-
-It matters to this wiki mainly for what it descends from. The wiki already documents
-[H. Tracy Hall's diamond presses](h-tracy-hall-diamond-presses.md) in detail — the first
-reproducible synthetic diamond, made at General Electric in 1954, and the tetrahedral and cubic
-presses Hall invented after returning to BYU. What the corpus has not carried until now is what
-happened next in Utah: the apparatus became an industry.
-
+US Synthetic makes polycrystalline-diamond cutters that let oil and gas drill bits cut rock. The product became a substantial Utah manufacturing business, but comparable drilling-tool suppliers exist; its impact is industrial scale without a unique structural change.
 ## Impact
 
 The chain is short, and unusually legible for an industrial lineage. The *Deseret News* groups Bill
@@ -94,8 +84,8 @@ enter, long after the original one matures or declines. Diamicron and the mining
 are that bet being placed repeatedly.
 
 The honest counterweight: this is a components supplier to fossil-fuel extraction, and the majority
-of its business rises and falls with drilling activity. The wiki records magnitude, not sign, and
-the magnitude here is large in both directions.
+of its business rises and falls with drilling activity. That scale runs both ways — more efficient
+drilling, and more of it.
 
 ## Utah Context
 

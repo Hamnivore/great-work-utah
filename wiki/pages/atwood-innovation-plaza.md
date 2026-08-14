@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Atwood Innovation Plaza is Utah Tech University's innovation hub in St. George, branded around "Innovate. Launch. Grow." The official site combines a Zions Bank–sponsored Business Resource Center, a community makerspace, innovation guidance for IP and proof-of-concept work, STEM outreach, and rentable startup workspace.
+Atwood Innovation Plaza is Utah Tech University's hub for venture advising, prototyping, and startup workspace in St. George. It gives southern Utah students, faculty, and community founders infrastructure that would otherwise be concentrated along the Wasatch Front.
 
 ## Who It's For
 

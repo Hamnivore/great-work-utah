@@ -20,10 +20,7 @@
 
 ## Summary
 
-WAVE (Wireless Advanced Vehicle Electrification) is a Logan, Utah company founded in 2011 as a spinout from Utah State University's Energy Dynamics Laboratory. WAVE builds high-power wireless inductive charging systems for commercial EV fleets — buses, port vehicles, and logistics trucks — embedding 125–500kW+ charging pads in roadway surfaces at layover points so vehicles charge automatically whenever they stop, with no driver action and no cables.
-
-WAVE matters to the wiki because it solves a real operational barrier to fleet electrification that range and battery cost improvements alone cannot address: charging logistics. Transit agencies have deferred electrification not because electric buses are bad but because integrating wired charging into dispatch schedules, depot layouts, and driver workflows is operationally costly. WAVE's approach reduces that friction to near zero.
-
+WAVE (Wireless Advanced Vehicle Electrification) is a Logan, Utah company founded in 2011 as a spinout from Utah State University's Energy Dynamics Laboratory. Transit agencies have deferred electrification not because electric buses are bad but because integrating wired charging into dispatch schedules, depot layouts, and driver workflows is operationally costly.
 ## Impact
 
 The transit, port, and logistics sectors represent a meaningful share of commercial vehicle miles traveled and a disproportionate share of urban air quality impact. If wireless charging removes the operational barrier to fleet electrification, it accelerates decarbonization across all three sectors without requiring operators to redesign their dispatch logic.

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** IP, patents, technology transactions, software, biotech, medical devices, deep tech
 **Domain:** capital-programs, health-bio
 **Primary Location:** Salt Lake City, UT; Park City, UT
@@ -14,9 +15,8 @@
 
 ## Summary
 
-Maschoff Brennan is a Utah-connected intellectual-property law firm with offices in Salt Lake City and Park City. The public evidence makes it most relevant to this wiki as an IP and patent helper for founders who need to protect, license, defend, or diligence technical assets.
 
-The firm is not just a patent-prosecution shop on its website. Its public service list also includes portfolio management, technology transfers and transactions, licensing, IP litigation, privacy and data-security work, commercial contracts, corporate transactions, and regulatory or industry-practice counseling.
+Maschoff Brennan is a Utah-connected intellectual-property law firm with Salt Lake City and Park City offices. Its patent and IP counsel can protect a startup's core assets, but the service is local and available from many capable firms.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** Late Stage Growth
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
@@ -18,7 +19,6 @@
 ## Summary
 
 Weber Basin Job Corps Civilian Conservation Center in Ogden is a residential Job Corps campus offering career-focused training in fields such as advanced emergency dispatch, carpentry, culinary arts, electrical work, and forestry conservation. The public site also notes residential supports including housing, meals, and medical care.
-
 ## Who It's For
 
 Eligible young adults ages 16–24 seeking tuition-free residential career training in conservation, trades, culinary, electrical, dispatch, and related occupational pathways.

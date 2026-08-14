@@ -17,10 +17,7 @@
 
 ## Summary
 
-Utah Quantum (UTQ) is a Salt Lake City initiative that describes itself as Utah's first Quantum Systems Integrator (QSI) — an organization focused on connecting universities, industry, and government around practical quantum adoption rather than building quantum hardware itself. Founded in 2025 by Sumit Parashar, Neil Nickolaisen, and Brig. Gen. (Ret.) Max Stitzer, it frames its work through concepts such as "Quantonomy" (organizing the quantum era across science, engineering, security, and application) and public messaging around the "Quantum Cliff" and post-quantum cybersecurity readiness. [Official Website: Utah Quantum](utahquantum-official-website.md)
-
-For the wiki, UTQ is an early, unproven catalytic bet — more integrator and convenor than product company — but potentially relevant if Utah's university quantum programs and defense adjacency (including 47G) mature into a regional cluster.
-
+Utah Quantum convenes universities, industry, and government around quantum adoption rather than building hardware. A regional cluster could eventually matter, but the page shows no product, adoption, or outcome yet; convening ambition alone is not impact.
 ## Impact
 
 The impact case, if UTQ succeeds, is second-order: most quantum work today sits in hardware labs or cloud services, while the integration layer — helping organizations understand what quantum is ready for and how to deploy it — is thin. UTQ's stated ambition is to connect Utah institutions (University of Utah, UVU, Weber State, USU, Utah Tech) with industry and government partners on encryption, data management, IoT, and national-security use cases.

@@ -23,17 +23,7 @@
 
 ## Summary
 
-Blue Raven Solar is a residential solar installation business founded in **2014**, acquired by
-**SunPower Corp.** in **2021** for up to **$165 million** cash, then sold through **SunPower's 2024
-Chapter 11** process to **Complete Solaria, Inc.** — the registrant that now trades as **SunPower Inc.**
-(CIK **0001838987**) ([2021 acquisition PR](sunpower-blue-raven-acquisition-press-release-2021.md),
-[2024 bankruptcy PR](sunpower-chapter-11-stalking-horse-press-release-2024.md),
-[2024 buyer 8-K](complete-solaria-sunpower-asset-purchase-8k-2024.md)).
-
-The lead's ownership endpoint ("acquired by SunPower in 2021") is **incomplete**: SunPower Corp.
-entered Chapter 11 in **August 2024**, and Blue Raven's operating business was a stalking-horse asset
-in that sale. **`blueravensolar.com` now redirects to `us.sunpower.com`**, which lists **1403 N Research
-Way, Orem, UT 84097** ([official site capture](blue-raven-solar-official-website.md)).
+Blue Raven Solar is a residential solar installation business founded in 2014, acquired by SunPower Corp. in 2021 for up to $165 million cash, then sold through SunPower's 2024 Chapter 11 process to Complete Solaria, Inc.. SunPower's 2021 release called Blue Raven one of the fastest growing residential solar providers in the US and cited 93% revenue CAGR — SunPower's announcement language.
 
 ## Impact
 

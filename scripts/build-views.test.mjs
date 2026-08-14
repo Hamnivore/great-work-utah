@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url'
 
 const script = fileURLToPath(new URL('./build-views.mjs', import.meta.url))
 
-const page = ({ title, roles, needs, region = '', careers = '', website = '', reviewed = '' }) => `# ${title}
+const page = ({ title, roles, needs, region = '', careers = '', website = '', reviewed = '', summary = 'A useful organization.' }) => `# ${title}
 
 **Type:** venture
 **Status:** active
@@ -18,7 +18,7 @@ const page = ({ title, roles, needs, region = '', careers = '', website = '', re
 ${region ? `**Region:** ${region}\n` : ''}${careers ? `**Careers:** ${careers}\n` : ''}${website ? `**Website:** ${website}\n` : ''}${roles ? `**Roles:** ${roles}\n` : ''}${reviewed ? `**Needs-reviewed:** ${reviewed}\n` : ''}
 ## Summary
 
-A useful organization.
+${summary}
 
 ${needs ? `## What They Need Now\n\n${needs}\n` : ''}`
 
@@ -96,6 +96,88 @@ test('generates populated role views with useful lead context and navigation', (
     for (const domain of ['energy', 'health-bio', 'aerospace-defense', 'computing', 'materials-mfg', 'space-science', 'capital-programs', 'culture-place']) {
       assert.match(index, new RegExp(`https://greatutah\\.work/views/domain-${domain}\\.md`))
     }
+  } finally {
+    fs.rmSync(wiki, { recursive: true, force: true })
+  }
+})
+
+test('tier list pairs each name with its complete authored summary', () => {
+  const wiki = fs.mkdtempSync(path.join(os.tmpdir(), 'great-work-tier-view-'))
+  const pages = path.join(wiki, 'pages')
+  fs.mkdirSync(pages)
+  fs.writeFileSync(path.join(pages, 'alpha.md'), page({
+    title: 'Alpha Inc.',
+    summary: 'Alpha builds an unusually capable machine; the bet is replacing an entire dirty industry.',
+  }).replace('**Confidence:** high', '**Confidence:** high\n**Tier:** A'))
+
+  try {
+    execFileSync(process.execPath, [script], {
+      env: { ...process.env, GREAT_WORK_WIKI: wiki },
+      stdio: 'pipe',
+    })
+    const tierList = fs.readFileSync(path.join(wiki, 'views', 'tier-list.md'), 'utf8')
+    assert.match(tierList, /\[Alpha Inc\.\]\(\/pages\/alpha\.md\)/)
+    assert.match(tierList, /\[How this is ranked\]\(\.\.\/meta\/tiers\.md\)/)
+    assert.doesNotMatch(tierList, /conf:/)
+    assert.doesNotMatch(tierList, /Read the ladder correctly/)
+    assert.doesNotMatch(tierList, /Useful work/)
+    assert.match(tierList, /Alpha builds an unusually capable machine; the bet is replacing an entire dirty industry\./)
+  } finally {
+    fs.rmSync(wiki, { recursive: true, force: true })
+  }
+})
+
+// The founder ladder's whole justification is that it disagrees with the impact ladder, so the thing
+// worth pinning is that the two views sort the same page differently and that `n/a` leaves the ranking
+// rather than landing at the bottom of it.
+test('founder-resource list ranks the resource shelf separately from impact, and sets n/a aside', () => {
+  const wiki = fs.mkdtempSync(path.join(os.tmpdir(), 'great-work-founder-view-'))
+  const pages = path.join(wiki, 'pages')
+  fs.mkdirSync(pages)
+  const resource = (slug, title, tier, founderTier, provides) =>
+    fs.writeFileSync(path.join(pages, slug), `# ${title}
+
+**Type:** resource
+**Status:** active
+**Confidence:** high
+**Tier:** ${tier}
+**Founder-tier:** ${founderTier}
+**Focus:** Useful work
+
+## Summary
+
+${title} is a thing. A second sentence of judgment.
+
+## What It Provides
+
+${provides}
+`)
+  resource('grant.md', 'Grant Office', 'D', 'A', 'Two million dollars and a named deadline.')
+  resource('chamber.md', 'County Chamber', 'D', 'F', 'A directory and a ribbon cutting.')
+  resource('clinic.md', 'Free Clinic', 'C', 'n/a', 'Primary care for uninsured residents.')
+
+  try {
+    execFileSync(process.execPath, [script], {
+      env: { ...process.env, GREAT_WORK_WIKI: wiki },
+      stdio: 'pipe',
+    })
+    const founder = fs.readFileSync(path.join(wiki, 'views', 'founder-resource-tier-list.md'), 'utf8')
+    assert.match(founder, /\[How this is ranked\]\(\.\.\/meta\/founder-tiers\.md\)/)
+    // Same impact tier, opposite ends of this ladder — the disagreement is the point.
+    assert.match(founder, /## A — no second one \(1\)[\s\S]*Grant Office/)
+    assert.match(founder, /## F — a listing \(1\)[\s\S]*County Chamber/)
+    assert.match(founder, /\*Hands you:\* Two million dollars and a named deadline\./)
+    // n/a is set aside, not ranked, and is excluded from the ranked count in the lede.
+    assert.match(founder, /Utah's 2 founder resources ranked/)
+    assert.match(founder, /## Not founder resources \(1\)[\s\S]*Free Clinic/)
+    assert.doesNotMatch(founder, /## n\/a/)
+
+    // Both directions of the cross-link exist, so neither ladder is reachable without the other.
+    const tierList = fs.readFileSync(path.join(wiki, 'views', 'tier-list.md'), 'utf8')
+    assert.match(tierList, /\[the founder-resource tier list\]\(founder-resource-tier-list\.md\)/)
+    const resources = fs.readFileSync(path.join(wiki, 'views', 'resources.md'), 'utf8')
+    assert.match(resources, /\[the founder-resource tier list\]\(founder-resource-tier-list\.md\)/)
+    assert.match(fs.readFileSync(path.join(wiki, 'views', 'index.md'), 'utf8'), /founder-resource-tier-list\.md/)
   } finally {
     fs.rmSync(wiki, { recursive: true, force: true })
   }

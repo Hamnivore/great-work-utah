@@ -1,52 +1,22 @@
-# Utah's Direct-Selling Industry
+# Utah's Multi-Level Marketing Industry
 
 **Type:** venture
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** A
-**Focus:** direct selling, multi-level marketing, nutritional supplements, personal care, network distribution, contract manufacturing
+**Focus:** multi-level marketing, direct selling, nutritional supplements, personal care, network distribution, contract manufacturing
 **Domain:** health-bio, materials-mfg, culture-place
 **Stage:** Ecosystem / cluster
 **Primary Location:** statewide
 **Utah Location:** statewide
 **Region:** statewide
-**Updated:** 2026-08-11
+**Updated:** 2026-08-13
 **Needs-reviewed:** 2026-08-11
 **Pull:** *Utah consumers are 1.2% of the American direct-selling market; Utah companies supply more than 10% of it — an eightfold asymmetry that almost nobody outside the industry can explain.*
 
 ## Summary
 
-Utah is the production center of American direct selling. The
-[Kem C. Gardner Policy Institute](gardner-utah-direct-selling-analysis-2022.md) counted 91
-direct-selling companies and 66 dedicated suppliers headquartered in the state in 2020, with 11,678
-payroll jobs at the companies and 5,312 at the suppliers, at wages 18.4% above the average for other
-Utah industries. International sales of $6.3 billion from the ten companies that answered the study's
-survey amounted to 71.7% of Utah's non-gold commodity exports.
-
-The concentration is best stated as an asymmetry: Utah consumers accounted for
-[1.2% of U.S. direct-selling retail sales while Utah-headquartered companies supplied over 10.0% of it](gardner-utah-direct-selling-analysis-2022.md).
-This is an export industry that happens to sell through people's living rooms. It is also
-geographically tight — [55% of the state's 114 direct-selling establishments were in Utah County](gardner-utah-direct-selling-analysis-2022.md),
-which is why Provo and the Lehi–Pleasant Grove corridor, not Salt Lake City, are the center of
-gravity.
-
-The largest employers are private: [doTERRA and Young Living, both in Utah County, each provided more
-than 1,500 Utah jobs in 2020](gardner-utah-direct-selling-analysis-2022.md), ahead of
-[Nu Skin](nu-skin.md) in Provo and [USANA](usana.md) in Salt Lake City. doTERRA and Young Living
-disclose no audited financials, so nobody outside them can rank the cluster by sales — which means the
-two companies this wiki can read in detail are not the two biggest. The cluster is also older than its
-best-known firms: the earliest founding year in the Gardner Institute's table of large employers is
-**Nature's Sunshine, 1972**, twelve years before Nu Skin, and the table warns that some companies "had
-significant precursors before the founding year given."
-
-The two firms whose filings are ingested here are both shrinking. Nu Skin's revenue
-[fell 14% in 2025 to $1.49 billion, with Sales Leaders down 19%](nu-skin-10k-fy2025.md); USANA's core
-direct-selling segment [fell 6.9% to $793.3 million](usana-10k-fy2025.md), its consolidated growth
-coming entirely from an acquired direct-to-consumer vitamin brand. Whether that is two company
-stories or the leading edge of a cluster-wide contraction is the open question this page exists to
-frame — and two more Utah-headquartered SEC registrants, **Nature's Sunshine** (NATR) and
-**LifeVantage** (LFVN), file the disclosures that would test it and have not been read here.
-
+Utah is a global center of multi-level marketing, with a durable manufacturing and supplier cluster and participation touching roughly one in ten Utah adults. Its A-tier magnitude includes both exports and harm: company disclosures show most participants earn little or nothing while the model reproduces across firms and generations.
 ## Impact
 
 **Breadth is enormous and the sign is genuinely contested** — the case for ranking this cluster by the
@@ -214,3 +184,7 @@ Affiliate compensation summary and USANA's 2020 disclosure, of which only
 - [Nu Skin Enterprises](nu-skin.md)
 - [USANA Health Sciences](usana.md)
 - [Kem C. Gardner Policy Institute](kem-c-gardner-policy-institute.md)
+
+## Maintainer Notes
+
+Renamed 2026-08-13 from "Utah's Direct-Selling Industry" (`utah-direct-selling-industry`) to the more recognizable name. Old slug 308s.

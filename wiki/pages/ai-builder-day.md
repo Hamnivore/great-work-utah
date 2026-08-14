@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** AI hackathon, sponsor bounty tracks, beginner onboarding, team formation, Utah County
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
@@ -14,11 +15,7 @@
 
 ## Summary
 
-AI Builder Day is a recurring two-day AI hackathon in Lehi, Utah, organized by Jacob Wright (founder of MadeThis and of [JustBuild](justbuild.md)). It splits deliberately by day: **Friday to learn**, Saturday to build. The organizer bills it as "Utah's Biggest AI Event".
-
-Two editions are documented. **Part 1** drew "350+ builders" by the organizer's own count. **Part 2 was scheduled for August 14–15, 2026, in Lehi**, advertising "$35K+ in prizes & hiring opportunities" ([official website](ai-builder-day-official-website.md)).
-
-This page was written on 2026-08-11, before Part 2 took place. Everything below describes the format as advertised; whether the August 2026 edition ran as scheduled, and what came of it, is an open question at the bottom of this page.
+AI Builder Day is a recurring two-day AI hackathon in Lehi, Utah, organized by Jacob Wright (founder of MadeThis and of JustBuild). AI Builder Day provides a bounded benefit: Unusually wide, and deliberately so — the organizer names six audiences and states that no experience is required, with Friday "designed for complete beginners": - Engineers and builders, shipping against sponsor bounties.
 
 ## Who It's For
 

@@ -26,15 +26,7 @@
 
 ## Summary
 
-**Globus Relief** recovers surplus **medical supplies and equipment** from the U.S. healthcare
-system and distributes them to underserved clinics internationally
-([about page](globus-relief-official-website.md)). The IRS legal name is **Globous Relief Fund**
-(EIN **84-1369453**), a Salt Lake City **501(c)(3)** since **May 1998**, NTEE category
-**Nonmonetary Support** ([Form 990 record](globus-relief-form-990-record.md)).
-
-The organization's site claims **160+ countries served**, **850+ partner charities**, and **$1
-Billion** in cumulative **medical supplies given** since **1998**
-([about page](globus-relief-official-website.md)) — **self-reported lifetime marketing figures**.
+Globus Relief recovers surplus medical supplies and equipment from the US healthcare system and distributes them to underserved clinics internationally (about page). Primary-tier FY ending Dec. 2024 financials show $5.09M revenue and $9.85M expenses with $2.58M net assets (Form 990 record).
 
 ## Impact
 

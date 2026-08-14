@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D*
+**Founder-tier:** D
 **Focus:** 24-hour hackathon, skill-tiered divisions, St George tech community, sponsor-funded
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
@@ -14,22 +15,8 @@
 
 ## Summary
 
-Southern Utah Code Camp is a **24-hour build competition in St. George** — programming, design, and
-entrepreneurship compressed into a single overnight sprint, with teams of one to four building a web
-or mobile app from scratch. The 2026 edition runs **November 13–14 at Vasion, on Tech Ridge**, with a
-**Pre-Flight meeting on November 12** where rules are finalized and teams are formed
-([official website](southern-utah-code-camp-official-website.md)).
 
-It is **organized and run by Tech Threads, INC**, per the site's own footer.
-
-It matters because of **where** it is. Utah's technology events cluster hard along the Wasatch Front;
-this is a long-running one that does not, serving a corner of the state 300 miles from Salt Lake City
-that is otherwise thin on this kind of thing.
-
-Two design choices distinguish it from the usual hackathon. It sorts teams into **five divisions by
-the most experienced member**, so a professional cannot quietly carry a novice team to a win. And it
-is **funded entirely by sponsors** against a published, itemized budget — an unusual amount of
-transparency about what a community event actually costs.
+Southern Utah Code Camp is a 24-hour Saint George app-building competition ([official site](southern-utah-code-camp-official-website.md)). Experience-based divisions stop professionals from carrying novice teams, making it unusually credible for young local builders while keeping its impact event-scale.
 
 ## Who It's For
 

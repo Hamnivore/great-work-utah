@@ -19,9 +19,7 @@
 
 ## Summary
 
-Evans & Sutherland was founded in 1968 by David Evans and Ivan Sutherland, both professors in the University of Utah computer science department. It is widely remembered as the first commercial computer-graphics company and as a bridge between the university's graphics research and industrial real-time 3D systems.
-
-The company built vector graphics workstations and visual simulation systems at a time when no ordinary vendor could supply the hardware Utah researchers and defense customers needed. In the early 1970s, it acquired General Electric's flight-simulator division and became a major supplier of visual systems for military and commercial flight training.
+Evans & Sutherland was founded in 1968 by David Evans and Ivan Sutherland, both professors in the University of Utah computer science department. The University of Utah graphics program produced ideas, but ideas needed hardware.
 
 ## Impact
 

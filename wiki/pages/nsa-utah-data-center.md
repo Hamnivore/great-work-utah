@@ -13,16 +13,15 @@
 **Region:** Bluffdale
 **Website:** https://en.wikipedia.org/wiki/Utah_Data_Center
 **Careers:** https://www.intelligencecareers.gov/nsa
-**Updated:** 2026-08-11
+**Updated:** 2026-08-13
 **Needs-reviewed:** 2026-07-14
 **Pull:** *The largest publicly known data center in Utah, classified, contractor-staffed, and the site of documented mass surveillance infrastructure — included here because any honest map of Utah's technical landscape includes it.*
 **Relates:** cites [Official Website: NSA Utah Data Center](nsa-utah-data-center-official-website.md) · https://greatutah.work/pages/nsa-utah-data-center-official-website.md · https://en.wikipedia.org/wiki/Utah_Data_Center
 
 ## Summary
 
-The NSA Utah Data Center (officially the Intelligence Community Comprehensive National Cybersecurity Initiative Data Center) is a classified federal facility at Camp Williams in Bluffdale, Utah. It opened in 2014 after approximately $1.5 billion in construction and is reported to occupy roughly 1.5 million square feet with around 100,000 square feet of raised-floor computing space. Estimated power consumption is approximately 65 MW, with substantial water cooling drawing from the local aquifer. Its role, revealed in part through the 2013 Snowden disclosures, is mass storage and processing of SIGINT data collected by NSA's global collection apparatus.
 
-This page exists for two reasons: the facility has shaped Utah's data-center and cybersecurity infrastructure in ways that are still visible, and readers considering work in defense or intelligence should have an honest account of what this facility is before deciding.
+The NSA Utah Data Center at Camp Williams stores and processes classified intelligence-community data at exceptional scale. Snowden's disclosures made it the country's clearest physical symbol of mass surveillance: unquestionably consequential, with the sign of that consequence fiercely contested.
 
 ## What It Is
 
@@ -32,7 +31,7 @@ The engineering problems are genuinely hard: exabyte-scale storage at query-late
 
 ## Impact
 
-The facility's role in mass surveillance of communications metadata — documented in the Snowden disclosures and subsequent reporting — is the fact that most makes it unusual to include on a careers map. Mass surveillance programs have critics across the political spectrum, from civil liberties organizations to constitutional conservatives. Whether the facility's work is net-positive world-changing is contested; reasonable people disagree. This wiki notes the disagreement explicitly rather than papering over it. Anyone considering work here should engage the ethics question seriously before committing.
+The facility's role in mass surveillance of communications metadata — documented in the Snowden disclosures and subsequent reporting — is the fact that most makes it unusual to include on a careers map. Mass surveillance programs have critics across the political spectrum, from civil liberties organizations to constitutional conservatives. Whether the work is a public good is contested; anyone considering a job here should take that question seriously before committing.
 
 ## What They Need Now
 

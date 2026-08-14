@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** accounting, audit/assurance, tax, M&A due diligence, SEC reporting, advisory
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT; Lehi, UT
@@ -17,10 +18,7 @@
 
 ## Summary
 
-Tanner LLC is a Salt Lake City public accounting firm founded in 1940, with a second office in Lehi. Its public materials describe it as one of the largest locally owned ("independent") accounting firms in Utah, working across technology, manufacturing, healthcare, construction, and nonprofit sectors. For a founder, the useful framing is: the established local choice when you need real audit, tax, and transaction-grade accounting rather than just bookkeeping.
-
-Tanner is a firm, not a single accountant — so it belongs in `helpers/`, with the reader's next action being "I should talk to them about an audit, a tax position, or diligence."
-
+Tanner LLC is a Salt Lake City public accounting firm founded in 1940, with a second office in Lehi. For a founder, the useful framing is: the established local choice when you need real audit, tax, and transaction-grade accounting rather than just bookkeeping.
 ## Impact
 
 Accounting becomes a gating function at predictable moments: a venture round where the investor wants reviewed or audited financials, an acquisition where the buyer runs financial due diligence, an SEC-reporting obligation, or a tax structure that quietly costs the company money. A founder who waits until those moments to find a credible firm is negotiating from a weak position.

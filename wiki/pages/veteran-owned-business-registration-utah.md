@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,8 +14,7 @@
 
 ## Summary
 
-The Utah Veteran-Owned Business Registry is a statewide listing run by the Utah Department of Veterans and Military Affairs in partnership with the Veteran Business Resource Center (VBRC) at Salt Lake Community College. Veteran entrepreneurs register to gain public visibility as verified veteran-owned businesses; the registry checks veteran status and business licensing before listing.
-
+Utah's Veteran-Owned Business Registry verifies veteran status and business licensing, then publishes participating firms. Visibility can help individual owners, but a listing without evidence of contracts, revenue, or access gained is inert in an impact ranking.
 ## Who It's For
 
 Utah veteran business owners who want public discoverability as a verified veteran-owned enterprise and community support for their company.

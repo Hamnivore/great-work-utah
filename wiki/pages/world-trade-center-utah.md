@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,6 @@
 ## Summary
 
 World Trade Center Utah (WTC Utah) is a nonprofit affiliated with the World Trade Centers Association that helps Utah companies expand into global markets. Its official site offers business advisory, trade missions, events, grant support including STEP, and connections to an international trade network.
-
 ## Who It's For
 
 Utah companies — especially growth-stage operators — pursuing export sales, international partnerships, supply-chain optimization, or market-entry support.

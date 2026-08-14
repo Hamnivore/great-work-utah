@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** n/a
 **Focus:** international development, village-led poverty alleviation, rural expeditions, Utah nonprofit
 **Identifiers:** ein=74-2494806
 **Primary Location:** Draper, UT
@@ -21,13 +22,7 @@
 
 ## Summary
 
-CHOICE Humanitarian is the public brand of **Center For Humanitarian Outreach And Intercultural
-Exchange** (EIN **74-2494806**), a Utah nonprofit with IRS exemption since **1988** and a **Draper**
-office ([990 record](choice-humanitarian-form-990-record.md)). The homepage captured **2026-08-11**
-prominently states **"CHOICE Humanitarian Ceases U.S. Operations"**
-([official site](choice-humanitarian-official-website.md)).
-
-The lead placed the organization in **West Jordan**; primary records list **Draper** (392 E 12300 S).
+CHOICE Humanitarian is the public brand of Center For Humanitarian Outreach And Intercultural Exchange (EIN 74-2494806), a Utah nonprofit with IRS exemption since 1988 and a Draper office (990 record). The village-led development model in the lead matches how the organization describes itself — rural communities, poverty disruption, expedition travel — and how James B.
 
 ## Impact
 

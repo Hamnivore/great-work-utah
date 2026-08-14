@@ -22,11 +22,8 @@
 
 ## Summary
 
-NephroNovus is a therapeutics company listed on Altitude Lab's portfolio with an estimated **2023** founding year and **Alumni** status. The incubator describes it as exploring biochemical pathways and computational techniques to address **chronic kidney disease**.
 
-An Altitude Lab resident story (April 2025) by co-founder **Kevin Yang** adds narrative detail: NephroNovus grew from years of nephrology lab work with his father (scientific co-founder), aims at **renal fibrosis** as a driver of CKD progression, and blends biochemical discovery with computational methods. Kevin Yang handles business, strategy, and operations; his father leads the scientific foundation.
-
-**What is not publicly disclosed:** lead compounds, mechanism of action, animal data, patents, fundraising amounts, clinical timeline, or current team size beyond founder narrative. A company domain (`nephronovus.com`) shows branding only. Portfolio data now shows **Alumni**, which may mean residency ended; current operating intensity is unknown.
+NephroNovus is a kidney-fibrosis therapeutics venture listed only as an Altitude Lab alumnus. Reversing renal fibrosis would matter enormously, but the page has no verified program, candidate, financing, or results; an unsupported aspiration earns no impact credit.
 
 ## Impact
 

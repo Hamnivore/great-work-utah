@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** JavaScript development, technical meetups, volunteer developer community, annual conference
 **Primary Location:** Utah
 **Utah Location:** Lehi, UT; Salt Lake City, UT
@@ -15,10 +16,7 @@
 
 ## Summary
 
-UtahJS is a volunteer-run 501(c)(3) community for JavaScript developers in Utah, active since about 2012. It runs two standing monthly meetups — Lehi on the first Thursday, Salt Lake City on the third Tuesday — an annual single-track conference, and a Slack workspace.
-
-Its scale is unusually knowable for a volunteer group. The IRS exempt-organizations file records total revenue of **$80,913** and assets of **$33,649** for tax period 2024-12 ([IRS BMF, Utah extract](irs-bmf-utah-exempt-organizations.md)) — a real but small operation whose annual conference is most of its financial activity.
-
+UtahJS is a volunteer-run 501(c)(3) community for JavaScript developers in Utah, active since about 2012. The IRS exempt-organizations file records total revenue of **$80,913** and assets of **$33,649** for tax period 2024-12 ([IRS BMF, Utah extract](irs-bmf-utah-exempt-organizations.md)) — a real but small operation whose annual conference is most of its financial activity.
 ## Who It's For
 
 JavaScript and TypeScript developers in Utah, and people who want to become them. The community does not gate on seniority, and the meetup format suits both someone learning and someone who has shipped for a decade.

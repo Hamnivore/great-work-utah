@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Vernal, UT
 **Utah Location:** Vernal, UT
@@ -18,7 +19,6 @@
 ## Summary
 
 The Vernal Innovation Hub is a Uintah Basin coworking and incubator at 431 E Main St in Vernal. The official site offers flexible memberships, private offices, dedicated desks, conference rooms, a podcast/multimedia room, and business-development programming including the Rise & Thrive Business Speed Pitch competition.
-
 ## Who It's For
 
 Entrepreneurs, remote workers, and small businesses in the Uintah Basin (Daggett, Duchesne, and Uintah counties per Startup State coverage) who need affordable workspace, meeting rooms, or pitch-event exposure.

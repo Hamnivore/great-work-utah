@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Daggett County, UT
 **Utah Location:** Daggett County, UT
@@ -13,7 +14,7 @@
 
 ## Summary
 
-The Flaming Gorge Chamber of Commerce serves Daggett County and the Flaming Gorge tourism region. Verified on the official site (2026-07-14): the chamber acts as the regional marketing organization, sponsors year-round area events, and holds regular meetings for area business issues and community growth. Annual membership dues are published at $60, with free business listing on flaminggorgecountry.com and in the Flaming Gorge Adventure Guide.
+The Flaming Gorge Chamber of Commerce serves Daggett County and the Flaming Gorge tourism region. Flaming Gorge Chamber of Commerce provides a bounded benefit: Daggett County and Flaming Gorge-area businesses — especially tourism, recreation, and hospitality operators — seeking regional marketing exposure and event participation.
 
 ## Who It's For
 

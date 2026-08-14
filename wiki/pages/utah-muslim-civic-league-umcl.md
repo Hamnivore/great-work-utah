@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,12 +14,7 @@
 
 ## Summary
 
-The Utah Muslim Civic League (UMCL) describes its mission as educating and empowering Utah residents to participate in civic and nonpolitical action. Its website published voter-engagement, advocacy, refugee-resource, and community-participation material. Any direct business-incubation or funding services listed in Startup State remain unverified.
-
-The organization's domain, `utahmcl.com`, stopped resolving between July and August 2026: a DNS lookup against public resolvers returns NXDOMAIN, and the last archived capture is 2026-07-03. Whether UMCL has wound down, rebranded, or simply let the registration lapse is unknown, so the fields below describe the archived site, not a live one.
-
-Treat UMCL primarily as a civic and community organization unless staff confirm business programs.
-
+The Utah Muslim Civic League (UMCL) describes its mission as educating and empowering Utah residents to participate in civic and nonpolitical action. Treat UMCL primarily as a civic and community organization unless staff confirm business programs.
 ## Who It's For
 
 Utah Muslim residents and community leaders focused on civic participation, advocacy, and community resources. Startup State also tags multicultural entrepreneurs; verify whether UMCL offers business-specific programming beyond civic engagement.

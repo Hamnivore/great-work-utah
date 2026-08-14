@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,9 +14,7 @@
 
 ## Summary
 
-The Cynosure Group is an independent alternatives asset manager based in Salt Lake City. Its official site describes six business lines — private growth equity and credit, foundation/endowment portfolio management, integrated wealth management, a global equity long-short hedge fund, sports private equity, and real estate private equity — serving family offices, foundations, endowments, and like-minded institutional investors.
-
-For the wiki, Cynosure is an institutional capital and wealth platform, not a startup accelerator or founder-facing grant program.
+The Cynosure Group is an independent alternatives asset manager based in Salt Lake City. Cynosure has no estimable impact yet because is Cynosure listed in Startup State's founder resource filter — is there a Utah-facing community or portfolio program not visible on the public homepage.
 
 ## Who It's For
 

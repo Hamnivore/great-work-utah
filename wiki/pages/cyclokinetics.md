@@ -18,7 +18,7 @@
 
 ## Summary
 
-CycloKinetics is a Salt Lake City-based propellant technology company that launched publicly in May 2026 as a dedicated aerospace-and-defense spinout of [CleanJoule](cleanjoule.md), the Salt Lake City sustainable-aviation-fuel maker founded by Mukund Karanjikar. Where CleanJoule sells civil SAF (CycloSAF) and space propellant (SpaceSAF), CycloKinetics is branded specifically for military and defense customers, offering drop-in high-energy-density fuels — CycloJP (turbine/UAS aircraft), CycloRP (rocket fuel), and CK-10 (missile fuel) — built on the same Utah manufacturing facility, feedstock base, and roughly fifteen years of fuel R&D and military collaboration that also underlie CleanJoule.
+CycloKinetics is a Salt Lake City-based propellant technology company that launched publicly in May 2026 as a dedicated aerospace-and-defense spinout of CleanJoule. CycloKinetics provides a bounded benefit: If independently validated, higher-energy-density drop-in propellants would let existing military airframes, missiles, and launch vehicles fly farther, faster, or with more payload without.
 
 ## Impact
 

@@ -19,9 +19,7 @@
 
 ## Summary
 
-On May 10, 1869, the Central Pacific and Union Pacific railroads met at Promontory Summit in Utah Territory and completed the first transcontinental railroad. The ceremonial golden spike and the telegraphed word "done" turned a construction milestone into a national event. Behind the ceremony was a brutal six-year infrastructure project: tunneling through the Sierra Nevada, crossing desert basins, laying track through remote territory, and feeding two giant supply chains from opposite directions.
-
-For the wiki, the Golden Spike is less an invention than a hinge. It made Utah the site where a continental transport network visibly snapped into place.
+On May 10, 1869, the Central Pacific and Union Pacific railroads met at Promontory Summit in Utah Territory and completed the first transcontinental railroad. The railroad compressed cross-country travel from months to roughly a week and changed the economics of the American West.
 
 ## Impact
 

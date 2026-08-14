@@ -21,7 +21,7 @@
 
 ## Summary
 
-O.C. Tanner is a Salt Lake City company that designs, builds, and delivers employee recognition and workplace culture programs for large organizations worldwide. Founded in 1927 by Obert C. Tanner as a small recognition-jewelry manufacturer, the company has evolved into a full-spectrum culture-technology provider: its Culture Cloud platform lets managers and peers give recognition, run surveys, and coordinate milestone events at global scale. The company serves more than 6,000 clients, including many Fortune 500 and Global 1000 companies, across 180+ countries.
+O.C. Tanner is a Salt Lake City employee-recognition company that has carried a physical-awards business into workplace-culture software. Its most interesting claim is testable: whether Culture Cloud measurably improves retention and performance, making the company's research worth reading alongside its marketing.
 
 ## Impact
 

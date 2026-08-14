@@ -23,7 +23,7 @@
 
 ## Summary
 
-Health Catalyst is a healthcare data and analytics company founded in 2008 in Salt Lake City. Its core product, the Health Catalyst Data Operating System (DOS™), ingests, cleanses, and integrates clinical, financial, and operational data from disparate health-system sources. Applications span population health management, quality improvement, value-based care performance, and operational efficiency. The company went public on NASDAQ (HCAT) in 2019 and serves hundreds of hospitals and health systems across the United States.
+Health Catalyst is a healthcare data and analytics company founded in 2008 in Salt Lake City. Health Catalyst occupies a real niche: large health systems have vast data but lack the infrastructure to make it analytically useful.
 
 ## Impact
 

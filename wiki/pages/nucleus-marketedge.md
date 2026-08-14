@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** research commercialization, professors, PhDs, postdocs, market discovery
 **Domain:** capital-programs, computing
 **Primary Location:** Salt Lake City, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Nucleus MarketEdge is a virtual, cohort-based commercialization program for professors, PhDs, and postdocs in Utah higher education. It is useful when the work is still closer to research translation than company scaling: the researcher needs market clarity, startup formation context, investor feedback, and a peer structure.
+
+Nucleus MarketEdge is a virtual commercialization cohort for Utah professors, doctoral students, and postdocs. It can turn research toward customers, but cohort training is a local, replaceable intervention and dates must be checked live.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Davis County, UT; Morgan County, UT; Salt Lake County, UT; Tooele County, UT; Weber County, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-The Wasatch Front Regional Council (WFRC) is the metropolitan planning organization for Box Elder, Davis, Morgan, Salt Lake, Tooele, and Weber counties. Verified on wfrc.org: WFRC coordinates transportation planning, regional visioning (Wasatch Choice), economic development strategy, community development block grants, and technical assistance for Wasatch Front communities serving 2+ million residents.
+The Wasatch Front Regional Council plans transportation and growth across six northern Utah counties serving more than two million residents. Its leverage is coordination: mobility, land use, grants, and economic strategy fail when each fast-growing jurisdiction optimizes alone.
 
 ## Who It's For
 

@@ -17,9 +17,8 @@
 
 ## Summary
 
-Iris Biomedical is a Salt Lake City company that designs, prototypes, and manufactures custom neural interface hardware — implantable electrode arrays, flexible substrates, hermetic packages, and connectors — for academic research programs and early-stage commercial neurotech companies that do not have in-house manufacturing capability. The company appears to have been founded around 2014 by alumni of the University of Utah's neural engineering program.
 
-Iris occupies a specific and difficult-to-replace position in the BCI supply chain: specialized contract manufacturing for implantable neural hardware that requires medical-device quality systems (ISO 13485) and expertise in platinum-iridium electrodes, polyimide and parylene substrates, and biocompatible hermetic encapsulation. Most early-stage neural interface programs globally depend on a small number of shops like Iris, and the company's Utah location makes it part of one of the world's densest BCI-hardware clusters.
+Iris Biomedical designs and manufactures custom implantable electrodes, flexible substrates, hermetic packages, and connectors in Salt Lake City. Its impact is indirect but hard to fake: early neural-interface programs need specialized hardware shops before they can justify building medical-grade manufacturing themselves.
 
 ## Impact
 

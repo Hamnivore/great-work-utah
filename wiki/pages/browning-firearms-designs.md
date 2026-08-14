@@ -20,9 +20,7 @@
 
 ## Summary
 
-John Moses Browning was born in Ogden, Utah Territory, learned gunsmithing in his father's shop, and built an arms business with his brothers before becoming one of the most influential firearms designers in history. From that Utah base, he designed single-shot rifles, lever-action repeaters, pump rifles, semi-automatic shotguns, autoloading pistols, automatic rifles, and machine guns.
-
-The designs were manufactured and distributed by companies including Winchester, Colt, Remington, Fabrique Nationale, Savage, and wartime industrial partners. The lineage includes the Winchester Model 1885, Browning Auto-5 shotgun, Colt M1911 pistol, Browning Automatic Rifle, M1917 and M1919 machine guns, and the design path that led to the M2 .50-caliber machine gun.
+John Moses Browning was born in Ogden, Utah Territory, learned gunsmithing in his father's shop, and built an arms business with his brothers before becoming one of the most influential firearms designers in history. Browning helped make repeating, semi-automatic, and automatic firearms reliable enough for mass use.
 
 ## Impact
 

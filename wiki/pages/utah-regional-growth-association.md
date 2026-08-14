@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=92-1725446
 **Primary Location:** Salt Lake City, UT
@@ -14,8 +15,7 @@
 
 ## Summary
 
-The Utah Regional Growth Association (URGA) is a statewide nonprofit that helps Utah communities create and deploy strategies for economic growth and diversification. Verified on utrga.org: URGA invests in critical infrastructure (water, sewer), accelerates redevelopment areas for jobs and housing, and advocates for regionally focused, sustainable growth policy.
-
+The Utah Regional Growth Association helps communities pursue infrastructure, redevelopment, and economic-diversification projects. Water, sewer, jobs, and housing can unlock real local growth, but the organization's counterfactual is project-by-project and regional rather than a structural change to Utah's economy.
 ## Who It's For
 
 City and county leaders, regional planners, and economic development professionals working on infrastructure, redevelopment, and community growth — not individual founders directly, though their projects can benefit from URGA-backed area improvements.

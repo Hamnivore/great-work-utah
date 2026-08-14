@@ -24,9 +24,7 @@
 
 ## Summary
 
-ACT Aerospace is a Gunnison, Utah-based manufacturer of advanced composite structures for aerospace and defense programs. Founded in the late 1990s, the company engineers and fabricates tooling, bonded assemblies, and aerostructures — carbon fiber parts built to aerospace qualification standards. Its customers include prime contractors such as Boeing, Lockheed, Northrop, and Sierra Space, placing ACT in the mid-tier supplier layer between raw fiber producers (Hexcel, Toray) and the airframers who integrate finished structures onto vehicles.
-
-ACT matters to this wiki as one of the companies that makes Utah's unusual concentration of aerospace composites capability functional. That cluster — anchored partly by Hexcel's fiber presence and partly by Hill AFB's sustainment demand — depends on mid-sized fabricators like ACT to convert materials into flight-certified hardware.
+ACT Aerospace is a Gunnison, Utah-based manufacturer of advanced composite structures for aerospace and defense programs. The impact path is through supply chain. Aerospace-qualified composite structures end up on military aircraft, commercial airliners, launch vehicles, and satellites.
 
 ## Impact
 

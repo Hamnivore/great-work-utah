@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Funding
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Album VC is a Lehi-based venture capital firm founded in 2014 that invests in early-stage technology startups. Its official portfolio includes companies such as Podium, Degreed, Divvy, Neighbor, and Owlet.
+Album VC is a Lehi-based venture capital firm founded in 2014 that invests in early-stage technology startups. Album provides a bounded benefit: Early-stage technology founders seeking seed or early venture capital from a Utah firm with a broad software and tech-enabled portfolio.
 
 ## Who It's For
 

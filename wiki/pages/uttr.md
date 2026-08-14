@@ -18,10 +18,7 @@
 
 ## Summary
 
-The Utah Test and Training Range is a U.S. Air Force test range in western Utah, managed through Hill Air Force Base. It provides airspace, ground range, and instrumentation for testing weapons, aircraft, missiles, hypersonics, and space reentry vehicles across the largest overland restricted airspace in the continental United States — roughly 2.7 million acres of ground range plus about 19,000 square miles of restricted airspace.
-
-This is not a company or a typical startup career path. It is listed in ventures because it is enabling infrastructure that shapes what Utah-based defense and space companies can do locally. See also the deeper institutional history at [Utah Test and Training Range](utah-test-and-training-range.md).
-
+The Utah Test and Training Range supports long-track weapons tests, hypersonic recovery, and commercial spacecraft returns with controlled airspace, telemetry, and recovery crews. Few substitutes offer its overland scale, so losing it would materially constrain national defense and space testing ([deeper history](utah-test-and-training-range.md)).
 ## Impact
 
 Testing is the gate between "we built it" and "it works." UTTR is often the only realistic option for U.S. programs requiring long overland tracks or large-footprint recovery zones — full-length cruise-missile trajectories, hypersonic glide-body recovery, ICBM-related tests, and spacecraft returns from orbit.

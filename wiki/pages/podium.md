@@ -24,7 +24,7 @@
 
 ## Summary
 
-Podium is a Lehi, Utah cloud-software company serving local businesses. Its current captured homepage positions the product as an AI employee that manages customer journeys and lead response. [Official Website: Podium](podium-official-website.md) Founding, financing, valuation, and older product-module claims require separate captured sources.
+Podium is a Lehi, Utah cloud-software company serving local businesses ([Official Website: Podium](podium-official-website.md)). Local business software is a large, durable market — tens of millions of small and mid-sized businesses in the United States still manage customer relationships through phone calls, paper, and ad-hoc tools.
 
 ## Impact
 

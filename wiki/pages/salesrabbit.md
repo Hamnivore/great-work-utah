@@ -18,7 +18,8 @@
 
 ## Summary
 
-SalesRabbit builds field-sales software for teams that sell door to door or across geographic territories. Its platform supports canvassing, lead and territory management, digital contracts, rep performance and integrations for industries including solar, roofing, pest control and home services.
+
+SalesRabbit builds territory, lead, contract, and performance software for door-to-door field-sales teams. It can make distributed sales operations more efficient at real scale, but the category is crowded and the social value depends on what those teams sell.
 
 ## Impact
 

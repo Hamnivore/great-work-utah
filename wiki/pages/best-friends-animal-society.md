@@ -24,19 +24,8 @@
 
 ## Summary
 
-Best Friends Animal Society is a national animal-welfare nonprofit headquartered at its **Best
-Friends Animal Sanctuary** near Kanab in Kane County, Utah. On its own account it operates the
-**nation's largest sanctuary for homeless animals** ([about page](best-friends-animal-society-official-website.md)),
-holding **up to 1,600** dogs, cats, birds, bunnies, horses, pigs, and other animals on any given ([sanctuary page](best-friends-sanctuary-page.md))
-day across **nearly 5,800 acres** in Angel Canyon ([sanctuary page](best-friends-sanctuary-page.md)).
 
-Beyond the canyon, Best Friends reports a collaborative **national network of more than 6,000 ([about page](best-friends-animal-society-official-website.md))
-shelters and rescue groups** ([about page](best-friends-animal-society-official-website.md)) and
-campaigns for **no-kill nationwide**, including a self-declared goal set in **2016 to reach
-no-kill by 2025** ([no-kill page](best-friends-no-kill-goal-page.md)). The organization also
-runs visitor-facing **lodging and food service** near the sanctuary — a café at the Visitor Center,
-on-site cottages/cabins/RV sites, and the **Best Friends Roadhouse and Mercantile** in Kanab town
-([sanctuary page](best-friends-sanctuary-page.md)).
+Best Friends Animal Society operates a 5,800-acre sanctuary near Kanab and leads a national campaign to end shelter killing. The sanctuary created durable animal-care infrastructure, while its no-kill network changed practices across shelters rather than helping only the animals housed in Utah.
 
 ## Impact
 

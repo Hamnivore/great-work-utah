@@ -16,9 +16,8 @@
 
 ## Summary
 
-Karl Sun is the co-founder and CEO of Lucid Software, the South Jordan, Utah company behind Lucidchart and Lucidspark. He co-founded Lucid with Ben Dilts in 2010 after both graduated from Brigham Young University. The captured official biography does not support figures for users, fundraising, valuation, or customer penetration.
 
-Sun's background is notable for its unusual path: before founding Lucid, he worked at Google in early career roles. He returned to Utah, co-founded Lucid with a BYU classmate, and scaled it without relocating to the Bay Area — a decision that helped cement Silicon Slopes as a legitimate home for enterprise SaaS.
+Karl Sun co-founded and leads [Lucid Software](lucid-software.md), maker of Lucidchart and Lucidspark. Growing a Utah startup into a widely used enterprise collaboration company is substantial, but diagramming and whiteboarding have close global substitutes.
 
 ## Impact
 

@@ -19,9 +19,8 @@
 
 ## Summary
 
-Music AI (trading as Moises) builds AI-powered tools that empower musicians, producers, and creators — starting with source separation (isolating vocals, instruments, and stems from mixed audio) and expanding into licensed voice cloning, music generation, and collaboration infrastructure. The flagship Moises app has 50 million registered users and won Apple's iPad App of the Year award in 2024, reflecting genuine product-market fit among practicing musicians.
 
-The more interesting long-term question is the ethical framing: Music AI is building infrastructure for artists to monetize their voice and musical style in the AI era, rather than having it scraped and replicated without consent. Artists have invested in the company alongside institutional investors, which creates alignment that pure-tech music-AI players lack.
+Music AI, trading as Moises, builds source-separation, licensed voice-cloning, generation, and collaboration tools for musicians and producers. The big bet is its royalty-and-consent infrastructure becoming a standard; if separation remains the core, this is a strong but bounded creative utility.
 
 ## Impact
 

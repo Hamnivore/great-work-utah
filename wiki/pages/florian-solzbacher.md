@@ -12,7 +12,8 @@
 
 ## Summary
 
-Florian Solzbacher co-founded [Blackrock Neurotech](blackrock-neurotech.md) in 2008 with Marcus Gerhardt as a University of Utah spinout commercializing the Utah Electrode Array — the microelectrode platform invented by Richard Normann that is the most-implanted and most-studied intracortical brain-computer-interface electrode in history, with documented use in dozens of patients across more than 30,000 cumulative implantation days. In April 2024, the crypto firm Tether took a $200 million majority strategic stake in Blackrock through its Tether Evo arm.
+
+Florian Solzbacher co-founded Blackrock Neurotech to commercialize the Utah Electrode Array when brain-computer interfaces barely existed as a market. Sustaining that platform helped make high-channel human neural recording available worldwide, structurally advancing an entire research sector.
 
 ## Impact
 

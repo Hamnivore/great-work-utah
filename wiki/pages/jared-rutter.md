@@ -13,7 +13,8 @@
 
 ## Summary
 
-Jared Rutter is a professor in the Department of Biochemistry at the University of Utah and co-founder of [Atavistik Bio](atavistik-bio.md), a clinical-stage biotechnology company commercializing allosteric drug discovery based on metabolite-protein interaction mapping. He co-founded Atavistik alongside Ralph DeBerardinis. Rutter remains on the University of Utah faculty while the company has grown into a Cambridge, Massachusetts-headquartered operation.
+
+University of Utah biochemist Jared Rutter co-developed a proteome-scale map showing that metabolites regulate far more proteins than scientists knew, opening new drug targets. He then co-founded [Atavistik Bio](atavistik-bio.md) to turn that structural advance into medicines, though broad outside adoption remains unproven.
 
 ## Impact
 

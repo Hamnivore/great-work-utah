@@ -24,9 +24,7 @@
 
 ## Summary
 
-BioFire Diagnostics is a Salt Lake City company that makes syndromic infectious-disease tests — single cartridges that run multiplex PCR against roughly 20 or more pathogens at once and return results in about an hour. Its FilmArray system and panel menu (respiratory, gastrointestinal, blood culture identification, meningitis/encephalitis, pneumonia, and a newer Global Fever Panel) are used widely in US hospital labs. The company's own product labeling lists BioFire Diagnostics, LLC at 515 Colorow Drive, Salt Lake City, and identifies it as part of French clinical-diagnostics group bioMérieux. [Source: BioFire Diagnostics Official Website and Product Labeling](biofire-diagnostics-official-website.md)
-
-For the Great Work Utah wiki, BioFire is one of the clearest examples of globally deployed, clinically consequential medical technology that is designed and manufactured in Utah but rarely described as "tech."
+BioFire Diagnostics is a Salt Lake City company that makes syndromic infectious-disease tests — single cartridges that run multiplex PCR against roughly 20 or more pathogens at once and return results in about an hour. Traditional infectious-disease workups are slow and serial: culture a sample, wait a day or more, then order targeted PCR if culture fails.
 
 ## Impact
 

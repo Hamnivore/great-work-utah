@@ -20,10 +20,7 @@
 
 ## Summary
 
-Utah FORGE, the Frontier Observatory for Research in Geothermal Energy, is a dedicated enhanced-geothermal field laboratory near Milford. The U.S. Department of Energy selected the site so researchers from the University of Utah, national labs, and private companies could test how to drill into hot dry rock, stimulate fractures, circulate water, and measure whether an engineered underground reservoir can produce useful heat.
-
-The point is not one commercial plant. FORGE is research infrastructure: wells, instrumentation, seismic monitoring, stimulation experiments, tracer tests, drilling data, and reservoir models assembled so the whole geothermal field can learn faster.
-
+Utah FORGE is the federal enhanced-geothermal field laboratory near Milford, publishing real-world drilling, stimulation, circulation, and reservoir data. If shared experiments make engineered geothermal repeatable beyond rare natural reservoirs, this Utah test site could unlock firm clean power worldwide—a credible S-scale bet.
 ## Impact
 
 Geothermal is one of the rare clean-energy resources that can, in principle, provide firm around-the-clock power. Conventional geothermal depends on naturally hot water in limited places. Enhanced geothermal systems try to make the resource broader by engineering permeability in hot rock where usable fluid pathways do not already exist.

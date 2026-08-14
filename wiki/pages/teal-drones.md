@@ -24,10 +24,7 @@
 
 ## Summary
 
-Teal Drones is a Salt Lake City company, founded in 2015 by George Matus, that builds small unmanned aircraft systems (sUAS) for U.S. defense customers. Its flagship Black Widow is a hand-launched quadcopter for short-range reconnaissance. Teal is a wholly owned subsidiary of Red Cat Holdings (Nasdaq: RCAT); Matus is Red Cat's CTO. In November 2024 Red Cat announced that Teal's Black Widow was selected as the winner of the U.S. Army's Short Range Reconnaissance (SRR) Tranche 2 Program of Record. [Official Website: Teal Drones](teal-drones-official-website.md)
-
-For the wiki, Teal matters because a Program of Record is the strongest possible signal of defense traction for a small drone, and because Teal anchors Utah's position in the national effort to build a domestic, China-free sUAS supply chain.
-
+Teal Drones is a Salt Lake City company, founded in 2015 by George Matus, that builds small unmanned aircraft systems for U.S. defense customers. Its Program of Record is unusually strong evidence of defense traction and makes Teal an anchor of the national push for a domestic, China-free drone supply chain ([official website](teal-drones-official-website.md)).
 ## Impact
 
 A Program of Record means Black Widow is intended to be an Army-wide standard for its mission, not a pilot — public reporting describes an acquisition objective of roughly 5,880 systems over five years, with an estimated contract value exceeding $250M. That scale, if it materializes through funded tranches, would put a Utah-built drone in the hands of frontline reconnaissance units across the force.

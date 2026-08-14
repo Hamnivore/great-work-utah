@@ -19,11 +19,7 @@
 
 ## Summary
 
-Rebel Medicine is a Salt Lake City biotechnology company developing non-opioid pain therapeutics built on proprietary extended-release injectable delivery systems. Its lead candidate, Alevatrix™, is a long-acting formulation of bupivacaine designed to release drug at the surgical site for up to 72 hours and reduce or eliminate postoperative opioid prescriptions.
-
-The company closed a $6 million Series A in June 2025 (led by Crocker Ventures, with Utah Innovation Fund and other angels participating) and opened an IND with the FDA for Alevatrix™. Proceeds are intended to fund a first-in-human, randomized, dose-escalation, active-controlled Phase 2 trial in bunionectomy patients. Brett Davis, PhD, is co-founder and CEO.
-
-This is a reformulation play on a validated local anesthetic — real opioid-reduction potential, but not a novel mechanism. Differentiation against Pacira's FDA-approved liposomal bupivacaine (Exparel) is the central clinical and commercial question.
+Rebel Medicine is a Salt Lake City biotechnology company developing non-opioid pain therapeutics built on proprietary extended-release injectable delivery systems. Public-health leverage is meaningful even if uptake is partial: every avoided opioid prescription reduces downstream addiction risk.
 
 ## Impact
 

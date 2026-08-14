@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-Peterson Ventures is a Utah-based seed-stage venture capital firm focused on helping founders build businesses from the seed stage. Its official site highlights a founder-first posture and a portfolio spanning consumer, fintech, health, and software companies including Allbirds, Ethos, and Lucid Software.
+Peterson Ventures is a Utah-based seed-stage venture capital firm focused on helping founders build businesses from the seed stage. Seed-stage founders building software, digital commerce, fintech, or health-related startups who want a Utah-rooted seed VC partner.
 
 ## Who It's For
 

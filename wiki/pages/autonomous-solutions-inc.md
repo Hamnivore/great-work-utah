@@ -23,9 +23,7 @@
 
 ## Summary
 
-Autonomous Solutions, Inc. (ASI) is a Mendon, Utah company that automates off-road industrial vehicles through an OEM-agnostic software platform called Mobius. Its captured homepage says Mobius works with 100+ vehicle types; the earlier founding-date and longevity claims are not present in the capture ([official website](autonomous-solutions-inc-official-website.md)).
-
-For the wiki, ASI is one of Utah's most durable robotics companies: real deployments at industrial scale, a credible exit history (selling its mining business unit to Epiroc), and recent expansion including a Lehi office, SoftBank-backed construction automation, and a 2026 acquisition of Scythe Robotics.
+Autonomous Solutions, Inc. Off-road autonomy is a larger and less-covered economic story than passenger-car autonomy.
 
 ## Impact
 

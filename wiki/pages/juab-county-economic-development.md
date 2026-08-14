@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Nephi, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Juab County Economic Development is the county government's business-facing entry point for Nephi and Juab County. Verified on `juabcounty.gov` (2026-07-14): the county site publishes business licenses, building permits, and property-tax tools, but its Business section currently says "More Information Coming Soon." Utah GOED's statewide directory lists Juab County Economic Development Agency with director Brent Boswell at 160 North Main Street, Nephi — use that contact path for relocation, expansion, or incentive questions until the county business page is populated.
+
+Juab County Economic Development is the county government's business doorway for Nephi and surrounding communities. It can connect a local employer to permits and state partners, but the public business page is too thin to show stronger leverage.
 
 ## Who It's For
 

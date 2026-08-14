@@ -4,6 +4,7 @@
 **Status:** Stub
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide
@@ -17,8 +18,8 @@
 
 ## Summary
 
-iMpact Utah appears in the Startup State import as a manufacturing-support nonprofit (operations, training, automation, cybersecurity). As of 2026-07-14 the official domain fails TLS (`ERR_SSL_PROTOCOL_ERROR`) in both curl and headless Chrome. A December 2024 Wayback snapshot still shows Utah MEP Network framing — for live recommendations prefer [Utah MEP](utah-mep.md) until impactutah.org is restored or a successor URL is confirmed.
 
+iMpact Utah appears in Startup State as a manufacturing-support nonprofit, but its official site is unusable and its relationship to Utah MEP is unclear ([Utah MEP](utah-mep.md)). Without a verified active program or independent outcomes, the listing itself has no demonstrated impact.
 
 ## Who It's For
 

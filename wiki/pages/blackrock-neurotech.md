@@ -24,9 +24,8 @@
 
 ## Summary
 
-Blackrock Neurotech is a Salt Lake City company that manufactures and commercializes the Utah Electrode Array, a microelectrode platform invented at the University of Utah by Richard Normann. Public materials describe the Utah Array as the most-implanted and most-studied intracortical brain-computer-interface electrode in history, with documented use in dozens of patients across more than 30,000 cumulative implantation days. The company was founded in 2008 by Florian Solzbacher and Marcus Gerhardt as a University of Utah spinout. In April 2024, the crypto firm Tether took a $200 million majority strategic stake through its Tether Evo venture arm.
 
-For the Great Work Utah wiki, Blackrock Neurotech is the cleanest example of a long-horizon Utah deep-tech bet: hardware-first, biology-aware, decades old, and at the substrate of an entire emerging field.
+Salt Lake City-based Blackrock Neurotech commercialized the Utah Electrode Array and is developing brain-computer systems for paralysis and locked-in syndrome. Restoring communication and movement from neural signals would reset a global medical frontier; decades of human research make that more than a speculative S-scale bet.
 
 ## Impact
 

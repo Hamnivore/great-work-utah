@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Moab, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-The Moab Area Chamber of Commerce connects and empowers Grand County businesses in a tourism-driven economy. Verified on the official site (2026-07-14): members access a business directory, events calendar, join flow, and chamber advocacy with city and county officials. The chamber describes itself as a one-stop shop for Moab businesses and champions collaboration across local employers.
+
+The Moab Area Chamber of Commerce connects and promotes Grand County businesses in a tourism-heavy economy. That local network can improve visibility and coordination, but it does not change the region's underlying economic structure.
 
 ## Who It's For
 

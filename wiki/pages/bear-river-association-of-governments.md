@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Logan, UT
 **Utah Location:** Box Elder County, UT; Cache County, UT; Rich County, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-The Bear River Association of Governments (BRAG) is a regional council serving Box Elder, Cache, and Rich counties. Verified on brag.utah.gov: BRAG provides community and economic development technical assistance to local governments, helps secure funding for public infrastructure, and runs housing, workforce, and human-services programs across northern Utah.
+The Bear River Association of Governments (BRAG) is a regional council serving Box Elder, Cache, and Rich counties. Bear River Association of Governments provides a bounded benefit: City and county officials in the Bear River region; businesses and developers needing CDBG or infrastructure planning support; low-income households and seniors accessing BRAG human-services programs — founders may.
 
 ## Who It's For
 

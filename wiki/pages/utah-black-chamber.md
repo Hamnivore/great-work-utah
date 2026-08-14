@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -17,8 +18,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Utah Black Chamber supports the prosperity of Black businesses and advocates for economic diversity and inclusion across Utah. Public pages emphasize strategic partnerships for education, opportunity, and capital access, plus member events, webinars, sponsorships, and professional upskilling.
-
+The Utah Black Chamber advocates for Black-owned businesses and connects members to education, capital, partners, and professional networks. That trusted bridge can counter exclusion in mainstream business channels, but the documented impact remains bounded to members and participating firms.
 ## Who It's For
 
 Black-owned businesses and professionals in Utah, plus allies and corporate partners seeking inclusive business community programming.

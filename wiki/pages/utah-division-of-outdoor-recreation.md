@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,6 @@
 ## Summary
 
 The Utah Division of Outdoor Recreation (UDOR), within the Department of Natural Resources, promotes healthy outdoor lifestyles and stewards programs that support Utah's outdoor economy. Established by the Legislature in 2022, it combines the former Office of Outdoor Recreation with boating, OHV, trail, grant, and business-recruitment functions.
-
 ## Who It's For
 
 Utah outdoor-recreation businesses, trail and infrastructure builders, tourism operators, OHV/boating stakeholders, and communities applying for recreation grants.

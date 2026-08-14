@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,6 @@
 ## Summary
 
 The Women Tech Council (WTC) is a national organization with deep Utah roots that amplifies the economic impact of women in technology through programs spanning high school through executive leadership. Its site describes mentoring, visibility, networking, research, and signature initiatives including SheTech and the Women Tech Awards.
-
 ## Who It's For
 
 Women and allies in Utah tech — from high-school students exploring STEM through executives and founders building inclusive companies.

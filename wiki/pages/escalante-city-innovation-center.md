@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Escalante, UT
 **Utah Location:** Escalante, UT
@@ -17,9 +18,7 @@
 
 ## Summary
 
-The Escalante City Innovation Center is listed in Startup State as a furnished coworking and meeting facility for remote workers in rural Garfield County, with private offices, dual monitors, docking stations, and flexible daily/weekly/monthly workspace options.
-
-The city's official website redirected to a domain parking page during verification (July 2026), so current amenities, rates, and booking flows are unverified. Contact city staff before recommending.
+The Escalante City Innovation Center is listed in Startup State as a furnished coworking and meeting facility for remote workers in rural Garfield County, with private offices, dual monitors, docking stations. Escalante City Innovation Center has no estimable impact yet because is the correct live city website and current Innovation Center contact.
 
 ## Who It's For
 

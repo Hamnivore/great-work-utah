@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Utah
@@ -14,9 +15,8 @@
 
 ## Summary
 
-LiaLaunch Ventures is a Utah-based strategic advisory and investment fund focused on women entrepreneurs. Verified on the official site (2026-07-14): it offers three pathways—strategic advisory (coaching and hands-on support, sometimes for equity), early-stage investment, and pitch competitions with coaching and judging panels.
 
-The site emphasizes ideation-through-scale support rather than a single open-application accelerator format.
+LiaLaunch Ventures advises and invests in Utah women entrepreneurs through pitch and strategy support. That access can matter to participants, but the public record does not show enough capital or outcomes to claim influence beyond the room.
 
 ## Who It's For
 

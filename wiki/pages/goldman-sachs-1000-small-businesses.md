@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** B
 **Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Verified on 10ksbapply.com (2026-07-14): Goldman Sachs 10,000 Small Businesses is a multi-week business education program with a Babson College-designed curriculum, peer learning, and one-on-one business advising. The Goldman Sachs Foundation funds the program at $0 cost to participants. Public outcome stats report that most alumni increase revenue and many create jobs within 18–30 months of graduation.
+Goldman Sachs 10,000 Small Businesses is a multi-week business education program with a Babson College-designed curriculum, peer learning, and one-on-one business advising. Goldman Sachs 1000 Small businesses provides a bounded benefit: Existing small business owners with operating businesses who want structured growth education, peer network access, and help building a growth plan — not.
 
 ## Who It's For
 

@@ -6,8 +6,8 @@ Generated from `**Roles:**` metadata on pages with current-needs assessments. Th
 - [Data scientists](role-data-science.md) · `https://greatutah.work/views/role-data-science.md` — 44 organizations
 - [Biologists / life scientists](role-biology-life-sciences.md) · `https://greatutah.work/views/role-biology-life-sciences.md` — 26 organizations
 - [Physical scientists](role-physical-sciences.md) · `https://greatutah.work/views/role-physical-sciences.md` — 40 organizations
-- [Hardware engineers](role-hardware-engineering.md) · `https://greatutah.work/views/role-hardware-engineering.md` — 52 organizations
-- [Manufacturing / operations](role-manufacturing-operations.md) · `https://greatutah.work/views/role-manufacturing-operations.md` — 59 organizations
+- [Hardware engineers](role-hardware-engineering.md) · `https://greatutah.work/views/role-hardware-engineering.md` — 53 organizations
+- [Manufacturing / operations](role-manufacturing-operations.md) · `https://greatutah.work/views/role-manufacturing-operations.md` — 60 organizations
 - [Clinical / regulatory](role-clinical-regulatory.md) · `https://greatutah.work/views/role-clinical-regulatory.md` — 45 organizations
 - [Product designers](role-product-design.md) · `https://greatutah.work/views/role-product-design.md` — 32 organizations
 - [Sales / business development](role-sales-business-development.md) · `https://greatutah.work/views/role-sales-business-development.md` — 64 organizations

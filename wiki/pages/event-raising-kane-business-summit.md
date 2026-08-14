@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Kanab, UT
 **Utah Location:** Kane County, UT
@@ -13,7 +14,7 @@
 
 ## Summary
 
-The Raising Kane Business Summit is Kane County's annual business gathering in Kanab, Utah, bringing together local owners, leaders, and exhibitors to support rural economic development through keynotes, county updates, and networking.
+The Raising Kane Business Summit is Kane County's annual business gathering in Kanab, Utah, bringing together local owners, leaders, and exhibitors to support rural economic development through keynotes. EVENT: Raising Kane Business Summit provides a bounded benefit: Rural Utah business owners, operators, and community leaders in Kane County and surrounding southern Utah, especially those in.
 
 ## Who It's For
 

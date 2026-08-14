@@ -26,9 +26,8 @@
 
 ## Summary
 
-Lucid Software is a Utah-based B2B SaaS company behind Lucidchart, a cloud diagramming application, and Lucidspark, a virtual whiteboard for team collaboration. Founded in 2010, the platform enables users to create flowcharts, org charts, network diagrams, wireframes, and other visual documentation collaboratively in real time.
 
-Lucid is widely described as serving a large global user base and many major enterprises, and as one of Utah's most valuable private technology companies. Those characterizations are not repeated as figures here: the captured official source publishes no user count, financing total, valuation, or customer-penetration number.
+Utah-based Lucid Software makes Lucidchart diagramming and Lucidspark virtual whiteboards. It helped turn visual collaboration from specialist software into an everyday enterprise work surface, but Microsoft, Miro, and other close substitutes bound its impact.
 
 ## Impact
 

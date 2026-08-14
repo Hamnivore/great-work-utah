@@ -280,7 +280,7 @@ Skin FY2025](nu-skin-10k-fy2025.md)), which show sharp declines from the 2020 pe
 
 ## Related Pages
 
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 - [USANA Health Sciences FY2025 Form 10-K](usana-10k-fy2025.md)
 - [Nu Skin Enterprises FY2025 Form 10-K](nu-skin-10k-fy2025.md)
 - [doTERRA Opportunity and Earnings Disclosure](doterra-earnings-disclosure-2026.md)

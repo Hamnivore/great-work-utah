@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-MountainWest Capital Network (MWCN) is Utah's long-running independent business network celebrating growth-company achievement and connecting operators, investors, and service providers. Signature events include Utah 100, Deal Flow, Entrepreneur of the Year, business forums, and a podcast.
+MountainWest Capital Network (MWCN) is Utah's long-running independent business network celebrating growth-company achievement and connecting operators, investors, and service providers. EVENT: Mountain West Capital Network provides a bounded benefit: Utah growth-company founders, investors, advisors, and service providers — especially operators at emerging through enterprise stages who value.
 
 ## Who It's For
 

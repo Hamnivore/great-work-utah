@@ -26,17 +26,8 @@
 
 ## Summary
 
-The **Huntsman World Senior Games** is a two-week October multi-sport competition in **St. George,
-Washington County**, Utah, for athletes **50 and older**. The organization's own site calls it
-**"the largest annual multi-sport event in the world"** for that age group, with **40+ sports** and
-participants from **87 nations since 1987**
-([official site](huntsman-world-senior-games-official-website.md)).
 
-The legal entity is **World Senior Games Inc** (EIN **87-0447330**), a St. George **501(c)(3)** tax
-exempt since **January 1987**
-([Form 990 record](world-senior-games-form-990-record.md)). The event began as the **World Senior
-Games**, founded by **Daisy and John H. Morgan, Jr.**; **Jon M. Huntsman** became principal sponsor
-in **1989** ([official site](huntsman-world-senior-games-official-website.md)).
+The Huntsman World Senior Games is a two-week Saint George competition for athletes 50 and older ([official site](huntsman-world-senior-games-official-website.md)). More than 40 sports plus health screenings make it meaningful active-aging infrastructure, but the effect remains local to participants and hosts.
 
 ## Impact
 

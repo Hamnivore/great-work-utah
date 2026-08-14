@@ -38,7 +38,6 @@ const TYPE_PLURAL = {
 }
 
 const NAV = [
-  ['/v/tier-list', 'tier list'],
   ['/search', 'search'],
   ['/v/by-role', 'looking for work'],
   ['/map', 'map'],
@@ -230,23 +229,44 @@ ${bodyHtml}
  *  them as plain links would ship real 404s, so they become red links instead:
  *  same text, routed to /contribute, marked as a gap. A dead end turns into the
  *  lowest rung of the contribution ladder. */
-const EXISTING = new Set(
-  fs
-    .readdirSync(path.join(WIKI, 'pages'))
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => f.replace(/\.md$/, '')),
-)
+function existingPages() {
+  return new Set(
+    fs
+      .readdirSync(path.join(WIKI, 'pages'))
+      .filter((f) => f.endsWith('.md'))
+      .map((f) => f.replace(/\.md$/, '')),
+  )
+}
 
 function markWantedLinks(html) {
+  const existing = existingPages()
   return html.replace(/<a href="\/p\/([a-z0-9-]+)">/g, (whole, slug) =>
-    EXISTING.has(slug)
+    existing.has(slug)
       ? whole
       : `<a class="wanted" href="/contribute?wanted=${slug}" title="No page yet — this is a gap you could fill">`,
   )
 }
 
 const CONF_RANK = { High: 'conf-high', Medium: '', Low: 'conf-low' }
-const HIDDEN_META = new Set(['Pull'])
+
+// Activity (wiki/meta/activity.md) is the one attribute about the *subject* rather than the page, so
+// it is the one a human needs before reading a word of the prose — "is this a going concern or a
+// monument?" It gets a colored badge with its own dot rather than another neutral pill, because
+// scanning a list of pages for the live ones is the whole job it was added to do. The value itself
+// is then hidden from the metadata table below, where it would just be saying the same thing twice.
+const ACTIVITY_RANK = {
+  active: 'act-active',
+  dormant: 'act-dormant',
+  concluded: 'act-concluded',
+  unknown: 'act-unknown',
+}
+const ACTIVITY_TITLE = {
+  active: 'Someone found a dated public artifact from the last 18 months showing this work happening',
+  dormant: 'Real work, but nothing found in the public record recently. May be alive and quiet',
+  concluded: 'The doing is finished — dissolved, ended, or completed. Not a judgment of its worth',
+  unknown: 'Checked, and the public record could not settle it',
+}
+const HIDDEN_META = new Set(['Pull', 'Activity'])
 
 /** Each of the three document kinds has a different claim to authority: a corpus
  *  page is an AI-written draft you should verify, a view is compiled from the
@@ -282,9 +302,15 @@ function renderDoc({ kind, name, raw, rawUrl, url }) {
   // Trust badges are a corpus-page affordance. Generated views and schema docs
   // carry a Status too, but it means something different there, so don't imply
   // it is a claim about evidence.
+  const activity = get('Activity')
+
   const badges = []
   if (kind === 'pages') {
     if (type) badges.push(`<span class="badge">${esc(type)}</span>`)
+    if (ACTIVITY_RANK[activity])
+      badges.push(
+        `<span class="badge ${ACTIVITY_RANK[activity]}" title="${esc(ACTIVITY_TITLE[activity])}">${esc(activity)}</span>`,
+      )
     if (confidence)
       badges.push(
         `<span class="badge${CONF_RANK[confidence] ? ` ${CONF_RANK[confidence]}` : ''}">confidence: ${esc(confidence)}</span>`,
@@ -547,17 +573,11 @@ function readDir(dir) {
  * while the published markdown, text, and HTML always carry build-current
  * values. */
 export function expandBuildFacts(raw, buildDate = today()) {
-  const pages = readDir('pages')
-  const pageBodies = pages.map((file) => fs.readFileSync(path.join(WIKI, 'pages', file), 'utf8'))
   const facts = {
     BUILD_DATE: buildDate,
-    PAGE_COUNT: pages.length,
-    DOMAIN_COUNT: pageBodies.filter((body) => /^\*\*Domain:\*\*/m.test(body)).length,
-    REGION_COUNT: pageBodies.filter((body) => /^\*\*Region:\*\*/m.test(body)).length,
+    PAGE_COUNT: readDir('pages').length,
   }
-  return raw.replace(/\{\{(BUILD_DATE|PAGE_COUNT|DOMAIN_COUNT|REGION_COUNT)\}\}/g, (_, key) =>
-    String(facts[key]),
-  )
+  return raw.replace(/\{\{(BUILD_DATE|PAGE_COUNT)\}\}/g, (_, key) => String(facts[key]))
 }
 
 /** Render one wiki document to a complete HTML page. Exported so `npm run dev`

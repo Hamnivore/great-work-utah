@@ -28,6 +28,10 @@ The authoritative list of page metadata. Lint and the view generators parse this
 | Careers | venture, helper, resource | optional | bare `https://` URL (no markdown link) of the org's general careers/jobs page or its own ATS board — never a single posting, an aggregator, or a raw ATS API endpoint | needs board, job-seeker next step |
 | Ownership | venture | optional (candidate for required) | founder-led private · private · public · PE-owned · nonprofit · government | judgment layer (see charter.md) |
 | Tier | venture, person, helper, resource, work | yes | S · A · B · C · D · F · unranked, optionally suffixed `*` — the impact ladder; rubric, rulings, and worked cases in [`tiers.md`](tiers.md) | tier list view, gem surfacing, index lines, wanted-queue ordering |
+| Founder-tier | resource, helper | yes | S · A · B · C · D · F · unranked · n/a — no `*` bump; the founder-resource ladder, which ranks what a page hands a founder rather than what it displaces in the world. Independent of `Tier` and expected to disagree with it in both directions. Rubric and rulings in [`founder-tiers.md`](founder-tiers.md) | founder-resource tier list view, resource and helper index headers |
+| Activity | venture, person, helper, resource, work | rollout in progress | active · dormant · concluded · unknown — whether the subject is *still being done*, the only attribute that grades the subject rather than the page or its evidence. Rubric, signal requirements, and eight rulings in [`activity.md`](activity.md) | active tier list, inline markers on views, currency badge on prerendered pages |
+| Activity-checked | any page with `**Activity:**` | yes (with that attribute) | `YYYY-MM-DD` someone last checked the live public record | staleness warning after ~12 months |
+| Activity-signal | any page with `**Activity:**` | required when the value is `active` | `YYYY-MM-DD · https://…` — the dated public artifact the value rests on. A site that merely resolves is not one; see [`activity.md`](activity.md) | auditing the value, re-cutting the thresholds |
 | URL | source | yes | the one document this source page is about, or `Unknown` when no official page could be confirmed | capture, archive resolution, tier checks, lint |
 | Publisher | source | optional | who published the document, when that is not the subject itself | attribution by a reader |
 | Published | source | optional | `YYYY-MM-DD` the document itself carries, distinct from `Retrieved` | dating a claim to the document, not the fetch |
@@ -310,7 +314,7 @@ Status grades the **page**, never the subject and never the facts. It answers "h
 
 **Status is not a fact-verification claim.** No value here means a human checked the facts. Pages are merged by one maintainer who catches nonsense and off-scope material; that gate does not fact-check sentences. `Reviewed` was in this registry until 2026-07-27, was never used by any page, and is retired precisely because it implied a review that does not happen. Verification lives in Confidence and in `## Evidence`.
 
-Status is written by whoever last edited the page, and it should be raised only by editing the page up to the next definition — never as an assertion about the subject's own health or activity. A dormant company can have a Useful page; a thriving one can have a Stub.
+Status is written by whoever last edited the page, and it should be raised only by editing the page up to the next definition — never as an assertion about the subject's own health or activity. A dormant company can have a Useful page; a thriving one can have a Stub. The subject's own health has its own attribute now: `**Activity:**`, defined in [`activity.md`](activity.md). Status grades the page, Confidence grades the evidence, Activity grades the subject, and all three move independently.
 
 ### Confidence — how well the cited evidence supports the claims
 

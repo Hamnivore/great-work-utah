@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
@@ -17,8 +18,7 @@
 
 ## Summary
 
-Tech Ridge is a 180-acre mixed-use development on a former St. George municipal airport site, built as a tech-oriented office, retail, and residential campus with trails and outdoor amenities. Current and planned offerings include creative office campuses (Container Park, Terminal 1), residential communities, and tenant amenities aimed at companies relocating to or scaling in Washington County.
-
+Tech Ridge is a 180-acre mixed-use development on the former Saint George municipal airport site, combining offices, retail, housing, trails, and outdoor amenities. Its live bet is that Container Park, Terminal 1, housing, and tenant amenities can turn a retired airfield into a real company cluster rather than a branded real-estate project.
 ## Who It's For
 
 Companies — especially tech and growth-stage employers — seeking office, retail, or residential space in St. George with a campus environment rather than a generic suburban lease.

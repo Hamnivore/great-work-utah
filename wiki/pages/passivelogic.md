@@ -24,9 +24,7 @@
 
 ## Summary
 
-PassiveLogic is a Salt Lake City company building a generalized-autonomy platform that began with autonomous buildings. Its public materials describe an ecosystem spanning edge hardware, building-control software, physics-informed AI, and digital twins.
-
-For the wiki, PassiveLogic is a useful Utah example of AI applied to physical systems where the real problem is not content generation but control under constraints. Buildings are messy, sensor-rich, and energy-intensive; PassiveLogic's thesis is that a digital-twin and edge-autonomy stack can make them easier to design, commission, operate, and optimize.
+PassiveLogic is a Salt Lake City company building a generalized-autonomy platform that began with autonomous buildings. The impact case is strongest in commercial buildings, campuses, industrial facilities, and energy retrofits where outdated building-management systems waste energy and labor.
 
 ## Impact
 

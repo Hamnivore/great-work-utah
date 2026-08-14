@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** early-stage capital, deep tech, university spinouts, commercialization
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Nucleus Fund is an early-stage investment path for Utah deep-tech ventures emerging from the state's universities and research institutions. It is the capital-side complement to Nucleus commercialization programs: useful when a research-backed company has moved beyond exploration and needs equity capital, strategic support, and a network around the company-building work.
+
+Nucleus Fund invests early in Utah deep-tech ventures emerging from universities and research institutions. Its checks can bridge a difficult pre-seed gap, but the public record does not yet show enough scale or outcomes to claim broader market change.
 
 ## Impact
 

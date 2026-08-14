@@ -53,10 +53,21 @@ at build time. `/llms.txt` is the manual. `POST /api/contribute` is the single w
 7. Every fact page carries a `**Tier:**` — the impact ladder, `S` through `F` plus `unranked`, rubric
    and nine rulings in `wiki/meta/tiers.md`. A new page needs one; `unranked` is the honest answer when
    the page is too thin to argue bounds from. `B` or above requires an `## Impact` section, and lint
-   enforces it. Tier ranks **magnitude, never sign**, and is independent of Confidence.
+   enforces it. Tier ranks how far something could move the world, not whether that's good or bad,
+   and is independent of Confidence.
    Assigning tiers in bulk: rate with subagents that write TSVs and never touch `wiki/`, then apply
    centrally with `node scripts/apply-tiers.mjs` (dry run by default, `--write` to edit). The first
    corpus-wide run, its method, and the page-framing defects it surfaced are in `research/tier-list/`.
+8. Every `resource` and `helper` page **also** carries a `**Founder-tier:**` — a second, independent ladder
+   asking what the thing hands a founder rather than what it displaces in the world, rubric in
+   `wiki/meta/founder-tiers.md`. It exists because impact ruling 5 correctly crushes the whole resource
+   shelf to D and F, which is useless for "what should I actually use." Vocabulary is the same letters plus
+   `n/a` (serves a different audience entirely — a hospital, a school) and no `*` bump. The two ladders are
+   expected to disagree in both directions; never derive one from the other. `B` or above requires a
+   `## What It Provides` (resources) or `## Who They Help` (helpers) section, and lint enforces it.
+   Same bulk workflow, different script: `node scripts/apply-founder-tiers.mjs`, reading
+   `research/founder-tier-list/results/`. That directory also records the duplicate-page sets the ranking
+   pass surfaced.
 
 ## Working on the site
 

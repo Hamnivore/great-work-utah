@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** B
 **Focus:** small business lending, capital access, lender-backed capital, underserved founders
 **Primary Location:** Utah
 **Utah Location:** statewide

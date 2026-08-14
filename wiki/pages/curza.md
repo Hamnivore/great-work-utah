@@ -20,9 +20,7 @@
 
 ## Summary
 
-Curza is a University of Utah College of Science spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. The company's lead program, CZ-02, targets a clinically undrugged and highly conserved site on the bacterial ribosome — a mechanism Curza positions as the first new class against Gram-negative pathogens in roughly 50 years. CEO Chad Testa leads a mission-driven company funded primarily by government grants and impact investors rather than traditional pharma venture capital.
-
-For the wiki, Curza matters because antibiotic-resistant Gram-negative bacteria (E. coli, Klebsiella, Acinetobacter, Pseudomonas — the ESKAPE pathogens) impose a large global mortality burden. This page does not yet carry a captured epidemiological source for a specific annual death count or projection. Pharma economics have hollowed out the antibiotic pipeline; Curza fills that gap with grant-based funding from organizations willing to fund what markets won't.
+Curza is a University of Utah College of Science spinout in Salt Lake City developing novel antibiotics for drug-resistant Gram-negative bacteria. A new antibiotic approved for drug-resistant Gram-negative infections could reduce substantial mortality and blunt the projected burden of antimicrobial resistance.
 
 ## Impact
 

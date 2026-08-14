@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** patents, trademarks, copyrights, trade secrets, IP prosecution, IP litigation
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -17,9 +18,7 @@
 
 ## Summary
 
-Workman Nydegger is a Salt Lake City law firm focused exclusively on intellectual property — patents, trademarks, copyrights, and trade secrets — covering both prosecution (getting protection) and litigation (enforcing or defending it). Its own materials describe it as the Intermountain West's largest IP firm, founded over four decades ago, with many attorneys who came from engineering, software, and science backgrounds.
-
-For a founder, the useful framing is: this is the specialist you call when the company's core asset is an invention and you need that invention protected correctly the first time.
+Workman Nydegger is a Salt Lake City firm devoted to patents, trademarks, copyrights, trade secrets, and related litigation. Its narrowness is the point: founders whose core asset is an invention need specialist protection before a mistake becomes impossible to unwind.
 
 ## Impact
 

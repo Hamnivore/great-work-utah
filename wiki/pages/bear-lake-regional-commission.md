@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Rich County, UT
 **Utah Location:** Rich County, UT
@@ -14,7 +15,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Bear Lake Regional Commission coordinates growth management and regional planning across Bear Lake County, Idaho and Rich County, Utah. Its public mission emphasizes protecting Bear Lake through coordination, cooperation, and education while working across multiple state and local jurisdictions on planning, recreation, and environmental issues.
+The Bear Lake Regional Commission coordinates growth management and regional planning across Bear Lake County, Idaho and Rich County, Utah. Bear Lake Regional Commission provides a bounded benefit: Regional planners, local governments, property owners, and tourism or recreation stakeholders in the Bear Lake region — not a typical startup advising or funding resource.
 
 ## Who It's For
 

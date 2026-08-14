@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** B
 **Focus:** Entrepreneurship Communities, Late Stage Growth, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-The Center for Rural Development (CRD), within Utah's Governor's Office of Economic Opportunity, supports rural counties, communities, and businesses statewide. Verified on business.utah.gov/rural: CRD administers Rural Communities Opportunity Grants, Rural County Grants, REDI job-creation incentives, enterprise zone tax credits, rural co-working maps, REDTIF, and links to Utah Rural Jobs capital programs.
+GOEO's Center for Rural Development supports Utah's rural counties, communities, and businesses. Its grants, job incentives, tax credits, coworking map, and capital links matter because rural development fails when programs are scattered and communities must assemble the stack alone.
 
 ## Who It's For
 

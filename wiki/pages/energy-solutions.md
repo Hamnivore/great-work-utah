@@ -18,7 +18,7 @@
 
 ## Summary
 
-EnergySolutions is a nuclear waste management company headquartered in Salt Lake City. It operates the Clive, Utah disposal facility, which accepts Class A, B, and C low-level radioactive waste from power plants, defense facilities, medical isotope producers, and research institutions. The company also provides decommissioning, transportation, and recycling services for nuclear materials nationwide. Formerly Envirocare of Utah, it was rebranded after a 2006 acquisition, and its operations are licensed by the State of Utah and the US Nuclear Regulatory Commission.
+EnergySolutions is a nuclear waste management company headquartered in Salt Lake City. EnergySolutions is critical infrastructure for the US nuclear fuel cycle's back end.
 
 ## Impact
 

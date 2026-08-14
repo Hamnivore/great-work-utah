@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** statewide tech event aggregation, automated schema.org ingestion, nightly refresh, no-signup index
 **Primary Location:** Cottonwood Heights, UT
 **Utah Location:** Cottonwood Heights, UT
@@ -14,22 +15,7 @@
 
 ## Summary
 
-Utah Tech Calendar is a statewide index of **in-person** Utah technology events — meetups,
-conferences, founder mixers, and developer nights across Salt Lake City, Provo, Lehi, Ogden, and the
-rest of the state. At capture it listed **149 entries for August 2026**, drawn from **72 watched
-sources** and refreshed **nightly**, with **no account required** to read it
-([official website](utah-tech-calendar-official-website.md)).
-
-It was built by **Benjamin Reece** and announced by him in June 2026, out of frustration with an
-existing calendar that was "missing sources and features I needed"
-([origin announcements](utah-tech-calendar-origin-announcements.md)).
-
-The reason it is a distinct thing rather than another event list is the ingestion model. Rather than
-asking organizers to enter events by hand, it **scrapes structured data**: any page emitting
-schema.org event markup — Luma, Eventbrite, Meetup, Silicon Slopes, and conference sites — can be
-submitted as a URL and parsed automatically, and whole calendars are onboarded by adding a scraper for
-the source. Named upstream feeds include **47G** and **BioUtah**, so its reach extends past software
-into aerospace and life sciences.
+Utah Tech Calendar indexes in-person technology events statewide. Its edge is automation: organizers submit pages with schema.org event markup, while scrapers ingest whole calendars—turning fragmented Meetup, Luma, Eventbrite, and conference listings into shared infrastructure.
 
 ## Who It's For
 

@@ -20,9 +20,7 @@
 
 ## Summary
 
-JobNimbus is a Lehi, Utah vertical-software company building CRM, project-management, communications, estimating, and payment tools for roofing and home-exterior contractors. Its platform follows a contracting job from lead capture through sales, production, documents and photos, material ordering, invoicing, and collection, with mobile access for office and field teams.
-
-The company was founded in Utah in 2013. It took a $53 million investment from Mainsail Partners in 2020 and announced a $330 million Sumeru Equity Partners-led growth investment in November 2024. By 2025, CEO Ben Hodson told *Utah Business* that JobNimbus had reached about $60 million in annual revenue and 200 employees; those are executive-reported figures rather than audited public-company disclosures.
+JobNimbus is a Lehi, Utah vertical-software company building CRM, project-management, communications, estimating, and payment tools for roofing and home-exterior contractors. The breadth is potentially large because roofing and exterior contracting are distributed industries dominated by many local operators rather than a few national firms.
 
 ## Impact
 

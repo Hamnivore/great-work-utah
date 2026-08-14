@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -18,7 +19,6 @@
 ## Summary
 
 The Shop SLC is a downtown Salt Lake City coworking space at 350 East 400 South, positioned on the 400 South corridor with Trax access. The site describes it as hospitality-forward, dog-friendly, and carbon neutral, with flexible memberships from day passes through private offices, plus conference rooms, member events, and access to 100+ coworking locations through the LExC network.
-
 ## Who It's For
 
 Professionals, entrepreneurs, remote workers, and small teams who want a downtown Salt Lake City workspace with community programming rather than a traditional leased office.

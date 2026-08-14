@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-The San Juan County Chamber of Commerce unites local businesses to advance the county's business community. Verified on the official site (2026-07-14): the chamber invites membership to connect with community leaders, improve business outcomes, and help shape the future of business in San Juan County. Tagline: "Local solutions to local challenges."
+
+The San Juan County Chamber connects and promotes businesses across a large rural county. That network can matter to local operators, but the page shows no effect beyond ordinary chamber events and referrals.
 
 ## Who It's For
 

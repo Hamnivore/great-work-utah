@@ -26,11 +26,8 @@
 
 ## Summary
 
-Ormat Technologies, Inc. (NYSE: ORA) is a Reno, Nevada-based geothermal company with roots back to 1965, and the only vertically integrated firm in its industry: it designs and manufactures its own binary-cycle power units (the Ormat Energy Converter), then builds, owns, and operates geothermal, recovered-energy, and energy-storage plants on top of them. In Utah, Ormat owns and operates the Cove Fort geothermal power plant in Beaver County — a 25 MW binary facility it acquired from Enel Green Power North America in January 2024 ([acquisition source](ormat-cove-fort-acquisition.md)) — and holds new Bureau of Land Management leases next to it for two additional plants, Cove Fort 2 and Cove Fort North.
 
-Ormat's Utah relationship is older than that acquisition. Ormat Nevada Inc. supplied the binary "bottoming cycle" unit that expanded PacifiCorp's neighboring Blundell geothermal plant in 2007, and built and financed Cyrq Energy's Thermo No. 1 plant near Milford under a 2011 EPC contract. By the time Fervo Energy broke ground on Cape Station in 2023, Ormat equipment or ownership already touched every operating geothermal plant in the county.
-
-For a reader researching Utah geothermal, Ormat is the conventional-hydrothermal counterpart that cold searches keep missing: a commercially operating owner-operator sitting a short drive from Cape Station and Utah FORGE, not a pre-commercial developer or exploration company.
+Ormat Technologies operates geothermal generation at Cove Fort and is expanding through Cove Fort 2 and North. The plants provide durable low-carbon power, but growth depends on local geology, permits, and power contracts rather than a uniquely irreplaceable technology.
 
 ## Impact
 

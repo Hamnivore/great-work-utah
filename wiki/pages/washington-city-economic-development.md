@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Washington, UT
 **Utah Location:** Washington, UT
@@ -13,10 +14,7 @@
 
 ## Summary
 
-Washington City's Economic Development division supports business growth in one of Utah's fastest-growing metro areas. Verified on the live city page (2026-07-14; fetched via washingtoncity.org redirect): the department focuses on quality-of-life investment, well-paying jobs, sales- and property-tax base growth, and helping entrepreneurs start or expand retail and other local businesses.
-
-The page emphasizes Washington City's location within the rapidly growing Washington County metro.
-
+Washington City's Economic Development division supports local business growth in a rapidly expanding metro. The page establishes a municipal contact point but no distinctive program or structural result, so the impact is bounded to ordinary city-level assistance.
 ## Who It's For
 
 Entrepreneurs considering retail or local service businesses in Washington City, and existing operators planning relocation or expansion within southwest Utah.

@@ -20,9 +20,8 @@
 
 ## Summary
 
-Intactis Bio is a Salt Lake City company, founded in 2024 by Daniel Rodriguez-Granrose, building hybrid biosilicon computers: 3D-printed living neural tissue interfaced with custom silicon hardware through microelectrode arrays. The thesis is that living neurons could become a useful inference substrate for AI workloads where conventional silicon is hitting power, heat, and capital walls. The company is a resident of Altitude Lab (a Recursion Pharmaceuticals incubator) and reports a $250,000 Nucleus Fund investment plus support from a SHIFT grant and an Altitude Lab Trail Angel Grant ([press release](intactis-bio-prnewswire.md)). Other reported investment commitments have not been verified from captured evidence.
 
-Intactis is pre-revenue and pre-validation, but it represents a frontier compute paradigm being attempted in Utah and is worth tracking on those terms.
+Salt Lake City-based Intactis Bio is wiring living neurons to custom silicon for experimental computing ([company release](intactis-bio-prnewswire.md)). Its current impact is a tiny, replaceable lab demonstration; C* reflects how unusually worth reading the bio-computing bet is, not evidence that Intactis has moved the field.
 
 ## Impact
 

@@ -23,7 +23,7 @@
 
 ## Summary
 
-DigiCert is a Lehi-based cybersecurity company whose DigiCert ONE platform manages public-key infrastructure, digital certificates, DNS, and certificate lifecycles. Its certificates and trust services sit underneath identity and encrypted communication for websites, devices, software, enterprises, and critical infrastructure. The company reports more than 125,000 customers in over 180 countries; those scale figures are self-reported.
+DigiCert is a Lehi-based cybersecurity company whose DigiCert ONE platform manages public-key infrastructure, digital certificates, DNS, and certificate lifecycles. Digital certificates are quiet infrastructure: when they work, software and people can authenticate systems and encrypt traffic; when issuance, renewal, or trust chains fail, large services can become insecure or unavailable.
 
 ## Impact
 

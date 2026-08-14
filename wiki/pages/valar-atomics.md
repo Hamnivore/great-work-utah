@@ -21,9 +21,8 @@
 
 ## Summary
 
-Valar Atomics is a California company building the Ward 250, a high-temperature gas reactor using TRISO fuel and helium cooling. The company is building a test reactor at the Utah San Rafael Energy Lab in Emery County ([ANS source](valar-atomics-ans-groundbreaking.md)). The captured sources do not support the previously stated thermal output, aircraft-fit claim, seed funding, founding date, or criticality deadline.
 
-For the wiki, Valar matters because it proposes a fundamentally different, transportable nuclear scale intended for remote industrial and defense uses. Its exact output and deployment envelope still need captured technical evidence.
+Valar Atomics is building a transportable high-temperature gas reactor for remote industrial and defense sites. Replacing diesel logistics with resilient nuclear heat and power would create a new off-grid energy category, but licensing, manufacturing, and cost remain decisive gates.
 
 ## Impact
 

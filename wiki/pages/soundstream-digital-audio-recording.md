@@ -17,9 +17,7 @@
 
 ## Summary
 
-Soundstream was founded in May 1975 in Salt Lake City by Thomas G. Stockham Jr., a University of Utah professor of electrical engineering and computer science. It is recognized as the first commercial digital audio recording company in the United States, offering on-location digital recording services and computer-based digital editing to record labels.
-
-Soundstream's system used 16-bit linear digital audio at high sampling rates (around 37.5-50 kHz across its machines), stored on instrumentation/computer tape, with custom electronics and editing tools. It was not a lab curiosity: Soundstream recorded and edited real commercial music for labels including Telarc, Delos, RCA, Philips, Vanguard, Warner Brothers, CBS, and Decca. The company built a total of 18 four-channel recorders (seven sold, the rest leased) and over 200 recordings were made on its equipment.
+Thomas G. Stockham Jr. founded Soundstream in Salt Lake City in May 1975 to build an integrated commercial system for digital recording and computer-based audio editing. Soundstream proved digital audio could be musically credible and commercially usable, preparing the ground for compact discs, digital mastering, workstations, and file-based sound.
 
 ## Impact
 

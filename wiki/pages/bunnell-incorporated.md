@@ -22,17 +22,8 @@
 
 ## Summary
 
-Bunnell Incorporated makes the **Life Pulse** line of **high-frequency jet ventilators (HFJV)** for
-critically ill newborn and infant patients — the kind of equipment found in neonatal intensive care
-when conventional ventilation is failing or air leaks complicate care. The company's current model is
-the **204 LifePulse HFJV**; it still supports the earlier 203 line
-([product page](bunnell-life-pulse-204-product.md)).
 
-It is a small, long-lived Utah medical-device company: the company says it was **established in
-1980**, founded by **Bert Bunnell, Sc. D.**, and manufactures in the Salt Lake City area
-([about page](bunnell-official-website.md)). FDA records show the original Life Pulse PMA
-**P850064** approved **1988-06-30**
-([FDA PMA source](bunnell-fda-life-pulse-pma.md)).
+Bunnell makes Life Pulse high-frequency jet ventilators for critically ill newborns and infants. Its specialized system keeps gas exchange going in lungs not ready to breathe and has sustained a distinct neonatal-care modality for decades—narrow in patient count, but structural at the bedside.
 
 ## Impact
 

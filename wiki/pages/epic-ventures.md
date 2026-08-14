@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,7 +14,7 @@
 
 ## Summary
 
-EPIC Ventures is a Salt Lake City venture capital firm founded in 1994 that invests in early-stage technology companies. Public portfolio references include Ancestry, Instructure, Health Catalyst, and Recursion. EPIC also partners with the University of Utah on University of Utah Ventures, Powered by EPIC.
+EPIC Ventures is a Salt Lake City venture capital firm founded in 1994 that invests in early-stage technology companies. Early-stage technology founders in SaaS, healthcare, biotech, security, fintech, and future-of-work sectors seeking a long-running Utah VC.
 
 ## Who It's For
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,6 @@
 ## Summary
 
 The Utah Microloan Fund (UMLF), established in 1991, is a nonprofit Community Development Financial Institution (CDFI) serving underserved Utah entrepreneurs. The official site describes microloans and business advising for owners who cannot qualify for traditional bank financing, with emphasis on low- to moderate-income individuals, women, minorities, and other underserved populations.
-
 ## Who It's For
 
 Utah startup and existing small-business owners declined by banks — including those with limited credit history, insufficient collateral, or under two years of financials. UMLF explicitly serves startups that banks typically will not fund at idea or early-revenue stage.

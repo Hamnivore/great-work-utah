@@ -18,9 +18,7 @@
 
 ## Summary
 
-**auticon US** is the American arm of **auticon**, a global IT and neuroinclusion consultancy whose marketing says it is the **"largest majority-autistic company in the world"** and has delivered **IT solutions** with **neurodivergent talent since 2009** ([about page](auticon-us-about-us.md)). The **German parent** origin story on the same page: **Dirk Müller-Remus established auticon in Berlin in 2011**; Nordic **Unicus** began in **2009**; the groups **joined forces in 2023** into a **500+ person, 15-market** organization ([about page](auticon-us-about-us.md)).
-
-The lead claim of a **Salt Lake City** office is **not supported** by captures. auticon's **United States** contact block lists **2108 N St., Ste. 5522, Sacramento, CA 95816** with phone **+1 310 396-9292** ([contact page](auticon-us-contact.md)). **Vance Checketts** is named **CEO of auticon US (March 11, 2024)** with Utah-linked **board service**, but that is personal community affiliation — not a Utah operating address ([about page](auticon-us-about-us.md)).
+auticon US is the American arm of auticon, a global IT and neuroinclusion consultancy whose marketing says it is the "largest majority-autistic company in the world" and has delivered IT solutions with. auticon US provides a bounded benefit: Auticon's model — employ autistic adults as technology consultants and pair that with neuroinclusion advisory work — addresses a documented employment gap.
 
 ## Impact
 

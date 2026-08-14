@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Ephraim, UT
 **Utah Location:** Ephraim, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-The GRIT Center for Rural Entrepreneurship at Snow College, funded by the Utah State Legislature and opened in November 2019, helps students develop leadership skills and an entrepreneurial mindset through experiential programming. The official page highlights pitch competitions, the Entrepreneurship Seminar Series, and the Bootstrap Your Business competition with a published $500 award.
+Snow College's GRIT Center gives students across majors experiential leadership, entrepreneurship seminars, and low-stakes pitch practice. Its real test is whether campus exposure produces ventures that stay in and strengthen rural Utah.
 
 ## Who It's For
 

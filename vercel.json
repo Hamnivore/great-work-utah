@@ -71,6 +71,8 @@
     { "source": "/meta/:doc([^/.]+)", "destination": "/meta/:doc.md", "statusCode": 308 },
     { "source": "/pages/sillicon-slopes.md", "destination": "/pages/silicon-slopes.md", "statusCode": 308 },
     { "source": "/p/sillicon-slopes", "destination": "/p/silicon-slopes", "statusCode": 308 },
+    { "source": "/pages/utah-direct-selling-industry.md", "destination": "/pages/utah-multi-level-marketing-industry.md", "statusCode": 308 },
+    { "source": "/p/utah-direct-selling-industry", "destination": "/p/utah-multi-level-marketing-industry", "statusCode": 308 },
     { "source": "/v/index", "destination": "/v", "statusCode": 308 },
     { "source": "/entry/:source/:slug", "destination": "/p/:slug", "statusCode": 308 },
     { "source": "/raise-hand", "destination": "/contribute", "statusCode": 308 }

@@ -24,9 +24,7 @@
 
 ## Summary
 
-Owlet Baby Care is a Lehi, Utah–based company that designs and sells connected nursery products for infant monitoring. Its public website describes sock-based pulse and oxygen monitoring, HD video monitors, bundled systems, and a prescription pulse-oximeter product for medical use at home.
-
-The company gained early attention for the Smart Sock, a wearable that streams heart rate and oxygen readings to a base station and smartphone app. Owlet has since expanded into cameras and integrated monitoring bundles while navigating FDA scrutiny over how wellness versus medical claims are marketed.
+Owlet Baby Care is a Lehi, Utah–based company that designs and sells connected nursery products for infant monitoring. The regulatory story matters as much as the product story: FDA clearance labels on company materials are leads, not independent proof of clinical benefit.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=87-0216499
 **Primary Location:** St. George, UT
@@ -18,8 +19,7 @@
 
 ## Summary
 
-The St. George Area Chamber of Commerce supports 1,000+ businesses and nonprofits in Washington County's largest city. Verified on the official site (2026-07-14): members access business resources, training, in-person and digital networking, and government advocacy. The chamber works with local, state, and federal economic partners to grow jobs and prosperity.
-
+The Saint George Area Chamber of Commerce supports more than 1,000 businesses and nonprofits in Washington County's largest city. Its scale makes the chamber a credible local convener, but its leverage still comes through training, networking, advocacy, and economic-development partners rather than direct capital.
 ## Who It's For
 
 St. George and greater Washington County businesses and nonprofits seeking training, networking, resources, and legislative advocacy in Utah's fastest-growing metro area.

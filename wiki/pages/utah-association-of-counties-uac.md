@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Murray, UT
 **Utah Location:** statewide
@@ -17,10 +18,7 @@
 
 ## Summary
 
-The Utah Association of Counties (UAC) is the statewide association representing Utah's 29 county governments. Verified on the official site (2026-07-14): UAC provides training, legislative advocacy, legal assistance, conferences, and policy steering for county officials—not direct startup services for private founders.
-
-Entrepreneurs seeking hands-on company support should use county economic-development offices or business resource centers rather than treating UAC as a general startup service.
-
+The Utah Association of Counties (UAC) is the statewide association representing Utah's 29 county governments. Entrepreneurs seeking hands-on company support should use county economic-development offices or business resource centers rather than treating UAC as a general startup service.
 ## Who It's For
 
 County commissioners, county staff, and appointed officials seeking training, policy advocacy, and peer networks. Secondary relevance to founders only when navigating county-level permits, incentives, or rural programs administered through counties.

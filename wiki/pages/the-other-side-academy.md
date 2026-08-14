@@ -22,23 +22,7 @@
 
 ## Summary
 
-The Other Side Academy is a Utah **501(c)(3)** nonprofit — EIN **47-4495796**, IRS ruling date
-December 2015 ([Form 990 record](the-other-side-academy-form-990-record.md)) — that runs a
-long-term, residential
-**therapeutic community** for people the organization describes as **criminals, homeless and
-substance abusers** — many entering as an alternative to incarceration
-([how it works](the-other-side-academy-how-it-works.md)). Students commit to **thirty months**
-(two years in-residence plus six months of structured transitional living) and work full time in
-**vocational training schools** — moving, thrift, and construction businesses named in site
-navigation — that the organization says make it **self-sustaining**
-([official site](the-other-side-academy-official-website.md),
-[how it works](the-other-side-academy-how-it-works.md)). The program is **free**; the organization
-states it **does not receive government money**
-([how it works](the-other-side-academy-how-it-works.md)).
-
-A related project, [The Other Side Village](the-other-side-village-official-website.md), operates a
-**master-planned therapeutic community in Salt Lake City** providing **permanent housing** for
-people transitioning out of **chronic homelessness**.
+The Other Side Academy runs a long-term residential therapeutic community, often as an alternative to incarceration ([how it works](the-other-side-academy-how-it-works.md)). Its related [Other Side Village](the-other-side-village-official-website.md) tests whether peer accountability can support permanent exits from chronic homelessness.
 
 ## Impact
 

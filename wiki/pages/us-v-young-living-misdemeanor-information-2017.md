@@ -111,4 +111,4 @@ separate Lacey Act count, which concerns different plants.
 ## Related Pages
 
 - [Source: United States v. Young Living Essential Oils Docket (2017)](us-v-young-living-lacey-act-docket-2017.md)
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)

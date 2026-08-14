@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -24,7 +25,8 @@
 
 ## Summary
 
-Kiln is a design-forward coworking operator with 25+ locations across the western United States. The official site offers flexible memberships — Access, Club, Private offices, and Studio suites — with amenities aimed at performance, wellness, and community programming. Utah locations include Holladay, Lehi, Park City, Provo, Salt Lake City, St. George, and Kiln Cabin.
+
+Kiln operates premium coworking offices, meeting rooms, events, and community programming across Utah and the western United States. It gives local teams flexible space and connections, but conventional offices and other coworking operators are close substitutes.
 
 ## Who It's For
 

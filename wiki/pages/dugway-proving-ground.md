@@ -15,9 +15,7 @@
 
 ## Summary
 
-Dugway Proving Ground is a U.S. Army test facility in Utah's West Desert, established in 1942 as a remote site for chemical and biological warfare testing. Its isolation, large land area, desert climate, and distance from dense population centers made it a central place for testing munitions, protective equipment, detection systems, decontamination methods, obscurants, and later unmanned systems.
-
-After U.S. policy shifted away from offensive chemical and biological weapons, Dugway's public mission became defense testing: masks, suits, detectors, shelters, decontamination systems, and military or first-responder preparation for chemical, biological, radiological, and explosive hazards.
+Dugway Proving Ground is a US Army test facility in Utah's West Desert, established in 1942 as a remote site for chemical and biological warfare testing. Defense against chemical and biological threats depends on test infrastructure where equipment can be challenged under realistic conditions.
 
 ## Impact
 

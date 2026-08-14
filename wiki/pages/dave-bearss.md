@@ -12,7 +12,7 @@
 
 ## Summary
 
-Dave Bearss is a Utah drug-discovery scientist and entrepreneur who spans academic translational programs and venture-backed clinical-stage companies. He serves as senior managing director of the University of Utah Therapeutic Accelerator Hub (U2TAH) — a $22.5M initiative bridging laboratory discoveries to clinical development across HCI, the College of Pharmacy, and the PIVOT Center — and is the founder and driving scientific figure behind [Halia Therapeutics](halia-therapeutics.md), a Lehi-based company targeting the NLRP3 inflammasome in aging and inflammatory disease.
+Dave Bearss is a Utah drug-discovery scientist and entrepreneur who spans academic translational programs and venture-backed clinical-stage companies. Bearss represents a connective tissue role in Utah life sciences: he works in the academic-to-venture translation layer that most ecosystems lack.
 
 ## Impact
 

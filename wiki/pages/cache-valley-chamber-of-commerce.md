@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Cache County, UT
 **Utah Location:** Cache County, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Cache Valley Chamber of Commerce serves Cache Valley businesses with networking, advocacy, a business directory, events, and programs such as Women in Business and Leadership Lunch. Public pages emphasize credibility, community visibility, and tools for local business growth.
+The Cache Valley Chamber of Commerce serves Cache Valley businesses with networking, advocacy, a business directory, events, and programs such as Women in Business and Leadership Lunch. Cache Valley Chamber of Commerce provides a bounded benefit: Business owners and operators in Cache County and the broader Cache Valley who want a local chamber network, event access, and regional business.
 
 ## Who It's For
 

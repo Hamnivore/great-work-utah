@@ -27,9 +27,7 @@
 
 ## Summary
 
-Sandbox is a private program that embeds a full-time startup-building experience inside accredited university degrees.
-
-The official site reports over a dozen venture-backed Sandbox companies at a combined $262M valuation and six Y Combinator acceptances. [Official Website: Sandbox](sandbox-official-website.md) Current campus-by-campus dates require separate university evidence.
+Sandbox is a private program that embeds a full-time startup-building experience inside accredited university degrees ([Official Website: Sandbox](sandbox-official-website.md)). Sandbox inverts that: students build venture-scale companies for academic credit without dropping out.
 
 ## Impact
 

@@ -19,9 +19,7 @@
 
 ## Summary
 
-Ripple Neuro is a Salt Lake City-based neuroscience instrumentation company founded in 2004 as a spinout from the University of Utah. It builds the neural recording and stimulation hardware that research neuroscientists use to run invasive electrophysiology experiments: multi-hundred-channel amplifiers, real-time signal processors, and stimulation systems capable of simultaneous recording and stimulation without artifact swamping. The company's founding lineage connects to the neural engineering cluster at the University of Utah that also produced Blackrock Neurotech and the Utah Array — one of the most influential implantable electrode technologies in neuroscience.
-
-Ripple's product families include the Grapevine neural signal processor (up to 512 channels), the Trek portable electrophysiology system (palm-sized, wireless, designed for naturalistic behavior experiments), and Summit neuromodulation research systems. The company also operates Ripple Neuromed, a clinically-oriented sister presence. Revenue comes from instrument sales to research labs and government-funded R&D contracts, including active programs under NIH's HEAL Initiative targeting chronic pain and neuromodulation.
+Ripple Neuro is a Salt Lake City-based neuroscience instrumentation company founded in 2004 as a spinout from the University of Utah. The counterfactual is concrete: without Ripple, labs would roll their own electronics (burning grad-student years on hardware rather than neuroscience) or accept lower channel counts from simpler commercial systems.
 
 ## Impact
 

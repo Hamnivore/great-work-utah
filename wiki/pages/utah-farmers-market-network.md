@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,8 +14,7 @@
 
 ## Summary
 
-The Utah Farmers Market Network (UFMN) connects and supports farmers markets across Utah to strengthen local food systems. Verified on utahfarmersmarketnetwork.org: UFMN publishes a statewide market directory, manager handbook, SNAP/Double Up Food Bucks guidance, membership benefits, training, and advocacy for inclusive markets.
-
+The Utah Farmers Market Network helps market operators share guidance, training, advocacy, and access to SNAP and Double Up Food Bucks. A common support layer makes small local markets easier to run and more accessible to low-income shoppers, but its counterfactual is bounded to Utah's market network.
 ## Who It's For
 
 Farmers market managers and vendors; food and artisan producers selling at Utah markets; businesses and organizations sponsoring local food access; consumers finding nearby markets via the directory.

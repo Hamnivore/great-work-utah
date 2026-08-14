@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Ogden, UT
 **Utah Location:** Weber County, UT
@@ -17,8 +18,7 @@
 
 ## Summary
 
-Weber County Economic Development supports business growth and quality of life across Weber County through a holistic, partnership-driven approach. Verified on webercountyutah.gov/economic_development: the department connects businesses to NUEA, public infrastructure districts, the West Weber industrial and renewable-energy hub, and county-led clean-energy projects.
-
+Weber County Economic Development coordinates business support with infrastructure districts and the West Weber industrial and renewable-energy hub. That alignment can unlock projects a company or city cannot deliver alone, but the counterfactual remains county-scale and replaceable by competent local government.
 ## Who It's For
 
 Businesses starting, expanding, or relocating in Weber County; site selectors evaluating Ogden and northern Utah industrial land; operators interested in infrastructure districts or county partnership programs.

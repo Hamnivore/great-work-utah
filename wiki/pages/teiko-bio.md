@@ -20,7 +20,6 @@
 ## Summary
 
 Teiko Bio is a Salt Lake City clinical laboratory and contract research organization focused on immune measurement for clinical trials. It combines blood-preservation kits, multiparameter flow-cytometry panels, laboratory processing, quality-controlled gating, and software reports intended to make immune-state data usable by drug-development teams.
-
 ## Impact
 
 Clinical trials can lose information when blood samples degrade, processing varies between sites, or high-dimensional cytometry produces results that are difficult to compare. Teiko is trying to make immune measurement reproducible across sites and long-running trials, which could help sponsors see whether an immunotherapy is affecting the intended cells and identify response-associated populations earlier. The upper bound is better trial decisions and fewer failed or inconclusive studies; the downside is that a proprietary assay-and-analysis stack can add cost without changing outcomes if its measurements are not independently validated or clinically actionable.

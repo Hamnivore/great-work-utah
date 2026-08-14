@@ -23,11 +23,7 @@
 
 ## Summary
 
-Deseret Book and Bonneville International are the two principal media operations of Deseret Management Corporation (DMC), the for-profit holding entity of the Church of Jesus Christ of Latter-day Saints. Together they constitute the largest institutional media apparatus in Utah and among the most durable religious media organizations in the US.
-
-Deseret Book is the country's largest dedicated religious-book publisher, operating ~40 retail stores and the Shadow Mountain imprint (LDS literary fiction, devotional, children's, music). Bonneville International operates ~20 radio stations across major markets — Seattle, San Francisco, Phoenix, Denver, Salt Lake City — plus KSL-TV (NBC affiliate, SLC) and the KSL news operation. The Deseret News (Utah's oldest paper, founded 1850) rounds out the DMC portfolio.
-
-For the wiki, these organizations matter because cultural and meaning-making infrastructure shapes how millions of people see the world — and the LDS Church's media apparatus has been one of the most persistent engines of that in the American West for over 150 years.
+Deseret Book and Bonneville International are the two principal media operations of Deseret Management Corporation (DMC), the for-profit holding entity of the Church of Jesus Christ of Latter-day Saints. The impact is real and large within a specific audience. ~17 million LDS members globally consume media produced or distributed through these channels.
 
 ## Impact
 

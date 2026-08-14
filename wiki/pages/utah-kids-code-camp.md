@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** youth coding education, free technology classes, volunteer instruction
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -14,10 +15,7 @@
 
 ## Summary
 
-Utah Kids Code Camp is a free, volunteer-taught coding camp for children aged 5 and up, run by [Utah Geek Events](utah-geek-events.md) and held at Neumont College of Computer Science in downtown Salt Lake City. The 2026 edition ran on **August 1, 2026** — rescheduled from its original June 20 date ([2026 announcements](utah-kids-code-camp-2026-announcements.md)).
-
-The format is five sessions with up to four parallel classes each, so a child picks a track and writes a working game on it. The captured public evidence establishes the 2026 event in detail; whether it recurs annually is not verified here.
-
+Utah Kids Code Camp is a free, volunteer-taught coding camp for children aged 5 and up, run by [Utah Geek Events](utah-geek-events.md) and held at Neumont College of Computer Science in downtown Salt Lake City. The captured public evidence establishes the 2026 event in detail; whether it recurs annually is not verified here.
 ## Who It's For
 
 Children aged five and older across experience levels, with a family able to bring a laptop. Because the tracks span Scratch through Unity and Arduino, it serves both a five-year-old's first encounter with programming and a teenager who already writes code.

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** founder community, AI builders, cofounder discovery, hackathons, coworking, Slack
 **Primary Location:** Utah County, UT
 **Utah Location:** statewide
@@ -14,9 +15,8 @@
 
 ## Summary
 
-JustBuild is an open Utah community for founders, engineers, and other people who want to build with AI. Its public surface combines a Slack community with hackathons, events, and recurring coworking sessions. The official site reports more than 400 builders and says anyone can join without credentials or an existing company.
 
-For someone seeking a cofounder, its value is not formal matching. It is repeated exposure to people doing real work: join the Slack, attend a build session, form a short-lived event team, and notice who communicates and ships well before discussing a founding relationship.
+JustBuild is an open Utah community where founders and technical builders meet through AI events, Slack, and coworking. Repeated project work can produce stronger connections than ordinary networking, but its effect is still confined to a local participant community.
 
 ## Who It's For
 

@@ -24,9 +24,7 @@
 
 ## Summary
 
-BambooHR is a Draper, Utah-based cloud HR software company aimed primarily at small and medium-sized businesses. Its official website describes an integrated platform for hiring, onboarding, employee records, payroll, time tracking, benefits, performance management, compensation planning, and HR analytics.
-
-For the wiki, BambooHR is a useful reference point for Utah-built vertical SaaS at meaningful scale — HR operations rather than developer tools or experience management.
+BambooHR is a Draper, Utah-based cloud HR software company aimed primarily at small and medium-sized businesses. BambooHR appears to have helped mainstream polished HR software for SMBs that previously relied on spreadsheets and disconnected vendors.
 
 ## Impact
 

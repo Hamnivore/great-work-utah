@@ -22,9 +22,7 @@
 
 ## Summary
 
-The Utah Neurorobotics Lab is a University of Utah research group in the Department of Electrical and Computer Engineering, led by PI Dr. Jacob George. Its mission is to build prosthetic limbs that restore both movement and sensation by decoding peripheral nerve signals for real-time control and electrically stimulating tactile feedback — so users can experience prostheses as part of their body rather than as external tools. [Official Website: Utah Neurorobotics Lab](utah-neurorobotics-lab-official-website.md)
-
-For the wiki, the lab is one of Utah's strongest applied-ML-meets-clinical-impact research programs: bidirectional neural interfaces at the intersection of the Utah Slanted Electrode Array tradition, modern decoders, and sensory encoding.
+The Utah Neurorobotics Lab is a University of Utah engineering group led by Jacob George ([official site](utah-neurorobotics-lab-official-website.md)). Its bidirectional interfaces join Utah's electrode-array legacy to modern decoding and sensory feedback—a credible bridge from machine learning to restored function.
 
 ## Impact
 

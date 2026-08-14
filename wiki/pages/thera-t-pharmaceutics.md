@@ -18,7 +18,6 @@
 ## Summary
 
 Thera-T Pharmaceutics is an early-stage company developing MATCH — Multi-Antigen T-Cell Hybridizers — for B-cell leukemias, lymphomas, and multiple myeloma ([official website](thera-t-pharmaceutics-official-website.md)). The captured homepage does not support the earlier award, funding, founder, or incubation claims.
-
 ## Impact
 
 Blood cancer immunotherapy has produced genuine clinical successes — CAR-T therapies like Kymriah and Yescarta, and bispecific antibodies like blinatumomab — but a major failure mode is antigen escape: cancer cells that downregulate the single surface marker a therapy targets and thereby evade killing. MATCH's multi-antigen design addresses this directly. By engaging multiple antigens simultaneously, the construct makes it harder for tumor cells to escape through single-antigen loss.

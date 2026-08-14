@@ -20,10 +20,7 @@
 
 ## Summary
 
-Strider Technologies is a Utah-linked strategic-intelligence company focused on geopolitical and nation-state risk. Its official site frames the company around helping organizations protect critical assets, talent, technology, supply chains, and institutional relationships from state-sponsored threats.
-
-For the Great Work Utah wiki, Strider matters because it sits at the intersection of AI, open-source intelligence, research security, corporate counterintelligence, and economic-security policy. It is not a general cybersecurity vendor; its public positioning is closer to strategic intelligence for organizations operating in a world where technology transfer, talent flows, and geopolitical pressure have become board-level issues.
-
+Strider Technologies is a Utah-linked strategic-intelligence company focused on geopolitical and nation-state risk. Strider matters because it sits at the intersection of AI, open-source intelligence, research security, corporate counterintelligence, and economic-security policy.
 ## Impact
 
 The impact case is clearest for universities, high-tech companies, financial institutions, critical-infrastructure operators, and government agencies that need to understand hidden risk in people, partners, software, and global networks. Strider's public materials repeatedly emphasize state-sponsored threats, falsified resumes, research security, and third-party due diligence.

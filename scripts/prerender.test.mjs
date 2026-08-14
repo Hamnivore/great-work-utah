@@ -35,12 +35,20 @@ test('prerender SEO: schema types, breadcrumbs, source noindex, og:image', async
   assert.match(view, /href="\/map">map<\/a>/)
   assert.match(view, /href="\/v\/guides">founder resources<\/a>/)
   assert.doesNotMatch(view, /href="\/v\/by-region">by place<\/a>/)
+  assert.doesNotMatch(view, /<nav aria-label="Main">[\s\S]*?href="\/v\/tier-list"/)
 
   const metaDoc = renderDocument('meta', 'about')
   assert.ok(metaDoc)
   assert.match(metaDoc, /"@type":"WebPage"/)
   assert.doesNotMatch(metaDoc, /\{\{[A-Z_]+\}\}/)
-  assert.match(metaDoc, /\d+ of \d+ pages carry a <code>\*\*Domain:\*\*<\/code> line/)
+  assert.match(metaDoc, /\d+ pages covering ventures/)
+
+  const tiers = renderDocument('meta', 'tiers')
+  assert.ok(tiers)
+  assert.match(tiers, /rel="canonical" href="https:\/\/greatutah\.work\/tiers"/)
+
+  const tierList = renderDocument('views', 'tier-list')
+  assert.match(tierList, /href="\/tiers">How this is ranked<\/a>/)
 
   const master = renderDocument('views', 'index')
   assert.match(master, /rel="canonical" href="https:\/\/greatutah\.work\/v"/)
@@ -121,6 +129,21 @@ test('prerender SEO: sitemap drops markdown twins and source pages', async (t) =
   assert.ok(
     vercelConfig.redirects.some((r) => r.source === '/v/index' && r.destination === '/v'),
     '/v/index must redirect to /v — it was a live URL before the index moved',
+  )
+  assert.ok(
+    vercelConfig.redirects.some(
+      (r) =>
+        r.source === '/pages/utah-direct-selling-industry.md' &&
+        r.destination === '/pages/utah-multi-level-marketing-industry.md',
+    ),
+    'old direct-selling slug must 308 to the MLM name',
+  )
+  assert.ok(
+    vercelConfig.redirects.some(
+      (r) =>
+        r.source === '/p/utah-direct-selling-industry' &&
+        r.destination === '/p/utah-multi-level-marketing-industry',
+    ),
   )
   assert.ok(
     vercelConfig.routes.some(

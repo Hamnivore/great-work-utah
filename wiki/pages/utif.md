@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** B
 **Focus:** SBIR, STTR, microgrants, nonrecourse loans, R&D funding
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -18,8 +19,7 @@
 
 ## Summary
 
-Utah Technology Innovation Funding, or UTIF, is a state-backed funding support program tied to SBIR/STTR activity. It is not a general startup grant. It helps eligible Utah small companies offset the cost of SBIR/STTR proposal submission or bridge between Phase I and Phase II R&D.
-
+Utah Technology Innovation Funding, or UTIF, is a state-backed funding support program tied to SBIR/STTR activity. It helps eligible Utah small companies offset the cost of SBIR/STTR proposal submission or bridge between Phase I and Phase II R&D.
 ## Impact
 
 UTIF is small compared with a federal award, but it can be strategically important. A first-time SBIR/STTR proposal can require registrations, technical writing, budgeting, compliance work, and time away from product development. A microgrant or bridge loan can make the federal funding path more realistic for a small technical team.

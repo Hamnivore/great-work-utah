@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Sanpete County, UT
 **Utah Location:** Sanpete County, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-The Sanpete County Chamber of Commerce connects local businesses across the county's communities. Verified on `sanpetechamber.org` (2026-07-14; `sanpetechamberofcommerce.org` redirects here): members get directory listing, events calendar, job board, resource center, tiered membership from $75/year plus a $25 setup fee up to $1,000 Platinum Plus with premium marketing, ribbon cuttings, and newsletter features.
+
+The Sanpete County Chamber connects businesses through directories, events, jobs, and tiered promotion. Those tools can improve visibility for a local storefront, but their effect remains inside the county's business community.
 
 ## Who It's For
 

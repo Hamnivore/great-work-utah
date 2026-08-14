@@ -15,12 +15,7 @@
 
 ## Summary
 
-Stratos is a proposed energy, data-center, and advanced-manufacturing development in the Military Installation Development Authority's Stratos Project Area in unincorporated Box Elder County. MIDA's adopted project-area plan covers approximately 40,000 acres of private land and 1,200 acres of military and state-owned land and contemplates hyperscale data centers alongside power generation and other development. [Stratos Project Area Plan](stratos-project-area-plan.md)
-
-The scale is the reason to pay attention. MIDA states Phase One is a committed **3 GW** and full buildout approximately **9 GW** ([MIDA project-area page](stratos-mida-project-area-page.md)) — figures that are large against any measure of Utah's existing grid. The 3 GW number is the only one that appears in an instrument: the posted master-development-agreement draft obliges the developer to build an energy facility in Hansel Valley "capable of producing at least three (3) Gigawatts of electricity" within five years of the effective date ([master development agreement draft](stratos-master-development-agreement.md)). No 9 GW figure appears in any located instrument; it is MIDA's own projection.
-
-The project remains prospective. The public records establish a planning and land-use framework, not completed facilities, operating capacity, or environmental permits — and the agreement carrying the 3 GW obligation is an unsigned draft. [Master development agreement draft](stratos-master-development-agreement.md)
-
+Stratos is a proposed energy, data-center, and manufacturing district in Box Elder County ([project plan](stratos-project-area-plan.md)). If built at the planned scale, it would restructure the county's industrial and power landscape; until then, the B-tier case is a consequential development bet.
 ## Impact
 
 If built, Stratos would concentrate unusually large electricity, computing, industrial, and infrastructure demands in rural Box Elder County. Its potential breadth comes from the proposed scale and from its intended defense and advanced-computing uses. Its bounds are equally important: MIDA's economic, employment, water, and full-buildout descriptions are projections, while Utah DEQ said on May 4, 2026 that no air-quality Notice of Intent had yet been submitted.

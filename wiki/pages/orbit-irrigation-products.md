@@ -18,14 +18,8 @@
 
 ## Summary
 
-Orbit Irrigation Products makes residential and light-commercial irrigation equipment — sprinklers, valves, timers, drip systems, and the **B-hyve** smart-watering line sold through big-box retail, e-commerce, and contractors. Husqvarna Group **acquired 100% of Orbit in November 2021** for an enterprise value of **USD 480m**; Orbit operates within the **Gardena Division**
-([year-end report 2021](husqvarna-year-end-report-2021-orbit.md), [acquisition press release](husqvarna-orbit-acquisition-press-2021.md)). The consumer brand site **orbitonline.com** remains live under the Orbit name
-([official site](orbit-irrigation-official-website.md)).
 
-Husqvarna's filings describe Orbit as based in **Salt Lake City, Utah**, with about **300 employees** and more than **95% of revenue in North America**
-([year-end report 2021](husqvarna-year-end-report-2021-orbit.md)). A 2018 *Utah Business* feature places product development, final assembly, and the distribution warehouse in **North Salt Lake**
-([Utah Business, 2018](utah-business-orbit-product-lifecycle-2018.md)). Orbit's own B-hyve page says the company has built sprinkler equipment in **Salt Lake City since 1970** and that the **same Utah team** still designs B-hyve after the Husqvarna deal
-([B-hyve page](orbit-b-hyve-product-page.md)). **Bountiful** is **not named in any captured source here** and may reflect an unverified mailing address or older listing.
+Orbit Irrigation Products makes sprinklers, valves, timers, drip systems, and B-hyve smart-watering controls ([official site](orbit-irrigation-official-website.md)). Utah remains a meaningful design and manufacturing node, but Husqvarna's Swedish ownership means product strategy and capital allocation no longer belong here.
 
 ## Impact
 

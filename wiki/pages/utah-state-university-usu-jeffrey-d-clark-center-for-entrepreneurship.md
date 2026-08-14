@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
@@ -13,10 +14,7 @@
 
 ## Summary
 
-Utah State University's Center for Entrepreneurship is housed in the Jon M. Huntsman School of Business. The official page describes it as a resource for developing entrepreneurial leadership through classes, internships, competitions, mentoring, the Entrepreneur Leadership Speaker Series, the Entrepreneurship Club, and SEED-related opportunities.
-
-The current official page presents the public title as “The Center for Entrepreneurship”; whether “Jeffrey D. Clark Center for Entrepreneurship” remains an active donor or institutional name is unresolved.
-
+Utah State University's Center for Entrepreneurship is housed in the Jon Huntsman School of Business. The current official page calls it simply “The Center for Entrepreneurship,” so the older Jeffrey Clark name is a discoverability alias whose continuing institutional status remains unresolved.
 ## Who It's For
 
 The center primarily helps USU students who want to develop entrepreneurial skills, start a business, join entrepreneurship classes, participate in competitions, find mentoring, or gain practical experience through internships.

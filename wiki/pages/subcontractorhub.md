@@ -18,8 +18,7 @@
 
 ## Summary
 
-SubcontractorHub builds operating software for contractors in solar, roofing and HVAC. The company presents the product as a unified system for leads, proposals, contracts, project execution and financial workflows, with artificial-intelligence features layered into contractor operations.
-
+SubcontractorHub unifies leads, proposals, contracts, projects, and finance for solar, roofing, and HVAC contractors. It may remove workflow friction for individual firms, but the page establishes neither broad adoption nor a hard-to-replace advantage, keeping its impact local to customers.
 ## Impact
 
 Residential electrification and building upgrades depend on contractors who can move projects reliably from customer acquisition through installation. Fragmented software and paperwork can add cost or cause projects to fail between those stages. SubcontractorHub's bet is that one operational system can remove that friction. Its real impact depends on completed, high-quality projects—not lead volume or automated sales alone.

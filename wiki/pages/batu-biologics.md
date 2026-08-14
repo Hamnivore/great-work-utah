@@ -17,7 +17,7 @@
 
 ## Summary
 
-Batu Biologics appears to be a University of Utah spinout developing an immuno-oncology approach targeting tumor vasculature — the blood vessels that feed solid tumors. Limited public information suggests the company is part of the U of U Technology Licensing Office startup portfolio. Current funding, team, and pipeline details are not clearly documented in public sources.
+Batu Biologics appears to be a University of Utah spinout targeting the blood vessels that feed solid tumors. That is an established cancer strategy, and the sparse public record identifies neither Batu's mechanism nor a result that distinguishes it from existing treatments, leaving no company-specific impact to rank.
 
 ## Impact
 

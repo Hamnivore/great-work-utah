@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** technology law, IP transactions, licensing, securities, emerging companies, venture financing
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -18,9 +19,8 @@
 
 ## Summary
 
-Parsons Behle & Latimer is a long-established Mountain West law firm with a Salt Lake City office and a practice mix that lands well for technology founders: a dedicated technology / IP-transactions group, a securities and capital-markets group, and an "Emerging Companies & Venture Capital" practice tag on its attorney profiles. The useful framing for a founder is "a regional firm that treats intellectual property and capital raising as the two central legal levers of a tech company."
 
-It overlaps with [Kirton McConkie](kirton-mcconkie.md) as a full-service option; its public materials lean noticeably into technology licensing and IP-driven deals.
+Parsons Behle & Latimer is a long-established Mountain West law firm with Salt Lake City practices in technology transactions, securities, and emerging-company finance. The breadth fits startups from IP through fundraising, but the page still cannot name the best first attorney or show how its cost compares with boutiques.
 
 ## Impact
 

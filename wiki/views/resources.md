@@ -2,6 +2,8 @@
 
 Grants, accelerators, facilities, capital paths, programs. One line per page; fetch the page for detail and evidence.
 
+This list is alphabetical and does not rank. To read the good ones first, use [the founder-resource tier list](founder-resource-tier-list.md) · `https://greatutah.work/views/founder-resource-tier-list.md`, which ranks every resource and helper page by what it actually hands a founder.
+
 - [1 Million Cups (Orem)](/pages/1-million-cups-orem.md) · `https://greatutah.work/pages/1-million-cups-orem.md` · Entrepreneurship Communities, Start a Business · tier:D · conf:M
 - [1 Million Cups (Salt Lake)](/pages/1-million-cups-salt-lake.md) · `https://greatutah.work/pages/1-million-cups-salt-lake.md` · Entrepreneurship Communities, Start a Business · tier:F · conf:M
 - [1MC Salt Lake](/pages/1mc-salt-lake.md) · `https://greatutah.work/pages/1mc-salt-lake.md` · Entrepreneurship Communities, Funding, Other, Start a Business · tier:F · conf:M

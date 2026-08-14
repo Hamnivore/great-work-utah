@@ -19,9 +19,7 @@
 
 ## Summary
 
-The Great Salt Lake is not an organization, and no single company is responsible for it. It is here because the lake's collapse is arguably the most important environmental problem in Utah, and readers thinking about where to apply their skills to high-impact work should know the situation clearly — and know that the space for a category-defining company is still wide open.
-
-The lake has contracted dramatically from its historical extent and reached a record-low elevation in 2022 ([USGS gauge record](great-salt-lake-usgs-gauge-elevations.md)). The exposed lakebed contains heavy metals that can enter the Wasatch Front airshed as dust. Brine shrimp and the migratory birds they support are threatened by escalating salinity. Agricultural water diversion is a major cause, but this page does not yet carry primary records that quantify surface-area loss, exposed-dust risk, wildlife populations, or sectoral water use.
+The Great Salt Lake is not an organization, and no single company is responsible for it. The problem is structurally difficult to build a company around because the root cause (agricultural water diversion) requires policy change, and policy is slower and harder than technology.
 
 ## Impact
 

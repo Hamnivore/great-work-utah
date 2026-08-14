@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Brigham City, UT
 **Utah Location:** Brigham City, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): Brigham City's Economic Development office supports business growth in Box Elder County by highlighting the city's quality of life, workforce, infrastructure, and business environment. Public pages describe a strong employer base, UTOPIA fiber access, Union Pacific rail service, Utah Transit Authority bus links, and educational assets including Bridgerland Technical College and a Utah State University satellite campus.
+Brigham City's Economic Development office supports business growth in Box Elder County by highlighting the city's quality of life, workforce, infrastructure, and business environment. Brigham City Economic Development provides a bounded benefit: Business owners, employers, and site selectors evaluating Brigham City or Box Elder County who need municipal economic development contact and context.
 
 ## Who It's For
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Sandy, UT
 **Utah Location:** Sandy, UT
@@ -17,8 +18,7 @@
 
 ## Summary
 
-The Mill Entrepreneurship Center at Salt Lake Community College's Miller Campus in Sandy is a business incubator where entrepreneurs learn, network, and scale. The official site offers workspace, education, and resource partners, positioning itself as a launchpad for new ventures across the Wasatch Front.
-
+The Mill at Salt Lake Community College offers startup workspace, education, networking, and partner referrals. The page establishes a standard incubator menu but no distinctive result or counterfactual contribution, so the current record supports a listing rather than impact.
 ## Who It's For
 
 Utah entrepreneurs from idea stage through scaling — especially those in Davis, Salt Lake, Tooele, and Weber counties (per Startup State coverage) who want incubator workspace, structured programming, and connections to bookkeeping, marketing, funding, and manufacturing partners.

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Moab, UT
 **Utah Location:** Moab, UT
@@ -13,7 +14,7 @@
 
 ## Summary
 
-The Grand Summit Moab is a regional business conference in Moab, Utah, convening Grand County stakeholders for discussions on tourism, economic development, and community growth. The live site currently highlights the August 20, 2024 edition; verify whether a new date is scheduled before recommending attendance.
+The Grand Summit Moab is a regional business conference in Moab, Utah, convening Grand County stakeholders for discussions on tourism, economic development, and community growth. EVENT: Grand Summit Moab provides a bounded benefit: Moab and southeastern Utah business owners, tourism operators, and community leaders focused on sustainable tourism and local economic planning.
 
 ## Who It's For
 

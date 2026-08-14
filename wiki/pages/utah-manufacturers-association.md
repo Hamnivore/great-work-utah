@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Identifiers:** ein=87-0187660
 **Primary Location:** Utah
@@ -18,10 +19,7 @@
 
 ## Summary
 
-The Utah Manufacturers Association is a long-running statewide manufacturing association. Its official site says UMA has served Utah manufacturing since 1905 and represents more than 1,200 manufacturing and service-provider companies across the state.
-
-For founders and operators, UMA is best understood as a membership, advocacy, workforce, safety, and networking path for manufacturing companies, not as a startup accelerator.
-
+The Utah Manufacturers Association is a long-running statewide manufacturing association. For founders and operators, UMA is best understood as a membership, advocacy, workforce, safety, and networking path for manufacturing companies, not as a startup accelerator.
 ## Who It's For
 
 Utah manufacturers and manufacturing-service providers that want industry connections, training, advocacy, workforce support, safety resources, and member benefits.

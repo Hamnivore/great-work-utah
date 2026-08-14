@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Cedar City, UT
 **Utah Location:** Iron County, UT
@@ -17,9 +18,8 @@
 
 ## Summary
 
-Cedar City's Economic Development office promotes business growth, company attraction, and quality-of-life improvements in Iron County. Verified on the official city site (2026-07-14): the page highlights regional assets (transportation, air cargo, highway access), publishes business news, and links to a Resimplifi property search map for available commercial sites around Cedar City.
 
-This is a municipal economic-development front door, not a standalone loan fund.
+Cedar City's Economic Development office handles business attraction and growth for Iron County. It is a useful local government doorway for sites and regional assets, not a uniquely powerful intervention.
 
 ## Who It's For
 

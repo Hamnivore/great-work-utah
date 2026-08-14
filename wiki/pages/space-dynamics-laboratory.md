@@ -24,9 +24,8 @@
 
 ## Summary
 
-Space Dynamics Laboratory is a nonprofit research organization owned by Utah State University. Its public materials describe it as a University Affiliated Research Center that delivers mission engineering and technologies for national priorities across defense, science, and space exploration.
 
-For the Great Work Utah wiki, SDL is a bridge between students, researchers, national security, and real space hardware. It is one of the state's most durable technical institutions.
+Utah State University's Space Dynamics Laboratory builds sensors, satellites, and mission systems for science and national security. Its durable government and space capability changes what Utah institutions can execute, but comparable national laboratories keep it below a field-defining tier.
 
 ## Impact
 

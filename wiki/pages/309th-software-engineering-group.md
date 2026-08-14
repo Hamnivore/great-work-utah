@@ -18,9 +18,8 @@
 
 ## Summary
 
-The 309th Software Engineering Group (309th SWEG) is a U.S. Air Force organization at Hill Air Force Base that writes and maintains the flight, weapons, and mission software sustaining most of the Air Force combat fleet — F-35, F-22, F-16, A-10, ICBMs, cruise missiles, and emerging B-21 Raider sustainment. Roughly 2,000+ engineers work here, making it one of the largest defense software organizations in the United States.
 
-For the wiki, the 309th is civilizationally important and genuinely excellent engineering for the right person — safety-critical code on actual combat aircraft, modern DevSecOps practices on classified networks, and a talent pipeline into defense-tech startups. It is not a company and not globally category-defining in the startup sense; it is a government organic software depot with government pay scales, clearance gates, and institutional process. Anyone considering this path should also think clearly about the ethics of weapons work.
+Hill Air Force Base's 309th Software Engineering Group maintains flight, weapons, and mission code across much of the U.S. combat-aircraft and nuclear-deterrent fleet. Its software directly enables systems with global, potentially civilization-scale consequences, and no substitute could absorb that classified portfolio without major capability loss.
 
 ## Impact
 

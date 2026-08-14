@@ -14,7 +14,8 @@
 
 ## Summary
 
-Josh James is a Utah entrepreneur best known for co-founding Omniture and Domo — two enterprise software companies he built back-to-back in Utah Valley. He co-founded Omniture in 1996 with John Pestana, led the company through its NASDAQ IPO in 2006, and sold it to Adobe for $1.8 billion in 2009 — the largest Utah tech exit of its era at the time. He left Adobe in 2010 and founded Domo, a business intelligence and data integration platform that went public on NASDAQ in 2018 (ticker: DOMO).
+
+Josh James co-founded Utah software companies Omniture and Domo, taking both public before Adobe bought Omniture for $1.8 billion. That repeat founder record helped prove Utah could produce major enterprise-software companies, though neither market depended uniquely on him.
 
 ## Impact
 

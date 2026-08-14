@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-The Business Resource Center at Utah Tech University, sponsored by Zions Bank and housed at [Atwood Innovation Plaza](atwood-innovation-plaza.md), offers no-cost business consultations for launching or growing a venture. The official page positions it as a one-stop shop for business planning, marketing, LLC formation, government contracts, export, workspace, and mentorship.
+The Business Resource Center at Utah Tech University, sponsored by Zions Bank and housed at Atwood Innovation Plaza, offers no-cost business consultations for launching or growing a venture. Business Resource Center - Utah Tech University provides a bounded benefit: Southern Utah entrepreneurs and small-business owners — including those in Washington and Kane counties through the center's rural.
 
 ## Who It's For
 

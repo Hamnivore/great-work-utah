@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Orem, UT
 **Utah Location:** Orem, UT
@@ -18,10 +19,7 @@
 
 ## Summary
 
-UVU's entrepreneurship resource is now presented publicly as the Chelsea & Casey Baugh Entrepreneurship Institute. Its official page describes opportunities for students, mentors, and community members, with programs that include coursework, workshops, mentoring appointments, events, pitch practice, competitions, VentureCon, ZinnStarter, seed funding, and We Lift.
-
-The public name is now the Chelsea & Casey Baugh Entrepreneurship Institute; the older imported title is retained only in the stable URL.
-
+UVU's entrepreneurship resource is now presented publicly as the Chelsea & Casey Baugh Entrepreneurship Institute. The public name is now the Chelsea & Casey Baugh Entrepreneurship Institute; the older imported title is retained only in the stable URL.
 ## Who It's For
 
 The institute primarily helps UVU students who want to launch or grow a business while in school. It also has pathways for mentors, sponsors, and community members who want to support student entrepreneurs.

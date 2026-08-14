@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** B
 **Focus:** invention disclosure, university IP licensing, faculty startups, research commercialization, technology transfer
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -19,10 +20,7 @@
 
 ## Summary
 
-The University of Utah Technology Licensing Office (TLO) is the university's front door for invention disclosure, intellectual-property protection, licensing to industry, and faculty/researcher startup formation. It is the office formerly known as the PIVOT Center (and, before that, Technology & Venture Commercialization / Tech Transfer). For any University of Utah researcher trying to turn a discovery into a license or a company, this is the required institutional path — not an optional accelerator.
-
-The office publishes a faculty commercialization guide, an available-technologies portal for industry partners, and events (I-Corps cohorts, Tech Tuesdays). Contact: 801.581.7792; 303 Chipeta Way, #14, Salt Lake City, UT 84108.
-
+The University of Utah Technology Licensing Office (TLO) is the university's front door for invention disclosure, intellectual-property protection, licensing to industry, and faculty/researcher startup formation. The office publishes a faculty commercialization guide, an available-technologies portal for industry partners, and events (I-Corps cohorts, Tech Tuesdays).
 ## Who It's For
 
 - University of Utah faculty, staff researchers, postdocs, and students with a discovery, software, data asset, device, therapeutic, or other potentially protectable work
@@ -30,6 +28,12 @@ The office publishes a faculty commercialization guide, an available-technologie
 - Founders of U of U spinouts who need the licensing and startup-formation path clarified before fundraising
 
 Not a fit for BYU, USU, or other-campus inventors (use that campus's tech-transfer office), or for Main Street businesses with no university IP.
+
+## What It Provides
+
+From the [official site](university-of-utah-technology-licensing-office-official-website.md), the office handles invention disclosure intake, intellectual-property protection and patent prosecution, market assessment, and license negotiation — either to an existing company or into a new spinout. It publishes a [Faculty Commercialization Guide](https://technologylicensing.utah.edu/inventors/faculty-commercialization-guide) covering disclosure through startup formation, runs an available-technologies portal for industry partners looking to license U of U work, and hosts events including I-Corps cohorts and Tech Tuesdays.
+
+The load-bearing item is the license itself. A U of U inventor cannot license university-owned IP around this office, so for that audience the TLO is not one option among several — it is the only route from a disclosure to a company that owns the right to practice the invention.
 
 ## How To Use It
 

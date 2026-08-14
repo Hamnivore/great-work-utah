@@ -16,7 +16,7 @@
 
 ## Summary
 
-KEVA develops smart locks and access-management software for rental-property operators. Its design centers on digital keys stored in Apple Wallet or Google Wallet and operation without managed Wi-Fi at each property.
+KEVA develops smart locks and access-management software for rental-property operators. Public sources establish the product direction and an early-access offer, but not scaled deployment.
 
 ## Impact
 

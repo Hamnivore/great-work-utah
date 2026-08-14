@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Domain:** capital-programs
 **Primary Location:** Monticello, UT
@@ -14,7 +15,8 @@
 
 ## Summary
 
-Monticello Coworking Space (branded on its booking site as "Monticello Library") is a shared workspace at 80 North Main Street in Monticello, Utah. The official members site offers membership purchases, punch passes, and reservable conference rooms, privacy booths, lounge areas, and small private offices.
+
+Monticello Coworking Space offers shared desks, meeting rooms, and private offices at 80 North Main Street. Flexible workspace is unusually useful in rural San Juan County, but the benefit remains local and the facility is replaceable.
 
 ## Who It's For
 

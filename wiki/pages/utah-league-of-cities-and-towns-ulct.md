@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,9 +18,7 @@
 
 ## Summary
 
-Verified in headless Chrome (2026-07-14): The Utah League of Cities and Towns (ULCT) is the interlocal cooperative for Utah municipalities — advocacy, training, and technical assistance for city and town officials. `ulct.org` redirects to the live interim site at `ulct.utah.gov`. ULCT serves local government, not founders directly.
-
-
+The Utah League of Cities and Towns gives municipal officials a shared voice, training, and technical assistance. Pooling expertise can keep small cities from solving the same governance problems alone, but its impact is indirect and bounded to Utah local government rather than founders or residents at large.
 ## Who It's For
 
 Mayors, city council members, city staff, and municipal attorneys seeking training and state/federal advocacy. Founders may encounter ULCT only indirectly through city business licensing or economic-development referrals.

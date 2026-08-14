@@ -19,12 +19,7 @@
 
 ## Summary
 
-Carterra builds high-throughput surface plasmon resonance (SPR) instruments — chiefly the LSA family and newer Vega/Ultra platforms — for monoclonal-antibody discovery and characterization. The company's own 2017 rename release states it was **Wasatch Microfluidics, Inc.** until **2017-05-01**, when it became **Carterra, Inc.**; that release also says the company was founded in **2005** and is based in Salt Lake City
-([rename announcement](carterra-wasatch-microfluidics-rename-2017.md)). Its homepage lists **825 N. 300 W. Ste. C309, Salt Lake City, UT 84103**
-([official site](carterra-official-website.md)).
-
-The Utah origin is documented outside the company's marketing: a University of Utah Lassonde Entrepreneur Institute profile says the firm **formed on the U campus in 2004** from mechanical-engineering professor **Bruce Gale's** work, with Josh Eckman developing it through the Lassonde New Venture Development Center
-([Lassonde profile](lassonde-wasatch-microfluidics-profile.md)). The profile predates the Carterra name and does not state a legal incorporation date.
+Carterra builds high-throughput surface plasmon resonance (SPR) instruments — chiefly the LSA family and newer Vega/Ultra platforms — for monoclonal-antibody discovery and characterization. Antibody therapeutics depend on knowing how candidates bind — kinetics, affinity, and epitope diversity — early enough to choose the right clones from large libraries.
 
 ## Impact
 

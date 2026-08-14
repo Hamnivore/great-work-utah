@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** B
 **Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,7 @@
 
 ## Summary
 
-Utah APEX Accelerator is the state's practical front door for founders and small businesses trying to sell to government buyers. It helps Utah businesses understand procurement, become eligible vendors, register in government systems, find bid opportunities, review solicitations, and compete for contracts with the Department of Defense and federal, state, and local entities.
+Utah APEX Accelerator is the state's practical front door for founders and small businesses trying to sell to government buyers. Utah APEX Accelerator provides a bounded benefit: APEX helps Utah businesses that want to pursue procurement opportunities, especially companies that can sell products or services to defense, federal, state, or local government buyers.
 
 ## Impact
 

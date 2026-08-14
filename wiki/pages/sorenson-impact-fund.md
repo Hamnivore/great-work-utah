@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,7 +14,8 @@
 
 ## Summary
 
-The Sorenson Impact Foundation is a Salt Lake City impact investor that allocates 100% of its assets to mission-aligned investments supporting social entrepreneurs addressing economic mobility, education, healthcare access, and environmental sustainability. The official site offers an Apply for funding path and describes program-related and mission-related investments.
+
+The Salt Lake City-based Sorenson Impact Foundation commits all its assets to mission-aligned investments in mobility, education, health, and sustainability. Its portfolio can prove social and financial returns coexist, but other impact investors can pursue the same thesis.
 
 ## Who It's For
 

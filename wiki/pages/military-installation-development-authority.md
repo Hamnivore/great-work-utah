@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** military land development, project-area governance, public infrastructure, economic development
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -14,7 +15,8 @@
 
 ## Summary
 
-The Military Installation Development Authority (MIDA) is a State of Utah entity created in 2007 to facilitate economic development involving military initiatives and multi-jurisdiction project areas. Its legal powers and limits come from Utah Code Chapter 63H-1; its website publishes current project-area material.
+
+Utah's Military Installation Development Authority coordinates development around military installations and special project areas. It can align land, infrastructure, and jurisdictions for individual sites, but the page does not show statewide structural effects.
 
 ## Who It's For
 

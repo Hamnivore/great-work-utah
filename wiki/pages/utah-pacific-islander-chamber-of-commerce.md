@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -17,8 +18,7 @@
 
 ## Summary
 
-The Utah Pacific Islander Chamber of Commerce (UPIC) is the state-recognized chamber serving Utah's Pacific Islander business community. Verified on upichamber.org: UPIC is a 501(c)(6) offering mentorship, culturally relevant training, grants information, ambassador and influencer programs, the Pacific Islander Business Summit, and civic engagement for PI entrepreneurs statewide.
-
+The Utah Pacific Islander Chamber of Commerce provides culturally relevant mentorship, training, civic engagement, and business connections. That trusted network can close information and relationship gaps for Pacific Islander entrepreneurs, but its demonstrated impact remains bounded to members and events.
 ## Who It's For
 
 Pacific Islander-owned and -serving businesses in Utah; entrepreneurs seeking culturally relevant business education, mentorship, and community networks; vendors and sponsors aligned with PI economic growth.

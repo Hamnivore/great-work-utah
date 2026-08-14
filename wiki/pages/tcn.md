@@ -18,8 +18,7 @@
 
 ## Summary
 
-TCN builds cloud contact-center software for organizations managing inbound and outbound customer communications. Its platform combines calling, workforce tools, analytics, compliance controls and integrations, and the company operates a substantial engineering organization from St. George.
-
+TCN builds cloud contact-center software for organizations managing inbound and outbound customer communications. Combining calling, workforce tools, analytics, compliance controls, and integrations with a substantial Saint George engineering operation makes it a deeper Utah software company than a remote sales outpost.
 ## Impact
 
 Contact centers sit between people and consequential services such as healthcare, finance, collections and public information. TCN can improve that interaction through more reliable communications, better staffing and compliance tooling, although automation that increases call volume without improving customer outcomes would create the opposite effect. The important measure is whether its software makes necessary service more accessible and accountable, not simply whether it makes more contacts per hour.

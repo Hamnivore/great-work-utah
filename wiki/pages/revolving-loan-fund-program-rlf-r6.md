@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Richfield, UT
@@ -18,9 +19,8 @@
 
 ## Summary
 
-The R6 Regional Council Revolving Loan Fund (RLF) is listed as gap financing for small businesses in Juab, Millard, Piute, Sanpete, Sevier, and Wayne counties, but the dedicated RLF URL is unavailable; use the organization home and verify every term directly.
 
-Treat loan sizes, rates, and application steps as unverified until confirmed directly with R6 staff.
+R6 Regional Council lists a revolving loan fund for small businesses in six central Utah counties that need gap financing. The dedicated page is unavailable, so its practical value depends on direct verification with fund manager Amy Rosquist at arosquist@R6.utah.gov or 435-893-0720 before relying on any term.
 
 ## Who It's For
 

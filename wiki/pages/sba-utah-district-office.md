@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Funding, Late Stage Growth, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,7 @@
 
 ## Summary
 
-The SBA Utah District Office is the federal small-business doorway for Utah. It is most useful when a founder's question touches SBA-backed lending, federal contracting certifications, disaster recovery, or navigation among SBA partner organizations.
+The SBA Utah District Office is the federal small-business doorway for Utah. The federal award record answers the *shape* of Utah SBA activity — guaranteed lending dominates by three orders of magnitude over grants — but not the sector or stage mix, which needs the SBA 7(a)/504 loan-level data rather than the USAspending rollup.
 
 ## Impact
 

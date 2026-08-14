@@ -23,9 +23,8 @@
 
 ## Summary
 
-Beginning in the late 1980s, Intermountain Healthcare became one of the best-known health systems applying industrial quality-improvement methods to clinical care. Led by Brent C. James — a physician and statistician who came to Utah in 1986 from the Harvard School of Public Health — Intermountain built data systems, clinical programs, evidence-based protocols, variation measurement, and a training program that treated healthcare delivery as an object of research and engineering.
 
-The work was not a drug or a device. It was a system for making care more reliable: measure how care is actually delivered, find variation that does not improve outcomes, design protocols with clinicians, track adherence and results, and keep updating as evidence changes. In 1996 Intermountain began extending "active management" to high-priority clinical processes; over time it placed dozens of processes, representing the large majority of care delivered, under that kind of managed oversight.
+Beginning in the late 1980s, Intermountain Healthcare applied industrial quality methods to clinical care. It showed health systems worldwide that measuring variation and managing care processes with physicians could improve delivery—a field-defining model, not merely a Utah efficiency project.
 
 ## Impact
 

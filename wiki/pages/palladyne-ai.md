@@ -23,9 +23,8 @@
 
 ## Summary
 
-Palladyne AI is a Salt Lake City public company (NASDAQ: PDYN) building embodied-AI software that lets robots and drones perceive, learn, reason, and act autonomously at the edge, without cloud dependency. Its lineage runs back to the robotics company Sarcos before pivoting to pure AI software and rebranding as Palladyne. Its flagship products are **Palladyne IQ** and **SwarmOS**. [Official Website: Palladyne AI](palladyne-ai-official-website.md)
 
-Through late 2025 and into 2026, Palladyne shifted again — describing itself as a "vertically integrated defense and industrial technology company" after acquiring avionics, precision-machining, and fabrication businesses. For the wiki, it is a real Utah embodied-AI company, but one whose strategy has moved repeatedly and is now closely tied to defense procurement and capital-markets pressure. [Official Website: Palladyne AI](palladyne-ai-official-website.md)
+Salt Lake City-based Palladyne AI (NASDAQ: PDYN) builds embodied-AI software for robots and drones to perceive, learn, and act without a cloud connection ([official site](palladyne-ai-official-website.md)). Its bet is edge autonomy where latency, bandwidth, or connectivity fail—in warehouses, battlefields, and other disconnected environments.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Funding, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,8 +14,7 @@
 
 ## Summary
 
-The Get Started: Business Idea Challenge remains listed on Startup State's business-resource card (live in headless Chrome, 2026-07-14). The older marketing path `https://startup.utah.gov/get-started/` 404s (Chrome error page). Prefer the business-resource card and Startup State funding competitions list; treat dollar amounts and milestone timelines as unverified until a detailed program page restates them.
-
+The Get Started: Business Idea Challenge remains listed on Startup State's business-resource card . Get Started: Business Idea Challenge has no estimable impact yet because the Business Idea Challenge actively running, and where is the current application form.
 
 ## Who It's For
 

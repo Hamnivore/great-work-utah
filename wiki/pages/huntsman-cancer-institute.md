@@ -24,9 +24,7 @@
 
 ## Summary
 
-Huntsman Cancer Institute (HCI) is the cancer research institute and hospital of University of Utah Health, founded in 1995 through a gift from Jon M. and Karen Huntsman. It is the National Cancer Institute–designated Comprehensive Cancer Center for a five-state region — Utah, Idaho, Montana, Nevada, and Wyoming — which HCI describes as the largest geographic catchment area of any cancer center in the country. The institute reports more than 400 open clinical trials and more than 300 research teams. [Source: Huntsman Cancer Institute Official Pages (Leadership, NCI Designation, U2TAH)](huntsman-cancer-institute-official-website.md)
-
-For the Great Work Utah wiki, HCI is the scientific anchor of Utah's cancer-research ecosystem and one of the most consequential medical research institutions in the Mountain West.
+Huntsman Cancer Institute (HCI) is the cancer research institute and hospital of University of Utah Health, founded in 1995 through a gift from Jon M. and Karen Huntsman. HCI states that more genes for inherited cancers have been discovered there than at any other cancer center.
 
 ## Impact
 

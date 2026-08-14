@@ -24,9 +24,8 @@
 
 ## Summary
 
-Recursion is a Salt Lake City TechBio company trying to industrialize drug discovery through large-scale biological data, automated experiments, machine learning, and clinical development. Its public materials describe the Recursion OS as a platform spanning physical experimentation and in-silico analysis, backed by more than 50 petabytes of multimodal biological and chemical data.
 
-For the Great Work Utah wiki, Recursion is one of the clearest examples of an ambitious Utah company at the intersection of AI, biology, and therapeutics. It is not just a local biotech employer. It is an attempt to make biology more computable.
+Salt Lake City-based Recursion combines automated biology, large datasets, machine learning, and clinical development to industrialize drug discovery. If its platform reliably finds better targets and compresses discovery across many diseases, it could move the global frontier rather than merely produce one drug.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=87-0117545
 **Primary Location:** Box Elder County, UT
@@ -19,7 +20,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Box Elder Chamber of Commerce is the county's membership-based business organization, focused on business support, community connections, and leadership and advocacy for Box Elder County. Public pages describe it as a catalyst and convener for existing and new businesses in northern Utah.
+The Box Elder Chamber of Commerce provides networking, promotion, and advocacy for county businesses. Those services can help individual local operators find customers and peers, but they are conventional chamber functions with little impact beyond Box Elder County.
 
 ## Who It's For
 

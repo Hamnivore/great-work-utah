@@ -23,25 +23,8 @@
 
 ## Summary
 
-Nu Skin Enterprises is a Provo-based personal-care and nutrition company that sells through a
-worldwide direct-selling force of independent Brand Affiliates. It is the largest by revenue of the Utah
-direct sellers whose SEC filings this corpus carries, an anchor of the state's
-[direct-selling cluster](utah-direct-selling-industry.md), and — on the evidence of its own
-filings — a business in sustained contraction. (Nature's Sunshine and LifeVantage are also
-Utah-headquartered registrants; neither has been read here, so treat "largest" as bounded by what has
-been ingested.)
 
-The [FY2025 Form 10-K](nu-skin-10k-fy2025.md) reports revenue of $1.49 billion, down 14% in a year
-and down roughly a quarter over two, with Customers down 10%, Paid Affiliates down 11% and Sales
-Leaders down 19%. The company reported net income of $160.2 million for 2025, but that number comes
-from selling a business — a pre-tax gain of about $176.2 million on the January 2025 sale of Mavely —
-not from operations.
-
-Alongside the core business Nu Skin runs **Rhyz**, a strategic investment arm formed in 2018 that now
-holds manufacturing and technology companies and generated $223.6 million, or 15% of 2025 reported
-revenue — a figure the filing states **excluding** Rhyz's sales to the core Nu Skin business, so it
-measures outside revenue rather than the segment's total activity. Rhyz is where Nu Skin's Utah
-*industrial* footprint sits: manufacturing plants in Provo, Draper and West Valley City.
+Nu Skin is a Provo personal-care and nutrition company selling worldwide through multi-level marketing ([Form 10-K](nu-skin-10k-fy2025.md)). Its durable Utah impact is structural: it helped make the state a global center for this distribution model, including both its entrepreneurial reach and its risks.
 
 ## Impact
 
@@ -157,5 +140,5 @@ board does not show.
 
 ## See Also
 
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 - [USANA Health Sciences](usana.md)

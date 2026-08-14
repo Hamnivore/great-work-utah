@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salina, UT
 **Utah Location:** Salina, UT
@@ -13,7 +14,8 @@
 
 ## Summary
 
-Startup State lists the Salina Chamber with `salina.utah.gov`, which is the Salina City government site — not a chamber homepage. Verified on Salina City's local-organizations page (2026-07-14): the active business group is the **North Sevier Chamber of Commerce** (PO Box 113, chamber@salinaut.org, (435) 650-6821), meeting first Thursdays at member restaurants. The previously linked `salinaut.com` domain did not load. Treat this page as a URL mismatch until Startup State or the chamber publishes a working official site.
+
+Startup State's Salina Chamber listing points to city government, while the active local group appears to be the North Sevier Chamber. A mismatched listing with no reliable chamber page is navigation debt, not demonstrated impact.
 
 ## Who It's For
 

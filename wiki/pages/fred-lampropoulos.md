@@ -13,9 +13,7 @@
 
 ## Summary
 
-Fred Lampropoulos is the founder of [Merit Medical Systems](merit-medical.md), a South Jordan, Utah company that designs and manufactures disposable interventional devices — catheters, micro-access kits, embolization devices, ablation tools, and stents — used by interventional cardiologists, radiologists, and oncologists. He founded the company in 1987 and served as its leader for nearly four decades. Public records describe Merit Medical as a NASDAQ-listed mid-cap (MMSI) with approximately $1.3 billion in annual revenue and more than 6,000 employees globally, making it the largest medical-device employer in the Mountain West.
-
-In October 2025, Lampropoulos handed the CEO role to Martha Aronson — a succession event after roughly 38 years leading a company he built from the ground up. The available evidence suggests he remains associated with the company in some capacity, though his post-succession role has not been confirmed from primary sources reviewed here.
+Fred Lampropoulos is the founder of Merit Medical Systems, a South Jordan, Utah company that designs and manufactures disposable interventional devices — catheters, micro-access kits, embolization devices, ablation tools. Lampropoulos built Merit Medical during the same era that minimally invasive medicine — catheter-based cardiac procedures, image-guided biopsies, endovascular interventions.
 
 ## Impact
 

@@ -23,9 +23,8 @@
 
 ## Summary
 
-PhotoPharmics is a Utah-based, clinical-stage medical device company developing non-invasive phototherapy for neurodegenerative disease. Based in Lehi, the company is advancing Celeste® — a tablet-sized, home-use photo-neuromodulation device that delivers precisely calibrated light through the eye's non-visual photoreceptors.
 
-The scientific bet is that intrinsically photosensitive retinal ganglion cells (ipRGCs) modulate circadian and dopaminergic pathways disrupted in Parkinson's disease. Celeste has FDA Breakthrough Device designation, and the company is running a Phase 3 pivotal trial ("Light for PD") while building on prior Phase 2 data published in *Neurotherapeutics*. [Official Website: PhotoPharmics](photopharmics-official-website.md)
+Utah-based PhotoPharmics is testing non-invasive light therapy for neurodegenerative disease ([official site](photopharmics-official-website.md)). A validated treatment that improves Parkinson's symptoms without drugs would change care structurally; clinical evidence, not the device concept, is the live constraint.
 
 ## Impact
 

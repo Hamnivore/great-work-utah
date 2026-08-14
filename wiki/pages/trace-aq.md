@@ -19,10 +19,7 @@
 
 ## Summary
 
-Trace AQ is a Salt Lake City startup providing physics-based AI air quality and wildfire smoke forecasting. The company spun out of University of Utah research in Chemical Engineering and Atmospheric Sciences, licensing NSF-funded forecasting technology through the U's Technology Licensing Office.
-
-Products include Flow AQ and Trace AQ | Aero. The earlier seed-round figure is not present in the captured official source and requires a captured primary financing announcement.
-
+Trace AQ applies physics-based artificial intelligence to air-quality and wildfire-smoke forecasting. Better local forecasts can guide health and operations decisions, but the page shows neither wide deployment nor independently verified scale, so its demonstrated impact remains bounded.
 ## Impact
 
 Wildfire smoke is a fast-growing public health crisis across the western United States. Trace AQ markets improved forecast performance, but the earlier comparative percentage is not present in the captured official source.

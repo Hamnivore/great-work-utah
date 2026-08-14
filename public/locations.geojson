@@ -469,8 +469,11 @@
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Logan",
-        "domains": [],
-        "focus": "synthetic spider silk, biomaterials, advanced materials, university spinout"
+        "domains": [
+          "materials-mfg",
+          "health-bio"
+        ],
+        "focus": "synthetic spider silk, recombinant proteins, biomaterials, adhesives, university spinout"
       }
     },
     {
@@ -2987,7 +2990,9 @@
         "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
         "anchorKind": "regional",
         "region": "Salt Lake City",
-        "domains": [],
+        "domains": [
+          "health-bio"
+        ],
         "focus": "directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell screening"
       }
     },
@@ -4045,6 +4050,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.891,
+          40.7608
+        ]
+      },
+      "properties": {
+        "title": "InnoSys",
+        "type": "venture",
+        "url": "/pages/innosys.md",
+        "siteId": "innosys:40.760800,-111.891000",
+        "siteIndex": 0,
+        "siteCount": 1,
+        "mapLocation": "Salt Lake City regional anchor (not a street address)",
+        "precision": "approximate",
+        "provenance": "https://gis.utah.gov/products/sgid/boundaries/citycountystate/",
+        "anchorKind": "regional",
+        "region": "Salt Lake City",
+        "domains": [
+          "aerospace-defense",
+          "materials-mfg"
+        ],
+        "focus": "vacuum microelectronics, solid state vacuum devices, traveling-wave tubes, extreme-environment electronics, radiation-hardened components, RF power amplifiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.8059498,
           40.6348111
         ]
@@ -4200,7 +4233,7 @@
         "domains": [
           "computing"
         ],
-        "focus": "artificial intelligence, business workflows, early-stage software"
+        "focus": "AI collections, accounts receivable automation, agentic voice and text outreach, SMB service businesses, vertical SaaS"
       }
     },
     {
@@ -5704,13 +5737,17 @@
         "siteId": "nielson-scientific:40.236147,-111.658396",
         "siteIndex": 0,
         "siteCount": 1,
-        "mapLocation": "180 N University Ave, Suite 270, Provo, UT 84601",
-        "precision": "exact",
-        "provenance": "https://www.cbinsights.com/company/nielson-scientific",
+        "mapLocation": "Provo, UT",
+        "precision": "approximate",
+        "provenance": "https://nielsonscientific.com/jobs-1",
         "anchorKind": "site",
-        "region": "unknown",
-        "domains": [],
-        "focus": "deep tech (domain unknown); DOE SBIR"
+        "region": "Provo",
+        "domains": [
+          "materials-mfg",
+          "computing",
+          "space-science"
+        ],
+        "focus": "3D microfabrication, laser nano-ablation, superconducting flex cables, terahertz filters, cryogenic probe cards, semiconductor etching"
       }
     },
     {

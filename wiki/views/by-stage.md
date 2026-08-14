@@ -36,15 +36,12 @@ Generated from `**Stage:**` metadata (147 pages). The grouping key is derived fr
 - [SymbioCellTech](/pages/symbiocelltech.md) · `https://greatutah.work/pages/symbiocelltech.md` · Preclinical → IND-track; ADA Innovation Challenge Award 2024
 - [Thera-T Pharmaceutics](/pages/thera-t-pharmaceutics.md) · `https://greatutah.work/pages/thera-t-pharmaceutics.md` · Preclinical (U2TAH-incubated; approximately $400K funding; animal studies ongoing)
 
-## defunct-or-unknown (5)
+## defunct-or-unknown (2)
 
-- [Araknitek](/pages/araknitek.md) · `https://greatutah.work/pages/araknitek.md` · Unknown (founded 2012; current operational status unverified)
 - [Batu Biologics](/pages/batu-biologics.md) · `https://greatutah.work/pages/batu-biologics.md` · Preclinical (funding unknown)
 - [BioEnergenix](/pages/bioenergenix.md) · `https://greatutah.work/pages/bioenergenix.md` · Unknown as of 2026; last primary public signal is 2014 preclinical partnership press release
-- [InnoSys](/pages/innosys.md) · `https://greatutah.work/pages/innosys.md` · Unknown; DOE SBIR submission noted
-- [Nielson Scientific](/pages/nielson-scientific.md) · `https://greatutah.work/pages/nielson-scientific.md` · Unknown; DOE SBIR submission (Utah Innovation Center cohort)
 
-## early-stage (25)
+## early-stage (26)
 
 - [Autonomous Solutions, Inc. (ASI)](/pages/autonomous-solutions-inc.md) · `https://greatutah.work/pages/autonomous-solutions-inc.md` · Established private company (founded 2000; Utah State University spinout; expanding in 2025–2026)
 - [Baxter Aerospace](/pages/baxter-aerospace.md) · `https://greatutah.work/pages/baxter-aerospace.md` · Series A ($6M, 2025)
@@ -52,11 +49,12 @@ Generated from `**Stage:**` metadata (147 pages). The grouping key is derived fr
 - [Coreform](/pages/coreform.md) · `https://greatutah.work/pages/coreform.md` · Private; operational; DOE SBIR Phase II recipient
 - [CycloKinetics](/pages/cyclokinetics.md) · `https://greatutah.work/pages/cyclokinetics.md` · Private, venture-backed (amount and date not publicly disclosed)
 - [Eden Technologies](/pages/eden-technologies.md) · `https://greatutah.work/pages/eden-technologies.md` · Seed ($1M+ raised: $750K seed + $250K Utah Innovation Fund, as of 2023)
-- [Evolution Bio](/pages/evolution-bio.md) · `https://greatutah.work/pages/evolution-bio.md` · Early; Nucleus Fund, University of Utah, and Altitude Lab backing (circa 2022)
+- [Evolution Bio](/pages/evolution-bio.md) · `https://greatutah.work/pages/evolution-bio.md` · Early; founded 2022, backed by Nucleus Fund, University of Utah, and Altitude Lab; listed as an Altitude Lab …
 - [Hypercraft](/pages/hypercraft.md) · `https://greatutah.work/pages/hypercraft.md` · Series A ($26M raised, June 2025; ~$106M post-money valuation)
 - [Inherent Biosciences](/pages/inherent-biosciences.md) · `https://greatutah.work/pages/inherent-biosciences.md` · Private; Series A; NIH grant-funded
+- [InnoSys](/pages/innosys.md) · `https://greatutah.work/pages/innosys.md` · Operating since 2000; privately held, sustained by SBIR/STTR and defense contracts across DoD, DOE, and NASA
 - [Intactis Bio](/pages/intactis-bio.md) · `https://greatutah.work/pages/intactis-bio.md` · Pre-seed; biocomputation alpha platform live (2025); $250K Nucleus Fund + $100K RPV
-- [Interval AI](/pages/interval-ai.md) · `https://greatutah.work/pages/interval-ai.md` · Early-stage operating company; self-reported $1M ARR in June 2026
+- [Interval AI](/pages/interval-ai.md) · `https://greatutah.work/pages/interval-ai.md` · Early-stage operating company; backed by Philo Ventures' Sandbox Fund; self-reported $1M ARR in June 2026
 - [MasterControl](/pages/mastercontrol.md) · `https://greatutah.work/pages/mastercontrol.md` · Established, privately held; $150M Series A growth investment from Sixth Street Growth (2022) at a reported $…
 - [Music AI (Moises)](/pages/music-ai.md) · `https://greatutah.work/pages/music-ai.md` · Series A ($40M, January 2025; Connect Ventures / CAA+NEA, Kickstart, Samsung Next, Pelion)
 - [NephroNovus](/pages/nephronovus.md) · `https://greatutah.work/pages/nephronovus.md` · Extremely early; founded circa 2023; Altitude Lab alumni per public portfolio
@@ -109,12 +107,13 @@ Generated from `**Stage:**` metadata (147 pages). The grouping key is derived fr
 - [Wavetronix](/pages/wavetronix.md) · `https://greatutah.work/pages/wavetronix.md` · Private established company
 - [Xandem](/pages/xandem.md) · `https://greatutah.work/pages/xandem.md` · Commercial (consumer pivot underway as of 2024)
 
-## government-or-nonprofit (6)
+## government-or-nonprofit (7)
 
 - [Best Friends Animal Society](/pages/best-friends-animal-society.md) · `https://greatutah.work/pages/best-friends-animal-society.md` · Established national nonprofit; sanctuary founded 1984 per self-reported history
 - [Globus Relief](/pages/globus-relief.md) · `https://greatutah.work/pages/globus-relief.md` · Established nonprofit; IRS recognition since 1998; operates as Globus Relief (legal name Globous Relief Fund)
 - [Hope Squad](/pages/hope-squad.md) · `https://greatutah.work/pages/hope-squad.md` · Nonprofit program founded in Provo schools; national expansion self-reported since Timpview High pilot
 - [Huntsman World Senior Games](/pages/huntsman-world-senior-games.md) · `https://greatutah.work/pages/huntsman-world-senior-games.md` · Established nonprofit event; founded 1987 as World Senior Games; Huntsman sponsorship from 1989
+- [Nielson Scientific](/pages/nielson-scientific.md) · `https://greatutah.work/pages/nielson-scientific.md` · Operating; bootstrapped on federal R&D — $4.65M in SBIR/STTR awards across nine Phase I and three Phase II pr…
 - [OxEon Energy](/pages/oxeon-energy.md) · `https://greatutah.work/pages/oxeon-energy.md` · Private; DOE-funded ($36M+ in federal grants); operational
 - [Sundance Institute](/pages/sundance-institute.md) · `https://greatutah.work/pages/sundance-institute.md` · Established 501(c)(3) nonprofit; founded 1981
 
@@ -168,12 +167,13 @@ Generated from `**Stage:**` metadata (147 pages). The grouping key is derived fr
 - [USANA Health Sciences](/pages/usana.md) · `https://greatutah.work/pages/usana.md` · Established; public (NYSE: USNA), core direct-selling business declining
 - [Weave](/pages/weave.md) · `https://greatutah.work/pages/weave.md` · Public company (NYSE: WEAV); established, ~40,000 customer locations
 
-## unclassified (5)
+## unclassified (6)
 
+- [Araknitek](/pages/araknitek.md) · `https://greatutah.work/pages/araknitek.md` · Apparently inactive; founded 2012 as a Utah State University spin-out, no public activity found after 2017
 - [Blundell Geothermal Plant](/pages/blundell-geothermal-plant.md) · `https://greatutah.work/pages/blundell-geothermal-plant.md` · Operating utility-owned geothermal plant
 - [Jump Aero](/pages/jump-aero.md) · `https://greatutah.work/pages/jump-aero.md` · Development (JA1 Pulse in development as of 2025)
-- [Utah's Direct-Selling Industry](/pages/utah-direct-selling-industry.md) · `https://greatutah.work/pages/utah-direct-selling-industry.md` · Ecosystem / cluster
 - [Utah Film Industry](/pages/utah-film-industry.md) · `https://greatutah.work/pages/utah-film-industry.md` · Ecosystem / cluster
+- [Utah's Multi-Level Marketing Industry](/pages/utah-multi-level-marketing-industry.md) · `https://greatutah.work/pages/utah-multi-level-marketing-industry.md` · Ecosystem / cluster
 - [Utahn](/pages/utahn.md) · `https://greatutah.work/pages/utahn.md` · New publication; public founder essay and editorial charter published in 2026
 
 ## university-research (5)

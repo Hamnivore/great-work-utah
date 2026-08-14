@@ -20,26 +20,7 @@
 
 ## Summary
 
-USANA Health Sciences is a Salt Lake City manufacturer of nutritional, skincare and
-weight-management products, sold internationally through a direct-selling network of Brand Partners.
-It is one of the Utah-headquartered direct sellers listed on a U.S. exchange, alongside
-[Nu Skin](nu-skin.md), Nature's Sunshine and LifeVantage, and part of the state's
-[direct-selling cluster](utah-direct-selling-industry.md); it and Nu Skin are the two whose filings this
-corpus has read.
-
-The [FY2025 Form 10-K](usana-10k-fy2025.md) contains the fact that matters most about the company
-right now, and it is easy to misread. Consolidated net sales rose 8.3% to $925.3 million — but the
-entire increase came from **Hiya**, a children's-vitamin brand USANA bought in December 2024 that
-sells direct-to-consumer. The core nutritional segment, which is the direct-selling business, fell
-6.9% to $793.3 million, and net earnings dropped 74.4% to $10.8 million. Both percentages need one
-adjustment before use: fiscal 2025 was a **53-week year** against 52 weeks in 2024, so the growth is
-flattered by an extra week of trading and the core decline is understated by it.
-
-USANA is genuinely a manufacturer, which is unusual in this industry: it conducts manufacturing,
-production and quality control in-house for approximately 56% of its products, at a facility at its Salt
-Lake City headquarters plus an adjacent 54,000-square-foot plant for food products. About 1,570 employees
-work across 22 countries, 41% of them in the United States and 28% in China.
-
+USANA is a Salt Lake City nutrition and skincare manufacturer selling through multi-level marketing. Its $925 million scale is real, but recent growth came entirely from acquired children's-vitamin brand Hiya, exposing how replaceable the core distribution business has become.
 ## Impact
 
 USANA's most durable effect in Utah is industrial rather than commercial: an owned manufacturing,
@@ -131,5 +112,5 @@ dated rather than cited.
 
 ## See Also
 
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 - [Nu Skin Enterprises](nu-skin.md)

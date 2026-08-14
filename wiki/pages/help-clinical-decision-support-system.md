@@ -19,9 +19,7 @@
 
 ## Summary
 
-HELP, short for Health Evaluation through Logical Processing, was a hospital information system built at LDS Hospital in Salt Lake City with deep ties to the University of Utah medical-informatics community. Led by people such as Homer R. Warner, T. Allan Pryor, and Reed M. Gardner, it grew from specialized cardiac and intensive-care settings into an integrated hospital system for patient data, orders, laboratory results, pharmacy, radiology, nursing documentation, research, and teaching.
-
-The distinctive thing was not just digitizing hospital records. HELP connected structured clinical data to medical logic and knowledge modules so the system could generate alerts, reminders, protocols, antibiotic guidance, ventilator support, blood-product guidance, and other decision support inside routine care.
+HELP, short for Health Evaluation through Logical Processing, was a hospital information system built at LDS Hospital in Salt Lake City with deep ties to the University of Utah medical-informatics community. Modern medicine depends on electronic health records and clinical decision support, but in the 1970s and 1980s that future was not obvious.
 
 ## Impact
 

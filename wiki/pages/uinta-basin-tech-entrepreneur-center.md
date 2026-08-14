@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Vernal, UT
 **Utah Location:** Uinta Basin
@@ -18,7 +19,6 @@
 ## Summary
 
 The Bingham Entrepreneurship Center at USU Uintah Basin in Vernal develops entrepreneurial leadership through classes, internships, competitions, and community resources. The official page also offers a free Grow Your Business course (CEML 5700) for local entrepreneurs and incubator space for students and community members.
-
 ## Who It's For
 
 USU Uintah Basin students seeking an entrepreneurship minor, internships, or SEED experiences — plus Uinta Basin entrepreneurs and small-business owners who need free business-development training or incubator access.

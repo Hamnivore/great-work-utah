@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -13,9 +14,7 @@
 
 ## Summary
 
-Cross Creek is a Salt Lake City–based venture capital firm founded in 2006 that focuses on late-stage and crossover investing — "building bridges from private to public markets." Its official site describes partnerships with established venture and growth managers and select smaller funds with deep domain expertise.
-
-For the wiki, Cross Creek is a capital-market node for growth-stage companies and fund relationships, not a front door for first-time Utah founders seeking seed funding.
+Cross Creek is a Salt Lake City–based venture capital firm founded in 2006 that focuses on late-stage and crossover investing — "building bridges from private to public markets." Cross Creek matters to a. Cross Creek provides a bounded benefit: Venture-backed growth companies and fund managers exploring late-stage or pre-IPO capital pathways.
 
 ## Who It's For
 

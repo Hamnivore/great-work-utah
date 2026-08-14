@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Apprenticeship Utah is the state's registered apprenticeship hub for employers and career seekers. The official site describes an earn-and-learn model combining on-the-job training with related instruction, employer tools to build talent pipelines, and statewide stats showing thousands of active apprentices and hundreds of registered programs.
+Apprenticeship Utah is the state's registered apprenticeship hub for employers and career seekers. Apprenticeship Utah provides a bounded benefit: Utah employers who need structured on-the-job training pipelines, and individuals exploring career pathways in trades and skilled occupations (including healthcare, construction, manufacturing, and IT examples cited on the site).
 
 ## Who It's For
 

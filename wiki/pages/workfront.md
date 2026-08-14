@@ -20,8 +20,7 @@
 
 ## Summary
 
-Workfront is an enterprise work-management platform founded in Utah in 2001 under the AtTask name. The company adopted the Workfront name in 2015, then Adobe acquired it for $1.5 billion in a deal completed on December 7, 2020. Adobe reported more than 3,000 customers and one million users at closing. The product continues as Adobe Workfront for planning, coordinating, and tracking enterprise work.
-
+Workfront is an enterprise work-management platform founded in Utah in 2001 under the AtTask name. The product continues as Adobe Workfront for planning, coordinating, and tracking enterprise work.
 ## Impact
 
 At acquisition scale, Workfront reached roughly one million users across more than 3,000 customers, so its breadth extended well beyond Utah. The platform goes deeper than task tracking: it coordinates planning, resources, approvals, and execution across enterprise teams. Its persistence is visible in Adobe's continued investment in Workfront as a named product integrated with Adobe's marketing and creative tools.

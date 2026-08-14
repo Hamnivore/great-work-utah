@@ -15,9 +15,8 @@
 
 ## Summary
 
-Fly's Eye and its successor, the High Resolution Fly's Eye, were University of Utah-led cosmic-ray observatories in Utah's West Desert. Instead of catching ultra-high-energy cosmic rays directly, the detectors watched the atmosphere for faint ultraviolet fluorescence from giant air showers created when extreme-energy particles struck the upper atmosphere.
 
-The original Fly's Eye detector became famous for the October 15, 1991 event nicknamed the Oh-My-God particle: a cosmic ray with an estimated energy of about 3.2 x 10^20 electron volts. HiRes then extended the Utah program with improved optics, stereo observing, and years of measurements of the high-energy cosmic-ray spectrum.
+The University of Utah-led Fly's Eye and HiRes observatories measured ultra-high-energy cosmic rays in the West Desert. Detecting the Oh-My-God particle exposed a global astrophysics problem—how anything reaches that energy—and their calibrated observations moved the frontier for every later experiment.
 
 ## Impact
 

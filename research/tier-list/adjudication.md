@@ -134,6 +134,33 @@ still exists; both domains fail TLS), `interval-ai`, `nielson-scientific` (Focus
 (domain unknown)"). Not one rater used `unranked` as a synonym for "low", which was the failure mode
 worth worrying about.
 
+### Resolved 2026-08-13
+
+All five were researched and ranked, so the corpus now carries no `unranked` pages: `innosys` `C`,
+`nielson-scientific` `C`, `evolution-bio` `C`, `araknitek` `D`, `interval-ai` `D`. Every one was
+unblocked by an existence-or-identity question the raters correctly refused to guess at, and in four
+cases the answer was a page rewrite rather than a letter:
+
+- `innosys` was not a fiber-optic-seal shop of unknown location. It is a Salt Lake City vacuum
+  microelectronics company founded in 2000 with patented SSVD technology, a DOE Phase II worth
+  $995,092, and a $1.75M AFWERX Direct-to-Phase-II. The whole page had been generalized from one
+  SBIR abstract, and the TLS failures were a stale domain — the live site is `innosystech.com`.
+- `nielson-scientific` read `**Focus:** deep tech (domain unknown)` **while its own two linked source
+  pages already recorded the domain, the UEI, and $4,652,265 in SBIR/STTR awards.** This is the
+  finding worth generalizing from this follow-up: the rater was right that the fact page could not
+  support a letter, but the corpus could. A cheap pre-pass that checks whether a page's linked
+  sources contain what the page says is missing would have caught it.
+- `araknitek` is real and appears dead: a 2012 USU spin-out, NSF I-Corps award 1628245 in 2016, no
+  activity found after 2017. The rater's "nothing establishes it currently exists" was accurate about
+  the page and, it turns out, close to accurate about the company.
+- `interval-ai` could not say what the company sold; it sells AI collections outreach to SMB service
+  businesses. `evolution-bio` was the only one where research changed nothing material — the company
+  is corroborated as existing, and its traction still is not.
+
+Two of the five had their tier decided by tiers.md ruling 4 (ceiling divided by credible pursuers)
+rather than by the new evidence, which is the same pressure point flagged under "what did not
+transfer" below.
+
 ## Hype bumps
 
 11, and they land where ruling 9 said they would — mostly at the bottom, rescuing pages that are
@@ -145,7 +172,7 @@ is D"), `iomega-zip-drive` (`C*`), `carv`, `intactis-bio`, `apa-sherpa-everest-s
 
 ## What transferred and what did not
 
-Transferred cleanly: magnitude-not-sign (no rater flinched at weapons, surveillance, or extraction);
+Transferred cleanly: ranking size rather than goodness (no rater flinched at weapons, surveillance, or extraction);
 the enabler counterfactual (the `resource` shelf landed at `D`/`F` without protest); `unranked` as an
 honest refusal; ruling 1's atom discipline, which is what produced the duplicate findings above.
 

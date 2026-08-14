@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Emery County, UT
 **Utah Location:** Emery County, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Emery County Economic Development supports local business growth and recruitment to Emery County. Verified on the Emery County Business Chamber economic-development page (2026-07-14): staff help companies apply for Fast Track Grants, pursue tax incentives, use the BEAR (Business Expansion and Retention) company-by-company analysis program, and access one-on-one SBDC management consulting for starting, maintaining, or growing a business.
+Emery County Economic Development supports local business growth and recruitment to Emery County. Emery County Economic Development provides a bounded benefit: Emery County employers expanding or retaining operations, and companies considering relocation to Emery County that need grant, incentive, or SBDC advising support.
 
 ## Who It's For
 

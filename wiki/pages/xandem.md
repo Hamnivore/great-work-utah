@@ -16,9 +16,7 @@
 
 ## Summary
 
-Xandem is a Salt Lake City company developing RF tomographic sensing: a mesh of small wireless transceivers that measure how people disrupt radio waves between nodes to detect presence and motion through walls without active radar or cameras. Founded from University of Utah electrical and computer engineering research (Joey Wilson, Neal Patwari), it has been bootstrapped with modest NSF SBIR funding and a small angel investment from Ryan Smith.
-
-For the Great Work Utah wiki, Xandem is a U of U spinout with genuine underlying technology and past DHS/NSF interest — but as of 2024 it was pivoting toward consumer home security (Xandem Home, Indiegogo), which weakens the defense and ISR story the legacy entry emphasized.
+Xandem is a Salt Lake City spinout using meshes of radio transceivers to sense motion through walls without cameras or active radar. The technology drew federal interest, but its 2024 pivot toward consumer home security weakens the defense-and-intelligence story the older page implied.
 
 ## Impact
 

@@ -14,7 +14,8 @@
 
 ## Summary
 
-Ryan Smith co-founded [Qualtrics](qualtrics.md) in 2002 in Provo with his brother Scott Smith, his father Jared Smith, and Stuart Orgill. Qualtrics became the largest software company built in Utah — SAP acquired it for $8 billion in 2018, spun it out as an independent public company (NASDAQ: XM) in 2021, and Silver Lake and CPPIB took it private again in 2023 for approximately $12.5 billion. Smith served as CEO for most of this arc. He is also the owner of the Utah Jazz NBA franchise and a prominent civic figure in the state.
+
+Ryan Smith co-founded [Qualtrics](qualtrics.md), leading it through an $8 billion SAP acquisition, a public listing, and a $12.5 billion take-private deal. That record made him a major Utah founder and investor, but experience-management software and sports ownership do not depend uniquely on him.
 
 ## Impact
 

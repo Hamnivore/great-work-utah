@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Verified on the SBA program page and operator site (2026-07-14): T.H.R.I.V.E. Emerging Leaders Reimagined is a free, six-month executive training series for established small business owners, delivered through an online curriculum, in-person CEO mastermind sessions, one-on-one coaching, and a three-year strategic growth plan. The program is not for startups — it targets owners with at least three years in business, $250,000+ annual revenue, and at least one employee besides the owner.
+SBA Thrive is a free six-month executive-education program for established small-business owners who meet its revenue, tenure, and staffing thresholds. Its coaching and three-year growth plan can be substantial for an operator ready to scale, but uncertain Utah cohort locations and deadlines make direct verification essential.
 
 ## Who It's For
 

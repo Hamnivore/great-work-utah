@@ -18,7 +18,8 @@
 
 ## Summary
 
-Les Olson IT is a family-owned Utah business-technology provider. It sells and supports managed IT, cybersecurity, cloud and network services alongside printers, copiers, production-print systems, communications, physical access control and other office technology. The company says it has operated since 1956 and now has more than 300 employees across nine locations.
+
+Les Olson IT supplies managed technology, cybersecurity, cloud, phones, printers, and document systems to Utah organizations. Outsourcing keeps smaller firms operational without full internal teams, but many providers can deliver the same infrastructure.
 
 ## Impact
 

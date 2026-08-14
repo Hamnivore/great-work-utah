@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** startup law, corporate formation, venture financing, M&A, securities, IP, general counsel
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -21,9 +22,7 @@
 
 ## Summary
 
-Kirton McConkie is a full-service Utah law firm — by its own account one of the largest in the state, with 200+ attorneys across Salt Lake City, Lehi, St. George, and Boise. For a founder, the most useful thing to know is that the firm runs a corporate group that handles the legal scaffolding of company-building: entity formation, founder and equity arrangements, capital raises, securities compliance, contracts, and eventual mergers or acquisitions, with IP and tax colleagues in the same building.
-
-This is a generalist big-firm option rather than a startup-only boutique. It fits founders who want one firm that can carry them from formation through financing and a possible exit.
+Kirton McConkie is a full-service Utah law firm with more than 200 attorneys across Salt Lake City, Lehi, Saint George, and other western offices. Its startup value is continuity from formation through financing and acquisition, but the page still cannot show whether that breadth beats a focused boutique on cost or early-stage attention.
 
 ## Impact
 

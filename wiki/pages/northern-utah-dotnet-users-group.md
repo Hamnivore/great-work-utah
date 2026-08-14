@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** .NET software development, peer learning, technical meetups, AI-assisted development
 **Primary Location:** Layton, UT
 **Utah Location:** Layton, UT
@@ -14,18 +15,8 @@
 
 ## Summary
 
-NUNUG is a monthly user group for .NET developers in northern Utah, meeting on the second Thursday — hybrid, in person at Mindfire Technology's Layton office and online via Microsoft Teams. Adults and children are both welcome, which is unusual for a professional user group and is stated explicitly on its site ([official website](nunug-official-website.md)).
 
-The official site carries a March 2026 update saying hybrid meetings are being hosted that year, but
-its news feed stops in 2020 and the next-meeting slot reads TBA — so the site alone supports the
-advertised format, not that any particular meeting occurred
-([official website](nunug-official-website.md)).
-
-The group is nonetheless active, and that is knowable only off-site. Its organizer announced meetings
-in the Forge Utah community Slack every month from March to July 2026, each with a named presenter and
-topic, and described the March meeting as a "comeback meeting" after a dormant period
-([2026 meeting announcements](nunug-2026-meeting-announcements.md)). Those announcements establish
-that meetings were *scheduled*, not that anyone attended.
+NUNUG is a monthly group for dot-NET and C# developers in northern Utah ([official site](nunug-official-website.md)). Its Layton meetings fill a gap north of the Lehi–Provo corridor, but the public calendar does not yet show whether its 2026 comeback is durable.
 
 ## Who It's For
 

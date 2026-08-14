@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Utah Business Forward is an executive conference produced by Utah Business magazine, focused on leadership, innovation, and growth strategies from Utah operators. The next listed edition is November 10, 2026 at the Salt Lake Marriott Downtown at City Creek.
+Utah Business Forward is an executive conference produced by Utah Business magazine, focused on leadership, innovation, and growth strategies from Utah operators. EVENT: Business Forward provides a bounded benefit: Utah executives, founders, and senior operators who want actionable strategies across leadership, growth, innovation, impact, and AI — not early ideation workshops.
 
 ## Who It's For
 

@@ -17,10 +17,7 @@
 
 ## Summary
 
-Wagevo is a Provo financial-technology startup offering earned wage access: employees at participating businesses can transfer wages they have already earned instead of waiting for a scheduled payday. Wagevo integrates with employers' timekeeping and payroll systems, makes the benefit free to employers, and charges employees a flat fee when they choose an early transfer.
-
-The company launched its app in early 2026 and is initially selling to employers with hourly workforces, including restaurants, hotels, and call centers. Its public footprint is still small, and product reach and customer counts have not been independently verified.
-
+Wagevo is a Provo financial-technology startup offering earned wage access: employees at participating businesses can transfer wages they have already earned instead of waiting for a scheduled payday. Its public footprint is still small, and product reach and customer counts have not been independently verified.
 ## Impact
 
 Pay schedules create a timing mismatch: an hourly employee may have earned enough to cover an emergency but not yet received the money. Wagevo's bet is that access to accrued wages can be a less harmful bridge than payday loans, revolving credit, or missed payments. Offering the product through employers also makes payroll data available for calculating accrued earnings and avoids asking an employee to prove income for every transfer.

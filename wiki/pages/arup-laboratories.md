@@ -22,28 +22,7 @@
 
 ## Summary
 
-ARUP Laboratories — legally **Associated Regional and University Pathologists, Inc.** — is a
-Salt Lake City reference laboratory that ARUP and the University of Utah Department of Pathology
-describe as a **national academic reference laboratory** and **nonprofit enterprise of the
-University of Utah and its Department of Pathology**
-([official site](arup-laboratories-official-website.md);
-[U of U pathology](arup-uofu-pathology-about-us.md)). Both the lab and the department characterize
-its work as **clinical and anatomic pathology** testing, including **highly complex and unique**
-and **esoteric** tests that individual hospitals typically cannot run in-house
-([about blurb](arup-uofu-pathology-about-us.md);
-[facilities history](arup-uofu-pathology-facilities.md)).
-
-ARUP reports **3,000+ tests and test combinations** and **150+ academic experts and consultants**
-on its own About page ([official site](arup-laboratories-official-website.md)). It is CAP-, ISO
-15189-, and CLIA-certified by its own account and says it has operated for **more than 40 years**.
-The department's facilities page dates the enterprise to **1984**, when pathology faculty created
-it to support education, research, and service while **financially supporting the Department of
-Pathology** ([facilities history](arup-uofu-pathology-facilities.md)).
-
-For this wiki, ARUP matters as one of Utah's largest life-sciences institutions and as an unusual
-ownership model: a nonprofit reference lab whose stated purpose includes returning margin to a public
-university's pathology department, sitting alongside [Myriad Genetics](myriad-genetics.md) and
-[BioFire Diagnostics](biofire-diagnostics.md) in the Wasatch Front diagnostics cluster.
+ARUP Laboratories — legally Associated Regional and University Pathologists, Inc. — is a Salt Lake City reference laboratory that ARUP and the University of Utah Department of Pathology describe as a national academic reference. The depth argument rests on what reference laboratories actually do: run assays and interpret results that community hospitals and regional labs cannot maintain in-house.
 
 ## Impact
 

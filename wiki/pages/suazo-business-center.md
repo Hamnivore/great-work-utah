@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** B
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Identifiers:** ein=04-3693364
 **Primary Location:** Salt Lake City, UT
@@ -18,8 +19,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): Suazo Business Center is a culturally responsive business development center and CDFI serving Utah's economically disadvantaged communities. Public pages describe bilingual advising, business education in English and Spanish, workshops, and loan support with locations in Salt Lake City, Ogden, and St. George.
-
+Suazo Business Center is a culturally responsive business development center and CDFI serving Utah's economically disadvantaged communities. Bilingual advising, English- and Spanish-language education, workshops, and loan support across Salt Lake City, Ogden, and Saint George make it unusually equipped to close both language and capital gaps.
 ## Who It's For
 
 Existing and aspiring entrepreneurs — especially Latino and underserved founders — who need bilingual business advising, training, workshops, or loan assistance to start or grow a business in Utah.

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** Late Stage Growth
 **Primary Location:** Clearfield, UT
 **Utah Location:** Clearfield, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-Clearfield Job Corps Center is a residential Job Corps campus in Clearfield offering tuition-free education and career-technical training for eligible young adults. The public site describes pathways to high school diplomas, GEDs, and certifications with hands-on training, academic support, and advanced career training options.
+Clearfield Job Corps Center is a residential Job Corps campus in Clearfield offering tuition-free education and career-technical training for eligible young adults. Clearfield Job Corps provides a bounded benefit: Young adults ages 16–24 who qualify for the federal Job Corps program and want tuition-free vocational training, academic credentials, and residential support while preparing for.
 
 ## Who It's For
 

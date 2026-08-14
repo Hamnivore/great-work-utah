@@ -18,8 +18,7 @@
 
 ## Summary
 
-Zaymo is a Lehi startup building interactive ecommerce email: merchants can place shoppable product experiences and other actions inside email rather than sending every recipient to a separate web page. Y Combinator lists it as an active W24 company with a 13-person team.
-
+Zaymo builds interactive ecommerce email that lets shoppers act without opening a separate web page. The 13-person Y Combinator startup has a clear product distinction, but no verified adoption or scale; its demonstrated impact remains limited to early customers.
 ## Impact
 
 Email remains a major commerce channel, but most messages are static wayfinding into a storefront. Zaymo's bet is that reducing the distance between discovery and action improves conversion and makes email function more like an application surface. Its breadth could be large across ecommerce, though the impact is primarily commercial efficiency and the company has not published enough independently verifiable outcome data to establish how much incremental purchasing it creates.

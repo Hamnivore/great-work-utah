@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** medical devices, diagnostics, regulatory affairs, quality systems, clinical trials, reimbursement, medtech startups
 **Domain:** health-bio
 **Primary Location:** unknown
@@ -14,9 +15,8 @@
 
 ## Summary
 
-RQM+ is a medtech CRO and consulting firm focused on regulatory, quality, clinical, lab/material-science, and reimbursement support. It is not Utah-based in the public evidence reviewed, but it is Utah-relevant for medical-device, diagnostic, software-enabled product, and combination-product founders who need specialized regulatory and quality help beyond general startup advice.
 
-The official site explicitly names emerging medtech and startups, medical devices, in vitro diagnostics, software-enabled products, combination products, companion diagnostics, regulatory and quality, clinical trials, lab and material science, and reimbursement.
+RQM+ provides regulatory, quality, clinical, laboratory, and reimbursement support to medical-device companies. That expertise can move a product through approval, but consulting is replaceable and the page does not establish a meaningful Utah footprint.
 
 ## Impact
 

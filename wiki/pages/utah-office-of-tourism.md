@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Other
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,7 +18,9 @@
 
 ## Summary
 
-The Utah Office of Tourism (UOT), part of the Governor's Office of Economic Opportunity, promotes Utah as a travel destination and supports the visitor economy through marketing, industry partnerships, research, and training. Its site reports $13.7B in direct visitor spending (2025 economic impact report), industry events, cooperative marketing grants, and programs such as Going Global training for businesses seeking international visitors.
+The Utah Office of Tourism markets the state and supports its visitor economy through research, partnerships, training, and cooperative grants. With ## Summary
+
+3.7 billion in reported direct visitor spending, it is demand infrastructure for tourism businesses, not just a scenic advertising shop.
 
 ## Who It's For
 

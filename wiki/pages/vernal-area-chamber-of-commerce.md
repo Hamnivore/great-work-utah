@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=87-0215056
 **Primary Location:** Vernal, UT
@@ -18,8 +19,7 @@
 
 ## Summary
 
-The Vernal Area Chamber of Commerce promotes business and community in the Uintah Basin. Verified on the official site (2026-07-14): the chamber offers membership, a member directory and business catalog, events calendar, ribbon-cutting and grand-opening support through its Dinah-Mites ambassadors, and community recognitions including Business of the Month. Tagline on site: "Promoting Business and Community Greatness."
-
+The Vernal Area Chamber of Commerce represents businesses in the Uintah Basin through a directory, events, and local advocacy. Those functions can help members, but the page shows no influence beyond the region or any hard-to-replace mechanism.
 ## Who It's For
 
 Uintah Basin businesses — especially Vernal-area operators — seeking local visibility, networking events, ribbon cuttings, and chamber-led community promotion.

@@ -18,7 +18,7 @@
 
 ## Summary
 
-Bioparin is an early-stage University of Utah spinout, founded around 2023, working to produce heparin synthetically using cell-based or enzymatic biosynthesis rather than animal extraction. Heparin is the most widely used anticoagulant in medicine — deployed in dialysis, cardiac surgery, ICU care, and treatment of blood clots — and the global supply chain is heavily dependent on pig intestines sourced predominantly from China. Bioparin has received STTR federal funding. No major venture capital round has been publicly identified.
+Bioparin is an early-stage University of Utah spinout, founded around 2023, working to produce heparin synthetically using cell-based or enzymatic biosynthesis rather than animal extraction. Heparin's supply chain is one of the most fragile in all of medicine.
 
 ## Impact
 

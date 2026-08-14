@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Other
 **Primary Location:** Utah State University, Logan, UT
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Verified on uwlp.usu.edu/abwf and Startup State (2026-07-14): A Bolder Way Forward is a statewide initiative housed in Utah State University's Utah Women & Leadership Project (UWLP). Its Entrepreneurship spoke targets barriers that limit women-owned business growth and longevity in Utah — including access to capital, mentors, affordable childcare, and awareness of business training resources — through research, convenings, toolkits, and community partnerships.
+A Bolder Way Forward is a statewide initiative housed in Utah State University's Utah Women & Leadership Project (UWLP). A Bolder Way Forward provides a bounded benefit: Utah women entrepreneurs and the organizations that support them — statewide, across industries and business stages listed on Startup State.
 
 ## Who It's For
 

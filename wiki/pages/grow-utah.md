@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Funding
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Grow Utah is a Utah nonprofit, founded in 2005, that connects early-stage founders to statewide startup resources through contests, accelerators, events, and directories. Its official site highlights the RAMP product accelerator, Concept to Company innovation contests, the LIFT outdoor-recreation accelerator, industry challenge events, a Utah startup Connectory directory, and a Utah funding-sources list.
+Grow Utah is a Utah nonprofit, founded in 2005, that connects early-stage founders to statewide startup resources through contests, accelerators, events, and directories. Utah entrepreneurs at idea or pre-revenue stage who want contest-based validation, accelerator support, or a map of statewide startup organizations — especially founders in consumer products, manufacturing, or outdoor recreation.
 
 ## Who It's For
 

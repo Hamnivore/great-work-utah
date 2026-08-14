@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Utah LGBTQ+ Chamber of Commerce is open to businesses of all sizes, sole proprietors, and individuals regardless of sexuality, gender identity, or gender expression. Public pages highlight networking, a member directory, events, job board access, member offers, DEI programming (Workplace Connect), and pathways to NGLCC LGBT Business Enterprise certification.
+The Utah LGBTQ+ Chamber serves businesses and individuals regardless of sexuality or gender identity. Networking, certification pathways, Workplace Connect, events, and a member directory make it a route to commercial credibility and customers—not merely a social affinity group.
 
 ## Who It's For
 

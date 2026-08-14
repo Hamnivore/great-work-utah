@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** rural healthcare, primary care access, health workforce, shortage designations, clinic support, grants
 **Domain:** health-bio
 **Primary Location:** Utah
@@ -14,10 +15,7 @@
 
 ## Summary
 
-The Utah Office of Primary Care and Rural Health (PCRH) is the Utah Department of Health and Human Services office focused on access to primary, behavioral, and oral healthcare in rural and underserved communities. It coordinates the State Office of Rural Health, Primary Care Office, rural hospital and clinic support, health-workforce programs, shortage designations, loan-repayment opportunities, and the Utah Primary Care Grants Program.
-
-PCRH is principally a systems and workforce resource. It helps clinics, hospitals, communities, and healthcare professionals strengthen access; it is not itself a walk-in clinic or a substitute for emergency care.
-
+The Utah Office of Primary Care and Rural Health (PCRH) is the Utah Department of Health and Human Services office focused on access to primary, behavioral, and oral healthcare in rural and underserved communities. It helps clinics, hospitals, communities, and healthcare professionals strengthen access; it is not itself a walk-in clinic or a substitute for emergency care.
 ## Who It's For
 
 - Rural hospitals and clinics seeking technical assistance, certification guidance, or program support.

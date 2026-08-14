@@ -24,9 +24,7 @@
 
 ## Summary
 
-Hypercraft, founded in 2021 and based in Provo, builds hybrid-electric and full-electric powertrain systems for military, performance, and industrial vehicles. Rather than selling one custom propulsion system per customer, it is trying to sell a standardized, software-defined platform that vehicle makers can drop in — the company frames its control layer as an open ecosystem analogous to a mobile operating system for propulsion.
-
-For Utah engineers and operators, Hypercraft is one of the state's more concrete defense-adjacent hardware bets: small, early-stage, technically deep, and tied into the U.S. military vehicle-electrification conversation.
+Hypercraft, founded in 2021 and based in Provo, builds hybrid-electric and full-electric powertrain systems for military, performance, and industrial vehicles. Hypercraft markets high-power export from its hybrid units (its Titan T240 is rated at 240 kW), which matters to a military that increasingly wants forward vehicles to act as mobile power plants.
 
 ## Impact
 

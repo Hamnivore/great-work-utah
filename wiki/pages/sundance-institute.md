@@ -19,9 +19,8 @@
 
 ## Summary
 
-The Sundance Institute is a 501(c)(3) nonprofit founded in 1981 by Robert Redford to discover and support independent storytellers — filmmakers, screenwriters, immersive-media artists, documentary makers, and composers. Redford died in September 2025; the 2026 Park City festival paid tribute to him as the institution he built carries forward. Sundance's administrative headquarters are in Park City, Utah, with the year-round Artist Labs held at the Sundance Resort. Public materials describe a four-decade history of week-long residencies where filmmakers workshop scripts and rough cuts with advisors like Walter Murch, Joan Tewkesbury, and Scott Frank. Films that came out of those labs include *Little Miss Sunshine*, *Boys Don't Cry*, *Whiplash*, *Get Out*, and *Hereditary*.
 
-For the Great Work Utah wiki, Sundance is the cleanest local example of an institution whose impact is cultural, slow, and stubbornly hard to measure — and whose loss would be obvious in retrospect.
+The Sundance Institute develops independent filmmakers through labs and a globally influential festival. Four decades of films and careers would not exist without that pipeline; its credible S-scale bet is cultural, shaping which stories enter world cinema outside the studio system.
 
 ## Impact
 

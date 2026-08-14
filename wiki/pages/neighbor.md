@@ -18,7 +18,8 @@
 
 ## Summary
 
-Neighbor Storage, Inc. operates a marketplace that connects people and businesses needing storage or parking with hosts that have unused space. The company describes itself as Utah-based and serving all 50 states; its marketplace covers conventional storage as well as garages, vehicle and fleet parking, and commercial space.
+
+Neighbor Storage runs a marketplace matching unused space with people and businesses needing storage or parking. It can raise utilization and avoid some construction, but climate-controlled and professionally managed facilities remain necessary and public evidence does not quantify displacement.
 
 ## Impact
 

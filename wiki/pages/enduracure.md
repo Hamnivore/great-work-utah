@@ -18,9 +18,7 @@
 
 ## Summary
 
-EnduraCure is a Salt Lake City startup spun out of Dr. Chen Wang's lab in the Department of Materials Science and Engineering at the University of Utah, founded around 2024. The company is commercializing photocured polymer substrates for flexible electronics that behave like conventional plastics during device use but can be deliberately dissolved in mild chemical baths at end-of-life — allowing recovery of the valuable electronic components (chips, rare metals, displays) embedded in them.
-
-The company was NSF STTR Phase I funded as of the legacy file date. CEO Dennis Pruzan leads the commercialization effort while the underlying chemistry continues development in Chen Wang's lab.
+EnduraCure is a Salt Lake City startup spun out of Doctor Chen Wang's lab in the Department of Materials Science and Engineering at the University of Utah, founded around 2024. EnduraCure provides a bounded benefit: Global e-waste is growing faster than the overall economy.
 
 ## Impact
 

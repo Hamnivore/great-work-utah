@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Maven CREATE is a coworking and event space in Salt Lake City's Maven District at 177 East 900 South, Suite 200. The site markets a wellness-forward remote-work environment with furnished coworking, phone booths, presentation stage, member events, and ties to neighboring Maven Strong fitness and Maven Well wellness professionals.
+
+Maven CREATE is a coworking and event space in Salt Lake City's Maven District. Its community and wellness-oriented workspace can help nearby founders and remote workers, but the effect is room-scale and easily replaced by another office.
 
 ## Who It's For
 

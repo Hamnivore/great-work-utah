@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,10 +18,7 @@
 
 ## Summary
 
-The Utah Korean Chamber of Commerce (UKCC) supports Korean and broader Utah business owners through advocacy, market insight, and networking. Verified on the official site (2026-07-14): it hosts community events (including monthly lunches and the UT SMB Summit & Expo), publishes sponsorship and partnership opportunities, and positions itself as a connector for local market intelligence.
-
-The site focuses on chamber membership and business networking—not direct lending or startup grants.
-
+The Utah Korean Chamber of Commerce (UKCC) supports Korean and broader Utah business owners through advocacy, market insight, and networking. The site focuses on chamber membership and business networking—not direct lending or startup grants.
 ## Who It's For
 
 Korean-American entrepreneurs, Utah small business owners, and professionals seeking culturally connected networking, advocacy, and local market information.

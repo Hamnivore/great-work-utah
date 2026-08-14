@@ -20,10 +20,7 @@
 
 ## Summary
 
-Zanskar Geothermal is a Salt Lake City company applying machine learning and computational geoscience to the oldest hard problem in geothermal energy: finding the heat. Public materials describe the company as building an exploration platform that turns geothermal prospecting from a slow, drill-and-pray exercise into a repeatable, data-driven process. In 2025, press coverage reported that Zanskar confirmed a *blind* geothermal system — one with no surface expression — as a commercial prospect, the first such discovery in over thirty years.
-
-For the Great Work Utah wiki, Zanskar is the cleanest local example of AI work that lives downstream in the physical economy. It is not an AI wrapper around literature search; it is an inference problem under uncertainty, evaluated by drilling a hole in the ground and measuring temperature.
-
+Zanskar Geothermal uses machine learning and geoscience to predict hidden heat, then tests the prediction by drilling. If its blind discoveries generalize, geothermal exploration could shift from expensive geological luck to repeatable inference—an enabling breakthrough with credible global, S-scale upside.
 ## Impact
 
 Geothermal is one of the few clean power sources that is firm and dispatchable: it is on at 3 a.m. in February as readily as at noon in July. The catch has always been site discovery — most subsurface heat is invisible from the surface, and traditional exploration is slow, expensive, and high-risk. The available evidence suggests Zanskar's bet is that breaking the exploration bottleneck shifts the problem for the entire industry from "can we find sites?" to "can we drill them fast enough?" — a far more tractable problem with established playbooks.

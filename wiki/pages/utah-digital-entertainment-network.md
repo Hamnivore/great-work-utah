@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Other, Start a Business
 **Identifiers:** ein=81-1653005
 **Primary Location:** Utah
@@ -14,10 +15,7 @@
 
 ## Summary
 
-The Utah Digital Entertainment Network (UDEN) is a nonprofit, volunteer-led trade community for Utah's film, games, education, and digital-media sectors. Verified on the official site (2026-07-14): the homepage emphasizes Utah's creative-tech heritage and invites industry participants to email details for inclusion, rather than advertising a formal membership application or event calendar on the page itself.
-
-Treat UDEN as a community connector and industry voice, not an accelerator or fund.
-
+The Utah Digital Entertainment Network (UDEN) is a nonprofit, volunteer-led trade community for Utah's film, games, education, and digital-media sectors. Treat UDEN as a community connector and industry voice, not an accelerator or fund.
 ## Who It's For
 
 Utah game developers, filmmakers, digital-media builders, educators, and creative-tech professionals seeking industry community and statewide promotion of Utah's entertainment ecosystem.

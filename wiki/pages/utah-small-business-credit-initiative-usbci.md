@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,9 +18,7 @@
 
 ## Summary
 
-The Utah Small Business Credit Initiative (USBCI), administered by the Governor's Office of Economic Opportunity, is a statewide program designed to enhance access to capital for small businesses, particularly those in underserved communities.
-
-Summary text refreshed from the live Startup State listing (2026-07-14); verify current products, partners, and eligibility on the official USBCI page before recommending.
+The Utah Small Business Credit Initiative is a GOEO program meant to expand capital access, especially for underserved businesses. The page is still too thin to recommend a product: founders must verify current lenders, terms, and eligibility on the official USBCI site.
 
 ## Who It's For
 

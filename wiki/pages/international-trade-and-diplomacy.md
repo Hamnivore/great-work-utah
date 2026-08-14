@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** exports, international expansion, trade missions, foreign investment, diplomacy
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -17,7 +18,8 @@
 
 ## Summary
 
-GOEO's International Trade & Diplomacy work helps explain Utah's global business pathways and directs companies expanding into new markets toward World Trade Center Utah for trade missions, trade shows, workshops, and grant opportunities.
+
+GOEO's International Trade & Diplomacy program routes Utah companies entering foreign markets to World Trade Center Utah for missions, trade shows, workshops, and grants. Its value is navigation, not unique capacity: it points export-ready firms toward the state's established trade operator.
 
 ## Impact
 

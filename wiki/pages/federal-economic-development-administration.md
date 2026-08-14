@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Other
 **Primary Location:** Washington, DC
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-The U.S. Economic Development Administration (EDA), within the Department of Commerce, invests in regional innovation and competitiveness nationwide. EDA.gov describes grant programs for infrastructure, technical assistance, disaster recovery, and economic resilience — Utah communities and organizations compete for EDA funding through regional notices of funding opportunity.
+The US Economic Development Administration funds regional infrastructure, planning, and economic-development projects nationwide. Utah communities can use that capital for projects beyond local budgets, but this page covers a replaceable federal funding channel rather than the downstream work it finances.
 
 ## Who It's For
 

@@ -23,9 +23,8 @@
 
 ## Summary
 
-Halia Therapeutics is a Lehi, Utah clinical-stage biopharmaceutical company developing drugs that target chronic inflammation — specifically the NLRP3 inflammasome pathway implicated in aging and in inflammation-driven disease. Its lead candidate, ofirnoflast (HT-6184), is described as a first-in-class oral allosteric NEK7 inhibitor. The company is led by founder and academic drug-discovery scientist Dave Bearss. [Source: Halia Therapeutics Official Website and ASH 2025 Phase 2a Disclosure](halia-therapeutics-official-website.md)
 
-For the Great Work Utah wiki, Halia is one of the most scientifically ambitious life-sciences bets in the state: a Utah-based attempt to drug a root mechanism of aging, with real clinical data rather than only a mechanism story.
+Lehi-based Halia Therapeutics is testing drugs that interrupt the NLRP3 inflammation pathway implicated in aging and chronic disease. If its upstream approach avoids the toxicity that defeated direct inhibitors, one mechanism could alter treatment across multiple major diseases; human trials remain the gate.
 
 ## Impact
 

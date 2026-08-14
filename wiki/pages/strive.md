@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Start a Business
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): STRIVE (Startup Training Resources to Inspire Veteran Entrepreneurship) is a free entrepreneurship training program delivered in Utah through the Veteran Business Resource Center at Salt Lake Community College, in partnership with Syracuse University's IVMF and NACCE. It takes veteran and military-connected founders through structured training from business concept to pitch.
+STRIVE is a free Utah entrepreneurship course for veterans, service members, and military spouses, delivered through SLCC's Veteran Business Resource Center. Its value is a structured path from concept to pitch for founders whose military experience does not automatically translate into startup fluency.
 
 ## Who It's For
 

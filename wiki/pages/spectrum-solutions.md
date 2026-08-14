@@ -20,9 +20,7 @@
 
 ## Summary
 
-**Spectrum Solutions, LLC** (applicant name in FDA records) manufactures the **Spectrum Saliva Collection Device** — trade name **SDNA 1000**, product code **QBD** — at **12248 S. Lone Peak Pkwy., Suite 106, Draper, UT** ([openFDA K223497](spectrum-solutions-fda-510k-k223497.md), [decision letter](spectrum-solutions-fda-k223497-decision-letter.md)). FDA cleared the device **substantially equivalent** on **2023-02-17** for viral nucleic acid collection and stabilization, including samples suspected of containing **SARS-CoV-2** under healthcare supervision ([decision letter](spectrum-solutions-fda-k223497-decision-letter.md)).
-
-During COVID-19, FDA's **EUA200090** amendment for **Infinity BiologiX** explicitly authorized use of the **Spectrum Solutions SDNA-1000 Saliva Collection Device** for saliva testing, including **at-home self-collection** when clinically appropriate ([EUA letter](fda-eua200090-infinity-biologix-letter.md)). That EUA language limits authorization to the **duration of the COVID emergency declaration** unless terminated sooner ([EUA letter](fda-eua200090-infinity-biologix-letter.md)) — the durable post-pandemic record here is the **510(k)**, not the EUA.
+Spectrum Solutions makes the Draper-built SDNA 1000 saliva device for viral nucleic-acid collection ([FDA decision](spectrum-solutions-fda-k223497-decision-letter.md)). COVID emergency use proved demand, but the durable case rests on its 2023 FDA 510(k) clearance.
 
 ## Impact
 

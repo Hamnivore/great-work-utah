@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Funding
 **Primary Location:** Draper, UT
 **Utah Location:** statewide
@@ -18,7 +19,6 @@
 ## Summary
 
 Tandem Venture Partners is a Draper, Utah-based venture capital firm investing from pre-seed through later stages. Its official site lists check sizes from roughly $500K at pre-seed up to larger Series B+ follow-ons for portfolio companies, with seed as a core focus.
-
 ## Who It's For
 
 Founders with at least an MVP and ideally early revenue or product-market-fit signals who want a Utah VC with operating leverage and a revenue-focused value-add posture.

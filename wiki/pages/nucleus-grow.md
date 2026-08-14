@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** A
 **Focus:** SBIR, STTR, non-dilutive funding, deep tech, research commercialization
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -18,7 +19,7 @@
 
 ## Summary
 
-Nucleus Grow is Utah's official SBIR/STTR support path for small companies pursuing non-dilutive federal R&D funding. It is a practical resource for founders who have a novel technology, need to identify a matching federal topic, and are ready to do the registration, budget, proposal, and submission work that SBIR/STTR requires.
+Nucleus Grow is Utah's official SBIR/STTR support path for small companies pursuing non-dilutive federal R&D funding. It is probably not the right first stop for a company that is already selling an ordinary product without technical R&D uncertainty, or for a founder who does not intend to pursue SBIR/STTR.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Park City, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-The Park City Chamber of Commerce & Visitors Bureau represents 1,000+ partner businesses in Park City's mountain economy. Verified on the official site (2026-07-14): partners get referrals and exposure on visitparkcity.com, discounted ski passes, partner logo/media gallery access, newsletters, networking events, policy positions, housing information, and connections to the Women's Business Center. Mission emphasizes responsible growth, conservation, and community stewardship ("Mountainkind").
+
+The Park City Chamber represents more than 1,000 businesses through tourism marketing, policy work, events, and member benefits. Its scale matters to the mountain economy, but the impact remains regional and chamber functions are replaceable.
 
 ## Who It's For
 

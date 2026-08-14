@@ -23,9 +23,8 @@
 
 ## Summary
 
-The Northrop Grumman facility at Promontory, Utah is the primary US manufacturing and test site for large segmented solid rocket motors. Operating for decades — predating Northrop's acquisition of ATK's propulsion division — the Promontory site builds the Space Launch System solid rocket boosters for NASA's Artemis program and the solid propulsion stages for the Sentinel ICBM. A current federal acquisition record is needed before stating a total Sentinel program cost.
 
-This entry covers the Promontory facility as a Utah place of work with distinctive significance. It is not a startup and not a venture in the entrepreneurial sense. It is documented here because its work is civilizationally consequential, its employment footprint anchors the northern Utah aerospace cluster, and it represents one of the clearest examples anywhere in the Mountain West of work that is genuinely irreplaceable. No captured source provides a site-level headcount.
+Northrop Grumman's Promontory facility is the primary U.S. production and test site for large segmented solid-rocket motors. Its boosters have shaped strategic missiles and human spaceflight for generations, permanently linking this Utah site to global deterrence and launch capability.
 
 ## Impact
 

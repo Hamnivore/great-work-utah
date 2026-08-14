@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding
 **Identifiers:** ein=47-4220476
 **Primary Location:** Park City, UT
@@ -15,7 +16,7 @@
 
 ## Summary
 
-Park City Angels is a Utah angel investor network of 85+ accredited investors based in Park City. The official site reports more than $85 million invested across 1,275+ individual investments since 2008 and screens early-stage companies nationwide.
+Park City Angels is a Utah angel investor network of 85+ accredited investors based in Park City. The group evaluates companies across the United States, not only Utah, though its investor base is Park City-centered.
 
 ## Who It's For
 

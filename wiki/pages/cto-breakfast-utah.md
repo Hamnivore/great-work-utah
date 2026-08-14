@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D*
+**Founder-tier:** D
 **Focus:** technology leadership peer group, monthly breakfast, Chatham House Rules, Utah County
 **Primary Location:** American Fork, UT
 **Utah Location:** American Fork, UT
@@ -14,19 +15,7 @@
 
 ## Summary
 
-CTO Breakfast Utah is a monthly, open, in-person gathering of technology leaders — CTOs, CIOs, VPs of
-engineering, and people doing those jobs without those titles — that meets **the second Friday of each
-month at 8:00 AM at the IHOP in American Fork**. There is no program, no speaker, and no sponsor. The
-organizers' standing invitation is to "bring a friend and a topic to discuss"
-([2026 announcements](cto-breakfast-utah-2026-announcements.md)).
-
-The chapter says it **has been running for over 20 years**
-([chapter page](cto-breakfast-utah-official-page.md)), which would make it one of the longest-running
-recurring technology gatherings in the state, though nothing located substantiates the number.
-
-The interesting thing about it is not the breakfast. It is that a group with no budget and no
-programming has written down **five explicit norms** and runs by them — including
-**Chatham House Rules**, which changes what the meeting is for.
+CTO Breakfast Utah is a monthly, open, in-person gathering of technology leaders — CTOs, CIOs, VPs of engineering, and people doing those jobs without those titles. CTO Breakfast Utah provides a bounded benefit: Working technology leaders in Utah County and along the Wasatch Front: CTOs, CIOs, engineering directors, and founders carrying the technical load themselves.
 
 ## Who It's For
 

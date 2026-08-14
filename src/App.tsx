@@ -66,9 +66,6 @@ function SiteRoutes() {
               Great Work — Utah
             </Link>
             <nav className="flex flex-wrap gap-4 font-sans text-sm">
-              <a href="/v/tier-list" className="text-twilight-soft hover:text-twilight">
-                tier list
-              </a>
               <a href="/search" className="text-twilight-soft hover:text-twilight">
                 search
               </a>

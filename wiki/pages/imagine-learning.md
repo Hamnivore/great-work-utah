@@ -20,13 +20,7 @@
 
 ## Summary
 
-Imagine Learning sells digital-first K-12 curriculum and services — spanning core, supplemental, assessment, and courseware products including **Imagine Language & Literacy** for multilingual learners
-([official site](imagine-learning-official-website.md)). The company's **corporate headquarters** is now **100 S Mill Ave., Suite 1700, Tempe, AZ 85281**
-([contact page](imagine-learning-contact-page.md)); its careers page lists additional offices in Austin, Petaluma, Rock Rapids, Glasgow, and Bangalore, and does **not** name Provo or any other Utah location
-([careers page](imagine-learning-careers-page.md)).
-
-The Utah lineage is historical. A 2014 *Deseret News* report describes Imagine Learning as a **Provo-based** language and literacy company acquired by **Weld North Holdings**, with officials saying it would **remain in Provo**
-([Deseret News, 2014](deseret-news-imagine-learning-weld-north-2014.md)). Current captured official pages place headquarters in Arizona instead; the wiki does not have a document establishing how many employees, if any, remain in Utah today.
+Imagine Learning sells digital K–12 curriculum, assessment, and courseware, including tools for multilingual learners ([official site](imagine-learning-official-website.md)). Its software may reach many Utah classrooms, but customer adoption is not evidence of a meaningful corporate presence here.
 
 ## Impact
 

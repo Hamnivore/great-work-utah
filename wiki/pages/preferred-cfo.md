@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** fractional CFO, outsourced finance, forecasting, cash-flow management, fundraising prep, outsourced HR
 **Domain:** capital-programs
 **Primary Location:** Salem, UT
@@ -14,9 +15,8 @@
 
 ## Summary
 
-Preferred CFO is a Utah-based fractional / outsourced CFO firm founded in 2013, headquartered in Salem (greater Salt Lake City metro, just south of Provo). It places experienced part-time CFOs into growing companies, plus controllers, financial-systems advisors, and outsourced HR leadership. The useful framing for a founder is: a focused Utah firm whose whole product is fractional financial leadership, not a CPA firm that offers it as a side service.
 
-This is a firm a founder reaches out to for hands-on help, so it belongs in `helpers/`.
+Preferred CFO is a Salem-based outsourced finance firm providing fractional chief financial officer services. It can give growing Utah companies senior financial capacity before a full-time hire makes sense, but many consultancies offer the same function.
 
 ## Impact
 

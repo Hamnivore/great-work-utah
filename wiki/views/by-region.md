@@ -214,7 +214,7 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 
 ## Logan
 
-- [Araknitek](/pages/araknitek.md) · `https://greatutah.work/pages/araknitek.md` · venture
+- [Araknitek](/pages/araknitek.md) · `https://greatutah.work/pages/araknitek.md` · materials-mfg, health-bio
 - [KEVA Locks](/pages/keva-locks.md) · `https://greatutah.work/pages/keva-locks.md` · materials-mfg, computing
 - [Logan City Economic Development](/pages/logan-city-economic-development.md) · `https://greatutah.work/pages/logan-city-economic-development.md` · capital-programs
 - [The Hub at Bridgerland Technical College](/pages/the-hub-at-bridgerland-technical-college.md) · `https://greatutah.work/pages/the-hub-at-bridgerland-technical-college.md` · resource
@@ -331,6 +331,7 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 - [Hope Squad](/pages/hope-squad.md) · `https://greatutah.work/pages/hope-squad.md` · health-bio
 - [Hypercraft](/pages/hypercraft.md) · `https://greatutah.work/pages/hypercraft.md` · aerospace-defense, energy
 - [iHub](/pages/ihub.md) · `https://greatutah.work/pages/ihub.md` · resource
+- [Nielson Scientific](/pages/nielson-scientific.md) · `https://greatutah.work/pages/nielson-scientific.md` · materials-mfg, computing, space-science
 - [Nu Skin Enterprises](/pages/nu-skin.md) · `https://greatutah.work/pages/nu-skin.md` · health-bio, materials-mfg
 - [Qualtrics](/pages/qualtrics.md) · `https://greatutah.work/pages/qualtrics.md` · computing
 - [RevRoad](/pages/revroad.md) · `https://greatutah.work/pages/revroad.md` · capital-programs
@@ -404,7 +405,7 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 - [Epic Ventures](/pages/epic-ventures.md) · `https://greatutah.work/pages/epic-ventures.md` · resource
 - [Epitel](/pages/epitel.md) · `https://greatutah.work/pages/epitel.md` · health-bio
 - [Evans & Sutherland](/pages/evans-and-sutherland.md) · `https://greatutah.work/pages/evans-and-sutherland.md` · work
-- [Evolution Bio](/pages/evolution-bio.md) · `https://greatutah.work/pages/evolution-bio.md` · venture
+- [Evolution Bio](/pages/evolution-bio.md) · `https://greatutah.work/pages/evolution-bio.md` · health-bio
 - [FamilySearch](/pages/familysearch.md) · `https://greatutah.work/pages/familysearch.md` · computing
 - [Florian Solzbacher](/pages/florian-solzbacher.md) · `https://greatutah.work/pages/florian-solzbacher.md` · person
 - [Fourth Street Clinic](/pages/fourth-street-clinic.md) · `https://greatutah.work/pages/fourth-street-clinic.md` · health-bio
@@ -414,6 +415,7 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 - [High-Density Sustainable Aviation Fuels](/pages/high-density-sustainable-aviation-fuels.md) · `https://greatutah.work/pages/high-density-sustainable-aviation-fuels.md` · aerospace-defense, energy
 - [Huntsman Cancer Institute](/pages/huntsman-cancer-institute.md) · `https://greatutah.work/pages/huntsman-cancer-institute.md` · health-bio
 - [Inherent Biosciences](/pages/inherent-biosciences.md) · `https://greatutah.work/pages/inherent-biosciences.md` · venture
+- [InnoSys](/pages/innosys.md) · `https://greatutah.work/pages/innosys.md` · aerospace-defense, materials-mfg
 - [Instructure](/pages/instructure.md) · `https://greatutah.work/pages/instructure.md` · computing
 - [Intactis Bio](/pages/intactis-bio.md) · `https://greatutah.work/pages/intactis-bio.md` · computing, health-bio
 - [Intermountain Clinical Quality Improvement](/pages/intermountain-clinical-quality-improvement.md) · `https://greatutah.work/pages/intermountain-clinical-quality-improvement.md` · health-bio
@@ -725,7 +727,6 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 - [Utah Department of Agriculture & Food](/pages/utah-department-of-agriculture-and-food.md) · `https://greatutah.work/pages/utah-department-of-agriculture-and-food.md` · resource
 - [Utah Department of Workforce Services](/pages/utah-department-of-workforce-services.md) · `https://greatutah.work/pages/utah-department-of-workforce-services.md` · resource
 - [Utah Digital Entertainment Network](/pages/utah-digital-entertainment-network.md) · `https://greatutah.work/pages/utah-digital-entertainment-network.md` · resource
-- [Utah's Direct-Selling Industry](/pages/utah-direct-selling-industry.md) · `https://greatutah.work/pages/utah-direct-selling-industry.md` · health-bio, materials-mfg, culture-place
 - [Utah Division of Outdoor Recreation](/pages/utah-division-of-outdoor-recreation.md) · `https://greatutah.work/pages/utah-division-of-outdoor-recreation.md` · resource
 - [Utah Farmers Market Network](/pages/utah-farmers-market-network.md) · `https://greatutah.work/pages/utah-farmers-market-network.md` · resource
 - [Utah Film Center Fiscal Sponsorship](/pages/utah-film-center-fiscal-sponsorship.md) · `https://greatutah.work/pages/utah-film-center-fiscal-sponsorship.md` · culture-place, capital-programs
@@ -744,6 +745,7 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 - [Utah Medicaid](/pages/utah-medicaid.md) · `https://greatutah.work/pages/utah-medicaid.md` · health-bio
 - [Utah MEP](/pages/utah-mep.md) · `https://greatutah.work/pages/utah-mep.md` · capital-programs, materials-mfg
 - [Utah Microloan Fund (UMLF)](/pages/utah-microloan-fund-umlf.md) · `https://greatutah.work/pages/utah-microloan-fund-umlf.md` · resource
+- [Utah's Multi-Level Marketing Industry](/pages/utah-multi-level-marketing-industry.md) · `https://greatutah.work/pages/utah-multi-level-marketing-industry.md` · health-bio, materials-mfg, culture-place
 - [Utah Muslim Civic League (UMCL)](/pages/utah-muslim-civic-league-umcl.md) · `https://greatutah.work/pages/utah-muslim-civic-league-umcl.md` · resource
 - [Utah Office of Primary Care and Rural Health](/pages/utah-office-of-primary-care-and-rural-health.md) · `https://greatutah.work/pages/utah-office-of-primary-care-and-rural-health.md` · health-bio
 - [Utah Office Of Regulatory Relief](/pages/utah-office-of-regulatory-relief.md) · `https://greatutah.work/pages/utah-office-of-regulatory-relief.md` · resource
@@ -775,8 +777,6 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 - [Aaron Skonnard](/pages/aaron-skonnard.md) · `https://greatutah.work/pages/aaron-skonnard.md` · person
 - [auticon US](/pages/auticon-us.md) · `https://greatutah.work/pages/auticon-us.md` · venture
 - [Imagine Learning](/pages/imagine-learning.md) · `https://greatutah.work/pages/imagine-learning.md` · computing
-- [InnoSys](/pages/innosys.md) · `https://greatutah.work/pages/innosys.md` · venture
-- [Nielson Scientific](/pages/nielson-scientific.md) · `https://greatutah.work/pages/nielson-scientific.md` · venture
 - [Splunk](/pages/splunk.md) · `https://greatutah.work/pages/splunk.md` · computing
 - [Wasatch Ionics](/pages/wasatch-ionics.md) · `https://greatutah.work/pages/wasatch-ionics.md` · aerospace-defense, energy
 - [Western Governors University](/pages/western-governors-university.md) · `https://greatutah.work/pages/western-governors-university.md` · culture-place

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -14,7 +15,6 @@
 ## Summary
 
 The Rural Online Initiative, operated through USU Extension and CREDET, promotes economic opportunity in rural Utah through remote-work training and e-commerce support. The official page highlights the Certified Remote Work Professional course and the E-Commerce Accelerator for rural small businesses and agricultural operations.
-
 ## Who It's For
 
 Rural Utah residents seeking remote employment skills, rural small-business and agricultural operators building e-commerce capacity, organizational leaders managing remote teams, and high-school partners interested in youth remote-work training.

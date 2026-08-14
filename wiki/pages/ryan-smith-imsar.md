@@ -13,7 +13,8 @@
 
 ## Summary
 
-Ryan Smith is the founder and CEO of [IMSAR](imsar.md), a Utah Valley company that designs and manufactures miniaturized synthetic aperture radar (SAR) systems for unmanned aerial vehicles and other platforms. Smith holds BYU electrical engineering degrees and previously worked as a lead RF engineer at [Wavetronix](wavetronix.md), creating a visible Utah radar engineering lineage. His decision to build a hardware-first defense-tech company in Utah Valley — rather than near traditional defense hubs — is a useful data point for founders in that space.
+
+Ryan Smith founded and leads [IMSAR](imsar.md), the Utah Valley manufacturer of miniaturized synthetic-aperture radar for drones and other platforms. His record is unusually coherent: BYU electrical engineering, radar work at Wavetronix, then a defense supplier built around shrinking capable airborne sensing.
 
 ## Impact
 

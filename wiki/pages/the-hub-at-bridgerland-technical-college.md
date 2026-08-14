@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Logan, UT
 **Utah Location:** Logan, UT
@@ -18,7 +19,6 @@
 ## Summary
 
 The Hub at Bridgerland Technical College is a Business & Innovation Hub in Logan serving northern Utah entrepreneurs. The official site combines free or low-cost business counseling, an Innovation Zone makerspace, a shared incubator kitchen, Custom Fit workforce training, business education workshops, and APEX government-contracting assistance for Cache, Box Elder, and Rich counties.
-
 ## Who It's For
 
 Entrepreneurs and small businesses in Box Elder, Cache, and Rich counties at any stage — including food businesses needing a certified kitchen, makers needing prototyping equipment, and companies pursuing government contracts.

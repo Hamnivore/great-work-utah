@@ -17,9 +17,7 @@
 
 ## Summary
 
-Intergalactic is a St. George aerospace company that designs and builds compact thermal-management systems, components, controls, and software for civil aircraft, defense platforms, spacecraft, and demanding land and sea applications. Its current catalog includes active and passive cooling systems, heat exchangers, pumps, compressors, controllers, fans, heaters, accumulators, valves, and power-distribution equipment.
-
-This is a particularly actionable Utah frontier employer because the work crosses mechanical and electrical engineering, embedded controls, systems integration, qualification, cleanroom assembly, and aerospace manufacturing rather than sitting in only one discipline.
+Intergalactic is a Saint George aerospace company building compact thermal-management systems for aircraft, spacecraft, defense platforms, and demanding land and sea applications. Its bet is that lighter cooling can return mass, volume, and electrical power to mission payloads, though public sources do not reveal which programs actually depend on it.
 
 ## Impact
 

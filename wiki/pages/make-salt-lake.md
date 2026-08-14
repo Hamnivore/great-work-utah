@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities
 **Domain:** capital-programs
 **Primary Location:** Salt Lake City, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Make Salt Lake is a nonprofit makerspace at 663 West 100 South in Salt Lake City. The official site loads as a live web application at makesaltlake.org; the Startup State listing describes 24/7 member access to prototyping tools including 3D printers, laser cutters, CNC mills, woodworking, metalworking, textiles, and electronics labs, plus support for inventors building toward production.
+
+Make Salt Lake is a nonprofit makerspace offering shared fabrication tools and workspace in Salt Lake City. It makes physical prototyping affordable for local builders, but its reach largely ends with members who use the shop.
 
 ## Who It's For
 

@@ -27,7 +27,7 @@ of its importance.
   earth and is the substrate of modern disease modeling.
 - `myriad-genetics-brca` — millions of actionable clinical results, **and** *AMP v. Myriad*
   permanently redrew what can be patented in the United States. The patent enforcement that
-  suppressed competing tests until 2013 is counted as magnitude, not deducted as bad behaviour.
+  suppressed competing tests until 2013 is counted as part of how far it moved the world, not subtracted for being ugly.
 - `northrop-grumman-promontory` — the boosters under every Artemis mission and the solid stages of the
   nuclear deterrent, from a near-monopoly site.
 - `utah-population-database` — the linked genealogy-plus-medical-records instrument that is *why*
@@ -46,7 +46,7 @@ of its importance.
 - `h-tracy-hall-diamond-presses` — most of the world's industrial diamond powder is still made on
   presses descended from his cubic design; ranks A rather than S because the page scopes itself to the
   Utah press work and says the first synthesis was at GE.
-- `nsa-utah-data-center` — unbounded reach, direction ferociously contested, magnitude not in doubt.
+- `nsa-utah-data-center` — unbounded reach; whether that's good is ferociously contested, how far it reaches is not.
 - `arpanet-fourth-node` — the internet is S, but *being node four* is a different atom with a thin
   counterfactual.
 - `intermountain-clinical-quality-improvement`, `recursion-pharmaceuticals`, `blackrock-neurotech`,

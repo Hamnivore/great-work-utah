@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** unknown
 **Utah Location:** statewide
@@ -17,9 +18,7 @@
 
 ## Summary
 
-47G is Utah's aerospace, defense, and hard-tech ecosystem organization. Its official site positions 47G around building a premier hard-tech and dual-use ecosystem and helping companies move from innovation to deployment.
-
-For the wiki, 47G is a high-value resource for companies whose path runs through defense customers, aerospace primes, hard-tech partners, supply-chain integration, demonstrations, capital readiness, or talent pipelines.
+47G is Utah's aerospace, defense, and hard-tech trade association. It connects specialized companies to customers, suppliers, and policy networks, but that convening role is replaceable and its direct impact stops short of the technologies its members build.
 
 ## Who It's For
 

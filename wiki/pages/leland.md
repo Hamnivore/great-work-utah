@@ -18,9 +18,7 @@
 
 ## Summary
 
-Leland is a Lehi company building a marketplace and community for career and education guidance. Customers book independent experts for one-on-one coaching, classes, and digital resources across admissions, career transitions, business, technology, and other specialized paths. Leland also sells structured professional-development and AI-education programs.
-
-The company was founded in 2021. In June 2026 it broadened its positioning from a coaching marketplace to a “home for ambition” in an AI-disrupted labor market, saying it had served millions of people across hundreds of career paths and more than 100 countries. Those reach figures are company-reported and have not been independently verified.
+Leland is a Lehi company building a marketplace and community for career and education guidance. Leland's bet is that a vetted marketplace can make practitioners' tacit knowledge—how a field hires, what good work looks like, and how to navigate a transition—available outside those networks.
 
 ## Impact
 

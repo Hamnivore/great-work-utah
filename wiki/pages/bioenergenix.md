@@ -19,11 +19,7 @@
 
 ## Summary
 
-BioEnergenix is described as a **University of Utah spinoff co-founded in 2009** by biochemistry professor Jared Rutter ([university release](bioenergenix-uofu-health-press-release.md)). Its stated thesis was to treat metabolic dysfunction by inhibiting **PASK (PAS kinase)**.
-
-In rodent studies tied to that release, a BioEnergenix drug candidate blocked PASK activity, lowered liver fatty acids and triglycerides, and partially reversed insulin resistance in diabetes-prone animals. Rutter hoped human trials could begin within a couple of years **as of 2014** ([university release](bioenergenix-uofu-health-press-release.md)).
-
-**Critical evidence gap:** No official website, recent press release, SEC filing, or clinical-trial registry entry for BioEnergenix has been verified. Current operating status, pipeline stage, headquarters, and funding are **unknown**. Treat all forward-looking 2014 statements as historical, not present fact.
+BioEnergenix is described as a University of Utah spinoff co-founded in 2009 by biochemistry professor Jared Rutter (university release). BioEnergenix has no estimable impact yet because BioEnergenix still operating? No primary source after 2014 confirms active development, financing, or clinical trials..
 
 ## Impact
 

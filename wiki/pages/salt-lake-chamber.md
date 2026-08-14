@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-The Salt Lake Chamber is Utah's largest business association, representing thousands of companies statewide. Verified on slchamber.com: membership includes directory listing, networking, policy advocacy, committees, signature events (Economic Outlook Summit, Women & Business Conference), job board access, and tiered membership levels from Executive through Gold.
+
+The Salt Lake Chamber represents thousands of Utah businesses through events, referrals, and policy advocacy. That scale gives local employers a louder collective voice, but ordinary chamber functions do not independently reshape the state economy.
 
 ## Who It's For
 

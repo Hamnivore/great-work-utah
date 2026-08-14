@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -14,7 +15,6 @@
 ## Summary
 
 Utah's Own is a Utah Department of Agriculture and Food program that connects consumers with local farms, ranches, food producers, and artisans. Its official site offers a member directory, buy-local marketing, and pathways for Utah agricultural and food businesses to gain visibility.
-
 ## Who It's For
 
 Utah farmers, ranchers, food producers, artisans, and rural operators who grow, raise, produce, or manufacture food and agricultural products in Utah.

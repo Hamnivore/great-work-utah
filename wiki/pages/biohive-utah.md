@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** statewide
@@ -14,7 +15,7 @@
 
 ## Summary
 
-BioHive is a public-private partnership and grassroots community that brands and convenes Utah's life sciences and healthcare innovation ecosystem. Its official site focuses on talent, investment visibility, events such as BioHive Live, and sub-communities including health tech, women in tech and science, returnships, and student chapters.
+BioHive is a public-private partnership and grassroots community that brands and convenes Utah's life sciences and healthcare innovation ecosystem. BIOHive Utah provides a bounded benefit: Life-sciences and health-innovation founders, operators, students, and ecosystem partners across Utah who need community, visibility, talent connections, and industry events.
 
 ## Who It's For
 

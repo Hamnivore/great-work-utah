@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** San Juan County, UT
 **Utah Location:** San Juan County, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-San Juan County Economic Development promotes business growth across Utah's Canyon Country — the state's largest county by area, spanning Monticello, Blanding, and Bluff. Verified on the official site (2026-07-14): the department publishes relocation resources, employment information, community profiles, and a business-support hub linking to SBDC, APEX Accelerators, GOEO, and RCAC partners. Utah GOED lists director Talia Hansen at 117 South Main Street, Monticello.
+
+San Juan County Economic Development provides relocation information, community profiles, and links to business-support partners. It is a useful local doorway across a vast rural county, but the page does not show distinctive capital or infrastructure.
 
 ## Who It's For
 

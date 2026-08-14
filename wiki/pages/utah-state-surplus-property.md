@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Founder-tier:** D
 **Focus:** state surplus property, public auctions, used vehicles, heavy equipment, office furniture, government inventory
 **Domain:** capital-programs
 **Primary Location:** Taylorsville, UT
@@ -14,10 +15,7 @@
 
 ## Summary
 
-Utah State Surplus Property is the state program that disposes of state-owned vehicles, equipment, furniture, and other personal property. Governmental agencies receive the first opportunity to reuse state property; inventory not purchased or transferred through that process may then be offered to the general public through direct sales, sealed bids, or auctions.
-
-The program's official inventory system separates current surplus inventory, online-auction lots, vehicle inventory, heavy equipment, and special-bid sales. Availability changes continuously, so this page is a route into the live listings rather than a catalog of items.
-
+Utah State Surplus Property is the state program that disposes of state-owned vehicles, equipment, furniture, and other personal property. Availability changes continuously, so this page is a route into the live listings rather than a catalog of items.
 ## Who It's For
 
 - Members of the public looking for used state-owned vehicles, equipment, furniture, or other listed inventory.

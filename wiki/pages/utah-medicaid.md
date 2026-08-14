@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** High
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** health coverage, medical assistance, low-income healthcare, CHIP, long-term care
 **Domain:** health-bio
 **Primary Location:** Utah
@@ -14,8 +15,7 @@
 
 ## Summary
 
-Utah Medicaid is the state-federal health coverage program administered by the Utah Department of Health and Human Services. It pays for covered medical services for eligible Utah residents with limited income or resources, including qualifying children, pregnant women, parents, older adults, people with disabilities, and some adults ages 19–64. Utah's Department of Workforce Services determines eligibility and handles applications.
-
+Utah Medicaid is the state-federal health coverage program administered by the Utah Department of Health and Human Services. Utah's Department of Workforce Services determines eligibility and handles applications.
 ## Who It's For
 
 Utah residents who may qualify for publicly funded medical coverage, family members or advocates helping them apply, current members looking for coverage information, and healthcare providers seeking enrollment, billing, prior-authorization, or reimbursement guidance.

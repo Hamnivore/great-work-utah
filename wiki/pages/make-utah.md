@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** C
 **Focus:** hard-tech incubator, makerspace, prototype space, R&D workspace, manufacturing, founder community
 **Domain:** capital-programs
 **Primary Location:** Pleasant Grove, UT
@@ -18,7 +19,8 @@
 
 ## Summary
 
-Make Utah is a Pleasant Grove hard-tech incubator and R&D coworking space focused on moving concepts to commercialization. The official site describes cutting-edge prototyping tools, industry partnerships, mentorship, and collaborative space for technical startups — with member testimonials emphasizing patience and community for long-development hardware ventures.
+
+Make Utah is a Pleasant Grove hard-tech incubator with prototyping equipment, R&D workspace, mentors, and commercialization support. Those resources can shorten a local hardware founder's path, but comparable incubators can supply the same function.
 
 ## Who It's For
 

@@ -2,6 +2,8 @@
 
 Paid advisors and service providers (counsel, CFO, IP). Free mentors like SCORE/SBDC are Type: resource — see find-an-advisor. One line per page; fetch the page for detail and evidence.
 
+This list is alphabetical and does not rank. To read the good ones first, use [the founder-resource tier list](founder-resource-tier-list.md) · `https://greatutah.work/views/founder-resource-tier-list.md`, which ranks every resource and helper page by what it actually hands a founder.
+
 For free mentorship and the full routing map, start at [find-an-advisor](/pages/find-an-advisor.md) · `https://greatutah.work/pages/find-an-advisor.md` — this list is mostly paid specialists, not SCORE/SBDC.
 
 - [BBCetc](/pages/bbcetc.md) · `https://greatutah.work/pages/bbcetc.md` · SBIR, STTR, nondilutive funding, proposal support, grant training, post-award management · tier:D · conf:M

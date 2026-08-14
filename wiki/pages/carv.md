@@ -16,20 +16,7 @@
 
 ## Summary
 
-Carv makes a **clip-on ski sensor and coaching app**: sensors attach to each boot, measure pressure
-and motion as you ski, and deliver **real-time audio coaching** between and during turns. It is a
-London company — headquartered in Vauxhall, with a European base in Innsbruck — that in 2026 opened
-**Park City, Utah as its North American base**, describing it as the newest of its three offices and
-the place where "on-snow customer testing comes to life"
-([careers page](carv-careers-page.md)).
-
-That is why it is in this wiki, and the entry comes with a caveat stated up front: **Carv is not a
-Utah company.** It is a foreign company that has chosen Utah as the place to do the physical part of
-its work, which is a different and less common thing than a headquarters.
-
-The company reports **over 50 full-time staff**, growing from two founders and a prototype in 2015,
-with a product history running from a record-setting 2016 Kickstarter through the 2024 launch of
-Carv 2 — the generation that dropped the in-boot footbed for sensors clipping directly to the boot.
+Carv makes a clip-on ski sensor and coaching app: sensors attach to each boot, measure pressure and motion as you ski, and deliver real-time audio coaching between and during turns. Carv's claim on attention is that it is a real hardware-plus-AI product in a category that mostly does not exist.
 
 ## Impact
 

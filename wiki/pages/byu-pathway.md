@@ -24,9 +24,7 @@
 
 ## Summary
 
-BYU-Pathway Worldwide is a nonprofit online higher-education pathway operated by The Church of Jesus Christ of Latter-day Saints. It partners with BYU-Idaho and Ensign College to deliver stackable certificates and accredited degrees online. The captured evidence does not preserve the founding chronology.
-
-BYU-Pathway describes a large international enrollment, low tuition, stackable credentials, and employment-connection programs, but its linked source lacks a raw capture and does not support publishing the earlier figures as durable facts.
+BYU-Pathway Worldwide is a nonprofit online higher-education pathway operated by The Church of Jesus Christ of Latter-day Saints. Most of the world's population lives where accredited university degrees are unaffordable or inaccessible.
 
 ## Impact
 

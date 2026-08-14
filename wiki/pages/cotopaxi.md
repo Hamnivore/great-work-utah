@@ -26,9 +26,7 @@
 
 ## Summary
 
-Cotopaxi is a Utah-based outdoor gear and apparel company founded in the 2013-2014 period and publicly framed around "Gear For Good." It designs and sells backpacks, bags, clothing, travel gear, and outdoor accessories, with a brand identity built around bright colorways, responsible materials, and a give-back model.
-
-For this wiki, Cotopaxi is a fit if the venture scope includes mission-driven consumer companies, Utah outdoor brands, and social-enterprise operating models. It is not a deep-tech company; its relevance is in brand, supply chain, materials, retail execution, and the question of whether a growth consumer business can keep an impact promise intact as it scales.
+Cotopaxi is a Utah-based outdoor gear and apparel company founded in the 2013-2014 period and publicly framed around "Gear For Good." The impact case is strongest where outdoor consumers want gear that also funds poverty alleviation, education, and livelihoods work. Cotopaxi's official site says 1% of annual revenue goes to the Cotopaxi Foundation, a Utah-based private 501(c)(3).
 
 ## Impact
 

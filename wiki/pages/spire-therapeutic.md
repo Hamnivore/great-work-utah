@@ -18,11 +18,7 @@
 
 ## Summary
 
-Spire Therapeutics (SPIRE) is a Salt Lake City neuromodulation company developing Diadem, a low-intensity focused ultrasound (LIFU) device that noninvasively modulates hyperactive deep brain circuits implicated in treatment-resistant chronic pain and depression. The device compensates for skull and hair acoustic distortions using patient-specific acoustic models, enabling targeted delivery to regions such as the anterior cingulate cortex (pain) and subgenual cingulate (depression).
-
-Founded by Jan Kubanek, PhD (Associate Professor, Biomedical Engineering, University of Utah), and Tom Riis, PhD, SPIRE is a U of U spinout and Altitude Lab resident. Phase 2 trials in chronic pain and depression are complete with promising results; Phase 3 is initiating. The company is funded by NIH, NSF, Focused Ultrasound Foundation, University of Utah Health, Wellcome Trust, and private investors, with recent pitch wins at Altitude Lab DEMO day and Wilson Sonsini's Life Science Summit.
-
-If Phase 3 confirms efficacy and FDA clears Diadem, it could be among the first non-invasive, drug-free treatments for both conditions with rapid onset — a step beyond transcranial magnetic stimulation (TMS), which requires many sessions, struggles with deep targets, and needs expensive capital equipment.
+Spire Therapeutics is developing Diadem, focused ultrasound meant to modulate deep brain circuits involved in chronic pain and depression. If Phase 3 succeeds and FDA clears it, Diadem could offer a rapid, noninvasive alternative where drugs and shallower stimulation fall short.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** n/a
 **Focus:** global surgery, urology training, teach-the-teacher, low-resource settings, pediatric urology
 **Identifiers:** ein=58-2263983, orcid=0000-0002-9828-3488
 **Primary Location:** Sandy, UT
@@ -16,9 +17,8 @@
 
 ## Summary
 
-IVUmed (International Volunteers in Urology) is a Sandy, Utah 501(c)(3) that trains surgeons and nurses in low-resource countries rather than running episodic mission trips alone. Founded in **1995** by pediatric urologist **Catherine R. deVries** after pilot work in Honduras (from **1992**) and Vietnam (from **1994**), it operates under the motto **"Teach One, Reach Many"** ([who we are](ivumed-who-we-are-page.md), [homepage](ivumed-official-website.md)).
 
-This is **not** [William C. DeVries](devries-total-artificial-heart-nejm-1984.md), the University of Utah surgeon who implanted the Jarvik-7 artificial heart in 1982. Catherine deVries is a different physician; her ORCID is **0000-0002-9828-3488** with University of Utah affiliation.
+Sandy nonprofit IVUmed trains urology teams in low-resource countries instead of relying on one-off mission surgeries ([official site](ivumed-official-website.md)). That train-the-surgeon model can compound beyond each visit; the remaining Utah evidence gap is Catherine deVries's current university appointment.
 
 ## Who It's For
 

@@ -19,9 +19,7 @@
 
 ## Summary
 
-Eden Technologies (Eden Tech) is a St. George, Utah startup that has developed a Reverse Osmosis Centrifuge (ROC) — a patented retrofit device that applies centrifugal force to the reverse osmosis process to increase water recovery. The company claims the ROC can double freshwater yield and achieve a 15% recovery improvement over conventional RO plants, with potential for zero liquid discharge. It was founded around 2020 by Hunter Manz and Zachary Manweiler as a Utah Tech University spinout.
-
-The geographic context matters: the company is operating in the American Southwest, where water scarcity is a direct constraint on agriculture, growth, and long-term habitability. The ROC's retrofit model — enhancing existing desalination plants rather than building new ones — is pragmatically attractive because it avoids the capital cost of greenfield construction.
+Eden Technologies is developing a centrifuge retrofit meant to extract more freshwater from existing reverse-osmosis plants. Doubling water yield would matter in arid regions, but the claim remains company-reported and unproven at industrial scale, keeping this an early local bet rather than a demonstrated water-sector shift.
 
 ## Impact
 

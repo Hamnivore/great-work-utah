@@ -18,10 +18,7 @@
 
 ## Summary
 
-US Magnesium LLC operates the largest primary magnesium production facility in North America at Rowley, Utah, on the western shore of the Great Salt Lake. Magnesium has been produced at the site since 1972. The company extracts magnesium from high-salinity brine through solar evaporation and electrolytic cells, supplying a metal that is roughly 30% lighter than aluminum and strategically important for aerospace, automotive lightweighting, electronics, and defense applications. [Official Website: US Magnesium](us-magnesium-official-website.md)
-
-For the wiki, US Magnesium is not a frontier-tech startup but one of Utah's most consequential industrial operations — and one now in active financial and environmental crisis. The company filed Chapter 11 on September 10, 2025; court records and reporting describe EPA Superfund status, a January 2026 asset auction, and a reported winning bid by the Utah Division of Forestry, Fire, and State Lands. [Source: US Magnesium Chapter 11 Bankruptcy and Asset Sale](us-magnesium-bankruptcy.md)
-
+US Magnesium operates North America's largest primary-magnesium production facility at Rowley on the western shore of the Great Salt Lake. It is one of Utah's most consequential industrial operations rather than a frontier startup, and its importance is inseparable from its active financial and environmental crisis ([official website](us-magnesium-official-website.md)).
 ## Impact
 
 Global primary magnesium production is heavily concentrated in China. The U.S. has essentially one commercial-scale domestic primary producer: this Rowley facility. Defense and aerospace programs requiring non-China-sourced magnesium effectively trace supply questions here. That makes US Magnesium a national-security-relevant supplier when it is operating — and a supply-chain vulnerability when it is not.

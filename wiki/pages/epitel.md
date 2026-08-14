@@ -23,9 +23,7 @@
 
 ## Summary
 
-Epitel is a Salt Lake City company developing REMI, a wireless remote EEG monitoring system for healthcare-facility and ambulatory settings. The system uses disposable wearable sensors, cloud storage, and physician-review software — with REMI Vigilenz AI to flag EEG sections that may correspond to electrographic seizure activity.
-
-The company is a University of Utah Neural Engineering spinout (founded circa 2011). Its public materials position REMI as a way to capture seizures that never appear during short clinic EEGs without requiring expensive inpatient monitoring.
+Epitel is a Salt Lake City company developing REMI, a wireless remote EEG monitoring system for healthcare-facility and ambulatory settings. Epilepsy diagnosis and treatment depend on recording seizures on EEG, but seizures are episodic.
 
 ## Impact
 

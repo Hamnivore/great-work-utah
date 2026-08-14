@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** startup incubator, founder community, coworking, makerspace, prototype space, commercial kitchen, warehouse, funding
 **Primary Location:** Provo, UT
 **Utah Location:** Provo, UT
@@ -17,7 +18,8 @@
 
 ## Summary
 
-The Innovation Hub of Utah County (iHub) is a nonprofit startup incubator in Provo. Its official site describes a three-stage founder roadmap, a Founders Floor application path, 300+ mentors, and roughly 50,000 square feet of founder infrastructure including coworking, a maker space, a licensed commercial kitchen, and warehouse space.
+
+Provo's nonprofit iHub gives early founders mentors, workspace, prototyping facilities, and a staged path toward revenue. That bundle can move a company through its first milestones, but incubators and university programs can provide close substitutes.
 
 ## Who It's For
 

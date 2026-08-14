@@ -1,0 +1,117 @@
+[
+ {
+  "name": "01-gems",
+  "n": 19,
+  "types": "venture/work"
+ },
+ {
+  "name": "02-gems",
+  "n": 18,
+  "types": "venture/work"
+ },
+ {
+  "name": "03-venture",
+  "n": 20,
+  "types": "venture"
+ },
+ {
+  "name": "04-venture",
+  "n": 20,
+  "types": "venture"
+ },
+ {
+  "name": "05-venture",
+  "n": 20,
+  "types": "venture"
+ },
+ {
+  "name": "06-venture",
+  "n": 20,
+  "types": "venture"
+ },
+ {
+  "name": "07-venture",
+  "n": 20,
+  "types": "venture"
+ },
+ {
+  "name": "08-venture",
+  "n": 20,
+  "types": "venture"
+ },
+ {
+  "name": "09-venture",
+  "n": 20,
+  "types": "venture"
+ },
+ {
+  "name": "10-venture",
+  "n": 19,
+  "types": "venture"
+ },
+ {
+  "name": "11-work",
+  "n": 14,
+  "types": "work"
+ },
+ {
+  "name": "12-person",
+  "n": 13,
+  "types": "person"
+ },
+ {
+  "name": "13-helper",
+  "n": 13,
+  "types": "helper"
+ },
+ {
+  "name": "14-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "15-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "16-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "17-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "18-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "19-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "20-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "21-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "22-resource",
+  "n": 25,
+  "types": "resource"
+ },
+ {
+  "name": "23-resource",
+  "n": 24,
+  "types": "resource"
+ }
+]

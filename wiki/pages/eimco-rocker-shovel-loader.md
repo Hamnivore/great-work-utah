@@ -19,11 +19,7 @@
 
 ## Summary
 
-The EIMCO Model 12B Rocker Shovel Loader was a compressed-air underground mining loader introduced in 1938. It mechanized "mucking" — the backbreaking job of removing blasted rock from narrow hard-rock mine tunnels and loading it into mine cars. ASME calls it the first successful mining device to replace human labor in removing rubble from underground hard-rock blasting.
-
-The machine originated from Utah mining practice. Edwin Burt Royle and John Spence Finlay had worked at the North Lilly Mine in Eureka, Utah, where they developed an early overshot-loader concept. Joseph Rosenblatt of Salt Lake City's EIMCO (Eastern Iron Metals Company) connected with them, recruited Royle as a consultant and designer, and the company developed the concept into the Model 12B. EIMCO manufactured it in Salt Lake City and sold it internationally.
-
-By 1969, approximately 29,000 rocker shovel loaders had been sold. EIMCO licensed manufacturing rights in Great Britain, India, South Africa, and Japan. Sales extended to Australia, Canada, Chile, France, Mexico, Spain, Zambia, and other countries.
+The EIMCO Model 12B Rocker Shovel Loader was a compressed-air underground mining loader introduced in 1938. Underground mines of the early-to-mid twentieth century could drill and blast faster than they could clear broken rock.
 
 ## Impact
 

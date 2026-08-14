@@ -25,9 +25,8 @@
 
 ## Summary
 
-H. Tracy Hall was an Ogden-born physical chemist with B.S., M.S., and Ph.D. degrees from the University of Utah. At General Electric in Schenectady, New York, as part of a team known as Project Superpressure, Hall produced the first reproducible synthetic diamond on December 16, 1954, using a high-pressure, high-temperature machine of his own design called the "Belt." GE announced the achievement in February 1955.
 
-Hall left GE in 1955 and returned to Utah as a professor of chemistry and director of research at Brigham Young University. There he invented new high-pressure machines — the tetrahedral press (four anvils) and the cubic press (six anvils) — that became important successors to the Belt. He went on to invent an early form of polycrystalline diamond and co-founded the Provo-area companies MegaDiamond (1966) and, later, Novatek. This page is honest about credit: the first synthesis happened at GE, not Utah; the Utah story is the apparatus innovation and industrial follow-through that came after.
+Utah-born H. Tracy Hall helped create synthetic diamond, then developed multi-anvil presses that made extreme pressure and heat practical. Those machines spread globally through diamond, ceramics, materials research, and manufacturing, turning a laboratory breakthrough into an industrial frontier.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -17,8 +18,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Nucleus Fund (Utah Innovation Fund) is a state-linked early-stage investment fund focused on deep-tech ventures emerging from Utah universities and research institutions. Public pages describe smart early capital plus access to mentorship, networks, and commercialization resources.
-
+The Nucleus Fund is a state-linked early investor in deep-tech companies emerging from Utah research institutions. A first check can keep a difficult university invention alive long enough to reach commercial proof, but the fund's documented reach remains bounded to a small portfolio rather than the state's capital market.
 ## Who It's For
 
 Utah deep-tech founders with university or research-institution ties seeking early-stage equity investment — not main-street businesses or pre-revenue service startups without a technology angle.

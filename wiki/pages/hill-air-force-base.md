@@ -21,11 +21,7 @@
 
 ## Summary
 
-Hill Air Force Base is a U.S. Air Force installation in northern Utah (spanning parts of Layton, Clearfield, Sunset, and Roy along the Wasatch Front), hosted by the 75th Air Base Wing. It traces to a 1939 Congressional appropriation for the "Ogden Air Depot," was activated as Hill Field on November 7, 1940, and was renamed Hill Air Force Base in 1948. Today it is, by the Air Force's own description, the service's second-largest base by population and geographic size, and it is Utah's largest single-site employer.
-
-Three things make Hill load-bearing rather than merely large. First, the Ogden Air Logistics Complex (OO-ALC) — Hill's largest tenant, known internally as the "Fighter Depot" — performs the depot-level maintenance, repair, overhaul, and engineering that keeps the F-35 Lightning II, F-22 Raptor, F-16 Fighting Falcon, A-10 Thunderbolt II, and C-130 Hercules flying, and sustains the Minuteman III ICBM force while standing up support for its Sentinel replacement. Second, the 388th Fighter Wing (active duty) and Air Force Reserve's 419th Fighter Wing fly and maintain 78 F-35A aircraft here in a Total Force partnership. Third, the [309th Software Engineering Group](309th-software-engineering-group.md) writes and sustains flight, weapons, and mission software for most of that same fleet — documented on its own page rather than repeated here.
-
-For the wiki, Hill is a government installation, not a company: government pay scales, clearance gates, and institutional process govern almost every role here, and much of the substantive engineering work is classified or program-sensitive, so this page describes structure and public magnitude rather than specific weapons-sustainment content. It is one of the clearest examples in Utah of work that is both genuinely large in scale and genuinely difficult to independently verify past what the Air Force itself publishes.
+Hill Air Force Base is a US Air Force installation in northern Utah (spanning parts of Layton, Clearfield, Sunset, and Roy along the Wasatch Front), hosted by the 75th Air Base Wing. Direct impact is straightforward to state and hard to overstate: Hill sustains a meaningful share of the US Air Force's fighter and attack fleet and the land leg of the nuclear triad.
 
 ## Impact
 

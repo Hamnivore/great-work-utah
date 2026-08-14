@@ -24,9 +24,8 @@
 
 ## Summary
 
-Ionic Mineral Technologies (Ionic MT) is a Provo, Utah company founded around 2020 that processes halloysite clay — a naturally occurring tubular clay mineral — into nano-silicon anode material for lithium-ion batteries. The company's core claim is that halloysite's natural nanostructure provides the void space silicon needs to expand during charging cycles, making it more cycle-stable than synthetic silicon anode approaches without requiring expensive chemical engineering. The company closed a $29M oversubscribed Series B in July 2025.
 
-Ionic MT is relevant to this wiki because of its geographic material advantage: the largest known high-purity halloysite deposits in the United States are in Juab County, Utah. Ionic MT has leased 4,000+ acres (Silicon Ridge) and owns a 550-acre deposit (Halloysite Hills, 2.4M tons of reserves). A competitor seeking to replicate this material position would need to find equivalent geology.
+Provo-based Ionic Mineral Technologies turns naturally tubular halloysite clay into nano-silicon battery-anode material. Its Utah ore could be a genuine cost advantage, while alumina and critical-metal co-products hedge the economics if battery-grade silicon alone cannot carry the operation.
 
 ## Impact
 

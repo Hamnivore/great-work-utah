@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Cedar City, UT
 **Utah Location:** Cedar City, UT
@@ -18,7 +19,7 @@
 
 ## Summary
 
-The Cedar City Chamber of Commerce supports business prosperity in Iron County. Verified on the official site (2026-07-14): the chamber offers membership join, member directory, events calendar, and account login at 510 W 800 S, Cedar City. Contact: (435) 586-4484, office@cedarcitychamber.org.
+The Cedar City Chamber of Commerce supports business prosperity in Iron County. Cedar City Area Chamber of Commerce provides a bounded benefit: Cedar City and Iron County businesses seeking local networking, member directory visibility, and chamber events.
 
 ## Who It's For
 

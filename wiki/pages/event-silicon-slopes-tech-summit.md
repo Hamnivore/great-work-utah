@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** Lehi, UT
 **Utah Location:** statewide
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Silicon Slopes Summit is Utah's flagship tech and business convening hosted by [Silicon Slopes](silicon-slopes.md). It brings together founders, operators, investors, and industry leaders for multi-day programming, networking, and specialized tracks such as Startup Alley.
+Silicon Slopes Summit is Utah's flagship tech and business convening hosted by Silicon Slopes. EVENT: Silicon Slopes Tech Summit provides a bounded benefit: Utah tech founders, growth-stage operators, investors, and community members seeking large-scale networking and summit programming.
 
 ## Who It's For
 

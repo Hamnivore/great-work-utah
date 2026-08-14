@@ -21,11 +21,7 @@
 
 ## Summary
 
-Teal Drones, a Salt Lake City company owned by Red Cat Holdings, manufactures the Black Widow — a rucksack-portable small unmanned aircraft designed for platoon-level reconnaissance. The system was selected for the U.S. Army's Short-Range Reconnaissance Tranche 2 production program, making it one of two manufacturing vendors for a program that reached more than 16 brigades during Tranche 1 fielding beginning in September 2022.
-
-Black Widow provides squads and platoons with on-demand aerial intelligence: real-time sensor feeds, target acquisition data, and route awareness, all integrated with Android Tactical Assault Kit and Uncrewed Vehicle Control tools. Teal emphasizes its Blue UAS certification, U.S. manufacturing, secure communications, and modular repair as differentiators in a market where supply-chain trust and electronic-warfare resilience are front-of-mind concerns.
-
-The SRR program reflects a broader Army push to make small UAS a standard unit-level asset — not a scarce asset controlled at higher echelons but a disposable local tool every small unit can launch and recover.
+Teal Drones, a Salt Lake City company owned by Red Cat Holdings, manufactures the Black Widow — a rucksack-portable small unmanned aircraft designed for platoon-level reconnaissance. The significance is twofold. Tactically, if every platoon can see beyond the next terrain feature on demand, small-unit situational awareness improves fundamentally.
 
 ## Impact
 

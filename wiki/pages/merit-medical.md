@@ -25,9 +25,8 @@
 
 ## Summary
 
-Merit Medical Systems is a South Jordan, Utah company that designs and manufactures the disposable devices used in interventional, diagnostic, and therapeutic procedures — the catheters, micro-access kits, embolization devices, ablation tools, and stents that interventional cardiologists, radiologists, and oncologists use every day. It is a public NASDAQ-listed company founded by Fred Lampropoulos in 1987 and led from Salt Lake County for nearly four decades. Current revenue and headcount need support from a captured annual filing.
 
-For the Great Work Utah wiki, Merit Medical is one of the most under-told stories of how Utah ships globally consequential medical technology without ever being labeled "tech."
+South Jordan-based Merit Medical makes catheters, micro-access kits, embolization devices, ablation tools, and stents for minimally invasive procedures. Its importance comes from enabling clinicians to treat through millimeter-scale access instead of open surgery, not from any single flagship device.
 
 ## Impact
 

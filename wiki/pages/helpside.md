@@ -18,7 +18,7 @@
 
 ## Summary
 
-Helpside is a Lindon-based professional employer organization (PEO) providing payroll, health benefits, HR, compliance, workers' compensation, and safety support to small and midsized employers. The company says it has operated for more than 35 years and supports more than 800 businesses across the Intermountain West.
+Helpside is a Lindon-based professional employer organization (PEO) providing payroll, health benefits, HR, compliance, workers' compensation, and safety support to small and midsized employers. Helpside provides a bounded benefit: Small employers often cannot support specialist HR, benefits, payroll, and compliance teams, yet errors in those functions can be expensive and destabilizing.
 
 ## Impact
 

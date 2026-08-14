@@ -150,7 +150,7 @@ archive snapshot of any CDN-hosted PDF.
 
 ## Related Pages
 
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 - [FTC Warning Letter to dōTERRA (2020)](ftc-warning-letter-doterra-2020.md)
 - [An Economic Analysis of Utah's Direct Selling Industry (Gardner Institute, 2022)](gardner-utah-direct-selling-analysis-2022.md)
 

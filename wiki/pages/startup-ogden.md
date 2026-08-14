@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Ogden, UT
 **Utah Location:** Ogden, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Startup Ogden is a coworking space and entrepreneur community at Weber State Downtown, 2314 Washington Blvd, developed through a partnership between Ogden City and Weber State University. The public Nexudus portal is live, and the Startup State listing describes hot desks, dedicated desks, conference rooms, an online member network, and ground-floor amenities including the Wildcat Store and Daily Rise Coffee.
+Startup Ogden is a coworking and founder community at Weber State Downtown, created by Ogden City and the university. Desks, meeting rooms, a member network, and street-level amenities make it practical infrastructure for an ecosystem too often treated as an extension of Salt Lake.
 
 ## Who It's For
 

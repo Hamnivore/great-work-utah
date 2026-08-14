@@ -4,6 +4,27 @@ import { defineConfig, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
+// vercel.json 308s only run on Vercel. Replay the exact (no `:param`) ones in
+// dev so a renamed page does not 404 when you still have the old URL open.
+function serveRedirects(): Plugin {
+  return {
+    name: 'serve-redirects',
+    configureServer(server) {
+      server.middlewares.use((req, res, next) => {
+        const url = (req.url || '').split('?')[0]
+        const config = JSON.parse(
+          fs.readFileSync(path.join(import.meta.dirname, 'vercel.json'), 'utf8'),
+        ) as { redirects?: { source: string; destination: string; statusCode?: number }[] }
+        const hit = (config.redirects || []).find((r) => !r.source.includes(':') && r.source === url)
+        if (!hit) return next()
+        res.statusCode = hit.statusCode || 308
+        res.setHeader('Location', hit.destination)
+        res.end()
+      })
+    },
+  }
+}
+
 // In production the build copies wiki/{pages,views,meta} into dist/. In dev, serve from wiki/.
 function serveWiki(): Plugin {
   return {
@@ -23,17 +44,17 @@ function serveWiki(): Plugin {
   }
 }
 
+function metaNames() {
+  return fs
+    .readdirSync(path.join(import.meta.dirname, 'wiki', 'meta'))
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => f.replace(/\.md$/, ''))
+}
+
 // Content routes are static HTML in production (scripts/prerender.mjs, served by
 // Vercel's cleanUrls). Dev calls the same renderer per request so what you see
 // locally is what ships — and so a page edit shows up on reload with no rebuild.
 function servePrerendered(): Plugin {
-  const ROUTES: [RegExp, string][] = [
-    [/^\/p\/([a-z0-9-]+)$/, 'pages'],
-    // The master index is published at the bare /v, the way cleanUrls serves an
-    // index document; the capture is absent there and defaults to index.
-    [/^\/v(?:\/([a-z0-9-]+))?$/, 'views'],
-    [/^\/(about|charter|conventions|attributes)$/, 'meta'],
-  ]
   return {
     name: 'serve-prerendered',
     configureServer(server) {
@@ -48,21 +69,19 @@ function servePrerendered(): Plugin {
           res.end(mod.expandBuildFacts(raw))
           return
         }
-        if (url === '/search' || ROUTES.some(([re]) => re.test(url))) {
+        const pageMatch = url.match(/^\/p\/([a-z0-9-]+)$/)
+        const viewMatch = url.match(/^\/v(?:\/([a-z0-9-]+))?$/)
+        const metaMatch = url.match(/^\/([a-z0-9-]+)$/)
+        const metaName =
+          metaMatch && metaNames().includes(metaMatch[1]) ? metaMatch[1] : null
+        if (url === '/search' || pageMatch || viewMatch || metaName) {
           // Imported per request so edits to the renderer take effect without a restart.
           const mod = await server.ssrLoadModule('/scripts/prerender.mjs')
           let html: string | null = null
-          if (url === '/search') {
-            html = mod.searchPage()
-          } else {
-            for (const [re, dir] of ROUTES) {
-              const m = url.match(re)
-              if (m) {
-                html = mod.renderDocument(dir, m[1] ?? 'index')
-                break
-              }
-            }
-          }
+          if (url === '/search') html = mod.searchPage()
+          else if (pageMatch) html = mod.renderDocument('pages', pageMatch[1])
+          else if (viewMatch) html = mod.renderDocument('views', viewMatch[1] ?? 'index')
+          else if (metaName) html = mod.renderDocument('meta', metaName)
           if (html) {
             res.setHeader('Content-Type', 'text/html; charset=utf-8')
             res.end(html)
@@ -80,5 +99,5 @@ function servePrerendered(): Plugin {
 }
 
 export default defineConfig({
-  plugins: [react(), tailwindcss(), serveWiki(), servePrerendered()],
+  plugins: [react(), tailwindcss(), serveRedirects(), serveWiki(), servePrerendered()],
 })

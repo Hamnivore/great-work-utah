@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -47,8 +48,7 @@
 
 ## Summary
 
-The Utah Department of Workforce Services (DWS), via jobs.utah.gov, is the statewide hub for job seekers, employers, and public assistance programs. The live homepage advertises a job board with more than 35,000 open positions, employer hiring tools, unemployment insurance management, and assistance pathways for food, child care, Medicaid, financial, disability, and related needs.
-
+The Utah Department of Workforce Services runs the state's job board, employer hiring tools, unemployment insurance, and public-assistance pathways. These services matter directly to Utah workers and families, but comparable agencies perform the same necessary work in every state; the impact is broad locally rather than structurally distinctive.
 ## Who It's For
 
 Job seekers (including veterans, refugees, and people with disabilities via dedicated pathways), Utah employers filling roles or managing unemployment accounts, and individuals applying for public assistance or workforce support programs.

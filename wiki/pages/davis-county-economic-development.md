@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Farmington, UT
 **Utah Location:** Davis County, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-Davis County Community and Economic Development is a one-stop shop for business recruitment, retention, and entrepreneurial support in Davis County. Verified on daviscountyutah.gov/ced: the office provides site and incentive coordination, business retention visits, a county business development loan fund, partnerships with NUEA and EDCUtah, and strategic planning across 15 cities.
+Davis County Community and Economic Development is a one-stop shop for business recruitment, retention, and entrepreneurial support in Davis County. Davis County Economic Development provides a bounded benefit: Businesses recruiting or expanding in Davis County; entrepreneurs connected through Northfront Business Resource Center; site selectors evaluating aerospace, manufacturing, distribution.
 
 ## Who It's For
 

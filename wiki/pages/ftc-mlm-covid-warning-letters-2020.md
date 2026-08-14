@@ -97,7 +97,7 @@ navigation chrome around the release body; the quoted material is in the release
 
 ## Related Pages
 
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 - [FTC Warning Letter to dōTERRA (2020)](ftc-warning-letter-doterra-2020.md)
 - [FTC Warning Letter to Tranont (2020)](ftc-warning-letter-tranont-2020.md)
 - [FTC Warning Letter to Modere (2020)](ftc-warning-letter-modere-2020.md)

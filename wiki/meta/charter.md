@@ -8,7 +8,7 @@
 
 1. **Depth × breadth.** Immense joy for a few and small joy for many are both high impact.
 2. **Permanence dominates.** A permanent displacement outweighs any temporary one.
-3. **Filter by maximum estimated bounds, not sign.** Consequential work often has enormous bounds in *both* directions (a spacefaring species: many will die, Earth may suffer — and survival-in-space is near-infinite positive displacement; or space kills us all). The reader's question is "how much could this move the world?", not "is it good or bad?" — rank by the magnitude of the bounds and describe the directions plainly.
+3. **Rank how far it could move the world, not whether that's good or bad.** Consequential work often could go either way (a spacefaring species: many will die, Earth may suffer — and survival-in-space is nearly unbounded upside; or space kills us all). Rank by that size. If the work is controversial, say so on the page — the letter does not encode it.
 4. **Counterfactual, not credit.** Compare the world with and without the entity; work that would have happened anyway gets the difference, not the whole.
 5. Joy, not pain-removal — pain's relationship with joy is complicated; we don't optimize for its absence.
 
@@ -34,10 +34,11 @@ the world rather than graded against Utah.
 | **F** | inert — a listing, a ceremony, a duplicate, or a claim nothing corroborates |
 | **unranked** | too thin to argue bounds from; the honest escape hatch, not a synonym for low |
 
-Three calls decide most cases. Tier is the **ceiling**, not the current quarter. **Magnitude, never
-sign** — weapons, surveillance, and extraction rank on how far they could move the world in either
-direction, and the direction goes in the prose. Enablers get only their **counterfactual difference**,
-which puts most of the `resource` shelf at `D` or `F`.
+Three calls decide most cases. Tier is the **ceiling**, not the current quarter. **How far, not
+whether that's good or bad** — weapons, surveillance, and extraction rank on how far they could
+move the world in either direction, and if that's a blessing or a disaster, the page says so.
+Enablers get only their **counterfactual difference**, which puts most of the `resource` shelf at
+`D` or `F`.
 
 **The rubric, the nine rulings, and the worked cases are in [`tiers.md`](tiers.md) — read it before
 assigning a tier.** Gems are `S` and `A`; that is how "surface all the gems" became a filter instead

@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Other
 **Primary Location:** Cedar City, UT
 **Utah Location:** southwestern Utah (11 counties)
@@ -17,9 +18,7 @@
 
 ## Summary
 
-FutureReady Utah is a no-cost workforce and economic-development collaboration serving southwestern Utah. Verified on the official site (2026-07-14): Southern Utah University, Utah Tech University, and Snow College jointly deliver short-term career training, job-seeker connections, and free business training/consulting for employers across an 11-county southwest region, with chamber and EDA support.
-
-Note: the Startup State listing describes county Targeted Outreach Coordinators statewide; the live site copy centers on southwest Utah workforce services delivered by the three colleges.
+FutureReady Utah is a no-cost workforce and economic-development collaboration serving southwestern Utah. FutureReady Utah provides a bounded benefit: Rural and southwest Utah residents, job seekers, employers, and community leaders seeking workforce training, hiring/retention support, or business consulting.
 
 ## Who It's For
 

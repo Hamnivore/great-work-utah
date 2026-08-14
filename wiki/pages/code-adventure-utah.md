@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** n/a
 **Focus:** girls coding camp, youth technology education, software engineering, cybersecurity, data analytics, UX design
 **Primary Location:** Lehi, UT
 **Utah Location:** Lehi, UT
@@ -14,7 +15,7 @@
 
 ## Summary
 
-Code Adventure is a free, hands-on summer coding camp for girls. Its public site describes a three-day program hosted in 2026 at nCino's headquarters in Lehi, with instruction from working technology mentors ([official source](code-adventure-official-website.md)).
+Code Adventure is a free, hands-on summer coding camp for girls. Code Adventure Utah provides a bounded benefit: Girls ages 13–18, including students with no prior coding experience.
 
 ## Who It's For
 

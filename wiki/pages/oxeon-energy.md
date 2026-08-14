@@ -24,9 +24,8 @@
 
 ## Summary
 
-OxEon Energy is a North Salt Lake company commercializing solid oxide electrolysis cells (SOECs) for industrial hydrogen production, synthetic fuel generation, and long-duration energy storage. Founded in 2017, the company built MOXIE — the instrument aboard NASA's Perseverance rover that produced oxygen from Martian CO2 at 99.96% purity in 2021 — and is now applying that extreme-environment electrochemistry to Earth-side clean-energy problems. DOE has backed OxEon with over $36M in grants.
 
-For the wiki, OxEon matters as a rare example of deep-tech materials science commercialization in Utah: a small company with genuine world-class IP, proven in one of the most demanding environments imaginable, now translating that capability into the hydrogen economy.
+North Salt Lake-based OxEon Energy makes solid-oxide electrolysis systems for hydrogen, synthetic fuels, energy storage, and oxygen production. Its hardware links Utah to industrial decarbonization and Mars resource systems; if deployed at scale, that capability changes more than a single product market.
 
 ## Impact
 

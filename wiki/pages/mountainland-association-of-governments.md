@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Domain:** capital-programs
 **Primary Location:** Orem, UT
@@ -19,7 +20,8 @@
 
 ## Summary
 
-Mountainland Association of Governments (MAG) serves Summit, Utah, and Wasatch counties as a regional association of governments. Verified on magutah.gov: MAG empowers communities through regional collaboration, access to funding and services, unbiased facilitation, and advocacy on local issues — including Aging & Family Services, Community & Economic Development, and Planning for Growth programs.
+
+Mountainland Association of Governments coordinates regional planning and services across Summit, Utah, and Wasatch counties. Shared planning can help local governments act together, but its counterfactual effect is regional and diffuse.
 
 ## Who It's For
 

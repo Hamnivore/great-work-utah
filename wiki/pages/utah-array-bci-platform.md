@@ -19,9 +19,7 @@
 
 ## Summary
 
-The Utah Array is a high-channel-count intracortical microelectrode array developed at the University of Utah and later commercialized through [Blackrock Neurotech](blackrock-neurotech.md). The platform records neural activity from the surface of the cortex at many simultaneous sites, which makes it possible to decode movement intent, test sensory feedback, and study long-duration human neural signals in research settings and, increasingly, in regulated medical-device paths.
-
-This page is about the research platform and its lineage, not only the company. The Utah claim is that a local invention became one of the most widely implanted intracortical BCI tools in the world and remains part of the most ambitious path from neural signal to useful action for people with paralysis and severe neurological disorders.
+The Utah Array is a high-channel-count brain implant developed at the University of Utah and commercialized through [Blackrock Neurotech](blackrock-neurotech.md). A local invention became a widely implanted research platform and a serious route from neural signals to useful action for people with paralysis.
 
 ## Impact
 

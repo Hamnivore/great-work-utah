@@ -22,17 +22,7 @@
 
 ## Summary
 
-Western Governors University is a nonprofit online university that, by its own account, was founded
-in **1997 by 19 U.S. governors** and has operated a **competency-based** model from the start
-([about page](western-governors-university-official-website.md)). WGU describes itself as
-headquartered in **Utah** ([accreditation page](wgu-accreditation.md)) and as operating in multiple
-states through **NC-SARA** reciprocity based on Utah approval.
-
-It matters to this wiki because a Utah-based institution claims to have taken competency-based
-higher education to national scale — a different bet than Utah's edtech vendors (Canvas, etc.), which
-sell tools to traditional campuses. Whether that bet produces durable social value is contested; the
-wiki records the scale claim and the model, not a brochure verdict.
-
+Western Governors University is a nonprofit online university built around competency rather than classroom time. Its nationwide scale and challenge to the credit-hour model make it structurally significant, even as federal auditors contested whether its faculty interaction met aid rules ([about](western-governors-university-official-website.md)).
 ## Impact
 
 The depth argument is pedagogical and institutional rather than technological. WGU's own materials

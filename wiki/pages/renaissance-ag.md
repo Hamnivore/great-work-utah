@@ -18,9 +18,8 @@
 
 ## Summary
 
-Renaissance Ag builds PastureBox — a fully automated, climate-controlled, 40-foot container-format hydroponic sprouting system that produces fresh sprouted-grain livestock feed from seed (typically wheat or barley). The system generates approximately 2,000 lbs per day of fresh sprouts, requiring less than 10% of the water that conventional pasture grazing or alfalfa irrigation demands per unit of feed produced. The Utah Department of Agriculture independently verified the 90%+ water reduction claim.
 
-The company is not working on novel biology — sprouted fodder is a known technique. The contribution is the engineered system: automated climate control, consistent biomass output, mold suppression, minimal operator intervention, and commercial-grade reliability in a deployable container format. By 2024 the company had dozens of commercial customer deployments with a reported order backlog.
+Renaissance Ag builds PastureBox, an automated container that sprouts grain for livestock feed. It can make fresh feed more reliable for individual farms, but only deployment at enormous scale would move agriculture broadly; current evidence supports a local bet.
 
 ## Impact
 

@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Entrepreneurship Communities, Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -18,9 +19,7 @@
 
 ## Summary
 
-Utah MEP is a statewide manufacturing-extension resource for Utah companies that want practical help improving sales, productivity, quality, compliance, employee morale, technology adoption, and production systems. Its official site frames the organization as a public/private resource network focused on helping Utah industry thrive.
-
-The federal award record puts a firmer frame around that self-description: Utah MEP is the NIST-designated Manufacturing Extension Partnership center for Utah, operated by the **University of Utah** under cooperative agreement [70NANB21H095](utah-mep-nist-cooperative-agreement.md) through 2026-09-30, with $7,362,990 federal against $10,137,235 non-federal cost share. "Public/private" is literal and statutory — 15 U.S.C. § 278k requires the center to put up at least half the cost itself — and the center is a university program rather than an independent nonprofit.
+Utah MEP is a university-based manufacturing extension center helping companies improve sales, productivity, quality, compliance, workforce, and technology adoption. Its public-private model requires the center to match at least half its federal cost, forcing services to answer real manufacturer demand.
 
 ## Who It's For
 

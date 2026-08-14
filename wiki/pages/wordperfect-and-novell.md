@@ -20,12 +20,7 @@
 
 ## Summary
 
-For roughly a decade, two of the most widely used pieces of personal-computer software on earth were built within about ten miles of each other in Utah County. WordPerfect, the dominant DOS-era word processor, came out of Orem. Novell NetWare, the network operating system that connected most office PCs before the internet era, came out of Provo.
-
-WordPerfect grew from a 1979 contract to write word-processing software for the city of Orem's Data General minicomputer. Brigham Young University computer-science professor Alan Ashton and graduate student Bruce Bastian kept the rights, formed Satellite Software International, and built it into WordPerfect Corporation (renamed 1986). Novell began in 1979 as a struggling hardware company, Novell Data Systems, and was reincorporated as Novell, Inc. in 1983 when Ray Noorda took over and refocused it on networking software. Its NetWare operating system, architected largely by a team of young BYU graduates led by Drew Major, became the standard way to link office computers.
-
-Both companies lost their markets to Microsoft in the mid-1990s, but they had already proved that category-defining software could be built and sustained in Utah.
-
+For roughly a decade, two of the most widely used pieces of personal-computer software on earth were built within about ten miles of each other in Utah County. Both companies lost their markets to Microsoft in the mid-1990s, but they had already proved that category-defining software could be built and sustained in Utah.
 ## Impact
 
 WordPerfect and Novell are the two pillars of Utah's pre-"Silicon Slopes" software identity. Together they established that Utah Valley could ship globally dominant software, train thousands of engineers and operators, and generate the wealth and talent that seeded later companies.

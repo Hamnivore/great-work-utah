@@ -153,5 +153,5 @@ companies' own income-disclosure statements, which are self-reported (see
 ## Related Pages
 
 - [Nu Skin Enterprises](nu-skin.md)
-- [Utah's Direct-Selling Industry](utah-direct-selling-industry.md)
+- [Utah's Multi-Level Marketing Industry](utah-multi-level-marketing-industry.md)
 - [Source: United States v. Nu Skin International — FTC Consent Decree (1997)](ftc-nu-skin-consent-decree-1997.md)

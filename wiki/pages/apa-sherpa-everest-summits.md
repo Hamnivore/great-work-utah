@@ -15,11 +15,7 @@
 
 ## Summary
 
-Apa Sherpa (Lhakpa Tenzing Sherpa) is a Nepalese mountaineer who **summited Mount Everest 21 times**, reaching his **21st summit in May 2011** on the Eco Everest Expedition and **retiring** afterward on a promise to his wife to stop at that number ([Wikipedia reference capture](wikipedia-apa-sherpa-reference.md)). He **first summited in 1990**; his **last summit was in 2011**.
-
-That count was a world record for most Everest ascents until **Kami Rita Sherpa broke it in 2018** with a 22nd climb ([Wikipedia reference capture](wikipedia-apa-sherpa-reference.md)). As of **May 22, 2024**, Kami Rita held the record at **30 summits**, with Pasang Dawa at **27** ([NBC/AP](nbc-kami-rita-everest-record-2024.md)). Apa's foundation site still calls him **"the greatest climber in the history of Mount Everest"** — a superlative the organization's own homepage does not quantify ([official site](apa-sherpa-foundation-official-website.md)).
-
-Per wiki placement rules, this is a **work** page about the achievement, not a biography of a Utah operator. Apa's live Utah node is the [Apa Sherpa Foundation](apa-sherpa-foundation.md).
+Apa Sherpa (Lhakpa Tenzing Sherpa) is a Nepalese mountaineer who summited Mount Everest 21 times, reaching his 21st summit in May 2011 on the Eco Everest Expedition and retiring afterward on a promise to his wife to stop at that. Twenty-one successful ascents of the world's highest peak over two decades is an extreme concentration of high-altitude work.
 
 ## Impact
 

@@ -19,9 +19,8 @@
 
 ## Summary
 
-Sethera Therapeutics is a Salt Lake City biotechnology company developing an enzymatic peptide cross-linking platform to synthesize stable polymacrocyclic peptides (pMCPs). Founded as a University of Utah spinout, the company offers partner-facing discovery capabilities — enzymatic library creation, hit identification, noncanonical building-block tuning, and modular recombination — compatible with phage, mRNA display, and DNA-encoded library screening.
 
-The thesis: peptides can hit protein-protein interactions small molecules miss, but protease instability limits clinical use. Enzymatic site-specific thioether cross-linking could generalize stabilization across sequences — if the platform works beyond proof-of-concept. No clinical candidate or IND is publicly known.
+Sethera Therapeutics is developing enzymatically cross-linked peptides designed to reach disease targets that small molecules miss. The platform could speed later drugs if the chemistry generalizes, but without a clinical candidate its impact remains a local, early-stage bet.
 
 ## Impact
 

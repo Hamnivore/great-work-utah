@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Identifiers:** cik=0001912381, ein=87-4349362
 **Primary Location:** Salt Lake City, UT
@@ -19,7 +20,6 @@
 ## Summary
 
 Workbox is a member-success-focused coworking platform with a Salt Lake City City Center location and additional markets nationwide. Beyond private offices and coworking, it offers meeting and event space and Workbox Ventures programming aimed at early-stage companies, with intentional networking and business-development programming for members.
-
 ## Who It's For
 
 Solopreneurs, remote workers, growing startups, and established companies that want flexible workspace plus a professional network — especially operators who value member mixers, industry meetups, and connection to other growing businesses.

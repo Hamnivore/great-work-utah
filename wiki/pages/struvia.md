@@ -16,20 +16,7 @@
 
 ## Summary
 
-Struvia builds AI estimating and bid-management software for general contractors: upload a set of
-plans, and the system produces a takeoff and an itemized estimate, then solicits and levels
-subcontractor bids against it. The pitch is cycle time — **two days from plans to bids** rather than
-two weeks ([official website](struvia-official-website.md)).
-
-**This company was previously named Bidi Contracting, and this page was previously filed under that
-name.** The old domain `bidicontracting.com` now redirects to `struvia.co`, and Struvia's own blog
-still bylines its CEO as "Co-founder, Bidi Contracting" — which is what establishes the two names as
-one company rather than two entries.
-
-The distinguishing technical claim is that estimates are calibrated to **a contractor's own
-subcontractors' bid history** instead of a national cost database. That is a real design difference
-from conventional takeoff software, and it is also the claim with the least evidence behind it.
-
+Struvia claims to automate construction takeoffs, estimates, and subcontractor bid comparisons from uploaded plans. That could improve contractor workflows, but the differentiating claim has the weakest evidence on the page; without corroborated use or scale, there is no impact to rank.
 ## Impact
 
 Estimating and subcontractor outreach are the coordination bottleneck for small and midsize general

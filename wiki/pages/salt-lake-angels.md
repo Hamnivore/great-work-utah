@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding
 **Primary Location:** Salt Lake City, UT
 **Utah Location:** Salt Lake City, UT
@@ -14,7 +15,8 @@
 
 ## Summary
 
-Salt Lake City Angels (SLCA) is an angel investment forum where accredited investors collectively research early-stage companies and independently choose whether to invest capital and mentorship. The official site emphasizes a broad investment thesis without geography, industry, or customer restrictions.
+
+Salt Lake City Angels is a forum where accredited investors jointly evaluate startups but make individual investment decisions. It can connect a local founder to capital and mentorship, but the network's effect remains deal-by-deal and other angel groups are substitutes.
 
 ## Who It's For
 

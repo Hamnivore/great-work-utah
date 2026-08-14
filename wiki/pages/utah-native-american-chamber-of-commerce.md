@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Identifiers:** ein=88-2734309
 **Primary Location:** Salt Lake City, UT
@@ -14,8 +15,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Utah Native American Chamber of Commerce advocates for Indigenous entrepreneurship in Utah with the tagline "Building Prosperity Through Native Entrepreneurship." Public pages emphasize advocacy, education, empowerment, and promotion of Native-owned businesses through events and a growing economic network.
-
+The Utah Native American Chamber of Commerce advocates for Indigenous entrepreneurs through education, promotion, and business networks. A culturally grounded bridge can reach owners poorly served by mainstream chambers, but the evidence supports a bounded member community rather than economy-wide change.
 ## Who It's For
 
 Native American and Indigenous entrepreneurs in Utah, plus allies and partners seeking to support Native business development and tribal economic collaboration.

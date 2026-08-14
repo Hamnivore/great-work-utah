@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Identifiers:** ein=87-0530362
 **Primary Location:** Price, UT
@@ -18,11 +19,7 @@
 
 ## Summary
 
-The Business & Technical Assistance Center (BTAC) in Price, Utah is a coworking and business-incubation facility serving southeastern Utah. Its legal entity is **Southeastern Utah Business and Technical Assistance Center Inc**, a 501(c)(3) with EIN 87-0530362, exempt since May 1996, registered at 375 South Carbon Ave in Price ([IRS Form 990 record](btac-form-990-record.md)).
-
-**The organization is operating under the Southeastern Entrepreneurial Ecosystem (SEEN) web presence.** The former `btac.business` site has returned an HTTP 500 WordPress error since somewhere between 2025-03-25 and 2025-04-06, and still did on 2026-08-11 ([archived site](btac-official-website-archive.md)). SEEN now identifies the Southeastern Utah Business & Technical Assistance Center as the organization behind the ecosystem. That successor, BTAC's 2024 Form 990-EZ, and the IRS Business Master File record for tax period 2025-12 all support continued operation ([BMF Utah extract](irs-bmf-utah-exempt-organizations.md)).
-
-Scale is small and stable — revenue of $109,245 against $109,923 of expenses in FY2023, and between roughly $23,000 and $117,000 in every year on record since 2011 ([IRS Form 990 record](btac-form-990-record.md)). Expect a modest community facility run close to the bone, not a funded accelerator.
+The Business & Technical Assistance Center (BTAC) in Price, Utah is a coworking and business-incubation facility serving southeastern Utah. Business Technical Assistance Center provides a bounded benefit: Entrepreneurs, remote workers, and small businesses in Carbon, Emery, Grand, and San Juan counties seeking coworking, incubation space, or kitchen access in the Price area.
 
 ## Who It's For
 

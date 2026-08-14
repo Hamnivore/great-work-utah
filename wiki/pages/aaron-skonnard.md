@@ -12,7 +12,7 @@
 
 ## Summary
 
-Aaron Skonnard co-founded [Pluralsight](pluralsight.md) in 2004 with Keith Brown, Fritz Onion, and Bill Williams. Pluralsight grew into one of Utah's largest SaaS companies — a developer and technology skills training platform that serves enterprise customers. The company went public on NASDAQ in 2018 and was taken private by Vista Equity Partners in 2021. Skonnard served as CEO through the public company phase; David Zucker was appointed CEO in 2023.
+Aaron Skonnard co-founded Pluralsight in 2004 with Keith Brown, Fritz Onion, and Bill Williams. Pluralsight became one of the clearest examples of a Utah company scaling a B2B SaaS product to global enterprise markets while staying headquartered in the state.
 
 ## Impact
 

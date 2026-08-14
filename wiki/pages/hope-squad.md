@@ -28,18 +28,7 @@
 
 ## Summary
 
-**Hope Squad** is a school-based **peer suicide-prevention** program founded by **Dr. Gregory A.
-Hudnall** after youth suicides in **Provo City School District**
-([mission history](hope-squad-mission-history.md)). Peer-nominated students are trained to recognize
-warning signs and refer classmates to trusted adults — explicitly **not** to act as counselors
-([official site](hope-squad-official-website.md)).
-
-The public brand operates from **5455 N River Run Dr., Provo** under the legal entity **Hope 4
-Utah** (EIN **90-0969731**, tax-exempt since **July 2014**, NTEE crisis-intervention services)
-([Form 990 record](hope-4-utah-form-990-record.md);
-[mission history](hope-squad-mission-history.md)). The organization reports Hope Squads in
-**thousands of schools across the United States and Canada**
-([mission history](hope-squad-mission-history.md)) — a **self-reported, undated adoption claim**.
+Hope Squad is a school-based peer suicide-prevention program founded by Doctor Gregory A. The Provo origin story is specific.
 
 ## Impact
 

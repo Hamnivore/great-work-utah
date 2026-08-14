@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** workforce, global talent, immigrant workforce, hiring, talent pathways
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -13,7 +14,7 @@
 
 ## Summary
 
-The Utah Center for Global Talent helps businesses understand pathways to recruit and retain global talent while supporting economic opportunity for new Americans and foreign-born individuals who follow legal immigration pathways.
+The Utah Center for Global Talent helps Utah employers recruit and retain international talent while expanding economic opportunity for new Americans. Its value is precision: it turns a vague labor shortage into concrete questions about credentials, language access, work authorization, and employer readiness.
 
 ## Impact
 

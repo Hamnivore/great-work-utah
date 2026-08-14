@@ -18,7 +18,7 @@
 
 ## Summary
 
-Acima provides lease-to-own purchasing for consumers who may not qualify for conventional credit. Retailers integrate Acima at checkout, and approved customers lease merchandise through a transaction structured by the company. Acima is part of publicly traded Upbound Group.
+Acima provides lease-to-own purchasing for consumers who may not qualify for conventional credit. Lease-to-own can give people access to necessary goods when conventional credit is unavailable, but its total cost and repayment structure can also make already expensive purchases materially more expensive.
 
 ## Impact
 

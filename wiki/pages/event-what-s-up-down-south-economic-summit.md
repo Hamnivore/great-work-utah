@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Close or Exit a Business, Entrepreneurship Communities, Funding, International Trade, Late Stage Growth, Marketing and Sales, Other, Relocate a Business to Utah, Start a Business, Taxes and Finance
 **Primary Location:** St. George, UT
 **Utah Location:** St. George, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-What's Up Down South is southern Utah's largest annual economic summit, presented with Intermountain Health and Select Health. It delivers regional economic forecasts, keynote speakers, skill-based breakout sessions, and networking for Washington County business and community leaders.
+What's Up Down South is southern Utah's largest annual economic summit, presented with Intermountain Health and Select Health. EVENT: What's Up Down South - Economic Summit provides a bounded benefit: Southern Utah business owners, executives, and community leaders — especially those planning around regional growth, tourism, utilities, and workforce trends.
 
 ## Who It's For
 

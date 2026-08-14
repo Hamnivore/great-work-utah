@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Entrepreneurship Communities
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -14,7 +15,6 @@
 ## Summary
 
 The Utah Tourism Industry Association (UTIA; utahtourism.org) is the trade voice for Utah's visitor economy. It educates and advocates for tourism businesses, publishes industry impact data, and hosts member programs including the Utah Tourism Conference in partnership with the [Utah Office of Tourism](utah-office-of-tourism.md).
-
 ## Who It's For
 
 Utah tourism operators, destination marketers, hospitality businesses, and industry partners who want advocacy, research, networking, and conference access.

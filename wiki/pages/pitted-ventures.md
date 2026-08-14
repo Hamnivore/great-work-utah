@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Low
 **Tier:** F
+**Founder-tier:** unranked
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** Sandy, UT
@@ -18,8 +19,8 @@
 
 ## Summary
 
-Pitted Ventures is listed on Startup State as a Sandy growth-capital firm for consumer brands. As of 2026-07-14 the live domain returns a hard **403 Forbidden** even in headless Chrome (not a Cloudflare interstitial). An October 2024 Wayback snapshot still shows the full site (Pitted Ventures / Labs / Logistics). Treat current operations as unverified; use email on the Startup State card and the archive for historical description only.
 
+Pitted Ventures is listed by Startup State as a Sandy growth-capital firm for consumer brands. Without a verified active site, fund size, investments, or outcomes, the listing does not support a consequential impact claim.
 
 ## Who It's For
 

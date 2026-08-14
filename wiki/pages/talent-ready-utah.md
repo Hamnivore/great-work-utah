@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** C
+**Founder-tier:** C
 **Focus:** Late Stage Growth
 **Primary Location:** Utah
 **Utah Location:** statewide
@@ -18,7 +19,6 @@
 ## Summary
 
 Talent Ready Utah, an initiative under the Utah System of Higher Education, coordinates education-industry partnerships to build Utah's workforce. The official site organizes employer, educator, and community pathways through programs such as Utah Adopt-a-School, Pathways, TRAC, and Utah Works.
-
 ## Who It's For
 
 Utah employers building talent pipelines, educators seeking industry partnerships, and students or workers entering high-demand career pathways through structured work-based learning or short-term technical training.

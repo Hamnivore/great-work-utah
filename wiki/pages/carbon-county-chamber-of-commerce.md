@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Identifiers:** ein=87-0210444
 **Primary Location:** Carbon County, UT
@@ -19,7 +20,7 @@
 
 ## Summary
 
-The Carbon County Chamber of Commerce advocates for businesses across Carbon County. Verified on the official site (2026-07-14): the chamber invites businesses to join, publishes chamber news, and lists contact phone (435) 637-2788. Carbon County Economic Development's site also names the chamber as an active partner for networking, training, and business advocacy in the county.
+The Carbon County Chamber of Commerce advocates for businesses across Carbon County. Carbon County Chamber of Commerce provides a bounded benefit: Carbon County businesses — especially Price, Helper, Wellington, and East Carbon operators — seeking local advocacy, networking, and chamber-led community promotion.
 
 ## Who It's For
 

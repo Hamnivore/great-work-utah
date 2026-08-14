@@ -23,11 +23,7 @@
 
 ## Summary
 
-Philo Taylor Farnsworth is credited as the inventor of the first fully electronic television system. He was born in Beaver, Utah, on August 19, 1906, in a household without electricity, and his family later moved to a farm near Rigby, Idaho. As a teenager he conceived the central idea of television: scanning an image line by line using an electron beam, an insight he later said was inspired by the back-and-forth rows of a plowed field. He sketched the concept for his high-school chemistry teacher, Justin Tolman, around 1922.
-
-On September 7, 1927, at age 21, working in a San Francisco laboratory, Farnsworth made the first successful all-electronic television transmission — a single straight line. He had filed his first television patent on January 7, 1927. His core camera tube, the image dissector, converted a visual image into a stream of electrical current that could be transmitted and reconstructed on a screen with no moving parts, unlike the mechanical television systems of the era.
-
-This page is honest about geography: Farnsworth's roots are Utah, but the landmark invention work happened in California and later Philadelphia.
+Philo Taylor Farnsworth is credited as the inventor of the first fully electronic television system. RCA later agreed to license Farnsworth's patents, a rare instance of RCA paying royalties rather than collecting them.
 
 ## Impact
 

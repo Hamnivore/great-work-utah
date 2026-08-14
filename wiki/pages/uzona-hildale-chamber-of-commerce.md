@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Hildale, UT
 **Utah Location:** Hildale, UT
@@ -13,8 +14,7 @@
 
 ## Summary
 
-The UZONA Chamber of Commerce serves communities along the southern Utah–northern Arizona border, including Apple Valley UT, Hildale UT, Colorado City AZ, Centennial Park AZ, Cane Beds AZ, and the Kaibab Paiute Reservation. Verified on the official site (2026-07-14): the chamber runs a business directory, chamber events (including UZONA luncheons), and membership join via Wild Apricot. Motto: "Together we prosper."
-
+The UZONA Chamber connects businesses across small communities on the Utah–Arizona border, including Hildale, Colorado City, and the Kaibab Paiute Reservation. Crossing municipal and state lines gives an isolated market one shared network, but its impact remains bounded to local members and events.
 ## Who It's For
 
 Cross-border small businesses and operators in the UZONA region seeking local networking, directory visibility, and chamber events spanning Utah and Arizona communities.

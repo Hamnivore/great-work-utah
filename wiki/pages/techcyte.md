@@ -24,10 +24,7 @@
 
 ## Summary
 
-Techcyte is an Orem, Utah company building AI-powered digital-pathology software. Its Fusion platform is a browser-based system that unifies anatomic pathology (tissue sections) and clinical pathology (blood, urine, cytology) workflows, integrates with lab systems, and layers AI on top of digitized slides. The company is led by CEO Ben Cahoon and works across human clinical labs, veterinary diagnostics, and related testing markets. [Source: Techcyte Official Website and 2026 Capital-Raise Announcement](techcyte-official-website.md)
-
-For the Great Work Utah wiki, Techcyte is a real, shipping medical-AI company operating at clinical scale from Utah County rather than a coastal AI hub.
-
+Techcyte is an Orem, Utah company building AI-powered digital-pathology software. [Source: Techcyte Official Website and 2026 Capital-Raise Announcement](techcyte-official-website.md) Techcyte is a real, shipping medical-AI company operating at clinical scale from Utah County rather than a coastal AI hub.
 ## Impact
 
 Pathology is a diagnostic bottleneck: cancer diagnoses, infection workups, and hematology all typically require a trained human at a microscope, and pathologists are scarce and unevenly distributed. Software that automates the first pass — pre-classifying cells, flagging slides, standardizing analysis across sites, and routing cases efficiently — can reduce time-to-diagnosis and extend pathology capacity to labs too small to staff a full-time specialist.

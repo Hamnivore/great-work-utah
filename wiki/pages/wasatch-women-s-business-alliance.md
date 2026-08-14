@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Marketing and Sales, Start a Business
 **Primary Location:** Wasatch County, UT
 **Utah Location:** Wasatch County, UT
@@ -13,8 +14,7 @@
 
 ## Summary
 
-Verified on the official site (2026-07-14): The Wasatch Women's Business Alliance (WWBA) supports women-owned and operated businesses in Wasatch County through networking, mastermind sessions, and peer referrals. Public announcements describe monthly meetings at the UVU Wasatch Campus and a focus on professional credibility and referral sharing among valley businesses.
-
+The Wasatch Women's Business Alliance connects women-owned and operated businesses through peer referrals, mastermind sessions, and monthly meetings. Trusted local relationships can win work and reduce founder isolation, but the documented effect remains bounded to participating Wasatch County businesses.
 ## Who It's For
 
 Women business owners and operators with a registered, licensed, or employed connection to an operating business in Wasatch County who want local peer networking and accountability groups.

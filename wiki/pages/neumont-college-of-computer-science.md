@@ -21,22 +21,8 @@
 
 ## Summary
 
-Neumont is a **small, private for-profit college in downtown Salt Lake City that teaches computer
-science and essentially nothing else**. The federal record lists **476 students, 453 of them
-undergraduates**, taught by **13 full-time and 11 part-time faculty**, at **143 South Main Street**
-([IPEDS record](neumont-ipeds-directory-record.md)). Its Carnegie classification is
-**Special Focus Four-Year: Engineering and Other Technology-Related Schools** — the category for
-institutions built around one field.
 
-It has operated **since 2003** and states that it is accredited by the **Northwest Commission on
-Colleges and Universities**, with a model built on **project-based learning** and **enterprise
-projects** done with outside companies ([official website](neumont-official-website.md)).
-
-Two things are worth flagging before anything else. It is **for-profit and Title IV-participating** —
-its students take federal loans and Pell Grants — which is a category that warrants scrutiny of
-outcomes this page does not yet have. And it **does not use one name consistently**: the federal
-record and its own contact block say "Neumont College of Computer Science", while its website's hero
-and copyright line say "Neumont University".
+Neumont is a small private for-profit college in downtown Salt Lake City devoted almost entirely to computer science ([IPEDS](neumont-ipeds-directory-record.md)). Its narrowness is the point: Utah has few degree-granting schools organized around building software for real companies rather than placing a CS major inside a broad curriculum.
 
 ## Impact
 

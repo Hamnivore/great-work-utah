@@ -4,6 +4,7 @@
 **Status:** Draft
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** F
 **Focus:** Entrepreneurship Communities, Funding, Late Stage Growth
 **Primary Location:** Heber City, UT
 **Utah Location:** Heber City, UT
@@ -17,7 +18,7 @@
 
 ## Summary
 
-The Heber Valley Chamber of Commerce promotes tourism, connects businesses, and unites the Wasatch County community. Verified on the official site (2026-07-14): members receive professional networking, promotional opportunities, economic education, and community engagement. The chamber publishes a visitor guide, newsletter signup, and event reminders via text (CHAMBER to 435-222-5008).
+The Heber Valley Chamber of Commerce promotes tourism, connects businesses, and unites the Wasatch County community. Heber Valley Chamber of Commerce provides a bounded benefit: Heber Valley and Wasatch County businesses — tourism, recreation, retail, and local services — seeking networking, promotion, and community ties alongside the valley's visitor economy.
 
 ## Who It's For
 

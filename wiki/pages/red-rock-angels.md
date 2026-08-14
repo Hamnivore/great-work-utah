@@ -4,6 +4,7 @@
 **Status:** Useful
 **Confidence:** Medium
 **Tier:** D
+**Founder-tier:** D
 **Focus:** Funding
 **Domain:** capital-programs
 **Primary Location:** St. George, UT
@@ -14,7 +15,7 @@
 
 ## Summary
 
-Red Rock Angels is a Southern Utah angel investor group based in St. George that helps startups become investor-ready and connects founders with local accredited investors. The official site also sells paid startup services including pitch-deck review, mock pitches, and fundraising strategy sessions.
+Red Rock Angels is a Southern Utah angel investor group based in Saint George that combines pitch preparation with access to accredited investors. Its distinctive value is geography: it gives founders outside the Wasatch Front a nearby funding room, though the page does not establish investment volume or outcomes.
 
 ## Who It's For
 

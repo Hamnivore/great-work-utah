@@ -1,6 +1,6 @@
 # computing — sector hub
 
-Generated from `**Domain:**` metadata (251/898 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (253/904 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
@@ -12,6 +12,7 @@ Generated from `**Domain:**` metadata (251/898 pages attributed so far — cover
 - [Coreform](/pages/coreform.md) · `https://greatutah.work/pages/coreform.md` · Orem · engineering simulation, isogeometric analysis, CAD, finite element analysis, CAE
 - [DigiCert](/pages/digicert.md) · `https://greatutah.work/pages/digicert.md` · Lehi · public-key infrastructure, certificate lifecycle management, digital trust, DNS, post-quantum secur…
 - [Domo](/pages/domo.md) · `https://greatutah.work/pages/domo.md` · American Fork · business intelligence, data analytics, applied AI, agentic BI, enterprise SaaS
+- [Entrata](/pages/entrata.md) · `https://greatutah.work/pages/entrata.md` · Lehi · property management software, multifamily, vertical SaaS, embedded payments
 - [FamilySearch](/pages/familysearch.md) · `https://greatutah.work/pages/familysearch.md` · Salt Lake City · genealogy, civilizational records, OCR, record linkage, population genetics, scientific infrastruct…
 - [Furnace](/pages/furnace-outbound.md) · `https://greatutah.work/pages/furnace-outbound.md` · St. George · outbound sales, email infrastructure, campaign operations
 - [Imagine Learning](/pages/imagine-learning.md) · `https://greatutah.work/pages/imagine-learning.md` · unknown · K-12 digital curriculum, language and literacy, English learners, courseware, edtech
@@ -71,6 +72,7 @@ Generated from `**Domain:**` metadata (251/898 pages attributed so far — cover
 - [Coreform](/pages/coreform.md) · `https://greatutah.work/pages/coreform.md`: Likely needs include computational scientists, numerical analysts, finite-element-method specialists, computational-geometry engineers, CAD-kernel developers, and application engineers who can translate solver capability into customer workflows. The team appears small and Utah-based, with an academic engineering culture where individual technical contribution is visible. *(reviewed 2026-07-14)*
 - [DigiCert](/pages/digicert.md) · `https://greatutah.work/pages/digicert.md`: DigiCert's current careers page is the durable application path for its global engineering organization. Fresh Lehi recruiting specifically sought senior and principal site-reliability engineers working across AWS, Kubernetes/EKS, Terraform, automation, platform reliability, and incident-resilient infrastructure. The durable Utah fit is therefore software, cloud-platform, SRE, security engineerin… *(reviewed 2026-08-11)*
 - [Domo](/pages/domo.md) · `https://greatutah.work/pages/domo.md`: Likely needs include data engineers, ML engineers building LLM-grounding pipelines, frontend engineers on analytics UI, and product managers with BI domain expertise. Domo is a public-company environment with a mid-market customer base — a reasonable fit for engineers who want applied LLM integration in a shipped product rather than a research demo. *(reviewed 2026-08-11)*
+- [Entrata](/pages/entrata.md) · `https://greatutah.work/pages/entrata.md`: The S-1/A does not list current openings or role families. As of March 31, 2026 the company had **2,198** employees (**1,169** in the United States) per that filing — a going concern, not a hiring manifesto. The durable application path is the careers page at https://www.entrata.com/careers. *(reviewed 2026-08-16)*
 - [FamilySearch](/pages/familysearch.md) · `https://greatutah.work/pages/familysearch.md`: Church Employment hiring tagged FamilySearch spans software development and SDET (Lehi), program and product engagement management, writing/communications and events roles, center-support management, and Utah-based image/metadata quality-control internships. Broader ongoing fit remains software and ML engineers who want hard OCR, record linkage, and large-scale data infrastructure with mission ra… *(reviewed 2026-07-14)*
 - [Furnace](/pages/furnace-outbound.md) · `https://greatutah.work/pages/furnace-outbound.md`: Furnace is actively soliciting customers and offers a free outbound consultation. No current public jobs page was found. *(reviewed 2026-08-11)*
 - [Imagine Learning](/pages/imagine-learning.md) · `https://greatutah.work/pages/imagine-learning.md`: The careers page describes a remote-friendly, hybrid workforce hiring across curriculum, engineering, sales, and instructional services nationally ([careers page](/pages/imagine-learning-careers-page.md)). Specific Utah-based openings were not captured. *(reviewed 2026-08-11)*
@@ -99,6 +101,7 @@ Generated from `**Domain:**` metadata (251/898 pages attributed so far — cover
 ## Also relevant (primary elsewhere)
 
 - [Acima](/pages/acima.md) · `https://greatutah.work/pages/acima.md` — primary: capital-programs
+- [FireFly Automatix](/pages/firefly-automatix.md) · `https://greatutah.work/pages/firefly-automatix.md` — primary: materials-mfg
 - [Halda](/pages/halda.md) · `https://greatutah.work/pages/halda.md` — primary: culture-place
 - [Harvey Fletcher and Stereophonic Sound](/pages/harvey-fletcher-stereophonic-sound.md) · `https://greatutah.work/pages/harvey-fletcher-stereophonic-sound.md` — primary: culture-place
 - [KEVA Locks](/pages/keva-locks.md) · `https://greatutah.work/pages/keva-locks.md` — primary: materials-mfg

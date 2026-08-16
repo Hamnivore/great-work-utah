@@ -1,6 +1,6 @@
 # By Utah location
 
-Generated from `**Region:**` metadata (485 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
+Generated from `**Region:**` metadata (487 pages with a region). Sector hubs still require `**Domain:**`; geography does not.
 
 ## American Fork
 
@@ -190,6 +190,7 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 - [Clozd](/pages/clozd.md) · `https://greatutah.work/pages/clozd.md` · computing, capital-programs
 - [Code Adventure Utah](/pages/code-adventure-utah.md) · `https://greatutah.work/pages/code-adventure-utah.md` · computing, culture-place
 - [DigiCert](/pages/digicert.md) · `https://greatutah.work/pages/digicert.md` · computing
+- [Entrata](/pages/entrata.md) · `https://greatutah.work/pages/entrata.md` · computing
 - [Halia Therapeutics](/pages/halia-therapeutics.md) · `https://greatutah.work/pages/halia-therapeutics.md` · health-bio
 - [Interval AI](/pages/interval-ai.md) · `https://greatutah.work/pages/interval-ai.md` · computing
 - [JobNimbus](/pages/jobnimbus.md) · `https://greatutah.work/pages/jobnimbus.md` · computing
@@ -407,6 +408,7 @@ Generated from `**Region:**` metadata (485 pages with a region). Sector hubs sti
 - [Evans & Sutherland](/pages/evans-and-sutherland.md) · `https://greatutah.work/pages/evans-and-sutherland.md` · work
 - [Evolution Bio](/pages/evolution-bio.md) · `https://greatutah.work/pages/evolution-bio.md` · health-bio
 - [FamilySearch](/pages/familysearch.md) · `https://greatutah.work/pages/familysearch.md` · computing
+- [FireFly Automatix](/pages/firefly-automatix.md) · `https://greatutah.work/pages/firefly-automatix.md` · materials-mfg, computing
 - [Florian Solzbacher](/pages/florian-solzbacher.md) · `https://greatutah.work/pages/florian-solzbacher.md` · person
 - [Fourth Street Clinic](/pages/fourth-street-clinic.md) · `https://greatutah.work/pages/fourth-street-clinic.md` · health-bio
 - [Globus Relief](/pages/globus-relief.md) · `https://greatutah.work/pages/globus-relief.md` · health-bio

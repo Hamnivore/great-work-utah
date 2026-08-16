@@ -233,7 +233,7 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
 - **[WordPerfect and Novell](/pages/wordperfect-and-novell.md)** (2011) · `https://greatutah.work/pages/wordperfect-and-novell.md`
   For roughly a decade, two of the most widely used pieces of personal-computer software on earth were built within about ten miles of each other in Utah County. Both companies lost their markets to Microsoft in the mid-1990s, but they had already proved that category-defining software could be built and sustained in Utah.
 
-## C — substantive and replaceable (110)
+## C — substantive and replaceable (112)
 
 - **[Apa Sherpa's Everest Summits](/pages/apa-sherpa-everest-summits.md)** (2011) · `https://greatutah.work/pages/apa-sherpa-everest-summits.md` \*
   Apa Sherpa (Lhakpa Tenzing Sherpa) is a Nepalese mountaineer who summited Mount Everest 21 times, reaching his 21st summit in May 2011 on the Eco Everest Expedition and retiring afterward on a promise to his wife to stop at that. Twenty-one successful ascents of the world's highest peak over two decades is an extreme concentration of high-altitude work.
@@ -295,12 +295,16 @@ Greyed-out entries are not active. [What (active) means](../meta/activity.md) ·
   Domo is a cloud-native business intelligence and data integration platform headquartered in American Fork, Utah. Most mid-market and large companies run on a patchwork of SaaS tools whose data does not join cleanly.
 - **[EnduraCure](/pages/enduracure.md)** (active) · `https://greatutah.work/pages/enduracure.md`
   EnduraCure is a Salt Lake City startup spun out of Doctor Chen Wang's lab in the Department of Materials Science and Engineering at the University of Utah, founded around 2024. EnduraCure provides a bounded benefit: Global e-waste is growing faster than the overall economy.
+- **[Entrata](/pages/entrata.md)** (active) · `https://greatutah.work/pages/entrata.md`
+  Entrata is Lehi’s property-management OS: 2.5 million units, profitable at filing, Silver Lake–controlled, with a June 2026 S-1/A for NYSE:ENT that still has no price. The scale is real; so are Yardi, RealPage, and AppFolio.
 - **[Epic Ventures](/pages/epic-ventures.md)** (active) · `https://greatutah.work/pages/epic-ventures.md`
   EPIC Ventures is a Salt Lake City venture capital firm founded in 1994 that invests in early-stage technology companies. Early-stage technology founders in SaaS, healthcare, biotech, security, fintech, and future-of-work sectors seeking a long-running Utah VC.
 - **[Epitel](/pages/epitel.md)** (active) · `https://greatutah.work/pages/epitel.md`
   Epitel is a Salt Lake City company developing REMI, a wireless remote EEG monitoring system for healthcare-facility and ambulatory settings. Epilepsy diagnosis and treatment depend on recording seizures on EEG, but seizures are episodic.
 - **[Evolution Bio](/pages/evolution-bio.md)** · `https://greatutah.work/pages/evolution-bio.md`
   Evolution Bio is a Salt Lake City biotechnology company, founded circa 2022, built around directed protein evolution for drug discovery — especially G-protein coupled receptors (GPCRs). GPCRs are the highest-value target class in pharmacology — roughly a third of approved drugs act on them — and among the hardest to engineer.
+- **[FireFly Automatix](/pages/firefly-automatix.md)** · `https://greatutah.work/pages/firefly-automatix.md`
+  Salt Lake City maker of autonomous turf harvesters and electric robotic mowers. It filed in 2025 to list on Nasdaq as FFLY, then withdrew that registration in March 2026. The withdrawal is a decision not to complete the offering, not evidence the company shut down.
 - **[Fred Lampropoulos](/pages/fred-lampropoulos.md)** (2026) · `https://greatutah.work/pages/fred-lampropoulos.md`
   Fred Lampropoulos is the founder of Merit Medical Systems, a South Jordan, Utah company that designs and manufactures disposable interventional devices — catheters, micro-access kits, embolization devices, ablation tools. Lampropoulos built Merit Medical during the same era that minimally invasive medicine — catheter-based cardiac procedures, image-guided biopsies, endovascular interventions.
 - **[Globus Relief](/pages/globus-relief.md)** (active) · `https://greatutah.work/pages/globus-relief.md`

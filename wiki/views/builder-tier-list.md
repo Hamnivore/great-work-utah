@@ -67,7 +67,7 @@ The discovery signal is disagreement with [demonstrated impact](tier-list.md): a
 - **[Wavetronix](/pages/wavetronix.md)** (active) · `https://greatutah.work/pages/wavetronix.md` · builder:A · impact:C · gap:+2
   Decades of designing, manufacturing, and supporting radar traffic sensors from Utah reveal exceptional niche mastery, standards, and quiet institutional stewardship.
 
-## Complete builder ladder (485)
+## Complete builder ladder (487)
 
 ### S — extraordinary builders (24)
 
@@ -279,7 +279,7 @@ The discovery signal is disagreement with [demonstrated impact](tier-list.md): a
 - **[Zanskar Geothermal](/pages/zanskar-geothermal.md)** (active) · `https://greatutah.work/pages/zanskar-geothermal.md` · builder:A · impact:A
   Combining geoscience, data, and field exploration to find overlooked geothermal resources shows exceptionally clear chosen leverage and repeated reality-tested execution.
 
-### B — real builder signal (212)
+### B — real builder signal (214)
 
 - **[309th Software Engineering Group](/pages/309th-software-engineering-group.md)** (active) · `https://greatutah.work/pages/309th-software-engineering-group.md` · builder:B · impact:A
   Maintaining mission software across fighter and deterrent fleets shows unusual technical stewardship and responsibility, but the page reveals an institutional capability more clearly than the agency or convictions of particular builders.
@@ -353,12 +353,16 @@ The discovery signal is disagreement with [demonstrated impact](tier-list.md): a
   Decades of maintaining complex uranium and rare-earth processing capability reveal formidable industrial execution, independent of the operation's contested effects.
 - **[EnergySolutions](/pages/energy-solutions.md)** (active) · `https://greatutah.work/pages/energy-solutions.md` · builder:B · impact:B
   Building and operating regulated nuclear-waste logistics and disposal infrastructure shows unusual institutional endurance, process discipline, and operational ownership.
+- **[Entrata](/pages/entrata.md)** (active) · `https://greatutah.work/pages/entrata.md` · builder:B · impact:C
+  Entrata is Lehi’s property-management OS: 2.5 million units, profitable at filing, Silver Lake–controlled, with a June 2026 S-1/A for NYSE:ENT that still has no price.
 - **[Epic Ventures](/pages/epic-ventures.md)** (active) · `https://greatutah.work/pages/epic-ventures.md` · builder:B · impact:C
   More than three decades of early-stage technology investing demonstrates unusual endurance and stewardship, even though the firm's specific investing craft is thinly described.
 - **[EVENT: Utah Tech Week](/pages/event-utah-tech-week.md)** (active) · `https://greatutah.work/pages/event-utah-tech-week.md` · builder:B · impact:D
   A decentralized week that lets the community create and host its own gatherings shows generous institutional design and distributed agency beyond a conventional conference.
 - **[Evolution Bio](/pages/evolution-bio.md)** · `https://greatutah.work/pages/evolution-bio.md` · builder:B · impact:C
   A specific synthetic-biology approach carried into therapeutic development shows real scientific ownership, though the page does not yet reveal repeated execution deeply.
+- **[FireFly Automatix](/pages/firefly-automatix.md)** · `https://greatutah.work/pages/firefly-automatix.md` · builder:B · impact:C
+  Salt Lake City maker of autonomous turf harvesters and electric robotic mowers.
 - **[Fortem Technologies](/pages/fortem-technologies.md)** (active) · `https://greatutah.work/pages/fortem-technologies.md` · builder:B · impact:B
   Combining radar, autonomy, and net-capture interceptors into deployed counter-drone systems shows integrated hardware craft and field-oriented execution.
 - **[Fourth Street Clinic](/pages/fourth-street-clinic.md)** (active) · `https://greatutah.work/pages/fourth-street-clinic.md` · builder:B · impact:D

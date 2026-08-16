@@ -1,10 +1,10 @@
 # By stage
 
-Generated from `**Stage:**` metadata (147 pages). The grouping key is derived from the free-text value at build time; the original text follows each entry.
+Generated from `**Stage:**` metadata (149 pages). The grouping key is derived from the free-text value at build time; the original text follows each entry.
 
 > **These groupings are not yet evidence.** `**Stage:**` is asserted in page metadata and no
 > source page backs it, so a line here is a claim the wiki has not checked — unlike Domain or
-> Region, which describe placement rather than fact. 147 pages carry it. Treat this view as an
+> Region, which describe placement rather than fact. 149 pages carry it. Treat this view as an
 > index to verify from, not a finding. The author's own wording is printed beside each entry.
 
 ## acquired (12)
@@ -145,13 +145,15 @@ Generated from `**Stage:**` metadata (147 pages). The grouping key is derived fr
 - [Williams International](/pages/williams-international.md) · `https://greatutah.work/pages/williams-international.md` · Established; privately held since 1955; Ogden, UT site operating since 1978 and expanding
 - [Zanskar Geothermal](/pages/zanskar-geothermal.md) · `https://greatutah.work/pages/zanskar-geothermal.md` · Series B (Salt Lake City, UT)
 
-## public (19)
+## public (21)
 
 - [Adobe](/pages/adobe.md) · `https://greatutah.work/pages/adobe.md` · Public (NASDAQ: ADBE); global; major Utah hub
 - [CompHealth](/pages/comphealth.md) · `https://greatutah.work/pages/comphealth.md` · Private; brand of CHG Healthcare (CHG Management, Inc.) — parent filed a withdrawn 2006 IPO (S-1)
 - [Domo](/pages/domo.md) · `https://greatutah.work/pages/domo.md` · Public (NASDAQ: DOMO)
 - [Energy Fuels / White Mesa](/pages/energy-fuels-white-mesa.md) · `https://greatutah.work/pages/energy-fuels-white-mesa.md` · Public company / operating industrial asset
+- [Entrata](/pages/entrata.md) · `https://greatutah.work/pages/entrata.md` · Private; Form S-1/A filed 2026-06-11 for NYSE:ENT — registration not effective as of 2026-08-16 (no price, no…
 - [Fervo Energy](/pages/fervo-energy.md) · `https://greatutah.work/pages/fervo-energy.md` · Public (Nasdaq: FRVO) — IPO priced at $27.00/share, final prospectus filed 2026-05-14
+- [FireFly Automatix](/pages/firefly-automatix.md) · `https://greatutah.work/pages/firefly-automatix.md` · Private; Nasdaq:FFLY IPO withdrawn via Form RW 2026-03-16
 - [Health Catalyst](/pages/health-catalyst.md) · `https://greatutah.work/pages/health-catalyst.md` · Public (NASDAQ: HCAT); founded 2008; Salt Lake City HQ
 - [Hexcel Corporation](/pages/hexcel.md) · `https://greatutah.work/pages/hexcel.md` · Public industrial company
 - [L3Harris Salt Lake City](/pages/l3harris-salt-lake.md) · `https://greatutah.work/pages/l3harris-salt-lake.md` · Established; major public defense prime (NYSE: LHX)

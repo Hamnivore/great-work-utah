@@ -1,4 +1,4 @@
-# venture — 173 pages
+# venture — 175 pages
 
 Companies, labs, spinouts, and initiatives doing serious work. One line per page; fetch the page for detail and evidence.
 
@@ -92,6 +92,8 @@ Companies, labs, spinouts, and initiatives doing serious work. One line per page
   needs: Hiring spans mill-site chemistry, lab, and operations roles at White Mesa alongside corporate functions in Lakewood, CO. Broader fit still includes chemical-process engineers, metallurgists, radiation-safety specialists, environmental-compliance experts, community-relations lead…
 - [EnergySolutions](/pages/energy-solutions.md) (active) · `https://greatutah.work/pages/energy-solutions.md` · nuclear waste management, radioactive waste disposal, decommissioning, environmental services · tier:B · conf:M
   needs: Nuclear engineers, environmental compliance specialists, health physicists, operations managers, transportation logistics staff, and regulatory affairs professionals. Cleared positions for DOE-site work are common.
+- [Entrata](/pages/entrata.md) (active) · `https://greatutah.work/pages/entrata.md` · property management software, multifamily, vertical SaaS, embedded payments · tier:C · conf:H
+  needs: The S-1/A does not list current openings or role families. As of March 31, 2026 the company had **2,198** employees (**1,169** in the United States) per that filing — a going concern, not a hiring manifesto. The durable application path is the careers page at https://www.entrata…
 - [Epitel](/pages/epitel.md) (active) · `https://greatutah.work/pages/epitel.md` · ambulatory EEG, epilepsy monitoring, wearable medtech, AI-assisted neurology, remote patient monitoring · tier:C · conf:M
   needs: Likely needs include biomedical and electrical engineers, signal-processing and machine-learning engineers for seizure detection, regulatory affairs specialists, clinical-study operations staff, reimbursement and payer-strategy operators, and field clinical trainers. The company…
 - [Evolution Bio](/pages/evolution-bio.md) · `https://greatutah.work/pages/evolution-bio.md` · directed evolution, GPCR engineering, protein engineering, drug-discovery platform, mammalian cell screening · tier:C · conf:L
@@ -100,6 +102,8 @@ Companies, labs, spinouts, and initiatives doing serious work. One line per page
   needs: Church Employment hiring tagged FamilySearch spans software development and SDET (Lehi), program and product engagement management, writing/communications and events roles, center-support management, and Utah-based image/metadata quality-control internships. Broader ongoing fit …
 - [Fervo Energy](/pages/fervo-energy.md) (active) · `https://greatutah.work/pages/fervo-energy.md` · geothermal energy, grid infrastructure, climate, drilling · tier:A · conf:M
   needs: Fervo employed 199 full-time and part-time employees as of December 31, 2025 ([prospectus](/pages/fervo-energy-ipo-prospectus-2026.md)) — a small company building a very large plant, which is the shape of the hiring pressure. Needs span plant and field engineering (power, electr…
+- [FireFly Automatix](/pages/firefly-automatix.md) · `https://greatutah.work/pages/firefly-automatix.md` · autonomous mowers, turf equipment, agricultural robotics, electric machinery · tier:C · conf:H
+  needs: The 2025 registration does not itemize live roles. It is a snapshot of a manufacturing company that expected to hire as it grew, not a current requisition list, and it should not be read as one. No general careers landing page was confirmed: `https://fireflyautomatix.com/careers…
 - [Fortem Technologies](/pages/fortem-technologies.md) (active) · `https://greatutah.work/pages/fortem-technologies.md` · counter-UAS, radar, autonomous systems, defense, critical infrastructure · tier:B · conf:M
   needs: Hiring centers on radar systems and RF engineering, systems data and automation, product management, production engineering and technicians, QA, and shipping/logistics — mostly on-site in Lindon. Broader fit still includes embedded systems, guidance/controls, autonomy, manufactu…
 - [Furnace](/pages/furnace-outbound.md) (active) · `https://greatutah.work/pages/furnace-outbound.md` · outbound sales, email infrastructure, campaign operations · tier:D · conf:M

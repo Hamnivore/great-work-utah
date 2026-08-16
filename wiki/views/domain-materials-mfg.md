@@ -1,10 +1,11 @@
 # materials-mfg — sector hub
 
-Generated from `**Domain:**` metadata (251/898 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (253/904 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
 - [Araknitek](/pages/araknitek.md) · `https://greatutah.work/pages/araknitek.md` · Logan · synthetic spider silk, recombinant proteins, biomaterials, adhesives, university spinout
+- [FireFly Automatix](/pages/firefly-automatix.md) · `https://greatutah.work/pages/firefly-automatix.md` · Salt Lake City · autonomous mowers, turf equipment, agricultural robotics, electric machinery
 - [KEVA Locks](/pages/keva-locks.md) · `https://greatutah.work/pages/keva-locks.md` · Logan · smart locks, rental access, property operations
 - [Nielson Scientific](/pages/nielson-scientific.md) · `https://greatutah.work/pages/nielson-scientific.md` · Provo · 3D microfabrication, laser nano-ablation, superconducting flex cables, terahertz filters, cryogenic…
 - [Orbit Irrigation Products](/pages/orbit-irrigation-products.md) · `https://greatutah.work/pages/orbit-irrigation-products.md` · Davis County · residential irrigation, smart watering, sprinklers, drip irrigation, water conservation, B-hyve
@@ -22,6 +23,7 @@ Generated from `**Domain:**` metadata (251/898 pages attributed so far — cover
 ## Who they need right now
 
 - [Araknitek](/pages/araknitek.md) · `https://greatutah.work/pages/araknitek.md`: Nothing verifiable — there is no evidence of an operating company to join. A reader drawn to this work should look instead to Utah State's ongoing program: the Lewis lab and USU's Innovation Campus bioproducts scale-up facility are where the science and the manufacturing capacity now live. *(reviewed 2026-08-13)*
+- [FireFly Automatix](/pages/firefly-automatix.md) · `https://greatutah.work/pages/firefly-automatix.md`: The 2025 registration does not itemize live roles. It is a snapshot of a manufacturing company that expected to hire as it grew, not a current requisition list, and it should not be read as one. No general careers landing page was confirmed: `https://fireflyautomatix.com/careers` returned 404 on 2026-08-16. This page does not scrape a JavaScript job board into a list of postings. Anyone looking f… *(reviewed 2026-08-16)*
 - [KEVA Locks](/pages/keva-locks.md) · `https://greatutah.work/pages/keva-locks.md`: The company is soliciting property managers for early access and product demonstrations. No current public jobs page was found. *(reviewed 2026-08-11)*
 - [Nielson Scientific](/pages/nielson-scientific.md) · `https://greatutah.work/pages/nielson-scientific.md`: Hiring is production and engineering, on-site in Provo, through the company's own jobs page and careers@nielsonscientific.com. The durable emphasis is microfabrication and ablation production technicians working to IPC standards and digital work instructions, and electrical and mechanical engineers who can carry a process from a federal deliverable into repeatable manufacture. The structural need… *(reviewed 2026-08-13)*
 - [Orbit Irrigation Products](/pages/orbit-irrigation-products.md) · `https://greatutah.work/pages/orbit-irrigation-products.md`: The 2018 article notes tight Utah labor markets for local manufacturing hires ([Utah Business, 2018](/pages/utah-business-orbit-product-lifecycle-2018.md)). Current open roles were not captured; Husqvarna's careers portal would be the live board. *(reviewed 2026-08-11)*

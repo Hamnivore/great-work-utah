@@ -1,6 +1,6 @@
 # space-science — sector hub
 
-Generated from `**Domain:**` metadata (251/898 pages attributed so far — coverage grows with the attribution rollout).
+Generated from `**Domain:**` metadata (253/904 pages attributed so far — coverage grows with the attribution rollout).
 
 ## Players
 
